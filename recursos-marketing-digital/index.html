@@ -34,6 +34,13 @@
               },
              "paging":   false
           });
+         
+         $('ul').on('click', 'a', function() {
+             tabla
+                 .columns(4)
+                 .search($(this).text())
+                 .draw();;
+         });
 
           $('#listado tbody').on('click', 'td', function() {
               var data = tabla.row(this).data();
@@ -62,7 +69,17 @@
                <div class="container clearfix">
                   <h2 class="divcenter bottommargin font-body" style="max-width: 700px; font-size: 40px;">Recursos para marketing digital</h2>
                   <p class="lead divcenter bottommargin" style="max-width: 800px;">Utiliza la tabla para encontrar los mejores recursos. <br/>Están clasificados por categorías. </p>
-                              
+                  
+                                 <ul>
+                                  <li class="btn"><a href="#" class="all">Todo</a></li>
+                                  <li class="btn"><a href="#">Análisis dominio</a></li>
+                                  <li class="btn"><a href="#">Posicionamiento</a></li>
+                                  <li class="btn"><a href="#">Etiquetado semántico</a></li>
+                                  <li class="btn"><a href="#">Sitemaps</a></li>
+                                  <li class="btn"><a href="#">Etiquetas</a></li>
+                                  <li class="btn"><a href="#">Enlazado</a></li>
+                                </ul>
+                  
                   <table id="listado" class="display" style="width:100%">
                      <thead>
                         <tr>
