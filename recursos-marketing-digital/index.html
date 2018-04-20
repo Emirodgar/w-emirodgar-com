@@ -35,7 +35,7 @@
              "paging":   false
           });
          
-         $('#filtro').on('click', 'a', function() {
+         $('#filtro').on('click', 'a', function(e) {
             e.preventDefault(); 
             tabla
                  .columns(4)
@@ -43,7 +43,7 @@
                  .draw();
          });
          
-         $('#filtro').on('click', 'a.all', function() {
+         $('#filtro').on('click', 'a.all', function(e) {
             e.preventDefault();
             tabla
               .search('')
