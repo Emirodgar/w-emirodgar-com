@@ -25,7 +25,10 @@
       <script>
       $(document).ready(function() {
           var tabla = $('#listado').DataTable( {
-              "ajax": 'recursos.json'
+              "ajax": 'recursos.json',
+              "language": {
+                  "url": "//cdn.datatables.net/plug-ins/1.10.16/i18n/Spanish.json"
+              }
           } );
          
          $('#listado tbody').on('click', 'tr', function () {
