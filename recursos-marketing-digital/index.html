@@ -29,17 +29,12 @@
               "language": {
                   "url": "//cdn.datatables.net/plug-ins/1.10.16/i18n/Spanish.json"
               },
-             "aoColumns": [
-               { "mData": "Title"},
-               { "mData": "Notes" },
-                { "mData": "Notes" },
-                { "mData": "Notes" },
-                { "mData": "Notes" },
-               { "mData": "Link",
-                 "mRender": function ( data, type, full )
-                 {return '<a href="'+data+'" target="_blank">Here</a>';}
-               }
-             ]
+             "columnDefs": [ {
+                "targets": 5,
+                "data": "download_link",
+                "render": function ( data, type, full, meta ) {
+                  return '<a href="'+data+'">Enlace</a>';
+                }
              
           } );
          
