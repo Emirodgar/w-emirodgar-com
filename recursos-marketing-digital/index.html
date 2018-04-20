@@ -24,29 +24,24 @@
       <script src="https://cdn.datatables.net/responsive/2.1.0/js/dataTables.responsive.min.js"></script>
       <script>
       $(document).ready(function() {
-          var tabla = $('#listado').DataTable( {
-              "ajax": 'recursos.json',
+          var tabla = $('#listado').DataTable({
+              "ajax": {
+                  "url": "https://emirodgar.com/recursos-marketing-digital/recursos.json",
+                  "dataType": "json"
+              },
               "language": {
                   "url": "//cdn.datatables.net/plug-ins/1.10.16/i18n/Spanish.json"
-              },
-             "columns": [
-               { 
-                  "data": "enlace",
-                  "render": function(data, type, row, meta){
-                     if(type === 'display'){
-                         data = '<a href="' + data + '">' + data + '</a>';
-                     }
+              }
+          });
 
-                     return data;
-                  }
-               } 
-            ]
-             
-          } );
-         
-  
-         
-      } );
+          $('#listado tbody').on('click', 'td', function() {
+              var data = tabla.row(this).data();
+              var el = $(this).html();
+              if (el.search('http') !== -1) {
+                  window.open(el);
+              }
+          });
+      });
       </script>
       
    </head>
