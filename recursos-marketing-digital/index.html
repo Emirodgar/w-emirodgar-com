@@ -29,12 +29,18 @@
               "language": {
                   "url": "//cdn.datatables.net/plug-ins/1.10.16/i18n/Spanish.json"
               },
-             "columnDefs": [ {
-                "targets": 5,
-                "data": "download_link",
-                "render": function ( data, type, full, meta ) {
-                  return '<a href="'+data+'">Enlace</a>';
-                }
+             "columns": [
+               { 
+                  "data": "enlace",
+                  "render": function(data, type, row, meta){
+                     if(type === 'display'){
+                         data = '<a href="' + data + '">' + data + '</a>';
+                     }
+
+                     return data;
+                  }
+               } 
+            ]
              
           } );
          
