@@ -703,6 +703,512 @@
       "Gratis",
       "Mobile",
       "https://developers.google.com/web/progressive-web-apps/checklist"
+    ],
+	[
+      "Google Analytics",
+      "Plataforma de analítica web",
+      "Web",
+      "Gratis",
+      "Analítica",
+      "https://analytics.google.com/analytics/web/"
+    ],
+	[
+      "Google Tag Assistant",
+      "Para revisar implementaciones de Analytics",
+      "Chrome plugin",
+      "Gratis",
+      "Analítica",
+      "https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk"
+    ],
+	[
+      "Google Analytics Debugger",
+      "Debug de las instalaciones de Analytics",
+      "Chrome plugin",
+      "Gratis",
+      "Analítica",
+      "https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna"
+    ],
+	[
+      "GA Management Magic",
+      "Para hacer cambios masivos entre cuentas de Analytics",
+      "Chrome plugin",
+      "Gratis",
+      "Analítica",
+      "https://chrome.google.com/webstore/detail/ga-management-magic/clmbnkmolchgmhnkbcjbadnnhekdigdo"
+    ],
+	[
+      "Edit this cookie",
+      "Editamos cookies al vuelo (probar configuraciones de web)",
+      "Chrome plugin",
+      "Gratis",
+      "Analítica",
+      "https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en-US"
+    ],
+	[
+      "Offline conversion tracker",
+      "Registra conversiones offline y las integra con CRM/Analytics",
+      "Web",
+      "Gratis",
+      "Analítica",
+      "https://whitespark.ca/offline-conversion-tracker/"
+    ],
+	[
+      "Referrer spam blocker",
+      "Códigos para bloquear el spam-referrer",
+      "Escritorio",
+      "Gratis",
+      "Analítica",
+      "https://github.com/Stevie-Ray/referrer-spam-blocker"
+    ],
+	[
+      "Google Tag Manager",
+      "Plataforma de gestión de tags (códigos)",
+      "Web",
+      "Gratis",
+      "Analítica",
+      "https://tagmanager.google.com"
+    ],
+	[
+      "Injector",
+      "Permite insertar código a la página según carga",
+      "Chrome plugin",
+      "Gratis",
+      "Analítica",
+      "https://chrome.google.com/webstore/detail/injector/bfdonckegflhbiamlmidciapolfccmmb?hl=en-US"
+    ],
+	[
+      "Tag Manager Injector",
+      "Inserta código de GTM al vuelo en una página para poder probarlo",
+      "Chrome plugin",
+      "Gratis",
+      "Analítica",
+      "https://chrome.google.com/webstore/detail/tag-manager-injector/ooninanccdmjbcmghimhdfpeklpmlllg?hl=en-US"
+    ],
+	[
+      "Facebook Pixel Helper",
+      "Para comprobar el estado del pixel de Facebook",
+      "Chrome plugin",
+      "Gratis",
+      "Analítica",
+      "https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en"
+    ],
+	[
+      "Smartlook",
+      "Captura movimientos de la gente en nuestra web en vídeo / Mapas de calor",
+      "Web",
+      "Gratis/Pago",
+      "Analítica",
+      "https://www.smartlook.com"
+    ],
+	[
+      "Hotjar",
+      "Captura movimientos de la gente en nuestra web en vídeo / Mapas de calor",
+      "Web",
+      "Gratis/Pago",
+      "Analítica",
+      "https://www.hotjar.com/"
+    ],
+	[
+      "Unbounce",
+      "Herramienta para crear landings y hacer test A/B",
+      "Web",
+      "Pago",
+      "Contenido",
+      "https://unbounce.com/es/"
+    ],
+	[
+      "CrazyEgg",
+      "Herramienta para test A/B y mapas de calor",
+      "Web",
+      "Gratis/Pago",
+      "Analítica",
+      "https://www.crazyegg.com"
+    ],
+	[
+      "LandBot",
+      "Convierte una web en una conversación con bot",
+      "Web",
+      "Gratis/Pago",
+      "Contenido",
+      "https://landbot.io"
+    ],
+	[
+      "Lawsofux",
+      "Aspectos importantes de usabilida a tener en cuenta",
+      "Tutorial",
+      "Gratis",
+      "Análisis",
+      "https://lawsofux.com"
+    ],
+	[
+      "Data Studio",
+      "Para visualizar información de forma interactiva",
+      "Web",
+      "Gratis",
+      "Big Data",
+      "https://datastudio.google.com"
+    ],
+	[
+      "Cygwin",
+      "Análisis de logs",
+      "Escritorio",
+      "Gratis",
+      "Big Data",
+      "http://www.cygwin.com"
+    ],
+	[
+      "Facets",
+      "Para visualizar grandes datasets",
+      "Escritorio",
+      "Gratis",
+      "Big Data",
+      "https://pair-code.github.io/facets/"
+    ],
+	[
+      "Superset",
+      "Aspectos importantes de usabilida a tener en cuenta",
+      "Escritorio",
+      "Gratis",
+      "Big Data",
+      "https://github.com/apache/incubator-superset"
+    ],
+	[
+      "D3.js",
+      "Librería open source para gráficas",
+      "Web",
+      "Gratis",
+      "Big Data",
+      "https://d3js.org"
+    ],
+	[
+      "Tone Analyzer",
+      "Analiza el tono de un contenido",
+      "Web",
+      "Gratis",
+      "Big Data",
+      "https://tone-analyzer-demo.ng.bluemix.net"
+    ],
+	[
+      "Zapier",
+      "Automatiar flujos de trabajo entre aplicaciones",
+      "Web",
+      "Gratis",
+      "Big Data",
+      "https://zapier.com"
+    ],
+	[
+      "IFTTT",
+      "Automatiar flujos de trabajo entre aplicaciones",
+      "Web",
+      "Gratis",
+      "Big Data",
+      "https://ifttt.com"
+    ],
+	[
+      "Supermetrics",
+      "Integrar múltiples fuentes en Google Sheets",
+      "Chrome plugin",
+      "Gratis/Pago",
+      "Big Data",
+      "https://supermetrics.com"
+    ],
+	[
+      "Vizologi",
+      "Información sobre diversos modelos de negocio",
+      "Tutorial",
+      "Gratis",
+      "Big Data",
+      "https://vizologi.com"
+    ],
+	[
+      "Glosario términos BI",
+      "Glosario de términos Business Intelligence para principiantes",
+      "Tutorial",
+      "Gratis",
+      "Big Data",
+      "https://www.panorama.com/blog/bi-glossary-dummies/"
+    ],
+	[
+      "Bootstrap",
+      "Framework para la creación de webs multidispositivo",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://getbootstrap.com/"
+    ],
+	[
+      "Mdbbootstrap",
+      "Material adicional a Bootstrap",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://mdbootstrap.com"
+    ],
+	[
+      "AnimTrap",
+      "Framework CSS/JS para animaciones web",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://github.com/sanjayaharshana/AnimTrap"
+    ],
+	[
+      "CSSicon",
+      "Iconos hechos con CSS listos para la web",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "http://cssicon.space/#/"
+    ],
+	[
+      "Plyr",
+      "Player para vídeos de Youtube y Vimeo",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://github.com/sampotts/plyr"
+    ],
+	[
+      "OpenSSL",
+      "Genera certificados SSL para tu web",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://www.openssl.org"
+    ],
+	[
+      "HTML to AMP",
+      "Convertir código HTML a AMP",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://github.com/paulredmond/html-to-amp"
+    ],
+	[
+      "HTML to PDF",
+      "Convertir código HTML a PDF",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "http://dompdf.github.io"
+    ],
+	[
+      "Fontrapid",
+      "Crea tu propia fuente de texto",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://fontrapid.com"
+    ],
+	[
+      "Htaccess generator",
+      "Crea de forma fácil tu fichero .htaccess",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://emirodgar.github.io/htaccess-generator/"
+    ],
+	[
+      "Uptimerobot",
+      "Monitorizar caídas de web",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://uptimerobot.com/"
+    ],
+	[
+      "Doodly",
+      "Crear vídeos didácticos",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://www.doodly.com/es/"
+    ],
+	[
+      "Rocketium",
+      "Generar vídeos",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://rocketium.com"
+    ],
+	[
+      "BuiltWith",
+      "Para conocer la tecnología que está utilizando una web",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://builtwith.com"
+    ],
+	[
+      "Critical Path CSS",
+      "Selecciona el código CSS necesario para el renderizado de la web",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://jonassebastianohlsson.com/criticalpathcssgenerator/"
+    ],
+	[
+      "Gatling",
+      "Pon a prueba tu web (carga y rendimiento)",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://gatling.io"
+    ],
+	[
+      "Blackfire",
+      "Comprobar el rendimiento de una aplicación web",
+      "Web",
+      "Pago",
+      "Diseño",
+      "https://blackfire.io"
+    ],
+	[
+      "HTTP Compression Test",
+      "Comprobar si la compresión GZIP está activada",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "http://www.whatsmyip.org/http-compression-test"
+    ],
+	[
+      "Cache Checker",
+      "Para comprobar si el caché del navegador está bien configurado",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://www.giftofspeed.com/cache-checker/"
+    ],
+	[
+      "Cookie Checker",
+      "Comprobar las cookies que genera una web",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "http://www.cookie-checker.com"
+    ],
+	[
+      "HTML Compression",
+      "Comprime el HTML para que ocupe menos una web",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://www.textfixer.com/html/compress-html-compression.php"
+    ],
+	[
+      "JPEG Compress",
+      "Comprimir JPG y hacerlos más eficientes",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://www.jpeg.io/"
+    ],
+	[
+      "CSS Lint",
+      "Encuentra errores en tus hojas de estilo CSS",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "http://csslint.net"
+    ],
+	[
+      "Dead Link Checker",
+      "Para comprobar enlaces rotos",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "https://www.deadlinkchecker.com/website-dead-link-checker.asp"
+    ],
+	[
+      "Uptime",
+      "Comprobar si una web está disponible o no",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://www.uptrends.com/tools/uptime"
+    ],
+	[
+      "Unsplahs",
+      "Repositorio de imágenes open source",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://unsplash.com"
+    ],
+	[
+      "ABS Free Pic",
+      "Repositorio de imágenes opensource",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "http://absfreepic.com"
+    ],
+	[
+      "BossFight",
+      "Repositorio de imágenes opensource",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://bossfight.co"
+    ],
+	[
+      "Unum",
+      "Diseñar para Instagram",
+      "Tutorial",
+      "Gratis",
+      "Diseño",
+      "https://unum.la"
+    ],
+	[
+      "Listado de APIs públicas",
+      "Completo listado de APIs gratuitas",
+      "Tutorial",
+      "Gratis",
+      "Diseño",
+      "https://github.com/abhishekbanthia/Public-APIs"
+    ],
+	[
+      "Guía de seguridad",
+      "Guía de seguridad para desarrolladores",
+      "Tutorial",
+      "Gratis",
+      "Diseño",
+      "https://github.com/FallibleInc/security-guide-for-developers"
+    ],
+	[
+      "Awesome Cheatsheets",
+      "Recopilación de chuletas varias",
+      "Tutorial",
+      "Gratis",
+      "Diseño",
+      "https://github.com/LeCoupa/awesome-cheatsheets"
+    ],
+	[
+      "Udemy",
+      "Tutoriales para diversos lenguajes",
+      "Tutorial",
+      "Gratis",
+      "Diseño",
+      "https://www.udemy.com"
+    ],
+	[
+      "Code School",
+      "Tutoriales para diversos lenguajes",
+      "Tutorial",
+      "Gratis",
+      "Diseño",
+      "https://www.codeschool.com"
+    ],
+	[
+      "Team tree house",
+      "Tutoriales para diversos lenguajes",
+      "Tutorial",
+      "Gratis",
+      "Diseño",
+      "https://teamtreehouse.com"
     ]
+	
+	
  ]
 }
