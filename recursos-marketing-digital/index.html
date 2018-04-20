@@ -28,13 +28,22 @@
               "ajax": 'recursos.json',
               "language": {
                   "url": "//cdn.datatables.net/plug-ins/1.10.16/i18n/Spanish.json"
-              }
+              },
+             "aoColumns": [
+               { "mData": "Title"},
+               { "mData": "Notes" },
+                { "mData": "Notes" },
+                { "mData": "Notes" },
+                { "mData": "Notes" },
+               { "mData": "Link",
+                 "mRender": function ( data, type, full )
+                 {return '<a href="'+data+'" target="_blank">Here</a>';}
+               }
+             ]
+             
           } );
          
-         $('#listado tbody').on('click', 'tr', function () {
-              var data = tabla.row( this ).data();
-            window.open(data[5]);  
-          } );
+  
          
       } );
       </script>
