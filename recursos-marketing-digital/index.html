@@ -15,6 +15,21 @@
       <meta property="og:type" content="website" />
       <meta property="og:url" content="https://emirodgar.com/recursos-marketing-digital/" />
       <meta property="og:image" content="../cdn/images/author/yo.jpg" />
+      
+      <link href="https://cdn.datatables.net/responsive/2.1.0/css/responsive.dataTables.min.css" rel="stylesheet" media="screen">
+      <link href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css" rel="stylesheet" media="screen">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+      <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js
+      "></script>
+      <script src="https://cdn.datatables.net/responsive/2.1.0/js/dataTables.responsive.min.js"></script>
+      <script>
+      $(document).ready(function() {
+          $('#listado').DataTable( {
+              "ajax": 'recursos.txt'
+          } );
+      } );
+      </script>
+      
    </head>
    <body class="stretched side-push-panel">
       <div class="body-overlay"></div>
@@ -33,6 +48,30 @@
                   <h2 class="divcenter bottommargin font-body" style="max-width: 700px; font-size: 40px;">Recursos para marketing digital</h2>
                   <p class="lead divcenter bottommargin" style="max-width: 800px;">Utiliza la tabla para encontrar los mejores recursos. <br/>Están clasificados por categorías. </p>
                </div>
+               
+               <table id="listado" class="display" style="width:100%">
+                  <thead>
+                     <tr>
+                        <th>Nombre</th>
+                        <th>Funcionalidad</th>
+                        <th>Plataforma</th>
+                        <th>Licencia</th>
+                        <th>Categoría</th>
+                        <th>Enlace</th>
+                     </tr>
+                  </thead>
+                  <tfoot>
+                     <tr>
+                        <th>Nombre</th>
+                        <th>Funcionalidad</th>
+                        <th>Plataforma</th>
+                        <th>Licencia</th>
+                        <th>Categoría</th>
+                        <th>Enlace</th>
+                     </tr>
+                  </tfoot>
+               </table>              
+               
            </div>
          </section>
          <!-- #content end -->
