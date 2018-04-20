@@ -36,13 +36,15 @@
           });
          
          $('#filtro').on('click', 'a', function() {
-             tabla
+            e.preventDefault(); 
+            tabla
                  .columns(4)
                  .search($(this).text())
-                 .draw();;
+                 .draw();
          });
          
          $('#filtro').on('click', 'a.all', function() {
+            e.preventDefault();
             tabla
               .search('')
               .columns(4)
