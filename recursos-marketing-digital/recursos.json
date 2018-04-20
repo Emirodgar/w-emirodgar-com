@@ -13,7 +13,7 @@
       "Plataforma de análisis de dominio y mercados",
       "Web",
       "Pago",
-      "SEO",
+      "Análisis dominio",
       "https://www.semrush.com"
     ],
 	[
@@ -21,7 +21,7 @@
       "Plataforma de análisis de dominio y mercados",
       "Web",
       "Pago",
-      "SEO",
+      "Análisis dominio",
       "https://www.searchmetrics.com"
     ],
 	[
@@ -29,7 +29,7 @@
       "Análisis SEO completo",
       "Web",
       "Gratis",
-      "SEO",
+      "Análisis dominio",
       "https://seositecheckup.com"
     ],
 	[
@@ -37,7 +37,7 @@
       "Análisis de competidores y palabras clave",
       "Web",
       "Pago",
-      "SEO",
+      "Análisis dominio",
       "https://www.spyfu.com"
     ],
 	[
@@ -45,7 +45,7 @@
       "Análisis completo de un dominio",
       "Escritorio",
       "Gratis/Pago",
-      "SEO",
+      "Análisis dominio",
       "https://www.screamingfrog.co.uk/seo-spider/"
     ],
 	[
@@ -53,16 +53,136 @@
       "Análisis completo de un dominio",
       "Web",
       "Gratis/Pago",
-      "SEO",
+      "Análisis dominio",
       "https://moz.com/tools/crawl-test"
+    ],
+	[
+      "Moz Crawl",
+      "Análisis completo de un dominio",
+      "Web",
+      "Gratis/Pago",
+      "Análisis dominio",
+      "https://moz.com/tools/crawl-test"
+    ],
+	[
+      "WebCEO",
+      "Análisis completo de un dominio",
+      "Web",
+      "Pago",
+      "Análisis dominio",
+      "https://www.webceo.com/"
+    ],
+	[
+      "IIS SEO Toolkit",
+      "Paquete de análisis SEO para servidores IIS (Microsoft)",
+      "Escritorio",
+      "Gratis",
+      "Análisis dominio",
+      "https://www.iis.net/downloads/microsoft/search-engine-optimization-toolkit"
+    ],
+	[
+      "SEO Browser",
+      "Navegar una web como si fuéramos un robot de búsqueda",
+      "Web",
+      "Gratis",
+      "Análisis dominio",
+      "http://www.seo-browser.com"
+    ],
+	[
+      "Similarweb",
+      "Analizar dominios frente a la competencia",
+      "Web",
+      "Gratis/Pago",
+      "Análisis dominio",
+      "Analizar dominios frente a la competencia"
+    ],
+	[
+      "Browseo",
+      "Análisis completo de un dominio",
+      "Web",
+      "Gratis",
+      "Análisis dominio",
+      "http://www.browseo.net"
     ],
     [
       "Sistrix",
       "Plataforma de análisis de dominio",
       "Web",
       "Pago",
-      "SEO",
+      "Análisis dominio",
       "https://www.sistrix.es"
+    ],
+	[
+      "Rank checker",
+      "Comprobar posicionamiento de palabras clave",
+      "Escritorio",
+      "Gratis",
+      "Posicionamiento",
+      "http://tools.seobook.com/firefox/rank-checker/"
+    ],
+	[
+      "SEO Monitor",
+      "Comprobar posicionamiento de palabras clave",
+      "Web",
+      "Pago",
+      "Posicionamiento",
+      "https://www.seomonitor.com"
+    ],
+	[
+      "Advanced web ranking",
+      "Comprobar posicionamiento de palabras clave",
+      "Web",
+      "Pago",
+      "Posicionamiento",
+      "https://www.advancedwebranking.com"
+    ],
+	[
+      "Search Latte",
+      "Comprobar posicionamiento de palabras clave",
+      "Web",
+      "Gratis",
+      "Posicionamiento",
+      "http://searchlatte.com"
+    ],
+	[
+      "SEO Serp",
+      "Comprobar posicionamiento de palabras clave",
+      "Chrome plugin",
+      "Gratis",
+      "Posicionamiento",
+      "https://chrome.google.com/webstore/detail/seo-serp/ofoaoaloeipdofknnaapbmdddddioklg"
+    ],
+	[
+      "Serpwoo",
+      "Comprobar posicionamiento de palabras clave",
+      "Web",
+      "Gratis/Pago",
+      "Posicionamiento",
+      "http://serpwoo.es"
+    ],
+	[
+      "Rank tracker",
+      "Comprobar posicionamiento de palabras clave",
+      "Web",
+      "Gratis/Pago",
+      "Posicionamiento",
+      "http://www.seopowersuite.es/rank-tracker/"
+    ],
+	[
+      "Serp watcher",
+      "Comprobar posicionamiento de palabras clave",
+      "Web",
+      "Gratis/Pago",
+      "Posicionamiento",
+      "https://serpwatcher.com"
+    ],
+	[
+      "Yext - local SEO",
+      "Comprueba el posicionamiento local de un negocio",
+      "Web",
+      "Gratis",
+      "Posicionamiento",
+      "https://www.yext.com/"
     ]
  ]
 }
