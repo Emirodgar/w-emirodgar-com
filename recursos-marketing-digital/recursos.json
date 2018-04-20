@@ -1,20 +1,24 @@
 {
   "data": [
     [
-      "Google Search Console",
-      "Información importante de Google (indexación, enlaces, etc)",
-      "Web",
-      "Gratis",
-      "SEO",
-      "https://www.sistrix.es"
+      { 
+		  "nombre": "Google Search Console",
+		  "funcionalidad": "Información importante de Google (indexación, enlaces, etc)",
+		  "plataforma": "Web",
+		  "licencia": "Gratis",
+		  "categoria": "SEO",
+		  "enlace": "https://www.sistrix.es"
+	  }
     ],
     [
-      "Sistrix",
-      "Plataforma de análisis de dominio",
-      "Web",
-      "Pago",
-      "SEO",
-      "https://www.sistrix.es"
+      { 
+		  "nombre": "Sistrix",
+		  "funcionalidad": "Información importante de Google (indexación, enlaces, etc)",
+		  "plataforma": "Web",
+		  "licencia": "Pago",
+		  "categoria": "SEO",
+		  "enlace": "https://www.sistrix.es"
+	  }
     ]
  ]
 }
