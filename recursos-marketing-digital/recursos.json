@@ -374,7 +374,7 @@
       "Tutorial",
       "Gratis/Pago",
       "Análisis",
-      "https://moz.com/blog/mastering-google-search-operators-in-67-steps"
+      "https://gethead.info"
     ],
 	[
       "Cloacking checker",
@@ -383,6 +383,70 @@
       "Gratis",
       "Análisis",
       "http://www.seotools.com/seo-cloaking-checker/"
+    ],
+	[
+      "MOZ - Histórico de evolución",
+      "Histórico de algoritmos",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "https://moz.com/google-algorithm-change"
+    ],
+	[
+      "Rank Ranger",
+      "Histórico de algoritmos",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "https://www.rankranger.com/google-algorithm-updates"
+    ],
+	[
+      "SemRush sensor",
+      "Sensor de cambios de algoritmo en tiempo real",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "https://www.semrush.com/sensor/"
+    ],
+	[
+      "MozCast",
+      "Sensor de cambios de algoritmo en tiempo real",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "http://mozcast.com/"
+    ],
+	[
+      "AccuRanker",
+      "Sensor de cambios de algoritmo en tiempo real y evolución",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "https://www.accuranker.com/grump/"
+    ],
+	[
+      "Flux",
+      "Detectar cambios en algoritmos (Google y Bing)",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "http://serpmetrics.com/flux/"
+    ],
+	[
+      "Frution penalty cheker",
+      "Comprueba si tu página ha sido penalizada por un algoritmo",
+      "Web",
+      "Gratis/Pago",
+      "Análisis",
+      "https://fruition.net/google-penalty-checker-tool/"
+    ],
+	[
+      "Google Timeline (Plugin)",
+      "Cruza tus datos de Google Analytics con los algoritmos",
+      "Plugin",
+      "Gratis/Pago",
+      "Análisis",
+      "https://barracuda.digital/panguin-google-algorithm-timeline/"
     ]
  ]
 }
