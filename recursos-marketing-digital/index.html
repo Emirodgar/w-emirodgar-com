@@ -27,6 +27,12 @@
           $('#listado').DataTable( {
               "ajax": 'recursos.json'
           } );
+         
+         $('#listado tbody').on('click', 'tr', function () {
+              var data = table.row( this ).data();
+            window.open(data[5]);  
+          } );
+         
       } );
       </script>
       
@@ -49,7 +55,7 @@
                   <p class="lead divcenter bottommargin" style="max-width: 800px;">Utiliza la tabla para encontrar los mejores recursos. <br/>Están clasificados por categorías. </p>
                </div>
                
-               <table id="listado" class="display" style="width:100%">
+               <table id="listado" class="display" style="width:90%">
                   <thead>
                      <tr>
                         <th>Nombre</th>
