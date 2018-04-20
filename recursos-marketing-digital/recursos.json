@@ -5,7 +5,7 @@
       "Información importante de Google (indexación, enlaces, etc)",
       "Web",
       "Gratis",
-      "Análisis dominio",
+      "Análisis",
       "https://www.google.com/webmasters/tools/home?hl=en"
     ],
 	[
@@ -13,7 +13,7 @@
       "Plataforma de análisis de dominio y mercados",
       "Web",
       "Pago",
-      "Análisis dominio",
+      "Análisis",
       "https://www.semrush.com"
     ],
 	[
@@ -21,7 +21,7 @@
       "Plataforma de análisis de dominio y mercados",
       "Web",
       "Pago",
-      "Análisis dominio",
+      "Análisis",
       "https://www.searchmetrics.com"
     ],
 	[
@@ -29,7 +29,7 @@
       "Análisis SEO completo",
       "Web",
       "Gratis",
-      "Análisis dominio",
+      "Análisis",
       "https://seositecheckup.com"
     ],
 	[
@@ -37,7 +37,7 @@
       "Análisis de competidores y palabras clave",
       "Web",
       "Pago",
-      "Análisis dominio",
+      "Análisis",
       "https://www.spyfu.com"
     ],
 	[
@@ -45,7 +45,7 @@
       "Análisis completo de un dominio",
       "Escritorio",
       "Gratis/Pago",
-      "Análisis dominio",
+      "Análisis",
       "https://www.screamingfrog.co.uk/seo-spider/"
     ],
 	[
@@ -53,7 +53,7 @@
       "Análisis completo de un dominio",
       "Web",
       "Gratis/Pago",
-      "Análisis dominio",
+      "Análisis",
       "https://moz.com/tools/crawl-test"
     ],
 	[
@@ -61,7 +61,7 @@
       "Análisis completo de un dominio",
       "Web",
       "Gratis/Pago",
-      "Análisis dominio",
+      "Análisis",
       "https://moz.com/tools/crawl-test"
     ],
 	[
@@ -69,7 +69,7 @@
       "Análisis completo de un dominio",
       "Web",
       "Pago",
-      "Análisis dominio",
+      "Análisis",
       "https://www.webceo.com/"
     ],
 	[
@@ -77,7 +77,7 @@
       "Paquete de análisis SEO para servidores IIS (Microsoft)",
       "Escritorio",
       "Gratis",
-      "Análisis dominio",
+      "Análisis",
       "https://www.iis.net/downloads/microsoft/search-engine-optimization-toolkit"
     ],
 	[
@@ -85,7 +85,7 @@
       "Navegar una web como si fuéramos un robot de búsqueda",
       "Web",
       "Gratis",
-      "Análisis dominio",
+      "Análisis",
       "http://www.seo-browser.com"
     ],
 	[
@@ -93,7 +93,7 @@
       "Analizar dominios frente a la competencia",
       "Web",
       "Gratis/Pago",
-      "Análisis dominio",
+      "Análisis",
       "Analizar dominios frente a la competencia"
     ],
 	[
@@ -101,7 +101,7 @@
       "Análisis completo de un dominio",
       "Web",
       "Gratis",
-      "Análisis dominio",
+      "Análisis",
       "http://www.browseo.net"
     ],
     [
@@ -109,8 +109,72 @@
       "Plataforma de análisis de dominio",
       "Web",
       "Pago",
-      "Análisis dominio",
+      "Análisis",
       "https://www.sistrix.es"
+    ],
+	[
+      "Httpstatus",
+      "Comprobar estados de página (estado o redirecciones)",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "https://httpstatus.io/"
+    ],
+	[
+      "Server Header",
+      "Comprobar estados de página (estado o redirecciones)",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "https://www.serverheaders.com"
+    ],
+	[
+      "Djanseo (flang)",
+      "Comprobamos implementación y estado del atributo hreflang",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "https://flang.dejanseo.com.au/"
+    ],
+	[
+      "Hreflang generator",
+      "Generar etiquetas hreflang",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/"
+    ],
+	[
+      "Bulk checker",
+      "Comprobamos estado indexación / etiqueta noindex",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "http://www.seoreviewtools.com/bulk-meta-robots-checker/"
+    ],
+	[
+      "Live http headers",
+      "Comprobar estados de página (estado o redirecciones)",
+      "Firefox plugin",
+      "Gratis",
+      "Análisis",
+      "https://addons.mozilla.org/en-US/firefox/addon/live-http-headers/"
+    ],
+	[
+      "Redirect path",
+      "Comprobar estados de página (estado o redirecciones)",
+      "Chrome plugin",
+      "Gratis",
+      "Análisis",
+      "https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll"
+    ],
+	[
+      "Snippet optimizer",
+      "Comprobar cómo quedará nuestro snippet en Google",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "http://www.seomofo.com/snippet-optimizer.html"
     ],
 	[
       "Rank checker",
@@ -183,6 +247,142 @@
       "Gratis",
       "Posicionamiento",
       "https://www.yext.com/"
+    ],
+	[
+      "GEO sitemap generator",
+      "Genera marcado semántico de empresa",
+      "Web",
+      "Gratis",
+      "Etiquetado",
+      "https://www.geositemapgenerator.com/"
+    ],
+	[
+      "Herramienta de validación semántica (Google)",
+      "Valida el etiquetado semántico",
+      "Web",
+      "Gratis",
+      "Etiquetado",
+      "https://search.google.com/structured-data/testing-tool/u/0/?hl=es"
+    ],
+	[
+      "Schema",
+      "Información sobre todos los tipos de etiquetados semánticos",
+      "Web",
+      "Gratis",
+      "Etiquetado",
+      "http://schema.org"
+    ],
+	[
+      "SchemaApp",
+      "Generar marcado semántico",
+      "Web",
+      "Pago",
+      "Etiquetado",
+      "https://www.schemaapp.com"
+    ],
+	[
+      "Generadores de Sitemap",
+      "Listado de aplicaciones y webs para genear sitemaps",
+      "Web",
+      "Gratis",
+      "Etiquetado",
+      "https://code.google.com/archive/p/sitemap-generators/wikis/SitemapGenerators.wiki"
+    ],
+	[
+      "Validar sitemap XML",
+      "Para validar sitemaps XML",
+      "Web",
+      "Gratis",
+      "Etiquetado",
+      "https://www.xml-sitemaps.com/validate-xml-sitemap.html"
+    ],
+	[
+      "Validar XML",
+      "Para validar un fichero XML",
+      "Web",
+      "Gratis",
+      "Etiquetado",
+      "https://www.xmlvalidation.com/"
+    ],
+	[
+      "Validar HTML",
+      "Valida HTML y CSS",
+      "Web",
+      "Gratis",
+      "Etiquetado",
+      "https://validator.w3.org"
+    ],
+	[
+      "Video sitemap",
+      "Tutorial para crear sitemaps de vídeos",
+      "Web",
+      "Gratis",
+      "Etiquetado",
+      "https://www.distilled.net/blog/video/creating-video-sitemaps-for-each-video-hosting-platform/"
+    ],
+	[
+      "Majestic",
+      "Análisis de perfil de enlazado",
+      "Web",
+      "Gratis/Pago",
+      "Enlazado",
+      "https://es.majestic.com"
+    ],
+	[
+      "Open site explorer",
+      "Análisis de perfil de enlazado",
+      "Web",
+      "Gratis/Pago",
+      "Enlazado",
+      "https://moz.com/researchtools/ose/"
+    ],
+	[
+      "Ahref",
+      "Análisis de perfil de enlazado",
+      "Web",
+      "Gratis/Pago",
+      "Enlazado",
+      "https://ahrefs.com"
+    ],
+	[
+      "Link Detox",
+      "Análisis de perfil de enlazado y eliminación enlaces tóxicos",
+      "Web",
+      "Pago",
+      "Enlazado",
+      "http://www.linkresearchtools.com/tools/dtox/"
+    ],
+	[
+      "SEO Spy glass",
+      "Análisis de perfil de enlazado",
+      "Web",
+      "Gratis/Pago",
+      "Enlazado",
+      "http://www.seo-spyglass.com"
+    ],
+	[
+      "Google Search Operators",
+      "Aprende los comandos avanzados de Google (indexación)",
+      "Tutorial",
+      "Gratis/Pago",
+      "Análisis",
+      "https://moz.com/blog/mastering-google-search-operators-in-67-steps"
+    ],
+	[
+      "Gethead",
+      "Todo lo que puedes configurar en el HEAD de una web",
+      "Tutorial",
+      "Gratis/Pago",
+      "Análisis",
+      "https://moz.com/blog/mastering-google-search-operators-in-67-steps"
+    ],
+	[
+      "Cloacking checker",
+      "Comprobar si una página hace cloacking",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "http://www.seotools.com/seo-cloaking-checker/"
     ]
  ]
 }
