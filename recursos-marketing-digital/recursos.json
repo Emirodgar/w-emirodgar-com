@@ -177,6 +177,22 @@
       "http://www.seomofo.com/snippet-optimizer.html"
     ],
 	[
+      "Meta tag extractor",
+      "Extrae títulos y descripciones de un grupo de páginas",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "http://tools.buzzstream.com/meta-tag-extractor"
+    ],
+	[
+      "Character count",
+      "Para contar caracteres de un texto",
+      "Web",
+      "Gratis",
+      "Análisis",
+      "http://www.charactercountonline.com"
+    ],
+	[
       "Rank checker",
       "Comprobar posicionamiento de palabras clave",
       "Escritorio",
@@ -447,6 +463,246 @@
       "Gratis/Pago",
       "Análisis",
       "https://barracuda.digital/panguin-google-algorithm-timeline/"
+    ],
+	[
+      "Spyfu",
+      "Analiza las palabras clave de tu competencia",
+      "Web",
+      "Gratis/Pago",
+      "Contenido",
+      "https://www.spyfu.com"
+    ],
+	[
+      "Ubbersuggest",
+      "Análisis de palabras clave",
+      "Web",
+      "Gratis/Pago",
+      "Contenido",
+      "https://ubersuggest.io/"
+    ],
+	[
+      "Answer the public",
+      "Análisis de palabras clave basadas en preguntas",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "https://answerthepublic.com"
+    ],
+	[
+      "Hypersuggest",
+      "Análisis de palabras clave",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "https://www.hypersuggest.com"
+    ],
+	[
+      "Kwdfinder",
+      "Análisis de palabras clave",
+      "Web",
+      "Gratis/Pago",
+      "Contenido",
+      "https://app.kwfinder.com/dashboard"
+    ],
+	[
+      "SERPstat",
+      "Análisis de palabras clave",
+      "Web",
+      "Gratis/Pago",
+      "Contenido",
+      "https://serpstat.com"
+    ],
+	[
+      "LSI Graph",
+      "Generador de palabras clave",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "https://lsigraph.com"
+    ],
+	[
+      "Keyword Shitter",
+      "Generador de palabras clave",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "http://keywordshitter.com"
+    ],
+	[
+      "Speechpad",
+      "Transcribir vídeos a texto",
+      "Web",
+      "Pago",
+      "Contenido",
+      "https://www.speechpad.com/pricing"
+    ],
+	[
+      "Readable",
+      "Analiza cómo de fácil de leer es un contenido",
+      "Web",
+      "Gratis/Pago",
+      "Contenido",
+      "https://readable.io/"
+    ],
+	[
+      "Content Strategy Helper",
+      "Ideas para organizar estrategia de content marketing",
+      "Tutorial",
+      "Gratis",
+      "Contenido",
+      "https://builtvisible.com/content-strategy-helper/"
+    ],
+	[
+      "Buzzsumo",
+      "Análisis del impacto de los contenidos en redes sociales",
+      "Web",
+      "Gratis/Pago",
+      "Social",
+      "https://app.buzzsumo.com"
+    ],
+	[
+      "Followerwonk",
+      "Análisis de menciones sociales en Twitter",
+      "Web",
+      "Gratis/Pago",
+      "Social",
+      "https://moz.com/followerwonk/"
+    ],
+	[
+      "Online review tool",
+      "Para buscar opiniones de una empresa (ORM)",
+      "Web",
+      "Gratis",
+      "Social",
+      "https://www.thehoth.com/online-review-tool/"
+    ],
+	[
+      "Hootsuite",
+      "Programar publicaciones en redes sociales",
+      "Web",
+      "Gratis/Pago",
+      "Social",
+      "https://hootsuite.com"
+    ],
+	[
+      "Test my site",
+      "Análisis de velocidad de páginas web",
+      "Web",
+      "Gratis",
+      "Mobile",
+      "https://testmysite.thinkwithgoogle.com/intl/es-es"
+    ],
+	[
+      "Pagespeed",
+      "Análisis de factores que afectan a la velocidad de una web",
+      "Web",
+      "Gratis",
+      "Mobile",
+      "https://developers.google.com/speed/pagespeed/insights/"
+    ],
+	[
+      "Webpagetest",
+      "Análisis de velocidad de páginas web",
+      "Web",
+      "Gratis",
+      "Mobile",
+      "http://www.webpagetest.org"
+    ],
+	[
+      "GTmetrix",
+      "Análisis de velocidad de páginas web",
+      "Web",
+      "Gratis",
+      "Mobile",
+      "http://gtmetrix.com/"
+    ],
+	[
+      "DareBoost",
+      "Análisis de factores que afectan a la velocidad y seguridad de una web",
+      "Web",
+      "Gratis",
+      "Mobile",
+      "https://www.dareboost.com"
+    ],
+	[
+      "Sizzy",
+      "Comprobar páginas responsive en diferentes dispositivos",
+      "Web",
+      "Gratis",
+      "Mobile",
+      "https://sizzy.co/"
+    ],
+	[
+      "Ionic Framework",
+      "Crea aplicaciones para diversas plataformas de forma sencilla",
+      "Web",
+      "Gratis/Pago",
+      "Mobile",
+      "https://ionicframework.com"
+    ],
+	[
+      "Onesignal",
+      "Notificaciones push en cualquier dispositivo mobile y web",
+      "Web",
+      "Gratis/Pago",
+      "Mobile",
+      "https://onesignal.com"
+    ],
+	[
+      "Sitespeed",
+      "Herramienta para analizar y mejorar el rendimiento de la web",
+      "Escritorio",
+      "Gratis",
+      "Mobile",
+      "https://www.sitespeed.io"
+    ],
+	[
+      "Lighthouse",
+      "Para analizar la calidad de una página web (tiempos y usabilidad)",
+      "Chrome plugin",
+      "Gratis",
+      "Mobile",
+      "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk"
+    ],
+	[
+      "Chrome User Experience Report",
+      "Trucos y consejos para mejorar la experiencia de usuario",
+      "Tutorial",
+      "Gratis",
+      "Mobile",
+      "https://developers.google.com/web/tools/chrome-user-experience-report/"
+    ],
+	[
+      "Aspectos de rendimiento web",
+      "Aspectos a trabajar para mejorar el rendimiento",
+      "Tutorial",
+      "Gratis",
+      "Mobile",
+      "https://developers.google.com/web/updates/2017/06/user-centric-performance-metrics"
+    ],
+	[
+      "Modelo RAIL",
+      "Modelo RAIL para medir el rendimiento",
+      "Tutorial",
+      "Gratis",
+      "Mobile",
+      "https://developers.google.com/web/fundamentals/performance/rail"
+    ],
+	[
+      "Security testing guide",
+      "Guía de seguridad para aplicaciones mobile",
+      "Tutorial",
+      "Gratis",
+      "Mobile",
+      "https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide"
+    ],
+	[
+      "Progressive Web App",
+      "Para analizar la calidad de una página web (tiempos y usabilidad)",
+      "Tutorial",
+      "Gratis",
+      "Mobile",
+      "https://developers.google.com/web/progressive-web-apps/checklist"
     ]
  ]
 }
