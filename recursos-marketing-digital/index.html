@@ -35,12 +35,20 @@
              "paging":   false
           });
          
-         $('ul').on('click', 'a', function() {
+         $('#filtro').on('click', 'a', function() {
              tabla
                  .columns(4)
                  .search($(this).text())
                  .draw();;
          });
+         
+         $('#filtro').on('click', 'a.all', function() {
+            tabla
+              .search('')
+              .columns(4)
+              .search('')
+              .draw();
+          });
 
           $('#listado tbody').on('click', 'td', function() {
               var data = tabla.row(this).data();
@@ -74,7 +82,7 @@
                   <p class="lead divcenter bottommargin" style="max-width: 800px;">Utiliza la tabla para encontrar los mejores recursos. <br/>Están clasificados por categorías. </p>
                   
                   <ul id="filtro">
-                   <li class="btn"><a href="#" class="all">Todo</a></li>
+                   <li class="btn"><a href="#" class="all button button-border button-circle">Todo</a></li>
                    <li class="btn"><a class="button button-border button-circle" href="#">Análisis dominio</a></li>
                    <li class="btn"><a class="button button-border button-circle" href="#">Posicionamiento</a></li>
                    <li class="btn"><a class="button button-border button-circle" href="#">Etiquetado semántico</a></li>
