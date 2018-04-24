@@ -280,7 +280,7 @@
                </div>
             </div>
             <div id="copyrights">
-               <div class="container center clearfix">Mi sueño es ser <b>CDO</b> y vivir en <b>Salamanca</b> - Emirodgar / 2018</div>
+               <div class="container center clearfix">Mi sueño es ser <b>CDO</b> y vivir en <b>Salamanca</b> - Emirodgar / <span id="anno"></span></div>
             </div>
          </footer>
       </div>
@@ -314,5 +314,16 @@
       </div>
       <div id="gotoTop" class="icon-angle-up"></div>
       <script async src="cdn/js/emirodgar.js"></script>
+      <script>
+         function getDate() {
+            var d = new Date();
+            var n = d.getFullYear();
+            return n;
+         }
+
+         $( document ).ready(function() {
+            $("#anno").html(getDate());
+         })
+      </script>
    </body>
 </html>
