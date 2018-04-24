@@ -314,7 +314,7 @@
       </div>
       <div id="gotoTop" class="icon-angle-up"></div>
       <script async src="cdn/js/emirodgar.js"></script>
-      <script>
+      <script async>
          function getDate() {
             var d = new Date();
             var n = d.getFullYear();
@@ -322,7 +322,7 @@
          }
 
          (function() {
-            document.getElementById('anno').value = getDate();
+            document.getElementById('anno').value = "- "+getDate();
          })
       </script>
    </body>
