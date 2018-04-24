@@ -321,8 +321,8 @@
             return n;
          }
 
-         $( document ).ready(function() {
-            $("#anno").html(getDate());
+         (function() {
+            document.getElementById('anno').value = getDate();
          })
       </script>
    </body>
