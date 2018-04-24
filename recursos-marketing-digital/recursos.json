@@ -601,6 +601,14 @@
       "https://developers.google.com/speed/pagespeed/insights/"
     ],
 	[
+      "AMP Bench",
+      "Aplicación para validar páginas con tecnología AMP",
+      "Web",
+      "Gratis",
+      "Mobile",
+      "https://ampbench.appspot.com"
+    ],
+	[
       "Webpagetest",
       "Análisis de velocidad de páginas web",
       "Web",
@@ -1127,6 +1135,14 @@
       "Gratis",
       "Diseño",
       "https://www.uptrends.com/tools/uptime"
+    ],
+	[
+      "Whats my DNS",
+      "Comprobar la propagación de las DNS",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://www.whatsmydns.net"
     ],
 	[
       "Unsplahs",
