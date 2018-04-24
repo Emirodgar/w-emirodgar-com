@@ -601,12 +601,36 @@
       "https://developers.google.com/speed/pagespeed/insights/"
     ],
 	[
+      "Google Mobile Friendly Test",
+      "Test para saber si una página está bien configurada para mobile",
+      "Web",
+      "Gratis",
+      "Mobile",
+      "https://search.google.com/test/mobile-friendly"
+    ],
+	[
+      "Performance-Analyser",
+      "Plugin para analizar el rendimiento y velocidad de una página web",
+      "Plugin",
+      "Gratis",
+      "Mobile",
+      "https://github.com/micmro/performance-bookmarklet"
+    ],
+	[
       "AMP Bench",
       "Aplicación para validar páginas con tecnología AMP",
       "Web",
       "Gratis",
       "Mobile",
       "https://ampbench.appspot.com"
+    ],
+	[
+      "AMP Validator",
+      "Validador oficial de páginas con tecnología AMP",
+      "Web",
+      "Gratis",
+      "Mobile",
+      "https://validator.ampproject.org"
     ],
 	[
       "Webpagetest",
@@ -945,6 +969,54 @@
       "https://getbootstrap.com/"
     ],
 	[
+      "PerfMap: front-end performance heatmap",
+      "Plugin para crear mapas de calor de nuestras páginas",
+      "Plugin",
+      "Gratis",
+      "Diseño",
+      "https://github.com/zeman/perfmap"
+    ],
+	[
+      "Google Rich Results Test,
+      "Analiza qué datos estructurados puedes utilizar en tu página",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://search.google.com/test/rich-results"
+    ],
+	[
+      "Rich Preview",
+      "Visualiza cómo quedará tu página cuando se comparta en diferentes aplicaciones",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://richpreview.com"
+    ],
+	[
+      "Way Back Machine",
+      "Para conocer la evolución visual de una página en el pasado",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "http://archive.org/web/"
+    ],
+	[
+      "Google Structured Data Testing Tool",
+      "Herramienta de Google para validar datos estructurados",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://search.google.com/structured-data/testing-tool"
+    ],
+	[
+      "Archive",
+      "Guarda capturas de cualquier página web",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "http://archive.is"
+    ],
+	[
       "Mdbbootstrap",
       "Material adicional a Bootstrap",
       "Web",
@@ -1121,6 +1193,14 @@
       "http://csslint.net"
     ],
 	[
+      "Robots.txt checker",
+      "Emula y valida nuestro fichero robots.txt",
+      "Web",
+      "Gratis",
+      "SEO",
+      "https://en.ryte.com/free-tools/robots-txt"
+    ],
+	[
       "Dead Link Checker",
       "Para comprobar enlaces rotos",
       "Web",
@@ -1143,6 +1223,22 @@
       "Gratis",
       "Diseño",
       "https://www.whatsmydns.net"
+    ],
+	[
+      "Zone Vision",
+      "Análisis de los DNS de un dominio",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://zone.vision"
+    ],
+	[
+      "HSTS Preloader",
+      "Comprueba si el dominio tiene correctamente configurado HSTS",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://hstspreload.org"
     ],
 	[
       "Unsplahs",
