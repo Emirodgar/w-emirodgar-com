@@ -281,6 +281,86 @@
       "https://search.google.com/structured-data/testing-tool/u/0/?hl=es"
     ],
 	[
+      "plagium",
+      "Herramienta para comprobar si te están robando el contenido",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "http://www.plagium.com/"
+    ],
+	[
+      "Plagiarisma",
+      "Herramienta para comprobar si te están robando el contenido",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "http://plagiarisma.net/"
+    ],
+	[
+      "Duplichecker",
+      "Herramienta para comprobar si te están robando el contenido",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "http://duplichecker.com/"
+    ],
+	[
+      "Google Keyword Planner",
+      "Herramienta para analizar los términos más buscados en Google",
+      "Web",
+      "Gratis/Pago",
+      "Contenido",
+      "https://adwords.google.com/intl/es_es/home/tools/keyword-planner/"
+    ],
+	[
+      "Serie Interactive",
+      "Para conocer los modelos de negocio de diversas empresasgle",
+      "Tutorial",
+      "Gratis",
+      "Contenido",
+      "http://www.seerinteractive.com/labs/how-do-they-make-money/"
+    ],
+	[
+      "Visual Ping",
+      "Herramienta que nos avisa cuando cambie algo en una página web",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "https://visualping.io/"
+    ],
+	[
+      "Google Alerts",
+      "Herramienta que nos avisa cuando se encuentren coincidencias con nuestras búsquedas en Google",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "https://www.google.com/alerts"
+    ],
+	[
+      "Keyword tool",
+      "Herramienta para búsqueda de palabras clave por nichos",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "https://keywordtool.io"
+    ],
+	[
+      "Google Trends",
+      "Herramienta para conocer tendencias de búsqueda en Google",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "https://trends.google.com/trends/"
+    ],
+	[
+      "Guía para generar contenido optimizado",
+      "Guía con todos los pasos necesarios para crear contenido optimizado",
+      "Web",
+      "Gratis",
+      "Contenido",
+      "https://www.distilled.net/content-guide/"
+    ],
+	[
       "Schema",
       "Información sobre todos los tipos de etiquetados semánticos",
       "Web",
@@ -383,6 +463,22 @@
       "Gratis/Pago",
       "SEO",
       "https://moz.com/blog/mastering-google-search-operators-in-67-steps"
+    ],
+	[
+      "Spy On Web",
+      "Conoce vecinos de hosting o investiga páginas por códigos de Analytics, publicad, etc",
+      "Web",
+      "Gratis",
+      "SEO",
+      "http://spyonweb.com"
+    ],
+	[
+      "Woorank",
+      "Analiza aspectos SEO, Mobile y de usabilidad para un dominio",
+      "Web",
+      "Gratis/Pago",
+      "SEO",
+      "https://www.woorank.com/es"
     ],
 	[
       "Gethead",
@@ -857,6 +953,14 @@
       "https://www.crazyegg.com"
     ],
 	[
+      "Session Cam",
+      "Herramienta para test A/B, funnels de conversión, mapas de calor y más",
+      "Web",
+      "Gratis/Pago",
+      "Analítica",
+      "https://sessioncam.com/"
+    ],
+	[
       "LandBot",
       "Convierte una web en una conversación con bot",
       "Web",
@@ -937,6 +1041,14 @@
       "https://ifttt.com"
     ],
 	[
+      "JSON validator",
+      "Para validar ficheros JSON",
+      "Web",
+      "Gratis",
+      "Big Data",
+      "https://jsonlint.com"
+    ],
+	[
       "Supermetrics",
       "Integrar múltiples fuentes en Google Sheets",
       "Chrome plugin",
@@ -967,6 +1079,14 @@
       "Gratis",
       "Diseño",
       "https://getbootstrap.com/"
+    ],
+	[
+      "Observatory by Mozilla",
+      "Análisis sobre varios aspectos de seguridad de la web",
+      "Web",
+      "Gratis",
+      "Diseño",
+      "https://observatory.mozilla.org"
     ],
 	[
       "PerfMap: front-end performance heatmap",
