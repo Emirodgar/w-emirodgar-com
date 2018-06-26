@@ -14,7 +14,7 @@ Descubrí el mundo del SEO en el año 2007. Desde entonces, he trabajado para **
 {: .lead .divcenter}
 Durante dos años mi trabajo consistió en el desarrollo de **acciones SEO** como diseño de arquitectura web, generación de estrategias de contenido, definición de estrategias de enlazado (link building), migraciones o formaciones. 
 
-{: .divcenter .bottommargin .topmargin}
+{: .divcenter .bottommargin .topmargin .layoutIn}
 ## En 2012 obtuve la homologación como Consultor SEO de ICEX España (Instituto Español de Comercio Exterior).
 
 {: .lead .divcenter}
@@ -23,7 +23,7 @@ Tras esto, comencé a trabajar en Internet Advantage, una de las primeras agenci
 {: .lead .divcenter}
 Compaginé este trabajo dando clases en diversos másteres y programas. Destaco la Universidad de Deusto, la Escuela Europea de Negocios y Foro Economía Digital. También he sido ponente y jurado en varios eventos del sector.
 
-{: .divcenter .bottommargin .topmargin}
+{: .divcenter .bottommargin .topmargin .layoutIn}
 ## He participado en estrategias SEO para clientes como Movistar, COPE, Rumbo, RACE, Midas, Acciona, FNAC, Sol Meliá o Barceló Hoteles.
 
 {: .lead .divcenter}
