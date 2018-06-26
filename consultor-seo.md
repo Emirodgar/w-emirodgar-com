@@ -8,4 +8,4 @@ author:
 
 # Consultor SEO
 
-Desde el año 2007, cuando aterricé en el mundo del SEO, llevo ejerciendo como consultor.
+{.lead} Descubrí el mundo del SEO en el año 2007. Desde entonces, he trabajado para mejorar y especializarme en un sector cada vez más competido.
