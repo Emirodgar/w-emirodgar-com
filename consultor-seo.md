@@ -29,3 +29,6 @@ Compaginé este trabajo dando clases en diversos másteres y programas. Destaco 
 
 {: .lead .divcenter}
 Después de seis años como consultor SEO -y mucha experiencia adquirida gracias a grandes clientes- me puse al frente del departamento SEO y Analítica web de Internet Advantage. Mis tareas como **Director SEO** incluían la correcta gestión de las cuentas SEO y el continuo desarrollo y formación del equipo formado por 7 profesionales.
+
+{: .lead .divcenter}
+Ahora, quiero ayudar a las empresas salmantinas a alcanzar sus objetivos ejerciendo como [consultor SEO en Salamanca](https://emirodgar.com/consultor-seo/salamanca).
