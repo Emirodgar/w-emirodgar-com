@@ -19,7 +19,7 @@ He trabajado en tres agencias digitales (Traffic4U, Internet Advantage y SmartUp
 He sido **responsable del departamento SEO y analítica web** de Smartup (empresa salmantina), donde mi objetivo principal ha sido el desarrollo de un equipo sólido (7 trabajadores) junto con la búsqueda de soluciones estratégicas para los diferentes clientes SEO de la empresa.
 
 {: .divcenter .bottommargin .topmargin .layoutIn}
-Algunos de mis clientes SEO han sido grandes empresas como Acciona, Movistar, Vitaldent o El Confidencial. 
+Algunos de mis clientes SEO han sido grandes empresas como Acciona, Movistar, Vitaldent o Cadena100. 
 
 {: .lead .divcenter}
 Ahora quiero ayudar a las **empresas de Salamanca** a llegar más lejos en el marketing digital. Con mi experiencia y con los recursos necesarios, alcanzaremos cualquier objetivo.
