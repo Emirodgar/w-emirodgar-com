@@ -1,0 +1,8 @@
+# Site Settings
+locale                   : "es_ES"
+title                    : "Emirodgar - Experto Digital"
+title_separator          : "|"
+name                     : "Emirodgar"
+url                      : "https://emirodgar.com"
+twitter_username: emirodgar
+github_username:  emirodgar
