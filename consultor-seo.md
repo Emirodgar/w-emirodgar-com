@@ -8,12 +8,17 @@ author:
 
 # Consultor SEO
 
-{: .lead .nomargin}
-Descubrí el mundo del SEO en el año 2007. Desde entonces, he trabajado para mejorar y especializarme en un sector cada vez más competido.
+{: .lead .divcenter .bottommargin}
+Descubrí el mundo del SEO en el año 2007. Desde entonces, he trabajado para **mejorar y especializarme en un sector cada vez más competido.
 
 Profesionalmente comencé mi carrera en 2009 trabajando como consultor SEO en Traffic4U, agencia internacional de marketing digital.
 
-Durante dos años mi trabajo consistió en el desarrollo de acciones SEO como:
-- generación de estrategias de contenido 
-- definición de estrategias de enlazado (link building)
-- dar formación acerca de cómo diseñar y ejecutar estrategias SEO 
+Durante dos años mi trabajo consistió en el desarrollo de acciones SEO como generación de arquitectura web y estrategias de contenido, definición de estrategias de enlazado (link building) o dar formación acerca de cómo diseñar y ejecutar estrategias SEO. 
+
+{: .nobottommargin t300 ls1}
+
+## Me especialicé en el sector turismo y en medios digitales.
+
+Tras esto, comencé a trabajar en Internet Advantage, una de las primeras agencias digitales en España donde continué mi formación y amplié el abanico de clientes, especialmente grandes empresas.
+
+Durante estos años tuve la oportunidad de colaborar en estrategias SEO para clientes como COPE, Acciona, Sol Meliá o Barceló Hoteles.
