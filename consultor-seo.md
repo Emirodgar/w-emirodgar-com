@@ -18,7 +18,10 @@ Durante dos años mi trabajo consistió en el desarrollo de **acciones SEO** com
 ## En 2012 obtuve la homologación como Consultor SEO de ICEX España (Instituto Español de Comercio Exterior).
 
 {: .lead .divcenter}
-Tras esto, comencé a trabajar en Internet Advantage, una de las primeras agencias digitales en España (2004), donde continué mi formación y amplié el abanico de clientes. Incorporé la analítica web a mis proyectos obteniendo la certificación en Google Analytics y Webtrekk. Compaginé este trabajo dando clases en Centros de Negocio y como ponente en varios eventos del sector.
+Tras esto, comencé a trabajar en Internet Advantage, una de las primeras agencias digitales en España (2004), donde continué mi formación y amplié el abanico de clientes. Incorporé la analítica web a mis proyectos obteniendo la certificación en Google Analytics y Webtrekk.
+
+{: .lead .divcenter}
+Compaginé este trabajo dando clases en diversos másteres y programas. Destaco la Universidad de Deusto, la Escuela Europea de Negocios y Foro Economía Digital. También he sido ponente y jurado en varios eventos del sector.
 
 {: .divcenter .bottommargin .topmargin .font-body}
 ## He participado en estrategias SEO para clientes como Movistar, COPE, Rumbo, RACE, Midas, Acciona, FNAC, Sol Meliá o Barceló Hoteles.
