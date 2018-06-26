@@ -13,13 +13,13 @@ author:
 Mi nombre es Emilio, soy un apasionado del **marketing digital** y llevo trabajando como **[consultor SEO](https://emirodgar.com/consultor-seo/) en Salamanca** desde el año 2007.
 
 {: .divcenter .bottommargin .topmargin .layoutIn}
-He trabajado en tres agencias digitales (Traffic4U, Internet Advantage y SmartUp) por lo que tengo amplia experiencia en el **desrrollo de estrategias en múltiples sectores** y con proyección tanto **nacional como internacional**. 
+He trabajado en tres agencias digitales (Traffic4U, Internet Advantage y SmartUp) por lo que tengo amplia experiencia en el **desrrollo de estrategias en múltiples sectores y países**. 
 
 {: .lead .divcenter}
-Además, he sido **responsable del departamento SEO y analítica web** de Smartup (empresa salmantina), donde mi objetivo principal ha sido el desarrollo de un equipo sólido (7 trabajadores) junto con la búsqueda de soluciones estratégicas para los diferentes clientes SEO de la empresa.
+He sido **responsable del departamento SEO y analítica web** de Smartup (empresa salmantina), donde mi objetivo principal ha sido el desarrollo de un equipo sólido (7 trabajadores) junto con la búsqueda de soluciones estratégicas para los diferentes clientes SEO de la empresa.
 
 {: .lead .divcenter}
-Ahora quiero ayudar a las **empresas de Salamanca** a llegar más lejos en el marketing digital. Con mi experiencia y con los recursos necesarios, se alcanzará cualquier objetivo.
+Ahora quiero ayudar a las **empresas de Salamanca** a llegar más lejos en el marketing digital. Con mi experiencia y con los recursos necesarios, alcanzaremos cualquier objetivo.
 
 ## Certificaciones
 
