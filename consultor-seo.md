@@ -5,7 +5,7 @@ permalink: consultor-seo
 author:
   twitter: emirodgar
 ---
-
+{: .layoutInH1}
 # Consultor SEO
 
 {: .lead .divcenter}
