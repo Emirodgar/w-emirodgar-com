@@ -21,7 +21,7 @@ Durante dos años mi trabajo consistió en el desarrollo de **acciones SEO** com
 Tras esto, comencé a trabajar en Internet Advantage, una de las primeras agencias digitales en España (2004), donde continué mi formación y amplié el abanico de clientes. Incorporé la analítica web a mis proyectos obteniendo la certificación en Google Analytics y Webtrekk. Compaginé este trabajo dando clases en Centros de Negocio y como ponente en varios eventos del sector.
 
 {: .divcenter .bottommargin .topmargin .font-body}
-## Algunos de mis clientes SEO han sido COPE, Acciona, FNAC, Sol Meliá o Barceló Hoteles.
+## He participado en estrategias SEO para clientes como Movistar, COPE, Rumbo, RACE, Midas, Acciona, FNAC, Sol Meliá o Barceló Hoteles.
 
 {: .lead .divcenter}
 Después de seis años como consultor SEO -y mucha experiencia adquirida gracias a grandes clientes- me puse al frente del departamento SEO y Analítica web de Internet Advantage. Mis tareas como **Director SEO** incluían la correcta gestión de las cuentas SEO y el continuo desarrollo y formación del equipo formado por 7 profesionales.
