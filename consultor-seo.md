@@ -12,13 +12,13 @@ author:
 Descubrí el mundo del SEO en el año 2007. Desde entonces, he trabajado para **mejorar y especializarme** en un sector cada vez más competido. Profesionalmente comencé mi carrera en 2009 trabajando como **consultor SEO** en Traffic4U, agencia internacional de marketing digital.
 
 {: .lead .divcenter}
-Durante dos años mi trabajo consistió en el desarrollo de **acciones SEO** como diseño de arquitectura web, generación de estrategias de contenido, definición de estrategias de enlazado (link building), migraciones o dar formación acerca de cómo diseñar y ejecutar **estrategias SEO**. 
+Durante dos años mi trabajo consistió en el desarrollo de **acciones SEO** como diseño de arquitectura web, generación de estrategias de contenido, definición de estrategias de enlazado (link building), migraciones o formaciones sobre diseño de **estrategias SEO**. 
 
 {: .divcenter .bottommargin .topmargin .font-body}
-## He sido ponente en varios eventos del sector y he dado formación en Universidades y Centro de Negocios.
+## En 2012 obtuve la homologación como Consultor SEO de ICEX España (Instituto Español de Comercio Exterior) para ayudar a las empresas españolas en la internacionalización de sus servicios.
 
 {: .lead .divcenter}
-Tras esto, comencé a trabajar en Internet Advantage, una de las primeras agencias digitales en España (2004), donde continué mi formación y amplié el abanico de clientes. Incorporé la analítica web a mis proyectos obteniendo la certificación en Google Analytics y Webtrekk.
+Tras esto, comencé a trabajar en Internet Advantage, una de las primeras agencias digitales en España (2004), donde continué mi formación y amplié el abanico de clientes. Incorporé la analítica web a mis proyectos obteniendo la certificación en Google Analytics y Webtrekk. Compaginé este trabajo dando clases en Centros de Negocio y como ponente en varios eventos del sector.
 
 {: .divcenter .bottommargin .topmargin .font-body}
 ## He participado en estrategias SEO para clientes como COPE, Acciona, FNAC, Sol Meliá o Barceló Hoteles.
