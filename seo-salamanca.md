@@ -10,7 +10,7 @@ author:
 # Consultor SEO en Salamanca
 
 {: .lead .divcenter}
-Mi nombre es Emilio, informático apasionado por el **marketing digital**, el **Big Data** y la **analítica**. Llevo desde el 2007 trabajando como **[consultor SEO](https://emirodgar.com/consultor-seo/) en Salamanca**.
+Mi nombre es Emilio, informático apasionado por el **marketing digital**, concretamente el **SEO** y la **analítica web**. Llevo desde el 2007 trabajando como **[consultor SEO](https://emirodgar.com/consultor-seo/) en Salamanca**.
 
 {: .divcenter .bottommargin .topmargin .layoutIn}
 He trabajado en tres agencias digitales (Traffic4U, Internet Advantage y SmartUp) por lo que tengo amplia experiencia en el **desrrollo de estrategias en múltiples sectores y países**. 
@@ -28,5 +28,5 @@ Ahora quiero ayudar a las **empresas de Salamanca** a llegar más lejos en el ma
 ## Certificaciones
 
 {: .lead .divcenter}
-Cursé el máster de **Desarrollo de Sistemas para el Comercio Electrónico** de la Universidad de Salamanca y dispongo de certificaciones de **Google Analytics**, **Webtrekk** y **Google Mobile Experts**. A mayores, estoy homologado por ICEX España (Instituto Español de Comercio Exterior) para ayudar a las empresas españols a externalizar sus productos y servicios.
+Cursé el máster de **Desarrollo de Sistemas para el Comercio Electrónico** de la Universidad de Salamanca y dispongo de certificaciones de **Google Analytics**, **Webtrekk** y **Google Mobile Experts**. A mayores, estoy homologado como **consultor SEO** por ICEX España (Instituto Español de Comercio Exterior) para ayudar a las empresas españols a externalizar sus productos y servicios.
 
