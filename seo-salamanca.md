@@ -24,9 +24,9 @@ Algunos de mis clientes SEO han sido grandes empresas como Acciona, Movistar, Vi
 {: .lead .divcenter}
 Ahora quiero ayudar a las **empresas de Salamanca** a llegar más lejos en el marketing digital. Con mi experiencia y con los recursos necesarios, alcanzaremos cualquier objetivo.
 
+
 ## Certificaciones
 
 {: .lead .divcenter}
 Cursé el máster de **Desarrollo de Sistemas para el Comercio Electrónico** de la Universidad de Salamanca y dispongo de certificaciones de **Google Analytics**, **Webtrekk** y **Google Mobile Experts**. A mayores, estoy homologado por ICEX España (Instituto Español de Comercio Exterior) para ayudar a las empresas españols a externalizar sus productos y servicios.
 
-## ¿Hablamos?
