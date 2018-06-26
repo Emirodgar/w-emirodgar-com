@@ -1,4 +1,5 @@
 ---
+title: Consultor SEO
 description: Consultor SEO con más de 10 años de experiencia en estrategias digitales.
 lang: es_ES
 permalink: consultor-seo
