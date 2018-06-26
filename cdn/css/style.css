@@ -513,3 +513,4 @@ url(https://emirodgar.com/cdn/css/et-line/et-line.ttf) format('truetype'),
 url(https://emirodgar.com/cdn/css/et-line/et-line.svg#et-line) format('svg');font-weight:normal;font-style:normal;}
 #copyrights a {color: white;}
 .layoutIn {font-family: Georgia,Source Serif Pro,serif !important;font-style: italic;font-size: 1.7rem;line-height: 3.1rem;margin: 4.8rem 120px !important;text-align: center;}
+.layoutInH1{font-size:45px}
