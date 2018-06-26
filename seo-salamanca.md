@@ -1,6 +1,6 @@
 ---
 title: Consultor SEO en Salamanca
-description: Me llamo Emilio y soy consultor SEO con más de 10 años de experiencia en estrategias digitales.
+description: Me llamo Emilio y soy consultor SEO salmantino con más de 10 años de experiencia en estrategias digitales.
 lang: es_ES
 permalink: consultor-seo/salamanca
 author:
@@ -10,7 +10,7 @@ author:
 # Consultor SEO en Salamanca
 
 {: .lead .divcenter}
-Mi nombre es Emilio, informático apasionado del **marketing digital** por lo que llevo trabajando como **[consultor SEO](https://emirodgar.com/consultor-seo/) en Salamanca** desde el año 2007.
+Mi nombre es Emilio, informático apasionado por el **marketing digital**, el **Big Data** y la **analítica**. Llevo desde el 2007 trabajando como **[consultor SEO](https://emirodgar.com/consultor-seo/) en Salamanca**.
 
 {: .divcenter .bottommargin .topmargin .layoutIn}
 He trabajado en tres agencias digitales (Traffic4U, Internet Advantage y SmartUp) por lo que tengo amplia experiencia en el **desrrollo de estrategias en múltiples sectores y países**. 
