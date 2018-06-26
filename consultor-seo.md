@@ -15,7 +15,7 @@ Profesionalmente comencé mi carrera en 2009 trabajando como consultor SEO en Tr
 
 Durante dos años mi trabajo consistió en el desarrollo de acciones SEO como generación de arquitectura web y estrategias de contenido, definición de estrategias de enlazado (link building) o dar formación acerca de cómo diseñar y ejecutar estrategias SEO. 
 
-{: .nobottommargin t300 ls1}
+{: .nobottommargin .t300 .ls1}
 
 ## Me especialicé en el sector turismo y en medios digitales.
 
