@@ -28,5 +28,5 @@ Ahora quiero ayudar a las **empresas de Salamanca** a llegar más lejos en el ma
 ## Certificaciones
 
 {: .lead .divcenter}
-Cursé el máster de **Desarrollo de Sistemas para el Comercio Electrónico** de la Universidad de Salamanca y dispongo de certificaciones de **Google Analytics**, **Webtrekk** y **Google Mobile Experts**. A mayores, estoy homologado como **consultor SEO** por ICEX España (Instituto Español de Comercio Exterior) para ayudar a las empresas españols a externalizar sus productos y servicios.
+Cursé el máster de **Desarrollo de Sistemas para el Comercio Electrónico** de la Universidad de Salamanca y dispongo de certificaciones de **Google Analytics**, **Webtrekk** y **Google Mobile Experts**. A mayores, estoy homologado como **consultor SEO** por ICEX España (Instituto Español de Comercio Exterior) para ayudar a las empresas españolas a externalizar sus productos y servicios.
 
