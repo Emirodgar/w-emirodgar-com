@@ -12,13 +12,13 @@ author:
 {: .lead .divcenter}
 Mi nombre es Emilio, informático apasionado por el **marketing digital**, concretamente el SEO y la analítica web. Llevo desde el 2007 trabajando como **consultor SEO en Salamanca**.
 
-{: .nobottommargin .t300 .ls1 .before-heading}
+{: .bottommargin .topmargin .t300 .ls1 .before-heading .specialMention}
 He trabajado en tres agencias digitales (Traffic4U, Internet Advantage y SmartUp) por lo que tengo amplia experiencia en el **desarrollo de estrategias en múltiples sectores y países**. 
 
 {: .lead .divcenter}
 He sido **responsable del departamento SEO y analítica web** de Smartup (empresa salmantina), donde mi objetivo principal ha sido el desarrollo de un equipo sólido (7 trabajadores) junto con la búsqueda de soluciones estratégicas para los diferentes clientes SEO de la empresa.
 
-{: .nobottommargin .t300 .ls1 .before-heading}
+{: .bottommargin .topmargin .t300 .ls1 .before-heading .specialMention}
 Algunos de mis clientes SEO han sido grandes empresas como Acciona, Movistar, Vitaldent o Cadena100. 
 
 {: .lead .divcenter}
