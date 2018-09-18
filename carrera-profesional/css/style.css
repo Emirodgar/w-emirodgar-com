@@ -83,7 +83,7 @@ header .header-left h2 {
 	margin: 20px;
 	background: #34333A;
 	color: white;
-	padding: 20px;
+	padding: 10px 20px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
