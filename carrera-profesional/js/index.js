@@ -232,7 +232,7 @@ function Header(props) {
 
 					React.createElement('div', { className: 'col-md-6' },
 						React.createElement('div', { 'class': 'float-md-right' },
-							React.createElement('a', { href: 'https://emirodgar.com' }, 'Inicio'), ' / ', React.createElement('a', { href: 'https://es.linkedin.com/in/emirodgar' }, 'Linkedin'), ' / ', React.createElement('a', { href: 'https://twitter/emirodgar' }, 'Twitter'), ''))))));
+							React.createElement('a', { href: 'https://emirodgar.com' }, 'emirodgar.com'), ' / ', React.createElement('a', { href: 'https://es.linkedin.com/in/emirodgar' }, 'linkedin.com'), ' / ', React.createElement('a', { href: 'https://twitter/emirodgar' }, 'twitter.com'), ''))))));
 
 
 
