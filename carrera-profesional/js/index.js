@@ -232,9 +232,7 @@ function Header(props) {
 
 					React.createElement('div', { className: 'col-md-6' },
 						React.createElement('div', { 'class': 'float-md-right' },
-							React.createElement('a', { href: 'https://chrismcnally.co.uk' }, 'chrismcnally.co.uk'), ' / ', React.createElement('a', { href: 'https://codepen.io/chrismcnally' }, 'codepen.io'), ' / ', React.createElement('a', { href: 'https://uk.linkedin.com/in/chrismcnally1\n' }, 'linkedin.com'), ' /',
-
-							React.createElement('a', { href: 'https://twitter.com/ChrisMcNallyWeb' }, 'twitter.com')))))));
+							React.createElement('a', { href: 'https://emirodgar.com' }, 'Inicio'), ' / ', React.createElement('a', { href: 'https://es.linkedin.com/in/emirodgar' }, 'Linkedin'), ' / ', React.createElement('a', { href: 'https://twitter/emirodgar' }, 'Twitter'), ''))))));
 
 
 
