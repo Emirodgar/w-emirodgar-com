@@ -514,3 +514,5 @@ url(https://emirodgar.com/cdn/css/et-line/et-line.svg#et-line) format('svg');fon
 #copyrights a {color: white;}
 .layoutIn {font-family: serif !important;font-style: italic;font-size: 1.8rem;line-height: 3.1rem;margin: 4.8rem 220px !important;text-align: center;}
 .specialMention{font-style: italic;font-size: 1.8rem;line-height: 3.1rem;text-align: center;}
+.uppercase{text-transform: uppercase!important;}
+.t600 {font-weight: 600!important;}
