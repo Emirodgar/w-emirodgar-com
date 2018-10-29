@@ -7,8 +7,6 @@ subheader: esto es una prueba
 
 ---
 
-# probando
+## Listado de factores SEO 2019
 
-Esto es un ejemplo
-
-##Prueba2
+En este listado hablaremos de los factores SEO más imporantes
