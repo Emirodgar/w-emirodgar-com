@@ -1,16 +1,17 @@
 ---
-title: Consultor SEO en Salamanca
+title: Listado de factores SEO en 2019
 description: Me llamo Emilio y soy consultor SEO salmantino con más de 10 años de experiencia en estrategias digitales.
 lang: es_ES
 permalink: test
-subheader: esto es una prueba
+subheader: Cómo hacer SEO en 2019. Guías, trucos y consejos
 
 ---
 
-## Listado de factores SEO 2019
+## ¿QUÉ FACTORES TIENEN MÁS RELEVANCIA SEO?
 
-### LA PÁGINA EXISTE
-Si se trata de una página que existe -y simplemente queremos retirarla del índice de búsqueda de Google- debemos utilizar la herramienta oficial de Google para eliminar páginas de su índice. Podemos acceder a la misma a través de: Índice de Google > Eliminar URLs. Por desgracia, debemos incluir de una en una cada URL que queremos eliminar.
+Durante el año 2018 hemos ido viendo el crecimiento y auge tanto del tráfico mobile como de la seguridad por lo que mis dos primeros puntos van en esa línea: disponer de una página web adecuada para Mobile First Index y certificado SSL.
+
+> El certificado SSL no es un factor de posicionamiento directo pero a condiciones de igualdad frente a competidores orgánicos sí puede ser determinante para conseguir un mejor posicionamiento.
 
 ### LA PÁGINA YA NO EXISTE
 En el caso de que se trate de un contenido que ya no existe y que aún así sigue indexado en Google, debemos utilizar la herramienta de eliminación de contenido obsoleto.
