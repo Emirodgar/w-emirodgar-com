@@ -25,7 +25,7 @@ Here's an image of a drag racer in action:
 ![Drag Racing](Dragster.jpg)
 
 Move along.
-<html></html>
+<html><b>example of example</b></html>
 ```
 
 Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una accion temporal (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
