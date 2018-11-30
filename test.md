@@ -1,5 +1,5 @@
 ---
-title: Listado de factores SEO en 2019
+title: Factores SEO en 2019
 description: Me llamo Emilio y soy consultor SEO salmantino con más de 10 años de experiencia en estrategias digitales.
 lang: es_ES
 permalink: test
@@ -17,3 +17,7 @@ Durante el año 2018 hemos ido viendo el crecimiento y auge tanto del tráfico m
 En el caso de que se trate de un contenido que ya no existe y que aún así sigue indexado en Google, debemos utilizar la herramienta de eliminación de contenido obsoleto.
 
 Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una accion temporal (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
+
+```
+Probando código de <prog></prog>
+```
