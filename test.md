@@ -2,7 +2,7 @@
 title: Factores SEO en 2019
 description: Me llamo Emilio y soy consultor SEO salmantino con más de 10 años de experiencia en estrategias digitales.
 lang: es_ES
-permalink: test
+permalink: test2
 subheader: Cómo hacer SEO en 2019. Guías, trucos y consejos
 
 ---
