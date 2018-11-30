@@ -2,7 +2,7 @@
 title: Factores SEO en 2019
 description: Me llamo Emilio y soy consultor SEO salmantino con más de 10 años de experiencia en estrategias digitales.
 lang: es_ES
-permalink: test2
+permalink: test
 subheader: Cómo hacer SEO en 2019. Guías, trucos y consejos
 
 ---
@@ -10,6 +10,7 @@ subheader: Cómo hacer SEO en 2019. Guías, trucos y consejos
 ## ¿QUÉ FACTORES TIENEN MÁS RELEVANCIA SEO?
 
 Durante el año 2018 hemos ido viendo el crecimiento y auge tanto del tráfico mobile como de la seguridad por lo que mis dos primeros puntos van en esa línea: disponer de una página web adecuada para Mobile First Index y certificado SSL.
+{:.postTextCenter}
 
 > El certificado SSL no es un factor de posicionamiento directo pero a condiciones de igualdad frente a competidores orgánicos sí puede ser determinante para conseguir un mejor posicionamiento.
 
