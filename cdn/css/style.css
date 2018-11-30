@@ -517,10 +517,15 @@ url(https://emirodgar.com/cdn/css/et-line/et-line.svg#et-line) format('svg');fon
 .uppercase{text-transform: uppercase!important;}
 .t600 {font-weight: 600!important;}
 blockquote {
-    padding: 10px 20px;
+    /*padding: 10px 20px;
     margin: 0 0 20px;
-    border-left: 5px solid #eee;
-	font-style: italic;
+    border-left: 5px solid #eee;*/
+	font-style: italic;	
+	margin: 0 0 30px;
+    margin-left: -26px;
+    border-left: 3px solid #57ad68;
+    padding-left: 20px;
+	
 }
 .colorBlack {
 	color: rgba(0,0,0,.84);
@@ -528,3 +533,21 @@ blockquote {
 
 .postTextLeft {text-align:left;}
 .postTextCenter {text-align:center;}
+pre {
+    padding: 8px 12px;
+    overflow-x: scroll;
+}
+pre, code {
+    font-size: 15px;
+    border: 1px solid #e8e8e8;
+    border-radius: 3px;
+    background-color: #eeeeff;
+}
+pre > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+code {
+    padding: 1px 5px;
+}

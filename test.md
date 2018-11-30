@@ -35,3 +35,10 @@ Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no o
 ![Drag Racing](https://emirodgar.com/cdn/images/clients/2.webp)
 
 Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una accion temporal (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
+
+Puntos 
+
+ - 200 ok: indica que la página se ha servidor correctamente (ningún error)
+ - 404 error: indica que la página no existe (no ha podido ser encontrada dentro del servidor)
+ - 500 error: indica que ha ocurrido un error a nivel interno de la página (problema en la programación de la misma)
+ - XXX: podemos replicar este método para cualquier otro estado
