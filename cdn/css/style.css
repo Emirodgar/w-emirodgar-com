@@ -187,7 +187,7 @@ body:not(.device-touch) .grid-container{-webkit-transition:height .4s ease;-o-tr
 body:not(.device-touch) .portfolio{-webkit-transition:height .4s linear;-o-transition:height .4s linear;transition:height .4s linear;}
 .portfolio-item{float:left;position:relative;width:25%;height:auto;padding:0 12px 12px 0;}
 .portfolio-item .portfolio-image{position:relative;overflow:hidden;}
-.portfolio-item .portfolio-image,.portfolio-item .portfolio-image a,.portfolio-item .portfolio-image img{display:block;width:100%;height:auto;filter:grayscale(70%);}
+.portfolio-item .portfolio-image,.portfolio-item .portfolio-image a,.portfolio-item .portfolio-image img{display:block;width:100%;height:auto;}
 .portfolio-desc{z-index:3;padding:15px 5px 10px;}
 .portfolio-desc h3{margin:0;padding:0;font-size:19px;}
 .portfolio-desc h3{color:#222;}

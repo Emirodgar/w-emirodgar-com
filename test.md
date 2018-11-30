@@ -20,4 +20,17 @@ Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no o
 
 ```
 Probando código de <prog></prog>
+Here's an image of a drag racer in action:
+
+![Drag Racing](Dragster.jpg)
+
+Move along.
+<html></html>
 ```
+
+Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una accion temporal (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
+
+
+![Drag Racing](https://emirodgar.com/cdn/images/clients/2.webp)
+
+Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una accion temporal (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
