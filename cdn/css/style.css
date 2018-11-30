@@ -516,3 +516,9 @@ url(https://emirodgar.com/cdn/css/et-line/et-line.svg#et-line) format('svg');fon
 .specialMention{font-style: italic;font-size: 1.8rem;line-height: 3.1rem;text-align: center;}
 .uppercase{text-transform: uppercase!important;}
 .t600 {font-weight: 600!important;}
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17px;
+    border-left: 5px solid #eee;
+}
