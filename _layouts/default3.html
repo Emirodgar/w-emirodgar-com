@@ -1,0 +1,123 @@
+	<!DOCTYPE html>
+<html dir="ltr" lang="en-ES">
+<head>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Emirodgar" />
+	{% seo %}
+	<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:300,400,700" rel="stylesheet" type="text/css" />
+	<link rel="icon" href="../cdn/images/hash.png" />
+	<link rel="stylesheet" href="../cdn/css/style.css" type="text/css" />
+
+	<link rel="stylesheet" href="onepage.css" type="text/css" />
+
+	<link rel="stylesheet" href="css/fonts.css" type="text/css" />
+
+	<link rel="stylesheet" href="../css/responsive.css" type="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+</head>
+
+<body class="stretched side-push-panel overlay-menu">
+
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
+
+		<!-- Header
+		============================================= -->
+		<header id="header" class="full-header transparent-header static-sticky">
+
+			<div id="header-wrap">
+
+				<div class="container clearfix">
+
+					<div id="logo"><a href="https://emirodgar.com" class="standard-logo"><b>EMIRODGAR</b><i style="font-size:19px;"> digital</i></a></div>
+
+				</div>
+
+			</div>
+
+		</header>
+		<section id="slider" class="slider-element slider-parallax full-screen force-full-screen">
+
+			<div class="slider-parallax-inner">
+
+				<div class="full-screen force-full-screen section nobg nopadding nomargin noborder ohidden">
+					<div class="container clearfix">
+
+						<div class="vertical-middle center">
+							<div class="counter center opm-large-counter"><span data-from="1500" data-to="2015" data-refresh-interval="100" data-speed="5000"></span></div>
+						</div>
+
+						<div class="vertical-middle center">
+							<div class="emphasis-title nobottommargin">
+								<h1 class="uppercase t600" style="font-size: 72px; letter-spacing: 2px;">{{ page.title }}</h1>
+								<p class="lead nobottommargin">{{ page.subheader }}</p>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				<a href="#" data-scrollto="#section-about" data-easing="easeInOutExpo" data-speed="1250" data-offset="70" class="one-page-arrow"><i class="icon-angle-down infinite animated fadeInDown"></i></a>
+
+			</div>
+
+		</section><!-- #slider end -->
+
+		<!-- Content
+		============================================= -->
+		<section id="content">
+
+			<div class="content-wrap nopadding">
+
+				<div id="section-about" class="center page-section">
+
+					<div class="container clearfix lead colorBlack postText" style="font-size: 1.25rem; font-weight: 300;">
+
+						{{ content }}
+
+					</div>
+
+				</div>
+
+			</div>
+			
+
+		</section><!-- #content end -->
+
+		<!-- Footer
+		============================================= -->
+		<footer id="footer" class="dark noborder">
+
+			<div id="copyrights">
+				<div class="container center clearfix">					
+					<a href="https://emirodgar.com">Inicio</a> / <a href="https://emirodgar.com/mapa-web">Mapa web</a> / <a target="_blank" href="https://es.linkedin.com/in/emirodgar">LinkedIn</a>  / <a target="_blank" href="https://twitter.com/emirodgar">Twitter</a>
+					<br/>
+					<a id="btnConversionLkd" href="mailto:hola@emirodgar.com" target="_blank" class="button button-border button-circle button-light">hola@emirodgar.com</a>
+					<br/>
+					&copy Emirodgar - SEO - {{ site.time |  date: ' %d/%m/%Y' }}
+				</div>
+			</div>
+			
+			
+
+		</footer><!-- #footer end -->
+
+	</div><!-- #wrapper end -->
+
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="icon-angle-up"></div>
+
+	<!-- External JavaScripts
+	============================================= -->
+	<script async src="../cdn/js/emirodgar.js"></script>
+	<script src="../cdn/js/jquery.js"></script>
+	<script src="../cdn/js/plugins.js"></script>
+
+	<script src="../cdn/js/functions.js"></script>
+
+</body>
+</html>
