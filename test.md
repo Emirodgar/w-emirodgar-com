@@ -7,7 +7,7 @@ subheader: Cómo hacer SEO en 2019. Guías, trucos y consejos
 
 ---
 
-## ¿QUÉ FACTORES TIENEN MÁS RELEVANCIA SEO?
+# ¿QUÉ FACTORES TIENEN MÁS RELEVANCIA SEO?
 
 Durante el año 2018 hemos ido viendo el crecimiento y auge tanto del tráfico mobile como de la seguridad por lo que mis dos primeros puntos van en esa línea: disponer de una página web adecuada para Mobile First Index y certificado SSL.
 {:.postTextCenter}
