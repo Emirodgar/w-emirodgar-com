@@ -57,14 +57,14 @@ Al igual que ha ocurrido una revolución en el cambio de tráfico *desktop* a tr
 
 A día de hoy la búsqueda tradicional sigue teniendo gran peso pero ya podemos ver que la tendencia de búsqueda por voz [está al alza y sigue avanzando](https://www.brightlocal.com/learn/voice-search-for-local-business-study/). Algunos datos interesantes:
 
-- 58% han buscado información de una empresa en al último año a través de la vo
-- 46% de los usuarios que usan este servicio buscan of voice search users look for a local business daily  
-- 27% visit the website of a local business after conducting a voice search  
-- 76% of smart home speaker users conduct local searches at least once aweek—with 53% performing daily searches
+- 58% han buscado información de una empresa en al último año a través de la voz
+- 46% de los usuarios que usan este servicio de voz lo hacen de forma diaria
+- 27% visitaron un negocio local tras una búsqueda por voz  
+- 76% de los dueños de un asistente virtual buscan información de negocios locales al menos una vez
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjA0Mzk3NCw4MzAyMzI4ODgsLTk1Mz
+eyJoaXN0b3J5IjpbLTUxMTI2NzgwNiw4MzAyMzI4ODgsLTk1Mz
 Y0MzQxNCwtNjg3MTQxNTM2LC0xOTgyNzkyNzIyLDE1Mzk2MDA1
 MjAsLTE5MDI2NzM3OTldfQ==
 -->
