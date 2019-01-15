@@ -44,14 +44,13 @@ Toda la estrategia debe ser apoyada por un contenido único, original y de calid
 
 Este es un punto que heredo del 2018 y que durante este año seguirá teniendo una gran importancia debido a que aún hay muchas páginas que no están preparadas, ni técnicamente ni estratégicamente para este nuevo algoritmo.
 
-El nuevo campo de batalla es mobile y quién no lo sepa está perdiendo mucho tráfico.
+>El nuevo campo de batalla es mobile y quién no lo sepa está perdiendo mucho tráfico. 
 
- debemos tener especial atención al tiempo de carga y a la correcta visualización de nuestra web en diferentes dispositivos.
+Por ello debemos tener especial atención al tiempo de carga (relacionado con las métricas de usabilidad SEO que comentaba en el primer punto) y a la correcta visualización de nuestra web en diferentes dispositivos.
 
 Recomiendo utilizar  [Sizzy](https://sizzy.co/)  para ello, aunque en la sección de  [recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)  tenéis muchas herramientas interesantes para poder optimizar el rendimiento mobile.
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  [novedad y avance en marketing digital](https://sinplanes.com/marketing-digital/como-estar-al-dia-en-marketing-digital); esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI5MjEzMTEsLTE5MDI2NzM3OTldfQ
-==
+eyJoaXN0b3J5IjpbLTIwNjg5NTE0NiwtMTkwMjY3Mzc5OV19
 -->
