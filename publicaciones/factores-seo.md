@@ -22,7 +22,9 @@ Nadie tiene la verdad absoluta, pero basándome en la experiencia y los resultad
 
 ## Lo más importante para el SEO en 2019
 
-Aunque pueda parecer raro, destaco como crucial el  [ofrecer una buena experiencia al usuario](https://searchengineland.com/seo-ux-success-286638)  como factor SEO relevante.
+### RankBrain y facgtores UX
+
+Aunque pueda parecer raro, destaco como crucial el  [ofrecer una buena experiencia al usuario](https://searchengineland.com/seo-ux-success-286638)  como **factor SEO relevante**. Google ha avanzando mucho durante 2018 en este aspecto y prueba de ello son el lanzamiento de su herramienta [web.dev](https://web.dev/) y de la LightHouse. 
 
 A mayores, esto debe ser apoyado por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles; debemos tener especial atención al tiempo de carga y a la correcta visualización de nuestra web en diferentes dispositivos.
 
@@ -30,5 +32,5 @@ Recomiendo utilizar  [Sizzy](https://sizzy.co/)  para ello, aunque en la secció
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  [novedad y avance en marketing digital](https://sinplanes.com/marketing-digital/como-estar-al-dia-en-marketing-digital); esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDA0Nzc4NV19
+eyJoaXN0b3J5IjpbMTUxNTkzMTAwXX0=
 -->
