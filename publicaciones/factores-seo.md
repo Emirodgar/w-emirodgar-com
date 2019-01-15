@@ -30,7 +30,7 @@ Incluso tenemos a nuestra disposición un [informe en Data Studio](https://devel
 
 ### Rebote y CTR
 
-Ya lo hemos comentado en muchas ocasiones y multitud de experimentos han establecido la relación entre el [CTR orgánico](https://sparktoro.com/blog/google-ctr-in-2018-paid-organic-no-click-searches/) y un buen posicionamiento en las *SERPs*.
+Ya lo hemos comentado en muchas ocasiones y multitud de experimentos han establecido la relación entre el [CTR orgánico](https://sparktoro.com/blog/google-ctr-in-2018-paid-organic-no-click-searches/) y un buen posicionamiento en las *SERPs*. Analizar los datos de Google Search Console se hace crucial para identificar puntos débiles, puntos fuertes y el [impacto generado tras cada actualización](https://en.ryte.com/magazine/how-to-work-effectively-with-google-search-console-data-to-analyze-google-updates).
 
 ### Datos estructurados
 
@@ -56,6 +56,6 @@ Al igual que ha ocurrido una revolución en el cambio de tráfico *desktop* a tr
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzE0MTUzNiwtMTk4Mjc5MjcyMiwxNT
-M5NjAwNTIwLC0xOTAyNjczNzk5XX0=
+eyJoaXN0b3J5IjpbLTk1MzY0MzQxNCwtNjg3MTQxNTM2LC0xOT
+gyNzkyNzIyLDE1Mzk2MDA1MjAsLTE5MDI2NzM3OTldfQ==
 -->
