@@ -16,10 +16,10 @@ En los últimos años he trabajado estrategias digitales como [SEO en México](h
 
 Tiendo a compartir mis conocimientos y recursos, como por ejemplo este [listado de herramientas](https://emirodgar.com/recursos-marketing-digital/) que utilizo en mi día a día.
 
-De vez en cuando publico artículos relacionados con el SEO, el marketing digital y growth hacking.
+De vez en cuando [publico artículos](publicaciones) relacionados con el SEO, el marketing digital y growth hacking.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTI0MjM1Nyw4MDQ4NDQ2MzAsMzE3Mz
-YxMzA0LC05MDY5MTM0NDJdfQ==
+eyJoaXN0b3J5IjpbNTgzOTQ5MjU3LDEzNjUyNDIzNTcsODA0OD
+Q0NjMwLDMxNzM2MTMwNCwtOTA2OTEzNDQyXX0=
 -->
