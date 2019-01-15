@@ -36,7 +36,7 @@ Ya lo hemos comentado en muchas ocasiones y multitud de experimentos han estable
 
 No impactan directamente al SEO pero nos ayudan a ganar visibilidad frente a otros resultados y por lo tanto nos brindan la oportunidad de incrementar la captación de tráfico de calidad.
 
-Aunque existen multitud de etiquetados que podemos realizar (ver [schema.org](https://schema.org/)), Google sólo incorpora
+Aunque existen multitud de etiquetados que podemos realizar (ver [schema.org](https://schema.org/)), Google sólo incorpora los que, de momento, [puede mostrar en sus resultados](https://developers.google.com/search/docs/data-types/article) o utilizar de forma interna en su algoritmo. Es importante asegurarse de que los implementamos [sin errores](https://search.google.com/structured-data/testing-tool/u/0/?hl=es).
 
 ### Calidad y originalidad en los contenidos
 
@@ -58,7 +58,7 @@ Al igual que ha ocurrido una revolución en el cambio de tráfico *desktop* a tr
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODQ4NDYyLC05NTM2NDM0MTQsLTY4Nz
+eyJoaXN0b3J5IjpbODMwMjMyODg4LC05NTM2NDM0MTQsLTY4Nz
 E0MTUzNiwtMTk4Mjc5MjcyMiwxNTM5NjAwNTIwLC0xOTAyNjcz
 Nzk5XX0=
 -->
