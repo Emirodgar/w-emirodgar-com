@@ -10,7 +10,7 @@ permalink: factores-seo
 
 Llega un nuevo año y debemos hacer repaso de lo que más ha impactado a nuestras estrategias SEO y los siguientes pasos que debemos dar para asegurarnos un crecimiento en **tráfico y conversiones orgánicas** durante 2019.
 
-Después de analizar las tendencias de 2018, para mí estos serán los puntos más críticos e importantes para las estrategias SEO durante 2019:
+Nadie tiene la verdad absoluta, pero basándome en la experiencia y los resultados de los últimos meses, estos son los puntos críticos que pienso que marcarán la diferecia durante este año:
 
 -   RankBrain y factores UX (Google)
 -   Rebote y CTR
@@ -30,5 +30,5 @@ Recomiendo utilizar  [Sizzy](https://sizzy.co/)  para ello, aunque en la secció
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  [novedad y avance en marketing digital](https://sinplanes.com/marketing-digital/como-estar-al-dia-en-marketing-digital); esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Njk1MTY2NV19
+eyJoaXN0b3J5IjpbMjE0MDA0Nzc4NV19
 -->
