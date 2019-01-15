@@ -14,8 +14,8 @@ Me llamo Emilio, soy de [Salamanca](https://emirodgar.com/consultor-seo/salamanc
 
 En los últimos años he dado el salto y también he trabajado estrategias digitales como [SEO en México](https://emirodgar.com/consultor-seo/mexico) y otros países como Colombia, Perú o Argentina.
 
-Tiendo a compartir 
+Tiendo a compartir mis conocimientos y recursos, como por ejemplo este [listado de herramientas](https://emirodgar.com/recursos-marketing-digital/) que utilizo en mi día a día.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzkwNjAzOF19
+eyJoaXN0b3J5IjpbLTk4MjMxMTUyMl19
 -->
