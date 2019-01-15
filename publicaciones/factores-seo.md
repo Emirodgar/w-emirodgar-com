@@ -38,7 +38,13 @@ No impactan directamente al SEO pero nos ayudan a ganar visibilidad frente a otr
 
 ### Calidad y originalidad en los contenidos
 
-Toda la estrategia debe ser apoyada por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles. Hoy en día existe tal cantidad de información que si seguimos la estela de otros jamás conseguiremos posicionar por delante. Debemos ser creativos
+Toda la estrategia debe ser apoyada por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles. Hoy en día existe tal cantidad de información que si seguimos la estela de otros jamás conseguiremos posicionar por delante. Debemos ser creativos y **aportar valor real** a nuestros visitantes.
+
+### Optimización para Google Mobile First Index
+
+Este es un punto que heredo del 2018 y que durante este año seguirá teniendo una gran importancia debido a que aún hay muchas páginas que no están preparadas, ni técnicamente ni estratégicamente para este nuevo algoritmo.
+
+El nuevo campo de batalla es mobile y quién no lo sepa está perdiendo mucho tráfico.
 
  debemos tener especial atención al tiempo de carga y a la correcta visualización de nuestra web en diferentes dispositivos.
 
@@ -46,5 +52,6 @@ Recomiendo utilizar  [Sizzy](https://sizzy.co/)  para ello, aunque en la secció
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  [novedad y avance en marketing digital](https://sinplanes.com/marketing-digital/como-estar-al-dia-en-marketing-digital); esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI2NzM3OTldfQ==
+eyJoaXN0b3J5IjpbLTE5NTI5MjEzMTEsLTE5MDI2NzM3OTldfQ
+==
 -->
