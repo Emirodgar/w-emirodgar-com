@@ -7,7 +7,7 @@ subheader: Cómo hacer SEO en 2019. Guías, trucos y consejos
 
 ---
 
-# Factores con mayor relevancia SEO
+# Factgores con mayor relevancia SEO
 
 Durante el año 2018 hemos ido viendo el crecimiento y auge tanto del tráfico mobile como de la seguridad por lo que mis dos primeros puntos van en esa línea: disponer de una página web adecuada para Mobile First Index y certificado SSL.
 {:.postTextCenter}
@@ -32,6 +32,8 @@ Move along.
 Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una accion temporal (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
 
 
+![Drag Racing](https://emirodgar.com/cdn/images/clients/2.webp)
+
 Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una accion temporal (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
 
 Puntos 
@@ -40,3 +42,6 @@ Puntos
  - 404 error: indica que la página no existe (no ha podido ser encontrada dentro del servidor)
  - 500 error: indica que ha ocurrido un error a nivel interno de la página (problema en la programación de la misma)
  - XXX: podemos replicar este método para cualquier otro estado
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTczMTY4NTU0XX0=
+-->
