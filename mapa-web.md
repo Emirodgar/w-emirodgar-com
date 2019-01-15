@@ -10,7 +10,9 @@ permalink: mapa-web
 
 Toda página web que se precie debe tener un **mapa web** para poder organizar los contenidos y facilitar la navegación.
 
-Si quieres saber de mí, te diré que [en la página principal](https://emirodgar.com/) tienes un buen resumen 
+Si quieres saber de mí, te diré que [en la página principal](https://emirodgar.com/) tienes un buen resumen.
+
+Me llamo Emilio, soy de Salamanca y me he especializado como [consultor SEO](https://emirodgar.com/consultor-seo/) aunque mi carrera profesional  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjEwNjQ5MF19
+eyJoaXN0b3J5IjpbLTQzMDk3NDU1M119
 -->
