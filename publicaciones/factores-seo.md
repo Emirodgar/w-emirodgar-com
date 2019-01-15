@@ -38,11 +38,13 @@ No impactan directamente al SEO pero nos ayudan a ganar visibilidad frente a otr
 
 ### Calidad y originalidad en los contenidos
 
-A mayores, esto debe ser apoyado por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles; debemos tener especial atención al tiempo de carga y a la correcta visualización de nuestra web en diferentes dispositivos.
+Toda la estrategia debe ser apoyada por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles. Hoy en día existe tal cantidad de información que si seguimos la estela de otros jamás conseguiremos posicionar por delante. Debemos ser creativos
+
+ debemos tener especial atención al tiempo de carga y a la correcta visualización de nuestra web en diferentes dispositivos.
 
 Recomiendo utilizar  [Sizzy](https://sizzy.co/)  para ello, aunque en la sección de  [recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)  tenéis muchas herramientas interesantes para poder optimizar el rendimiento mobile.
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  [novedad y avance en marketing digital](https://sinplanes.com/marketing-digital/como-estar-al-dia-en-marketing-digital); esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzY3MjkxXX0=
+eyJoaXN0b3J5IjpbLTE5MDI2NzM3OTldfQ==
 -->
