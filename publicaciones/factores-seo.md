@@ -1,0 +1,70 @@
+---
+title: Factores SEO 2019
+description: Estos son los factores SEO que mayor impacto tendrán durante el año 2019
+lang: es_ES
+permalink: factores-seo
+
+---
+
+# Factores SEO 2019
+
+Llega un nuevo año y debemos hacer repaso de lo que más ha impactado a nuestras estrategias SEO y los siguientes pasos que debemos dar para asegurarnos un crecimiento en **tráfico y conversiones orgánicas** durante 2019.
+
+Nadie tiene la verdad absoluta, pero basándome en la experiencia y los resultados de los últimos meses, estos son los puntos críticos que pienso que marcarán la diferecia durante este año:
+
+-   RankBrain y factores UX (Google)
+-   Rebote y CTR
+-   Datos estructurados
+-   Calidad y originalidad en los contenidos
+-   Optimización para Google Mobile First Index
+-   Optimización para búsqueda por voz
+
+## Lo más importante para el SEO en 2019
+
+### RankBrain y factores UX
+
+Aunque pueda parecer raro, destaco como crucial el  [ofrecer una buena experiencia al usuario](https://searchengineland.com/seo-ux-success-286638)  como **factor SEO relevante**. Google ha avanzando mucho durante 2018 en este aspecto y prueba de ello son el lanzamiento de [Lighthouse](https://developers.google.com/web/tools/lighthouse/?hl=es) y de su herramienta [web.dev](https://web.dev/) . 
+
+Incluso tenemos a nuestra disposición un [informe en Data Studio](https://developers.google.com/web/updates/2018/08/chrome-ux-report-dashboard) para monitorizar la evolución de nuestro rendimiento e incluso el de la competencia.
+
+### Rebote y CTR
+
+Ya lo hemos comentado en muchas ocasiones y multitud de experimentos han establecido la relación entre el [CTR orgánico](https://sparktoro.com/blog/google-ctr-in-2018-paid-organic-no-click-searches/) y un buen posicionamiento en las *SERPs*. Analizar los datos de Google Search Console se hace crucial para identificar puntos débiles, puntos fuertes y el [impacto generado tras cada actualización](https://en.ryte.com/magazine/how-to-work-effectively-with-google-search-console-data-to-analyze-google-updates).
+
+### Datos estructurados
+
+No impactan directamente al SEO pero nos ayudan a ganar visibilidad frente a otros resultados y por lo tanto nos brindan la oportunidad de incrementar la captación de tráfico de calidad.
+
+Aunque existen multitud de etiquetados que podemos realizar (ver [schema.org](https://schema.org/)), Google sólo incorpora los que, de momento, [puede mostrar en sus resultados](https://developers.google.com/search/docs/data-types/article) o utilizar de forma interna en su algoritmo. Es importante asegurarse de que los implementamos [sin errores](https://search.google.com/structured-data/testing-tool/u/0/?hl=es).
+
+### Calidad y originalidad en los contenidos
+
+Toda la estrategia debe ser apoyada por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles. Hoy en día existe tal cantidad de información que si seguimos la estela de otros jamás conseguiremos posicionar por delante. Debemos ser creativos y **aportar valor real** a nuestros visitantes.
+
+### Optimización para Google Mobile First Index
+
+Este es un punto que heredo del 2018 y que durante este año seguirá teniendo una gran importancia debido a que aún hay muchas páginas que no están preparadas, ni técnicamente ni estratégicamente para este nuevo algoritmo.
+
+>El nuevo campo de batalla es mobile y quién no lo sepa está perdiendo mucho tráfico. 
+
+Por ello debemos tener especial atención al tiempo de carga (relacionado con las métricas de usabilidad SEO que comentaba en el primer punto) y a la correcta visualización de nuestra web en diferentes dispositivos.
+
+Recomiendo utilizar  [Sizzy](https://sizzy.co/)  para ello, aunque en la sección de  [recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)  tenéis muchas herramientas interesantes para poder optimizar el rendimiento mobile.
+
+### Optimización para búsqueda por voz
+
+Al igual que ha ocurrido una revolución en el cambio de tráfico *desktop* a tráfico *mobile*, la irrupción de asistentes de voz como Alexa, Siri o Google ha abierto la puerta a un nuevo comportamiento en las búsquedas.
+
+A día de hoy la búsqueda tradicional sigue teniendo gran peso pero ya podemos ver que la tendencia de búsqueda por voz [está al alza y seguirá aumentando durante 2019](https://www.brightlocal.com/learn/voice-search-for-local-business-study/). El mayor impacto lo encontramos a nivel local por lo que las empresas con sede física serán las que más se puedan beneficiar de estas búsquedas. Algunos datos interesantes:
+
+- 58% han buscado información de una empresa local en el último año
+- 46% de los usuarios que usan este servicio de voz lo hacen de forma diaria
+- 27% visitaron un negocio local tras una búsqueda por voz  
+- 76% de los dueños de un asistente virtual buscan información de negocios locales al menos una vez por semana
+
+Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExMjQ1NzgyOTQsLTUxMTI2NzgwNiw4Mz
+AyMzI4ODgsLTk1MzY0MzQxNCwtNjg3MTQxNTM2LC0xOTgyNzky
+NzIyLDE1Mzk2MDA1MjAsLTE5MDI2NzM3OTldfQ==
+-->
