@@ -52,10 +52,10 @@ Recomiendo utilizar  [Sizzy](https://sizzy.co/)  para ello, aunque en la secció
 
 ### Optimización para búsqueda por voz
 
-Al igual que ha ocurrido una revolución en el cambio de 
+Al igual que ha ocurrido una revolución en el cambio de tráfico *desktop* a tráfico *mobile*, la irrupción de asistentes de voz como Alexa, Siri o Google ha abierto la puerta a un
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI3OTI3MjIsMTUzOTYwMDUyMCwtMT
-kwMjY3Mzc5OV19
+eyJoaXN0b3J5IjpbLTY4NzE0MTUzNiwtMTk4Mjc5MjcyMiwxNT
+M5NjAwNTIwLC0xOTAyNjczNzk5XX0=
 -->
