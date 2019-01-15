@@ -16,6 +16,11 @@ En los últimos años he trabajado estrategias digitales como [SEO en México](h
 
 Tiendo a compartir mis conocimientos y recursos, como por ejemplo este [listado de herramientas](https://emirodgar.com/recursos-marketing-digital/) que utilizo en mi día a día.
 
+## Publicaciones
+
+- [Factores SEO](factores-seo)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3MzYxMzA0LC05MDY5MTM0NDJdfQ==
+eyJoaXN0b3J5IjpbODA0ODQ0NjMwLDMxNzM2MTMwNCwtOTA2OT
+EzNDQyXX0=
 -->
