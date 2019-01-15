@@ -18,7 +18,6 @@ Nadie tiene la verdad absoluta, pero basándome en la experiencia y los resultad
 -   Calidad y originalidad en los contenidos
 -   Optimización para Google Mobile First Index
 -   Optimización para búsqueda por voz
--   Uso de material audiovisual
 
 ## Lo más importante para el SEO en 2019
 
@@ -58,7 +57,7 @@ Al igual que ha ocurrido una revolución en el cambio de tráfico *desktop* a tr
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwMjMyODg4LC05NTM2NDM0MTQsLTY4Nz
-E0MTUzNiwtMTk4Mjc5MjcyMiwxNTM5NjAwNTIwLC0xOTAyNjcz
-Nzk5XX0=
+eyJoaXN0b3J5IjpbMzk0NjA2NDAyLDgzMDIzMjg4OCwtOTUzNj
+QzNDE0LC02ODcxNDE1MzYsLTE5ODI3OTI3MjIsMTUzOTYwMDUy
+MCwtMTkwMjY3Mzc5OV19
 -->
