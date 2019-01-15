@@ -30,7 +30,13 @@ Incluso tenemos a nuestra disposición un [informe en Data Studio](https://devel
 
 ### Rebote y CTR
 
-Ya lo hemos comentado en muchas ocasiones y multitud de experimentos han establecido la necesidad de conseguir un buen [CTR orgánico](https://sparktoro.com/blog/google-ctr-in-2018-paid-organic-no-click-searches/) para poder establecer
+Ya lo hemos comentado en muchas ocasiones y multitud de experimentos han establecido la relación entre el [CTR orgánico](https://sparktoro.com/blog/google-ctr-in-2018-paid-organic-no-click-searches/) y un buen posicionamiento en las *SERPs*.
+
+### Datos estructurados
+
+No impactan directamente al SEO pero nos ayudan a ganar visibilidad frente a otros resultados y por lo tanto nos brindan la oportunidad de incrementar la captación de tráfico de calidad.
+
+### Calidad y originalidad en los contenidos
 
 A mayores, esto debe ser apoyado por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles; debemos tener especial atención al tiempo de carga y a la correcta visualización de nuestra web en diferentes dispositivos.
 
@@ -38,5 +44,5 @@ Recomiendo utilizar  [Sizzy](https://sizzy.co/)  para ello, aunque en la secció
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  [novedad y avance en marketing digital](https://sinplanes.com/marketing-digital/como-estar-al-dia-en-marketing-digital); esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NjE3NDc1XX0=
+eyJoaXN0b3J5IjpbMjE0NzY3MjkxXX0=
 -->
