@@ -8,7 +8,9 @@ permalink: mapa-web
 
 # Mapa web
 
+Toda página web que se precie debe tener un **mapa web** para poder organizar los contenidos y facilitar la navegación.
 
+Si quieres saber de mí, te diré que [en la página principal](https://emirodgar.com/) tienes un buen resumen 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIzNjQ4MjZdfQ==
+eyJoaXN0b3J5IjpbMTQzMjEwNjQ5MF19
 -->
