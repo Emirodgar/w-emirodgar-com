@@ -1,47 +1,36 @@
 ---
-title: Factores SEO en 2019
-description: Me llamo Emilio y soy consultor SEO salmantino con más de 10 años de experiencia en estrategias digitales.
+title: Factores SEO 2019
+description: Estos son los factores SEO que mayor impacto tendrán durante el año 2019
 lang: es_ES
-permalink: test
-subheader: Cómo hacer SEO en 2019. Guías, trucos y consejos
+permalink: factores-seo
 
 ---
 
-# Factgores con mayor relevancia SEO
+# Factores SEO 2019
 
-Durante el año 2018 hemos ido viendo el crecimiento y auge tanto del tráfico mobile como de la seguridad por lo que mis dos primeros puntos van en esa línea: disponer de una página web adecuada para Mobile First Index y certificado SSL.
-{:.postTextCenter}
+Cada año los buscadores se reinventan y buscan su objetivo con mayor anhelo: ofrecer el mejor servicio posible a sus usuarios.
 
-> El certificado SSL no es un factor de posicionamiento directo pero a condiciones de igualdad frente a competidores orgánicos sí puede ser determinante para conseguir un mejor posicionamiento.
+Esto afecta de forma directa a todos los que trabajamos en el entorno digital, especialmente en  **marketing digital**  pues que cada cierto tiempo las reglas del juego cambian y debemos adaptarnos.
 
-### LA PÁGINA YA NO EXISTE
-En el caso de que se trate de un contenido que ya no existe y que aún así sigue indexado en Google, debemos utilizar la herramienta de eliminación de contenido obsoleto.
+Después de analizar las tendencias de 2018, para mí estos serán los puntos más críticos e importantes para las estrategias SEO durante 2019:
 
-Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una accion temporal (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
+-   RankBrain y factores UX (Google)
+-   Rebote y CTR
+-   Datos estructurados
+-   Calidad y originalidad en los contenidos
+-   Optimización para Google Mobile First Index
+-   Optimización para búsqueda por voz
+-   Uso de material audiovisual
 
-```
-Probando código de <prog></prog>
-Here's an image of a drag racer in action:
+## Lo más importante para el SEO en 2019
 
-![Drag Racing](Dragster.jpg)
+Aunque pueda parecer raro, destaco como crucial el  [ofrecer una buena experiencia al usuario](https://searchengineland.com/seo-ux-success-286638)  como factor SEO relevante.
 
-Move along.
-<html><b>example of example</b></html>
-```
+A mayores, esto debe ser apoyado por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles; debemos tener especial atención al tiempo de carga y a la correcta visualización de nuestra web en diferentes dispositivos.
 
-Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una accion temporal (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
+Recomiendo utilizar  [Sizzy](https://sizzy.co/)  para ello, aunque en la sección de  [recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)  tenéis muchas herramientas interesantes para poder optimizar el rendimiento mobile.
 
-
-![Drag Racing](https://emirodgar.com/cdn/images/clients/2.webp)
-
-Esta medida es rápida y eficaz, ya que hemos usado la herramienta oficial, no obstante, se trata de una accion temporal (se aplica durante 90 días) por lo que tenemos que aplicar nuevas medidas para evitar que con el tiempo se vuelva a indexar.
-
-Puntos 
-
- - 200 ok: indica que la página se ha servidor correctamente (ningún error)
- - 404 error: indica que la página no existe (no ha podido ser encontrada dentro del servidor)
- - 500 error: indica que ha ocurrido un error a nivel interno de la página (problema en la programación de la misma)
- - XXX: podemos replicar este método para cualquier otro estado
+Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  [novedad y avance en marketing digital](https://sinplanes.com/marketing-digital/como-estar-al-dia-en-marketing-digital); esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMTY4NTU0XX0=
+eyJoaXN0b3J5IjpbNjI2MzQ2MTMwXX0=
 -->
