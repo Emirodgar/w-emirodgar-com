@@ -50,7 +50,10 @@ Por ello debemos tener especial atención al tiempo de carga (relacionado con la
 
 Recomiendo utilizar  [Sizzy](https://sizzy.co/)  para ello, aunque en la sección de  [recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)  tenéis muchas herramientas interesantes para poder optimizar el rendimiento mobile.
 
-Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  [novedad y avance en marketing digital](https://sinplanes.com/marketing-digital/como-estar-al-dia-en-marketing-digital); esto es crucial para poder ser competitivos en nuestro sector.
+### Optimización para búsqueda por voz
+
+
+Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg5NTE0NiwtMTkwMjY3Mzc5OV19
+eyJoaXN0b3J5IjpbMTUzOTYwMDUyMCwtMTkwMjY3Mzc5OV19
 -->
