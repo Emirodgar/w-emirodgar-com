@@ -1,15 +1,17 @@
 ---
-title: Publicaciones sobre SEO
-description: Listado de publicaciones sobre SEO, marketing digital y 
+title: Publicaciones SEO
+description: Listado de publicaciones sobre SEO, Marketing Digital y Growth Hacking
 lang: es_ES
-permalink: mapa-web
+permalink: publicaciones
 
 ---
 
-## Publicaciones
+# Publicaciones SEO
+
+Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de otras áreas relacionadas con el Marketing Digital.
 
 - [Factores SEO](factores-seo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Nzc5MDc4MF19
+eyJoaXN0b3J5IjpbNDE1Mzg0NzY4XX0=
 -->
