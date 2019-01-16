@@ -31,6 +31,8 @@ Incluso tenemos a nuestra disposición un [informe en Data Studio](https://devel
 
 Ya lo hemos comentado en muchas ocasiones y multitud de experimentos han establecido la relación entre el [CTR orgánico](https://sparktoro.com/blog/google-ctr-in-2018-paid-organic-no-click-searches/) y un buen posicionamiento en las *SERPs*. Analizar los datos de Google Search Console se hace crucial para identificar puntos débiles, puntos fuertes y el [impacto generado tras cada actualización](https://en.ryte.com/magazine/how-to-work-effectively-with-google-search-console-data-to-analyze-google-updates).
 
+Ahora más que nunca se hace necesario a
+
 ### Datos estructurados
 
 No impactan directamente al SEO pero nos ayudan a ganar visibilidad frente a otros resultados y por lo tanto nos brindan la oportunidad de incrementar la captación de tráfico de calidad.
@@ -49,7 +51,7 @@ Este es un punto que heredo del 2018 y que durante este año seguirá teniendo u
 
 Por ello debemos tener especial atención al tiempo de carga (relacionado con las métricas de usabilidad SEO que comentaba en el primer punto) y a la correcta visualización de nuestra web en diferentes dispositivos.
 
-Prestemos especial atención a AMP pero en especial a PWA ya que [el fin de las apps móviles está cerca](https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8).
+Prestemos atención a [AMP](https://www.ampproject.org/es/) ([o no](https://www.polemicdigital.com/google-amp-go-to-hell/)) pero en especial a [PWA](https://developers.google.com/web/progressive-web-apps/) ya que [el fin de las apps móviles está cerca](https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8).
 
 ### Optimización para búsqueda por voz
 
@@ -64,8 +66,8 @@ A día de hoy la búsqueda tradicional sigue teniendo gran peso pero ya podemos 
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5MDMxNjY4LC0xMTI0NTc4Mjk0LC01MT
-EyNjc4MDYsODMwMjMyODg4LC05NTM2NDM0MTQsLTY4NzE0MTUz
-NiwtMTk4Mjc5MjcyMiwxNTM5NjAwNTIwLC0xOTAyNjczNzk5XX
-0=
+eyJoaXN0b3J5IjpbLTEzMjc0MDgxMjksLTExMjQ1NzgyOTQsLT
+UxMTI2NzgwNiw4MzAyMzI4ODgsLTk1MzY0MzQxNCwtNjg3MTQx
+NTM2LC0xOTgyNzkyNzIyLDE1Mzk2MDA1MjAsLTE5MDI2NzM3OT
+ldfQ==
 -->
