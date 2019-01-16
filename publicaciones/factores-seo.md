@@ -45,6 +45,8 @@ Aunque existen multitud de etiquetados que podemos realizar (ver [schema.org](ht
 
 Toda la estrategia debe ser apoyada por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles. Hoy en día existe tal cantidad de información que si seguimos la estela de otros jamás conseguiremos posicionar por delante. Debemos ser creativos y **aportar valor real** a nuestros visitantes.
 
+En el caso de páginas grandes con una elevada volatilidad de contenidos, quizá sea interesante echar un vistazo a la API de Indexación de Google
+
 ### Optimización para Google Mobile First Index
 
 Este es un punto que heredo del 2018 y que durante este año seguirá teniendo una gran importancia debido a que aún hay muchas páginas que no están preparadas, ni técnicamente ni estratégicamente para este nuevo algoritmo.
@@ -68,8 +70,8 @@ A día de hoy la búsqueda tradicional sigue teniendo gran peso pero ya podemos 
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc1MzI4LC0xMTI0NTc4Mjk0LC01MT
-EyNjc4MDYsODMwMjMyODg4LC05NTM2NDM0MTQsLTY4NzE0MTUz
-NiwtMTk4Mjc5MjcyMiwxNTM5NjAwNTIwLC0xOTAyNjczNzk5XX
-0=
+eyJoaXN0b3J5IjpbMTQ5ODczNTQxMiwtMTUzNzUzMjgsLTExMj
+Q1NzgyOTQsLTUxMTI2NzgwNiw4MzAyMzI4ODgsLTk1MzY0MzQx
+NCwtNjg3MTQxNTM2LC0xOTgyNzkyNzIyLDE1Mzk2MDA1MjAsLT
+E5MDI2NzM3OTldfQ==
 -->
