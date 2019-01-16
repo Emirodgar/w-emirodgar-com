@@ -49,7 +49,7 @@ Este es un punto que heredo del 2018 y que durante este año seguirá teniendo u
 
 Por ello debemos tener especial atención al tiempo de carga (relacionado con las métricas de usabilidad SEO que comentaba en el primer punto) y a la correcta visualización de nuestra web en diferentes dispositivos.
 
-Recomiendo utilizar  [Sizzy](https://sizzy.co/)  para ello, aunque en la sección de  [recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)  tenéis muchas herramientas interesantes para poder optimizar el rendimiento mobile.
+Prestemos especial atención a AMP pero en especial a PWA ya que [el fin de las apps móviles está cerca](https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8).
 
 ### Optimización para búsqueda por voz
 
@@ -64,7 +64,8 @@ A día de hoy la búsqueda tradicional sigue teniendo gran peso pero ya podemos 
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ1NzgyOTQsLTUxMTI2NzgwNiw4Mz
-AyMzI4ODgsLTk1MzY0MzQxNCwtNjg3MTQxNTM2LC0xOTgyNzky
-NzIyLDE1Mzk2MDA1MjAsLTE5MDI2NzM3OTldfQ==
+eyJoaXN0b3J5IjpbMzI5MDMxNjY4LC0xMTI0NTc4Mjk0LC01MT
+EyNjc4MDYsODMwMjMyODg4LC05NTM2NDM0MTQsLTY4NzE0MTUz
+NiwtMTk4Mjc5MjcyMiwxNTM5NjAwNTIwLC0xOTAyNjczNzk5XX
+0=
 -->
