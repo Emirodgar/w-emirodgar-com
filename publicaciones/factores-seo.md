@@ -31,7 +31,9 @@ Incluso tenemos a nuestra disposición un [informe en Data Studio](https://devel
 
 Ya lo hemos comentado en muchas ocasiones y multitud de experimentos han establecido la relación entre el [CTR orgánico](https://sparktoro.com/blog/google-ctr-in-2018-paid-organic-no-click-searches/) y un buen posicionamiento en las *SERPs*. Analizar los datos de Google Search Console se hace crucial para identificar puntos débiles, puntos fuertes y el [impacto generado tras cada actualización](https://en.ryte.com/magazine/how-to-work-effectively-with-google-search-console-data-to-analyze-google-updates).
 
-Ahora más que nunca se hace necesario a
+> Es más fácil y rápido convertir el tráfico existente que captar nuevo
+
+Ahora más que nunca se hace necesario aprender a [medir y optimizar correctamente](https://medium.com/@addyosmani/measure-optimize-monitor-33e36108e014). 
 
 ### Datos estructurados
 
@@ -66,8 +68,8 @@ A día de hoy la búsqueda tradicional sigue teniendo gran peso pero ya podemos 
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc0MDgxMjksLTExMjQ1NzgyOTQsLT
-UxMTI2NzgwNiw4MzAyMzI4ODgsLTk1MzY0MzQxNCwtNjg3MTQx
-NTM2LC0xOTgyNzkyNzIyLDE1Mzk2MDA1MjAsLTE5MDI2NzM3OT
-ldfQ==
+eyJoaXN0b3J5IjpbMTU1NTkyMDM0MCwtMTEyNDU3ODI5NCwtNT
+ExMjY3ODA2LDgzMDIzMjg4OCwtOTUzNjQzNDE0LC02ODcxNDE1
+MzYsLTE5ODI3OTI3MjIsMTUzOTYwMDUyMCwtMTkwMjY3Mzc5OV
+19
 -->
