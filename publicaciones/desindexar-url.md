@@ -37,7 +37,7 @@ X-Robots-Tag: noindex
 _(…)_
 ```
 
->  [noindex bajo robots.txt puede que en un futuro desaparezca](https://youtu.be/yIIRyBMSPUk?t=47m58s)
+>  La directiva noindex bajo robots.txt, es algo experimental y [puede que en un futuro desaparezca](https://youtu.be/yIIRyBMSPUk?t=47m58s) por lo que no es recomendable utilizarla.
 
 ### Disallow en robots.txt
 
@@ -48,6 +48,6 @@ En el caso de que se trate de una sección amplia del sitio o que no tengamos ac
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjI3NzIzOSwxNzcxNzA5MzY5LC0xMz
+eyJoaXN0b3J5IjpbMTEzMjE5MDgxMSwxNzcxNzA5MzY5LC0xMz
 A4MDU3MjE2XX0=
 -->
