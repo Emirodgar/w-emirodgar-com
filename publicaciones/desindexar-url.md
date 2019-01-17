@@ -75,8 +75,12 @@ En el caso de que la URL esté indexada por los buscadores, podemos hacer lo sig
 ## Herramientas de Google
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
+
+En el caso de muchas URLs que, tras un tiempo publicadas, no queremos que sigan indexadas, podemos hacer uso de la etiqueta  [unavailable_after](https://googleblog.blogspot.com/2007/07/robots-exclusion-protocol-now-with-even.html)  de tal forma que ya vamos preparando el terreno para que, a corto plazo, Google las desindexe. Yo la suelo utilizar para páginas de eventos.
+
+En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos  [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information)  ya que debemos hacerlo a través del  [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU0Nzc0NTksNzg2OTgwMTE4LDE2ND
-I3NTA4MTIsMTEzMjcwMDk0MiwxNzcxNzA5MzY5LC0xMzA4MDU3
-MjE2XX0=
+eyJoaXN0b3J5IjpbODI1NzgxMzExLC0xNjI1NDc3NDU5LDc4Nj
+k4MDExOCwxNjQyNzUwODEyLDExMzI3MDA5NDIsMTc3MTcwOTM2
+OSwtMTMwODA1NzIxNl19
 -->
