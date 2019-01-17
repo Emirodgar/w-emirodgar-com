@@ -12,7 +12,7 @@ Aunque pueda parecer fácil, existe un gran desconocimiento sobre cómo podemos 
 
 ## Herramientas de Google
 
-Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, puede que sea temporal por lo que no es 
+Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczODU5NDMxXX0=
+eyJoaXN0b3J5IjpbLTk0NzQ1MzE0NV19
 -->
