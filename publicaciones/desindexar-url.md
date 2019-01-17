@@ -12,7 +12,7 @@ Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web
 
 ## Esquema de trabajo
 
-Aunqu
+ **Prevenir que se indexe**
 
  - Directiva noindex
  - Bloqueo con disallow en .htaccess (no garantiza la no indexación)
@@ -82,7 +82,7 @@ En el caso de muchas URLs que, tras un tiempo publicadas, no queremos que sigan 
 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos  [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information)  ya que debemos hacerlo a través del  [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzI4NDY0NiwzNjUxODIzNTMsLTE2Mj
-U0Nzc0NTksNzg2OTgwMTE4LDE2NDI3NTA4MTIsMTEzMjcwMDk0
-MiwxNzcxNzA5MzY5LC0xMzA4MDU3MjE2XX0=
+eyJoaXN0b3J5IjpbMzY1MTgyMzUzLDM2NTE4MjM1MywtMTYyNT
+Q3NzQ1OSw3ODY5ODAxMTgsMTY0Mjc1MDgxMiwxMTMyNzAwOTQy
+LDE3NzE3MDkzNjksLTEzMDgwNTcyMTZdfQ==
 -->
