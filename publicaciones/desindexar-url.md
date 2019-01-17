@@ -32,11 +32,7 @@ _(…)_
 O también como respuesta a una cabecera HTTP
 
 ```
-HTTP/1.1 200 OK
-Date: Tue, 25 May 2010 21:42:43 GMT
-_(…)_
 X-Robots-Tag: noindex
-_(…)_
 ```
 De esta forma le indicamos a los buscadores que no queremos que dichas URLs sean indexadas.
 
@@ -60,6 +56,6 @@ Disallow: /privado/
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjcwMDk0MiwxNzcxNzA5MzY5LC0xMz
-A4MDU3MjE2XX0=
+eyJoaXN0b3J5IjpbNTQ1NjY2NTgwLDExMzI3MDA5NDIsMTc3MT
+cwOTM2OSwtMTMwODA1NzIxNl19
 -->
