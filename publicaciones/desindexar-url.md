@@ -10,14 +10,16 @@ permalink: eliminar-url-google
 
 Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web o una URL de la misma sea desindexada correctamente de Google.
 
- Antes de que se indexe
- 1. Directiva noindex
- 2. Bloqueo con disallow en .htaccess
+ **Antes de que se indexe**
 
-Una vez indexada
+ - Directiva noindex
+ - Bloqueo con disallow en .htaccess
 
- 1. Error 404 o 410
- 2. 
+**Una vez indexada**
+
+  - Error 404 o 410
+ - Herramienta de eliminación de Google
+ - Redirección 301
 
  
 
@@ -73,6 +75,6 @@ En el caso de que la URL esté indexada por los buscadores, podemos hacer lo sig
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTExMTUyNDUsMTY0Mjc1MDgxMiwxMT
-MyNzAwOTQyLDE3NzE3MDkzNjksLTEzMDgwNTcyMTZdfQ==
+eyJoaXN0b3J5IjpbLTc4MDI1NzI3MCwxNjQyNzUwODEyLDExMz
+I3MDA5NDIsMTc3MTcwOTM2OSwtMTMwODA1NzIxNl19
 -->
