@@ -41,12 +41,13 @@ _(…)_
 
 ### Disallow en robots.txt
 
-En el caso de que se trate de una sección amplia del sitio o que no tengamos acceso a dichas páginas para poder implementar la directiva noindex, podemos 
+En el caso de que se trate de una sección amplia del sitio o que no tengamos acceso a dichas páginas para poder implementar la directiva noindex, podemos hacer uso del comando disallow del robots.txt
 
 
 ## Herramientas de Google
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTcwOTM2OSwtMTMwODA1NzIxNl19
+eyJoaXN0b3J5IjpbMTY0MTc3NDY4OCwxNzcxNzA5MzY5LC0xMz
+A4MDU3MjE2XX0=
 -->
