@@ -10,6 +10,11 @@ permalink: eliminar-url-google
 
 Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web o una URL de la misma sea desindexada correctamente de Google.
 
+ 1. Antes de que se indexe
+	 2. List item
+
+  
+
 ## Prevenir la indexación de una URL
 
 Si aún estamos a tiempo, es mejor prevenir la indexación de nuestra página o sección por parte de los buscadores.
@@ -62,6 +67,6 @@ En el caso de que la URL esté indexada por los buscadores, podemos hacer lo sig
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMzA0MDU5LDE2NDI3NTA4MTIsMTEzMj
-cwMDk0MiwxNzcxNzA5MzY5LC0xMzA4MDU3MjE2XX0=
+eyJoaXN0b3J5IjpbMTU5NDkxNTc2MywxNjQyNzUwODEyLDExMz
+I3MDA5NDIsMTc3MTcwOTM2OSwtMTMwODA1NzIxNl19
 -->
