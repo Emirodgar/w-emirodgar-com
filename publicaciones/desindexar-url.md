@@ -65,7 +65,7 @@ Disallow: /privado/
 ```
 ## 2. Eliminar una URL ya indexada
 
-En el caso de que la URL esté indexada por los buscadores, podemos hacer lo siguiente:
+En el caso de que la URL esté indexada por los buscadores, además de seguir los pasos del punto anterior, podemos hacer lo siguiente para acelerar y agilizar el proceso:
 
  1. Forzar un error 404 o error 410 (éste último suele ser más rápido)
  2. Aplicar una redirección 301 (suele generar un error *[404 soft](https://support.google.com/webmasters/answer/181708?hl=es)* en Google Search Console)
@@ -82,7 +82,8 @@ En el caso de muchas URLs que, tras un tiempo publicadas, no queremos que sigan 
 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos  [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information)  ya que debemos hacerlo a través del  [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyNzg0MzA4LDM2NTE4MjM1MywzNjUxOD
-IzNTMsLTE2MjU0Nzc0NTksNzg2OTgwMTE4LDE2NDI3NTA4MTIs
-MTEzMjcwMDk0MiwxNzcxNzA5MzY5LC0xMzA4MDU3MjE2XX0=
+eyJoaXN0b3J5IjpbLTExMDA1MTA3MDUsMzY1MTgyMzUzLDM2NT
+E4MjM1MywtMTYyNTQ3NzQ1OSw3ODY5ODAxMTgsMTY0Mjc1MDgx
+MiwxMTMyNzAwOTQyLDE3NzE3MDkzNjksLTEzMDgwNTcyMTZdfQ
+==
 -->
