@@ -10,7 +10,9 @@ permalink: eliminar-desindexar-url-google
 
 Aunque pueda parecer fácil, existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web o una URL de la misma sea desindexada correctamente de Google.
 
-Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para elimi
+## Herramientas de Google
+
+Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, puede que sea temporal por lo que no es 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTAzODc3OV19
+eyJoaXN0b3J5IjpbNDczODU5NDMxXX0=
 -->
