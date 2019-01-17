@@ -10,8 +10,6 @@ permalink: eliminar-url-google
 
 Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web o una URL de la misma sea desindexada correctamente de Google.
 
-## Esquema de trabajo
-
  **Prevenir que se indexe**
 
  - Directiva noindex
@@ -85,7 +83,7 @@ En el caso de muchas URLs que, tras un tiempo publicadas, no queremos que sigan 
 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos  [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information)  ya que debemos hacerlo a través del  [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODUyNTE4NiwzNjUxODIzNTMsMzY1MT
+eyJoaXN0b3J5IjpbMTc2NzAyMTk2OSwzNjUxODIzNTMsMzY1MT
 gyMzUzLC0xNjI1NDc3NDU5LDc4Njk4MDExOCwxNjQyNzUwODEy
 LDExMzI3MDA5NDIsMTc3MTcwOTM2OSwtMTMwODA1NzIxNl19
 -->
