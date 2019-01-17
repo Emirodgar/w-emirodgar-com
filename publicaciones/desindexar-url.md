@@ -14,7 +14,7 @@ Aunque pueda parecer fácil, existe un gran desconocimiento sobre cómo podemos 
 
 Antes de eliminar, si aún estamos a tiempo, es mejor prevenir la indexación de nuestra página o sección por parte de los buscadores.
 
-Para ello 
+Para ello debemos utilizar la [directiva **noindex**](https://developers.google.com/search/reference/robots_meta_tag.
 
 ## Eliminar una URL o página de forma permanente
 
@@ -24,5 +24,5 @@ Para ello
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDU0NDczMV19
+eyJoaXN0b3J5IjpbMTI4MTM4NjExOV19
 -->
