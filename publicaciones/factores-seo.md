@@ -25,7 +25,7 @@ Nadie tiene la verdad absoluta, pero basándome en la experiencia y los resultad
 
 Aunque pueda parecer raro, destaco como crucial el  [ofrecer una buena experiencia al usuario](https://searchengineland.com/seo-ux-success-286638)  como **factor SEO relevante**. Google ha avanzando mucho durante 2018 en este aspecto y prueba de ello son el lanzamiento de [Lighthouse](https://developers.google.com/web/tools/lighthouse/?hl=es) y de su herramienta [web.dev](https://web.dev/) . 
 
-Incluso tenemos a nuestra disposición un [informe en Data Studio](https://developers.google.com/web/updates/2018/08/chrome-ux-report-dashboard) para monitorizar la evolución de nuestro rendimiento e incluso el de la competencia.
+Tenemos a nuestra disposición un [informe en Data Studio](https://developers.google.com/web/updates/2018/08/chrome-ux-report-dashboard) para monitorizar la evolución de nuestro rendimiento e incluso el de la competencia.
 
 ### Rebote y CTR
 
@@ -39,7 +39,7 @@ Ahora más que nunca se hace necesario aprender a [medir y optimizar correctamen
 
 No impactan directamente al SEO pero nos ayudan a ganar visibilidad frente a otros resultados y por lo tanto nos brindan la oportunidad de incrementar la captación de tráfico de calidad.
 
-Aunque existen multitud de etiquetados que podemos realizar (ver [schema.org](https://schema.org/)), Google sólo incorpora los que, de momento, [puede mostrar en sus resultados](https://developers.google.com/search/docs/data-types/article) o utilizar de forma interna en su algoritmo. Es importante asegurarse de que los implementamos [sin errores](https://search.google.com/structured-data/testing-tool/u/0/?hl=es).
+Aunque existen multitud de etiquetados que podemos realizar (ver [schema.org](https://schema.org/)), Google sólo usa los que, de momento, [puede mostrar en sus resultados](https://developers.google.com/search/docs/data-types/article) o utilizar de forma interna en su algoritmo. Es importante asegurarse de que los implementamos [sin errores](https://search.google.com/structured-data/testing-tool/u/0/?hl=es).
 
 ### Calidad y originalidad en los contenidos
 
@@ -70,7 +70,7 @@ A día de hoy la búsqueda tradicional sigue teniendo gran peso pero ya podemos 
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjYzODA0Niw5OTYxNTkyNjcsLTE1Mz
+eyJoaXN0b3J5IjpbLTg4MjU5MDg5NSw5OTYxNTkyNjcsLTE1Mz
 c1MzI4LC0xMTI0NTc4Mjk0LC01MTEyNjc4MDYsODMwMjMyODg4
 LC05NTM2NDM0MTQsLTY4NzE0MTUzNiwtMTk4Mjc5MjcyMiwxNT
 M5NjAwNTIwLC0xOTAyNjczNzk5XX0=
