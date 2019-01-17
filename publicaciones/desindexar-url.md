@@ -73,6 +73,8 @@ En el caso de que la URL esté indexada por los buscadores, podemos hacer lo sig
  1. Forzar un error 404 o error 410 (éste último suele ser más rápido)
  2. Aplicar una redirección 301 (suele generar un error *[404 soft](https://support.google.com/webmasters/answer/181708?hl=es)* en Google Search Console)
 
+Una vez eliminada debemos hacer uso de los mecanismos vistos en el primer punto para evitar de nuevo su indexación, bien la directiva noindex o el bloqueo a través del fichero robots.txt
+
 ## 2.1 . Herramientas de Google
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
@@ -83,8 +85,7 @@ En el caso de muchas URLs que, tras un tiempo publicadas, no queremos que sigan 
 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos  [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information)  ya que debemos hacerlo a través del  [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU0NzQxMzcsMzY1MTgyMzUzLDM2NT
-E4MjM1MywtMTYyNTQ3NzQ1OSw3ODY5ODAxMTgsMTY0Mjc1MDgx
-MiwxMTMyNzAwOTQyLDE3NzE3MDkzNjksLTEzMDgwNTcyMTZdfQ
-==
+eyJoaXN0b3J5IjpbLTMxMTg5ODAyNSwzNjUxODIzNTMsMzY1MT
+gyMzUzLC0xNjI1NDc3NDU5LDc4Njk4MDExOCwxNjQyNzUwODEy
+LDExMzI3MDA5NDIsMTc3MTcwOTM2OSwtMTMwODA1NzIxNl19
 -->
