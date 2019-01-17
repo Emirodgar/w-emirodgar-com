@@ -1,13 +1,12 @@
 ---
-title: Factores SEO 2019
-description: Estos son los factores SEO que mayor impacto tendrán durante el año 2019
+title: Eliminar / desindexar una URL en Google
+description: Aprende a eliminar una URL de forma correcta y eficiente para que no vuelva a aparecer en Google
 lang: es_ES
-permalink: factores-seo
+permalink: eliminar-desindexar-url-google
 
 ---
 
-
-> Written with [StackEdit](https://stackedit.io/).
+# Eliminar o desinexar una URL en Google
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDczMjA0NDRdfQ==
+eyJoaXN0b3J5IjpbNzIzMDQ1ODA1XX0=
 -->
