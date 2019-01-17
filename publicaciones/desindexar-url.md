@@ -40,7 +40,7 @@ De esta forma le indicamos a los buscadores que no queremos que dichas URLs sean
 
 ### Disallow en robots.txt
 
-> El fichero robots.txt podría ser ignorado por los buscadores por lo que no es una opción que garantice al 100% la eliminación o desindexación de la URL.
+> El fichero robots.txt podría ser ignorado por los buscadores por lo que no es una opción que garantice al 100% la no indexación de la URL.
 
 En el caso de que se trate de una sección amplia del sitio o que no tengamos acceso a dichas páginas para poder implementar la directiva noindex, podemos hacer uso del comando disallow del robots.txt. Para ello debemos seguir el [estándar de exclusión de robots](https://es.wikipedia.org/wiki/Est%C3%A1ndar_de_exclusi%C3%B3n_de_robots).
 
@@ -50,12 +50,14 @@ Disallow: /cgi-bin/
 Disallow: /tmp/
 Disallow: /privado/
 ```
+## Eliminar una URL ya indexada
+
 
 
 ## Herramientas de Google
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1NjY2NTgwLDExMzI3MDA5NDIsMTc3MT
-cwOTM2OSwtMTMwODA1NzIxNl19
+eyJoaXN0b3J5IjpbMTY0Mjc1MDgxMiwxMTMyNzAwOTQyLDE3Nz
+E3MDkzNjksLTEzMDgwNTcyMTZdfQ==
 -->
