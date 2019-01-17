@@ -12,11 +12,9 @@ Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web
 
 ## Prevenir la indexación de una URL
 
-### Directiva noindex
-
 Si aún estamos a tiempo, es mejor prevenir la indexación de nuestra página o sección por parte de los buscadores.
 
-> Para poder utilizar noindex dentro de una URL, ésta debe ser accesible por los buscadores por lo que **no podemos bloquear su acceso a través del robots.txt**; además, [noindex bajo robots.txt puede que en un futuro desaparezca](https://youtu.be/yIIRyBMSPUk?t=47m58s).
+> Para poder utilizar noindex dentro de una URL, ésta debe ser accesible por los buscadores por lo que **no podemos bloquear su acceso a través del robots.txt**
 
 Para ello debemos utilizar la [directiva **noindex**](https://developers.google.com/search/reference/robots_meta_tag). Ésta puede ser implementada a través del header de la página:
 
@@ -39,6 +37,8 @@ X-Robots-Tag: noindex
 _(…)_
 ```
 
+>  [noindex bajo robots.txt puede que en un futuro desaparezca](https://youtu.be/yIIRyBMSPUk?t=47m58s)
+
 ### Disallow en robots.txt
 
 En el caso de que se trate de una sección amplia del sitio o que no tengamos acceso a dichas páginas para poder implementar la directiva noindex, podemos hacer uso del comando disallow del robots.txt
@@ -48,6 +48,6 @@ En el caso de que se trate de una sección amplia del sitio o que no tengamos ac
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzkxODUzMzIsMTc3MTcwOTM2OSwtMT
-MwODA1NzIxNl19
+eyJoaXN0b3J5IjpbMTc5MjI3NzIzOSwxNzcxNzA5MzY5LC0xMz
+A4MDU3MjE2XX0=
 -->
