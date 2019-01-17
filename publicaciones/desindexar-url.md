@@ -19,9 +19,9 @@ Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web
 
 **Eliminar URL indexada**
 
-  - Error 404 o 410
- - Herramienta de eliminación de Google
+ - Error 404 o 410
  - Redirección 301
+ - Herramienta de eliminación de Google (temporal)
 
  
 
@@ -69,13 +69,14 @@ Disallow: /privado/
 
 En el caso de que la URL esté indexada por los buscadores, podemos hacer lo siguiente:
 
- 1. Forzar un error 404 o error 410 (suele ser más rápido que el 404)
- 2. Aplicar una redirección 301 (puede generar un error *[404 soft](https://support.google.com/webmasters/answer/181708?hl=es)* en Google Search Console)
+ 1. Forzar un error 404 o error 410 (éste último suele ser más rápido)
+ 2. Aplicar una redirección 301 (suele generar un error *[404 soft](https://support.google.com/webmasters/answer/181708?hl=es)* en Google Search Console)
 
 ## Herramientas de Google
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2OTgwMTE4LDE2NDI3NTA4MTIsMTEzMj
-cwMDk0MiwxNzcxNzA5MzY5LC0xMzA4MDU3MjE2XX0=
+eyJoaXN0b3J5IjpbMTM3NzMxODY1NCw3ODY5ODAxMTgsMTY0Mj
+c1MDgxMiwxMTMyNzAwOTQyLDE3NzE3MDkzNjksLTEzMDgwNTcy
+MTZdfQ==
 -->
