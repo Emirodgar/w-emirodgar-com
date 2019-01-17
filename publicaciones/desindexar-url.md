@@ -15,7 +15,7 @@ Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web
  **Prevenir que se indexe**
 
  - Directiva noindex
- - Bloqueo con disallow en .htaccess
+ - Bloqueo con disallow en .htaccess (no garantiza la no indexación)
 
 **Eliminar URL indexada**
 
@@ -76,7 +76,7 @@ En el caso de que la URL esté indexada por los buscadores, podemos hacer lo sig
 
 Google pone a nuestra disposición dos herramientas, la primera para poder [eliminar contenido puntual desde Google Search Console](https://www.google.com/webmasters/tools/url-removal) y la segunda para [eliminar contenido obsoleto](https://www.google.com/webmasters/tools/removals). Ambas no garantizan su eliminación y, de hacerlo, se trata de una **acción temporal** por lo que tendrá validez únicamente durante 90 días. A partir de entonces, podría volver a ser indexado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzMxODY1NCw3ODY5ODAxMTgsMTY0Mj
-c1MDgxMiwxMTMyNzAwOTQyLDE3NzE3MDkzNjksLTEzMDgwNTcy
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTE2MjU0Nzc0NTksNzg2OTgwMTE4LDE2ND
+I3NTA4MTIsMTEzMjcwMDk0MiwxNzcxNzA5MzY5LC0xMzA4MDU3
+MjE2XX0=
 -->
