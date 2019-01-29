@@ -729,6 +729,14 @@
       "https://testmysite.thinkwithgoogle.com/intl/es-es"
     ],
 	[
+      "web.dev",
+      "App de Google para el análisis de rendimiento web",
+      "Web",
+      "Gratis",
+      "Mobile",
+      "https://web.dev"
+    ],
+	[
       "PWA builder",
       "Para generar y publicar una Progressive Web App (PWA)",
       "Web",
