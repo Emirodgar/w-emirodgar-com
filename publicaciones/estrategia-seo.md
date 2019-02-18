@@ -2,7 +2,7 @@
 title: Estrategia SEO 2019
 description: Os enseño la estrategia SEO que he seguido durante 2019 para posicionarme
 lang: es_ES
-permalink: factores-seo
+permalink: estrategia-seo
 
 ---
 
@@ -28,5 +28,6 @@ Mi objetivo a corto plazo está siendo comenzar a posicionar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbLTE5ODQ1NDczMzksLTU4MDAzNDg1NSwtMT
+Y2NjU1NzY0MF19
 -->
