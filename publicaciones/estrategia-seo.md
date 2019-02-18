@@ -18,10 +18,14 @@ Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en 
 
 Voy a trabajar diversos [factores SEO](factores-se) sobre el dominio emirodgar.com, el cual tenía abandonado desde hace años y que he rescatado para la ocasión.
 
-El primer mes y medio lo he pasado definiendo la arquitectura del sitio, creando las primeras páginas 
+El primer mes y medio lo he pasado definiendo la arquitectura del sitio, creando las primeras páginas y estableciendo el template.
+
+![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
+
+En la imagen anterior podemos ver la evolución que he seguido desde enero hasta mediados de febrero en relación a las impresiones.
+Mi objetivo a corto plazo está siendo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg4OTQ0NTUsLTE2NjY1NTc2NDBdfQ
-==
+eyJoaXN0b3J5IjpbLTYzODEzMjA0OCwtMTY2NjU1NzY0MF19
 -->
