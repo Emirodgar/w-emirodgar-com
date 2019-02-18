@@ -16,7 +16,7 @@ Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en 
 
 ### Base SEO sólida
 
-Voy a trabajar diversos [factores SEO](factores-se) sobre el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
+El primer punto que he trabajado ha sido la base SEO de la página. Voy a trabajar diversos [factores SEO](factores-se) sobre el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
 
 El primer mes y medio lo he pasado definiendo la arquitectura del sitio, creando las primeras páginas y estableciendo el template.
 
@@ -28,6 +28,6 @@ Mi objetivo a corto plazo está siendo comenzar a posicionar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ1NDczMzksLTU4MDAzNDg1NSwtMT
-Y2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbLTUxODM0ODIwMiwtMTk4NDU0NzMzOSwtNT
+gwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
 -->
