@@ -43,8 +43,8 @@ Gran parte del esfuerzo en estos meses lo he concentrado en optimizar la máximo
 
 ![Métricas usabilidad SEO web.dev del dominio emirodgar.com](https://i.imgur.com/5sI2ybv.png)
 
-En la parte responsive
+Aunque soy consciente de que podría llegar a optimizar algo más
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzY0MTM1NCwtNTE4MzQ4MjAyLC0xOT
-g0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbMTQyNTQ1ODU5LC01MTgzNDgyMDIsLTE5OD
+Q1NDczMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
 -->
