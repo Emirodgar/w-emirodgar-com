@@ -14,7 +14,7 @@ Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en 
 
 Necesitamos definir los recursos con los que contamos y los objetivos que queremos conseguir. Con ello podremos determinar las acciones que debemos llevar a cabo.
 
-Mi objetivo principal será generar marca como **consultor SEO** y **especialista en estrategias digitales**; voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
+Mi objetivo principal será generar marca como **consultor SEO** y **especialista en estrategias digitales**. Para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
 
  Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
 
@@ -22,7 +22,7 @@ Mi objetivo principal será generar marca como **consultor SEO** y **especialist
 
 ### Base SEO sólida
 
-El primer punto que he trabajado ha sido la base SEO de la página. He dado prioridad absoluta a los [factores SEO](factores-se) que considero que van a tener mayor peso este año. 
+El primer punto que he trabajado ha sido la base SEO de la página. He dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-se). 
 
 El primer mes y medio lo he pasado definiendo la arquitectura del sitio, creando las primeras páginas y estableciendo el template.
 
@@ -34,6 +34,6 @@ Mi objetivo a corto plazo está siendo comenzar a posicionar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg3MTcyNDMsLTUxODM0ODIwMiwtMT
+eyJoaXN0b3J5IjpbLTE1MDE5MTU3MDcsLTUxODM0ODIwMiwtMT
 k4NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
 -->
