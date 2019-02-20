@@ -41,10 +41,14 @@ En la imagen anterior podemos ver la evolución que he seguido desde enero hasta
 
 Gran parte del esfuerzo en estos meses lo he concentrado en optimizar la máximo la página web para que el tiempo de carga y experiencia de los usuarios sea óptima.
 
+Aunque soy consciente de que podría llegar a optimizar algo más, la parte responsive la he dejado en unos niveles de notable-sobresaliente.
+
 ![Métricas usabilidad SEO web.dev del dominio emirodgar.com](https://i.imgur.com/5sI2ybv.png)
 
-Aunque soy consciente de que podría llegar a optimizar algo más
+La parte de AMP (publicaciones) está en sobresaliente a excepción de la accesibilidad. 
+
+![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTQ1ODU5LC01MTgzNDgyMDIsLTE5OD
-Q1NDczMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbLTE1MzE4MDQwMjQsLTUxODM0ODIwMiwtMT
+k4NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
 -->
