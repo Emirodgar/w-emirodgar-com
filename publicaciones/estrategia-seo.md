@@ -14,7 +14,7 @@ Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en 
 
 Necesitamos definir los recursos con los que contamos y los objetivos que queremos conseguir. Con ello podremos determinar las acciones que debemos llevar a cabo.
 
-Mi objetivo principal será posicionarme como **consultor SEO**. Para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
+Mi objetivo principal será posicionarme por el término **consultor SEO** y sus variantes. Voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
 
  Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
 
@@ -22,9 +22,9 @@ Mi objetivo principal será posicionarme como **consultor SEO**. Para ello voy a
 - Objetivo: Posicionamiento como consultor SEO
 - Duración: 1 enero 2019 - 31 diciembre 2019
 
-## Meses: enero y febrero
+## Mes: enero
  
- - Resultados: 10 clics
+ - Resultados: 0 clics
  - Páginas indexadas: 3
  - Sensación: voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
 
@@ -44,6 +44,12 @@ En la imagen anterior podemos ver la evolución que he seguido desde enero hasta
 
 Soy consciente de que tendría que tener más páginas 
 
+## Mes: febrero
+ 
+ - Resultados: 10 clics
+ - Páginas indexadas: 3
+ - Sensación: voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
+
 ### Usabilidad SEO
 
 Gran parte del esfuerzo en estos meses lo he concentrado en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
@@ -56,6 +62,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMT
-k4NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
+eyJoaXN0b3J5IjpbLTQzMDE0NzE3NSwtMTg0NTU0NDM0OCwtNT
+E4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1
+NTc2NDBdfQ==
 -->
