@@ -37,8 +37,12 @@ En la imagen anterior podemos ver la evolución que he seguido desde enero hasta
 
 > De momento, una parte de la web es responsive (HTML5+CSS3) y otra parte está hecha bajo AMP (este será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente).
 
-### 
+### Usabilidad SEO
+
+Gran parte del esfuerzo en estos meses lo he concentrado en optimizar la máximo la página web para que el tiempo de carga y experiencia de los usuarios sea óptima.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDI2NzIwMCwtNTE4MzQ4MjAyLC0xOT
-g0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbODMyMDIwMzEyLC01MTgzNDgyMDIsLTE5OD
+Q1NDczMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
 -->
