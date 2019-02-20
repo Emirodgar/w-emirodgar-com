@@ -19,19 +19,20 @@ Mi objetivo principal será posicionarme por el término **consultor SEO** y sus
  Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
 
 - Dominio: emirodgar.com
-- Objetivo: Posicionamiento como consultor SEO
+- Objetivo: Posicionamiento por consultor SEO
 - Duración: 1 enero 2019 - 31 diciembre 2019
+- KPIs: clics orgánicos (Google Search Console) y páginas indexadas.
 
 ## Mes: enero
  
  - Resultados: 0 clics
- - Páginas indexadas: 3
+ - Páginas indexadas: 2
  - Sensación: voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
 
 
 ### Base SEO sólida
 
-El primer mes y medio lo he pasado definiendo la arquitectura del sitio, creando las primeras páginas (home y [consultor SEO](/consultor-seo/)) y optimizando el *template* de la web.
+El primer mes lo he pasado definiendo la arquitectura del sitio, creando la página princial primeras páginas (home y [consultor SEO](/consultor-seo/)) y optimizando el *template* de la web.
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo). 
 
@@ -62,7 +63,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDE0NzE3NSwtMTg0NTU0NDM0OCwtNT
-E4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1
-NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbLTEwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLT
+UxODM0ODIwMiwtMTk4NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2
+NTU3NjQwXX0=
 -->
