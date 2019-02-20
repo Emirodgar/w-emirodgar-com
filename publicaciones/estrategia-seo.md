@@ -28,16 +28,16 @@ Mi objetivo principal será posicionarme como **consultor SEO**. Para ello voy a
 
 El primer punto que he trabajado ha sido la base SEO de la página. He dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-se). 
 
-El primer mes y medio lo he pasado definiendo la arquitectura del sitio, creando las primeras páginas y estableciendo el template.
+El primer mes y medio lo he pasado definiendo la arquitectura del sitio, creando las primeras páginas y optimizando el *template* de la web.
 
 ![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
 
 En la imagen anterior podemos ver la evolución que he seguido desde enero hasta mediados de febrero en relación a las impresiones.
 
-Mi objetivo a corto plazo está siendo comenzar a posicionar
+De momento, una parte de la web es responsive (HTML5+CSS3) y otra parte está hecha bajo AMP (únic.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjAzOTQzOSwtNTE4MzQ4MjAyLC0xOT
+eyJoaXN0b3J5IjpbLTE2MjExMjU3MCwtNTE4MzQ4MjAyLC0xOT
 g0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
