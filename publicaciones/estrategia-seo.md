@@ -52,10 +52,10 @@ Aunque soy consciente de que podría llegar a optimizar algo más, no he querido
 
 ![Métricas usabilidad SEO web.dev del dominio emirodgar.com](https://i.imgur.com/5sI2ybv.png)
 
-La parte de AMP - que es el blog- está muy bien optimizado a excepción de la accesibilidad, que es un aspecto que no momento no voy a trabajar pero que no descarto para los próximos meses. 
+La parte de AMP - que será el blog- está muy optimizado a excepción de la accesibilidad, que es un aspecto que no momento no voy a trabajar pero que no descarto para los próximos meses. 
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTQyNDYzMCwtNTE4MzQ4MjAyLC0xOT
-g0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE0ODIyMTgxNjUsLTUxODM0ODIwMiwtMT
+k4NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
 -->
