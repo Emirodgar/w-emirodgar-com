@@ -22,7 +22,7 @@ Mi objetivo principal será posicionarme como **consultor SEO**. Para ello voy a
 - Objetivo: Posicionamiento como consultor SEO
 - Duración: 1 enero 2019 - 31 diciembre 2019
 
-## Enero y febrero
+## Meses: enero y febrero
 
 ### Base SEO sólida
 
@@ -33,12 +33,12 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 ![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
 
-Cada vez que tenía algún contenido, lo publicaba. En la imagen anterior podemos ver la evolución que he seguido desde enero hasta mediados de febrero en relación a las impresiones.
+Cada vez que tenía algún contenido, lo publicaba. En la imagen anterior podemos ver la evolución que he seguido desde enero hasta mediados de febrero en relación a las impresiones. Aunque aún no tengo clics, Google ya me ha indexado y comienzo a ganar visibilidad.
 
-De momento, una parte de la web es responsive (HTML5+CSS3) y otra parte está hecha bajo AMP (este será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente).
+> De momento, una parte de la web es responsive (HTML5+CSS3) y otra parte está hecha bajo AMP (este será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDAyMzE5MywtNTE4MzQ4MjAyLC0xOT
-g0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTAwOTQxMzUsLTUxODM0ODIwMiwtMT
+k4NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
 -->
