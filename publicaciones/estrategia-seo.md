@@ -41,8 +41,10 @@ En la imagen anterior podemos ver la evolución que he seguido desde enero hasta
 
 Gran parte del esfuerzo en estos meses lo he concentrado en optimizar la máximo la página web para que el tiempo de carga y experiencia de los usuarios sea óptima.
 
+![Métricas usabilidad SEO web.dev del dominio emirodgar.com](https://i.imgur.com/5sI2ybv.png)
 
+En la parte responsive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMDIwMzEyLC01MTgzNDgyMDIsLTE5OD
-Q1NDczMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbMTU0MzY0MTM1NCwtNTE4MzQ4MjAyLC0xOT
+g0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
