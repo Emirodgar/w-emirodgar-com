@@ -37,8 +37,8 @@ En la imagen anterior podemos ver la evolución que he seguido desde enero hasta
 
 > De momento, una parte de la web es responsive (HTML5+CSS3) y otra parte está hecha bajo AMP (este será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente).
 
-
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzMwOTc4OSwtNTE4MzQ4MjAyLC0xOT
+eyJoaXN0b3J5IjpbMTY4NDI2NzIwMCwtNTE4MzQ4MjAyLC0xOT
 g0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
