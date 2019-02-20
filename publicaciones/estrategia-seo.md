@@ -43,10 +43,6 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 En la imagen anterior podemos ver la evolución que he seguido desde enero hasta mediados de febrero en relación a las impresiones. Aunque aún no tengo clics, Google ya me ha indexado y comienzo a ganar visibilidad.
 
-> De momento, una parte de la web es responsive (HTML5+CSS3) y otra parte está hecha bajo AMP (este será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente).
-
-Soy consciente de que tendría que tener más páginas 
-
 ## Mes: febrero
  
  - Resultados: 10 clics
@@ -65,7 +61,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTg0MzQ4OCwxMzQ3ODk1ODEsLTQ5MT
+eyJoaXN0b3J5IjpbLTYzMDk3NjIwNSwxMzQ3ODk1ODEsLTQ5MT
 UzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OCwtNTE4MzQ4
 MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2ND
 BdfQ==
