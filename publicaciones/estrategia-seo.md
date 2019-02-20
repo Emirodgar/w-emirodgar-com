@@ -32,7 +32,7 @@ Mi objetivo principal será posicionarme por el término **consultor SEO** y sus
 
 ### Base SEO sólida
 
-El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y trabajando la parte visual de la página web. He decidido utilizar dos tecnologías: la parte principal de la web será *responsive* (HTML5+CSS3) y el blog estará hecho bajo AMP .
+El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y trabajando la parte visual de la página web. He decidido utilizar dos tecnologías: la parte principal de la web será *responsive* (HTML5+CSS3) y el blog estará bajo AMP .
 
 > El hecho de usar el blog únicamente con AMP será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente.
 
@@ -65,7 +65,8 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMT
-g1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4NDU0
-NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
+eyJoaXN0b3J5IjpbLTc1OTg0MzQ4OCwxMzQ3ODk1ODEsLTQ5MT
+UzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OCwtNTE4MzQ4
+MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2ND
+BdfQ==
 -->
