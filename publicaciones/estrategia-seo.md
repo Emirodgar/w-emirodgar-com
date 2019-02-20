@@ -26,7 +26,7 @@ Mi objetivo principal será posicionarme como **consultor SEO**. Para ello voy a
  
  - Resultados: 10 clics
  - Páginas indexadas: 3
- - Sensación: voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%.
+ - Sensación: voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
 
 
 ### Base SEO sólida
@@ -56,6 +56,6 @@ La parte de AMP - que es el blog- está muy bien optimizado a excepción de la a
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDk1ODg3MywtNTE4MzQ4MjAyLC0xOT
+eyJoaXN0b3J5IjpbLTc5MTQyNDYzMCwtNTE4MzQ4MjAyLC0xOT
 g0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
