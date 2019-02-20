@@ -23,7 +23,7 @@ Mi objetivo principal será posicionarme por el término **consultor SEO** y sus
 - Duración: 1 enero 2019 - 31 diciembre 2019
 - KPIs: clics orgánicos (Google Search Console) y páginas indexadas.
 
-## Enero: base SEO sólida
+## Enero: Base SEO sólida
  
  - Resultados: 0 clics
  - Páginas indexadas: 2
@@ -35,7 +35,7 @@ El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y 
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo). 
 
-## Febrero: usabilidad SEO
+## Febrero: Usabilidad SEO
  
  - Resultados: 10 clics
  - Páginas indexadas: 3
@@ -55,8 +55,8 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjM1NTEwMSwtNDI0NzMwMzcxLDEzND
-c4OTU4MSwtNDkxNTMwNjA1LC0xMDE4NTczMjk4LC0xODQ1NTQ0
-MzQ4LC01MTgzNDgyMDIsLTE5ODQ1NDczMzksLTU4MDAzNDg1NS
-wtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyND
+czMDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3MzI5
+OCwtMTg0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NTQ3MzM5LC
+01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
