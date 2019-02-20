@@ -31,7 +31,7 @@ Mi objetivo principal será posicionarme como **consultor SEO**. Para ello voy a
 
 ### Base SEO sólida
 
-El primer mes y medio lo he pasado definiendo la arquitectura del sitio, creando las primeras páginas y optimizando el *template* de la web.
+El primer mes y medio lo he pasado definiendo la arquitectura del sitio, creando las primeras páginas (home y [consultor SEO](/consultor-seo)) y optimizando el *template* de la web.
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo). 
 
@@ -56,6 +56,6 @@ La parte de AMP - que es el blog- está muy bien optimizado a excepción de la a
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MzU2NjI1LC01MTgzNDgyMDIsLTE5OD
-Q1NDczMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbLTY2MDk1ODg3MywtNTE4MzQ4MjAyLC0xOT
+g0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
