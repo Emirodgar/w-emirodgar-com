@@ -8,7 +8,7 @@ permalink: estrategia-seo
 
 # Estrategia SEO 2019
 
-Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en un caso real. Mi objetivo es mostrar un ejemplo real de todos los pasos a seguir para definir una estrategia en un nicho tan competido como es el **marketing digital**.
+Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en un caso real. Quiero mostrar un ejemplo de todos los pasos a seguir para definir una estrategia en un nicho tan competido como es el **marketing digital** y en especial el **posicionamiento SEO**.
 
 ## Definir estrategia
 
@@ -39,6 +39,6 @@ De momento, una parte de la web es responsive (HTML5+CSS3) y otra parte está he
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NjkzMjI3LC01MTgzNDgyMDIsLTE5OD
-Q1NDczMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbLTY0MDAyMzE5MywtNTE4MzQ4MjAyLC0xOT
+g0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
