@@ -37,18 +37,20 @@ En la imagen anterior podemos ver la evolución que he seguido desde enero hasta
 
 > De momento, una parte de la web es responsive (HTML5+CSS3) y otra parte está hecha bajo AMP (este será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente).
 
+Soy consciente de que tendría que tener más páginas 
+
 ### Usabilidad SEO
 
-Gran parte del esfuerzo en estos meses lo he concentrado en optimizar la máximo la página web para que el tiempo de carga y experiencia de los usuarios sea óptima.
+Gran parte del esfuerzo en estos meses lo he concentrado en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
 
-Aunque soy consciente de que podría llegar a optimizar algo más, la parte responsive la he dejado en unos niveles de notable-sobresaliente.
+Aunque soy consciente de que podría llegar a optimizar algo más, no he querido obsesionarme.
 
 ![Métricas usabilidad SEO web.dev del dominio emirodgar.com](https://i.imgur.com/5sI2ybv.png)
 
-La parte de AMP - que es el blog- está en sobresaliente a excepción de la accesibilidad, que es un aspecto que no momento no voy a trabajar pero no lo descarto para los próximos meses. 
+La parte de AMP - que es el blog- está muy bien optimizado a excepción de la accesibilidad, que es un aspecto que no momento no voy a trabajar pero que no descarto para los próximos meses. 
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODY4MDIwLC01MTgzNDgyMDIsLTE5OD
-Q1NDczMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbMTg0NTEwODY1NSwtNTE4MzQ4MjAyLC0xOT
+g0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
