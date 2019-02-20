@@ -23,14 +23,11 @@ Mi objetivo principal será posicionarme por el término **consultor SEO** y sus
 - Duración: 1 enero 2019 - 31 diciembre 2019
 - KPIs: clics orgánicos (Google Search Console) y páginas indexadas.
 
-## Mes: enero
+## Enero: base SEO sólida
  
  - Resultados: 0 clics
  - Páginas indexadas: 2
  - Sensación: voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
-
-
-### Base SEO sólida
 
 El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y trabajando la parte visual de la página web. He decidido utilizar dos tecnologías: la parte principal de la web será *responsive* (HTML5+CSS3) y el blog estará bajo AMP .
 
@@ -38,19 +35,15 @@ El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y 
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo). 
 
-
-
-## Mes: febrero
+## Febrero: usabilidad SEO
  
  - Resultados: 10 clics
  - Páginas indexadas: 3
- - Sensación: voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
+ - Sensación: crece la visilidad, aunque se necesitan más páginas.
 
 ![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
 
 En la imagen anterior podemos ver la evolución que he seguido desde enero hasta mediados de febrero en relación a las impresiones. Aunque aún no tengo clics, Google ya me ha indexado y comienzo a ganar visibilidad.
-
-### Usabilidad SEO
 
 Gran parte del esfuerzo en estos meses lo he concentrado en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
 
@@ -62,8 +55,8 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MT
-UzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OCwtNTE4MzQ4
-MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2ND
-BdfQ==
+eyJoaXN0b3J5IjpbLTIxNjM1NTEwMSwtNDI0NzMwMzcxLDEzND
+c4OTU4MSwtNDkxNTMwNjA1LC0xMDE4NTczMjk4LC0xODQ1NTQ0
+MzQ4LC01MTgzNDgyMDIsLTE5ODQ1NDczMzksLTU4MDAzNDg1NS
+wtMTY2NjU1NzY0MF19
 -->
