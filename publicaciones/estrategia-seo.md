@@ -71,7 +71,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 ## Marzo: Más puertas de entrada
  
  - Resultados: 10 clics / 0 conversiones
- - Páginas indexadas: 3
+ - Páginas indexadas: 9
 
 Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en tres partes:
 
@@ -87,11 +87,21 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
 He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO y también he subido a GSC un sitemap XML para facilitar el seguimiento de la indexación.
 
 > SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
+
+## Abril: Enlaces
+ 
+ - Resultados: 10 clics / 0 conversiones
+ - Páginas indexadas: 3
+
+Me he dado cuenta de algunos problemas
+
+> SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMTkzODksMTA0NjYxMDA5NywtMTY0Nz
-MzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1
-MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLT
-QyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3
-MzI5OCwtMTg0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NTQ3Mz
-M5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbNTA1NzM2OTMyLDcwMzE5Mzg5LDEwNDY2MT
+AwOTcsLTE2NDczMzI3MzgsMTAxOTg1NTcwMCwtMTY4ODk4MjMy
+MSwtMTY0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMj
+E2MzU1MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2
+MDUsLTEwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMi
+wtMTk4NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
+
 -->
