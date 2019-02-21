@@ -75,10 +75,11 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en dos partes:
 
-- Páginas que atraigan visitantes y enlaces
+- Páginas que atraigan visitantes y enlaces o que ofrezcan inf
+ -- [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
 - Páginas relacionadas con **consultor SEO**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzM4MDc4NSwtMTY0NzMzMjczOCwxMD
+eyJoaXN0b3J5IjpbLTM4NzA0ODgyMiwtMTY0NzMzMjczOCwxMD
 E5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1MDcxLDIxMjc2
 NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MS
 wxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0
