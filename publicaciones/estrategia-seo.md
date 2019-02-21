@@ -75,7 +75,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en tres partes:
 
-- Páginas que atraigan visitantes y enlaces:
+### Páginas que atraigan visitantes y enlaces:
    -  [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
 - Páginas relacionadas con **consultor SEO**
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
@@ -86,10 +86,10 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
 
 He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDIxMDU3NjQsMTA0NjYxMDA5NywtMT
-Y0NzMzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQw
-NzA1MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMD
-EsLTQyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAx
-ODU3MzI5OCwtMTg0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NT
-Q3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbMTA2NTE3OTY5OCwxMDQ2NjEwMDk3LC0xNj
+Q3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIzMjEsLTE2NDA3
+MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1NTEwMS
+wtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC0xMDE4
+NTczMjk4LC0xODQ1NTQ0MzQ4LC01MTgzNDgyMDIsLTE5ODQ1ND
+czMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
 -->
