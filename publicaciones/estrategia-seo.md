@@ -31,13 +31,11 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 ![Google Search Console - emirodgar.com ](https://i.imgur.com/7ce2kiB.png)
 
-El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y programando la página web. He decidido utilizar dos tecnologías: la parte principal de la web será *responsive* (HTML5+CSS3) y el blog estará bajo AMP .
-
-> El hecho de usar el blog únicamente con AMP será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente.
+El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y programando la página web. He comenzado con la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/).
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo). 
 
-He comenzado con la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). Ambas se han posicionado rápido e incluso han conseguido 5 interacciones orgánicas aunque de baja calidad.
+ Ambas se han posicionado rápido e incluso han conseguido 5 interacciones orgánicas aunque de baja calidad.
 
 ## Febrero: Usabilidad SEO
  
@@ -59,9 +57,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA3MDUwNzEsMjEyNzY1MDQ1OSwtOT
-U1OTU4MDUsLTIxNjM1NTEwMSwtNDI0NzMwMzcxLDEzNDc4OTU4
-MSwtNDkxNTMwNjA1LC0xMDE4NTczMjk4LC0xODQ1NTQ0MzQ4LC
-01MTgzNDgyMDIsLTE5ODQ1NDczMzksLTU4MDAzNDg1NSwtMTY2
-NjU1NzY0MF19
+eyJoaXN0b3J5IjpbLTg3OTU5NTE2MCwtMTY0MDcwNTA3MSwyMT
+I3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAz
+NzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLT
+E4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4NDU0NzMzOSwtNTgw
+MDM0ODU1LC0xNjY2NTU3NjQwXX0=
 -->
