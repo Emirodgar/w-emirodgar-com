@@ -16,12 +16,12 @@ Necesitamos definir los recursos con los que contamos y los objetivos que querem
 
 Mi objetivo principal será posicionarme por el término **consultor SEO** y sus variantes. Voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
 
- Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
+Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
 
 - Dominio: emirodgar.com
 - Objetivo: Posicionamiento por consultor SEO
 - Duración: 1 enero 2019 - 31 diciembre 2019
-- KPIs: clics orgánicos (Google Search Console), contactos y páginas indexadas.
+- KPIs: clics orgánicos (Google Search Console), conversinoes (serán contactos) y páginas indexadas.
 
 ## Enero: Base SEO sólida
  
@@ -55,8 +55,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNj
-M1NTEwMSwtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1
-LC0xMDE4NTczMjk4LC0xODQ1NTQ0MzQ4LC01MTgzNDgyMDIsLT
-E5ODQ1NDczMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbMTY2NDUzNzYxLDIxMjc2NTA0NTksLTk1NT
+k1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3ODk1ODEs
+LTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OCwtNT
+E4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1
+NTc2NDBdfQ==
 -->
