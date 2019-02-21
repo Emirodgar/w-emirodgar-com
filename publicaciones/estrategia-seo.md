@@ -86,12 +86,12 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
 
 He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO.
 
-> SENSACIÓN: He tenido algunos problemas con el *template* de consultor SEO, lo que me ha hecho perder algo de tiempo pero estoy contento con los resultados. 
+> SENSACIÓN: He tenido algunos problemas con el *template* de consultor SEO, lo que me ha hecho perder algo de tiempo, pero estoy contento con los resultados. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0MDQyMzY3LDEwNDY2MTAwOTcsLTE2ND
-czMzI3MzgsMTAxOTg1NTcwMCwtMTY4ODk4MjMyMSwtMTY0MDcw
-NTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1MTAxLC
-00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMTg1
-NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4NDU0Nz
-MzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
+eyJoaXN0b3J5IjpbMTQ0Mzg0OTc5MywxMDQ2NjEwMDk3LC0xNj
+Q3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIzMjEsLTE2NDA3
+MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1NTEwMS
+wtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC0xMDE4
+NTczMjk4LC0xODQ1NTQ0MzQ4LC01MTgzNDgyMDIsLTE5ODQ1ND
+czMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
 -->
