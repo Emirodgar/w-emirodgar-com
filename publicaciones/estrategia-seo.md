@@ -84,14 +84,14 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
     -   [Mapa web](https://emirodgar.com/mapa-web)
     - [Listado de publicaciones](https://emirodgar.com/publicaciones)
 
-He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO y también he subido a GSC un sitemap XML para facilitar el seguimiento de indexación.
+He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO y también he subido a GSC un sitemap XML para facilitar el seguimiento de la indexación.
 
-> SENSACIÓN: He tenido algunos problemas con el *template* de consultor SEO, lo que me ha hecho perder algo de tiempo, pero estoy contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
+> SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDM4MzE4NiwxMDQ2NjEwMDk3LC0xNj
-Q3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIzMjEsLTE2NDA3
-MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1NTEwMS
-wtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC0xMDE4
-NTczMjk4LC0xODQ1NTQ0MzQ4LC01MTgzNDgyMDIsLTE5ODQ1ND
-czMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbNzAzMTkzODksMTA0NjYxMDA5NywtMTY0Nz
+MzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1
+MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLT
+QyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3
+MzI5OCwtMTg0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NTQ3Mz
+M5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
