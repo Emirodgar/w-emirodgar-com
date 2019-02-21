@@ -31,7 +31,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 ![Google Search Console - emirodgar.com ](https://i.imgur.com/7ce2kiB.png)
 
-El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y programando la página web. He comenzado con la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/).
+He comenzado lanzando una primera versión de la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando la part.
 
 Ambas se han posicionado rápido e incluso han conseguido 5 interacciones orgánicas, aunque de baja calidad.
 
@@ -59,7 +59,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjc1NTY0MSwtMTY0MDcwNTA3MSwyMT
+eyJoaXN0b3J5IjpbMTY4NzEyNDY3NiwtMTY0MDcwNTA3MSwyMT
 I3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAz
 NzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLT
 E4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4NDU0NzMzOSwtNTgw
