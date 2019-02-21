@@ -67,10 +67,18 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 
 > SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado lo que ya tenía y haber avanzado más rápido. Veremos si, a corto plazo, AMP me beneficia a nivel SEO. 
+
+## Marzo: Más puertas de entrada
+ 
+ - Resultados: 10 clics / 0 conversiones
+ - Páginas indexadas: 3
+
+Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTg1NTcwMCwtMTY4ODk4MjMyMSwtMT
-Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
-MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLT
-EwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4
-NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
+eyJoaXN0b3J5IjpbLTE2NDczMzI3MzgsMTAxOTg1NTcwMCwtMT
+Y4ODk4MjMyMSwtMTY0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5
+NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC
+00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUx
+ODM0ODIwMiwtMTk4NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NT
+U3NjQwXX0=
 -->
