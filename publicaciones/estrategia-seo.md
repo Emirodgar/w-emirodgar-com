@@ -88,20 +88,12 @@ He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/ans
 
 > SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 
-## Abril: Enlaces
- 
- - Resultados: 10 clics / 0 conversiones
- - Páginas indexadas: 3
-
-Me he dado cuenta de algunos problemas
-
-> SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1NzM2OTMyLDcwMzE5Mzg5LDEwNDY2MT
-AwOTcsLTE2NDczMzI3MzgsMTAxOTg1NTcwMCwtMTY4ODk4MjMy
-MSwtMTY0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMj
-E2MzU1MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2
-MDUsLTEwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMi
-wtMTk4NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
-
+eyJoaXN0b3J5IjpbMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMT
+kzODksMTA0NjYxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAw
+LC0xNjg4OTgyMzIxLC0xNjQwNzA1MDcxLDIxMjc2NTA0NTksLT
+k1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3ODk1
+ODEsLTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OC
+wtNTE4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2
+NjY1NTc2NDBdfQ==
 -->
