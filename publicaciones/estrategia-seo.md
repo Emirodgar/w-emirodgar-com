@@ -32,7 +32,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 He comenzado lanzando una primera versión de la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
 
-He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
+He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) (GSC) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
 
 Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
@@ -84,11 +84,11 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
     -   [Mapa web](https://emirodgar.com/mapa-web)
     - [Listado de publicaciones](https://emirodgar.com/publicaciones)
 
-He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO.
+He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO y también he subido a GSC un sitemap XML para facilitar el seguimiento de indexación.
 
 > SENSACIÓN: He tenido algunos problemas con el *template* de consultor SEO, lo que me ha hecho perder algo de tiempo, pero estoy contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI1MDU3MSwxMDQ2NjEwMDk3LC0xNj
+eyJoaXN0b3J5IjpbMTg1MDM4MzE4NiwxMDQ2NjEwMDk3LC0xNj
 Q3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIzMjEsLTE2NDA3
 MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1NTEwMS
 wtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC0xMDE4
