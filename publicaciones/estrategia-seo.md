@@ -27,7 +27,6 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
  
  - Resultados: 5 clics / 0 conversiones
  - Páginas indexadas: 2
- - Sensación: Voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
 
 ![Google Search Console - emirodgar.com ](https://i.imgur.com/7ce2kiB.png)
 
@@ -38,6 +37,10 @@ He dado de alta el dominio en [Google Search Console](https://search.google.com/
 > Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
+
+```
+Voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
+```
 
 ## Febrero: AMP y Usabilidad SEO
  
@@ -61,9 +64,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4ODA3Mzg3LC0xNjg4OTgyMzIxLC0xNj
-QwNzA1MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUx
-MDEsLTQyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMT
-AxODU3MzI5OCwtMTg0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0
-NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbLTY0NDUyMjg0NSwtMTY4ODk4MjMyMSwtMT
+Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
+MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLT
+EwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4
+NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
 -->
