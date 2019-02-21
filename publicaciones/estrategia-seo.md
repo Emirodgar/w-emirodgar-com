@@ -73,17 +73,20 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 3
 
-Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en dos partes:
+Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en tres partes:
 
 - Páginas que atraigan visitantes y enlaces:
    -  [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
 - Páginas relacionadas con **consultor SEO**
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
   -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca) y [México](https://emirodgar.com/consultor-seo/mexico)
+ - Páginas para mejorar el enlazado interno
+    -   [Mapa web](https://emirodgar.com/mapa-web)
+    - []
 
 He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzMwMDg0OCwxMDQ2NjEwMDk3LC0xNj
+eyJoaXN0b3J5IjpbLTIxMjY5NTU3NywxMDQ2NjEwMDk3LC0xNj
 Q3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIzMjEsLTE2NDA3
 MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1NTEwMS
 wtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC0xMDE4
