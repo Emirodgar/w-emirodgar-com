@@ -33,7 +33,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 He comenzado lanzando una primera versión de la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
 
-Ambas se han posicionado rápido e incluso han conseguido 5 interacciones orgánicas, aunque de baja calidad.
+He creado el perfil en Google Search Console para dar de alta ambas URLs y he añadido un siteamp. Se han indexado al día siguiente.
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo). 
 
@@ -59,9 +59,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTA1MTM3MiwtMTY0MDcwNTA3MSwyMT
-I3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAz
-NzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLT
-E4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4NDU0NzMzOSwtNTgw
-MDM0ODU1LC0xNjY2NTU3NjQwXX0=
+eyJoaXN0b3J5IjpbMTY2NjQ2OTYzLC0xNjQwNzA1MDcxLDIxMj
+c2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3
+MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMT
+g0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAw
+MzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
