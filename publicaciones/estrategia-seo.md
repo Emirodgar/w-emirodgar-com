@@ -86,9 +86,9 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
 
 He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO.
 
-> SENSACIÓN: He tenido algunos problemas con el *template* de consultor SEO, lo que me ha hecho perder algo de tiempo, pero estoy contento con los resultados. 
+> SENSACIÓN: He tenido algunos problemas con el *template* de consultor SEO, lo que me ha hecho perder algo de tiempo, pero estoy contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mzg0OTc5MywxMDQ2NjEwMDk3LC0xNj
+eyJoaXN0b3J5IjpbLTEyNDI1MDU3MSwxMDQ2NjEwMDk3LC0xNj
 Q3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIzMjEsLTE2NDA3
 MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1NTEwMS
 wtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC0xMDE4
