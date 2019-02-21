@@ -61,9 +61,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 
-> SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado parte de lo que ya tenía y ahber avanzado más rápido. Veremos si AMP 
+> SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado lo que ya tenía y haber avanzado más rápido. Veremos si, a corto plazo, AMP tiene el ROI que espero. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODg5MjEwMCwtMTY4ODk4MjMyMSwtMT
+eyJoaXN0b3J5IjpbMTY4MTIxMDA2NCwtMTY4ODk4MjMyMSwtMT
 Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
 MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLT
 EwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4
