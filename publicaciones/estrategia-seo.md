@@ -82,14 +82,14 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
   -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca) y [México](https://emirodgar.com/consultor-seo/mexico)
  - Páginas para mejorar el enlazado interno
     -   [Mapa web](https://emirodgar.com/mapa-web)
-    - []
+    - [Listado de publicaciones](https://emirodgar.com/publicaciones)
 
 He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY5NTU3NywxMDQ2NjEwMDk3LC0xNj
-Q3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIzMjEsLTE2NDA3
-MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1NTEwMS
-wtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC0xMDE4
-NTczMjk4LC0xODQ1NTQ0MzQ4LC01MTgzNDgyMDIsLTE5ODQ1ND
-czMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbLTE1MDIxMDU3NjQsMTA0NjYxMDA5NywtMT
+Y0NzMzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQw
+NzA1MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMD
+EsLTQyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAx
+ODU3MzI5OCwtMTg0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NT
+Q3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
