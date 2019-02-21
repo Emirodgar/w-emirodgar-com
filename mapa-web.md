@@ -18,8 +18,11 @@ Tiendo a compartir mis conocimientos y recursos, como por ejemplo este [listado 
 
 De vez en cuando [publico artículos](publicaciones) relacionados con el SEO, el marketing digital y growth hacking.
 
+Te cuento la [estrategia SEO](https://emirodgar.com/estrategia-seo) que he seguido para posicionarme como Consultor SEO.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzOTQ5MjU3LDEzNjUyNDIzNTcsODA0OD
-Q0NjMwLDMxNzM2MTMwNCwtOTA2OTEzNDQyXX0=
+eyJoaXN0b3J5IjpbNzY2MzEzNjg5LDU4Mzk0OTI1NywxMzY1Mj
+QyMzU3LDgwNDg0NDYzMCwzMTczNjEzMDQsLTkwNjkxMzQ0Ml19
+
 -->
