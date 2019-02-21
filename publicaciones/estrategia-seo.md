@@ -29,7 +29,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
  - Páginas indexadas: 2
  - Sensación: voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
 
-El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y trabajando la parte visual de la página web. He decidido utilizar dos tecnologías: la parte principal de la web será *responsive* (HTML5+CSS3) y el blog estará bajo AMP .
+El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y programando la página web. He decidido utilizar dos tecnologías: la parte principal de la web será *responsive* (HTML5+CSS3) y el blog estará bajo AMP .
 
 > El hecho de usar el blog únicamente con AMP será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente.
 
@@ -55,7 +55,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDUzNzYxLDIxMjc2NTA0NTksLTk1NT
+eyJoaXN0b3J5IjpbLTUwMTMzMTk1LDIxMjc2NTA0NTksLTk1NT
 k1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3ODk1ODEs
 LTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OCwtNT
 E4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1
