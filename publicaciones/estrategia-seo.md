@@ -79,12 +79,14 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
    -  [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
 - Páginas relacionadas con **consultor SEO**
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
-  -  Consultor SEO en [Salamanca](https://emirodgar.com/carrera-profesional/)
+  -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca) y [México](https://emirodgar.com/consultor-seo/mexico)
+
+He hecho uso de la etiqueta hreflang para evitar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNjg3MDgyLDEwNDY2MTAwOTcsLTE2ND
-czMzI3MzgsMTAxOTg1NTcwMCwtMTY4ODk4MjMyMSwtMTY0MDcw
-NTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1MTAxLC
-00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMTg1
-NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4NDU0Nz
-MzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
+eyJoaXN0b3J5IjpbLTExNzI2NDkyMTEsMTA0NjYxMDA5NywtMT
+Y0NzMzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQw
+NzA1MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMD
+EsLTQyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAx
+ODU3MzI5OCwtMTg0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NT
+Q3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
