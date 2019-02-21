@@ -47,7 +47,9 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 ![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
 
-He decidido añadir un blog para poder generar contenido de actualidad con cierta facilidad. Utilizo dos tecnologías: la parte principal de la web será *responsive* con HTML5 / CSS3 y el blog estará bajo [AMP](https://www.ampproject.org). Quiero aprovechar esta funcionalidad de Google.
+He decidido añadir un blog para poder generar contenido de actualidad con cierta facilidad. Utilizo dos tecnologías: 
+
+- a parte principal de la web será *responsive* con HTML5 / CSS3 y el blog estará bajo [AMP](https://www.ampproject.org). Quiero aprovechar esta funcionalidad de Google.
 
 > El hecho de usar el blog **únicamente con AMP** será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *canonical* a una versión normal.
 
@@ -65,7 +67,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 > SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado lo que ya tenía y haber avanzado más rápido. Veremos si, a corto plazo, AMP me beneficia a nivel SEO. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDA0NjA5NywtMTY4ODk4MjMyMSwtMT
+eyJoaXN0b3J5IjpbMTIzMDA3NzUzNiwtMTY4ODk4MjMyMSwtMT
 Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
 MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLT
 EwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4
