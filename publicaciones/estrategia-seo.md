@@ -43,7 +43,7 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
  
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 3
- - Sensación: crece la visilidad, aunque se necesitan más páginas.
+ - Sensación: crece la visilidad, aunque se necesitan más páginas. De momento no me centro en el objetivo principal (consultor SEO) sino en optimizar todo el sitio.
 
 ![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
 
@@ -61,9 +61,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxODM5OTMwLC0xNjQwNzA1MDcxLDIxMj
-c2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3
-MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMT
-g0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAw
-MzQ4NTUsLTE2NjY1NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE2ODg5ODIzMjEsLTE2NDA3MDUwNzEsMj
+EyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1NTEwMSwtNDI0NzMw
+MzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC0xMDE4NTczMjk4LC
+0xODQ1NTQ0MzQ4LC01MTgzNDgyMDIsLTE5ODQ1NDczMzksLTU4
+MDAzNDg1NSwtMTY2NjU1NzY0MF19
 -->
