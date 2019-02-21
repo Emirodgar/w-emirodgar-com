@@ -25,9 +25,11 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 ## Enero: Base SEO sólida
  
- - Resultados: 0 clics / 0 conversiones
+ - Resultados: 5 clics / 0 conversiones
  - Páginas indexadas: 2
  - Sensación: voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
+
+![Google Search Console - emirodgar.com ](https://i.imgur.com/7ce2kiB.png)
 
 El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y programando la página web. He decidido utilizar dos tecnologías: la parte principal de la web será *responsive* (HTML5+CSS3) y el blog estará bajo AMP .
 
@@ -55,9 +57,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTMzMTk1LDIxMjc2NTA0NTksLTk1NT
-k1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3ODk1ODEs
-LTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OCwtNT
-E4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1
-NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE1NzM0MTY3NzgsMjEyNzY1MDQ1OSwtOT
+U1OTU4MDUsLTIxNjM1NTEwMSwtNDI0NzMwMzcxLDEzNDc4OTU4
+MSwtNDkxNTMwNjA1LC0xMDE4NTczMjk4LC0xODQ1NTQ0MzQ4LC
+01MTgzNDgyMDIsLTE5ODQ1NDczMzksLTU4MDAzNDg1NSwtMTY2
+NjU1NzY0MF19
 -->
