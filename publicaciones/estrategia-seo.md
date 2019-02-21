@@ -32,9 +32,9 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 He comenzado lanzando una primera versión de la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
 
-He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) y ssolicitado la indexación de ambas URLs. Se han indexado al día siguiente.
+He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
 
-> Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
+Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
 
@@ -49,7 +49,7 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 He decidido añadir un blog para poder generar contenido de actualidad con cierta facilidad. Utilizo dos tecnologías: 
 
-- La parte principal de la web será *responsive* con HTML5 / CSS3  - Ell blog estará bajo [AMP](https://www.ampproject.org). Quiero aprovechar esta funcionalidad de Google.
+- La parte principal de la web será *responsive* con HTML5 / CSS3- El blog estará bajo [AMP](https://www.ampproject.org). Quiero aprovechar esta funcionalidad de Google.
 
 El hecho de usar el blog **únicamente con AMP** será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *canonical* a una versión normal.
 
@@ -67,7 +67,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 > SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado lo que ya tenía y haber avanzado más rápido. Veremos si, a corto plazo, AMP me beneficia a nivel SEO. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTIxNDgyNDksLTE2ODg5ODIzMjEsLT
+eyJoaXN0b3J5IjpbLTEzNzIyOTY0MTAsLTE2ODg5ODIzMjEsLT
 E2NDA3MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1
 NTEwMSwtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC
 0xMDE4NTczMjk4LC0xODQ1NTQ0MzQ4LC01MTgzNDgyMDIsLTE5
