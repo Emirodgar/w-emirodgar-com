@@ -73,12 +73,15 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 3
 
-Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada.
+Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en dos partes:
+
+- Páginas que atraigan visitantes y enlaces
+- Páginas relacionadas con **consultor SEO**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDczMzI3MzgsMTAxOTg1NTcwMCwtMT
-Y4ODk4MjMyMSwtMTY0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5
-NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC
-00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUx
-ODM0ODIwMiwtMTk4NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NT
-U3NjQwXX0=
+eyJoaXN0b3J5IjpbMTY0MzM4MDc4NSwtMTY0NzMzMjczOCwxMD
+E5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1MDcxLDIxMjc2
+NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MS
+wxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0
+NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAwMz
+Q4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
