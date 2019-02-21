@@ -37,7 +37,7 @@ El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y 
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo). 
 
-He lanzado la página principal (genérica
+He comenzadola página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). Ambas se han posicionado rápido y han
 
 ## Febrero: Usabilidad SEO
  
@@ -59,9 +59,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwNDE4MTk5LDIxMjc2NTA0NTksLTk1NT
-k1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3ODk1ODEs
-LTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OCwtNT
-E4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1
-NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE2MjA5MTE2NSwyMTI3NjUwNDU5LC05NT
+U5NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgx
+LC00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLT
+UxODM0ODIwMiwtMTk4NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2
+NTU3NjQwXX0=
 -->
