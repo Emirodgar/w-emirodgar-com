@@ -40,14 +40,14 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 >SENSACIÓN: Voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
 
-## Febrero: AMP y Usabilidad SEO
+## Febrero: Blog AMP y Usabilidad SEO
  
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 3
 
 ![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
 
-He decidido utilizar dos tecnologías: la parte principal de la web será *responsive* con HTML5+CSS3 y el blog estará bajo AMP .
+He decidido añadir un blog al dominio para poder generar contenido de actualidad con cierta facilidad. utilizar dos tecnologías: la parte principal de la web será *responsive* con HTML5+CSS3 y el blog estará bajo AMP .
 
 > El hecho de usar el blog únicamente con AMP será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente.
 
@@ -63,9 +63,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 > SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado parte de lo que ya tenía.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwMDQyMTksLTE2ODg5ODIzMjEsLTE2ND
-A3MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1NTEw
-MSwtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC0xMD
-E4NTczMjk4LC0xODQ1NTQ0MzQ4LC01MTgzNDgyMDIsLTE5ODQ1
-NDczMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbMTk5NDk5NDIyNywtMTY4ODk4MjMyMSwtMT
+Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
+MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLT
+EwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4
+NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
 -->
