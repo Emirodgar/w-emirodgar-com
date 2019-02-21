@@ -37,6 +37,8 @@ El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y 
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo). 
 
+He lanzado la página principal (genérica
+
 ## Febrero: Usabilidad SEO
  
  - Resultados: 10 clics / 0 conversiones
@@ -57,9 +59,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM0MTY3NzgsMjEyNzY1MDQ1OSwtOT
-U1OTU4MDUsLTIxNjM1NTEwMSwtNDI0NzMwMzcxLDEzNDc4OTU4
-MSwtNDkxNTMwNjA1LC0xMDE4NTczMjk4LC0xODQ1NTQ0MzQ4LC
-01MTgzNDgyMDIsLTE5ODQ1NDczMzksLTU4MDAzNDg1NSwtMTY2
-NjU1NzY0MF19
+eyJoaXN0b3J5IjpbNzUwNDE4MTk5LDIxMjc2NTA0NTksLTk1NT
+k1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3ODk1ODEs
+LTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OCwtNT
+E4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1
+NTc2NDBdfQ==
 -->
