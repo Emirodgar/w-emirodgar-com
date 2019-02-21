@@ -47,11 +47,13 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 ![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
 
-He decidido añadir un blog para poder generar contenido de actualidad con cierta facilidad. Voy a utilizar dos tecnologías: la parte principal de la web será *responsive* con HTML5 / CSS3 y el blog estará bajo [AMP](https://www.ampproject.org). Quiero aprovechar esta funcionalidad de Google.
+He decidido añadir un blog para poder generar contenido de actualidad con cierta facilidad. Utilizo dos tecnologías: la parte principal de la web será *responsive* con HTML5 / CSS3 y el blog estará bajo [AMP](https://www.ampproject.org). Quiero aprovechar esta funcionalidad de Google.
 
-> El hecho de usar el blog únicamente con AMP será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente.
+> El hecho de usar el blog **únicamente con AMP** será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *canonical* a una versión normal.
 
-Gran parte del esfuerzo de febrero lo he concentrado en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
+De momento he creado 
+
+Además del blog, gran parte del esfuerzo de febrero lo he concentrado en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
 
 Aunque soy consciente de que podría llegar a optimizar algo más, no he querido obsesionarme.
 
@@ -61,11 +63,11 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 
-> SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado lo que ya tenía y haber avanzado más rápido. Veremos si, a corto plazo, AMP tiene el ROI que espero. 
+> SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado lo que ya tenía y haber avanzado más rápido. Veremos si, a corto plazo, AMP me beneficia a nivel SEO. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTIxMDA2NCwtMTY4ODk4MjMyMSwtMT
-Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
-MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLT
-EwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4
-NDU0NzMzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
+eyJoaXN0b3J5IjpbLTEyNTY3MzIwOTAsLTE2ODg5ODIzMjEsLT
+E2NDA3MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1
+NTEwMSwtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC
+0xMDE4NTczMjk4LC0xODQ1NTQ0MzQ4LC01MTgzNDgyMDIsLTE5
+ODQ1NDczMzksLTU4MDAzNDg1NSwtMTY2NjU1NzY0MF19
 -->
