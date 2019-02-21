@@ -37,7 +37,7 @@ Ambas se han posicionado rápido e incluso han conseguido 5 interacciones orgán
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo). 
 
-## Febrero: Usabilidad SEO
+## Febrero: AMP y Usabilidad SEO
  
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 3
@@ -59,7 +59,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTcxODQwOSwtMTY0MDcwNTA3MSwyMT
+eyJoaXN0b3J5IjpbLTYxOTA1MTM3MiwtMTY0MDcwNTA3MSwyMT
 I3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAz
 NzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLT
 E4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4NDU0NzMzOSwtNTgw
