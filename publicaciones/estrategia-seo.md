@@ -33,9 +33,9 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 El primer mes lo he pasado definiendo -sobre papel- la arquitectura del sitio y programando la página web. He comenzado con la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/).
 
-Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo). 
+Ambas se han posicionado rápido e incluso han conseguido 5 interacciones orgánicas, aunque de baja calidad.
 
- Ambas se han posicionado rápido e incluso han conseguido 5 interacciones orgánicas aunque de baja calidad.
+Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo). 
 
 ## Febrero: Usabilidad SEO
  
@@ -45,7 +45,9 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 ![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
 
-En la imagen anterior podemos ver la evolución que he seguido desde enero hasta mediados de febrero en relación a las impresiones. Aunque aún no tengo clics, Google ya me ha indexado y comienzo a ganar visibilidad.
+He decidido utilizar dos tecnologías: la parte principal de la web será *responsive* con HTML5+CSS3 y el blog estará bajo AMP .
+
+> El hecho de usar el blog únicamente con AMP será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente.
 
 Gran parte del esfuerzo en estos meses lo he concentrado en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
 
@@ -57,7 +59,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTU5NTE2MCwtMTY0MDcwNTA3MSwyMT
+eyJoaXN0b3J5IjpbMTUwNjc1NTY0MSwtMTY0MDcwNTA3MSwyMT
 I3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAz
 NzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLT
 E4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4NDU0NzMzOSwtNTgw
