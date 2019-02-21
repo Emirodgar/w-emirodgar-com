@@ -75,15 +75,16 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en dos partes:
 
-- Páginas que atraigan visitantes y enlaces o que ofrezcan información complementaria:
- -- [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
+- Páginas que atraigan visitantes y enlaces:
+   -  [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
 - Páginas relacionadas con **consultor SEO**
-  -- [Carrera profesional](https://emirodgar.com/carrera-profesional/)
+  -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
+  -  Consultor SEO en [Salamanca](https://emirodgar.com/carrera-profesional/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjYxMDA5NywtMTY0NzMzMjczOCwxMD
-E5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1MDcxLDIxMjc2
-NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MS
-wxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0
-NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAwMz
-Q4NTUsLTE2NjY1NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbNjUxNjg3MDgyLDEwNDY2MTAwOTcsLTE2ND
+czMzI3MzgsMTAxOTg1NTcwMCwtMTY4ODk4MjMyMSwtMTY0MDcw
+NTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1MTAxLC
+00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMTg1
+NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4NDU0Nz
+MzOSwtNTgwMDM0ODU1LC0xNjY2NTU3NjQwXX0=
 -->
