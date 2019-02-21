@@ -27,15 +27,15 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
  
  - Resultados: 5 clics / 0 conversiones
  - Páginas indexadas: 2
- - Sensación: voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
+ - Sensación: Voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
 
 ![Google Search Console - emirodgar.com ](https://i.imgur.com/7ce2kiB.png)
 
 He comenzado lanzando una primera versión de la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
 
-He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) para solicitar la indexación de ambas URLs. Se han indexado al día siguiente.
+He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) y ssolicitado la indexación de ambas URLs. Se han indexado al día siguiente.
 
-> Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero completamente.
+> Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
 
@@ -43,7 +43,7 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
  
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 3
- - Sensación: crece la visilidad, aunque se necesitan más páginas. De momento no me centro en el objetivo principal (consultor SEO) sino en optimizar todo el sitio.
+ - Sensación: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado parte de lo que ya tenía.
 
 ![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
 
@@ -61,9 +61,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg5ODIzMjEsLTE2NDA3MDUwNzEsMj
-EyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1NTEwMSwtNDI0NzMw
-MzcxLDEzNDc4OTU4MSwtNDkxNTMwNjA1LC0xMDE4NTczMjk4LC
-0xODQ1NTQ0MzQ4LC01MTgzNDgyMDIsLTE5ODQ1NDczMzksLTU4
-MDAzNDg1NSwtMTY2NjU1NzY0MF19
+eyJoaXN0b3J5IjpbMzE4ODA3Mzg3LC0xNjg4OTgyMzIxLC0xNj
+QwNzA1MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUx
+MDEsLTQyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMT
+AxODU3MzI5OCwtMTg0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0
+NTQ3MzM5LC01ODAwMzQ4NTUsLTE2NjY1NTc2NDBdfQ==
 -->
