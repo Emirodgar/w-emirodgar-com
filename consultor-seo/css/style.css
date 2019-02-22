@@ -9727,7 +9727,13 @@ body:not(.device-touch) .clients-grid li a {
 
 .section > .testimonial[data-animation="fade"] { padding: 0; }
 
-.section > .testimonial .testi-content { font-size: 22px; }
+.section > .testimonial .testi-content { font-size: 26px;
+    line-height: 1.6 !important;
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-weight: 300;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal; }
 
 .section > .testimonial .testi-meta,
 .section > .testimonial .testi-meta span { font-size: 14px; }

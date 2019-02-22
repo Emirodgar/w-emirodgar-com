@@ -272,11 +272,11 @@ body.side-panel-left.side-push-panel.side-panel-open.stretched #header .containe
 
 .parallax .testimonial .testi-content p {
 	line-height: 1.6 !important;
-	font-size: 24px;
+	font-size: 30px;
 	letter-spacing: 1px;
 	font-weight: 300;
 	font-family: 'Source Sans Pro', sans-serif;
-	font-style: normal;
+	font-style: italic;
 }
 
 .parallax .testimonial .testi-meta {
