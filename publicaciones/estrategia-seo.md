@@ -21,12 +21,13 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 - Dominio: emirodgar.com
 - Objetivo: Posicionamiento por consultor SEO
 - Duración: 1 enero 2019 - 31 diciembre 2019
-- KPIs: clics orgánicos (Google Search Console), conversinoes (serán contactos) y páginas indexadas.
+- KPIs: posicionamiento directo y relacionado, clics orgánicos (Google Search Console), conversiones (serán contactos) y páginas indexadas.
 
 ## Enero: Base SEO sólida
  
  - Resultados: 5 clics / 0 conversiones
  - Páginas indexadas: 2
+ - Posicionamiento 0 / 0
 
 ![Google Search Console - emirodgar.com ](https://i.imgur.com/7ce2kiB.png)
 
@@ -44,6 +45,7 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
  
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 3
+ - Posicionamiento: 122 / 0
 
 ![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
 
@@ -72,6 +74,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
  
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 9
+ - Posicionamiento: XX / 12 términos relacionados
 
 Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en tres partes:
 
@@ -89,11 +92,11 @@ He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/ans
 > SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMT
-kzODksMTA0NjYxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAw
-LC0xNjg4OTgyMzIxLC0xNjQwNzA1MDcxLDIxMjc2NTA0NTksLT
-k1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3ODk1
-ODEsLTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OC
-wtNTE4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01ODAwMzQ4NTUsLTE2
-NjY1NTc2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE5MDM0ODcxMDgsMTU4NDM2MjgyMSw1MD
+U3MzY5MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0NzMzMjcz
+OCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1MDcxLD
+IxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDcz
+MDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3MzI5OC
+wtMTg0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01
+ODAwMzQ4NTVdfQ==
 -->
