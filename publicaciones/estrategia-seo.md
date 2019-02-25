@@ -91,12 +91,21 @@ He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/ans
 
 > SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 
+## Abril: Optimización del contenido
+ 
+ - Resultados: XXX
+ - Páginas indexadas: XXX
+ - Posicionamiento: XX / 12 términos relacionados
+
+He optimizado más los contenidos, especialmente los de las páginas externas a España.
+
+He identificado un problema en las imágenes con AMP. Es un problema.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM0ODcxMDgsMTU4NDM2MjgyMSw1MD
-U3MzY5MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0NzMzMjcz
-OCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1MDcxLD
-IxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDcz
-MDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3MzI5OC
-wtMTg0NTU0NDM0OCwtNTE4MzQ4MjAyLC0xOTg0NTQ3MzM5LC01
-ODAwMzQ4NTVdfQ==
+eyJoaXN0b3J5IjpbOTY2ODIyODkwLC0xOTAzNDg3MTA4LDE1OD
+QzNjI4MjEsNTA1NzM2OTMyLDcwMzE5Mzg5LDEwNDY2MTAwOTcs
+LTE2NDczMzI3MzgsMTAxOTg1NTcwMCwtMTY4ODk4MjMyMSwtMT
+Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
+MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLT
+EwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4
+NDU0NzMzOV19
 -->
