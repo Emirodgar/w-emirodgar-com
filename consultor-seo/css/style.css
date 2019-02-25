@@ -9052,7 +9052,7 @@ body:not(.device-touch) .social-icon i {
 	line-height: 44px;
 }
 
-.accordion.accordion-border .acc_content { padding: 0 15px 15px 36px; }
+.accordion.accordion-border .acc_content { padding: 0 15px 15px 36px; font-size:15px; }
 
 
 /* Accordion - Large
