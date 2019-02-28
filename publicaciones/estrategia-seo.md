@@ -107,13 +107,13 @@ Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimizaci�
 
 ![consultor seo salamanca, emirodgar en segunda posición](https://i.imgur.com/u3RGo9e.png)
 
-Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del TOP3 pero es un buen c
+Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del TOP3 pero es un buen comienzo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUwMjQxNjksMTg4NTAzNDk1Nyw5Nj
-Y4MjI4OTAsLTE5MDM0ODcxMDgsMTU4NDM2MjgyMSw1MDU3MzY5
-MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0NzMzMjczOCwxMD
-E5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1MDcxLDIxMjc2
-NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MS
-wxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0
-NTU0NDM0OF19
+eyJoaXN0b3J5IjpbLTMzMTY3NTk4LDE4ODUwMzQ5NTcsOTY2OD
+IyODkwLC0xOTAzNDg3MTA4LDE1ODQzNjI4MjEsNTA1NzM2OTMy
+LDcwMzE5Mzg5LDEwNDY2MTAwOTcsLTE2NDczMzI3MzgsMTAxOT
+g1NTcwMCwtMTY4ODk4MjMyMSwtMTY0MDcwNTA3MSwyMTI3NjUw
+NDU5LC05NTU5NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAzNzEsMT
+M0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLTE4NDU1
+NDQzNDhdfQ==
 -->
