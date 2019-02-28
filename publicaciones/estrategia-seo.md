@@ -100,12 +100,14 @@ He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/ans
 He optimizado más los contenidos, especialmente los de las páginas externas a España.
 
 He identificado un problema en las imágenes con AMP. Es un problema.
+
+De cara a poder posicionar por consultor SEO decidí crear varias 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2ODIyODkwLC0xOTAzNDg3MTA4LDE1OD
-QzNjI4MjEsNTA1NzM2OTMyLDcwMzE5Mzg5LDEwNDY2MTAwOTcs
-LTE2NDczMzI3MzgsMTAxOTg1NTcwMCwtMTY4ODk4MjMyMSwtMT
-Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
-MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLT
-EwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4
-NDU0NzMzOV19
+eyJoaXN0b3J5IjpbMTg4MTgyMTA3OCw5NjY4MjI4OTAsLTE5MD
+M0ODcxMDgsMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMTkzODks
+MTA0NjYxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAwLC0xNj
+g4OTgyMzIxLC0xNjQwNzA1MDcxLDIxMjc2NTA0NTksLTk1NTk1
+ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3ODk1ODEsLT
+Q5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OCwtNTE4
+MzQ4MjAyXX0=
 -->
