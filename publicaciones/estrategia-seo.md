@@ -101,9 +101,12 @@ He optimizado más los contenidos, especialmente los de las páginas externas a 
 
 He identificado un problema en las imágenes con AMP. Es un problema.
 
-De cara a poder posicionar por consultor SEO decidí crear varias 
+De cara a poder posicionar por consultor SEO decidí crear varias páginas para reforzar el concepto junto con localizaciones específicas donde he trabajado (Salamanca, mi ciudad natal y México, donde he sido SEO Manager de Smartup).
+Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage* he
+
+![consultor seo salamanca, emirodgar en segunda posición](https://i.imgur.com/u3RGo9e.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTgyMTA3OCw5NjY4MjI4OTAsLTE5MD
+eyJoaXN0b3J5IjpbLTE4NjE3Nzk4OCw5NjY4MjI4OTAsLTE5MD
 M0ODcxMDgsMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMTkzODks
 MTA0NjYxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAwLC0xNj
 g4OTgyMzIxLC0xNjQwNzA1MDcxLDIxMjc2NTA0NTksLTk1NTk1
