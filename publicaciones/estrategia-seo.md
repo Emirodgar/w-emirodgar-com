@@ -103,17 +103,17 @@ He identificado un problema en las imágenes con AMP. Es un problema.
 
 De cara a poder posicionar por **consultor SEO** decidí crear varias páginas para reforzar el concepto junto con localizaciones específicas donde he trabajado (Salamanca, mi ciudad natal y México, donde he sido SEO Manager de Smartup).
 
-Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage* he conseguido situarme en segunda posición.
+Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
 
 ![consultor seo salamanca, emirodgar en segunda posición](https://i.imgur.com/u3RGo9e.png)
 
 Sé que es algo temporal y aún estoy lejos de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk3MzMzNTMsOTY2ODIyODkwLC0xOT
-AzNDg3MTA4LDE1ODQzNjI4MjEsNTA1NzM2OTMyLDcwMzE5Mzg5
-LDEwNDY2MTAwOTcsLTE2NDczMzI3MzgsMTAxOTg1NTcwMCwtMT
-Y4ODk4MjMyMSwtMTY0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5
-NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC
-00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUx
-ODM0ODIwMl19
+eyJoaXN0b3J5IjpbMTg4NTAzNDk1Nyw5NjY4MjI4OTAsLTE5MD
+M0ODcxMDgsMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMTkzODks
+MTA0NjYxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAwLC0xNj
+g4OTgyMzIxLC0xNjQwNzA1MDcxLDIxMjc2NTA0NTksLTk1NTk1
+ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3ODk1ODEsLT
+Q5MTUzMDYwNSwtMTAxODU3MzI5OCwtMTg0NTU0NDM0OCwtNTE4
+MzQ4MjAyXX0=
 -->
