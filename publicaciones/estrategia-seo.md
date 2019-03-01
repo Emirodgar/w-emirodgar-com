@@ -97,15 +97,23 @@ He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/ans
  - Páginas indexadas: XXX
  - Posicionamiento: XX / 12 términos relacionados
 
-He optimizado más los contenidos, especialmente los de las páginas externas a España.
+He optimizado más los contenidos, especialmente los de las páginas externas a España y he mejorado el enlazado interno para potenciar la palabra clave principal.
 
 He identificado un problema en las imágenes con AMP. Es un problema.
+
+De cara a poder posicionar por **consultor SEO** decidí crear varias páginas para reforzar el concepto junto con localizaciones específicas donde he trabajado (Salamanca, mi ciudad natal y México, donde he sido SEO Manager de Smartup).
+
+Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
+
+![consultor seo salamanca, emirodgar en segunda posición](https://i.imgur.com/u3RGo9e.png)
+
+Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del TOP3 pero es un buen comienzo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2ODIyODkwLC0xOTAzNDg3MTA4LDE1OD
-QzNjI4MjEsNTA1NzM2OTMyLDcwMzE5Mzg5LDEwNDY2MTAwOTcs
-LTE2NDczMzI3MzgsMTAxOTg1NTcwMCwtMTY4ODk4MjMyMSwtMT
-Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
-MTAxLC00MjQ3MzAzNzEsMTM0Nzg5NTgxLC00OTE1MzA2MDUsLT
-EwMTg1NzMyOTgsLTE4NDU1NDQzNDgsLTUxODM0ODIwMiwtMTk4
-NDU0NzMzOV19
+eyJoaXN0b3J5IjpbLTMzMTY3NTk4LDE4ODUwMzQ5NTcsOTY2OD
+IyODkwLC0xOTAzNDg3MTA4LDE1ODQzNjI4MjEsNTA1NzM2OTMy
+LDcwMzE5Mzg5LDEwNDY2MTAwOTcsLTE2NDczMzI3MzgsMTAxOT
+g1NTcwMCwtMTY4ODk4MjMyMSwtMTY0MDcwNTA3MSwyMTI3NjUw
+NDU5LC05NTU5NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAzNzEsMT
+M0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLTE4NDU1
+NDQzNDhdfQ==
 -->
