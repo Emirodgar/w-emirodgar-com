@@ -108,12 +108,15 @@ Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimizaci�
 ![consultor seo salamanca, emirodgar en segunda posición](https://i.imgur.com/u3RGo9e.png)
 
 Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del TOP3 pero es un buen comienzo.
+
+- Metidos códigos de OG
+- Creadas otras páginas por país
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTY3NTk4LDE4ODUwMzQ5NTcsOTY2OD
-IyODkwLC0xOTAzNDg3MTA4LDE1ODQzNjI4MjEsNTA1NzM2OTMy
-LDcwMzE5Mzg5LDEwNDY2MTAwOTcsLTE2NDczMzI3MzgsMTAxOT
-g1NTcwMCwtMTY4ODk4MjMyMSwtMTY0MDcwNTA3MSwyMTI3NjUw
-NDU5LC05NTU5NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAzNzEsMT
-M0Nzg5NTgxLC00OTE1MzA2MDUsLTEwMTg1NzMyOTgsLTE4NDU1
-NDQzNDhdfQ==
+eyJoaXN0b3J5IjpbLTM0NDg1MzQwOSwtMzMxNjc1OTgsMTg4NT
+AzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcxMDgsMTU4NDM2Mjgy
+MSw1MDU3MzY5MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0Nz
+MzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1
+MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLT
+QyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3
+MzI5OF19
 -->
