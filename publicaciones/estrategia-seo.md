@@ -111,8 +111,9 @@ Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del T
 
 - Metidos códigos de OG
 - Creadas otras páginas por país
+- comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDg1MzQwOSwtMzMxNjc1OTgsMTg4NT
+eyJoaXN0b3J5IjpbLTMzNjQ0MDIwOCwtMzMxNjc1OTgsMTg4NT
 AzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcxMDgsMTU4NDM2Mjgy
 MSw1MDU3MzY5MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0Nz
 MzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1
