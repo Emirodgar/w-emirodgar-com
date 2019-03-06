@@ -10,13 +10,10 @@ permalink: estrategia-seo
 
 Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en un caso real. Quiero mostrar un ejemplo de todos los pasos a seguir para definir una estrategia en un nicho tan competido como es el **marketing digital** y en especial el **posicionamiento SEO**.
 
-Mi objetivo será posicionar dentro del TOP10 por el término **Consultor SEO** en Google España empezando desde cero.
 
-## Definir estrategia
+## Definir estrategia y objetivos
 
-Necesitamos definir los recursos con los que contamos y los objetivos que queremos conseguir. Con ello podremos determinar las acciones que debemos llevar a cabo.
-
-Mi objetivo principal será posicionarme por el término **consultor SEO** y sus variantes y para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
+Mi objetivo principal será posicionar en el TOP10 de Google España por el término **consultor SEO** y sus variantes y para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
 
 Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
 
@@ -124,11 +121,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjAxMDQ0NiwtMzM2NDQwMjA4LC0zMz
-E2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5MCwtMTkwMzQ4NzEw
-OCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MDMxOTM4OSwxMDQ2Nj
-EwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIz
-MjEsLTE2NDA3MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLT
-IxNjM1NTEwMSwtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMw
-NjA1XX0=
+eyJoaXN0b3J5IjpbLTEyNjg3MjMxNzUsLTMzNjQ0MDIwOCwtMz
+MxNjc1OTgsMTg4NTAzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcx
+MDgsMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMTkzODksMTA0Nj
+YxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgy
+MzIxLC0xNjQwNzA1MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC
+0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUz
+MDYwNV19
 -->
