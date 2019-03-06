@@ -17,11 +17,12 @@ Mi objetivo principal será posicionar en el TOP10 de Google España por el tér
 
 Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
 
-|          |                                  |   |   |   |
-|----------|----------------------------------|---|---|---|
-| Dominio  | emirodgar.com                    |   |
-| Objetivo | TOP10 por Consultor SEO          |   |   |   |
-| Duración | 1 enero 2019 - 31 diciembre 2019 |   |   |   |
+|          |                                  |
+|----------|----------------------------------|
+| Dominio  | emirodgar.com                    |
+| Objetivo | TOP10 por Consultor SEO          |
+| Duración | 1 enero 2019 - 31 diciembre 2019 |
+
 
 ## Estrategia digital mes a mes
 
@@ -122,11 +123,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDE1NzAyMCwtMTI2ODcyMzE3NSwtMz
-M2NDQwMjA4LC0zMzE2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5
-MCwtMTkwMzQ4NzEwOCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MD
-MxOTM4OSwxMDQ2NjEwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3
-MDAsLTE2ODg5ODIzMjEsLTE2NDA3MDUwNzEsMjEyNzY1MDQ1OS
-wtOTU1OTU4MDUsLTIxNjM1NTEwMSwtNDI0NzMwMzcxLDEzNDc4
-OTU4MV19
+eyJoaXN0b3J5IjpbLTE3NjcxNTczNjMsLTEyNjg3MjMxNzUsLT
+MzNjQ0MDIwOCwtMzMxNjc1OTgsMTg4NTAzNDk1Nyw5NjY4MjI4
+OTAsLTE5MDM0ODcxMDgsMTU4NDM2MjgyMSw1MDU3MzY5MzIsNz
+AzMTkzODksMTA0NjYxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1
+NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1MDcxLDIxMjc2NTA0NT
+ksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3
+ODk1ODFdfQ==
 -->
