@@ -93,7 +93,7 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
 - Páginas relacionadas con **consultor SEO**
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
   -  [Asesor SEO](https://emirodgar.com/asesor-seo)
-  -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca) y [México](https://emirodgar.com/consultor-seo/mexico)
+  -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca), [Argentina](https://emirodgar.com/consultor-seo/argentina)  y [México](https://emirodgar.com/consultor-seo/mexico)
  - Páginas para mejorar el enlazado interno
     -   [Mapa web](https://emirodgar.com/mapa-web)
     - [Listado de publicaciones](https://emirodgar.com/publicaciones)
@@ -118,13 +118,13 @@ Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimizaci�
 
 ![consultor seo salamanca, emirodgar en segunda posición](https://i.imgur.com/u3RGo9e.png)
 
-Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del TOP3 pero es un buen comienzo.
+Sé que no es mi objetivo principal y que es un término sin mucha competencia pero es un buen comienzo.
 
 - Metidos códigos de OG
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAzNjg2NDYsLTMzNjQ0MDIwOCwtMz
+eyJoaXN0b3J5IjpbLTE1MjMyMDE5NTksLTMzNjQ0MDIwOCwtMz
 MxNjc1OTgsMTg4NTAzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcx
 MDgsMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMTkzODksMTA0Nj
 YxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgy
