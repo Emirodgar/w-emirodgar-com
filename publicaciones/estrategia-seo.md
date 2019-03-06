@@ -25,7 +25,7 @@ Estas son la tareas que he ido implementado a lo largo de los diferentes meses d
 |----------|----------------------------------
 | Enero | [Base SEO sólida](#enero)                  
 | Febrero | [Usabilidad SEO y Blog AMP](#febrero)        |
-| Marzo | [Más puertas de entrada](#marzo) |
+| Marzo | [Más puertas de entrada](#marzo) 
 
 
 ## <a name="enero"></a> Enero: Base SEO sólida
@@ -119,11 +119,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjgxNzI1MSwxODEyNTY0NTY5LDYwMz
-I0OTgzMiwtMTI2ODcyMzE3NSwtMzM2NDQwMjA4LC0zMzE2NzU5
-OCwxODg1MDM0OTU3LDk2NjgyMjg5MCwtMTkwMzQ4NzEwOCwxNT
-g0MzYyODIxLDUwNTczNjkzMiw3MDMxOTM4OSwxMDQ2NjEwMDk3
-LC0xNjQ3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIzMjEsLT
-E2NDA3MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLTIxNjM1
-NTEwMV19
+eyJoaXN0b3J5IjpbODgxMTQzMTE1LDE4MTI1NjQ1NjksNjAzMj
+Q5ODMyLC0xMjY4NzIzMTc1LC0zMzY0NDAyMDgsLTMzMTY3NTk4
+LDE4ODUwMzQ5NTcsOTY2ODIyODkwLC0xOTAzNDg3MTA4LDE1OD
+QzNjI4MjEsNTA1NzM2OTMyLDcwMzE5Mzg5LDEwNDY2MTAwOTcs
+LTE2NDczMzI3MzgsMTAxOTg1NTcwMCwtMTY4ODk4MjMyMSwtMT
+Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
+MTAxXX0=
 -->
