@@ -25,12 +25,13 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 - Duración: 1 enero 2019 - 31 diciembre 2019
 - KPIs: posicionamiento directo y relacionado, clics orgánicos (Google Search Console), conversiones (serán contactos) y páginas indexadas.
 
-## Fases de la estrategia
+## Estrategia digital mes a mes
 
 Estas son la tareas que he ido implementado a lo largo de 2019.
 
  - [Enero: Base SEO sólida](#enero)
- -  - [Enero: Base SEO sólida](#enero)
+ - [Febrero: Usabilidad SEO y Blog AMP](#febrero)
+ - [Marzo: Más puertas de entrada](#marzo)
 
 ## <a name="enero"></a> Enero: Base SEO sólida
  
@@ -122,11 +123,11 @@ Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del T
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODQ4NzE5NywtMzM2NDQwMjA4LC0zMz
-E2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5MCwtMTkwMzQ4NzEw
-OCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MDMxOTM4OSwxMDQ2Nj
-EwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIz
-MjEsLTE2NDA3MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLT
-IxNjM1NTEwMSwtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMw
-NjA1XX0=
+eyJoaXN0b3J5IjpbLTE0NjI0ODczMTEsLTMzNjQ0MDIwOCwtMz
+MxNjc1OTgsMTg4NTAzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcx
+MDgsMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMTkzODksMTA0Nj
+YxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgy
+MzIxLC0xNjQwNzA1MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC
+0yMTYzNTUxMDEsLTQyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUz
+MDYwNV19
 -->
