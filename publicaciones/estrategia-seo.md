@@ -51,7 +51,7 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 >SENSACIÓN: Voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
 
-## Febrero: Blog AMP y Usabilidad SEO
+## <a name="febrero"></a>Febrero: Blog AMP y Usabilidad SEO
  
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 3
@@ -80,7 +80,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 > SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado lo que ya tenía y haber avanzado más rápido. Veremos si, a corto plazo, AMP me beneficia a nivel SEO. 
 
-## Marzo: Más puertas de entrada
+## <a name="marzo"></a>Marzo: Más puertas de entrada
  
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 9
@@ -101,7 +101,7 @@ He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/ans
 
 > SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 
-## Abril: Optimización del contenido
+## <a name="enero"></a>Abril: Optimización del contenido
  
  - Resultados: XXX
  - Páginas indexadas: XXX
@@ -123,7 +123,7 @@ Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del T
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI0ODczMTEsLTMzNjQ0MDIwOCwtMz
+eyJoaXN0b3J5IjpbLTEwNTE4MDQ5NjMsLTMzNjQ0MDIwOCwtMz
 MxNjc1OTgsMTg4NTAzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcx
 MDgsMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMTkzODksMTA0Nj
 YxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgy
