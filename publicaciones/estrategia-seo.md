@@ -16,7 +16,7 @@ Mi objetivo será posicionar dentro del TOP10 por el término **Consultor SEO** 
 
 Necesitamos definir los recursos con los que contamos y los objetivos que queremos conseguir. Con ello podremos determinar las acciones que debemos llevar a cabo.
 
-Mi objetivo principal será posicionarme por el término **consultor SEO** y sus variantes. Voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
+Mi objetivo principal será posicionarme por el término **consultor SEO** y sus variantes y para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
 
 Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
 
@@ -24,6 +24,12 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 - Objetivo: Posicionamiento por consultor SEO
 - Duración: 1 enero 2019 - 31 diciembre 2019
 - KPIs: posicionamiento directo y relacionado, clics orgánicos (Google Search Console), conversiones (serán contactos) y páginas indexadas.
+
+## Fases de la estrategia
+
+Estas son la tareas que he ido implementado a lo largo de 2019.
+
+ - [Enero: Base SEO sólida]()
 
 ## Enero: Base SEO sólida
  
@@ -115,7 +121,7 @@ Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del T
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTkxMTkwNCwtMzM2NDQwMjA4LC0zMz
+eyJoaXN0b3J5IjpbLTMyNTk4NTgyMywtMzM2NDQwMjA4LC0zMz
 E2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5MCwtMTkwMzQ4NzEw
 OCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MDMxOTM4OSwxMDQ2Nj
 EwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIz
