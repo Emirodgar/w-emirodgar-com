@@ -42,9 +42,9 @@ He dado de alta el dominio en [Google Search Console](https://search.google.com/
 
 Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
-Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
+>Soy demasiado perfeccionsita, tendría que haber lanzado más páginas aunque no estuvieran al 100%. 
 
->SENSACIÓN: Voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
+Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
 
 ## <a name="febrero"></a>Febrero: Blog AMP y Usabilidad SEO
  
@@ -73,8 +73,6 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
 
-> SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado lo que ya tenía y haber avanzado más rápido. Veremos si, a corto plazo, AMP me beneficia a nivel SEO. 
-
 ## <a name="marzo"></a>Marzo: Más puertas de entrada
  
  - Resultados: 10 clics / 0 conversiones
@@ -95,7 +93,6 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
 
 He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO y también he subido a GSC un sitemap XML para facilitar el seguimiento de la indexación.
 
-> SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 
 ## <a name="abril"></a>Abril: Optimización del contenido
  
@@ -119,11 +116,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzNDgxNzQ0LC0xMDM3NTc4Njk2LDE0NT
-AwNzg3OSw4ODExNDMxMTUsMTgxMjU2NDU2OSw2MDMyNDk4MzIs
-LTEyNjg3MjMxNzUsLTMzNjQ0MDIwOCwtMzMxNjc1OTgsMTg4NT
-AzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcxMDgsMTU4NDM2Mjgy
-MSw1MDU3MzY5MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0Nz
-MzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1
-MDcxXX0=
+eyJoaXN0b3J5IjpbLTQzNzU1MDc3NCwtMTU1OTk2MzM4NywzND
+M0ODE3NDQsLTEwMzc1Nzg2OTYsMTQ1MDA3ODc5LDg4MTE0MzEx
+NSwxODEyNTY0NTY5LDYwMzI0OTgzMiwtMTI2ODcyMzE3NSwtMz
+M2NDQwMjA4LC0zMzE2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5
+MCwtMTkwMzQ4NzEwOCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MD
+MxOTM4OSwxMDQ2NjEwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3
+MDBdfQ==
 -->
