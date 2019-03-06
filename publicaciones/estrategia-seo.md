@@ -10,6 +10,7 @@ permalink: estrategia-seo
 
 Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en un caso real. Quiero mostrar un ejemplo de todos los pasos a seguir para definir una estrategia en un nicho tan competido como es el **marketing digital** y en especial el **posicionamiento SEO**.
 
+Mi objetivo será posicionar dentro del TOP10 por el término **Consultor SEO** en Google España empezando desde cero.
 
 ## Definir estrategia
 
@@ -114,7 +115,7 @@ Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del T
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTk3OTg3OSwtMzM2NDQwMjA4LC0zMz
+eyJoaXN0b3J5IjpbMTQ5NTkxMTkwNCwtMzM2NDQwMjA4LC0zMz
 E2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5MCwtMTkwMzQ4NzEw
 OCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MDMxOTM4OSwxMDQ2Nj
 EwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIz
