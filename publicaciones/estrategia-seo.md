@@ -92,6 +92,7 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
    -  [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
 - Páginas relacionadas con **consultor SEO**
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
+  -  [Asesor SEO](https://emirodgar.com/asesor-seo)
   -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca) y [México](https://emirodgar.com/consultor-seo/mexico)
  - Páginas para mejorar el enlazado interno
     -   [Mapa web](https://emirodgar.com/mapa-web)
@@ -101,7 +102,7 @@ He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/ans
 
 > SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 
-## <a name="enero"></a>Abril: Optimización del contenido
+## <a name="abril"></a>Abril: Optimización del contenido
  
  - Resultados: XXX
  - Páginas indexadas: XXX
@@ -123,7 +124,7 @@ Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del T
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE4MDQ5NjMsLTMzNjQ0MDIwOCwtMz
+eyJoaXN0b3J5IjpbLTE3OTAzNjg2NDYsLTMzNjQ0MDIwOCwtMz
 MxNjc1OTgsMTg4NTAzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcx
 MDgsMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMTkzODksMTA0Nj
 YxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgy
