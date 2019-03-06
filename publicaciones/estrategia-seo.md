@@ -42,8 +42,6 @@ He dado de alta el dominio en [Google Search Console](https://search.google.com/
 
 Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
->Soy demasiado perfeccionsita, tendría que haber lanzado más páginas aunque no estuvieran al 100%. 
-
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
 
 ## <a name="febrero"></a>Febrero: Blog AMP y Usabilidad SEO
@@ -116,11 +114,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzU1MDc3NCwtMTU1OTk2MzM4NywzND
-M0ODE3NDQsLTEwMzc1Nzg2OTYsMTQ1MDA3ODc5LDg4MTE0MzEx
-NSwxODEyNTY0NTY5LDYwMzI0OTgzMiwtMTI2ODcyMzE3NSwtMz
-M2NDQwMjA4LC0zMzE2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5
-MCwtMTkwMzQ4NzEwOCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MD
-MxOTM4OSwxMDQ2NjEwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTkyOTkxMjAwNywtNDM3NTUwNzc0LC0xNT
+U5OTYzMzg3LDM0MzQ4MTc0NCwtMTAzNzU3ODY5NiwxNDUwMDc4
+NzksODgxMTQzMTE1LDE4MTI1NjQ1NjksNjAzMjQ5ODMyLC0xMj
+Y4NzIzMTc1LC0zMzY0NDAyMDgsLTMzMTY3NTk4LDE4ODUwMzQ5
+NTcsOTY2ODIyODkwLC0xOTAzNDg3MTA4LDE1ODQzNjI4MjEsNT
+A1NzM2OTMyLDcwMzE5Mzg5LDEwNDY2MTAwOTcsLTE2NDczMzI3
+MzhdfQ==
 -->
