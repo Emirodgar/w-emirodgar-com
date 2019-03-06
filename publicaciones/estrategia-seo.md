@@ -28,7 +28,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 Estas son la tareas que he ido implementado a lo largo de los diferentes meses de 2019.
 
-|      Mes    | Tarea de la estrategia                                 |
+| Mes      | Tareas SEO en la estrategia      |
 |----------|----------------------------------|
 | Enero | [Base SEO sólida](#enero)                  |
 | Febrero | [Usabilidad SEO y Blog AMP](#febrero)        |
@@ -126,11 +126,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODE3MDU2OCwtMTI2ODcyMzE3NSwtMz
-M2NDQwMjA4LC0zMzE2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5
-MCwtMTkwMzQ4NzEwOCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MD
-MxOTM4OSwxMDQ2NjEwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3
-MDAsLTE2ODg5ODIzMjEsLTE2NDA3MDUwNzEsMjEyNzY1MDQ1OS
-wtOTU1OTU4MDUsLTIxNjM1NTEwMSwtNDI0NzMwMzcxLDEzNDc4
-OTU4MV19
+eyJoaXN0b3J5IjpbNjAzMjQ5ODMyLC0xMjY4NzIzMTc1LC0zMz
+Y0NDAyMDgsLTMzMTY3NTk4LDE4ODUwMzQ5NTcsOTY2ODIyODkw
+LC0xOTAzNDg3MTA4LDE1ODQzNjI4MjEsNTA1NzM2OTMyLDcwMz
+E5Mzg5LDEwNDY2MTAwOTcsLTE2NDczMzI3MzgsMTAxOTg1NTcw
+MCwtMTY4ODk4MjMyMSwtMTY0MDcwNTA3MSwyMTI3NjUwNDU5LC
+05NTU5NTgwNSwtMjE2MzU1MTAxLC00MjQ3MzAzNzEsMTM0Nzg5
+NTgxXX0=
 -->
