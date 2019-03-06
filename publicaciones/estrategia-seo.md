@@ -21,11 +21,11 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 Estas son la tareas que he ido implementado a lo largo de los diferentes meses de 2019.
 
-| Mes      | Tareas SEO en la estrategia      |
-|----------|----------------------------------|
-| Enero | [Base SEO sólida](#enero)                  |
+| Mes      | Tareas SEO en la estrategia      
+|----------|----------------------------------
+| Enero | [Base SEO sólida](#enero)                  
 | Febrero | [Usabilidad SEO y Blog AMP](#febrero)        |
-| Marzo | [Más puertas de entrada](#marzo) |
+| Marzo | [Más puertas de entrada](#marzo) 
 
 
 ## <a name="enero"></a> Enero: Base SEO sólida
@@ -119,11 +119,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjU2NDU2OSw2MDMyNDk4MzIsLTEyNj
-g3MjMxNzUsLTMzNjQ0MDIwOCwtMzMxNjc1OTgsMTg4NTAzNDk1
-Nyw5NjY4MjI4OTAsLTE5MDM0ODcxMDgsMTU4NDM2MjgyMSw1MD
-U3MzY5MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0NzMzMjcz
-OCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1MDcxLD
-IxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDcz
-MDM3MV19
+eyJoaXN0b3J5IjpbODgxMTQzMTE1LDE4MTI1NjQ1NjksNjAzMj
+Q5ODMyLC0xMjY4NzIzMTc1LC0zMzY0NDAyMDgsLTMzMTY3NTk4
+LDE4ODUwMzQ5NTcsOTY2ODIyODkwLC0xOTAzNDg3MTA4LDE1OD
+QzNjI4MjEsNTA1NzM2OTMyLDcwMzE5Mzg5LDEwNDY2MTAwOTcs
+LTE2NDczMzI3MzgsMTAxOTg1NTcwMCwtMTY4ODk4MjMyMSwtMT
+Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
+MTAxXX0=
 -->
