@@ -93,7 +93,6 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
 
 He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO y también he subido a GSC un sitemap XML para facilitar el seguimiento de la indexación.
 
-> SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 
 ## <a name="abril"></a>Abril: Optimización del contenido
  
@@ -117,7 +116,7 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTc3NjEyNywtMTU1OTk2MzM4NywzND
+eyJoaXN0b3J5IjpbLTQzNzU1MDc3NCwtMTU1OTk2MzM4NywzND
 M0ODE3NDQsLTEwMzc1Nzg2OTYsMTQ1MDA3ODc5LDg4MTE0MzEx
 NSwxODEyNTY0NTY5LDYwMzI0OTgzMiwtMTI2ODcyMzE3NSwtMz
 M2NDQwMjA4LC0zMzE2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5
