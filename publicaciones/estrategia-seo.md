@@ -21,7 +21,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019.
 
-| Mes      | Tareas SEO en la estrategia      
+| Mes      | Tareas SEO / Estrategia      
 |----------|----------------------------------
 | Enero | [Base SEO sólida](#enero) / Creación de template (diseño y programación)                  
 | Febrero | [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
@@ -114,7 +114,7 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MTkzNzg0LC00Mzc1NTA3NzQsLTE1NT
+eyJoaXN0b3J5IjpbNzAwNTA0ODkxLC00Mzc1NTA3NzQsLTE1NT
 k5NjMzODcsMzQzNDgxNzQ0LC0xMDM3NTc4Njk2LDE0NTAwNzg3
 OSw4ODExNDMxMTUsMTgxMjU2NDU2OSw2MDMyNDk4MzIsLTEyNj
 g3MjMxNzUsLTMzNjQ0MDIwOCwtMzMxNjc1OTgsMTg4NTAzNDk1
