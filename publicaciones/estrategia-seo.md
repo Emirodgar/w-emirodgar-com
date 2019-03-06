@@ -1,6 +1,6 @@
 ---
-title: Estrategia SEO 2019
-description: Os enseño la estrategia SEO que he seguido durante 2019 para posicionarme
+title: Estrategia SEO 2019 - Posicionar por Consultor SEO en Google España
+description: Estrategia paso a paso para posicionar por Consultor SEO con herramientas gratuitas.
 lang: es_ES
 permalink: estrategia-seo
 
@@ -9,6 +9,7 @@ permalink: estrategia-seo
 # Estrategia SEO 2019
 
 Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en un caso real. Quiero mostrar un ejemplo de todos los pasos a seguir para definir una estrategia en un nicho tan competido como es el **marketing digital** y en especial el **posicionamiento SEO**.
+
 
 ## Definir estrategia
 
@@ -113,11 +114,11 @@ Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del T
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjQ0MDIwOCwtMzMxNjc1OTgsMTg4NT
-AzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcxMDgsMTU4NDM2Mjgy
-MSw1MDU3MzY5MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0Nz
-MzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1
-MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLT
-QyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3
-MzI5OF19
+eyJoaXN0b3J5IjpbLTgwOTk3OTg3OSwtMzM2NDQwMjA4LC0zMz
+E2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5MCwtMTkwMzQ4NzEw
+OCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MDMxOTM4OSwxMDQ2Nj
+EwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIz
+MjEsLTE2NDA3MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4MDUsLT
+IxNjM1NTEwMSwtNDI0NzMwMzcxLDEzNDc4OTU4MSwtNDkxNTMw
+NjA1XX0=
 -->
