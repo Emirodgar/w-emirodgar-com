@@ -29,9 +29,10 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 Estas son la tareas que he ido implementado a lo largo de 2019.
 
- - [Enero: Base SEO sólida]()
+ - [Enero: Base SEO sólida](#enero)
+ -  - [Enero: Base SEO sólida](#enero)
 
-## Enero: Base SEO sólida
+## <a name="enero"></a> Enero: Base SEO sólida
  
  - Resultados: 5 clics / 0 conversiones
  - Páginas indexadas: 2
@@ -121,7 +122,7 @@ Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del T
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTk4NTgyMywtMzM2NDQwMjA4LC0zMz
+eyJoaXN0b3J5IjpbMTk0ODQ4NzE5NywtMzM2NDQwMjA4LC0zMz
 E2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5MCwtMTkwMzQ4NzEw
 OCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MDMxOTM4OSwxMDQ2Nj
 EwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3MDAsLTE2ODg5ODIz
