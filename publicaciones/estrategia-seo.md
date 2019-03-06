@@ -42,7 +42,7 @@ He dado de alta el dominio en [Google Search Console](https://search.google.com/
 
 Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
->Voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
+>Soy demasiado perfeccionsita, tendría que haber lanzado más páginas aunque no estuvieran al 100%. 
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
 
@@ -72,8 +72,6 @@ Aunque soy consciente de que podría llegar a optimizar algo más, no he querido
 La parte de AMP - que será el blog- está muy optimizado a excepción de la accesibilidad, que es un aspecto que no momento no voy a trabajar pero que no descarto para los próximos meses. 
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
-
-> SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado lo que ya tenía y haber avanzado más rápido. Veremos si, a corto plazo, AMP me beneficia a nivel SEO. 
 
 ## <a name="marzo"></a>Marzo: Más puertas de entrada
  
@@ -119,11 +117,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk5NjMzODcsMzQzNDgxNzQ0LC0xMD
-M3NTc4Njk2LDE0NTAwNzg3OSw4ODExNDMxMTUsMTgxMjU2NDU2
-OSw2MDMyNDk4MzIsLTEyNjg3MjMxNzUsLTMzNjQ0MDIwOCwtMz
-MxNjc1OTgsMTg4NTAzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcx
-MDgsMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMTkzODksMTA0Nj
-YxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgy
-MzIxXX0=
+eyJoaXN0b3J5IjpbLTM3OTc3NjEyNywtMTU1OTk2MzM4NywzND
+M0ODE3NDQsLTEwMzc1Nzg2OTYsMTQ1MDA3ODc5LDg4MTE0MzEx
+NSwxODEyNTY0NTY5LDYwMzI0OTgzMiwtMTI2ODcyMzE3NSwtMz
+M2NDQwMjA4LC0zMzE2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5
+MCwtMTkwMzQ4NzEwOCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MD
+MxOTM4OSwxMDQ2NjEwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3
+MDBdfQ==
 -->
