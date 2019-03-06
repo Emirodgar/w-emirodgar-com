@@ -24,7 +24,7 @@ Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019
 | Mes      | Tareas SEO en la estrategia      
 |----------|----------------------------------
 | Enero | [Base SEO sólida](#enero) / Creación de template (diseño y programación)                  
-| Febrero | [Usabilidad SEO y Blog AMP](#febrero)        |
+| Febrero | [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
 | Marzo | [Más puertas de entrada](#marzo) 
 
 
@@ -119,11 +119,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc1Nzg2OTYsMTQ1MDA3ODc5LDg4MT
-E0MzExNSwxODEyNTY0NTY5LDYwMzI0OTgzMiwtMTI2ODcyMzE3
-NSwtMzM2NDQwMjA4LC0zMzE2NzU5OCwxODg1MDM0OTU3LDk2Nj
-gyMjg5MCwtMTkwMzQ4NzEwOCwxNTg0MzYyODIxLDUwNTczNjkz
-Miw3MDMxOTM4OSwxMDQ2NjEwMDk3LC0xNjQ3MzMyNzM4LDEwMT
-k4NTU3MDAsLTE2ODg5ODIzMjEsLTE2NDA3MDUwNzEsMjEyNzY1
-MDQ1OV19
+eyJoaXN0b3J5IjpbMzQzNDgxNzQ0LC0xMDM3NTc4Njk2LDE0NT
+AwNzg3OSw4ODExNDMxMTUsMTgxMjU2NDU2OSw2MDMyNDk4MzIs
+LTEyNjg3MjMxNzUsLTMzNjQ0MDIwOCwtMzMxNjc1OTgsMTg4NT
+AzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcxMDgsMTU4NDM2Mjgy
+MSw1MDU3MzY5MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0Nz
+MzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1
+MDcxXX0=
 -->
