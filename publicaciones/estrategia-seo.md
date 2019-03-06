@@ -42,9 +42,9 @@ He dado de alta el dominio en [Google Search Console](https://search.google.com/
 
 Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
-Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
+>Voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
 
->SENSACIÓN: Voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
+Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
 
 ## <a name="febrero"></a>Febrero: Blog AMP y Usabilidad SEO
  
@@ -119,11 +119,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzNDgxNzQ0LC0xMDM3NTc4Njk2LDE0NT
-AwNzg3OSw4ODExNDMxMTUsMTgxMjU2NDU2OSw2MDMyNDk4MzIs
-LTEyNjg3MjMxNzUsLTMzNjQ0MDIwOCwtMzMxNjc1OTgsMTg4NT
-AzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcxMDgsMTU4NDM2Mjgy
-MSw1MDU3MzY5MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0Nz
-MzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1
-MDcxXX0=
+eyJoaXN0b3J5IjpbLTE1NTk5NjMzODcsMzQzNDgxNzQ0LC0xMD
+M3NTc4Njk2LDE0NTAwNzg3OSw4ODExNDMxMTUsMTgxMjU2NDU2
+OSw2MDMyNDk4MzIsLTEyNjg3MjMxNzUsLTMzNjQ0MDIwOCwtMz
+MxNjc1OTgsMTg4NTAzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcx
+MDgsMTU4NDM2MjgyMSw1MDU3MzY5MzIsNzAzMTkzODksMTA0Nj
+YxMDA5NywtMTY0NzMzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgy
+MzIxXX0=
 -->
