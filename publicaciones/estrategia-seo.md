@@ -19,7 +19,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 ## Estrategia digital mes a mes
 
-Estas son la tareas que he ido implementado a lo largo de los diferentes meses de 2019.
+Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019.
 
 | Mes      | Tareas SEO en la estrategia      
 |----------|----------------------------------
@@ -119,11 +119,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMTQzMTE1LDE4MTI1NjQ1NjksNjAzMj
-Q5ODMyLC0xMjY4NzIzMTc1LC0zMzY0NDAyMDgsLTMzMTY3NTk4
-LDE4ODUwMzQ5NTcsOTY2ODIyODkwLC0xOTAzNDg3MTA4LDE1OD
-QzNjI4MjEsNTA1NzM2OTMyLDcwMzE5Mzg5LDEwNDY2MTAwOTcs
-LTE2NDczMzI3MzgsMTAxOTg1NTcwMCwtMTY4ODk4MjMyMSwtMT
-Y0MDcwNTA3MSwyMTI3NjUwNDU5LC05NTU5NTgwNSwtMjE2MzU1
-MTAxXX0=
+eyJoaXN0b3J5IjpbMTQ1MDA3ODc5LDg4MTE0MzExNSwxODEyNT
+Y0NTY5LDYwMzI0OTgzMiwtMTI2ODcyMzE3NSwtMzM2NDQwMjA4
+LC0zMzE2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5MCwtMTkwMz
+Q4NzEwOCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MDMxOTM4OSwx
+MDQ2NjEwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3MDAsLTE2OD
+g5ODIzMjEsLTE2NDA3MDUwNzEsMjEyNzY1MDQ1OSwtOTU1OTU4
+MDVdfQ==
 -->
