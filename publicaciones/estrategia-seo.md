@@ -1,6 +1,6 @@
 ---
-title: Estrategia SEO 2019
-description: Os enseño la estrategia SEO que he seguido durante 2019 para posicionarme
+title: Estrategia SEO 2019 - Posicionar por Consultor SEO
+description: Estrategia paso a paso para posicionar por Consultor SEO con herramientas gratuitas.
 lang: es_ES
 permalink: estrategia-seo
 
@@ -10,20 +10,25 @@ permalink: estrategia-seo
 
 Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en un caso real. Quiero mostrar un ejemplo de todos los pasos a seguir para definir una estrategia en un nicho tan competido como es el **marketing digital** y en especial el **posicionamiento SEO**.
 
-## Definir estrategia
 
-Necesitamos definir los recursos con los que contamos y los objetivos que queremos conseguir. Con ello podremos determinar las acciones que debemos llevar a cabo.
+## Definir estrategia y objetivos
 
-Mi objetivo principal será posicionarme por el término **consultor SEO** y sus variantes. Voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
+Mi objetivo principal será posicionar en el TOP10 de Google España por el término **consultor SEO** y sus variantes y para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
 
 Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
 
-- Dominio: emirodgar.com
-- Objetivo: Posicionamiento por consultor SEO
-- Duración: 1 enero 2019 - 31 diciembre 2019
-- KPIs: posicionamiento directo y relacionado, clics orgánicos (Google Search Console), conversiones (serán contactos) y páginas indexadas.
+## Estrategia digital mes a mes
 
-## Enero: Base SEO sólida
+Estas son la tareas que he ido implementado a lo largo de los diferentes meses de 2019.
+
+| Mes      | Tareas SEO en la estrategia      |
+|----------|----------------------------------|
+| Enero | [Base SEO sólida](#enero)                  |
+| Febrero | [Usabilidad SEO y Blog AMP](#febrero)        |
+| Marzo | [Más puertas de entrada](#marzo) |
+
+
+## <a name="enero"></a> Enero: Base SEO sólida
  
  - Resultados: 5 clics / 0 conversiones
  - Páginas indexadas: 2
@@ -41,7 +46,7 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 >SENSACIÓN: Voy bastante lento, tendría que haber lanzado más páginas aunque no estuvieran al 100%. Soy demasiado perfeccionsita.
 
-## Febrero: Blog AMP y Usabilidad SEO
+## <a name="febrero"></a>Febrero: Blog AMP y Usabilidad SEO
  
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 3
@@ -70,7 +75,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 > SENSACIÓN: He perdido mucho tiempo en adaptar una parte de la página a AMP. Podría haber reutilizado lo que ya tenía y haber avanzado más rápido. Veremos si, a corto plazo, AMP me beneficia a nivel SEO. 
 
-## Marzo: Más puertas de entrada
+## <a name="marzo"></a>Marzo: Más puertas de entrada
  
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 9
@@ -82,7 +87,8 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
    -  [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
 - Páginas relacionadas con **consultor SEO**
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
-  -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca) y [México](https://emirodgar.com/consultor-seo/mexico)
+  -  [Asesor SEO](https://emirodgar.com/asesor-seo)
+  -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca), [Argentina](https://emirodgar.com/consultor-seo/argentina)  y [México](https://emirodgar.com/consultor-seo/mexico)
  - Páginas para mejorar el enlazado interno
     -   [Mapa web](https://emirodgar.com/mapa-web)
     - [Listado de publicaciones](https://emirodgar.com/publicaciones)
@@ -91,7 +97,7 @@ He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/ans
 
 > SENSACIÓN: Estoy bastante contento con los resultados. Ya puedo crear páginas optimizadas de forma muy rápida. 
 
-## Abril: Optimización del contenido
+## <a name="abril"></a>Abril: Optimización del contenido
  
  - Resultados: XXX
  - Páginas indexadas: XXX
@@ -107,17 +113,17 @@ Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimizaci�
 
 ![consultor seo salamanca, emirodgar en segunda posición](https://i.imgur.com/u3RGo9e.png)
 
-Sé que es algo temporal y aún estoy lejos de una posición fuerte dentro del TOP3 pero es un buen comienzo.
+Sé que no es mi objetivo principal y que es un término sin mucha competencia pero es un buen comienzo.
 
 - Metidos códigos de OG
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjQ0MDIwOCwtMzMxNjc1OTgsMTg4NT
-AzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcxMDgsMTU4NDM2Mjgy
-MSw1MDU3MzY5MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0Nz
-MzMjczOCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1
-MDcxLDIxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLT
-QyNDczMDM3MSwxMzQ3ODk1ODEsLTQ5MTUzMDYwNSwtMTAxODU3
-MzI5OF19
+eyJoaXN0b3J5IjpbMTgxMjU2NDU2OSw2MDMyNDk4MzIsLTEyNj
+g3MjMxNzUsLTMzNjQ0MDIwOCwtMzMxNjc1OTgsMTg4NTAzNDk1
+Nyw5NjY4MjI4OTAsLTE5MDM0ODcxMDgsMTU4NDM2MjgyMSw1MD
+U3MzY5MzIsNzAzMTkzODksMTA0NjYxMDA5NywtMTY0NzMzMjcz
+OCwxMDE5ODU1NzAwLC0xNjg4OTgyMzIxLC0xNjQwNzA1MDcxLD
+IxMjc2NTA0NTksLTk1NTk1ODA1LC0yMTYzNTUxMDEsLTQyNDcz
+MDM3MV19
 -->
