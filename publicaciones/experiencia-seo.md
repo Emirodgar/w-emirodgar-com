@@ -23,7 +23,7 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
  3. **La competencia sana es crucial para seguir mejorando**: El ser humano tiende a relajarse dentro de su zona de confort, por ello, si no tenemos retos ni competencia sana dentro de un proyecto o en la misma empreesa tendemos a relajarnos y no evolucionar. Ahora, echando la vista atrás, veo que en los momentos que más he avanzado profesionalmente han sido aquellos en los que he tenido a otro compañero o competidor tirando del carro. Eso me ha hecho salir de la normalidad y buscar un mayor éxito de la estrategia.
  4. **Enseña al cliente para que aprenda contigo**: Siempre digo que el SEO no es magia ni tampoco una caja negra en la que no se sabe lo que ocurre. En todos los proyectos soy claro y hago al cliente partícipe de cualquier acción. Mi objetivo es que entienda lo que estamos haciendo y porqué lo estamos haciendo. La explicación es simple: el cliente tiene más conocimiento interno del proyecto que yo por lo que el poder conectar ambos mundos suele traducirse en un beneficio común. A mayores, para que puedan valorar adecuadamente tu trabajo tienen que entender lo que estás haciendo. No hay otra forma. 
  5. **No tengas miedo en arriesgar**:  Ante cualquier problema propongo soluciones. Puede que no sean las mejores ni las más acertadas (el tiempo lo confirmará) pero no me quedo sentado y espero a que el tiempo avance. Necesito que la gente que trabaje conmigo tenga el mismo espíritu; que se les enciendan los ojos con ideas desabelladas
- 6. 
+ 6. **Sé proactivo, sé ambicioso**: Sé que te pagan por unos servicios, pero no te limites tú solo. Si crees que algo puede aportar valor, dilo, ve siempre un paso más allá, solucionar problemas y aportar valor en cada paso que des. De esa forma te ganarás la confianza de todos los participantes del proyecto y, casi seguro, obtendrás grandes resultados.
 
 
 
@@ -37,7 +37,7 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzkxODAwNzAsLTg2NTkwNjA0NywxNz
-IzMDY1ODQsMTE1MjMzOTgxMSwyMTMyMzAyOTIsLTEyMzIxMzI4
-NTMsMTY2MDE5MDI5Nl19
+eyJoaXN0b3J5IjpbMTM0OTczOTU3MCwtMTA3OTE4MDA3MCwtOD
+Y1OTA2MDQ3LDE3MjMwNjU4NCwxMTUyMzM5ODExLDIxMzIzMDI5
+MiwtMTIzMjEzMjg1MywxNjYwMTkwMjk2XX0=
 -->
