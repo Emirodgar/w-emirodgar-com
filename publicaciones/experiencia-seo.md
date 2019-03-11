@@ -6,6 +6,8 @@ permalink: experiencia-seo
 
 ---
 
+Justo ahora hace 10 años, en marzo de 2009 se me presentó la oportunidad de 
+
 
 
 - No seas el más listo de la sala
@@ -20,5 +22,5 @@ permalink: experiencia-seo
 - Sigo cometiendo errores de junior, y los seguiré haciedo
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Njc5NzEzMiwxNjYwMTkwMjk2XX0=
+eyJoaXN0b3J5IjpbMTcxMjczMjUwNywxNjYwMTkwMjk2XX0=
 -->
