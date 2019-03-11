@@ -26,10 +26,11 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
  6. **Sé ambicioso y proactivo**: Sé que te pagan por unos servicios, pero no te limites tú solo. Si crees que algo puede aportar valor, dilo o hazlo; ve siempre un paso más allá, soluciona problemas y aporta valor en cada paso que des. De esa forma te ganarás la confianza de todos los participantes del proyecto y, casi seguro, obtendrás grandes resultados. No te conviertas en alguien fácilmente reemplazable.
  7. **Nadie es imprescindible**: Creedme que aunque me ha dolido perder compañeros y trabajadores con un aporte de valor sinigual, todo ha continuado. Quizá ha costado más y hemos tenido que arrimar el hombro en situaciones puntuales, pero hemos podido salir adelante. Seamos humildes desde el primer día y en cada proyecto en el que trabajemos porque nadie, absolutamente nadie, es imprescindible en ninguna empresa y en ningún puesto. 
  8. **Aprende de los errores**: Hace poco el CEO de la empresa me dijo, "ese error que has cometido es de junior". Aún sabiendo que era verdad, no lo vi como una desilusión. Todos cometemos errores y seguiremos haciéndolo. La experiencia no te libra de cometerlos, pero sí te enseña cómo afrontarlos. Lo realmente importante es ir aprendiendo de ellos para no repetirlos pero, a mi juicio, los errores son parte de nuestro día a día y nos enseñan mucho más que los aciertos.
+ 9. **Todos los clientes son importantes**: A lo largo de los años me he dado cuenta de que algunos clientes son más exigentes más que otros y que si no te organizas bien puedes caer en dar un mayor servicios a aquellos que más demandan.  Organzar las acciones y tareas y gestionar las expectativas de nuestros interlocures es esencial para asegurar que trabajamos en todos los proyectos por igual  
 
 
 
-- Sé proactivo, comparte información
+
 - A todos los clientes por igual
 - Aprende de los partners
 - Si nadie organiza, hazlo tú, el proyecto tiene que salir sí o sí
@@ -39,7 +40,7 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjQ4ODIzLC0xMDc5MTgwMDcwLC04Nj
-U5MDYwNDcsMTcyMzA2NTg0LDExNTIzMzk4MTEsMjEzMjMwMjky
-LC0xMjMyMTMyODUzLDE2NjAxOTAyOTZdfQ==
+eyJoaXN0b3J5IjpbMjEzMDgzNDE0NiwtMzIyNDg4MjMsLTEwNz
+kxODAwNzAsLTg2NTkwNjA0NywxNzIzMDY1ODQsMTE1MjMzOTgx
+MSwyMTMyMzAyOTIsLTEyMzIxMzI4NTMsMTY2MDE5MDI5Nl19
 -->
