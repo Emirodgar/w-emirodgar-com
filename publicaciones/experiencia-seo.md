@@ -27,7 +27,8 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 
 
 
-- S
+- Sé proactivo, comparte información
+- A todos los clientes por igual
 - Aprende de los partners
 - Si nadie organiza, hazlo tú, el proyecto tiene que salir sí o sí
 - Nunca faltes el respecto a nadie
@@ -36,7 +37,7 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjMwMTUxNSwtODY1OTA2MDQ3LDE3Mj
-MwNjU4NCwxMTUyMzM5ODExLDIxMzIzMDI5MiwtMTIzMjEzMjg1
-MywxNjYwMTkwMjk2XX0=
+eyJoaXN0b3J5IjpbLTEwNzkxODAwNzAsLTg2NTkwNjA0NywxNz
+IzMDY1ODQsMTE1MjMzOTgxMSwyMTMyMzAyOTIsLTEyMzIxMzI4
+NTMsMTY2MDE5MDI5Nl19
 -->
