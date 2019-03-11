@@ -14,7 +14,11 @@ Desde entonces he tenido la oportunidad de trabajar con más de un centenar de p
 
 En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y que creo que es crucial para establecer un camino hacia el éxito, tanto personal como profesional.
  
-- No seas el más listo de la sala
+
+
+ 1. List item
+
+ No seas el más listo de la sala
 - Los proyectos difíciles son retos que te ayudan a avanzar más rápido
 - La competencia sana es crucial para seguir mejroando
 - Aprende de los partners
@@ -26,6 +30,6 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Sigo cometiendo errores de junior, y los seguiré haciedo
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzI1Mjg1MSwyMTMyMzAyOTIsLTEyMz
-IxMzI4NTMsMTY2MDE5MDI5Nl19
+eyJoaXN0b3J5IjpbLTE4MzA5NDE0MTYsMjEzMjMwMjkyLC0xMj
+MyMTMyODUzLDE2NjAxOTAyOTZdfQ==
 -->
