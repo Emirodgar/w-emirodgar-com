@@ -16,11 +16,11 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
  
 
 
- 1. **Rodéate de gente con actitud y aptitud**: siempre ha habido una frase que ha marcado mi desarrollo profesional: *“if you are the smartest person in a room, then you are in the wrong room”*.  A día de hoy aún no he descubierto una sola persona ni situaci
- 2. 
+ 1. **Rodéate de gente con actitud y aptitud**: siempre ha habido una frase que ha marcado mi desarrollo profesional: *“if you are the smartest person in a room, then you are in the wrong room”*.  A día de hoy aún no he descubierto una sola persona ni situación de la que no haya podido aprender algo, aún así, si te aseguras de estar cerca de gente motivada y con conocimientos directos o indirectos a tu faceta profesional, tu desarrollo se verá altamente enriquecido. 
 
-“if you are the smartest person in a room, then you are in the wrong room”
- No seas el más listo de la sala
+ 3. **Los proyectos difíciles son retos que te ayudan a avanzar más rápido**
+
+
 - Los proyectos difíciles son retos que te ayudan a avanzar más rápido
 - La competencia sana es crucial para seguir mejroando
 - Aprende de los partners
@@ -33,6 +33,6 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzI0NDE5NCwyMTMyMzAyOTIsLTEyMz
+eyJoaXN0b3J5IjpbLTc1NzQ2NjY0MCwyMTMyMzAyOTIsLTEyMz
 IxMzI4NTMsMTY2MDE5MDI5Nl19
 -->
