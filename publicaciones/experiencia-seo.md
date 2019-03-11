@@ -18,7 +18,9 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 
  1. **Rodéate de gente con actitud y aptitud**: Siempre ha habido una frase que ha marcado mi desarrollo profesional: *“if you are the smartest person in a room, then you are in the wrong room”*.  A día de hoy aún no he descubierto una sola persona ni situación de la que no haya podido aprender algo, aún así, si te aseguras de estar cerca de gente motivada y con conocimientos directos o indirectos a tu faceta profesional, tu desarrollo se verá altamente enriquecido. 
 
- 3. **Los proyectos difíciles son retos que te ayudan a crecer profesionalmente**: Puede que al principio asusten o que nos pensemos que no estamos a la altura pero una vez superados nos habremos dado cuenta de nuestra capacidad y del aprendizaje que han supuesto para nosotros. No hay retos imposibles, únicamente actitud para enfrentarse a un problema.
+ 2. **Los proyectos difíciles son retos que te ayudan a crecer profesionalmente**: Puede que al principio asusten o que nos pensemos que no estamos a la altura pero una vez superados nos habremos dado cuenta de nuestra capacidad y del aprendizaje que han supuesto para nosotros. No hay retos imposibles, únicamente actitud para enfrentarse a un problema y cad aproyecto difícil que.
+ 
+ 4. **La competencia sana es crucial para seguir mejorando**: El ser humano tiende a relajarse dentro de su zona de confort, por ello, si no tenemos retos ni competencia sana nos volvemos 
 
 
 
@@ -33,6 +35,6 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjMwNTkxNSwyMTMyMzAyOTIsLTEyMz
-IxMzI4NTMsMTY2MDE5MDI5Nl19
+eyJoaXN0b3J5IjpbMzY3MjA4Njg1LDIxMzIzMDI5MiwtMTIzMj
+EzMjg1MywxNjYwMTkwMjk2XX0=
 -->
