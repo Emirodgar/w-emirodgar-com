@@ -6,6 +6,8 @@ permalink: experiencia-seo
 
 ---
 
+
+
 - No seas el más listo de la sala
 - Los proyectos difíciles son retos que te ayudan a avanzar más rápido
 - La competencia sana es crucial para seguir mejroando
@@ -18,5 +20,5 @@ permalink: experiencia-seo
 - Sigo cometiendo errores de junior, y los seguiré haciedo
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDE5MDI5Nl19
+eyJoaXN0b3J5IjpbLTU3Njc5NzEzMiwxNjYwMTkwMjk2XX0=
 -->
