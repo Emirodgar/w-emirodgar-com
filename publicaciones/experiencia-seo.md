@@ -2,9 +2,18 @@
 title: 10 años trabajando en SEO: lo que he aprendido
 description: Después de una década trabajado SEO profesionalmente os cuento mis aprendizajes
 lang: es_ES
-permalink: ex-seo
+permalink: experiencia-seo
 
 ---
+
+- No seas el más listo de la sala
+- Los proyectos difíciles son retos que te ayudan a avanzar más rápido
+- La competencia sana es crucial para seguir mejroando
+- Aprende de los partners
+- No tengas miedo en proponer y en avanzar
+- Si nadie organiza, hazlo tú, el proyecto tiene que salir sí o sí
+- Nunca faltes el respecto a nadie
+- Enseña al cliente para que aprenda contigo. En algún momento te volverá
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4NDk1NTUyXX0=
+eyJoaXN0b3J5IjpbNTUwNTYxNDUzXX0=
 -->
