@@ -1,5 +1,5 @@
 ---
-title: 10 años trabajando en SEO: lo que he aprendido
+title: 10 años trabajando en SEO y 10 cosas que he aprendido
 description: Después de una década trabajado SEO profesionalmente os cuento mis aprendizajes
 lang: es_ES
 permalink: experiencia-seo
@@ -21,8 +21,9 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
  2. **Los proyectos difíciles son retos que te ayudan a crecer profesionalmente**: Puede que al principio asusten o que nos pensemos que no estamos a la altura pero una vez superados nos habremos dado cuenta de nuestra capacidad y del aprendizaje que han supuesto para nosotros. No hay retos imposibles, únicamente actitud para enfrentarse a un problema; cada proyecto superado nos convierte en mejores profesionales.
  
  3. **La competencia sana es crucial para seguir mejorando**: El ser humano tiende a relajarse dentro de su zona de confort, por ello, si no tenemos retos ni competencia sana dentro de un proyecto o en la misma empreesa tendemos a relajarnos y no evolucionar. Ahora, echando la vista atrás, veo que en los momentos que más he avanzado profesionalmente han sido aquellos en los que he tenido a otro compañero o competidor tirando del carro. Eso me ha hecho salir de la normalidad y buscar un mayor éxito de la estrategia.
- 4. **No tengas miedo en proponer y en avanzar**
- 5. 
+ 4. **Enseña al cliente para que aprenda contigo**: Siempre digo que el SEO no es magia ni tampoco una caja negra en la que no se sabe lo que ocurre. En todos los proyectos soy claro
+ 5. **No tengas miedo en proponer y en avanzar**: 
+ 6. 
 
 
 
@@ -37,6 +38,6 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjMzOTgxMSwyMTMyMzAyOTIsLTEyMz
-IxMzI4NTMsMTY2MDE5MDI5Nl19
+eyJoaXN0b3J5IjpbLTgyMzEyNzAwNiwxMTUyMzM5ODExLDIxMz
+IzMDI5MiwtMTIzMjEzMjg1MywxNjYwMTkwMjk2XX0=
 -->
