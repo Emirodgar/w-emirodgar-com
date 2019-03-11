@@ -6,11 +6,14 @@ permalink: experiencia-seo
 
 ---
 
-En marzo de 2009 -justo ahora 10 años- comencé a trabajar como **Consultor SEO** para Traffic4U, por aquel entonces una de las agencias de marketing digital más grandes de Europa. En ese momento comenzó mi andadura por el SEO que a día de hoy mantengo con el mismo entusiasmo que el primer día.
+En marzo de 2009 -justo ahora 10 años- comencé a trabajar como **Consultor SEO** para Traffic4U, por aquel entonces una de las agencias de marketing digital más grandes de Europa. 
 
 ![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
 
-Desde entonces he tenido la oportunidad de trabajar con más de un centenar de proyectos digitales y liderar los departamentos SEO de dos agencias intern 
+Desde entonces he tenido la oportunidad de trabajar con más de un centenar de proyectos digitales y liderar los departamentos SEO de dos agencias internacionales: Internet Advantage y Smartup.
+
+En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y que creo que es crucial para establecer un camino hacia el éxito, tanto personal como profesional.
+ 
 - No seas el más listo de la sala
 - Los proyectos difíciles son retos que te ayudan a avanzar más rápido
 - La competencia sana es crucial para seguir mejroando
@@ -23,6 +26,6 @@ Desde entonces he tenido la oportunidad de trabajar con más de un centenar de p
 - Sigo cometiendo errores de junior, y los seguiré haciedo
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyODM1MCwyMTMyMzAyOTIsLTEyMzIxMz
-I4NTMsMTY2MDE5MDI5Nl19
+eyJoaXN0b3J5IjpbMTYzNzI1Mjg1MSwyMTMyMzAyOTIsLTEyMz
+IxMzI4NTMsMTY2MDE5MDI5Nl19
 -->
