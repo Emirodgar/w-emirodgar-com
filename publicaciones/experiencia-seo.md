@@ -29,7 +29,8 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Si haces un error, dilo, no lo olcutes. Pide perdón y sigue
 - Sigo cometiendo errores de junior, y los seguiré haciedo
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
+- M
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA5NDE0MTYsMjEzMjMwMjkyLC0xMj
-MyMTMyODUzLDE2NjAxOTAyOTZdfQ==
+eyJoaXN0b3J5IjpbMTU3MjkxNzIzNiwyMTMyMzAyOTIsLTEyMz
+IxMzI4NTMsMTY2MDE5MDI5Nl19
 -->
