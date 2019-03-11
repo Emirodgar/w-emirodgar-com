@@ -10,6 +10,7 @@ En marzo de 2009 -justo ahora 10 años- comencé a trabajar como **Consultor SEO
 
 ![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
 
+Desde entonces he tenido la oportunidad de trabajar con más de un centenar de proyectos digitales y liderar los departamentos SEO de dos agencias intern 
 - No seas el más listo de la sala
 - Los proyectos difíciles son retos que te ayudan a avanzar más rápido
 - La competencia sana es crucial para seguir mejroando
@@ -22,6 +23,6 @@ En marzo de 2009 -justo ahora 10 años- comencé a trabajar como **Consultor SEO
 - Sigo cometiendo errores de junior, y los seguiré haciedo
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDExNzMwMDQsMjEzMjMwMjkyLC0xMj
-MyMTMyODUzLDE2NjAxOTAyOTZdfQ==
+eyJoaXN0b3J5IjpbNzMyODM1MCwyMTMyMzAyOTIsLTEyMzIxMz
+I4NTMsMTY2MDE5MDI5Nl19
 -->
