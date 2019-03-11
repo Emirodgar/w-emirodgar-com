@@ -14,6 +14,9 @@ permalink: experiencia-seo
 - Si nadie organiza, hazlo tú, el proyecto tiene que salir sí o sí
 - Nunca faltes el respecto a nadie
 - Enseña al cliente para que aprenda contigo. En algún momento te volverá
+- Si haces un error, dilo, no lo olcutes. Pide perdón y sigue
+- Sigo cometiendo errores de junior, y los seguiré haciedo
+- Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwNTYxNDUzXX0=
+eyJoaXN0b3J5IjpbMTY2MDE5MDI5Nl19
 -->
