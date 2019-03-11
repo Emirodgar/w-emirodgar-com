@@ -6,7 +6,7 @@ permalink: experiencia-seo
 
 ---
 
-En marzo de 2009 -justo ahora 10 años- se me presentó la oportunidad de trabajar como Consultor SEO para Traffic4U, por aquel entonces una de las agencias de marketing digital más grandes de Europa. En ese momento comenzó mi andadura por el SEO que a día de hoy mantengo con el mismo entusiasmo que el primer día.
+En marzo de 2009 -justo ahora 10 años- comencé a trabajar como **Consultor SEO** para Traffic4U, por aquel entonces una de las agencias de marketing digital más grandes de Europa. En ese momento comenzó mi andadura por el SEO que a día de hoy mantengo con el mismo entusiasmo que el primer día.
 
 ![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
 
@@ -22,6 +22,6 @@ En marzo de 2009 -justo ahora 10 años- se me presentó la oportunidad de trabaj
 - Sigo cometiendo errores de junior, y los seguiré haciedo
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjMwMjkyLC0xMjMyMTMyODUzLDE2Nj
-AxOTAyOTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NDExNzMwMDQsMjEzMjMwMjkyLC0xMj
+MyMTMyODUzLDE2NjAxOTAyOTZdfQ==
 -->
