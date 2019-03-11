@@ -21,8 +21,8 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
  2. **Los proyectos difíciles son retos que te ayudan a crecer profesionalmente**: Puede que al principio asusten o que nos pensemos que no estamos a la altura pero una vez superados nos habremos dado cuenta de nuestra capacidad y del aprendizaje que han supuesto para nosotros. No hay retos imposibles, únicamente actitud para enfrentarse a un problema; cada proyecto superado nos convierte en mejores profesionales.
  
  3. **La competencia sana es crucial para seguir mejorando**: El ser humano tiende a relajarse dentro de su zona de confort, por ello, si no tenemos retos ni competencia sana dentro de un proyecto o en la misma empreesa tendemos a relajarnos y no evolucionar. Ahora, echando la vista atrás, veo que en los momentos que más he avanzado profesionalmente han sido aquellos en los que he tenido a otro compañero o competidor tirando del carro. Eso me ha hecho salir de la normalidad y buscar un mayor éxito de la estrategia.
- 4. **Enseña al cliente para que aprenda contigo**: Siempre digo que el SEO no es magia ni tampoco una caja negra en la que no se sabe lo que ocurre. En todos los proyectos soy claro y hago al cliente partícipe de cualquier acción. Mi objetivo es que entienda lo que estamos haciendo y porqué lo estamos haciendo. La explicación es simple: el cliente tiene más conocimiento interno del proyecto que yo por lo que el poder conectar ambos mundos suele traducirse en un beneficio común. A mayores, para que puedan valorar adecuadamente tu trabajo tienen que entender lo que estás haciendo. No hay otra forma. Sigo sorprendiéndome cuando después de varios años es 
- 5. **No tengas miedo en proponer y en avanzar**: 
+ 4. **Enseña al cliente para que aprenda contigo**: Siempre digo que el SEO no es magia ni tampoco una caja negra en la que no se sabe lo que ocurre. En todos los proyectos soy claro y hago al cliente partícipe de cualquier acción. Mi objetivo es que entienda lo que estamos haciendo y porqué lo estamos haciendo. La explicación es simple: el cliente tiene más conocimiento interno del proyecto que yo por lo que el poder conectar ambos mundos suele traducirse en un beneficio común. A mayores, para que puedan valorar adecuadamente tu trabajo tienen que entender lo que estás haciendo. No hay otra forma. 
+ 5. **No tengas miedo en proponer y en avanzar**:  Ante cualquier problema propongo soluciones. Puede que no sean las mejores ni las más acertadas (el tiempo lo confirmará) pero no me quedo sentado y espero a que el tiempo avance. Necesito que la gente que trabaje conmigo tenga el mismo espíritu; que se les enciendan los ojos con ideas desabelladas
  6. 
 
 
@@ -38,6 +38,6 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTAyMDU1NSwxMTUyMzM5ODExLDIxMz
-IzMDI5MiwtMTIzMjEzMjg1MywxNjYwMTkwMjk2XX0=
+eyJoaXN0b3J5IjpbLTE5NzEyMDgyMDUsMTE1MjMzOTgxMSwyMT
+MyMzAyOTIsLTEyMzIxMzI4NTMsMTY2MDE5MDI5Nl19
 -->
