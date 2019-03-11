@@ -20,11 +20,13 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 
  2. **Los proyectos difíciles son retos que te ayudan a crecer profesionalmente**: Puede que al principio asusten o que nos pensemos que no estamos a la altura pero una vez superados nos habremos dado cuenta de nuestra capacidad y del aprendizaje que han supuesto para nosotros. No hay retos imposibles, únicamente actitud para enfrentarse a un problema; cada proyecto superado nos convierte en mejores profesionales.
  
- 4. **La competencia sana es crucial para seguir mejorando**: El ser humano tiende a relajarse dentro de su zona de confort, por ello, si no tenemos retos ni competencia sana dentro de un proyecto o en la misma empreesa tendemos a relajarnos y no evolucionar. Ahora, echando la vista atrás, veo que en los momentos que más he avanzado profesionalmente han sido aquellos en los que he tenido a otro compañero o competidor tirando del carro. Eso me hace salir de la normalidad y buscar el 
+ 3. **La competencia sana es crucial para seguir mejorando**: El ser humano tiende a relajarse dentro de su zona de confort, por ello, si no tenemos retos ni competencia sana dentro de un proyecto o en la misma empreesa tendemos a relajarnos y no evolucionar. Ahora, echando la vista atrás, veo que en los momentos que más he avanzado profesionalmente han sido aquellos en los que he tenido a otro compañero o competidor tirando del carro. Eso me ha hecho salir de la normalidad y buscar un mayor éxito de la estrategia.
+ 4. **No tengas miedo en proponer y en avanzar**
+ 5. 
 
 
 
-- La competencia sana es crucial para seguir mejroando
+
 - Aprende de los partners
 - No tengas miedo en proponer y en avanzar
 - Si nadie organiza, hazlo tú, el proyecto tiene que salir sí o sí
@@ -35,6 +37,6 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2NzYwMzM4LDIxMzIzMDI5MiwtMTIzMj
-EzMjg1MywxNjYwMTkwMjk2XX0=
+eyJoaXN0b3J5IjpbMTE1MjMzOTgxMSwyMTMyMzAyOTIsLTEyMz
+IxMzI4NTMsMTY2MDE5MDI5Nl19
 -->
