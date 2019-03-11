@@ -8,7 +8,7 @@ permalink: experiencia-seo
 
 Justo ahora hace 10 años, en marzo de 2009 se me presentó la oportunidad de 
 
-
+![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
 
 - No seas el más listo de la sala
 - Los proyectos difíciles son retos que te ayudan a avanzar más rápido
@@ -22,5 +22,5 @@ Justo ahora hace 10 años, en marzo de 2009 se me presentó la oportunidad de
 - Sigo cometiendo errores de junior, y los seguiré haciedo
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjczMjUwNywxNjYwMTkwMjk2XX0=
+eyJoaXN0b3J5IjpbLTEyMzIxMzI4NTMsMTY2MDE5MDI5Nl19
 -->
