@@ -25,8 +25,9 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
  5. **Arriesga, no tengas miedo**:  Ante cualquier problema propongo soluciones. Puede que no sean las mejores ni las más acertadas (el tiempo lo confirmará) pero no me quedo sentado y espero a que el tiempo avance. Necesito que la gente que trabaje conmigo tenga el mismo espíritu; que se les enciendan los ojos con ideas desabelladas
  6. **Sé ambicioso y proactivo**: Sé que te pagan por unos servicios, pero no te limites tú solo. Si crees que algo puede aportar valor, dilo o hazlo; ve siempre un paso más allá, soluciona problemas y aporta valor en cada paso que des. De esa forma te ganarás la confianza de todos los participantes del proyecto y, casi seguro, obtendrás grandes resultados. No te conviertas en alguien fácilmente reemplazable.
  7. **Nadie es imprescindible**: Creedme que aunque me ha dolido perder compañeros y trabajadores con un aporte de valor sinigual, todo ha continuado. Quizá ha costado más y hemos tenido que arrimar el hombro en situaciones puntuales, pero hemos podido salir adelante. Seamos humildes desde el primer día y en cada proyecto en el que trabajemos porque nadie, absolutamente nadie, es imprescindible en ninguna empresa y en ningún puesto. 
- 8. **Aprende de los errores**: Hace poco el CEO de la empresa me dijo, "ese error que has cometido es de junior". Aún sabiendo que era verdad, no lo vi como una desilusión. Todos cometemos errores y seguiremos haciéndolo. La experiencia no te libra de cometerlos, pero sí te enseña cómo afrontarlos. Lo realmente importante es ir aprendiendo de ellos para no repetirlos pero, a mi juicio, los errores son parte de nuestro día a día y nos enseñan mucho más que los aciertos.
- 9. **Todos los clientes son importantes**: A lo largo de los años me he dado cuenta de que algunos clientes son más exigentes más que otros y que si no te organizas bien puedes caer en dar un mayor servicios a aquellos que más demandan.  Organzar las acciones y tareas y gestionar las expectativas de nuestros interlocures es esencial para asegurar que trabajamos en todos los proyectos por igual  
+ 8. **Aprende de los errores**: Hace poco el CEO de la empresa me dijo, "ese error que has cometido es de junior". Aún sabiendo que era verdad, no lo vi como una desilusión. Todos cometemos errores y seguiremos haciéndolo. La experiencia no te libra de cometerlos, pero sí te enseña cómo afrontarlos. Lo realmente importante es ir aprendiendo de ellos para no repetirlos pero, a mi juicio, los errores son parte de nuestro día a día y nos enseñan mucho más que los aciertos. Por supuesto, siempre debemos ser sinceros con el cliente y asumir nuestras responsabilidad.
+ 9. **Todos los clientes son importantes**: A lo largo de los años me he dado cuenta de que algunos clientes son más exigentes más que otros y que si no te organizas bien puedes caer en dar un mayor servicios a aquellos que más demandan.  Organzar las acciones y tareas y gestionar las expectativas de nuestros interlocures es esencial para asegurar que trabajamos en todos los proyectos por igual evitando dejar algunos olvidados durante demasiado tiempo.
+ 10.  **Respeta a todo el mundo**: 
 
 
 
@@ -36,11 +37,10 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Si nadie organiza, hazlo tú, el proyecto tiene que salir sí o sí
 - Nunca faltes el respecto a nadie
 - Si haces un error, dilo, no lo olcutes. Pide perdón y sigue
-- Sigo cometiendo errores de junior, y los seguiré haciedo
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDgzNDE0NiwtMzIyNDg4MjMsLTEwNz
-kxODAwNzAsLTg2NTkwNjA0NywxNzIzMDY1ODQsMTE1MjMzOTgx
-MSwyMTMyMzAyOTIsLTEyMzIxMzI4NTMsMTY2MDE5MDI5Nl19
+eyJoaXN0b3J5IjpbLTk5Nzg1Mzg3LC0zMjI0ODgyMywtMTA3OT
+E4MDA3MCwtODY1OTA2MDQ3LDE3MjMwNjU4NCwxMTUyMzM5ODEx
+LDIxMzIzMDI5MiwtMTIzMjEzMjg1MywxNjYwMTkwMjk2XX0=
 -->
