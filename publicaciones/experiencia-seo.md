@@ -29,15 +29,17 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
 ![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
 
+10 años, tres agencias y millones de experiencias con clientes, proyectos y compañeros me han ayudado a ser lo que soy hoy en día.
+
 ![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png)
 
 Estos son mis aprendizajes tras 10 años como SEO en marketing digital. Diez años como consultor, director de departamento y jefe de proyecto que me han ayudado a ser un mejor profesional.n Espero poder ayudar también a otras personas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODQ1NjEwOCwtMTg1MjEwNjM0LDEzMz
-A0NTQ2NDgsNjk0NDI2MTAwLDEwODU5MDExMTMsLTE0MjUwMzUz
-NSwxMzk4MTU4Mjk3LDE5NDE4NjcwMjAsNjYyMzM3MDE4LC0yMD
-UyNzg3ODkzLDIxMDkwOTA4MjgsMTk5OTgzMjY2NCwyMDM0MDM4
-MzM2LDE4NjkxODk2NjIsNjc0NTk2NTE2LC0zMjI0ODgyMywtMT
-A3OTE4MDA3MCwtODY1OTA2MDQ3LDE3MjMwNjU4NCwxMTUyMzM5
-ODExXX0=
+eyJoaXN0b3J5IjpbLTExNDM1NTQzOTYsMTY1ODQ1NjEwOCwtMT
+g1MjEwNjM0LDEzMzA0NTQ2NDgsNjk0NDI2MTAwLDEwODU5MDEx
+MTMsLTE0MjUwMzUzNSwxMzk4MTU4Mjk3LDE5NDE4NjcwMjAsNj
+YyMzM3MDE4LC0yMDUyNzg3ODkzLDIxMDkwOTA4MjgsMTk5OTgz
+MjY2NCwyMDM0MDM4MzM2LDE4NjkxODk2NjIsNjc0NTk2NTE2LC
+0zMjI0ODgyMywtMTA3OTE4MDA3MCwtODY1OTA2MDQ3LDE3MjMw
+NjU4NF19
 -->
