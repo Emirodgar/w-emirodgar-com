@@ -26,8 +26,8 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
  6. **Sé ambicioso y proactivo**: Sé que te pagan por unos servicios, pero no te limites a ti mismo. Si crees que algo puede aportar valor, dilo o hazlo; ve siempre un paso más allá, soluciona problemas y aporta valor en cada paso que des. De esa forma te ganarás la confianza de todos los participantes del proyecto y, casi seguro, obtendrás grandes resultados. No te conviertas en alguien fácilmente reemplazable.
  7. **Nadie es imprescindible**: Creedme que, aunque me ha dolido perder compañeros y trabajadores con un aporte de valor sinigual, todo ha continuado. Quizá ha costado más y hemos tenido que arrimar el hombro en situaciones puntuales, pero hemos salido adelante. Sé humilde desde el primer día en cada proyecto en el que trabajes porque nadie, absolutamente nadie, es imprescindible en ninguna empresa ni proyecto. Respeta y valora el trabajo de los demás: remando juntos se llega más lejos.
  8. **Aprende de los errores**: Hace poco el CEO de la empresa me dijo: "*ese error que has cometido es de junior*". Aún sabiendo que era verdad, no lo vi como un fracaso. Todos cometemos errores y seguiremos haciéndolo. La experiencia no te libra de cometerlos, pero sí te enseña cómo afrontarlos. Lo realmente importante es ir aprendiendo de ellos para no repetirlos pero, a mi juicio, los errores son parte de nuestro día a día y nos enseñan mucho más que los aciertos. Por supuesto, siempre debemos ser sinceros con el cliente y asumir nuestra responsabilidad. Engañando no se llega lejos.
- 9. **Todos los clientes son importantes**: A lo largo de los años me he dado cuenta de que algunos clientes son más exigentes que otros y que si no te organizas bien puedes caer en dar un mayor servicio a aquellos que más demandan.  Organizar las tareas y gestionar las expectativas de nuestros interlocures es esencial para asegurar que trabajamos correctamente en todos los proyectos y facilitamos la consecusión de los objetivos.
- 11. **Nunca dejes de aprender y formarte**:  Trabajamos en un sector en constante cambio lo que exige que estemos siempre formados. Estar al día en SEO no es una moda es una ventaja competitiva. Por mi cuenta me he certificado en multitud de herramientas como Analytics, GTM, Webtrekk, Hubspot, Woorank, Omniture, Xiti, etc. que me han permitido afrontar nuevos retos profesionales y cualificar mi trabajo. Nunca dejes de aprender y formarte.
+ 9. **Todos los clientes son importantes**: A lo largo de los años me he dado cuenta de que algunos clientes son más exigentes que otros y que si no te organizas bien puedes caer en dar un mayor servicio a aquellos que más demandan.  Organizar las tareas y gestionar las expectativas de nuestros interlocures es esencial para asegurar que trabajamos correctamente en todos los proyectos y facilitamos la consecución de los objetivos. Trabajar un proyecto sin objetivos no tiene sentido.
+ 11. **Nunca dejes de aprender y formarte**:  Trabajamos en un sector en constante cambio lo que exige que estemos siempre formados. Estar al día en SEO no es una moda, es una ventaja competitiva. Por mi cuenta me he certificado en multitud de herramientas como Google Analytics, GTM, Webtrekk, Hubspot, Woorank, Omniture, Xiti, etc. Todo ello me ha permitido afrontar nuevos retos profesionales y cualificar mi trabajo como SEO. Nunca dejes de aprender y formarte.
 
 
 
@@ -40,7 +40,7 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDE4MDkzNiwxOTQxODY3MDIwLDY2Mj
+eyJoaXN0b3J5IjpbMTM5ODE1ODI5NywxOTQxODY3MDIwLDY2Mj
 MzNzAxOCwtMjA1Mjc4Nzg5MywyMTA5MDkwODI4LDE5OTk4MzI2
 NjQsMjAzNDAzODMzNiwxODY5MTg5NjYyLDY3NDU5NjUxNiwtMz
 IyNDg4MjMsLTEwNzkxODAwNzAsLTg2NTkwNjA0NywxNzIzMDY1
