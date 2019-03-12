@@ -27,23 +27,12 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
  7. **Nadie es imprescindible**: Creedme que, aunque me ha dolido perder compañeros y trabajadores con un aporte de valor sinigual, todo ha continuado. Quizá ha costado más y hemos tenido que arrimar el hombro en situaciones puntuales, pero hemos salido adelante. Sé humilde desde el primer día en cada proyecto en el que trabajes porque nadie, absolutamente nadie, es imprescindible en ninguna empresa ni proyecto. Respeta y valora el trabajo de los demás: remando juntos se llega más lejos.
  8. **Aprende de los errores**: Hace poco el CEO de la empresa me dijo: "*ese error que has cometido es de junior*". Aún sabiendo que era verdad, no lo vi como un fracaso. Todos cometemos errores y seguiremos haciéndolo. La experiencia no te libra de cometerlos, pero sí te enseña cómo afrontarlos. Lo realmente importante es ir aprendiendo de ellos para no repetirlos pero, a mi juicio, los errores son parte de nuestro día a día y nos enseñan mucho más que los aciertos. Por supuesto, siempre debemos ser sinceros con el cliente y asumir nuestra responsabilidad. Engañando no se llega lejos.
  9. **Todos los clientes son importantes**: A lo largo de los años me he dado cuenta de que algunos clientes son más exigentes que otros y que si no te organizas bien puedes caer en dar un mayor servicio a aquellos que más demandan.  Organizar las tareas y gestionar las expectativas de nuestros interlocures es esencial para asegurar que trabajamos correctamente en todos los proyectos y facilitamos la consecución de los objetivos. Trabajar un proyecto sin objetivos no tiene sentido.
- 11. **Nunca dejes de aprender y formarte**:  Trabajamos en un sector en constante cambio lo que exige que estemos siempre formados. Estar al día en SEO no es una moda, es una ventaja competitiva. Por mi cuenta me he certificado en multitud de herramientas como Google Analytics, GTM, Webtrekk, Hubspot, Woorank, Omniture, Xiti, etc. Todo ello me ha permitido afrontar nuevos retos profesionales y cualificar mi trabajo como SEO. Nunca dejes de aprender y formarte.
-
-
-
-
-- A todos los clientes por igual
-- Aprende de los partners
-- Si nadie organiza, hazlo tú, el proyecto tiene que salir sí o sí
-- Nunca faltes el respecto a nadie
-- Si haces un error, dilo, no lo olcutes. Pide perdón y sigue
-- Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
-- Mantén siempre una organización impecable
+ 11. **Nunca dejes de aprender y formarte**:  Trabajamos en un sector en constante cambio lo que exige que estemos siempre formados. Estar al día en SEO no es una moda, es una ventaja competitiva. Por mi cuenta me he certificado en multitud de herramientas como Google Analytics, Google Tag Manager, Webtrekk, Hubspot, Woorank, Omniture, Xiti, etc. Todo ello me ha permitido afrontar nuevos retos profesionales y cualificar mi trabajo como SEO. Nunca dejes de aprender y formarte.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUwMzUzNSwxMzk4MTU4Mjk3LDE5ND
-E4NjcwMjAsNjYyMzM3MDE4LC0yMDUyNzg3ODkzLDIxMDkwOTA4
-MjgsMTk5OTgzMjY2NCwyMDM0MDM4MzM2LDE4NjkxODk2NjIsNj
-c0NTk2NTE2LC0zMjI0ODgyMywtMTA3OTE4MDA3MCwtODY1OTA2
-MDQ3LDE3MjMwNjU4NCwxMTUyMzM5ODExLDIxMzIzMDI5MiwtMT
-IzMjEzMjg1MywxNjYwMTkwMjk2XX0=
+eyJoaXN0b3J5IjpbLTg5Mjg5OTE5MiwtMTQyNTAzNTM1LDEzOT
+gxNTgyOTcsMTk0MTg2NzAyMCw2NjIzMzcwMTgsLTIwNTI3ODc4
+OTMsMjEwOTA5MDgyOCwxOTk5ODMyNjY0LDIwMzQwMzgzMzYsMT
+g2OTE4OTY2Miw2NzQ1OTY1MTYsLTMyMjQ4ODIzLC0xMDc5MTgw
+MDcwLC04NjU5MDYwNDcsMTcyMzA2NTg0LDExNTIzMzk4MTEsMj
+EzMjMwMjkyLC0xMjMyMTMyODUzLDE2NjAxOTAyOTZdfQ==
 -->
