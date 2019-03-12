@@ -20,7 +20,7 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
  1. **Rodéate de gente con actitud y aptitud**: Siempre ha habido una frase que ha marcado mi desarrollo profesional: *“if you are the smartest person in a room, then you are in the wrong room”*.  A día de hoy aún no he descubierto una sola persona ni situación de la que no haya podido aprender algo, aún así, si te aseguras de estar cerca de gente motivada y con conocimientos -directos o indirectos a tu faceta profesional- tu desarrollo se verá altamente enriquecido. 
  2. **Los proyectos difíciles son retos que te ayudan a crecer profesionalmente**: No huyas de ellos; puede que al principio asusten o que pensemos que no estamos a la altura pero una vez superados nos habremos dado cuenta de nuestra capacidad y del aprendizaje que han supuesto para nosotros. No hay retos imposibles, únicamente actitud para enfrentarse a un problema. Cada reto superado nos convierte en mejores profesionales. 
- 3. **La competencia sana es crucial para seguir mejorando**: El ser humano tiende a relajarse dentro de su zona de confort, por ello, si no tenemos retos ni competencia sana dentro de la empresa o en los diferentes proyectos en los que participamos, eventualmente nos relajaremos. Echando la vista atrás, veo que en los momentos que más he avanzado profesionalmente han sido aquellos en los que he tenido a otro compañero o competidor que ha supuesto un desafío. Eso me ha hecho salir de la normalidad y buscar un mayor éxito. 
+ 3. **La competencia sana es crucial para seguir mejorando**: El ser humano tiende a relajarse dentro de su zona de confort, por ello, si no tenemos retos ni competencia sana dentro de la empresa o en los diferentes proyectos en los que participamos, eventualmente nos estancaremos. Echando la vista atrás, veo que los momentos en que más he avanzado profesionalmente han sido aquellos en los que he tenido compañeros o competidores que ha supuesto un desafío. Eso me ha hecho salir de la normalidad y buscar un mayor éxito. 
  4. **Enseña al cliente para que aprenda contigo**: Siempre digo que el SEO no es magia ni tampoco una caja negra en la que no se sabe lo que ocurre. En todos los proyectos intento ser claro y hago al cliente partícipe de cualquier acción. Mi objetivo es que conozcan todas las tareas que realizamos ya que el cliente tiene más conocimiento interno del proyecto que yo por lo que el poder conectar ambos mundos suele traducirse en un beneficio común. A mayores, para que puedan valorar adecuadamente tu trabajo tienen que entender lo que estás haciendo. No hay otra forma. Jamás obligaré a un cliente a trabajar conmigo a través de cláusulas, si no nos entendemos o no estamos a gusto, es mejor finalizar la colaboración.
  5. **Arriesga, no tengas miedo**:  Ante cualquier problema propongo soluciones. Puede que no sean las mejores ni las más acertadas (el tiempo lo confirmará) pero no me quedo sentado esperando y tomo la iniciativa. Necesito que la gente que trabaje conmigo tenga el mismo espíritu; que se les enciendan los ojos con ideas descabelladas y que no tengan miedo a proponer hipótesis y a ponerlas a prueba. Si aciertas puede ser la clave del éxito de la estrategia. Si haces lo mismo que los demás, siempre estarás un paso por detrás.
  6. **Sé ambicioso y proactivo**: Sé que te pagan por unos servicios, pero no te limites a ti mismo. Si crees que algo puede aportar valor, dilo o hazlo; ve siempre un paso más allá, soluciona problemas y aporta valor en cada paso que des. De esa forma te ganarás la confianza de todos los participantes del proyecto y, casi seguro, obtendrás grandes resultados. No te conviertas en alguien fácilmente reemplazable.
@@ -40,10 +40,10 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODE1ODI5NywxOTQxODY3MDIwLDY2Mj
-MzNzAxOCwtMjA1Mjc4Nzg5MywyMTA5MDkwODI4LDE5OTk4MzI2
-NjQsMjAzNDAzODMzNiwxODY5MTg5NjYyLDY3NDU5NjUxNiwtMz
-IyNDg4MjMsLTEwNzkxODAwNzAsLTg2NTkwNjA0NywxNzIzMDY1
-ODQsMTE1MjMzOTgxMSwyMTMyMzAyOTIsLTEyMzIxMzI4NTMsMT
-Y2MDE5MDI5Nl19
+eyJoaXN0b3J5IjpbLTQwMTAxMDkxNywxMzk4MTU4Mjk3LDE5ND
+E4NjcwMjAsNjYyMzM3MDE4LC0yMDUyNzg3ODkzLDIxMDkwOTA4
+MjgsMTk5OTgzMjY2NCwyMDM0MDM4MzM2LDE4NjkxODk2NjIsNj
+c0NTk2NTE2LC0zMjI0ODgyMywtMTA3OTE4MDA3MCwtODY1OTA2
+MDQ3LDE3MjMwNjU4NCwxMTUyMzM5ODExLDIxMzIzMDI5MiwtMT
+IzMjEzMjg1MywxNjYwMTkwMjk2XX0=
 -->
