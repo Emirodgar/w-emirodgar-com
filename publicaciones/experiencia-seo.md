@@ -10,14 +10,11 @@ permalink: experiencia-seo
 
 En marzo de 2009 -justo hace 10 años- comencé a trabajar como **Consultor SEO** en Traffic4U, por aquel entonces una de las agencias de marketing digital más grandes de Europa. 
 
-![10 cosas que he aprendido tras 10 años trabajando como SEO](https://i.imgur.com/GlZhXpz.jpg)
-
-
 Desde entonces he tenido la oportunidad de participar en más de un centenar de proyectos digitales y liderar los **departamentos SEO** de dos agencias internacionales: Internet Advantage y Smartup.
 
 En base a esta experiencia, os cuento las 10 cosas más importantes que he aprendido como SEO y que creo que son cruciales para establecer un camino hacia el éxito, tanto personal como profesional.
  
-
+![10 cosas que he aprendido tras 10 años trabajando como SEO](https://i.imgur.com/GlZhXpz.jpg)
 
  1. **Rodéate de gente con actitud y aptitud**: Siempre ha habido una frase que ha marcado mi desarrollo profesional: *“if you are the smartest person in a room, then you are in the wrong room”*.  A día de hoy aún no he descubierto una sola persona ni situación de la que no haya podido aprender algo, aún así, si te aseguras de estar cerca de gente motivada y con conocimientos -directos o indirectos a tu faceta profesional- tu desarrollo se verá altamente enriquecido. 
  2. **Los proyectos difíciles son retos que te ayudan a crecer profesionalmente**: No huyas de ellos; puede que al principio asusten o que pensemos que no estamos a la altura pero una vez superados nos habremos dado cuenta de nuestra capacidad y del aprendizaje que han supuesto para nosotros. No hay retos imposibles, únicamente actitud para enfrentarse a un problema. Cada reto superado nos convierte en mejores profesionales. 
@@ -36,11 +33,11 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
 Estos son mis aprendizajes tras 10 años como SEO en marketing digital. Diez años como consultor, director de departamento y jefe de proyecto que me han ayudado a ser un mejor profesional.n Espero poder ayudar también a otras personas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIxMDYzNCwxMzMwNDU0NjQ4LDY5ND
-QyNjEwMCwxMDg1OTAxMTEzLC0xNDI1MDM1MzUsMTM5ODE1ODI5
-NywxOTQxODY3MDIwLDY2MjMzNzAxOCwtMjA1Mjc4Nzg5MywyMT
-A5MDkwODI4LDE5OTk4MzI2NjQsMjAzNDAzODMzNiwxODY5MTg5
-NjYyLDY3NDU5NjUxNiwtMzIyNDg4MjMsLTEwNzkxODAwNzAsLT
-g2NTkwNjA0NywxNzIzMDY1ODQsMTE1MjMzOTgxMSwyMTMyMzAy
-OTJdfQ==
+eyJoaXN0b3J5IjpbMTY1ODQ1NjEwOCwtMTg1MjEwNjM0LDEzMz
+A0NTQ2NDgsNjk0NDI2MTAwLDEwODU5MDExMTMsLTE0MjUwMzUz
+NSwxMzk4MTU4Mjk3LDE5NDE4NjcwMjAsNjYyMzM3MDE4LC0yMD
+UyNzg3ODkzLDIxMDkwOTA4MjgsMTk5OTgzMjY2NCwyMDM0MDM4
+MzM2LDE4NjkxODk2NjIsNjc0NTk2NTE2LC0zMjI0ODgyMywtMT
+A3OTE4MDA3MCwtODY1OTA2MDQ3LDE3MjMwNjU4NCwxMTUyMzM5
+ODExXX0=
 -->
