@@ -31,12 +31,12 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
 ![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png)
 
-Estos son mis aprendizajes tras 10 años en marketing dig
+Estos son mis aprendizajes tras 10 años como SEO en marketing digital. Diez años como consultor, director de departamento y jefe de proyecto que me han ayudado -y siguen haciéndolo- a ser un mejor profesional.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI4ODg4NzEsLTE0MjUwMzUzNSwxMz
-k4MTU4Mjk3LDE5NDE4NjcwMjAsNjYyMzM3MDE4LC0yMDUyNzg3
-ODkzLDIxMDkwOTA4MjgsMTk5OTgzMjY2NCwyMDM0MDM4MzM2LD
-E4NjkxODk2NjIsNjc0NTk2NTE2LC0zMjI0ODgyMywtMTA3OTE4
-MDA3MCwtODY1OTA2MDQ3LDE3MjMwNjU4NCwxMTUyMzM5ODExLD
-IxMzIzMDI5MiwtMTIzMjEzMjg1MywxNjYwMTkwMjk2XX0=
+eyJoaXN0b3J5IjpbMTA4NTkwMTExMywtMTQyNTAzNTM1LDEzOT
+gxNTgyOTcsMTk0MTg2NzAyMCw2NjIzMzcwMTgsLTIwNTI3ODc4
+OTMsMjEwOTA5MDgyOCwxOTk5ODMyNjY0LDIwMzQwMzgzMzYsMT
+g2OTE4OTY2Miw2NzQ1OTY1MTYsLTMyMjQ4ODIzLC0xMDc5MTgw
+MDcwLC04NjU5MDYwNDcsMTcyMzA2NTg0LDExNTIzMzk4MTEsMj
+EzMjMwMjkyLC0xMjMyMTMyODUzLDE2NjAxOTAyOTZdfQ==
 -->
