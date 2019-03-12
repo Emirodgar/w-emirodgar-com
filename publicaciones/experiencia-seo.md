@@ -10,7 +10,8 @@ permalink: experiencia-seo
 
 En marzo de 2009 -justo hace 10 años- comencé a trabajar como **Consultor SEO** en Traffic4U, por aquel entonces una de las agencias de marketing digital más grandes de Europa. 
 
-![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
+![10 cosas que he aprendido tras 10 años trabajando como SEO](https://i.imgur.com/GlZhXpz.jpg)
+
 
 Desde entonces he tenido la oportunidad de participar en más de un centenar de proyectos digitales y liderar los **departamentos SEO** de dos agencias internacionales: Internet Advantage y Smartup.
 
@@ -29,15 +30,17 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
  9. **Todos los clientes son importantes**: A lo largo de los años me he dado cuenta de que algunos clientes son más exigentes que otros y que si no te organizas bien puedes caer en dar un mayor servicio a aquellos que más demandan.  Organizar las tareas y gestionar las expectativas de nuestros interlocures es esencial para asegurar que trabajamos correctamente en todos los proyectos y facilitamos la consecución de los objetivos. Trabajar un proyecto sin objetivos no tiene sentido.
  10. **Nunca dejes de aprender y formarte**:  Trabajamos en un sector en constante cambio lo que exige que estemos siempre formados. Estar al día en SEO no es una moda, es una ventaja competitiva. Por mi cuenta me he certificado en multitud de herramientas como Google Analytics, Google Tag Manager, Webtrekk, Hubspot, Woorank, Omniture, Xiti, etc. Todo ello me ha permitido afrontar nuevos retos profesionales y cualificar mi trabajo como SEO. Nunca dejes de aprender y formarte.
 
+![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
+
 ![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png)
 
 Estos son mis aprendizajes tras 10 años como SEO en marketing digital. Diez años como consultor, director de departamento y jefe de proyecto que me han ayudado a ser un mejor profesional.n Espero poder ayudar también a otras personas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDQ1NDY0OCw2OTQ0MjYxMDAsMTA4NT
-kwMTExMywtMTQyNTAzNTM1LDEzOTgxNTgyOTcsMTk0MTg2NzAy
-MCw2NjIzMzcwMTgsLTIwNTI3ODc4OTMsMjEwOTA5MDgyOCwxOT
-k5ODMyNjY0LDIwMzQwMzgzMzYsMTg2OTE4OTY2Miw2NzQ1OTY1
-MTYsLTMyMjQ4ODIzLC0xMDc5MTgwMDcwLC04NjU5MDYwNDcsMT
-cyMzA2NTg0LDExNTIzMzk4MTEsMjEzMjMwMjkyLC0xMjMyMTMy
-ODUzXX0=
+eyJoaXN0b3J5IjpbLTE4NTIxMDYzNCwxMzMwNDU0NjQ4LDY5ND
+QyNjEwMCwxMDg1OTAxMTEzLC0xNDI1MDM1MzUsMTM5ODE1ODI5
+NywxOTQxODY3MDIwLDY2MjMzNzAxOCwtMjA1Mjc4Nzg5MywyMT
+A5MDkwODI4LDE5OTk4MzI2NjQsMjAzNDAzODMzNiwxODY5MTg5
+NjYyLDY3NDU5NjUxNiwtMzIyNDg4MjMsLTEwNzkxODAwNzAsLT
+g2NTkwNjA0NywxNzIzMDY1ODQsMTE1MjMzOTgxMSwyMTMyMzAy
+OTJdfQ==
 -->
