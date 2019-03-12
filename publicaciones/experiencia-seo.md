@@ -29,12 +29,14 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
  9. **Todos los clientes son importantes**: A lo largo de los años me he dado cuenta de que algunos clientes son más exigentes que otros y que si no te organizas bien puedes caer en dar un mayor servicio a aquellos que más demandan.  Organizar las tareas y gestionar las expectativas de nuestros interlocures es esencial para asegurar que trabajamos correctamente en todos los proyectos y facilitamos la consecución de los objetivos. Trabajar un proyecto sin objetivos no tiene sentido.
  10. **Nunca dejes de aprender y formarte**:  Trabajamos en un sector en constante cambio lo que exige que estemos siempre formados. Estar al día en SEO no es una moda, es una ventaja competitiva. Por mi cuenta me he certificado en multitud de herramientas como Google Analytics, Google Tag Manager, Webtrekk, Hubspot, Woorank, Omniture, Xiti, etc. Todo ello me ha permitido afrontar nuevos retos profesionales y cualificar mi trabajo como SEO. Nunca dejes de aprender y formarte.
 
-[]
+![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png)
+
+Estos son mis aprendizajes tras 10 años en marketing dig
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU2NjY1NSwtMTQyNTAzNTM1LDEzOT
-gxNTgyOTcsMTk0MTg2NzAyMCw2NjIzMzcwMTgsLTIwNTI3ODc4
-OTMsMjEwOTA5MDgyOCwxOTk5ODMyNjY0LDIwMzQwMzgzMzYsMT
-g2OTE4OTY2Miw2NzQ1OTY1MTYsLTMyMjQ4ODIzLC0xMDc5MTgw
-MDcwLC04NjU5MDYwNDcsMTcyMzA2NTg0LDExNTIzMzk4MTEsMj
-EzMjMwMjkyLC0xMjMyMTMyODUzLDE2NjAxOTAyOTZdfQ==
+eyJoaXN0b3J5IjpbLTExOTI4ODg4NzEsLTE0MjUwMzUzNSwxMz
+k4MTU4Mjk3LDE5NDE4NjcwMjAsNjYyMzM3MDE4LC0yMDUyNzg3
+ODkzLDIxMDkwOTA4MjgsMTk5OTgzMjY2NCwyMDM0MDM4MzM2LD
+E4NjkxODk2NjIsNjc0NTk2NTE2LC0zMjI0ODgyMywtMTA3OTE4
+MDA3MCwtODY1OTA2MDQ3LDE3MjMwNjU4NCwxMTUyMzM5ODExLD
+IxMzIzMDI5MiwtMTIzMjEzMjg1MywxNjYwMTkwMjk2XX0=
 -->
