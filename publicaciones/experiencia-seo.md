@@ -12,9 +12,9 @@ En marzo de 2009 -justo hace 10 años- comencé a trabajar como **Consultor SEO*
 
 ![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
 
-Desde entonces he tenido la oportunidad de colaborar en más de un centenar de proyectos digitales y liderar los departamentos SEO de dos agencias internacionales: Internet Advantage y Smartup.
+Desde entonces he tenido la oportunidad de participar en más de un centenar de proyectos digitales y liderar los **departamentos SEO** de dos agencias internacionales: Internet Advantage y Smartup.
 
-En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y que creo que es crucial para establecer un camino hacia el éxito, tanto personal como profesional.
+En base a esta experiencia, os cuento las 10 cosas más importantes que he aprendido como SEO y que creo que son cruciales para establecer un camino hacia el éxito, tanto personal como profesional.
  
 
 
@@ -41,9 +41,9 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjU5MzA1LC0yMDUyNzg3ODkzLDIxMD
-kwOTA4MjgsMTk5OTgzMjY2NCwyMDM0MDM4MzM2LDE4NjkxODk2
-NjIsNjc0NTk2NTE2LC0zMjI0ODgyMywtMTA3OTE4MDA3MCwtOD
-Y1OTA2MDQ3LDE3MjMwNjU4NCwxMTUyMzM5ODExLDIxMzIzMDI5
-MiwtMTIzMjEzMjg1MywxNjYwMTkwMjk2XX0=
+eyJoaXN0b3J5IjpbLTEyNDI5NTI2MjAsLTIwNTI3ODc4OTMsMj
+EwOTA5MDgyOCwxOTk5ODMyNjY0LDIwMzQwMzgzMzYsMTg2OTE4
+OTY2Miw2NzQ1OTY1MTYsLTMyMjQ4ODIzLC0xMDc5MTgwMDcwLC
+04NjU5MDYwNDcsMTcyMzA2NTg0LDExNTIzMzk4MTEsMjEzMjMw
+MjkyLC0xMjMyMTMyODUzLDE2NjAxOTAyOTZdfQ==
 -->
