@@ -1,16 +1,18 @@
 ---
-title: 10 cosas que he aprendido tras 10 años como SEO
+title: 10 cosas que he aprendido en 10 años como SEO
 description: Después de una década trabajado SEO profesionalmente os cuento mis aprendizajes
 lang: es_ES
 permalink: experiencia-seo
 
 ---
 
-En marzo de 2009 -justo ahora 10 años- comencé a trabajar como **Consultor SEO** en Traffic4U, por aquel entonces una de las agencias de marketing digital más grandes de Europa. 
+# 10 cosas que he aprendido en 10 años como SEO
+
+En marzo de 2009 -justo hace 10 años- comencé a trabajar como **Consultor SEO** en Traffic4U, por aquel entonces una de las agencias de marketing digital más grandes de Europa. 
 
 ![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
 
-Desde entonces he tenido la oportunidad de trabajar con más de un centenar de proyectos digitales y liderar los departamentos SEO de dos agencias internacionales: Internet Advantage y Smartup.
+Desde entonces he tenido la oportunidad de colaborar en más de un centenar de proyectos digitales y liderar los departamentos SEO de dos agencias internacionales: Internet Advantage y Smartup.
 
 En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y que creo que es crucial para establecer un camino hacia el éxito, tanto personal como profesional.
  
@@ -39,9 +41,9 @@ En base a esta experiencia, os cuento las 10 cosas que he aprendido como SEO y q
 - Sé sincero con los clientes y los proyectos, no puedes forzar a nadie a trabajar contigo
 - Mantén siempre una organización impecable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI3ODc4OTMsMjEwOTA5MDgyOCwxOT
-k5ODMyNjY0LDIwMzQwMzgzMzYsMTg2OTE4OTY2Miw2NzQ1OTY1
-MTYsLTMyMjQ4ODIzLC0xMDc5MTgwMDcwLC04NjU5MDYwNDcsMT
-cyMzA2NTg0LDExNTIzMzk4MTEsMjEzMjMwMjkyLC0xMjMyMTMy
-ODUzLDE2NjAxOTAyOTZdfQ==
+eyJoaXN0b3J5IjpbMTQ3NjU5MzA1LC0yMDUyNzg3ODkzLDIxMD
+kwOTA4MjgsMTk5OTgzMjY2NCwyMDM0MDM4MzM2LDE4NjkxODk2
+NjIsNjc0NTk2NTE2LC0zMjI0ODgyMywtMTA3OTE4MDA3MCwtOD
+Y1OTA2MDQ3LDE3MjMwNjU4NCwxMTUyMzM5ODExLDIxMzIzMDI5
+MiwtMTIzMjEzMjg1MywxNjYwMTkwMjk2XX0=
 -->
