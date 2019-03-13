@@ -13,7 +13,7 @@ Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en 
 
 ## Definir estrategia y objetivos
 
-Mi objetivo principal será posicionar en el TOP10 de Google España por el término **consultor SEO** y sus variantes y para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
+Mi objetivo principal será posicionar en el TOP10 de Google España por el término **consultor SEO** y para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
 
 Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
 
@@ -21,11 +21,11 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019.
 
-| Mes      | Tareas SEO en la estrategia      
+| Mes      | Tareas SEO / Estrategia      
 |----------|----------------------------------
 | Enero | [Base SEO sólida](#enero) / Creación de template (diseño y programación)                  
 | Febrero | [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
-| Marzo | [Más puertas de entrada](#marzo) 
+| Marzo | [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
 
 
 ## <a name="enero"></a> Enero: Base SEO sólida
@@ -41,8 +41,6 @@ He comenzado lanzando una primera versión de la página principal -para posicio
 He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) (GSC) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
 
 Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
-
->Soy demasiado perfeccionsita, tendría que haber lanzado más páginas aunque no estuvieran al 100%. 
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
 
@@ -83,6 +81,7 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
 
 - Páginas que atraigan visitantes y enlaces:
    -  [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
+   -  [Experiencia SEO](https://emirodgar.com/experiencia-seo)
 - Páginas relacionadas con **consultor SEO**
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
   -  [Asesor SEO](https://emirodgar.com/asesor-seo)
@@ -116,11 +115,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzU1MDc3NCwtMTU1OTk2MzM4NywzND
-M0ODE3NDQsLTEwMzc1Nzg2OTYsMTQ1MDA3ODc5LDg4MTE0MzEx
-NSwxODEyNTY0NTY5LDYwMzI0OTgzMiwtMTI2ODcyMzE3NSwtMz
-M2NDQwMjA4LC0zMzE2NzU5OCwxODg1MDM0OTU3LDk2NjgyMjg5
-MCwtMTkwMzQ4NzEwOCwxNTg0MzYyODIxLDUwNTczNjkzMiw3MD
-MxOTM4OSwxMDQ2NjEwMDk3LC0xNjQ3MzMyNzM4LDEwMTk4NTU3
-MDBdfQ==
+eyJoaXN0b3J5IjpbMTM5Nzg2MzA2OSw3MDA1MDQ4OTEsLTQzNz
+U1MDc3NCwtMTU1OTk2MzM4NywzNDM0ODE3NDQsLTEwMzc1Nzg2
+OTYsMTQ1MDA3ODc5LDg4MTE0MzExNSwxODEyNTY0NTY5LDYwMz
+I0OTgzMiwtMTI2ODcyMzE3NSwtMzM2NDQwMjA4LC0zMzE2NzU5
+OCwxODg1MDM0OTU3LDk2NjgyMjg5MCwtMTkwMzQ4NzEwOCwxNT
+g0MzYyODIxLDUwNTczNjkzMiw3MDMxOTM4OSwxMDQ2NjEwMDk3
+XX0=
 -->
