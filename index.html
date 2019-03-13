@@ -10,6 +10,15 @@
 		window.e_analytics.tipo_conversion='link';
 		window.e_analytics.tipo_pagina='home';
 		
+		dataLayer.push ({   
+
+            event: "GAEvent",
+            eventCategory: "sol online",
+            eventAction: "solicitud enviada",
+            eventLabel: "programa1 - programa2"
+
+})
+		
 		(function(w, d, s, l, i) {
             w[l] = w[l] || [];
             w[l].push({
