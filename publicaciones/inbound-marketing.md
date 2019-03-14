@@ -14,16 +14,17 @@ Hubspot -por ser la más conocida- es una herramienta que nos permite implementa
 
 Los dos pilares fundamentales en los que se basa esta estrategia son:
 
- - Tipo de usuarios (conocido como buyer persona)
- - Fases del proceso de compra
+ - **Tipo de usuarios** 
+   - Conocido como *[buyer persona]*. Depende de cada negocio
+ - **Fases del proceso de compra**
    -  Descubrimiento: nos está conociendo
-   - Consideración: se plantea el comprar
-   - Decisión
+   - Consideración: se interesa por lo que ofrecemos
+   - Decisión: está dispuesto a comprar
 
 ## Evolución de Inbound Marketing
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjM1Mzk3XX0=
+eyJoaXN0b3J5IjpbLTE1NzQ2MDc4OTNdfQ==
 -->
