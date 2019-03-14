@@ -24,6 +24,7 @@ Los dos pilares fundamentales en los que se basa esta estrategia son:
 
 Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevarán a cabo acciones específicas para avanzar dentro del proceso de compra.
 
+**¿Por qué se consiguen buenos resultados?** actuamos con acciones específicas sobre un segmento de usuarios con un comportamiento común. Esto siempre será más eficiente que apli 
 El hecho de llevar a cabo acciones concretas sobre segmentos de usuarios con un comportamiento común en lugar de una misma acción para todos, es lo que consigue un mejor ratio de conversión; por ello las estrategias de Inbound son importantes dentro del panorama digital actual.
 
 ## Evolución de Inbound Marketing
@@ -31,5 +32,5 @@ El hecho de llevar a cabo acciones concretas sobre segmentos de usuarios con un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzOTYwOTIyXX0=
+eyJoaXN0b3J5IjpbMTQyODA2MDQ1Ml19
 -->
