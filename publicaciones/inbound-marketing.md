@@ -20,15 +20,16 @@ Los dos pilares fundamentales en los que se basa esta estrategia son:
    -  Descubrimiento: nos está conociendo
    - Consideración: se interesa por lo que ofrecemos
    - Decisión: está dispuesto a comprar
+   - Fidelización:
 
 Dependiendo del tipo de persona y de la fase en la que se encuentre se llevarán a cabo acciones específicas para avanzar dentro del proceso de compra o incidir en la conversión.
 
-El hecho de llevar a cabo acciones concretas a segmentos de usuarios con un comportamiento común en lugar de una misma acción para todos es lo que 
+El hecho de llevar a cabo acciones concretas sobre segmentos de usuarios con un comportamiento común en lugar de una misma acción para todos, es lo que consigue un mejor ratio de conversión y hace importantes las estrategias de Inbound dentro del panorama digital actual.
 
 ## Evolución de Inbound Marketing
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY1MDQxMTJdfQ==
+eyJoaXN0b3J5IjpbLTUwODE5MzE1OV19
 -->
