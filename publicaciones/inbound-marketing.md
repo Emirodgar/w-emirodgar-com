@@ -8,13 +8,15 @@ permalink: inbound-marketing
 
 # Inbound Marketing 2019
 
-Comenzaré diciendo algo que para mí es fundamental: **Inbound marketing no es Hubspot**, es una metodología de trabajo cuyo objetivo principal es conseguir conversiones basadas en un análisis del público objetivo y las diferentes fases por las que pasa hasta convertirse en un cliente o contratar un producto.
+Comenzaré diciendo algo que para mí es fundamental: **Inbound marketing no es Hubspot**, es una metodología de trabajo cuyo objetivo principal es conseguir conversiones basadas en un análisis del público objetivo y su situación dentro de las diferentes fases del proceso de compra.
 
 Los dos pilares fundamentales en los que se basa esta estrategia son:
 
  - Tipo de usuarios (conocido como buyer persona)
  - Fases del proceso de compra
 
+## Problemas 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU4MTQ2MjldfQ==
+eyJoaXN0b3J5IjpbMTQ3MDg5MTI5N119
 -->
