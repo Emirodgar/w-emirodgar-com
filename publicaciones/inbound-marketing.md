@@ -16,11 +16,14 @@ Los dos pilares fundamentales en los que se basa esta estrategia son:
 
  - Tipo de usuarios (conocido como buyer persona)
  - Fases del proceso de compra
+   -  Descubrimiento: nos está conociendo
+   - Consideración: se plantea el comprar
+   - Decisión
 
 ## Evolución de Inbound Marketing
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzk0MzU1Nl19
+eyJoaXN0b3J5IjpbMTQzMjM1Mzk3XX0=
 -->
