@@ -30,9 +30,14 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 
 ### 1- Centraliza todo en tu página web
 
-En los últimos años hemos ido trabajando diferentes canales pero por desgracia cada vez recibimos menos tráfico de muchos de ellos. Lógicamente a Facebook, Twitter o Google no les interesa que el usuario venga a nuestra página y prefieren retenerlo. La manera de hacerlo es cargando parte de nuestro contenido en sus plataformas de tal forma que
+En los últimos años hemos ido trabajando diferentes canales pero por desgracia cada vez recibimos menos tráfico de muchos de ellos. Lógicamente a Facebook, Instagram, Youtube, Twitter, LinkedIn, Reddit o Google no les interesa que el usuario venga a nuestra página y prefieren retenerlo. La manera de hacerlo es cargando parte de nuestro contenido en sus plataformas de tal forma que el usuario satisface su búsqueda de información y no abandona el portal.
+
+Esto se puede ver de forma muy sencilla:
+
+ 1. Google: utiliza los datos estructurados, por ejemplo el de preguntas y respuestas
+ 2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE1NDI0MDksMzcyODEwNjQzLC05Mj
+eyJoaXN0b3J5IjpbLTIxMzE3OTc2MzgsMzcyODEwNjQzLC05Mj
 cwMjAwMTBdfQ==
 -->
