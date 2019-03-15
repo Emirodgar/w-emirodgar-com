@@ -43,8 +43,8 @@ Todo esto implica que cada vez generamos menos tráfico de referencia hacia nues
 
 ### 2- Calidad frente a cantidad
 
-Ya no podemos fiarnos de los datos en bruto para nuestras acciones externas. Seguidores, shares,
+Ya no podemos fiarnos de los datos en bruto para nuestras acciones externas. Seguidores, métricales sociales, influencers, etc. todo puede estar distorsionado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzU1OTM4OSwtMjA5NTIwMDYwLDM3Mj
-gxMDY0MywtOTI3MDIwMDEwXX0=
+eyJoaXN0b3J5IjpbLTEzMTM1MTE3NjUsLTIwOTUyMDA2MCwzNz
+I4MTA2NDMsLTkyNzAyMDAxMF19
 -->
