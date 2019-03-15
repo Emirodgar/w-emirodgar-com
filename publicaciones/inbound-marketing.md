@@ -55,12 +55,13 @@ Cada empresa dispone de un punto de partida y recursos diferentes ¿por qué uti
 
 No intentes adaptar tus recursos al planteamiento estándar de trabajo de Inbound Marketing. En lugar de eso, diseña -con la filosofía Inbound- un proceso de trabajo específico para tu negocio basado en los recursos de los que dispones. 
 
-Puntos importantes que debemos tener en cuenta:
+Puntos necesarios que debemos tener en cuenta:
 
- 1. Perfil de enlazado natural y de calidad
- 2. Perfiles sociales donde esté 
+ 1. Perfil de enlazado natural y de calidad: nos ayudará a ser más visibles y mejorar nuestro posicionamiento.
+ 2. Perfiles sociales donde esté nuestro público objetivo: nos ayudará a llegar al público que nos interesa.
+ 3. Análisis de mercado/sector: sabremos dónde estamos situados frente a la competencia y la evolución que sigue.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTQ2MjgxMywtMTg4NzUwNjUzOCwtMj
+eyJoaXN0b3J5IjpbMTQxNzU0MTIzMywtMTg4NzUwNjUzOCwtMj
 A5NTIwMDYwLDM3MjgxMDY0MywtOTI3MDIwMDEwXX0=
 -->
