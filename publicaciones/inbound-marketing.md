@@ -66,7 +66,9 @@ Puntos recomendables a tener en cuenta:
 
 Una vez definido el proceso de trabajo específico para nuestro negocio será el momento de trasladarlo a la metodología Inbound (tipo de usuario y fase del proceso de compra).
 
+### 4- Prioriza las tareas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMD
-k1MjAwNjAsMzcyODEwNjQzLC05MjcwMjAwMTBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDAyNjg4MzcsODg0OTU5NDQxLC0xOD
+g3NTA2NTM4LC0yMDk1MjAwNjAsMzcyODEwNjQzLC05MjcwMjAw
+MTBdfQ==
 -->
