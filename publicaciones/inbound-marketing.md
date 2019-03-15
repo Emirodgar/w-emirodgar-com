@@ -51,10 +51,16 @@ Que no os de miedo tener pocos visitantes o pocos seguidores, si estos son de ca
 
 ### 3- Diseña tu propio proceso de trabajo
 
+Cada empresa dispone de un punto de partida y recursos diferentes ¿por qué utilizar todas el mismo flujo de trabajo?
+
 No intentes adaptar tus recursos al planteamiento estándar de trabajo de Inbound Marketing. En lugar de eso, diseña -con la filosofía Inbound- un proceso de trabajo específico para tu negocio basado en los recursos de los que dispones. 
 
-Cada empresa dispone de un punto de partida diferente
+Puntos importantes que debemos tener en cuenta:
+
+ 1. Perfil de enlazado natural y de calidad
+ 2. Perfiles sociales donde esté 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTk1NjAwNSwtMTg4NzUwNjUzOCwtMj
+eyJoaXN0b3J5IjpbLTQzMTQ2MjgxMywtMTg4NzUwNjUzOCwtMj
 A5NTIwMDYwLDM3MjgxMDY0MywtOTI3MDIwMDEwXX0=
 -->
