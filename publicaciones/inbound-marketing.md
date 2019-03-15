@@ -28,11 +28,13 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 
 ## 5 claves para una estrategia Inbound ganadora
 
-| Clave | Estrategia Inbound Marketing      
+| | Estrategia Inbound Marketing      
 |----------|----------------------------------
 | 1| [Centraliza todo en tu página web](#clave1)                    
 | 2| [Calidad frente a cantidad](#clave2)
-| 3| [Diseña tu propio ](#marzo) 
+| 3| [Diseña tu propio proceso de trabajo](#clave3) 
+| 4| [Trabaja las tareas en orden adecuado](#clave4) 
+| 5| [Utiliza las métricas adecuadas](#clave5) 
 
 ### <a name="clave1"></a>1- Centraliza todo en tu página web
 
@@ -72,7 +74,7 @@ Puntos recomendables a tener en cuenta:
 
 Una vez definido el proceso de trabajo específico para nuestro negocio será el momento de trasladarlo a la metodología Inbound (tipo de usuario y fase del proceso de compra).
 
-### 4- Trabaja las tareas en el orden adecuado
+### <a name="clave4"></a>4- Trabaja las tareas en el orden adecuado
 
 El primer paso debe de ser disponer de una base sólida a nivel de arquitectura web, analítica y SEO; también es muy importante trabajar la marca a nivel de perfiles sociales, Google My Business, logos, colores corporativos, etc. El hecho de disponer de esta base nos ayudará a maximizar los resultados del resto de acciones que vengan después.
 
@@ -80,7 +82,7 @@ Una vez que dispongamos de esta base será el momento de pasar a la captación a
 
 Por último deberemos trabajar la optimización de la conversión (CRO) en base a cada canal, tipo de usuario y fase del proceso de compra en la que se encuentre.
 
-### 5- Utiliza las métricas adecuadas
+### <a name="clave5"></a>5- Utiliza las métricas adecuadas
 
 Cualquier estrategia se puede hundir si no somos capaces de identificar las métricas adecuadas que nos ayuden a entender la evolución y rendimiento que estamos generando.
 
@@ -97,7 +99,7 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzgxNjEwNCwyMDYzODYzMDg1LDE3MD
-QwNjIzMiw1NTUwODgwOTIsODg0OTU5NDQxLC0xODg3NTA2NTM4
-LC0yMDk1MjAwNjAsMzcyODEwNjQzLC05MjcwMjAwMTBdfQ==
+eyJoaXN0b3J5IjpbLTczNDIwNTIxLDIwNjM4NjMwODUsMTcwND
+A2MjMyLDU1NTA4ODA5Miw4ODQ5NTk0NDEsLTE4ODc1MDY1Mzgs
+LTIwOTUyMDA2MCwzNzI4MTA2NDMsLTkyNzAyMDAxMF19
 -->
