@@ -76,9 +76,14 @@ Por último deberemos trabajar la optimización de la conversión (CRO) en base 
 
 ### 5- Utiliza las métricas adecuadas
 
-Cualquier estrategia se puede hundir si no somos capaces de identificar las métricas adecuadas que nos ayuden a entender la evolución y rendimiento
+Cualquier estrategia se puede hundir si no somos capaces de identificar las métricas adecuadas que nos ayuden a entender la evolución y rendimiento que estamos generando.
+
+Mis recomendaciones son las siguientes:
+
+ - Utiliza un CMI (Cuadra de Mando Integral) para medir de forma global
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Nzk3MDU3MCwxNzA0MDYyMzIsNTU1MD
+eyJoaXN0b3J5IjpbMTg4ODA1NjQ1OCwxNzA0MDYyMzIsNTU1MD
 g4MDkyLDg4NDk1OTQ0MSwtMTg4NzUwNjUzOCwtMjA5NTIwMDYw
 LDM3MjgxMDY0MywtOTI3MDIwMDEwXX0=
 -->
