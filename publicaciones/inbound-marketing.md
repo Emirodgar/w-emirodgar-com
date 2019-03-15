@@ -28,11 +28,11 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 
 ## 5 claves para una estrategia Inbound ganadora
 
-| Mes      | Tareas SEO / Estrategia      
+| Clave | Estrategia Inbound Marketing      
 |----------|----------------------------------
-| Enero | [Centraliza todo en tu página web](#clave1) / Creación de template (diseño y programación)                  
-| Febrero | [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
-| Marzo | [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
+| 1| [Centraliza todo en tu página web](#clave1)                    
+| 2| [Calidad frente a cantidad](#clave2)
+| 3| [Diseña tu propio ](#marzo) 
 
 ### <a name="clave1"></a>1- Centraliza todo en tu página web
 
@@ -47,7 +47,7 @@ Ejemplos de cómo controlan el flujo de tráfico:
 
 Todo esto implica que cada vez generamos menos tráfico de referencia hacia nuestra web, por ello, necesitamos controlar bien todas las acciones y asegurarnos que terminan centralizadas en nuestra página.
 
-### 2- Calidad frente a cantidad
+### <a name="clave2"></a>2- Calidad frente a cantidad
 
 Ya no podemos fiarnos de los datos en bruto para nuestras acciones externas. Seguidores, métricales sociales, influencers, etc. todo puede estar altamente distorsionado y los resultados -además del ROI (retorno de la inversión)- se pueden ver afectados.
 
@@ -55,7 +55,7 @@ Debemos disponer de los indicadores adecuados (KPIs) para asegurar que cada acci
 
 Que no os de miedo tener pocos visitantes o pocos seguidores, si estos son de calidad es lo único que cuenta. No debemos ver la cantidad sino la calidad de lo que nos rodea.
 
-### 3- Diseña tu propio proceso de trabajo
+### <a name="clave3"></a>3- Diseña tu propio proceso de trabajo
 
 Cada empresa dispone de un punto de partida y recursos diferentes ¿por qué utilizar todas el mismo flujo de trabajo?
 
@@ -97,7 +97,7 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MjM0Mzg1LDIwNjM4NjMwODUsMTcwND
-A2MjMyLDU1NTA4ODA5Miw4ODQ5NTk0NDEsLTE4ODc1MDY1Mzgs
-LTIwOTUyMDA2MCwzNzI4MTA2NDMsLTkyNzAyMDAxMF19
+eyJoaXN0b3J5IjpbLTk5NzgxNjEwNCwyMDYzODYzMDg1LDE3MD
+QwNjIzMiw1NTUwODgwOTIsODg0OTU5NDQxLC0xODg3NTA2NTM4
+LC0yMDk1MjAwNjAsMzcyODEwNjQzLC05MjcwMjAwMTBdfQ==
 -->
