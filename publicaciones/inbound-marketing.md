@@ -82,7 +82,7 @@ Una vez definido el proceso de trabajo específico para nuestro negocio será el
 
 ### <a name="clave4"></a>4- Trabaja las tareas en el orden adecuado
 
-El primer paso debe de ser disponer de una base sólida a nivel de arquitectura web, analítica y SEO; también es muy importante trabajar la marca a nivel de perfiles sociales, Google My Business, logos, colores corporativos, etc. El hecho de disponer de esta base nos ayudará a maximizar los resultados del resto de acciones que vengan después.
+El primer paso debe de ser disponer de una base sólida a nivel de arquitectura web, analítica y [SEO](/factores-seo); también es muy importante trabajar la marca a nivel de perfiles sociales, Google My Business, logos, colores corporativos, etc. El hecho de disponer de esta base nos ayudará a maximizar los resultados del resto de acciones que vengan después.
 
 Una vez que dispongamos de esta base será el momento de pasar a la captación a través de los canales donde se encuentre nuestro público objetivo.
 
@@ -105,8 +105,8 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDI5ODE3LC0yOTcwMzIyMzAsLTczND
-IwNTIxLDIwNjM4NjMwODUsMTcwNDA2MjMyLDU1NTA4ODA5Miw4
-ODQ5NTk0NDEsLTE4ODc1MDY1MzgsLTIwOTUyMDA2MCwzNzI4MT
-A2NDMsLTkyNzAyMDAxMF19
+eyJoaXN0b3J5IjpbMTM3MTAyMTQ1OCwtMjk3MDMyMjMwLC03Mz
+QyMDUyMSwyMDYzODYzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIs
+ODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyOD
+EwNjQzLC05MjcwMjAwMTBdfQ==
 -->
