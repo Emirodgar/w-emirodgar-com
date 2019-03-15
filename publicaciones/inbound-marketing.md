@@ -8,7 +8,7 @@ permalink: inbound-marketing
 
 # Inbound Marketing 2019
 
-La filosofía y metodología Inbound ha ido evolucionando a lo largo de los años aún así, me gustaría contar 5 consejos que para mí son claves en cualquier estrategia inbound para conseguir unos mejores resultados.
+La filosofía y metodología Inbound ha ido evolucionando a lo largo de los años aún así, me gustaría contar 5 consejos que perduran en el tiempo y que para mí son cruciales en cualquier estrategia digital para conseguir unos mejores resultados.
 
 | | Consejos Inbound Marketing      
 |----------|----------------------------------
@@ -100,8 +100,8 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTExODg1NTAsLTI5NzAzMjIzMCwtNz
-M0MjA1MjEsMjA2Mzg2MzA4NSwxNzA0MDYyMzIsNTU1MDg4MDky
-LDg4NDk1OTQ0MSwtMTg4NzUwNjUzOCwtMjA5NTIwMDYwLDM3Mj
-gxMDY0MywtOTI3MDIwMDEwXX0=
+eyJoaXN0b3J5IjpbMTU3ODUwMjk2MSwtMjk3MDMyMjMwLC03Mz
+QyMDUyMSwyMDYzODYzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIs
+ODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyOD
+EwNjQzLC05MjcwMjAwMTBdfQ==
 -->
