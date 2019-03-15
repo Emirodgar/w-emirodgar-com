@@ -68,13 +68,13 @@ Una vez definido el proceso de trabajo específico para nuestro negocio será el
 
 ### 4- Trabaja las tareas en el orden adecuado
 
-El primer paso debe de ser disponer de una base sólida a nivel de arquitectura web, analítica y SEO; también es muy importante trabajar la marca a nivel de perfiles sociales, Google My Business, logos, colores corporativos, etc. El hecho de disponer de esta base nos ayudará a maximizar los resultados del resto de acciones que vendrán después.
+El primer paso debe de ser disponer de una base sólida a nivel de arquitectura web, analítica y SEO; también es muy importante trabajar la marca a nivel de perfiles sociales, Google My Business, logos, colores corporativos, etc. El hecho de disponer de esta base nos ayudará a maximizar los resultados del resto de acciones que vengan después.
 
 Una vez que dispongamos de esta base será el momento de pasar a la captación a través de los canales donde se encuentre nuestro público objetivo.
 
-El último paso será la optimización de la conversión (CRO) en base a cada canal y tipo de usuario.
+Por último deberemos trabajar la optimización de la conversión (CRO) en base a cada canal, tipo de usuario y fase del proceso de compra en la que se encuentre.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDA2MjMyLDU1NTA4ODA5Miw4ODQ5NT
-k0NDEsLTE4ODc1MDY1MzgsLTIwOTUyMDA2MCwzNzI4MTA2NDMs
-LTkyNzAyMDAxMF19
+eyJoaXN0b3J5IjpbNzAwMDQ4NzAwLDE3MDQwNjIzMiw1NTUwOD
+gwOTIsODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAs
+MzcyODEwNjQzLC05MjcwMjAwMTBdfQ==
 -->
