@@ -8,7 +8,7 @@ permalink: inbound-marketing
 
 # Inbound Marketing 2019
 
-La filosofía y metodología Inbound ha ido evolucionando a lo largo de los años aún así, me gustaría contar 5 consejos que perduran en el tiempo y que para mí son cruciales en cualquier estrategia digital para conseguir unos mejores resultados.
+La filosofía y metodología Inbound ha ido evolucionando a lo largo de los años aún así, me gustaría compartir **5 consejos que perduran en el tiempo** y que para mí son cruciales en cualquier estrategia digital.
 
 | | Consejos Inbound Marketing      
 |----------|----------------------------------
@@ -18,7 +18,7 @@ La filosofía y metodología Inbound ha ido evolucionando a lo largo de los año
 | 4| [Trabaja las tareas en orden adecuado](#clave4) 
 | 5| [Utiliza las métricas adecuadas](#clave5) 
 
-Comenzaré diciendo algo que para mí es fundamental: **Inbound marketing no es Hubspot**, es una metodología de trabajo cuyo objetivo principal es conseguir conversiones basadas en un análisis del público objetivo y su situación dentro de las diferentes fases del proceso de compra.
+A modo de introducción me gustaría aclarar algo que para mí es fundamental: **Inbound marketing no es Hubspot**; es una metodología de trabajo cuyo objetivo principal busca conseguir conversiones basadas en acciones concretas a un público objetivo y su situación dentro de las diferentes fases del proceso de compra.
 
 Hubspot -por ser la más conocida- es una herramienta que nos permite implementar este tipo de metodología y sus acciones asociadas.
 
@@ -100,8 +100,8 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODUwMjk2MSwtMjk3MDMyMjMwLC03Mz
-QyMDUyMSwyMDYzODYzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIs
-ODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyOD
-EwNjQzLC05MjcwMjAwMTBdfQ==
+eyJoaXN0b3J5IjpbNjk5NjM3MTU3LC0yOTcwMzIyMzAsLTczND
+IwNTIxLDIwNjM4NjMwODUsMTcwNDA2MjMyLDU1NTA4ODA5Miw4
+ODQ5NTk0NDEsLTE4ODc1MDY1MzgsLTIwOTUyMDA2MCwzNzI4MT
+A2NDMsLTkyNzAyMDAxMF19
 -->
