@@ -68,11 +68,11 @@ Una vez definido el proceso de trabajo específico para nuestro negocio será el
 
 ### 4- Trabaja las tareas en el orden adecuado
 
-El primer paso debe de ser disponer de una base sólida a nivel de arquitectura web, analítica y SEO; también es muy importante trabajar la marca a nivel de perfiles sociales, Google My Business, logos, colores corporativos, etc. El hecho de disponer de esta base nos ayudará a maximizar los resultados del resto de acciones que vengan espués.
+El primer paso debe de ser disponer de una base sólida a nivel de arquitectura web, analítica y SEO; también es muy importante trabajar la marca a nivel de perfiles sociales, Google My Business, logos, colores corporativos, etc. El hecho de disponer de esta base nos ayudará a maximizar los resultados del resto de acciones que vendrán después.
 
-Una vez que dispongamos de esta base será el momento de pasar a otros canales como
+Una vez que dispongamos de esta base será el momento de pasar a los canales donde se encuentre nuestro público objetivo que generen captación para 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA3MjQ1NDEsODg0OTU5NDQxLC0xOD
-g3NTA2NTM4LC0yMDk1MjAwNjAsMzcyODEwNjQzLC05MjcwMjAw
-MTBdfQ==
+eyJoaXN0b3J5IjpbNTU1MDg4MDkyLDg4NDk1OTQ0MSwtMTg4Nz
+UwNjUzOCwtMjA5NTIwMDYwLDM3MjgxMDY0MywtOTI3MDIwMDEw
+XX0=
 -->
