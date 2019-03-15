@@ -24,12 +24,12 @@ Los dos pilares fundamentales en los que se basa esta estrategia son:
 
 Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevarán a cabo acciones específicas para avanzar dentro del proceso de compra.
 
-**¿Por qué se consiguen buenos resultados?** actuamos sobre un segmento de usuarios -con un comportamiento común- con acciones específicas para ellos. Esto siempre será más eficiente que aplicar acciones genéricas sobre todos nuestros visitantes.
+**¿Por qué se consiguen buenos resultados?** actuamos sobre un segmento de usuarios -con un comportamiento común- a través de acciones específicas para ellos. Esto siempre será más eficiente que aplicar acciones genéricas sobre todos nuestros visitantes.
 
 ## Evolución de Inbound Marketing
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzAyMDAxMF19
+eyJoaXN0b3J5IjpbMzcyODEwNjQzLC05MjcwMjAwMTBdfQ==
 -->
