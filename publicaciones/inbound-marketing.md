@@ -51,7 +51,7 @@ Ejemplos de cómo controlan el flujo de tráfico:
  3. **Instagram**: no permite enlaces externos.
  5. **Youtube**: acorta las descripciones para evitar mostrar enlaces.
 
-Todo esto implica que cada vez generamos menos tráfico de referencia hacia nuestra web, por ello, necesitamos controlar bien todas las acciones y asegurarnos que terminan centralizadas en nuestra página. Si no, perderemos el control.
+Todo esto implica que cada vez generamos menos tráfico de referencia hacia nuestra web, por ello, necesitamos controlar bien todas las acciones y asegurarnos que terminan centralizadas en nuestra página. Si no, perderemos el control de nuestro tráfico.
 
 ### <a name="clave2"></a>2- Calidad frente a cantidad
 
@@ -103,7 +103,7 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDU2OTgzNCwtMjk3MDMyMjMwLC03Mz
+eyJoaXN0b3J5IjpbMTY4MzYwNzU4MSwtMjk3MDMyMjMwLC03Mz
 QyMDUyMSwyMDYzODYzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIs
 ODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyOD
 EwNjQzLC05MjcwMjAwMTBdfQ==
