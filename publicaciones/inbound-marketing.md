@@ -28,6 +28,12 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 
 ## 5 claves para una estrategia Inbound ganadora
 
+| Mes      | Tareas SEO / Estrategia      
+|----------|----------------------------------
+| Enero | [Centraliza todo en tu página web](#clave1) / Creación de template (diseño y programación)                  
+| Febrero | [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
+| Marzo | [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
+
 ### <a name="clave1"></a>1- Centraliza todo en tu página web
 
 En los últimos años hemos ido trabajando diferentes canales pero por desgracia cada vez recibimos menos tráfico de muchos de ellos. Lógicamente a Facebook, Instagram, Youtube, Twitter, LinkedIn o Google (los que consumen gran parte del tráfico mundial) no les interesa que el usuario venga a nuestra página y prefieren retenerlo. La manera de hacerlo es cargando parte de nuestro contenido en sus plataformas de tal forma que el usuario satisface su búsqueda de información y no abandona el portal.
@@ -91,7 +97,7 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Mzg2MzA4NSwxNzA0MDYyMzIsNTU1MD
-g4MDkyLDg4NDk1OTQ0MSwtMTg4NzUwNjUzOCwtMjA5NTIwMDYw
-LDM3MjgxMDY0MywtOTI3MDIwMDEwXX0=
+eyJoaXN0b3J5IjpbNTg5MjM0Mzg1LDIwNjM4NjMwODUsMTcwND
+A2MjMyLDU1NTA4ODA5Miw4ODQ5NTk0NDEsLTE4ODc1MDY1Mzgs
+LTIwOTUyMDA2MCwzNzI4MTA2NDMsLTkyNzAyMDAxMF19
 -->
