@@ -51,8 +51,10 @@ Que no os de miedo tener pocos visitantes o pocos seguidores, si estos son de ca
 
 ### 3- Diseña tu propio proceso de trabajo
 
-No intentes adaptar tus recursos al planteamiento estándar de trabajo de Inbound Marketing. En lugar de eso, diseña con la folisofía Inbound un proceso de trabajo específico para tu negocio basado en los recursos de los que dispone
+No intentes adaptar tus recursos al planteamiento estándar de trabajo de Inbound Marketing. En lugar de eso, diseña -con la filosofía Inbound- un proceso de trabajo específico para tu negocio basado en los recursos de los que dispones. 
+
+Cada empresa dispone de un punto de partida diferente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3OTQ2OTcyLC0xODg3NTA2NTM4LC0yMD
-k1MjAwNjAsMzcyODEwNjQzLC05MjcwMjAwMTBdfQ==
+eyJoaXN0b3J5IjpbMTMxMTk1NjAwNSwtMTg4NzUwNjUzOCwtMj
+A5NTIwMDYwLDM3MjgxMDY0MywtOTI3MDIwMDEwXX0=
 -->
