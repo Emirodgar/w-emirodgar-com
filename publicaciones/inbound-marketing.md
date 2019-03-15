@@ -40,16 +40,18 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 
 ### <a name="clave1"></a>1- Centraliza todo en tu página web
 
-En los últimos años hemos ido trabajando diferentes canales pero por desgracia cada vez recibimos menos tráfico de muchos de ellos. Lógicamente a Facebook, Instagram, Youtube, Twitter, LinkedIn o Google (los que consumen gran parte del tráfico mundial) no les interesa que el usuario venga a nuestra página por lo que derivan esfuerzos para retenerlo. La manera de hacerlo es cargando parte de nuestro contenido en sus plataformas de tal forma que el usuario satisface su búsqueda de información y no abandona el portal.
+En los últimos años hemos ido trabajando diferentes canales pero por desgracia cada vez recibimos menos tráfico de muchos de ellos. Lógicamente a Facebook, Instagram, Youtube, Twitter, LinkedIn o Google (los que consumen gran parte del tráfico mundial) no les interesa que el usuario venga a nuestra página por lo que derivan esfuerzos para retenerlo. 
+
+>Los grandes portales cargan parte de nuestro contenido en sus plataformas de tal forma que el usuario satisface su búsqueda de información y no abandona la página.
 
 Ejemplos de cómo controlan el flujo de tráfico:
 
- 1. **Google**: utiliza los datos estructurados, por ejemplo el de empresas (My Business), trabajos, hoteles, vuelos o preguntas y respuestas para mostrar información en la misma búsqueda. 
- 2. **Facebook** y **Twitter**: cargan y muestran más contenido dentro de sus portales para evitar la fuga de usuarios.
+ 1. **Google**: utiliza los datos estructurados como el de empresas, trabajos, hoteles, vuelos o preguntas y respuestas para mostrar información en la misma búsqueda. 
+ 2. **Facebook** y **Twitter**: cargan y muestran más contenido dentro de su página para evitar la fuga de usuarios.
  3. **Instagram**: no permite enlaces externos.
  5. **Youtube**: acorta las descripciones para evitar mostrar enlaces.
 
-Todo esto implica que cada vez generamos menos tráfico de referencia hacia nuestra web, por ello, necesitamos controlar bien todas las acciones y asegurarnos que terminan centralizadas en nuestra página.
+Todo esto implica que cada vez generamos menos tráfico de referencia hacia nuestra web, por ello, necesitamos controlar bien todas las acciones y asegurarnos que terminan centralizadas en nuestra página. Si no, perderemos el control.
 
 ### <a name="clave2"></a>2- Calidad frente a cantidad
 
@@ -101,8 +103,8 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTExNjg4MzUsLTI5NzAzMjIzMCwtNz
-M0MjA1MjEsMjA2Mzg2MzA4NSwxNzA0MDYyMzIsNTU1MDg4MDky
-LDg4NDk1OTQ0MSwtMTg4NzUwNjUzOCwtMjA5NTIwMDYwLDM3Mj
-gxMDY0MywtOTI3MDIwMDEwXX0=
+eyJoaXN0b3J5IjpbMTc5MDU2OTgzNCwtMjk3MDMyMjMwLC03Mz
+QyMDUyMSwyMDYzODYzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIs
+ODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyOD
+EwNjQzLC05MjcwMjAwMTBdfQ==
 -->
