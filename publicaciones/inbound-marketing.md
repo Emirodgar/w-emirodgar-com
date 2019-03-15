@@ -10,7 +10,7 @@ permalink: inbound-marketing
 
 La filosofía y metodología Inbound ha ido evolucionando a lo largo de los años
 
-| | Estrategia Inbound Marketing      
+| | Consejos Inbound Marketing      
 |----------|----------------------------------
 | 1| [Centraliza todo en tu página web](#clave1)                    
 | 2| [Calidad frente a cantidad](#clave2)
@@ -100,8 +100,8 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NTA5MzA1LC03MzQyMDUyMSwyMDYzOD
-YzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIsODg0OTU5NDQxLC0x
-ODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyODEwNjQzLC05MjcwMj
-AwMTBdfQ==
+eyJoaXN0b3J5IjpbLTI5NzAzMjIzMCwtNzM0MjA1MjEsMjA2Mz
+g2MzA4NSwxNzA0MDYyMzIsNTU1MDg4MDkyLDg4NDk1OTQ0MSwt
+MTg4NzUwNjUzOCwtMjA5NTIwMDYwLDM3MjgxMDY0MywtOTI3MD
+IwMDEwXX0=
 -->
