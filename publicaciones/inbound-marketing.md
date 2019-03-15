@@ -61,10 +61,12 @@ Puntos recomendables a tener en cuenta:
  2. Identificar dónde está nuestro público objetivo: nos ayudará captar tráfico de calidad orientado a la conversión.
  3. Análisis de mercado/sector: sabremos dónde estamos situados frente a la competencia y la evolución que sigue el mercado.
  4. Identificar canales óptimos: debemos apostar por aquellos que generan tráfico de calidad y estén asociados a la conversión. Esfuerzo extra donde no esté nuestra competencia.
+ 
+ > Es más rápido convertir el tráfico existente que captar nuevo. Eso debería de ser una prioridad para cualquier estrategia.
 
 Una vez definido el proceso de trabajo específico para nuestro negocio será el momento de trasladarlo a la metodología Inbound (tipo de usuario y fase del proceso de compra).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc1MzM2MzYsLTE4ODc1MDY1MzgsLT
-IwOTUyMDA2MCwzNzI4MTA2NDMsLTkyNzAyMDAxMF19
+eyJoaXN0b3J5IjpbODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMD
+k1MjAwNjAsMzcyODEwNjQzLC05MjcwMjAwMTBdfQ==
 -->
