@@ -55,14 +55,16 @@ Cada empresa dispone de un punto de partida y recursos diferentes ¿por qué uti
 
 No intentes adaptar tus recursos al planteamiento estándar de trabajo de Inbound Marketing. En lugar de eso, diseña -con la filosofía Inbound- un proceso de trabajo específico para tu negocio basado en los recursos de los que dispones. 
 
-Puntos necesarios que debemos tener en cuenta:
+Puntos recomendables a tener en cuenta:
 
  1. Perfil de enlazado natural y de calidad: nos ayudará a ser más visibles y mejorar nuestro posicionamiento.
  2. Perfiles sociales donde esté nuestro público objetivo: nos ayudará a llegar al público que nos interesa.
  3. Análisis de mercado/sector: sabremos dónde estamos situados frente a la competencia y la evolución que sigue.
- 4. Identificar canales óptimos: debemos apostar por aquellos que generan tráfico de calidad 
+ 4. Identificar canales óptimos: debemos apostar por aquellos que generan tráfico de calidad y estén asociados a la conversión.
+
+Este proceso de trabajo será el que traslademos a la metodología Inbound
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI0OTAwNjUsLTE4ODc1MDY1MzgsLT
+eyJoaXN0b3J5IjpbLTIxMzAzMTM4MDcsLTE4ODc1MDY1MzgsLT
 IwOTUyMDA2MCwzNzI4MTA2NDMsLTkyNzAyMDAxMF19
 -->
