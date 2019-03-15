@@ -8,7 +8,7 @@ permalink: inbound-marketing
 
 # Inbound Marketing 2019
 
-La filosofía y metodología Inbound ha ido evolucionando a lo largo de los años
+La filosofía y metodología Inbound ha ido evolucionando a lo largo de los años aún así, me gustaría contar 5 consejos que para mí son claves en cualquier estrategia inbound para conseguir unos mejores resultados.
 
 | | Consejos Inbound Marketing      
 |----------|----------------------------------
@@ -35,7 +35,7 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 
 **¿Por qué se consiguen buenos resultados?** actuamos sobre un segmento de usuarios -con un comportamiento común- a través de acciones específicas para ellos. Esto siempre será más eficiente que aplicar acciones genéricas sobre todos nuestros visitantes.
 
-## 5 claves para una estrategia Inbound ganadora
+## 5 consejos para una estrategia Inbound ganadora
 
 ### <a name="clave1"></a>1- Centraliza todo en tu página web
 
@@ -100,8 +100,8 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzAzMjIzMCwtNzM0MjA1MjEsMjA2Mz
-g2MzA4NSwxNzA0MDYyMzIsNTU1MDg4MDkyLDg4NDk1OTQ0MSwt
-MTg4NzUwNjUzOCwtMjA5NTIwMDYwLDM3MjgxMDY0MywtOTI3MD
-IwMDEwXX0=
+eyJoaXN0b3J5IjpbLTE3OTExODg1NTAsLTI5NzAzMjIzMCwtNz
+M0MjA1MjEsMjA2Mzg2MzA4NSwxNzA0MDYyMzIsNTU1MDg4MDky
+LDg4NDk1OTQ0MSwtMTg4NzUwNjUzOCwtMjA5NTIwMDYwLDM3Mj
+gxMDY0MywtOTI3MDIwMDEwXX0=
 -->
