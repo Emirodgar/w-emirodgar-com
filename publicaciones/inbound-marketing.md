@@ -82,14 +82,14 @@ Mis recomendaciones son las siguientes:
 
  - Utiliza un CMI (Cuadro de Mando Integral) para medir la evolución de las métricas globales de la estrategia. 
    - Si tenemos un objetivo estratégico, debe estar incluido. 
-   - Aquí debemos registrar todas las acciones y los recursos que han implicado
-   - Debemos monitorizar todos los canales
-   - Son importantes los análisis MoM y YoY (comparando con el mes y año anterior)
+   - Debemos monitorizar todos los canales (sabremos cómo evolucionamos de forma global y no sólo lo que estamos trabajando).
+   - Son importantes los análisis MoM y YoY (comparando con el mes y año anterior).
+   -  Debemos registrar todas las acciones y los recursos que han implicado, así tendremos control sobre el ROI.
  - Utiliza micro objetivos para medir el rendimiento de cada fase del proceso de trabajo.
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyNDE4OTI3LDE3MDQwNjIzMiw1NTUwOD
-gwOTIsODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAs
-MzcyODEwNjQzLC05MjcwMjAwMTBdfQ==
+eyJoaXN0b3J5IjpbLTEwMDIzNzg2NzMsMTcwNDA2MjMyLDU1NT
+A4ODA5Miw4ODQ5NTk0NDEsLTE4ODc1MDY1MzgsLTIwOTUyMDA2
+MCwzNzI4MTA2NDMsLTkyNzAyMDAxMF19
 -->
