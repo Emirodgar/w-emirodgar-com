@@ -1,6 +1,6 @@
 ---
 title: Inbound Marketing 2019
-description: Las estrategias de Inbound Marketing han ido evolucionando durante los últimos años. Aprende a sacar el máximo rendimiento
+description: Las estrategias de Inbound Marketing han ido evolucionando durante los últimos años. Aprende a sacar el máximo rendimiento con estos consejos
 lang: es_ES
 permalink: inbound-marketing
 
@@ -8,13 +8,15 @@ permalink: inbound-marketing
 
 # Inbound Marketing 2019
 
- Estrategia Inbound Marketing      
-----------|----------------------------------
- [Centraliza todo en tu página web](#clave1)                    
- [Calidad frente a cantidad](#clave2)
- [Diseña tu propio proceso de trabajo](#clave3) 
- [Trabaja las tareas en orden adecuado](#clave4) 
- [Utiliza las métricas adecuadas](#clave5) 
+La filosofía y metodología Inbound ha ido evolucionando a lo largo de los años
+
+| | Estrategia Inbound Marketing      
+|----------|----------------------------------
+| 1| [Centraliza todo en tu página web](#clave1)                    
+| 2| [Calidad frente a cantidad](#clave2)
+| 3| [Diseña tu propio proceso de trabajo](#clave3) 
+| 4| [Trabaja las tareas en orden adecuado](#clave4) 
+| 5| [Utiliza las métricas adecuadas](#clave5) 
 
 Comenzaré diciendo algo que para mí es fundamental: **Inbound marketing no es Hubspot**, es una metodología de trabajo cuyo objetivo principal es conseguir conversiones basadas en un análisis del público objetivo y su situación dentro de las diferentes fases del proceso de compra.
 
@@ -98,7 +100,7 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NjAxODQ2LC03MzQyMDUyMSwyMDYzOD
+eyJoaXN0b3J5IjpbNDg4NTA5MzA1LC03MzQyMDUyMSwyMDYzOD
 YzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIsODg0OTU5NDQxLC0x
 ODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyODEwNjQzLC05MjcwMj
 AwMTBdfQ==
