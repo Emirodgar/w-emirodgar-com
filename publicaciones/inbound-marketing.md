@@ -73,8 +73,12 @@ El primer paso debe de ser disponer de una base sólida a nivel de arquitectura 
 Una vez que dispongamos de esta base será el momento de pasar a la captación a través de los canales donde se encuentre nuestro público objetivo.
 
 Por último deberemos trabajar la optimización de la conversión (CRO) en base a cada canal, tipo de usuario y fase del proceso de compra en la que se encuentre.
+
+### 5- Utiliza las métricas adecuadas
+
+Cualquier estrategia se puede hundir si no somos capaces de identificar las métricas adecuadas que nos ayuden a entender la evolución y rendimiento
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMDQ4NzAwLDE3MDQwNjIzMiw1NTUwOD
-gwOTIsODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAs
-MzcyODEwNjQzLC05MjcwMjAwMTBdfQ==
+eyJoaXN0b3J5IjpbMjA0Nzk3MDU3MCwxNzA0MDYyMzIsNTU1MD
+g4MDkyLDg4NDk1OTQ0MSwtMTg4NzUwNjUzOCwtMjA5NTIwMDYw
+LDM3MjgxMDY0MywtOTI3MDIwMDEwXX0=
 -->
