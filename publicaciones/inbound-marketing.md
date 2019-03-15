@@ -57,13 +57,15 @@ Todo esto implica que cada vez generamos menos tráfico de referencia hacia nues
 
 Ya no podemos fiarnos de los datos en bruto para nuestras acciones externas. Seguidores, métricales sociales, influencers, etc. todo puede estar altamente distorsionado y los resultados -además del ROI (retorno de la inversión)- se pueden ver afectados.
 
-Debemos disponer de los indicadores adecuados (KPIs) para asegurar que cada acción que llevamos a cabo generará un retorno positivo. De no ser así, deberemos buscar otros canales donde encontrar crecimiento en tráfico y conversiones que justifiquen la inversión realizada.
+>Debemos disponer de los indicadores adecuados (KPIs) para asegurar que cada acción que llevamos a cabo generará un retorno positivo. 
+
+De no ser así, deberemos buscar otros canales donde encontrar crecimiento en tráfico y conversiones que justifiquen la inversión realizada.
 
 Que no os de miedo tener pocos visitantes o pocos seguidores, si estos son de calidad es lo único que cuenta. No debemos ver la cantidad sino la calidad de lo que nos rodea.
 
 ### <a name="clave3"></a>3- Diseña tu propio proceso de trabajo
 
-Cada empresa dispone de un punto de partida y recursos diferentes ¿por qué utilizar todas el mismo flujo de trabajo?
+Cada empresa dispone de un punto de partida y recursos diferentes **¿por qué utilizar todas el mismo flujo de trabajo?**
 
 No intentes adaptar tus recursos al planteamiento estándar de trabajo de Inbound Marketing. En lugar de eso, diseña -con la filosofía Inbound- un proceso de trabajo específico para tu negocio basado en los recursos de los que dispones. 
 
@@ -103,8 +105,8 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzM3ODUyNSwtMjk3MDMyMjMwLC03Mz
-QyMDUyMSwyMDYzODYzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIs
-ODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyOD
-EwNjQzLC05MjcwMjAwMTBdfQ==
+eyJoaXN0b3J5IjpbMjAxNDI5ODE3LC0yOTcwMzIyMzAsLTczND
+IwNTIxLDIwNjM4NjMwODUsMTcwNDA2MjMyLDU1NTA4ODA5Miw4
+ODQ5NTk0NDEsLTE4ODc1MDY1MzgsLTIwOTUyMDA2MCwzNzI4MT
+A2NDMsLTkyNzAyMDAxMF19
 -->
