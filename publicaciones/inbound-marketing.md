@@ -86,12 +86,12 @@ Mis recomendaciones son las siguientes:
    - Son importantes los análisis MoM y YoY (comparando con el mes y año anterior).
    -  Debemos registrar todas las acciones y los recursos que han implicado, así tendremos control sobre el ROI.
  - Utiliza micro objetivos para medir el rendimiento de cada fase del proceso de trabajo.
-	 - Debemos separar marca de no marca.
-	 - Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones.
-	 - 
+	 - Debemos separar los análisis por marca y no marca.
+	 - Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
+	 - Cada acción dentro de las diferentes fases debe tener un objetivo específico (tráfico, descarga PDF, formulario, seguir perfil social, compartir publicación, etc).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTUwOTM5MiwxNzA0MDYyMzIsNTU1MD
+eyJoaXN0b3J5IjpbLTc0NjI2MjU2MiwxNzA0MDYyMzIsNTU1MD
 g4MDkyLDg4NDk1OTQ0MSwtMTg4NzUwNjUzOCwtMjA5NTIwMDYw
 LDM3MjgxMDY0MywtOTI3MDIwMDEwXX0=
 -->
