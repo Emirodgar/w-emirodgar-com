@@ -32,17 +32,16 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 
 En los últimos años hemos ido trabajando diferentes canales pero por desgracia cada vez recibimos menos tráfico de muchos de ellos. Lógicamente a Facebook, Instagram, Youtube, Twitter, LinkedIn o Google (los que consumen gran parte del tráfico mundial) no les interesa que el usuario venga a nuestra página y prefieren retenerlo. La manera de hacerlo es cargando parte de nuestro contenido en sus plataformas de tal forma que el usuario satisface su búsqueda de información y no abandona el portal.
 
-Esto se puede ver de forma muy sencilla:
+Ejemplos de cómo controlan el flujo de tráfico:
 
  1. Google: utiliza los datos estructurados, por ejemplo el de preguntas y respuestas
- 2. Facebook: puedes ver contenido, imágen e incluso vídeo desde su página además de compartirlo de forma sencilla
+ 2. Facebook y Twitter: cargan y muestran más contenido dentro de sus portales para evitar la fuga de usuarios
  3. Instagram: no permite enlaces externos
- 4. Twitter: cargan y muestran más contenido dentro de su portal
  5. Youtube: acorta las descripciones para evitar mostrar enlaces
 
-Para e
+Para evitar esta fuga de información debemos ser cuidadosos con las acciones que llevamos a cabo en estos portales y asegurarnos de que todo lo importante queda centralizado
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ1MzM3NzQsMzcyODEwNjQzLC05Mj
-cwMjAwMTBdfQ==
+eyJoaXN0b3J5IjpbLTIwOTUyMDA2MCwzNzI4MTA2NDMsLTkyNz
+AyMDAxMF19
 -->
