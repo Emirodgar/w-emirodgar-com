@@ -18,7 +18,7 @@ La filosofía y metodología Inbound ha ido evolucionando a lo largo de los año
 | 4| [Trabaja las tareas en orden adecuado](#clave4) 
 | 5| [Utiliza las métricas adecuadas](#clave5) 
 
-A modo de introducción me gustaría aclarar algo que para mí es fundamental: **Inbound marketing no es Hubspot**; es una metodología de trabajo cuyo objetivo principal busca conseguir conversiones basadas en acciones concretas a un público objetivo y su situación dentro de las diferentes fases del proceso de compra.
+A modo de introducción me gustaría aclarar algo que para mí es fundamental: **Inbound marketing no es Hubspot**; es una metodología de trabajo cuyo objetivo principal busca conseguir conversiones a través de acciones concretas sobre un público objetivo y su situación dentro de las diferentes fases del proceso de compra.
 
 Hubspot -por ser la más conocida- es una herramienta que nos permite implementar este tipo de metodología y sus acciones asociadas.
 
@@ -31,6 +31,7 @@ Los dos pilares fundamentales en los que se basa esta estrategia son:
    - Consideración: se interesa por lo que ofrecemos
    - Decisión: está dispuesto a comprar
    - Fidelización: ha comprado y está dispuesto a repetir
+
 Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevarán a cabo acciones específicas para avanzar dentro del proceso de compra.
 
 **¿Por qué se consiguen buenos resultados?** actuamos sobre un segmento de usuarios -con un comportamiento común- a través de acciones específicas para ellos. Esto siempre será más eficiente que aplicar acciones genéricas sobre todos nuestros visitantes.
@@ -39,7 +40,7 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 
 ### <a name="clave1"></a>1- Centraliza todo en tu página web
 
-En los últimos años hemos ido trabajando diferentes canales pero por desgracia cada vez recibimos menos tráfico de muchos de ellos. Lógicamente a Facebook, Instagram, Youtube, Twitter, LinkedIn o Google (los que consumen gran parte del tráfico mundial) no les interesa que el usuario venga a nuestra página y prefieren retenerlo. La manera de hacerlo es cargando parte de nuestro contenido en sus plataformas de tal forma que el usuario satisface su búsqueda de información y no abandona el portal.
+En los últimos años hemos ido trabajando diferentes canales pero por desgracia cada vez recibimos menos tráfico de muchos de ellos. Lógicamente a Facebook, Instagram, Youtube, Twitter, LinkedIn o Google (los que consumen gran parte del tráfico mundial) no les interesa que el usuario venga a nuestra página por lo que derivan esfuerzos para retenerlo. La manera de hacerlo es cargando parte de nuestro contenido en sus plataformas de tal forma que el usuario satisface su búsqueda de información y no abandona el portal.
 
 Ejemplos de cómo controlan el flujo de tráfico:
 
@@ -100,8 +101,8 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5NjM3MTU3LC0yOTcwMzIyMzAsLTczND
-IwNTIxLDIwNjM4NjMwODUsMTcwNDA2MjMyLDU1NTA4ODA5Miw4
-ODQ5NTk0NDEsLTE4ODc1MDY1MzgsLTIwOTUyMDA2MCwzNzI4MT
-A2NDMsLTkyNzAyMDAxMF19
+eyJoaXN0b3J5IjpbLTE2NTExNjg4MzUsLTI5NzAzMjIzMCwtNz
+M0MjA1MjEsMjA2Mzg2MzA4NSwxNzA0MDYyMzIsNTU1MDg4MDky
+LDg4NDk1OTQ0MSwtMTg4NzUwNjUzOCwtMjA5NTIwMDYwLDM3Mj
+gxMDY0MywtOTI3MDIwMDEwXX0=
 -->
