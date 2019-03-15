@@ -28,8 +28,11 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 
 ## Evolución de Inbound Marketing
 
+### 1- Centraliza todo en tu página web
 
+En los últimos años hemos ido trabajando diferentes canales pero por desgracia cada vez recibimos menos tráfico de algunos de ellos. Lógicamente a Facebook, Twitter o Google no les interesa que el usuario venga a nuestra página y prefieren  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyODEwNjQzLC05MjcwMjAwMTBdfQ==
+eyJoaXN0b3J5IjpbMTE5Njc3OTk1NiwzNzI4MTA2NDMsLTkyNz
+AyMDAxMF19
 -->
