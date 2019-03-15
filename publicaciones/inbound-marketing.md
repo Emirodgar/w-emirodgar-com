@@ -94,19 +94,19 @@ Cualquier estrategia se puede hundir si no somos capaces de identificar las mét
 
 Mis recomendaciones son las siguientes:
 
- - Utiliza un CMI (Cuadro de Mando Integral) para medir la evolución de las métricas globales de la estrategia. 
+ - Utiliza un CMI (**Cuadro de Mando Integral**) para medir la evolución de las métricas globales de la estrategia. 
    - Si tenemos un objetivo estratégico, debe estar incluido. 
    - Debemos monitorizar todos los canales (sabremos cómo evolucionamos de forma global y no sólo lo que estamos trabajando).
    - Son importantes los análisis MoM y YoY (comparando con el mes y año anterior).
    -  Debemos registrar todas las acciones y los recursos que han implicado, así tendremos control sobre el ROI.
- - Utiliza micro objetivos para medir el rendimiento de cada fase del proceso de trabajo.
+ - Utiliza **micro objetivos** para medir el rendimiento de cada fase del proceso de trabajo.
 	 - Debemos separar los análisis por marca y no marca.
 	 - Cada acción dentro de las diferentes fases debe tener un objetivo específico (tráfico, descarga PDF, formulario, seguir perfil social, compartir publicación, etc).
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTAyMTQ1OCwtMjk3MDMyMjMwLC03Mz
-QyMDUyMSwyMDYzODYzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIs
-ODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyOD
-EwNjQzLC05MjcwMjAwMTBdfQ==
+eyJoaXN0b3J5IjpbODI5NTgyMjkwLC0yOTcwMzIyMzAsLTczND
+IwNTIxLDIwNjM4NjMwODUsMTcwNDA2MjMyLDU1NTA4ODA5Miw4
+ODQ5NTk0NDEsLTE4ODc1MDY1MzgsLTIwOTUyMDA2MCwzNzI4MT
+A2NDMsLTkyNzAyMDAxMF19
 -->
