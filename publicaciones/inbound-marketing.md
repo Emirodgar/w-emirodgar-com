@@ -8,6 +8,14 @@ permalink: inbound-marketing
 
 # Inbound Marketing 2019
 
+ Estrategia Inbound Marketing      
+----------|----------------------------------
+ [Centraliza todo en tu página web](#clave1)                    
+ [Calidad frente a cantidad](#clave2)
+ [Diseña tu propio proceso de trabajo](#clave3) 
+ [Trabaja las tareas en orden adecuado](#clave4) 
+ [Utiliza las métricas adecuadas](#clave5) 
+
 Comenzaré diciendo algo que para mí es fundamental: **Inbound marketing no es Hubspot**, es una metodología de trabajo cuyo objetivo principal es conseguir conversiones basadas en un análisis del público objetivo y su situación dentro de las diferentes fases del proceso de compra.
 
 Hubspot -por ser la más conocida- es una herramienta que nos permite implementar este tipo de metodología y sus acciones asociadas.
@@ -26,14 +34,6 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 **¿Por qué se consiguen buenos resultados?** actuamos sobre un segmento de usuarios -con un comportamiento común- a través de acciones específicas para ellos. Esto siempre será más eficiente que aplicar acciones genéricas sobre todos nuestros visitantes.
 
 ## 5 claves para una estrategia Inbound ganadora
-
-| | Estrategia Inbound Marketing      
-|----------|----------------------------------
-| 1| [Centraliza todo en tu página web](#clave1)                    
-| 2| [Calidad frente a cantidad](#clave2)
-| 3| [Diseña tu propio proceso de trabajo](#clave3) 
-| 4| [Trabaja las tareas en orden adecuado](#clave4) 
-| 5| [Utiliza las métricas adecuadas](#clave5) 
 
 ### <a name="clave1"></a>1- Centraliza todo en tu página web
 
@@ -98,8 +98,8 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDk0MDA1NSwtNzM0MjA1MjEsMjA2Mz
-g2MzA4NSwxNzA0MDYyMzIsNTU1MDg4MDkyLDg4NDk1OTQ0MSwt
-MTg4NzUwNjUzOCwtMjA5NTIwMDYwLDM3MjgxMDY0MywtOTI3MD
-IwMDEwXX0=
+eyJoaXN0b3J5IjpbOTQ5NjAxODQ2LC03MzQyMDUyMSwyMDYzOD
+YzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIsODg0OTU5NDQxLC0x
+ODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyODEwNjQzLC05MjcwMj
+AwMTBdfQ==
 -->
