@@ -21,7 +21,6 @@ Los dos pilares fundamentales en los que se basa esta estrategia son:
    - Consideración: se interesa por lo que ofrecemos
    - Decisión: está dispuesto a comprar
    - Fidelización: ha comprado y está dispuesto a repetir
-
 Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevarán a cabo acciones específicas para avanzar dentro del proceso de compra.
 
 **¿Por qué se consiguen buenos resultados?** actuamos sobre un segmento de usuarios -con un comportamiento común- a través de acciones específicas para ellos. Esto siempre será más eficiente que aplicar acciones genéricas sobre todos nuestros visitantes.
@@ -99,7 +98,8 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDIwNTIxLDIwNjM4NjMwODUsMTcwND
-A2MjMyLDU1NTA4ODA5Miw4ODQ5NTk0NDEsLTE4ODc1MDY1Mzgs
-LTIwOTUyMDA2MCwzNzI4MTA2NDMsLTkyNzAyMDAxMF19
+eyJoaXN0b3J5IjpbLTQyMDk0MDA1NSwtNzM0MjA1MjEsMjA2Mz
+g2MzA4NSwxNzA0MDYyMzIsNTU1MDg4MDkyLDg4NDk1OTQ0MSwt
+MTg4NzUwNjUzOCwtMjA5NTIwMDYwLDM3MjgxMDY0MywtOTI3MD
+IwMDEwXX0=
 -->
