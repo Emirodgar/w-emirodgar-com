@@ -60,8 +60,9 @@ Puntos necesarios que debemos tener en cuenta:
  1. Perfil de enlazado natural y de calidad: nos ayudará a ser más visibles y mejorar nuestro posicionamiento.
  2. Perfiles sociales donde esté nuestro público objetivo: nos ayudará a llegar al público que nos interesa.
  3. Análisis de mercado/sector: sabremos dónde estamos situados frente a la competencia y la evolución que sigue.
+ 4. Identificar canales óptimos: debemos apostar por aquellos que generan tráfico de calidad 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzU0MTIzMywtMTg4NzUwNjUzOCwtMj
-A5NTIwMDYwLDM3MjgxMDY0MywtOTI3MDIwMDEwXX0=
+eyJoaXN0b3J5IjpbLTE0OTI0OTAwNjUsLTE4ODc1MDY1MzgsLT
+IwOTUyMDA2MCwzNzI4MTA2NDMsLTkyNzAyMDAxMF19
 -->
