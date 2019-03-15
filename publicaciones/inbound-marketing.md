@@ -43,8 +43,10 @@ Todo esto implica que cada vez generamos menos tráfico de referencia hacia nues
 
 ### 2- Calidad frente a cantidad
 
-Ya no podemos fiarnos de los datos en bruto para nuestras acciones externas. Seguidores, métricales sociales, influencers, etc. todo puede estar distorsionado
+Ya no podemos fiarnos de los datos en bruto para nuestras acciones externas. Seguidores, métricales sociales, influencers, etc. todo puede estar altamente distorsionado y los resultados -además del ROI (retorno de la inversión)- se pueden ver afectados.
+
+Debemos disponer de los indicadores adecuad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM1MTE3NjUsLTIwOTUyMDA2MCwzNz
-I4MTA2NDMsLTkyNzAyMDAxMF19
+eyJoaXN0b3J5IjpbNDE5Njg2NzE2LC0yMDk1MjAwNjAsMzcyOD
+EwNjQzLC05MjcwMjAwMTBdfQ==
 -->
