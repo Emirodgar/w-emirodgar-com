@@ -26,7 +26,7 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 
 **¿Por qué se consiguen buenos resultados?** actuamos sobre un segmento de usuarios -con un comportamiento común- a través de acciones específicas para ellos. Esto siempre será más eficiente que aplicar acciones genéricas sobre todos nuestros visitantes.
 
-## Evolución de Inbound Marketing
+## 5 claves de Inbound Marketing
 
 ### 1- Centraliza todo en tu página web
 
@@ -45,8 +45,10 @@ Todo esto implica que cada vez generamos menos tráfico de referencia hacia nues
 
 Ya no podemos fiarnos de los datos en bruto para nuestras acciones externas. Seguidores, métricales sociales, influencers, etc. todo puede estar altamente distorsionado y los resultados -además del ROI (retorno de la inversión)- se pueden ver afectados.
 
-Debemos disponer de los indicadores adecuados (KPIs) para asegurar que cada acción que llevamos a cabo generará un retorno positivo. De no 
+Debemos disponer de los indicadores adecuados (KPIs) para asegurar que cada acción que llevamos a cabo generará un retorno positivo. De no ser así, deberemos buscar otros canales donde encontrar crecimiento en tráfico y conversiones que justifiquen la inversión realizada.
+
+Que no os de miedo tener pocos visitantes o pocos seguidores, si estos son de calidad es lo único que cuenta. No debemos ver la cantidad sino la calidad de lo que nos rode
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTAwNDkxLC0yMDk1MjAwNjAsMzcyOD
+eyJoaXN0b3J5IjpbNTMyNzI2OTgzLC0yMDk1MjAwNjAsMzcyOD
 EwNjQzLC05MjcwMjAwMTBdfQ==
 -->
