@@ -68,9 +68,11 @@ Una vez definido el proceso de trabajo específico para nuestro negocio será el
 
 ### 4- Trabaja las tareas en el orden adecuado
 
-El primer paso debería de ser trabajar la marca y la página web. Debemos tener una base sólida sobre la que aplicar el resto de tareas, de no ser así, no conseguiremos
+El primer paso debería de ser disponer de una base trabajar la marca y la página web. Debemos tener una base sólida sobre la que aplicar el resto de tareas, de no ser así, no conseguiremos aprovechar al máximo los posibles resultados.
+
+Una vez que dispongamos de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzYwNDQ3LDg4NDk1OTQ0MSwtMTg4Nz
-UwNjUzOCwtMjA5NTIwMDYwLDM3MjgxMDY0MywtOTI3MDIwMDEw
-XX0=
+eyJoaXN0b3J5IjpbMTQ1MTcxMDY0Niw4ODQ5NTk0NDEsLTE4OD
+c1MDY1MzgsLTIwOTUyMDA2MCwzNzI4MTA2NDMsLTkyNzAyMDAx
+MF19
 -->
