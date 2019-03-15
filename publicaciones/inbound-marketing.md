@@ -35,9 +35,11 @@ En los últimos años hemos ido trabajando diferentes canales pero por desgracia
 Esto se puede ver de forma muy sencilla:
 
  1. Google: utiliza los datos estructurados, por ejemplo el de preguntas y respuestas
- 2. 
+ 2. Facebook: puedes ver contenido, imágen e incluso vídeo desde su página además de compartirlo de forma sencilla
+ 3. Instagram: no permite enlaces externos
+ 4. Twitter: ca
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE3OTc2MzgsMzcyODEwNjQzLC05Mj
+eyJoaXN0b3J5IjpbLTE5MDQxNDQ1ODQsMzcyODEwNjQzLC05Mj
 cwMjAwMTBdfQ==
 -->
