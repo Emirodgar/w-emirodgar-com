@@ -80,11 +80,11 @@ Cualquier estrategia se puede hundir si no somos capaces de identificar las mét
 
 Mis recomendaciones son las siguientes:
 
- - Utiliza un CMI (Cuadra de Mando Integral) para medir los objetivos globales de la estrategia y los recursos asignados a cada tarea.
- - Utiliza micro objetivos para medir el rendimiento de cada acción realizada
+ - Utiliza un CMI (Cuadro de Mando Integral) para medir la evolución de las métricas globales de la estrategia (.
+ - Utiliza micro objetivos para medir el rendimiento de cada fase del proceso de trabajo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjIwNjA5NSwxNzA0MDYyMzIsNTU1MD
-g4MDkyLDg4NDk1OTQ0MSwtMTg4NzUwNjUzOCwtMjA5NTIwMDYw
-LDM3MjgxMDY0MywtOTI3MDIwMDEwXX0=
+eyJoaXN0b3J5IjpbNzE0MTkxODM0LDE3MDQwNjIzMiw1NTUwOD
+gwOTIsODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAs
+MzcyODEwNjQzLC05MjcwMjAwMTBdfQ==
 -->
