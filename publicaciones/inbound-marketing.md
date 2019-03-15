@@ -26,7 +26,7 @@ Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevará
 
 **¿Por qué se consiguen buenos resultados?** actuamos sobre un segmento de usuarios -con un comportamiento común- a través de acciones específicas para ellos. Esto siempre será más eficiente que aplicar acciones genéricas sobre todos nuestros visitantes.
 
-## 5 claves para el Inbound Marketing de éxito
+## 5 claves para una estrategia Inbound ganadora
 
 ### 1- Centraliza todo en tu página web
 
@@ -60,11 +60,11 @@ Puntos recomendables a tener en cuenta:
  1. Perfil de enlazado natural y de calidad: nos ayudará a ser más visibles y mejorar nuestro posicionamiento.
  2. Identificar dónde está nuestro público objetivo: nos ayudará captar tráfico de calidad orientado a la conversión.
  3. Análisis de mercado/sector: sabremos dónde estamos situados frente a la competencia y la evolución que sigue el mercado.
- 4. Identificar canales óptimos: debemos apostar por aquellos que generan tráfico de calidad y estén asociados a la conversión.
+ 4. Identificar canales óptimos: debemos apostar por aquellos que generan tráfico de calidad y estén asociados a la conversión. Esfuerzo extra donde no esté nuestra competencia.
 
-Una vez definido el proceso de trabajo específico para nuestro negocio será el momento de trasladarlo a la metodología Inbound.
+Una vez definido el proceso de trabajo específico para nuestro negocio será el momento de trasladarlo a la metodología Inbound (tipo de usuario y fase del proceso de compra).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTY4MzUsLTE4ODc1MDY1MzgsLTIwOT
-UyMDA2MCwzNzI4MTA2NDMsLTkyNzAyMDAxMF19
+eyJoaXN0b3J5IjpbLTE5Njc1MzM2MzYsLTE4ODc1MDY1MzgsLT
+IwOTUyMDA2MCwzNzI4MTA2NDMsLTkyNzAyMDAxMF19
 -->
