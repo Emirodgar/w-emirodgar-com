@@ -34,14 +34,14 @@ En los últimos años hemos ido trabajando diferentes canales pero por desgracia
 
 Ejemplos de cómo controlan el flujo de tráfico:
 
- 1. Google: utiliza los datos estructurados, por ejemplo el de preguntas y respuestas
+ 1. Google: utiliza los datos estructurados, por ejemplo el de preguntas y respuestas para mostrar información en la misma búsqueda
  2. Facebook y Twitter: cargan y muestran más contenido dentro de sus portales para evitar la fuga de usuarios
  3. Instagram: no permite enlaces externos
  5. Youtube: acorta las descripciones para evitar mostrar enlaces
 
-Para evitar esta fuga de información debemos ser cuidadosos con las acciones que llevamos a cabo en estos portales y asegurarnos de que todo lo importante queda centralizado
+Todo esto implica que, a través de estas páginas, generamos menos tráfico hacia nuestra web que antes, por ello, necesitamos controlar bien todas las acciones y asegurarnos que termina centralizado en nuestra pági
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTUyMDA2MCwzNzI4MTA2NDMsLTkyNz
-AyMDAxMF19
+eyJoaXN0b3J5IjpbMTk1MDQyNzI3MCwtMjA5NTIwMDYwLDM3Mj
+gxMDY0MywtOTI3MDIwMDEwXX0=
 -->
