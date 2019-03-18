@@ -42,12 +42,12 @@ Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
      - Potenciado el enlazado interno entre noticias y secciones
  - Año **2017** (12 meses)
    - Implementación de AMP
-   - SEO técnico sobre un nuevo desarrollo web
-   - Migración a nuevo *framework* que aportaba muchas de las necesidades que teníamos a nivel operativo
+   - SEO técnico sobre un nuevo desarrollo web que aportaba muchas de las necesidades que teníamos a nivel operativo 
+   - Migración al nuevo *framework* 
 
 ### Resultados
 
-Tras mucho tiempo definiendo la estructura y alineando a todo el equipo web para trabajar en la misma línea, llegó el momento de hacer un cambio de framework que nos permitiera explotar la nueva situación.
+Tras mucho tiempo definiendo la estructura y alineando a todo el equipo web para trabajar en la misma línea, llegó el momento de hacer un cambio de plataforma que nos permitiera explotar la nueva situación.
 
 Este cambio nos ayudó a potenciar todo lo que ya habíamos ido trabajando y **conseguimos triplicar el tráfico orgánico**. Recordemos que hablamos de un periódico de tirada nacional con mucha competencia. 
 
@@ -96,8 +96,8 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánca que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzEwNzAzNCw3ODUwNTAxODcsMTY0ND
-k2ODYxNCwtODAwNjc2NTYwLDExNzQ1NzQ1MjMsMTg3MDk5OTA1
-OCwxMzUxNTY5NzIzLC04NjgyNTQyOTEsLTE1ODYwMzAwMzgsMT
-cyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUwMF19
+eyJoaXN0b3J5IjpbNzQyOTc3NDA3LDc4NTA1MDE4NywxNjQ0OT
+Y4NjE0LC04MDA2NzY1NjAsMTE3NDU3NDUyMywxODcwOTk5MDU4
+LDEzNTE1Njk3MjMsLTg2ODI1NDI5MSwtMTU4NjAzMDAzOCwxNz
+I1ODg4MzU5LDM4NTEzODAyNCwxMDI4NDc1NTAwXX0=
 -->
