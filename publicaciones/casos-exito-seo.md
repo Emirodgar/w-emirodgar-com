@@ -82,15 +82,18 @@ Estos fueron los principales bloques de trabajo dentro de este proyecto:
 
 Una vez que tuvimos todo el trabajo realizado, procedimos a establecer las fases de la migración web:
 
-- **Antes de la migración**:  Identificar pasos y equipos responsables de cada tarea. Creados los patrones de redirección en base a un fichero de mapeado (dirección antigua a dirección nueva)
+- **Antes de la migración**:  Identificar pasos y equipos responsables de cada tarea. Creados los patrones de redirección en base a un fichero de mapeado (dirección antigua a dirección nueva). Creados procesos de emergencia en bas
 - **Durante la migración**: Monitorización de posibles fallos haciendo uso del log del servidor y la herramienta de analítica web.
-- **Después de la migración**: Monitorización del impacto SEO 
+- **Después de la migración**: Monitorización del impacto SEO y de posibles páginas o secciones que hubieran quedado colgadas. 
+
+
+### Resultados
 
 
 ![Caso de éxito migración SEO - Emirodgar](https://i.imgur.com/88J5XxI.png) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MDUwMTg3LDE2NDQ5Njg2MTQsLTgwMD
-Y3NjU2MCwxMTc0NTc0NTIzLDE4NzA5OTkwNTgsMTM1MTU2OTcy
-MywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LDE3MjU4ODgzNTksMz
-g1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
+eyJoaXN0b3J5IjpbLTE1NDA2NTI4MDAsNzg1MDUwMTg3LDE2ND
+Q5Njg2MTQsLTgwMDY3NjU2MCwxMTc0NTc0NTIzLDE4NzA5OTkw
+NTgsMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LD
+E3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
 -->
