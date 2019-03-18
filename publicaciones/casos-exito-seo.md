@@ -43,14 +43,14 @@ Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
 
 Tras mucho tiempo definiendo la estructura y alineando a todo el equipo web para trabajar en la misma línea, llegó el momento de hacer un cambio de framework que nos permitiera explotar la nueva situación.
 
-Este cambio nos ayudó a potenciar todo lo que ya habíamos ido trabajando y el resultado fue 
+Este cambio nos ayudó a potenciar todo lo que ya habíamos ido trabajando y conseguimos triplicar el tráfico orgánico. Recordemos que hablamos de un periódico de tirada nacional con mucha competencia. El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para  y a involucrar a todo el equipo para trabajar en la misma línea
 
 ![Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png)
 
 
 En la imagen anterior se puede apreciar la evolución seguida durante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTcyNjk1MTQsLTg2ODI1NDI5MSwtMT
-U4NjAzMDAzOCwxNzI1ODg4MzU5LDM4NTEzODAyNCwxMDI4NDc1
-NTAwXX0=
+eyJoaXN0b3J5IjpbMjA4ODQ1Njg3NCwtODY4MjU0MjkxLC0xNT
+g2MDMwMDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1
+MDBdfQ==
 -->
