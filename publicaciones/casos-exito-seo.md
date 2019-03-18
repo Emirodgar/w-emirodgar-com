@@ -32,7 +32,7 @@ Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
 - Año **2016** (12  meses)
      -  Nueva arquitectura web y categorización de contenidos
      -  Optimización de recursos web (tiempo de carga y experiencia usuarios)
-     - Definición de nuevas estructuras fijas sobre eventos periódicos como por ejemplo: mundiales, votaciones, etc. 
+     - Definición de nuevas estructuras fijas sobre eventos periódicos como mundiales, votaciones, etc. 
      - Nuevas puertas de entrada basadas en una sola landing muy optimizada para un término concreto
      - Potenciado el enlazado interno entre noticias y secciones
  - Año **2017** (12 meses)
@@ -52,7 +52,7 @@ En la siguiente imagen se puede ver la evolución conseguida desde que comenzamo
 El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para poder ser competitivos y a involucrar a todo el equipo para trabajar en la misma línea.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNT
-g2MDMwMDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1
-MDBdfQ==
+eyJoaXN0b3J5IjpbMTg3MDk5OTA1OCwxMzUxNTY5NzIzLC04Nj
+gyNTQyOTEsLTE1ODYwMzAwMzgsMTcyNTg4ODM1OSwzODUxMzgw
+MjQsMTAyODQ3NTUwMF19
 -->
