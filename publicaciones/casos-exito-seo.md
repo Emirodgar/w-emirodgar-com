@@ -78,17 +78,19 @@ Estos fueron los principales bloques de trabajo dentro de este proyecto:
 - Arquitectura web (categorías, productos y páginas de ofertas)
 - Títulos y descripciones
 - Análisis de calidad en base a qué páginas queríamos conservar y cuáles no 
+- Diseño de estrategia de migración web
 
 Una vez que tuvimos todo el trabajo realizado, procedimos a establecer las fases de la migración web:
 
 - **Antes de la migración**:  Identificar pasos y equipos responsables de cada tarea. Creados los patrones de redirección en base a un fichero de mapeado (dirección antigua a dirección nueva)
-- **Durante la migración**: Monitorización de posibles fallos haciendo uso del log del servidor y la herramienta de analítica web. Revisamos 
+- **Durante la migración**: Monitorización de posibles fallos haciendo uso del log del servidor y la herramienta de analítica web.
+- **Después de la migración**: Monitorización del impacto SEO 
 
 
 ![Caso de éxito migración SEO - Emirodgar](https://i.imgur.com/88J5XxI.png) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDYzNjQ4OSwxNjQ0OTY4NjE0LC04MD
-A2NzY1NjAsMTE3NDU3NDUyMywxODcwOTk5MDU4LDEzNTE1Njk3
-MjMsLTg2ODI1NDI5MSwtMTU4NjAzMDAzOCwxNzI1ODg4MzU5LD
-M4NTEzODAyNCwxMDI4NDc1NTAwXX0=
+eyJoaXN0b3J5IjpbNzg1MDUwMTg3LDE2NDQ5Njg2MTQsLTgwMD
+Y3NjU2MCwxMTc0NTc0NTIzLDE4NzA5OTkwNTgsMTM1MTU2OTcy
+MywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LDE3MjU4ODgzNTksMz
+g1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
 -->
