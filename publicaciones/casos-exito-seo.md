@@ -14,8 +14,8 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
 
 Comencé en el año 2015 ha trabajar en un periódico de tirada nacional que en los últimos 4 años había ido perdiendo tráfico de forma progresiva.
 
-El objetivo era recuperar ese tráfico y volver a ser competitivo tras varios años perdiendo anunciantes debido a su baja visibilidad.
+El objetivo era recuperar ese tráfico y volver a ser competitivos tras varios años perdiendo anunciantes debido a su baja visibilidad orgánica.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjExMTk1MDMsMTcyNTg4ODM1OSwzOD
+eyJoaXN0b3J5IjpbLTE1ODYwMzAwMzgsMTcyNTg4ODM1OSwzOD
 UxMzgwMjQsMTAyODQ3NTUwMF19
 -->
