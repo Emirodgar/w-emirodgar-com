@@ -93,10 +93,10 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 ![Caso de éxito migración SEO - Emirodgar](https://i.imgur.com/88J5XxI.png)
 
-En la imagen anterior se puede ver el incremento en la visibilidad orgánca que se experimentó tras la migración web. 
+En la imagen anterior se puede ver el incremento en la visibilidad orgánca que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg4NDg0NTQsNzg1MDUwMTg3LDE2ND
-Q5Njg2MTQsLTgwMDY3NjU2MCwxMTc0NTc0NTIzLDE4NzA5OTkw
-NTgsMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LD
-E3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
+eyJoaXN0b3J5IjpbODczNTI4NDkzLDc4NTA1MDE4NywxNjQ0OT
+Y4NjE0LC04MDA2NzY1NjAsMTE3NDU3NDUyMywxODcwOTk5MDU4
+LDEzNTE1Njk3MjMsLTg2ODI1NDI5MSwtMTU4NjAzMDAzOCwxNz
+I1ODg4MzU5LDM4NTEzODAyNCwxMDI4NDc1NTAwXX0=
 -->
