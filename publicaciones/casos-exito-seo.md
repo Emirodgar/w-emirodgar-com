@@ -10,10 +10,10 @@ permalink: casos-exito-seo
 
 Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la oportunidad de trabajar en múltiples proyectos. Os cuento los casos de éxito más importantes que he tenido la suerte de vivir.
 
- 1. [Recuperar tráfico perdido en periódico nacional](#exito1)
- 2. [Migración Ecommerce Internacional](#exito2)
+ 1. [Recuperar tráfico perdido en periódico nacional](#periodico)
+ 2. [Migración Ecommerce Internacional](#ecommerce)
 
-## <a name="exito1"></a> Periódico nacional (España) / Recuperar tráfico perdido
+## <a name="periodico"></a> Periódico nacional (España) / Recuperar tráfico perdido
 
 Comencé en el año 2015 a trabajar en un periódico de tirada nacional que en los últimos 4 años había ido perdiendo tráfico de forma progresiva.
 
@@ -56,10 +56,10 @@ En la siguiente imagen se puede ver la evolución conseguida desde que comenzamo
 
 El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para poder ser competitivos y a involucrar a todo el equipo para trabajar en la misma línea.
 
-## <a name="exito2"></a> Migración Ecommerce internacional
+## <a name="ecommerce"></a> Migración Ecommerce internacional
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODExNzc5MywxODcwOTk5MDU4LDEzNT
+eyJoaXN0b3J5IjpbMTE3NDU3NDUyMywxODcwOTk5MDU4LDEzNT
 E1Njk3MjMsLTg2ODI1NDI5MSwtMTU4NjAzMDAzOCwxNzI1ODg4
 MzU5LDM4NTEzODAyNCwxMDI4NDc1NTAwXX0=
 -->
