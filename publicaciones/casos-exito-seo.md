@@ -71,14 +71,14 @@ Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a
 
 ![Visibilidad en caída libre desde comienzos de 2016](https://i.imgur.com/6HUkSGh.png)
 
-Comienzo a trabajar con el equipo técnico encargado del desarrollo de la nueva web para disponer de una **base SEO sólida**.
+Comienzo a trabajar con el equipo técnico encargado del desarrollo de la nueva web para disponer de una **base SEO sólida** que nos permita salir reforzados tras la migración.
 
 Estos fueron los principales bloques de trabajo dentro de este proyecto:
 
-- Base SEO técnica de la nueva estructura
+- Base SEO técnica de la nueva estructura (incidiendo en solucionar los problemas que arrastrábamos en el anterior desarrollo)
 - Arquitectura web (categorías, productos y páginas de ofertas)
-- Títulos y descripciones
-- Análisis de calidad en base a qué páginas queríamos conservar y cuáles no 
+- Títulos, descripciones y palabras clave a potenciar por familias de productos
+- Análisis de calidad en base a qué páginas queríamos conservar y cuáles no de la página actual
 - Diseño de estrategia de migración web
 
 Una vez que tuvimos todo el trabajo realizado, procedimos a establecer las fases de la migración web:
@@ -96,8 +96,8 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánca que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDIyMDQ1MCw3ODUwNTAxODcsMTY0ND
-k2ODYxNCwtODAwNjc2NTYwLDExNzQ1NzQ1MjMsMTg3MDk5OTA1
-OCwxMzUxNTY5NzIzLC04NjgyNTQyOTEsLTE1ODYwMzAwMzgsMT
-cyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUwMF19
+eyJoaXN0b3J5IjpbLTE4MzI1MTMxMjUsNzg1MDUwMTg3LDE2ND
+Q5Njg2MTQsLTgwMDY3NjU2MCwxMTc0NTc0NTIzLDE4NzA5OTkw
+NTgsMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LD
+E3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
 -->
