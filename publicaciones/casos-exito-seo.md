@@ -41,14 +41,16 @@ Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
 
 ### Resultados
 
-Tras varios años 
+Tras mucho tiempo definiendo la estructura y alineando a todo el equipo web para trabajar en la misma línea, llegó el momento de hacer un cambio de framework que nos permitiera explotar la nueva situación.
+
+Este cambio nos ayudó a potenciar todo lo que ya habíamos ido trabajando y el resultado fue 
 
 ![Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png)
 
 
 En la imagen anterior se puede apreciar la evolución seguida durante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwODUxNTQyLC04NjgyNTQyOTEsLTE1OD
-YwMzAwMzgsMTcyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUw
-MF19
+eyJoaXN0b3J5IjpbLTEwMTcyNjk1MTQsLTg2ODI1NDI5MSwtMT
+U4NjAzMDAzOCwxNzI1ODg4MzU5LDM4NTEzODAyNCwxMDI4NDc1
+NTAwXX0=
 -->
