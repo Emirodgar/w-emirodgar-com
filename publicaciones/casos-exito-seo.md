@@ -22,16 +22,16 @@ En la imagen anterior podemos ver la evolución de la **visibilidad SEO** -obten
 
 Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
 
-- Año 2015 (5 meses)
+- Año **2015** (4 meses)
   - Análisis causas penalización Panda
   - Base SEO técnica
   - Formación SEO para los periodistas (contenidos optimizados)
   
-- Año 2016 (12  meses)
+- Año **2016** (12  meses)
      -  Nueva arquitectura web y categorización de contenidos
      -  Optimización de recursos web (tiempo de carga y experiencia usuarios)
      - Nuevas puertas de entrada y estructuras fijas (mundiales, 
- - Año 2017 (12 meses)
+ - Año **2017** (12 meses)
    - Nuevas tecnologías (AMP)
    - Migración a nuevo framwork que aportaba muchas de las necesidades que teníamos a nivel operativo
 
@@ -39,7 +39,7 @@ Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
 
 En la imagen anterior se puede apreciar la evolución seguida durante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjc4MzA1MCwtODY4MjU0MjkxLC0xNT
+eyJoaXN0b3J5IjpbMjAyMjY0MDg0MSwtODY4MjU0MjkxLC0xNT
 g2MDMwMDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1
 MDBdfQ==
 -->
