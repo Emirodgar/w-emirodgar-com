@@ -12,9 +12,9 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
 
 ## Periódico nacional (España) / Recuperar tráfico
 
-Comencé en el año 2015 ha trabajar en un periódico de tirada nacional que en los últimos 4 años había ido perdiendo tráfico de forma progresiva.
+Comencé en el año 2015 a trabajar en un periódico de tirada nacional que en los últimos 4 años había ido perdiendo tráfico de forma progresiva.
 
-El objetivo era **recuperar ese tráfico y volver a ser competitivos** tras varios años perdiendo anunciantes debido a su baja visibilidad orgánica.
+El objetivo era **recuperar ese tráfico y volver a ser competitivos** tras varios años perdiendo anunciantes debido a su baja visibilidad orgánica. También habían sido impactados por Panda, el cambio de algoritmo de Google ocurrido en 2012, por lo que el punto de partida era complicado.
 
 ![Estado inicial caso éxito - pérdida de visibilidad orgánica](https://i.imgur.com/esO1WW0.png)
 
@@ -22,7 +22,7 @@ El objetivo era **recuperar ese tráfico y volver a ser competitivos** tras vari
 
 En la imagen anterior se puede apreciar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk0NTYyMDksLTg2ODI1NDI5MSwtMT
-U4NjAzMDAzOCwxNzI1ODg4MzU5LDM4NTEzODAyNCwxMDI4NDc1
-NTAwXX0=
+eyJoaXN0b3J5IjpbMTU1NzY5Nzk3MiwtODY4MjU0MjkxLC0xNT
+g2MDMwMDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1
+MDBdfQ==
 -->
