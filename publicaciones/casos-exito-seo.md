@@ -17,6 +17,8 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
 
 Comencé en el año 2015 a trabajar en un periódico de tirada nacional que en los últimos 4 años había ido perdiendo tráfico de forma progresiva.
 
+> Actualmente este medio cuenta con cerca de 3 millones de URLs indexadas y más de 200k keywords posicionadas.
+
 ### Objetivo y esquema de trabajo
 
 El objetivo era **recuperar ese tráfico y volver a ser competitivos** tras varios años perdiendo anunciantes debido a su baja visibilidad orgánica. También habían sido impactados por Panda, el cambio de algoritmo de Google ocurrido en 2012, por lo que el punto de partida era complicado.
@@ -54,8 +56,10 @@ En la siguiente imagen se puede ver la evolución conseguida desde que comenzamo
 
 El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para poder ser competitivos y a involucrar a todo el equipo para trabajar en la misma línea.
 
+## <a name="exito2"></a> Migración Ecommerce internacional
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwOTY1Mjg5LDE4NzA5OTkwNTgsMTM1MT
-U2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LDE3MjU4ODgz
-NTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
+eyJoaXN0b3J5IjpbMTQwODExNzc5MywxODcwOTk5MDU4LDEzNT
+E1Njk3MjMsLTg2ODI1NDI5MSwtMTU4NjAzMDAzOCwxNzI1ODg4
+MzU5LDM4NTEzODAyNCwxMDI4NDc1NTAwXX0=
 -->
