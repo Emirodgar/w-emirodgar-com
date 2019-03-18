@@ -72,6 +72,8 @@ En el caso de que la URL esté indexada por los buscadores, además de seguir lo
  1. Forzar un error 404 o error 410 (éste último suele ser más rápido)
  2. Aplicar una redirección 301 (suele generar un error *[404 soft](https://support.google.com/webmasters/answer/181708?hl=es)* en Google Search Console)
 
+Como curiosidad, [John Mueller confirmó a través de Twitter](https://twitter.com/JohnMu/status/1107298611128352769) que siempre que exista un enlace externo hacia una de nuestras URLs, aunque ésta muestre un error 404, Google seguirá intentando indexarla de vez en cuando.
+
 
 ## Herramientas de Google
 
@@ -83,8 +85,8 @@ En el caso de muchas URLs que, tras un tiempo publicadas, no queremos que sigan 
 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos  [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information)  ya que debemos hacerlo a través del  [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAxODcxMjMsODU0NDM2OTI3LDM2NT
-E4MjM1MywzNjUxODIzNTMsLTE2MjU0Nzc0NTksNzg2OTgwMTE4
-LDE2NDI3NTA4MTIsMTEzMjcwMDk0MiwxNzcxNzA5MzY5LC0xMz
-A4MDU3MjE2XX0=
+eyJoaXN0b3J5IjpbLTczMDUwMTQyNiwtMTA3MDE4NzEyMyw4NT
+Q0MzY5MjcsMzY1MTgyMzUzLDM2NTE4MjM1MywtMTYyNTQ3NzQ1
+OSw3ODY5ODAxMTgsMTY0Mjc1MDgxMiwxMTMyNzAwOTQyLDE3Nz
+E3MDkzNjksLTEzMDgwNTcyMTZdfQ==
 -->

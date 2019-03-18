@@ -10,7 +10,7 @@ permalink: mapa-web
 
 Toda página web que se precie debe tener un **mapa web** para poder organizar los contenidos y facilitar la navegación de sus usuarios.
 
-Me llamo Emilio, soy de [Salamanca](https://emirodgar.com/consultor-seo/salamanca) y me he especializado como [consultor SEO](https://emirodgar.com/consultor-seo/), aunque en mi [carrera profesional](https://emirodgar.com/carrera-profesional/) y [experiencia](/experiencia-seo) han sido más amplia.  Puedes ver mi currículum en [versión Star Wars](https://emirodgar.com/cv-starwars/).
+Me llamo Emilio, soy de [Salamanca](https://emirodgar.com/consultor-seo/salamanca) y me he especializado como [consultor SEO](https://emirodgar.com/consultor-seo/), aunque en mi [carrera profesional](https://emirodgar.com/carrera-profesional/) y [experiencia](/experiencia-seo) han sido más amplia.  Puedes ver mi currículum en [versión Star Wars](https://emirodgar.com/cv-starwars/) y mis [casos de éxito](/casos-exito-seo).
 
 En los últimos años he trabajado estrategias digitales como [SEO en México](https://emirodgar.com/consultor-seo/mexico) y otros países como Colombia, Perú o Argentina.
 
@@ -22,7 +22,7 @@ Te cuento la [estrategia SEO](https://emirodgar.com/estrategia-seo) que he segui
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTkxMTcxNiw3NjYzMTM2ODksNTgzOT
-Q5MjU3LDEzNjUyNDIzNTcsODA0ODQ0NjMwLDMxNzM2MTMwNCwt
-OTA2OTEzNDQyXX0=
+eyJoaXN0b3J5IjpbLTkyODUzMjA0LC04Njk5MTE3MTYsNzY2Mz
+EzNjg5LDU4Mzk0OTI1NywxMzY1MjQyMzU3LDgwNDg0NDYzMCwz
+MTczNjEzMDQsLTkwNjkxMzQ0Ml19
 -->
