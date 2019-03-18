@@ -76,11 +76,15 @@ Estos fueron los principales bloques de trabajo dentro de este proyecto:
 
 - Base SEO técnica de la nueva estructura
 - Arquitectura web (categorías, productos y páginas de ofertas)
-- Títulos y descripciones de 
-- Migración web
+- Títulos y descripciones
+- Migr
+
+Una vez que tuvimos todo el trabajo realizado, procedimos a establecer las fases de la migración web:
+
+- **Antes de la migración**:  Identificar pasos y equipos responsables de cada tarea. Creados los patrones de redirección en base a un fichero de mapeado (dirección antigua a dirección nueva)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjU1MDI2OCwtODAwNjc2NTYwLDExNz
-Q1NzQ1MjMsMTg3MDk5OTA1OCwxMzUxNTY5NzIzLC04NjgyNTQy
-OTEsLTE1ODYwMzAwMzgsMTcyNTg4ODM1OSwzODUxMzgwMjQsMT
-AyODQ3NTUwMF19
+eyJoaXN0b3J5IjpbMzM2NDUxODgxLC04MDA2NzY1NjAsMTE3ND
+U3NDUyMywxODcwOTk5MDU4LDEzNTE1Njk3MjMsLTg2ODI1NDI5
+MSwtMTU4NjAzMDAzOCwxNzI1ODg4MzU5LDM4NTEzODAyNCwxMD
+I4NDc1NTAwXX0=
 -->
