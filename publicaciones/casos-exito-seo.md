@@ -30,7 +30,9 @@ Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
 - Año **2016** (12  meses)
      -  Nueva arquitectura web y categorización de contenidos
      -  Optimización de recursos web (tiempo de carga y experiencia usuarios)
-     - Nuevas puertas de entrada y estructuras fijas (mundiales, 
+     - Nuevas estructuras fijas sobre eventos periódicos como por ejemplo: mundiales, votaciones, etc. 
+     - Nuevas puertas de entrada basadas en una sola landing muy optimizada para un término concreto
+     - Potenciado el enlazado interno entre noticias y secciones
  - Año **2017** (12 meses)
    - Nuevas tecnologías (AMP)
    - Migración a nuevo framwork que aportaba muchas de las necesidades que teníamos a nivel operativo
@@ -39,7 +41,7 @@ Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
 
 En la imagen anterior se puede apreciar la evolución seguida durante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjY0MDg0MSwtODY4MjU0MjkxLC0xNT
+eyJoaXN0b3J5IjpbMTUyNzA5MjE5MiwtODY4MjU0MjkxLC0xNT
 g2MDMwMDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1
 MDBdfQ==
 -->
