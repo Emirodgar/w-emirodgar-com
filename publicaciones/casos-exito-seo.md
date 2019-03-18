@@ -83,7 +83,7 @@ Estos fueron los principales bloques de trabajo dentro de este proyecto:
 
 Una vez que tuvimos todo el trabajo realizado, procedimos a establecer las fases de la migración web:
 
-- **Antes de la migración**:  Identificar pasos y equipos responsables de cada tarea. Creados los patrones de redirección en base a un fichero de mapeado (dirección antigua a dirección nueva). Creados procesos de emergencia en base a los posibles errores que pudieran ocurrir. Actualizacion de sitemaps.
+- **Antes de la migración**:  Identifiqué los pasos y equipos responsables de cada tarea, creé los patrones de redirección en base a un fichero de mapeado (dirección antigua a dirección nueva), determiné procesos de emergencia en base a los posibles errores que pudieran ocurrir y me encargué de actualizar los sitemaps.
 - **Durante la migración**: Monitorización de posibles fallos haciendo uso del log del servidor y la herramienta de analítica web. Coordinando acciones y equipos.
 - **Después de la migración**: Monitorización del impacto SEO y de posibles páginas o secciones que hubieran quedado colgadas o que no estuvieran teniendo el tráfico esperado en base a su situación anterior. 
 
@@ -96,8 +96,8 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánca que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI1MTMxMjUsNzg1MDUwMTg3LDE2ND
-Q5Njg2MTQsLTgwMDY3NjU2MCwxMTc0NTc0NTIzLDE4NzA5OTkw
-NTgsMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LD
-E3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
+eyJoaXN0b3J5IjpbNDE2MDc3NjYsNzg1MDUwMTg3LDE2NDQ5Nj
+g2MTQsLTgwMDY3NjU2MCwxMTc0NTc0NTIzLDE4NzA5OTkwNTgs
+MTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LDE3Mj
+U4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
 -->
