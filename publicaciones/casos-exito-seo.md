@@ -30,16 +30,18 @@ Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
 	   - Análisis causas penalización Panda
 	  - Base SEO técnica
 	  - Formación SEO para los periodistas (contenidos optimizados)
- 3. Nueva arquitectura web y categorización
- 4. Optimización de recursos web
- 5. Nuevas tecnologías (AMP)
- 6. Migración a nuevo framwork que aportaba muchas de las necesidades que teníamos a nivel operativo
+- Año 2016
+     -  Nueva arquitectura web y categorización de contenidos
+     -  Optimización de recursos web (tiempo de carga y experiencia usuarios)
+ - Año 2017
+   - Nuevas tecnologías (AMP)
+   - Migración a nuevo framwork que aportaba muchas de las necesidades que teníamos a nivel operativo
 
 ![Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png)
 
 En la imagen anterior se puede apreciar la evolución seguida durante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3Njc0MTg0LC04NjgyNTQyOTEsLTE1OD
-YwMzAwMzgsMTcyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUw
-MF19
+eyJoaXN0b3J5IjpbLTEzNzI3NTY1MzMsLTg2ODI1NDI5MSwtMT
+U4NjAzMDAzOCwxNzI1ODg4MzU5LDM4NTEzODAyNCwxMDI4NDc1
+NTAwXX0=
 -->
