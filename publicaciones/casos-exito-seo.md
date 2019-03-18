@@ -89,12 +89,14 @@ Una vez que tuvimos todo el trabajo realizado, procedimos a establecer las fases
 
 ### Resultados
 
-La migración fue un éxito, no
+La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que normalmente existe en cualquier migración web) sino que el hecho de que la nueva plataforma estuviera altamente optimizada para SEO nos ayudó a generar, a corto plazo, un incremento grande en posicionamiento y tráfico orgánico.
 
-![Caso de éxito migración SEO - Emirodgar](https://i.imgur.com/88J5XxI.png) 
+![Caso de éxito migración SEO - Emirodgar](https://i.imgur.com/88J5XxI.png)
+
+En la imagen anterior se puede ver el incremento en la visibilidad orgánca que se experimentó tras la migración web. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTc4MTQxMCw3ODUwNTAxODcsMTY0ND
-k2ODYxNCwtODAwNjc2NTYwLDExNzQ1NzQ1MjMsMTg3MDk5OTA1
-OCwxMzUxNTY5NzIzLC04NjgyNTQyOTEsLTE1ODYwMzAwMzgsMT
-cyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUwMF19
+eyJoaXN0b3J5IjpbLTIwNTg4NDg0NTQsNzg1MDUwMTg3LDE2ND
+Q5Njg2MTQsLTgwMDY3NjU2MCwxMTc0NTc0NTIzLDE4NzA5OTkw
+NTgsMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LD
+E3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
 -->
