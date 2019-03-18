@@ -20,13 +20,20 @@ El objetivo era **recuperar ese tráfico y volver a ser competitivos** tras vari
 
 En la imagen anterior podemos ver la evolución de la **visibilidad SEO** -obtenida con Sistrix- desde el 2011 hasta el momento en el que comencé a trabajar en el proyecto.
 
+Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
 
+ 1. Análisis causas penalización Panda
+ 2. Base SEO técnica
+ 3. Formación SEO para los periodistas (contenidos optimizados)
+ 4. Nueva arquitectura web y categorización
+ 5. Optimización de recursos web
+ 6. Nuevas tecnologías (AMP)
 
 ![Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png)
 
-En la imagen anterior se puede apreciar
+En la imagen anterior se puede apreciar la evolución seguida durante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTA0NzI2NCwtODY4MjU0MjkxLC0xNT
-g2MDMwMDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTE0MzY1NjA2MzAsLTg2ODI1NDI5MSwtMT
+U4NjAzMDAzOCwxNzI1ODg4MzU5LDM4NTEzODAyNCwxMDI4NDc1
+NTAwXX0=
 -->
