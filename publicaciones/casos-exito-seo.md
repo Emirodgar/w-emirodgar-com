@@ -58,8 +58,10 @@ El hecho de haber podido crecer tanto se debió a identificar correctamente las 
 
 ## <a name="ecommerce"></a> Migración Ecommerce internacional
 
+Este cliente está en el TOP10 de Ecommerce con más tráfico y ventas  España.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDU3NDUyMywxODcwOTk5MDU4LDEzNT
-E1Njk3MjMsLTg2ODI1NDI5MSwtMTU4NjAzMDAzOCwxNzI1ODg4
-MzU5LDM4NTEzODAyNCwxMDI4NDc1NTAwXX0=
+eyJoaXN0b3J5IjpbMTM0MDQyNTIwOCwxMTc0NTc0NTIzLDE4Nz
+A5OTkwNTgsMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMw
+MDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ
+==
 -->
