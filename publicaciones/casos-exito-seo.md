@@ -66,14 +66,17 @@ Me enfrento a un reto sin igual dado que se trata de una página con millones de
 
 ### Objetivo y esquema de trabajo
 
-Comienzo analizando los puntos débiles y que han dado problemas durante los últimos meses para asegurarme que han quedado solucionados en
+Comienzo analizando los puntos débiles y que han dado problemas durante los últimos meses para asegurarme que han quedado solucionados en el nuevo desarrollo.
+
+A mayores, comienzo a trabajar con el equipo técnico encargado de la nueva web para optimizar la base SEO.
 
 - Base SEO técnica de la nueva estructura
 - Categorización y arquitectura web
 - Títulos y descripciones de 
 - Migración web
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTg3NDk4LDExNzQ1NzQ1MjMsMTg3MD
-k5OTA1OCwxMzUxNTY5NzIzLC04NjgyNTQyOTEsLTE1ODYwMzAw
-MzgsMTcyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUwMF19
+eyJoaXN0b3J5IjpbLTgwMDY3NjU2MCwxMTc0NTc0NTIzLDE4Nz
+A5OTkwNTgsMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMw
+MDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ
+==
 -->
