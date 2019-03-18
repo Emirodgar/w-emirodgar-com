@@ -22,18 +22,24 @@ En la imagen anterior podemos ver la evolución de la **visibilidad SEO** -obten
 
 Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
 
- 1. Análisis causas penalización Panda
- 2. Base SEO técnica
- 3. Formación SEO para los periodistas (contenidos optimizados)
- 4. Nueva arquitectura web y categorización
- 5. Optimización de recursos web
- 6. Nuevas tecnologías (AMP)
+ 
+
+ - List item
+
+- Año 2015
+	   - Análisis causas penalización Panda
+	  - Base SEO técnica
+	  - Formación SEO para los periodistas (contenidos optimizados)
+ 3. Nueva arquitectura web y categorización
+ 4. Optimización de recursos web
+ 5. Nuevas tecnologías (AMP)
+ 6. Migración a nuevo framwork que aportaba muchas de las necesidades que teníamos a nivel operativo
 
 ![Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png)
 
 En la imagen anterior se puede apreciar la evolución seguida durante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY1NjA2MzAsLTg2ODI1NDI5MSwtMT
-U4NjAzMDAzOCwxNzI1ODg4MzU5LDM4NTEzODAyNCwxMDI4NDc1
-NTAwXX0=
+eyJoaXN0b3J5IjpbODE3Njc0MTg0LC04NjgyNTQyOTEsLTE1OD
+YwMzAwMzgsMTcyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUw
+MF19
 -->
