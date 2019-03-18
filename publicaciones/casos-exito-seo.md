@@ -63,15 +63,15 @@ Comienzo a trabajar en este proyecto a mediados de 2016 debido a que van a cambi
 
 > Este cliente es uno de los 10 ecommerce con más tráfico y ventas en España.
 
-Me enfrento a un reto sin igual dado que se trata de una página con millones de productos a la venta y cuyo desarrollo ya ha comenzado.
+Me enfrento a un reto sin igual dado que se trata de una página con millones de productos a la venta y cuyo desarrollo de la nueva web ya ha comenzado.
 
 ### Objetivo y esquema de trabajo
 
-Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a perder visibilidad y tráfico orgánico de forma muy agresiva, por ello, **analizo los puntos débiles** que han dado problemas durante los últimos meses y me aseguro que los solucionamos en el nuevo desarrollo. 
+Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a perder visibilidad y tráfico orgánico de forma muy agresiva, por ello, **analizo los puntos débiles** que han dado problemas durante los últimos meses y me aseguro que los solucionamos en el nuevo desarrollo web. 
 
 ![Visibilidad en caída libre desde comienzos de 2016](https://i.imgur.com/6HUkSGh.png)
 
-A mayores, comienzo a trabajar con el equipo técnico encargado del desarrollo de la nueva web para asegurar que disponemos de una **base SEO sólida**.
+Comienzo a trabajar con el equipo técnico encargado del desarrollo de la nueva web para disponer de una **base SEO sólida**.
 
 Estos fueron los principales bloques de trabajo dentro de este proyecto:
 
@@ -96,7 +96,7 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánca que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjY0NTE1NCw3ODUwNTAxODcsMTY0ND
+eyJoaXN0b3J5IjpbLTI1MDIyMDQ1MCw3ODUwNTAxODcsMTY0ND
 k2ODYxNCwtODAwNjc2NTYwLDExNzQ1NzQ1MjMsMTg3MDk5OTA1
 OCwxMzUxNTY5NzIzLC04NjgyNTQyOTEsLTE1ODYwMzAwMzgsMT
 cyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUwMF19
