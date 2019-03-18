@@ -8,9 +8,12 @@ permalink: casos-exito-seo
 
 # Casos de éxito SEO - Posicionamiento web
 
-Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la oportunidad de trabajar en múltiples proyectos. Os cuento los casos de éxito más notorios.
+Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la oportunidad de trabajar en múltiples proyectos. Os cuento los casos de éxito más importantes que he tenido la suerte de vivir.
 
-## Periódico nacional (España) / Recuperar tráfico perdido
+ 1. [Recuperar tráfico perdido en periódico nacional](#exito1)
+ 2. [Migración Ecommerce Internacional](#exito2)
+
+## <a name="exito1"></a> Periódico nacional (España) / Recuperar tráfico perdido
 
 Comencé en el año 2015 a trabajar en un periódico de tirada nacional que en los últimos 4 años había ido perdiendo tráfico de forma progresiva.
 
@@ -52,7 +55,7 @@ En la siguiente imagen se puede ver la evolución conseguida desde que comenzamo
 El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para poder ser competitivos y a involucrar a todo el equipo para trabajar en la misma línea.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDk5OTA1OCwxMzUxNTY5NzIzLC04Nj
-gyNTQyOTEsLTE1ODYwMzAwMzgsMTcyNTg4ODM1OSwzODUxMzgw
-MjQsMTAyODQ3NTUwMF19
+eyJoaXN0b3J5IjpbODQwOTY1Mjg5LDE4NzA5OTkwNTgsMTM1MT
+U2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LDE3MjU4ODgz
+NTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
 -->
