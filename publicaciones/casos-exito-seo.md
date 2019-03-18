@@ -78,7 +78,7 @@ Estos fueron los principales bloques de trabajo dentro de este proyecto:
 - Base SEO técnica de la nueva estructura (incidiendo en solucionar los problemas que arrastrábamos en el anterior desarrollo)
 - Arquitectura web (categorías, productos y páginas de ofertas)
 - Títulos, descripciones y palabras clave a potenciar por familias de productos
-- Análisis de calidad en base a qué páginas queríamos conservar y cuáles no de la página actual
+- Análisis de calidad en base a qué páginas queríamos conservar y cuáles no del sitio web actual
 - Diseño de estrategia de migración web
 
 Una vez que tuvimos todo el trabajo realizado, procedimos a establecer las fases de la migración web:
@@ -94,10 +94,10 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 ![Caso de éxito migración SEO - Emirodgar](https://i.imgur.com/88J5XxI.png)
 
-En la imagen anterior se puede ver el incremento en la visibilidad orgánca que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
+En la imagen anterior se puede ver el incremento en la visibilidad orgánica que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzI2OTcwMyw3ODUwNTAxODcsMTY0ND
-k2ODYxNCwtODAwNjc2NTYwLDExNzQ1NzQ1MjMsMTg3MDk5OTA1
-OCwxMzUxNTY5NzIzLC04NjgyNTQyOTEsLTE1ODYwMzAwMzgsMT
-cyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUwMF19
+eyJoaXN0b3J5IjpbLTEzODQ3NTE3MzcsNzg1MDUwMTg3LDE2ND
+Q5Njg2MTQsLTgwMDY3NjU2MCwxMTc0NTc0NTIzLDE4NzA5OTkw
+NTgsMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LD
+E3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
 -->
