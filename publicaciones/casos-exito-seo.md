@@ -58,9 +58,14 @@ El hecho de haber podido crecer tanto se debió a identificar correctamente las 
 
 ## <a name="ecommerce"></a> Migración Ecommerce internacional
 
-Este cliente está en el TOP10 de Ecommerce con más tráfico y ventas  España.
+Comienzo a trabajar en este proyecto debido a que 
+
+> Este cliente es uno de los 10 ecommerce con más tráfico y ventas en España.
+
+### Objetivo y esquema de trabajo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDQyNTIwOCwxMTc0NTc0NTIzLDE4Nz
+eyJoaXN0b3J5IjpbMjEzMjc1MDY2MCwxMTc0NTc0NTIzLDE4Nz
 A5OTkwNTgsMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMw
 MDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ
 ==
