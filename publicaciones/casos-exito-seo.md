@@ -66,11 +66,11 @@ Me enfrento a un reto sin igual dado que se trata de una página con millones de
 
 ### Objetivo y esquema de trabajo
 
-Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a perder visibilidad y tráfico orgánico de forma muy agresiva, por ello, comienzo analizando los puntos débiles y que han dado problemas durante los últimos meses para asegurarme que han quedado solucionados en el nuevo desarrollo. 
+Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a perder visibilidad y tráfico orgánico de forma muy agresiva, por ello, **analizo los puntos débiles** que han dado problemas durante los últimos meses para asegurarme que han quedado solucionados en el nuevo desarrollo. 
 
 ![Visibilidad en caída libre desde comienzos de 2016](https://i.imgur.com/6HUkSGh.png)
 
-A mayores, comienzo a trabajar con el equipo técnico encargado de la nueva web para optimizar la base SEO.
+A mayores, comienzo a trabajar con el equipo técnico encargado del desarrollo de la nueva web para asegurar que disponemos de una **base SEO sólida**.
 
 Estos fueron los principales bloques de trabajo dentro de este proyecto:
 
@@ -87,7 +87,7 @@ Una vez que tuvimos todo el trabajo realizado, procedimos a establecer las fases
 
 ![Caso de éxito migración SEO - Emirodgar](https://i.imgur.com/88J5XxI.png) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzAyMDc5NiwxNjQ0OTY4NjE0LC04MD
+eyJoaXN0b3J5IjpbLTYyMDYzNjQ4OSwxNjQ0OTY4NjE0LC04MD
 A2NzY1NjAsMTE3NDU3NDUyMywxODcwOTk5MDU4LDEzNTE1Njk3
 MjMsLTg2ODI1NDI5MSwtMTU4NjAzMDAzOCwxNzI1ODg4MzU5LD
 M4NTEzODAyNCwxMDI4NDc1NTAwXX0=
