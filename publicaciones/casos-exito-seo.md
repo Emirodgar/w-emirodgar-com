@@ -66,7 +66,9 @@ Me enfrento a un reto sin igual dado que se trata de una página con millones de
 
 ### Objetivo y esquema de trabajo
 
-Comienzo analizando los puntos débiles y que han dado problemas durante los últimos meses para asegurarme que han quedado solucionados en el nuevo desarrollo.
+Comienzo analizando los puntos débiles y que han dado problemas durante los últimos meses para asegurarme que han quedado solucionados en el nuevo desarrollo. Como
+
+![Visibilidad en caída libre desde comienzos de 2016](https://i.imgur.com/6HUkSGh.png)
 
 A mayores, comienzo a trabajar con el equipo técnico encargado de la nueva web para optimizar la base SEO.
 
@@ -75,8 +77,8 @@ A mayores, comienzo a trabajar con el equipo técnico encargado de la nueva web 
 - Títulos y descripciones de 
 - Migración web
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDY3NjU2MCwxMTc0NTc0NTIzLDE4Nz
-A5OTkwNTgsMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMw
-MDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ
-==
+eyJoaXN0b3J5IjpbLTE1NDkwNDA0NiwtODAwNjc2NTYwLDExNz
+Q1NzQ1MjMsMTg3MDk5OTA1OCwxMzUxNTY5NzIzLC04NjgyNTQy
+OTEsLTE1ODYwMzAwMzgsMTcyNTg4ODM1OSwzODUxMzgwMjQsMT
+AyODQ3NTUwMF19
 -->
