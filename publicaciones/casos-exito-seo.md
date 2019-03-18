@@ -45,15 +45,14 @@ Tras mucho tiempo definiendo la estructura y alineando a todo el equipo web para
 
 Este cambio nos ayudó a potenciar todo lo que ya habíamos ido trabajando y **conseguimos triplicar el tráfico orgánico**. Recordemos que hablamos de un periódico de tirada nacional con mucha competencia. 
 
-En la siguiente imagen se puede ver la evolución conseguida desde que comenzamos a trabajar hasta la fecha de hoy.
+En la siguiente imagen se puede ver la evolución conseguida desde que comenzamos a trabajar (línea negra horizontal) hasta la fecha de hoy.
 
 ![Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png)
 
 El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para poder ser competitivos y a involucrar a todo el equipo para trabajar en la misma línea.
 
-En la imagen anterior se puede apreciar la evolución seguida durante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjE2MzE5NSwtODY4MjU0MjkxLC0xNT
+eyJoaXN0b3J5IjpbMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNT
 g2MDMwMDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1
 MDBdfQ==
 -->
