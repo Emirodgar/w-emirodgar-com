@@ -18,13 +18,15 @@ El objetivo era **recuperar ese tráfico y volver a ser competitivos** tras vari
 
 ![Estado inicial caso éxito - pérdida de visibilidad orgánica](https://i.imgur.com/esO1WW0.png)
 
-En la imagen anterior podemos ver la evolución de la **visibilidad SEO** -obtenida con Sistrix- desde el 2011 hasta cuando comencé a trabajar en el proyecto.
+En la imagen anterior podemos ver la evolución de la **visibilidad SEO** -obtenida con Sistrix- desde el 2011 hasta el momento en el que comencé a trabajar en el proyecto.
+
+
 
 ![Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png)
 
 En la imagen anterior se puede apreciar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NDAxODMxLC04NjgyNTQyOTEsLTE1OD
-YwMzAwMzgsMTcyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUw
-MF19
+eyJoaXN0b3J5IjpbMTM1NTA0NzI2NCwtODY4MjU0MjkxLC0xNT
+g2MDMwMDM4LDE3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1
+MDBdfQ==
 -->
