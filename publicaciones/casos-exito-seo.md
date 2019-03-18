@@ -58,18 +58,22 @@ El hecho de haber podido crecer tanto se debió a identificar correctamente las 
 
 ## <a name="ecommerce"></a> Migración Ecommerce internacional
 
-Comienzo a trabajar en este proyecto a mediados de 2016 debido a que van a cambiar de plataforma y necesitan asegurar la correcta migración 
+Comienzo a trabajar en este proyecto a mediados de 2016 debido a que van a cambiar de plataforma y necesitan asegurar la correcta migración a la misma. 
 
 > Este cliente es uno de los 10 ecommerce con más tráfico y ventas en España.
 
+Me enfrento a un reto sin igual dado que se trata de una página con millones de productos a la venta y cuyo desarrollo ya ha comenzado.
+
 ### Objetivo y esquema de trabajo
+
+Comienzo analizando los puntos débiles y que han dado problemas durante los últimos meses para asegurarme que han quedado solucionados en
 
 - Base SEO técnica de la nueva estructura
 - Categorización y arquitectura web
 - Títulos y descripciones de 
 - Migración web
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyMzg1MTQ5LDExNzQ1NzQ1MjMsMTg3MD
+eyJoaXN0b3J5IjpbMTY2NTg3NDk4LDExNzQ1NzQ1MjMsMTg3MD
 k5OTA1OCwxMzUxNTY5NzIzLC04NjgyNTQyOTEsLTE1ODYwMzAw
 MzgsMTcyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUwMF19
 -->
