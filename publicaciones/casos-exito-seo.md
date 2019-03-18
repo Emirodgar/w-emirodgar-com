@@ -8,16 +8,16 @@ permalink: casos-exito-seo
 
 # Casos de éxito SEO - Posicionamiento web
 
-Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la oportunidad de trabajar en múltiples proyectos. Os cuento los casos de éxito más importantes que he tenido la suerte de vivir.
+Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la oportunidad de trabajar en múltiples proyectos. Os cuento los **casos de éxito SEO** más importantes que he conseguido.
 
- 1. [Recuperar tráfico perdido en periódico nacional](#periodico)
+ 1. [Recuperar tráfico perdido en periódico digital](#periodico)
  2. [Migración Ecommerce Internacional](#ecommerce)
 
-## <a name="periodico"></a> Periódico nacional (España) / Recuperar tráfico perdido
+## <a name="periodico"></a> Periódico digital (España) / Recuperar tráfico perdido
 
 Comencé en el año 2015 a trabajar en un periódico de tirada nacional que en los últimos 4 años había ido perdiendo tráfico de forma progresiva.
 
-> Actualmente este medio cuenta con cerca de 3 millones de URLs indexadas y más de 200k keywords posicionadas.
+> Actualmente este medio cuenta con cerca de 3 millones de URLs indexadas y más de 200k palabras clave posicionadas en Google España.
 
 ### Objetivo y esquema de trabajo
 
@@ -95,7 +95,7 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánca que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczNTI4NDkzLDc4NTA1MDE4NywxNjQ0OT
+eyJoaXN0b3J5IjpbNDUwMDA3MDE1LDc4NTA1MDE4NywxNjQ0OT
 Y4NjE0LC04MDA2NzY1NjAsMTE3NDU3NDUyMywxODcwOTk5MDU4
 LDEzNTE1Njk3MjMsLTg2ODI1NDI5MSwtMTU4NjAzMDAzOCwxNz
 I1ODg4MzU5LDM4NTEzODAyNCwxMDI4NDc1NTAwXX0=
