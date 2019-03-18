@@ -66,18 +66,20 @@ Me enfrento a un reto sin igual dado que se trata de una página con millones de
 
 ### Objetivo y esquema de trabajo
 
-Comienzo analizando los puntos débiles y que han dado problemas durante los últimos meses para asegurarme que han quedado solucionados en el nuevo desarrollo. Como
+Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a perder visibilidad y tráfico orgánico de forma muy agresiva, por ello, comienzo analizando los puntos débiles y que han dado problemas durante los últimos meses para asegurarme que han quedado solucionados en el nuevo desarrollo. 
 
 ![Visibilidad en caída libre desde comienzos de 2016](https://i.imgur.com/6HUkSGh.png)
 
 A mayores, comienzo a trabajar con el equipo técnico encargado de la nueva web para optimizar la base SEO.
 
+Estos fueron los principales bloques de trabajo dentro de este proyecto:
+
 - Base SEO técnica de la nueva estructura
-- Categorización y arquitectura web
+- Arquitectura web (categorías, productos y páginas de ofertas)
 - Títulos y descripciones de 
 - Migración web
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkwNDA0NiwtODAwNjc2NTYwLDExNz
+eyJoaXN0b3J5IjpbMTAwNjU1MDI2OCwtODAwNjc2NTYwLDExNz
 Q1NzQ1MjMsMTg3MDk5OTA1OCwxMzUxNTY5NzIzLC04NjgyNTQy
 OTEsLTE1ODYwMzAwMzgsMTcyNTg4ODM1OSwzODUxMzgwMjQsMT
 AyODQ3NTUwMF19
