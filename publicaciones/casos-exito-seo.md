@@ -13,7 +13,7 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
  1. [Recuperar tráfico perdido en periódico digital](#periodico)
  2. [Migración Ecommerce Internacional](#ecommerce)
 
-## <a name="periodico"></a> Periódico digital (España) / Recuperar tráfico perdido
+## <a name="periodico"></a> 1- Periódico digital (España) / Recuperar tráfico perdido
 
 Comencé en el año 2015 a trabajar en un periódico de tirada nacional que en los últimos 4 años había ido perdiendo tráfico de forma progresiva.
 
@@ -57,7 +57,7 @@ En la siguiente imagen se puede ver la evolución conseguida desde que comenzamo
 
 El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para poder ser competitivos y a involucrar a todo el equipo para trabajar en la misma línea.
 
-## <a name="ecommerce"></a> Migración Ecommerce internacional
+## <a name="ecommerce"></a> 2- Migración Ecommerce internacional
 
 Comienzo a trabajar en este proyecto a mediados de 2016 debido a que van a cambiar de plataforma y necesitan asegurar la correcta migración a la misma. 
 
@@ -67,7 +67,7 @@ Me enfrento a un reto sin igual dado que se trata de una página con millones de
 
 ### Objetivo y esquema de trabajo
 
-Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a perder visibilidad y tráfico orgánico de forma muy agresiva, por ello, **analizo los puntos débiles** que han dado problemas durante los últimos meses para asegurarme que han quedado solucionados en el nuevo desarrollo. 
+Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a perder visibilidad y tráfico orgánico de forma muy agresiva, por ello, **analizo los puntos débiles** que han dado problemas durante los últimos meses y me aseguro que los solucionamos en el nuevo desarrollo. 
 
 ![Visibilidad en caída libre desde comienzos de 2016](https://i.imgur.com/6HUkSGh.png)
 
@@ -96,8 +96,8 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánca que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyOTc3NDA3LDc4NTA1MDE4NywxNjQ0OT
-Y4NjE0LC04MDA2NzY1NjAsMTE3NDU3NDUyMywxODcwOTk5MDU4
-LDEzNTE1Njk3MjMsLTg2ODI1NDI5MSwtMTU4NjAzMDAzOCwxNz
-I1ODg4MzU5LDM4NTEzODAyNCwxMDI4NDc1NTAwXX0=
+eyJoaXN0b3J5IjpbMTY2NjY0NTE1NCw3ODUwNTAxODcsMTY0ND
+k2ODYxNCwtODAwNjc2NTYwLDExNzQ1NzQ1MjMsMTg3MDk5OTA1
+OCwxMzUxNTY5NzIzLC04NjgyNTQyOTEsLTE1ODYwMzAwMzgsMT
+cyNTg4ODM1OSwzODUxMzgwMjQsMTAyODQ3NTUwMF19
 -->
