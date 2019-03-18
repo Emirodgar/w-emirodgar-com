@@ -10,9 +10,10 @@ permalink: casos-exito-posicionamiento-seo
 
 Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la oportunidad de trabajar en múltiples proyectos. Os cuento los casos de éxito más notorios.
 
-## Periódico nacional (España)
+## Periódico nacional (España) / 
 
-Comencé en el año
+Comencé en el año 2015 ha trabajar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
+eyJoaXN0b3J5IjpbMTcyNTg4ODM1OSwzODUxMzgwMjQsMTAyOD
+Q3NTUwMF19
 -->
