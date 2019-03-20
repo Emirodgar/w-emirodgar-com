@@ -14,7 +14,9 @@ Se trata de un servicio gratuito de Google que nos ayudará a generar visibilida
 
 ## 1- Dar de alta el perfil en GMB
 
-El primer paso será crear el perfil de nuestra empresa en este servicio. Si ya existe (Google obtiene información de empresas a través de partners) tendremos que reclamar la au
+El primer paso será crear el perfil de nuestra empresa en este servicio. Si ya existe (Google obtiene información de empresas a través de partners) tendremos que reclamar como que somos los legítimos dueños de dicha empresa para poder optimizar la información que aparece.
+
+Una vez tengamos control sobre el mismo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg5Mjc4NjddfQ==
+eyJoaXN0b3J5IjpbLTg3ODk2NTY2MV19
 -->
