@@ -5,6 +5,8 @@ lang: es_ES
 permalink: posicionamiento-seo-local
 
 ---
+
+# Posicionamiento SEO local 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjE3OTkxMl19
+eyJoaXN0b3J5IjpbLTEzNzU4NTMxNjJdfQ==
 -->
