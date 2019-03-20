@@ -24,9 +24,9 @@ Una vez tengamos control sobre el mismo, debemos rellenar toda la información q
 
 ## 2- Consigue valoraciones positivas
 
-Una vez que tengamos le perfil podrá ser cualificado; cualquier persona que haya interactuado con nuestro negocio podrá valorar el servicio que ha recibido. Lo hará con un cometario, valoración y posiblemente también con alguna imagen.
+Una vez que tengamos le perfil podrá ser cualificado; cualquier persona que haya interactuado con nuestro negocio podrá valorar el servicio que ha recibido a través de un cometario e incluso acompañado de una imagen.
 
-Debemos asesorar a los clientes -especialmente a los satisfechos- para que valoren positivamente el servicio recibido. Si es posible
+Debemos asesorar a los clientes -especialmente a los satisfechos- para que valoren positivamente el servicio recibido. Si es posible, que detallen lo que más les ha gustado (contenido útil para futuros clientes) y lo acompañen con alguna imagen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYxNzAzMzYsMTE1MTYxNzE3XX0=
+eyJoaXN0b3J5IjpbMTU2MjQ3Mzc1NCwxMTUxNjE3MTddfQ==
 -->
