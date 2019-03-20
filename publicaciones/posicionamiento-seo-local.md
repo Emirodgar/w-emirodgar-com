@@ -32,7 +32,7 @@ Debemos asesorar a los clientes -especialmente a los satisfechos- para que valor
 
 Una de las funcionalidades de GMB es la posibilidad de que cualquier usuario haga una pregunta sobre el negocio. Alguien interesa es un cliente potencial por lo que urge que le podamos contestar a la mayor brevedad.
 
-Para estar al tan
+Para estar al tanto de cuándo pregunta alguien, la aplicación de [Google Maps](https://support.google.com/maps/answer/6139433?hl=en) nos puede ayudar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4NjE2NTg0LDExNTE2MTcxN119
+eyJoaXN0b3J5IjpbLTEyMDU5NzUwNTQsMTE1MTYxNzE3XX0=
 -->
