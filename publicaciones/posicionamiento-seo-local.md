@@ -38,8 +38,12 @@ Para estar al tanto de cuándo pregunta alguien, la aplicación de [Google Maps]
 
 Google tiene una opción de pago por la que podemos crear anuncios para que impacten en personas en función de su localización.
 
-Por ejemplo, imaginemos que tenemos un restaurante cerca de un parque, podríamos lanzar un anuncio sobre la 13:00-15:00 para todas aquellas personas en un radio de 1km con un mensaje
+Por ejemplo, imaginemos que tenemos un restaurante cerca de un parque, podríamos lanzar un anuncio sobre la 13:00-15:00 para todas aquellas personas en un radio de 1km con un mensaje claro "¿Cansado de caminar por el parque? ven a reponer fuerzas a XXX".
+
+Aprovechar eventos relacionados también genera muy buenos resultados.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzk2MTQ1LC0yMTM1OTk1NDUwLDExNT
-E2MTcxN119
+eyJoaXN0b3J5IjpbMjA1MjMxNDg5MSwxNTI3OTYxNDUsLTIxMz
+U5OTU0NTAsMTE1MTYxNzE3XX0=
 -->
