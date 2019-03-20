@@ -42,9 +42,9 @@ Google tiene una opción de pago por la que podemos crear anuncios para que impa
 
 Por ejemplo, imaginemos que tenemos un restaurante cerca de un parque, podríamos lanzar un anuncio sobre la 13:00-15:00 para todas aquellas personas en un radio de 1km con un mensaje claro "¿Cansado de caminar por el parque? ven a reponer fuerzas a XXX".
 
-Otra opción sería poner anuncios de "Restaurante cerca de Museo XXX" o "Comer cerca de Est
+Otra opción sería poner anuncios de "Restaurante cerca de Museo XXX" o "Comer cerca de Estadio XXX". La ubicación es muy importante y nos da una ventaja competitiva frente al resto.
 
-Aprovechar eventos relacionados también genera muy buenos resultados.
+Aprovechar eventos (conciertos, ferias, etc.) también genera muy buenos resultados.
 
 ## 5- Analiza usuarios y competencia
 
@@ -54,6 +54,6 @@ Es posible que tu competencia también haya hecho este tipo de análisis por lo 
 
 Recomiendo prestar especial atención a los horarios, ¿es posible que estemos cerrando justo cuando nuestro público objetivo sale del trabajo y quiere comprar?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODkzNSwxNTI3OTYxNDUsLTIxMzU5OT
-U0NTAsMTE1MTYxNzE3XX0=
+eyJoaXN0b3J5IjpbLTM1ODQyMzkzMiwxNTI3OTYxNDUsLTIxMz
+U5OTU0NTAsMTE1MTYxNzE3XX0=
 -->
