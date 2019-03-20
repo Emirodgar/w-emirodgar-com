@@ -16,7 +16,15 @@ Se trata de un servicio gratuito de Google que nos ayudará a generar visibilida
 
 El primer paso será crear el perfil de nuestra empresa en este servicio. Si ya existe (Google obtiene información de empresas a través de partners) tendremos que reclamar como que somos los legítimos dueños de dicha empresa para poder optimizar la información que aparece.
 
-Una vez tengamos control sobre el mismo
+Una vez tengamos control sobre el mismo, debemos rellenar toda la información que nos sea posible; detaco los siguientes puntos:
+
+- Imágenes de la empresa
+- Título y categoría correctos
+- Horarios
+
+## 2- Consigue valoraciones positivas
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODk2NTY2MV19
+eyJoaXN0b3J5IjpbLTM4ODI1Nzk5MF19
 -->
