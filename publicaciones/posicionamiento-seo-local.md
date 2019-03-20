@@ -42,8 +42,12 @@ Por ejemplo, imaginemos que tenemos un restaurante cerca de un parque, podríamo
 
 Aprovechar eventos relacionados también genera muy buenos resultados.
 
+## 5- Analiza usuarios y competencia
 
+Para poder conseguir ventas tienes que conocer muy bien a tu público objetivo. Quiénes son, qué quieren, cuándo lo quieren y cómo lo quieren.
+
+Es posible que tu competencia también haya hecho este tipo de análisis por lo que revisar sus perfiles GMB nos puede ayudar a determinar cuáles son nuestros puntos flojos. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjMxNDg5MSwxNTI3OTYxNDUsLTIxMz
-U5OTU0NTAsMTE1MTYxNzE3XX0=
+eyJoaXN0b3J5IjpbLTEwODA3OTA4NzcsMTUyNzk2MTQ1LC0yMT
+M1OTk1NDUwLDExNTE2MTcxN119
 -->
