@@ -10,9 +10,11 @@ permalink: posicionamiento-seo-local
 
 Para poder trabajar el SEO local y aumentar las ventas de clientes presenciales en nuestro negocio es imprescindible tener un perfil en [Google My Business](https://www.google.com/intl/es_es/business/) (GMB).
 
-Se trata de un servicio gratuito de Google que nos ayudará a generar visibilidad dentro de nuestra ciudad y poder atraer futuros clientes.
+> Se trata de un servicio gratuito de Google que nos ayudará a generar visibilidad dentro de nuestra ciudad y poder atraer futuros clientes.
 
-## 1- Dar de alta el perfil en GMB
+A continuación os doy 5 consejos para potenciar las ventas 
+
+## 1- Optimiza el perfil en GMB
 
 El primer paso será crear el perfil de nuestra empresa en este servicio. Si ya existe (Google obtiene información de empresas a través de partners) tendremos que reclamar como que somos los legítimos dueños de dicha empresa para poder optimizar la información que aparece.
 
@@ -47,7 +49,9 @@ Aprovechar eventos relacionados también genera muy buenos resultados.
 Para poder conseguir ventas tienes que conocer muy bien a tu público objetivo. Quiénes son, qué quieren, cuándo lo quieren y cómo lo quieren.
 
 Es posible que tu competencia también haya hecho este tipo de análisis por lo que revisar sus perfiles GMB nos puede ayudar a determinar cuáles son nuestros puntos flojos. 
+
+Recomiendo prestar especial atención a los horarios, ¿es posible que estemos cerrando justo cuando nuestro público objetivo sale del trabajo y quiere comprar?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA3OTA4NzcsMTUyNzk2MTQ1LC0yMT
-M1OTk1NDUwLDExNTE2MTcxN119
+eyJoaXN0b3J5IjpbODczNzQ4MzE1LDE1Mjc5NjE0NSwtMjEzNT
+k5NTQ1MCwxMTUxNjE3MTddfQ==
 -->
