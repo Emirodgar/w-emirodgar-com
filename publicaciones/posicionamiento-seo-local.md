@@ -27,6 +27,12 @@ Una vez tengamos control sobre el mismo, debemos rellenar toda la información q
 Una vez que tengamos le perfil podrá ser cualificado; cualquier persona que haya interactuado con nuestro negocio podrá valorar el servicio que ha recibido a través de un cometario e incluso acompañado de una imagen.
 
 Debemos asesorar a los clientes -especialmente a los satisfechos- para que valoren positivamente el servicio recibido. Si es posible, que detallen lo que más les ha gustado (contenido útil para futuros clientes) y lo acompañen con alguna imagen.
+
+## 3- Contesta rápido a las preguntas
+
+Una de las funcionalidades de GMB es la posibilidad de que cualquier usuario haga una pregunta sobre el negocio. Alguien interesa es un cliente potencial por lo que urge que le podamos contestar a la mayor brevedad.
+
+Para estar al tan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjQ3Mzc1NCwxMTUxNjE3MTddfQ==
+eyJoaXN0b3J5IjpbNDM4NjE2NTg0LDExNTE2MTcxN119
 -->
