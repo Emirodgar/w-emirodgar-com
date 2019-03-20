@@ -36,7 +36,10 @@ Para estar al tanto de cuándo pregunta alguien, la aplicación de [Google Maps]
 
 ## 4- Publicita tu negocio con eventos o servicios cercanos
 
-Google tiene una opción de pago por la que podemos lanzar anuncios a personas en función de su situación.
+Google tiene una opción de pago por la que podemos crear anuncios para que impacten en personas en función de su localización.
+
+Por ejemplo, imaginemos que tenemos un restaurante cerca de un parque, podríamos lanzar un anuncio sobre la 13:00-15:00 para todas aquellas personas en un radio de 1km con un mensaje
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU5OTU0NTAsMTE1MTYxNzE3XX0=
+eyJoaXN0b3J5IjpbMTUyNzk2MTQ1LC0yMTM1OTk1NDUwLDExNT
+E2MTcxN119
 -->
