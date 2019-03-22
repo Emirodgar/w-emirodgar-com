@@ -12,7 +12,7 @@ Para poder trabajar el SEO local y aumentar las ventas de clientes presenciales 
 
 > Se trata de un servicio gratuito de Google que nos ayudará a generar visibilidad dentro de nuestra ciudad y poder atraer futuros clientes.
 
-A continuación os doy 5 consejos para potenciar las ventas a través de **SEO local** en Google My Business.
+A continuación os doy 5 consejos para [potenciar las ventas](casos-exito-seo) a través de **SEO local** en Google My Business.
 
 ## 1- Optimiza el perfil en GMB
 
@@ -54,6 +54,6 @@ Es posible que tu competencia también haya hecho este tipo de análisis por lo 
 
 Recomiendo prestar especial atención a los horarios, ¿es posible que estemos cerrando justo cuando nuestro público objetivo sale del trabajo y quiere comprar?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODQyMzkzMiwxNTI3OTYxNDUsLTIxMz
+eyJoaXN0b3J5IjpbLTU3MDk3ODI3NiwxNTI3OTYxNDUsLTIxMz
 U5OTU0NTAsMTE1MTYxNzE3XX0=
 -->
