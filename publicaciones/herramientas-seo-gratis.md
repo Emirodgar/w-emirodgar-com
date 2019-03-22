@@ -19,15 +19,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - https://seolyzer.io
 - https://www.woorank.com
 
-## Extensiones de navegador SEO
-
-- [Extractor de entidades](https://chrome.google.com/webstore/detail/extractor-de-entidades/abngfjnmaobeaaheapakabhdoapfopdi)
-- [Ver renderizado](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob)
-- [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
-- [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
-- [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
-
-
 
 ## Keyword research / Contenidos
 
@@ -44,9 +35,17 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 [https://review-checker.whitespark.ca](https://review-checker.whitespark.ca/)
 
-##Enlaces
+## Enlaces / Linkbuilding
 
 -   [https://backlinkshitter.com](https://backlinkshitter.com/)
+
+## Extensiones de navegador SEO
+
+- [Extractor de entidades](https://chrome.google.com/webstore/detail/extractor-de-entidades/abngfjnmaobeaaheapakabhdoapfopdi)
+- [Ver renderizado](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob)
+- [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+- [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+- [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI0MzczMSwtNTMxODExMDI5XX0=
+eyJoaXN0b3J5IjpbODA1Nzg3NTQ0LC01MzE4MTEwMjldfQ==
 -->
