@@ -37,13 +37,8 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 ## SEO Local
 
-[https://review-checker.whitespark.ca](https://review-checker.whitespark.ca/)
-
-## Enlaces / Linkbuilding
-
--   [https://backlinkshitter.com](https://backlinkshitter.com/)
-- http://www.seopowersuite.es/seo-spyglass/
-- https://ahrefs.com/es/backlink-checker
+- https://review-checker.whitespark.ca
+- https://www.yext.com/
 
 ## Optimizar la conversión
 
@@ -60,6 +55,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDQzMjU5OCw4MDU3ODc1NDQsLTUzMT
-gxMTAyOV19
+eyJoaXN0b3J5IjpbLTExNDY1NDAxODksODA1Nzg3NTQ0LC01Mz
+E4MTEwMjldfQ==
 -->
