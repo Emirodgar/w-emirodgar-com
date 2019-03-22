@@ -30,6 +30,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [http://spyonweb.com](http://spyonweb.com)
 - [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
 - [https://www.seobility.net](https://www.seobility.net)
+- [https://www.dareboost.com](https://www.dareboost.com)
 
 ## Keyword research / Contenidos
 
@@ -71,6 +72,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzUzMTcwNCwtMjQ3NTA1Njg2LDYzNT
-AwMDA1NSw4MDU3ODc1NDQsLTUzMTgxMTAyOV19
+eyJoaXN0b3J5IjpbLTExNDAyMjQzNzQsLTI0NzUwNTY4Niw2Mz
+UwMDAwNTUsODA1Nzg3NTQ0LC01MzE4MTEwMjldfQ==
 -->
