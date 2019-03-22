@@ -12,10 +12,11 @@ Hace ya tiempo compartí mi listado de [recursos para marketing digital](recurso
 
 Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más rápido y eficiente en nuestras tareas SEO.
 
-## Auditoría SEO o SEO Técnico 
+## Auditoría SEO / SEO Técnico 
 
-[https://sitechecker.pro](https://sitechecker.pro/)  
-[https://seositecheckup.com/seo-audit](https://seositecheckup.com/seo-audit)
+- [https://sitechecker.pro](https://sitechecker.pro/)  
+- [https://seositecheckup.com/seo-audit](https://seositecheckup.com/seo-audit)
+- https://seolyzer.io
 
 Revisar metaetiquetas  
 [https://metatags.io/](https://metatags.io/)
@@ -48,5 +49,5 @@ Revisar metaetiquetas
 
 -   [https://backlinkshitter.com](https://backlinkshitter.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODcyNzY4OSwtNTMxODExMDI5XX0=
+eyJoaXN0b3J5IjpbNzI4OTkxMjg0LC01MzE4MTEwMjldfQ==
 -->
