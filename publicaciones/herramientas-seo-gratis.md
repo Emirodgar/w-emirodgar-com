@@ -48,6 +48,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://app.neilpatel.com/es/ubersuggest](https://app.neilpatel.com/es/ubersuggest)
 - [https://www.keyworddit.com/](https://www.keyworddit.com/)
 - [https://lsigraph.com](https://lsigraph.com)
+- [https://safecont.com/](https://safecont.com/)
 
 ## Enlaces / Linkbuilding
 
@@ -76,6 +77,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUzNjA5NjAsLTI0NzUwNTY4Niw2Mz
-UwMDAwNTUsODA1Nzg3NTQ0LC01MzE4MTEwMjldfQ==
+eyJoaXN0b3J5IjpbLTE3ODg5NjY3ODIsLTE1NjUzNjA5NjAsLT
+I0NzUwNTY4Niw2MzUwMDAwNTUsODA1Nzg3NTQ0LC01MzE4MTEw
+MjldfQ==
 -->
