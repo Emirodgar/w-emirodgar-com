@@ -20,6 +20,23 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 
+## Optimizar contenidos
+
+- https://textoptimizer.com
+- http://keywordshitter.com
+
+## Optimizar la conversión
+
+-   [https://www.finteza.com](https://www.finteza.com/)
+- [Hotjar](https://www.hotjar.com)
+
+## SEO Local
+
+[https://review-checker.whitespark.ca](https://review-checker.whitespark.ca/)
+
+##Enlaces
+
+-   [https://backlinkshitter.com](https://backlinkshitter.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTcxNDc5MTksLTUzMTgxMTAyOV19
+eyJoaXN0b3J5IjpbLTE2Njc2NDQzOTMsLTUzMTgxMTAyOV19
 -->
