@@ -15,9 +15,10 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 ## Auditoría SEO / SEO Técnico 
 
 - [https://sitechecker.pro](https://sitechecker.pro/)  
-- [https://seositecheckup.com/seo-audit](https://seositecheckup.com/seo-audit)
+- https://seositecheckup.com
 - https://seolyzer.io
 - https://www.woorank.com
+- https://speedmonitor.io
 
 
 ## Keyword research / Contenidos
@@ -29,8 +30,8 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 ## Optimizar la conversión
 
 -   [https://www.finteza.com](https://www.finteza.com/)
-- [Hotjar](https://www.hotjar.com)
-
+- https://www.hotjar.com
+- 
 ## SEO Local
 
 [https://review-checker.whitespark.ca](https://review-checker.whitespark.ca/)
@@ -47,5 +48,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1Nzg3NTQ0LC01MzE4MTEwMjldfQ==
+eyJoaXN0b3J5IjpbLTcxODkxNzYzLDgwNTc4NzU0NCwtNTMxOD
+ExMDI5XX0=
 -->
