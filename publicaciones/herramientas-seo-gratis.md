@@ -19,12 +19,14 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://seolyzer.io](https://seolyzer.io)
 - [https://www.woorank.com](ttps://www.woorank.com)
 - [http://www.seopowersuite.es/website-auditor/](http://www.seopowersuite.es/website-auditor/)
+
+## SEO Técnico 
+
 - [https://speedmonitor.io](https://speedmonitor.io)
 - [http://www.browseo.net](http://www.browseo.net)
 - [https://www.screamingfrog.co.uk/seo-spider/](https://www.screamingfrog.co.uk/seo-spider/)
 - [http://spyonweb.com](http://spyonweb.com)
 - [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
-
 
 ## Keyword research / Contenidos
 
@@ -35,6 +37,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://metatags.io](https://metatags.io)
 - [http://tools.seobook.com/firefox/rank-checker/](http://tools.seobook.com/firefox/rank-checker/)
 - [http://www.seopowersuite.es/rank-tracker/](http://www.seopowersuite.es/rank-tracker/)
+- [https://www.seedkeywords.com/](https://www.seedkeywords.com/)
 
 ## Enlaces / Linkbuilding
 
@@ -63,6 +66,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyNTA1NDExLDYzNTAwMDA1NSw4MDU3OD
+eyJoaXN0b3J5IjpbNDU1NTEzNDExLDYzNTAwMDA1NSw4MDU3OD
 c1NDQsLTUzMTgxMTAyOV19
 -->
