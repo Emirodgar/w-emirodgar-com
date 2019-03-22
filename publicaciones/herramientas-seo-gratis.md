@@ -17,9 +17,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://sitechecker.pro](https://sitechecker.pro/)  
 - [https://seositecheckup.com/seo-audit](https://seositecheckup.com/seo-audit)
 - https://seolyzer.io
-
-Revisar metaetiquetas  
-[https://metatags.io/](https://metatags.io/)
+- https://www.woorank.com
 
 ## Extensiones de navegador SEO
 
@@ -50,5 +48,5 @@ Revisar metaetiquetas
 
 -   [https://backlinkshitter.com](https://backlinkshitter.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTUxNzUwNSwtNTMxODExMDI5XX0=
+eyJoaXN0b3J5IjpbLTE1MjI0MzczMSwtNTMxODExMDI5XX0=
 -->
