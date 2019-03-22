@@ -8,9 +8,17 @@ permalink: herramientas-seo-gratis
 
 # Herramientas SEO gratis
 
-Hace ya tiempo compartí mi listado de [recursos para marketing digital](recursos-marketing-digital). En él incluía multitud de herramientas, tanto de pago como gratuitas para abordar cualquier problemática dentro de una estrategia de marketing digital.
+Hace ya tiempo compartí mi listado de [recursos para marketing digital](recursos-marketing-digital). En él incluía multitud de herramientas, tanto de pago como gratuitas para abordar cualquier problemática dentro de una [estrategia SEO](estrategia-seo).
 
 Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más rápido y eficiente en nuestras tareas SEO.
+
+## Auditoría SEO o SEO Técnico 
+
+[https://sitechecker.pro](https://sitechecker.pro/)  
+[https://seositecheckup.com/seo-audit](https://seositecheckup.com/seo-audit)
+
+Revisar metaetiquetas  
+[https://metatags.io/](https://metatags.io/)
 
 ## Extensiones de navegador SEO
 
@@ -19,6 +27,8 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
+
+
 
 ## Optimizar contenidos
 
@@ -38,5 +48,5 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 -   [https://backlinkshitter.com](https://backlinkshitter.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njc2NDQzOTMsLTUzMTgxMTAyOV19
+eyJoaXN0b3J5IjpbMTQ2ODcyNzY4OSwtNTMxODExMDI5XX0=
 -->
