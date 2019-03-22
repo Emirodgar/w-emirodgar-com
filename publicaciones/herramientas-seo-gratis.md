@@ -25,10 +25,12 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 ## Keyword research / Contenidos
 
-- https://keywordseverywhere.com/
+- https://keywordseverywhere.com
 - https://textoptimizer.com
 - http://keywordshitter.com
-- https://metatags.io/
+- https://metatags.io
+- http://tools.seobook.com/firefox/rank-checker/
+- http://www.seopowersuite.es/rank-tracker/
 
 
 ## SEO Local
@@ -54,6 +56,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNDgxNzAwLDgwNTc4NzU0NCwtNTMxOD
-ExMDI5XX0=
+eyJoaXN0b3J5IjpbLTU2ODY0NDAzMCw4MDU3ODc1NDQsLTUzMT
+gxMTAyOV19
 -->
