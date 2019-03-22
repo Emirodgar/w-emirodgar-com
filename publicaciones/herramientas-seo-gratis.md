@@ -31,7 +31,9 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 -   [https://www.finteza.com](https://www.finteza.com/)
 - https://www.hotjar.com
-- 
+- https://www.crazyegg.com/
+- https://optimize.google.com
+
 ## SEO Local
 
 [https://review-checker.whitespark.ca](https://review-checker.whitespark.ca/)
@@ -48,6 +50,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODkxNzYzLDgwNTc4NzU0NCwtNTMxOD
-ExMDI5XX0=
+eyJoaXN0b3J5IjpbLTMwNDYwOTUzMCw4MDU3ODc1NDQsLTUzMT
+gxMTAyOV19
 -->
