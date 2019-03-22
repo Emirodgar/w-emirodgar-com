@@ -18,6 +18,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - https://seositecheckup.com
 - https://seolyzer.io
 - https://www.woorank.com
+- http://www.seopowersuite.es/website-auditor/
 - https://speedmonitor.io
 - http://www.browseo.net
 - https://www.screamingfrog.co.uk/seo-spider/
@@ -40,6 +41,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 ## Enlaces / Linkbuilding
 
 -   [https://backlinkshitter.com](https://backlinkshitter.com/)
+- http://www.seopowersuite.es/seo-spyglass/
 
 ## Optimizar la conversión
 
@@ -56,6 +58,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODY0NDAzMCw4MDU3ODc1NDQsLTUzMT
+eyJoaXN0b3J5IjpbMTA2MjY2NzQ3NCw4MDU3ODc1NDQsLTUzMT
 gxMTAyOV19
 -->
