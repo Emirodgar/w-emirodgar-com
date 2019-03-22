@@ -27,12 +27,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - http://keywordshitter.com
 - https://metatags.io/
 
-## Optimizar la conversión
-
--   [https://www.finteza.com](https://www.finteza.com/)
-- https://www.hotjar.com
-- https://www.crazyegg.com/
-- https://optimize.google.com
 
 ## SEO Local
 
@@ -42,6 +36,13 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 -   [https://backlinkshitter.com](https://backlinkshitter.com/)
 
+## Optimizar la conversión
+
+- https://www.finteza.com
+- https://www.hotjar.com
+- https://www.crazyegg.com
+- https://optimize.google.com
+
 ## Extensiones de navegador SEO
 
 - [Extractor de entidades](https://chrome.google.com/webstore/detail/extractor-de-entidades/abngfjnmaobeaaheapakabhdoapfopdi)
@@ -50,6 +51,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDYwOTUzMCw4MDU3ODc1NDQsLTUzMT
+eyJoaXN0b3J5IjpbMjA5ODczNzg5Myw4MDU3ODc1NDQsLTUzMT
 gxMTAyOV19
 -->
