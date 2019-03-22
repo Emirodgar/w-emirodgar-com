@@ -31,10 +31,11 @@ Revisar metaetiquetas
 
 
 
-## Optimizar contenidos
+## Keyword research / Contenidos
 
 - https://textoptimizer.com
 - http://keywordshitter.com
+- https://metatags.io/
 
 ## Optimizar la conversión
 
@@ -49,5 +50,5 @@ Revisar metaetiquetas
 
 -   [https://backlinkshitter.com](https://backlinkshitter.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4OTkxMjg0LC01MzE4MTEwMjldfQ==
+eyJoaXN0b3J5IjpbLTQyMTUxNzUwNSwtNTMxODExMDI5XX0=
 -->
