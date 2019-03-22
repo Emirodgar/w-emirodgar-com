@@ -20,10 +20,12 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - https://www.woorank.com
 - https://speedmonitor.io
 - http://www.browseo.net
+- https://www.screamingfrog.co.uk/seo-spider/
 
 
 ## Keyword research / Contenidos
 
+- https://keywordseverywhere.com/
 - https://textoptimizer.com
 - http://keywordshitter.com
 - https://metatags.io/
@@ -52,6 +54,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE4NDA1MjMsODA1Nzg3NTQ0LC01Mz
-E4MTEwMjldfQ==
+eyJoaXN0b3J5IjpbNjEyNDgxNzAwLDgwNTc4NzU0NCwtNTMxOD
+ExMDI5XX0=
 -->
