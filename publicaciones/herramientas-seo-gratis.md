@@ -32,6 +32,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://www.seobility.net](https://www.seobility.net)
 - [https://www.dareboost.com](https://www.dareboost.com)
 - [https://gtmetrix.com/](https://gtmetrix.com/)
+- [https://varvy.com/](https://varvy.com/)
 
 ## Keyword research / Contenidos
 
@@ -73,6 +74,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjU4MjYzNiwtMjQ3NTA1Njg2LDYzNT
+eyJoaXN0b3J5IjpbMjAwMzcwNTU3NCwtMjQ3NTA1Njg2LDYzNT
 AwMDA1NSw4MDU3ODc1NDQsLTUzMTgxMTAyOV19
 -->
