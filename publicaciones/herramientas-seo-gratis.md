@@ -23,6 +23,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [http://www.browseo.net](http://www.browseo.net)
 - [https://www.screamingfrog.co.uk/seo-spider/](https://www.screamingfrog.co.uk/seo-spider/)
 - [http://spyonweb.com](http://spyonweb.com)
+- [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
 
 
 ## Keyword research / Contenidos
@@ -40,6 +41,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 -   [https://backlinkshitter.com](https://backlinkshitter.com/)
 - [http://www.seopowersuite.es/seo-spyglass/](http://www.seopowersuite.es/seo-spyglass/)
 - [https://ahrefs.com/es/backlink-checker](https://ahrefs.com/es/backlink-checker)
+- [https://www.canirank.com](https://www.canirank.com)
 
 ## SEO Local
 
@@ -61,6 +63,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTg1NTM3Myw2MzUwMDAwNTUsODA1Nz
-g3NTQ0LC01MzE4MTEwMjldfQ==
+eyJoaXN0b3J5IjpbODcyNTA1NDExLDYzNTAwMDA1NSw4MDU3OD
+c1NDQsLTUzMTgxMTAyOV19
 -->
