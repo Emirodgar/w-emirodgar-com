@@ -19,6 +19,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - https://seolyzer.io
 - https://www.woorank.com
 - https://speedmonitor.io
+- http://www.browseo.net
 
 
 ## Keyword research / Contenidos
@@ -51,6 +52,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODczNzg5Myw4MDU3ODc1NDQsLTUzMT
-gxMTAyOV19
+eyJoaXN0b3J5IjpbLTIxNDE4NDA1MjMsODA1Nzg3NTQ0LC01Mz
+E4MTEwMjldfQ==
 -->
