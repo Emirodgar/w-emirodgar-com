@@ -12,7 +12,7 @@ Hace ya tiempo compartí mi listado de [recursos para marketing digital](recurso
 
 Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más eficientemente y rápido en nuestras tareas SEO.
 
-## Auditoría SEO / SEO Técnico 
+## Auditoría SEO 
 
 - [https://sitechecker.pro](https://sitechecker.pro/)  
 - [https://seositecheckup.com/](https://seositecheckup.com/)
@@ -28,6 +28,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://www.screamingfrog.co.uk/seo-spider/](https://www.screamingfrog.co.uk/seo-spider/)
 - [http://spyonweb.com](http://spyonweb.com)
 - [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
+- [https://www.seobility.net](https://www.seobility.net)
 
 ## Keyword research / Contenidos
 
@@ -40,6 +41,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [http://www.seopowersuite.es/rank-tracker/](http://www.seopowersuite.es/rank-tracker/)
 - [https://www.seedkeywords.com/](https://www.seedkeywords.com/)
 - [https://app.neilpatel.com/es/ubersuggest](https://app.neilpatel.com/es/ubersuggest)
+- [https://www.keyworddit.com/](https://www.keyworddit.com/)
 
 ## Enlaces / Linkbuilding
 
@@ -68,6 +70,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5NzAyODUzLDYzNTAwMDA1NSw4MDU3OD
-c1NDQsLTUzMTgxMTAyOV19
+eyJoaXN0b3J5IjpbLTI0NzUwNTY4Niw2MzUwMDAwNTUsODA1Nz
+g3NTQ0LC01MzE4MTEwMjldfQ==
 -->
