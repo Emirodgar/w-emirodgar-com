@@ -81,6 +81,7 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
 
 - Páginas que atraigan visitantes y enlaces:
    -  [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
+   - [Herramientas SEO gratis](herramientas-seo-gratis)
    -  [Experiencia SEO](https://emirodgar.com/experiencia-seo)
 - Páginas relacionadas con **consultor SEO**
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
@@ -116,11 +117,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUxNzk4OCwxNjMxNTcxNDU0LDcwMD
-UwNDg5MSwtNDM3NTUwNzc0LC0xNTU5OTYzMzg3LDM0MzQ4MTc0
-NCwtMTAzNzU3ODY5NiwxNDUwMDc4NzksODgxMTQzMTE1LDE4MT
-I1NjQ1NjksNjAzMjQ5ODMyLC0xMjY4NzIzMTc1LC0zMzY0NDAy
-MDgsLTMzMTY3NTk4LDE4ODUwMzQ5NTcsOTY2ODIyODkwLC0xOT
-AzNDg3MTA4LDE1ODQzNjI4MjEsNTA1NzM2OTMyLDcwMzE5Mzg5
-XX0=
+eyJoaXN0b3J5IjpbNzM3NjAwNDkwLC0yMDI1MTc5ODgsMTYzMT
+U3MTQ1NCw3MDA1MDQ4OTEsLTQzNzU1MDc3NCwtMTU1OTk2MzM4
+NywzNDM0ODE3NDQsLTEwMzc1Nzg2OTYsMTQ1MDA3ODc5LDg4MT
+E0MzExNSwxODEyNTY0NTY5LDYwMzI0OTgzMiwtMTI2ODcyMzE3
+NSwtMzM2NDQwMjA4LC0zMzE2NzU5OCwxODg1MDM0OTU3LDk2Nj
+gyMjg5MCwtMTkwMzQ4NzEwOCwxNTg0MzYyODIxLDUwNTczNjkz
+Ml19
 -->
