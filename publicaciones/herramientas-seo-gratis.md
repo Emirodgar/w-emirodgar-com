@@ -28,6 +28,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 ## Keyword research / Contenidos
 
 - [https://keywordseverywhere.com](https://keywordseverywhere.com)
+- [https://answerthepublic.com/](https://answerthepublic.com/)
 - [https://textoptimizer.com](https://textoptimizer.com)
 - [http://keywordshitter.com](http://keywordshitter.com)
 - [https://metatags.io](https://metatags.io)
@@ -60,6 +61,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MDAwMDU1LDgwNTc4NzU0NCwtNTMxOD
-ExMDI5XX0=
+eyJoaXN0b3J5IjpbMTQ2MTg1NTM3Myw2MzUwMDAwNTUsODA1Nz
+g3NTQ0LC01MzE4MTEwMjldfQ==
 -->
