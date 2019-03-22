@@ -10,7 +10,7 @@ permalink: herramientas-seo-gratis
 
 Hace ya tiempo compartí mi listado de [recursos para marketing digital](recursos-marketing-digital). En él incluía multitud de herramientas, tanto de pago como gratuitas para abordar cualquier problemática dentro de una estrategia de marketing digital.
 
-Aquí os voy a dejar un listado de herramientas SEO gratuitas que nos ayudarán a avanzar más rápido y eficiente en nuestras tareas SEO.
+Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más rápido y eficiente en nuestras tareas SEO.
 
 ## Extensiones de navegador SEO
 
@@ -21,5 +21,5 @@ Aquí os voy a dejar un listado de herramientas SEO gratuitas que nos ayudarán 
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDMxMzQ0LC01MzE4MTEwMjldfQ==
+eyJoaXN0b3J5IjpbLTE0MTcxNDc5MTksLTUzMTgxMTAyOV19
 -->
