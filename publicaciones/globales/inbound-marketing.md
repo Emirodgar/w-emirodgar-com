@@ -11,13 +11,12 @@ permalink: inbound-marketing
 
 La filosofía y metodología Inbound ha ido evolucionando a lo largo de los años aún así, me gustaría compartir **5 consejos que perduran en el tiempo** y que para mí son cruciales en cualquier estrategia digital.
 
-| | Consejos Inbound Marketing      
-|----------|----------------------------------
-| 1| [Centraliza todo en tu página web](#clave1)                    
-| 2| [Calidad frente a cantidad](#clave2)
-| 3| [Diseña tu propio proceso de trabajo](#clave3) 
-| 4| [Trabaja las tareas en orden adecuado](#clave4) 
-| 5| [Utiliza las métricas adecuadas](#clave5) 
+ 1. [Centraliza todo en tu página web](#clave1)  
+ 2. [Calidad frente a cantidad](#clave2)
+ 3. [Diseña tu propio proceso de trabajo](#clave3) 
+ 4. [Trabaja las tareas en orden adecuado](#clave4)
+ 5. [Utiliza las métricas adecuadas](#clave5) 
+
 
 A modo de introducción me gustaría aclarar algo que para mí es fundamental: **Inbound marketing no es Hubspot**; es una metodología de trabajo cuyo objetivo principal busca conseguir conversiones a través de acciones concretas sobre un público objetivo y su situación dentro de las diferentes fases del proceso de compra.
 
@@ -106,5 +105,5 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTM1Mjk5MF19
+eyJoaXN0b3J5IjpbLTEzMDU1NTQzNTddfQ==
 -->
