@@ -2,6 +2,7 @@
 title: Inbound Marketing 2019
 description: Las estrategias de Inbound Marketing han ido evolucionando durante los últimos años. Aprende a sacar el máximo rendimiento con estos consejos
 lang: es_ES
+date: 25/03/2019
 permalink: inbound-marketing
 
 ---
@@ -105,8 +106,8 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5NTgyMjkwLC0yOTcwMzIyMzAsLTczND
-IwNTIxLDIwNjM4NjMwODUsMTcwNDA2MjMyLDU1NTA4ODA5Miw4
-ODQ5NTk0NDEsLTE4ODc1MDY1MzgsLTIwOTUyMDA2MCwzNzI4MT
-A2NDMsLTkyNzAyMDAxMF19
+eyJoaXN0b3J5IjpbMjAxOTM1Mjk5MCwtMjk3MDMyMjMwLC03Mz
+QyMDUyMSwyMDYzODYzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIs
+ODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyOD
+EwNjQzLC05MjcwMjAwMTBdfQ==
 -->
