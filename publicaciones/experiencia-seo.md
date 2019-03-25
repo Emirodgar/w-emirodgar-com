@@ -1,6 +1,7 @@
 ---
 title: 10 cosas que he aprendido en 10 años como SEO
 description: Después de una década trabajado SEO profesionalmente os cuento mis aprendizajes
+image: https://emirodgar.com/cdn/images/og/og-seo-ranking.jpg
 lang: es_ES
 permalink: experiencia-seo
 
@@ -14,7 +15,6 @@ Desde entonces he tenido la oportunidad de participar en más de un centenar de 
 
 En base a esta experiencia, os cuento las 10 cosas más importantes que he aprendido como SEO y que creo que son cruciales para establecer un camino hacia el éxito, tanto personal como profesional.
  
-![10 cosas que he aprendido tras 10 años trabajando como SEO](https://i.imgur.com/GlZhXpz.jpg)
 
  1. **Rodéate de gente con actitud y aptitud**: Siempre ha habido una frase que ha marcado mi desarrollo profesional: *“if you are the smartest person in a room, then you are in the wrong room”*.  A día de hoy aún no he descubierto una sola persona ni situación de la que no haya podido aprender algo, aún así, si te aseguras de estar cerca de gente motivada y con conocimientos -directos o indirectos a tu faceta profesional- tu desarrollo se verá altamente enriquecido. 
  2. **Los proyectos difíciles son retos que te ayudan a crecer profesionalmente**: No huyas de ellos; puede que al principio asusten o que pensemos que no estamos a la altura pero una vez superados nos habremos dado cuenta de nuestra capacidad y del aprendizaje que han supuesto para nosotros. No hay retos imposibles, únicamente actitud para enfrentarse a un problema. Cada reto superado nos convierte en mejores profesionales. 
@@ -33,11 +33,11 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
 ![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTczMTU0MywtMTE0MzU1NDM5NiwxNj
-U4NDU2MTA4LC0xODUyMTA2MzQsMTMzMDQ1NDY0OCw2OTQ0MjYx
-MDAsMTA4NTkwMTExMywtMTQyNTAzNTM1LDEzOTgxNTgyOTcsMT
-k0MTg2NzAyMCw2NjIzMzcwMTgsLTIwNTI3ODc4OTMsMjEwOTA5
-MDgyOCwxOTk5ODMyNjY0LDIwMzQwMzgzMzYsMTg2OTE4OTY2Mi
-w2NzQ1OTY1MTYsLTMyMjQ4ODIzLC0xMDc5MTgwMDcwLC04NjU5
-MDYwNDddfQ==
+eyJoaXN0b3J5IjpbLTE2NDEwNTU3NzMsLTk0NTczMTU0MywtMT
+E0MzU1NDM5NiwxNjU4NDU2MTA4LC0xODUyMTA2MzQsMTMzMDQ1
+NDY0OCw2OTQ0MjYxMDAsMTA4NTkwMTExMywtMTQyNTAzNTM1LD
+EzOTgxNTgyOTcsMTk0MTg2NzAyMCw2NjIzMzcwMTgsLTIwNTI3
+ODc4OTMsMjEwOTA5MDgyOCwxOTk5ODMyNjY0LDIwMzQwMzgzMz
+YsMTg2OTE4OTY2Miw2NzQ1OTY1MTYsLTMyMjQ4ODIzLC0xMDc5
+MTgwMDcwXX0=
 -->
