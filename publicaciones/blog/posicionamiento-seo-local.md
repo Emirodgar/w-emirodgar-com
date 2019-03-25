@@ -56,6 +56,5 @@ Es posible que tu competencia también haya hecho este tipo de análisis por lo 
 
 Recomiendo prestar especial atención a los horarios, ¿es posible que estemos cerrando justo cuando nuestro público objetivo sale del trabajo y quiere comprar?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDM4MzAyMiwxNTI3OTYxNDUsLTIxMz
-U5OTU0NTAsMTE1MTYxNzE3XX0=
+eyJoaXN0b3J5IjpbMTAxNDM4MzAyMl19
 -->

@@ -118,11 +118,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTU4MDcwNiw3Mzc2MDA0OTAsLTIwMj
-UxNzk4OCwxNjMxNTcxNDU0LDcwMDUwNDg5MSwtNDM3NTUwNzc0
-LC0xNTU5OTYzMzg3LDM0MzQ4MTc0NCwtMTAzNzU3ODY5NiwxND
-UwMDc4NzksODgxMTQzMTE1LDE4MTI1NjQ1NjksNjAzMjQ5ODMy
-LC0xMjY4NzIzMTc1LC0zMzY0NDAyMDgsLTMzMTY3NTk4LDE4OD
-UwMzQ5NTcsOTY2ODIyODkwLC0xOTAzNDg3MTA4LDE1ODQzNjI4
-MjFdfQ==
+eyJoaXN0b3J5IjpbLTgwOTU4MDcwNl19
 -->

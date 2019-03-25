@@ -33,11 +33,5 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
 ![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODIyMjIxNCwtOTQ1NzMxNTQzLC0xMT
-QzNTU0Mzk2LDE2NTg0NTYxMDgsLTE4NTIxMDYzNCwxMzMwNDU0
-NjQ4LDY5NDQyNjEwMCwxMDg1OTAxMTEzLC0xNDI1MDM1MzUsMT
-M5ODE1ODI5NywxOTQxODY3MDIwLDY2MjMzNzAxOCwtMjA1Mjc4
-Nzg5MywyMTA5MDkwODI4LDE5OTk4MzI2NjQsMjAzNDAzODMzNi
-wxODY5MTg5NjYyLDY3NDU5NjUxNiwtMzIyNDg4MjMsLTEwNzkx
-ODAwNzBdfQ==
+eyJoaXN0b3J5IjpbMTA4ODIyMjIxNF19
 -->

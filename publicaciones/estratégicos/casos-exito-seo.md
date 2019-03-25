@@ -97,8 +97,5 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánica que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ2Njk0ODUsNzg1MDUwMTg3LDE2ND
-Q5Njg2MTQsLTgwMDY3NjU2MCwxMTc0NTc0NTIzLDE4NzA5OTkw
-NTgsMTM1MTU2OTcyMywtODY4MjU0MjkxLC0xNTg2MDMwMDM4LD
-E3MjU4ODgzNTksMzg1MTM4MDI0LDEwMjg0NzU1MDBdfQ==
+eyJoaXN0b3J5IjpbLTE4MjQ2Njk0ODVdfQ==
 -->

@@ -80,8 +80,5 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU4NDEzNTIsLTEwMjU4NDEzNTIsMj
-A3MjMzODU4MiwtMTc4ODk2Njc4MiwtMTU2NTM2MDk2MCwtMjQ3
-NTA1Njg2LDYzNTAwMDA1NSw4MDU3ODc1NDQsLTUzMTgxMTAyOV
-19
+eyJoaXN0b3J5IjpbLTEwMjU4NDEzNTJdfQ==
 -->

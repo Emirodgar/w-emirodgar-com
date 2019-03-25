@@ -106,8 +106,5 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTM1Mjk5MCwtMjk3MDMyMjMwLC03Mz
-QyMDUyMSwyMDYzODYzMDg1LDE3MDQwNjIzMiw1NTUwODgwOTIs
-ODg0OTU5NDQxLC0xODg3NTA2NTM4LC0yMDk1MjAwNjAsMzcyOD
-EwNjQzLC05MjcwMjAwMTBdfQ==
+eyJoaXN0b3J5IjpbMjAxOTM1Mjk5MF19
 -->
