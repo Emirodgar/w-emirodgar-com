@@ -13,7 +13,9 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 - [Factores SEO](factores-seo)
 - [Eliminar una URL de Google](eliminar-url-google)
 - [Inbound Marketing](inbound-marketing)
+- [Posicionamiento SEO local](posicionamiento-seo-local)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Njg0OTIwMiw0MTUzODQ3NjhdfQ==
+eyJoaXN0b3J5IjpbLTg0NDI4NDg0MiwtMjg2ODQ5MjAyLDQxNT
+M4NDc2OF19
 -->
