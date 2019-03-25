@@ -77,8 +77,9 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
+- [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjMzODU4MiwtMTc4ODk2Njc4MiwtMT
-U2NTM2MDk2MCwtMjQ3NTA1Njg2LDYzNTAwMDA1NSw4MDU3ODc1
-NDQsLTUzMTgxMTAyOV19
+eyJoaXN0b3J5IjpbLTQwMjYzMDA5LDIwNzIzMzg1ODIsLTE3OD
+g5NjY3ODIsLTE1NjUzNjA5NjAsLTI0NzUwNTY4Niw2MzUwMDAw
+NTUsODA1Nzg3NTQ0LC01MzE4MTEwMjldfQ==
 -->
