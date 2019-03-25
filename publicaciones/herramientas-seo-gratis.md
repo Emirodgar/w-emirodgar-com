@@ -1,6 +1,7 @@
 ---
 title: Herramientas SEO gratis
 description: Conseguir buenos resultados en una estrategia SEO no depende únicamente de tener herramientas de pago. Utilizar estos recursos totalmente gratuitos para marcar la diferencia.
+image: https://emirodgar.com/cdn/images/og/og-seo-ranking.jpg
 lang: es_ES
 permalink: herramientas-seo-gratis
 
@@ -77,7 +78,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODg5NjY3ODIsLTE1NjUzNjA5NjAsLT
-I0NzUwNTY4Niw2MzUwMDAwNTUsODA1Nzg3NTQ0LC01MzE4MTEw
-MjldfQ==
+eyJoaXN0b3J5IjpbMjA3MjMzODU4MiwtMTc4ODk2Njc4MiwtMT
+U2NTM2MDk2MCwtMjQ3NTA1Njg2LDYzNTAwMDA1NSw4MDU3ODc1
+NDQsLTUzMTgxMTAyOV19
 -->
