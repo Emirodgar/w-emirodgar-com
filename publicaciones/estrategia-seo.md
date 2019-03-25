@@ -1,7 +1,6 @@
 ---
 title: Estrategia SEO 2019 - Posicionar por Consultor SEO
 description: Estrategia paso a paso para posicionar por Consultor SEO con herramientas gratuitas.
-image: https://emirodgar.com/cdn/images/og/og-seo-ranking.jpg
 lang: es_ES
 permalink: estrategia-seo
 
@@ -118,11 +117,11 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ4MDkxMTAsNzM3NjAwNDkwLC0yMD
-I1MTc5ODgsMTYzMTU3MTQ1NCw3MDA1MDQ4OTEsLTQzNzU1MDc3
-NCwtMTU1OTk2MzM4NywzNDM0ODE3NDQsLTEwMzc1Nzg2OTYsMT
-Q1MDA3ODc5LDg4MTE0MzExNSwxODEyNTY0NTY5LDYwMzI0OTgz
-MiwtMTI2ODcyMzE3NSwtMzM2NDQwMjA4LC0zMzE2NzU5OCwxOD
-g1MDM0OTU3LDk2NjgyMjg5MCwtMTkwMzQ4NzEwOCwxNTg0MzYy
-ODIxXX0=
+eyJoaXN0b3J5IjpbNzM3NjAwNDkwLDczNzYwMDQ5MCwtMjAyNT
+E3OTg4LDE2MzE1NzE0NTQsNzAwNTA0ODkxLC00Mzc1NTA3NzQs
+LTE1NTk5NjMzODcsMzQzNDgxNzQ0LC0xMDM3NTc4Njk2LDE0NT
+AwNzg3OSw4ODExNDMxMTUsMTgxMjU2NDU2OSw2MDMyNDk4MzIs
+LTEyNjg3MjMxNzUsLTMzNjQ0MDIwOCwtMzMxNjc1OTgsMTg4NT
+AzNDk1Nyw5NjY4MjI4OTAsLTE5MDM0ODcxMDgsMTU4NDM2Mjgy
+MV19
 -->
