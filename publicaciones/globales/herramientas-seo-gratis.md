@@ -14,6 +14,8 @@ Hace ya tiempo compartí mi listado de [recursos para marketing digital](recurso
 
 Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más eficientemente y rápido en nuestras tareas SEO.
 
+> Ofrezco un servicio de [posicionamiento web gratuito](https://emirodgar.com/posicionamiento-web-gratis/) a aquellas empresas pequeñas y con problemas financieros. Antes de   
+
 ## Auditoría SEO 
 
 - [https://sitechecker.pro](https://sitechecker.pro/)  
@@ -80,5 +82,5 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU4NDEzNTJdfQ==
+eyJoaXN0b3J5IjpbNzI2NzI0ODY1XX0=
 -->
