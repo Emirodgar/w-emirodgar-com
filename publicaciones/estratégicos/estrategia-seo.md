@@ -88,7 +88,7 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
   -  [Asesor SEO](https://emirodgar.com/asesor-seo/)
   -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca), [Argentina](https://emirodgar.com/consultor-seo/argentina)  y [México](https://emirodgar.com/consultor-seo/mexico)
-  - [Casos de éxito de SEO](/caso-exito-seo)
+  - [Casos de éxito de SEO](/casos-exito-seo)
  - Páginas para mejorar el enlazado interno
     -   [Mapa web](https://emirodgar.com/mapa-web)
     - [Listado de publicaciones](https://emirodgar.com/publicaciones)
@@ -118,5 +118,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTU4MDcwNl19
+eyJoaXN0b3J5IjpbMjE3Nzk5ODMsLTgwOTU4MDcwNl19
 -->
