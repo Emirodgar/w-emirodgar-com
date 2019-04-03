@@ -9,12 +9,13 @@ permalink: seo-videos-youtube
 
 # Cómo hacer SEO en vídeos de Youtube
 
-¿Por qué hablamos de Youtube y no otros portales de vídeos?.  
+¿Por qué hablamos de Youtube y no de otros portales de vídeos? Youtube [representa el 77% del mercado de vídeos digitales](https://www.datanyze.com/market-share/online-video/youtube-market-share); el siguiente es Vimeo con una cuota cercana al 16%.
+
 ¿En qué consiste el proceso SEO sobre Youtube?
 
 ## Conseguir más visualizaciones en nuestros vídeos
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTU2MTQ3NV19
+eyJoaXN0b3J5IjpbLTQ4MjEwNzM4Nl19
 -->
