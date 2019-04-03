@@ -35,14 +35,12 @@ La mayoría de las métricas de interacción se pueden medir en el informe de an
 - Clics en la pantalla final
 - Clics en tarjetas
 
-¿Línea de fondo?
-
-Si no puede atraer a su público, sus posibilidades de clasificar sus videos de YouTube por una palabra clave significativa son muy pocas.
+> Si no somos capaces de crear interacción con los usuarios las posibilidades que tendremos que aparecer en las búsquedas por nuestras palabras clave son bajas.
 
 ## Conseguir más visualizaciones en nuestros vídeos
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODYzNTEyMjIsLTY1NDk5ODcxMCwxND
+eyJoaXN0b3J5IjpbLTExMTY4MTU3MTEsLTY1NDk5ODcxMCwxND
 U3MzY4MjgwLC00ODIxMDczODZdfQ==
 -->
