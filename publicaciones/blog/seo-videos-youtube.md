@@ -11,11 +11,11 @@ permalink: seo-videos-youtube
 
 ¿Por qué hablamos de Youtube y no de otros portales de vídeos? Youtube [representa el 77% del mercado de vídeos digitales](https://www.datanyze.com/market-share/online-video/youtube-market-share); el siguiente es Vimeo con una cuota cercana al 16%.
 
-¿En qué consiste el proceso SEO sobre Youtube?
+**¿Có sobre Youtube?** YouTube SEO es el proceso de optimización de sus videos, listas de reproducción y canal para obtener una alta calificación en los resultados de búsqueda orgánicos de YouTube para una consulta de búsqueda determinada.
 
 ## Conseguir más visualizaciones en nuestros vídeos
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjEwNzM4Nl19
+eyJoaXN0b3J5IjpbLTE2MzEzNDgyNDksLTQ4MjEwNzM4Nl19
 -->
