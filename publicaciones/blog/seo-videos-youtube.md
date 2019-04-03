@@ -9,7 +9,12 @@ permalink: seo-videos-youtube
 
 # Cómo hacer SEO en vídeos de Youtube
 
-## Conseguir más 
+¿Por qué hablamos de Youtube y no otros portales de vídeos?.  
+¿En qué consiste el proceso SEO sobre Youtube?
+
+## Conseguir más visualizaciones en nuestros vídeos
+
+## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzU1NTUxNV19
+eyJoaXN0b3J5IjpbMTY2OTU2MTQ3NV19
 -->
