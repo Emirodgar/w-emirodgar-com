@@ -41,10 +41,10 @@ La mayoría de las métricas de interacción se pueden medir en el informe de an
 
 ### 1- Utiliza las palabras clave adecuadas
 
-Podemos utilizar Google Trends o cualquier [herramienta SEO gratuita](herramientas-seo-gratis) de análisis de palabras clave para determinar aquellas recon un mayor volumen de tráfico
+Podemos utilizar Google Trends o cualquier [herramienta SEO gratuita](herramientas-seo-gratis) de **análisis de palabras clave** para determinar aquellas relacionadas con nuestro sector y que cuentan con un mayor volumen de tráfico.
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMwNTc5MTAsLTY1NDk5ODcxMCwxND
+eyJoaXN0b3J5IjpbLTE2MDY1NjM0MzEsLTY1NDk5ODcxMCwxND
 U3MzY4MjgwLC00ODIxMDczODZdfQ==
 -->
