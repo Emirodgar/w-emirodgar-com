@@ -19,12 +19,12 @@ Lo tenemos fácil ya que Google explicó en [este artículo](https://creatoracad
 
 > Al igual que el motor de búsqueda de Google, la búsqueda de YouTube muestra los resultados más relevantes para las palabras clave de la consulta. Los vídeos se ordenan según ciertos factores, como hasta qué punto el título, la descripción o el contenido del vídeo coinciden con la consulta del espectador. Además, comprobamos qué vídeos han generado más interacciones en cada consulta y nos aseguramos de que los usuarios los encuentren fácilmente. Los resultados de búsqueda no son una lista de los vídeos más vistos de la consulta en cuestión.
 
-Como era de esperar, la palabra cláve o término utilizado en la búsqueda es importante pero también lo es la interacción
+Como era de esperar, la palabra cláve o término utilizado en la búsqueda es importante pero también lo son las **métricas de interacción con dicho vídeo**.
 
 ## Conseguir más visualizaciones en nuestros vídeos
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTEwOTU1NCwxNDU3MzY4MjgwLC00OD
+eyJoaXN0b3J5IjpbLTY1NDk5ODcxMCwxNDU3MzY4MjgwLC00OD
 IxMDczODZdfQ==
 -->
