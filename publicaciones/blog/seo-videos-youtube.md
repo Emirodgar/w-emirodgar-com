@@ -131,9 +131,17 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
 
 #### Utiliza las tarjetas de Youtube
 
+Las tarjetas de YouTube es una función interactiva que anima a los espectadores a realizar una de las cinco acciones siguientes:
 
+ - Ver otro video o lista de reproducción 
+ - Descubre otro canal de YouTube. 
+ - Dona a una organización sin fines de lucro 
+ - Responder una encuesta 
+ - Visita un enlace externo
+
+Nos ayudarán a mejorar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTEyNzQ3NSwtMTcyMTQ1MDYwMSw3OT
+eyJoaXN0b3J5IjpbMTUzODM3MzAwMSwtMTcyMTQ1MDYwMSw3OT
 Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
 OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
 02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
