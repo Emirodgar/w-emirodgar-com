@@ -67,12 +67,12 @@ Estas son algunas de las funcionalidades extra que aportan son:
 - **Herramientas de visualización y moderación de comentarios**: nos facilita la gestión de los comentarios, ideal para poder enriquecer el contenido y generar debate asociado a un vídeo.
 - **Recomendaciones sobre vídeos**: esta herramienta proporciona un panel lateral sobre nuestros vídeos con sugerencias de optimización para incrementar visualizaciones y *engagement*. 
 - **Análisis de competidores**: nos permitirá analizar qué es lo que hacen nuestros principales competidores y trabajar en una línea que nos permita reducir las distancias con ellos.
-- **Palabras clave**: cuando busca una palabra clave en YouTube con esta extensión habilitada, le proporcionará información en un formato de panel lateral. También proporcionan una aplicación web de investigación de palabras clave que incluye oportunidades de palabras clave relacionadas y una estimación de la competencia, junto con otras características.
+- **Palabras clave (tags)**: por defecto Youtube no muestra los tags utilizados por un vídeo. Para poder ver las palabras clave que están usando tendríamos que ir al código fuente y buscar "*keywords*". Esta extensión nos ayuda a identificarlas de forma sencilla.
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MT
-I5NDg4OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYz
-NDMxLC02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX
-0=
+eyJoaXN0b3J5IjpbLTE3NjM4MDg1OCwxMzk0NDAyOTI3LDE0Nz
+YyMDc2NjMsMjgxMjk0ODg4LC0yMDc3NTMwMTc3LDEyNTU0Mzc2
+NDUsLTE2MDY1NjM0MzEsLTY1NDk5ODcxMCwxNDU3MzY4MjgwLC
+00ODIxMDczODZdfQ==
 -->
