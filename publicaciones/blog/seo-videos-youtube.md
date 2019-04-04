@@ -78,7 +78,7 @@ A mayores de estas dos herramientas de análisis de palabras clave existen soluc
 - [https://vidiq.com/](https://vidiq.com/)
 - [https://www.tubebuddy.com/](https://www.tubebuddy.com/)
 
-Estas son algunas de las funcionalidades extra que aportan son:
+Algunas de las funcionalidades extra que aportan son:
 
 - **Mejor momento para publicar**: nos permite medir cuándo es el mejor momento para publicar un video en base en los datos de las publicaciones anteriores y sus interacciones.
 - **Herramientas de visualización y moderación de comentarios**: nos facilita la gestión de los comentarios, ideal para poder enriquecer el contenido y generar debate asociado a un vídeo.
@@ -162,10 +162,10 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MjgyMDcsLTE0MzQwODI0MTAsOTA0OT
-IwNTY4LDE0Njg4Nzg0NTcsLTM0NDg2Nzc3NywtMTcyMTQ1MDYw
-MSw3OTY5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MT
-I5NDg4OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYz
-NDMxLC02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX
-0=
+eyJoaXN0b3J5IjpbLTEzMTcyNDM5MTEsLTE0MzQwODI0MTAsOT
+A0OTIwNTY4LDE0Njg4Nzg0NTcsLTM0NDg2Nzc3NywtMTcyMTQ1
+MDYwMSw3OTY5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLD
+I4MTI5NDg4OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2
+NTYzNDMxLC02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mz
+g2XX0=
 -->
