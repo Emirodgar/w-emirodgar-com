@@ -95,13 +95,13 @@ Los aspectos más relevantes de nuestros vídeos y que siempre debemos tener bie
 -   Tags
 -   Thumbnail (imagen por defecto del vídeo)
 
-### Redactar títulos de calidad para Youtube
+### 2.1- Redactar títulos de calidad para Youtube
 
 Nuestros títulos deben contener siempre la palabra clave por la que queremos aparecer en las búsquedas y ésta debe estar lo más a la izquierda que nos sea posible.
 
 No debemos superar los 60 caracteres y debemos apostar por títulos con gancho: que capten rápidamente la atención o despierten la curiosidad de los usuarios.
 
-###  2.1- Genera una descripción válida para buscadores
+###  2.2- Genera una descripción válida para buscadores
 
 Aunque el objetivo principal es aportar valor a los usuarios que quieren ver nuestro vídeo, si basamos la descripción en un listado de enlaces o un resumen demasiado corto, estaremos perdiendo la oportunidad de aparecer en más búsquedas.
 
@@ -109,15 +109,15 @@ La palabra principal debe ser incluida en el título pero debemos utilizar la de
 
 Una buena práctica suele ser transcribir el audio del vídeo en la descripción. De esta forma conseguimos abarcar un gran número de búsquedas directamente relacionadas. 
 
-### Youtube tags
+### 2.3- Youtube tags
 
 Aquí debemos añadir tanto la keyword pricipal como las secundarias. De esta forma le indicamos a Youtube con qué terminos estará relacionado nuestro vídeo.
 
-### Thumbnail
+### 2.4- Thumbnail
 
 Será la parte más visual de nuestro vídeo y probablemente la que determine, junto con el título, que un usuario haga clic o no en nuestros resultados. Por ello debemos asegurarnos de utilizar una imagen llamativa y relacionada con la temática que trataremos en el vídeo. Podemos probar varios e ir analizando el CTR que generamos.
 
-### <a name="calidad"></a> 3- Crea vídeos de calidad
+## <a name="calidad"></a> 3- Trucos para crear vídeos de calidad
 
 Youtube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson/discovery):
 
@@ -143,7 +143,7 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  11. Responde siempre a los comentarios con buenas palabras y siendo lo más descriptivo que sea posible.
   
 
-#### Utiliza las tarjetas de Youtube
+### 3.1- Utiliza las tarjetas de Youtube
 
 Las [tarjetas de YouTube](https://support.google.com/youtube/answer/6140493?co=GENIE.Platform%3DDesktop&hl=es) son una función interactiva que anima a los espectadores a realizar una de las cinco acciones siguientes:
 
@@ -155,7 +155,7 @@ Las [tarjetas de YouTube](https://support.google.com/youtube/answer/6140493?co=G
 
 Nos ayudarán a mejorar la interacción de los usuarios con nuestros vídeos y la posibilidad de relacionarlos entre sí consiguiendo visualizaciones cruzadas.
 
-### <a name="promocion"></a> 4- Promociona tus vídeos
+## <a name="promocion"></a> 4- Promocionar los vídeos
 
 Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por lo tanto aparezcamos en pocas búsquedas. Por ello, podemos llevar a cabo las siguientes acciones para promocionar nuestros primeros vídeos.
 
@@ -164,7 +164,7 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjA2MzA1NywtMTQzNDA4MjQxMCw5MD
+eyJoaXN0b3J5IjpbMTMyMTg1MjI1NywtMTQzNDA4MjQxMCw5MD
 Q5MjA1NjgsMTQ2ODg3ODQ1NywtMzQ0ODY3Nzc3LC0xNzIxNDUw
 NjAxLDc5Njk0MDUyNywxMzk0NDAyOTI3LDE0NzYyMDc2NjMsMj
 gxMjk0ODg4LC0yMDc3NTMwMTc3LDEyNTU0Mzc2NDUsLTE2MDY1
