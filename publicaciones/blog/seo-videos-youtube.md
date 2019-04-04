@@ -44,9 +44,9 @@ La mayoría de las métricas de interacción se pueden medir en el informe de an
 
 > Si no somos capaces de crear interacción con los usuarios las posibilidades que tendremos que aparecer en las búsquedas por nuestras palabras clave son bajas.
 
-## Conseguir más visualizaciones en nuestros vídeos
+Para poder **conseguir más visualizaciones en nuestros vídeos** debemos seguir el siguiente esquema de trabajo.
 
-### <a name="palabras-clave"></a> 1- Utiliza las palabras clave adecuadas
+## <a name="palabras-clave"></a> 1- Identificar y utiliza las palabras clave adecuadas
 
 Podemos utilizar [Google Trends](https://trends.google.es/trends/) o cualquier [herramienta SEO gratuita](herramientas-seo-gratis) de **análisis de palabras clave** para determinar aquellas relacionadas con nuestro sector y que cuentan con un mayor volumen de tráfico.
 
@@ -73,7 +73,7 @@ Por último, herramientas como [Buzzsumo](https://buzzsumo.com/) nos ayudarán a
 
 En la imagen anterior podemos ver la evolución de las publicaciones de una temática y su interacción por parte de los usuarios. 
 
-### <a name="optimizar"></a> 2- Gestiona y optimiza tus vídeos
+## <a name="optimizar"></a> 2- Optimizar los vídeos
 
 A mayores de estas dos herramientas de análisis de palabras clave existen soluciones más completas para gestionar y optimizar nuestros vídeos, listas y canales de forma sencilla. Estas dos extensiones son las más conocidas:
 
@@ -95,13 +95,13 @@ Los aspectos más relevantes de nuestros vídeos y que siempre debemos tener bie
 -   Tags
 -   Thumbnail (imagen por defecto del vídeo)
 
-#### Redactar títulos de calidad para Youtube
+### Redactar títulos de calidad para Youtube
 
 Nuestros títulos deben contener siempre la palabra clave por la que queremos aparecer en las búsquedas y ésta debe estar lo más a la izquierda que nos sea posible.
 
 No debemos superar los 60 caracteres y debemos apostar por títulos con gancho: que capten rápidamente la atención o despierten la curiosidad de los usuarios.
 
-#### Genera una descripción válida para buscadores
+###  2.1- Genera una descripción válida para buscadores
 
 Aunque el objetivo principal es aportar valor a los usuarios que quieren ver nuestro vídeo, si basamos la descripción en un listado de enlaces o un resumen demasiado corto, estaremos perdiendo la oportunidad de aparecer en más búsquedas.
 
@@ -109,11 +109,11 @@ La palabra principal debe ser incluida en el título pero debemos utilizar la de
 
 Una buena práctica suele ser transcribir el audio del vídeo en la descripción. De esta forma conseguimos abarcar un gran número de búsquedas directamente relacionadas. 
 
-#### Youtube tags
+### Youtube tags
 
 Aquí debemos añadir tanto la keyword pricipal como las secundarias. De esta forma le indicamos a Youtube con qué terminos estará relacionado nuestro vídeo.
 
-#### Thumbnail
+### Thumbnail
 
 Será la parte más visual de nuestro vídeo y probablemente la que determine, junto con el título, que un usuario haga clic o no en nuestros resultados. Por ello debemos asegurarnos de utilizar una imagen llamativa y relacionada con la temática que trataremos en el vídeo. Podemos probar varios e ir analizando el CTR que generamos.
 
@@ -164,10 +164,10 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyMDcxOTg0LC0xNDM0MDgyNDEwLDkwND
-kyMDU2OCwxNDY4ODc4NDU3LC0zNDQ4Njc3NzcsLTE3MjE0NTA2
-MDEsNzk2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyOD
-EyOTQ4ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2
-MzQzMSwtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl
-19
+eyJoaXN0b3J5IjpbLTkxMjA2MzA1NywtMTQzNDA4MjQxMCw5MD
+Q5MjA1NjgsMTQ2ODg3ODQ1NywtMzQ0ODY3Nzc3LC0xNzIxNDUw
+NjAxLDc5Njk0MDUyNywxMzk0NDAyOTI3LDE0NzYyMDc2NjMsMj
+gxMjk0ODg4LC0yMDc3NTMwMTc3LDEyNTU0Mzc2NDUsLTE2MDY1
+NjM0MzEsLTY1NDk5ODcxMCwxNDU3MzY4MjgwLC00ODIxMDczOD
+ZdfQ==
 -->
