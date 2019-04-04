@@ -86,7 +86,9 @@ Los aspectos más relevantes de nuestros vídeos y que siempre debemos tener bie
 
 #### Redactar títulos de calidad para Youtube
 
-Nuestros títulos deben contener siempre la palabra clave por la que queremos aparecer en las búsquedas y Lo más a la izquierda que nos sea posible.
+Nuestros títulos deben contener siempre la palabra clave por la que queremos aparecer en las búsquedas y ésta debe estar lo más a la izquierda que nos sea posible.
+
+No debemos superar los 60 caracteres y debemos apostar por títulos con gancho: que capten rápidamente la atención o despierten la curiosidad de los usuarios.
 
 ### 3- Crea vídeos de calidad
 
@@ -111,8 +113,8 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  7. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgyMjMxNjUsLTE3MjE0NTA2MDEsNz
-k2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4
-ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMS
-wtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
+eyJoaXN0b3J5IjpbOTY0MTk5MjU3LC0xNzIxNDUwNjAxLDc5Nj
+k0MDUyNywxMzk0NDAyOTI3LDE0NzYyMDc2NjMsMjgxMjk0ODg4
+LC0yMDc3NTMwMTc3LDEyNTU0Mzc2NDUsLTE2MDY1NjM0MzEsLT
+Y1NDk5ODcxMCwxNDU3MzY4MjgwLC00ODIxMDczODZdfQ==
 -->
