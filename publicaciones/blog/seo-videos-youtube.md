@@ -62,6 +62,8 @@ Otra opción puede ser fijarnos en los **competidores directos de nuestro canal*
 
 Por último, herramientas como [Buzzsumo](https://buzzsumo.com/) nos ayudarán a identificar **tendencias** y publicaciones con buena acogida por parte de los usuarios por lo que tamibén servirán como fuente de inspiración y para detectar términos relevantes en *engagement*.
 
+
+
 ### 2- Gestiona y optimiza tus vídeos
 
 A mayores de estas dos herramientas de análisis de palabras clave existen soluciones más completas para gestionar y optimizar nuestros vídeos, listas y canales de forma sencilla. Estas dos extensiones son las más conocidas:
@@ -153,9 +155,9 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTUwMzMxLDE0Njg4Nzg0NTcsLTM0ND
-g2Nzc3NywtMTcyMTQ1MDYwMSw3OTY5NDA1MjcsMTM5NDQwMjky
-NywxNDc2MjA3NjYzLDI4MTI5NDg4OCwtMjA3NzUzMDE3NywxMj
-U1NDM3NjQ1LC0xNjA2NTYzNDMxLC02NTQ5OTg3MTAsMTQ1NzM2
-ODI4MCwtNDgyMTA3Mzg2XX0=
+eyJoaXN0b3J5IjpbLTE1MjI3ODIzNTksMTQ2ODg3ODQ1NywtMz
+Q0ODY3Nzc3LC0xNzIxNDUwNjAxLDc5Njk0MDUyNywxMzk0NDAy
+OTI3LDE0NzYyMDc2NjMsMjgxMjk0ODg4LC0yMDc3NTMwMTc3LD
+EyNTU0Mzc2NDUsLTE2MDY1NjM0MzEsLTY1NDk5ODcxMCwxNDU3
+MzY4MjgwLC00ODIxMDczODZdfQ==
 -->
