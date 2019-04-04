@@ -16,15 +16,15 @@ permalink: seo-videos-youtube
 Los pasos que debemos seguir son los siguientes:
 
  1. [Identificar y utilizar las palabras clave adecuadas](#palabras-clave)
- 2. [Gestiona y optimiza tus vídeos](#optimizar)
+ 2. [Optimizar los vídeos](#optimizar)
  3. [Trucos para crear vídeos de calidad](#calidad)
- 4. [Promociona tus vídeos](#promocion)
+ 4. [Promocionar los vídeos](#promocion)
 
 ## ¿Cómo funciona el algoritmo de Youtube?
 
-Lo tenemos fácil ya que Google explicó en [este artículo](https://creatoracademy.youtube.com/page/lesson/discovery) su funcionamiento. A modo de resumen, nos dicen lo siguiente:
+Google explicó en [este artículo](https://creatoracademy.youtube.com/page/lesson/discovery) su funcionamiento. A modo de resumen, nos dice lo siguiente:
 
-> Al igual que el motor de búsqueda de Google, la búsqueda de YouTube muestra los resultados más relevantes para las palabras clave de la consulta. Los vídeos se ordenan según ciertos factores, como hasta qué punto el título, la descripción o el contenido del vídeo coinciden con la consulta del espectador. Además, comprobamos qué vídeos han generado más interacciones en cada consulta y nos aseguramos de que los usuarios los encuentren fácilmente. Los resultados de búsqueda no son una lista de los vídeos más vistos de la consulta en cuestión.
+> Al igual que el motor de búsqueda de Google, la búsqueda de YouTube muestra los resultados más relevantes para las palabras clave de la consulta. Los vídeos se ordenan según ciertos factores, como hasta qué punto el título, la descripción o el contenido del vídeo coinciden con la consulta del espectador. Además, comprobamos qué vídeos han generado más interacciones en cada consulta y nos aseguramos de que los usuarios los encuentren fácilmente.** Los resultados de búsqueda no son una lista de los vídeos más vistos** de la consulta en cuestión.
 
 Como era de esperar, la palabra clave o término utilizado en la búsqueda es importante pero también lo son las **métricas de interacción con dicho vídeo**.
 
@@ -164,10 +164,10 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjMxMjYxNTcsLTE0MzQwODI0MTAsOT
-A0OTIwNTY4LDE0Njg4Nzg0NTcsLTM0NDg2Nzc3NywtMTcyMTQ1
-MDYwMSw3OTY5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLD
-I4MTI5NDg4OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2
-NTYzNDMxLC02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mz
-g2XX0=
+eyJoaXN0b3J5IjpbNzAyMDcxOTg0LC0xNDM0MDgyNDEwLDkwND
+kyMDU2OCwxNDY4ODc4NDU3LC0zNDQ4Njc3NzcsLTE3MjE0NTA2
+MDEsNzk2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyOD
+EyOTQ4ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2
+MzQzMSwtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl
+19
 -->
