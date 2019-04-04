@@ -77,6 +77,13 @@ Estas son algunas de las funcionalidades extra que aportan son:
 - **Análisis de competidores**: nos permitirá analizar qué es lo que hacen nuestros principales competidores y trabajar en una línea que nos permita reducir las distancias con ellos.
 - **Palabras clave (tags)**: por defecto Youtube no muestra los tags utilizados por un vídeo. Para poder ver las palabras clave que están usando tendríamos que ir al código fuente y buscar "*keywords*". Esta extensión nos ayuda a identificarlas de forma sencilla.
 
+Los aspectos más relevantes de nuestros vídeos y que siempre debemos tener bien optimizados son los siguientes:
+
+-   Title
+-   Description
+-   Tags
+-   Thumbnail 
+
 ### 3- Crea vídeos de calidad
 
 Youtube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson/discovery):
@@ -97,10 +104,10 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  4. Invierte tiempo en editar los vídeos. La imagen inicial, la descripción o los colores utilizados son elementos importantes. 
  5. Evita paradas. Revisa cada segundo del vídeo y asegúrate que su visualización no se ve entorpecida por momentos de transicción que no aportan valor.
  6. Facilita al usuario el seguimiento del vídeo con una buena resolución y resaltando aquellas partes de las que hablas. Si muestras una imagen y estás haciendo referencia a una parte de la misma, destácala frente al resto.
- 7. Pide feedback tanto a compañeros como a usuarios. Debemos aprender de las críticas constructivas para crear  
+ 7. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzU1OTQ2NSwtMTcyMTQ1MDYwMSw3OT
+eyJoaXN0b3J5IjpbLTE0NDk1Nzc4NCwtMTcyMTQ1MDYwMSw3OT
 Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
 OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
 02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
