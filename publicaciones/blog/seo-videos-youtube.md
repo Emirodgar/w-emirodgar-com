@@ -48,14 +48,20 @@ Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser lige
 - https://keywordtool.io/es/youtube
 - https://keywordseverywhere.com/
 
+### 2- Gestiona y optimiza tus canales y vídeos
+
 A mayores de estas dos herramientas de análisis de palabras clave existen soluciones más completas para gestionar y optimizar nuestros vídeos, listas y canales de forma sencilla. Estas dos extensiones son las más conocidas:
 
 - https://vidiq.com/
 - https://www.tubebuddy.com/
 
+A mayores del keyword analysis que nos permiten realizar, algunas de las funcionalidades extra que aportan son:
+
+
+
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjYyMDMyNCwxMjU1NDM3NjQ1LC0xNj
+eyJoaXN0b3J5IjpbLTEzMDE4NDQ1OSwxMjU1NDM3NjQ1LC0xNj
 A2NTYzNDMxLC02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3
 Mzg2XX0=
 -->
