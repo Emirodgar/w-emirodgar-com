@@ -79,12 +79,15 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 ### 3- Trabaja hacia los objetivos de Youtube
 
-Youtube tiene dos objetivos c
+Youtube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson/discovery):
+
+- Ayudar a los espectadores a encontrar los vídeos que les interesan
+- Maximizar sus interacciones y su satisfacción a largo plazo
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTA4MzA2NSw3OTY5NDA1MjcsMTM5ND
-QwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4OCwtMjA3NzUzMDE3
-NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC02NTQ5OTg3MTAsMT
-Q1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
+eyJoaXN0b3J5IjpbLTExMTUyMTI3MzIsNzk2OTQwNTI3LDEzOT
+Q0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4ODgsLTIwNzc1MzAx
+NzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMSwtNjU0OTk4NzEwLD
+E0NTczNjgyODAsLTQ4MjEwNzM4Nl19
 -->
