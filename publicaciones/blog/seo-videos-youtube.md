@@ -30,7 +30,7 @@ Su objetivo es claro, quieren mantener a los usuarios en Youtube, al igual que h
 
 ### Métricas de interacción
 
-La mayoría de las métricas de interacción se pueden medir en el informe de análisis de YouTube. Las más relevantes son: 
+La mayoría de las métricas de interacción se pueden medir en el informe de análisis de [YouTube Studio](https://studio.youtube.com). Las más relevantes son: 
 
 - Likes / dislikes
 - Comentarios
@@ -162,10 +162,10 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTY0NDQzLC0xNDM0MDgyNDEwLDkwND
-kyMDU2OCwxNDY4ODc4NDU3LC0zNDQ4Njc3NzcsLTE3MjE0NTA2
-MDEsNzk2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyOD
-EyOTQ4ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2
-MzQzMSwtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl
-19
+eyJoaXN0b3J5IjpbNTM4MjgyMDcsLTE0MzQwODI0MTAsOTA0OT
+IwNTY4LDE0Njg4Nzg0NTcsLTM0NDg2Nzc3NywtMTcyMTQ1MDYw
+MSw3OTY5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MT
+I5NDg4OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYz
+NDMxLC02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX
+0=
 -->
