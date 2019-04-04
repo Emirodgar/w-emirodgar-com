@@ -52,6 +52,7 @@ A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Go
 
 ![Búsqueda google receta pollo vídeos youtube](https://i.imgur.com/4TrrOMW.png)
 
+De forma complementaria podemos hacer una búsqueda en Google directamente sobre vídeos de Youtube para an 
 Otra opción puede ser fijarnos en los **competidores directos de nuestro canal** que tengan un tamaño similar pero que estén por encima. Analizando sus vídeos seguro que podemos identificar palabras clave relevantes que les estén funcionando bien.
 
 Por último, herramientas como [Buzzsumo](https://buzzsumo.com/) nos ayudarán a identificar publicaciones con buena acogida por parte de los usuarios por lo que tamibén servirán como fuente de inspiración y para detectar términos relevantes en *engagement*.
@@ -73,7 +74,7 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDAyNjQ0NiwxMzk0NDAyOTI3LDE0Nz
+eyJoaXN0b3J5IjpbMTcxMzk3NjgxMSwxMzk0NDAyOTI3LDE0Nz
 YyMDc2NjMsMjgxMjk0ODg4LC0yMDc3NTMwMTc3LDEyNTU0Mzc2
 NDUsLTE2MDY1NjM0MzEsLTY1NDk5ODcxMCwxNDU3MzY4MjgwLC
 00ODIxMDczODZdfQ==
