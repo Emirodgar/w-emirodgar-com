@@ -45,8 +45,8 @@ Podemos utilizar [Google Trends](https://trends.google.es/trends/) o cualquier [
 
 Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser ligeramente diferente al de las búsquedas de Google por lo que recomiendo validar nuestas palabras clave con aplicaciones específicas, por ejemplo:
 
-- https://keywordtool.io/es/youtube
-- https://keywordseverywhere.com/
+- [https://keywordtool.io/es/youtube](https://keywordtool.io/es/youtube)
+- [https://keywordseverywhere.com/](https://keywordseverywhere.com/)
 
 A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Google en la primera página de resultados. De aparecer ahí podemos estar seguros de que serán vídeos relevantes a nivel de **palabras clave e interacciones**.
 
@@ -153,9 +153,9 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODg3ODQ1NywtMzQ0ODY3Nzc3LC0xNz
-IxNDUwNjAxLDc5Njk0MDUyNywxMzk0NDAyOTI3LDE0NzYyMDc2
-NjMsMjgxMjk0ODg4LC0yMDc3NTMwMTc3LDEyNTU0Mzc2NDUsLT
-E2MDY1NjM0MzEsLTY1NDk5ODcxMCwxNDU3MzY4MjgwLC00ODIx
-MDczODZdfQ==
+eyJoaXN0b3J5IjpbLTk4OTUwMzMxLDE0Njg4Nzg0NTcsLTM0ND
+g2Nzc3NywtMTcyMTQ1MDYwMSw3OTY5NDA1MjcsMTM5NDQwMjky
+NywxNDc2MjA3NjYzLDI4MTI5NDg4OCwtMjA3NzUzMDE3NywxMj
+U1NDM3NjQ1LC0xNjA2NTYzNDMxLC02NTQ5OTg3MTAsMTQ1NzM2
+ODI4MCwtNDgyMTA3Mzg2XX0=
 -->
