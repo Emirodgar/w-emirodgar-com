@@ -90,6 +90,10 @@ Nuestros títulos deben contener siempre la palabra clave por la que queremos ap
 
 No debemos superar los 60 caracteres y debemos apostar por títulos con gancho: que capten rápidamente la atención o despierten la curiosidad de los usuarios.
 
+#### Genera una descripción válida para buscadores
+
+Aunque el objetivo principal es aportar valor a los usuarios que quieren ver nuestro vídeo, si basamos la descripción en un listado de enlaces o un resumen demasiado corto, estaremos perdiendo la oportunidad de aparec
+
 ### 3- Crea vídeos de calidad
 
 Youtube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson/discovery):
@@ -113,8 +117,8 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  7. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0MTk5MjU3LC0xNzIxNDUwNjAxLDc5Nj
-k0MDUyNywxMzk0NDAyOTI3LDE0NzYyMDc2NjMsMjgxMjk0ODg4
-LC0yMDc3NTMwMTc3LDEyNTU0Mzc2NDUsLTE2MDY1NjM0MzEsLT
-Y1NDk5ODcxMCwxNDU3MzY4MjgwLC00ODIxMDczODZdfQ==
+eyJoaXN0b3J5IjpbMTg4OTk4MjAwNCwtMTcyMTQ1MDYwMSw3OT
+Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
+OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
+02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
 -->
