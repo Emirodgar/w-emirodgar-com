@@ -59,13 +59,13 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 - **Mejor momento para publicar**: nos permite medir cuándo es el mejor momento para publicar un video en base en los datos de las publicaciones anteriores y sus interacciones.
 - **Herramientas de visualización y moderación de comentarios**: nos facilita la gestión de los comentarios, ideal para poder enriquecer el contenido y generar debate asociado a un vídeo.
-- **Recomendaciones en la página**: esta herramienta proporciona un panel lateral sobre nuestros vídeos con sugerencias de optimización. 
-- **Análisis de competidores**: nos permitirá analizar qué es lo que hacen nuestros principales competidores y trabajar en una línea que nos permita reducir l
+- **Recomendaciones sobre vídeos**: esta herramienta proporciona un panel lateral sobre nuestros vídeos con sugerencias de optimización para incrementar visualizaciones y *engagement*. 
+- **Análisis de competidores**: nos permitirá analizar qué es lo que hacen nuestros principales competidores y trabajar en una línea que nos permita reducir las distancias con ellos.
 - **Palabras clave**: cuando busca una palabra clave en YouTube con esta extensión habilitada, le proporcionará información en un formato de panel lateral. También proporcionan una aplicación web de investigación de palabras clave que incluye oportunidades de palabras clave relacionadas y una estimación de la competencia, junto con otras características.
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjk3MDkxOSwxMjU1NDM3NjQ1LC0xNj
-A2NTYzNDMxLC02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3
-Mzg2XX0=
+eyJoaXN0b3J5IjpbLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMT
+YwNjU2MzQzMSwtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEw
+NzM4Nl19
 -->
