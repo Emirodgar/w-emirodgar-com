@@ -52,7 +52,12 @@ A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Go
 
 ![Búsqueda google receta pollo vídeos youtube](https://i.imgur.com/4TrrOMW.png)
 
-De forma complementaria podemos hacer una búsqueda en Google directamente sobre vídeos de Youtube para an 
+De forma complementaria podemos hacer una búsqueda en Google directamente sobre vídeos de Youtube para analizar el TOP10 de resultados. Para ello bastará con usar el siguiente comando actualizando el último valor "local seo" por la palabra clave que queramos buscar.
+
+```
+site:youtube.com inurl:watch title:local seo
+```
+ 
 Otra opción puede ser fijarnos en los **competidores directos de nuestro canal** que tengan un tamaño similar pero que estén por encima. Analizando sus vídeos seguro que podemos identificar palabras clave relevantes que les estén funcionando bien.
 
 Por último, herramientas como [Buzzsumo](https://buzzsumo.com/) nos ayudarán a identificar publicaciones con buena acogida por parte de los usuarios por lo que tamibén servirán como fuente de inspiración y para detectar términos relevantes en *engagement*.
@@ -74,8 +79,8 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzk3NjgxMSwxMzk0NDAyOTI3LDE0Nz
-YyMDc2NjMsMjgxMjk0ODg4LC0yMDc3NTMwMTc3LDEyNTU0Mzc2
-NDUsLTE2MDY1NjM0MzEsLTY1NDk5ODcxMCwxNDU3MzY4MjgwLC
-00ODIxMDczODZdfQ==
+eyJoaXN0b3J5IjpbNzk2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3Nj
+IwNzY2MywyODEyOTQ4ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0
+NSwtMTYwNjU2MzQzMSwtNjU0OTk4NzEwLDE0NTczNjgyODAsLT
+Q4MjEwNzM4Nl19
 -->
