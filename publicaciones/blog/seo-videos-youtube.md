@@ -16,7 +16,7 @@ permalink: seo-videos-youtube
  1. [Utiliza las palabras clave adecuadas](#palabras-clave)
  2. [Gestiona y optimiza tus vídeos](#optimizar)
  3. [Crear vídeos de calidad](#calidad)
- 4. [Promociona tus vídeos](#promocionar)
+ 4. [Promociona tus vídeos](#promocion)
 
 ## ¿Cómo funciona el algoritmo de Youtube?
 
@@ -162,9 +162,10 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQwODI0MTAsOTA0OTIwNTY4LDE0Nj
-g4Nzg0NTcsLTM0NDg2Nzc3NywtMTcyMTQ1MDYwMSw3OTY5NDA1
-MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4OCwtMj
-A3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC02NTQ5
-OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
+eyJoaXN0b3J5IjpbLTczNTY0NDQzLC0xNDM0MDgyNDEwLDkwND
+kyMDU2OCwxNDY4ODc4NDU3LC0zNDQ4Njc3NzcsLTE3MjE0NTA2
+MDEsNzk2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyOD
+EyOTQ4ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2
+MzQzMSwtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl
+19
 -->
