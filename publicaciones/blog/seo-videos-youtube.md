@@ -92,7 +92,13 @@ No debemos superar los 60 caracteres y debemos apostar por títulos con gancho: 
 
 #### Genera una descripción válida para buscadores
 
-Aunque el objetivo principal es aportar valor a los usuarios que quieren ver nuestro vídeo, si basamos la descripción en un listado de enlaces o un resumen demasiado corto, estaremos perdiendo la oportunidad de aparec
+Aunque el objetivo principal es aportar valor a los usuarios que quieren ver nuestro vídeo, si basamos la descripción en un listado de enlaces o un resumen demasiado corto, estaremos perdiendo la oportunidad de aparecer en más búsquedas.
+
+La palabra principal debe ser incluida en el título pero debemos utilizar la descripción para tratar de aparecer en búsquedas de palabras clave secundarias o complementarias a la principal. De esta forma podremos captar un mayor tráfico hacia nuestros vídeos.
+
+#### Youtube tags
+
+Aquí debemos añadir tanto la j
 
 ### 3- Crea vídeos de calidad
 
@@ -117,7 +123,7 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  7. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTk4MjAwNCwtMTcyMTQ1MDYwMSw3OT
+eyJoaXN0b3J5IjpbMTQxODI2NjE4MywtMTcyMTQ1MDYwMSw3OT
 Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
 OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
 02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
