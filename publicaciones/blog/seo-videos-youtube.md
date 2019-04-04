@@ -98,7 +98,11 @@ La palabra principal debe ser incluida en el título pero debemos utilizar la de
 
 #### Youtube tags
 
-Aquí debemos añadir tanto la j
+Aquí debemos añadir tanto la keyword pricipal como las secundarias. De esta forma le indicamos a Youtube con qué terminos estará relacionado nuestro vídeo.
+
+#### Thumbnail
+
+Será la parte más visual de nuestro vídeo y probablemente la que determine, junto con el título, que un usuario haga clic o no en nuestros resultados. Por ello debemos asegurarnos de utilizar una imagen llamativa y relacionada con la temática que trataremos en el vídeo. Podemos probar varios e ir analizando el CT
 
 ### 3- Crea vídeos de calidad
 
@@ -123,7 +127,7 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  7. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODI2NjE4MywtMTcyMTQ1MDYwMSw3OT
+eyJoaXN0b3J5IjpbMjA3NzM3ODIxNiwtMTcyMTQ1MDYwMSw3OT
 Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
 OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
 02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
