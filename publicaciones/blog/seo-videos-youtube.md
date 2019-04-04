@@ -129,9 +129,12 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  7. Facilita al usuario el seguimiento del vídeo con una buena resolución y resaltando aquellas partes de las que hablas. Si muestras una imagen y estás haciendo referencia a una parte de la misma, destácala frente al resto.
  8. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
 
+#### Utiliza las tarjetas de Youtube
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ5OTUxMTcsLTE3MjE0NTA2MDEsNz
-k2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4
-ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMS
-wtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
+eyJoaXN0b3J5IjpbMTkwNTEyNzQ3NSwtMTcyMTQ1MDYwMSw3OT
+Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
+OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
+02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
 -->
