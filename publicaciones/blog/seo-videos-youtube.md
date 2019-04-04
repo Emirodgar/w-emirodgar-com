@@ -91,13 +91,15 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  1. Planifica el vídeo con tiempo. Ten claro lo que quieres hacer y cómo lo llevarás a cabo
  2. Los 10-15 primeros segundos son cruciales. Tienes que convencer al usuario de que merece la pena ver el vídeo por lo que comienza con lo más interesante o atractivo.
  3. Pide interacción a los usuarios:
-    - Que comenten dudas, 
- 5. like o suscribirse al canal)
+    - Que comenten dudas para que se las podamos resolver
+    - Que indiquen que les gusta el vídeo si les ha ayudado
+    - Que se suscriban al canal para ver más vídeos relacioandos
+ 5. Invierte tiempo en editar los vídeos. La imagen inicial, la descripción, colores, etc. son elementos importantes
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMzUwODc0LC0xNzIxNDUwNjAxLDc5Nj
-k0MDUyNywxMzk0NDAyOTI3LDE0NzYyMDc2NjMsMjgxMjk0ODg4
-LC0yMDc3NTMwMTc3LDEyNTU0Mzc2NDUsLTE2MDY1NjM0MzEsLT
-Y1NDk5ODcxMCwxNDU3MzY4MjgwLC00ODIxMDczODZdfQ==
+eyJoaXN0b3J5IjpbLTE2ODQxMjc1NjksLTE3MjE0NTA2MDEsNz
+k2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4
+ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMS
+wtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
 -->
