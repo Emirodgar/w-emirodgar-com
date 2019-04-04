@@ -77,19 +77,19 @@ Estas son algunas de las funcionalidades extra que aportan son:
 - **Análisis de competidores**: nos permitirá analizar qué es lo que hacen nuestros principales competidores y trabajar en una línea que nos permita reducir las distancias con ellos.
 - **Palabras clave (tags)**: por defecto Youtube no muestra los tags utilizados por un vídeo. Para poder ver las palabras clave que están usando tendríamos que ir al código fuente y buscar "*keywords*". Esta extensión nos ayuda a identificarlas de forma sencilla.
 
-### 3- Trabaja hacia los objetivos de Youtube
+### 3- Crea vídeos de calidad
 
 Youtube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson/discovery):
 
 - Ayudar a los espectadores a encontrar los vídeos que les interesan
 - Maximizar sus interacciones y su satisfacción a largo plazo
 
-El primer objetivo lo tend
+Básicamente lo que tenemos que hacer es crear vídeos que interesen a nuestra audiencia y con los que interactúen. Fácil decirlo pero difícil llevarlo a cabo.
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTE1NDY4NCw3OTY5NDA1MjcsMTM5ND
-QwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4OCwtMjA3NzUzMDE3
-NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC02NTQ5OTg3MTAsMT
-Q1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
+eyJoaXN0b3J5IjpbLTE3MjE0NTA2MDEsNzk2OTQwNTI3LDEzOT
+Q0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4ODgsLTIwNzc1MzAx
+NzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMSwtNjU0OTk4NzEwLD
+E0NTczNjgyODAsLTQ4MjEwNzM4Nl19
 -->
