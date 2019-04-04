@@ -138,7 +138,7 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
 
 #### Utiliza las tarjetas de Youtube
 
-Las tarjetas de YouTube es una función interactiva que anima a los espectadores a realizar una de las cinco acciones siguientes:
+Las [tarjetas de YouTube](https://support.google.com/youtube/answer/6140493?co=GENIE.Platform%3DDesktop&hl=es) son una función interactiva que anima a los espectadores a realizar una de las cinco acciones siguientes:
 
  - Ver otro video o lista de reproducción 
  - Descubre otro canal de YouTube. 
@@ -148,7 +148,7 @@ Las tarjetas de YouTube es una función interactiva que anima a los espectadores
 
 Nos ayudarán a mejorar la interacción de los usuarios con nuestros vídeos y la posibilidad de relacionarlos entre sí consiguiendo visualizaciones cruzadas.
 
-### 4- Promociona tus vídeos
+### <a name"promocion"></a> 4- Promociona tus vídeos
 
 Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por lo tanto aparezcamos en pocas búsquedas. Por ello, podemos llevar a cabo las siguientes acciones para promocionar nuestros primeros vídeos.
 
@@ -157,9 +157,9 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0OTIwNTY4LDE0Njg4Nzg0NTcsLTM0ND
-g2Nzc3NywtMTcyMTQ1MDYwMSw3OTY5NDA1MjcsMTM5NDQwMjky
-NywxNDc2MjA3NjYzLDI4MTI5NDg4OCwtMjA3NzUzMDE3NywxMj
-U1NDM3NjQ1LC0xNjA2NTYzNDMxLC02NTQ5OTg3MTAsMTQ1NzM2
-ODI4MCwtNDgyMTA3Mzg2XX0=
+eyJoaXN0b3J5IjpbMTQ0MjEyMDc2NCw5MDQ5MjA1NjgsMTQ2OD
+g3ODQ1NywtMzQ0ODY3Nzc3LC0xNzIxNDUwNjAxLDc5Njk0MDUy
+NywxMzk0NDAyOTI3LDE0NzYyMDc2NjMsMjgxMjk0ODg4LC0yMD
+c3NTMwMTc3LDEyNTU0Mzc2NDUsLTE2MDY1NjM0MzEsLTY1NDk5
+ODcxMCwxNDU3MzY4MjgwLC00ODIxMDczODZdfQ==
 -->
