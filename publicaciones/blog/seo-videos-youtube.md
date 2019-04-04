@@ -48,6 +48,10 @@ Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser lige
 - https://keywordtool.io/es/youtube
 - https://keywordseverywhere.com/
 
+A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Google 
+
+![](
+
 Otra opción puede ser fijarnos en los competidores directos de nuestro canal que tengan un tamaño similar pero que estén por encima. Analizando sus vídeos seguro que podemos identificar palabras clave relevantes que les estén funcionando bien.
 
 ### 2- Gestiona y optimiza tus vídeos
@@ -67,7 +71,7 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMjk0ODg4LC0yMDc3NTMwMTc3LDEyNT
-U0Mzc2NDUsLTE2MDY1NjM0MzEsLTY1NDk5ODcxMCwxNDU3MzY4
-MjgwLC00ODIxMDczODZdfQ==
+eyJoaXN0b3J5IjpbLTM4MDkyNDYxNSwyODEyOTQ4ODgsLTIwNz
+c1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMSwtNjU0OTk4
+NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
 -->
