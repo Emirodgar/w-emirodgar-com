@@ -96,13 +96,15 @@ Aunque el objetivo principal es aportar valor a los usuarios que quieren ver nue
 
 La palabra principal debe ser incluida en el título pero debemos utilizar la descripción para tratar de aparecer en búsquedas de palabras clave secundarias o complementarias a la principal. De esta forma podremos captar un mayor tráfico hacia nuestros vídeos.
 
+Una buena práctica suele ser transcribir el audio del vídeo en la descripción. De esta forma conseguimos abarcar un gran número de búsquedas directamente relacionadas. 
+
 #### Youtube tags
 
 Aquí debemos añadir tanto la keyword pricipal como las secundarias. De esta forma le indicamos a Youtube con qué terminos estará relacionado nuestro vídeo.
 
 #### Thumbnail
 
-Será la parte más visual de nuestro vídeo y probablemente la que determine, junto con el título, que un usuario haga clic o no en nuestros resultados. Por ello debemos asegurarnos de utilizar una imagen llamativa y relacionada con la temática que trataremos en el vídeo. Podemos probar varios e ir analizando el CT
+Será la parte más visual de nuestro vídeo y probablemente la que determine, junto con el título, que un usuario haga clic o no en nuestros resultados. Por ello debemos asegurarnos de utilizar una imagen llamativa y relacionada con la temática que trataremos en el vídeo. Podemos probar varios e ir analizando el CTR que generamos.
 
 ### 3- Crea vídeos de calidad
 
@@ -127,8 +129,8 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  7. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzM3ODIxNiwtMTcyMTQ1MDYwMSw3OT
-Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
-OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
-02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
+eyJoaXN0b3J5IjpbLTIwNzMwNzQ1MjIsLTE3MjE0NTA2MDEsNz
+k2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4
+ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMS
+wtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
 -->
