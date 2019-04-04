@@ -48,9 +48,9 @@ Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser lige
 - https://keywordtool.io/es/youtube
 - https://keywordseverywhere.com/
 
-A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Google 
+A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Google en la primera página de resultados. De aparecer ahí podemos estar seguros de que serán vídeos relevantes a nivel de palabras clave e interacciones.
 
-![](
+![Búsqueda google receta pollo vídeos youtube](https://i.imgur.com/4TrrOMW.png)
 
 Otra opción puede ser fijarnos en los competidores directos de nuestro canal que tengan un tamaño similar pero que estén por encima. Analizando sus vídeos seguro que podemos identificar palabras clave relevantes que les estén funcionando bien.
 
@@ -71,7 +71,7 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDkyNDYxNSwyODEyOTQ4ODgsLTIwNz
+eyJoaXN0b3J5IjpbMTQ3NjIwNzY2MywyODEyOTQ4ODgsLTIwNz
 c1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMSwtNjU0OTk4
 NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
 -->
