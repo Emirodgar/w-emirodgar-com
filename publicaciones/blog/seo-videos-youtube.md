@@ -88,18 +88,19 @@ Básicamente lo que tenemos que hacer es crear vídeos que interesen a nuestra a
 
 Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nuestras publicaciones en Youtube.
 
- 1. Planifica el vídeo con tiempo. Ten claro lo que quieres hacer y cómo lo llevarás a cabo
+ 1. Planifica el vídeo con tiempo. Ten claro lo que quieres hacer y cómo lo llevarás a cabo. No tengas prisa.
  2. Los 10-15 primeros segundos son cruciales. Tienes que convencer al usuario de que merece la pena ver el vídeo por lo que comienza con lo más interesante o atractivo.
  3. Pide interacción a los usuarios:
     - Que comenten dudas para que se las podamos resolver
     - Que indiquen que les gusta el vídeo si les ha ayudado
     - Que se suscriban al canal para ver más vídeos relacioandos
- 5. Invierte tiempo en editar los vídeos. La imagen inicial, la descripción, colores, etc. son elementos importantes
+ 4. Invierte tiempo en editar los vídeos. La imagen inicial, la descripción o los colores utilizados son elementos importantes.
+ 5. Evita paradas en el vídeo. 
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQxMjc1NjksLTE3MjE0NTA2MDEsNz
-k2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4
-ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMS
-wtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
+eyJoaXN0b3J5IjpbLTQ2MjMzODY2NCwtMTcyMTQ1MDYwMSw3OT
+Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
+OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
+02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
 -->
