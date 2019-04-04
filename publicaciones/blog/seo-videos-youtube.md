@@ -128,7 +128,9 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  6. Añade subtítulos al vídeos. En el caso de que el audio no se escuche bien o un usuario no tenga altavoces a mano, evitaremos fugas durante la visualización.
  7. Facilita al usuario el seguimiento del vídeo con una buena resolución y resaltando aquellas partes de las que hablas. Si muestras una imagen y estás haciendo referencia a una parte de la misma, destácala frente al resto.
  8. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
- 9. Termina los vídeos con una pantalla de fin común a todos ellos. Se trata de generar un patrón fácilmente reconocible por los usuario 
+ 9. Termina los vídeos con una pantalla de fin común a todos ellos. Se trata de generar un patrón fácilmente reconocible por los usuarios. 
+ 11. Responde siempre a los comentarios con buenas palabras y siendo lo más descriptivo que sea posible.
+  
 
 #### Utiliza las tarjetas de Youtube
 
@@ -141,9 +143,13 @@ Las tarjetas de YouTube es una función interactiva que anima a los espectadores
  - Visita un enlace externo
 
 Nos ayudarán a mejorar la interacción de los usuarios con nuestros vídeos y la posibilidad de relacionarlos entre sí consiguiendo visualizaciones cruzadas.
+
+### 4- Promociona tus vídeos
+
+Cuando comenzamos un canal es posible que no tengamos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDAzNjMzNDgsLTE3MjE0NTA2MDEsNz
-k2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4
-ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMS
-wtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
+eyJoaXN0b3J5IjpbLTE2MTE0MTc5MywtMTcyMTQ1MDYwMSw3OT
+Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
+OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
+02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
 -->
