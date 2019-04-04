@@ -86,10 +86,15 @@ Youtube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson
 
 Básicamente lo que tenemos que hacer es crear vídeos que interesen a nuestra audiencia y con los que interactúen. Fácil decirlo pero difícil llevarlo a cabo.
 
+Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nuestras publicaciones en Youtube.
+
+ 1. Planifica el vídeo con tiempo. Ten claro lo que quieres hacer y cómo lo llevarás a cabo
+ 2. Los 10-15
+
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE0NTA2MDEsNzk2OTQwNTI3LDEzOT
-Q0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4ODgsLTIwNzc1MzAx
-NzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMSwtNjU0OTk4NzEwLD
-E0NTczNjgyODAsLTQ4MjEwNzM4Nl19
+eyJoaXN0b3J5IjpbMjA1ODIxNDc4MywtMTcyMTQ1MDYwMSw3OT
+Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
+OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
+02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
 -->
