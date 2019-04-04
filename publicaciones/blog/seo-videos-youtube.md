@@ -148,12 +148,12 @@ Nos ayudarán a mejorar la interacción de los usuarios con nuestros vídeos y l
 
 Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por lo tanto aparezcamos en pocas búsquedas. Por ello, podemos llevar a cabo las siguientes acciones para promocionar nuestros primeros vídeos.
 
- 1. Utiliza tus redes sociales. Especialmente a través de tendencias que puedan estar relacionadas
- 2. 
+ 1. Utiliza tus redes sociales. Aprovecha tendencias que puedan estar relacionadas.
+ 2. Incluye enlaces a tus vídeos en plataformas de preguntas y respuestas cuando éstos contribuyan a solucionar una problemática. Por ejemplo, Quora o Stackoverflow.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjQ0NjAxMywtMTcyMTQ1MDYwMSw3OT
-Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
-OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
-02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
+eyJoaXN0b3J5IjpbNDkyNDQzOTQzLC0xNzIxNDUwNjAxLDc5Nj
+k0MDUyNywxMzk0NDAyOTI3LDE0NzYyMDc2NjMsMjgxMjk0ODg4
+LC0yMDc3NTMwMTc3LDEyNTU0Mzc2NDUsLTE2MDY1NjM0MzEsLT
+Y1NDk5ODcxMCwxNDU3MzY4MjgwLC00ODIxMDczODZdfQ==
 -->
