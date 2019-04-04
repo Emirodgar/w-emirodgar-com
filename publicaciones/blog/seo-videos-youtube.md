@@ -146,9 +146,13 @@ Nos ayudarán a mejorar la interacción de los usuarios con nuestros vídeos y l
 
 ### 4- Promociona tus vídeos
 
-Cuando comenzamos un canal es posible que no tengamos
+Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por lo tanto aparezcamos en pocas búsquedas. Por ello, podemos llevar a cabo las siguientes acciones para promocionar nuestros primeros vídeos.
+
+ 1. Utiliza tus redes sociales. Especialmente a través de tendencias que puedan estar relacionadas
+ 2. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE0MTc5MywtMTcyMTQ1MDYwMSw3OT
+eyJoaXN0b3J5IjpbLTI0MjQ0NjAxMywtMTcyMTQ1MDYwMSw3OT
 Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
 OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
 02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
