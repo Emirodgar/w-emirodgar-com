@@ -41,7 +41,7 @@ La mayoría de las métricas de interacción se pueden medir en el informe de an
 
 ### 1- Utiliza las palabras clave adecuadas
 
-Podemos utilizar Google Trends o cualquier [herramienta SEO gratuita](herramientas-seo-gratis) de **análisis de palabras clave** para determinar aquellas relacionadas con nuestro sector y que cuentan con un mayor volumen de tráfico.
+Podemos utilizar [Google Trends](https://trends.google.es/trends/) o cualquier [herramienta SEO gratuita](herramientas-seo-gratis) de **análisis de palabras clave** para determinar aquellas relacionadas con nuestro sector y que cuentan con un mayor volumen de tráfico.
 
 Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser ligeramente diferente al de las búsquedas de Google por lo que recomiendo validar nuestas palabras clave con aplicaciones específicas, por ejemplo:
 
@@ -54,7 +54,7 @@ A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Go
 
 Otra opción puede ser fijarnos en los **competidores directos de nuestro canal** que tengan un tamaño similar pero que estén por encima. Analizando sus vídeos seguro que podemos identificar palabras clave relevantes que les estén funcionando bien.
 
-Por último, herramientas como Buzzsumo nos ayudarán a identificar publicaciones con buena acogida
+Por último, herramientas como [Buzzsumo](https://buzzsumo.com/) nos ayudarán a identificar publicaciones con buena acogida por parte de los usuarios por lo que tamibén servirán como fuente de inspiración y para detectar términos relevantes en *engagement*.
 
 ### 2- Gestiona y optimiza tus vídeos
 
@@ -73,7 +73,7 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA4MTcwMiwxMzk0NDAyOTI3LDE0Nz
+eyJoaXN0b3J5IjpbLTc3NDAyNjQ0NiwxMzk0NDAyOTI3LDE0Nz
 YyMDc2NjMsMjgxMjk0ODg4LC0yMDc3NTMwMTc3LDEyNTU0Mzc2
 NDUsLTE2MDY1NjM0MzEsLTY1NDk5ODcxMCwxNDU3MzY4MjgwLC
 00ODIxMDczODZdfQ==
