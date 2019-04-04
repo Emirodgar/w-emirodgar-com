@@ -48,7 +48,7 @@ Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser lige
 - https://keywordtool.io/es/youtube
 - https://keywordseverywhere.com/
 
-### 2- Gestiona y optimiza tus canales y vídeos
+### 2- Gestiona y optimiza tus vídeos
 
 A mayores de estas dos herramientas de análisis de palabras clave existen soluciones más completas para gestionar y optimizar nuestros vídeos, listas y canales de forma sencilla. Estas dos extensiones son las más conocidas:
 
@@ -64,7 +64,7 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0Nzk4OTEyLDEyNTU0Mzc2NDUsLTE2MD
-Y1NjM0MzEsLTY1NDk5ODcxMCwxNDU3MzY4MjgwLC00ODIxMDcz
-ODZdfQ==
+eyJoaXN0b3J5IjpbLTExMjc2NjExNTAsMTI1NTQzNzY0NSwtMT
+YwNjU2MzQzMSwtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEw
+NzM4Nl19
 -->
