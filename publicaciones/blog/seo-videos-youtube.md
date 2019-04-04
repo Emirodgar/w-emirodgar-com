@@ -84,10 +84,12 @@ Youtube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson
 - Ayudar a los espectadores a encontrar los vídeos que les interesan
 - Maximizar sus interacciones y su satisfacción a largo plazo
 
+El primer objetivo lo tend
+
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUyMTI3MzIsNzk2OTQwNTI3LDEzOT
-Q0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4ODgsLTIwNzc1MzAx
-NzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMSwtNjU0OTk4NzEwLD
-E0NTczNjgyODAsLTQ4MjEwNzM4Nl19
+eyJoaXN0b3J5IjpbMTYxOTE1NDY4NCw3OTY5NDA1MjcsMTM5ND
+QwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4OCwtMjA3NzUzMDE3
+NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC02NTQ5OTg3MTAsMT
+Q1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
 -->
