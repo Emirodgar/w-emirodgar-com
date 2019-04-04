@@ -13,9 +13,11 @@ permalink: seo-videos-youtube
 
 **¿Cómo hacemos SEO en Youtube?** la idea es establecer un proceso de optimización de los videos, listas de reproducción y canal para mejorar el posicionamiento en los resultados de búsqueda orgánicos de YouTube cuando se realice una consulta relacionada con nuestra temática.
 
- 1. [Utiliza las palabras clave adecuadas](#palabras-clave)
+Los pasos que debemos seguir son los siguientes:
+
+ 1. [Identificar y utilizar las palabras clave adecuadas](#palabras-clave)
  2. [Gestiona y optimiza tus vídeos](#optimizar)
- 3. [Crear vídeos de calidad](#calidad)
+ 3. [Trucos para crear vídeos de calidad](#calidad)
  4. [Promociona tus vídeos](#promocion)
 
 ## ¿Cómo funciona el algoritmo de Youtube?
@@ -162,7 +164,7 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTcyNDM5MTEsLTE0MzQwODI0MTAsOT
+eyJoaXN0b3J5IjpbLTE3NjMxMjYxNTcsLTE0MzQwODI0MTAsOT
 A0OTIwNTY4LDE0Njg4Nzg0NTcsLTM0NDg2Nzc3NywtMTcyMTQ1
 MDYwMSw3OTY5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLD
 I4MTI5NDg4OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2
