@@ -60,7 +60,7 @@ site:youtube.com inurl:watch title:local seo
  
 Otra opción puede ser fijarnos en los **competidores directos de nuestro canal** que tengan un tamaño similar pero que estén por encima. Analizando sus vídeos seguro que podemos identificar palabras clave relevantes que les estén funcionando bien.
 
-Por último, herramientas como [Buzzsumo](https://buzzsumo.com/) nos ayudarán a identificar publicaciones con buena acogida por parte de los usuarios por lo que tamibén servirán como fuente de inspiración y para detectar términos relevantes en *engagement*.
+Por último, herramientas como [Buzzsumo](https://buzzsumo.com/) nos ayudarán a identificar **tendencias** y publicaciones con buena acogida por parte de los usuarios por lo que tamibén servirán como fuente de inspiración y para detectar términos relevantes en *engagement*.
 
 ### 2- Gestiona y optimiza tus vídeos
 
@@ -79,8 +79,8 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3Nj
-IwNzY2MywyODEyOTQ4ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0
-NSwtMTYwNjU2MzQzMSwtNjU0OTk4NzEwLDE0NTczNjgyODAsLT
-Q4MjEwNzM4Nl19
+eyJoaXN0b3J5IjpbMTk0NTkxODg3Miw3OTY5NDA1MjcsMTM5ND
+QwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4OCwtMjA3NzUzMDE3
+NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC02NTQ5OTg3MTAsMT
+Q1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
 -->
