@@ -13,6 +13,8 @@ permalink: seo-videos-youtube
 
 **¿Cómo hacemos SEO en Youtube?** la idea es establecer un proceso de optimización de los videos, listas de reproducción y canal para mejorar el posicionamiento en los resultados de búsqueda orgánicos de YouTube cuando se realice una consulta relacionada con nuestra temática.
 
+ 1. [Utiliza las palabras clave adecuadas](#palabras-clave)
+
 ## ¿Cómo funciona el algoritmo de Youtube?
 
 Lo tenemos fácil ya que Google explicó en [este artículo](https://creatoracademy.youtube.com/page/lesson/discovery) su funcionamiento. A modo de resumen, nos dicen lo siguiente:
@@ -39,7 +41,7 @@ La mayoría de las métricas de interacción se pueden medir en el informe de an
 
 ## Conseguir más visualizaciones en nuestros vídeos
 
-### 1- Utiliza las palabras clave adecuadas
+### <a name="palabras-clave"></a> 1- Utiliza las palabras clave adecuadas
 
 Podemos utilizar [Google Trends](https://trends.google.es/trends/) o cualquier [herramienta SEO gratuita](herramientas-seo-gratis) de **análisis de palabras clave** para determinar aquellas relacionadas con nuestro sector y que cuentan con un mayor volumen de tráfico.
 
@@ -66,7 +68,7 @@ Por último, herramientas como [Buzzsumo](https://buzzsumo.com/) nos ayudarán a
 
 En la imagen anterior podemos ver la evolución de las publicaciones de una temática y su interacción por parte de los usuarios. 
 
-### 2- Gestiona y optimiza tus vídeos
+### <a name="optimizar"></a> 2- Gestiona y optimiza tus vídeos
 
 A mayores de estas dos herramientas de análisis de palabras clave existen soluciones más completas para gestionar y optimizar nuestros vídeos, listas y canales de forma sencilla. Estas dos extensiones son las más conocidas:
 
@@ -110,7 +112,7 @@ Aquí debemos añadir tanto la keyword pricipal como las secundarias. De esta fo
 
 Será la parte más visual de nuestro vídeo y probablemente la que determine, junto con el título, que un usuario haga clic o no en nuestros resultados. Por ello debemos asegurarnos de utilizar una imagen llamativa y relacionada con la temática que trataremos en el vídeo. Podemos probar varios e ir analizando el CTR que generamos.
 
-### 3- Crea vídeos de calidad
+### <a name="calidad"></a> 3- Crea vídeos de calidad
 
 Youtube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson/discovery):
 
@@ -148,7 +150,7 @@ Las [tarjetas de YouTube](https://support.google.com/youtube/answer/6140493?co=G
 
 Nos ayudarán a mejorar la interacción de los usuarios con nuestros vídeos y la posibilidad de relacionarlos entre sí consiguiendo visualizaciones cruzadas.
 
-### <a name"promocion"></a> 4- Promociona tus vídeos
+### <a name="promocion"></a> 4- Promociona tus vídeos
 
 Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por lo tanto aparezcamos en pocas búsquedas. Por ello, podemos llevar a cabo las siguientes acciones para promocionar nuestros primeros vídeos.
 
@@ -157,7 +159,7 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjEyMDc2NCw5MDQ5MjA1NjgsMTQ2OD
+eyJoaXN0b3J5IjpbMTA5NTUxOTY0MCw5MDQ5MjA1NjgsMTQ2OD
 g3ODQ1NywtMzQ0ODY3Nzc3LC0xNzIxNDUwNjAxLDc5Njk0MDUy
 NywxMzk0NDAyOTI3LDE0NzYyMDc2NjMsMjgxMjk0ODg4LC0yMD
 c3NTMwMTc3LDEyNTU0Mzc2NDUsLTE2MDY1NjM0MzEsLTY1NDk5
