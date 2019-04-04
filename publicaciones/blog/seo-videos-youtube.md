@@ -125,11 +125,12 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
     - Que se suscriban al canal para ver más vídeos relacioandos
  4. Invierte tiempo en editar los vídeos. La imagen inicial, la descripción o los colores utilizados son elementos importantes. 
  5. Evita paradas. Revisa cada segundo del vídeo y asegúrate que su visualización no se ve entorpecida por momentos de transicción que no aportan valor.
- 6. Facilita al usuario el seguimiento del vídeo con una buena resolución y resaltando aquellas partes de las que hablas. Si muestras una imagen y estás haciendo referencia a una parte de la misma, destácala frente al resto.
- 7. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
+ 6. Añade subtítulos al vídeos. En el caso de que el audio no se escuche bien o un usuario no tenga altavoces a mano, evitaremos fugas durante la visualización.
+ 7. Facilita al usuario el seguimiento del vídeo con una buena resolución y resaltando aquellas partes de las que hablas. Si muestras una imagen y estás haciendo referencia a una parte de la misma, destácala frente al resto.
+ 8. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMwNzQ1MjIsLTE3MjE0NTA2MDEsNz
+eyJoaXN0b3J5IjpbLTIwMzQ5OTUxMTcsLTE3MjE0NTA2MDEsNz
 k2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4
 ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMS
 wtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
