@@ -150,10 +150,11 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
 
  1. Utiliza tus redes sociales. Aprovecha tendencias que puedan estar relacionadas.
  2. Incluye enlaces a tus vídeos en plataformas de preguntas y respuestas cuando éstos contribuyan a solucionar una problemática. Por ejemplo, Quora o Stackoverflow.
+ 3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNDQzOTQzLC0xNzIxNDUwNjAxLDc5Nj
-k0MDUyNywxMzk0NDAyOTI3LDE0NzYyMDc2NjMsMjgxMjk0ODg4
-LC0yMDc3NTMwMTc3LDEyNTU0Mzc2NDUsLTE2MDY1NjM0MzEsLT
-Y1NDk5ODcxMCwxNDU3MzY4MjgwLC00ODIxMDczODZdfQ==
+eyJoaXN0b3J5IjpbLTM0NDg2Nzc3NywtMTcyMTQ1MDYwMSw3OT
+Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
+OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
+02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
 -->
