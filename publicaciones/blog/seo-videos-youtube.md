@@ -43,8 +43,13 @@ La mayoría de las métricas de interacción se pueden medir en el informe de an
 
 Podemos utilizar Google Trends o cualquier [herramienta SEO gratuita](herramientas-seo-gratis) de **análisis de palabras clave** para determinar aquellas relacionadas con nuestro sector y que cuentan con un mayor volumen de tráfico.
 
+Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser ligeramente diferente al de las búsquedas de Google por lo que recomiendo validar nuestas palabras clave con aplicaciones específicas. Os dejo un pequeño listado:
+
+- https://keywordtool.io/es/youtube
+- 
+
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY1NjM0MzEsLTY1NDk5ODcxMCwxND
-U3MzY4MjgwLC00ODIxMDczODZdfQ==
+eyJoaXN0b3J5IjpbMTI1NTQzNzY0NSwtMTYwNjU2MzQzMSwtNj
+U0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
 -->
