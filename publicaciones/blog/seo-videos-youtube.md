@@ -79,10 +79,10 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 Los aspectos más relevantes de nuestros vídeos y que siempre debemos tener bien optimizados son los siguientes:
 
--   Title
--   Description
+-   Título
+-   Descripción
 -   Tags
--   Thumbnail 
+-   Thumbnail (imagen por defecto del vídeo)
 
 ### 3- Crea vídeos de calidad
 
@@ -91,7 +91,7 @@ Youtube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson
 - Ayudar a los espectadores a encontrar los vídeos que les interesan
 - Maximizar sus interacciones y su satisfacción a largo plazo
 
-Básicamente lo que tenemos que hacer es crear vídeos que interesen a nuestra audiencia y con los que interactúen. Fácil decirlo pero difícil llevarlo a cabo.
+>Básicamente lo que tenemos que hacer es crear vídeos que interesen a nuestra audiencia y con los que interactúen. Fácil decirlo pero difícil llevarlo a cabo.
 
 Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nuestras publicaciones en Youtube.
 
@@ -107,8 +107,8 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  7. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk1Nzc4NCwtMTcyMTQ1MDYwMSw3OT
-Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
-OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
-02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
+eyJoaXN0b3J5IjpbNjI1MjU1NDcsLTE3MjE0NTA2MDEsNzk2OT
+QwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4ODgs
+LTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMSwtNj
+U0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
 -->
