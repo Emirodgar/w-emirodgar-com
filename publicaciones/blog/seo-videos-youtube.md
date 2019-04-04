@@ -84,6 +84,10 @@ Los aspectos más relevantes de nuestros vídeos y que siempre debemos tener bie
 -   Tags
 -   Thumbnail (imagen por defecto del vídeo)
 
+#### Redactar títulos de calidad para Youtube
+
+Nuestros títulos deben contener siempre la palabra clave por la que queremos aparecer en las búsquedas y Lo más a la izquierda que nos sea posible.
+
 ### 3- Crea vídeos de calidad
 
 Youtube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson/discovery):
@@ -107,8 +111,8 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  7. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1MjU1NDcsLTE3MjE0NTA2MDEsNzk2OT
-QwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4ODgs
-LTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMSwtNj
-U0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
+eyJoaXN0b3J5IjpbLTE1NDgyMjMxNjUsLTE3MjE0NTA2MDEsNz
+k2OTQwNTI3LDEzOTQ0MDI5MjcsMTQ3NjIwNzY2MywyODEyOTQ4
+ODgsLTIwNzc1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMS
+wtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
 -->
