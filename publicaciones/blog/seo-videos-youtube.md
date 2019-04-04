@@ -122,7 +122,7 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
  3. Pide interacción a los usuarios:
     - Que comenten dudas para que se las podamos resolver
     - Que indiquen que les gusta el vídeo si les ha ayudado
-    - Que se suscriban al canal para ver más vídeos relacioandos
+    - Que se suscriban al canal para ver más vídeos relacionados
  4. Invierte tiempo en editar los vídeos. La imagen inicial, la descripción o los colores utilizados son elementos importantes. 
  5. Evita paradas. Revisa cada segundo del vídeo y asegúrate que su visualización no se ve entorpecida por momentos de transicción que no aportan valor.
  6. Añade subtítulos al vídeos. En el caso de que el audio no se escuche bien o un usuario no tenga altavoces a mano, evitaremos fugas durante la visualización.
@@ -153,8 +153,9 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDg2Nzc3NywtMTcyMTQ1MDYwMSw3OT
-Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
-OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
-02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
+eyJoaXN0b3J5IjpbMTQ2ODg3ODQ1NywtMzQ0ODY3Nzc3LC0xNz
+IxNDUwNjAxLDc5Njk0MDUyNywxMzk0NDAyOTI3LDE0NzYyMDc2
+NjMsMjgxMjk0ODg4LC0yMDc3NTMwMTc3LDEyNTU0Mzc2NDUsLT
+E2MDY1NjM0MzEsLTY1NDk5ODcxMCwxNDU3MzY4MjgwLC00ODIx
+MDczODZdfQ==
 -->
