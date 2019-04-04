@@ -58,13 +58,13 @@ A mayores de estas dos herramientas de análisis de palabras clave existen soluc
 Estas son algunas de las funcionalidades extra que aportan son:
 
 - **Mejor momento para publicar**: nos permite medir cuándo es el mejor momento para publicar un video en base en los datos de las publicaciones anteriores y sus interacciones.
-- **Herramientas de visualización y moderación de comentarios**: nos facilita la gestión de los comentarios, ideal para poder enriquecer el contenido y g.
-- Recomendaciones en la página: similar a Tube Buddy, esta herramienta proporciona un panel lateral cuando se ven videos para que pueda ver las sugerencias de optimización en la página, las etiquetas y las redes sociales en otras plataformas. En esta herramienta también se incluye la capacidad de ver quién se vincula a un video en particular.
-- Datos de palabras clave: cuando busca una palabra clave en YouTube con esta extensión habilitada, le proporcionará información en un formato de panel lateral. También proporcionan una aplicación web de investigación de palabras clave que incluye oportunidades de palabras clave relacionadas y una estimación de la competencia, junto con otras características.
+- **Herramientas de visualización y moderación de comentarios**: nos facilita la gestión de los comentarios, ideal para poder enriquecer el contenido y generar debate asociado a un vídeo.
+- **Recomendaciones en la página**: esta herramienta proporciona un panel lateral sobre nuestros vídeos con sugerencias de optimización. 
+- **Palabras clave**: cuando busca una palabra clave en YouTube con esta extensión habilitada, le proporcionará información en un formato de panel lateral. También proporcionan una aplicación web de investigación de palabras clave que incluye oportunidades de palabras clave relacionadas y una estimación de la competencia, junto con otras características.
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDMxMDY2MjcsMTI1NTQzNzY0NSwtMT
-YwNjU2MzQzMSwtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEw
-NzM4Nl19
+eyJoaXN0b3J5IjpbMjI0Nzk4OTEyLDEyNTU0Mzc2NDUsLTE2MD
+Y1NjM0MzEsLTY1NDk5ODcxMCwxNDU3MzY4MjgwLC00ODIxMDcz
+ODZdfQ==
 -->
