@@ -46,10 +46,12 @@ Podemos utilizar Google Trends o cualquier [herramienta SEO gratuita](herramient
 Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser ligeramente diferente al de las búsquedas de Google por lo que recomiendo validar nuestas palabras clave con aplicaciones específicas. Os dejo un pequeño listado:
 
 - https://keywordtool.io/es/youtube
-- 
+- https://keywordseverywhere.com/
+- https://vidiq.com/
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTQzNzY0NSwtMTYwNjU2MzQzMSwtNj
-U0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
+eyJoaXN0b3J5IjpbMjMyOTEyNzksMTI1NTQzNzY0NSwtMTYwNj
+U2MzQzMSwtNjU0OTk4NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4
+Nl19
 -->
