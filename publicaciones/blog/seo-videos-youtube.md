@@ -43,16 +43,18 @@ La mayoría de las métricas de interacción se pueden medir en el informe de an
 
 Podemos utilizar Google Trends o cualquier [herramienta SEO gratuita](herramientas-seo-gratis) de **análisis de palabras clave** para determinar aquellas relacionadas con nuestro sector y que cuentan con un mayor volumen de tráfico.
 
-Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser ligeramente diferente al de las búsquedas de Google por lo que recomiendo validar nuestas palabras clave con aplicaciones específicas. Os dejo un pequeño listado:
+Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser ligeramente diferente al de las búsquedas de Google por lo que recomiendo validar nuestas palabras clave con aplicaciones específicas, por ejemplo:
 
 - https://keywordtool.io/es/youtube
 - https://keywordseverywhere.com/
 
-A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Google en la primera página de resultados. De aparecer ahí podemos estar seguros de que serán vídeos relevantes a nivel de palabras clave e interacciones.
+A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Google en la primera página de resultados. De aparecer ahí podemos estar seguros de que serán vídeos relevantes a nivel de **palabras clave e interacciones**.
 
 ![Búsqueda google receta pollo vídeos youtube](https://i.imgur.com/4TrrOMW.png)
 
 Otra opción puede ser fijarnos en los **competidores directos de nuestro canal** que tengan un tamaño similar pero que estén por encima. Analizando sus vídeos seguro que podemos identificar palabras clave relevantes que les estén funcionando bien.
+
+Por último, herramientas como Buzzsumo nos ayudarán a identificar publicaciones con buena acogida
 
 ### 2- Gestiona y optimiza tus vídeos
 
@@ -71,7 +73,7 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM4MDg1OCwxMzk0NDAyOTI3LDE0Nz
+eyJoaXN0b3J5IjpbLTExOTA4MTcwMiwxMzk0NDAyOTI3LDE0Nz
 YyMDc2NjMsMjgxMjk0ODg4LC0yMDc3NTMwMTc3LDEyNTU0Mzc2
 NDUsLTE2MDY1NjM0MzEsLTY1NDk5ODcxMCwxNDU3MzY4MjgwLC
 00ODIxMDczODZdfQ==
