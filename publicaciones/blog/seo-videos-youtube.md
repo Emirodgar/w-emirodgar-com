@@ -77,9 +77,13 @@ Estas son algunas de las funcionalidades extra que aportan son:
 - **Análisis de competidores**: nos permitirá analizar qué es lo que hacen nuestros principales competidores y trabajar en una línea que nos permita reducir las distancias con ellos.
 - **Palabras clave (tags)**: por defecto Youtube no muestra los tags utilizados por un vídeo. Para poder ver las palabras clave que están usando tendríamos que ir al código fuente y buscar "*keywords*". Esta extensión nos ayuda a identificarlas de forma sencilla.
 
+### 3- Trabaja hacia los objetivos de Youtube
+
+Youtube tiene dos objetivos c
+
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTkxODg3Miw3OTY5NDA1MjcsMTM5ND
+eyJoaXN0b3J5IjpbMTk2NTA4MzA2NSw3OTY5NDA1MjcsMTM5ND
 QwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4OCwtMjA3NzUzMDE3
 NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC02NTQ5OTg3MTAsMT
 Q1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
