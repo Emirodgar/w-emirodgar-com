@@ -52,7 +52,7 @@ A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Go
 
 ![Búsqueda google receta pollo vídeos youtube](https://i.imgur.com/4TrrOMW.png)
 
-Otra opción puede ser fijarnos en los competidores directos de nuestro canal que tengan un tamaño similar pero que estén por encima. Analizando sus vídeos seguro que podemos identificar palabras clave relevantes que les estén funcionando bien.
+Otra opción puede ser fijarnos en los **competidores directos de nuestro canal** que tengan un tamaño similar pero que estén por encima. Analizando sus vídeos seguro que podemos identificar palabras clave relevantes que les estén funcionando bien.
 
 ### 2- Gestiona y optimiza tus vídeos
 
@@ -71,7 +71,8 @@ Estas son algunas de las funcionalidades extra que aportan son:
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjIwNzY2MywyODEyOTQ4ODgsLTIwNz
-c1MzAxNzcsMTI1NTQzNzY0NSwtMTYwNjU2MzQzMSwtNjU0OTk4
-NzEwLDE0NTczNjgyODAsLTQ4MjEwNzM4Nl19
+eyJoaXN0b3J5IjpbMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MT
+I5NDg4OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYz
+NDMxLC02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX
+0=
 -->
