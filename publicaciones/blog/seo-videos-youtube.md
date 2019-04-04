@@ -55,13 +55,16 @@ A mayores de estas dos herramientas de análisis de palabras clave existen soluc
 - https://vidiq.com/
 - https://www.tubebuddy.com/
 
-A mayores del keyword analysis que nos permiten realizar, algunas de las funcionalidades extra que aportan son:
+A mayores del *keyword analysis* que nos permiten realizar, algunas de las funcionalidades extra que aportan son:
 
-
+- Mejor momento para publicar: le permite medir cuándo el mejor momento para publicar un video se basa en los datos de su canal anterior.
+- Herramientas de visualización y moderación de comentarios.
+- Recomendaciones en la página: similar a Tube Buddy, esta herramienta proporciona un panel lateral cuando se ven videos para que pueda ver las sugerencias de optimización en la página, las etiquetas y las redes sociales en otras plataformas. En esta herramienta también se incluye la capacidad de ver quién se vincula a un video en particular.
+- Datos de palabras clave: cuando busca una palabra clave en YouTube con esta extensión habilitada, le proporcionará información en un formato de panel lateral. También proporcionan una aplicación web de investigación de palabras clave que incluye oportunidades de palabras clave relacionadas y una estimación de la competencia, junto con otras características.
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE4NDQ1OSwxMjU1NDM3NjQ1LC0xNj
+eyJoaXN0b3J5IjpbMTkyMTQ0NzMxOCwxMjU1NDM3NjQ1LC0xNj
 A2NTYzNDMxLC02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3
 Mzg2XX0=
 -->
