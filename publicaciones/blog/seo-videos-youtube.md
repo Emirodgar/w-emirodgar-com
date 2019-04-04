@@ -94,13 +94,14 @@ Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nues
     - Que comenten dudas para que se las podamos resolver
     - Que indiquen que les gusta el vídeo si les ha ayudado
     - Que se suscriban al canal para ver más vídeos relacioandos
- 4. Invierte tiempo en editar los vídeos. La imagen inicial, la descripción o los colores utilizados son elementos importantes.
- 5. Evita paradas en el vídeo. 
+ 4. Invierte tiempo en editar los vídeos. La imagen inicial, la descripción o los colores utilizados son elementos importantes. 
+ 5. Evita paradas. Revisa cada segundo del vídeo y asegúrate que su visualización no se ve entorpecida por momentos de transicción que no aportan valor.
+ 6. Facilita al usuario Resalta aquellas partes de las que hablas. Si muestras una imagen y estás haciendo referencia a una parte de la misma, destácala. 
 
 ## Conseguir más suscritos en nuestro canal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjMzODY2NCwtMTcyMTQ1MDYwMSw3OT
-Y5NDA1MjcsMTM5NDQwMjkyNywxNDc2MjA3NjYzLDI4MTI5NDg4
-OCwtMjA3NzUzMDE3NywxMjU1NDM3NjQ1LC0xNjA2NTYzNDMxLC
-02NTQ5OTg3MTAsMTQ1NzM2ODI4MCwtNDgyMTA3Mzg2XX0=
+eyJoaXN0b3J5IjpbOTU0Njc0ODUzLC0xNzIxNDUwNjAxLDc5Nj
+k0MDUyNywxMzk0NDAyOTI3LDE0NzYyMDc2NjMsMjgxMjk0ODg4
+LC0yMDc3NTMwMTc3LDEyNTU0Mzc2NDUsLTE2MDY1NjM0MzEsLT
+Y1NDk5ODcxMCwxNDU3MzY4MjgwLC00ODIxMDczODZdfQ==
 -->
