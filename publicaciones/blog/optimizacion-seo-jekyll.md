@@ -62,11 +62,11 @@ permalink: optimizacion-seo-jekyll
 ---
 ```
 
-Para no 
+Para no repetir una y otra vez la información que es común a todas las páginas, podemos crear colecciones e invocarlas. Por ejemplo, para el autor, bastará con crear un archivo específico con toda la información (nombre, per
 
 De esta forma me aseguro 
 
 > Los datos estructurados de Jejyll están bastante limitados por lo que recomiendo [este artículo]([http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html))  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTgyNzkzNywtODAxMzIyOTk1XX0=
+eyJoaXN0b3J5IjpbLTE3NTM3OTA3ODAsLTgwMTMyMjk5NV19
 -->
