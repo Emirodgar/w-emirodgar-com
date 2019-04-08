@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 publisher: Emirodgar
 tags: SEO, Google
-image: {{ page.url }}/cdn/images/og/og-seo-tools.jpg
+image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
 permalink: eliminar-url-google
 
 ---
@@ -93,7 +93,7 @@ Tags: {{page.tags}}
 
 {{site.tags.seo}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkyNDI1MDEsMTI3OTY3MjA3MSwtMT
-E0MDE0OTE0OCwxMTg2MTY2MTIxLC01Nzg5NDA2NTUsLTU3ODI5
-MDI2MV19
+eyJoaXN0b3J5IjpbLTE4NDM2OTQ5NDUsLTIwMzkyNDI1MDEsMT
+I3OTY3MjA3MSwtMTE0MDE0OTE0OCwxMTg2MTY2MTIxLC01Nzg5
+NDA2NTUsLTU3ODI5MDI2MV19
 -->
