@@ -88,8 +88,10 @@ Google pone a nuestra disposición dos herramientas, la primera para poder [elim
 En el caso de muchas URLs que, tras un tiempo publicadas, no queremos que sigan indexadas, podemos hacer uso de la etiqueta  [unavailable_after](https://googleblog.blogspot.com/2007/07/robots-exclusion-protocol-now-with-even.html)  de tal forma que ya vamos preparando el terreno para que, a corto plazo, Google las desindexe. Yo la suelo utilizar para páginas de eventos.
 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos  [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information)  ya que debemos hacerlo a través del  [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
+
+{{site.pages}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTUyOTMwOCwxOTYxMTU4MTcsOTE4Mz
-g1OTMyLDExMDM3MzE3NywxODE4NTM2NDEwLC03MzA1MDE0MjZd
-fQ==
+eyJoaXN0b3J5IjpbMTkxMDI1NTgwMywxNDk5NTI5MzA4LDE5Nj
+ExNTgxNyw5MTgzODU5MzIsMTEwMzczMTc3LDE4MTg1MzY0MTAs
+LTczMDUwMTQyNl19
 -->
