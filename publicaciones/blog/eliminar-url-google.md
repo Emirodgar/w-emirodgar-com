@@ -5,7 +5,8 @@ lang: es_ES
 date: 25/03/2019
 author: Emirodgar
 publisher: Emirodgar
-tags: SEO
+tags: SEO, Google
+logo: https://emirodgar.com/cdn/images/og/og-youtube-seo.jpg
 image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
 permalink: eliminar-url-google
 
@@ -94,6 +95,6 @@ Tags: {{page.tags}}
 
 {{site.tags.seo}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMwMDMyMDAsMTE4NjE2NjEyMSwtNT
+eyJoaXN0b3J5IjpbLTExNDAxNDkxNDgsMTE4NjE2NjEyMSwtNT
 c4OTQwNjU1LC01NzgyOTAyNjFdfQ==
 -->
