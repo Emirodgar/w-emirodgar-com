@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 type: BlogPosting
 tags: SEO, Jekyll
-date_modified: 08/04/2019
+date: 08/04/2019
 image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
 permalink: optimizacion-seo-jekyll
 
@@ -71,7 +71,7 @@ De esta forma nos aseguramos que cualquier URL cuenta con la información mínim
 
 > Los datos estructurados de Jekyll están bastante limitados por lo que recomiendo [este artículo]([http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html))  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU3MTYwMDUsLTE1NjE1MjE1MjksOD
-IyNTA1MjkwLDEyNzA2ODc1NzUsLTI2ODUzOTU4MywtODAxMzIy
-OTk1XX0=
+eyJoaXN0b3J5IjpbLTUxMTU0NzkxMSwtMTk1NTcxNjAwNSwtMT
+U2MTUyMTUyOSw4MjI1MDUyOTAsMTI3MDY4NzU3NSwtMjY4NTM5
+NTgzLC04MDEzMjI5OTVdfQ==
 -->
