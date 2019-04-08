@@ -56,6 +56,7 @@ description: Guía completa para optimizar el SEO en Jekyll
 lang: es_ES
 author: Emirodgar
 tags: SEO, Jekyll
+date: 08/04/2019
 image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
 permalink: optimizacion-seo-jekyll
 
@@ -64,9 +65,9 @@ permalink: optimizacion-seo-jekyll
 
 Para no repetir una y otra vez la información que es común a todas las páginas, podemos [crear colecciones]([https://jekyllrb.com/docs/step-by-step/09-collections/](https://jekyllrb.com/docs/step-by-step/09-collections/)). Por ejemplo, para el autor, bastará con crear un archivo específico con toda la información (nombre, perfiles sociales, imágen, etc.) e invocarlo tal como lo he especificado en el ejemplo anterior: ```author:Emirodgar```
 
-De esta forma me aseguro 
+De esta forma nos aseguramos que cualquier URL cuenta con la información mínima necesaria para que Google indexe y posicione de forma correcta.
 
 > Los datos estructurados de Jekyll están bastante limitados por lo que recomiendo [este artículo]([http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html))  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODk4OTgzMywtODAxMzIyOTk1XX0=
+eyJoaXN0b3J5IjpbLTI2ODUzOTU4MywtODAxMzIyOTk1XX0=
 -->
