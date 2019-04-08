@@ -3,9 +3,8 @@ title: Optimización SEO en Jekyll
 description: Guía completa para optimizar el SEO en Jekyll
 lang: es_ES
 author: Emirodgar
-type: BlogPosting
 tags: SEO, Jekyll
-date_modified: 08/04/2019
+date: 08/04/2019
 image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
 permalink: optimizacion-seo-jekyll
 
@@ -30,7 +29,7 @@ Para poder hacer uso de las [funcionalidades SEO que tiene Jekyll]([http://jekyl
 ...
 ```
 
-Jekyll sustituirá el ```{ % seo % }``` por una serie de código HTML relacionados con el SEO y que nos facilitarán el posicionamiento web de nuestra página.
+Jekyll sustituirá la variable ```{ % seo % }``` por una serie de código HTML relacionados con el SEO y que nos facilitarán el posicionamiento web de nuestra página.
 
 Dentro de nuestro template podemos hacer uso de tantas variables de Jekyll como queramos. Aquí os dejo un [listado bastante completo]([https://jekyllrb.com/docs/variables/](https://jekyllrb.com/docs/variables/)).
 
@@ -71,7 +70,7 @@ De esta forma nos aseguramos que cualquier URL cuenta con la información mínim
 
 > Los datos estructurados de Jekyll están bastante limitados por lo que recomiendo [este artículo]([http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html))  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU3MTYwMDUsLTE1NjE1MjE1MjksOD
-IyNTA1MjkwLDEyNzA2ODc1NzUsLTI2ODUzOTU4MywtODAxMzIy
-OTk1XX0=
+eyJoaXN0b3J5IjpbLTE4MTA4MjE2ODMsLTE5NTU3MTYwMDUsLT
+E1NjE1MjE1MjksODIyNTA1MjkwLDEyNzA2ODc1NzUsLTI2ODUz
+OTU4MywtODAxMzIyOTk1XX0=
 -->
