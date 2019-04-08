@@ -20,7 +20,7 @@ La rapidez y sencillez con la que podemos crear una web debe siempre acompañar 
 
 Lo primero será crearnos la carpeta "_layouts" donde incluiremos el template de nuestra página web. En la misma deberá existir un "default.html".
 
-Para poder hacer uso de las funcionalidades SEO que tiene Jekyll debemos incluir el siguiente código dentro de nuestro HTML:
+Para poder hacer uso de las [funcionalidades SEO que tiene Jekyll]([https://github.com/jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)) debemos incluir el siguiente código dentro de nuestro HTML:
 
 ```
 <html>
@@ -43,6 +43,8 @@ Las variables principales que podemos configurar son las siguientes:
 -   URLs siguiente y anterior
 -   Open Graph (título, descripción, URL e imagen)
 -   Metadatos para la tarjeta de Twitter
+
+> Este es uno de los artículos más completos para trabajar datos estructurados en Jekyll: [http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDgxMTkxNzksLTgwMTMyMjk5NV19
+eyJoaXN0b3J5IjpbNjM4MTk5NTE3LC04MDEzMjI5OTVdfQ==
 -->
