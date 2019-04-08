@@ -29,6 +29,10 @@ Para poder hacer uso de las funcionalidades SEO que tiene Jekyll debemos incluir
 ...
 ```
 
+Jekyll sustituirá el ```{% seo %}``` por una serie de código HTML relacionados con el SEO y que nos facilitarán el posicionamiento web de nuestra página.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0Mjc3NjYzLC04MDEzMjI5OTVdfQ==
+eyJoaXN0b3J5IjpbLTEzODUxOTU4MzYsLTgwMTMyMjk5NV19
 -->
