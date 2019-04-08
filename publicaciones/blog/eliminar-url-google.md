@@ -92,8 +92,8 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 
-{{site.tags.SEO}}
+{{site.tags.seo}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDc2ODYwOCwxMTg2MTY2MTIxLC01Nz
-g5NDA2NTUsLTU3ODI5MDI2MV19
+eyJoaXN0b3J5IjpbLTEyOTMwMDMyMDAsMTE4NjE2NjEyMSwtNT
+c4OTQwNjU1LC01NzgyOTAyNjFdfQ==
 -->
