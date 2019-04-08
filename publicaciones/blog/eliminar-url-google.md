@@ -2,6 +2,7 @@
 title: Eliminar página o URL indexada en Google
 description: Aprende a eliminar una URL de forma correcta y eficiente para que no vuelva a aparecer en Google
 lang: es_ES
+type: article
 author: Emirodgar
 publisher: Emirodgar
 tags: SEO, Google
@@ -93,7 +94,7 @@ Tags: {{page.tags}}
 
 {{site.tags.seo}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM2OTQ5NDUsLTIwMzkyNDI1MDEsMT
-I3OTY3MjA3MSwtMTE0MDE0OTE0OCwxMTg2MTY2MTIxLC01Nzg5
-NDA2NTUsLTU3ODI5MDI2MV19
+eyJoaXN0b3J5IjpbLTgwNzM3Mzk1MywtMTg0MzY5NDk0NSwtMj
+AzOTI0MjUwMSwxMjc5NjcyMDcxLC0xMTQwMTQ5MTQ4LDExODYx
+NjYxMjEsLTU3ODk0MDY1NSwtNTc4MjkwMjYxXX0=
 -->
