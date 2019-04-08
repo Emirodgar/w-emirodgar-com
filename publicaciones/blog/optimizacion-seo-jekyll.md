@@ -33,6 +33,7 @@ Jekyll sustituirá el ```{% seo %}``` por una serie de código HTML relacionados
 
 ## Variables y configuración inicial
 
+Las variables principales que podemos configurar son las siguientes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1MjQwMzgwLC04MDEzMjI5OTVdfQ==
+eyJoaXN0b3J5IjpbMTk4NzQ5NTUwNywtODAxMzIyOTk1XX0=
 -->
