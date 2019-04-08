@@ -18,9 +18,10 @@ La rapidez y sencillez con la que podemos crear una web debe siempre acompañar 
 
 ## Estructura inicial
 
-Lo primero será crearnos la carpeta "_layouts" donde incluiremos el template de nuestra página web. En la misma deberá existir un "default.html"
+Lo primero será crearnos la carpeta "_layouts" donde incluiremos el template de nuestra página web. En la misma deberá existir un "default.html".
 
+Para poder hacer uso de las funcionalidades SEO que tiene Jekyll debemos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTMyMjk5NV19
+eyJoaXN0b3J5IjpbLTIxNzU3NTc2MiwtODAxMzIyOTk1XX0=
 -->
