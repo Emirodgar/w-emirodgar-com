@@ -5,6 +5,7 @@ lang: es_ES
 author: Emirodgar
 tags: SEO, Jekyll
 type: NewsArticle
+`date_modified`
 image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
 permalink: optimizacion-seo-jekyll
 
@@ -20,7 +21,7 @@ La rapidez y sencillez con la que podemos crear una web debe siempre acompañar 
 
 Lo primero será crearnos la carpeta "_layouts" donde incluiremos el template de nuestra página web. En la misma deberá existir un "default.html".
 
-Para poder hacer uso de las [funcionalidades SEO que tiene Jekyll]([https://github.com/jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)) debemos incluir el siguiente código dentro de nuestro HTML (sin espacios):
+Para poder hacer uso de las [funcionalidades SEO que tiene Jekyll]([http://jekyll.github.io/jekyll-seo-tag/usage/](http://jekyll.github.io/jekyll-seo-tag/usage/)) debemos incluir el siguiente código dentro de nuestro HTML (sin espacios):
 
 ```
 <html>
@@ -70,6 +71,6 @@ De esta forma nos aseguramos que cualquier URL cuenta con la información mínim
 
 > Los datos estructurados de Jekyll están bastante limitados por lo que recomiendo [este artículo]([http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html))  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYzMTE5ODQsMTI3MDY4NzU3NSwtMj
-Y4NTM5NTgzLC04MDEzMjI5OTVdfQ==
+eyJoaXN0b3J5IjpbODIyNTA1MjkwLDEyNzA2ODc1NzUsLTI2OD
+UzOTU4MywtODAxMzIyOTk1XX0=
 -->
