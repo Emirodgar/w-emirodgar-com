@@ -5,7 +5,7 @@ lang: es_ES
 date: 25/03/2019
 author: Emirodgar
 organization: Emirodgar
-image: 
+image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
 permalink: eliminar-url-google
 
 ---
@@ -89,6 +89,6 @@ En el caso de muchas URLs que, tras un tiempo publicadas, no queremos que sigan 
 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos  [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information)  ya que debemos hacerlo a través del  [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODAzNzIwNSwxODE4NTM2NDEwLC03Mz
-A1MDE0MjZdfQ==
+eyJoaXN0b3J5IjpbMTEwMzczMTc3LDE4MTg1MzY0MTAsLTczMD
+UwMTQyNl19
 -->
