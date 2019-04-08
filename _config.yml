@@ -10,3 +10,9 @@ logo: cdn/images/author/emirodgar-avatar.jpg
 emirodgar:
   picture: cdn/images/author/emirodgar-avatar.jpg
   twitter: emirodgar
+plugins: # previsously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+feed:
+  path: sitemap.xml
