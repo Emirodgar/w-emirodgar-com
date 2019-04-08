@@ -16,9 +16,11 @@ Jekyll es uno de los generadores de sitios web estáticos más populares en la a
 
 La rapidez y sencillez con la que podemos crear una web debe siempre acompañar a una correcta [optimización SEO](factores-seo) ya que si no, estaremos perdiendo la oportunidad de captar tráfico de calidad.
 
-## Archivo de configuración
+## Estructura inicial
+
+Lo primero será crearnos la carpeta "_layouts" donde incluiremos el template de nuestra página web. En la misma deberá existir un "default.html"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NjUwNTYzXX0=
+eyJoaXN0b3J5IjpbLTgwMTMyMjk5NV19
 -->
