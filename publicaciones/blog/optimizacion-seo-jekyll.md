@@ -3,7 +3,6 @@ title: Optimización SEO en Jekyll
 description: Guía completa para optimizar el SEO en Jekyll
 lang: es_ES
 author: Emirodgar
-publisher: Emirodgar
 tags: SEO, Jekyll
 image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
 permalink: optimizacion-seo-jekyll
@@ -46,8 +45,24 @@ Las variables principales que podemos configurar son las siguientes:
 
 Si no especificamos nada, por defecto Jekyll ya incluye los valores estándar utilizando el título y la desccripción que tenga cada documento. Aún así, recomiendo siempre utilizar el mismo bloque de configuración para asegurarnos de que hacemos uso de todos los elementos SEO disponibles.
 
+Para ello, al principio de cada bloque, yo utilizo el siguiente esquema:
+
+```
+---
+title: Optimización SEO en Jekyll
+description: Guía completa para optimizar el SEO en Jekyll
+lang: es_ES
+author: Emirodgar
+tags: SEO, Jekyll
+image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
+permalink: optimizacion-seo-jekyll
+
+---
+```
+
+De esta forma me aseguro 
 
 > Los datos estructurados de Jejyll están bastante limitados por lo que recomiendo [este artículo]([http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html))  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxMDc0NTcsLTgwMTMyMjk5NV19
+eyJoaXN0b3J5IjpbMTM3MTA2MTA3MywtODAxMzIyOTk1XX0=
 -->
