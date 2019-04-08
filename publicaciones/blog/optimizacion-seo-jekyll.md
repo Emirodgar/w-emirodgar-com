@@ -21,7 +21,7 @@ La rapidez y sencillez con la que podemos crear una web debe siempre acompañar 
 
 ## Estructura inicial
 
-Lo primero será crearnos la carpeta "_layouts"  y el fichero _config.yml donde incluiremos el template de nuestra página web. En la misma deberá existir un "default.html".
+Lo primero será crear el fichero de configuración [_config.yml]([https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/_config.yml](https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/_config.yml)) y la carpeta "_layouts". Dentro de la misma deberá existir un "default.html".
 
 Para poder hacer uso de las [funcionalidades SEO que tiene Jekyll]([http://jekyll.github.io/jekyll-seo-tag/usage/](http://jekyll.github.io/jekyll-seo-tag/usage/)) debemos incluir el siguiente código dentro de nuestro HTML (sin espacios entre las llaves y los %):
 
@@ -73,7 +73,7 @@ De esta forma nos aseguramos que cualquier URL cuenta con la información mínim
 
 > Los datos estructurados de Jekyll están bastante limitados por lo que recomiendo [este artículo]([http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html))  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyMDcyMTE2LC0xOTYzNDYwMDI1LDgxOD
+eyJoaXN0b3J5IjpbNzk2MTc5MDIyLC0xOTYzNDYwMDI1LDgxOD
 c1MTk3NiwtMTgxMDgyMTY4MywtMTk1NTcxNjAwNSwtMTU2MTUy
 MTUyOSw4MjI1MDUyOTAsMTI3MDY4NzU3NSwtMjY4NTM5NTgzLC
 04MDEzMjI5OTVdfQ==
