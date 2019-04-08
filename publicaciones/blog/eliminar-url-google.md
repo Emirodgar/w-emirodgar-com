@@ -2,7 +2,10 @@
 title: Eliminar página o URL indexada en Google
 description: Aprende a eliminar una URL de forma correcta y eficiente para que no vuelva a aparecer en Google
 lang: es_ES
-date: 25/03/2019
+author: Emirodgar
+publisher: Emirodgar
+tags: SEO, Google
+image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
 permalink: eliminar-url-google
 
 ---
@@ -85,6 +88,12 @@ Google pone a nuestra disposición dos herramientas, la primera para poder [elim
 En el caso de muchas URLs que, tras un tiempo publicadas, no queremos que sigan indexadas, podemos hacer uso de la etiqueta  [unavailable_after](https://googleblog.blogspot.com/2007/07/robots-exclusion-protocol-now-with-even.html)  de tal forma que ya vamos preparando el terreno para que, a corto plazo, Google las desindexe. Yo la suelo utilizar para páginas de eventos.
 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos  [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information)  ya que debemos hacerlo a través del  [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
+
+Tags: {{page.tags}}
+
+{{site.tags.seo}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODUzNjQxMF19
+eyJoaXN0b3J5IjpbLTE4NDM2OTQ5NDUsLTE4NDM2OTQ5NDUsLT
+IwMzkyNDI1MDEsMTI3OTY3MjA3MSwtMTE0MDE0OTE0OCwxMTg2
+MTY2MTIxLC01Nzg5NDA2NTUsLTU3ODI5MDI2MV19
 -->
