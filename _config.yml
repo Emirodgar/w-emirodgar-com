@@ -6,3 +6,8 @@ name                     : "Emirodgar"
 url                      : "https://emirodgar.com"
 twitter_username: emirodgar
 github_username:  emirodgar
+emirodgar:
+  picture: cdn/images/author/emirodgar-avatar.jpg
+  twitter: emirodgar
+ plugins:
+    - jekyll-seo-tag
