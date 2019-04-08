@@ -19,16 +19,16 @@ La rapidez y sencillez con la que podemos crear una web debe siempre acompañar 
 
 Lo primero será crearnos la carpeta "_layouts" donde incluiremos el template de nuestra página web. En la misma deberá existir un "default.html".
 
-Para poder hacer uso de las [funcionalidades SEO que tiene Jekyll]([https://github.com/jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)) debemos incluir el siguiente código dentro de nuestro HTML:
+Para poder hacer uso de las [funcionalidades SEO que tiene Jekyll]([https://github.com/jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)) debemos incluir el siguiente código dentro de nuestro HTML (sin espacios):
 
 ```
 <html>
  <head>
-   {% seo %}
+   { % seo % }
 ...
 ```
 
-Jekyll sustituirá el ```{% seo %}``` por una serie de código HTML relacionados con el SEO y que nos facilitarán el posicionamiento web de nuestra página.
+Jekyll sustituirá el ```{ % seo % }``` por una serie de código HTML relacionados con el SEO y que nos facilitarán el posicionamiento web de nuestra página.
 
 Dentro de nuestro template podemos hacer uso de tantas variables de Jekyll como queramos. Aquí os dejo un [listado bastante completo]([https://jekyllrb.com/docs/variables/](https://jekyllrb.com/docs/variables/)).
 
@@ -69,5 +69,6 @@ De esta forma nos aseguramos que cualquier URL cuenta con la información mínim
 
 > Los datos estructurados de Jekyll están bastante limitados por lo que recomiendo [este artículo]([http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html))  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODUzOTU4MywtODAxMzIyOTk1XX0=
+eyJoaXN0b3J5IjpbMTI3MDY4NzU3NSwtMjY4NTM5NTgzLC04MD
+EzMjI5OTVdfQ==
 -->
