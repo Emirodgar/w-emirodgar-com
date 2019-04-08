@@ -44,7 +44,10 @@ Las variables principales que podemos configurar son las siguientes:
 -   Open Graph (título, descripción, URL e imagen)
 -   Metadatos para la tarjeta de Twitter
 
-> Los datos estructurados de J están bastante limitados por lo que recomiendo [este artículo]([http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html))  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
+Si no especificamos nada, por defecto Jekyll ya incluye los valores estándar utilizando el título y la desccripción que tenga cada documento. Aún así, recomiendo siempre utilizar el mismo bloque de configuración para asegurarnos de que hacemos uso de todos los elementos SEO disponibles.
+
+
+> Los datos estructurados de Jejyll están bastante limitados por lo que recomiendo [este artículo]([http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html))  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMDcyOTM2LC04MDEzMjI5OTVdfQ==
+eyJoaXN0b3J5IjpbNTgxMDc0NTcsLTgwMTMyMjk5NV19
 -->
