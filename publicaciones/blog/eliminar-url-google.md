@@ -90,7 +90,7 @@ En el caso de muchas URLs que, tras un tiempo publicadas, no queremos que sigan 
 
 En el caso de que queramos que desaparezca información alojada en otras páginas y que están incumpliendo las normas, podemos  [seguir estos pasos](https://support.google.com/webmasters/answer/6332384?hl=es#more_information)  ya que debemos hacerlo a través del  [portal legal de Google](https://support.google.com/legal/answer/3110420?visit_id=1-636652569480291557-3013440154&rd=1).
 
-{{page.categories}}
+Categoría: {{page.categories}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyMzk5MjY2LC01NzgyOTAyNjFdfQ==
+eyJoaXN0b3J5IjpbLTU3ODk0MDY1NSwtNTc4MjkwMjYxXX0=
 -->
