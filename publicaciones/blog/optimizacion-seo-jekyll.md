@@ -33,15 +33,16 @@ Jekyll sustituirá el ```{% seo %}``` por una serie de código HTML relacionados
 
 ## Variables y configuración inicial
 
-Las variables principales que podemos configurar son las siguientes
+Las variables principales que podemos configurar son las siguientes:
 
 -   Título
 -   Description
 -   URL canónica
+-  Etiqueta idiomática
 -   Datos estructurados JSON-LD
 -   URLs siguiente y anterior
 -   Open Graph (título, descripción, URL e imagen)
 -   Metadatos para la tarjeta de Twitter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDUyNDkzMCwtODAxMzIyOTk1XX0=
+eyJoaXN0b3J5IjpbLTEzMDgxMTkxNzksLTgwMTMyMjk5NV19
 -->
