@@ -3,6 +3,7 @@ title: Posicionamiento SEO local - Consigue más ventas
 description: Aprende las técnicas SEO más relevantes para que tu negocio consiga aumentar las ventas con clientes locales
 image: https://emirodgar.com/cdn/images/og/og-seo-ranking.jpg
 lang: es_ES
+category: SEO
 permalink: posicionamiento-seo-local
 
 ---
@@ -55,5 +56,5 @@ Es posible que tu competencia también haya hecho este tipo de análisis por lo 
 
 Recomiendo prestar especial atención a los horarios, ¿es posible que estemos cerrando justo cuando nuestro público objetivo sale del trabajo y quiere comprar?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk0MTQ1MzQsMTAxNDM4MzAyMl19
+eyJoaXN0b3J5IjpbNjkyNjkwMjY1LDEwMTQzODMwMjJdfQ==
 -->
