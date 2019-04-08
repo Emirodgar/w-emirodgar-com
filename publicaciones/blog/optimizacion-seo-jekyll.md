@@ -12,9 +12,9 @@ permalink: optimizacion-seo-jekyll
 
 # Optimización SEO en Jekyll
 
-Jekyll es uno de los generadores de sitios web estáticos más populares en la actualidad. Utiliza HTML y Markdown para crear un sitio web listo para ser alojado en cualquier servidor web. 
+Jekyll es uno de los generadores de sitios web estáticos más populares en la actualidad. Utiliza **HTML** y **Markdown** para crear un sitio web listo para ser alojado en cualquier servidor web. 
 
-La rapidez y sencillez
+La rapidez y sencillez con la que podemos crear una web debe siempre acompañar a una correcta optimización SEO ya que si no, estaremos perdiendo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjQ0NTU1MF19
+eyJoaXN0b3J5IjpbLTQ0NzA5NzQ4Nl19
 -->
