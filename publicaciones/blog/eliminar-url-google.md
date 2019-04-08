@@ -4,6 +4,7 @@ description: Aprende a eliminar una URL de forma correcta y eficiente para que n
 lang: es_ES
 author: Emirodgar
 tags: SEO, Google
+date: 08/04/2019
 image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
 permalink: eliminar-url-google
 
@@ -17,7 +18,7 @@ Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web
 
  **Prevenir que se indexe**
 
- - Directiva noindex
+ - Directiva noindex]
  - Bloqueo con disallow en robots.txt (no garantiza la no indexación)
 
 **Eliminar URL indexada**
@@ -32,7 +33,7 @@ Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web
 
 Si aún estamos a tiempo, es mejor prevenir la indexación de nuestra página o sección por parte de los buscadores.
 
-### 1.1. Directiva noindex
+### 1.1. <a name="noindex"></a> Directiva noindex
 
 > Para poder utilizar noindex dentro de una URL, ésta debe ser accesible por los buscadores por lo que **no podemos bloquear su acceso a través del robots.txt**
 
@@ -90,8 +91,8 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY3MTY2OTIsLTE4NDM2OTQ5NDUsLT
-E4NDM2OTQ5NDUsLTIwMzkyNDI1MDEsMTI3OTY3MjA3MSwtMTE0
-MDE0OTE0OCwxMTg2MTY2MTIxLC01Nzg5NDA2NTUsLTU3ODI5MD
-I2MV19
+eyJoaXN0b3J5IjpbLTQ5MDMzMTM3MSwtMTg0MzY5NDk0NSwtMT
+g0MzY5NDk0NSwtMjAzOTI0MjUwMSwxMjc5NjcyMDcxLC0xMTQw
+MTQ5MTQ4LDExODYxNjYxMjEsLTU3ODk0MDY1NSwtNTc4MjkwMj
+YxXX0=
 -->
