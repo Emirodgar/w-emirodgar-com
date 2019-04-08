@@ -18,7 +18,7 @@ Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web
 
  **Prevenir que se indexe**
 
- - Directiva noindex]
+ - [Directiva noindex] (#noindex)
  - Bloqueo con disallow en robots.txt (no garantiza la no indexación)
 
 **Eliminar URL indexada**
@@ -91,7 +91,7 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDMzMTM3MSwtMTg0MzY5NDk0NSwtMT
+eyJoaXN0b3J5IjpbMjA5OTc5ODUwNywtMTg0MzY5NDk0NSwtMT
 g0MzY5NDk0NSwtMjAzOTI0MjUwMSwxMjc5NjcyMDcxLC0xMTQw
 MTQ5MTQ4LDExODYxNjYxMjEsLTU3ODk0MDY1NSwtNTc4MjkwMj
 YxXX0=
