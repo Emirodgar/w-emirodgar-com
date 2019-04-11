@@ -20,7 +20,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://sitechecker.pro](https://sitechecker.pro/)  
 - [https://seositecheckup.com/](https://seositecheckup.com/)
 - [https://seolyzer.io](https://seolyzer.io)
-- [https://www.woorank.com](ttps://www.woorank.com)
+- [https://www.woorank.com](https://www.woorank.com)
 - [http://www.seopowersuite.es/website-auditor/](http://www.seopowersuite.es/website-auditor/)
 - [https://www.lipperhey.com](https://www.lipperhey.com)
 - [https://www.google.com/webmasters/tools/home?hl=es](https://www.google.com/webmasters/tools/home?hl=es)
@@ -81,6 +81,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjMwODAwOTksLTE1MzI4NDI5OTEsNz
-I2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbLTEyNzE5Mjk5LC0xNTMyODQyOTkxLDcyNj
+cyNDg2NV19
 -->
