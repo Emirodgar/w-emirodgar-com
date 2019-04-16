@@ -10,7 +10,7 @@ permalink: automatizar-analisis-lighthouse
 
 ---
 
-# Eliminar página o URL indexada en Google
+# Automatizar análisis de Lighthouse para múltiples páginas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY3ODE0MDBdfQ==
+eyJoaXN0b3J5IjpbMTM1OTAyNjkyMl19
 -->
