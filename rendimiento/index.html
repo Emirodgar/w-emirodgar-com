@@ -40,8 +40,17 @@ $.getJSON(url, function(data) {
 		  
 			var d = new Date(this.updated.$t);
 			var e = formatDate(d);
+			
+			var score = this.gsx$performance.$t.replace("%","");
+			var color = "green";
+			
+			if(score <= 44) 
+				color = "red";
+			else if(score < 74) 
+				color = "#A0522D";
+			
 		  
-			tableContent = tableContent.concat('<tr><td style="text-align:left;">'+this.gsx$_cn6ca.$t+'</td><td>'+this.gsx$performance.$t+'</td><td>'+this.gsx$_cpzh4.$t+'</td><td>'+this.gsx$_cre1l.$t+'</td><td>'+this.gsx$_chk2m.$t+'</td><td>'+this.gsx$_ciyn3.$t+'</td><td>'+this.gsx$seo.$t+'</td><td>'+e+'</td></tr>'); 
+			tableContent = tableContent.concat('<tr><td style="text-align:left;">'+this.gsx$_cn6ca.$t+'</td><td style="color:'+color+'">'+this.gsx$performance.$t+'</td><td>'+this.gsx$_cpzh4.$t+'</td><td>'+this.gsx$_cre1l.$t+'</td><td>'+this.gsx$_chk2m.$t+'</td><td>'+this.gsx$_ciyn3.$t+'</td><td>'+this.gsx$seo.$t+'</td><td>'+e+'</td></tr>'); 
 		  } else if(this.gsx$_cn6ca.$t=='Summary') {
 			performanceScore = this.gsx$performance.$t;
 			seoScore = this.gsx$seo.$t;
