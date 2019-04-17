@@ -14,7 +14,7 @@ permalink: automatizar-analisis-lighthouse
 
 Lighthouse es una  [herramienta gratuita de Google](https://emirodgar.com/[https://developers.google.com/web/tools/lighthouse/?hl=es](https://developers.google.com/web/tools/lighthouse/?hl=es))  para poder analizar una web en base a rendimiento, accesibilidad, mejores prácticas y SEO.
 
-> Actualmente podemos utilizarlo a través de [PageSpeed]([https://developers.google.com/speed/pagespeed/insights/?hl=es](https://developers.google.com/speed/pagespeed/insights/?hl=es)), [Web.dev](https://web.dev) o como extensión del navegador pero siempre nos limita a analizar URLs de forma individual.
+> Actualmente podemos utilizar Lighthouse a través de [PageSpeed]([https://developers.google.com/speed/pagespeed/insights/?hl=es](https://developers.google.com/speed/pagespeed/insights/?hl=es)), [Web.dev](https://web.dev) o como extensión del navegador pero siempre nos limita a analizar URLs de forma individual.
 
 En este artículo os enseñaré cómo podemos **automatizar** el proceso de análisis con Lightouse **para múltiples URLs**. Los pasos son los siguientes:
 
@@ -120,7 +120,7 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDU2OTExMiwxNDg2NzQzNjU5LDIxMz
-g3OTYwMzgsNzkwMzcyNTI0LC0xMTQ4ODA0NTA5LC0xNDg4MDk4
-NjY0LDEzNTkwMjY5MjJdfQ==
+eyJoaXN0b3J5IjpbLTExNjk4NTU1ODcsMTE1MDU2OTExMiwxND
+g2NzQzNjU5LDIxMzg3OTYwMzgsNzkwMzcyNTI0LC0xMTQ4ODA0
+NTA5LC0xNDg4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
 -->
