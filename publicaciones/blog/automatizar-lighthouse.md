@@ -12,15 +12,14 @@ permalink: automatizar-analisis-lighthouse
 
 # # Analiza el tiempo de carga de tu web de forma automática con Lighthouse
 
-Lighthouse es una  [herramienta gratuita de Google](https://emirodgar.com/[https://developers.google.com/web/tools/lighthouse/?hl=es](https://developers.google.com/web/tools/lighthouse/?hl=es))  para poder realizar análisis en base a rendimiento, accesibilidad, mejores prácticas y SEO.
+Lighthouse es una  [herramienta gratuita de Google](https://emirodgar.com/[https://developers.google.com/web/tools/lighthouse/?hl=es](https://developers.google.com/web/tools/lighthouse/?hl=es))  para poder analizar una web en base a rendimiento, accesibilidad, mejores prácticas y SEO.
 
-Lo realmente destacable son las métricas asociadas al  **rendimiento web**  (antiguo tiempo de carga) como son: First Contentful Paint, First Meaningful Paint o Time to First Byte.
+> Actualmente podemos utilizarlo a través de PageSpeed, web.dev o como extensión del navegador pero siempre nos limita a analizar URLs de forma individual.
 
-> Actualmente podemos utilizarlo a través de PageSpeed o como extensión del navegador pero siempre nos limita a analizar URLs de forma individual.
-
-En este artículo os enseñaré cómo podemos automatizar el proceso de análisis con Lightouse para múltiples URLs.
+En este artículo os enseñaré cómo podemos automatizar el proceso de análisis con Lightouse para múltiples URLs de forma automática.
 
 Un buen tiempo de carga es un  [factor SEO](https://emirodgar.com/factores-seo)  relevante que nos ayudará a mejorar posicionamiento web y favorecer la experiencia de nuestros visitantes, especialmente a aquellos que nos visitan a través de dispositivos móviles.
+
 
 ## 1- Instalamos Lighthouse en nuestro ordenador
 
@@ -28,7 +27,7 @@ El primer paso será instalar en nuestro ordenador Nodej.js, npm y Lighthouse. P
 
 Aunque en la guía oficial hacen referencia a  **lighthouse**  yo os recomiendo hacer uso de  **lighthouse-batch**  para poder analizar múltiples URLs a la vez.
 
-Una vez que tengamos npm instalado, abrimos una consola de Windows y ejecutamos el siguiente comando:
+Una vez que tengamos npm instalado, abrimos una consola de Windows (cmd.exe) y ejecutamos el siguiente comando:
 
 ```
 npm install -g lighthouse-batch
@@ -114,6 +113,6 @@ $.getJSON(url, function(data) {
 
 El código anterior solo muestra una parte de la aplicación que tengo en funcionamiento. Quedaría pintar la tabla dentro de la página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg4MDQ1MDksLTE0ODgwOTg2NjQsMT
-M1OTAyNjkyMl19
+eyJoaXN0b3J5IjpbLTE5MTE5NjE3NiwtMTE0ODgwNDUwOSwtMT
+Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
 -->
