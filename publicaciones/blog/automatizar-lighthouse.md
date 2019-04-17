@@ -49,11 +49,11 @@ lighthouse-batch -s [url1],[url2],[urlN] -g --out C:/[ruta-donde-exportar]
 
 ```
 
-Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emirodgar.com/sitemap.xml), después he [convertido el listado separado p](https://convert.town/column-to-comma-separated-list)  y crear un fichero .bat para analizar todas ellas a través del comando anterior.
+Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emirodgar.com/sitemap.xml), después he [preparado el listado separado por comas](https://convert.town/column-to-comma-separated-list)  y por último he creado un fichero .bat para ejecutar el comando ```lighthouse-batch```.
 
 > La salida por defecto de los informes es  **JSON**  pero se puede modificar
 
-Por último, creo una [tarea en Windows](https://answers.microsoft.com/es-es/windows/forum/all/aprende-a-usar-el-programador-de-tareas-de-windows/015b8362-95be-4460-ac51-a0917e4a2d4b) para que se ejecute este fichero .bat todos los días a la misma hora. De esta forma todas las URLs serán analizadas cada día.
+Por último, he dado de alta una [tarea en Windows](https://answers.microsoft.com/es-es/windows/forum/all/aprende-a-usar-el-programador-de-tareas-de-windows/015b8362-95be-4460-ac51-a0917e4a2d4b) para que se ejecute este fichero .bat todos los días a la misma hora. De esta forma todas las URLs serán analizadas cada día.
 
 ## 3- <a name="carga"></a>Cargamos los datos para su análisis
 
@@ -120,8 +120,8 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MTEyODM3LC0xMTY5ODU1NTg3LDExNT
-A1NjkxMTIsMTQ4Njc0MzY1OSwyMTM4Nzk2MDM4LDc5MDM3MjUy
-NCwtMTE0ODgwNDUwOSwtMTQ4ODA5ODY2NCwxMzU5MDI2OTIyXX
-0=
+eyJoaXN0b3J5IjpbLTEwNDcwNDYzOTUsLTExNjk4NTU1ODcsMT
+E1MDU2OTExMiwxNDg2NzQzNjU5LDIxMzg3OTYwMzgsNzkwMzcy
+NTI0LC0xMTQ4ODA0NTA5LC0xNDg4MDk4NjY0LDEzNTkwMjY5Mj
+JdfQ==
 -->
