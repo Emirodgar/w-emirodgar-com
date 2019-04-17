@@ -18,14 +18,15 @@ Lighthouse es una  [herramienta gratuita de Google](https://emirodgar.com/[https
 
 En este artículo os enseñaré cómo podemos **automatizar** el proceso de análisis con Lightouse **para múltiples URLs**. Los pasos son los siguientes:
 
- 1. Instalamos Lighthouse en nuestro ordenador
-
-1- Instalamos Lighthouse en nuestro ordenador
+ 1. [Instalamos Lighthouse en nuestro ordenador](#instalacion)
+ 2. [Ejecutamos múltiples análisis](#analisis)
+ 3. [Cargamos los datos para su análisis](#instalacion)
+ 4. [Exportamos los datos a la web](#instalacion)
 
 Un buen tiempo de carga es un  [factor SEO](https://emirodgar.com/factores-seo)  relevante que nos ayudará a mejorar posicionamiento web y favorecer la experiencia de nuestros visitantes, especialmente a aquellos que nos visitan a través de dispositivos móviles.
 
 
-## 1- Instalamos Lighthouse en nuestro ordenador
+## 1- <a name="instalacion"></a> Instalamos Lighthouse en nuestro ordenador
 
 El primer paso será instalar en nuestro ordenador Nodej.js, npm y Lighthouse. Para los dos primeros,  [seguiremos estas instrucciones](https://emirodgar.com/[https://www.npmjs.com/get-npm](https://www.npmjs.com/get-npm)).
 
@@ -38,7 +39,7 @@ npm install -g lighthouse-batch
 
 ```
 
-## 2- Ejecutamos múltiples análisis
+## 2- <a name="analisis"></a> Ejecutamos múltiples análisis
 
 Ahora ya podemos generar tantos análisis como queramos. El comando que debemos usar será el siguiente. Os dejo un enlace hacia la  [documentación completa de lighthouse-batch](https://emirodgar.com/[https://github.com/mikestead/lighthouse-batch](https://github.com/mikestead/lighthouse-batch)).
 
@@ -51,7 +52,7 @@ Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emiro
 
 > La salida por defecto de los informes es  **JSON**  pero se puede modificar
 
-## 3- Cargamos los datos para su análisis
+## 3- <a name="carga"></a>Cargamos los datos para su análisis
 
 Los informes han sido generados en nuestro ordenador por lo que el siguiente paso será subirlos a internet de tal modo que sean accesibles por otras aplicaciones para su análisis.
 
@@ -121,6 +122,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1NTAzNzczLC0xMTQ4ODA0NTA5LC0xND
-g4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
+eyJoaXN0b3J5IjpbLTExNjQ5MDAwNzQsLTExNDg4MDQ1MDksLT
+E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
 -->
