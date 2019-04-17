@@ -49,7 +49,7 @@ lighthouse-batch -s [url1],[url2],[urlN] -g --out C:/[ruta-donde-exportar]
 
 ```
 
-Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emirodgar.com/sitemap.xml)  y crear un fichero .bat para analizar todas ellas a través del comando anterior.
+Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emirodgar.com/sitemap.xml), después he [convertido el listado separado p](https://convert.town/column-to-comma-separated-list)  y crear un fichero .bat para analizar todas ellas a través del comando anterior.
 
 > La salida por defecto de los informes es  **JSON**  pero se puede modificar
 
@@ -120,7 +120,8 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk4NTU1ODcsMTE1MDU2OTExMiwxND
-g2NzQzNjU5LDIxMzg3OTYwMzgsNzkwMzcyNTI0LC0xMTQ4ODA0
-NTA5LC0xNDg4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
+eyJoaXN0b3J5IjpbNzA1MTEyODM3LC0xMTY5ODU1NTg3LDExNT
+A1NjkxMTIsMTQ4Njc0MzY1OSwyMTM4Nzk2MDM4LDc5MDM3MjUy
+NCwtMTE0ODgwNDUwOSwtMTQ4ODA5ODY2NCwxMzU5MDI2OTIyXX
+0=
 -->
