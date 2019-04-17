@@ -12,7 +12,7 @@ permalink: automatizar-analisis-lighthouse
 
 # # Analiza el tiempo de carga de tu web de forma automática con Lighthouse
 
-Lighthouse es una  [herramienta gratuita de Google](https://emirodgar.com/[https://developers.google.com/web/tools/lighthouse/?hl=es](https://developers.google.com/web/tools/lighthouse/?hl=es))  para poder realizar análisis en base a rendimiento, usabilidad, accesibilidad y SEO.
+Lighthouse es una  [herramienta gratuita de Google](https://emirodgar.com/[https://developers.google.com/web/tools/lighthouse/?hl=es](https://developers.google.com/web/tools/lighthouse/?hl=es))  para poder realizar análisis en base a rendimiento, accesibilidad, mejores prácticas y SEO.
 
 Lo realmente destacable son las métricas asociadas al  **rendimiento web**  (antiguo tiempo de carga) como son: First Contentful Paint, First Meaningful Paint o Time to First Byte.
 
@@ -114,6 +114,6 @@ $.getJSON(url, function(data) {
 
 El código anterior solo muestra una parte de la aplicación que tengo en funcionamiento. Quedaría pintar la tabla dentro de la página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODgwNTYyNCwtMTQ4ODA5ODY2NCwxMz
-U5MDI2OTIyXX0=
+eyJoaXN0b3J5IjpbLTExNDg4MDQ1MDksLTE0ODgwOTg2NjQsMT
+M1OTAyNjkyMl19
 -->
