@@ -105,7 +105,7 @@ $.getJSON(url, function(data) {
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí, y con los conocimientos obtenidos, podremos modificar y adaptar este proyecto a nuestras necesidades.
 
 
-### 4.1- Publicar hoja de cálculo de Google
+### 4.1- Conectar directamente con Google Sheets
 
 Si en nuestra hoja de cálculo hemos calculado nuevas métricas, podemos conectarla directamente con nuestra web para que ésta sea el flujo de información en JSON.
 
@@ -125,7 +125,7 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgwODc2NDQsMjEzODc5NjAzOCw3OT
-AzNzI1MjQsLTExNDg4MDQ1MDksLTE0ODgwOTg2NjQsMTM1OTAy
-NjkyMl19
+eyJoaXN0b3J5IjpbLTE5MjMwNzk2NSwyMTM4Nzk2MDM4LDc5MD
+M3MjUyNCwtMTE0ODgwNDUwOSwtMTQ4ODA5ODY2NCwxMzU5MDI2
+OTIyXX0=
 -->
