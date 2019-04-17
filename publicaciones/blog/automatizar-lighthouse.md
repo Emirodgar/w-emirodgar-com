@@ -10,7 +10,7 @@ permalink: automatizar-analisis-lighthouse
 
 ---
 
-# # Analiza el tiempo de carga de tu web de forma automática con Lighthouse
+# Analiza el tiempo de carga de tu web de forma automática con Lighthouse
 
 Lighthouse es una  [herramienta gratuita de Google](https://developers.google.com/web/tools/lighthouse/?hl=es)  para poder analizar una web en base a rendimiento, accesibilidad, mejores prácticas y SEO.
 
@@ -122,8 +122,8 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3MTc3MDEwLDYxMTQ3MDczOSwtMTA0Nz
-A0NjM5NSwtMTE2OTg1NTU4NywxMTUwNTY5MTEyLDE0ODY3NDM2
-NTksMjEzODc5NjAzOCw3OTAzNzI1MjQsLTExNDg4MDQ1MDksLT
-E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
+eyJoaXN0b3J5IjpbMTMyNDE3MDgzNyw2MjcxNzcwMTAsNjExND
+cwNzM5LC0xMDQ3MDQ2Mzk1LC0xMTY5ODU1NTg3LDExNTA1Njkx
+MTIsMTQ4Njc0MzY1OSwyMTM4Nzk2MDM4LDc5MDM3MjUyNCwtMT
+E0ODgwNDUwOSwtMTQ4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
 -->
