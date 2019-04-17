@@ -57,11 +57,11 @@ Por último, creo una [tarea en Windows](https://answers.microsoft.com/es-es/win
 
 ## 3- <a name="carga"></a>Cargamos los datos para su análisis
 
-Si todo ha ido bien, los informes han sido generados en nuestro ordenador por lo que el siguiente paso será subirlos a internet de tal modo que sean accesibles por otras aplicaciones para su análisis.
+Si todo ha ido bien, los informes han sido generados en nuestro ordenador por lo que el siguiente paso será subirlos a internet de tal modo que sean accesibles para su análisis. Para ello haré uso de Google Sheets.
 
-He creado otro fichero .bat que se lanza 30 minutos después -para asegurarme de que han terminado todos los informes- y que sube los resultados a la página web emirodgar.com.
+He creado otro fichero .bat que se lanza 30 minutos después -así me aseguro de que han terminado todos los informes- y que sube los resultados a mi página web [emirodgar.com/rendimiento/json].
 
-Una vez en la nube, importo los ficheros JSON en Google Sheets haciendo uso de la librería  [ImportJSON](https://emirodgar.com/[https://github.com/bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON)).
+Una vez accesibles, importo los ficheros JSON en Google Sheets haciendo uso de la librería  [ImportJSON](https://emirodgar.com/[https://github.com/bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON)).
 
 ![](https://i.imgur.com/IrL1alS.png)
 
@@ -125,6 +125,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MTkyNjIwLC0xMTQ4ODA0NTA5LC0xND
+eyJoaXN0b3J5IjpbODU4NTUxMDc4LC0xMTQ4ODA0NTA5LC0xND
 g4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
 -->
