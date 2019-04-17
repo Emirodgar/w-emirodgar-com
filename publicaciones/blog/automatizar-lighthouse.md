@@ -68,7 +68,7 @@ Una vez accesibles, importo los ficheros JSON en Google Sheets haciendo uso de l
 El resultado es el que podéis ver en la imagen anterior. Cada URL tiene su propio análisis en el que podemos identificar mediante colores su puntuación.
 
 > Dejo el [template de Google Sheets](https://docs.google.com/spreadsheets/d/1whDp-4iFdMzHZiX0zg9_cndFdHpFS1xI_RHINBFr_E8/edit?usp=sharing) que he utilizado para que podáis hacer una copia (Archivo > Crear una copia). Sólo hay que actualizar la pestaña "data" con los enlaces a los JSON de los resultados.
-> 
+
 Con esto ya tendríamos diariamente el análisis del rendimiento web de todas y cada una de las URLs que forman nuestro sitio web.
 
 ## 4- <a name="exportar"></a>Exportamos los datos a la web
@@ -129,6 +129,7 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí, y con los conocimientos obtenidos, podremos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODc5NjAzOCw3OTAzNzI1MjQsLTExND
-g4MDQ1MDksLTE0ODgwOTg2NjQsMTM1OTAyNjkyMl19
+eyJoaXN0b3J5IjpbLTQzODEwMDgyNCwyMTM4Nzk2MDM4LDc5MD
+M3MjUyNCwtMTE0ODgwNDUwOSwtMTQ4ODA5ODY2NCwxMzU5MDI2
+OTIyXX0=
 -->
