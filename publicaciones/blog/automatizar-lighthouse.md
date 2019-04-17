@@ -63,11 +63,13 @@ El resultado es el que podéis ver en la imagen anterior. Cada URL tiene su prop
 
 ## 4- Exportamos los datos a la web
 
-Por último, si queremos podemos mostrar los resultados en nuestra página web. Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento)  para poder visualizar en cada momento el estado de mi sitio web.
+Por último, si queremos mostrar los resultados en nuestra página web podremos hacerlo importando directamente los ficheros JSON o directamente desde la hoja de cálculo que hemos creado. Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento)  para poder visualizar en cada momento el estado de mi sitio web.
 
-Lo que he hecho ha sido acceder a la hoja excel de Google donde realizo los análisis y extraer la información que me interesa para mostrarla en mi página.
+Lo que he hecho ha sido acceder a la hoja excel de Google donde realizo los análisis y extraer la información que me interesa para mostrarla en dicha página.
 
-Cualquier hoja de cálculo de Google que esté publicada podrá ser accedida de la siguiente forma:
+### Publicar hoja de cálculo de Google
+
+Para que esto funcione tendremos que publicar nuestra hoja Cualquier hoja de cálculo de Google que esté publicada podrá ser accedida de la siguiente forma:
 
 ```
 https://spreadsheets.google.com/feeds/list/[ID] /1/public/values?alt=json
@@ -115,6 +117,6 @@ $.getJSON(url, function(data) {
 
 El código anterior solo muestra una parte de la aplicación que tengo en funcionamiento. Quedaría pintar la tabla dentro de la página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1OTEwNTExLC0xMTQ4ODA0NTA5LC0xND
+eyJoaXN0b3J5IjpbMTQxMzk0ODc4LC0xMTQ4ODA0NTA5LC0xND
 g4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
 -->
