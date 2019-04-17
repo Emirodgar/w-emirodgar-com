@@ -53,7 +53,7 @@ Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emiro
 
 > La salida por defecto de los informes es  **JSON**  pero se puede modificar
 
-A trav
+Por último, creo una tarea en Windows para que se ejecute este fichero .bat 
 
 ## 3- <a name="carga"></a>Cargamos los datos para su análisis
 
@@ -125,6 +125,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzcxOTczNywtMTE0ODgwNDUwOSwtMT
+eyJoaXN0b3J5IjpbLTY1Mzg3MTA5OSwtMTE0ODgwNDUwOSwtMT
 Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
 -->
