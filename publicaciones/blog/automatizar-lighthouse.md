@@ -86,12 +86,7 @@ $.getJSON(url, function(data) {
 
         score = data[i].score.replace("0.", "");
 
-        if (score <= 44)
-            color = "red";
-        else if (score < 74)
-            color = "#A0522D";
-
-        tableContent += "<tr><td>" + data[i].url + "</td><td style='color:" + color + "'>" + score + "</td></tr>";
+        tableContent += "URL" + data[i].url + "</td><td style='color:" + color + "'>" + score + "</td></tr>";
     }
 
     $('.results').html('<table><thead><tr><th>Página</th><th>Performance</th><th></tr></thead><tbody>' + tableContent + '</tbody></table>');
@@ -126,7 +121,7 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU2NTc0NiwxNDg2NzQzNjU5LDIxMz
-g3OTYwMzgsNzkwMzcyNTI0LC0xMTQ4ODA0NTA5LC0xNDg4MDk4
-NjY0LDEzNTkwMjY5MjJdfQ==
+eyJoaXN0b3J5IjpbNTgwMTY3NTE0LDE0ODY3NDM2NTksMjEzOD
+c5NjAzOCw3OTAzNzI1MjQsLTExNDg4MDQ1MDksLTE0ODgwOTg2
+NjQsMTM1OTAyNjkyMl19
 -->
