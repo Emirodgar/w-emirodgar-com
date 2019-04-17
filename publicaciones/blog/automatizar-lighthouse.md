@@ -73,7 +73,7 @@ Con esto ya tendríamos diariamente el análisis del rendimiento web de todas y 
 
 ## 4- <a name="exportar"></a>Exportamos los datos a la web
 
-Con esto ya tendríamos diariamente el análisis del rendimiento web de todas y cada una de las URLs que forman nuestro sitio web. No obstante, si quisiéramos mostrar los resultados en nuestra página web podríamos hacerlo importando directamente los ficheros JSON o directamente desde la hoja de cálculo que hemos creado. 
+Si quisiéramos mostrar los resultados en nuestra página web podríamos hacerlo importando directamente los ficheros JSON o desde la hoja de cálculo que hemos creado. 
 
 Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento)  para poder visualizar en cada momento el estado de mi sitio web.
 
@@ -81,7 +81,7 @@ Lo que he hecho ha sido acceder a la hoja excel de Google donde realizo los aná
 
 ### 4.1- Publicar hoja de cálculo de Google
 
-Para que esto funcione tendremos que [publicar nuestra hoja](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) y compartirla para todo el mundo. CUna vez lista podrá ser accedida de la siguiente forma:
+Para que esto funcione tendremos que [publicar nuestra hoja](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) y compartirla para todo el mundo. Una vez lista podrá ser accedida de la siguiente forma:
 
 ```
 https://spreadsheets.google.com/feeds/list/[ID] /1/public/values?alt=json
@@ -129,6 +129,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzEzODE3NiwtMTE0ODgwNDUwOSwtMT
+eyJoaXN0b3J5IjpbMTUxMTM1ODA2NiwtMTE0ODgwNDUwOSwtMT
 Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
 -->
