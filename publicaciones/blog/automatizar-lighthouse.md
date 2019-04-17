@@ -69,7 +69,7 @@ Lo que he hecho ha sido acceder a la hoja excel de Google donde realizo los aná
 
 ### Publicar hoja de cálculo de Google
 
-Para que esto funcione tendremos que publicar nuestra hoja Cualquier hoja de cálculo de Google que esté publicada podrá ser accedida de la siguiente forma:
+Para que esto funcione tendremos que [publicar nuestra hoja](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) y compartirla para todo el mundo. CUna vez lista podrá ser accedida de la siguiente forma:
 
 ```
 https://spreadsheets.google.com/feeds/list/[ID] /1/public/values?alt=json
@@ -89,9 +89,7 @@ Una vez que tengamos accesible los resultados de nuestra hoja de cálculo utiliz
 $.getJSON(url, function(data) {
 
     var entry = data.feed.entry;
-
     $.each(entry, function(index, item) {
-
         if ((this.gsx$performance.$t !== 'Score') && (this.gsx$_cn6ca.$t !== 'Summary')) {
 
             var d = new Date(this.updated.$t);
@@ -117,6 +115,6 @@ $.getJSON(url, function(data) {
 
 El código anterior solo muestra una parte de la aplicación que tengo en funcionamiento. Quedaría pintar la tabla dentro de la página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzk0ODc4LC0xMTQ4ODA0NTA5LC0xND
-g4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
+eyJoaXN0b3J5IjpbLTEzNTI0MTcyODksLTExNDg4MDQ1MDksLT
+E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
 -->
