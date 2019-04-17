@@ -16,7 +16,11 @@ Lighthouse es una  [herramienta gratuita de Google](https://emirodgar.com/[https
 
 > Actualmente podemos utilizarlo a través de [PageSpeed]([https://developers.google.com/speed/pagespeed/insights/?hl=es](https://developers.google.com/speed/pagespeed/insights/?hl=es)), [Web.dev](https://web.dev) o como extensión del navegador pero siempre nos limita a analizar URLs de forma individual.
 
-En este artículo os enseñaré cómo podemos **automatizar** el proceso de análisis con Lightouse **para múltiples URLs**.
+En este artículo os enseñaré cómo podemos **automatizar** el proceso de análisis con Lightouse **para múltiples URLs**. Los pasos son los siguientes:
+
+ 1. Instalamos Lighthouse en nuestro ordenador
+
+1- Instalamos Lighthouse en nuestro ordenador
 
 Un buen tiempo de carga es un  [factor SEO](https://emirodgar.com/factores-seo)  relevante que nos ayudará a mejorar posicionamiento web y favorecer la experiencia de nuestros visitantes, especialmente a aquellos que nos visitan a través de dispositivos móviles.
 
@@ -117,6 +121,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTUyMjI4NiwtMTE0ODgwNDUwOSwtMT
-Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
+eyJoaXN0b3J5IjpbMjY1NTAzNzczLC0xMTQ4ODA0NTA5LC0xND
+g4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
 -->
