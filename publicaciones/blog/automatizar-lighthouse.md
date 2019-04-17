@@ -12,9 +12,9 @@ permalink: automatizar-analisis-lighthouse
 
 # # Analiza el tiempo de carga de tu web de forma automática con Lighthouse
 
-Lighthouse es una  [herramienta gratuita de Google](https://emirodgar.com/[https://developers.google.com/web/tools/lighthouse/?hl=es](https://developers.google.com/web/tools/lighthouse/?hl=es))  para poder analizar una web en base a rendimiento, accesibilidad, mejores prácticas y SEO.
+Lighthouse es una  [herramienta gratuita de Google](https://developers.google.com/web/tools/lighthouse/?hl=es)  para poder analizar una web en base a rendimiento, accesibilidad, mejores prácticas y SEO.
 
-> Actualmente podemos utilizar Lighthouse a través de [PageSpeed]([https://developers.google.com/speed/pagespeed/insights/?hl=es](https://developers.google.com/speed/pagespeed/insights/?hl=es)), [Web.dev](https://web.dev) o como extensión del navegador pero siempre nos limita a analizar URLs de forma individual.
+> Actualmente podemos utilizar Lighthouse a través de [PageSpeed](https://developers.google.com/speed/pagespeed/insights/?hl=es), [Web.dev](https://web.dev) o como extensión del navegador pero siempre nos limita a analizar URLs de forma individual.
 
 En este artículo os enseñaré cómo podemos **automatizar** el proceso de análisis con Lightouse **para múltiples URLs**. Los pasos son los siguientes:
 
@@ -42,7 +42,7 @@ Esperamos a que termine la instalación y tendremos todo listo para comenzar a a
 
 ## 2- <a name="analisis"></a> Ejecutamos múltiples análisis
 
-Ahora ya podemos generar tantos análisis como queramos. El comando que debemos usar será el siguiente. Os dejo un enlace hacia la  [documentación completa de lighthouse-batch](https://emirodgar.com/[https://github.com/mikestead/lighthouse-batch](https://github.com/mikestead/lighthouse-batch)).
+Ahora ya podemos generar tantos análisis como queramos. El comando que debemos usar será el siguiente. Os dejo un enlace hacia la  [documentación completa de lighthouse-batch](https://github.com/mikestead/lighthouse-batch).
 
 ```
 lighthouse-batch -s [url1],[url2],[urlN] -g --out C:/[ruta-donde-exportar]
@@ -122,8 +122,8 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExNDcwNzM5LC0xMDQ3MDQ2Mzk1LC0xMT
-Y5ODU1NTg3LDExNTA1NjkxMTIsMTQ4Njc0MzY1OSwyMTM4Nzk2
-MDM4LDc5MDM3MjUyNCwtMTE0ODgwNDUwOSwtMTQ4ODA5ODY2NC
-wxMzU5MDI2OTIyXX0=
+eyJoaXN0b3J5IjpbMzc0NjEyMzA0LDYxMTQ3MDczOSwtMTA0Nz
+A0NjM5NSwtMTE2OTg1NTU4NywxMTUwNTY5MTEyLDE0ODY3NDM2
+NTksMjEzODc5NjAzOCw3OTAzNzI1MjQsLTExNDg4MDQ1MDksLT
+E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
 -->
