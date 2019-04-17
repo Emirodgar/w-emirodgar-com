@@ -114,8 +114,8 @@ $.getJSON(url, function(data) {
 
 ```
 
-El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. Quedaría pintar la tabla dentro de la página.
+El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1MzQzODE5LC0xMTQ4ODA0NTA5LC0xND
-g4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
+eyJoaXN0b3J5IjpbMTA1Nzc0NDk4NSwtMTE0ODgwNDUwOSwtMT
+Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
 -->
