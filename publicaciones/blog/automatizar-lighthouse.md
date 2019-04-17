@@ -51,7 +51,7 @@ Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emiro
 
 Los informes han sido generados en nuestro ordenador por lo que el siguiente paso será subirlos a internet de tal modo que sean accesibles por otras aplicaciones para su análisis.
 
-He creado otro fichero .bat que se lanza 30 minutos después (para asegurarme de que han terminado todos los informes) y que sube los resultados a la página web emirodgar.com.
+He creado otro fichero .bat que se lanza 30 minutos después -para asegurarme de que han terminado todos los informes- y que sube los resultados a la página web emirodgar.com.
 
 Una vez en la nube, importo los ficheros JSON en Google Sheets haciendo uso de la librería  [ImportJSON](https://emirodgar.com/[https://github.com/bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON)).
 
@@ -113,6 +113,6 @@ $.getJSON(url, function(data) {
 
 El código anterior solo muestra una parte de la aplicación que tengo en funcionamiento. Quedaría pintar la tabla dentro de la página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTE5NjE3NiwtMTE0ODgwNDUwOSwtMT
+eyJoaXN0b3J5IjpbLTU1ODg3MDQ3MSwtMTE0ODgwNDUwOSwtMT
 Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
 -->
