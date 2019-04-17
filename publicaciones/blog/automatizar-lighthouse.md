@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 tags: SEO, Google, performance
 date: 16/04/2019
-image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
+image: https://emirodgar.com/publicaciones/img/lighthouse-automatic.png
 permalink: automatizar-analisis-lighthouse
 
 ---
@@ -122,6 +122,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTQyNjEyMSwtMTE0ODgwNDUwOSwtMT
-Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
+eyJoaXN0b3J5IjpbLTE2NDUxNTU2NzksLTExNDg4MDQ1MDksLT
+E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
 -->
