@@ -100,6 +100,9 @@ $.getJSON(url, function(data) {
 });
 
 </script>
+```
+
+```html
 
 <div class="results"></div>
 ```
@@ -127,7 +130,7 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Njc0MzY1OSwyMTM4Nzk2MDM4LDc5MD
-M3MjUyNCwtMTE0ODgwNDUwOSwtMTQ4ODA5ODY2NCwxMzU5MDI2
-OTIyXX0=
+eyJoaXN0b3J5IjpbLTE1NTAzODQzODAsMTQ4Njc0MzY1OSwyMT
+M4Nzk2MDM4LDc5MDM3MjUyNCwtMTE0ODgwNDUwOSwtMTQ4ODA5
+ODY2NCwxMzU5MDI2OTIyXX0=
 -->
