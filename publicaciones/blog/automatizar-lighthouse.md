@@ -77,7 +77,7 @@ Si quisiéramos mostrar los resultados en nuestra página web podríamos hacerlo
 
 > Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento/)  para poder visualizar en cada momento el estado de mi sitio web.
 
-Una vez que tengamos accesible los resultados en formato JSON utilizaremos jQuery para recuperarlos y mostrarlos a nuestro gusto.
+Una vez que tengamos accesible los resultados en formato JSON utilizaremos [getJSON de jQuery](https://api.jquery.com/jquery.getjson/) para recuperarlos y mostrarlos a nuestro gusto.
 
 ```
 $.getJSON(url, function(data) { 
@@ -93,12 +93,9 @@ $.getJSON(url, function(data) {
 		
 		tableContent += "<tr><td>"+data[i].url+"</td><td style='color:"+color+"'>"+score+"</td></tr>";
     }
-	updateTable();
+	
+	$('.results').html('<table><thead><tr><th>Página</th><th>Performance</th><th></tr></thead><tbody>'+tableContent+'</tbody></table>');
 });
-
-function updateTable(){
-		$('.results').html('<table><thead><tr><th>Página</th><th>Performance</th><th></tr></thead><tbody>'+tableContent+'</tbody></table>');
-	}
 
 </script>
 
@@ -124,7 +121,7 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA1NTg3NjcsMjEzODc5NjAzOCw3OT
-AzNzI1MjQsLTExNDg4MDQ1MDksLTE0ODgwOTg2NjQsMTM1OTAy
-NjkyMl19
+eyJoaXN0b3J5IjpbMTE2NDgyMzI4LDIxMzg3OTYwMzgsNzkwMz
+cyNTI0LC0xMTQ4ODA0NTA5LC0xNDg4MDk4NjY0LDEzNTkwMjY5
+MjJdfQ==
 -->
