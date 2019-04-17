@@ -71,7 +71,7 @@ El resultado es el que podéis ver en la imagen anterior. Cada URL tiene su prop
 
 ## 4- <a name="exportar"></a>Exportamos los datos a la web
 
-Por último, si queremos mostrar los resultados en nuestra página web podremos hacerlo importando directamente los ficheros JSON o directamente desde la hoja de cálculo que hemos creado. Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento)  para poder visualizar en cada momento el estado de mi sitio web.
+Con esto ya tendríamos diariamente el análisis del rendimiento web de todas y cada una de las URLs que forman nuestro sitio web. No obstante, si quisiéramos mostrar los resultados en nuestra página web podríamos hacerlo importando directamente los ficheros JSON o directamente desde la hoja de cálculo que hemos creado. Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento)  para poder visualizar en cada momento el estado de mi sitio web.
 
 Lo que he hecho ha sido acceder a la hoja excel de Google donde realizo los análisis y extraer la información que me interesa para mostrarla en dicha página.
 
@@ -125,6 +125,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTI0ODIyMCwtMTE0ODgwNDUwOSwtMT
-Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
+eyJoaXN0b3J5IjpbLTE0ODgzNzUyMjIsLTExNDg4MDQ1MDksLT
+E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
 -->
