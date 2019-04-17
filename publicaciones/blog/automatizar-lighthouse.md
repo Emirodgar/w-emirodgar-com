@@ -90,6 +90,7 @@ $.getJSON(url, function(data) {
 
     var entry = data.feed.entry;
     $.each(entry, function(index, item) {
+
         if ((this.gsx$performance.$t !== 'Score') && (this.gsx$_cn6ca.$t !== 'Summary')) {
 
             var d = new Date(this.updated.$t);
@@ -115,6 +116,6 @@ $.getJSON(url, function(data) {
 
 El código anterior solo muestra una parte de la aplicación que tengo en funcionamiento. Quedaría pintar la tabla dentro de la página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI0MTcyODksLTExNDg4MDQ1MDksLT
+eyJoaXN0b3J5IjpbLTEyOTc3Mjc5NjMsLTExNDg4MDQ1MDksLT
 E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
 -->
