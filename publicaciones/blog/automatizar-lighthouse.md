@@ -67,11 +67,15 @@ Una vez accesibles, importo los ficheros JSON en Google Sheets haciendo uso de l
 
 El resultado es el que podéis ver en la imagen anterior. Cada URL tiene su propio análisis en el que podemos identificar mediante colores su puntuación.
 
-> Dejo el [template de Google Sheets](https://docs.google.com/spreadsheets/d/1whDp-4iFdMzHZiX0zg9_cndFdHpFS1xI_RHINBFr_E8/edit?usp=sharing) que he utilizado para que podáis hacer una copia (Archivo > Crear una copia)
+> Dejo el [template de Google Sheets](https://docs.google.com/spreadsheets/d/1whDp-4iFdMzHZiX0zg9_cndFdHpFS1xI_RHINBFr_E8/edit?usp=sharing) que he utilizado para que podáis hacer una copia (Archivo > Crear una copia). Sólo hay que actualizar la pestaña "data" con los enlaces a los JSON de los resultados.
+> 
+Con esto ya tendríamos diariamente el análisis del rendimiento web de todas y cada una de las URLs que forman nuestro sitio web.
 
 ## 4- <a name="exportar"></a>Exportamos los datos a la web
 
-Con esto ya tendríamos diariamente el análisis del rendimiento web de todas y cada una de las URLs que forman nuestro sitio web. No obstante, si quisiéramos mostrar los resultados en nuestra página web podríamos hacerlo importando directamente los ficheros JSON o directamente desde la hoja de cálculo que hemos creado. Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento)  para poder visualizar en cada momento el estado de mi sitio web.
+Con esto ya tendríamos diariamente el análisis del rendimiento web de todas y cada una de las URLs que forman nuestro sitio web. No obstante, si quisiéramos mostrar los resultados en nuestra página web podríamos hacerlo importando directamente los ficheros JSON o directamente desde la hoja de cálculo que hemos creado. 
+
+Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento)  para poder visualizar en cada momento el estado de mi sitio web.
 
 Lo que he hecho ha sido acceder a la hoja excel de Google donde realizo los análisis y extraer la información que me interesa para mostrarla en dicha página.
 
@@ -125,6 +129,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODgzNzUyMjIsLTExNDg4MDQ1MDksLT
-E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
+eyJoaXN0b3J5IjpbMTU0NzEzODE3NiwtMTE0ODgwNDUwOSwtMT
+Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
 -->
