@@ -49,11 +49,11 @@ lighthouse-batch -s [url1],[url2],[urlN] -g --out C:/[ruta-donde-exportar]
 
 ```
 
-Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emirodgar.com/sitemap.xml), después he [preparado el listado separado por comas](https://convert.town/column-to-comma-separated-list)  y por último he creado un fichero .bat para ejecutar el comando ```lighthouse-batch```.
+Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emirodgar.com/sitemap.xml), después he [preparado el listado separado por comas](https://convert.town/column-to-comma-separated-list)  y por último he creado un [fichero .bat](https://norfipc.com/utiles/tutorialbatch1.html) para ejecutar el comando ```lighthouse-batch```.
 
 > La salida por defecto de los informes es  **JSON**  pero se puede modificar
 
-Por último, he dado de alta una [tarea en Windows](https://answers.microsoft.com/es-es/windows/forum/all/aprende-a-usar-el-programador-de-tareas-de-windows/015b8362-95be-4460-ac51-a0917e4a2d4b) para que se ejecute este fichero .bat todos los días a la misma hora. De esta forma todas las URLs serán analizadas cada día.
+El último paso ha sido dar de alta una [tarea en Windows](https://answers.microsoft.com/es-es/windows/forum/all/aprende-a-usar-el-programador-de-tareas-de-windows/015b8362-95be-4460-ac51-a0917e4a2d4b) para que se ejecute el fichero .bat todos los días a la misma hora. De esta forma todas las URLs serán analizadas diariamente.
 
 ## 3- <a name="carga"></a>Cargamos los datos para su análisis
 
@@ -120,8 +120,8 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDcwNDYzOTUsLTExNjk4NTU1ODcsMT
-E1MDU2OTExMiwxNDg2NzQzNjU5LDIxMzg3OTYwMzgsNzkwMzcy
-NTI0LC0xMTQ4ODA0NTA5LC0xNDg4MDk4NjY0LDEzNTkwMjY5Mj
-JdfQ==
+eyJoaXN0b3J5IjpbMTQzODAzNzg5MCwtMTA0NzA0NjM5NSwtMT
+E2OTg1NTU4NywxMTUwNTY5MTEyLDE0ODY3NDM2NTksMjEzODc5
+NjAzOCw3OTAzNzI1MjQsLTExNDg4MDQ1MDksLTE0ODgwOTg2Nj
+QsMTM1OTAyNjkyMl19
 -->
