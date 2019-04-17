@@ -24,45 +24,28 @@
       <script src="https://cdn.datatables.net/responsive/2.1.0/js/dataTables.responsive.min.js"></script>
 	  
 <script>
-                      
-var spreadsheetID = "1nzvR29dgQnBE_ryNjG_Y0x7TZFgbabJbt9-eapBcS7U";           
-var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/1/public/values?alt=json"; 
+                               
+var url= "https://emirodgar.com/rendimiento/json/summary.json";
 var tableContent = "";
+var color = "green";
                       
-$.getJSON(url, function(data) {
-                      
-    var entry = data.feed.entry;
-	
-		$.each(entry, function (index, item) {
-		  console.log(item);
-
-		  if( (this.gsx$performance.$t!=='Score') && (this.gsx$_cn6ca.$t!=='Summary') ) {
-		  
-			var d = new Date(this.updated.$t);
-			var e = formatDate(d);
-			
-			var score = this.gsx$performance.$t.replace("%","");
-			var color = "green";
-			
-			if(score <= 44) 
-				color = "red";
-			else if(score < 74) 
-				color = "#A0522D";
-			
-		  
-			tableContent = tableContent.concat('<tr><td style="text-align:left;">'+this.gsx$_cn6ca.$t+'</td><td style="color:'+color+'">'+this.gsx$performance.$t+'</td><td>'+this.gsx$_cpzh4.$t+'</td><td>'+this.gsx$_cre1l.$t+'</td><td>'+this.gsx$_chk2m.$t+'</td><td>'+this.gsx$_ciyn3.$t+'</td><td>'+this.gsx$seo.$t+'</td><td>'+e+'</td></tr>'); 
-		  } else if(this.gsx$_cn6ca.$t=='Summary') {
-			performanceScore = this.gsx$performance.$t;
-			seoScore = this.gsx$seo.$t;
-			document.getElementById('summary').innerHTML = performanceScore;
-
-		  }
-		});
-		updateTable();
+$.getJSON(url, function(data) { 
+   console.log(data);   
+   for (var i = 0, len = data.length; i < len; i++) {
+		score = data[i].score.replace("0.","");
+		
+		if (score <= 44)
+                color = "red";
+            else if (score < 74)
+                color = "#A0522D";		
+		
+		tableContent += "<tr><td style='text-align:left;'>"+data[i].url+"</td><td style='color:"+color+"'>"+score+"</td></tr>";
+    }
+	updateTable();
     });
     
 	function updateTable(){
-		$('.results').prepend('<table style="width:100%" class="display"><thead><tr><th style="text-align:left;">Página</th><th>Performance</th><th> <acronym title="First Contentful Paint">FCP</acronym></th><th><acronym title="First Meaningful Paint">FMP</acronym></th><th><acronym title="Time to First Byte">TFB</acronym></th><th>Speed Index</th><th>SEO</th><th>Fecha test</th></tr></thead><tbody>'+tableContent+'</tbody></table>');
+		$('.results').prepend('<table style="width:100%;" class="display"><thead><tr><th style="text-align:left;">Página</th><th>Performance</th><th></tr></thead><tbody>'+tableContent+'</tbody></table>');
 	}
 	
 	function formatDate(date) {
@@ -89,10 +72,10 @@ $.getJSON(url, function(data) {
            <div class="content-wrap nopadding">
             <div id="section-about" class="center page-section">
                <div class="container clearfix">
-                  <h2 class="divcenter bottommargin font-body" style="max-width: 700px; font-size: 40px;">Rendimiento - Lighthouse: <span id="summary"></span></h2>
-                  <p class="lead divcenter bottommargin" style="max-width: 800px;">A continuación se muestra el rendimiento de las diferentes URLs del dominio emirodgar.com a través de Google Lighthouse.</p>
+                  <h2 class="divcenter bottommargin font-body" style="max-width: 700px; font-size: 40px;">Rendimiento - Lighthouse <span id="summary"></span></h2>
+                  <p class="lead divcenter bottommargin" style="max-width: 800px;">A continuación se muestra el rendimiento de las diferentes URLs del dominio emirodgar.com a través de Google Lighthouse.<br/><br/><a href="https://emirodgar.com/automatizar-analisis-lighthouse">Aquí te enseño cómo puedes hacerlo para tus dominios</a>.</p>
                   
-                  <div class="results"></div> 
+                  <div class="results" style="width:80%;text-align:center;margin: 0 auto;"></div> 
                  
            </div>
          </section>
