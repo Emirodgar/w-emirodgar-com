@@ -57,7 +57,7 @@ Una vez en la nube, importo los ficheros JSON en Google Sheets haciendo uso de l
 
 ![](https://i.imgur.com/IrL1alS.png)
 
-El resultado es el que podéis ver en la imagen anterior. Cada URL tiene su
+El resultado es el que podéis ver en la imagen anterior. Cada URL tiene su propio análisis en el que podemos identific
 
 ## 4- Exportamos los datos a la web
 
@@ -113,6 +113,6 @@ $.getJSON(url, function(data) {
 
 El código anterior solo muestra una parte de la aplicación que tengo en funcionamiento. Quedaría pintar la tabla dentro de la página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODg3MDQ3MSwtMTE0ODgwNDUwOSwtMT
-Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
+eyJoaXN0b3J5IjpbOTE2MDYyODM1LC0xMTQ4ODA0NTA5LC0xND
+g4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
 -->
