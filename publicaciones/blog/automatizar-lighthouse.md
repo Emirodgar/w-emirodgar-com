@@ -23,7 +23,7 @@ En este artículo os enseñaré cómo podemos **automatizar** el proceso de aná
  3. [Cargamos los datos para su análisis](#carga)
  4. [Exportamos los datos a la web](#exportar)
 
-Un buen tiempo de carga es un  [factor SEO](https://emirodgar.com/factores-seo)  relevante que nos ayudará a mejorar posicionamiento web y favorecer la experiencia de nuestros visitantes, especialmente a aquellos que nos visitan a través de dispositivos móviles.
+Un buen tiempo de carga es un  [factor SEO](https://emirodgar.com/factores-seo)  relevante que nos ayudará a **mejorar posicionamiento web** y favorecer la experiencia de nuestros visitantes, especialmente a aquellos que lo hacen a través de dispositivos móviles.
 
 
 ## 1- <a name="instalacion"></a> Instalamos Lighthouse en nuestro ordenador
@@ -38,6 +38,7 @@ Una vez que tengamos npm instalado, abrimos una consola de Windows (cmd.exe) y e
 npm install -g lighthouse-batch
 
 ```
+Esperamos a que termine la instalación y tendremos todo listo para comenzar a analizar.
 
 ## 2- <a name="analisis"></a> Ejecutamos múltiples análisis
 
@@ -51,6 +52,8 @@ lighthouse-batch -s [url1],[url2],[urlN] -g --out C:/[ruta-donde-exportar]
 Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emirodgar.com/sitemap.xml)  y crear un fichero .bat para analizar todas ellas a través del comando anterior.
 
 > La salida por defecto de los informes es  **JSON**  pero se puede modificar
+
+A trav
 
 ## 3- <a name="carga"></a>Cargamos los datos para su análisis
 
@@ -122,6 +125,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDUxNTU2NzksLTExNDg4MDQ1MDksLT
-E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
+eyJoaXN0b3J5IjpbMTA3NzcxOTczNywtMTE0ODgwNDUwOSwtMT
+Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
 -->
