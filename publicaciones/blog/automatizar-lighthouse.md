@@ -75,7 +75,7 @@ Con esto ya tendríamos diariamente el análisis del rendimiento web de todas y 
 
 Si quisiéramos mostrar los resultados en nuestra página web podríamos hacerlo importando directamente los ficheros JSON o desde la hoja de cálculo que hemos creado. 
 
-Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento)  para poder visualizar en cada momento el estado de mi sitio web.
+Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento/)  para poder visualizar en cada momento el estado de mi sitio web.
 
 Lo que he hecho ha sido acceder a la hoja excel de Google donde realizo los análisis y extraer la información que me interesa para mostrarla en dicha página.
 
@@ -129,7 +129,7 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí, y con los conocimientos obtenidos, podremos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODEwMDgyNCwyMTM4Nzk2MDM4LDc5MD
-M3MjUyNCwtMTE0ODgwNDUwOSwtMTQ4ODA5ODY2NCwxMzU5MDI2
-OTIyXX0=
+eyJoaXN0b3J5IjpbLTExMjIyODY0NTMsMjEzODc5NjAzOCw3OT
+AzNzI1MjQsLTExNDg4MDQ1MDksLTE0ODgwOTg2NjQsMTM1OTAy
+NjkyMl19
 -->
