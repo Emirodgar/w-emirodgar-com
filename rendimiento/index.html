@@ -42,7 +42,7 @@ $.getJSON(url, function(data) {
 		tableContent += "<tr><td style='text-align:left;'>"+data[i].url+"</td><td style='color:"+color+"'>"+score+"</td></tr>";
     }
 	updateTable();
-    });
+});
     
 	function updateTable(){
 		$('.results').prepend('<table style="width:100%;" class="display"><thead><tr><th style="text-align:left;">Página</th><th>Performance</th><th></tr></thead><tbody>'+tableContent+'</tbody></table>');
