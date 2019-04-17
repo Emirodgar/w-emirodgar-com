@@ -105,18 +105,17 @@ $.getJSON(url, function(data) {
             else if (score < 74)
                 color = "#A0522D";
 
-            tableContent = tableContent.concat('<tr><td style="text-align:left;">' + this.gsx$_cn6ca.$t + '</td><td style="color:' + color + '">' + this.gsx$performance.$t + '</td><td>' + this.gsx$_cpzh4.$t + '</td><td>' + this.gsx$_cre1l.$t + '</td><td>' + this.gsx$_chk2m.$t + '</td><td>' + this.gsx$_ciyn3.$t + '</td><td>' + this.gsx$seo.$t + '</td><td>' + e + '</td></tr>');
+           $('.results').prepend('<tr><td style="text-align:left;">' + this.gsx$_cn6ca.$t + '</td><td style="color:' + color + '">' + this.gsx$performance.$t + '</td><td>' + this.gsx$_cpzh4.$t + '</td><td>' + this.gsx$_cre1l.$t + '</td><td>' + this.gsx$_chk2m.$t + '</td><td>' + this.gsx$_ciyn3.$t + '</td><td>' + this.gsx$seo.$t + '</td><td>' + e + '</td></tr>');
         } 
     });
-    updateTable();
 });
 ....
 </script>
 
 ```
 
-El código anterior solo muestra una parte de la aplicación que tengo en funcionamiento. Quedaría pintar la tabla dentro de la página.
+El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. Quedaría pintar la tabla dentro de la página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc3Nzg0NDgsLTExNDg4MDQ1MDksLT
-E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
+eyJoaXN0b3J5IjpbMjM1MzQzODE5LC0xMTQ4ODA0NTA5LC0xND
+g4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
 -->
