@@ -20,8 +20,8 @@ En este artículo os enseñaré cómo podemos **automatizar** el proceso de aná
 
  1. [Instalamos Lighthouse en nuestro ordenador](#instalacion)
  2. [Ejecutamos múltiples análisis](#analisis)
- 3. [Cargamos los datos para su análisis](#instalacion)
- 4. [Exportamos los datos a la web](#instalacion)
+ 3. [Cargamos los datos para su análisis](#carga)
+ 4. [Exportamos los datos a la web](#exportar)
 
 Un buen tiempo de carga es un  [factor SEO](https://emirodgar.com/factores-seo)  relevante que nos ayudará a mejorar posicionamiento web y favorecer la experiencia de nuestros visitantes, especialmente a aquellos que nos visitan a través de dispositivos móviles.
 
@@ -66,7 +66,7 @@ El resultado es el que podéis ver en la imagen anterior. Cada URL tiene su prop
 
 > Aquí dejo el [template de Google Sheets](https://docs.google.com/spreadsheets/d/1whDp-4iFdMzHZiX0zg9_cndFdHpFS1xI_RHINBFr_E8/edit?usp=sharing) que he utilizado para que podáis hacer una copia 
 
-## 4- Exportamos los datos a la web
+## 4- <a name="exportar"></a>Exportamos los datos a la web
 
 Por último, si queremos mostrar los resultados en nuestra página web podremos hacerlo importando directamente los ficheros JSON o directamente desde la hoja de cálculo que hemos creado. Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento)  para poder visualizar en cada momento el estado de mi sitio web.
 
@@ -122,6 +122,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ5MDAwNzQsLTExNDg4MDQ1MDksLT
-E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
+eyJoaXN0b3J5IjpbMTM2MTQyNjEyMSwtMTE0ODgwNDUwOSwtMT
+Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
 -->
