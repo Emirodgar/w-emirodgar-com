@@ -61,7 +61,7 @@ Si todo ha ido bien, los informes han sido generados en nuestro ordenador por lo
 
 He creado otro fichero .bat que se lanza 30 minutos después -así me aseguro de que han terminado todos los informes- y que sube los resultados a mi página web [https://emirodgar.com/rendimiento/json/emirodgar_com_.report.json](https://emirodgar.com/rendimiento/json/emirodgar_com_.report.json).
 
-> Existen múltiples formas para subir los informes generados a internet; podemos utilizar FTP, GIT, etc. 
+> Existen múltiples formas para subir los informes generados a internet; yo los cargo vía [FTP](https://www.discoduroderoer.es/comando-ftp-en-windows/). 
 
 Una vez accesibles, importo los ficheros JSON en Google Sheets haciendo uso de la librería  [ImportJSON](https://emirodgar.com/[https://github.com/bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON)).
 
@@ -122,8 +122,8 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzI0MzkyOCwtMTA0NzA0NjM5NSwtMT
-E2OTg1NTU4NywxMTUwNTY5MTEyLDE0ODY3NDM2NTksMjEzODc5
-NjAzOCw3OTAzNzI1MjQsLTExNDg4MDQ1MDksLTE0ODgwOTg2Nj
-QsMTM1OTAyNjkyMl19
+eyJoaXN0b3J5IjpbNjExNDcwNzM5LC0xMDQ3MDQ2Mzk1LC0xMT
+Y5ODU1NTg3LDExNTA1NjkxMTIsMTQ4Njc0MzY1OSwyMTM4Nzk2
+MDM4LDc5MDM3MjUyNCwtMTE0ODgwNDUwOSwtMTQ4ODA5ODY2NC
+wxMzU5MDI2OTIyXX0=
 -->
