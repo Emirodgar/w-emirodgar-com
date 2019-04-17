@@ -96,7 +96,7 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 ```
 ### 4.2- Mostrar datos en la página web
 
-Una vez que tengamos accesible los resultados de nuestra hoja de cálculo utilizaremos jQuery para recuperarlos y mostrarlos como quedamos.
+Una vez que tengamos accesible los resultados de nuestra hoja de cálculo utilizaremos jQuery para recuperarlos y mostrarlos como a nuestro gusto.
 
 ```
 $.getJSON(url, function(data) {
@@ -127,8 +127,8 @@ $.getJSON(url, function(data) {
 <div class="results"></div>
 ```
 
-El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
+El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí, y con los conocimientos obtenidos, podremos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTM1ODA2NiwtMTE0ODgwNDUwOSwtMT
-Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
+eyJoaXN0b3J5IjpbNzkwMzcyNTI0LC0xMTQ4ODA0NTA5LC0xND
+g4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
 -->
