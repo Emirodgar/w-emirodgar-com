@@ -59,7 +59,7 @@ Por último, creo una [tarea en Windows](https://answers.microsoft.com/es-es/win
 
 Si todo ha ido bien, los informes han sido generados en nuestro ordenador por lo que el siguiente paso será subirlos a internet de tal modo que sean accesibles para su análisis. Para ello haré uso de Google Sheets.
 
-He creado otro fichero .bat que se lanza 30 minutos después -así me aseguro de que han terminado todos los informes- y que sube los resultados a mi página web [emirodgar.com/rendimiento/json].
+He creado otro fichero .bat que se lanza 30 minutos después -así me aseguro de que han terminado todos los informes- y que sube los resultados a mi página web [https://emirodgar.com/rendimiento/json/emirodgar_com_.report.json](https://emirodgar.com/rendimiento/json/emirodgar_com_.report.json).
 
 Una vez accesibles, importo los ficheros JSON en Google Sheets haciendo uso de la librería  [ImportJSON](https://emirodgar.com/[https://github.com/bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON)).
 
@@ -67,7 +67,7 @@ Una vez accesibles, importo los ficheros JSON en Google Sheets haciendo uso de l
 
 El resultado es el que podéis ver en la imagen anterior. Cada URL tiene su propio análisis en el que podemos identificar mediante colores su puntuación.
 
-> Aquí dejo el [template de Google Sheets](https://docs.google.com/spreadsheets/d/1whDp-4iFdMzHZiX0zg9_cndFdHpFS1xI_RHINBFr_E8/edit?usp=sharing) que he utilizado para que podáis hacer una copia 
+> Dejo el [template de Google Sheets](https://docs.google.com/spreadsheets/d/1whDp-4iFdMzHZiX0zg9_cndFdHpFS1xI_RHINBFr_E8/edit?usp=sharing) que he utilizado para que podáis hacer una copia (Archivo > Crear una copia)
 
 ## 4- <a name="exportar"></a>Exportamos los datos a la web
 
@@ -125,6 +125,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4NTUxMDc4LC0xMTQ4ODA0NTA5LC0xND
-g4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
+eyJoaXN0b3J5IjpbMTYxOTI0ODIyMCwtMTE0ODgwNDUwOSwtMT
+Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
 -->
