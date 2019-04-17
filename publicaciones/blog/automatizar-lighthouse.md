@@ -112,10 +112,11 @@ $.getJSON(url, function(data) {
 ....
 </script>
 
+<div class="results"></div>
 ```
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Nzc0NDk4NSwtMTE0ODgwNDUwOSwtMT
+eyJoaXN0b3J5IjpbLTg3Nzg5ODA2NywtMTE0ODgwNDUwOSwtMT
 Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
 -->
