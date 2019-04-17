@@ -107,6 +107,8 @@ El código anterior es un ejemplo y sólo muestra una parte de la información q
 
 ### 4.1- Publicar hoja de cálculo de Google
 
+Si en nuestra hoja de cálculo hemos calculado nuevas métricas, podemos conectarla directamente con nuestra web para que ésta sea el flujo de información en JSON.
+
 Para que esto funcione tendremos que [publicar nuestra hoja](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) y compartirla para todo el mundo. Una vez lista podrá ser accedida de la siguiente forma:
 
 ```
@@ -120,8 +122,10 @@ El ID será el que aparezca en nuestra URL y el contenido, en nuestro caso, ser�
 https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 ```
+
+A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDgyMzI4LDIxMzg3OTYwMzgsNzkwMz
-cyNTI0LC0xMTQ4ODA0NTA5LC0xNDg4MDk4NjY0LDEzNTkwMjY5
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTE4OTgwODc2NDQsMjEzODc5NjAzOCw3OT
+AzNzI1MjQsLTExNDg4MDQ1MDksLTE0ODgwOTg2NjQsMTM1OTAy
+NjkyMl19
 -->
