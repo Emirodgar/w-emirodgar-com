@@ -79,7 +79,7 @@ Si quisiéramos mostrar los resultados en nuestra página web podríamos hacerlo
 
 Una vez que tengamos accesible los resultados en formato JSON utilizaremos [getJSON de jQuery](https://api.jquery.com/jquery.getjson/) para recuperarlos y mostrarlos a nuestro gusto.
 
-```javascript
+```
 
 $.getJSON(url, function(data) { 
    
@@ -128,7 +128,7 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk5MTU1OTIsMTQ4Njc0MzY1OSwyMT
-M4Nzk2MDM4LDc5MDM3MjUyNCwtMTE0ODgwNDUwOSwtMTQ4ODA5
-ODY2NCwxMzU5MDI2OTIyXX0=
+eyJoaXN0b3J5IjpbLTE3ODQyNzUwOSwxNDg2NzQzNjU5LDIxMz
+g3OTYwMzgsNzkwMzcyNTI0LC0xMTQ4ODA0NTA5LC0xNDg4MDk4
+NjY0LDEzNTkwMjY5MjJdfQ==
 -->
