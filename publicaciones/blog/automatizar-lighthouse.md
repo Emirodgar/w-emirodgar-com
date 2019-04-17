@@ -67,7 +67,7 @@ Por último, si queremos mostrar los resultados en nuestra página web podremos 
 
 Lo que he hecho ha sido acceder a la hoja excel de Google donde realizo los análisis y extraer la información que me interesa para mostrarla en dicha página.
 
-### Publicar hoja de cálculo de Google
+### 4.1- Publicar hoja de cálculo de Google
 
 Para que esto funcione tendremos que [publicar nuestra hoja](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) y compartirla para todo el mundo. CUna vez lista podrá ser accedida de la siguiente forma:
 
@@ -82,6 +82,7 @@ El ID será el que aparezca en nuestra URL y el contenido, en nuestro caso, ser�
 https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 ```
+### 4.2- Mostrar datos en la página web
 
 Una vez que tengamos accesible los resultados de nuestra hoja de cálculo utilizaremos jQuery para recuperarlos y mostrarlos como quedamos.
 
@@ -116,6 +117,6 @@ $.getJSON(url, function(data) {
 
 El código anterior solo muestra una parte de la aplicación que tengo en funcionamiento. Quedaría pintar la tabla dentro de la página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc3Mjc5NjMsLTExNDg4MDQ1MDksLT
+eyJoaXN0b3J5IjpbLTE0MDc3Nzg0NDgsLTExNDg4MDQ1MDksLT
 E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
 -->
