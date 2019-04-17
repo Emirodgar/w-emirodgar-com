@@ -80,29 +80,26 @@ Si quisiéramos mostrar los resultados en nuestra página web podríamos hacerlo
 Una vez que tengamos accesible los resultados en formato JSON utilizaremos jQuery para recuperarlos y mostrarlos a nuestro gusto.
 
 ```
-$.getJSON(url, function(data) {
-
-    var entry = data.feed.entry;
-    $.each(entry, function(index, item) {
-
-        if ((this.gsx$performance.$t !== 'Score') && (this.gsx$_cn6ca.$t !== 'Summary')) {
-
-            var d = new Date(this.updated.$t);
-            var e = formatDate(d);
-
-            var score = this.gsx$performance.$t.replace("%", "");
-            var color = "green";
-
-            if (score <= 44)
+$.getJSON(url, function(data) { 
+   
+   for (var i = 0, len = data.length; i < len; i++) {
+		
+		score = data[i].score.replace("0.","");
+				
+		if (score <= 44)
                 color = "red";
             else if (score < 74)
-                color = "#A0522D";
-
-           $('.results').prepend('<tr><td style="text-align:left;">' + this.gsx$_cn6ca.$t + '</td><td style="color:' + color + '">' + this.gsx$performance.$t + '</td><td>' + this.gsx$_cpzh4.$t + '</td><td>' + this.gsx$_cre1l.$t + '</td><td>' + this.gsx$_chk2m.$t + '</td><td>' + this.gsx$_ciyn3.$t + '</td><td>' + this.gsx$seo.$t + '</td><td>' + e + '</td></tr>');
-        } 
-    });
+                color = "#A0522D";		
+		
+		tableContent += "<tr><td>"+data[i].url+"</td><td style='color:"+color+"'>"+score+"</td></tr>";
+    }
+	updateTable();
 });
-....
+
+function updateTable(){
+		$('.results').prepend('<table style="width:100%;" class="display"><thead><tr><th style="text-align:left;">Página</th><th>Performance</th><th></tr></thead><tbody>'+tableContent+'</tbody></table>');
+	}
+
 </script>
 
 <div class="results"></div>
@@ -127,7 +124,7 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjczMzQxNSwyMTM4Nzk2MDM4LDc5MD
-M3MjUyNCwtMTE0ODgwNDUwOSwtMTQ4ODA5ODY2NCwxMzU5MDI2
-OTIyXX0=
+eyJoaXN0b3J5IjpbNDg5NjIzMDcxLDIxMzg3OTYwMzgsNzkwMz
+cyNTI0LC0xMTQ4ODA0NTA5LC0xNDg4MDk4NjY0LDEzNTkwMjY5
+MjJdfQ==
 -->
