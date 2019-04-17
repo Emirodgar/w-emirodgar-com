@@ -97,7 +97,7 @@ $.getJSON(url, function(data) {
 });
 
 function updateTable(){
-		$('.results').prepend('<table style="width:100%;" class="display"><thead><tr><th style="text-align:left;">Página</th><th>Performance</th><th></tr></thead><tbody>'+tableContent+'</tbody></table>');
+		$('.results').html('<table><thead><tr><th>Página</th><th>Performance</th><th></tr></thead><tbody>'+tableContent+'</tbody></table>');
 	}
 
 </script>
@@ -124,7 +124,7 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5NjIzMDcxLDIxMzg3OTYwMzgsNzkwMz
-cyNTI0LC0xMTQ4ODA0NTA5LC0xNDg4MDk4NjY0LDEzNTkwMjY5
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTE4OTA1NTg3NjcsMjEzODc5NjAzOCw3OT
+AzNzI1MjQsLTExNDg4MDQ1MDksLTE0ODgwOTg2NjQsMTM1OTAy
+NjkyMl19
 -->
