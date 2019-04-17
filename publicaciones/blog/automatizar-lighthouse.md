@@ -63,7 +63,7 @@ He creado otro fichero .bat que se lanza 30 minutos después -así me aseguro de
 
 > Existen múltiples formas para subir los informes generados a internet; yo los cargo vía [FTP](https://www.discoduroderoer.es/comando-ftp-en-windows/). 
 
-Una vez accesibles, importo los ficheros JSON en Google Sheets haciendo uso de la librería  [ImportJSON](https://emirodgar.com/[https://github.com/bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON)).
+Una vez accesibles, importo los ficheros JSON en Google Sheets haciendo uso de la librería  [ImportJSON](https://github.com/bradjasper/ImportJSON).
 
 ![](https://i.imgur.com/IrL1alS.png)
 
@@ -122,7 +122,7 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NjEyMzA0LDYxMTQ3MDczOSwtMTA0Nz
+eyJoaXN0b3J5IjpbNjI3MTc3MDEwLDYxMTQ3MDczOSwtMTA0Nz
 A0NjM5NSwtMTE2OTg1NTU4NywxMTUwNTY5MTEyLDE0ODY3NDM2
 NTksMjEzODc5NjAzOCw3OTAzNzI1MjQsLTExNDg4MDQ1MDksLT
 E0ODgwOTg2NjQsMTM1OTAyNjkyMl19
