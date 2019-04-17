@@ -53,11 +53,11 @@ Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emiro
 
 > La salida por defecto de los informes es  **JSON**  pero se puede modificar
 
-Por último, creo una tarea en Windows para que se ejecute este fichero .bat 
+Por último, creo una [tarea en Windows](https://answers.microsoft.com/es-es/windows/forum/all/aprende-a-usar-el-programador-de-tareas-de-windows/015b8362-95be-4460-ac51-a0917e4a2d4b) para que se ejecute este fichero .bat todos los días a la misma hora. De esta forma todas las URLs serán analizadas cada día.
 
 ## 3- <a name="carga"></a>Cargamos los datos para su análisis
 
-Los informes han sido generados en nuestro ordenador por lo que el siguiente paso será subirlos a internet de tal modo que sean accesibles por otras aplicaciones para su análisis.
+Si todo ha ido bien, los informes han sido generados en nuestro ordenador por lo que el siguiente paso será subirlos a internet de tal modo que sean accesibles por otras aplicaciones para su análisis.
 
 He creado otro fichero .bat que se lanza 30 minutos después -para asegurarme de que han terminado todos los informes- y que sube los resultados a la página web emirodgar.com.
 
@@ -125,6 +125,6 @@ $.getJSON(url, function(data) {
 
 El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí y con los conocimientos obtenidos podemos modificar y adaptar este proyecto a nuestras necesidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Mzg3MTA5OSwtMTE0ODgwNDUwOSwtMT
-Q4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
+eyJoaXN0b3J5IjpbNDQ3MTkyNjIwLC0xMTQ4ODA0NTA5LC0xND
+g4MDk4NjY0LDEzNTkwMjY5MjJdfQ==
 -->
