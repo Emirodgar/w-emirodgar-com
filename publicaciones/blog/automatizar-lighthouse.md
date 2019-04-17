@@ -75,11 +75,34 @@ Con esto ya tendríamos diariamente el análisis del rendimiento web de todas y 
 
 Si quisiéramos mostrar los resultados en nuestra página web podríamos hacerlo importando directamente los ficheros JSON o desde la hoja de cálculo que hemos creado. 
 
-Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento)  para poder visualizar en cada momento el estado de mi sitio web.
+> Yo he creado la  [página de rendimiento](https://emirodgar.com/rendimiento/)  para poder visualizar en cada momento el estado de mi sitio web.
 
-Lo que he hecho ha sido acceder a la hoja excel de Google donde realizo los análisis y extraer la información que me interesa para mostrarla en dicha página.
+Una vez que tengamos accesible los resultados en formato JSON utilizaremos [getJSON de jQuery](https://api.jquery.com/jquery.getjson/) para recuperarlos y mostrarlos a nuestro gusto.
 
-### 4.1- Publicar hoja de cálculo de Google
+```javascript
+$.getJSON(url, function(data) {
+
+    for (var i = 0, len = data.length; i < len; i++) {
+
+        score = data[i].score.replace("0.", "");
+        scoreContent += "URL:" + data[i].url + " / Resultado:" + score;
+    }
+
+    $('.results').html(scoreContent);
+});
+```
+Necesitaremos crear el elemento HTML donde se cargará la información.
+```html
+
+<div class="results"></div>
+```
+
+El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí, y con los conocimientos obtenidos, podremos modificar y adaptar este proyecto a nuestras necesidades.
+
+
+### 4.1- Conectar directamente con Google Sheets
+
+Si en nuestra hoja de cálculo hemos calculado nuevas métricas, podemos conectarla directamente con nuestra web para que ésta sea el flujo de información en JSON.
 
 Para que esto funcione tendremos que [publicar nuestra hoja](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) y compartirla para todo el mundo. Una vez lista podrá ser accedida de la siguiente forma:
 
@@ -94,42 +117,10 @@ El ID será el que aparezca en nuestra URL y el contenido, en nuestro caso, ser�
 https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 ```
-### 4.2- Mostrar datos en la página web
 
-Una vez que tengamos accesible los resultados de nuestra hoja de cálculo utilizaremos jQuery para recuperarlos y mostrarlos como a nuestro gusto.
-
-```
-$.getJSON(url, function(data) {
-
-    var entry = data.feed.entry;
-    $.each(entry, function(index, item) {
-
-        if ((this.gsx$performance.$t !== 'Score') && (this.gsx$_cn6ca.$t !== 'Summary')) {
-
-            var d = new Date(this.updated.$t);
-            var e = formatDate(d);
-
-            var score = this.gsx$performance.$t.replace("%", "");
-            var color = "green";
-
-            if (score <= 44)
-                color = "red";
-            else if (score < 74)
-                color = "#A0522D";
-
-           $('.results').prepend('<tr><td style="text-align:left;">' + this.gsx$_cn6ca.$t + '</td><td style="color:' + color + '">' + this.gsx$performance.$t + '</td><td>' + this.gsx$_cpzh4.$t + '</td><td>' + this.gsx$_cre1l.$t + '</td><td>' + this.gsx$_chk2m.$t + '</td><td>' + this.gsx$_ciyn3.$t + '</td><td>' + this.gsx$seo.$t + '</td><td>' + e + '</td></tr>');
-        } 
-    });
-});
-....
-</script>
-
-<div class="results"></div>
-```
-
-El código anterior es un ejemplo y sólo muestra una parte de la información que recibimos. A partir de aquí, y con los conocimientos obtenidos, podremos modificar y adaptar este proyecto a nuestras necesidades.
+A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODEwMDgyNCwyMTM4Nzk2MDM4LDc5MD
-M3MjUyNCwtMTE0ODgwNDUwOSwtMTQ4ODA5ODY2NCwxMzU5MDI2
-OTIyXX0=
+eyJoaXN0b3J5IjpbMTE1MDU2OTExMiwxNDg2NzQzNjU5LDIxMz
+g3OTYwMzgsNzkwMzcyNTI0LC0xMTQ4ODA0NTA5LC0xNDg4MDk4
+NjY0LDEzNTkwMjY5MjJdfQ==
 -->
