@@ -59,13 +59,13 @@ Si en algún momento tienes dudas acerca del idioma de algún campo puedes hacer
 
 ## <a name="importar-datos"></a> 4- Importar datos de otras hojas de cálculo
 
-Todos sabemos que podamos integrar información de una pestaña a otra pero Google también nos permite interactuar con información de otras hojas de cálculo a través de la función [ImportRange](https://support.google.com/docs/answer/3093340?hl=es).
+Es de sobra conocido que podemos integrar información de una pestaña a otra pero Google también nos permite interactuar con información de otras hojas de cálculo a través de la función [ImportRange](https://support.google.com/docs/answer/3093340?hl=es).
 
 ```
 =IMPORTRANGE("https://docs.google.com/spreadsheets/d/19F`dfgV14";  "Pestaña!A1:A15")
 ```
 
-Para que esto funcione hay que conectar las hojas una única vez. Cuando utilicemos la función nos solicitará dicho permiso para conectarlas. A partir de ahí podremos importar tanta información como queramos sin ningún impedimento.
+Para que esto funcione hay que conectar las hojas una única vez. Cuando utilicemos la función nos solicitará dicho permiso para conectarlas; a partir de ahí podremos importar tanta información como queramos sin ningún impedimento.
 
 ## <a name="importar-datos-web"></a>5- Importar datos de otras páginas web
 
@@ -132,7 +132,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjU1NTE1LC0xMTUyNjUxMjE2LC04ND
-YxMTY3MjksLTE4Nzg4NTg1MDgsMTQ3NjAzMTc5LC0xODU4MjEy
-ODg0LDc2NTU3MjAzNywtMzE2OTgyMzAzXX0=
+eyJoaXN0b3J5IjpbLTE2NjkxNDg5NDMsLTExNTI2NTEyMTYsLT
+g0NjExNjcyOSwtMTg3ODg1ODUwOCwxNDc2MDMxNzksLTE4NTgy
+MTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
 -->
