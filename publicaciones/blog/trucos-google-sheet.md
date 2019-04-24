@@ -16,13 +16,18 @@ Desde que descubrí **Google Apps** soy un fan incondicional de todos sus servic
 
 Os explico una serie de trucos para exprimir al máximo y sacar un mayor provecho a las hojas de cálculo de Google.
 
+### Índice de contenidos
+
  1. [Crea una hoja desde el navegador](#crear-hoja)
  2. [Usa combinaciones de teclas](#combinacion-teclas)
  3. [Traduce a otros idiomas](#traducir-idiomas)
  4. [Importa datos de otras hojas de cálculo](#importar-datos)
  5. [Importa datos desde la web](#importar-datos-web)
  6. [Extiende una fórmula a todo un rango](#extender-formula)
- 7. 
+ 7. [Normaliza y valida el contenido](#normalizar-validar)
+ 8. [Haz uso de gráficas de control (sparkline)](#grafica-sparkline)
+ 9. [Automatiza tareas](#automatizar-tareas)
+ 10. [Exporta los datos a PDF o JSON](#exportar-datos) 
 
 ## <a name="crear-hoja"></a> 1- Crea una hoja desde el navegador
 
@@ -127,7 +132,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTU1MjU0MCwtMTE1MjY1MTIxNiwtOD
-Q2MTE2NzI5LC0xODc4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIx
-Mjg4NCw3NjU1NzIwMzcsLTMxNjk4MjMwM119
+eyJoaXN0b3J5IjpbLTE5NTQzNzc2MjAsLTExNTI2NTEyMTYsLT
+g0NjExNjcyOSwtMTg3ODg1ODUwOCwxNDc2MDMxNzksLTE4NTgy
+MTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
 -->
