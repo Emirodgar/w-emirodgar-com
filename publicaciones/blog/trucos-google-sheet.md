@@ -54,7 +54,9 @@ Si en algún momento tienes dudas acerca del idioma de algún campo, puedes hace
 
 Todos sabemos que podamos integrar información de una pestaña a otra pero Google también nos permite interactuar con información de otras hojas de cálculo a través de la función [ImportRange](https://support.google.com/docs/answer/3093340?hl=es).
 
-```=IMPORTRANGE("https://docs.google.com/spreadsheets/d/19F`dfgV14";  "Pestaña!A1:A15")```
+```
+=IMPORTRANGE("https://docs.google.com/spreadsheets/d/19F`dfgV14";  "Pestaña!A1:A15")
+```
 
 Para que esto funcione hay que conectar las hojas una única vez. Cuando utilicemos la función nos solicitará dicho permiso para conectarlas. A partir de ahí podremos importar tanta información como queramos sin ningún impedimento.
 
@@ -62,17 +64,21 @@ Para que esto funcione hay que conectar las hojas una única vez. Cuando utilice
 
 ¿Te imaginas poder importar listas de información de otras páginas? es tan sencillo como hacer uso de la función [ImportHTML](https://support.google.com/docs/answer/3093339?hl=es) de la siguiente manera:
 
-```=IMPORTHTML("https://es.wikipedia.org/wiki/Anexo:Capitales_de_provincia_de_Espa%C3%B1a_por_poblaci%C3%B3n";"table";1)```
+```
+=IMPORTHTML("https://es.wikipedia.org/wiki/Anexo:Capitales_de_provincia_de_Espa%C3%B1a_por_poblaci%C3%B3n";"table";1)
+```
 
 También podríamos importar información desde un [fichero XML](https://support.google.com/docs/answer/3093342) o un [feed RSS](https://support.google.com/docs/answer/3093337).
 
-## 6- Extiende una fórmula a todo un rango
+## <a name="formula-rango"></a>6- Extiende una fórmula a todo un rango
 
 La mayoría de gente suele arrastrar una fórmula por todo el rango donde quiere que funcione. Si hacemos un cambio en la misma tendremos que volver a arrastrar la fórmula una y otra vez. Una opción más eficiente sería utilizar [ArrayFormula](https://support.google.com/docs/answer/3093275?hl=es) para definir -en una única celda- el comportamiento que queramos en dicho rango
 
-```=ArrayFormula(TRIM(C1:C50))```
+```
+=ArrayFormula(TRIM(C1:C50))
+```
 
-## 7- Normaliza y valida el contenido
+## <a name="normalizar-validar"></a> 7- Normaliza y valida el contenido
 
 Para mí hay cuatro funciones básicas que nos ayudarán a que el texto de nuestras hojas de cálculo esté normalizado:
 
@@ -117,7 +123,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE5Mjg2NzQsLTExNTI2NTEyMTYsLT
-g0NjExNjcyOSwtMTg3ODg1ODUwOCwxNDc2MDMxNzksLTE4NTgy
-MTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
+eyJoaXN0b3J5IjpbMjA5MDYzOTI2NSwtMTE1MjY1MTIxNiwtOD
+Q2MTE2NzI5LC0xODc4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIx
+Mjg4NCw3NjU1NzIwMzcsLTMxNjk4MjMwM119
 -->
