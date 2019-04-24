@@ -21,6 +21,8 @@ Os explico una serie de trucos para exprimir al máximo y sacar un mayor provech
  3. [Traduce a otros idiomas](#traducir-idiomas)
  4. [Importa datos de otras hojas de cálculo](#importar-datos)
  5. [Importa datos desde la web](#importar-datos-web)
+ 6. [Extiende una fórmula a todo un rango](#extender-formula)
+ 7. 
 
 ## <a name="crear-hoja"></a> 1- Crea una hoja desde el navegador
 
@@ -50,7 +52,7 @@ Si trabajas en varios idiomas bastará con que utilices la función [GoogleTrans
 
 Si en algún momento tienes dudas acerca del idioma de algún campo, puedes hacer uso de la función [DetecLanguage](https://support.google.com/docs/answer/3093278?hl=en) para salir de dudas.
 
-## <a name="importar-datos"></a> 4- Importa datos de otras hojas de cálculo
+## <a name="importar-datos"></a> 4- Importar datos de otras hojas de cálculo
 
 Todos sabemos que podamos integrar información de una pestaña a otra pero Google también nos permite interactuar con información de otras hojas de cálculo a través de la función [ImportRange](https://support.google.com/docs/answer/3093340?hl=es).
 
@@ -60,7 +62,7 @@ Todos sabemos que podamos integrar información de una pestaña a otra pero Goog
 
 Para que esto funcione hay que conectar las hojas una única vez. Cuando utilicemos la función nos solicitará dicho permiso para conectarlas. A partir de ahí podremos importar tanta información como queramos sin ningún impedimento.
 
-## <a name="importar-datos-web"></a>5- Importa datos de otras páginas web
+## <a name="importar-datos-web"></a>5- Importar datos de otras páginas web
 
 ¿Te imaginas poder importar listas de información de otras páginas? es tan sencillo como hacer uso de la función [ImportHTML](https://support.google.com/docs/answer/3093339?hl=es) de la siguiente manera:
 
@@ -115,7 +117,9 @@ Tus hojas de datos pueden ser [accedidas desde fuera](https://support.google.com
 
 Para ello bastará con acceder al siguiente enlace para exportar a PDF:
 
-```https://docs.google.com/spreadsheets/d/[ID]/export?format=pdf```
+```
+https://docs.google.com/spreadsheets/d/[ID]/export?format=pdf
+```
 
 Y al siguiente para hacer en formato JSON:
 
@@ -123,7 +127,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTc0MDIzMiwtMTE1MjY1MTIxNiwtOD
+eyJoaXN0b3J5IjpbMTc0NTU1MjU0MCwtMTE1MjY1MTIxNiwtOD
 Q2MTE2NzI5LC0xODc4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIx
 Mjg4NCw3NjU1NzIwMzcsLTMxNjk4MjMwM119
 -->
