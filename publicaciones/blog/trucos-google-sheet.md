@@ -10,9 +10,14 @@ permalink: trucos-hojas-calculo-google
 
 ---
 
-# Trucos para Google Sheet
+# Trucos para las hojas de cálculo de Google
 
-Desde que descubrí Google Apps soy un fan incondicional de todos sus servicios, en especial de Google Sheets. 
+Desde que descubrí **Google Apps** soy un fan incondicional de todos sus servicios, en especial de Google Sheets. 
+
+Versátiles, accesibles. Os explico una serie de trucos para sacar un mayor provecho a las hojas de cálculo de Google.
+
+## Accesos 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzI1MDAwXX0=
+eyJoaXN0b3J5IjpbNjQyNjg4MDU2XX0=
 -->
