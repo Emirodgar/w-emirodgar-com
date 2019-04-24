@@ -16,16 +16,16 @@ Desde que descubrí **Google Apps** soy un fan incondicional de todos sus servic
 
 Os explico una serie de trucos para exprimir al máximo y sacar un mayor provecho a las hojas de cálculo de Google.
 
- 1. Crea una hoja desde el navegador
- 2. Usa combinaciones de teclas
- 3. Traduce a otros idiomas
+ 1. [Crea una hoja desde el navegador](#crear-hoja)
+ 2. [Usa combinaciones de teclas](#combinacion-teclas)
+ 3. [Traduce a otros idiomas](#traducir-idiomas)
  4. 
 
-## 1- Crea una hoja desde el navegador
+## <a name="crear-hoja"></a> 1- Crea una hoja desde el navegador
 
 Si estás haciendo uso de Google Chrome y estás logado en tu cuenta de Google, batará con que teclées en la barra de direcciones ```sheets.new``` para crear y abrir una nueva hoja de cálculo. Rápido y efectivo.
 
-## 2- Usa combinaciones de teclas
+## <a name="combinacion-teclas"></a> 2- Usa combinaciones de teclas
 
 Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de teclas te ayudará a avanzar mucho más rápido. El [listado de combinaciones de teclas para Google Sheets](https://support.google.com/docs/answer/181110?p=spreadsheets_shortcuts&visit_id=636916984300300429-799695081&rd=1) es bastante amplio así que os dejo las que considero más relevantes:
 
@@ -39,7 +39,7 @@ Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de
 
 A través de las [macros de Google Sheets](https://developers.google.com/apps-script/guides/sheets/macros) podríamos generar nuestras propias combinaciones de teclas. 
 
-## 3- Traduce a otros idiomas
+## <a name="traducir-idiomas"></a> 3- Traduce a otros idiomas
 
 Si trabajas en varios idiomas bastará con que utilices la función [GoogleTranslate](https://support.google.com/docs/answer/3093331?hl=es) para traducir de forma rápida a múltiples idiomas. Especificamos el contenido a traducir, el idioma de origen y el idioma que queremos obtener de la siguiente forma:
 
@@ -114,7 +114,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODMyMDE2NywtODQ2MTE2NzI5LC0xOD
-c4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIxMjg4NCw3NjU1NzIw
-MzcsLTMxNjk4MjMwM119
+eyJoaXN0b3J5IjpbLTExNTI2NTEyMTYsLTg0NjExNjcyOSwtMT
+g3ODg1ODUwOCwxNDc2MDMxNzksLTE4NTgyMTI4ODQsNzY1NTcy
+MDM3LC0zMTY5ODIzMDNdfQ==
 -->
