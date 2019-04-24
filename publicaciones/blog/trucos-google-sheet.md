@@ -29,6 +29,7 @@ El [listado de combinaciones de teclas para Google Sheets](https://support.googl
  6. Insertar una nota (may + f2)
  7. Insertar un comentario (ctrl + alt + m)
 
+A través de las macros de Google Sheets podríamos generar nuestras propias combinaciones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjk4MjMwM119
+eyJoaXN0b3J5IjpbLTE0NzM0MDAxMzQsLTMxNjk4MjMwM119
 -->
