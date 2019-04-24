@@ -89,11 +89,11 @@ Una forma simple y fácil de integrar la parte visual sin perder control analít
 
 A través de [macros](https://support.google.com/docs/answer/7665004?hl=es) podemos crear tareas automatizadas dentro de nuestras hojas sin necesidad de hacerlo nosotros de forma manual. 
 
-> Una macro se compone de una serie de instrucciones
+> Podemos entender una macro como un conjunto instrucciones
 
-Por ejemplo podemos programar una macro para que todos los días a las 10 importe las últimas noticias del feed de nuestra página favorita. Cuando nos vayamos de vacaciones, seguirá funcionando y a nuestra regreso la hoja de cálculo estará actualizada con todas las noticias publicadas hasta ese momento.
+Por ejemplo, podemos programar una macro para que todos los días a las 10 importe las últimas noticias del feed de nuestra página favorita. Cuando nos vayamos de vacaciones, seguirá funcionando y a nuestra regreso la hoja de cálculo estará actualizada con todas las noticias publicadas hasta ese momento.
 
-## 10- Exporta tus datos a PDF o JSON
+## 10- Exporta los datos a PDF o JSON
 
 Tus hojas de datos pueden ser [accedidas desde fuera](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) o bien podemos exportar su contenido en dos formatos: PDF o JSON.
 
@@ -109,7 +109,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDkyMjg5OSwtODQ2MTE2NzI5LC0xOD
+eyJoaXN0b3J5IjpbMTIxMjUzMjY0OSwtODQ2MTE2NzI5LC0xOD
 c4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIxMjg4NCw3NjU1NzIw
 MzcsLTMxNjk4MjMwM119
 -->
