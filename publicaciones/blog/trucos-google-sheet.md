@@ -74,9 +74,10 @@ Para mí hay cuatro funciones básicas que nos ayudarán a que el texto de nuest
 Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las funciones por defecto. Las que más utilizo son:
 
  -  ```ISEMAIL```: para determinar si un campo es un email válido o no.
- - ```ISURL```: para determinar si un campo es un email válido o no.
+ - ```ISURL```: para determinar si un campo es una dirección web válida.
+ -  ```ESTEXTO```: para determinar si un campo contiene sólo texto.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA1Mjc4OTAsNzY1NTcyMDM3LC0zMT
+eyJoaXN0b3J5IjpbLTE4NTgyMTI4ODQsNzY1NTcyMDM3LC0zMT
 Y5ODIzMDNdfQ==
 -->
