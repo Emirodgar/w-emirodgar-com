@@ -85,8 +85,8 @@ Una forma simple y fácil de integrar la parte visual sin perder control analít
 
 ## 9 - Exporta tus datos a PDF o JSON
 
-Toda tu hoja
+Toda tu hoja de datos puede ser accedida desde fuera o bien podemos exportar su contenido en dos format
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcyNTA1MTgsMTQ3NjAzMTc5LC0xOD
-U4MjEyODg0LDc2NTU3MjAzNywtMzE2OTgyMzAzXX0=
+eyJoaXN0b3J5IjpbMTQ5NDIzMzc4OSwxNDc2MDMxNzksLTE4NT
+gyMTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
 -->
