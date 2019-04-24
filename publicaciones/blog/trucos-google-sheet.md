@@ -110,13 +110,13 @@ Una forma simple y fácil de integrar la parte visual sin perder control analít
 
 A través de [macros](https://support.google.com/docs/answer/7665004?hl=es) podemos crear tareas automatizadas dentro de nuestras hojas sin necesidad de hacerlo nosotros de forma manual. 
 
-> Podemos entender una macro como un conjunto instrucciones
+> Podemos entender una macro como un conjunto instrucciones listas para ser ejecutadas
 
-Por ejemplo, podemos programar una macro para que todos los días a las 10 importe las últimas noticias del feed de nuestra página favorita. Cuando nos vayamos de vacaciones, seguirá funcionando y a nuestra regreso la hoja de cálculo estará actualizada con todas las noticias publicadas hasta ese momento.
+Por ejemplo, podemos programar una macro para que todos los días a las 10 importe las últimas noticias del feed de nuestra página favorita. Cuando nos vayamos de vacaciones, seguirá funcionando y a nuestra regreso, la hoja de cálculo estará actualizada con todas las noticias publicadas hasta ese momento.
 
 ## <a name="exportar-datos"></a>10- Exporta los datos a PDF o JSON
 
-Tus hojas de datos pueden ser [accedidas desde fuera](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) o bien podemos exportar su contenido en dos formatos: PDF o JSON.
+Tus hojas de datos pueden ser [accedidas desde fuera](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) pero tambien podemos exportar su contenido en dos formatos: PDF o JSON.
 
 > En el artículo de [automatizar los análisis de Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse) expliqué en detalle [cómo hacer pública una hoja para exportar sus datos](https://emirodgar.com/automatizar-analisis-lighthouse#exportar)
 
@@ -132,7 +132,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjkxNDg5NDMsLTExNTI2NTEyMTYsLT
-g0NjExNjcyOSwtMTg3ODg1ODUwOCwxNDc2MDMxNzksLTE4NTgy
-MTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
+eyJoaXN0b3J5IjpbLTQzOTg3OTY0MywtMTE1MjY1MTIxNiwtOD
+Q2MTE2NzI5LC0xODc4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIx
+Mjg4NCw3NjU1NzIwMzcsLTMxNjk4MjMwM119
 -->
