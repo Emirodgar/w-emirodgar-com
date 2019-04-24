@@ -31,7 +31,7 @@ Os explico una serie de trucos para exprimir al máximo y sacar un mayor provech
 
 ## <a name="crear-hoja"></a> 1- Crea una hoja desde el navegador
 
-Si estás haciendo uso de Google Chrome y estás logado en tu cuenta de Google, batará con que teclées en la barra de direcciones ```sheets.new``` para crear y abrir una nueva hoja de cálculo. Rápido y efectivo.
+Si estás haciendo uso de Google Chrome (con tu sesión de Google iniciada) batará con que teclées en la barra de direcciones ```sheets.new``` para crear y abrir una nueva hoja de cálculo. Rápido y efectivo.
 
 ## <a name="combinacion-teclas"></a> 2- Usa combinaciones de teclas
 
@@ -45,7 +45,7 @@ Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de
  6. Insertar una nota (may + f2)
  7. Insertar un comentario (ctrl + alt + m)
 
-A través de las [macros de Google Sheets](https://developers.google.com/apps-script/guides/sheets/macros) podríamos generar nuestras propias combinaciones de teclas. 
+Dependiendo de tu forma de trabajar tendrá sentido usar unas u otras.
 
 ## <a name="traducir-idiomas"></a> 3- Traduce a otros idiomas
 
@@ -132,7 +132,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQzNzc2MjAsLTExNTI2NTEyMTYsLT
-g0NjExNjcyOSwtMTg3ODg1ODUwOCwxNDc2MDMxNzksLTE4NTgy
-MTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
+eyJoaXN0b3J5IjpbLTcwMjk3Njg5OSwtMTE1MjY1MTIxNiwtOD
+Q2MTE2NzI5LC0xODc4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIx
+Mjg4NCw3NjU1NzIwMzcsLTMxNjk4MjMwM119
 -->
