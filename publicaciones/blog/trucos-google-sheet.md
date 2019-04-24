@@ -16,8 +16,11 @@ Desde que descubrí **Google Apps** soy un fan incondicional de todos sus servic
 
 Versátiles, accesibles. Os explico una serie de trucos para sacar un mayor provecho a las hojas de cálculo de Google.
 
-## Accesos 
+## Combinaciones de teclas
+
+Si trabajas frecuentemente en hojas de cálculo, el conocer las
+> [Listado de combinaciones de teclas para Google Sheets](https://support.google.com/docs/answer/181110?p=spreadsheets_shortcuts&visit_id=636916984300300429-799695081&rd=1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNjg4MDU2XX0=
+eyJoaXN0b3J5IjpbLTEyMzAxNTgzOV19
 -->
