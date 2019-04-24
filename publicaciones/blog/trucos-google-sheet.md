@@ -39,6 +39,12 @@ A través de las [macros de Google Sheets](https://developers.google.com/apps-sc
 Si trabajas en varios idiomas bastará con que utilices la función [GoogleTranslate](https://support.google.com/docs/answer/3093331?hl=es) para traducir de forma rápida a múltiples idiomas. Especificamos el contenido a traducir, el idioma de origen y el idioma que queremos obtener de la siguiente forma:
 
 ```=GOOGLETRANSLATE("hola";"es";"en")```
+
+## 4- Importa datos de otras hojas de cálculo
+
+Todos sabemos que podamos integrar información de una pestaña a otra pero Google también nos permite interactuar con información de otras hojas de cálculo a través de la función ImportRange.
+
+```=IMPORTRANGE("https://docs.google.com/spreadsheets/d/19F`dfgV14";  "Pestaña!A1:A15")```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzI4MTMxMCwtMzE2OTgyMzAzXX0=
+eyJoaXN0b3J5IjpbNjkyODg5MTI3LC0zMTY5ODIzMDNdfQ==
 -->
