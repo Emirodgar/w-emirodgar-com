@@ -1,7 +1,6 @@
 ---
 title: Factores SEO 2019
 description: Estos son los factores SEO que mayor impacto tendrán durante el año 2019
-date: 25/03/2019
 lang: es_ES
 permalink: factores-seo
 
@@ -71,5 +70,6 @@ A día de hoy la búsqueda tradicional sigue teniendo gran peso pero ya podemos 
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODkwMTM0MSwtODgyNTkwODk1XX0=
+eyJoaXN0b3J5IjpbLTg4MjU5MDg5NSwxMTY4OTAxMzQxLC04OD
+I1OTA4OTVdfQ==
 -->
