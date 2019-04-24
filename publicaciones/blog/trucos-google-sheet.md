@@ -40,6 +40,8 @@ Si trabajas en varios idiomas bastará con que utilices la función [GoogleTrans
 
 ```=GOOGLETRANSLATE("hola";"es";"en")```
 
+Si en algún momento tienes dudas acerca del idioma de algún campo, puedes hacer uso de la función [DetecLanguage](https://support.google.com/docs/answer/3093278?hl=en) para salir de dudas.
+
 ## 4- Importa datos de otras hojas de cálculo
 
 Todos sabemos que podamos integrar información de una pestaña a otra pero Google también nos permite interactuar con información de otras hojas de cálculo a través de la función [ImportRange](https://support.google.com/docs/answer/3093340?hl=es).
@@ -83,7 +85,7 @@ El apoyo visual siempre es importante aunque generar gráficos sin un objetivo c
 
 Una forma simple y fácil de integrar la parte visual sin perder control analítico.
 
-## 9 - Exporta tus datos a PDF o JSON
+## 10- Exporta tus datos a PDF o JSON
 
 Tus hojas de datos pueden ser [accedidas desde fuera](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) o bien podemos exportar su contenido en dos formatos: PDF o JSON.
 
@@ -99,6 +101,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg4NTg1MDgsMTQ3NjAzMTc5LC0xOD
-U4MjEyODg0LDc2NTU3MjAzNywtMzE2OTgyMzAzXX0=
+eyJoaXN0b3J5IjpbLTg0NjExNjcyOSwtMTg3ODg1ODUwOCwxND
+c2MDMxNzksLTE4NTgyMTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIz
+MDNdfQ==
 -->
