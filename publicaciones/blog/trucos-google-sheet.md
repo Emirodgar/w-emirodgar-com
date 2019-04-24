@@ -89,8 +89,10 @@ Tus hojas de datos pueden ser [accedidas desde fuera](https://support.google.com
 
 > En el artículo de [automatizar los análisis de Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse) expliqué en detalle [cómo hacer pública una hoja para exportar sus datos](https://emirodgar.com/automatizar-analisis-lighthouse#exportar)
 
-Para ello bastará con acceder al siguiente 
+Para ello bastará con acceder al siguiente enlace:
+
+```https://docs.google.com/spreadsheets/d/[ID]/export?format=pdf```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTI3MTM0NSwxNDc2MDMxNzksLTE4NT
-gyMTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTg4NjkwMzgsMTQ3NjAzMTc5LC0xOD
+U4MjEyODg0LDc2NTU3MjAzNywtMzE2OTgyMzAzXX0=
 -->
