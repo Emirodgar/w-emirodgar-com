@@ -34,7 +34,7 @@ Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de
 
 A través de las [macros de Google Sheets](https://developers.google.com/apps-script/guides/sheets/macros) podríamos generar nuestras propias combinaciones de teclas. 
 
-## 3- Traduce directamente en la hoja de cálculo
+## 3- Traduce a otros idiomas
 
 Si trabajas en varios idiomas bastará con que utilices la función [GoogleTranslate](https://support.google.com/docs/answer/3093331?hl=es) para traducir de forma rápida a múltiples idiomas. Especificamos el contenido a traducir, el idioma de origen y el idioma que queremos obtener de la siguiente forma:
 
@@ -55,7 +55,9 @@ Para que esto funcione hay que conectar las hojas una única vez. Cuando utilice
 ```=IMPORTHTML("https://es.wikipedia.org/wiki/Anexo:Capitales_de_provincia_de_Espa%C3%B1a_por_poblaci%C3%B3n";"table";1)```
 
 También podríamos importar información desde un [fichero XML](https://support.google.com/docs/answer/3093342) o un [feed RSS](https://support.google.com/docs/answer/3093337).
+
+## 6- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODEwMjU2LDc2NTU3MjAzNywtMzE2OT
-gyMzAzXX0=
+eyJoaXN0b3J5IjpbMjA3MzEwOTI3NCw3NjU1NzIwMzcsLTMxNj
+k4MjMwM119
 -->
