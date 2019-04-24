@@ -1,5 +1,5 @@
 ---
-title: 10 trucos para las hojas de cálculo de Google (Google Sheet)
+title: 10 trucos para mejorar las hojas de cálculo de Google (Google Sheet)
 description: Saca más provecho a tus hojas de cálculo de Google con estos trucos
 lang: es_ES
 author: Emirodgar
@@ -109,7 +109,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjUzMjY0OSwtODQ2MTE2NzI5LC0xOD
+eyJoaXN0b3J5IjpbMTM3NDk3MTYxOSwtODQ2MTE2NzI5LC0xOD
 c4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIxMjg4NCw3NjU1NzIw
 MzcsLTMxNjk4MjMwM119
 -->
