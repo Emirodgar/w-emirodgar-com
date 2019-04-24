@@ -71,9 +71,12 @@ Para mí hay cuatro funciones básicas que nos ayudarán a que el texto de nuest
  3. ```Proper```: mayúscula la primera letra de cada palabra
  4. ```Trim```: eliminar espacios en blanco al principio y al final de una cadena
 
-Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las funciones por defecto. La que más utilizo es ```ISEMAIL(A2:A50)```
+Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las funciones por defecto. Las que más utilizo son:
+
+ -  ```ISEMAIL```: para determinar si un campo es un email válido o no.
+ - ```ISURL```: para determinar si un campo es un email válido o no.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTkyMjI4Niw3NjU1NzIwMzcsLTMxNj
-k4MjMwM119
+eyJoaXN0b3J5IjpbLTE3NzA1Mjc4OTAsNzY1NTcyMDM3LC0zMT
+Y5ODIzMDNdfQ==
 -->
