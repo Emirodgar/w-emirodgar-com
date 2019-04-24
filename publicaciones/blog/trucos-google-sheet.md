@@ -58,12 +58,18 @@ También podríamos importar información desde un [fichero XML](https://support
 
 ## 6- Extiende una fórmula a todo un rango
 
-La mayoría de gente suele arrastrar una fórmula por todo el rango donde quiere que funcione. Si hacemos un cambio en la misma tendremos que volver a arrastrar la fórmula una y otra vez. Otra opción más eficiente sería utilizar [ArrayFormula](https://support.google.com/docs/answer/3093275?hl=es) para definir -en una única celda- el comportamiento del rango que queramos
+La mayoría de gente suele arrastrar una fórmula por todo el rango donde quiere que funcione. Si hacemos un cambio en la misma tendremos que volver a arrastrar la fórmula una y otra vez. Una opción más eficiente sería utilizar [ArrayFormula](https://support.google.com/docs/answer/3093275?hl=es) para definir -en una única celda- el comportamiento que queramos en dicho rango
 
 ```=ArrayFormula(TRIM(C1:C50))```
 
-La función anterior nos 
+## 7- Normaliza el contenido
+
+Para mí hay tres funciones básicas que nos ayudarán a que el texto de nuestras hojas de cálculo estén normalizadas:
+
+ 1. Upper: todo a maýusculas
+ 2. Lower: todoa 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg5MTE4MzQsNzY1NTcyMDM3LC0zMT
-Y5ODIzMDNdfQ==
+eyJoaXN0b3J5IjpbOTg4NTc1NjAwLDc2NTU3MjAzNywtMzE2OT
+gyMzAzXX0=
 -->
