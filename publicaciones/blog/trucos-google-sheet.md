@@ -1,6 +1,6 @@
 ---
 title: 10 trucos para mejorar las hojas de cálculo de Google (Google Sheet)
-description: Saca más provecho a tus hojas de cálculo de Google con estos trucos
+description: Saca más provecho a tus hojas de cálculo de Google con estos 10 trucos
 lang: es_ES
 author: Emirodgar
 tags: SEO, Google, excel
@@ -14,7 +14,12 @@ permalink: trucos-hojas-calculo-google
 
 Desde que descubrí **Google Apps** soy un fan incondicional de todos sus servicios, en especial de Google Sheets. 
 
-Versátiles, accesibles. Os explico una serie de trucos para sacar un mayor provecho a las hojas de cálculo de Google.
+Os explico una serie de trucos para exprimir al máximo y sacar un mayor provecho a las hojas de cálculo de Google.
+
+ 1. Crea una hoja desde el navegador
+ 2. Usa combinaciones de teclas
+ 3. Traduce a otros idiomas
+ 4. 
 
 ## 1- Crea una hoja desde el navegador
 
@@ -109,7 +114,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDk3MTYxOSwtODQ2MTE2NzI5LC0xOD
+eyJoaXN0b3J5IjpbMTU5ODMyMDE2NywtODQ2MTE2NzI5LC0xOD
 c4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIxMjg4NCw3NjU1NzIw
 MzcsLTMxNjk4MjMwM119
 -->
