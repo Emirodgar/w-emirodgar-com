@@ -82,7 +82,11 @@ Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las func
 El apoyo visual siempre es importante aunque generar gráficos sin un objetivo concreto puede que no aporte nada. Google sheets nos permite crear mini gráficos que se representan en una celda gracias a la función [Sparkline](https://support.google.com/docs/answer/3093289).
 
 Una forma simple y fácil de integrar la parte visual sin perder control analítico.
+
+## 9 - Exporta tus datos a PDF o JSON
+
+Toda tu hoja
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTc1MTcyNywxNDc2MDMxNzksLTE4NT
-gyMTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODcyNTA1MTgsMTQ3NjAzMTc5LC0xOD
+U4MjEyODg0LDc2NTU3MjAzNywtMzE2OTgyMzAzXX0=
 -->
