@@ -21,8 +21,10 @@ Versátiles, accesibles. Os explico una serie de trucos para sacar un mayor prov
 Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de teclas te ayudará a avanzar mucho más rápido.
 El [listado de combinaciones de teclas para Google Sheets](https://support.google.com/docs/answer/181110?p=spreadsheets_shortcuts&visit_id=636916984300300429-799695081&rd=1) es bastante amplio así que os dejo las que considero más relevantes.
 
- 1. Insertar fecha ()
+ 1. Insertar enlace (ctrl + k)
+ 2. Quitar formato (ctrl + \)
+ 3. Dar formato de fec
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI5NjM4NTFdfQ==
+eyJoaXN0b3J5IjpbMTk4MjM1Mzc0N119
 -->
