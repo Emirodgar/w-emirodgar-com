@@ -85,10 +85,12 @@ Una forma simple y fácil de integrar la parte visual sin perder control analít
 
 ## 9 - Exporta tus datos a PDF o JSON
 
-Toda tu hoja de datos puede ser accedida desde fuera o bien podemos exportar su contenido en dos formatos: PDF o JSON.
+Tus hojas de datos pueden ser [accedidas desde fuera](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) o bien podemos exportar su contenido en dos formatos: PDF o JSON.
 
-> En el artículo de Automatizar los análisis de Lighthouse]() expliqué en detalle [cómo hacer pública una hoja de datos y exportar sus datos](https://emirodgar.com/automatizar-analisis-lighthouse#exportar)
+> En el artículo de [automatizar los análisis de Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse) expliqué en detalle [cómo hacer pública una hoja para exportar sus datos](https://emirodgar.com/automatizar-analisis-lighthouse#exportar)
+
+Para ello bastará con acceder al siguiente 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjgxODI1MiwxNDc2MDMxNzksLTE4NT
+eyJoaXN0b3J5IjpbMTM1NTI3MTM0NSwxNDc2MDMxNzksLTE4NT
 gyMTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
 -->
