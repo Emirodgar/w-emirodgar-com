@@ -47,6 +47,13 @@ Todos sabemos que podamos integrar información de una pestaña a otra pero Goog
 ```=IMPORTRANGE("https://docs.google.com/spreadsheets/d/19F`dfgV14";  "Pestaña!A1:A15")```
 
 Para que esto funcione hay que conectar las hojas una única vez. Cuando utilicemos la función nos solicitará dicho permiso para conectarlas. A partir de ahí podremos importar tanta información como queramos sin ningún impedimento.
+
+## 5- Importa datos de otras páginas web
+
+¿Te imaginas poder importar listas de información de otras páginas? es tan sencillo como hacer uso de la función [ImportHTML](https://support.google.com/docs/answer/3093339?hl=es) de la siguiente manera;
+
+```=IMPORTHTML("https://es.wikipedia.org/wiki/Anexo:Capitales_de_provincia_de_Espa%C3%B1a_por_poblaci%C3%B3n";"table";1)```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
+eyJoaXN0b3J5IjpbMTk2NDMxODMyNSw3NjU1NzIwMzcsLTMxNj
+k4MjMwM119
 -->
