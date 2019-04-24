@@ -26,7 +26,8 @@ El [listado de combinaciones de teclas para Google Sheets](https://support.googl
  3. Pegar sólo valores (ctrl + may + v)
  4. Dar formato de fecha (ctrl + may + 3)
  5. Dar formato de moneda (ctrl + may + 4)
+ 6. Insertar una nota (may + f2)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTM3MDUxN119
+eyJoaXN0b3J5IjpbLTkzMzUxMTUwMl19
 -->
