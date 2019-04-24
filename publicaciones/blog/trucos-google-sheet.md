@@ -62,18 +62,18 @@ La mayoría de gente suele arrastrar una fórmula por todo el rango donde quiere
 
 ```=ArrayFormula(TRIM(C1:C50))```
 
-## 7- Normaliza el contenido
+## 7- Normaliza y valida el contenido
 
 Para mí hay cuatro funciones básicas que nos ayudarán a que el texto de nuestras hojas de cálculo esté normalizado:
 
- 1. Upper: todo a maýusculas
- 2. Lower: todo a minúsculas
- 3. Proper: mayúscula la primera letra de cada palabra
- 4. Trim: eliminar espacios en blanco al principio y al final de una cadena
+ 1. ```Upper```: todo a maýusculas
+ 2. ```Lower:``` todo a minúsculas
+ 3. ```Proper```: mayúscula la primera letra de cada palabra
+ 4. ```Trim```: eliminar espacios en blanco al principio y al final de una cadena
 
-
+Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las funciones por defecto. La que más utilizo es ```ISEMAIL(A2:A50)```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY4ODM3MTcsNzY1NTcyMDM3LC0zMT
-Y5ODIzMDNdfQ==
+eyJoaXN0b3J5IjpbMTQ1NTkyMjI4Niw3NjU1NzIwMzcsLTMxNj
+k4MjMwM119
 -->
