@@ -42,9 +42,11 @@ Si trabajas en varios idiomas bastará con que utilices la función [GoogleTrans
 
 ## 4- Importa datos de otras hojas de cálculo
 
-Todos sabemos que podamos integrar información de una pestaña a otra pero Google también nos permite interactuar con información de otras hojas de cálculo a través de la función ImportRange.
+Todos sabemos que podamos integrar información de una pestaña a otra pero Google también nos permite interactuar con información de otras hojas de cálculo a través de la función [ImportRange](https://support.google.com/docs/answer/3093340?hl=es).
 
 ```=IMPORTRANGE("https://docs.google.com/spreadsheets/d/19F`dfgV14";  "Pestaña!A1:A15")```
+
+Para que esto funcione hay que conectar las hojas una única vez. Cuando utilicemos la función nos solicitará dicho permiso para conectarlas. A partir de ahí podremos importar tanta información como queramos sin ningún impedimento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyODg5MTI3LC0zMTY5ODIzMDNdfQ==
+eyJoaXN0b3J5IjpbNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
 -->
