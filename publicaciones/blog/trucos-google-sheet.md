@@ -50,10 +50,12 @@ Para que esto funcione hay que conectar las hojas una única vez. Cuando utilice
 
 ## 5- Importa datos de otras páginas web
 
-¿Te imaginas poder importar listas de información de otras páginas? es tan sencillo como hacer uso de la función [ImportHTML](https://support.google.com/docs/answer/3093339?hl=es) de la siguiente manera;
+¿Te imaginas poder importar listas de información de otras páginas? es tan sencillo como hacer uso de la función [ImportHTML](https://support.google.com/docs/answer/3093339?hl=es) de la siguiente manera:
 
 ```=IMPORTHTML("https://es.wikipedia.org/wiki/Anexo:Capitales_de_provincia_de_Espa%C3%B1a_por_poblaci%C3%B3n";"table";1)```
+
+También podríamos importar un [fichero XML](https://support.google.com/docs/answer/3093342) o un [feed RSS](https://support.google.com/docs/answer/3093337).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDMxODMyNSw3NjU1NzIwMzcsLTMxNj
+eyJoaXN0b3J5IjpbLTgzOTk2NDg2OCw3NjU1NzIwMzcsLTMxNj
 k4MjMwM119
 -->
