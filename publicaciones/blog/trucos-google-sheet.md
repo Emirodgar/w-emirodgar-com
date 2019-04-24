@@ -43,7 +43,9 @@ A través de las [macros de Google Sheets](https://developers.google.com/apps-sc
 
 Si trabajas en varios idiomas bastará con que utilices la función [GoogleTranslate](https://support.google.com/docs/answer/3093331?hl=es) para traducir de forma rápida a múltiples idiomas. Especificamos el contenido a traducir, el idioma de origen y el idioma que queremos obtener de la siguiente forma:
 
-```=GOOGLETRANSLATE("hola";"es";"en")```
+```
+=GOOGLETRANSLATE("hola";"es";"en")
+```
 
 Si en algún momento tienes dudas acerca del idioma de algún campo, puedes hacer uso de la función [DetecLanguage](https://support.google.com/docs/answer/3093278?hl=en) para salir de dudas.
 
@@ -114,7 +116,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI2NTEyMTYsLTg0NjExNjcyOSwtMT
-g3ODg1ODUwOCwxNDc2MDMxNzksLTE4NTgyMTI4ODQsNzY1NTcy
-MDM3LC0zMTY5ODIzMDNdfQ==
+eyJoaXN0b3J5IjpbNjU4OTU2OTQwLC0xMTUyNjUxMjE2LC04ND
+YxMTY3MjksLTE4Nzg4NTg1MDgsMTQ3NjAzMTc5LC0xODU4MjEy
+ODg0LDc2NTU3MjAzNywtMzE2OTgyMzAzXX0=
 -->
