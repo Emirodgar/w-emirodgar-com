@@ -2,7 +2,6 @@
 title: Casos de éxito SEO - Posicionamiento web
 description: Después de una década trabajado SEO profesionalmente os cuento mis aprendizajes
 lang: es_ES
-date: 25/03/2019
 permalink: casos-exito-seo
 
 ---
@@ -97,6 +96,6 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánica que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ2Njk0ODUsLTEzODQ3NTE3MzddfQ
-==
+eyJoaXN0b3J5IjpbLTEzODQ3NTE3MzcsLTE4MjQ2Njk0ODUsLT
+EzODQ3NTE3MzddfQ==
 -->
