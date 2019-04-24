@@ -85,8 +85,10 @@ Una forma simple y fácil de integrar la parte visual sin perder control analít
 
 ## 9 - Exporta tus datos a PDF o JSON
 
-Toda tu hoja de datos puede ser accedida desde fuera o bien podemos exportar su contenido en dos format
+Toda tu hoja de datos puede ser accedida desde fuera o bien podemos exportar su contenido en dos formatos: PDF o JSON.
+
+> En el artículo de Automatizar los análisis de Lighthouse]() expliqué en detalle [cómo hacer pública una hoja de datos y exportar sus datos](https://emirodgar.com/automatizar-analisis-lighthouse#exportar)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDIzMzc4OSwxNDc2MDMxNzksLTE4NT
+eyJoaXN0b3J5IjpbMTM0NjgxODI1MiwxNDc2MDMxNzksLTE4NT
 gyMTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
 -->
