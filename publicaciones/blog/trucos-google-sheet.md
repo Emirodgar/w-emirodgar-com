@@ -58,10 +58,12 @@ También podríamos importar información desde un [fichero XML](https://support
 
 ## 6- Extiende una fórmula a todo un rango
 
-La mayoría de gente suele arrastrar una fórmula por todo el rango donde quiere que funcione. Por ejemplo, si queremos limpiar en la fila C los valores de la fila B, utilizaremos la función TRIM y haremos que cada celda de la fila C limpie cada una de la B. Otra opción más eficiente sería utilizar [ArrayFormula](https://support.google.com/docs/answer/3093275?hl=es) para definir -en una única celda- el comportamiento d
+La mayoría de gente suele arrastrar una fórmula por todo el rango donde quiere que funcione. Si hacemos un cambio en la misma tendremos que volver a arrastrar la fórmula una y otra vez. Otra opción más eficiente sería utilizar [ArrayFormula](https://support.google.com/docs/answer/3093275?hl=es) para definir -en una única celda- el comportamiento del rango que queramos
 
 ```=ArrayFormula(TRIM(C1:C50))```
+
+La función anterior nos 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2Mjg2ODQxLDc2NTU3MjAzNywtMzE2OT
-gyMzAzXX0=
+eyJoaXN0b3J5IjpbLTE0Nzg5MTE4MzQsNzY1NTcyMDM3LC0zMT
+Y5ODIzMDNdfQ==
 -->
