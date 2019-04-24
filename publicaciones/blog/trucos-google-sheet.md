@@ -87,7 +87,11 @@ Una forma simple y fácil de integrar la parte visual sin perder control analít
 
 ## 9- Automatiza tareas
 
-A través de [macros](https://support.google.com/docs/answer/7665004?hl=es) podemos crear tareas automatizadas. Por
+A través de [macros](https://support.google.com/docs/answer/7665004?hl=es) podemos crear tareas automatizadas para importar información dentro de nuestras hojas sin necesidad de hacerlo nosotros de forma manual. 
+
+> Una macro se compone de una serie de instrucciones
+
+Por ejemplo, todos los lunes a las 10 podemos programar una macro que importe las últimos n
 
 ## 10- Exporta tus datos a PDF o JSON
 
@@ -105,7 +109,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODkzNDcxNywtODQ2MTE2NzI5LC0xOD
-c4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIxMjg4NCw3NjU1NzIw
-MzcsLTMxNjk4MjMwM119
+eyJoaXN0b3J5IjpbNzcyMjg3MjgwLC04NDYxMTY3MjksLTE4Nz
+g4NTg1MDgsMTQ3NjAzMTc5LC0xODU4MjEyODg0LDc2NTU3MjAz
+NywtMzE2OTgyMzAzXX0=
 -->
