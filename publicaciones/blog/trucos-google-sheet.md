@@ -27,7 +27,8 @@ El [listado de combinaciones de teclas para Google Sheets](https://support.googl
  4. Dar formato de fecha (ctrl + may + 3)
  5. Dar formato de moneda (ctrl + may + 4)
  6. Insertar una nota (may + f2)
+ 7. Insertar un comentario (ctrl + alt + m)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzUxMTUwMl19
+eyJoaXN0b3J5IjpbLTMxNjk4MjMwM119
 -->
