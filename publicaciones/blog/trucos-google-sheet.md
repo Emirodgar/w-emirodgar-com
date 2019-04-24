@@ -23,7 +23,7 @@ Os explico una serie de trucos para exprimir al máximo y sacar un mayor provech
  3. [Traduce a otros idiomas](#traducir-idiomas)
  4. [Importa datos de otras hojas de cálculo](#importar-datos)
  5. [Importa datos desde la web](#importar-datos-web)
- 6. [Extiende una fórmula a todo un rango](#extender-formula)
+ 6. [Extiende una fórmula a todo un rango](#formula-rango)
  7. [Normaliza y valida el contenido](#normalizar-validar)
  8. [Haz uso de gráficas de control (sparkline)](#grafica-sparkline)
  9. [Automatiza tareas](#automatizar-tareas)
@@ -126,13 +126,13 @@ Para ello bastará con acceder al siguiente enlace para exportar a PDF:
 https://docs.google.com/spreadsheets/d/[ID]/export?format=pdf
 ```
 
-Y al siguiente para hacer en formato JSON:
+Y al siguiente para hacerlo en formato JSON:
 
 ``````
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTg3OTY0MywtMTE1MjY1MTIxNiwtOD
-Q2MTE2NzI5LC0xODc4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIx
-Mjg4NCw3NjU1NzIwMzcsLTMxNjk4MjMwM119
+eyJoaXN0b3J5IjpbNzU2NDIwMjY4LC0xMTUyNjUxMjE2LC04ND
+YxMTY3MjksLTE4Nzg4NTg1MDgsMTQ3NjAzMTc5LC0xODU4MjEy
+ODg0LDc2NTU3MjAzNywtMzE2OTgyMzAzXX0=
 -->
