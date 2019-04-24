@@ -36,9 +36,9 @@ A través de las [macros de Google Sheets](https://developers.google.com/apps-sc
 
 ## 3- Traduce directamente en la hoja de cálculo
 
-Si trabajas en varios idiomas bastará con que utilices la función GoogleTranslate para traducir de forma rápida a múltiples idiomas.
+Si trabajas en varios idiomas bastará con que utilices la función [GoogleTranslate](https://support.google.com/docs/answer/3093331?hl=es) para traducir de forma rápida a múltiples idiomas. Especificamos el contenido a traducir, el idioma de origen y el idioma que queremos obtener de la siguiente forma:
 
 ```=GOOGLETRANSLATE("hola";"es";"en")```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTMyNjQxMiwtMzE2OTgyMzAzXX0=
+eyJoaXN0b3J5IjpbLTYyNzI4MTMxMCwtMzE2OTgyMzAzXX0=
 -->
