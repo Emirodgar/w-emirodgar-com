@@ -54,8 +54,8 @@ Para que esto funcione hay que conectar las hojas una única vez. Cuando utilice
 
 ```=IMPORTHTML("https://es.wikipedia.org/wiki/Anexo:Capitales_de_provincia_de_Espa%C3%B1a_por_poblaci%C3%B3n";"table";1)```
 
-También podríamos importar un [fichero XML](https://support.google.com/docs/answer/3093342) o un [feed RSS](https://support.google.com/docs/answer/3093337).
+También podríamos importar información desde un [fichero XML](https://support.google.com/docs/answer/3093342) o un [feed RSS](https://support.google.com/docs/answer/3093337).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTk2NDg2OCw3NjU1NzIwMzcsLTMxNj
-k4MjMwM119
+eyJoaXN0b3J5IjpbMTkxODEwMjU2LDc2NTU3MjAzNywtMzE2OT
+gyMzAzXX0=
 -->
