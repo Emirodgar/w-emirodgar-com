@@ -85,6 +85,10 @@ El apoyo visual siempre es importante aunque generar gráficos sin un objetivo c
 
 Una forma simple y fácil de integrar la parte visual sin perder control analítico.
 
+## 9- Automatiza tareas
+
+A través de las macros podemos crear tareas automatizadas
+
 ## 10- Exporta tus datos a PDF o JSON
 
 Tus hojas de datos pueden ser [accedidas desde fuera](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) o bien podemos exportar su contenido en dos formatos: PDF o JSON.
@@ -101,7 +105,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjExNjcyOSwtMTg3ODg1ODUwOCwxND
-c2MDMxNzksLTE4NTgyMTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIz
-MDNdfQ==
+eyJoaXN0b3J5IjpbOTg5MjMyODQ1LC04NDYxMTY3MjksLTE4Nz
+g4NTg1MDgsMTQ3NjAzMTc5LC0xODU4MjEyODg0LDc2NTU3MjAz
+NywtMzE2OTgyMzAzXX0=
 -->
