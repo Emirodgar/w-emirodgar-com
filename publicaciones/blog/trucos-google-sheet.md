@@ -56,8 +56,10 @@ Para que esto funcione hay que conectar las hojas una única vez. Cuando utilice
 
 También podríamos importar información desde un [fichero XML](https://support.google.com/docs/answer/3093342) o un [feed RSS](https://support.google.com/docs/answer/3093337).
 
-## 6- 
+## 6- Extiende una fórmula a todo un rango
+
+La mayoría de gente suele arrastrar una fórmula por todo el rango donde quiere que funcione. Por ejemplo, si queremos limpiar en la fila C los valores de la fila B, utilizaremos la función TRIM y haremos que cada
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzEwOTI3NCw3NjU1NzIwMzcsLTMxNj
-k4MjMwM119
+eyJoaXN0b3J5IjpbLTEzMzQyNDQyMDQsNzY1NTcyMDM3LC0zMT
+Y5ODIzMDNdfQ==
 -->
