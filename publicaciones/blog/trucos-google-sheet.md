@@ -55,7 +55,7 @@ Si trabajas en varios idiomas bastará con que utilices la función [GoogleTrans
 =GOOGLETRANSLATE("hola";"es";"en")
 ```
 
-Si en algún momento tienes dudas acerca del idioma de algún campo, puedes hacer uso de la función [DetecLanguage](https://support.google.com/docs/answer/3093278?hl=en) para salir de dudas.
+Si en algún momento tienes dudas acerca del idioma de algún campo puedes hacer uso de la función [DetecLanguage](https://support.google.com/docs/answer/3093278?hl=en) para salir de dudas.
 
 ## <a name="importar-datos"></a> 4- Importar datos de otras hojas de cálculo
 
@@ -132,7 +132,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjk3Njg5OSwtMTE1MjY1MTIxNiwtOD
-Q2MTE2NzI5LC0xODc4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIx
-Mjg4NCw3NjU1NzIwMzcsLTMxNjk4MjMwM119
+eyJoaXN0b3J5IjpbMTc3MjU1NTE1LC0xMTUyNjUxMjE2LC04ND
+YxMTY3MjksLTE4Nzg4NTg1MDgsMTQ3NjAzMTc5LC0xODU4MjEy
+ODg0LDc2NTU3MjAzNywtMzE2OTgyMzAzXX0=
 -->
