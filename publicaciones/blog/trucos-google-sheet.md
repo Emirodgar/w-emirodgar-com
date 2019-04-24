@@ -77,10 +77,12 @@ Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las func
  - ```ISURL```: para determinar si un campo es una dirección web válida.
  -  ```ESTEXTO```: para determinar si un campo contiene sólo texto.
 
-## 8- Haz uso de gráficas de control (sparline)
+## 8- Haz uso de gráficas de control (sparkline)
 
 El apoyo visual siempre es importante aunque generar gráficos sin un objetivo concreto puede que no aporte nada. Google sheets nos permite crear mini gráficos que se representan en una celda gracias a la función [Sparkline](https://support.google.com/docs/answer/3093289).
+
+Una forma simple y fácil de integrar la parte visual sin perder control analítico.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwNzgyNDY2LC0xODU4MjEyODg0LDc2NT
+eyJoaXN0b3J5IjpbMTQ3NjAzMTc5LC0xODU4MjEyODg0LDc2NT
 U3MjAzNywtMzE2OTgyMzAzXX0=
 -->
