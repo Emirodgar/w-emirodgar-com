@@ -1,5 +1,5 @@
 ---
-title: Trucos para las hojas de cálculo de Google (Google Sheet)
+title: 10 trucos para las hojas de cálculo de Google (Google Sheet)
 description: Saca más provecho a tus hojas de cálculo de Google con estos trucos
 lang: es_ES
 author: Emirodgar
@@ -10,7 +10,7 @@ permalink: trucos-hojas-calculo-google
 
 ---
 
-# Trucos para las hojas de cálculo de Google
+# 10 trucos para las hojas de cálculo de Google
 
 Desde que descubrí **Google Apps** soy un fan incondicional de todos sus servicios, en especial de Google Sheets. 
 
@@ -83,6 +83,6 @@ El apoyo visual siempre es importante aunque generar gráficos sin un objetivo c
 
 Una forma simple y fácil de integrar la parte visual sin perder control analítico.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjAzMTc5LC0xODU4MjEyODg0LDc2NT
-U3MjAzNywtMzE2OTgyMzAzXX0=
+eyJoaXN0b3J5IjpbMTkzNTc1MTcyNywxNDc2MDMxNzksLTE4NT
+gyMTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
 -->
