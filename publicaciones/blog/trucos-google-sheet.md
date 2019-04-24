@@ -93,13 +93,13 @@ Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las func
  - ```ISURL```: para determinar si un campo es una dirección web válida.
  -  ```ESTEXTO```: para determinar si un campo contiene sólo texto.
 
-## 8- Haz uso de gráficas de control (sparkline)
+## <a name="grafica-sparkline"></a>8- Haz uso de gráficas de control (sparkline)
 
 El apoyo visual siempre es importante aunque generar gráficos sin un objetivo concreto puede que no aporte nada. Google sheets nos permite crear mini gráficos que se representan en una celda gracias a la función [Sparkline](https://support.google.com/docs/answer/3093289).
 
 Una forma simple y fácil de integrar la parte visual sin perder control analítico.
 
-## 9- Automatiza tareas
+## <a name="automatizar-tareas"></a> 9- Automatiza tareas
 
 A través de [macros](https://support.google.com/docs/answer/7665004?hl=es) podemos crear tareas automatizadas dentro de nuestras hojas sin necesidad de hacerlo nosotros de forma manual. 
 
@@ -107,7 +107,7 @@ A través de [macros](https://support.google.com/docs/answer/7665004?hl=es) pode
 
 Por ejemplo, podemos programar una macro para que todos los días a las 10 importe las últimas noticias del feed de nuestra página favorita. Cuando nos vayamos de vacaciones, seguirá funcionando y a nuestra regreso la hoja de cálculo estará actualizada con todas las noticias publicadas hasta ese momento.
 
-## 10- Exporta los datos a PDF o JSON
+## <a name="exportar-datos"></a>10- Exporta los datos a PDF o JSON
 
 Tus hojas de datos pueden ser [accedidas desde fuera](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) o bien podemos exportar su contenido en dos formatos: PDF o JSON.
 
@@ -123,7 +123,7 @@ Y al siguiente para hacer en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDYzOTI2NSwtMTE1MjY1MTIxNiwtOD
+eyJoaXN0b3J5IjpbMTAwOTc0MDIzMiwtMTE1MjY1MTIxNiwtOD
 Q2MTE2NzI5LC0xODc4ODU4NTA4LDE0NzYwMzE3OSwtMTg1ODIx
 Mjg4NCw3NjU1NzIwMzcsLTMxNjk4MjMwM119
 -->
