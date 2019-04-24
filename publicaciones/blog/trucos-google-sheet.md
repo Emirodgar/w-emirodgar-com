@@ -77,7 +77,10 @@ Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las func
  - ```ISURL```: para determinar si un campo es una dirección web válida.
  -  ```ESTEXTO```: para determinar si un campo contiene sólo texto.
 
+## 8- Haz uso de gráficas de control (sp
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgyMTI4ODQsNzY1NTcyMDM3LC0zMT
-Y5ODIzMDNdfQ==
+eyJoaXN0b3J5IjpbLTExODQ2NTc0NTEsLTE4NTgyMTI4ODQsNz
+Y1NTcyMDM3LC0zMTY5ODIzMDNdfQ==
 -->
