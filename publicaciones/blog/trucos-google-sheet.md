@@ -18,7 +18,7 @@ Versátiles, accesibles. Os explico una serie de trucos para sacar un mayor prov
 
 ## 1- Crea una hoja desde el navegador
 
-Si estás haciendo uso de Google Chrome y estás logado en tu cuenta de Google, batará con que teclées en la barra de direcciones ```sheets.new``` y quieres crear una nueva hoja de cálculo,
+Si estás haciendo uso de Google Chrome y estás logado en tu cuenta de Google, batará con que teclées en la barra de direcciones ```sheets.new``` para crear y abrir una nueva hoja de cálculo. Rápido y efectivo.
 
 ## 2- Usa combinaciones de teclas
 
@@ -33,6 +33,10 @@ Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de
  7. Insertar un comentario (ctrl + alt + m)
 
 A través de las [macros de Google Sheets](https://developers.google.com/apps-script/guides/sheets/macros) podríamos generar nuestras propias combinaciones de teclas. 
+
+## 3- Traduce directamente en la hoja de cálculo
+
+Si trabajas en varios idiomas bastará
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjc2ODA3NzgsLTMxNjk4MjMwM119
+eyJoaXN0b3J5IjpbLTEwNjQ3NDU4ODUsLTMxNjk4MjMwM119
 -->
