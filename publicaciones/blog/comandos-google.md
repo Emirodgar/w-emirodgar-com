@@ -68,10 +68,11 @@ Sólo se tendrían en cuenta frases con tres palabras o menos entre ambos térmi
 
 ## 7- Excluir términos
 
-En el caso de que queramos buscar un término pero excluyendo todos los resultados que no nos interesen l
+En el caso de que queramos buscar un término pero excluyendo todos los resultados que no nos interesen lo podemos hacer utilizando el guión alto "-" justo delante de lo que queremos excluir.
 ```
 Google -analytics
 ```
+En este caso buscaríamos información sobre Google pero excluyendo el producto de Analytics
 
 ## 8- Especificar rango de tiempo
 
@@ -92,6 +93,6 @@ Aunque existen alternativas que nos ayudarán a [analizar el SEO](factores-seo) 
 -site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
 - site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDk2NTI1MSwxMTA3NzczMDM5LC0xMT
+eyJoaXN0b3J5IjpbLTk4NzkyMTIxNywxMTA3NzczMDM5LC0xMT
 A4NjgzNSw0OTQ4NzIwNjMsMTU5NDEzMzk5Ml19
 -->
