@@ -58,19 +58,19 @@ filetype:pdf
 ## 6- Buscar términos cercanos
 
 ```
-filetype:pdf
+"emirodgar" AROUND(3) "consultor seo"
 ```
 
-## 5- Buscar por tipo de fichero
+## 7- Excluir términos
 
 ```
-filetype:pdf
+Google -analytics
 ```
 
-## 5- Buscar por tipo de fichero
+## 8- Especificar rango de tiempo
 
 ```
-filetype:pdf
+Salamanca before:2018-06-01 after:2016-06-01
 ```
 
 ## 5- Buscar por tipo de fichero
@@ -91,6 +91,6 @@ filetype:pdf
 filetype:pdf
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjY5MDY3Miw0OTQ4NzIwNjMsMTU5ND
-EzMzk5Ml19
+eyJoaXN0b3J5IjpbLTExMDg2ODM1LDQ5NDg3MjA2MywxNTk0MT
+MzOTkyXX0=
 -->
