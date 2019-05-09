@@ -13,7 +13,13 @@ permalink: comandos-google
 
 # Comandos de Google para SEO
 
-Google es un gran buscador y como tal nos permite
+Google es un gran buscador y como tal nos permite interactuar tanto con las búsquedas como con los resultados de una forma diferente.
+
+Para ello dispone de una serie de comandos específicos que nos ayudarán a encontrar exactamente lo que estamos buscando.
+
+## 1 - Búsqueda entre comillas
+
+El hecho de entrecomillar una palabra o frase nos ayudará a que ésta esté siempre presente en todos los resultados. Si no aparece tal como lo hemos seleccio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjcwMDQwNSwxNTk0MTMzOTkyXX0=
+eyJoaXN0b3J5IjpbLTE0OTYyMzM2MjQsMTU5NDEzMzk5Ml19
 -->
