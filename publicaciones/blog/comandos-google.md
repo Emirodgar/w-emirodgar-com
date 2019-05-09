@@ -73,24 +73,8 @@ Google -analytics
 Salamanca before:2018-06-01 after:2016-06-01
 ```
 
-## 5- Buscar por tipo de fichero
 
-```
-filetype:pdf
-```
-
-## 5- Buscar por tipo de fichero
-
-```
-filetype:pdf
-```
-
-## 5- Buscar por tipo de fichero
-
-```
-filetype:pdf
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg2ODM1LDQ5NDg3MjA2MywxNTk0MT
-MzOTkyXX0=
+eyJoaXN0b3J5IjpbLTE5MzQwNDY1NzksLTExMDg2ODM1LDQ5ND
+g3MjA2MywxNTk0MTMzOTkyXX0=
 -->
