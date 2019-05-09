@@ -19,10 +19,10 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 - [Automatizar Lighthouse](automatizar-analisis-lighthouse)
 - [Herramientas SEO gratis](herramientas-seo-gratis)
 - [Optimización SEO Jekyll](optimizacion-seo-jekyll)
-- [SEO sobre vídeos de Youtube](seo-videos-youtube)
+- [Cómo hacer SEO en vídeos de Youtube](seo-videos-youtube)
 - [10 trucos para mejorar las hojas de cálculo de Google (Google Sheet)](trucos-hojas-calculo-google)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjE5NjMxNiwtODQ0Mjg0ODQyLC0yOD
-Y4NDkyMDIsNDE1Mzg0NzY4XX0=
+eyJoaXN0b3J5IjpbMTI1Nzk3MDQxNSwxMDk2MTk2MzE2LC04ND
+QyODQ4NDIsLTI4Njg0OTIwMiw0MTUzODQ3NjhdfQ==
 -->
