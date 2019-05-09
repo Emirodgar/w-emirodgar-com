@@ -43,8 +43,54 @@ Podemos realizar varias búsquedas combinando elementos. Por ejemplo:
 
 ## 4- Buscar términos en la URL
 
-No sólo podemos buscar a través del contenido de una página sino que también podemos limitar los resultados a aquellos que contienen los términos 
+No sólo podemos buscar a través del contenido de una página sino que también podemos limitar los resultados a aquellos que contienen los términos en su URL.
+
+```
+inurl:seo
+```
+
+## 5- Buscar por tipo de fichero
+
+```
+filetype:pdf
+```
+
+## 6- Buscar términos cercanos
+
+```
+filetype:pdf
+```
+
+## 5- Buscar por tipo de fichero
+
+```
+filetype:pdf
+```
+
+## 5- Buscar por tipo de fichero
+
+```
+filetype:pdf
+```
+
+## 5- Buscar por tipo de fichero
+
+```
+filetype:pdf
+```
+
+## 5- Buscar por tipo de fichero
+
+```
+filetype:pdf
+```
+
+## 5- Buscar por tipo de fichero
+
+```
+filetype:pdf
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIzOTIwMTEsNDk0ODcyMDYzLDE1OT
-QxMzM5OTJdfQ==
+eyJoaXN0b3J5IjpbMTM0MjY5MDY3Miw0OTQ4NzIwNjMsMTU5ND
+EzMzk5Ml19
 -->
