@@ -16,14 +16,16 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
-  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+	{% if page.url != "https://emirodgar.com/404.html" %}
+	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+	{% endif %}
 {% endif %}
 {% endfor %}
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTk4MzMzMCwtMTY4MDY2MDM5NSwtMT
-k3ODE4MDA1NCwxNTAxMTU0MDQ4LC0xNTU0NzE2MzIsLTQ4MDk4
-ODQyMCwtMjA2Njc0MTU3NSwxMDk2MTk2MzE2LC04NDQyODQ4ND
-IsLTI4Njg0OTIwMiw0MTUzODQ3NjhdfQ==
+eyJoaXN0b3J5IjpbLTE0NTcxMTM2NzMsLTE2ODA2NjAzOTUsLT
+E5NzgxODAwNTQsMTUwMTE1NDA0OCwtMTU1NDcxNjMyLC00ODA5
+ODg0MjAsLTIwNjY3NDE1NzUsMTA5NjE5NjMxNiwtODQ0Mjg0OD
+QyLC0yODY4NDkyMDIsNDE1Mzg0NzY4XX0=
 -->
