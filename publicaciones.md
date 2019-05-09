@@ -14,8 +14,11 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 - [Eliminar una URL de Google](eliminar-url-google)
 - [Inbound Marketing](inbound-marketing)
 - [Posicionamiento SEO local](posicionamiento-seo-local)
+- [Comandos de Google para SEO](comandos-google)
+- [Automatizar Lighthouse](automatizar-analisis-lighthouse)
+- [Herramientas SEO gratis]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDI4NDg0MiwtMjg2ODQ5MjAyLDQxNT
-M4NDc2OF19
+eyJoaXN0b3J5IjpbLTQ4MDA5ODU1NywtODQ0Mjg0ODQyLC0yOD
+Y4NDkyMDIsNDE1Mzg0NzY4XX0=
 -->
