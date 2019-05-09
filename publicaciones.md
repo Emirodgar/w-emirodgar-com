@@ -25,14 +25,15 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 <ul>
 {% for page in site.pages %}
-{% if page.title != null %}
+{% if page.title != null or page.url != "https://emirodgar.com/404.html" %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTE1NDA0OCwtMTU1NDcxNjMyLC00OD
-A5ODg0MjAsLTIwNjY3NDE1NzUsMTA5NjE5NjMxNiwtODQ0Mjg0
-ODQyLC0yODY4NDkyMDIsNDE1Mzg0NzY4XX0=
+eyJoaXN0b3J5IjpbLTEwMTQ5NDQxMDUsMTUwMTE1NDA0OCwtMT
+U1NDcxNjMyLC00ODA5ODg0MjAsLTIwNjY3NDE1NzUsMTA5NjE5
+NjMxNiwtODQ0Mjg0ODQyLC0yODY4NDkyMDIsNDE1Mzg0NzY4XX
+0=
 -->
