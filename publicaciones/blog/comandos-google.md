@@ -58,13 +58,17 @@ filetype:pdf
 
 ## 6- Buscar términos cercanos
 
-Este comando nos ayudará a buscar dos términos relacionados especificando cuán de lejos deben estar. Por ejemplo, queremos 
+Este comando nos ayudará a buscar dos términos relacionados especificando cuán de lejos deben estar. Por ejemplo, si queremos buscar emirodgar + 3 palabras cualquiera + consultor SEO, podríamos usar el siguiente comando:
+ 
 ```
 "emirodgar" AROUND(3) "consultor seo"
 ```
 
+Sólo se tendrían en cuenta frases con tres palabras o menos entre ambos términos.
+
 ## 7- Excluir términos
 
+En el caso de que queramos buscar un término pero excluyendo todos los resultados que no nos interesen l
 ```
 Google -analytics
 ```
@@ -88,6 +92,6 @@ Aunque existen alternativas que nos ayudarán a [analizar el SEO](factores-seo) 
 -site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
 - site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTc3Nzc5NSwxMTA3NzczMDM5LC0xMT
+eyJoaXN0b3J5IjpbMjA5MDk2NTI1MSwxMTA3NzczMDM5LC0xMT
 A4NjgzNSw0OTQ4NzIwNjMsMTU5NDEzMzk5Ml19
 -->
