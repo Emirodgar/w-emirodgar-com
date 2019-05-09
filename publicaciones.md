@@ -15,16 +15,15 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 Índice alfabético: 
 <ul>
 {% for page in site.pages %}
-{% if page.title != null  %}
-{% if page.url != "https://emirodgar.com/404.html" %}
+{% if page.title != null  or page.title %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA2NjAzOTUsLTE5NzgxODAwNTQsMT
-UwMTE1NDA0OCwtMTU1NDcxNjMyLC00ODA5ODg0MjAsLTIwNjY3
-NDE1NzUsMTA5NjE5NjMxNiwtODQ0Mjg0ODQyLC0yODY4NDkyMD
-IsNDE1Mzg0NzY4XX0=
+eyJoaXN0b3J5IjpbNzUxNjczMzcyLC0xNjgwNjYwMzk1LC0xOT
+c4MTgwMDU0LDE1MDExNTQwNDgsLTE1NTQ3MTYzMiwtNDgwOTg4
+NDIwLC0yMDY2NzQxNTc1LDEwOTYxOTYzMTYsLTg0NDI4NDg0Mi
+wtMjg2ODQ5MjAyLDQxNTM4NDc2OF19
 -->
