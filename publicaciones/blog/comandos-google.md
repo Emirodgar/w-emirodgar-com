@@ -73,8 +73,19 @@ Google -analytics
 Salamanca before:2018-06-01 after:2016-06-01
 ```
 
+## Ejemplos para validar el SEO de una página
 
+Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de forma
+
+- site:emirodgar.com para ver las páginas que ha descubierto e indexado (desde GSC es más fiable)
+- site:emirodgar.com intext:[] para descubrir si se ha indexado contenido que no debería
+- site:emirodgar.com intitle:[] para descubrir posibles títulos duplicados
+- site:emirodgar.com inurl:http para descubir posible contenido duplicado con la versión no segura
+- site:emirodgar.com -www para identificar otros subdominios de los que no estemos al tanto
+- site:emirodgar.com filetype:xml OR filetype:pdf OR filetype:txt para identificar posibles ficheros indexados que no sean páginas HTML
+-site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
+- site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQwNDY1NzksLTExMDg2ODM1LDQ5ND
-g3MjA2MywxNTk0MTMzOTkyXX0=
+eyJoaXN0b3J5IjpbMTI1Mzg2NTgwOSwtMTEwODY4MzUsNDk0OD
+cyMDYzLDE1OTQxMzM5OTJdfQ==
 -->
