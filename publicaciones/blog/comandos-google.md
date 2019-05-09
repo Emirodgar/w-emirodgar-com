@@ -58,6 +58,7 @@ filetype:pdf
 
 ## 6- Buscar términos cercanos
 
+Este comando nos ayudará a buscar dos términos relacionados especificando cuán de lejos deben estar. Por ejemplo, queremos 
 ```
 "emirodgar" AROUND(3) "consultor seo"
 ```
@@ -87,6 +88,6 @@ Aunque existen alternativas que nos ayudarán a [analizar el SEO](factores-seo) 
 -site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
 - site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk3MTk5MzcsMTEwNzc3MzAzOSwtMT
-EwODY4MzUsNDk0ODcyMDYzLDE1OTQxMzM5OTJdfQ==
+eyJoaXN0b3J5IjpbMTg4OTc3Nzc5NSwxMTA3NzczMDM5LC0xMT
+A4NjgzNSw0OTQ4NzIwNjMsMTU5NDEzMzk5Ml19
 -->
