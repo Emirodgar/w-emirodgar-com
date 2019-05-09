@@ -23,11 +23,12 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 - [Cómo hacer SEO en vídeos de Youtube](seo-videos-youtube)
 - [10 trucos para mejorar las hojas de cálculo de Google (Google Sheet)](trucos-hojas-calculo-google)
 
+Índice:
 {{site.pages}}
 {{site.related_posts}}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYzMTI5MzQsLTQ4MDk4ODQyMCwtMj
-A2Njc0MTU3NSwxMDk2MTk2MzE2LC04NDQyODQ4NDIsLTI4Njg0
-OTIwMiw0MTUzODQ3NjhdfQ==
+eyJoaXN0b3J5IjpbMTQzMzczMTY1MiwtNDgwOTg4NDIwLC0yMD
+Y2NzQxNTc1LDEwOTYxOTYzMTYsLTg0NDI4NDg0MiwtMjg2ODQ5
+MjAyLDQxNTM4NDc2OF19
 -->
