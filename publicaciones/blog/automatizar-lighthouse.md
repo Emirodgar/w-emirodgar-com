@@ -3,7 +3,7 @@ title: Automatizar análisis de Lighthouse para múltiples páginas
 description: Optimiza tu tiempo y automatiza el rendimiento de múltiples URLs dentro de tu sitio web
 lang: es_ES
 author: Emirodgar
-tags: SEO, Google, performance
+tags: seo, google, performance
 date: 16/04/2019
 image: https://emirodgar.com/publicaciones/img/lighthouse-automatic.png
 permalink: automatizar-analisis-lighthouse
@@ -122,8 +122,9 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDE3MDgzNyw2MjcxNzcwMTAsNjExND
-cwNzM5LC0xMDQ3MDQ2Mzk1LC0xMTY5ODU1NTg3LDExNTA1Njkx
-MTIsMTQ4Njc0MzY1OSwyMTM4Nzk2MDM4LDc5MDM3MjUyNCwtMT
-E0ODgwNDUwOSwtMTQ4ODA5ODY2NCwxMzU5MDI2OTIyXX0=
+eyJoaXN0b3J5IjpbNjI4NzM5NjY5LDEzMjQxNzA4MzcsNjI3MT
+c3MDEwLDYxMTQ3MDczOSwtMTA0NzA0NjM5NSwtMTE2OTg1NTU4
+NywxMTUwNTY5MTEyLDE0ODY3NDM2NTksMjEzODc5NjAzOCw3OT
+AzNzI1MjQsLTExNDg4MDQ1MDksLTE0ODgwOTg2NjQsMTM1OTAy
+NjkyMl19
 -->
