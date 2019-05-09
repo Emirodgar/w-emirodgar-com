@@ -34,6 +34,17 @@ site:emirodgar.com
 ```
 
 ## 3- Búsquedas combinadas
+
+Podemos realizar varias búsquedas combinando elementos. Por ejemplo:
+
+```
+"consultor SEO" OR "posicionamiento web"
+```
+
+## 4- Buscar términos en la URL
+
+No sólo podemos buscar a través del contenido de una página sino que también podemos limitar los resultados a aquellos que contienen los términos 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0ODcyMDYzLDE1OTQxMzM5OTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MjIzOTIwMTEsNDk0ODcyMDYzLDE1OT
+QxMzM5OTJdfQ==
 -->
