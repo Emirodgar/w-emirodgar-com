@@ -12,7 +12,7 @@ permalink: publicaciones
 
 Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de otras áreas relacionadas con el Marketing Digital.
 
-Índice de publicaciones: 
+Índice: 
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
@@ -22,8 +22,8 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTQxNTEyLC0xNjgwNjYwMzk1LC0xOT
-c4MTgwMDU0LDE1MDExNTQwNDgsLTE1NTQ3MTYzMiwtNDgwOTg4
-NDIwLC0yMDY2NzQxNTc1LDEwOTYxOTYzMTYsLTg0NDI4NDg0Mi
-wtMjg2ODQ5MjAyLDQxNTM4NDc2OF19
+eyJoaXN0b3J5IjpbLTc1MTk4MzMzMCwtMTY4MDY2MDM5NSwtMT
+k3ODE4MDA1NCwxNTAxMTU0MDQ4LC0xNTU0NzE2MzIsLTQ4MDk4
+ODQyMCwtMjA2Njc0MTU3NSwxMDk2MTk2MzE2LC04NDQyODQ4ND
+IsLTI4Njg0OTIwMiw0MTUzODQ3NjhdfQ==
 -->
