@@ -26,14 +26,14 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 Índice: 
 <ul>
 {% for page in site.pages %}
-{% if page.title != null or page.url != "https://emirodgar.com/404.html" %}
+{% if page.title != null  %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY2MjI4NTcsMTUwMTE1NDA0OCwtMT
+eyJoaXN0b3J5IjpbLTE5NzgxODAwNTQsMTUwMTE1NDA0OCwtMT
 U1NDcxNjMyLC00ODA5ODg0MjAsLTIwNjY3NDE1NzUsMTA5NjE5
 NjMxNiwtODQ0Mjg0ODQyLC0yODY4NDkyMDIsNDE1Mzg0NzY4XX
 0=
