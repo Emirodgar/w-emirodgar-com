@@ -25,10 +25,10 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 Índice:
 {{site.related_posts}}
-{{site.tags.TAG}}
+{{site.tags.seo}}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1ODE2ODY3LC00ODA5ODg0MjAsLTIwNj
-Y3NDE1NzUsMTA5NjE5NjMxNiwtODQ0Mjg0ODQyLC0yODY4NDky
-MDIsNDE1Mzg0NzY4XX0=
+eyJoaXN0b3J5IjpbLTE4NDY4OTAyMDgsLTQ4MDk4ODQyMCwtMj
+A2Njc0MTU3NSwxMDk2MTk2MzE2LC04NDQyODQ4NDIsLTI4Njg0
+OTIwMiw0MTUzODQ3NjhdfQ==
 -->
