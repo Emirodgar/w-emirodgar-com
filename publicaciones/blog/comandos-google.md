@@ -75,7 +75,7 @@ Salamanca before:2018-06-01 after:2016-06-01
 
 ## Ejemplos para validar el SEO de una página
 
-Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de forma
+Aunque existen alternativas que nos ayudarán a [analizar el SEO](factores-seo) de una web de forma más eficiente, podemos hacer uso de estos comandos para llevar a cabo un análisis SEO rápido.
 
 - site:emirodgar.com para ver las páginas que ha descubierto e indexado (desde GSC es más fiable)
 - site:emirodgar.com intext:[] para descubrir si se ha indexado contenido que no debería
@@ -86,6 +86,6 @@ Aunque existen alternativas que nos ayudarán a analizar el SEO de una web de fo
 -site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
 - site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Mzg2NTgwOSwtMTEwODY4MzUsNDk0OD
+eyJoaXN0b3J5IjpbMTEwNzc3MzAzOSwtMTEwODY4MzUsNDk0OD
 cyMDYzLDE1OTQxMzM5OTJdfQ==
 -->
