@@ -16,9 +16,11 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 - [Posicionamiento SEO local](posicionamiento-seo-local)
 - [Comandos de Google para SEO](comandos-google)
 - [Automatizar Lighthouse](automatizar-analisis-lighthouse)
-- [Herramientas SEO gratis]()
+- [Herramientas SEO gratis](herramientas-seo-gratis)
+- [Optimización SEO Jekyll](optimizacion-seo-jekyll)
+- [SEO sobre vídeos de Youtube](seo-videos-youtube)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDA5ODU1NywtODQ0Mjg0ODQyLC0yOD
-Y4NDkyMDIsNDE1Mzg0NzY4XX0=
+eyJoaXN0b3J5IjpbNzQ4MTY3NzQxLC04NDQyODQ4NDIsLTI4Nj
+g0OTIwMiw0MTUzODQ3NjhdfQ==
 -->
