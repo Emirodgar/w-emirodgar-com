@@ -23,10 +23,10 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 - [10 trucos para mejorar las hojas de cálculo de Google (Google Sheet)](trucos-hojas-calculo-google)
 
 {{site.pages}}
-{{site.documents}}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY3NDE1NzUsMTA5NjE5NjMxNiwtOD
-Q0Mjg0ODQyLC0yODY4NDkyMDIsNDE1Mzg0NzY4XX0=
+eyJoaXN0b3J5IjpbLTQ4MDk4ODQyMCwtMjA2Njc0MTU3NSwxMD
+k2MTk2MzE2LC04NDQyODQ4NDIsLTI4Njg0OTIwMiw0MTUzODQ3
+NjhdfQ==
 -->
