@@ -15,15 +15,15 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 Índice alfabético: 
 <ul>
 {% for page in site.pages %}
-{% if page.title != null  or page.title %}
+{% if page.title != null  or page.title != "Parece que ya no existe esta página" %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNjczMzcyLC0xNjgwNjYwMzk1LC0xOT
-c4MTgwMDU0LDE1MDExNTQwNDgsLTE1NTQ3MTYzMiwtNDgwOTg4
-NDIwLC0yMDY2NzQxNTc1LDEwOTYxOTYzMTYsLTg0NDI4NDg0Mi
-wtMjg2ODQ5MjAyLDQxNTM4NDc2OF19
+eyJoaXN0b3J5IjpbMTgzODAzNTEzOSwtMTY4MDY2MDM5NSwtMT
+k3ODE4MDA1NCwxNTAxMTU0MDQ4LC0xNTU0NzE2MzIsLTQ4MDk4
+ODQyMCwtMjA2Njc0MTU3NSwxMDk2MTk2MzE2LC04NDQyODQ4ND
+IsLTI4Njg0OTIwMiw0MTUzODQ3NjhdfQ==
 -->
