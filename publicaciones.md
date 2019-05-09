@@ -27,8 +27,14 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 {{site.related_posts}}
 {{site.tags.seo}}
 
+<ul>
+{% for page in site.pages %}
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% endfor %}
+</ul>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDY4OTAyMDgsLTQ4MDk4ODQyMCwtMj
-A2Njc0MTU3NSwxMDk2MTk2MzE2LC04NDQyODQ4NDIsLTI4Njg0
-OTIwMiw0MTUzODQ3NjhdfQ==
+eyJoaXN0b3J5IjpbLTU2MTgyOTkyNCwtNDgwOTg4NDIwLC0yMD
+Y2NzQxNTc1LDEwOTYxOTYzMTYsLTg0NDI4NDg0MiwtMjg2ODQ5
+MjAyLDQxNTM4NDc2OF19
 -->
