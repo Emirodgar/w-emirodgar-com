@@ -12,6 +12,8 @@ permalink: comandos-google
 ---
 
 # Comandos de Google para SEO
+
+Google es un gran buscador y como tal nos permite
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDEzMzk5Ml19
+eyJoaXN0b3J5IjpbMTI5MjcwMDQwNSwxNTk0MTMzOTkyXX0=
 -->
