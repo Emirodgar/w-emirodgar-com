@@ -9,7 +9,7 @@ permalink: herramientas-seo-gratis
 
 # Herramientas SEO gratis
 
-Hace ya tiempo compartí mi listado de [recursos para marketing digital](recursos-marketing-digital). En él incluía multitud de herramientas, tanto de pago como gratuitas para abordar cualquier problemática dentro de una [estrategia SEO](estrategia-seo).
+Hace ya tiempo compartí mi listado de [recursos para marketing digital](recursos-marketing-digital/). En él incluía multitud de herramientas, tanto de pago como gratuitas para abordar cualquier problemática dentro de una [estrategia SEO](estrategia-seo).
 
 Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más eficientemente y rápido en nuestras tareas SEO.
 
@@ -81,6 +81,6 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE5Mjk5LC0xNTMyODQyOTkxLDcyNj
-cyNDg2NV19
+eyJoaXN0b3J5IjpbMTE2MDkzMzMzOCwtMTI3MTkyOTksLTE1Mz
+I4NDI5OTEsNzI2NzI0ODY1XX0=
 -->
