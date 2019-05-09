@@ -16,7 +16,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
-	{% if page.url != "https://emirodgar.com/404.html" %}
+	{% if page.url != "/404.html" %}
 	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 	{% endif %}
 {% endif %}
@@ -24,8 +24,8 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTk2MTgxMiwtMTY4MDY2MDM5NSwtMT
-k3ODE4MDA1NCwxNTAxMTU0MDQ4LC0xNTU0NzE2MzIsLTQ4MDk4
-ODQyMCwtMjA2Njc0MTU3NSwxMDk2MTk2MzE2LC04NDQyODQ4ND
-IsLTI4Njg0OTIwMiw0MTUzODQ3NjhdfQ==
+eyJoaXN0b3J5IjpbODExNDE4MTU2LC0xNjgwNjYwMzk1LC0xOT
+c4MTgwMDU0LDE1MDExNTQwNDgsLTE1NTQ3MTYzMiwtNDgwOTg4
+NDIwLC0yMDY2NzQxNTc1LDEwOTYxOTYzMTYsLTg0NDI4NDg0Mi
+wtMjg2ODQ5MjAyLDQxNTM4NDc2OF19
 -->
