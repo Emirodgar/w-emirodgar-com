@@ -32,6 +32,8 @@ Para buscar únicamente dentro de un dominio debemos utilizar el comando site de
 ```
 site:emirodgar.com
 ```
+
+## 3- Búsquedas combinadas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0NjUyOTE2LDE1OTQxMzM5OTJdfQ==
+eyJoaXN0b3J5IjpbNDk0ODcyMDYzLDE1OTQxMzM5OTJdfQ==
 -->
