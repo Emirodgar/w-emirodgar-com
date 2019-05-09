@@ -51,6 +51,7 @@ inurl:seo
 
 ## 5- Buscar por tipo de fichero
 
+Si queremos centrar nuestra búsqueda únicamente en un formato específico -por ejemplo PDF o XML- podemos hacer uso del siguiente comando:
 ```
 filetype:pdf
 ```
@@ -86,6 +87,6 @@ Aunque existen alternativas que nos ayudarán a [analizar el SEO](factores-seo) 
 -site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
 - site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzc3MzAzOSwtMTEwODY4MzUsNDk0OD
-cyMDYzLDE1OTQxMzM5OTJdfQ==
+eyJoaXN0b3J5IjpbLTE1OTk3MTk5MzcsMTEwNzc3MzAzOSwtMT
+EwODY4MzUsNDk0ODcyMDYzLDE1OTQxMzM5OTJdfQ==
 -->
