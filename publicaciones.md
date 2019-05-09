@@ -2,6 +2,7 @@
 title: Publicaciones SEO
 description: Listado de publicaciones sobre SEO, Marketing Digital y Growth Hacking
 lang: es_ES
+date: 09/05/2019
 permalink: publicaciones
 
 ---
@@ -19,8 +20,9 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 - [Herramientas SEO gratis](herramientas-seo-gratis)
 - [Optimización SEO Jekyll](optimizacion-seo-jekyll)
 - [SEO sobre vídeos de Youtube](seo-videos-youtube)
+- [10 trucos para mejorar las hojas de cálculo de Google (Google Sheet)](trucos-hojas-calculo-google)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MTY3NzQxLC04NDQyODQ4NDIsLTI4Nj
-g0OTIwMiw0MTUzODQ3NjhdfQ==
+eyJoaXN0b3J5IjpbMTA5NjE5NjMxNiwtODQ0Mjg0ODQyLC0yOD
+Y4NDkyMDIsNDE1Mzg0NzY4XX0=
 -->
