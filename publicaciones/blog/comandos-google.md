@@ -76,6 +76,8 @@ En este caso buscaríamos información sobre Google pero excluyendo el producto 
 
 ## 8- Especificar rango de tiempo
 
+Para concretar las búsquedas en un rango de tiempo concreto tan sólo tendremos que especificar las fechas de la siguiente forma:
+
 ```
 Salamanca before:2018-06-01 after:2016-06-01
 ```
@@ -93,6 +95,7 @@ Aunque existen alternativas que nos ayudarán a [analizar el SEO](factores-seo) 
 -site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
 - site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzkyMTIxNywxMTA3NzczMDM5LC0xMT
-A4NjgzNSw0OTQ4NzIwNjMsMTU5NDEzMzk5Ml19
+eyJoaXN0b3J5IjpbMTMxODIxODc1NywtOTg3OTIxMjE3LDExMD
+c3NzMwMzksLTExMDg2ODM1LDQ5NDg3MjA2MywxNTk0MTMzOTky
+XX0=
 -->
