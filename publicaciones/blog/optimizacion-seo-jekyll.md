@@ -19,9 +19,9 @@ La rapidez y sencillez con la que podemos crear una web debe siempre acompañar 
 
 ## Estructura inicial
 
-Lo primero será crear el fichero de configuración [_config.yml]([https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/_config.yml](https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/_config.yml)) y la carpeta "_layouts". Dentro de la misma deberá existir un "default.html".
+Lo primero será crear el fichero de configuración [_config.yml](https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/_config.yml) y la carpeta "_layouts". Dentro de la misma deberá existir un "default.html".
 
-Para poder hacer uso de las [funcionalidades SEO que tiene Jekyll]([http://jekyll.github.io/jekyll-seo-tag/usage/](http://jekyll.github.io/jekyll-seo-tag/usage/)) debemos incluir el siguiente código dentro de nuestro HTML (sin espacios entre las llaves y los %):
+Para poder hacer uso de las [funcionalidades SEO que tiene Jekyll](http://jekyll.github.io/jekyll-seo-tag/usage/) debemos incluir el siguiente código dentro de nuestro HTML (sin espacios entre las llaves y los %):
 
 ```
 <html>
@@ -32,7 +32,7 @@ Para poder hacer uso de las [funcionalidades SEO que tiene Jekyll]([http://jekyl
 
 Jekyll sustituirá la variable ```{ % seo % }``` por una serie de código HTML relacionados con el SEO y que nos facilitarán el posicionamiento web de nuestra página.
 
-Dentro de nuestro template podemos hacer uso de tantas variables de Jekyll como queramos. Aquí os dejo un [listado bastante completo]([https://jekyllrb.com/docs/variables/](https://jekyllrb.com/docs/variables/)).
+Dentro de nuestro template podemos hacer uso de tantas variables de Jekyll como queramos. Aquí os dejo un [listado bastante completo](https://jekyllrb.com/docs/variables/).
 
 ## Variables y configuración inicial
 
@@ -65,14 +65,14 @@ permalink: optimizacion-seo-jekyll
 ---
 ```
 
-Para no repetir una y otra vez la información que es común a todas las páginas, podemos [crear colecciones]([http://jekyll.github.io/jekyll-seo-tag/advanced-usage/#author-information](http://jekyll.github.io/jekyll-seo-tag/advanced-usage/#author-information)). Por ejemplo, para el autor, bastará con crear un archivo específico con toda la información (nombre, perfiles sociales, imágen, etc.) e invocarlo tal como lo he especificado en el ejemplo anterior: ```author:Emirodgar```
+Para no repetir una y otra vez la información que es común a todas las páginas, podemos [crear colecciones](http://jekyll.github.io/jekyll-seo-tag/advanced-usage/#author-information). Por ejemplo, para el autor, bastará con crear un archivo específico con toda la información (nombre, perfiles sociales, imágen, etc.) e invocarlo tal como lo he especificado en el ejemplo anterior: ```author:Emirodgar```
 
 De esta forma nos aseguramos que cualquier URL cuenta con la información mínima necesaria para que Google indexe y posicione de forma correcta.
 
-> Los datos estructurados de Jekyll están bastante limitados por lo que recomiendo [este artículo]([http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html))  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
+> Los datos estructurados de Jekyll están bastante limitados por lo que recomiendo [este artículo](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html)  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA1MzkyOTYsLTE5NjM0NjAwMjUsOD
-E4NzUxOTc2LC0xODEwODIxNjgzLC0xOTU1NzE2MDA1LC0xNTYx
-NTIxNTI5LDgyMjUwNTI5MCwxMjcwNjg3NTc1LC0yNjg1Mzk1OD
-MsLTgwMTMyMjk5NV19
+eyJoaXN0b3J5IjpbMTkzODY1Mzg2LC0xNjQwNTM5Mjk2LC0xOT
+YzNDYwMDI1LDgxODc1MTk3NiwtMTgxMDgyMTY4MywtMTk1NTcx
+NjAwNSwtMTU2MTUyMTUyOSw4MjI1MDUyOTAsMTI3MDY4NzU3NS
+wtMjY4NTM5NTgzLC04MDEzMjI5OTVdfQ==
 -->
