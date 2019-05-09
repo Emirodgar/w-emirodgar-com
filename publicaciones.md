@@ -23,6 +23,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 - [Cómo hacer SEO en vídeos de Youtube](seo-videos-youtube)
 - [10 trucos para mejorar las hojas de cálculo de Google (Google Sheet)](trucos-hojas-calculo-google)
 
+Índice: 
 <ul>
 {% for page in site.pages %}
 {% if page.title != null or page.url != "https://emirodgar.com/404.html" %}
@@ -32,7 +33,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ5NDQxMDUsMTUwMTE1NDA0OCwtMT
+eyJoaXN0b3J5IjpbLTE0ODY2MjI4NTcsMTUwMTE1NDA0OCwtMT
 U1NDcxNjMyLC00ODA5ODg0MjAsLTIwNjY3NDE1NzUsMTA5NjE5
 NjMxNiwtODQ0Mjg0ODQyLC0yODY4NDkyMDIsNDE1Mzg0NzY4XX
 0=
