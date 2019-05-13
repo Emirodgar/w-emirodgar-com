@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 tags: SEO, Google
 date: 08/04/2019
-image: https://emirodgar.com/cdn/images/og/og-seo-tools.jpg
+image: https://emirodgar.com/cdn/images/og/og-seo-tools-big.jpg
 permalink: eliminar-url-google
 
 ---
@@ -91,8 +91,8 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQyMzI2NjQsLTE4NDM2OTQ5NDUsLT
-E4NDM2OTQ5NDUsLTIwMzkyNDI1MDEsMTI3OTY3MjA3MSwtMTE0
-MDE0OTE0OCwxMTg2MTY2MTIxLC01Nzg5NDA2NTUsLTU3ODI5MD
-I2MV19
+eyJoaXN0b3J5IjpbLTEzNjg1NDUwMSwtMTAzNDIzMjY2NCwtMT
+g0MzY5NDk0NSwtMTg0MzY5NDk0NSwtMjAzOTI0MjUwMSwxMjc5
+NjcyMDcxLC0xMTQwMTQ5MTQ4LDExODYxNjYxMjEsLTU3ODk0MD
+Y1NSwtNTc4MjkwMjYxXX0=
 -->
