@@ -94,6 +94,8 @@ Para mí hay cuatro funciones básicas que nos ayudarán a que el texto de nuest
  3. ```Proper```: mayúscula la primera letra de cada palabra
  4. ```Trim```: eliminar espacios en blanco al principio y al final de una cadena
 
+Podemos hacer uso de la función ```trim``` de forma rápida sobre un conjunto de filas y columnas desde el menú "Datos > Recortar datos en blanco".
+
 ![Google sheets trim para eliminar espacios en blanco](https://3.bp.blogspot.com/-EqUSP926q34/XNLiGUDgLmI/AAAAAAAAH70/2afdGeHJHJ4RbnmL7sONpnN5jse_6FYIACLcBGAs/s640/2.gif)
 
 Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las funciones por defecto. Las que más utilizo son:
@@ -101,8 +103,6 @@ Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las func
  -  ```ISEMAIL```: para determinar si un campo es un email válido o no.
  - ```ISURL```: para determinar si un campo es una dirección web válida.
  -  ```ESTEXTO```: para determinar si un campo contiene sólo texto.
-
-
 
 También podemos eliminar de forma rápida cualquier valor duplicado de la siguiente forma:
 
@@ -140,7 +140,7 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTg5ODk0OSwtMzY3MTQ0MzI5LDc1Nj
+eyJoaXN0b3J5IjpbMTY5ODM2NTMzNiwtMzY3MTQ0MzI5LDc1Nj
 QyMDI2OCwtMTE1MjY1MTIxNiwtODQ2MTE2NzI5LC0xODc4ODU4
 NTA4LDE0NzYwMzE3OSwtMTg1ODIxMjg4NCw3NjU1NzIwMzcsLT
 MxNjk4MjMwM119
