@@ -100,6 +100,9 @@ Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las func
  - ```ISURL```: para determinar si un campo es una dirección web válida.
  -  ```ESTEXTO```: para determinar si un campo contiene sólo texto.
 
+Google acaba de sacar una función para poder eliminar de forma rápida todos 
+![Google sheets trim para eliminar espacios en blanco](https://3.bp.blogspot.com/-EqUSP926q34/XNLiGUDgLmI/AAAAAAAAH70/2afdGeHJHJ4RbnmL7sONpnN5jse_6FYIACLcBGAs/s640/2.gif)
+
 ## <a name="grafica-sparkline"></a>8- Haz uso de gráficas de control (sparkline)
 
 El apoyo visual siempre es importante aunque generar gráficos sin un objetivo concreto puede que no aporte nada. Google sheets nos permite crear mini gráficos que se representan en una celda gracias a la función [Sparkline](https://support.google.com/docs/answer/3093289).
@@ -132,8 +135,8 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzE0NDMyOSw3NTY0MjAyNjgsLTExNT
-I2NTEyMTYsLTg0NjExNjcyOSwtMTg3ODg1ODUwOCwxNDc2MDMx
-NzksLTE4NTgyMTI4ODQsNzY1NTcyMDM3LC0zMTY5ODIzMDNdfQ
-==
+eyJoaXN0b3J5IjpbMTk2ODQ1NTUyMywtMzY3MTQ0MzI5LDc1Nj
+QyMDI2OCwtMTE1MjY1MTIxNiwtODQ2MTE2NzI5LC0xODc4ODU4
+NTA4LDE0NzYwMzE3OSwtMTg1ODIxMjg4NCw3NjU1NzIwMzcsLT
+MxNjk4MjMwM119
 -->
