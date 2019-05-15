@@ -37,6 +37,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://www.dareboost.com](https://www.dareboost.com)
 - [https://gtmetrix.com/](https://gtmetrix.com/)
 - [https://varvy.com/](https://varvy.com/)
+- [http://www.browseo.net/](http://www.browseo.net/)
 
 ## Keyword research / Contenidos
 
@@ -81,7 +82,9 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 - [Check my links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en)
+- [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMT
-I3MTkyOTksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbLTE4NTY1ODY5ODQsLTIxMDczMjU2MzIsMT
+E2MDkzMzMzOCwtMTI3MTkyOTksLTE1MzI4NDI5OTEsNzI2NzI0
+ODY1XX0=
 -->
