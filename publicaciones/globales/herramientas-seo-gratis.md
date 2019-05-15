@@ -80,7 +80,8 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Keywords everywhere](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 - [Similarweb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+- [Check my links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDkzMzMzOCwtMTI3MTkyOTksLTE1Mz
-I4NDI5OTEsNzI2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMT
+I3MTkyOTksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
 -->
