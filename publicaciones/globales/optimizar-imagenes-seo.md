@@ -13,9 +13,9 @@ permalink: optimizacion-imagenes-seo
 
 # Optimización de imágenes para el SEO
 
-Las imágenes han ido adquiriendo cada vez más relevancia dentro de las búsquedas, por ello, el posicionar de forma óptima dentro de este segmento nos ayudará a incrementar notoriamiente el tráfico orgánico hacia nuestra página.
+Las imágenes han ido adquiriendo cada vez más relevancia dentro de las búsquedas, por ello, el posicionar de forma óptima dentro de este segmento nos ayudará a **incrementar notoriamiente el tráfico orgánico** hacia nuestra página.
 
-La apuesta más fuerte de Google en los últimos años están siendo los datos estructurados. Dentro de los mismos podemos ver la evolución que 
+La apuesta más fuerte de Google en los últimos años están siendo los datos estructurados. A continuación muestro un pequeño listado de aquellos que hacen uso de las imágenes para generar una m 
 
 - 2012 - Gráfica de conocimiento
 - 2013 - Casillas de respuestas
@@ -102,6 +102,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0OD
-c0Mzg4N119
+eyJoaXN0b3J5IjpbLTExOTI1NTYzNTYsMTIxNzk3NDkyNSwxNj
+QxNjQzNDA2LDY0ODc0Mzg4N119
 -->
