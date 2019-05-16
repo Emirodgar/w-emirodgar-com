@@ -130,12 +130,12 @@ Esto puede ser obvio, pero las imágenes más nítidas son más atractivas para 
 
 Hay métodos automáticos para [optimizar en bloque nuestras imágenes](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/).
 
-Google ha diseñado [webp](https://developers.google.com/speed/webp/), su propio formato de imagen con el que
+Google ha diseñado [webp](https://developers.google.com/speed/webp/) -su propio formato de imagen- con el que ahorramos hasta un 60% de tamaño sin perder calidad. Pero ojo, [no todos los navegadores web aún dan soporte]([https://caniuse.com/#feat=webp](https://caniuse.com/#feat=webp)) a este formato.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODQxODE1Nyw5Nzg2Mjc5NjEsLTU4MT
-YzNjQ0OCwzNTU5ODAsLTExNjc1NjI1MDEsLTQ0NTU3OTI0Mywx
-MjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQzODg3XX0=
+eyJoaXN0b3J5IjpbMTIxOTI5NzMxLDk3ODYyNzk2MSwtNTgxNj
+M2NDQ4LDM1NTk4MCwtMTE2NzU2MjUwMSwtNDQ1NTc5MjQzLDEy
+MTc5NzQ5MjUsMTY0MTY0MzQwNiw2NDg3NDM4ODddfQ==
 -->
