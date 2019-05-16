@@ -15,7 +15,7 @@ permalink: optimizacion-imagenes-seo
 
 Las imágenes han ido adquiriendo cada vez más relevancia dentro de las búsquedas, por ello, el posicionar de forma óptima dentro de este segmento nos ayudará a **incrementar notoriamiente el tráfico orgánico** hacia nuestra página.
 
-Hasta hace poco Google disponía de un botón para acceder directamente a 
+> Hasta hace poco Google disponía de un botón para acceder directamente a las imágenes indexadas en su índice pero [tras una disputa legal con Gettyimages]([https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html](https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html)) tuvieron que eliminarlo. De esta forma, posicionar por imágenes sí ayuda a generar tráfico hacia nuestra web.
 
 La apuesta más fuerte de Google en los últimos años están siendo los datos estructurados. La mayor parte de ellos hacen uso de las imágenes para aportar valor y generar una mayor visibilidad: 
 
@@ -47,16 +47,6 @@ En cierta medida esto tiene sentido. Puede que tu imagen ayuda a complementar el
 ## Entonces, ¿por qué optimizar para imágenes de fragmentos destacados?
 
 
-
-En 2016, Getty Images presentó una queja antimonopolio contra Google en la Unión Europea alegando que la búsqueda de imágenes de Google estaba perjudicando a la empresa, ya que permitía descargar imágenes de alta resolución directamente sin pagar y esto promovió abiertamente la piratería:  
-
-![](https://lh5.googleusercontent.com/DaowRresYuVteJm_-pGL6iUBemdiKrOeQ2CiC09Bx8yvdXbmj2HQ654baUQWVVP5UEr76eS9R98xHkXJBwPpusQId6luR5jPi-qZzQaOasvegZ0Hbmwj3m7OBbeXsTM2106FMWY9)
-
-Dos años después, a mediados de febrero de 2018, luego de un acuerdo de licencia con Getty Images, Google eliminó el botón "Ver imagen" de la Búsqueda de imágenes, lo que le dio protagonismo al botón "Visitar", y envió al buscador  **directamente**  a la página de origen.  
-
-![](https://lh4.googleusercontent.com/fzr-BvW6OnyXnT5Iw4lWl41D8KPpL97ecF3KF0Vh6rjpxt6_THASnP-f9Zwk-9Ojc0YT2FvUSB9rIAIRctIohcCs2CKlQVNYnxyOZWvulWy3H31AlmI8tpOFNOfJpQMovJIbBbty)
-
-Esto no fue solo una victoria para Getty, sino también para los sitios web en general.  La captura de pantalla a continuación es un gran ejemplo del impacto del tráfico directo de este cambio en un cliente de UpBuild.  Una vez que se eliminó el botón 'Ver imagen', comenzaron a ver cientos de clics diarios de sus imágenes que ya estaban clasificando bien en la Búsqueda de imágenes de Google:  
 
 ![](https://lh4.googleusercontent.com/MsfVBPFhC8e0KC-tNGGlbJKWkwuYjLuj0F3nZO4Q6JRSvy1OZkB1lIWNgCb_LgUEru4a26vfEf9h7WB6nUldFOa7awvx7Z6w1inBFulSvpGDB_VzHiZFfTr8HjcfImQiVcy8nEhx)
 
@@ -94,6 +84,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODQ5MDU5NSwxMjE3OTc0OTI1LDE2ND
+eyJoaXN0b3J5IjpbMTY4NTczMTMwMCwxMjE3OTc0OTI1LDE2ND
 E2NDM0MDYsNjQ4NzQzODg3XX0=
 -->
