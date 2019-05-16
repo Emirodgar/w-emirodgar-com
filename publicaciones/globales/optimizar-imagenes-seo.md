@@ -100,14 +100,13 @@ Aunque se ha especulado que el atributo de título de la imagen no es tenido en 
 
 ### 6- Marcado semántico
 
-Desde Schema.org podemos ver al detalle el [marcado semántico de las imágenes](https://schema.org/image). No obstante, lo que nos interesa son aquellas propiedades de las que hace uso Google:
+Desde Schema.org podemos ver al detalle el [marcado semántico de las imágenes](https://schema.org/image). No obstante, lo que nos interesa son aquellas propiedades de las que hace uso Google. Algunas de las más destacadas que hacen uso de imágenes son:
 
 - [Artículo](https://developers.google.com/search/docs/data-types/article)
 - [Logotipo](https://developers.google.com/search/docs/data-types/logo)
-- [Carrusel]()
-La  [propiedad de imagen](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://schema.org/image&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhjEEp7g2wrpgPQYksMlSI7UDqOz-w)  se encuentra en  **muchos**  tipos de marcas, pero recomendaría usarla en el tipo de esquema del  [Artículo](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://developers.google.com/search/docs/data-types/article&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhiwzybvQeeV157XryjhMyZk8nCvaQ)  (siempre que la página en cuestión sea un artículo).  No solo es uno de los principales tipos de esquemas para los que  [Google proporciona documentación](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://developers.google.com/search/docs/data-types/article&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhiwzybvQeeV157XryjhMyZk8nCvaQ)  .También proporciona un contexto adicional para que Google entienda la página con las propiedades  **articleBody**  y  **mainEntityOfPage**  .
+- [Carrusel](https://developers.google.com/search/docs/guides/mark-up-listings)
+- [Evento](https://developers.google.com/search/docs/data-types/event)
 
-Para que sea más claro para Google, recomiendo asegurarse de que la imagen que desea que se muestre sea la única URL de imagen que se usa en la propiedad  **image**  y  **thumbnailUrl**  .  En otras palabras, evite utilizar el marcado semántico para  **varias**  imágenes en la página, por lo que Google no está seguro de cuál usar.
 
 ### **Accesibilidad**
 
@@ -161,7 +160,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTMwMzUxNzEsLTExNjc1NjI1MDEsLT
-Q0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQz
-ODg3XX0=
+eyJoaXN0b3J5IjpbMzU1OTgwLC0xMTY3NTYyNTAxLC00NDU1Nz
+kyNDMsMTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4N119
+
 -->
