@@ -56,9 +56,9 @@ A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/
 
 Para poder identificar las acciones más adecuadas para optimizar nuestras imágenes debemos entender qué es lo que busca Google. 
 
-> Su objetivo es proporcionar al buscador la imagen más útil, y donde un factor de relevancia contextual podría reemplazar a uno técnico.  
+> Su objetivo es proporcionar al uuario la imagen más útil teniendo en cuenta que un factor de relevancia contextual podría reemplazar a uno técnico.  
 
-El punto clave aquí es asegurarse de  **aprovechar los términos de búsqueda sugeridos en Imágenes de Google**  para asegurarse de que el contenido de texto y la imagen de destino los reflejen en consecuencia.Esta es una gran información para comprender la intención completa detrás de la consulta y cómo puede optimizar su contenido para ayudar a resolverlo.
+El punto clave aquí es asegurarse de  **aprovechar los términos de búsqueda sugeridos en Imágenes de Google**  para asegurarse de que el contenido de texto y la imagen de destino los reflejen en consecuencia. Esta es una gran información para comprender la intención completa detrás de la consulta y cómo puede optimizar su contenido para ayudar a resolverlo.
 
 ## **Aplicando Mejores Prácticas**
 
@@ -158,7 +158,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDM4MTg3LC0xMTY3NTYyNTAxLC00ND
+eyJoaXN0b3J5IjpbNTY0NzU4MjEwLC0xMTY3NTYyNTAxLC00ND
 U1NzkyNDMsMTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4
 N119
 -->
