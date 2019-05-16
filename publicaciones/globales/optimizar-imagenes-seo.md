@@ -13,7 +13,7 @@ permalink: optimizacion-imagenes-seo
 
 # Optimización de imágenes para el SEO
 
-Un cliente de UpBuild preguntó recientemente por qué la imagen en los fragmentos destacados de Google a menudo es proporcionada por un sitio web diferente al de donde se toma el contenido del texto.  Este ha sido el caso durante bastante tiempo y es justo decir que si bien una página puede proporcionar la respuesta más útil, la misma página puede no transmitir la imagen más útil.
+Cuando Google decide mostrar un fragmento de página destacada en la primera posición, a veces, la imagen que acompaña a dicho contenido no es de la misma página. El hecho de que obtenga la imagen de otro resultado destaca la relevancia que tienen las imágenes para el buscador. Por ello, para nosotros debe ser una prioridad tener nuestras imágenes
 
 Hay un sistema en el lugar para las imágenes;  nosotros simplemente (como es el caso con la mayoría de las cosas que hace Google) no sabemos exactamente qué es, y parece ser diferente al de texto.  Los SEO hablan mucho sobre cómo estructurar el texto para fragmentos destacados. Quería ver si podemos aprender definitivamente cómo obtener una imagen incluida en los fragmentos destacados también.
 
@@ -89,5 +89,5 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk2Mjk4ODZdfQ==
+eyJoaXN0b3J5IjpbLTEzNTQxNjM5MTBdfQ==
 -->
