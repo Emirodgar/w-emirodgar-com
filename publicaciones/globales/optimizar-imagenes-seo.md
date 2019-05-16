@@ -116,17 +116,12 @@ Es buena práctica comprimir las imágenes para que puedan servirse de manera  *
 
 ### 8- Sitemap de imágenes
 
-Aunque no es obligatorio, es buena práctica disponer de un [sitemap XML de imágenes](https://support.google.com/webmasters/answer/178636).  Google afirma que con estos en su lugar puede "ayudar a Google a descubrir imágenes que de otra manera no encontraríamos (como las imágenes que su sitio alcanza con el código JavaScript), y le permite indicar las imágenes en su sitio que desea que Google rastree e indexe. ”
+Aunque no es obligatorio, es buena práctica disponer de un [sitemap XML de imágenes](https://support.google.com/webmasters/answer/178636).  Google afirma que este tipo de sitemaps "*le puede ayudar a a descubrir imágenes que de otra manera no encontraríamos (como las imágenes que su sitio alcanza con el código JavaScript), y le permite indicar las imágenes en su sitio que desea que Google rastree e indexe.* ”
 
-### **Calidad**
 
-#### **Crea contenido informativo y de alta calidad.**
+### 8- Imágenes de calidad
 
-Google considera la calidad del contenido de la página al clasificar las imágenes.  Un buen contenido de texto es tan importante como el contenido visual de Google Images;  proporciona contexto.
-
-#### **Utiliza imágenes originales, de alta calidad y relevantes.**
-
-Esto puede ser obvio, pero las imágenes más nítidas son más atractivas para los usuarios que las imágenes borrosas y poco claras.  Las imágenes de alta calidad en la miniatura de Resultados de búsqueda aumentarán la probabilidad de dibujar el clic.
+Esto puede ser obvio, pero las imágenes más nítidas son más atractivas para los usuarios que las imágenes borrosas y poco claras.  Las imágenes de alta calidad en la miniatura de Resultados de búsqueda aumentarán la probabilidad de conseguir tráfico.
 
 Google anunció recientemente su  [Programa Opt-In de alta resolución, en el](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://searchengineland.com/google-to-add-support-for-higher-quality-images-in-search-swipe-up-images-3d-images-316706&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhhDyxUsOHjMTM-gQx6ASe4ws01wuA)  que podrá proporcionar a Google una imagen de alta resolución a través de un marcado semántico.  Según la captura de pantalla a continuación, parece que una vez que se haya inscrito en el programa, podrá asignar una propiedad de  **licencia**  al esquema de  **ImageObject**  :
 
@@ -160,7 +155,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzAzOTM0LDM1NTk4MCwtMTE2NzU2Mj
-UwMSwtNDQ1NTc5MjQzLDEyMTc5NzQ5MjUsMTY0MTY0MzQwNiw2
-NDg3NDM4ODddfQ==
+eyJoaXN0b3J5IjpbLTE5MjE0MDQxMTksMzU1OTgwLC0xMTY3NT
+YyNTAxLC00NDU1NzkyNDMsMTIxNzk3NDkyNSwxNjQxNjQzNDA2
+LDY0ODc0Mzg4N119
 -->
