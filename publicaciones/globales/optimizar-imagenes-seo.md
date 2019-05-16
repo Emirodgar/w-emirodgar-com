@@ -31,9 +31,9 @@ En la siguiente imagen podemos ver un ejemplo de lo que hablamos: el contenido e
 
 El hecho de no disponer de una imagen adecuada hace perder visibilidad a una página que ha conseguido aparecer en una posición destacada por su contenido. Por ello, debe ser una prioridad **optimizar las imágenes al máximo** y favorecer así nuestra [estrategia SEO](estrategia-seo).
 
-Si hacemos clic sobre dicha imagen de fragmento destacada iremos a una versión ampliada de la imagen dentro de los resultados de Búsqueda de imágenes de Google, es decir, no generará tráfico hacia nuestra página por lo que esta medida nos ayudará a evitar fuga de clics si somos los que posicionamos en primera posición con el contenido pero no nos incrementará el tráfico si somos los poseedores de la imagen.
+Si hacemos clic sobre la imagen de fragmento destacada iremos a una versión ampliada de la imagen dentro de los resultados de Búsqueda de imágenes de Google, es decir, no generará tráfico hacia nuestra página por lo que esta medida **nos ayudará a evitar fuga de clics si somos los que posicionamos en primera posición con el contenido** pero no nos incrementará el tráfico si somos los poseedores de la imagen.
 
-En cierta medida esto tiene sentido. Puede que tu imagen ayuda a complementar el contenido de otra página pero por sí misma no suele aportar valor por lo que generar tráfico a una web únicamente a través de la imagen no sería conveniente. Se trata, por tanto, de una combinación de contenido más imagen.
+En cierta medida esto tiene sentido. Puede que tu imagen ayude a complementar el contenido de otra página pero por sí misma no suele aportar valor por lo que generar tráfico a una web únicamente a través de la imagen no sería conveniente. Se trata, por tanto, de una **combinación de contenido más imagen**.
 
 
 ## Las imágenes y AMP
@@ -43,6 +43,8 @@ Accelerated Mobile Pages (AMP) es -junto con las PWA- la otra apuesta fuerte de 
 A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/IamJoseVarghese/status/1109404147508342784) una nueva funcionalidad en Google Imágenes con la que se podría pasar -de forma rápida- desde una imagen al artículo AMP en el que aparece.
 
 ![](https://lh4.googleusercontent.com/S2gn-rMi3rLpBtHCwAZTUSNDoCwZYXuvCTJzGFpa_hJaMp5TuhSTSJvy01HA8R0KM05XQnxkEnxlOg-IX4dTastq8Fh--Ts2rlIdtndyAbqSlPlEZi-93YjjMhUk90fWHQ1BjGgj)
+
+
 
 ## Cómo optimizar las imágenes para el SEO
 
@@ -127,7 +129,7 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDMzNzE2NzIsOTc4NjI3OTYxLC01OD
-E2MzY0NDgsMzU1OTgwLC0xMTY3NTYyNTAxLC00NDU1NzkyNDMs
-MTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4N119
+eyJoaXN0b3J5IjpbNDMwMTMxNjYyLDk3ODYyNzk2MSwtNTgxNj
+M2NDQ4LDM1NTk4MCwtMTE2NzU2MjUwMSwtNDQ1NTc5MjQzLDEy
+MTc5NzQ5MjUsMTY0MTY0MzQwNiw2NDg3NDM4ODddfQ==
 -->
