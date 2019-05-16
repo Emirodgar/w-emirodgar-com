@@ -52,7 +52,7 @@ A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/
 
 ![](https://lh4.googleusercontent.com/S2gn-rMi3rLpBtHCwAZTUSNDoCwZYXuvCTJzGFpa_hJaMp5TuhSTSJvy01HA8R0KM05XQnxkEnxlOg-IX4dTastq8Fh--Ts2rlIdtndyAbqSlPlEZi-93YjjMhUk90fWHQ1BjGgj)
 
-## Cómo optimizar las imágenes
+## Cómo optimizar las imágenes para el SEO
 
 Para poder identificar las acciones más adecuadas de cara a optimizar nuestras imágenes debemos entender primero qué es lo que busca Google. 
 
@@ -66,9 +66,7 @@ Hacer un keyword research para conocer cómo busca nuestro público objetivo las
 
 ### 2- Implementar buenas prácticas
 
-El siguiente paso será leer  [la documentación oficial de Google](https://support.google.com/webmasters/answer/114016?hl=es)  , que hace un trabajo  **fantástico al**  resumir la optimización de la imagen para la búsqueda.  Sin reiterar la cobertura de Google de los fundamentos, creo que por brevedad, podemos categorizarlos en el ámbito de las cuatro categorías clave con fragmentos destacados en mente.
-
-### **Optimización en la página**
+Recomiendo leer  [la documentación oficial de Google](https://support.google.com/webmasters/answer/114016?hl=es)  ya que hace un magnífico trabajo  identificando puntos relevantes a la hora de optimizar imágenes. A mayores, estos son otros factores que debemos tener en cuenta:
 
 #### **Colocación de la imagen**
 
@@ -160,7 +158,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE4OTA3MSwtMTE2NzU2MjUwMSwtND
-Q1NTc5MjQzLDEyMTc5NzQ5MjUsMTY0MTY0MzQwNiw2NDg3NDM4
-ODddfQ==
+eyJoaXN0b3J5IjpbLTEyODMzMjM2MDIsLTExNjc1NjI1MDEsLT
+Q0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQz
+ODg3XX0=
 -->
