@@ -48,7 +48,7 @@ En cierta medida esto tiene sentido. Puede que tu imagen ayuda a complementar el
 
 Accelerated Mobile Pages (AMP) es -junto con las PWA- la otra apuesta fuerte de Google por el futuro de la web.
 
-Adelantándose un año hasta mayo de 2019, Google ha anunciado una nueva función para la Búsqueda de imágenes en dispositivos móviles que brindaría a los usuarios la opción de "desplazarse hacia arriba" al artículo de AMP asociado con la imagen:  
+A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/IamJoseVarghese/status/1109404147508342784) una nueva funcionalidad que podría enlazar rápidamente una imagen con el art
 
 ![](https://lh4.googleusercontent.com/S2gn-rMi3rLpBtHCwAZTUSNDoCwZYXuvCTJzGFpa_hJaMp5TuhSTSJvy01HA8R0KM05XQnxkEnxlOg-IX4dTastq8Fh--Ts2rlIdtndyAbqSlPlEZi-93YjjMhUk90fWHQ1BjGgj)
 
@@ -82,6 +82,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5OTYyOTc2LC00NDU1NzkyNDMsMTIxNz
-k3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4N119
+eyJoaXN0b3J5IjpbMjAxNjY2NDY5NSwtNDQ1NTc5MjQzLDEyMT
+c5NzQ5MjUsMTY0MTY0MzQwNiw2NDg3NDM4ODddfQ==
 -->
