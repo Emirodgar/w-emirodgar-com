@@ -1,5 +1,5 @@
 ---
-title: Optimización de imágenes para el SEO
+title: Bloquear acceso de robots de búsqueda en tu página web
 description: Evita que los buscadores rastreen tu página web y alteren tu tráfico real
 lang: es_ES
 author: Emirodgar
@@ -7,7 +7,7 @@ tags: seo, htaccess, robots
 date: 16/05/2019
 date_modified: 16/05/2019
 image: https://emirodgar.com/cdn/images/og/og-seo-tools-big.jpg
-permalink: optimizacion-imagenes-seo
+permalink: bloquear-robots-txt
 
 ---
 
@@ -1071,5 +1071,5 @@ User-agent: ZyBorg
 Disallow:/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODUxODI5M119
+eyJoaXN0b3J5IjpbOTgyODgyODk2XX0=
 -->
