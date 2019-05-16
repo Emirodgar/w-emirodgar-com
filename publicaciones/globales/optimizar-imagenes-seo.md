@@ -44,13 +44,17 @@ A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/
 
 ![](https://lh4.googleusercontent.com/S2gn-rMi3rLpBtHCwAZTUSNDoCwZYXuvCTJzGFpa_hJaMp5TuhSTSJvy01HA8R0KM05XQnxkEnxlOg-IX4dTastq8Fh--Ts2rlIdtndyAbqSlPlEZi-93YjjMhUk90fWHQ1BjGgj)
 
+Esto deja claro que para Google las imágenes tienen una gran relevancia y van de la mano de los lanzamientos más importantes que están haciendo en los últimos años.
 
+Veamos ahora qué acciones podemos llevar a cabo dentro de nuestras páginas para favorecer el SEO a través de los buscadores de imágenes.
 
 ## Cómo optimizar las imágenes para el SEO
 
 Para poder identificar las acciones más adecuadas de cara a optimizar nuestras imágenes debemos entender primero qué es lo que busca Google. 
 
-> Su objetivo es proporcionar al uuario la imagen más útil teniendo en cuenta que un factor de relevancia contextual podría reemplazar a uno técnico 
+> Su objetivo es proporcionar al usuario la imagen más útil teniendo en cuenta que un factor de relevancia contextual podría reemplazar a uno técnico 
+
+Dicho esto, tenemos que buscar -a mayores de una base SEO técnica-
 
 ### 1- Alinear contenido e imágenes con tendencias de búsqueda
 
@@ -129,7 +133,7 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwMTMxNjYyLDk3ODYyNzk2MSwtNTgxNj
-M2NDQ4LDM1NTk4MCwtMTE2NzU2MjUwMSwtNDQ1NTc5MjQzLDEy
-MTc5NzQ5MjUsMTY0MTY0MzQwNiw2NDg3NDM4ODddfQ==
+eyJoaXN0b3J5IjpbMTUxMjUyMzk1MSw5Nzg2Mjc5NjEsLTU4MT
+YzNjQ0OCwzNTU5ODAsLTExNjc1NjI1MDEsLTQ0NTU3OTI0Mywx
+MjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQzODg3XX0=
 -->
