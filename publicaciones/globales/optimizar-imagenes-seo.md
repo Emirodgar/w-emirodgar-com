@@ -68,7 +68,7 @@ Hacer un **keyword research** para conocer cómo busca nuestro público objetivo
 
 Recomiendo leer  [la documentación oficial de Google](https://support.google.com/webmasters/answer/114016?hl=es)  ya que hace un magnífico trabajo  identificando puntos relevantes a la hora de optimizar imágenes. Nos ayudará a sentar las bases necesarias para poder trabajar con imágenes.
 
-También reco
+También recomiendo la lectura de [cómo generar imágenes eficientes](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization) y las imágenes adaptativas](.
 
 ### 3- Ubicar la imagen correctamente
 
@@ -160,7 +160,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxOTQyNTUxLDM1NTk4MCwtMTE2NzU2Mj
-UwMSwtNDQ1NTc5MjQzLDEyMTc5NzQ5MjUsMTY0MTY0MzQwNiw2
-NDg3NDM4ODddfQ==
+eyJoaXN0b3J5IjpbMTE3MDEyODEsMzU1OTgwLC0xMTY3NTYyNT
+AxLC00NDU1NzkyNDMsMTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0
+ODc0Mzg4N119
 -->
