@@ -115,7 +115,7 @@ Para asegurarnos de que nuestras imágenes aparecen en los bloques de fragmentos
 
 ### 8- Accesibilidad
 
-Es buena práctica comprimir las imágenes para que puedan servirse de manera  **rápida**  y  **efectiva**  para todos los tipos y tamaños de dispositivos. Debemos asegurarnos de usar  ```srcset```.  Para garantizar la máxima accesibilidad, no debemos incluir texto dentro de la imagen sino como contenido HTML adicional a la misma.  
+Es buena práctica comprimir las imágenes para que puedan servirse de manera  **rápida**  y  **efectiva**  para todos los tipos y tamaños de dispositivos. Debemos asegurarnos de usar  ```srcset``` de tal forma que ofrezcamos.  Para garantizar la máxima accesibilidad, no debemos incluir texto dentro de la imagen sino como contenido HTML adicional a la misma.  
 
 ### 9- Sitemap de imágenes
 
@@ -133,8 +133,8 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODA1MDAxMSw1MjY2NDM2OTEsOTc4Nj
-I3OTYxLC01ODE2MzY0NDgsMzU1OTgwLC0xMTY3NTYyNTAxLC00
-NDU1NzkyNDMsMTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mz
-g4N119
+eyJoaXN0b3J5IjpbLTMyMDMyNDk4MiwtMzg4MDUwMDExLDUyNj
+Y0MzY5MSw5Nzg2Mjc5NjEsLTU4MTYzNjQ0OCwzNTU5ODAsLTEx
+Njc1NjI1MDEsLTQ0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2ND
+M0MDYsNjQ4NzQzODg3XX0=
 -->
