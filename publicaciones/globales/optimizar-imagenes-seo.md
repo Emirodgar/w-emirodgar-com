@@ -44,9 +44,9 @@ Si hacemos clic sobre dicha imagen de fragmento destacada iremos a una versión 
 En cierta medida esto tiene sentido. Puede que tu imagen ayuda a complementar el contenido de otra página pero por sí misma no suele aportar valor por lo que generar tráfico a una web únicamente a través de la imagen no sería conveniente. Se trata, por tanto, de una combinación de contenido más imagen.
 
 
-## Entonces, ¿por qué optimizar para imágenes de fragmentos destacados?
+## Las imágenes y AMP
 
-
+Accelerated Mobile Pages (AMP) es -junto con las PWA- la otra apuesta fuerte de Google por el futuro de la web.
 
 Adelantándose un año hasta mayo de 2019, Google ha anunciado una nueva función para la Búsqueda de imágenes en dispositivos móviles que brindaría a los usuarios la opción de "desplazarse hacia arriba" al artículo de AMP asociado con la imagen:  
 
@@ -82,6 +82,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTU3OTI0MywxMjE3OTc0OTI1LDE2ND
-E2NDM0MDYsNjQ4NzQzODg3XX0=
+eyJoaXN0b3J5IjpbMzQ5OTYyOTc2LC00NDU1NzkyNDMsMTIxNz
+k3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4N119
 -->
