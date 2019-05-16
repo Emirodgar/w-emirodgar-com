@@ -48,13 +48,11 @@ En cierta medida esto tiene sentido. Puede que tu imagen ayuda a complementar el
 
 Accelerated Mobile Pages (AMP) es -junto con las PWA- la otra apuesta fuerte de Google por el futuro de la web.
 
-A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/IamJoseVarghese/status/1109404147508342784) una nueva funcionalidad que podría enlazar rápidamente una imagen con el art
+A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/IamJoseVarghese/status/1109404147508342784) una nueva funcionalidad en Google Imágenes con la que se podría pasar -deslizando el dedo- desde una imagen al artículo AMP en el que aparece.
 
 ![](https://lh4.googleusercontent.com/S2gn-rMi3rLpBtHCwAZTUSNDoCwZYXuvCTJzGFpa_hJaMp5TuhSTSJvy01HA8R0KM05XQnxkEnxlOg-IX4dTastq8Fh--Ts2rlIdtndyAbqSlPlEZi-93YjjMhUk90fWHQ1BjGgj)
 
-En enero de 2019,  [John Mueller](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://www.seroundtable.com/google-image-search-changes-coming-this-year-27011.html&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhjilQbbHozPT9eSJm73hkuDwubK7g)  declaró que "las imágenes (una vez más) están ganando importancia en general en la web" y Gary Ilyes, en respuesta,  [dijo en Twitter](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://twitter.com/methode/status/1126875386619412481%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Etweetembed%257Ctwterm%255E1126875386619412481%26ref_url%3Dhttps%253A%252F%252Fwww.seroundtable.com%252Fgoogle-image-search-seo-future-27548.html&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhj97_pzK8JBEmwRD8sn-yApez-wmA)  que la razón principal de esta próxima característica de AMP fue porque pueden ver que los editores están desaparecidos. en el tráfico, y que sería bueno arreglarlo:  
 
-![](https://lh5.googleusercontent.com/Ir4LaS_N3lKdMQTribTajeLIYHzXV0j95U-D6sKbtypYb3SOoHslTrwz27Z8yHANXypuPeGP6T7Rojcn5RMYASVaqxMgMpQMH2gDqcY1TKL6yoFlAg7g0QgrQXNWefPvVpMhX9Pu)
 
 Google ha demostrado cada vez más que son menos un motor de búsqueda y más un "motor de finalización de tareas".  En cualquier momento, Google podría comenzar a experimentar o  [simplemente anunciar una decisión](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://www.seroundtable.com/google-image-search-changes-coming-this-year-27011.html&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhjilQbbHozPT9eSJm73hkuDwubK7g)  de omitir por completo el paso de Búsqueda de imágenes de Google y llevar a los usuarios directamente a la página de origen si, de hecho, resulta ser más valioso para la experiencia de búsqueda.  Para mí, esto indica que la imagen del fragmento de código que aparece al hacer clic directamente en la URL de origen puede no estar muy lejos y, por lo tanto, vale la pena continuar.
 
@@ -82,6 +80,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjY2NDY5NSwtNDQ1NTc5MjQzLDEyMT
+eyJoaXN0b3J5IjpbMTA1NjY2NTMwMCwtNDQ1NTc5MjQzLDEyMT
 c5NzQ5MjUsMTY0MTY0MzQwNiw2NDg3NDM4ODddfQ==
 -->
