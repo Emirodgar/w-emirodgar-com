@@ -15,6 +15,16 @@ permalink: optimizacion-imagenes-seo
 
 Las imágenes han ido adquiriendo cada vez más relevancia dentro de las búsquedas, por ello, el posicionar de forma óptima dentro de este segmento nos ayudará a incrementar notoriamiente el tráfico orgánico hacia nuestra página.
 
+La apuesta más fuerte de Google en los últimos años están siendo los datos estructurados. Dentro de los mismos podemos ver la evolución que 
+
+- 2012 - Gráfica de conocimiento
+- 2013 - Casillas de respuestas
+- 2015 - Próximos eventos
+- 2016 - Publicaciones de Google
+- 2016 - Cartas enriquecidas
+- 2017 - Listados de trabajo de Google
+- 2019 - Preguntas frecuentes y procedimientos
+
 Google nos facilita una serie de [recomendaciones y buenas prácticas](https://support.google.com/webmasters/answer/114016?hl=es) pero aún hay otras acciones que podemos llevar a cabo para incrementar la captación de tráfico relevante.
 
 ## Las imágenes en los fragmentos destacados
@@ -92,6 +102,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODMwMTMzNiwxNjQxNjQzNDA2LDY0OD
+eyJoaXN0b3J5IjpbMTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0OD
 c0Mzg4N119
 -->
