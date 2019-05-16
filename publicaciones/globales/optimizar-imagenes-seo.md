@@ -48,11 +48,11 @@ En cierta medida esto tiene sentido. Puede que tu imagen ayuda a complementar el
 
 Accelerated Mobile Pages (AMP) es -junto con las PWA- la otra apuesta fuerte de Google por el futuro de la web.
 
-A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/IamJoseVarghese/status/1109404147508342784) una nueva funcionalidad en Google Imágenes con la que se podría pasar -deslizando el dedo- desde una imagen al artículo AMP en el que aparece.
+A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/IamJoseVarghese/status/1109404147508342784) una nueva funcionalidad en Google Imágenes con la que se podría pasar -de forma rápida- desde una imagen al artículo AMP en el que aparece.
 
 ![](https://lh4.googleusercontent.com/S2gn-rMi3rLpBtHCwAZTUSNDoCwZYXuvCTJzGFpa_hJaMp5TuhSTSJvy01HA8R0KM05XQnxkEnxlOg-IX4dTastq8Fh--Ts2rlIdtndyAbqSlPlEZi-93YjjMhUk90fWHQ1BjGgj)
 
-## Optimizando su contenido para la relevancia
+## Cómo optimizar las imágenes
 
 Google  _generalmente_  genera fragmentos de los sitios en la primera página de los resultados de búsqueda.  Es posible, sin embargo, tener una imagen incluida sin clasificar en la primera página.  
 
@@ -176,7 +176,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTEwNTQ2MSwtMTE2NzU2MjUwMSwtND
-Q1NTc5MjQzLDEyMTc5NzQ5MjUsMTY0MTY0MzQwNiw2NDg3NDM4
-ODddfQ==
+eyJoaXN0b3J5IjpbLTEwNjQ3MzcyMTgsLTExNjc1NjI1MDEsLT
+Q0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQz
+ODg3XX0=
 -->
