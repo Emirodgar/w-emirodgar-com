@@ -54,7 +54,7 @@ Para poder identificar las acciones más adecuadas de cara a optimizar nuestras 
 
 > Su objetivo es proporcionar al usuario la imagen más útil teniendo en cuenta que un factor de relevancia contextual podría reemplazar a uno técnico 
 
-Dicho esto, tenemos que buscar -a mayores de una base SEO técnica-
+Dicho esto, tenemos que buscar -a mayores de una base SEO técnica- un contexto común entre contenido y elementos multimedia.
 
 ### 1- Alinear contenido e imágenes con tendencias de búsqueda
 
@@ -133,7 +133,7 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjUyMzk1MSw5Nzg2Mjc5NjEsLTU4MT
+eyJoaXN0b3J5IjpbMTc3Mzc3NzUzNCw5Nzg2Mjc5NjEsLTU4MT
 YzNjQ0OCwzNTU5ODAsLTExNjc1NjI1MDEsLTQ0NTU3OTI0Mywx
 MjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQzODg3XX0=
 -->
