@@ -74,9 +74,7 @@ Debemos colocar la imagen en la parte superior de la web y cerca del contenido r
 
 ### 4- Nombre de archivo
 
-El nombre de archivo de la imagen puede ayudar a Google a entender sobre el tema de la imagen.  Utilice nombres de archivo claros y concisos que coincidan con la imagen, con palabras separadas por un guión (por ejemplo, “  **consultor-seo.jpg**  ”).  
-
-Si está utilizando WordPress y desea excluir la fecha de las URL de contenido cargadas, simplemente  **desmarque**  la opción "  **_Organizar mis cargas en carpetas basadas en meses y años_**  _"_  de  **_Cuadro de mandos → Configuraciones → Medios_**  .  Una vez que haga esto, todas sus cargas se agregarán a la carpeta general "  **_wp-content / uploads_**  _"_  .  
+El nombre de archivo de la imagen puede ayudar a Google a conocer de qué trata.  Debemos utilizar nombres de archivo claros y concisos (descriptivos) que coincidan con la imagen; las palabras deben estar separadas por un guión: (por ejemplo, “  **consultor-seo.jpg**  ”).  
 
 #### **Atributo Alt**
 
@@ -158,7 +156,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA1MzQyMDgsLTExNjc1NjI1MDEsLT
+eyJoaXN0b3J5IjpbLTE5Nzg1Mjc4MTksLTExNjc1NjI1MDEsLT
 Q0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQz
 ODg3XX0=
 -->
