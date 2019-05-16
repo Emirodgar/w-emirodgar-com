@@ -1,23 +1,23 @@
 ---
-title: Listado de robots spam para bloquear en nuestra web
-description: Evita que los buscadores rastreen tu página web y alteren tu tráfico real
+title: Listado de robots spam para bloquear
+description: Evita que los buscadores rastreen tu página web y alteren tu tráfico real bloqueando a los SPAM
 lang: es_ES
 author: Emirodgar
 tags: seo, htaccess, robots
 date: 16/05/2019
 date_modified: 16/05/2019
 image: https://emirodgar.com/cdn/images/og/og-seo-tools-big.jpg
-permalink: bloquear-robots-txt
+permalink: listado-robots-bloquear
 
 ---
 
 # Listado de robots spam para bloquear en nuestra web
 
-Tranquilos, no pretendo bloquear a Google o a aquellos buscadores que nos aportan tráfico y conversiones; el objetivo de esta publicación es hacer un listado
+Tranquilos, no pretendo bloquear a Google o a aquellos buscadores que nos aportan tráfico y conversiones; el objetivo de esta publicación es hacer un listado de aquellos robots spam o de aplicaciones de terceros que escanean y analizan nuestro sitio web. De esta forma conseguimos evitar visitas innecesarias y optimizamos los recursos.
 
 ## Bloquear el acceso de robots de búsqueda a tu página web
 
-Tranquilos, no pretendo bloquear a Google o a aquellos buscadores que nos aportan tráfico y conversiones; el objetivo de esta publicación es hacer un listado
+Para bloquear
 
 ```
 User-agent: Applebot
@@ -1078,5 +1078,5 @@ User-agent: ZyBorg
 Disallow:/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODgxODU2Ml19
+eyJoaXN0b3J5IjpbLTE3MTQ0MTMyNzcsMTg4ODgxODU2Ml19
 -->
