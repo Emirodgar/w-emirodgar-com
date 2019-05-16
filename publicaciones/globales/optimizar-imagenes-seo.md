@@ -13,11 +13,11 @@ permalink: optimizacion-imagenes-seo
 
 # Optimización de imágenes para el SEO
 
+Las imágenes han ido adquiriendo cada vez más relevancia dentro de las búsquedas, por ello, el posicionar de forma óptima dentro de este segmento nos ayudará a incrementar notoriamiente el tráfico orgánico hacia nuestra página.
+
+## Las imágenes en los fragmentos destacados
+
 Cuando Google decide mostrar un fragmento de página destacada en la primera posición, a veces, la imagen que acompaña a dicho contenido no es de la misma página. El hecho de que obtenga la imagen de otro resultado destaca **la relevancia que tienen las imágenes para el buscador**. Por ello, debe ser una prioridad tener nuestras imágenes optimizadas para favorecer nuestra [estrategia SEO](estrategia-seo).
-
-## **Cómo funcionan las imágenes de fragmentos destacados**
-
-John Mueller declaró en Twitter en agosto de 2018 que "a veces hay imágenes realmente útiles de un sitio y grandes fragmentos de otro", empujando a todos aquellos con "imágenes impresionantes" en la dirección de las  [mejores prácticas](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://support.google.com/webmasters/answer/114016%3Fhl%3Den&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhic7HO1lbGgjxjWtXDHNhA_4wMF6w)  de  [Google Image](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://support.google.com/webmasters/answer/114016%3Fhl%3Den&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhic7HO1lbGgjxjWtXDHNhA_4wMF6w)  , lo cual tiene sentido.  
 
 ![Ejemplo de resultadocon contenido e imagen de páginas diferentes](https://i.imgur.com/JYBZsY9.png)
 
@@ -87,6 +87,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjgyMjY4LDE2NDE2NDM0MDYsNjQ4Nz
-QzODg3XX0=
+eyJoaXN0b3J5IjpbLTExNjkwOTcxMSwxNjQxNjQzNDA2LDY0OD
+c0Mzg4N119
 -->
