@@ -113,6 +113,8 @@ Google anunció recientemente su [Programa Opt-In de alta resolución](https://s
 
 Para asegurarnos de que nuestras imágenes aparecen en los bloques de fragmentos destacados, debemos usar la  **mejor representación visual para el contexto de la página**  , teniendo en cuenta la consulta de destino.  Si la página trata sobre “  _cómo dibujar un gato_  ”, elija una imagen que muestre a una persona dibujando un gato.  No es una imagen de un gato real.
 
+> Así es como Google analiza la [interacción con las imágenes del Knowledge Graph](http://www.clairecarlilemarketing.com/blog/how-google-treats-see-photos-in-the-local-knowledge-panel/).
+
 ### 8- Accesibilidad
 
 Es buena práctica comprimir las imágenes para que puedan servirse de manera  **rápida**  y  **efectiva**  para todos los tipos y tamaños de dispositivos. Debemos asegurarnos de usar  ```srcset``` para [ofrecer imágenes adaptables](https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) y ofrecer una mejor experiencia de navegación.  Para garantizar la máxima accesibilidad, no debemos incluir texto dentro de la imagen sino como contenido HTML adicional a la misma.  
@@ -133,8 +135,8 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDA1NzI0MiwtMzg4MDUwMDExLDUyNj
-Y0MzY5MSw5Nzg2Mjc5NjEsLTU4MTYzNjQ0OCwzNTU5ODAsLTEx
-Njc1NjI1MDEsLTQ0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2ND
-M0MDYsNjQ4NzQzODg3XX0=
+eyJoaXN0b3J5IjpbOTYzODE4NDI0LC0zNzQwNTcyNDIsLTM4OD
+A1MDAxMSw1MjY2NDM2OTEsOTc4NjI3OTYxLC01ODE2MzY0NDgs
+MzU1OTgwLC0xMTY3NTYyNTAxLC00NDU1NzkyNDMsMTIxNzk3ND
+kyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4N119
 -->
