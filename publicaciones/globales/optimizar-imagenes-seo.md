@@ -123,39 +123,16 @@ Aunque no es obligatorio, es buena práctica disponer de un [sitemap XML de imá
 
 Esto puede ser obvio, pero las imágenes más nítidas son más atractivas para los usuarios que las imágenes borrosas y poco claras.  Las imágenes de alta calidad aumentarán la probabilidad de conseguir tráfico desde los buscadores.
 
+Hay métodos automáticos para [optimizar en bloque nuestras imágenes](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/).
+
 Google anunció recientemente su  [Programa Opt-In de alta resolución, en el](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://searchengineland.com/google-to-add-support-for-higher-quality-images-in-search-swipe-up-images-3d-images-316706&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhhDyxUsOHjMTM-gQx6ASe4ws01wuA)  que podrá proporcionar a Google una imagen de alta resolución a través de un marcado semántico.  Según la captura de pantalla a continuación, parece que una vez que se haya inscrito en el programa, podrá asignar una propiedad de  **licencia**  al esquema de  **ImageObject**  :
 
 ![](https://lh4.googleusercontent.com/FtmIC_bil_ZiL1YJlxO0qhUJYSkUNe5uYSVeLZ-2qniHiNUsxDQv9bFz-i-YgL-lN-S7aEb-gvEIthGIfSTW64mUFR9cXOPcul0w4s0lXmDvjkdzyRNSg-Rc_x5PXOd7omAL-_QA)
 
 Con respecto a las imágenes de fragmentos destacados, asegúrese de que la imagen que use sea la  **mejor representación visual para el tema de la página**  , teniendo en cuenta la consulta de destino.  Si la página trata sobre “  _cómo dibujar un gato_  ”, elija una imagen que muestre a una persona dibujando un gato.  No es una imagen de un gato real.
 
-## Seguimiento de su rendimiento de imagen
-
-Una vez que haya optimizado sus imágenes, querrá hacer un seguimiento de su rendimiento.  Las herramientas como  [SEMRush](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://www.semrush.com/&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhgTec77ump09X_BwcB_xUXD4PDcDA)  brindan una gran perspectiva específicamente para los fragmentos destacados a los que está asociado su sitio web.  También puede usar herramientas gratuitas como la Consola de búsqueda de Google y Google Analytics para comprender cómo las personas encuentran su contenido a través de imágenes.  
-
-### **Cómo rastrear imágenes en la consola de búsqueda de Google:**
-
-1.  Abre  [Google Search Console](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://search.google.com/search-console/about&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhjxr-2FVq-iBBL6HwCTzODuu2DbIw)  para tu sitio web.
-2.  Haga clic en la pestaña  **Rendimiento**  .
-3.  Luego cambia el  **tipo de búsqueda**  de la web a la  **imagen**  .
-
-![](https://lh3.googleusercontent.com/d2NS-qilKFotEhkCm77quHp3bp2CNVbBgafbmL66NtZq2nh0fy5WL-hMFp-KJHSQ9LXBhBLAYoOvofDD02LIZtnSl-_GTsbcvcbzygQzkvEl0vH_Upf0MnJ0da-ImK8b2Lm7iV8k)
-
-### **Cómo rastrear imágenes en Google Analytics:**
-
-1.  Abre  [Google Analytics](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://analytics.google.com/analytics/web/&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhidhbOaUB47_OFEl-uL_6mc5F6WKA)  para tu sitio web.
-2.  Haga clic en  **Adquisición**  >  **Todo el tráfico**  >  **Fuente / Medio**
-3.  Entonces simplemente busque "  **google images / organic**  ".
-
-![](https://lh3.googleusercontent.com/jOU8Mi7Z86tWRvYGg6wYt_Vwumxi4HmDE7riirZZmGuVD-b6qN2z9FUkHYK1o6v635itiaPARhgc9bhgtjDyberr9d7dmQanP83vu4s6bBaSrdwoQ108fFdJipRKGUEWCUs3Sq_z)
-
-## Oportunidades de optimización
-
-Una vez que haya descubierto los términos de búsqueda para los que aparecen sus imágenes en Búsqueda de imágenes, es hora de comenzar a ver las oportunidades técnicas y contextuales disponibles.  
-
-Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTYzNjQ0OCwzNTU5ODAsLTExNjc1Nj
-I1MDEsLTQ0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2NDM0MDYs
-NjQ4NzQzODg3XX0=
+eyJoaXN0b3J5IjpbNjk1MTczMjEyLC01ODE2MzY0NDgsMzU1OT
+gwLC0xMTY3NTYyNTAxLC00NDU1NzkyNDMsMTIxNzk3NDkyNSwx
+NjQxNjQzNDA2LDY0ODc0Mzg4N119
 -->
