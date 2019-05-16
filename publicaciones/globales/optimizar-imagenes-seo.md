@@ -68,7 +68,7 @@ Hacer un **keyword research** para conocer cómo busca nuestro público objetivo
 
 Recomiendo leer  [la documentación oficial de Google](https://support.google.com/webmasters/answer/114016?hl=es)  ya que hace un magnífico trabajo  identificando puntos relevantes a la hora de optimizar imágenes. Nos ayudará a sentar las bases necesarias para poder trabajar con imágenes.
 
-También recomiendo la lectura de [cómo generar imágenes eficientes](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization) y las imágenes adaptativas](.
+Podemos complementar nuestros conocimientos con la lectura de [cómo generar imágenes eficientes](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization) y las [imágenes adaptativas](https://developers.google.com/web/fundamentals/design-and-ux/responsive/images).
 
 ### 3- Ubicar la imagen correctamente
 
@@ -116,7 +116,7 @@ Es buena práctica comprimir las imágenes para que puedan servirse de manera  *
 
 ### 8- Sitemap de imágenes
 
-También puede considerar usar un mapa del sitio XML  [específicamente para imágenes](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://support.google.com/webmasters/answer/178636&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhiO5Jdvwc7XchI1DaF_g8FpIQSYtg)  .  Google afirma que con estos en su lugar puede "ayudar a Google a descubrir imágenes que de otra manera no encontraríamos (como las imágenes que su sitio alcanza con el código JavaScript), y le permite indicar las imágenes en su sitio que desea que Google rastree e indexe. ”
+Aunque no es obligatorio, es buena práctica disponer de un [sitemap XML de imágenes](https://support.google.com/webmasters/answer/178636).  Google afirma que con estos en su lugar puede "ayudar a Google a descubrir imágenes que de otra manera no encontraríamos (como las imágenes que su sitio alcanza con el código JavaScript), y le permite indicar las imágenes en su sitio que desea que Google rastree e indexe. ”
 
 ### **Calidad**
 
@@ -160,7 +160,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDEyODEsMzU1OTgwLC0xMTY3NTYyNT
-AxLC00NDU1NzkyNDMsMTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0
-ODc0Mzg4N119
+eyJoaXN0b3J5IjpbMTM3MzAzOTM0LDM1NTk4MCwtMTE2NzU2Mj
+UwMSwtNDQ1NTc5MjQzLDEyMTc5NzQ5MjUsMTY0MTY0MzQwNiw2
+NDg3NDM4ODddfQ==
 -->
