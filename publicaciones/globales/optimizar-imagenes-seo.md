@@ -62,13 +62,13 @@ Para poder identificar las acciones más adecuadas de cara a optimizar nuestras 
 
 El punto clave será  **aprovechar los términos de búsqueda sugeridos en Imágenes de Google**  para asegurarnos de que nuestro contenido y la imagen que lo acompaña están alienados. 
 
-Hacer un keyword research para conocer cómo busca nuestro público objetivo las imágenes relacionadas con nuestras publicaciones será crucial para poder alienarnos y aspirar a aparecer tanto en resultados con datos estructurados como en AMP.
+Hacer un **keyword research** para conocer cómo busca nuestro público objetivo las imágenes relacionadas con nuestras publicaciones será crucial para poder alienarnos y aspirar a aparecer tanto en resultados con datos estructurados como en AMP.
 
 ### 2- Implementar buenas prácticas
 
-Recomiendo leer  [la documentación oficial de Google](https://support.google.com/webmasters/answer/114016?hl=es)  ya que hace un magnífico trabajo  identificando puntos relevantes a la hora de optimizar imágenes. A mayores, estos son otros factores que debemos tener en cuenta:
+Recomiendo leer  [la documentación oficial de Google](https://support.google.com/webmasters/answer/114016?hl=es)  ya que hace un magnífico trabajo  identificando puntos relevantes a la hora de optimizar imágenes. Nos ayudará a sentar las bases necesarias para poder trabajar con imágenes
 
-#### **Colocación de la imagen**
+### 3- Ubicar la imagen correctamente
 
 Coloque la imagen que desea que aparezca en el fragmento en la parte superior de la página y cerca del texto relevante.  Mantener la imagen prominente en la página no solo demuestra su importancia, sino que también puede ayudar a mantenerla más cerca del encabezado H1, que debe estar orientada a las palabras clave relevantes, lo que aumenta la asociación entre las dos.
 
@@ -158,7 +158,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMzMjM2MDIsLTExNjc1NjI1MDEsLT
-Q0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQz
-ODg3XX0=
+eyJoaXN0b3J5IjpbMzcwMDQwMDcsLTExNjc1NjI1MDEsLTQ0NT
+U3OTI0MywxMjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQzODg3
+XX0=
 -->
