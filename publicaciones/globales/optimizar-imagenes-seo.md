@@ -25,7 +25,7 @@ En la siguiente imagen podemos ver un ejemplo de lo que hablamos: el contenido e
 
 ![Ejemplo de resultadocon contenido e imagen de páginas diferentes](https://i.imgur.com/JYBZsY9.png)
 
-Por ello, debe ser una prioridad optimizar las imágenes al máximo para favorecer nuestra [estrategia SEO](estrategia-seo).
+El hecho de no disponer de una imagen adecuada hace perder visibilidad a una página que ha conseguido aparecer en una posición destacada por su contenido; por ello, debe ser una prioridad **optimizar las imágenes al máximo** para favorecer nuestra [estrategia SEO](estrategia-seo).
 
 Sin embargo, al interactuar con (es decir, hacer clic en) una imagen de fragmento destacada, actualmente se mantiene dentro del ecosistema de Google y se lleva a una versión ampliada de la imagen en los resultados de Búsqueda de imágenes de Google.
 
@@ -93,6 +93,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzM1NTQyOSwxNjQxNjQzNDA2LDY0OD
-c0Mzg4N119
+eyJoaXN0b3J5IjpbLTEwMzY1OTgwMDgsMTY0MTY0MzQwNiw2ND
+g3NDM4ODddfQ==
 -->
