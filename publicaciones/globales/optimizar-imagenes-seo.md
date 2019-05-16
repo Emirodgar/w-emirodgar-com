@@ -54,27 +54,9 @@ A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/
 
 ## Cómo optimizar las imágenes
 
-Google  _generalmente_  genera fragmentos de los sitios en la primera página de los resultados de búsqueda.  Es posible, sin embargo, tener una imagen incluida sin clasificar en la primera página.  
+Para poder identificar las acciones más adecuadas para optimizar nuestras imágenes debemos entender qué es lo que busca Google. 
 
-Por ejemplo, tome la consulta "  **luz infrarroja**  ":  
-
-![](https://lh5.googleusercontent.com/xzhqE7UiMg4FHwBjXiL8ANlMFzdRbgERcgVlbgyA0LI-odIJPaBE9pDPJdl-TJlcBW1Uyx3keBrBxV9mYAlNk6BaFa7Ft1vqNsix4RVpfw1mQTCFFWFswgpaTEa6lRywfWage_n3)
-
-La  [fuente](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=http://www.physicscentral.com/explore/action/infraredlight.cfm&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhhPvOoAXa3Qz2b-NBVQaUV1RS1jbg)  de esta imagen se encuentra en la  **segunda**  página de los resultados de búsqueda web, pero aparece primero en Google Images.  No están utilizando ningún dato estructurado, la página no responde, no se puede encontrar  **srcset =**  y la imagen es de baja calidad.  **Entonces, ¿por qué se está eligiendo para representar la imagen del fragmento?**  
-
-![](https://lh4.googleusercontent.com/mZtxZXif1y0wWTmg0LvvV6-x_-io2PjGzk1mMPRr8zPo3vM3IX5Ep4DzdbcucfimjaMxV0-WCKNflPMn2d1PlTuGQL_s1Zl3gsEi5AExki5OdrUFb3oArAFv0lA9_nYlMsAs1qRy)
-
-A pesar de la falta de optimización de la imagen, al comparar el contenido de la página y la imagen con los resultados que la preceden, en su contexto,  **la imagen y el contenido del texto**  proporcionan el mejor resumen de la luz infrarroja.  En particular, verá que en las consultas sugeridas, 'espectro electromagnético' muestra una imagen casi idéntica.  
-
-Echemos un vistazo a la sugerencia para la consulta de búsqueda "la  **mejor manera de blanquear los dientes en casa**  ".  Como puede ver a continuación, el fragmento destacado muestra a alguien colocando carbón en un cepillo de dientes:  
-
-![](https://lh4.googleusercontent.com/0dxP2UomegzwlaGlE0f2ft14Psm8rWWj1IR7VYZFcY4z9P2LrDyMdSK3n6-4m2PhSuL0ir6yW26KzkgxjE7VnfVMKwvD-UAWTJDFzMnMSZGB4LMy4qVg3U57aHYNxUQp-atd_TKW)
-
-Curiosamente, el primer término de búsqueda sugerido en Google Images es "  **carbón**  ".  La imagen mostrada  **no se encontraba**  cerca de la parte superior de las imágenes de Google, y puede ver por sí mismo que ninguno de los resultados está haciendo un gran trabajo al mostrar el carbón de una manera simple y demostrativa que el fragmento de código desea mostrar.  
-
-![](https://lh3.googleusercontent.com/DJaLddG5oFMZ37vEU9YcuwgIVUCIMmHf_0NCL5AvLukS-9d1Ih_1Z0i5VT_lK7wRzdtAHPu_FnuHqwzGhFvPH_15-Q3sBJZrpUytz8D0k_4BYzgGWn1A4tUoiJHhMytIhAQvM9N-)
-
-Creo que este es un buen ejemplo de que Google desea proporcionar al buscador la imagen más útil, y donde un factor de relevancia contextual podría reemplazar a uno técnico.  
+> Su objetivo es proporcionar al buscador la imagen más útil, y donde un factor de relevancia contextual podría reemplazar a uno técnico.  
 
 El punto clave aquí es asegurarse de  **aprovechar los términos de búsqueda sugeridos en Imágenes de Google**  para asegurarse de que el contenido de texto y la imagen de destino los reflejen en consecuencia.Esta es una gran información para comprender la intención completa detrás de la consulta y cómo puede optimizar su contenido para ayudar a resolverlo.
 
@@ -176,7 +158,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ3MzcyMTgsLTExNjc1NjI1MDEsLT
-Q0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQz
-ODg3XX0=
+eyJoaXN0b3J5IjpbLTUzMDM4MTg3LC0xMTY3NTYyNTAxLC00ND
+U1NzkyNDMsMTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4
+N119
 -->
