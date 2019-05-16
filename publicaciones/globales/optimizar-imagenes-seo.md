@@ -13,7 +13,7 @@ permalink: optimizacion-imagenes-seo
 
 # Optimización de imágenes para el SEO
 
-Cuando Google decide mostrar un fragmento de página destacada en la primera posición, a veces, la imagen que acompaña a dicho contenido no es de la misma página. El hecho de que obtenga la imagen de otro resultado destaca la relevancia que tienen las imágenes para el buscador. Por ello, para nosotros debe ser una prioridad tener nuestras imágenes optimizadas para favorecer nuestra [estrategia SEO](estrategia-seo).
+Cuando Google decide mostrar un fragmento de página destacada en la primera posición, a veces, la imagen que acompaña a dicho contenido no es de la misma página. El hecho de que obtenga la imagen de otro resultado destaca **la relevancia que tienen las imágenes para el buscador**. Por ello, para nosotros debe ser una prioridad tener nuestras imágenes optimizadas para favorecer nuestra [estrategia SEO](estrategia-seo).
 
 ## **Cómo funcionan las imágenes de fragmentos destacados**
 
@@ -87,5 +87,5 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4NzQzODg3XX0=
+eyJoaXN0b3J5IjpbMTA0ODA5NjcxOSw2NDg3NDM4ODddfQ==
 -->
