@@ -91,7 +91,7 @@ El atributo alt le permite  **especificar**  **el**  **texto que se mostrará ca
 
 ### 6- Atributo Title
 
-Aunque se ha especulado que el atributo de título de la imagen no es tenido en cuenta por el algoritmo de Google. Varios experimentos han  [demostrado](https://www.seroundtable.com/google-does-index-rank-title-attribute-tag-in-images-21932.html)  que Google, de hecho, había rastreado e indexado el contenido dentro de dicha etiqueta.  Por ello, aunque puede que no sea un aspecto crucial, sí recomendaría aplicarlo.
+Aunque se ha especulado que el atributo de título de la imagen no es tenido en cuenta por el algoritmo de Google, varios experimentos han  [demostrado](https://www.seroundtable.com/google-does-index-rank-title-attribute-tag-in-images-21932.html)  que Google había rastreado e indexado el contenido dentro de dicha etiqueta.  Por ello, aunque puede que no sea un aspecto crucial, sí recomendaría aplicarlo.
 
 ```
 <img src="consultor-seo-salamanca.jpg" alt="Consultor SEO en Salamanca" title="Consultor SEO en Salamanca" />
@@ -100,14 +100,14 @@ Aunque se ha especulado que el atributo de título de la imagen no es tenido en 
 
 ### 7- Marcado semántico
 
-Desde Schema.org podemos ver al detalle el [marcado semántico de las imágenes](https://schema.org/image). No obstante, lo que nos interesa son aquellas propiedades de las que hace uso Google. Algunas de las más destacadas que hacen uso de imágenes son:
+Desde Schema.org podemos ver al detalle el [marcado semántico de las imágenes](https://schema.org/image). No obstante, lo que nos interesa son aquellas propiedades de las que hace uso Google. Algunas de las más destacadas son:
 
 - [Artículo](https://developers.google.com/search/docs/data-types/article)
 - [Logotipo](https://developers.google.com/search/docs/data-types/logo)
 - [Carrusel](https://developers.google.com/search/docs/guides/mark-up-listings)
 - [Evento](https://developers.google.com/search/docs/data-types/event)
 
-Google anunció recientemente su  [Programa Opt-In de alta resolución, en el](https://searchengineland.com/google-to-add-support-for-higher-quality-images-in-search-swipe-up-images-3d-images-316706)  que podremos proporcionar a Google una imagen de alta resolución a través de un marcado semántico.  Según la captura de pantalla a continuación, parece que una vez que se haya inscrito en el programa, podrá asignar una propiedad de  **licencia**  al esquema de  **ImageObject**  :
+Google anunció recientemente su [Programa Opt-In de alta resolución](https://searchengineland.com/google-to-add-support-for-higher-quality-images-in-search-swipe-up-images-3d-images-316706)  en el que podremos proporcionar a Google una imagen de alta resolución a través de un marcado semántico.  Parece ser una propiedad de  **licencia**  al esquema de  **ImageObject**  :
 
 ![](https://lh4.googleusercontent.com/FtmIC_bil_ZiL1YJlxO0qhUJYSkUNe5uYSVeLZ-2qniHiNUsxDQv9bFz-i-YgL-lN-S7aEb-gvEIthGIfSTW64mUFR9cXOPcul0w4s0lXmDvjkdzyRNSg-Rc_x5PXOd7omAL-_QA)
 
@@ -133,7 +133,7 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mzc3NzUzNCw5Nzg2Mjc5NjEsLTU4MT
-YzNjQ0OCwzNTU5ODAsLTExNjc1NjI1MDEsLTQ0NTU3OTI0Mywx
-MjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQzODg3XX0=
+eyJoaXN0b3J5IjpbNTI2NjQzNjkxLDk3ODYyNzk2MSwtNTgxNj
+M2NDQ4LDM1NTk4MCwtMTE2NzU2MjUwMSwtNDQ1NTc5MjQzLDEy
+MTc5NzQ5MjUsMTY0MTY0MzQwNiw2NDg3NDM4ODddfQ==
 -->
