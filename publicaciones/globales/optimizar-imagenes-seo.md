@@ -74,11 +74,15 @@ Debemos colocar la imagen en la parte superior de la web y cerca del contenido r
 
 ### 4- Nombre de archivo
 
-El nombre de archivo de la imagen puede ayudar a Google a conocer de qué trata.  Debemos utilizar nombres de archivo claros y concisos (descriptivos) que coincidan con la imagen; las palabras deben estar separadas por un guión: (por ejemplo, “  **consultor-seo.jpg**  ”).  
+El nombre de archivo de la imagen puede ayudar a Google a conocer de qué trata.  Debemos utilizar nombres de archivo claros y concisos (descriptivos) que coincidan con la imagen; las palabras deben estar separadas por un guión:
 
-#### **Atributo Alt**
+```
+consultor-seo-salamanca.jpg
+```  
 
-El atributo alt le permite  **especificar**  **el**  **texto que se mostrará cada vez que la imagen no esté disponible**  , como cuando la imagen no se carga, es rastreada por un motor de búsqueda o es encontrada por un lector de pantalla.  Google utiliza el texto alternativo junto con los algoritmos de visión de la computadora y el contenido de la página para comprender el tema de la imagen.  Esto significa que no es necesario proporcionar todas las palabras clave relacionadas posibles para describir la imagen.Simplemente use una breve descripción para transmitir el mismo concepto que la imagen, en el mismo contexto:  
+### 5- Atributo ALT
+
+El atributo alt le permite  **especificar**  **el**  **texto que se mostrará cada vez que la imagen no esté disponible**  , como cuando la imagen no se carga, es rastreada por un motor de búsqueda o es encontrada por un lector de pantalla.  Google utiliza el texto alternativo junto con el contenido de la página para comprender el contexto de la imagen.  Esto significa que no es necesario proporcionar todas las palabras clave relacionadas posibles para describir la imagen. Simplemente debemos incluuna breve descripción para transmitir el mismo concepto que la imagen, en el mismo contexto:  
 
 **Malo (relleno de palabras clave):**
 
@@ -156,7 +160,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg1Mjc4MTksLTExNjc1NjI1MDEsLT
-Q0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQz
-ODg3XX0=
+eyJoaXN0b3J5IjpbLTgyMTA2NDIxLC0xMTY3NTYyNTAxLC00ND
+U1NzkyNDMsMTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4
+N119
 -->
