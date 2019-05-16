@@ -121,7 +121,7 @@ Aunque no es obligatorio, es buena práctica disponer de un [sitemap XML de imá
 
 ### 8- Imágenes de calidad
 
-Esto puede ser obvio, pero las imágenes más nítidas son más atractivas para los usuarios que las imágenes borrosas y poco claras.  Las imágenes de alta calidad en la miniatura de Resultados de búsqueda aumentarán la probabilidad de conseguir tráfico.
+Esto puede ser obvio, pero las imágenes más nítidas son más atractivas para los usuarios que las imágenes borrosas y poco claras.  Las imágenes de alta calidad aumentarán la probabilidad de conseguir tráfico desde los buscadores.
 
 Google anunció recientemente su  [Programa Opt-In de alta resolución, en el](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://searchengineland.com/google-to-add-support-for-higher-quality-images-in-search-swipe-up-images-3d-images-316706&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhhDyxUsOHjMTM-gQx6ASe4ws01wuA)  que podrá proporcionar a Google una imagen de alta resolución a través de un marcado semántico.  Según la captura de pantalla a continuación, parece que una vez que se haya inscrito en el programa, podrá asignar una propiedad de  **licencia**  al esquema de  **ImageObject**  :
 
@@ -155,7 +155,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE0MDQxMTksMzU1OTgwLC0xMTY3NT
-YyNTAxLC00NDU1NzkyNDMsMTIxNzk3NDkyNSwxNjQxNjQzNDA2
-LDY0ODc0Mzg4N119
+eyJoaXN0b3J5IjpbLTU4MTYzNjQ0OCwzNTU5ODAsLTExNjc1Nj
+I1MDEsLTQ0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2NDM0MDYs
+NjQ4NzQzODg3XX0=
 -->
