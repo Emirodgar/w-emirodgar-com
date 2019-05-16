@@ -19,9 +19,13 @@ Google nos facilita una serie de [recomendaciones y buenas prácticas](https://s
 
 ## Las imágenes en los fragmentos destacados
 
-Cuando Google decide mostrar un fragmento de página destacada en la primera posición, a veces, la imagen que acompaña a dicho contenido no es de la misma página. El hecho de que obtenga la imagen de otro resultado destaca **la relevancia que tienen las imágenes para el buscador**. Por ello, debe ser una prioridad tener nuestras imágenes optimizadas para favorecer nuestra [estrategia SEO](estrategia-seo).
+Cuando Google decide mostrar un fragmento de página destacada en la primera posición, a veces, la imagen que acompaña a dicho contenido no es de la misma página. El hecho de que obtenga la imagen de otro resultado destaca **la relevancia que tienen las imágenes para el buscador**. 
+
+En la siguiente imagen podemos ver un ejemplo de lo que hablamos: el contenido es de businessinsider.com pero la imagen pertenece a pcworld.com.
 
 ![Ejemplo de resultadocon contenido e imagen de páginas diferentes](https://i.imgur.com/JYBZsY9.png)
+
+Por ello, debe ser una prioridad optimizar las imágenes al máximo para favorecer nuestra [estrategia SEO](estrategia-seo).
 
 Sin embargo, al interactuar con (es decir, hacer clic en) una imagen de fragmento destacada, actualmente se mantiene dentro del ecosistema de Google y se lleva a una versión ampliada de la imagen en los resultados de Búsqueda de imágenes de Google.
 
@@ -89,6 +93,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Nzg4OTI3LDE2NDE2NDM0MDYsNjQ4Nz
-QzODg3XX0=
+eyJoaXN0b3J5IjpbMTIxMzM1NTQyOSwxNjQxNjQzNDA2LDY0OD
+c0Mzg4N119
 -->
