@@ -17,7 +17,9 @@ Tranquilos, no pretendo bloquear a Google o a aquellos buscadores que nos aporta
 
 ## Bloquear el acceso de robots de búsqueda a tu página web
 
-Para bloquear
+Para bloquear el acceso a estos robots lo podemos hacer desde nuestro fichero robot.txt. Tan sólo tendrás que copiar y pegar el siguiente listado.
+
+En el caso en el que nos encontremos con que hemos bloqueado alguno al que sí queremos dejar paso, bastará con identificarlo dentro de la lista y eliminar tanto la línea de User-agent como la de Disallow que le sigue.
 
 ```
 User-agent: Applebot
@@ -1078,5 +1080,5 @@ User-agent: ZyBorg
 Disallow:/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ0MTMyNzcsMTg4ODgxODU2Ml19
+eyJoaXN0b3J5IjpbLTEzODk3Njk2NTMsMTg4ODgxODU2Ml19
 -->
