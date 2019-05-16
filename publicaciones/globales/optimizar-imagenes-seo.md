@@ -19,7 +19,7 @@ Las imágenes han ido adquiriendo cada vez más relevancia dentro de las búsque
 
 Google nos facilita una serie de [recomendaciones y buenas prácticas](https://support.google.com/webmasters/answer/114016?hl=es) pero aún hay otras acciones que podemos llevar a cabo para incrementar la captación de tráfico relevante.
 
-La apuesta más fuerte de Google en los últimos años están siendo los datos estructurados y AMP, ambos muy relacionados con las imágenes por lo que puede ser un buen punto de partida para entender el papel que.
+La apuesta más fuerte de Google en los últimos años están siendo los datos estructurados y AMP, ambos muy relacionados con las imágenes, por lo que puede ser un buen punto de partida para entender el papel que juegan.
 
 ## Las imágenes en los fragmentos destacados
 
@@ -29,9 +29,9 @@ En la siguiente imagen podemos ver un ejemplo de lo que hablamos: el contenido e
 
 ![Ejemplo de resultadocon contenido e imagen de páginas diferentes](https://i.imgur.com/JYBZsY9.png)
 
-El hecho de no disponer de una imagen adecuada hace perder visibilidad a una página que ha conseguido aparecer en una posición destacada por su contenido; por ello, debe ser una prioridad **optimizar las imágenes al máximo** para favorecer nuestra [estrategia SEO](estrategia-seo).
+El hecho de no disponer de una imagen adecuada hace perder visibilidad a una página que ha conseguido aparecer en una posición destacada por su contenido. Por ello, debe ser una prioridad **optimizar las imágenes al máximo** y favorecer así nuestra [estrategia SEO](estrategia-seo).
 
-Si hacemos clic sobre dicha imagen de fragmento destacada iremos a una versión ampliada de la imagen dentro de los resultados de Búsqueda de imágenes de Google, es decir, no nos generará tráfico hacia nuestra página por lo que esta medida nos ayudará a evitar fuga de clics si somos los que posicionamos en primera posición con el contenido pero no nos incrementará el tráfico si somos los poseedores de la imagen.
+Si hacemos clic sobre dicha imagen de fragmento destacada iremos a una versión ampliada de la imagen dentro de los resultados de Búsqueda de imágenes de Google, es decir, no generará tráfico hacia nuestra página por lo que esta medida nos ayudará a evitar fuga de clics si somos los que posicionamos en primera posición con el contenido pero no nos incrementará el tráfico si somos los poseedores de la imagen.
 
 En cierta medida esto tiene sentido. Puede que tu imagen ayuda a complementar el contenido de otra página pero por sí misma no suele aportar valor por lo que generar tráfico a una web únicamente a través de la imagen no sería conveniente. Se trata, por tanto, de una combinación de contenido más imagen.
 
@@ -127,7 +127,7 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjgzMjExNyw5Nzg2Mjc5NjEsLTU4MT
-YzNjQ0OCwzNTU5ODAsLTExNjc1NjI1MDEsLTQ0NTU3OTI0Mywx
-MjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQzODg3XX0=
+eyJoaXN0b3J5IjpbLTEwMDMzNzE2NzIsOTc4NjI3OTYxLC01OD
+E2MzY0NDgsMzU1OTgwLC0xMTY3NTYyNTAxLC00NDU1NzkyNDMs
+MTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4N119
 -->
