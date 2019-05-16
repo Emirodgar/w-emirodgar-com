@@ -70,11 +70,11 @@ Recomiendo leer  [la documentación oficial de Google](https://support.google.co
 
 ### 3- Ubicar la imagen correctamente
 
-Debemos colocar la imagen en la parte superior de la web y cerca del contenido relevante y relacionado.  Mantener la imagen prominente en la página no solo demuestra su importancia, sino que también puede ayudar a mantenerla más cerca del encabezado H1, que debe estar orientada a las palabras clave relevantes, lo que aumenta la asociación entre las dos.
+Debemos colocar la imagen en la parte superior de la web y cerca del contenido relevante y relacionado.  El hecho de que aparezca cerca de la cabecera H1 no sólo refuerza su importancia, sino que también aumenta la asociación entre ambos elementos.
 
-#### **Nombre del archivo**
+### 4- Nombre de archivo
 
-El nombre de archivo de la imagen puede dar a Google pistas sobre el tema de la imagen.  Utilice nombres de archivo claros y concisos que coincidan con la imagen, con palabras separadas por un guión (por ejemplo, “  **gran-rojo-globo.jpg**  ”).  
+El nombre de archivo de la imagen puede dar a Google pistas sobre el tema de la imagen.  Utilice nombres de archivo claros y concisos que coincidan con la imagen, con palabras separadas por un guión (por ejemplo, “  **consultor-seo.jpg**  ”).  
 
 Si está utilizando WordPress y desea excluir la fecha de las URL de contenido cargadas, simplemente  **desmarque**  la opción "  **_Organizar mis cargas en carpetas basadas en meses y años_**  _"_  de  **_Cuadro de mandos → Configuraciones → Medios_**  .  Una vez que haga esto, todas sus cargas se agregarán a la carpeta general "  **_wp-content / uploads_**  _"_  .  
 
@@ -158,7 +158,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODczODc3MCwtMTE2NzU2MjUwMSwtND
-Q1NTc5MjQzLDEyMTc5NzQ5MjUsMTY0MTY0MzQwNiw2NDg3NDM4
-ODddfQ==
+eyJoaXN0b3J5IjpbLTE5MTA1MDcyNTksLTExNjc1NjI1MDEsLT
+Q0NTU3OTI0MywxMjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQz
+ODg3XX0=
 -->
