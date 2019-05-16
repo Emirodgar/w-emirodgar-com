@@ -15,7 +15,7 @@ permalink: optimizacion-imagenes-seo
 
 Las imágenes han ido adquiriendo cada vez más relevancia dentro de las búsquedas, por ello, el posicionar de forma óptima dentro de este segmento nos ayudará a **incrementar notoriamiente el tráfico orgánico** hacia nuestra página.
 
-> Hasta hace poco Google disponía de un botón para acceder directamente a las imágenes indexadas en su índice pero [tras una disputa legal con Getty Images]([https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html](https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html)) tuvieron que eliminarlo a mediados de 2018. De esta forma, posicionar por imágenes sí ayuda a generar tráfico hacia nuestra web.
+> Hasta hace poco Google disponía de un botón para acceder directamente a las imágenes indexadas en su índice pero [tras una disputa legal con Getty Images]([https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html](https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html)) tuvieron que eliminarlo. De esta forma, posicionar por imágenes sí ayuda a generar tráfico hacia nuestra web.
 
 La apuesta más fuerte de Google en los últimos años están siendo los datos estructurados. La mayor parte de ellos hacen uso de las imágenes para aportar valor y generar una mayor visibilidad: 
 
@@ -91,7 +91,7 @@ El atributo alt le permite  **especificar**  **el**  **texto que se mostrará ca
 <img src="consultor-seo-salamanca.jpg" alt="Consultor SEO en Salamanca" />
 ```  
 
-### 5- Atributo Title
+### 6- Atributo Title
 
 Aunque se ha especulado que el atributo de título de la imagen no es tenido en cuenta por el algoritmo de Google. Varios experimentos han  [demostrado](https://www.seroundtable.com/google-does-index-rank-title-attribute-tag-in-images-21932.html)  que Google, de hecho, había rastreado e indexado el contenido dentro de dicha etiqueta.  Por ello, aunque puede que no sea un aspecto crucial, sí recomendaría aplicarlo.
 
@@ -100,7 +100,7 @@ Aunque se ha especulado que el atributo de título de la imagen no es tenido en 
 ```  
 
 
-### 6- Marcado semántico
+### 7- Marcado semántico
 
 Desde Schema.org podemos ver al detalle el [marcado semántico de las imágenes](https://schema.org/image). No obstante, lo que nos interesa son aquellas propiedades de las que hace uso Google. Algunas de las más destacadas que hacen uso de imágenes son:
 
@@ -115,27 +115,27 @@ Google anunció recientemente su  [Programa Opt-In de alta resolución, en el](h
 
 Con respecto a las imágenes de fragmentos destacados, asegúrese de que la imagen que use sea la  **mejor representación visual para el tema de la página**  , teniendo en cuenta la consulta de destino.  Si la página trata sobre “  _cómo dibujar un gato_  ”, elija una imagen que muestre a una persona dibujando un gato.  No es una imagen de un gato real.
 
-### 7- Accesibilidad
+### 8- Accesibilidad
 
 Es buena práctica comprimir las imágenes para que puedan servirse de manera  **rápida**  y  **efectiva**  para todos los tipos y tamaños de dispositivos. Debemos asegurarnos de usar  ```srcset```.  Para garantizar la máxima accesibilidad, no debemos incluir texto dentro de la imagen sino como contenido HTML adicional a la misma.  
 
-### 8- Sitemap de imágenes
+### 9- Sitemap de imágenes
 
 Aunque no es obligatorio, es buena práctica disponer de un [sitemap XML de imágenes](https://support.google.com/webmasters/answer/178636).  Google afirma que este tipo de sitemaps "*le puede ayudar a a descubrir imágenes que de otra manera no encontraríamos (como las imágenes que su sitio alcanza con el código JavaScript), y le permite indicar las imágenes en su sitio que desea que Google rastree e indexe.* ”
 
 
-### 8- Imágenes de calidad
+### 10- Imágenes de calidad
 
 Esto puede ser obvio, pero las imágenes más nítidas son más atractivas para los usuarios que las imágenes borrosas y poco claras.  Las imágenes de alta calidad aumentarán la probabilidad de conseguir tráfico desde los buscadores.
 
 Hay métodos automáticos para [optimizar en bloque nuestras imágenes](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/) aunque también podemos hacer uso de servicios como [Compressor](https://compressor.io/compress).
 
-Google ha diseñado [WebP](https://developers.google.com/speed/webp/) -su propio formato de imagen- con el que ahorramos entre un 20%-40% de tamaño sin perder calidad. Pero ojo, [no todos los navegadores web aún dan soporte](https://caniuse.com/#feat=webp) a este formato.
+Google ha diseñado su propio formato de imagen, [WebP](https://developers.google.com/speed/webp/), con el que ahorramos entre un 20%-40% de tamaño sin perder calidad. Pero ojo, [no todos los navegadores web aún dan soporte](https://caniuse.com/#feat=webp) a este formato.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjYzNDYwNSw5Nzg2Mjc5NjEsLTU4MT
-YzNjQ0OCwzNTU5ODAsLTExNjc1NjI1MDEsLTQ0NTU3OTI0Mywx
-MjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQzODg3XX0=
+eyJoaXN0b3J5IjpbLTIwMDI5ODA0MzUsOTc4NjI3OTYxLC01OD
+E2MzY0NDgsMzU1OTgwLC0xMTY3NTYyNTAxLC00NDU1NzkyNDMs
+MTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4N119
 -->
