@@ -109,6 +109,11 @@ Desde Schema.org podemos ver al detalle el [marcado semántico de las imágenes]
 - [Carrusel](https://developers.google.com/search/docs/guides/mark-up-listings)
 - [Evento](https://developers.google.com/search/docs/data-types/event)
 
+Google anunció recientemente su  [Programa Opt-In de alta resolución, en el](https://searchengineland.com/google-to-add-support-for-higher-quality-images-in-search-swipe-up-images-3d-images-316706)  que podremos proporcionar a Google una imagen de alta resolución a través de un marcado semántico.  Según la captura de pantalla a continuación, parece que una vez que se haya inscrito en el programa, podrá asignar una propiedad de  **licencia**  al esquema de  **ImageObject**  :
+
+![](https://lh4.googleusercontent.com/FtmIC_bil_ZiL1YJlxO0qhUJYSkUNe5uYSVeLZ-2qniHiNUsxDQv9bFz-i-YgL-lN-S7aEb-gvEIthGIfSTW64mUFR9cXOPcul0w4s0lXmDvjkdzyRNSg-Rc_x5PXOd7omAL-_QA)
+
+Con respecto a las imágenes de fragmentos destacados, asegúrese de que la imagen que use sea la  **mejor representación visual para el tema de la página**  , teniendo en cuenta la consulta de destino.  Si la página trata sobre “  _cómo dibujar un gato_  ”, elija una imagen que muestre a una persona dibujando un gato.  No es una imagen de un gato real.
 
 ### 7- Accesibilidad
 
@@ -125,14 +130,10 @@ Esto puede ser obvio, pero las imágenes más nítidas son más atractivas para 
 
 Hay métodos automáticos para [optimizar en bloque nuestras imágenes](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/).
 
-Google anunció recientemente su  [Programa Opt-In de alta resolución, en el](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://searchengineland.com/google-to-add-support-for-higher-quality-images-in-search-swipe-up-images-3d-images-316706&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhhDyxUsOHjMTM-gQx6ASe4ws01wuA)  que podrá proporcionar a Google una imagen de alta resolución a través de un marcado semántico.  Según la captura de pantalla a continuación, parece que una vez que se haya inscrito en el programa, podrá asignar una propiedad de  **licencia**  al esquema de  **ImageObject**  :
 
-![](https://lh4.googleusercontent.com/FtmIC_bil_ZiL1YJlxO0qhUJYSkUNe5uYSVeLZ-2qniHiNUsxDQv9bFz-i-YgL-lN-S7aEb-gvEIthGIfSTW64mUFR9cXOPcul0w4s0lXmDvjkdzyRNSg-Rc_x5PXOd7omAL-_QA)
-
-Con respecto a las imágenes de fragmentos destacados, asegúrese de que la imagen que use sea la  **mejor representación visual para el tema de la página**  , teniendo en cuenta la consulta de destino.  Si la página trata sobre “  _cómo dibujar un gato_  ”, elija una imagen que muestre a una persona dibujando un gato.  No es una imagen de un gato real.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1MTczMjEyLC01ODE2MzY0NDgsMzU1OT
+eyJoaXN0b3J5IjpbOTc4NjI3OTYxLC01ODE2MzY0NDgsMzU1OT
 gwLC0xMTY3NTYyNTAxLC00NDU1NzkyNDMsMTIxNzk3NDkyNSwx
 NjQxNjQzNDA2LDY0ODc0Mzg4N119
 -->
