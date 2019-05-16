@@ -19,7 +19,7 @@ Cuando Google decide mostrar un fragmento de página destacada en la primera pos
 
 John Mueller declaró en Twitter en agosto de 2018 que "a veces hay imágenes realmente útiles de un sitio y grandes fragmentos de otro", empujando a todos aquellos con "imágenes impresionantes" en la dirección de las  [mejores prácticas](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://support.google.com/webmasters/answer/114016%3Fhl%3Den&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhic7HO1lbGgjxjWtXDHNhA_4wMF6w)  de  [Google Image](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://support.google.com/webmasters/answer/114016%3Fhl%3Den&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhic7HO1lbGgjxjWtXDHNhA_4wMF6w)  , lo cual tiene sentido.  
 
-![](https://lh5.googleusercontent.com/JdGA7GyEbrPGXBJ0fHEh_OG271Zisjg4Dp9yspI_Ub30gTbqRhg2bApKFjexXy98R5InthqTtyhb488k8W1YECxOXe7NPMZh0lPNjytYAr4HnCXQ0KVVHNgOvE8Wqcs1wV23PwAy)
+![Ejemplo de resultadocon contenido e imagen de páginas diferentes](https://i.imgur.com/JYBZsY9.png)
 
 Sin embargo, al interactuar con (es decir, hacer clic en) una imagen de fragmento destacada, actualmente se mantiene dentro del ecosistema de Google y se lleva a una versión ampliada de la imagen en los resultados de Búsqueda de imágenes de Google.
 
@@ -87,5 +87,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTY0MzQwNiw2NDg3NDM4ODddfQ==
+eyJoaXN0b3J5IjpbMTgyMjgyMjY4LDE2NDE2NDM0MDYsNjQ4Nz
+QzODg3XX0=
 -->
