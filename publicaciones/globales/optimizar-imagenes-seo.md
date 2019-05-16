@@ -58,13 +58,13 @@ Para poder identificar las acciones más adecuadas de cara a optimizar nuestras 
 
 > Su objetivo es proporcionar al uuario la imagen más útil teniendo en cuenta que un factor de relevancia contextual podría reemplazar a uno técnico 
 
-El punto clave será  **aprovechar los términos de búsqueda sugeridos en Imágenes de Google**  para asegurarnos de que nuestro contenido y la imagen que lo acompaña están alienados. Esta es una gran información para comprender la intención completa detrás de la consulta y cómo puede optimizar su contenido para ayudar a resolverlo.
+### 1- Alinear contenido e imágenes con tendencias de búsqueda
 
-## **Aplicando Mejores Prácticas**
+El punto clave será  **aprovechar los términos de búsqueda sugeridos en Imágenes de Google**  para asegurarnos de que nuestro contenido y la imagen que lo acompaña están alienados. 
 
-En combinación con la optimización de búsqueda sugerida, querrá asegurarse de que sus imágenes también apliquen las mejores prácticas de optimización de imagen.  
+Hacer un keyword research para conocer cómo busca nuestro público objetivo las imágenes relacionadas con nuestr
 
-Recomiendo leer  [la documentación de Google](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://support.google.com/webmasters/answer/114016%3Fhl%3Den&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhhep5YwsqcjZ0jnzlyZ012jeNbKjQ)  , que hace un trabajo  **fantástico al**  resumir la optimización de la imagen para la búsqueda.  Sin reiterar la cobertura de Google de los fundamentos, creo que por brevedad, podemos categorizarlos en el ámbito de las cuatro categorías clave con fragmentos destacados en mente.
+El primer paso Recomiendo leer  [la documentación de Google](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://support.google.com/webmasters/answer/114016%3Fhl%3Den&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhhep5YwsqcjZ0jnzlyZ012jeNbKjQ)  , que hace un trabajo  **fantástico al**  resumir la optimización de la imagen para la búsqueda.  Sin reiterar la cobertura de Google de los fundamentos, creo que por brevedad, podemos categorizarlos en el ámbito de las cuatro categorías clave con fragmentos destacados en mente.
 
 ### **Optimización en la página**
 
@@ -158,7 +158,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3NjI3NTEwLC0xMTY3NTYyNTAxLC00ND
+eyJoaXN0b3J5IjpbLTkwNjY4OTU4LC0xMTY3NTYyNTAxLC00ND
 U1NzkyNDMsMTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4
 N119
 -->
