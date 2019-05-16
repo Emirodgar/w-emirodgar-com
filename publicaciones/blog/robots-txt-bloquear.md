@@ -1,5 +1,5 @@
 ---
-title: Bloquear acceso de robots de búsqueda en tu página web
+title: Bloquear acceso de robots de búsqueda a tu página web
 description: Evita que los buscadores rastreen tu página web y alteren tu tráfico real
 lang: es_ES
 author: Emirodgar
@@ -11,6 +11,9 @@ permalink: bloquear-robots-txt
 
 ---
 
+# Bloquear el acceso de robots de búsqueda a tu página web
+
+Tranquilos, no pretendo bloquear a Google o 
 
 ```
 User-agent: Applebot
@@ -1071,5 +1074,5 @@ User-agent: ZyBorg
 Disallow:/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyODgyODk2XX0=
+eyJoaXN0b3J5IjpbLTUyNDgyNzAyNV19
 -->
