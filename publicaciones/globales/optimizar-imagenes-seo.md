@@ -29,11 +29,8 @@ El hecho de no disponer de una imagen adecuada hace perder visibilidad a una pá
 
 Si hacemos clic sobre dicha imagen de fragmento destacada iremos a una versión ampliada de la imagen dentro de los resultados de Búsqueda de imágenes de Google, es decir, no nos generará tráfico hacia nuestra página por lo que esta medida nos ayudará a evitar fuga de clics si somos los que posicionamos en primera posición con el contenido pero no nos incrementará el tráfico si somos los poseedores de la imagen.
 
-En cierta medida esto tiene sentido. Puede que tu imagen ayuda a con
+En cierta medida esto tiene sentido. Puede que tu imagen ayuda a complementar el contenido de otra página pero por sí misma no suele aportar valor por lo que generar tráfico a una web únicamente a través de la imagen no sería conveniente. Se trata, por tanto, de una combinación de contenido más imagen.
 
-Si bien puedo entender el proceso de pensamiento de enviar al usuario a una página más centrada en la imagen con más imágenes para elegir, esto no parece ser la experiencia óptima para el usuario.  No creo que la intención de alguien que realiza una búsqueda en Google.com (es decir, no la búsqueda de imágenes) y la interacción con un fragmento de imagen destacado siempre quieren ser llevados a una búsqueda de imágenes.  Tome la consulta "  _mejor época del año para comprar un automóvil_  ", por ejemplo.  No hay ninguna razón para que quiera ver una versión ampliada de esta imagen:  
-
-![](https://lh5.googleusercontent.com/gAf5Il-ogomog5WapRnckw1AnwaQIGNBrZ_vW8QVbwrotfbbhp72iqafCu9aE0llvllSQxMG_3mliPLX5hyezhR2JosJZlvD_wh5BMizFsKBhdNhNOR2emLiMGI7vo_w5hkbq9df)
 
 ## Entonces, ¿por qué optimizar para imágenes de fragmentos destacados?
 
@@ -95,6 +92,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTQ1NDI4MSwxNjQxNjQzNDA2LDY0OD
+eyJoaXN0b3J5IjpbMTY4ODMwMTMzNiwxNjQxNjQzNDA2LDY0OD
 c0Mzg4N119
 -->
