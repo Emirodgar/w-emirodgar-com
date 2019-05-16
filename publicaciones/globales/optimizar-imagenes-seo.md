@@ -15,7 +15,7 @@ permalink: optimizacion-imagenes-seo
 
 Las imágenes han ido adquiriendo cada vez más relevancia dentro de las búsquedas, por ello, el posicionar de forma óptima dentro de este segmento nos ayudará a **incrementar notoriamiente el tráfico orgánico** hacia nuestra página.
 
-> Hasta hace poco Google disponía de un botón para acceder directamente a las imágenes indexadas en su índice pero [tras una disputa legal con Getty Images]([https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html](https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html)) tuvieron que eliminarlo. De esta forma, posicionar por imágenes sí ayuda a generar tráfico hacia nuestra web.
+> Hasta hace poco Google disponía de un botón para acceder directamente a las imágenes indexadas en su índice pero [tras una disputa legal con Getty Images]([https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html](https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html)) tuvieron que eliminarlo a mediados de 2018. De esta forma, posicionar por imágenes sí ayuda a generar tráfico hacia nuestra web.
 
 La apuesta más fuerte de Google en los últimos años están siendo los datos estructurados. La mayor parte de ellos hacen uso de las imágenes para aportar valor y generar una mayor visibilidad: 
 
@@ -47,8 +47,6 @@ En cierta medida esto tiene sentido. Puede que tu imagen ayuda a complementar el
 ## Entonces, ¿por qué optimizar para imágenes de fragmentos destacados?
 
 
-
-![](https://lh4.googleusercontent.com/MsfVBPFhC8e0KC-tNGGlbJKWkwuYjLuj0F3nZO4Q6JRSvy1OZkB1lIWNgCb_LgUEru4a26vfEf9h7WB6nUldFOa7awvx7Z6w1inBFulSvpGDB_VzHiZFfTr8HjcfImQiVcy8nEhx)
 
 Adelantándose un año hasta mayo de 2019, Google ha anunciado una nueva función para la Búsqueda de imágenes en dispositivos móviles que brindaría a los usuarios la opción de "desplazarse hacia arriba" al artículo de AMP asociado con la imagen:  
 
@@ -84,6 +82,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5ODE5ODMyLDEyMTc5NzQ5MjUsMTY0MT
-Y0MzQwNiw2NDg3NDM4ODddfQ==
+eyJoaXN0b3J5IjpbLTQ0NTU3OTI0MywxMjE3OTc0OTI1LDE2ND
+E2NDM0MDYsNjQ4NzQzODg3XX0=
 -->
