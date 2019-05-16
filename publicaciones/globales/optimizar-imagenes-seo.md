@@ -128,14 +128,14 @@ Aunque no es obligatorio, es buena práctica disponer de un [sitemap XML de imá
 
 Esto puede ser obvio, pero las imágenes más nítidas son más atractivas para los usuarios que las imágenes borrosas y poco claras.  Las imágenes de alta calidad aumentarán la probabilidad de conseguir tráfico desde los buscadores.
 
-Hay métodos automáticos para [optimizar en bloque nuestras imágenes](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/).
+Hay métodos automáticos para [optimizar en bloque nuestras imágenes](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/) aunque también podemos hacer uso de servicios como [Compressor](https://compressor.io/compress).
 
-Google ha diseñado [webp](https://developers.google.com/speed/webp/) -su propio formato de imagen- con el que ahorramos hasta un 60% de tamaño sin perder calidad. Pero ojo, [no todos los navegadores web aún dan soporte]([https://caniuse.com/#feat=webp](https://caniuse.com/#feat=webp)) a este formato.
+Google ha diseñado [WebP](https://developers.google.com/speed/webp/) -su propio formato de imagen- con el que ahorramos entre un 20%-40% de tamaño sin perder calidad. Pero ojo, [no todos los navegadores web aún dan soporte](https://caniuse.com/#feat=webp) a este formato.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTI5NzMxLDk3ODYyNzk2MSwtNTgxNj
-M2NDQ4LDM1NTk4MCwtMTE2NzU2MjUwMSwtNDQ1NTc5MjQzLDEy
-MTc5NzQ5MjUsMTY0MTY0MzQwNiw2NDg3NDM4ODddfQ==
+eyJoaXN0b3J5IjpbLTY4MjYzNDYwNSw5Nzg2Mjc5NjEsLTU4MT
+YzNjQ0OCwzNTU5ODAsLTExNjc1NjI1MDEsLTQ0NTU3OTI0Mywx
+MjE3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQzODg3XX0=
 -->
