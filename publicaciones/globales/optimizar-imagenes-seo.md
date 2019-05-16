@@ -77,24 +77,25 @@ Debemos colocar la imagen en la parte superior de la web y cerca del contenido r
 El nombre de archivo de la imagen puede ayudar a Google a conocer de qué trata.  Debemos utilizar nombres de archivo claros y concisos (descriptivos) que coincidan con la imagen; las palabras deben estar separadas por un guión:
 
 ```
-consultor-seo-salamanca.jpg
+<img src="consultor-seo-salamanca.jpg" />
 ```  
 
-### 5- Atributo ALT
+### 5- Atributo Alt
 
-El atributo alt le permite  **especificar**  **el**  **texto que se mostrará cada vez que la imagen no esté disponible**  , como cuando la imagen no se carga, es rastreada por un motor de búsqueda o es encontrada por un lector de pantalla.  Google utiliza el texto alternativo junto con el contenido de la página para comprender el contexto de la imagen.  Esto significa que no es necesario proporcionar todas las palabras clave relacionadas posibles para describir la imagen. Simplemente debemos incluuna breve descripción para transmitir el mismo concepto que la imagen, en el mismo contexto:  
+El atributo alt le permite  **especificar**  **el**  **texto que se mostrará cada vez que la imagen no esté disponible**  , como cuando la imagen no se carga, es rastreada por un motor de búsqueda o es encontrada por un lector de pantalla.  Google utiliza el texto alternativo junto con el contenido de la página para comprender el contexto de la imagen.  Esto significa que no es necesario proporcionar todas las palabras clave relacionadas posibles para describir la imagen. Simplemente debemos incluir una breve descripción para transmitir el mismo concepto que la imagen, en el mismo contexto:  
 
-**Malo (relleno de palabras clave):**
 
-**<img src = ”puppy.jpg” alt = ”  cachorro perro bebé cachorros cachorros cachorros cachorros camada cachorros perro perdiguero perro labrador perro lobo apuntador cachorro gato russell terrier cachorros comida para perros comida para perros comida barata para perros  " />**
+```
+<img src="consultor-seo-salamanca.jpg" alt="Consultor SEO en Salamanca" />
+```  
 
-**Mejor:**
-
-**<img src = ”puppy.jpg” alt = ”Cachorro  dálmata jugando a buscar  “ />**
-
-#### **Título de la imagen = Atributo**
+### 5- Atributo Title
 
 Aunque se ha especulado que el atributo del título de la imagen no tiene en cuenta el algoritmo de Google.  Una vez se  [demostró](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://www.seroundtable.com/google-does-index-rank-title-attribute-tag-in-images-21932.html&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhjGqAL-M-OwVUnBxJNPea1_Xsl8bA)  que Google, de hecho, había rastreado e indexado el contenido dentro de la etiqueta de atributo del título de una imagen.  Si bien no creo que esto sea absolutamente necesario, no estaría mal incluir la misma descripción de texto que el atributo alt en un atributo de título para cubrir sus bases.
+
+```
+<img src="consultor-seo-salamanca.jpg" alt="Consultor SEO en Salamanca" />
+```  
 
 #### **Títulos de página optimizados, meta descripciones y contenido de texto**
 
@@ -160,7 +161,7 @@ Una vez que haya descubierto los términos de búsqueda para los que aparecen su
 
 Alterne entre Búsqueda web y Búsqueda de imágenes, comparando los términos de búsqueda sugeridos con la imagen que se muestra en el fragmento.  Luego, mire la página que está clasificada para la consulta para ver qué puede hacer para optimizar tanto el contenido del texto como las imágenes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTA2NDIxLC0xMTY3NTYyNTAxLC00ND
+eyJoaXN0b3J5IjpbOTM0MTEzMjc4LC0xMTY3NTYyNTAxLC00ND
 U1NzkyNDMsMTIxNzk3NDkyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4
 N119
 -->
