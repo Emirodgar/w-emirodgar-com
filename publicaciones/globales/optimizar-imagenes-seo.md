@@ -53,30 +53,7 @@ A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/
 ![](https://lh4.googleusercontent.com/S2gn-rMi3rLpBtHCwAZTUSNDoCwZYXuvCTJzGFpa_hJaMp5TuhSTSJvy01HA8R0KM05XQnxkEnxlOg-IX4dTastq8Fh--Ts2rlIdtndyAbqSlPlEZi-93YjjMhUk90fWHQ1BjGgj)
 
 
-## Evaluación de imágenes de fragmentos destacados
-
-Echemos un vistazo a las imágenes en dos páginas que obtienen el fragmento destacado para la consulta "  **mejores computadoras portátiles nuevas**  " para ver cómo se comparan.  
-
-![](https://lh4.googleusercontent.com/bJRsteTfpupTf62niypVkTlisXG3w3WzfzhX11_WUsjd2PgHFAJpCVqsacG0RLd5tU3Alopsl4qaeyL3BSCjeKiMhwaUOrxzAw7x4eRNXPhJphN1yYSVsEUnFwL4w0A4JH1KbYse)
-
-Aquí podemos ver que  [techradar.com](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://www.techradar.com/news/mobile-computing/laptops/best-laptops-1304361&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhh1jCfX4SW66GDcxlstAdJOuFdQ0g)  aparece principalmente en la parte de texto del fragmento, pero  [thewirecutter.com](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://thewirecutter.com/reviews/best-laptops/&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhixjNbMUBxxyDmxktUSwPFvT30puw)  ha bloqueado la ubicación de la imagen.  Ambas páginas están en la  [primera página de resultados web](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://www.google.com/search%3Fq%3Dbest%2Bnew%2Blaptops&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhjl1pYl1skcJDz3KiqPgMAvxJ9yZA)  , y la imagen que se muestra en el fragmento es la primera en los resultados de Google Image, después de los resultados Patrocinados.  
-
-![](https://lh3.googleusercontent.com/reeoZfSMGNwKqCrcahL9h1uVCx2FOiZeMgdsRcJ97mcap_7K0aiBRvzAbGuyM-3irAqCJ1waXkST4xX6gJdNlex_gIZtmi2hofs5UdlcUZ0IvoiVA1B25L59G9ZOKu3Z4R_B_b5J)
-
-Simplemente clasificando primero en Google Images para el término de búsqueda no garantizará que su imagen se incluya en el fragmento, pero clasificar una imagen para un término de búsqueda que genere un fragmento  **es**  importante para la elegibilidad.
-
-Profundicemos un poco más y veamos qué hacen estas dos páginas de manera diferente.
-
-### Wirecutter.com (Fragmento de imagen)
-
-![](https://lh4.googleusercontent.com/PnsQtAf350WBZ9ZS_GREpGg9aCJ3n3hi9d85eMmiDo4rafmDmMB55XdfhQ9WHQrMcu4Rvco8ZQetMRjRTKt3ZxTz24PcANV4gRD99uPBb3-ux8FJE48_m3FQxzQg2CnVYPGncxTm)
-
-La imagen del fragmento de código destacado es de alta calidad y se muestra de manera prominente en la parte superior de la página.  El HTML de la imagen está contenido dentro de una etiqueta  **<header>**  que  **también**  contiene el encabezado  **<h1>**  "  **Las mejores computadoras portátiles**  ".  Estos dos elementos contenidos juntos en tal proximidad podrían ayudar a Google a entender el contexto de la imagen.  
-
-Vamos a desglosar el código que se utiliza para la imagen en la página:  
-
-<img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDQ3NzUxOCwtNDQ1NTc5MjQzLDEyMT
-c5NzQ5MjUsMTY0MTY0MzQwNiw2NDg3NDM4ODddfQ==
+eyJoaXN0b3J5IjpbLTExNjc1NjI1MDEsLTQ0NTU3OTI0MywxMj
+E3OTc0OTI1LDE2NDE2NDM0MDYsNjQ4NzQzODg3XX0=
 -->
