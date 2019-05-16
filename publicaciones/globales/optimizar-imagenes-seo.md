@@ -15,7 +15,7 @@ permalink: optimizacion-imagenes-seo
 
 Las imágenes han ido adquiriendo cada vez más relevancia dentro de las búsquedas, por ello, el posicionar de forma óptima dentro de este segmento nos ayudará a **incrementar notoriamiente el tráfico orgánico** hacia nuestra página.
 
-La apuesta más fuerte de Google en los últimos años están siendo los datos estructurados. A continuación muestro un pequeño listado de aquellos que hacen uso de las imágenes para generar una m 
+La apuesta más fuerte de Google en los últimos años están siendo los datos estructurados. A continuación muestro un pequeño listado de aquellos que hacen uso de imágenes para generar una mayor visibilidad: 
 
 - 2012 - Gráfica de conocimiento
 - 2013 - Casillas de respuestas
@@ -44,17 +44,7 @@ En cierta medida esto tiene sentido. Puede que tu imagen ayuda a complementar el
 
 ## Entonces, ¿por qué optimizar para imágenes de fragmentos destacados?
 
-Dado que hacer clic en una imagen de fragmento destacado actualmente lleva a los usuarios a la Búsqueda de imágenes de Google y no al sitio original, ¿vale la pena incluso optimizar las imágenes para que aparezcan en fragmentos de código destacado?  Vamos a ver.  
 
-Desde 2012, parece que Google  **realmente**  ha acelerado el ritmo al mostrar  [resultados de búsqueda enriquecidos](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://developers.google.com/search/docs/guides/search-gallery&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhgDfeoIAJPAiiNyex4RKUMxYSpnUw)  más allá de diez simples enlaces azules.  Por nombrar unos cuantos:  
-
--   2012 -  [Gráfica de conocimiento](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://googleblog.blogspot.com/2012/05/introducing-knowledge-graph-things-not.html&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhgJJ6WdU7Dvp9j6kIono7lGeiV1GA)
--   2013 -  [Casillas de respuestas](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://moz.com/blog/101-google-answer-boxes-a-journey-into-the-knowledge-graph&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhjO201i5mMXZx8HkHEy_bSbiZYQnA)
--   2015 -  [Próximos eventos](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://webmasters.googleblog.com/2015/01/upcoming-events-in-knowledge-graph.html&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhj70cgcRpIzN8ZZzOJ3aYtmcIBUyQ)
--   2016 -  [Publicaciones de Google](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://blog.google/products/search/republican-debate-presidential-politics/&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhiIaosFXhqIgZ1KpyLMBHr73YYFbQ)
--   2016 -  [Cartas enriquecidas](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://webmasters.googleblog.com/2016/05/introducing-rich-cards.html&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhjVG38BHKBA05Vnxv2Cbz8LhUsm7g)
--   2017 -  [Listados de trabajo de Google](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://jobs.google.com/about/&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhjcYpk9_S-FJPpXC78NlYzSHIZBPw)
--   2019 -  [Preguntas frecuentes y procedimientos](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=en&sp=nmt4&tl=es&u=https://searchengineland.com/google-search-adds-support-for-faq-and-how-to-structured-data-316541&xid=17259,1500004,15700021,15700043,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhgvW0nZciVXz6zW3XYJG3tpnNW11Q)
 
 En 2016, Getty Images presentó una queja antimonopolio contra Google en la Unión Europea alegando que la búsqueda de imágenes de Google estaba perjudicando a la empresa, ya que permitía descargar imágenes de alta resolución directamente sin pagar y esto promovió abiertamente la piratería:  
 
@@ -102,6 +92,6 @@ Vamos a desglosar el código que se utiliza para la imagen en la página:
 
 <img
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI1NTYzNTYsMTIxNzk3NDkyNSwxNj
+eyJoaXN0b3J5IjpbLTEwNzczODAwOTEsMTIxNzk3NDkyNSwxNj
 QxNjQzNDA2LDY0ODc0Mzg4N119
 -->
