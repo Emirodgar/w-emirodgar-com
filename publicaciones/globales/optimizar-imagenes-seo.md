@@ -107,13 +107,13 @@ Desde Schema.org podemos ver al detalle el [marcado semántico de las imágenes]
 - [Carrusel](https://developers.google.com/search/docs/guides/mark-up-listings)
 - [Evento](https://developers.google.com/search/docs/data-types/event)
 
+> Así es como Google analiza la [interacción con las imágenes del Knowledge Graph](http://www.clairecarlilemarketing.com/blog/how-google-treats-see-photos-in-the-local-knowledge-panel/).
+
 Google anunció recientemente su [Programa Opt-In de alta resolución](https://searchengineland.com/google-to-add-support-for-higher-quality-images-in-search-swipe-up-images-3d-images-316706)  en el que podremos proporcionar a Google una imagen de alta resolución a través de un marcado semántico.  Parece que podríamos llegar a incluir una propiedad de  **licencia**  al esquema de  **ImageObject**  :
 
 ![](https://lh4.googleusercontent.com/FtmIC_bil_ZiL1YJlxO0qhUJYSkUNe5uYSVeLZ-2qniHiNUsxDQv9bFz-i-YgL-lN-S7aEb-gvEIthGIfSTW64mUFR9cXOPcul0w4s0lXmDvjkdzyRNSg-Rc_x5PXOd7omAL-_QA)
 
 Para asegurarnos de que nuestras imágenes aparecen en los bloques de fragmentos destacados, debemos usar la  **mejor representación visual para el contexto de la página**  , teniendo en cuenta la consulta de destino.  Si la página trata sobre “  _cómo dibujar un gato_  ”, elija una imagen que muestre a una persona dibujando un gato.  No es una imagen de un gato real.
-
-> Así es como Google analiza la [interacción con las imágenes del Knowledge Graph](http://www.clairecarlilemarketing.com/blog/how-google-treats-see-photos-in-the-local-knowledge-panel/).
 
 ### 8- Accesibilidad
 
@@ -135,8 +135,8 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzODE4NDI0LC0zNzQwNTcyNDIsLTM4OD
-A1MDAxMSw1MjY2NDM2OTEsOTc4NjI3OTYxLC01ODE2MzY0NDgs
-MzU1OTgwLC0xMTY3NTYyNTAxLC00NDU1NzkyNDMsMTIxNzk3ND
-kyNSwxNjQxNjQzNDA2LDY0ODc0Mzg4N119
+eyJoaXN0b3J5IjpbNDk3OTYyMTYsLTM3NDA1NzI0MiwtMzg4MD
+UwMDExLDUyNjY0MzY5MSw5Nzg2Mjc5NjEsLTU4MTYzNjQ0OCwz
+NTU5ODAsLTExNjc1NjI1MDEsLTQ0NTU3OTI0MywxMjE3OTc0OT
+I1LDE2NDE2NDM0MDYsNjQ4NzQzODg3XX0=
 -->
