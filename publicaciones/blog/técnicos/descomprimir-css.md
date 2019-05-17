@@ -19,12 +19,12 @@ En muchas ocasiones, por temas de velocidad de carga se opta por comprimir tanto
 Si queremos volver a ver de forma clara el código CSS para poder realizar cambios sobre el mismo, podemos hacer uso de alguna de los múltiples aplicaciones que descomprimen de forma gratuita.
 
 -   [https://mrcoles.com/blog/css-unminify/](https://mrcoles.com/blog/css-unminify/)
--   https://unminify.com/
--   http://cssunpacker.com/
+-   [https://unminify.com/](https://unminify.com/)
+-   [http://cssunpacker.com/](http://cssunpacker.com/)
 
 Tan sólo tendremos que copiar y pegar el CSS comprimido y la aplicación nos devolverá la versión con la que podremos trabajar de forma sencilla.
 
 Es buena práctica trabajar con dos ficheros, uno comprimido y otro no de tal forma que cuando hagamos un cambio, generemos la versión comprimida y sea ésta la que subamos al servidor web.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1ODEwNjA5LDE2NTI4ODQxNzFdfQ==
+eyJoaXN0b3J5IjpbLTEwNTI3NTgyNjEsMTY1Mjg4NDE3MV19
 -->
