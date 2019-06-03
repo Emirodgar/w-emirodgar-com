@@ -86,13 +86,14 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 - [Check my links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en)
 - [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en)
+- [Cambios de algoritmos superpuestos en Analytics](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl)
 
 ## Mobile apps
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMT
-Q0MDI0NzQ2LC0xODU2NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5
-MzMzMzgsLTEyNzE5Mjk5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV
-19
+eyJoaXN0b3J5IjpbMjAyODQwMjc5NiwtMTgzNzU4NTkzOCwyND
+g5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1ODY5ODQsLTIxMDcz
+MjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOTksLTE1MzI4NDI5OT
+EsNzI2NzI0ODY1XX0=
 -->
