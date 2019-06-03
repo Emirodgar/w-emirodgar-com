@@ -25,6 +25,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://www.lipperhey.com](https://www.lipperhey.com)
 - [https://www.google.com/webmasters/tools/home?hl=es](https://www.google.com/webmasters/tools/home?hl=es)
 - [http://www.siteliner.com](http://www.siteliner.com)
+- [https://serpstat.com](https://serpstat.com/)
 
 ## SEO Técnico 
 
@@ -86,7 +87,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Check my links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en)
 - [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ3MjQzOTYsLTIxNDQwMjQ3NDYsLT
-E4NTY1ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3
-MTkyOTksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbMjQ4OTI2NzIxLC0yMTQ0MDI0NzQ2LC0xOD
+U2NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMzgsLTEyNzE5
+Mjk5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
 -->
