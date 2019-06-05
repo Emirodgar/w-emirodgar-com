@@ -18,6 +18,8 @@ Estos son algunos de los **elementos SEO cruciales** para cualquier estrategia y
 -   Los (malos) vecinos que comparten con nosotros el servidor
 -   Capacidad de implementar redirecciones
 -   Capacidad de comprimir recursos (html, js, imágenes, etc)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk1NzU5NTJdfQ==
+eyJoaXN0b3J5IjpbLTMwNjM2NDg1MiwtMTczOTU3NTk1Ml19
 -->
