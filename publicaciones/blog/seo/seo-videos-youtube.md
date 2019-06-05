@@ -3,7 +3,7 @@ title: Cómo hacer SEO en Youtube
 description: Youtube es el segundo buscador más utilizado en el mundo, ¿a qué esperas para potenciar el SEO de tus vídeos?
 lang: es_ES
 tags: SEO
-image: https://emirodgar.com/cdn/images/og/og-youtube-seo.jpg
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-videos-youtube
 
 ---
@@ -165,5 +165,5 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI2Mzk2NzVdfQ==
+eyJoaXN0b3J5IjpbLTIzMTU1MTQ5Nl19
 -->
