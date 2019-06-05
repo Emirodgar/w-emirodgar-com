@@ -3,6 +3,7 @@ title: 10 cosas que he aprendido en 10 años como SEO
 description: Después de una década trabajado SEO profesionalmente os cuento mis aprendizajes
 image: https://i.imgur.com/GlZhXpz.jpg
 lang: es_ES
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: experiencia-seo
 
 ---
@@ -32,6 +33,6 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
 ![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODUwNTI4NiwxMDg4MjIyMjE0LC01Mz
-g1MDUyODZdfQ==
+eyJoaXN0b3J5IjpbLTc3NjUzMjEyMiwtNTM4NTA1Mjg2LDEwOD
+gyMjIyMTRdfQ==
 -->
