@@ -42,7 +42,8 @@ Google ya ha dejado claro su prioridad por lo que ellos determinan una [experien
 
 Este término se refiere al **tiempo que una página está accesible**. Erróneamente se piensa que si una web se cae sin que el robot de búsqueda se percate de ello no pasa nada pero el hecho de que una página sufra caídas intermitentemente afectará a la estrategia digital.
 
+Un buen hosting debería garantizar un 99% de uptime. Migraciones, actualizaciones o caídas debido a otros factores harán que nuestra web no esté siempre accesible perjudicán
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTk5MTY5MV19
+eyJoaXN0b3J5IjpbLTE2MDgwNzcxMDIsLTgyMTk5MTY5MV19
 -->
