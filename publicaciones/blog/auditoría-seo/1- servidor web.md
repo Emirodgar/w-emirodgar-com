@@ -11,7 +11,7 @@ permalink: hosting-seo
 
 El host o servidor web no es un  [factor SEO](https://emirodgar.com/factores-seo) directo pero sí aporta una serie de características que pueden afectar a nuestra **estrategia de posicionamiento web**.
 
-D
+Estos son algunos de los **elementos SEO cruciales** para cualquier estrategia y que están estrechamente relacionados con el hosting en el que esté alojada nuestra web:
 
 -   Tiempo de carga
 -   Uptime (tiempo que la página está visible sin caídas)
@@ -19,5 +19,5 @@ D
 -   Capacidad de implementar redirecciones
 -   Capacidad de comprimir recursos (html, js, imágenes, etc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTgyMjZdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzk1NzU5NTJdfQ==
 -->
