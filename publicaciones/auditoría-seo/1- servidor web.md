@@ -13,14 +13,15 @@ El host o servidor web no es un  [factor SEO](https://emirodgar.com/factores-seo
 
 Estos son algunos de los **elementos SEO cruciales** para cualquier estrategia y que están estrechamente relacionados con el hosting en el que esté alojada nuestra web:
 
--   Tiempo de carga
+-   [Ubicación (geolocalización)](#ubicacion)
+-   [Tiempo de carga](#tiempo-carga)
 -   Uptime (tiempo que la página está visible sin caídas)
 -   Los (malos) vecinos que comparten con nosotros el servidor
 -   Capacidad de implementar redirecciones
 -   Capacidad de comprimir recursos (html, js, imágenes, etc)
 -   Servidores DNS y configuraciones asociadas
 
-## ¿Afecta la ubicación del hosting al SEO?
+## <a name="ubicacion"></a>¿Afecta la ubicación del hosting al SEO?
 
 Durante años los SEOs buscábamos servidores web alojados en el mismo país al que queríamos orientarnos. Si nuestro dominio era www.ejemplo.es necesitábamos un hosting ubicado en España para reforzar nuestro posicionamiento en dicho mercado.
 
@@ -32,18 +33,18 @@ Al usar un CDN nuestra web se clona en múltiples servidores ubicados a lo largo
 
 Por ejemplo, si yo accedo desde España seguramente me sirvan la web desde Europa y cuando lo haga un usuario de México la verá desde un servidor ubicado en Estados Unidos. Esto **facilita los tiempos de carga** y mejora considerablemente la **experiencia de los usuarios**.
 
-## Tiempo de carga
+## <a name="ubicacion"></a>Tiempo de carga
 
 Posiblemente una velocidad adecuada sea factor más relevante de cara a una estrategia SEO. Una página que carga rápido se verá beneficiada tanto a nivel de buscadores (SEO) como en el resto de la estrategia digital.
 
 Google ya ha dejado claro su prioridad por lo que ellos determinan una [experiencia de usuario óptima](https://developers.google.com/web/tools/chrome-user-experience-report/) y  ha lanzado proyectos en línea con esos intereses como AMP, para páginas móviles, o PWA como sustituto de las apps mobile que conocemos hasta ahora.
 
-## Uptime
+## <a name="ubicacion"></a>Uptime
 
 Este término se refiere al **tiempo que una página está accesible**. Erróneamente se piensa que si una web se cae sin que el robot de búsqueda se percate de ello no pasa nada pero el hecho de que una página sufra caídas intermitentemente afectará a la estrategia digital.
 
-Un buen hosting debería garantizar un 99% de uptime. Migraciones, actualizaciones o caídas debido a otros factores harán que nuestra web no esté siempre accesible perjudicán
+Un buen hosting debería garantizar un 99% de uptime. Migraciones, actualizaciones de servicios o caídas debido a otros factores harán que nuestra web no esté siempre accesible perjudicando nuestro rendmiento.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgwNzcxMDIsLTgyMTk5MTY5MV19
+eyJoaXN0b3J5IjpbOTQ2ODY3NTQ4LC04MjE5OTE2OTFdfQ==
 -->
