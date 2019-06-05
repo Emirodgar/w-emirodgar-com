@@ -36,8 +36,8 @@ Por ejemplo, si yo accedo desde España seguramente me sirvan la web desde Europ
 
 Posiblemente una velocidad adecuada sea factor más relevante de cara a una estrategia SEO. Una página que carga rápido se verá beneficiada tanto a nivel de buscadores (SEO) como en el resto de la estrategia digital.
 
-Google ya ha dejado claro
+Google ya ha dejado claro su prioridad por lo que ellos determinan una [experiencia de usuario óptima]( y  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIyMjA3MjZdfQ==
+eyJoaXN0b3J5IjpbMTgyMjQ5MzU4Ml19
 -->
