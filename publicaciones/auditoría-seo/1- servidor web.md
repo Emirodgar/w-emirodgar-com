@@ -13,7 +13,7 @@ El host o servidor web no es un  [factor SEO](https://emirodgar.com/factores-seo
 
 Estos son algunos de los **elementos SEO cruciales** para cualquier estrategia y que están estrechamente relacionados con el hosting en el que esté alojada nuestra web:
 
--   1- [Ubicación (geolocalización)](#ubicacion)
+-   [Ubicación (geolocalización)](#ubicacion)
 -   [Tiempo de carga](#tiempo-carga)
 -   [Uptime (tiempo que la página está visible sin caídas)](#uptime)
 -   [Los (malos) vecinos que comparten con nosotros el servidor](#malos-vecinos)
@@ -66,5 +66,6 @@ Un buen servidor web nos tiene que permitir llevar a cabo acciones específicas 
 
 Un buen hosting debe darnos acceso completo a las configuraciones antes mencionadas dado que si no fuéramos capaces de poder operar con redirecciones o personalizar ciertos aspectos de nuestra página estaríamos limitando enormemente factores cruciales para nuestra estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODk0MTQzMywtODIxOTkxNjkxXX0=
+eyJoaXN0b3J5IjpbNTI2Nzc2NzYxLDE2OTg5NDE0MzMsLTgyMT
+k5MTY5MV19
 -->
