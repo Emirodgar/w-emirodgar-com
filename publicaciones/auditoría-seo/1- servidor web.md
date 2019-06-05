@@ -48,6 +48,10 @@ Un buen hosting debería garantizar un 99% de uptime. Migraciones, actualizacion
 ## <a name="malos-vecinos"></a>Malos vecinos
 
 Dependiendo del tipo de hosting que contratemos, tendremos una IP para nosotros solos o será compartida por otras páginas alojadas físicamente junto a la nuestra.
+
+En éste último escenario es posible que si uno de esos compañeros digitales lleva a cabo prácticas en contra de las directrices de calidad de Google, nos pueda afectar.
+
+Hay herramientas como [Bad Neighborhood](https://www.bad-neighborhood.com/text-link-tool.htm) que nos ayudarán a identificar a vecinos peligr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE3NDIwNzUsLTgyMTk5MTY5MV19
+eyJoaXN0b3J5IjpbMjY0Nzc3OTMwLC04MjE5OTE2OTFdfQ==
 -->
