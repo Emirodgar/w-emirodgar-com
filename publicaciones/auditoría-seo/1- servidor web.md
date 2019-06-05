@@ -39,7 +39,7 @@ Google ya ha dejado claro su prioridad por lo que ellos determinan una [experien
 
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
-## <a name="uptime"></a>3- Uptime
+## <a name="uptime"></a>3- Uptime / Downtime
 
 Este término se refiere al **tiempo que una página está accesible**. Erróneamente se piensa que si una web se cae sin que el robot de búsqueda se percate de ello no pasa nada pero el hecho de que una página sufra caídas intermitentemente afectará a la estrategia digital.
 
@@ -64,9 +64,7 @@ Un buen servidor web nos tiene que permitir llevar a cabo acciones específicas 
 -  Capacidad de personalizar las páginas de error 
 -   Servidores DNS y configuraciones asociadas
 
-Si no fuéramos capaces de poder operar con redirecciones o personalizar ciertos aspectos estaríamos limitando enormemente nuestra estrategia SEO.
-
-Un buen hosting debe darnos acceso completo a 
+Un buen hosting debe darnos acceso completo a las configuraciones antes mencionadas dado que si no fuéramos capaces de poder operar con redirecciones o personalizar ciertos aspectos de nuestra página estaríamos limitando enormemente factores cruciales para nuestra estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1MDQ1NjY5LC04MjE5OTE2OTFdfQ==
+eyJoaXN0b3J5IjpbMTY5ODk0MTQzMywtODIxOTkxNjkxXX0=
 -->
