@@ -34,8 +34,8 @@ Por ejemplo, si yo accedo desde España seguramente me sirvan la web desde Europ
 
 ## Tiempo de carga
 
-Este es posiblemente el factor más relevante
+Este es posiblemente el factor más relevante de cara a una estrategia SEO. Una página que carga rápido
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNzgzNjY3XX0=
+eyJoaXN0b3J5IjpbMTA0NzYxNDMzNl19
 -->
