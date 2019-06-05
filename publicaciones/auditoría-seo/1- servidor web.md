@@ -2,6 +2,9 @@
 title: ¿Cómo afecta el hosting al SEO?
 description: No es un factor SEO directo pero sí puede afectar a nuestra estrategia de posicionamiento web
 image: https://emirodgar.com/cdn/images/og/auditoria.png
+date: 05/06/2019
+author: Emirodgar
+tags: seo, auditoría
 lang: es_ES
 permalink: hosting-seo
 
@@ -66,6 +69,6 @@ Un buen servidor web nos tiene que permitir llevar a cabo acciones específicas 
 
 Un buen hosting debe darnos acceso completo a las configuraciones antes mencionadas dado que si no fuéramos capaces de poder operar con redirecciones o personalizar ciertos aspectos de nuestra página estaríamos limitando enormemente factores cruciales para nuestra estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2Nzc2NzYxLDE2OTg5NDE0MzMsLTgyMT
-k5MTY5MV19
+eyJoaXN0b3J5IjpbLTMzOTQ5NDY0MSwxNjk4OTQxNDMzLC04Mj
+E5OTE2OTFdfQ==
 -->
