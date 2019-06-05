@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 tags: SEO, Google, excel
 date: 24/04/2019
-image: https://emirodgar.com/publicaciones/img/google-sheets-gant.jpg
+image: https://emirodgar.com/cdn/images/og/herramientas.png
 permalink: trucos-hojas-calculo-google
 
 ---
@@ -140,5 +140,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODM2NTMzNl19
+eyJoaXN0b3J5IjpbMTg0NzgwODQ1NF19
 -->

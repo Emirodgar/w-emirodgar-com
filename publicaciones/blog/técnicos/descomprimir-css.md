@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 tags: seo, google, performance
 date: 17/05/2019
-image: https://emirodgar.com/cdn/images/og/og-seo-tools-big.jpg
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: descomprimir-css-comprimido
 
 ---
@@ -26,5 +26,6 @@ Tan sólo tendremos que copiar y pegar el CSS comprimido y la aplicación nos de
 
 Es buena práctica trabajar con dos ficheros, uno comprimido y otro no de tal forma que cuando hagamos un cambio, generemos la versión comprimida y sea ésta la que subamos al servidor web.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI3NTgyNjEsMTY1Mjg4NDE3MV19
+eyJoaXN0b3J5IjpbMjM0MTczODI3LC0xMDUyNzU4MjYxLDE2NT
+I4ODQxNzFdfQ==
 -->

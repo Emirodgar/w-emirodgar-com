@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 tags: seo, google, performance
 date: 16/04/2019
-image: https://emirodgar.com/publicaciones/img/lighthouse-automatic.png
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: automatizar-analisis-lighthouse
 
 ---
@@ -120,5 +120,5 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5Mjk3NzE4XX0=
+eyJoaXN0b3J5IjpbLTM5MTY3MzUzM119
 -->
