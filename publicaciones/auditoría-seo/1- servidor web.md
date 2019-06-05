@@ -27,8 +27,10 @@ Durante años los SEOs buscábamos servidores web alojados en el mismo país al 
 
 La prioridad de Google es ofrecer un resultado lo más rápido posible a sus usuarios, por ello casi todas las páginas hacen uso de Red de distribución de contenidos/  **CDN** (Content Delivery Network) para mejorar los tiempos de entregar.
 
-Un CDN se basa en múltiples servidores ubicados a lo largo del mundo que 
+Al usar un CDN nuestra web se clona en múltiples servidores ubicados a lo largo del mundo que envían la información a los usuarios según su proximidad. 
+
+Por ejemplo, si yo accedo desde España seguramente me sirvan la web desde Irlanda y cuando lo haga un usuario de México la verá desde un servidor de Estados Unidos. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1ODA1Mjk2XX0=
+eyJoaXN0b3J5IjpbMTcyMzM3MDg2NF19
 -->
