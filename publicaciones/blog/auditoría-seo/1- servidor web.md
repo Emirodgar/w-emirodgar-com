@@ -1,12 +1,12 @@
 ---
-title: Herramientas SEO gratis
-description: Conseguir buenos resultados en una estrategia SEO no depende únicamente de tener herramientas de pago. Utilizar estos recursos totalmente gratuitos para marcar la diferencia.
-image: https://emirodgar.com/cdn/images/og/herramientas.png
+title: Elegir un hosting para el SEO
+description: Aunque el servidor web no es un factor SEO directo, sí nos ayudará a 
+image: https://emirodgar.com/cdn/images/og/auditoria.png
 lang: es_ES
-permalink: herramientas-seo-gratis
+permalink: hosting-seo
 
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTYyNzYxOTJdfQ==
+eyJoaXN0b3J5IjpbLTgwMzQ3NDA2OF19
 -->
