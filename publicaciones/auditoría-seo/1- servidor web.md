@@ -18,6 +18,7 @@ Estos son algunos de los **elementos SEO cruciales** para cualquier estrategia y
 -   Los (malos) vecinos que comparten con nosotros el servidor
 -   Capacidad de implementar redirecciones
 -   Capacidad de comprimir recursos (html, js, imágenes, etc)
+-   Servidores DNS y configuraciones asociadas
 
 ## ¿Afecta la ubicación del hosting al SEO?
 
@@ -29,8 +30,12 @@ La prioridad de Google es ofrecer un resultado lo más rápido posible a sus usu
 
 Al usar un CDN nuestra web se clona en múltiples servidores ubicados a lo largo del mundo que envían la información a los usuarios según su proximidad. 
 
-Por ejemplo, si yo accedo desde España seguramente me sirvan la web desde Irlanda y cuando lo haga un usuario de México la verá desde un servidor de Estados Unidos. Esto **facilita los tiempos de carga** y mejora considerablemente la **experiencia de los usuarios**.
+Por ejemplo, si yo accedo desde España seguramente me sirvan la web desde Europa y cuando lo haga un usuario de México la verá desde un servidor ubicado en Estados Unidos. Esto **facilita los tiempos de carga** y mejora considerablemente la **experiencia de los usuarios**.
+
+## Tiempo de carga
+
+Este es posiblemente el factor más relevante
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNTY2ODc1XX0=
+eyJoaXN0b3J5IjpbNzQzNzgzNjY3XX0=
 -->
