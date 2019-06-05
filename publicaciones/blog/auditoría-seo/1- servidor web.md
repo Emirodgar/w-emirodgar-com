@@ -21,9 +21,10 @@ Estos son algunos de los **elementos SEO cruciales** para cualquier estrategia y
 
 ## ¿Afecta la ubicación del hosting al SEO?
 
-Du
+Durante años buscábamos servidores web alojados en el mismo país al que queríamos orientarnos. Si nuestro dominio era www.ejemplo.es necesitábamos un hosting ubicado en España para reforzar nuestro posicionamiento en dicho mercado.
+
+Hoy en día hemos 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY5MjQ2NjMsLTE3Mzk1NzU5NTJdfQ
-==
+eyJoaXN0b3J5IjpbNzc2NjUxOTA0LC0xNzM5NTc1OTUyXX0=
 -->
