@@ -15,11 +15,9 @@ Estos son algunos de los **elementos SEO cruciales** para cualquier estrategia y
 
 -   [Ubicación (geolocalización)](#ubicacion)
 -   [Tiempo de carga](#tiempo-carga)
--   Uptime (tiempo que la página está visible sin caídas)
+-   [Uptime (tiempo que la página está visible sin caídas)](
 -   [Los (malos) vecinos que comparten con nosotros el servidor](#malos-vecinos)
--   Capacidad de implementar redirecciones
--   Capacidad de comprimir recursos (html, js, imágenes, etc)
--   Servidores DNS y configuraciones asociadas
+-   Otras características
 
 ## <a name="ubicacion"></a>¿Afecta la ubicación del hosting al SEO?
 
@@ -56,6 +54,14 @@ Dependiendo del tipo de hosting que contratemos, tendremos una IP para nosotros 
 En éste último escenario es posible que si uno de esos compañeros digitales lleva a cabo prácticas en contra de las directrices de calidad de Google, nos pueda afectar.
 
 Hay herramientas como [Bad Neighborhood](https://www.bad-neighborhood.com/text-link-tool.htm) que nos ayudarán a identificar a vecinos peligrosos antes de exponer nuestra web.
+
+## <a name="otros"></a>Otras características
+
+Un buen servidor web nos tiene que permitir llevar a cabo acciones específicas 
+
+-   Capacidad de implementar redirecciones
+-   Capacidad de comprimir recursos (html, js, imágenes, etc)
+-   Servidores DNS y configuraciones asociadas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAzMjI5MjgsLTgyMTk5MTY5MV19
+eyJoaXN0b3J5IjpbLTE4OTgwODk0NTQsLTgyMTk5MTY5MV19
 -->
