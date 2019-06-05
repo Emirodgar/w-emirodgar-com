@@ -36,8 +36,12 @@ Por ejemplo, si yo accedo desde España seguramente me sirvan la web desde Europ
 
 Posiblemente una velocidad adecuada sea factor más relevante de cara a una estrategia SEO. Una página que carga rápido se verá beneficiada tanto a nivel de buscadores (SEO) como en el resto de la estrategia digital.
 
-Google ya ha dejado claro su prioridad por lo que ellos determinan una [experiencia de usuario óptima]( y  
+Google ya ha dejado claro su prioridad por lo que ellos determinan una [experiencia de usuario óptima](https://developers.google.com/web/tools/chrome-user-experience-report/) y  ha lanzado proyectos en línea con esos intereses como AMP, para páginas móviles, o PWA como sustituto de las apps mobile que conocemos hasta ahora.
+
+## Uptime
+
+Este término se refiere al tiempo que una página está accesible. E
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjQ5MzU4Ml19
+eyJoaXN0b3J5IjpbLTU0OTQ2MjQwMV19
 -->
