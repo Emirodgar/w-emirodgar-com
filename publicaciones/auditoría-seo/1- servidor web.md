@@ -21,12 +21,14 @@ Estos son algunos de los **elementos SEO cruciales** para cualquier estrategia y
 
 ## ¿Afecta la ubicación del hosting al SEO?
 
-Durante años buscábamos servidores web alojados en el mismo país al que queríamos orientarnos. Si nuestro dominio era www.ejemplo.es necesitábamos un hosting ubicado en España para reforzar nuestro posicionamiento en dicho mercado.
+Durante años los SEOs buscábamos servidores web alojados en el mismo país al que queríamos orientarnos. Si nuestro dominio era www.ejemplo.es necesitábamos un hosting ubicado en España para reforzar nuestro posicionamiento en dicho mercado.
 
-Hoy en día ya no es tan importante dónde está ubicado el servidor sino más bien cuánto tarda Google en llegar a él.
+> Hoy en día ya no es tan importante dónde está ubicado el servidor sino más bien cuánto tarda Google en llegar a él.
 
-La prioridad de Google es ofrecer un resultado lo más rápido posible a sus usuarios y para ello necesita rapidez. Casi todas las páginas hacen uso de CDN (Content Delivery Network / Red de distribución de contenidos) para mejorar los tiempos 
+La prioridad de Google es ofrecer un resultado lo más rápido posible a sus usuarios, por ello casi todas las páginas hacen uso de Red de distribución de contenidos/  **CDN** (Content Delivery Network) para mejorar los tiempos de entregar.
+
+Un CDN se basa en múltiples servidores ubicados a lo largo del mundo que 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjU5MjYwOF19
+eyJoaXN0b3J5IjpbNjI1ODA1Mjk2XX0=
 -->
