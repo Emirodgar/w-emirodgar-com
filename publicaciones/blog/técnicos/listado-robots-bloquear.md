@@ -6,7 +6,7 @@ author: Emirodgar
 tags: seo, htaccess, robots
 date: 16/05/2019
 date_modified: 16/05/2019
-image: https://emirodgar.com/cdn/images/og/og-seo-tools-big.jpg
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: listado-robots-bloquear
 
 ---
@@ -1080,5 +1080,5 @@ User-agent: ZyBorg
 Disallow:/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk3Njk2NTNdfQ==
+eyJoaXN0b3J5IjpbMTQ5MTM1NDg4M119
 -->
