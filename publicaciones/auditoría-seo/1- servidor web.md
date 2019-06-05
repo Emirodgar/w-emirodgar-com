@@ -25,8 +25,8 @@ Durante años buscábamos servidores web alojados en el mismo país al que quer�
 
 Hoy en día ya no es tan importante dónde está ubicado el servidor sino más bien cuánto tarda Google en llegar a él.
 
-La prioridad de Google es ofrecer un resultado lo más rápido posible a sus usuarios y para ello necesita rapidez
+La prioridad de Google es ofrecer un resultado lo más rápido posible a sus usuarios y para ello necesita rapidez. Casi todas las páginas hacen uso de CDN (Content Delivery Network / Red de distribución de contenidos) para mejorar los tiempos 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjYxOTg2OF19
+eyJoaXN0b3J5IjpbMTcxMjU5MjYwOF19
 -->
