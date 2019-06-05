@@ -34,8 +34,10 @@ Por ejemplo, si yo accedo desde España seguramente me sirvan la web desde Europ
 
 ## Tiempo de carga
 
-Este es posiblemente el factor más relevante de cara a una estrategia SEO. Una página que carga rápido
+Posiblemente una velocidad adecuada sea factor más relevante de cara a una estrategia SEO. Una página que carga rápido se verá beneficiada tanto a nivel de buscadores (SEO) como en el resto de la estrategia digital.
+
+Google ya ha dejado claro
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzYxNDMzNl19
+eyJoaXN0b3J5IjpbLTE0NjIyMjA3MjZdfQ==
 -->
