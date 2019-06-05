@@ -2,7 +2,7 @@
 title: Mapa web
 description: Página web personal de Emilio. Informático con más de 10 años en Marketing Digital.
 lang: es_ES
-image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
+image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: mapa-web
 
 ---
@@ -23,7 +23,7 @@ Te cuento la [estrategia SEO](https://emirodgar.com/estrategia-seo) que he segui
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTg4NzgyNiwtOTI4NTMyMDQsLTg2OT
+eyJoaXN0b3J5IjpbMTc1MDk0MDIwMiwtOTI4NTMyMDQsLTg2OT
 kxMTcxNiw3NjYzMTM2ODksNTgzOTQ5MjU3LDEzNjUyNDIzNTcs
 ODA0ODQ0NjMwLDMxNzM2MTMwNCwtOTA2OTEzNDQyXX0=
 -->
