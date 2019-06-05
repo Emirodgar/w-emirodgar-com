@@ -29,8 +29,8 @@ La prioridad de Google es ofrecer un resultado lo más rápido posible a sus usu
 
 Al usar un CDN nuestra web se clona en múltiples servidores ubicados a lo largo del mundo que envían la información a los usuarios según su proximidad. 
 
-Por ejemplo, si yo accedo desde España seguramente me sirvan la web desde Irlanda y cuando lo haga un usuario de México la verá desde un servidor de Estados Unidos. 
+Por ejemplo, si yo accedo desde España seguramente me sirvan la web desde Irlanda y cuando lo haga un usuario de México la verá desde un servidor de Estados Unidos. Esto **facilita los tiempos de carga** y mejora considerablemente la **experiencia de los usuarios**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzM3MDg2NF19
+eyJoaXN0b3J5IjpbLTEwOTAwMDcwOTFdfQ==
 -->
