@@ -25,12 +25,12 @@ Durante años los SEOs buscábamos servidores web alojados en el mismo país al 
 
 > Hoy en día ya no es tan importante dónde está ubicado el servidor sino más bien cuánto tarda Google en llegar a él.
 
-La prioridad de Google es ofrecer un resultado lo más rápido posible a sus usuarios, por ello casi todas las páginas hacen uso de Red de distribución de contenidos/  **CDN** (Content Delivery Network) para mejorar los tiempos de entregar.
+La prioridad de Google es ofrecer un resultado lo más rápido posible a sus usuarios, por ello casi todas las páginas -para mejorar los tiempos de entrega- hacen uso de Redes de distribución de contenidos, comúnmente conocidas por sus siglas en inglés:  **CDN** (Content Delivery Network).
 
 Al usar un CDN nuestra web se clona en múltiples servidores ubicados a lo largo del mundo que envían la información a los usuarios según su proximidad. 
 
 Por ejemplo, si yo accedo desde España seguramente me sirvan la web desde Irlanda y cuando lo haga un usuario de México la verá desde un servidor de Estados Unidos. Esto **facilita los tiempos de carga** y mejora considerablemente la **experiencia de los usuarios**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAwMDcwOTFdfQ==
+eyJoaXN0b3J5IjpbMjUzNTY2ODc1XX0=
 -->
