@@ -113,7 +113,7 @@ Google anunció recientemente su [Programa Opt-In de alta resolución](https://s
 
 ![](https://lh4.googleusercontent.com/FtmIC_bil_ZiL1YJlxO0qhUJYSkUNe5uYSVeLZ-2qniHiNUsxDQv9bFz-i-YgL-lN-S7aEb-gvEIthGIfSTW64mUFR9cXOPcul0w4s0lXmDvjkdzyRNSg-Rc_x5PXOd7omAL-_QA)
 
-Para asegurarnos de que nuestras imágenes aparecen en los bloques de fragmentos destacados, debemos usar la  **mejor representación visual para el contexto de la página**  , teniendo en cuenta la consulta de destino.  Si la página trata sobre “  _cómo dibujar un gato_  ”, elija una imagen que muestre a una persona dibujando un gato.  No es una imagen de un gato real.
+Para asegurarnos de que nuestras imágenes aparecen en los bloques de fragmentos destacados, debemos usar la  **mejor representación visual para el contexto de la página**  , teniendo en cuenta la consulta de destino.  Si la página trata sobre “  _cómo dibujar un gato_  ”, elija una imagen que muestre a una persona dibujando un gato, no muestre un gato real.
 
 ### 8- Accesibilidad
 
@@ -135,5 +135,5 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODExODkzOF19
+eyJoaXN0b3J5IjpbLTY5NzQ4OTgxM119
 -->
