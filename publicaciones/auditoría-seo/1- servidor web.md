@@ -39,6 +39,8 @@ Posiblemente una velocidad adecuada sea factor más relevante de cara a una estr
 
 Google ya ha dejado claro su prioridad por lo que ellos determinan una [experiencia de usuario óptima](https://developers.google.com/web/tools/chrome-user-experience-report/) y  ha lanzado proyectos en línea con esos intereses como AMP, para páginas móviles, o PWA como sustituto de las apps mobile que conocemos hasta ahora.
 
+Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o GTXMetrix
+
 ## <a name="uptime"></a>Uptime
 
 Este término se refiere al **tiempo que una página está accesible**. Erróneamente se piensa que si una web se cae sin que el robot de búsqueda se percate de ello no pasa nada pero el hecho de que una página sufra caídas intermitentemente afectará a la estrategia digital.
@@ -51,7 +53,7 @@ Dependiendo del tipo de hosting que contratemos, tendremos una IP para nosotros 
 
 En éste último escenario es posible que si uno de esos compañeros digitales lleva a cabo prácticas en contra de las directrices de calidad de Google, nos pueda afectar.
 
-Hay herramientas como [Bad Neighborhood](https://www.bad-neighborhood.com/text-link-tool.htm) que nos ayudarán a identificar a vecinos peligr
+Hay herramientas como [Bad Neighborhood](https://www.bad-neighborhood.com/text-link-tool.htm) que nos ayudarán a identificar a vecinos peligrosos antes de exponer nuestra web.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0Nzc3OTMwLC04MjE5OTE2OTFdfQ==
+eyJoaXN0b3J5IjpbMTEwNDAxNzYwOSwtODIxOTkxNjkxXX0=
 -->
