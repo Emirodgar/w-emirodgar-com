@@ -40,8 +40,8 @@ Google ya ha dejado claro su prioridad por lo que ellos determinan una [experien
 
 ## Uptime
 
-Este término se refiere al tiempo que una página está accesible. E
+Este término se refiere al tiempo que una página está accesible. Erróneamente se piensa que si una web se cae sin que el robot de búsqueda se percate de ello no pasa nada pero el hecho de que una página 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTQ2MjQwMV19
+eyJoaXN0b3J5IjpbLTEwNTA3MzAxNDZdfQ==
 -->
