@@ -18,6 +18,8 @@ Cuando diseñamos una estrategia digital -especialmente SEO- sabemos que tenemos
 
 Nadie sabe con certeza cómo funciona puesto que exponerlo supondría que todos seguiríamos los mismos patrones, por ello Google lo guarda con recelo y lo actualiza con cierta frecuencia para asegurarse de que cualquier usuario que use su buscador **recibe los mejores resultados posibles**. 
 
+> El algoritmo de Google es el código que utiliza para encontrar y validar los millones de sitios web del mundo
+
 Sí sabemos que hace uso de unos 200 [factores SEO](/factores-seo) pero cómo se interpretan y qué valor tiene cada uno queda a cargo del algoritmo. 
 
 
@@ -25,11 +27,10 @@ Sí sabemos que hace uso de unos 200 [factores SEO](/factores-seo) pero cómo se
 
 Un par de veces al año Google renueva - de forma oficial- su algoritmo de búsqueda; no obstante, y como ellos reconocen, extraoficialmente puede sufrir en torno al centenar de cambios anuales.
 
-> El algoritmo de Google es el código que utiliza para encontrar y validar los millones de sitios web del mundo
 
 ## ¿Qué tipos de cambios de algoritmo existen?
 
 La diferencia de los cambios oficiales o los que no lo son suele ser el tamaño del cambio y el impacto del mismo. Los oficiales suelen ser cambios muy grandes que afectan de forma directa a millones de páginas. Los no oficiales, suelen ser correcciones o actualizaciones diseñadas para ajustar pequeños cambios por lo que el impacto suele ser menor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk4NzQ1ODhdfQ==
+eyJoaXN0b3J5IjpbMTQ0NjAwOTU2MF19
 -->
