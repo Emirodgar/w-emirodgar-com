@@ -69,9 +69,9 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
  2. **Analizar Google Search Console**: A través de esta plataforma podremos conocer la evolución (clicks e impresiones) de los términos y URLs por las que posicionamos. Cualquier cambio -a mejor o a peor- se verá reflejado. El único inconveniente es que lleva un pequeño retraso por lo que no es algo que podamos hacer justo tras el cambio de algoritmo.
  3. **Analizar visibilidad SEO**: Existen multitud de herramientas (Sistrix, Semrush, Ahrefs, etc.) que analizan nuestras visibilidad SEO (número de palabras clave dentro de los buscadores, su posición y volumen de búsquedas estimadas). Si nos hemos visto afectados, esta visibilidad subirá o bajará notoriamente. 
 
-En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es) o [Zeo Tools](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl).  Nos acruzarán nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
+En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es) o [Zeo Tools](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl).  Nos ayudarán a cruzar nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Njk0NTg3NywtMTI5NDY3MjY0MywxOD
-M5NjE0OTk0LDE0NDYwMDk1NjBdfQ==
+eyJoaXN0b3J5IjpbLTE3MDQ1OTgxNDUsLTEyOTQ2NzI2NDMsMT
+gzOTYxNDk5NCwxNDQ2MDA5NTYwXX0=
 -->
