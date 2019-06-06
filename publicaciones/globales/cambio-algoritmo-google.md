@@ -35,8 +35,12 @@ Un par de veces al año Google renueva - de forma oficial- su algoritmo de búsq
 
 ## ¿Qué tipos de cambios de algoritmo existen?
 
-La diferencia de los cambios oficiales o los que no lo son suele ser el tamaño del cambio y el impacto del mismo. Los oficiales suelen ser cambios muy grandes que afectan de forma directa a millones de páginas. Los no oficiales, suelen ser correcciones o actualizaciones diseñadas para ajustar pequeños cambios por lo que el impacto suele ser menor.
+La diferencia de los cambios oficiales o los que no lo son suele ser el tamaño e impacto del mismo. Los oficiales suelen ser cambios muy grandes que afectan de forma directa a millones de páginas. Los no oficiales, suelen ser correcciones o actualizaciones diseñadas para ajustar pequeños desfases por lo que el impacto suele ser menor.
+
+## ¿Cómo saber si está ocurriendo un cambio en el algoritmo?
+
+Si es un cambio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY2MDg3MTMsMTgzOTYxNDk5NCwxND
-Q2MDA5NTYwXX0=
+eyJoaXN0b3J5IjpbNzczMDEzNzMwLDE4Mzk2MTQ5OTQsMTQ0Nj
+AwOTU2MF19
 -->
