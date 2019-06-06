@@ -15,7 +15,7 @@ permalink: optimizacion-imagenes-seo
 
 Las imágenes han ido adquiriendo cada vez más relevancia dentro de las búsquedas, por ello, el posicionar de forma óptima dentro de este segmento nos ayudará a **incrementar notoriamiente el tráfico orgánico** hacia nuestra página.
 
-> Hasta hace poco Google disponía de un botón para acceder directamente a las imágenes indexadas en su índice pero [tras una disputa legal con Getty Images]([https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html](https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html)) tuvieron que eliminarlo. Ahora, posicionar por imágenes sí ayuda a generar tráfico SEO hacia nuestra web.
+> Hasta hace poco Google disponía de un botón para acceder directamente a las imágenes indexadas en su índice pero [tras una disputa legal con Getty Images](https://twitter.com/searchliaison/status/964226183180070912?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E964226183180070912&ref_url=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-image-search-removes-features-25253.html) tuvieron que eliminarlo. Ahora, posicionar por imágenes sí ayuda a generar tráfico SEO hacia nuestra web.
 
 Google nos facilita una serie de [recomendaciones y buenas prácticas](https://support.google.com/webmasters/answer/114016?hl=es) pero aún hay otras acciones que podemos llevar a cabo para incrementar la captación de tráfico relevante.
 
@@ -135,5 +135,5 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzQ4OTgxM119
+eyJoaXN0b3J5IjpbLTE3NjU4MzQ2MTUsLTY5NzQ4OTgxM119
 -->
