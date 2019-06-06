@@ -57,11 +57,11 @@ Algunas de estas herramientas son:
 
 Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página podemos llevar a cabo varios análisis:
 
- 1. **Analizar el tráfico orgánico** es importante analizar la horquilla de tiempo 
- 2. Analizar Google Search Console
+ 1. **Analizar el tráfico orgánico**: Analizaremos la horquilla de tiempo en la que ha ocurrido el cambio y compararla con un periodo equivalente. Por ejemplo, si vamos a analizar de lunes a jueves, debemos compararlo con un lunes a jueves similar (sin festivos ni ninguna estacionalidad que pudiera afectar a los datos).
+ 2. Analizar Google Search Console: A través de esta plataformas podremos conocer la evolución
  3. Analizar visibilidad SEO
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzk2MDU2NiwxODM5NjE0OTk0LDE0ND
+eyJoaXN0b3J5IjpbMTkxNDI1NDUxNSwxODM5NjE0OTk0LDE0ND
 YwMDk1NjBdfQ==
 -->
