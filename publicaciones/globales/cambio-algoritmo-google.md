@@ -55,8 +55,8 @@ Algunas de estas herramientas son:
 
 ## ¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?
 
-Tenemos dos formas de averiguarlo, la primera analizando nuestro tráfico orgánico
+Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página tenemos varias formas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTAxNzcyMiwxODM5NjE0OTk0LDE0ND
-YwMDk1NjBdfQ==
+eyJoaXN0b3J5IjpbLTEzMjk4NDE3OTAsMTgzOTYxNDk5NCwxND
+Q2MDA5NTYwXX0=
 -->
