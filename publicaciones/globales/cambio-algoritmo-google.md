@@ -49,8 +49,14 @@ Algunas de estas herramientas son:
 - [Cognitive SEO](https://cognitiveseo.com/signals/)
 - [SERPwoo](https://www.serpwoo.com/stats/volatility/)
 - [SEMRush](https://www.semrush.com/sensor/?category=&db=US)
-- 
+- [Algoroo](https://algoroo.com/)
+- [Advanced Web Rankings](https://www.advancedwebranking.com/google-algorithm-changes/)
+- [RankRanger](https://www.rankranger.com/rank-risk-index)
+
+## ¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?
+
+Tenemos dos formas de averiguarlo, la primera analizando nuestro tráfico orgánico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTIxNjI1NiwxODM5NjE0OTk0LDE0ND
+eyJoaXN0b3J5IjpbMTk4OTAxNzcyMiwxODM5NjE0OTk0LDE0ND
 YwMDk1NjBdfQ==
 -->
