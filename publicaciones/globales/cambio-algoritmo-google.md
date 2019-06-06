@@ -19,7 +19,7 @@ Cuando diseñamos una estrategia digital -especialmente SEO- sabemos que tenemos
 - [¿Qué es el algoritmo de búsqueda de Google?](#que-es-algoritmo)
 - [¿Cuándo ocurren los cambios en el algoritmo?](#cambios-algoritmo)
 - [¿Qué tipos de cambios de algoritmo existen?](#tipos-cambio-algoritmo)
-- [¿Cómo saber si está ocurriendo un cambio en el algoritmo?](cambio-algoritmo-en-curso)
+- [¿Cómo saber si está ocurriendo un cambio en el algoritmo?](#cambio-algoritmo-en-curso)
 - [¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?](#analizar-impacto-algoritmo)
 
 
@@ -68,6 +68,6 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
  3. **Analizar visibilidad SEO**: Existen multitud de herramientas (Sistrix, Semrush, Ahrefs, etc.) que analizan nuestras visibilidad SEO (número de palabras clave dentro de los buscadores, su posición y volumen de búsquedas estimadas). Si nos hemos visto afectados, esta visibilidad subirá o bajará notoriamente. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzUyODQ1MywxODM5NjE0OTk0LDE0ND
+eyJoaXN0b3J5IjpbMTEzMDg4ODYyNiwxODM5NjE0OTk0LDE0ND
 YwMDk1NjBdfQ==
 -->
