@@ -55,8 +55,13 @@ Algunas de estas herramientas son:
 
 ## ¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?
 
-Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página tenemos varias formas
+Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página podemos llevar a cabo varios análisis:
+
+ 1. **Analizar el tráfico orgánico** es importante analizar la horquilla de tiempo 
+ 2. Analizar Google Search Console
+ 3. Analizar visibilidad SEO
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk4NDE3OTAsMTgzOTYxNDk5NCwxND
-Q2MDA5NTYwXX0=
+eyJoaXN0b3J5IjpbMTYyNzk2MDU2NiwxODM5NjE0OTk0LDE0ND
+YwMDk1NjBdfQ==
 -->
