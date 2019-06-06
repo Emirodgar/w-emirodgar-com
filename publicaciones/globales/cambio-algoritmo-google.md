@@ -59,7 +59,7 @@ Algunas de estas herramientas son:
 - [Advanced Web Rankings](https://www.advancedwebranking.com/google-algorithm-changes/)
 - [RankRanger](https://www.rankranger.com/rank-risk-index)
 
-## <a name=""></a>¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?
+## <a name="analizar-impacto-algoritmo"></a>¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?
 
 Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página podemos llevar a cabo varios análisis:
 
@@ -68,6 +68,6 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
  3. **Analizar visibilidad SEO**: Existen multitud de herramientas (Sistrix, Semrush, Ahrefs, etc.) que analizan nuestras visibilidad SEO (número de palabras clave dentro de los buscadores, su posición y volumen de búsquedas estimadas). Si nos hemos visto afectados, esta visibilidad subirá o bajará notoriamente. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDk0NDAxNSwxODM5NjE0OTk0LDE0ND
+eyJoaXN0b3J5IjpbMTI5NDUzNTE5NCwxODM5NjE0OTk0LDE0ND
 YwMDk1NjBdfQ==
 -->
