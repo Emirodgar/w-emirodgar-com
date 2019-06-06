@@ -19,7 +19,8 @@ Cuando diseñamos una estrategia digital -especialmente SEO- sabemos que tenemos
 - [¿Qué es el algoritmo de búsqueda de Google?](#que-es-algoritmo)
 - [¿Cuándo ocurren los cambios en el algoritmo?](#cambios-algoritmo)
 - [¿Qué tipos de cambios de algoritmo existen?](#tipos-cabio-algoritmo)
-- ¿Cómo saber si está ocurriendo un cambio en el algoritmo?
+- [¿Cómo saber si está ocurriendo un cambio en el algoritmo?](cambio-algoritmo-en-curso)
+- [¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?](#analizar-impacto-algoritmo)
 
 
 ## <a name="que-es-algoritmo"></a>¿Qué es el algoritmo de búsqueda de Google?
@@ -42,7 +43,7 @@ Un par de veces al año Google renueva - de forma oficial- su algoritmo de búsq
 
 La diferencia de los cambios oficiales o los que no lo son suele ser el tamaño e impacto del mismo. Los oficiales suelen ser cambios muy grandes que afectan de forma directa a millones de páginas. Los no oficiales, suelen ser correcciones o actualizaciones diseñadas para ajustar pequeños desfases por lo que el impacto suele ser menor.
 
-## ¿Cómo saber si está ocurriendo un cambio en el algoritmo?
+## <a name="cambio-algoritmo-en-curso"></a>¿Cómo saber si está ocurriendo un cambio en el algoritmo?
 
 Si es un cambio oficial, Google lo habrá anuncio. Si no es el caso, existen herramientas que monitorizan millones de keywords por idioma y mercado; cuando detectan cambios grandes en el posicionamiento, lo advierten y ésto suele ser el preaviso de que ha ocurrido un pequeño cambio no oficial.
 
@@ -58,7 +59,7 @@ Algunas de estas herramientas son:
 - [Advanced Web Rankings](https://www.advancedwebranking.com/google-algorithm-changes/)
 - [RankRanger](https://www.rankranger.com/rank-risk-index)
 
-## ¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?
+## <a name=""></a>¿Cómo puedo saber si he sido afectado por el cambio de algoritmo?
 
 Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página podemos llevar a cabo varios análisis:
 
@@ -67,6 +68,6 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
  3. **Analizar visibilidad SEO**: Existen multitud de herramientas (Sistrix, Semrush, Ahrefs, etc.) que analizan nuestras visibilidad SEO (número de palabras clave dentro de los buscadores, su posición y volumen de búsquedas estimadas). Si nos hemos visto afectados, esta visibilidad subirá o bajará notoriamente. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE0NDE4MywxODM5NjE0OTk0LDE0ND
+eyJoaXN0b3J5IjpbMjEyNDk0NDAxNSwxODM5NjE0OTk0LDE0ND
 YwMDk1NjBdfQ==
 -->
