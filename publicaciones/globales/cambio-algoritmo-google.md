@@ -16,8 +16,10 @@ Cuando diseñamos una estrategia digital -especialmente SEO- sabemos que tenemos
 
 > Cumplir esos requisitos nos permite aparecer  pero el hecho de que lo hagamos en las primeras o últimas posiciones **dependerá en exclusiva del algoritmo de Google**.
 
+- ¿Qué es el algoritmo de búsqueda de Google?
 
-## ¿Qué es el algoritmo de búsqueda de Google?
+
+## <a name="que-es-algoritmo"></a>¿Qué es el algoritmo de búsqueda de Google?
 
 > El algoritmo de Google es el código que utiliza para encontrar y validar los millones de sitios web del mundo
 
@@ -59,9 +61,9 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
 
  1. **Analizar el tráfico orgánico**: Analizaremos la horquilla de tiempo en la que ha ocurrido el cambio y compararla con un periodo equivalente. Por ejemplo, si vamos a analizar de lunes a jueves, debemos compararlo con un lunes a jueves similar (sin festivos ni ninguna estacionalidad que pudiera afectar a los datos).
  2. Analizar Google Search Console: A través de esta plataforma podremos conocer la evolución (clicks e impresiones) de los términos y URLs por las que posicionamos. Cualquier cambio -a mejor o a peor- se verá reflejado. El único inconveniente es que lleva un pequeño retraso por lo que no es algo que podamos hacer justo tras el cambio de algoritmo.
- 3. **Analizar visibilidad SEO**: Existen multitud de herramientas () que analizan nuestras visibilidad SEO (número de palabras clave dentro de los buscadores, su posición y volumen de búsquedas estimadas). Si nos hemos visto afectados, esta visibilidad subirá o bajará notoriamente. 
+ 3. **Analizar visibilidad SEO**: Existen multitud de herramientas (Sistrix, Semrush, Ahrefs, etc.) que analizan nuestras visibilidad SEO (número de palabras clave dentro de los buscadores, su posición y volumen de búsquedas estimadas). Si nos hemos visto afectados, esta visibilidad subirá o bajará notoriamente. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NzYzMDU1LDE4Mzk2MTQ5OTQsMTQ0Nj
-AwOTU2MF19
+eyJoaXN0b3J5IjpbLTExNDU5MDI3NjgsMTgzOTYxNDk5NCwxND
+Q2MDA5NTYwXX0=
 -->
