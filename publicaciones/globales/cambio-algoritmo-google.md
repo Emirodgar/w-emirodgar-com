@@ -39,8 +39,18 @@ La diferencia de los cambios oficiales o los que no lo son suele ser el tamaño 
 
 ## ¿Cómo saber si está ocurriendo un cambio en el algoritmo?
 
-Si es un cambio oficial, Google lo habrá anuncio. Si no es el caso, existen herramientas que monitorizan millones de keywords por idioma y mercado; cuando detectan cambios grandes en el posicionamiento, lo advierten y ésto suele derivar en un pequeño cambio no oficial.
+Si es un cambio oficial, Google lo habrá anuncio. Si no es el caso, existen herramientas que monitorizan millones de keywords por idioma y mercado; cuando detectan cambios grandes en el posicionamiento, lo advierten y ésto suele ser el preaviso de que ha ocurrido un pequeño cambio no oficial.
+
+Algunas de estas herramientas son:
+
+- [Mozcast](https://moz.com/mozcast/)
+- [SERPMetrics](https://serpmetrics.com/flux/)
+- [Accuranker](https://www.accuranker.com/grump)
+- [Cognitive SEO](https://cognitiveseo.com/signals/)
+- [SERPwoo](https://www.serpwoo.com/stats/volatility/)
+- [SEMRush](https://www.semrush.com/sensor/?category=&db=US)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzkwNDQzMSwxODM5NjE0OTk0LDE0ND
+eyJoaXN0b3J5IjpbLTU3OTIxNjI1NiwxODM5NjE0OTk0LDE0ND
 YwMDk1NjBdfQ==
 -->
