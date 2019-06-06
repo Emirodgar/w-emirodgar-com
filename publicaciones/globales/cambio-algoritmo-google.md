@@ -12,7 +12,7 @@ permalink: cambio-algoritmo-google
 
 # Guía SEO: los cambios de algoritmo de Google
 
-Seguramente mucha gente reconozca el término "algoritmo"
+Cuando diseñamos una estrategia digital, especialmente SEO, sabemos que tenemos que cumplir con las directrices de calidad de Google. Estas recomendaciones son básicas para poder aparecer en los resultados de b
 
 
 ## ¿Cuándo ocurren los cambios de algoritmo de Google?
@@ -25,5 +25,5 @@ Un par de veces al año Google renueva - de forma oficial- su algoritmo de búsq
 
 La diferencia de los cambios oficiales o los que no lo son suele ser el tamaño del cambio y el impacto del mismo. Los oficiales suelen ser cambios muy grandes que afectan de forma directa a millones de páginas. Los no oficiales, suelen ser correcciones o actualizaciones diseñadas para ajustar pequeños cambios por lo que el impacto suele ser menor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTE1Mzk3OF19
+eyJoaXN0b3J5IjpbLTE3MTgyNjgzOF19
 -->
