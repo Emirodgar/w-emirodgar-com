@@ -12,8 +12,8 @@ permalink: cambio-algoritmo-google
 
 # El SEO y los cambios de algoritmo de Google
 
-Hablamos de Google y no del resto de buscadores -que también tienen algoritmos- debido a que su cuota de mercado es de
+Un par de veces al año Google renueva - de forma oficial- su algoritmo de búsqueda, es decir, el código que utiliza para encontrar, incorporar a su índice de búsqueda y validar los millones de páginas web del mundo.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDkzNDg3M119
+eyJoaXN0b3J5IjpbMTEzNDQwNDQ1NV19
 -->
