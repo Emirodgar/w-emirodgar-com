@@ -16,7 +16,10 @@ Cuando diseñamos una estrategia digital -especialmente SEO- sabemos que tenemos
 
 > Cumplir esos requisitos nos permite aparecer  pero el hecho de que lo hagamos en las primeras o últimas posiciones **dependerá en exclusiva del algoritmo de Google**.
 
-- ¿Qué es el algoritmo de búsqueda de Google?
+- [¿Qué es el algoritmo de búsqueda de Google?](#que-es-algoritmo)
+- [¿Cuándo ocurren los cambios en el algoritmo?](#cambios-algoritmo)
+- [¿Qué tipos de cambios de algoritmo existen?](#tipos-cabio-algoritmo)
+- ¿Cómo saber si está ocurriendo un cambio en el algoritmo?
 
 
 ## <a name="que-es-algoritmo"></a>¿Qué es el algoritmo de búsqueda de Google?
@@ -28,14 +31,14 @@ Nadie sabe con certeza cómo funciona puesto que exponerlo supondría que todos 
 Trabajamos con la idea de que hace uso de unos 200 [factores SEO](/factores-seo) pero cómo se interpretan y qué valor tiene cada uno queda a cargo del algoritmo. 
 
 
-## ¿Cuándo ocurren los cambios en el algoritmo?
+## <a name="cambios-algoritmo"></a>¿Cuándo ocurren los cambios en el algoritmo?
 
 Un par de veces al año Google renueva - de forma oficial- su algoritmo de búsqueda; no obstante, y como ellos reconocen, extraoficialmente puede sufrir en torno al centenar de cambios anuales.
 
 Últimamente anuncian estos cambios a través de la cuenta de Twitter de [Searchliaison](https://twitter.com/searchliaison) por lo que recomiendo seguirla para estar al tanto.
 
 
-## ¿Qué tipos de cambios de algoritmo existen?
+## <a name="tipos-cambio-algoritmo"></a>¿Qué tipos de cambios de algoritmo existen?
 
 La diferencia de los cambios oficiales o los que no lo son suele ser el tamaño e impacto del mismo. Los oficiales suelen ser cambios muy grandes que afectan de forma directa a millones de páginas. Los no oficiales, suelen ser correcciones o actualizaciones diseñadas para ajustar pequeños desfases por lo que el impacto suele ser menor.
 
@@ -64,6 +67,6 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
  3. **Analizar visibilidad SEO**: Existen multitud de herramientas (Sistrix, Semrush, Ahrefs, etc.) que analizan nuestras visibilidad SEO (número de palabras clave dentro de los buscadores, su posición y volumen de búsquedas estimadas). Si nos hemos visto afectados, esta visibilidad subirá o bajará notoriamente. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU5MDI3NjgsMTgzOTYxNDk5NCwxND
-Q2MDA5NTYwXX0=
+eyJoaXN0b3J5IjpbLTE4MzE0NDE4MywxODM5NjE0OTk0LDE0ND
+YwMDk1NjBdfQ==
 -->
