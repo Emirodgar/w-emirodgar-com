@@ -26,6 +26,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://www.google.com/webmasters/tools/home?hl=es](https://www.google.com/webmasters/tools/home?hl=es)
 - [http://www.siteliner.com](http://www.siteliner.com)
 - [https://serpstat.com](https://serpstat.com/)
+- [http://beamusup.com/](http://beamusup.com/)
 
 ## SEO Técnico 
 
@@ -39,6 +40,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://gtmetrix.com/](https://gtmetrix.com/)
 - [https://varvy.com/](https://varvy.com/)
 - [http://www.browseo.net/](http://www.browseo.net/)
+- [http://home.snafu.de/tilman/xenulink.html](http://home.snafu.de/tilman/xenulink.html)
 
 ## Keyword research / Contenidos
 
@@ -97,12 +99,13 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Check my links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en)
 - [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en)
 - [Cambios de algoritmos superpuestos en Analytics](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl)
+- [Link Redirect Trace](https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh?hl=en)
 
 ## Mobile apps
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTk3MTAwOCwtMTEyMzQ0MDc2MCwyMD
+eyJoaXN0b3J5IjpbMTkyNDU5ODM2NiwtMTEyMzQ0MDc2MCwyMD
 I4NDAyNzk2LC0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAy
 NDc0NiwtMTg1NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMz
 M4LC0xMjcxOTI5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
