@@ -114,14 +114,15 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Cambios de algoritmos superpuestos en Analytics](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl)
 - [Link Redirect Trace](https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh?hl=en)
 - [Link Miner](https://chrome.google.com/webstore/detail/linkminer/ogdhdnpiclkaeicicamopfohidjokoom?hl=en)
+- [ChomeDev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 
 ## Mobile apps
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTA4NjgwMiwxNDA5OTg3NzkyLC0xMT
-IzNDQwNzYwLDIwMjg0MDI3OTYsLTE4Mzc1ODU5MzgsMjQ4OTI2
-NzIxLC0yMTQ0MDI0NzQ2LC0xODU2NTg2OTg0LC0yMTA3MzI1Nj
-MyLDExNjA5MzMzMzgsLTEyNzE5Mjk5LC0xNTMyODQyOTkxLDcy
-NjcyNDg2NV19
+eyJoaXN0b3J5IjpbLTc0Mzg5MjY5NCwxMDI1MDg2ODAyLDE0MD
+k5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5NiwtMTgzNzU4
+NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1ODY5OD
+QsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOTksLTE1
+MzI4NDI5OTEsNzI2NzI0ODY1XX0=
 -->
