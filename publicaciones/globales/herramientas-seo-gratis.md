@@ -72,6 +72,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 - [https://zeo.org/seo-tools/mfi/](https://zeo.org/seo-tools/mfi/)
 - [https://mobilemoxie.com/tools/mobile-serp-test/](https://mobilemoxie.com/tools/mobile-serp-test/)
+- [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
 
 ## SEO Local
 
@@ -117,7 +118,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU5Njg1MCwtMTEyMzQ0MDc2MCwyMD
+eyJoaXN0b3J5IjpbMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMD
 I4NDAyNzk2LC0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAy
 NDc0NiwtMTg1NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMz
 M4LC0xMjcxOTI5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
