@@ -28,6 +28,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://serpstat.com](https://serpstat.com/)
 - [http://beamusup.com/](http://beamusup.com/)
 - [https://www.marketingminer.com](https://www.marketingminer.com/)
+- [https://archive.org/web/](https://archive.org/web/)
 
 ## SEO Técnico 
 
@@ -42,6 +43,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://varvy.com/](https://varvy.com/)
 - [http://www.browseo.net/](http://www.browseo.net/)
 - [http://home.snafu.de/tilman/xenulink.html](http://home.snafu.de/tilman/xenulink.html)
+- [https://www.wappalyzer.com/](https://www.wappalyzer.com/)
 
 ## Keyword research / Contenidos
 
@@ -129,10 +131,10 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ3Nzg0MzMsMTkxOTQ1MTQ0NiwtNj
-k2NjgyMDYwLC03NDM4OTI2OTQsMTAyNTA4NjgwMiwxNDA5OTg3
-NzkyLC0xMTIzNDQwNzYwLDIwMjg0MDI3OTYsLTE4Mzc1ODU5Mz
-gsMjQ4OTI2NzIxLC0yMTQ0MDI0NzQ2LC0xODU2NTg2OTg0LC0y
-MTA3MzI1NjMyLDExNjA5MzMzMzgsLTEyNzE5Mjk5LC0xNTMyOD
-QyOTkxLDcyNjcyNDg2NV19
+eyJoaXN0b3J5IjpbMTEwNjg0MTQ5NSwxOTE5NDUxNDQ2LC02OT
+Y2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2ODAyLDE0MDk5ODc3
+OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5NiwtMTgzNzU4NTkzOC
+wyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1ODY5ODQsLTIx
+MDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOTksLTE1MzI4ND
+I5OTEsNzI2NzI0ODY1XX0=
 -->
