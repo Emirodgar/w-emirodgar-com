@@ -90,6 +90,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://analytics.google.com/analytics/web/](https://analytics.google.com/analytics/web/)
 - [https://search.google.com/search-console/about?hl=es](https://search.google.com/search-console/about?hl=es)
 - [https://keyword-hero.com/](https://keyword-hero.com/)
+- [https://sheetsformarketers.com/](https://sheetsformarketers.com/)
 
 ## Optimizar la conversión
 
@@ -122,9 +123,10 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMj
-UwODY4MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAy
-Nzk2LC0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0Ni
-wtMTg1NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0x
-MjcxOTI5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
+eyJoaXN0b3J5IjpbMTkxOTQ1MTQ0NiwtNjk2NjgyMDYwLC03ND
+M4OTI2OTQsMTAyNTA4NjgwMiwxNDA5OTg3NzkyLC0xMTIzNDQw
+NzYwLDIwMjg0MDI3OTYsLTE4Mzc1ODU5MzgsMjQ4OTI2NzIxLC
+0yMTQ0MDI0NzQ2LC0xODU2NTg2OTg0LC0yMTA3MzI1NjMyLDEx
+NjA5MzMzMzgsLTEyNzE5Mjk5LC0xNTMyODQyOTkxLDcyNjcyND
+g2NV19
 -->
