@@ -116,12 +116,13 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Link Redirect Trace](https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh?hl=en)
 - [Link Miner](https://chrome.google.com/webstore/detail/linkminer/ogdhdnpiclkaeicicamopfohidjokoom?hl=en)
 - [ChomeDev Tools](https://developers.google.com/web/tools/chrome-devtools/)
+- [SEO Minion](https://seominion.com/)
 
 ## Mobile apps
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzM1OTQ5OSwtNzQzODkyNjk0LDEwMj
+eyJoaXN0b3J5IjpbLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMj
 UwODY4MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAy
 Nzk2LC0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0Ni
 wtMTg1NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0x
