@@ -69,6 +69,12 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://review-checker.whitespark.ca](https://review-checker.whitespark.ca)
 - [https://www.yext.com/](https://www.yext.com/)
 
+## Analítica web / medición resultados
+
+- [https://analytics.google.com/analytics/web/](https://analytics.google.com/analytics/web/)
+- -
+- [https://keyword-hero.com/](https://keyword-hero.com/)
+
 ## Optimizar la conversión
 
 - [https://www.finteza.com](https://www.finteza.com)
@@ -92,8 +98,8 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM0NDA3NjAsMjAyODQwMjc5NiwtMT
-gzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1
-ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOT
-ksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbNjEzODAyMDk1LC0xMTIzNDQwNzYwLDIwMj
+g0MDI3OTYsLTE4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMTQ0MDI0
+NzQ2LC0xODU2NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMz
+gsLTEyNzE5Mjk5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
 -->
