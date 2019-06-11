@@ -73,6 +73,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://zeo.org/seo-tools/mfi/](https://zeo.org/seo-tools/mfi/)
 - [https://mobilemoxie.com/tools/mobile-serp-test/](https://mobilemoxie.com/tools/mobile-serp-test/)
 - [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
+- [https://mobilemoxie.com/tools/mobile-serp-test/](https://mobilemoxie.com/tools/mobile-serp-test/)
 
 ## SEO Local
 
@@ -118,9 +119,9 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMD
-I4NDAyNzk2LC0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAy
-NDc0NiwtMTg1NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMz
-M4LC0xMjcxOTI5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
-
+eyJoaXN0b3J5IjpbMTAyNTA4NjgwMiwxNDA5OTg3NzkyLC0xMT
+IzNDQwNzYwLDIwMjg0MDI3OTYsLTE4Mzc1ODU5MzgsMjQ4OTI2
+NzIxLC0yMTQ0MDI0NzQ2LC0xODU2NTg2OTg0LC0yMTA3MzI1Nj
+MyLDExNjA5MzMzMzgsLTEyNzE5Mjk5LC0xNTMyODQyOTkxLDcy
+NjcyNDg2NV19
 -->
