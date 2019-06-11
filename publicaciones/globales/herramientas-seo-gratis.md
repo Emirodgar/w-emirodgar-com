@@ -65,9 +65,12 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [http://www.seopowersuite.es/seo-spyglass/](http://www.seopowersuite.es/seo-spyglass/)
 - [https://ahrefs.com/es/backlink-checker](https://ahrefs.com/es/backlink-checker)
 - [https://www.canirank.com](https://www.canirank.com)
+- [https://www.google.com/webmasters/tools/disavow-links-main](https://www.google.com/webmasters/tools/disavow-links-main)
+- [https://moz.com/link-explorer](https://moz.com/link-explorer)
 
 ## SEO Local
 
+- [https://www.google.com/business/](https://www.google.com/business/)
 - [https://review-checker.whitespark.ca](https://review-checker.whitespark.ca)
 - [https://www.yext.com/](https://www.yext.com/)
 
@@ -100,14 +103,14 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en)
 - [Cambios de algoritmos superpuestos en Analytics](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl)
 - [Link Redirect Trace](https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh?hl=en)
+- [Link Miner](https://chrome.google.com/webstore/detail/linkminer/ogdhdnpiclkaeicicamopfohidjokoom?hl=en)
 
 ## Mobile apps
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDU5ODM2NiwtMTEyMzQ0MDc2MCwyMD
-I4NDAyNzk2LC0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAy
-NDc0NiwtMTg1NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMz
-M4LC0xMjcxOTI5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
-
+eyJoaXN0b3J5IjpbODkxMDE1OTI1LC0xMTIzNDQwNzYwLDIwMj
+g0MDI3OTYsLTE4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMTQ0MDI0
+NzQ2LC0xODU2NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMz
+gsLTEyNzE5Mjk5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
 -->
