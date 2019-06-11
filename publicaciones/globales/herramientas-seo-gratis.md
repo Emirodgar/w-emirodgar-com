@@ -72,7 +72,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 ## Analítica web / medición resultados
 
 - [https://analytics.google.com/analytics/web/](https://analytics.google.com/analytics/web/)
-- -
+- [https://search.google.com/search-console/about?hl=es](https://search.google.com/search-console/about?hl=es)
 - [https://keyword-hero.com/](https://keyword-hero.com/)
 
 ## Optimizar la conversión
@@ -81,6 +81,10 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://www.hotjar.com](https://www.hotjar.com)
 - [https://www.crazyegg.com](https://www.crazyegg.com)
 - [https://optimize.google.com](https://optimize.google.com)
+
+## Cambios de algoritmo
+
+- [https://moz.com/mozcast/](https://moz.com/mozcast/)
 
 ## Extensiones de navegador SEO
 
@@ -98,8 +102,9 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzODAyMDk1LC0xMTIzNDQwNzYwLDIwMj
-g0MDI3OTYsLTE4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMTQ0MDI0
-NzQ2LC0xODU2NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMz
-gsLTEyNzE5Mjk5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
+eyJoaXN0b3J5IjpbLTQ5NTk3MTAwOCwtMTEyMzQ0MDc2MCwyMD
+I4NDAyNzk2LC0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAy
+NDc0NiwtMTg1NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMz
+M4LC0xMjcxOTI5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
+
 -->
