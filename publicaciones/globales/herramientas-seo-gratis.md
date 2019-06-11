@@ -27,6 +27,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [http://www.siteliner.com](http://www.siteliner.com)
 - [https://serpstat.com](https://serpstat.com/)
 - [http://beamusup.com/](http://beamusup.com/)
+- [https://www.marketingminer.com](https://www.marketingminer.com/)
 
 ## SEO Técnico 
 
@@ -120,9 +121,9 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mzg5MjY5NCwxMDI1MDg2ODAyLDE0MD
-k5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5NiwtMTgzNzU4
-NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1ODY5OD
-QsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOTksLTE1
-MzI4NDI5OTEsNzI2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbMTgzNzM1OTQ5OSwtNzQzODkyNjk0LDEwMj
+UwODY4MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAy
+Nzk2LC0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0Ni
+wtMTg1NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0x
+MjcxOTI5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
 -->
