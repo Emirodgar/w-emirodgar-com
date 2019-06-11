@@ -73,6 +73,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 - [https://www.google.com/business/](https://www.google.com/business/)
 - [https://review-checker.whitespark.ca](https://review-checker.whitespark.ca)
 - [https://www.yext.com/](https://www.yext.com/)
+- [https://whitespark.ca/google-review-link-generator/](https://whitespark.ca/google-review-link-generator/)
 
 ## Analítica web / medición resultados
 
@@ -109,8 +110,9 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxMDE1OTI1LC0xMTIzNDQwNzYwLDIwMj
-g0MDI3OTYsLTE4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMTQ0MDI0
-NzQ2LC0xODU2NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMz
-gsLTEyNzE5Mjk5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
+eyJoaXN0b3J5IjpbMTUwNjQzODgzOSwtMTEyMzQ0MDc2MCwyMD
+I4NDAyNzk2LC0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAy
+NDc0NiwtMTg1NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMz
+M4LC0xMjcxOTI5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
+
 -->
