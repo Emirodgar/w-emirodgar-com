@@ -90,7 +90,7 @@ Antes de ejecutar una estrategia de SEO offpage es conveniente conocer nuestro p
 
 ## Mobile SEO
 
-El tráfico desde dispositivos móviles
+El tráfico desde dispositivos móviles es mayor que el del resto de dispositivos, por ello es crucial asegurarnos de que nuestra página web está totalmente optimizada para ofrecer una buena experiencia desde estos dispositivos.
 
 - [https://zeo.org/seo-tools/mfi/](https://zeo.org/seo-tools/mfi/)
 - [https://mobilemoxie.com/tools/mobile-serp-test/](https://mobilemoxie.com/tools/mobile-serp-test/)
@@ -144,10 +144,10 @@ El tráfico desde dispositivos móviles
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyNDE2MTcxLDExMDY4NDE0OTUsMTkxOT
-Q1MTQ0NiwtNjk2NjgyMDYwLC03NDM4OTI2OTQsMTAyNTA4Njgw
-MiwxNDA5OTg3NzkyLC0xMTIzNDQwNzYwLDIwMjg0MDI3OTYsLT
-E4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMTQ0MDI0NzQ2LC0xODU2
-NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMzgsLTEyNzE5Mj
-k5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
+eyJoaXN0b3J5IjpbLTIwMTA0NTkzMDksMTEwNjg0MTQ5NSwxOT
+E5NDUxNDQ2LC02OTY2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2
+ODAyLDE0MDk5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5Ni
+wtMTgzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4
+NTY1ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MT
+kyOTksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
 -->
