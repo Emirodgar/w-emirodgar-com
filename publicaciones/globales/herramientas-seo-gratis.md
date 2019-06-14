@@ -34,7 +34,7 @@ Estas herramientas nos ayudarán a obtener una visión completa del estado SEO d
 
 ## SEO Técnico 
 
-Las herramientas de SEO técnico están orientadas a evaluar aspectos
+Las herramientas de SEO técnico están orientadas a evaluar aspectos técnicos que afectan directamente al posicionamiento web. Son avanzadas pero dan información muy útil.
 
 - [https://speedmonitor.io](https://speedmonitor.io)
 - [http://www.browseo.net](http://www.browseo.net)
@@ -45,11 +45,14 @@ Las herramientas de SEO técnico están orientadas a evaluar aspectos
 - [https://www.dareboost.com](https://www.dareboost.com)
 - [https://gtmetrix.com/](https://gtmetrix.com/)
 - [https://varvy.com/](https://varvy.com/)
-- [http://www.browseo.net/](http://www.browseo.net/)
 - [http://home.snafu.de/tilman/xenulink.html](http://home.snafu.de/tilman/xenulink.html)
 - [https://www.wappalyzer.com/](https://www.wappalyzer.com/)
 
 ## Keyword research / Contenidos
+
+Estas aplicaciones nos ayudarán a definir y concretar los contenidos de nuestra página web en base a los análisis de las palabras clave que debemos utilizar.
+
+Necesarias antes de llevar a cabo cualquier plan editorial de contenido.
 
 - [https://keywordseverywhere.com](https://keywordseverywhere.com)
 - [https://answerthepublic.com/](https://answerthepublic.com/)
@@ -135,10 +138,10 @@ Las herramientas de SEO técnico están orientadas a evaluar aspectos
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3OTA3NTI3LDExMDY4NDE0OTUsMTkxOT
-Q1MTQ0NiwtNjk2NjgyMDYwLC03NDM4OTI2OTQsMTAyNTA4Njgw
-MiwxNDA5OTg3NzkyLC0xMTIzNDQwNzYwLDIwMjg0MDI3OTYsLT
-E4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMTQ0MDI0NzQ2LC0xODU2
-NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMzgsLTEyNzE5Mj
-k5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
+eyJoaXN0b3J5IjpbNzA1MTI4MjMsMTEwNjg0MTQ5NSwxOTE5ND
+UxNDQ2LC02OTY2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2ODAy
+LDE0MDk5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5NiwtMT
+gzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1
+ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOT
+ksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
 -->
