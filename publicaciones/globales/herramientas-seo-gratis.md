@@ -90,7 +90,7 @@ Antes de ejecutar una estrategia de SEO offpage es conveniente conocer nuestro p
 
 ## Mobile SEO
 
-El tráfico desde dispositivos móviles es mayor que el del resto de dispositivos, por ello es crucial asegurarnos de que nuestra página web está totalmente optimizada para ofrecer una buena experiencia desde estos dispositivos.
+El tráfico móvil es mayor que el del resto de dispositivos, por ello es crucial asegurarnos de que nuestra página web está totalmente optimizada para ofrecer una buena experiencia desde estos dispositivos.
 
 - [https://zeo.org/seo-tools/mfi/](https://zeo.org/seo-tools/mfi/)
 - [https://mobilemoxie.com/tools/mobile-serp-test/](https://mobilemoxie.com/tools/mobile-serp-test/)
@@ -98,6 +98,8 @@ El tráfico desde dispositivos móviles es mayor que el del resto de dispositivo
 - [https://mobilemoxie.com/tools/mobile-serp-test/](https://mobilemoxie.com/tools/mobile-serp-test/)
 
 ## SEO Local
+
+Un negocio local tendrá un comportamiento ligeramente diferente a otro con un ámbito mayor. Por ello podemos hacer uso de herramientas específicas para potenciar las compras locales.
 
 - [https://www.google.com/business/](https://www.google.com/business/)
 - [https://review-checker.whitespark.ca](https://review-checker.whitespark.ca)
@@ -144,10 +146,10 @@ El tráfico desde dispositivos móviles es mayor que el del resto de dispositivo
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA0NTkzMDksMTEwNjg0MTQ5NSwxOT
-E5NDUxNDQ2LC02OTY2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2
-ODAyLDE0MDk5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5Ni
-wtMTgzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4
-NTY1ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MT
-kyOTksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbMTA2MDExMTc5MSwxMTA2ODQxNDk1LDE5MT
+k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
+MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
+0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
+NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
+I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
 -->
