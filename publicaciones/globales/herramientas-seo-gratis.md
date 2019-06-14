@@ -13,7 +13,18 @@ Hace ya tiempo compartí mi listado de [recursos para marketing digital](recurso
 
 Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más eficientemente y rápido en nuestras tareas SEO.
 
-> Ofrezco un servicio de [posicionamiento web gratuito](https://emirodgar.com/posicionamiento-web-gratis/) para **pequeñas empresas con problemas financieros**.  
+índice
+
+ - [Auditoría SEO](#auditoria-seo)
+ - [SEO Técnico](#seo-tecnico)
+ - [Contenidos](#contenidos)
+ - [](#auditoria-seo)
+ - [Auditoría SEO](#auditoria-seo)
+ - [Auditoría SEO](#auditoria-seo)
+ - [Auditoría SEO](#auditoria-seo)
+ - [Auditoría SEO](#auditoria-seo)
+ - [Auditoría SEO](#auditoria-seo)
+ - [Auditoría SEO](#auditoria-seo)
 
 ## <a name="auditoria-seo"></a>Auditoría SEO 
 
@@ -156,13 +167,13 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [ChomeDev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 - [SEO Minion](https://seominion.com/)
 
-## <a name="mobile-apps"></a>Aplicaciones móviles
+## <a name="app-movil"></a>Aplicaciones móviles
 
 Creación de aplicaciones para dispositivos móviles. No tiene que ver de forma directa con el SEO pero nos puede ayudar a nivel estratégico.
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzE1NzUwMywxMTA2ODQxNDk1LDE5MT
+eyJoaXN0b3J5IjpbLTg1NzA2NDQxMCwxMTA2ODQxNDk1LDE5MT
 k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
 MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
 0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
