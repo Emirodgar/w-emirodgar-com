@@ -25,7 +25,9 @@ Si queremos volver a ver de forma clara el código CSS para poder realizar cambi
 Tan sólo tendremos que copiar y pegar el CSS comprimido y la aplicación nos devolverá la versión con la que podremos trabajar de forma sencilla.
 
 Es buena práctica trabajar con dos ficheros, uno comprimido y otro no de tal forma que cuando hagamos un cambio, generemos la versión comprimida y sea ésta la que subamos al servidor web.
+
+Si estáis comprometidos con el tiempo de carga de vuestra web, os recomiendo el artículo [automatizar análisis de Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse) para que podáis monitorizar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0MTczODI3LC0xMDUyNzU4MjYxLDE2NT
+eyJoaXN0b3J5IjpbODAyNjY3Mjc3LC0xMDUyNzU4MjYxLDE2NT
 I4ODQxNzFdfQ==
 -->
