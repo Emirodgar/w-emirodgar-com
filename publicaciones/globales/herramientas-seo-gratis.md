@@ -79,6 +79,8 @@ Nos permitirán facilitar a los buscadores la extracción de información releva
 
 ## Enlaces / Linkbuilding
 
+Antes de ejecutar una estrategia de SEO offpage es conveniente conocer nuestro perfil de enlazado y detectar fortalezas y debilidades de tal forma que podamos identificar los enlaces que más valor nos van a aportar. 
+
 -   [https://backlinkshitter.com](https://backlinkshitter.com/)
 - [http://www.seopowersuite.es/seo-spyglass/](http://www.seopowersuite.es/seo-spyglass/)
 - [https://ahrefs.com/es/backlink-checker](https://ahrefs.com/es/backlink-checker)
@@ -87,6 +89,8 @@ Nos permitirán facilitar a los buscadores la extracción de información releva
 - [https://moz.com/link-explorer](https://moz.com/link-explorer)
 
 ## Mobile SEO
+
+El tráfico desde dispositivos móviles
 
 - [https://zeo.org/seo-tools/mfi/](https://zeo.org/seo-tools/mfi/)
 - [https://mobilemoxie.com/tools/mobile-serp-test/](https://mobilemoxie.com/tools/mobile-serp-test/)
@@ -140,10 +144,10 @@ Nos permitirán facilitar a los buscadores la extracción de información releva
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTk2MzQzNCwxMTA2ODQxNDk1LDE5MT
-k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
-MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
-0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
-NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
-I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
+eyJoaXN0b3J5IjpbOTMyNDE2MTcxLDExMDY4NDE0OTUsMTkxOT
+Q1MTQ0NiwtNjk2NjgyMDYwLC03NDM4OTI2OTQsMTAyNTA4Njgw
+MiwxNDA5OTg3NzkyLC0xMTIzNDQwNzYwLDIwMjg0MDI3OTYsLT
+E4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMTQ0MDI0NzQ2LC0xODU2
+NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMzgsLTEyNzE5Mj
+k5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
 -->
