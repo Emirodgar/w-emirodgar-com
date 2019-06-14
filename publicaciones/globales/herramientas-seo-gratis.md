@@ -32,7 +32,7 @@ Estas herramientas nos ayudarán a obtener una visión completa del estado SEO d
 - [https://www.marketingminer.com](https://www.marketingminer.com/)
 - [https://archive.org/web/](https://archive.org/web/)
 
-## SEO Técnico 
+## <a name="seo-tecnico"></a>SEO Técnico 
 
 Las herramientas de SEO técnico están orientadas a evaluar aspectos técnicos que afectan directamente al posicionamiento web. Son avanzadas pero dan información muy útil.
 
@@ -48,7 +48,7 @@ Las herramientas de SEO técnico están orientadas a evaluar aspectos técnicos 
 - [http://home.snafu.de/tilman/xenulink.html](http://home.snafu.de/tilman/xenulink.html)
 - [https://www.wappalyzer.com/](https://www.wappalyzer.com/)
 
-## Keyword research / Contenidos
+## <a name="contenidos"></a>Keyword research / Contenidos
 
 Estas aplicaciones nos ayudarán a definir y concretar las palabras clave más importante para nuestro sector/mercado y que utiliza nuestro público objetivo. A partir de ellas podremos generar los contenidos de nuestra página web.
 
@@ -70,14 +70,14 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [https://visualhunt.com/](https://visualhunt.com/)
 - [https://buzzsumo.com/](https://buzzsumo.com/)
 
-## Datos estructurados
+## <a name="datos-estructurados"></a>Datos estructurados
 
 Nos permitirán facilitar a los buscadores la extracción de información relevante. De momento no afectan de forma directa al SEO pero sí nos ayudan a generar mayor visibilidad por lo que podríamos aumentar y mejorar la captación de tráfico relevante.
 
 - [https://search.google.com/test/rich-results](https://search.google.com/test/rich-results)
 - [https://search.google.com/structured-data/testing-tool/u/0/](https://search.google.com/structured-data/testing-tool/u/0/)
 
-## Enlaces / Linkbuilding
+## <a name="enlaces"></a>Enlaces / Linkbuilding
 
 Antes de ejecutar una estrategia de SEO offpage es conveniente conocer nuestro perfil de enlazado y detectar fortalezas y debilidades de tal forma que podamos identificar los enlaces que más valor nos van a aportar. 
 
@@ -88,7 +88,7 @@ Antes de ejecutar una estrategia de SEO offpage es conveniente conocer nuestro p
 - [https://www.google.com/webmasters/tools/disavow-links-main](https://www.google.com/webmasters/tools/disavow-links-main)
 - [https://moz.com/link-explorer](https://moz.com/link-explorer)
 
-## Mobile SEO
+## <a name="mobile-seo"></a>Mobile SEO
 
 El tráfico móvil es mayor que el del resto de dispositivos, por ello es crucial asegurarnos de que nuestra página web está totalmente optimizada para ofrecer una buena experiencia desde estos dispositivos.
 
@@ -97,7 +97,7 @@ El tráfico móvil es mayor que el del resto de dispositivos, por ello es crucia
 - [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
 - [https://mobilemoxie.com/tools/mobile-serp-test/](https://mobilemoxie.com/tools/mobile-serp-test/)
 
-## SEO Local
+## <a name="seo-local"></a>SEO Local
 
 Un negocio local tendrá un comportamiento ligeramente diferente a otro con un ámbito mayor. Por ello debemos hacer uso de herramientas específicas para potenciar las compras locales.
 
@@ -108,7 +108,7 @@ Un negocio local tendrá un comportamiento ligeramente diferente a otro con un �
 - [https://www.brightlocal.com/local-search-results-checker/](https://www.brightlocal.com/local-search-results-checker/)
 - [https://moz.com/local/search](https://moz.com/local/search)
 
-## Analítica web / medición resultados
+## <a name="analitica-web"></a>Analítica web / medición resultados
 
 Tan importante es trabajar el SEO de una página como poder medir el impacto de los cambios. De esta forma sabremos lo que funciona y lo que no para que nuestra estrategia sea dinámica y pueda evolucionar de forma positiva.
 
@@ -117,7 +117,7 @@ Tan importante es trabajar el SEO de una página como poder medir el impacto de 
 - [https://keyword-hero.com/](https://keyword-hero.com/)
 - [https://sheetsformarketers.com/](https://sheetsformarketers.com/)
 
-## Optimizar la conversión
+## <a name="conversion"></a>Optimizar la conversión
 
 Toda estrategia debe terminar con una conversión, si no, no seremos capaces de obtener un retorno de la inversión. Estas herramientas nos ayudarán a mejorar la conversión de nuestra web.
 
@@ -126,7 +126,7 @@ Toda estrategia debe terminar con una conversión, si no, no seremos capaces de 
 - [https://www.crazyegg.com](https://www.crazyegg.com)
 - [https://optimize.google.com](https://optimize.google.com)
 
-## Cambios de algoritmo
+## <a name="cambios-algoritmo"></a>Cambios de algoritmo
 
 Los [algoritmos de los buscadores cambian frecuentemente](https://emirodgar.com/cambio-algoritmo-google), por ello es importante monitorizarlos con frecuencia para poder asegurarnos de que estamos alienados con cualquier posible cambio.
 
@@ -138,7 +138,7 @@ Las herramientas a continuación monitorizan millones de keywords relevantes por
 - [https://www.accuranker.com/grump](https://www.accuranker.com/grump)
 - [https://cognitiveseo.com/signals/](https://cognitiveseo.com/signals/)
 
-## Extensiones de navegador SEO
+## <a name="extensiones-navegador"></a>Extensiones de navegador SEO
 
 Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el trabajo SEO diario. Están todas agrupadas.
 
@@ -156,16 +156,16 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [ChomeDev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 - [SEO Minion](https://seominion.com/)
 
-## Mobile apps
+## <a name="mobile-apps"></a>Aplicaciones móviles
 
 Creación de aplicaciones para dispositivos móviles. No tiene que ver de forma directa con el SEO pero nos puede ayudar a nivel estratégico.
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3Nzg5MzUsMTEwNjg0MTQ5NSwxOTE5ND
-UxNDQ2LC02OTY2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2ODAy
-LDE0MDk5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5NiwtMT
-gzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1
-ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOT
-ksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbLTkzNzE1NzUwMywxMTA2ODQxNDk1LDE5MT
+k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
+MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
+0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
+NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
+I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
 -->
