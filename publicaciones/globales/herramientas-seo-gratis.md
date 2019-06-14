@@ -17,6 +17,8 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 ## Auditoría SEO 
 
+Estas herramientas nos ayudarán a obtener una visión completa del estado, tanto SEO como de otras áreas. En algunos casos nos permitirán crear proyectos y dar seguimiento a po 
+
 - [https://sitechecker.pro](https://sitechecker.pro/)  
 - [https://seositecheckup.com/](https://seositecheckup.com/)
 - [https://seolyzer.io](https://seolyzer.io)
@@ -131,10 +133,10 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjg0MTQ5NSwxOTE5NDUxNDQ2LC02OT
-Y2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2ODAyLDE0MDk5ODc3
-OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5NiwtMTgzNzU4NTkzOC
-wyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1ODY5ODQsLTIx
-MDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOTksLTE1MzI4ND
-I5OTEsNzI2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbLTcyNDQ4Mzc1MCwxMTA2ODQxNDk1LDE5MT
+k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
+MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
+0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
+NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
+I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
 -->
