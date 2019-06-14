@@ -20,13 +20,12 @@ Herramientas clasificadas por categorías:
  - [Contenidos / keyword research](#contenidos)
  - [Datos estructurados](#datos-estructurados)
  - [Enlaces / linkbuilding](#enlaces)
- - [SEO para páginas móviles](#mobile-seo)
- - [SEO local](#seo-local)
+ - [SEO para dispositivos móviles](#mobile-seo)
+ - [SEO para negocios locales](#seo-local)
  - [Analítica web](#analitica-web)
  - [Optimizar la conversión](#conversion)
  - [Cambios de algoritmo](#cambios-algoritmo)
  - [Extensiones de navegador](#extensiones-navegador)
- - [Apps móviles](#app-movil)
 
 ## <a name="auditoria-seo"></a>Auditoría SEO 
 
@@ -169,16 +168,11 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [ChomeDev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 - [SEO Minion](https://seominion.com/)
 
-## <a name="app-movil"></a>Aplicaciones móviles
-
-Creación de aplicaciones para dispositivos móviles. No tiene que ver de forma directa con el SEO pero nos puede ayudar a nivel estratégico.
-
-- [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNDczOTc1LDExMDY4NDE0OTUsMTkxOT
-Q1MTQ0NiwtNjk2NjgyMDYwLC03NDM4OTI2OTQsMTAyNTA4Njgw
-MiwxNDA5OTg3NzkyLC0xMTIzNDQwNzYwLDIwMjg0MDI3OTYsLT
-E4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMTQ0MDI0NzQ2LC0xODU2
-NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMzgsLTEyNzE5Mj
-k5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
+eyJoaXN0b3J5IjpbMTIxMzIxNTMwNywxMTA2ODQxNDk1LDE5MT
+k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
+MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
+0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
+NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
+I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
 -->
