@@ -128,7 +128,9 @@ Toda estrategia debe terminar con una conversión, si no, no seremos capaces de 
 
 ## Cambios de algoritmo
 
-Los algoritmos de los buscadores cambian frecuentemente, por ello es importante monitorizarlos con frecuencia para poder asegurarnos de que estamos alienados con cualquier posible cambio.
+Los [algoritmos de los buscadores cambian frecuentemente](https://emirodgar.com/cambio-algoritmo-google), por ello es importante monitorizarlos con frecuencia para poder asegurarnos de que estamos alienados con cualquier posible cambio.
+
+Las herramientas a continu
 
 - [https://moz.com/mozcast/](https://moz.com/mozcast/)
 - [https://serpmetrics.com/flux/](https://serpmetrics.com/flux/)
@@ -156,10 +158,10 @@ Los algoritmos de los buscadores cambian frecuentemente, por ello es importante 
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjM3MjA3NCwxMTA2ODQxNDk1LDE5MT
-k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
-MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
-0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
-NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
-I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
+eyJoaXN0b3J5IjpbNTUxNjk4ODYsMTEwNjg0MTQ5NSwxOTE5ND
+UxNDQ2LC02OTY2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2ODAy
+LDE0MDk5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5NiwtMT
+gzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1
+ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOT
+ksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
 -->
