@@ -99,7 +99,7 @@ El tráfico móvil es mayor que el del resto de dispositivos, por ello es crucia
 
 ## SEO Local
 
-Un negocio local tendrá un comportamiento ligeramente diferente a otro con un ámbito mayor. Por ello podemos hacer uso de herramientas específicas para potenciar las compras locales.
+Un negocio local tendrá un comportamiento ligeramente diferente a otro con un ámbito mayor. Por ello debemos hacer uso de herramientas específicas para potenciar las compras locales.
 
 - [https://www.google.com/business/](https://www.google.com/business/)
 - [https://review-checker.whitespark.ca](https://review-checker.whitespark.ca)
@@ -110,12 +110,16 @@ Un negocio local tendrá un comportamiento ligeramente diferente a otro con un �
 
 ## Analítica web / medición resultados
 
+Tan importante es trabajar el SEO de una página como poder medir el impacto de los cambios. De esta forma sabremos lo que funciona y lo que no para que nuestra estrategia sea dinámica y pueda evolucionar de forma positiva.
+
 - [https://analytics.google.com/analytics/web/](https://analytics.google.com/analytics/web/)
 - [https://search.google.com/search-console/about?hl=es](https://search.google.com/search-console/about?hl=es)
 - [https://keyword-hero.com/](https://keyword-hero.com/)
 - [https://sheetsformarketers.com/](https://sheetsformarketers.com/)
 
 ## Optimizar la conversión
+
+Toda estrategia debe terminar con una conversión, si no, no seremos capaces de obtener un retorno de la inversión. Estas herramientas nos ayudar
 
 - [https://www.finteza.com](https://www.finteza.com)
 - [https://www.hotjar.com](https://www.hotjar.com)
@@ -146,10 +150,10 @@ Un negocio local tendrá un comportamiento ligeramente diferente a otro con un �
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDExMTc5MSwxMTA2ODQxNDk1LDE5MT
-k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
-MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
-0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
-NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
-I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
+eyJoaXN0b3J5IjpbLTE4NDEwNTgzMDksMTEwNjg0MTQ5NSwxOT
+E5NDUxNDQ2LC02OTY2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2
+ODAyLDE0MDk5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5Ni
+wtMTgzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4
+NTY1ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MT
+kyOTksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
 -->
