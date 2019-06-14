@@ -17,7 +17,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 ## Auditoría SEO 
 
-Estas herramientas nos ayudarán a obtener una visión completa del estado, tanto SEO como de otras áreas. En algunos casos nos permitirán crear proyectos y dar seguimiento a po 
+Estas herramientas nos ayudarán a obtener una visión completa del estado SEO de una página. En algunos casos nos permitirán crear proyectos y dar seguimiento al posicionamiento e indexación de uno o varios dominios. Ideales para proyectos personales y análisis preliminares. 
 
 - [https://sitechecker.pro](https://sitechecker.pro/)  
 - [https://seositecheckup.com/](https://seositecheckup.com/)
@@ -33,6 +33,8 @@ Estas herramientas nos ayudarán a obtener una visión completa del estado, tant
 - [https://archive.org/web/](https://archive.org/web/)
 
 ## SEO Técnico 
+
+Las herramientas de SEO técnico están orientadas a evaluar aspectos
 
 - [https://speedmonitor.io](https://speedmonitor.io)
 - [http://www.browseo.net](http://www.browseo.net)
@@ -133,10 +135,10 @@ Estas herramientas nos ayudarán a obtener una visión completa del estado, tant
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDQ4Mzc1MCwxMTA2ODQxNDk1LDE5MT
-k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
-MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
-0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
-NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
-I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
+eyJoaXN0b3J5IjpbMjU3OTA3NTI3LDExMDY4NDE0OTUsMTkxOT
+Q1MTQ0NiwtNjk2NjgyMDYwLC03NDM4OTI2OTQsMTAyNTA4Njgw
+MiwxNDA5OTg3NzkyLC0xMTIzNDQwNzYwLDIwMjg0MDI3OTYsLT
+E4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMTQ0MDI0NzQ2LC0xODU2
+NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMzgsLTEyNzE5Mj
+k5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
 -->
