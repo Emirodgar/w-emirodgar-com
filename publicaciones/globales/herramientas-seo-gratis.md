@@ -15,7 +15,7 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
 
 > Ofrezco un servicio de [posicionamiento web gratuito](https://emirodgar.com/posicionamiento-web-gratis/) para **pequeñas empresas con problemas financieros**.  
 
-## Auditoría SEO 
+## <a name="auditoria-seo"></a>Auditoría SEO 
 
 Estas herramientas nos ayudarán a obtener una visión completa del estado SEO de una página. En algunos casos nos permitirán crear proyectos y dar seguimiento al posicionamiento e indexación de uno o varios dominios. Ideales para proyectos personales y análisis preliminares. 
 
@@ -140,7 +140,7 @@ Las herramientas a continuación monitorizan millones de keywords relevantes por
 
 ## Extensiones de navegador SEO
 
-Estas extensiones -la mayoría para el navegador Chrome- nos ayudarán
+Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el trabajo SEO diario. Están todas agrupadas.
 
 - [Extractor de entidades](https://chrome.google.com/webstore/detail/extractor-de-entidades/abngfjnmaobeaaheapakabhdoapfopdi)
 - [Ver renderizado](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob)
@@ -158,12 +158,14 @@ Estas extensiones -la mayoría para el navegador Chrome- nos ayudarán
 
 ## Mobile apps
 
+Creación de aplicaciones para dispositivos móviles. No tiene que ver de forma directa con el SEO pero nos puede ayudar a nivel estratégico.
+
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODM0OTgzOSwxMTA2ODQxNDk1LDE5MT
-k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
-MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
-0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
-NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
-I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
+eyJoaXN0b3J5IjpbODA3Nzg5MzUsMTEwNjg0MTQ5NSwxOTE5ND
+UxNDQ2LC02OTY2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2ODAy
+LDE0MDk5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5NiwtMT
+gzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1
+ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOT
+ksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
 -->
