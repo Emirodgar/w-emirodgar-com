@@ -18,13 +18,14 @@ Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado d
  - [Auditoría SEO](#auditoria-seo)
  - [SEO Técnico](#seo-tecnico)
  - [Contenidos](#contenidos)
- - [](#auditoria-seo)
- - [Auditoría SEO](#auditoria-seo)
- - [Auditoría SEO](#auditoria-seo)
- - [Auditoría SEO](#auditoria-seo)
- - [Auditoría SEO](#auditoria-seo)
- - [Auditoría SEO](#auditoria-seo)
- - [Auditoría SEO](#auditoria-seo)
+ - [Datos estructurados](#datos-estructurados)
+ - [Enlaces](#enlaces)
+ - [Mobile SEO](#mobile-seo)
+ - [SEO local](#seo-local)
+ - [Analítica web](#analitica-web)
+ - [Optimizar la conversión](#conversion)
+ - [Cambios de algoritmo](#cambios-algoritmo)
+ - [Extensiones de navegador](#ex-seo)
 
 ## <a name="auditoria-seo"></a>Auditoría SEO 
 
@@ -173,7 +174,7 @@ Creación de aplicaciones para dispositivos móviles. No tiene que ver de forma 
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzA2NDQxMCwxMTA2ODQxNDk1LDE5MT
+eyJoaXN0b3J5IjpbMTczMTQzNDcyMywxMTA2ODQxNDk1LDE5MT
 k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
 MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
 0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
