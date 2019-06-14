@@ -128,11 +128,13 @@ Toda estrategia debe terminar con una conversión, si no, no seremos capaces de 
 
 ## Cambios de algoritmo
 
-Los algoritmos
+Los algoritmos de los buscadores cambian frecuentemente, por ello es importante monitorizarlos con frecuencia para poder asegurarnos de que estamos alienados con cualquier posible cambio.
 
 - [https://moz.com/mozcast/](https://moz.com/mozcast/)
 - [https://serpmetrics.com/flux/](https://serpmetrics.com/flux/)
 - [https://algoroo.com/](https://algoroo.com/)
+- [https://www.accuranker.com/grump](https://www.accuranker.com/grump)
+- [https://cognitiveseo.com/signals/](https://cognitiveseo.com/signals/)
 
 ## Extensiones de navegador SEO
 
@@ -154,10 +156,10 @@ Los algoritmos
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxNDc1NjI0LDExMDY4NDE0OTUsMTkxOT
-Q1MTQ0NiwtNjk2NjgyMDYwLC03NDM4OTI2OTQsMTAyNTA4Njgw
-MiwxNDA5OTg3NzkyLC0xMTIzNDQwNzYwLDIwMjg0MDI3OTYsLT
-E4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMTQ0MDI0NzQ2LC0xODU2
-NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMzgsLTEyNzE5Mj
-k5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
+eyJoaXN0b3J5IjpbLTk4NjM3MjA3NCwxMTA2ODQxNDk1LDE5MT
+k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
+MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
+0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
+NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
+I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
 -->
