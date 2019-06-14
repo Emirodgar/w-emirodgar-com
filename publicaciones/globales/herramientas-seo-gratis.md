@@ -130,7 +130,7 @@ Toda estrategia debe terminar con una conversión, si no, no seremos capaces de 
 
 Los [algoritmos de los buscadores cambian frecuentemente](https://emirodgar.com/cambio-algoritmo-google), por ello es importante monitorizarlos con frecuencia para poder asegurarnos de que estamos alienados con cualquier posible cambio.
 
-Las herramientas a continu
+Las herramientas a continuación monitorizan millones de keywords relevantes por países y dispositivos de forma diaria. Cuando ocurre un cambio masivo de posiciones lo identifican y anuncian un posible cambio de algoritmo.
 
 - [https://moz.com/mozcast/](https://moz.com/mozcast/)
 - [https://serpmetrics.com/flux/](https://serpmetrics.com/flux/)
@@ -139,6 +139,8 @@ Las herramientas a continu
 - [https://cognitiveseo.com/signals/](https://cognitiveseo.com/signals/)
 
 ## Extensiones de navegador SEO
+
+Estas extensiones -la mayoría para el navegador Chrome- nos ayudarán
 
 - [Extractor de entidades](https://chrome.google.com/webstore/detail/extractor-de-entidades/abngfjnmaobeaaheapakabhdoapfopdi)
 - [Ver renderizado](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob)
@@ -158,10 +160,10 @@ Las herramientas a continu
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNjk4ODYsMTEwNjg0MTQ5NSwxOTE5ND
-UxNDQ2LC02OTY2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2ODAy
-LDE0MDk5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5NiwtMT
-gzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1
-ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOT
-ksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbMTMyODM0OTgzOSwxMTA2ODQxNDk1LDE5MT
+k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
+MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
+0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
+NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
+I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
 -->
