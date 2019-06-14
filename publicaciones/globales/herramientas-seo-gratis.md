@@ -119,7 +119,7 @@ Tan importante es trabajar el SEO de una página como poder medir el impacto de 
 
 ## Optimizar la conversión
 
-Toda estrategia debe terminar con una conversión, si no, no seremos capaces de obtener un retorno de la inversión. Estas herramientas nos ayudar
+Toda estrategia debe terminar con una conversión, si no, no seremos capaces de obtener un retorno de la inversión. Estas herramientas nos ayudarán a mejorar la conversión de nuestra web.
 
 - [https://www.finteza.com](https://www.finteza.com)
 - [https://www.hotjar.com](https://www.hotjar.com)
@@ -128,7 +128,11 @@ Toda estrategia debe terminar con una conversión, si no, no seremos capaces de 
 
 ## Cambios de algoritmo
 
+Los algoritmos
+
 - [https://moz.com/mozcast/](https://moz.com/mozcast/)
+- [https://serpmetrics.com/flux/](https://serpmetrics.com/flux/)
+- [https://algoroo.com/](https://algoroo.com/)
 
 ## Extensiones de navegador SEO
 
@@ -150,10 +154,10 @@ Toda estrategia debe terminar con una conversión, si no, no seremos capaces de 
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDEwNTgzMDksMTEwNjg0MTQ5NSwxOT
-E5NDUxNDQ2LC02OTY2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2
-ODAyLDE0MDk5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5Ni
-wtMTgzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4
-NTY1ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MT
-kyOTksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbNzAxNDc1NjI0LDExMDY4NDE0OTUsMTkxOT
+Q1MTQ0NiwtNjk2NjgyMDYwLC03NDM4OTI2OTQsMTAyNTA4Njgw
+MiwxNDA5OTg3NzkyLC0xMTIzNDQwNzYwLDIwMjg0MDI3OTYsLT
+E4Mzc1ODU5MzgsMjQ4OTI2NzIxLC0yMTQ0MDI0NzQ2LC0xODU2
+NTg2OTg0LC0yMTA3MzI1NjMyLDExNjA5MzMzMzgsLTEyNzE5Mj
+k5LC0xNTMyODQyOTkxLDcyNjcyNDg2NV19
 -->
