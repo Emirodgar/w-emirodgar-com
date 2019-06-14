@@ -50,9 +50,9 @@ Las herramientas de SEO técnico están orientadas a evaluar aspectos técnicos 
 
 ## Keyword research / Contenidos
 
-Estas aplicaciones nos ayudarán a definir y concretar los contenidos de nuestra página web en base a los análisis de las palabras clave que debemos utilizar.
+Estas aplicaciones nos ayudarán a definir y concretar las palabras clave más importante para nuestro sector/mercado y que utiliza nuestro público objetivo. A partir de ellas podremos generar los contenidos de nuestra página web.
 
-Necesarias antes de llevar a cabo cualquier plan editorial de contenido.
+Necesarias antes de llevar a cabo cualquier plan editorial
 
 - [https://keywordseverywhere.com](https://keywordseverywhere.com)
 - [https://answerthepublic.com/](https://answerthepublic.com/)
@@ -71,6 +71,8 @@ Necesarias antes de llevar a cabo cualquier plan editorial de contenido.
 - [https://buzzsumo.com/](https://buzzsumo.com/)
 
 ## Datos estructurados
+
+Nos permitirán facilitar a los buscadores la extracción de información relevante. De momento no afectan de forma directa al SEO pero sí nos ayudan a generar mayor visibilidad por lo que podríamos aumentar y mejorar la captación de tráfico relevante.
 
 - [https://search.google.com/test/rich-results](https://search.google.com/test/rich-results)
 - [https://search.google.com/structured-data/testing-tool/u/0/](https://search.google.com/structured-data/testing-tool/u/0/)
@@ -138,10 +140,10 @@ Necesarias antes de llevar a cabo cualquier plan editorial de contenido.
 
 - [https://buildfire.com/](https://buildfire.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MTI4MjMsMTEwNjg0MTQ5NSwxOTE5ND
-UxNDQ2LC02OTY2ODIwNjAsLTc0Mzg5MjY5NCwxMDI1MDg2ODAy
-LDE0MDk5ODc3OTIsLTExMjM0NDA3NjAsMjAyODQwMjc5NiwtMT
-gzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1
-ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOT
-ksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
+eyJoaXN0b3J5IjpbMTAwOTk2MzQzNCwxMTA2ODQxNDk1LDE5MT
+k0NTE0NDYsLTY5NjY4MjA2MCwtNzQzODkyNjk0LDEwMjUwODY4
+MDIsMTQwOTk4Nzc5MiwtMTEyMzQ0MDc2MCwyMDI4NDAyNzk2LC
+0xODM3NTg1OTM4LDI0ODkyNjcyMSwtMjE0NDAyNDc0NiwtMTg1
+NjU4Njk4NCwtMjEwNzMyNTYzMiwxMTYwOTMzMzM4LC0xMjcxOT
+I5OSwtMTUzMjg0Mjk5MSw3MjY3MjQ4NjVdfQ==
 -->
