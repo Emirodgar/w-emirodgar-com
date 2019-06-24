@@ -28,12 +28,11 @@ Estos son algunas de las recomendaciones que debemos tener en cuenta a la hora d
 - **Los títulos deben ir siempre en minúsculas** salvo el comienzo del mismo o alguna palabra que así lo requiera.
 - **El nombre de marca debe ir siempre al final** de esa forma nos aseguramos que lo realmente importante y descriptivo se encuentra al principio del mismo.
 
-En general, los títulos utilizados son correctos, no obstante, hemos identificado algunas páginas que podrían mejorar su posicionamiento orgánico si se optimizara dicho aspecto.
 
 
 ## Descripción
 
-Aunque la meta description (comúnmente conocida como descripción) no aporta valor directo al SEO, sí es un elemento clave para llamar la atención de los usuarios y conseguir, de esa forma, que visiten nuestra página.
+Aunque la **meta description** (comúnmente conocida como descripción) no aporta valor directo al SEO, sí es un elemento clave para llamar la atención de los usuarios y conseguir, de esa forma, que visiten nuestra página.
 
 Se trata del pequeño texto que acompaña al título en los resultados de búsqueda y que explica a los usuarios lo que se van a encontrar si visitan dicho enlace. **Es la forma que tenemos de diferenciarnos del resto de resultados** por lo que es importante utilizar un contenido llamativo y descriptivo.
 
@@ -42,17 +41,13 @@ Se trata del pequeño texto que acompaña al título en los resultados de búsqu
 Para generar una buena meta descripción es importante hacer uso de las siguientes recomendaciones:
 
 - **No debemos superar los 165 caracteres** para asegurarnos que ésta se muestra correctamente. No obstante, en ciertas ocasiones algunos buscadores como Google pueden modificar la descripción por otra que ellos consideran que apota mayor valor al usuario.
-
 -  **Debemos escribir para los usuarios** y no para los buscadores por lo que es importante ser descriptivos y transmitir información de forma natural.
-
 - **No hay que repetir el título**. El objetivo de la descripción es cualificar el título por lo que debe aportar información adicional al mismo.
-
 - **Utiliza emoticonos** con cautela; llaman la anteción pero siempre tienen que aportar valor.
-
 - **Incluye una llamada a la acción** para captar la atención de los usuarios e incitarles a hacer clic.
-
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTEyMTA1OSwtOTU3NjIyOTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMDk2MTY0OTcsLTkzNTEyMTA1OSwtOT
+U3NjIyOTZdfQ==
 -->
