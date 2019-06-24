@@ -37,7 +37,7 @@ Aunque la meta description (comúnmente conocida como descripción) no aporta va
 
 Se trata del pequeño texto que acompaña al título en los resultados de búsqueda y que explica a los usuarios lo que se van a encontrar si visitan dicho enlace. **Es la forma que tenemos de diferenciarnos del resto de resultados** por lo que es importante utilizar un contenido llamativo y descriptivo.
 
-![](https://i.imgur.com/cmDRWXk.png)
+![](https://i.imgur.com/aWmiDl0.png)
 
 Para generar una buena meta descripción es importante hacer uso de las siguientes recomendaciones:
 
@@ -54,5 +54,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzYyMjk2XX0=
+eyJoaXN0b3J5IjpbOTM5Njg0MjA0LC05NTc2MjI5Nl19
 -->
