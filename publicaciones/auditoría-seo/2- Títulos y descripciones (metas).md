@@ -1,8 +1,8 @@
 ---
 title: Títulos y descripciones optimizadas para el SEO
-description: Aprende a desarrollar títulos y meta descriptions adecuados para tus 
+description: Aprende a desarrollar títulos y meta descriptions adecuados para tus proyectos digitales
 image: https://emirodgar.com/cdn/images/og/auditoria.png
-date: 05/06/2019
+date: 24/06/2019
 author: Emirodgar
 tags: seo, auditoría
 lang: es_ES
@@ -54,5 +54,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5Njg0MjA0LC05NTc2MjI5Nl19
+eyJoaXN0b3J5IjpbLTE2NTU3MzI2NSwtOTU3NjIyOTZdfQ==
 -->
