@@ -6,7 +6,7 @@ date: 24/06/2019
 author: Emirodgar
 tags: seo, auditoría
 lang: es_ES
-permalink: hosting-seo
+permalink: titulos-descripciones-seo
 
 ---
 
@@ -54,5 +54,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU3MzI2NSwtOTU3NjIyOTZdfQ==
+eyJoaXN0b3J5IjpbLTkzNTEyMTA1OSwtOTU3NjIyOTZdfQ==
 -->
