@@ -15,7 +15,7 @@ permalink: hosting-seo
 
 Los **meta title** o títulos de cada página son un [factor SEO](/factores-seo) importante para buscadores por eso es importante optimizarlos al máximo posible. En la siguiente imagen podemos ver un ejemplo de resultado dentro de los buscadores. El texto en morado corresponde con el título de la página.
 
-![](https://i.imgur.com/0jL1d6G.png)
+![Ejemplo de título optimizado para el SEO](https://i.imgur.com/HQYuvsg.png)
 
 ### Recomendaciones para generar títulos optimizados
 
@@ -54,5 +54,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk5Njg3ODNdfQ==
+eyJoaXN0b3J5IjpbLTk1NzYyMjk2XX0=
 -->
