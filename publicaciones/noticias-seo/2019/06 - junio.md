@@ -47,7 +47,14 @@ Google nos da recomendaciones para poder verificar y actualizar nuestro [panel d
   data-tweetid="1143558928439005184">
 </amp-twitter>
 
-John Mueller confirma en Twitter que Search Console muestra todos los tipos de enlace que encuentre (
+John Mueller confirma en Twitter que Search Console muestra todos los tipos de enlace que encuentre (dofollow y nofollow)
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1141263578600759297">
+</amp-twitter>
 
 ### Lecturas interesantes
 
@@ -85,6 +92,6 @@ LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. B
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTM5Mjk5NCwtNzEyMDg1NzU1LDgwMj
-E3MTkzN119
+eyJoaXN0b3J5IjpbNDYyODQxODkyLC03MTIwODU3NTUsODAyMT
+cxOTM3XX0=
 -->
