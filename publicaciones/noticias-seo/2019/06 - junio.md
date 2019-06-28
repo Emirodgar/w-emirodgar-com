@@ -21,15 +21,15 @@ Comenzamos junio con el anuncio por parte de Google de un [nuevo cambio en el al
 
 Sistrix ha hecho su [análisis de los ganadores y perdedores](https://www.sistrix.com/blog/google-core-update-more-content-and-news-sites-affected/) y la comunidad SEO está [experimentando grandes cambios](https://www.seroundtable.com/google-june-2019-core-update-big-27682.html).  Algunos debates sostienen que [la Wikipedia puede estar siendo usada para validar páginas](https://www.searchenginejournal.com/google-june-update-wikipedia/313731/).
 
-Ha sido un cambio de algoritmo bastante opaco por parte del buscador así que han proliferado las teorías basadas en análisis. El de [Marie Haynes es muy completo](https://www.mariehaynes.com/june-3-2019-core-quality-update/). 
+> Google indica que sigamos las [recomendaciones de calidad](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf) y tengamos en cuenta el [Mobile First Index](https://developers.google.com/search/mobile-sites/mobile-first-indexing).
 
-> Google sólo indica que sigamos las [recomendaciones de calidad](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf) y tengamos en cuenta el [Mobile First Index](https://developers.google.com/search/mobile-sites/mobile-first-indexing).
+Ha sido un cambio de algoritmo bastante opaco por parte del buscador así que han proliferado las teorías basadas en análisis. El de [Marie Haynes es muy completo](https://www.mariehaynes.com/june-3-2019-core-quality-update/). 
 
 ### Otras novedades de Google
 
 Otro cambio interesante es que Google ha [retirado la opción de dominio preferido](https://webmasters.googleblog.com/2019/06/bye-bye-preferred-domain-setting.html) (con o sin www) de Search Console. Ahora tendremos que usar redirecciones 301 o el atributo canonical.
 
-En contraprestación, ha añadido nuevas funcionalidades para validar marcado estructurado en tiempo real
+En contraprestación se ha añadido nuevas funcionalidades para validar marcado estructurado en tiempo real
 
 <amp-twitter 
   width="375"
@@ -76,5 +76,5 @@ LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. B
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mjk4NDE2LDgwMjE3MTkzN119
+eyJoaXN0b3J5IjpbMTMwOTY1Mjg0NSw4MDIxNzE5MzddfQ==
 -->
