@@ -10,7 +10,7 @@ permalink: noticias-seo/2019/mayo
 
 ---
 
-## Noticias SEO mayo
+# Noticias SEO mayo 2019
 
 ### Cambios y novedades en Google
 
@@ -51,5 +51,5 @@ Excelente artículo para conseguir que [nuestras imágenes aparezcan en las bús
 
 LinkedIn ha admitido en SMXLondon que [sufrieron una penalización del algoritmo de Google en 2017](https://twitter.com/rustybrick/status/1132984705857597442?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1132984705857597442%7Ctwgr%5E393039363b74776565745f6d65646961&ref_url=https://courses.mariehaynes.com/search-news-you-can-use/episode-85-light-version/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY5NjYyMTJdfQ==
+eyJoaXN0b3J5IjpbLTEzNjg0NjIxMjFdfQ==
 -->
