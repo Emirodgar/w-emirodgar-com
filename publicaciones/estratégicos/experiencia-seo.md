@@ -16,11 +16,10 @@ Desde entonces he tenido la oportunidad de participar en más de un centenar de 
 
 En base a esta experiencia, os cuento las 10 cosas más importantes que he aprendido como SEO y que creo que son cruciales para establecer un camino hacia el éxito, tanto personal como profesional.
  
- ![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
 <amp-img alt="Consultor SEO Traffic4U primer trabajo agencia internacional"
   src="https://i.imgur.com/eETYCGw.png"
-  width="650"
-  height="602"
+  width="713"
+  height="262"
   layout="responsive">
 </amp-img>
  
@@ -37,8 +36,13 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
  Estos son mis aprendizajes  como consultor, director de departamento y jefe de proyecto que me han ayudado a ser un mejor profesional: 10 años, tres agencias y millones de experiencias con clientes, proyectos y compañeros..
 
-![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png)
+<amp-img alt="Project and SEO manager en Smartup"
+  src="https://i.imgur.com/LIrGTNU.png"
+  width="704"
+  height="240"
+  layout="responsive">
+</amp-img>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY4MDU0MjMsLTUzODUwNTI4NiwxMD
-g4MjIyMjE0XX0=
+eyJoaXN0b3J5IjpbMTMzNTEyMjEwMCwtNTM4NTA1Mjg2LDEwOD
+gyMjIyMTRdfQ==
 -->
