@@ -15,11 +15,9 @@ Esta función en JavaScript nos permitirá de una forma rápida validar una fech
 
 ## Validaciones
 
-- Esta función valida que el formato introducido sea ```dd/mm/yyyy```, aunque se puede modificar de una forma sencilla para adaptarse a otros formatos.    
+- Esta función valida que el formato introducido sea ```dd/mm/yyyy```, aunque se puede modificar de una forma sencilla para adaptarse a otros formatos.  
 - Valida que todos los parámetros introducidos a excepción de las barras de separación ```/``` sean números.  
-  
 - También valida que el día y el mes se correspondan entre ellos, por ejemplo, en Abril no permitir introducir días mayores de 30.  
-  
 - Esta función también tiene en cuenta que cada 4 años es bisiesto.
 
 ```javascript
@@ -70,5 +68,5 @@ Esta función en JavaScript nos permitirá de una forma rápida validar una fech
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODIyODg2MTFdfQ==
+eyJoaXN0b3J5IjpbLTE4OTIxODYyMzldfQ==
 -->
