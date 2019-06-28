@@ -42,7 +42,12 @@ Aunque la **meta description** (comúnmente conocida como descripción) no aport
 
 Se trata del pequeño texto que acompaña al título en los resultados de búsqueda y que explica a los usuarios lo que se van a encontrar si visitan dicho enlace. **Es la forma que tenemos de diferenciarnos del resto de resultados** por lo que es importante utilizar un contenido llamativo y descriptivo.
 
-![](https://i.imgur.com/aWmiDl0.png)
+<amp-img alt="Ejemplo de meta description optimizado para el SEO"
+  src="https://i.imgur.com/aWmiDl0.png"
+  width="559"
+  height="104"
+  layout="responsive">
+</amp-img>
 
 Para generar una buena meta descripción es importante hacer uso de las siguientes recomendaciones:
 
@@ -54,6 +59,7 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTcyOTAxLC0yMTE0NTE4NzA1LC0xMj
-A5NjE2NDk3LC05MzUxMjEwNTksLTk1NzYyMjk2XX0=
+eyJoaXN0b3J5IjpbLTc4NDY1MDg2NywtMTk5NzI5MDEsLTIxMT
+Q1MTg3MDUsLTEyMDk2MTY0OTcsLTkzNTEyMTA1OSwtOTU3NjIy
+OTZdfQ==
 -->
