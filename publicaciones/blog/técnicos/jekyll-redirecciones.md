@@ -30,7 +30,29 @@ Si ya teníamos algún plugin cargado, únicamente añadiremos la segunda línea
 
 ## Aplicar redirecciones
 
-Una vez habilitado el plugin, aplicar redirecciones será tan sencillo como incluir los siguientes comandos dentro de nuestros docume 
+Una vez habilitado el plugin, aplicar redirecciones será tan sencillo como incluir los siguientes comandos dentro de nuestras páginas:
+
+```yml
+---
+title: Redireccionar otras URLs a esta página 
+redirect_from:
+    - /antigua/
+    - /otra/antigua/
+permalink: /nueva/
+---
+``` 
+
+El código anterior nos permitirá definir qué URLs que ya existen en nuestra página web serán redireccionadas a la que estamos definiendo ahora.
+
+```yml
+---
+title: Jekyll Redirect 301
+redirect_to:
+  - http://some-website.com
+permalink: /jekyll-redirect/
+---
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDgxNzU5OSwtMjEyMjY0MTM2NF19
+eyJoaXN0b3J5IjpbLTEzNjkyMTczOTMsLTIxMjI2NDEzNjRdfQ
+==
 -->
