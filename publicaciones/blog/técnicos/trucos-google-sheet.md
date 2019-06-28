@@ -96,7 +96,12 @@ Para mí hay cuatro funciones básicas que nos ayudarán a que el texto de nuest
 
 Podemos hacer uso de la función ```trim``` de forma rápida sobre un conjunto de filas y columnas desde el menú "Datos > Recortar datos en blanco".
 
-![Google sheets trim para eliminar espacios en blanco](https://3.bp.blogspot.com/-EqUSP926q34/XNLiGUDgLmI/AAAAAAAAH70/2afdGeHJHJ4RbnmL7sONpnN5jse_6FYIACLcBGAs/s640/2.gif)
+<amp-img alt="Google sheets trim para eliminar espacios en blanco"
+  src="https://3.bp.blogspot.com/-EqUSP926q34/XNLiGUDgLmI/AAAAAAAAH70/2afdGeHJHJ4RbnmL7sONpnN5jse_6FYIACLcBGAs/s640/2.gif"
+  width="640"
+  height="360"
+  layout="responsive">
+</amp-img>
 
 Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las funciones por defecto. Las que más utilizo son:
 
@@ -106,7 +111,12 @@ Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las func
 
 También podemos eliminar de forma rápida cualquier valor duplicado de la siguiente forma:
 
-![Google sheets eliminar contenidos duplicados](https://1.bp.blogspot.com/-rfa43G2hKMM/XNLh5IKw0wI/AAAAAAAAH7w/4LEbkCaIP8MCP21TS6eqYIS1M0q3F_NEwCLcBGAs/s640/1.gif)
+<amp-img alt="Google sheets eliminar contenidos duplicados"
+  src="https://1.bp.blogspot.com/-rfa43G2hKMM/XNLh5IKw0wI/AAAAAAAAH7w/4LEbkCaIP8MCP21TS6eqYIS1M0q3F_NEwCLcBGAs/s640/1.gif"
+  width="640"
+  height="360"
+  layout="responsive">
+</amp-img>
 
 ## <a name="grafica-sparkline"></a>8- Haz uso de gráficas de control (sparkline)
 
@@ -140,5 +150,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzgwODQ1NF19
+eyJoaXN0b3J5IjpbLTEwODQzNzgwMTRdfQ==
 -->

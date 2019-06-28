@@ -34,7 +34,7 @@ Aunque en la guía oficial hacen referencia a  **lighthouse**  yo os recomiendo 
 
 Una vez que tengamos npm instalado, abrimos una consola de Windows (cmd.exe) y ejecutamos el siguiente comando:
 
-```
+```bash
 npm install -g lighthouse-batch
 
 ```
@@ -44,7 +44,7 @@ Esperamos a que termine la instalación y tendremos todo listo para comenzar a a
 
 Ahora ya podemos generar tantos análisis como queramos. El comando que debemos usar será el siguiente. Os dejo un enlace hacia la  [documentación completa de lighthouse-batch](https://github.com/mikestead/lighthouse-batch).
 
-```
+```bash
 lighthouse-batch -s [url1],[url2],[urlN] -g --out C:/[ruta-donde-exportar]
 
 ```
@@ -65,7 +65,12 @@ He creado otro fichero .bat que se lanza 30 minutos después -así me aseguro de
 
 Una vez accesibles, importo los ficheros JSON en Google Sheets haciendo uso de la librería  [ImportJSON](https://github.com/bradjasper/ImportJSON).
 
-![](https://i.imgur.com/IrL1alS.png)
+<amp-img alt="Listado de URLs analizadas con Lighthouse"
+  src="https://i.imgur.com/IrL1alS.png"
+  width="675"
+  height="445"
+  layout="responsive">
+</amp-img>
 
 El resultado es el que podéis ver en la imagen anterior. Cada URL tiene su propio análisis en el que podemos identificar mediante colores su puntuación.
 
@@ -93,7 +98,6 @@ $.getJSON(url, function(data) {
 ```
 Necesitaremos crear el elemento HTML donde se cargará la información.
 ```html
-
 <div class="results"></div>
 ```
 
@@ -120,5 +124,5 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTY3MzUzM119
+eyJoaXN0b3J5IjpbMTY1MTY4ODQwNSwxNjUxNjg4NDA1XX0=
 -->

@@ -4,6 +4,7 @@ description: Listado de publicaciones sobre SEO, Marketing Digital y Growth Hack
 lang: es_ES
 date: 09/05/2019
 tags: seo
+author: Emirodgar
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: publicaciones
 
@@ -25,9 +26,9 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzExNjA4MzMsLTU2NDE0NDU3NSwtMT
-Y4MDY2MDM5NSwtMTk3ODE4MDA1NCwxNTAxMTU0MDQ4LC0xNTU0
-NzE2MzIsLTQ4MDk4ODQyMCwtMjA2Njc0MTU3NSwxMDk2MTk2Mz
-E2LC04NDQyODQ4NDIsLTI4Njg0OTIwMiw0MTUzODQ3NjhdfQ==
-
+eyJoaXN0b3J5IjpbLTY0MzE3OTExOCwtMTE3MTE2MDgzMywtNT
+Y0MTQ0NTc1LC0xNjgwNjYwMzk1LC0xOTc4MTgwMDU0LDE1MDEx
+NTQwNDgsLTE1NTQ3MTYzMiwtNDgwOTg4NDIwLC0yMDY2NzQxNT
+c1LDEwOTYxOTYzMTYsLTg0NDI4NDg0MiwtMjg2ODQ5MjAyLDQx
+NTM4NDc2OF19
 -->

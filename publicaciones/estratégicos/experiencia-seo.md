@@ -16,7 +16,12 @@ Desde entonces he tenido la oportunidad de participar en más de un centenar de 
 
 En base a esta experiencia, os cuento las 10 cosas más importantes que he aprendido como SEO y que creo que son cruciales para establecer un camino hacia el éxito, tanto personal como profesional.
  
- ![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
+<amp-img alt="Consultor SEO Traffic4U primer trabajo agencia internacional"
+  src="https://i.imgur.com/eETYCGw.png"
+  width="713"
+  height="262"
+  layout="responsive">
+</amp-img>
  
  1. **Rodéate de gente con actitud y aptitud**: Siempre ha habido una frase que ha marcado mi desarrollo profesional: *“if you are the smartest person in a room, then you are in the wrong room”*.  A día de hoy aún no he descubierto una sola persona ni situación de la que no haya podido aprender algo, aún así, si te aseguras de estar cerca de gente motivada y con conocimientos -directos o indirectos a tu faceta profesional- tu desarrollo se verá altamente enriquecido. 
  2. **Los proyectos difíciles son retos que te ayudan a crecer profesionalmente**: No huyas de ellos; puede que al principio asusten o que pensemos que no estamos a la altura pero una vez superados nos habremos dado cuenta de nuestra capacidad y del aprendizaje que han supuesto para nosotros. No hay retos imposibles, únicamente actitud para enfrentarse a un problema. Cada reto superado nos convierte en mejores profesionales. 
@@ -31,8 +36,13 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
  Estos son mis aprendizajes  como consultor, director de departamento y jefe de proyecto que me han ayudado a ser un mejor profesional: 10 años, tres agencias y millones de experiencias con clientes, proyectos y compañeros..
 
-![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png)
+<amp-img alt="Project and SEO manager en Smartup"
+  src="https://i.imgur.com/LIrGTNU.png"
+  width="704"
+  height="240"
+  layout="responsive">
+</amp-img>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjUzMjEyMiwtNTM4NTA1Mjg2LDEwOD
+eyJoaXN0b3J5IjpbMTMzNTEyMjEwMCwtNTM4NTA1Mjg2LDEwOD
 gyMjIyMTRdfQ==
 -->

@@ -35,7 +35,12 @@ Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019
  - Páginas indexadas: 2
  - Posicionamiento 0 / 0
 
-![Google Search Console - emirodgar.com ](https://i.imgur.com/7ce2kiB.png)
+<amp-img alt="Google Search Console - emirodgar.com"
+  src="https://i.imgur.com/7ce2kiB.png"
+  width="981"
+  height="357"
+  layout="responsive">
+</amp-img>
 
 He comenzado lanzando una primera versión de la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
 
@@ -51,7 +56,12 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
  - Páginas indexadas: 3
  - Posicionamiento: 122 / 0
 
-![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
+<amp-img alt="Google Search Console - emirodgar.com"
+  src="https://i.imgur.com/MVStSCU.png"
+  width="981"
+  height="357"
+  layout="responsive">
+</amp-img>
 
 He decidido añadir un blog para poder generar contenido de actualidad con cierta facilidad. Utilizo dos tecnologías: 
 
@@ -66,11 +76,21 @@ Además del blog, gran parte del esfuerzo de febrero lo he concentrado en optimi
 
 Aunque soy consciente de que podría llegar a optimizar algo más, no he querido obsesionarme.
 
-![Métricas usabilidad SEO web.dev del dominio emirodgar.com](https://i.imgur.com/5sI2ybv.png)
+<amp-img alt="Métricas usabilidad SEO web.dev del dominio emirodgar.com"
+  src="https://i.imgur.com/5sI2ybv.png"
+  width="967"
+  height="324"
+  layout="responsive">
+</amp-img>
 
 La parte de AMP - que será el blog- está muy optimizado a excepción de la accesibilidad, que es un aspecto que no momento no voy a trabajar pero que no descarto para los próximos meses. 
 
-![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
+<amp-img alt="Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP"
+  src="https://i.imgur.com/tcDllgb.png"
+  width="967"
+  height="324"
+  layout="responsive">
+</amp-img>
 
 ## <a name="marzo"></a>Marzo: Más puertas de entrada
  
@@ -110,7 +130,12 @@ De cara a poder posicionar por **consultor SEO** decidí crear varias páginas p
 
 Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
 
-![consultor seo salamanca, emirodgar en segunda posición](https://i.imgur.com/u3RGo9e.png)
+<amp-img alt="consultor seo salamanca, emirodgar en segunda posición"
+  src="https://i.imgur.com/u3RGo9e.png"
+  width="650"
+  height="602"
+  layout="responsive">
+</amp-img>
 
 Sé que no es mi objetivo principal y que es un término sin mucha competencia pero es un buen comienzo.
 
@@ -118,6 +143,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg5NDQ5NzksMjE3Nzk5ODMsLTgwOT
-U4MDcwNl19
+eyJoaXN0b3J5IjpbLTY3NDgzNzQ1MCwyMTc3OTk4MywtODA5NT
+gwNzA2XX0=
 -->

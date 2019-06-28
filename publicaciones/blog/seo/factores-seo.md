@@ -71,6 +71,5 @@ A día de hoy la búsqueda tradicional sigue teniendo gran peso pero ya podemos 
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTc2OTgyOSwtODgyNTkwODk1LDExNj
-g5MDEzNDFdfQ==
+eyJoaXN0b3J5IjpbMTc3NTc2OTgyOV19
 -->

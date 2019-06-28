@@ -72,6 +72,5 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
 En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es) o [Zeo Tools](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl).  Nos ayudarán a cruzar nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ1OTgxNDUsLTEyOTQ2NzI2NDMsMT
-gzOTYxNDk5NCwxNDQ2MDA5NTYwXX0=
+eyJoaXN0b3J5IjpbLTE3MDQ1OTgxNDVdfQ==
 -->
