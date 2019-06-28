@@ -19,6 +19,13 @@ permalink: noticias-seo/2019/junio
 
 Comenzamos junio con el anuncio por parte de Google de un [nuevo cambio en el algoritmo](https://twitter.com/searchliaison/status/1135275028834947073) denominado **June 2019 Core Update** que se ha desplegado entre los días 3 y 8 de junio. Casi de forma simultánea (4 de junio) han lanzado una segunda actualización denominada **Diversity Update**, por la cual evitarán que en el TOP10 de resultados aparezcan más de dos resultados de un mismo dominio. 
 
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1141263578600759297">
+</amp-twitter>
+
 Sistrix ha hecho su [análisis de los ganadores y perdedores](https://www.sistrix.com/blog/google-core-update-more-content-and-news-sites-affected/) y la comunidad SEO está [experimentando grandes cambios](https://www.seroundtable.com/google-june-2019-core-update-big-27682.html).  Algunos debates sostienen que [la Wikipedia puede estar siendo usada para validar páginas](https://www.searchenginejournal.com/google-june-update-wikipedia/313731/).
 
 > Google indica que sigamos las [recomendaciones de calidad](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf) y tengamos en cuenta el [Mobile First Index](https://developers.google.com/search/mobile-sites/mobile-first-indexing).
@@ -92,6 +99,6 @@ LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. B
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyODQxODkyLC03MTIwODU3NTUsODAyMT
-cxOTM3XX0=
+eyJoaXN0b3J5IjpbMTk5NzAwMzU3OCwtNzEyMDg1NzU1LDgwMj
+E3MTkzN119
 -->
