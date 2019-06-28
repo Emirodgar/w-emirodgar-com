@@ -55,7 +55,8 @@ permalink: /nueva/
 ---
 ```
 
-También podríamos crear 
+También podríamos crear un
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDQ1Mzg1NiwtMjEyMjY0MTM2NF19
+eyJoaXN0b3J5IjpbLTkyNDA2MDM3NywtMjU0NDUzODU2LC0yMT
+IyNjQxMzY0XX0=
 -->
