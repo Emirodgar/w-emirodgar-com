@@ -15,11 +15,15 @@ permalink: noticias-seo/2019/junio
 
 ## Noticias SEO junio
 
-### Novedades en Google
+### Nuevo algoritmo de Google
 
-Comenzamos junio con el anuncio por parte de Google de un [nuevo cambio en el algoritmo](https://twitter.com/searchliaison/status/1135275028834947073) denominado **June 2019 Core Update** que se ha desplegado entre los días 3 y 8 de junio. Casi de forma simultánea (4 de junio) han lanzado una segunda actualización denominada **Diversity Update**, por la cual evitarán que en el TOP10 de resultados aparezcan más de dos resultados de un mismo dominio. Sistrix ha hecho su [análisis de los ganadores y perdedores](https://www.sistrix.com/blog/google-core-update-more-content-and-news-sites-affected/) y la comunidad SEO está [experimentando grandes cambios](https://www.seroundtable.com/google-june-2019-core-update-big-27682.html).  Algunos debates sostienen que [la Wikipedia puede estar siendo usada para validar páginas](https://www.searchenginejournal.com/google-june-update-wikipedia/313731/).
+Comenzamos junio con el anuncio por parte de Google de un [nuevo cambio en el algoritmo](https://twitter.com/searchliaison/status/1135275028834947073) denominado **June 2019 Core Update** que se ha desplegado entre los días 3 y 8 de junio. Casi de forma simultánea (4 de junio) han lanzado una segunda actualización denominada **Diversity Update**, por la cual evitarán que en el TOP10 de resultados aparezcan más de dos resultados de un mismo dominio. 
+
+Sistrix ha hecho su [análisis de los ganadores y perdedores](https://www.sistrix.com/blog/google-core-update-more-content-and-news-sites-affected/) y la comunidad SEO está [experimentando grandes cambios](https://www.seroundtable.com/google-june-2019-core-update-big-27682.html).  Algunos debates sostienen que [la Wikipedia puede estar siendo usada para validar páginas](https://www.searchenginejournal.com/google-june-update-wikipedia/313731/).
 
 Ha sido un cambio de algoritmo bastante opaco por parte del buscador así que han proliferado las teorías basadas en análisis. El de [Marie Haynes es muy completo](https://www.mariehaynes.com/june-3-2019-core-quality-update/). Google sólo indica que sigamos las [recomendaciones de calidad](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf) y tengamos en cuenta el [Mobile First Index](https://developers.google.com/search/mobile-sites/mobile-first-indexing).
+
+### Otras novedades de Google
 
 Otro cambio interesante es que Google ha [retirado la opción de dominio preferido](https://webmasters.googleblog.com/2019/06/bye-bye-preferred-domain-setting.html) (con o sin www) de Search Console). Ahora tendremos que usar redirecciones 301 o el atributo canonical.
 
@@ -70,5 +74,5 @@ LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. B
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODY5OTc3Ml19
+eyJoaXN0b3J5IjpbODAyMTcxOTM3XX0=
 -->
