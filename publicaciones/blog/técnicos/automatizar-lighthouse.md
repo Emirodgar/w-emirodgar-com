@@ -34,7 +34,7 @@ Aunque en la guía oficial hacen referencia a  **lighthouse**  yo os recomiendo 
 
 Una vez que tengamos npm instalado, abrimos una consola de Windows (cmd.exe) y ejecutamos el siguiente comando:
 
-```bash
+```bat
 npm install -g lighthouse-batch
 
 ```
@@ -44,7 +44,7 @@ Esperamos a que termine la instalación y tendremos todo listo para comenzar a a
 
 Ahora ya podemos generar tantos análisis como queramos. El comando que debemos usar será el siguiente. Os dejo un enlace hacia la  [documentación completa de lighthouse-batch](https://github.com/mikestead/lighthouse-batch).
 
-```bash
+```bat
 lighthouse-batch -s [url1],[url2],[urlN] -g --out C:/[ruta-donde-exportar]
 
 ```
@@ -124,5 +124,5 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTY4ODQwNV19
+eyJoaXN0b3J5IjpbLTMyMDIxNDcwOSwxNjUxNjg4NDA1XX0=
 -->
