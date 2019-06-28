@@ -3,6 +3,7 @@ title: Herramientas SEO gratis
 description: Conseguir buenos resultados en una estrategia SEO no depende únicamente de tener herramientas de pago. Utilizar estos recursos totalmente gratuitos para marcar la diferencia.
 image: https://emirodgar.com/cdn/images/og/herramientas.png
 date: 14/06/2019
+author: Emirodgar
 lang: es_ES
 permalink: herramientas-seo-gratis
 
@@ -170,11 +171,11 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [SEO Minion](https://seominion.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMDI2NDAyLDEyMTMyMTUzMDcsMTEwNj
-g0MTQ5NSwxOTE5NDUxNDQ2LC02OTY2ODIwNjAsLTc0Mzg5MjY5
-NCwxMDI1MDg2ODAyLDE0MDk5ODc3OTIsLTExMjM0NDA3NjAsMj
-AyODQwMjc5NiwtMTgzNzU4NTkzOCwyNDg5MjY3MjEsLTIxNDQw
-MjQ3NDYsLTE4NTY1ODY5ODQsLTIxMDczMjU2MzIsMTE2MDkzMz
-MzOCwtMTI3MTkyOTksLTE1MzI4NDI5OTEsNzI2NzI0ODY1XX0=
-
+eyJoaXN0b3J5IjpbLTE4NjkwMTk1NzcsNjYxMDI2NDAyLDEyMT
+MyMTUzMDcsMTEwNjg0MTQ5NSwxOTE5NDUxNDQ2LC02OTY2ODIw
+NjAsLTc0Mzg5MjY5NCwxMDI1MDg2ODAyLDE0MDk5ODc3OTIsLT
+ExMjM0NDA3NjAsMjAyODQwMjc5NiwtMTgzNzU4NTkzOCwyNDg5
+MjY3MjEsLTIxNDQwMjQ3NDYsLTE4NTY1ODY5ODQsLTIxMDczMj
+U2MzIsMTE2MDkzMzMzOCwtMTI3MTkyOTksLTE1MzI4NDI5OTEs
+NzI2NzI0ODY1XX0=
 -->
