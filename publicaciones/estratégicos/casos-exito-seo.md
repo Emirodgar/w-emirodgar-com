@@ -59,7 +59,12 @@ Este cambio nos ayudó a potenciar todo lo que ya habíamos ido trabajando y **c
 
 En la siguiente imagen se puede ver la evolución conseguida desde que comenzamos a trabajar (línea negra horizontal) hasta la fecha de hoy.
 
-![Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png)
+<amp-img alt="Caso éxito SEO: Visibilidad orgánica (Sistrix) desde 2011 a 2019"
+  src="https://i.imgur.com/n08VP9W.png"
+  width="1132"
+  height="390"
+  layout="responsive">
+</amp-img>
 
 El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para poder ser competitivos y a involucrar a todo el equipo para trabajar en la misma línea.
 
@@ -75,7 +80,12 @@ Me enfrento a un reto sin igual dado que se trata de una página con millones de
 
 Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a perder visibilidad y tráfico orgánico de forma muy agresiva, por ello, **analizo los puntos débiles** que han dado problemas durante los últimos meses y me aseguro que los solucionamos en el nuevo desarrollo web. 
 
-![Visibilidad en caída libre desde comienzos de 2016](https://i.imgur.com/6HUkSGh.png)
+<amp-img alt="Visibilidad en caída libre desde comienzos de 2016"
+  src="https://i.imgur.com/6HUkSGh.png"
+  width="790"
+  height="394"
+  layout="responsive">
+</amp-img>
 
 Comienzo a trabajar con el equipo técnico encargado del desarrollo de la nueva web para disponer de una **base SEO sólida** que nos permita salir reforzados tras la migración.
 
@@ -100,8 +110,15 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 ![Caso de éxito migración SEO - Emirodgar](https://i.imgur.com/88J5XxI.png)
 
+<amp-img alt="Visibilidad en caída libre desde comienzos de 2016"
+  src="https://i.imgur.com/6HUkSGh.png"
+  width="790"
+  height="394"
+  layout="responsive">
+</amp-img>
+
 En la imagen anterior se puede ver el incremento en la visibilidad orgánica que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODE4OTMzMSwtMTM4NDc1MTczNywtMT
-gyNDY2OTQ4NV19
+eyJoaXN0b3J5IjpbMTA4OTA4MTYyMCwtNTk4MTg5MzMxLC0xMz
+g0NzUxNzM3LC0xODI0NjY5NDg1XX0=
 -->
