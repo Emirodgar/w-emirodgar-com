@@ -1,5 +1,5 @@
 ---
-title: Registrar los errores de nuestra web con Google Analytics y Google Tag Manager
+title: Registrar errores web con Google Analytics y Google Tag Manager
 description: Una forma sencilla y rápida de recoger información acerca de los errores que ocurren en nuestra página web
 lang: es_ES
 author: Emirodgar
@@ -103,6 +103,6 @@ A partir de ahora podremos utilizar esta nueva dimensión en cualquiera de nuest
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc1NzA0MjAsLTEyODEyMTYyODhdfQ
-==
+eyJoaXN0b3J5IjpbMTAwNjk1NjYwMSwtMTkwNzU3MDQyMCwtMT
+I4MTIxNjI4OF19
 -->
