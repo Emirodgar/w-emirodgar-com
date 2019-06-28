@@ -23,7 +23,7 @@ Comenzamos junio con el anuncio por parte de Google de un [nuevo cambio en el al
   width="375"
   height="472"
   layout="responsive"
-  data-tweetid="1141263578600759297">
+  data-tweetid="1141620631794065408">
 </amp-twitter>
 
 Sistrix ha hecho su [análisis de los ganadores y perdedores](https://www.sistrix.com/blog/google-core-update-more-content-and-news-sites-affected/) y la comunidad SEO está [experimentando grandes cambios](https://www.seroundtable.com/google-june-2019-core-update-big-27682.html).  Algunos debates sostienen que [la Wikipedia puede estar siendo usada para validar páginas](https://www.searchenginejournal.com/google-june-update-wikipedia/313731/).
@@ -99,6 +99,6 @@ LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. B
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzAwMzU3OCwtNzEyMDg1NzU1LDgwMj
+eyJoaXN0b3J5IjpbMjA1NTMzMDAxNSwtNzEyMDg1NzU1LDgwMj
 E3MTkzN119
 -->
