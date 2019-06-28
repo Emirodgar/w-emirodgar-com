@@ -6,7 +6,7 @@ author: Emirodgar
 tags: SEO, Google
 date: 28/06/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: habilidades-buen-seo
+permalink: habilidades-seo
 
 ---
 
@@ -61,5 +61,5 @@ Sea como sea, debemos disponer de una capacidad para adaptarnos, entender la nue
 
 Si no disponemos de esta capacidad, un giro inesperado podría terminar con nuestras aspiraciones SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjMyODgxXX0=
+eyJoaXN0b3J5IjpbLTIyMDg4Mjc4NiwxMDg2MzI4ODFdfQ==
 -->
