@@ -29,7 +29,7 @@ Ha sido un cambio de algoritmo bastante opaco por parte del buscador así que ha
 
 Otro cambio interesante es que Google ha [retirado la opción de dominio preferido](https://webmasters.googleblog.com/2019/06/bye-bye-preferred-domain-setting.html) (con o sin www) de Search Console. Ahora tendremos que usar redirecciones 301 o el atributo canonical.
 
-En contraprestación se ha añadido nuevas funcionalidades para validar marcado estructurado en tiempo real
+En contraprestación se han añadido nuevas funcionalidades para validar marcado estructurado en tiempo real
 
 <amp-twitter 
   width="375"
@@ -76,5 +76,5 @@ LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. B
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTY1Mjg0NSw4MDIxNzE5MzddfQ==
+eyJoaXN0b3J5IjpbLTcxMjA4NTc1NSw4MDIxNzE5MzddfQ==
 -->
