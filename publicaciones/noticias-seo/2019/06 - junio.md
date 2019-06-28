@@ -38,7 +38,14 @@ En contraprestación se han añadido nuevas funcionalidades para validar marcado
   data-tweetid="1143162650332979202">
 </amp-twitter>
 
-Por último, Google nos da recomendaciones para poder verificar y actualizar nuestro [panel de información](https://support.google.com/knowledgepanel/answer/7534842?hl=es) e informe de que el marcad
+Por último, Google nos da recomendaciones para poder verificar y actualizar nuestro [panel de información](https://support.google.com/knowledgepanel/answer/7534842?hl=es) e informe de que el marcado de perfiles sociales no se utilizará más.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1143558928439005184">
+</amp-twitter>
 
 ### Lecturas interesantes
 
@@ -76,6 +83,6 @@ LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. B
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzkyNTQ3OSwtNzEyMDg1NzU1LDgwMj
+eyJoaXN0b3J5IjpbLTc5MzM0MzYyOCwtNzEyMDg1NzU1LDgwMj
 E3MTkzN119
 -->
