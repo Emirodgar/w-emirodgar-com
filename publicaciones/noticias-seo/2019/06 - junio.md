@@ -38,7 +38,7 @@ En contraprestación se han añadido nuevas funcionalidades para validar marcado
   data-tweetid="1143162650332979202">
 </amp-twitter>
 
-Por último, Google nos da recomendaciones para poder verificar y actualizar nuestro [panel de información](https://support.google.com/knowledgepanel/answer/7534842?hl=es).
+Por último, Google nos da recomendaciones para poder verificar y actualizar nuestro [panel de información](https://support.google.com/knowledgepanel/answer/7534842?hl=es) e informe de que el marcad
 
 ### Lecturas interesantes
 
@@ -76,5 +76,6 @@ LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. B
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjA4NTc1NSw4MDIxNzE5MzddfQ==
+eyJoaXN0b3J5IjpbLTk4NzkyNTQ3OSwtNzEyMDg1NzU1LDgwMj
+E3MTkzN119
 -->
