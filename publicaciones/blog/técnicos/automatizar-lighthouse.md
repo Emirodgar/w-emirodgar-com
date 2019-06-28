@@ -65,7 +65,12 @@ He creado otro fichero .bat que se lanza 30 minutos después -así me aseguro de
 
 Una vez accesibles, importo los ficheros JSON en Google Sheets haciendo uso de la librería  [ImportJSON](https://github.com/bradjasper/ImportJSON).
 
-![](https://i.imgur.com/IrL1alS.png)
+<amp-img alt="Listado de URLs analizadas con Lighthouse"
+  src="https://i.imgur.com/IrL1alS.png"
+  width="675"
+  height="445"
+  layout="responsive">
+</amp-img>
 
 El resultado es el que podéis ver en la imagen anterior. Cada URL tiene su propio análisis en el que podemos identificar mediante colores su puntuación.
 
@@ -120,5 +125,5 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODg2MzM4M119
+eyJoaXN0b3J5IjpbLTk2Mjg3MDMxN119
 -->
