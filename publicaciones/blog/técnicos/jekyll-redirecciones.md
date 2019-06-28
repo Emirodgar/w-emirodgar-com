@@ -15,22 +15,22 @@ permalink: redirecciones-seo-jekyll
 
 Ya he hablado en alguna ocasión del generador de páginas webs **Jekyll** y [cómo optimizarlo para una estrategia SEO](optimizacion-seo-jekyll).
 
-Hoy vamos a ver cómo se pueden implementar redirecciones de forma sencilla.
+Ahora vamos a ver cómo se pueden implementar redirecciones de forma sencilla.
 
 ## Habilitar el módulo de redirecciones
 
-El primer paso será habilitar en el fichero **_config.yml** el plugin asociado a las redirecciones -*jekyll-redirect-from*- y que nos permitirá utilizarlas dentro del framework. Para ello, dentro del apartado de plugins, añadimos lo siguiente:
+El primer paso será habilitar en el fichero **_config.yml** el plugin asociado a las redirecciones -*jekyll-redirect-from*. Éste nos permitirá utilizarlas dentro del framework; para ello si no tenemos ya creada una sección de plugins, añadimos lo siguiente:
 
 ```
 plugins:  
     - jekyll-redirect-from
 ```
 
-Si ya teníamos algún plugin cargado, únicamente añadiremos la segunda línea.
+Si ya teníamos algún plugin cargado, únicamente añadiremos la segunda línea a continuación de los que ya existan en el fichero.
 
 ## Aplicar redirecciones
 
-Una vez habilitado el plugin, aplicar redirecciones será tan sencillo como incluir los siguientes comandos dentro de nuestras páginas:
+Una vez habilitado el plugin, aplicar redirecciones será tan sencillo como incluir los siguientes comandos dentro de las cabeceras de nuestras páginas:
 
 El siguiente código nos permitirá definir qué URLs que ya existen en nuestra página web serán redireccionadas a la que estamos definiendo ahora.
 
@@ -57,6 +57,6 @@ permalink: /nueva/
 
 También podríamos crear un fichero .htaccess bajo Jekyll y gestionar las redirecciones a través del mismo, pero creo que esta forma es más rápida y sencilla.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDE4MjQwMiwtMjU0NDUzODU2LC0yMT
+eyJoaXN0b3J5IjpbMTYwMDc2Mjc1MiwtMjU0NDUzODU2LC0yMT
 IyNjQxMzY0XX0=
 -->
