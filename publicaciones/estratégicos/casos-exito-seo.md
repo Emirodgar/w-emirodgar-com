@@ -24,12 +24,10 @@ Comencé en el año 2015 a trabajar en un periódico de tirada nacional que en l
 
 El objetivo era **recuperar el tráfico perdido y volver a ser competitivos** tras varios años perdiendo anunciantes debido a su baja visibilidad orgánica. También habían sido impactados por Panda, el cambio de algoritmo de Google de 2012, por lo que el punto de partida era complicado.
 
-![Estado inicial caso éxito - pérdida de visibilidad orgánica](https://i.imgur.com/esO1WW0.png)
-
 <amp-img alt="Estado inicial caso éxito - pérdida de visibilidad orgánica"
   src="https://i.imgur.com/esO1WW0.png"
-  width="650"
-  height="361"
+  width="1132"
+  height="395"
   layout="responsive">
 </amp-img>
 
@@ -104,6 +102,6 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánica que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3NjM0NDE0LC0xMzg0NzUxNzM3LC0xOD
-I0NjY5NDg1XX0=
+eyJoaXN0b3J5IjpbLTU5ODE4OTMzMSwtMTM4NDc1MTczNywtMT
+gyNDY2OTQ4NV19
 -->
