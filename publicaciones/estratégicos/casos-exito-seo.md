@@ -108,17 +108,15 @@ Una vez que tuvimos todo el trabajo realizado, procedimos a establecer las fases
 
 La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que normalmente existe en cualquier migración web) sino que el hecho de que la nueva plataforma estuviera altamente optimizada para SEO nos ayudó a generar, a corto plazo, un incremento grande en posicionamiento y tráfico orgánico.
 
-![Caso de éxito migración SEO - Emirodgar](https://i.imgur.com/88J5XxI.png)
-
-<amp-img alt="Visibilidad en caída libre desde comienzos de 2016"
-  src="https://i.imgur.com/6HUkSGh.png"
-  width="790"
-  height="394"
+<amp-img alt="Caso de éxito migración SEO - Emirodgar"
+  src="https://i.imgur.com/88J5XxI.png"
+  width="1145"
+  height="406"
   layout="responsive">
 </amp-img>
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánica que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTA4MTYyMCwtNTk4MTg5MzMxLC0xMz
-g0NzUxNzM3LC0xODI0NjY5NDg1XX0=
+eyJoaXN0b3J5IjpbMjk3NjkzMTQ5LC01OTgxODkzMzEsLTEzOD
+Q3NTE3MzcsLTE4MjQ2Njk0ODVdfQ==
 -->
