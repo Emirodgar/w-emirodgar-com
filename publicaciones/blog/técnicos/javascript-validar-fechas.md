@@ -1,19 +1,19 @@
 ---
 title: Función JavaScript para validar fechas
-description: Sencilla función para validar cualquier formalista para incluir en tus proyectos
+description: Sencilla función para validar cualquier formato de fecha lista para incluir en tus proyectos
 lang: es_ES
 author: Emirodgar
-tags: seo, google, performance
+tags: javascript, tecnico
 date: 17/05/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: funcion-javascript-para-validar-fechas
 
 ---
-# Función javascript para validar fechas
+# Función JavaScript para validar fechas
 
-Esta función en Javascript nos permitirá de una forma rápida validar una fecha. Devolverá true o false dependiendo de si es correcta o no. Para que sea más reutilizable, la fecha se le pasará como parámetro.  
+Esta función en JavaScript nos permitirá de una forma rápida validar una fecha. Devolverá ```true``` o ```false``` dependiendo de si el formato es correcto o no. Para que sea más reutilizable la fecha se pasará como parámetro.  
   
-Esta función valida que el formato introducido sea dd/mm/yyyy, aunque se puede modificar de una forma sencilla.  
+Esta función valida que el formato introducido sea dd/mm/yyyy, aunque se puede modificar de una forma sencilla para adaptarse a otros formatos.  
   
 Valida que todos los parámetros introducidos a excepción de las barras de separación ?/? sean números.  
   
@@ -69,5 +69,5 @@ Esta función también tiene en cuenta que cada 4 años es bisiesto.
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNTU1NDgyXX0=
+eyJoaXN0b3J5IjpbNTExNzk3OTA3XX0=
 -->
