@@ -1,12 +1,12 @@
 ---
-title: Eliminar página o URL indexada en Google
+title: 7 habilidades que definen a un buen SEO
 description: Aprende a eliminar una URL de forma correcta y eficiente para que no vuelva a aparecer en Google
 lang: es_ES
 author: Emirodgar
 tags: SEO, Google
-date: 08/04/2019
+date: 28/06/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: eliminar-url-google
+permalink: habilidades-buen-seo
 
 ---
 
@@ -61,5 +61,5 @@ Sea como sea, debemos disponer de una capacidad para adaptarnos, entender la nue
 
 Si no disponemos de esta capacidad, un giro inesperado podría terminar con nuestras aspiraciones SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzk1MTk5MF19
+eyJoaXN0b3J5IjpbMTA4NjMyODgxXX0=
 -->
