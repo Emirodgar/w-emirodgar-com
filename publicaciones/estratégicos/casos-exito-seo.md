@@ -26,6 +26,13 @@ El objetivo era **recuperar el tráfico perdido y volver a ser competitivos** tr
 
 ![Estado inicial caso éxito - pérdida de visibilidad orgánica](https://i.imgur.com/esO1WW0.png)
 
+<amp-img alt="Estado inicial caso éxito - pérdida de visibilidad orgánica"
+  src="https://i.imgur.com/esO1WW0.png"
+  width="650"
+  height="361"
+  layout="responsive">
+</amp-img>
+
 En la imagen anterior podemos ver la evolución de la **visibilidad SEO** -obtenida con Sistrix- desde el 2011 hasta el momento en el que comencé a trabajar en el proyecto.
 
 Después de un análisis en detalle, comencé a trabajar los siguientes pilares:
@@ -97,6 +104,6 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánica que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTYwNjIxMzMsLTEzODQ3NTE3MzcsLT
-E4MjQ2Njk0ODVdfQ==
+eyJoaXN0b3J5IjpbNzY3NjM0NDE0LC0xMzg0NzUxNzM3LC0xOD
+I0NjY5NDg1XX0=
 -->
