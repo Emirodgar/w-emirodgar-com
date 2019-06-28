@@ -35,7 +35,12 @@ Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019
  - Páginas indexadas: 2
  - Posicionamiento 0 / 0
 
-![Google Search Console - emirodgar.com ](https://i.imgur.com/7ce2kiB.png)
+<amp-img alt="Google Search Console - emirodgar.com"
+  src="https://i.imgur.com/7ce2kiB.png"
+  width="981"
+  height="357"
+  layout="responsive">
+</amp-img>
 
 He comenzado lanzando una primera versión de la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
 
@@ -51,7 +56,12 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
  - Páginas indexadas: 3
  - Posicionamiento: 122 / 0
 
-![Evolución Google Search Console](https://i.imgur.com/MVStSCU.png)
+<amp-img alt="Google Search Console - emirodgar.com"
+  src="https://i.imgur.com/MVStSCU.png"
+  width="981"
+  height="357"
+  layout="responsive">
+</amp-img>
 
 He decidido añadir un blog para poder generar contenido de actualidad con cierta facilidad. Utilizo dos tecnologías: 
 
@@ -67,6 +77,13 @@ Además del blog, gran parte del esfuerzo de febrero lo he concentrado en optimi
 Aunque soy consciente de que podría llegar a optimizar algo más, no he querido obsesionarme.
 
 ![Métricas usabilidad SEO web.dev del dominio emirodgar.com](https://i.imgur.com/5sI2ybv.png)
+
+<amp-img alt="Google Search Console - emirodgar.com"
+  src="https://i.imgur.com/MVStSCU.png"
+  width="981"
+  height="357"
+  layout="responsive">
+</amp-img>
 
 La parte de AMP - que será el blog- está muy optimizado a excepción de la accesibilidad, que es un aspecto que no momento no voy a trabajar pero que no descarto para los próximos meses. 
 
@@ -118,6 +135,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg5NDQ5NzksMjE3Nzk5ODMsLTgwOT
-U4MDcwNl19
+eyJoaXN0b3J5IjpbLTkxOTgwMDYyMCwyMTc3OTk4MywtODA5NT
+gwNzA2XX0=
 -->
