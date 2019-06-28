@@ -51,7 +51,7 @@ Tras la polémica desatada por Safari y Firefox de utilizar ITP (Intelligent Tra
 
 ## Otras noticias
 
-LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. Busca potenciar la aparición de publicaciones relacionadas con tus inte
+LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. Busca potenciar la aparición de publicaciones relacionadas con tus intereses y con perfiles afines.
 
 <amp-twitter 
   width="375"
@@ -61,5 +61,5 @@ LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. B
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Nzc1OTcxM119
+eyJoaXN0b3J5IjpbLTY5MDk3NDcyOF19
 -->
