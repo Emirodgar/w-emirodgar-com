@@ -10,10 +10,7 @@ permalink: noticias-seo/2019/junio
 
 ---
 
-# Noticias SEO - 2019
-
-
-## Noticias SEO junio
+# Noticias SEO junio 2019
 
 ### Nuevo algoritmo de Google
 
@@ -99,6 +96,6 @@ LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. B
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTMzMDAxNSwtNzEyMDg1NzU1LDgwMj
-E3MTkzN119
+eyJoaXN0b3J5IjpbLTQ2MjkyNjI0NSwyMDU1MzMwMDE1LC03MT
+IwODU3NTUsODAyMTcxOTM3XX0=
 -->
