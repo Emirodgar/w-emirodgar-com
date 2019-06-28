@@ -49,6 +49,17 @@ Excelente presentación del SEOntheBeach 2019 acerca de [cómo potenciar tus Dat
 
 Tras la polémica desatada por Safari y Firefox de utilizar ITP (Intelligent Tracking Prevention) para borrar las cookies tras una semana, Simo Ahava ha propuesto una solución [creando un *web service* en Google Cloud](https://www.simoahava.com/google-cloud/create-cookie-rewrite-web-service-google-cloud/).
 
+## Otras noticias
+
+LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. Busca potenciar la aparición de publicaciones relacionadas con tus inte
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1143501025866899456">
+</amp-twitter>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA2NDAwMzFdfQ==
+eyJoaXN0b3J5IjpbLTY4Nzc1OTcxM119
 -->
