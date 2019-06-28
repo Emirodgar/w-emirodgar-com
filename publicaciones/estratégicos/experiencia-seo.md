@@ -17,6 +17,12 @@ Desde entonces he tenido la oportunidad de participar en más de un centenar de 
 En base a esta experiencia, os cuento las 10 cosas más importantes que he aprendido como SEO y que creo que son cruciales para establecer un camino hacia el éxito, tanto personal como profesional.
  
  ![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png)
+<amp-img alt="Consultor SEO Traffic4U primer trabajo agencia internacional"
+  src="https://i.imgur.com/eETYCGw.png"
+  width="650"
+  height="602"
+  layout="responsive">
+</amp-img>
  
  1. **Rodéate de gente con actitud y aptitud**: Siempre ha habido una frase que ha marcado mi desarrollo profesional: *“if you are the smartest person in a room, then you are in the wrong room”*.  A día de hoy aún no he descubierto una sola persona ni situación de la que no haya podido aprender algo, aún así, si te aseguras de estar cerca de gente motivada y con conocimientos -directos o indirectos a tu faceta profesional- tu desarrollo se verá altamente enriquecido. 
  2. **Los proyectos difíciles son retos que te ayudan a crecer profesionalmente**: No huyas de ellos; puede que al principio asusten o que pensemos que no estamos a la altura pero una vez superados nos habremos dado cuenta de nuestra capacidad y del aprendizaje que han supuesto para nosotros. No hay retos imposibles, únicamente actitud para enfrentarse a un problema. Cada reto superado nos convierte en mejores profesionales. 
@@ -33,6 +39,6 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
 ![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjUzMjEyMiwtNTM4NTA1Mjg2LDEwOD
-gyMjIyMTRdfQ==
+eyJoaXN0b3J5IjpbLTE3ODY4MDU0MjMsLTUzODUwNTI4NiwxMD
+g4MjIyMjE0XX0=
 -->
