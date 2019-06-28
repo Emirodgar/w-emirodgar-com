@@ -27,7 +27,12 @@ Cuando Google decide mostrar un fragmento de página destacada en la primera pos
 
 En la siguiente imagen podemos ver un ejemplo de lo que hablamos: el contenido es de businessinsider.com pero la imagen pertenece a pcworld.com.
 
-![Ejemplo de resultadocon contenido e imagen de páginas diferentes](https://i.imgur.com/JYBZsY9.png)
+<amp-img alt="Ejemplo de resultado con contenido e imagen de páginas diferentes"
+  src="https://i.imgur.com/JYBZsY9.png"
+  width="650"
+  height="361"
+  layout="responsive">
+</amp-img>
 
 El hecho de no disponer de una imagen adecuada hace perder visibilidad a una página que ha conseguido aparecer en una posición destacada por su contenido. Por ello, debe ser una prioridad **optimizar las imágenes al máximo** y favorecer así nuestra [estrategia SEO](estrategia-seo).
 
@@ -135,5 +140,6 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU4MzQ2MTUsLTY5NzQ4OTgxM119
+eyJoaXN0b3J5IjpbODY5MTg2OTAwLC0xNzY1ODM0NjE1LC02OT
+c0ODk4MTNdfQ==
 -->
