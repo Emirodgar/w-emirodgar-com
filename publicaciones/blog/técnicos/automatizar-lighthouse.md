@@ -34,7 +34,7 @@ Aunque en la guía oficial hacen referencia a  **lighthouse**  yo os recomiendo 
 
 Una vez que tengamos npm instalado, abrimos una consola de Windows (cmd.exe) y ejecutamos el siguiente comando:
 
-```
+```bash
 npm install -g lighthouse-batch
 
 ```
@@ -98,7 +98,6 @@ $.getJSON(url, function(data) {
 ```
 Necesitaremos crear el elemento HTML donde se cargará la información.
 ```html
-
 <div class="results"></div>
 ```
 
@@ -125,5 +124,5 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mjg3MDMxN119
+eyJoaXN0b3J5IjpbMTY1MTY4ODQwNV19
 -->
