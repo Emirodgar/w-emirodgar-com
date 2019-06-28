@@ -76,18 +76,23 @@ Además del blog, gran parte del esfuerzo de febrero lo he concentrado en optimi
 
 Aunque soy consciente de que podría llegar a optimizar algo más, no he querido obsesionarme.
 
-![Métricas usabilidad SEO web.dev del dominio emirodgar.com](https://i.imgur.com/5sI2ybv.png)
-
-<amp-img alt="Google Search Console - emirodgar.com"
-  src="https://i.imgur.com/MVStSCU.png"
-  width="981"
-  height="357"
+<amp-img alt="Métricas usabilidad SEO web.dev del dominio emirodgar.com"
+  src="https://i.imgur.com/5sI2ybv.png"
+  width="967"
+  height="324"
   layout="responsive">
 </amp-img>
 
 La parte de AMP - que será el blog- está muy optimizado a excepción de la accesibilidad, que es un aspecto que no momento no voy a trabajar pero que no descarto para los próximos meses. 
 
 ![Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP](https://i.imgur.com/tcDllgb.png)
+
+<amp-img alt="Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP"
+  src="https://i.imgur.com/tcDllgb.png"
+  width="967"
+  height="324"
+  layout="responsive">
+</amp-img>
 
 ## <a name="marzo"></a>Marzo: Más puertas de entrada
  
@@ -135,6 +140,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTgwMDYyMCwyMTc3OTk4MywtODA5NT
-gwNzA2XX0=
+eyJoaXN0b3J5IjpbLTE0NjY0NTczMTUsMjE3Nzk5ODMsLTgwOT
+U4MDcwNl19
 -->
