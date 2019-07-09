@@ -121,12 +121,10 @@ Desde Schema.org podemos ver al detalle el [marcado semántico de las imágenes]
 
 Google anunció recientemente su [Programa Opt-In de alta resolución](https://searchengineland.com/google-to-add-support-for-higher-quality-images-in-search-swipe-up-images-3d-images-316706)  en el que podremos proporcionar a Google una imagen de alta resolución a través de un marcado semántico.  Parece que podríamos llegar a incluir una propiedad de  **licencia**  al esquema de  **ImageObject**  :
 
-![](https://lh4.googleusercontent.com/FtmIC_bil_ZiL1YJlxO0qhUJYSkUNe5uYSVeLZ-2qniHiNUsxDQv9bFz-i-YgL-lN-S7aEb-gvEIthGIfSTW64mUFR9cXOPcul0w4s0lXmDvjkdzyRNSg-Rc_x5PXOd7omAL-_QA)
 
-<amp-img alt="Google imágenes lic"
-  src="https://i.imgur.com/JYBZsY9.png"
-  width="650"
-  height="361"
+<amp-img alt="Google imágenes licencia"  src="https://lh4.googleusercontent.com/FtmIC_bil_ZiL1YJlxO0qhUJYSkUNe5uYSVeLZ-2qniHiNUsxDQv9bFz-i-YgL-lN-S7aEb-gvEIthGIfSTW64mUFR9cXOPcul0w4s0lXmDvjkdzyRNSg-Rc_x5PXOd7omAL-_QA"
+  width="800"
+  height="377"
   layout="responsive">
 </amp-img>
 
@@ -152,6 +150,6 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY2MjAxMzAsLTE3NjU4MzQ2MTUsLT
-Y5NzQ4OTgxM119
+eyJoaXN0b3J5IjpbNjU4MjQyMjM3LC0xNzY1ODM0NjE1LC02OT
+c0ODk4MTNdfQ==
 -->
