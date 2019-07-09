@@ -47,7 +47,12 @@ Accelerated Mobile Pages (AMP) es -junto con las PWA- la otra apuesta fuerte de 
 
 A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/IamJoseVarghese/status/1109404147508342784) una nueva funcionalidad en Google Imágenes con la que se podría pasar -de forma rápida- desde una imagen al artículo AMP en el que aparece.
 
-![](https://lh4.googleusercontent.com/S2gn-rMi3rLpBtHCwAZTUSNDoCwZYXuvCTJzGFpa_hJaMp5TuhSTSJvy01HA8R0KM05XQnxkEnxlOg-IX4dTastq8Fh--Ts2rlIdtndyAbqSlPlEZi-93YjjMhUk90fWHQ1BjGgj)
+<amp-img alt="Nueva funcionalidad Google AMP noticias imágenes"
+  src="https://lh4.googleusercontent.com/S2gn-rMi3rLpBtHCwAZTUSNDoCwZYXuvCTJzGFpa_hJaMp5TuhSTSJvy01HA8R0KM05XQnxkEnxlOg-IX4dTastq8Fh--Ts2rlIdtndyAbqSlPlEZi-93YjjMhUk90fWHQ1BjGgj"
+  width="640"
+  height="978"
+  layout="responsive">
+</amp-img>
 
 Esto deja claro que para Google las imágenes tienen una gran relevancia y van de la mano de los lanzamientos más importantes que están haciendo en los últimos años.
 
@@ -118,6 +123,13 @@ Google anunció recientemente su [Programa Opt-In de alta resolución](https://s
 
 ![](https://lh4.googleusercontent.com/FtmIC_bil_ZiL1YJlxO0qhUJYSkUNe5uYSVeLZ-2qniHiNUsxDQv9bFz-i-YgL-lN-S7aEb-gvEIthGIfSTW64mUFR9cXOPcul0w4s0lXmDvjkdzyRNSg-Rc_x5PXOd7omAL-_QA)
 
+<amp-img alt="Google imágenes lic"
+  src="https://i.imgur.com/JYBZsY9.png"
+  width="650"
+  height="361"
+  layout="responsive">
+</amp-img>
+
 Para asegurarnos de que nuestras imágenes aparecen en los bloques de fragmentos destacados, debemos usar la  **mejor representación visual para el contexto de la página**  , teniendo en cuenta la consulta de destino.  Si la página trata sobre “  _cómo dibujar un gato_  ”, elija una imagen que muestre a una persona dibujando un gato, no muestre un gato real.
 
 ### 8- Accesibilidad
@@ -140,6 +152,6 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MTg2OTAwLC0xNzY1ODM0NjE1LC02OT
-c0ODk4MTNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTY2MjAxMzAsLTE3NjU4MzQ2MTUsLT
+Y5NzQ4OTgxM119
 -->
