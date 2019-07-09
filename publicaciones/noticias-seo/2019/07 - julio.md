@@ -20,6 +20,11 @@ Google ha decidido estandarizar el protocolo de robots.txt haciendo que la direc
   layout="responsive"
   data-tweetid="1145951912900157440">
 </amp-twitter>
+
+## Noticias varias
+
+¿Ha llegado el momento de [dejar de utilizar el scroll infinito](http://www.invisionapp.com/inside-design/kill-infinite-scroll/) en las páginas web?. Yo creo que sí.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MzMxNzYxXX0=
+eyJoaXN0b3J5IjpbNjA3ODY0MjYwXX0=
 -->
