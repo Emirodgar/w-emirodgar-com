@@ -25,6 +25,7 @@ Google ha decidido estandarizar el protocolo de robots.txt haciendo que la direc
 
 ¿Ha llegado el momento de [dejar de utilizar el scroll infinito](http://www.invisionapp.com/inside-design/kill-infinite-scroll/) en las páginas web?. Yo creo que sí.
 
+¿Problemas con los datos? prueba esta interesante forma de [auditar nuestra analítica web a través de Google Data Studio](http://www.charlesfarina.com/audit-your-google-analytics-data-with-google-data-studio/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3ODY0MjYwXX0=
+eyJoaXN0b3J5IjpbLTEwODA5NTkwMjBdfQ==
 -->
