@@ -12,7 +12,14 @@ permalink: noticias-seo/2019/julio
 
 # Noticias SEO julio 2019
 
+Google ha decidido estandarizar el protocolo de robots.txt haciendo que la directiva noindex quede anulada. No es que fuera muy común utilizarla, pero ahora ya no tendrá ning
 
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1145951912900157440">
+</amp-twitter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2MjAyNDMyXX0=
+eyJoaXN0b3J5IjpbLTExODIyODU2MzldfQ==
 -->
