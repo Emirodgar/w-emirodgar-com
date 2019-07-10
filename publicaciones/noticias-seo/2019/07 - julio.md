@@ -21,7 +21,7 @@ Google ha decidido estandarizar el protocolo de **robots.txt** [compartiendo el 
   data-tweetid="1145951912900157440">
 </amp-twitter>
 
-Nunca he sido muy fan de hacer disavow sin tener un problema de 
+Nunca he sido muy fan de hacer disavow sin tener un problema de enlazado entre manos pero parece ser que [revisar periódicamente los enlaces tóxicos](https://www.seroundtable.com/amp/google-trust-algorithmic-links-27014.html) puede ayudarnos a que Google valore de forma positiva el resto.
 
 ## Noticias varias
 
@@ -31,6 +31,5 @@ Nunca he sido muy fan de hacer disavow sin tener un problema de
 
 Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especialices](https://www.kevin-indig.com/become-a-specialist-if-you-want-a-career-in-digital-marketing/), así tendrás más y mejores oportunidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk4NDA3MTEsLTE2MjYwNjU4NjddfQ
-==
+eyJoaXN0b3J5IjpbLTI2NTAzODIzNSwtMTYyNjA2NTg2N119
 -->
