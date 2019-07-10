@@ -21,6 +21,8 @@ Google ha decidido estandarizar el protocolo de **robots.txt** [compartiendo el 
   data-tweetid="1145951912900157440">
 </amp-twitter>
 
+Nunca he sido muy fan de hacer disavow sin tener un problema de 
+
 ## Noticias varias
 
 ¿Ha llegado el momento de [dejar de utilizar el scroll infinito](http://www.invisionapp.com/inside-design/kill-infinite-scroll/) en las páginas web?. Yo creo que sí.
@@ -29,5 +31,6 @@ Google ha decidido estandarizar el protocolo de **robots.txt** [compartiendo el 
 
 Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especialices](https://www.kevin-indig.com/become-a-specialist-if-you-want-a-career-in-digital-marketing/), así tendrás más y mejores oportunidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5OTY5MjY5LC0xNjI2MDY1ODY3XX0=
+eyJoaXN0b3J5IjpbLTExMDk4NDA3MTEsLTE2MjYwNjU4NjddfQ
+==
 -->
