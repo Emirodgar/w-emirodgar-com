@@ -12,7 +12,7 @@ permalink: noticias-seo/2019/julio
 
 # Noticias SEO julio 2019
 
-Google ha decidido estandarizar el protocolo de robots.txt [compartiendo el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) y haciendo que la directiva noindex quede anulada. No es que fuera muy común utilizarla, pero ahora ya no tendrá ningún efecto.
+Google ha decidido estandarizar el protocolo de **robots.txt** [compartiendo el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) y haciendo que la directiva noindex quede anulada. No es que fuera muy común utilizarla, pero ahora ya no tendrá ningún efecto.
 
 <amp-twitter 
   width="375"
@@ -29,5 +29,5 @@ Google ha decidido estandarizar el protocolo de robots.txt [compartiendo el cód
 
 Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especialices](https://www.kevin-indig.com/become-a-specialist-if-you-want-a-career-in-digital-marketing/), así tendrás más y mejores oportunidades.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjYwNjU4NjddfQ==
+eyJoaXN0b3J5IjpbNzA3ODAzODkzLC0xNjI2MDY1ODY3XX0=
 -->
