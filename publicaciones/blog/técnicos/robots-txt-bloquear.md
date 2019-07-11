@@ -4,7 +4,7 @@ description: Evita que los buscadores rastreen tu página web y alteren tu tráf
 lang: es_ES
 author: Emirodgar
 tags: seo, htaccess, robots
-date: 16/05/2019
+date: 11/07/2019
 date_modified: 16/05/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: listado-robots-bloquear
@@ -14,6 +14,8 @@ permalink: listado-robots-bloquear
 # Listado de robots spam para bloquear en nuestra web
 
 Tranquilos, no pretendo bloquear a Google o a aquellos buscadores que nos aportan tráfico y conversiones; el objetivo de esta publicación es hacer un listado de aquellos robots spam o de aplicaciones de terceros que escanean y analizan nuestro sitio web. De esta forma conseguimos evitar visitas innecesarias y optimizamos los recursos.
+
+> Google ha compartido el código
 
 ## Bloquear el acceso de robots de búsqueda a tu página web
 
@@ -1080,5 +1082,5 @@ User-agent: ZyBorg
 Disallow:/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTM1NDg4M119
+eyJoaXN0b3J5IjpbMjEzMDM5NTAyLDE0OTEzNTQ4ODNdfQ==
 -->
