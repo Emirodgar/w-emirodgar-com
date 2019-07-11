@@ -12,7 +12,7 @@ permalink: noticias-seo/2019/julio
 
 # Noticias SEO julio 2019
 
-Google ha decidido **estandarizar el protocolo de exclusión del robots.txt**  haciendo que la **directiva noindex quede anulada** y [compartiendo el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) para analizar este fichero. 
+Google ha decidido **estandarizar el protocolo de exclusión del robots.txt**; entre otras cosas la **directiva noindex queda anulada** y [compartiendo el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) para analizar este fichero. 
 
 <amp-twitter 
   width="375"
@@ -30,6 +30,9 @@ Gary avisa de que una mala configuración en este fichero podría afectar al pos
   data-tweetid="1145951912900157440">
 </amp-twitter>
 
+
+### Vigila los enlaces tóxicos de forma periódica 
+
 Nunca he sido muy fan de hacer disavow sin tener un problema de enlazado entre manos pero parece ser que [revisar periódicamente los enlaces tóxicos](https://www.seroundtable.com/amp/google-trust-algorithmic-links-27014.html) puede ayudarnos a que Google valore de forma positiva el resto.
 
 ## Noticias varias
@@ -42,6 +45,6 @@ Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especi
 
 **Calidad frente a cantidad**. Una [campaña de content marketing efectiva](https://riseatseven.com/blog/building-link-campaigns-that-top-tier-journalists-love-for-a-brand-that-no-ones-heard-of-or-likes/) es posible si somos originales y sabemos analizar tendencias de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjMxNzY3NjIsMTcwNTA1NDIzMCw4MT
+eyJoaXN0b3J5IjpbLTE0MzI3NzY3ODAsMTcwNTA1NDIzMCw4MT
 E2MzgwMDUsLTI2NTAzODIzNSwtMTYyNjA2NTg2N119
 -->
