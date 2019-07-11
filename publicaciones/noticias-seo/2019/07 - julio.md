@@ -14,7 +14,7 @@ permalink: noticias-seo/2019/julio
 
 ## Nuevos cambios en el robots.txt
 
-Google ha decidido **estandarizar el protocolo de exclusión del robots.txt**; entre otras cosas la **directiva noindex queda anulada** y han decidido [compartir el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) para analizar este fichero. 
+Google ha decidido **estandarizar el protocolo de exclusión del robots.txt**; entre otras cosas la **directiva noindex queda anulada** y, para facilitar la validación, han [compartido el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) para analizar este fichero. 
 
 <amp-twitter 
   width="375"
@@ -47,7 +47,7 @@ Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especi
 
 **Calidad frente a cantidad**. Una [campaña de content marketing efectiva](https://riseatseven.com/blog/building-link-campaigns-that-top-tier-journalists-love-for-a-brand-that-no-ones-heard-of-or-likes/) es posible si somos originales y sabemos analizar tendencias de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM3MjM1NzEsLTEwMDQyMjgzMzYsLT
-E0MzI3NzY3ODAsMTcwNTA1NDIzMCw4MTE2MzgwMDUsLTI2NTAz
-ODIzNSwtMTYyNjA2NTg2N119
+eyJoaXN0b3J5IjpbLTY2NTEwNTM5LC0xMDczNzIzNTcxLC0xMD
+A0MjI4MzM2LC0xNDMyNzc2NzgwLDE3MDUwNTQyMzAsODExNjM4
+MDA1LC0yNjUwMzgyMzUsLTE2MjYwNjU4NjddfQ==
 -->
