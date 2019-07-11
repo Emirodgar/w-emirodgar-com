@@ -15,7 +15,7 @@ permalink: listado-robots-bloquear
 
 Tranquilos, no pretendo bloquear a Google o a aquellos buscadores que nos aportan tráfico y conversiones; el objetivo de esta publicación es hacer un listado de aquellos robots spam o de aplicaciones de terceros que escanean y analizan nuestro sitio web. De esta forma conseguimos evitar visitas innecesarias y optimizamos los recursos.
 
-> Google ha compartido el código
+> Google ha compartido el [código fuente del parseador](https://webmasters.googleblog.com/2019/07/repp-oss.html) que utilizan para trabajar con el fichero robots.txt
 
 ## Bloquear el acceso de robots de búsqueda a tu página web
 
@@ -1082,5 +1082,5 @@ User-agent: ZyBorg
 Disallow:/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDM5NTAyLDE0OTEzNTQ4ODNdfQ==
+eyJoaXN0b3J5IjpbNDAyNDY1MzAsMTQ5MTM1NDg4M119
 -->
