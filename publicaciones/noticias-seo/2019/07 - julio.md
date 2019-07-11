@@ -12,7 +12,16 @@ permalink: noticias-seo/2019/julio
 
 # Noticias SEO julio 2019
 
-Google ha decidido estandarizar el protocolo de **robots.txt** [compartiendo el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) y haciendo que la **directiva noindex quede anulada**. No es que fuera muy común utilizarla, pero ahora ya no tendrá ningún efecto.
+Google ha decidido estandarizar el protocolo de exclusión del **robots.txt** [compartiendo el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) y haciendo que la **directiva noindex quede anulada**. No es que fuera muy común utilizarla, pero ahora ya no tendrá ningún efecto.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1145766318680858625">
+</amp-twitter>
+
+Desde Google avisan de que una mala configuración puede hacer daño a t
 
 <amp-twitter 
   width="375"
@@ -33,6 +42,6 @@ Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especi
 
 **Calidad frente a cantidad**. Una [campaña de content marketing efectiva](https://riseatseven.com/blog/building-link-campaigns-that-top-tier-journalists-love-for-a-brand-that-no-ones-heard-of-or-likes/) es posible si somos originales y sabemos analizar tendencias de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExNjM4MDA1LC0yNjUwMzgyMzUsLTE2Mj
-YwNjU4NjddfQ==
+eyJoaXN0b3J5IjpbMTk4OTU0OTYwOSw4MTE2MzgwMDUsLTI2NT
+AzODIzNSwtMTYyNjA2NTg2N119
 -->
