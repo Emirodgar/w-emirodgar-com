@@ -21,7 +21,7 @@ Google ha decidido estandarizar el protocolo de exclusión del **robots.txt** [c
   data-tweetid="1145766318680858625">
 </amp-twitter>
 
-Desde Google avisan de que una mala configuración puede hacer daño a t
+Desde Google avisan de que una mala configuración puede hacer daño a tu web y Gary lo ha comprobado.
 
 <amp-twitter 
   width="375"
@@ -42,6 +42,6 @@ Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especi
 
 **Calidad frente a cantidad**. Una [campaña de content marketing efectiva](https://riseatseven.com/blog/building-link-campaigns-that-top-tier-journalists-love-for-a-brand-that-no-ones-heard-of-or-likes/) es posible si somos originales y sabemos analizar tendencias de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTU0OTYwOSw4MTE2MzgwMDUsLTI2NT
+eyJoaXN0b3J5IjpbMTcwNTA1NDIzMCw4MTE2MzgwMDUsLTI2NT
 AzODIzNSwtMTYyNjA2NTg2N119
 -->
