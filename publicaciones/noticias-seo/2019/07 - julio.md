@@ -30,6 +30,9 @@ Nunca he sido muy fan de hacer disavow sin tener un problema de enlazado entre m
 ¿Problemas con los datos? prueba esta interesante forma de [auditar nuestra analítica web a través de Google Data Studio](http://www.charlesfarina.com/audit-your-google-analytics-data-with-google-data-studio/).
 
 Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especialices](https://www.kevin-indig.com/become-a-specialist-if-you-want-a-career-in-digital-marketing/), así tendrás más y mejores oportunidades.
+
+Calidad frente a cantidad. Una campaña de content marketing efectiva [es posible](https://riseatseven.com/blog/building-link-campaigns-that-top-tier-journalists-love-for-a-brand-that-no-ones-heard-of-or-likes/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTAzODIzNSwtMTYyNjA2NTg2N119
+eyJoaXN0b3J5IjpbOTE0MDE2NTI2LC0yNjUwMzgyMzUsLTE2Mj
+YwNjU4NjddfQ==
 -->
