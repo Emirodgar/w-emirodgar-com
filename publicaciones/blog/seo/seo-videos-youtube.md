@@ -58,7 +58,12 @@ Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser lige
 
 A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Google en la primera página de resultados. De aparecer ahí podemos estar seguros de que serán vídeos relevantes a nivel de **palabras clave e interacciones**.
 
-![Búsqueda google receta pollo vídeos youtube](https://i.imgur.com/4TrrOMW.png)
+
+<amp-img alt="Búsqueda google receta pollo vídeos youtube"  src="https://i.imgur.com/4TrrOMW.png"
+  width="673"
+  height="421"
+  layout="responsive">
+</amp-img>
 
 De forma complementaria podemos hacer una búsqueda en Google directamente sobre vídeos de Youtube para analizar el TOP10 de resultados. Para ello bastará con usar el siguiente comando actualizando el último valor "local seo" por la palabra clave que queramos buscar.
 
@@ -70,7 +75,11 @@ Otra opción puede ser fijarnos en los **competidores directos de nuestro canal*
 
 Por último, herramientas como [Buzzsumo](https://buzzsumo.com/) nos ayudarán a identificar **tendencias** y publicaciones con buena acogida por parte de los usuarios por lo que tamibén servirán como fuente de inspiración y para detectar términos relevantes en *engagement*.
 
-![Buzzsumo tendencias de publicación e interacción](https://i.imgur.com/ylS0ueg.png)
+<amp-img alt="Buzzsumo tendencias de publicación e interacción"  src="https://i.imgur.com/ylS0ueg.png"
+  width="760"
+  height="276"
+  layout="responsive">
+</amp-img>
 
 En la imagen anterior podemos ver la evolución de las publicaciones de una temática y su interacción por parte de los usuarios. 
 
@@ -165,5 +174,5 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTU1MTQ5Nl19
+eyJoaXN0b3J5IjpbMTU0Njk1NjI4MV19
 -->
