@@ -14,7 +14,7 @@ permalink: noticias-seo/2019/julio
 
 ## Nuevos cambios en el robots.txt
 
-Google ha decidido **estandarizar el protocolo de exclusión del robots.txt**; entre otras cosas la **directiva noindex queda anulada** y, para facilitar la validación, han [compartido el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) para analizar este fichero. 
+Google ha decidido **estandarizar el protocolo de exclusión del robots.txt**; entre otras cosas la **directiva noindex queda anulada** y, para facilitar la validación y el desarrollo de herramientas relacioandas, han [compartido el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) para analizar este fichero. 
 
 <amp-twitter 
   width="375"
@@ -23,7 +23,7 @@ Google ha decidido **estandarizar el protocolo de exclusión del robots.txt**; e
   data-tweetid="1145766318680858625">
 </amp-twitter>
 
-Gary avisa de que una mala configuración del robots.txt podría afectar al posicionamiento web de tu sitio web.
+Gary avisa de que una mala configuración del robots.txt podría afectar al posicionamiento web  y que a partir del 1 de septiembre de 2019 [las configuraciones que no sigan el estándar serán ignoradas](https://webmasters.googleblog.com/2019/07/a-note-on-unsupported-rules-in-robotstxt.html).
 
 <amp-twitter 
   width="375"
@@ -47,7 +47,8 @@ Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especi
 
 **Calidad frente a cantidad**. Una [campaña de content marketing efectiva](https://riseatseven.com/blog/building-link-campaigns-that-top-tier-journalists-love-for-a-brand-that-no-ones-heard-of-or-likes/) es posible si somos originales y sabemos analizar tendencias de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTEwNTM5LC0xMDczNzIzNTcxLC0xMD
-A0MjI4MzM2LC0xNDMyNzc2NzgwLDE3MDUwNTQyMzAsODExNjM4
-MDA1LC0yNjUwMzgyMzUsLTE2MjYwNjU4NjddfQ==
+eyJoaXN0b3J5IjpbLTY4ODMwODU1OCwtNjY1MTA1MzksLTEwNz
+M3MjM1NzEsLTEwMDQyMjgzMzYsLTE0MzI3NzY3ODAsMTcwNTA1
+NDIzMCw4MTE2MzgwMDUsLTI2NTAzODIzNSwtMTYyNjA2NTg2N1
+19
 -->
