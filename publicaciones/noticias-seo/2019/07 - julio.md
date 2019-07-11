@@ -14,7 +14,7 @@ permalink: noticias-seo/2019/julio
 
 ## Nuevos cambios en el robots.txt
 
-Google ha decidido **estandarizar el protocolo de exclusión del robots.txt**; entre otras cosas la **directiva noindex queda anulada** y, para facilitar la validación y el desarrollo de herramientas relacioandas, han [compartido el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) para analizar este fichero. 
+Google ha decidido **estandarizar el protocolo de exclusión del robots.txt**. Entre otras cosas la **directiva noindex queda anulada** y, para facilitar la validación y el desarrollo de herramientas relacionadas, han [compartido el código fuente que utilizan](https://webmasters.googleblog.com/2019/07/repp-oss.html) (open source) para analizar este fichero. 
 
 <amp-twitter 
   width="375"
@@ -23,7 +23,7 @@ Google ha decidido **estandarizar el protocolo de exclusión del robots.txt**; e
   data-tweetid="1145766318680858625">
 </amp-twitter>
 
-Gary avisa de que una mala configuración del robots.txt podría afectar al posicionamiento web  y que a partir del 1 de septiembre de 2019 [las configuraciones que no sigan el estándar serán ignoradas](https://webmasters.googleblog.com/2019/07/a-note-on-unsupported-rules-in-robotstxt.html).
+Gary avisa de que una mala configuración del robots.txt podría afectar al posicionamiento web ya que a partir del 1 de septiembre de 2019 [las configuraciones que no sigan el estándar serán ignoradas](https://webmasters.googleblog.com/2019/07/a-note-on-unsupported-rules-in-robotstxt.html).
 
 <amp-twitter 
   width="375"
@@ -62,8 +62,8 @@ Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especi
 
 Me gustaría destacar este [generador de datos estructurados de preguntas y respuestas](https://saijogeorge.com/json-ld-schema-generator/faq/). Simple y rápido. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwODgwNzYwLC0xNDkwODA1ODU3LC02OD
-gzMDg1NTgsLTY2NTEwNTM5LC0xMDczNzIzNTcxLC0xMDA0MjI4
-MzM2LC0xNDMyNzc2NzgwLDE3MDUwNTQyMzAsODExNjM4MDA1LC
-0yNjUwMzgyMzUsLTE2MjYwNjU4NjddfQ==
+eyJoaXN0b3J5IjpbLTE4MjEzMjU2MzYsLTE0OTA4MDU4NTcsLT
+Y4ODMwODU1OCwtNjY1MTA1MzksLTEwNzM3MjM1NzEsLTEwMDQy
+MjgzMzYsLTE0MzI3NzY3ODAsMTcwNTA1NDIzMCw4MTE2MzgwMD
+UsLTI2NTAzODIzNSwtMTYyNjA2NTg2N119
 -->
