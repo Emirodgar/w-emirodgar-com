@@ -4,7 +4,7 @@ description: Recopilación de noticias y enlaces de interés relacionados con el
 lang: es_ES
 author: Emirodgar
 tags: noticias
-date: 09/07/2019
+date: 11/07/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: noticias-seo/2019/julio
 
@@ -37,6 +37,17 @@ Gary avisa de que una mala configuración del robots.txt podría afectar al posi
 
 Nunca he sido muy fan de hacer disavow sin tener un problema de enlazado entre manos pero parece ser que [revisar periódicamente los enlaces tóxicos](https://www.seroundtable.com/amp/google-trust-algorithmic-links-27014.html) puede ayudarnos a que Google valore de forma positiva el resto.
 
+### Nuevas mejoras en GSC
+
+Search Console sigue recibiendo nuevas aunque pequeñas mejoras. Ahora podremos tener información acerca del motor de rastreo que nos ha indexado y cuándo pasó nuestra web a Mobile First Index.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1143891813662486528">
+</amp-twitter>
+
 ## Noticias varias
 
 ¿Ha llegado el momento de [dejar de utilizar el scroll infinito](http://www.invisionapp.com/inside-design/kill-infinite-scroll/) en las páginas web?. Yo creo que sí.
@@ -47,8 +58,8 @@ Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especi
 
 **Calidad frente a cantidad**. Una [campaña de content marketing efectiva](https://riseatseven.com/blog/building-link-campaigns-that-top-tier-journalists-love-for-a-brand-that-no-ones-heard-of-or-likes/) es posible si somos originales y sabemos analizar tendencias de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODMwODU1OCwtNjY1MTA1MzksLTEwNz
-M3MjM1NzEsLTEwMDQyMjgzMzYsLTE0MzI3NzY3ODAsMTcwNTA1
-NDIzMCw4MTE2MzgwMDUsLTI2NTAzODIzNSwtMTYyNjA2NTg2N1
-19
+eyJoaXN0b3J5IjpbLTE0OTA4MDU4NTcsLTY4ODMwODU1OCwtNj
+Y1MTA1MzksLTEwNzM3MjM1NzEsLTEwMDQyMjgzMzYsLTE0MzI3
+NzY3ODAsMTcwNTA1NDIzMCw4MTE2MzgwMDUsLTI2NTAzODIzNS
+wtMTYyNjA2NTg2N119
 -->
