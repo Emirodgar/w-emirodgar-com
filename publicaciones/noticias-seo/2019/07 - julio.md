@@ -57,9 +57,13 @@ Search Console sigue recibiendo nuevas aunque pequeñas mejoras. Ahora podremos 
 Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especialices](https://www.kevin-indig.com/become-a-specialist-if-you-want-a-career-in-digital-marketing/), así tendrás más y mejores oportunidades.
 
 **Calidad frente a cantidad**. Una [campaña de content marketing efectiva](https://riseatseven.com/blog/building-link-campaigns-that-top-tier-journalists-love-for-a-brand-that-no-ones-heard-of-or-likes/) es posible si somos originales y sabemos analizar tendencias de búsqueda.
+
+## Herramientas interesantes
+
+Me gustaría destacar este [generador de datos estructurados de preguntas y respuestas](https://saijogeorge.com/json-ld-schema-generator/faq/). Simple y rápido. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA4MDU4NTcsLTY4ODMwODU1OCwtNj
-Y1MTA1MzksLTEwNzM3MjM1NzEsLTEwMDQyMjgzMzYsLTE0MzI3
-NzY3ODAsMTcwNTA1NDIzMCw4MTE2MzgwMDUsLTI2NTAzODIzNS
-wtMTYyNjA2NTg2N119
+eyJoaXN0b3J5IjpbNDgwODgwNzYwLC0xNDkwODA1ODU3LC02OD
+gzMDg1NTgsLTY2NTEwNTM5LC0xMDczNzIzNTcxLC0xMDA0MjI4
+MzM2LC0xNDMyNzc2NzgwLDE3MDUwNTQyMzAsODExNjM4MDA1LC
+0yNjUwMzgyMzUsLTE2MjYwNjU4NjddfQ==
 -->
