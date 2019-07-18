@@ -56,14 +56,17 @@ Search Console sigue recibiendo nuevas aunque pequeñas mejoras. Ahora podremos 
 
 Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especialices](https://www.kevin-indig.com/become-a-specialist-if-you-want-a-career-in-digital-marketing/), así tendrás más y mejores oportunidades.
 
+Interesante artículo acerca de [cómo Bing "roba" tráfico orgánico a Google](https://www.tldrseo.com/bing-google-organic-traffic/).
+
 **Calidad frente a cantidad**. Una [campaña de content marketing efectiva](https://riseatseven.com/blog/building-link-campaigns-that-top-tier-journalists-love-for-a-brand-that-no-ones-heard-of-or-likes/) es posible si somos originales y sabemos analizar tendencias de búsqueda.
 
 ## Herramientas interesantes
 
 Me gustaría destacar este [generador de datos estructurados de preguntas y respuestas](https://saijogeorge.com/json-ld-schema-generator/faq/). Simple y rápido. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjEzMjU2MzYsLTE0OTA4MDU4NTcsLT
-Y4ODMwODU1OCwtNjY1MTA1MzksLTEwNzM3MjM1NzEsLTEwMDQy
-MjgzMzYsLTE0MzI3NzY3ODAsMTcwNTA1NDIzMCw4MTE2MzgwMD
-UsLTI2NTAzODIzNSwtMTYyNjA2NTg2N119
+eyJoaXN0b3J5IjpbMjA5MDUyNDQ0LC0xODIxMzI1NjM2LC0xND
+kwODA1ODU3LC02ODgzMDg1NTgsLTY2NTEwNTM5LC0xMDczNzIz
+NTcxLC0xMDA0MjI4MzM2LC0xNDMyNzc2NzgwLDE3MDUwNTQyMz
+AsODExNjM4MDA1LC0yNjUwMzgyMzUsLTE2MjYwNjU4NjddfQ==
+
 -->
