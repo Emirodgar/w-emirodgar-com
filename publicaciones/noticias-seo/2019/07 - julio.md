@@ -37,7 +37,16 @@ Gary avisa de que una mala configuración del robots.txt podría afectar al posi
 
 Nunca he sido muy fan de hacer disavow sin tener un problema de enlazado entre manos pero parece ser que [revisar periódicamente los enlaces tóxicos](https://www.seroundtable.com/amp/google-trust-algorithmic-links-27014.html) puede ayudarnos a que Google valore de forma positiva el resto.
 
-### La calid
+### ¿Google excluye muchas de tus URLs? no te preocupes
+
+Jonh ha confirmado vía Twitter que el hecho de que el robot de búsqueda excluya URLs de la indexación de nuestro sitio web no es un factor que afecte de ninguna forma a la calidad del sitio.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1149656887618486272">
+</amp-twitter>
 
 ### Nuevas mejoras en GSC
 
@@ -66,9 +75,9 @@ Interesante artículo acerca de [cómo Bing "roba" tráfico orgánico a Google](
 
 Me gustaría destacar este [generador de datos estructurados de preguntas y respuestas](https://saijogeorge.com/json-ld-schema-generator/faq/). Simple y rápido. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDIxNDk0OSwyMDkwNTI0NDQsLTE4Mj
-EzMjU2MzYsLTE0OTA4MDU4NTcsLTY4ODMwODU1OCwtNjY1MTA1
-MzksLTEwNzM3MjM1NzEsLTEwMDQyMjgzMzYsLTE0MzI3NzY3OD
-AsMTcwNTA1NDIzMCw4MTE2MzgwMDUsLTI2NTAzODIzNSwtMTYy
-NjA2NTg2N119
+eyJoaXN0b3J5IjpbLTExNDc2MDY0ODMsMjA5MDUyNDQ0LC0xOD
+IxMzI1NjM2LC0xNDkwODA1ODU3LC02ODgzMDg1NTgsLTY2NTEw
+NTM5LC0xMDczNzIzNTcxLC0xMDA0MjI4MzM2LC0xNDMyNzc2Nz
+gwLDE3MDUwNTQyMzAsODExNjM4MDA1LC0yNjUwMzgyMzUsLTE2
+MjYwNjU4NjddfQ==
 -->
