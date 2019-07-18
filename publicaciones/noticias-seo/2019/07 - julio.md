@@ -37,6 +37,8 @@ Gary avisa de que una mala configuración del robots.txt podría afectar al posi
 
 Nunca he sido muy fan de hacer disavow sin tener un problema de enlazado entre manos pero parece ser que [revisar periódicamente los enlaces tóxicos](https://www.seroundtable.com/amp/google-trust-algorithmic-links-27014.html) puede ayudarnos a que Google valore de forma positiva el resto.
 
+### La calid
+
 ### Nuevas mejoras en GSC
 
 Search Console sigue recibiendo nuevas aunque pequeñas mejoras. Ahora podremos tener información acerca del motor de rastreo que nos ha indexado y cuándo pasó nuestra web a Mobile First Index.
@@ -64,9 +66,9 @@ Interesante artículo acerca de [cómo Bing "roba" tráfico orgánico a Google](
 
 Me gustaría destacar este [generador de datos estructurados de preguntas y respuestas](https://saijogeorge.com/json-ld-schema-generator/faq/). Simple y rápido. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDUyNDQ0LC0xODIxMzI1NjM2LC0xND
-kwODA1ODU3LC02ODgzMDg1NTgsLTY2NTEwNTM5LC0xMDczNzIz
-NTcxLC0xMDA0MjI4MzM2LC0xNDMyNzc2NzgwLDE3MDUwNTQyMz
-AsODExNjM4MDA1LC0yNjUwMzgyMzUsLTE2MjYwNjU4NjddfQ==
-
+eyJoaXN0b3J5IjpbLTYyMDIxNDk0OSwyMDkwNTI0NDQsLTE4Mj
+EzMjU2MzYsLTE0OTA4MDU4NTcsLTY4ODMwODU1OCwtNjY1MTA1
+MzksLTEwNzM3MjM1NzEsLTEwMDQyMjgzMzYsLTE0MzI3NzY3OD
+AsMTcwNTA1NDIzMCw4MTE2MzgwMDUsLTI2NTAzODIzNSwtMTYy
+NjA2NTg2N119
 -->
