@@ -67,7 +67,7 @@ Search Console sigue recibiendo nuevas aunque pequeñas mejoras. Ahora podremos 
 
 Si quieres encontrar trabajo en el sector digital, [lo mejor será que te especialices](https://www.kevin-indig.com/become-a-specialist-if-you-want-a-career-in-digital-marketing/), así tendrás más y mejores oportunidades.
 
-Google ha publicado una guía básica para comprender [cómo afecta el Javascript al SEO técnico](https://developers.google.com/search/docs/guides/javascript-seo-basics) aunque me quedo con [estaponencia del MozCon](https://www.slideshare.net/paulshapiro/redefining-technical-seo-mozcon-2019-by-paul-shapiro).
+Google ha publicado una guía básica para comprender [cómo afecta el Javascript al SEO técnico](https://developers.google.com/search/docs/guides/javascript-seo-basics) aunque me quedo con [esta ponencia del #MozCon](https://www.slideshare.net/paulshapiro/redefining-technical-seo-mozcon-2019-by-paul-shapiro).
 
 Interesante artículo acerca de [cómo Bing "roba" tráfico orgánico a Google](https://www.tldrseo.com/bing-google-organic-traffic/).
 
@@ -77,7 +77,7 @@ Interesante artículo acerca de [cómo Bing "roba" tráfico orgánico a Google](
 
 Me gustaría destacar este [generador de datos estructurados de preguntas y respuestas](https://saijogeorge.com/json-ld-schema-generator/faq/). Simple y rápido. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NzYwNTQ4LC0xMTQ3NjA2NDgzLDIwOT
+eyJoaXN0b3J5IjpbLTE0Mzc0MjM1LC0xMTQ3NjA2NDgzLDIwOT
 A1MjQ0NCwtMTgyMTMyNTYzNiwtMTQ5MDgwNTg1NywtNjg4MzA4
 NTU4LC02NjUxMDUzOSwtMTA3MzcyMzU3MSwtMTAwNDIyODMzNi
 wtMTQzMjc3Njc4MCwxNzA1MDU0MjMwLDgxMTYzODAwNSwtMjY1
