@@ -73,13 +73,15 @@ Interesante artículo acerca de [cómo Bing "roba" tráfico orgánico a Google](
 
 **Calidad frente a cantidad**. Una [campaña de content marketing efectiva](https://riseatseven.com/blog/building-link-campaigns-that-top-tier-journalists-love-for-a-brand-that-no-ones-heard-of-or-likes/) es posible si somos originales y sabemos analizar tendencias de búsqueda.
 
+¿Sabías que puedes obtener una puntuación de 100/100 en Google Page Speed usando Wordpress? en este tutorial [detallan los pasos a seguir](https://nickleroy.com/blog-posts/wordpress-site-speed/).
+
 ## Herramientas interesantes
 
 Me gustaría destacar este [generador de datos estructurados de preguntas y respuestas](https://saijogeorge.com/json-ld-schema-generator/faq/). Simple y rápido. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc0MjM1LC0xMTQ3NjA2NDgzLDIwOT
-A1MjQ0NCwtMTgyMTMyNTYzNiwtMTQ5MDgwNTg1NywtNjg4MzA4
-NTU4LC02NjUxMDUzOSwtMTA3MzcyMzU3MSwtMTAwNDIyODMzNi
-wtMTQzMjc3Njc4MCwxNzA1MDU0MjMwLDgxMTYzODAwNSwtMjY1
-MDM4MjM1LC0xNjI2MDY1ODY3XX0=
+eyJoaXN0b3J5IjpbLTE5NjU0MjQ4NDksLTExNDc2MDY0ODMsMj
+A5MDUyNDQ0LC0xODIxMzI1NjM2LC0xNDkwODA1ODU3LC02ODgz
+MDg1NTgsLTY2NTEwNTM5LC0xMDczNzIzNTcxLC0xMDA0MjI4Mz
+M2LC0xNDMyNzc2NzgwLDE3MDUwNTQyMzAsODExNjM4MDA1LC0y
+NjUwMzgyMzUsLTE2MjYwNjU4NjddfQ==
 -->
