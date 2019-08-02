@@ -38,7 +38,7 @@ Trabajamos con la idea de que hace uso de unos 200 [factores SEO](/factores-seo)
 
 Un par de veces al año Google renueva - de forma oficial- su algoritmo de búsqueda; no obstante, y como ellos reconocen, extraoficialmente puede sufrir en torno al centenar de cambios anuales.
 
-
+> Google ha explicado en detalle [qué implica un 'core update'](https://webmasters.googleblog.com/2019/08/core-updates.html) y las diferencias existentes respecto a otras actualizaciones de su algoritmo.
 
 Últimamente anuncian estos cambios a través de la cuenta de Twitter de [Searchliaison](https://twitter.com/searchliaison) por lo que recomiendo seguirla para estar al tanto.
 
@@ -75,5 +75,5 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
 En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es) o [Zeo Tools](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl).  Nos ayudarán a cruzar nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUwOTAwOTRdfQ==
+eyJoaXN0b3J5IjpbMjE0NDMxNTkyMl19
 -->
