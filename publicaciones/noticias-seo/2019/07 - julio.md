@@ -59,6 +59,10 @@ Search Console sigue recibiendo nuevas aunque pequeñas mejoras. Ahora podremos 
   data-tweetid="1143891813662486528">
 </amp-twitter>
 
+### ¿Qué es un core update?
+
+La última actualización de Google (julio 2019) generó muchas dudas al tratarse de un core up
+
 ## Noticias varias
 
 ¿Ha llegado el momento de [dejar de utilizar el scroll infinito](http://www.invisionapp.com/inside-design/kill-infinite-scroll/) en las páginas web?. Yo creo que sí.
@@ -79,9 +83,9 @@ Interesante artículo acerca de [cómo Bing "roba" tráfico orgánico a Google](
 
 Me gustaría destacar este [generador de datos estructurados de preguntas y respuestas](https://saijogeorge.com/json-ld-schema-generator/faq/). Simple y rápido. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjU0MjQ4NDksLTExNDc2MDY0ODMsMj
-A5MDUyNDQ0LC0xODIxMzI1NjM2LC0xNDkwODA1ODU3LC02ODgz
-MDg1NTgsLTY2NTEwNTM5LC0xMDczNzIzNTcxLC0xMDA0MjI4Mz
-M2LC0xNDMyNzc2NzgwLDE3MDUwNTQyMzAsODExNjM4MDA1LC0y
-NjUwMzgyMzUsLTE2MjYwNjU4NjddfQ==
+eyJoaXN0b3J5IjpbMTY0Njk1NzAyNCwtMTk2NTQyNDg0OSwtMT
+E0NzYwNjQ4MywyMDkwNTI0NDQsLTE4MjEzMjU2MzYsLTE0OTA4
+MDU4NTcsLTY4ODMwODU1OCwtNjY1MTA1MzksLTEwNzM3MjM1Nz
+EsLTEwMDQyMjgzMzYsLTE0MzI3NzY3ODAsMTcwNTA1NDIzMCw4
+MTE2MzgwMDUsLTI2NTAzODIzNSwtMTYyNjA2NTg2N119
 -->
