@@ -61,7 +61,7 @@ Search Console sigue recibiendo nuevas aunque pequeñas mejoras. Ahora podremos 
 
 ### ¿Qué es un core update?
 
-La última actualización de Google (julio 2019) generó muchas dudas al tratarse de un core up
+La última actualización de Google (julio 2019) generó muchas dudas al tratarse de un 'core update' sobre el que nos decían que no había mucho que hacer. Para arrojar algo más de luz, han generado una publicación en la que explican las [diferencias respecto al resto de cambios de algoritmo](https://webmasters.googleblog.com/2019/08/core-updates.html).
 
 ## Noticias varias
 
@@ -83,7 +83,7 @@ Interesante artículo acerca de [cómo Bing "roba" tráfico orgánico a Google](
 
 Me gustaría destacar este [generador de datos estructurados de preguntas y respuestas](https://saijogeorge.com/json-ld-schema-generator/faq/). Simple y rápido. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Njk1NzAyNCwtMTk2NTQyNDg0OSwtMT
+eyJoaXN0b3J5IjpbLTE3NDc2MDgwOCwtMTk2NTQyNDg0OSwtMT
 E0NzYwNjQ4MywyMDkwNTI0NDQsLTE4MjEzMjU2MzYsLTE0OTA4
 MDU4NTcsLTY4ODMwODU1OCwtNjY1MTA1MzksLTEwNzM3MjM1Nz
 EsLTEwMDQyMjgzMzYsLTE0MzI3NzY3ODAsMTcwNTA1NDIzMCw4
