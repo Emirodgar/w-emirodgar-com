@@ -2,7 +2,7 @@
 title: El SEO y los cambios de algoritmo de Google
 description: No es un factor SEO directo pero sí puede afectar a nuestra estrategia de posicionamiento web
 image: https://emirodgar.com/cdn/images/og/auditoria.png
-date: 05/06/2019
+date: 02/08/2019
 author: Emirodgar
 tags: seo, auditoría
 lang: es_ES
@@ -38,7 +38,10 @@ Trabajamos con la idea de que hace uso de unos 200 [factores SEO](/factores-seo)
 
 Un par de veces al año Google renueva - de forma oficial- su algoritmo de búsqueda; no obstante, y como ellos reconocen, extraoficialmente puede sufrir en torno al centenar de cambios anuales.
 
+
+
 Últimamente anuncian estos cambios a través de la cuenta de Twitter de [Searchliaison](https://twitter.com/searchliaison) por lo que recomiendo seguirla para estar al tanto.
+
 
 
 ## <a name="tipos-cambio-algoritmo"></a>¿Qué tipos de cambios de algoritmo existen?
@@ -72,5 +75,5 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
 En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es) o [Zeo Tools](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl).  Nos ayudarán a cruzar nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ1OTgxNDVdfQ==
+eyJoaXN0b3J5IjpbLTExNzUwOTAwOTRdfQ==
 -->
