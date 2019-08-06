@@ -12,7 +12,9 @@ permalink: noticias-seo/2019/agosto
 
 # Noticias SEO agosto 2019
 
-Comenzamos con varias confirmaciones interesantes por parte de Google. Por un lado, John nos indica que no sacaremos ningún beneficio si ponemos como nofollo
+Comenzamos con varias confirmaciones interesantes por parte de Google. Por un lado, John nos indica que [no sacaremos ningún beneficio si ponemos como nofollow todos los enlaces externos](https://www.searchenginejournal.com/googles-john-mueller-no-benefit-to-marking-all-outbound-links-as-nofollow/319069/).
+
+Por otro lado, y esto creo que es de gran interés para muchos SEos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTQ2MTQyMV19
+eyJoaXN0b3J5IjpbLTI5MDIxNTM1MV19
 -->
