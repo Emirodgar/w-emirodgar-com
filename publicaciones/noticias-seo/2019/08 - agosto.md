@@ -16,7 +16,7 @@ Comenzamos con varias confirmaciones interesantes por parte de Google. Por un la
 
 Por otro lado, y esto creo que es de gran interés para muchos SEOs, [el número de veces que aparece una palabra clave dentro de un contenido no es un factor SEO](https://www.seroundtable.com/google-word-count-is-not-a-ranking-factor-27994.html).
 
-Podemos quitarnos de encima esa obsesión por calcular los porcentajes de palabras clave. Mejor apostemos por un contenido de calidad, bien estructurado
+Podemos quitarnos de encima esa obsesión por calcular los porcentajes de palabras clave. Mejor apostemos por un contenido de calidad, bien estructurado y que **aporte valor y contexto a los usuarios**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjUyNjEyNjZdfQ==
+eyJoaXN0b3J5IjpbLTEzODQwOTAzNzRdfQ==
 -->
