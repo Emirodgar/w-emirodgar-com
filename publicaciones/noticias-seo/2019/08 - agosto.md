@@ -14,7 +14,9 @@ permalink: noticias-seo/2019/agosto
 
 Comenzamos con varias confirmaciones interesantes por parte de Google. Por un lado, John nos indica que [no sacaremos ningún beneficio si ponemos como nofollow todos los enlaces externos](https://www.searchenginejournal.com/googles-john-mueller-no-benefit-to-marking-all-outbound-links-as-nofollow/319069/).
 
-Por otro lado, y esto creo que es de gran interés para muchos SEos
+Por otro lado, y esto creo que es de gran interés para muchos SEOs, [el número de veces que aparece una palabra clave dentro de un contenido no es un factor SEO](https://www.seroundtable.com/google-word-count-is-not-a-ranking-factor-27994.html).
+
+Podemos quitarnos de encima esa obsesión por calcular los porcentajes de palabras clave. Mejor apostemos por un contenido de calidad, bien estructurado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDIxNTM1MV19
+eyJoaXN0b3J5IjpbLTE3MjUyNjEyNjZdfQ==
 -->
