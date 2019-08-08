@@ -28,6 +28,9 @@ Google ha [actualizado el motor de renderizado a todas sus herramientas](https:/
 ## Por una web más rápida
 
 [La carga de imágenes bajo demanda (LazyLoad) será una realidad en las próximas versiones de Chrome](https://web.dev/native-lazy-loading). Hasta ahora teníamos que incluir librerías externas y "programar" esta funcionalidad para evitar descargas innecesarias.
+
+Si haces uso de AMP ahora también podrás [mejorar su rendimiento aplicando un SSR](https://blog.amp.dev/2019/08/07/faster-amp-on-the-origin-amp-ssr/) (renderizado a nivel de servidor).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzkwNTUwOSwzNTgxODk0NzRdfQ==
+eyJoaXN0b3J5IjpbLTEwOTcwNDE0NDUsLTY4MzkwNTUwOSwzNT
+gxODk0NzRdfQ==
 -->
