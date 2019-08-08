@@ -4,7 +4,7 @@ description: Recopilación de noticias y enlaces de interés relacionados con el
 lang: es_ES
 author: Emirodgar
 tags: noticias
-date: 06/08/2019
+date: 08/08/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: noticias-seo/2019/agosto
 
@@ -24,6 +24,10 @@ Google ha [actualizado el motor de renderizado a todas sus herramientas](https:/
  -  Mobile Test
  - Validador AMP 
  - Validador de Datos Estructurados 
+
+## Por una web más rápida
+
+[La carga de imágenes bajo demanda (LazyLoad) será una realidad en las próximas versiones de Chrome](https://web.dev/native-lazy-loading). Hasta ahora teníamos que incluir librerías externas y "programar" esta funcionalidad para evitar descargas innecesarias.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MTg5NDc0XX0=
+eyJoaXN0b3J5IjpbLTY4MzkwNTUwOSwzNTgxODk0NzRdfQ==
 -->
