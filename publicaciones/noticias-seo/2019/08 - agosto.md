@@ -4,7 +4,7 @@ description: Recopilación de noticias y enlaces de interés relacionados con el
 lang: es_ES
 author: Emirodgar
 tags: noticias
-date: 08/08/2019
+date: 13/08/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: noticias-seo/2019/agosto
 
@@ -25,12 +25,14 @@ Google ha [actualizado el motor de renderizado a todas sus herramientas](https:/
  - Validador AMP 
  - Validador de Datos Estructurados 
 
+Por último, haciendo referencia a todos los *bugs* y fallos que han experimentado los últimos meses, Google ha sacado un artículo [explicando qué ha ocurrido y porqué](https://webmasters.googleblog.com/2019/08/when-indexing-goes-wrong-how-google.html).
+
 ## Por una web más rápida
 
 [La carga de imágenes bajo demanda (LazyLoad) será una realidad en las próximas versiones de Chrome](https://web.dev/native-lazy-loading). Hasta ahora teníamos que incluir librerías externas y "programar" esta funcionalidad para evitar descargas innecesarias.
 
 Si haces uso de AMP ahora también podrás [mejorar su rendimiento aplicando un SSR](https://blog.amp.dev/2019/08/07/faster-amp-on-the-origin-amp-ssr/) (renderizado a nivel de servidor).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTcwNDE0NDUsLTY4MzkwNTUwOSwzNT
-gxODk0NzRdfQ==
+eyJoaXN0b3J5IjpbMTcyODAzNjU0NSwtMTA5NzA0MTQ0NSwtNj
+gzOTA1NTA5LDM1ODE4OTQ3NF19
 -->
