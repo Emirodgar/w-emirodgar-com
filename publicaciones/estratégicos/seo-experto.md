@@ -14,7 +14,7 @@ permalink: seo-experto
 
 Durante los más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportunidad de trabajar, formar y dirigir varios equipos de SEOs.
 
-En esta publicación pretendo tratar los aspectos de calidad que, en mi opinión, diferencia un SEO 
+En esta publicación pretendo tratar los aspectos de calidad que, en mi opinión, caracterizan a un **SEO experto**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzY2MDM2OCwyNzkyNjY3NjJdfQ==
+eyJoaXN0b3J5IjpbMTExMDYwMDA2NSwyNzkyNjY3NjJdfQ==
 -->
