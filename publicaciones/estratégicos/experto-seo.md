@@ -56,6 +56,8 @@ Dentro del marketing de contenidos tendremos que probar hasta dar con el formato
  - Enlazado interno y externo.
  - Calendarios de publicación y categorización.
 
+> Los [títulos son un factor SEO importante](https://emirodgar.com/titulos-descripciones-seo) que debemos trabajar en cualquier estrategia.
+
 Recomiendo hacer uso de aplicaciones como Hotjar o CrazyEgg para **analizar el comportamiento de nuestros usuarios** y aplicar estrategias de contenido más personalizadas. Aspectos de [usabilidad web](https://goodui.org/) también son importantes para asegurar una buena experiencia a nuestros visitantes.
 
 ### Incrementar enlaces y popularidad
@@ -82,5 +84,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTgwNTgzMl19
+eyJoaXN0b3J5IjpbMTU1MDQ4NjQ5MF19
 -->
