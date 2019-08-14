@@ -56,7 +56,7 @@ Dentro del marketing de contenidos tendremos que probar hasta dar con el formato
  - Enlazado interno y externo.
  - Calendarios de publicación y categorización.
 
-Recomiendo hacer uso de aplicaciones como Hotjar o CrazyEgg para **analizar el comportamiento de nuestros usuarios** y aplicar estrategias de contenido más personalizadas.
+Recomiendo hacer uso de aplicaciones como Hotjar o CrazyEgg para **analizar el comportamiento de nuestros usuarios** y aplicar estrategias de contenido más personalizadas. Aspectos de [usabilidad web](https://goodui.org/) también son importantes para asegurar una buena experiencia a nuestros visitantes.
 
 ### Incrementar enlaces y popularidad
 
@@ -70,7 +70,7 @@ Por unanimidad podríamos decir que [Google Analytics](https://analytics.google.
 
 Si queremos desarrollar una estrategia SEO efectiva necesitaremos medir y entender el comportamiento que nuestras acciones generan en el sitio.
 
-Recomiendo comenzar la 
+Recomiendo comenzar con la [guía para principiantes de Google Analytics](https://www.youtube.com/watch?v=P3V01bDbIR0) y después pasar a las [funcionalidades más avanzadas](https://analytics.google.com/analytics/academy/course/7).
 
 ## Consejos importantes
 
@@ -82,5 +82,5 @@ Recomiendo comenzar la
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTUzODM5NV19
+eyJoaXN0b3J5IjpbNDM1MzE0MTY4XX0=
 -->
