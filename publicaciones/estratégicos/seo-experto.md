@@ -42,10 +42,10 @@ Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial a
 
 ###  Generar contenido de calidad
 
-Quizá una de las guías más completas la encontremos de la mano de Moz: 
+Quizá una de las guías más completas sea la de [Marketing de contenidos para principiantes](https://moz.com/beginners-guide-to-content-marketing). Nos ayudará a tener una base sólida aunque será necesario adquirir experiencia para poder llegar a generar contenidos de calidad que aporten valor y contexto a los visitantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwMzQyNDU3LC0xOTYyNjE5Nzc5LDE5ND
+eyJoaXN0b3J5IjpbNzcwMjgyOTA4LC0xOTYyNjE5Nzc5LDE5ND
 AwNzM0NTEsMTQ0MjQ3Mjk1NCwtMTEzNTMyNDgwMSwxNDkyNTIz
 ODIzLDExMTA2MDAwNjUsMjc5MjY2NzYyXX0=
 -->
