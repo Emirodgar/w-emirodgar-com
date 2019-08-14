@@ -6,7 +6,7 @@ author: Emirodgar
 tags: estrategico
 date: 14/08/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: experto-seo
+permalink: seo-experto
 
 ---
 
@@ -82,5 +82,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1MzE0MTY4XX0=
+eyJoaXN0b3J5IjpbLTgwMTgwNTgzMl19
 -->
