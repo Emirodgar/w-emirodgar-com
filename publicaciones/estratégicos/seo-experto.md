@@ -18,8 +18,12 @@ Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportun
 
 Un SEO con conocimientos avanzados en todas las áreas que afectan al posicionamiento web: técnico, contenidos y enlaces.
 
-¿Qué se necesita para ser un **SEO experto**?
+## ¿Qué se necesita para ser un SEO experto?
+
+- Conocimientos básicos de HTML
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjQ3Mjk1NCwtMTEzNTMyNDgwMSwxND
-kyNTIzODIzLDExMTA2MDAwNjUsMjc5MjY2NzYyXX0=
+eyJoaXN0b3J5IjpbMTk0MDA3MzQ1MSwxNDQyNDcyOTU0LC0xMT
+M1MzI0ODAxLDE0OTI1MjM4MjMsMTExMDYwMDA2NSwyNzkyNjY3
+NjJdfQ==
 -->
