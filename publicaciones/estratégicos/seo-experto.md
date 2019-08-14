@@ -10,7 +10,7 @@ permalink: experto-seo
 
 ---
 
-# Cómo convertirse en un Experto en
+# Cómo convertirse en un Experto en SEO
 
 Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportunidad de trabajar, formar y dirigir departamentos SEO en varias agencias digitales. Me gustaría dar mi visión sobre los aspectos de calidad que, en mi opinión, caracterizan a un **SEO experto** y cómo podríamos alcanzar ese nivel.
 
@@ -18,7 +18,7 @@ Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportun
 
 Un SEO con **conocimientos avanzados** en todas las áreas que afectan al posicionamiento web: técnico, contenidos y enlaces. Con **visión global** y **capacidad estratégica** para diseñar y adaptar cualquier acción que sea necesaria dentro del flujo de trabajo actual.
 
-## ¿Qué se necesita para ser un SEO experto?
+## ¿Qué se necesita para ser un experto en SEO?
 
 ### Entender cómo funcionan los motores de búsqueda
 
@@ -46,6 +46,8 @@ Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial a
 
 Quizá una de las guías más completas sea la de [Marketing de contenidos para principiantes](https://moz.com/beginners-guide-to-content-marketing). Nos ayudará a tener una base sólida aunque será necesario adquirir experiencia para poder llegar a generar contenidos de calidad que aporten valor y contexto a los visitantes.
 
+Recomiendo hacer uso de aplicaciones como Hotjar o CrazyEgg para analizar el comportamiento de nuestros usuarios y aplicar estrategias de contenido más útiles.
+
 ### Incrementar enlaces y popularidad
 
 Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son básicas y bien conocidas por -casi- todos. Si has hecho todos los puntos anteriores de forma correcta seguramente los puedas incrementar de forma natural, no obstante, siempre se hace necesario apostar por estrategias proactivas que nos permitan incrementar el número de enlaces de calidad hacia nuestras páginas.
@@ -66,8 +68,8 @@ Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son bási
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgzMDU3MjEsLTE0OTMwMTg2OTUsLT
-E5NjI2MTk3NzksMTk0MDA3MzQ1MSwxNDQyNDcyOTU0LC0xMTM1
-MzI0ODAxLDE0OTI1MjM4MjMsMTExMDYwMDA2NSwyNzkyNjY3Nj
-JdfQ==
+eyJoaXN0b3J5IjpbMTU2NTc3MDUxMywtMTQ5MzAxODY5NSwtMT
+k2MjYxOTc3OSwxOTQwMDczNDUxLDE0NDI0NzI5NTQsLTExMzUz
+MjQ4MDEsMTQ5MjUyMzgyMywxMTEwNjAwMDY1LDI3OTI2Njc2Ml
+19
 -->
