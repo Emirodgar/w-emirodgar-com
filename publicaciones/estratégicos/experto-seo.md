@@ -30,6 +30,7 @@ Recomiendo la lectura de [cómo funcionan las motores de búsqueda](https://www.
 
 Para poder posicionar los buscadores hacen uso de múltiples [factores SEO](/factores-seo) (en torno a los 200). Una de las mejores recopilaciones la encontramos en la [tabla periódica SEO](https://searchengineland.com/seotable).
 
+Estos factores pueden ir cambiando a lo largo de las múltiples [actualizaciones de algoritmo](https://emirodgar.com/cambio-algoritmo-google) por lo que es vital conocer cómo funcionan.
 
 ### Conocimientos técnicos básicos
 
@@ -85,5 +86,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDcxNDg2MCwxNTUwNDg2NDkwXX0=
+eyJoaXN0b3J5IjpbMTU5MTE0NzA5OCwxNTUwNDg2NDkwXX0=
 -->
