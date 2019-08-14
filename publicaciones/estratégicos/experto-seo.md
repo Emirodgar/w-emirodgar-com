@@ -14,6 +14,8 @@ permalink: seo-experto
 
 Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportunidad de trabajar, formar y dirigir departamentos SEO en varias agencias digitales. Me gustaría dar mi visión sobre los aspectos de calidad que, en mi opinión, caracterizan a un **SEO experto** y cómo podríamos alcanzar ese nivel.
 
+> Lectura relacionada: [7 habilidades de un buen SEO](https://emirodgar.com/habilidades-seo)
+
 > Estos han sido mis principales [casos de éxito SEO](https://emirodgar.com/casos-exito-seo).
 
 ## ¿Qué debemos considerar como un SEO experto?
@@ -45,6 +47,8 @@ A nivel de servidor web no es necesario profundizar mucho pero sí tener claros 
 ###  Controlar la indexación
 
 Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial analizar y establecer **qué páginas queremos que se indexen y cuáles no**.
+
+[Desindexar URLs](https://emirodgar.com/eliminar-url-google) que no aportan nada nos ayudará a aprovechar mejor el tiempo que el robot de búsqueda pasa en nuestro sitio y nos aseguraremos de que ve lo importante.
 
 ###  Generar contenido de calidad
 
@@ -86,5 +90,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTE0NzA5OCwxNTUwNDg2NDkwXX0=
+eyJoaXN0b3J5IjpbMjg5MzQ4Njc1LDE1NTA0ODY0OTBdfQ==
 -->
