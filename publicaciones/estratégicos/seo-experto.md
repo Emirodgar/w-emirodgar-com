@@ -40,12 +40,17 @@ Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.
 
 Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial analizar y establecer **qué páginas queremos que se indexen y cuáles no**.
 
+###  Optimizar la base SEO de una página
+
 ###  Generar contenido de calidad
 
 Quizá una de las guías más completas sea la de [Marketing de contenidos para principiantes](https://moz.com/beginners-guide-to-content-marketing). Nos ayudará a tener una base sólida aunque será necesario adquirir experiencia para poder llegar a generar contenidos de calidad que aporten valor y contexto a los visitantes.
 
+### Incrementar enlaces y popularidad
+
+Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son básicas y bien conocidas por -casi- todos. Si has hecho todos los puntos anteriores de forma correcta seguramente los pue
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMjgyOTA4LC0xOTYyNjE5Nzc5LDE5ND
+eyJoaXN0b3J5IjpbNDYxNDM2ODI1LC0xOTYyNjE5Nzc5LDE5ND
 AwNzM0NTEsMTQ0MjQ3Mjk1NCwtMTEzNTMyNDgwMSwxNDkyNTIz
 ODIzLDExMTA2MDAwNjUsMjc5MjY2NzYyXX0=
 -->
