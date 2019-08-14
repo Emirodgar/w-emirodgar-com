@@ -82,7 +82,7 @@ Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son bási
 
 >¿Quieres saber de dónde sacan tus competidores sus enlaces? [sigue esta guía de Ahrefs](https://ahrefs.com/blog/the-ultimate-guide-to-reverse-engineering-your-competitors-backlinks/).
 
-Si trabajamos de forma local, se hace imprescindible crear un perfil en Google My Business y potenciar las relaciones con empresas de la misma ciudad o región. Éste vídeo nos dará una [visión global acerca del SEO local](https://www.youtube.com/watch?v=pQSVsHvpTTA) y cómo potenciarlo.
+Si trabajamos el [SEO local](https://emirodgar.com/posicionamiento-seo-local), se hace imprescindible crear un perfil en Google My Business y potenciar las relaciones con empresas de la misma ciudad o región. Éste vídeo nos dará una [visión global acerca del SEO local](https://www.youtube.com/watch?v=pQSVsHvpTTA) y cómo potenciarlo.
 
 ###  Medir el impacto de nuestros cambios
 
@@ -102,6 +102,7 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUxMjAzMjgsLTEyMTk3OTU1NzAsMT
-cwNzEwODQ4OSwtMTE0NjM1NzkzNiwxNTUwNDg2NDkwXX0=
+eyJoaXN0b3J5IjpbMzYzMDcyMTQ1LC0yMTQ1MTIwMzI4LC0xMj
+E5Nzk1NTcwLDE3MDcxMDg0ODksLTExNDYzNTc5MzYsMTU1MDQ4
+NjQ5MF19
 -->
