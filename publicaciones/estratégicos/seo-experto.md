@@ -20,10 +20,14 @@ Un SEO con conocimientos avanzados en todas las áreas que afectan al posicionam
 
 ## ¿Qué se necesita para ser un SEO experto?
 
-- Conocimientos básicos de HTML
+### Conocimientos básicos de HTML
+
+Los robots de búsqueda no ven los sitios web como un humano, sino que acceden al código fuente y es en lo que se basan para su incorporación al índice de búsqueda y posterior posicionamiento.
+
+Entender lo básico acerca de cómo funciona una página web
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDA3MzQ1MSwxNDQyNDcyOTU0LC0xMT
-M1MzI0ODAxLDE0OTI1MjM4MjMsMTExMDYwMDA2NSwyNzkyNjY3
-NjJdfQ==
+eyJoaXN0b3J5IjpbMTA0MzgyNTkxLDE5NDAwNzM0NTEsMTQ0Mj
+Q3Mjk1NCwtMTEzNTMyNDgwMSwxNDkyNTIzODIzLDExMTA2MDAw
+NjUsMjc5MjY2NzYyXX0=
 -->
