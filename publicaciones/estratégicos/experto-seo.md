@@ -43,7 +43,7 @@ Los robots de búsqueda no ven los sitios web como un humano, sino que acceden a
 
 Entender lo básico acerca de cómo funciona una página web es crucial para poder abordar mejoras a nivel SEO técnico.
 
-Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html) y a esta guía sobre [cómo afecta el renderizado Javascript al SEO](https://www.onely.com/blog/ultimate-guide-javascript-seo/). 
+Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html) y a esta guía sobre [cómo afecta el renderizado Javascript al SEO](https://www.onely.com/blog/ultimate-guide-javascript-seo/). Dos aspectos importantes a día de hoy.
 
 A nivel de servidor web no es necesario profundizar mucho pero sí tener claros los [aspectos del hosting que pueden afectar al SEO](https://emirodgar.com/hosting-seo).
 
@@ -60,9 +60,9 @@ Google [indexa primero con su algoritmo para páginas móviles](https://develope
 
 ###  Generar contenido de calidad
 
-Quizá una de las guías más completas sea la de [Marketing de contenidos para principiantes](https://moz.com/beginners-guide-to-content-marketing). Nos ayudará a tener una base sólida aunque será necesario adquirir experiencia para poder llegar a generar contenidos de calidad que aporten valor y contexto a los visitantes.
+Quizá una de las guías más completas sea la de [Marketing de contenidos para principiantes](https://moz.com/beginners-guide-to-content-marketing). Nos ayudará a tener una base sólida aunque será necesario adquirir experiencia para poder llegar a generar contenidos de calidad que **aporten valor** y **contexto** a los visitantes.
 
-Dentro del marketing de contenidos tendremos que probar hasta dar con el formato idóneo que más captación y conversión nos aporta. Para ello podemos probar aspectos como:
+Dentro del marketing de contenidos tendremos que probar hasta dar con el f**ormato idóneo** que más captación y conversión nos aporte. Para ello podemos probar aspectos como:
 
  - Tipo de títulos (palabras clave, CTR, etc.).
  - Formato de contenidos (longitud, tipo de redacción, etc.).
@@ -104,6 +104,6 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDM5NjU0NywtMTIxOTc5NTU3MCwxNz
-A3MTA4NDg5LC0xMTQ2MzU3OTM2LDE1NTA0ODY0OTBdfQ==
+eyJoaXN0b3J5IjpbLTEzOTA3OTE0MzEsLTEyMTk3OTU1NzAsMT
+cwNzEwODQ4OSwtMTE0NjM1NzkzNiwxNTUwNDg2NDkwXX0=
 -->
