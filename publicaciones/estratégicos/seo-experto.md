@@ -12,7 +12,7 @@ permalink: seo-experto
 
 # Cómo convertirse en un SEO Experto
 
-Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportunidad de trabajar, formar y dirigir varios equipos de SEOs. En esta publicación pretendo tratar los aspectos de calidad que, en mi opinión, caracterizan a un **SEO experto**.
+Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportunidad de trabajar, formar y dirigir a varios departamentos SEO en. En esta publicación pretendo tratar los aspectos de calidad que, en mi opinión, caracterizan a un **SEO experto**.
 
 ## ¿Qué debemos considerar como un SEO experto?
 
@@ -35,7 +35,7 @@ Entender lo básico acerca de cómo funciona una página web es crucial para pod
 > Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDY3NDg2LDE5NDAwNzM0NTEsMTQ0Mj
-Q3Mjk1NCwtMTEzNTMyNDgwMSwxNDkyNTIzODIzLDExMTA2MDAw
-NjUsMjc5MjY2NzYyXX0=
+eyJoaXN0b3J5IjpbMTgyMzM3NjEyMSwxOTQwMDczNDUxLDE0ND
+I0NzI5NTQsLTExMzUzMjQ4MDEsMTQ5MjUyMzgyMywxMTEwNjAw
+MDY1LDI3OTI2Njc2Ml19
 -->
