@@ -78,13 +78,11 @@ Por último -pero no menos importante- necesitamos apostar por datos estructurad
 
 ### Incrementar enlaces y popularidad
 
-Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son básicas y bien conocidas por -casi- todos. Si has hecho todos los puntos anteriores de forma correcta seguramente los puedas incrementar de forma natural, no obstante, siempre se hace necesario apostar por estrategias proactivas que nos permitan incrementar el número de enlaces de calidad hacia nuestras páginas.
+Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son básicas y bien conocidas por -casi- todos. Si has hecho todos los puntos anteriores de forma correcta seguramente los puedas **incrementar de forma natural**, no obstante, siempre se hace necesario apostar por estrategias proactivas que nos permitan **incrementar el número de enlaces de calidad hacia nuestras páginas**.
 
 >¿Quieres saber de dónde sacan tus competidores sus enlaces? [sigue esta guía de Ahrefs](https://ahrefs.com/blog/the-ultimate-guide-to-reverse-engineering-your-competitors-backlinks/).
 
-Si trabajamos de forma local, se hace imprescindible crear un perfil en Google My Business y potenciar las relaciones con empresas de la misma ciudad o región. Éste vídeo nos dará una [visión global acerca del SEO local](https://www.youtube.com/watch?v=pQSVsHvpTTA).
-
-
+Si trabajamos de forma local, se hace imprescindible crear un perfil en Google My Business y potenciar las relaciones con empresas de la misma ciudad o región. Éste vídeo nos dará una [visión global acerca del SEO local](https://www.youtube.com/watch?v=pQSVsHvpTTA) y cómo potenciarlo.
 
 ###  Medir el impacto de nuestros cambios
 
@@ -104,6 +102,6 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA3OTE0MzEsLTEyMTk3OTU1NzAsMT
+eyJoaXN0b3J5IjpbLTIxNDUxMjAzMjgsLTEyMTk3OTU1NzAsMT
 cwNzEwODQ4OSwtMTE0NjM1NzkzNiwxNTUwNDg2NDkwXX0=
 -->
