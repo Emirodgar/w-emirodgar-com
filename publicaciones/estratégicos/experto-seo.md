@@ -30,13 +30,15 @@ Recomiendo la lectura de [cómo funcionan las motores de búsqueda](https://www.
 
 Para poder posicionar los buscadores hacen uso de múltiples [factores SEO](/factores-seo) (en torno a los 200). Una de las mejores recopilaciones la encontramos en la [tabla periódica SEO](https://searchengineland.com/seotable).
 
-### Conocimientos básicos de HTML
+### Conocimientos técnicos básicos
 
 Los robots de búsqueda no ven los sitios web como un humano, sino que acceden al **código fuente** y es en lo que se basan para su incorporación al índice de búsqueda y posterior posicionamiento.
 
 Entender lo básico acerca de cómo funciona una página web es crucial para poder abordar mejoras a nivel SEO técnico.
 
-Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html)
+Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html). 
+
+A nivel de servidor web no es necesario profundizar mucho pero sí tener claros los [aspectos del hosting que pueden afectar al SEO](https://emirodgar.com/hosting-seo).
 
 ###  Controlar la indexación
 
@@ -78,5 +80,5 @@ Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son bási
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODg3OTc0Nl19
+eyJoaXN0b3J5IjpbMTY5MzAxOTcwMV19
 -->
