@@ -26,6 +26,8 @@ No puedes trabajar en SEO sin tener conocimiento de qué es un robot de búsqued
 
 Recomiendo la lectura de [cómo funcionan las motores de búsqueda](https://www.google.com/search/howsearchworks/) de Google o el [vídeo explicativo de Matt Cutts](https://www.youtube.com/watch?v=KyCYyoGusqs).
 
+Para poder posicionar los buscadores hacen uso de múltiples [factores SEO](/factores-seo) (en torno a los 200). Una de las mejores recopilaciones la encontramos en la [tabla periódica SEO](https://searchengineland.com/seotable).
+
 ### Conocimientos básicos de HTML
 
 Los robots de búsqueda no ven los sitios web como un humano, sino que acceden al **código fuente** y es en lo que se basan para su incorporación al índice de búsqueda y posterior posicionamiento.
@@ -35,7 +37,7 @@ Entender lo básico acerca de cómo funciona una página web es crucial para pod
 Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxOTcyNTI5LC0xOTYyNjE5Nzc5LDE5ND
-AwNzM0NTEsMTQ0MjQ3Mjk1NCwtMTEzNTMyNDgwMSwxNDkyNTIz
-ODIzLDExMTA2MDAwNjUsMjc5MjY2NzYyXX0=
+eyJoaXN0b3J5IjpbLTE2NTg1NDMzMDMsLTE5NjI2MTk3NzksMT
+k0MDA3MzQ1MSwxNDQyNDcyOTU0LC0xMTM1MzI0ODAxLDE0OTI1
+MjM4MjMsMTExMDYwMDA2NSwyNzkyNjY3NjJdfQ==
 -->
