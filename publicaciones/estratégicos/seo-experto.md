@@ -16,7 +16,7 @@ Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportun
 
 ## ¿Qué debemos considerar como un SEO experto?
 
-Un SEO con **conocimientos avanzados** en todas las áreas que afectan al posicionamiento web: técnico, contenidos y enlaces. Con **visión global** y **capacidad estratégica** para diseñar y adaptar cualquier
+Un SEO con **conocimientos avanzados** en todas las áreas que afectan al posicionamiento web: técnico, contenidos y enlaces. Con **visión global** y **capacidad estratégica** para diseñar y adaptar cualquier acción que sea necesaria dentro del flujo de trabajo actual.
 
 ## ¿Qué se necesita para ser un SEO experto?
 
@@ -24,7 +24,7 @@ Un SEO con **conocimientos avanzados** en todas las áreas que afectan al posici
 
 No puedes trabajar en SEO sin tener conocimiento de qué es un robot de búsqueda y cómo funciona. Es básico y crucial para poder preparar una estrategia efectiva.
 
-Recomiendo la lectura de [cómo funcionan las motores de búsqueda](https://www.google.com/search/howsearchworks/) de Google
+Recomiendo la lectura de [cómo funcionan las motores de búsqueda](https://www.google.com/search/howsearchworks/) de Google o el [vídeo explicativo de Matt Cutts](https://www.youtube.com/watch?v=KyCYyoGusqs).
 
 ### Conocimientos básicos de HTML
 
@@ -32,10 +32,10 @@ Los robots de búsqueda no ven los sitios web como un humano, sino que acceden a
 
 Entender lo básico acerca de cómo funciona una página web es crucial para poder abordar mejoras a nivel SEO técnico.
 
-> Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html)
+Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI2MTk3NzksMTk0MDA3MzQ1MSwxND
-QyNDcyOTU0LC0xMTM1MzI0ODAxLDE0OTI1MjM4MjMsMTExMDYw
-MDA2NSwyNzkyNjY3NjJdfQ==
+eyJoaXN0b3J5IjpbMzMxOTcyNTI5LC0xOTYyNjE5Nzc5LDE5ND
+AwNzM0NTEsMTQ0MjQ3Mjk1NCwtMTEzNTMyNDgwMSwxNDkyNTIz
+ODIzLDExMTA2MDAwNjUsMjc5MjY2NzYyXX0=
 -->
