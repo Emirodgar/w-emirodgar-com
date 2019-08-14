@@ -1,16 +1,18 @@
 ---
 title: Cómo convertirte en un SEO Experto
-description: Aprende todas las vertientes SEO (técnico, contenidos y linking
+description: Aprende todas las vertientes SEO (técnico, contenidos y linking) y domínalas como un experto
 lang: es_ES
 author: Emirodgar
-tags: newsletter
+tags: estrategico
 date: 14/08/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: noticias-seo/2019
+permalink: seo-experto
 
 ---
 
-# Noticias SEO - 2019
+# Cómo convertirse en un SEO Experto
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDY3ODk1M119
+eyJoaXN0b3J5IjpbMjc5MjY2NzYyXX0=
 -->
