@@ -31,9 +31,9 @@ No puedes trabajar en SEO sin tener conocimiento de **qué es un robot de búsqu
 
 > Recomiendo la lectura de [cómo funcionan las motores de búsqueda](https://www.google.com/search/howsearchworks/) de Google o el [vídeo explicativo de Matt Cutts](https://www.youtube.com/watch?v=KyCYyoGusqs).
 
-Para poder posicionar los buscadores hacen uso de en torno a unos 200 [factores SEO](/factores-seo) . Una de las mejores recopilaciones la encontramos en la [tabla periódica SEO](https://searchengineland.com/seotable), la cuál es importante tener presente.
+Para poder posicionar, los buscadores hacen uso de en torno a unos 200 [factores SEO](/factores-seo) . Una de las mejores recopilaciones la encontramos en la [tabla periódica SEO](https://searchengineland.com/seotable), la cuál es importante tener siempre presente.
 
-Estos factores pueden ir cambiando a lo largo de las múltiples actualizaciones de algoritmo de los buscadores por lo que es vital conocer [qué son los algoritmos de búsqueda y cómo funcionan](%5Bactualizaciones%20de%20algoritmo%5D%28https://emirodgar.com/cambio-algoritmo-google%29).
+Estos factores pueden ir cambiando a lo largo del tiempo por lo que es vital conocer [qué son los algoritmos de búsqueda y cómo funcionan](%5Bactualizaciones%20de%20algoritmo%5D%28https://emirodgar.com/cambio-algoritmo-google%29).
 
 ### Conocimientos técnicos básicos
 
@@ -104,6 +104,6 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk3OTU1NzAsMTcwNzEwODQ4OSwtMT
-E0NjM1NzkzNiwxNTUwNDg2NDkwXX0=
+eyJoaXN0b3J5IjpbLTY5NDM5NjU0NywtMTIxOTc5NTU3MCwxNz
+A3MTA4NDg5LC0xMTQ2MzU3OTM2LDE1NTA0ODY0OTBdfQ==
 -->
