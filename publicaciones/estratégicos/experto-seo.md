@@ -39,7 +39,7 @@ Estos factores pueden ir cambiando a lo largo de las múltiples actualizaciones 
 
 Los robots de búsqueda no ven los sitios web como un humano, sino que acceden al **código fuente** y es en lo que se basan para su incorporación al índice de búsqueda y posterior posicionamiento.
 
-> A través de Google Search Console podemos entender y trabajar muchos aspec
+> A través de [Google Search Console](https://search.google.com/search-console/about?hl=es) podemos entender y trabajar muchos aspectos técnicos de forma sencilla.
 
 Entender lo básico acerca de cómo funciona una página web es crucial para poder abordar mejoras a nivel SEO técnico.
 
@@ -104,6 +104,6 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNjE5OTcyLDE3MDcxMDg0ODksLTExND
-YzNTc5MzYsMTU1MDQ4NjQ5MF19
+eyJoaXN0b3J5IjpbLTEyMTk3OTU1NzAsMTcwNzEwODQ4OSwtMT
+E0NjM1NzkzNiwxNTUwNDg2NDkwXX0=
 -->
