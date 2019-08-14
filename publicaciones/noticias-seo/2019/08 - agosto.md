@@ -35,8 +35,8 @@ Si haces uso de AMP ahora también podrás [mejorar su rendimiento aplicando un 
 
 ## Google te roba tráfico
 
-Esta es la realidad; no hace falta hacer grandes estudios ya que los números hablan por sí solos: me
+Esta es la realidad; no hace falta hacer grandes estudios ya que los números hablan por sí solos: [menos de la mitad de las búsquedas terminan en una visita a la página final](https://sparktoro.com/blog/less-than-half-of-google-searches-now-result-in-a-click/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODA1MjA3MTEsMTcyODAzNjU0NSwtMT
-A5NzA0MTQ0NSwtNjgzOTA1NTA5LDM1ODE4OTQ3NF19
+eyJoaXN0b3J5IjpbMTgyMzg3MjgwMywxNzI4MDM2NTQ1LC0xMD
+k3MDQxNDQ1LC02ODM5MDU1MDksMzU4MTg5NDc0XX0=
 -->
