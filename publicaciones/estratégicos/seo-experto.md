@@ -1,5 +1,5 @@
 ---
-title: Cómo convertirte en un SEO Experto
+title: Cómo convertirse en un SEO Experto
 description: Aprende todas las vertientes SEO (técnico, contenidos y linking) y domínalas como un experto
 lang: es_ES
 author: Emirodgar
@@ -20,6 +20,12 @@ Un SEO con conocimientos avanzados en todas las áreas que afectan al posicionam
 
 ## ¿Qué se necesita para ser un SEO experto?
 
+### Entender cómo funcionan los motores de búsqueda
+
+No puedes trabajar en SEO sin tener conocimiento de qué es un robot de búsqueda y cómo funciona. Es básico y crucial para poder preparar una estrategia efectiva.
+
+Recomiendo la lectura de [cómo funcionan las motores de búsqueda](https://www.google.com/search/howsearchworks/) de Google
+
 ### Conocimientos básicos de HTML
 
 Los robots de búsqueda no ven los sitios web como un humano, sino que acceden al **código fuente** y es en lo que se basan para su incorporación al índice de búsqueda y posterior posicionamiento.
@@ -29,7 +35,7 @@ Entender lo básico acerca de cómo funciona una página web es crucial para pod
 > Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTY4NzAwMCwxOTQwMDczNDUxLDE0ND
-I0NzI5NTQsLTExMzUzMjQ4MDEsMTQ5MjUyMzgyMywxMTEwNjAw
-MDY1LDI3OTI2Njc2Ml19
+eyJoaXN0b3J5IjpbLTM3MDY3NDg2LDE5NDAwNzM0NTEsMTQ0Mj
+Q3Mjk1NCwtMTEzNTMyNDgwMSwxNDkyNTIzODIzLDExMTA2MDAw
+NjUsMjc5MjY2NzYyXX0=
 -->
