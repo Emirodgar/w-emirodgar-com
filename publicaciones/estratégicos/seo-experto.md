@@ -16,7 +16,7 @@ Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportun
 
 ## ¿Qué debemos considerar como un SEO experto?
 
-Un SEO con **conocimientos avanzados** en todas las áreas que afectan al posicionamiento web: técnico, contenidos y enlaces. Con **visión global** y capacidad estratégica para diseñar y adaptar cualquier
+Un SEO con **conocimientos avanzados** en todas las áreas que afectan al posicionamiento web: técnico, contenidos y enlaces. Con **visión global** y **capacidad estratégica** para diseñar y adaptar cualquier
 
 ## ¿Qué se necesita para ser un SEO experto?
 
@@ -35,7 +35,7 @@ Entender lo básico acerca de cómo funciona una página web es crucial para pod
 > Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDg5MzQ0MywxOTQwMDczNDUxLDE0ND
-I0NzI5NTQsLTExMzUzMjQ4MDEsMTQ5MjUyMzgyMywxMTEwNjAw
-MDY1LDI3OTI2Njc2Ml19
+eyJoaXN0b3J5IjpbLTE5NjI2MTk3NzksMTk0MDA3MzQ1MSwxND
+QyNDcyOTU0LC0xMTM1MzI0ODAxLDE0OTI1MjM4MjMsMTExMDYw
+MDA2NSwyNzkyNjY3NjJdfQ==
 -->
