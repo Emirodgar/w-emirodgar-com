@@ -48,7 +48,13 @@ Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial a
 
 Quizá una de las guías más completas sea la de [Marketing de contenidos para principiantes](https://moz.com/beginners-guide-to-content-marketing). Nos ayudará a tener una base sólida aunque será necesario adquirir experiencia para poder llegar a generar contenidos de calidad que aporten valor y contexto a los visitantes.
 
-Dentro del marketing de contenidos tendremos que probar hasta dar con el formato idóneo que más captación y 
+Dentro del marketing de contenidos tendremos que probar hasta dar con el formato idóneo que más captación y conversión nos aporta. Para ello podemos probar aspectos como:
+
+ - Tipo de títulos (palabras clave, CTR, etc.).
+ - Formato de contenidos (longitud, tipo de redacción, etc.).
+ - Llamadas a la acción en los contenidos.
+ - Enlazado interno y externo.
+ - Calendarios de publicación y categorización.
 
 Recomiendo hacer uso de aplicaciones como Hotjar o CrazyEgg para **analizar el comportamiento de nuestros usuarios** y aplicar estrategias de contenido más personalizadas.
 
@@ -72,5 +78,5 @@ Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son bási
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY3ODk5NTZdfQ==
+eyJoaXN0b3J5IjpbLTgyODg3OTc0Nl19
 -->
