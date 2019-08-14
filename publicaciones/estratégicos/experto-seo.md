@@ -53,7 +53,6 @@ Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial a
 
 > En páginas grandes necesitaremos utilizar [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) de monitorización que nos permitan hacer seguimiento de las miles de URLs indexadas y su aporte a la estrategia.
 
-También es muy importante conocer a nuestros competidores y qué es lo que están haciendo en el entorno digital. Ésta guía de ingeniería inversa de Ahre
 
 ###  Generar contenido de calidad
 
@@ -74,6 +73,8 @@ Recomiendo hacer uso de aplicaciones como Hotjar o CrazyEgg para **analizar el c
 ### Incrementar enlaces y popularidad
 
 Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son básicas y bien conocidas por -casi- todos. Si has hecho todos los puntos anteriores de forma correcta seguramente los puedas incrementar de forma natural, no obstante, siempre se hace necesario apostar por estrategias proactivas que nos permitan incrementar el número de enlaces de calidad hacia nuestras páginas.
+
+>¿Quieres saber de dónde sacan tus competidores sus enlaces? [sigue esta guía de Ahrefs](https://ahrefs.com/blog/the-ultimate-guide-to-reverse-engineering-your-competitors-backlinks/).
 
 Si trabajamos de forma local, se hace imprescindible crear un perfil en Google My Business y potenciar las relaciones con empresas de la misma ciudad o región. Éste vídeo nos dará una [visión global acerca del SEO local](https://www.youtube.com/watch?v=pQSVsHvpTTA).
 
@@ -97,5 +98,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA2NTc4MDMsMTU1MDQ4NjQ5MF19
+eyJoaXN0b3J5IjpbMTY3MDQxODYwLDE1NTA0ODY0OTBdfQ==
 -->
