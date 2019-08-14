@@ -72,6 +72,8 @@ Dentro del marketing de contenidos tendremos que probar hasta dar con el formato
 
 Recomiendo hacer uso de aplicaciones como Hotjar o CrazyEgg para **analizar el comportamiento de nuestros usuarios** y aplicar estrategias de contenido más personalizadas. Aspectos de [usabilidad web](https://goodui.org/) también son importantes para asegurar una buena experiencia a nuestros visitantes.
 
+Por último -pero no menos importante- necesitamos apostar por 
+
 ### Incrementar enlaces y popularidad
 
 Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son básicas y bien conocidas por -casi- todos. Si has hecho todos los puntos anteriores de forma correcta seguramente los puedas incrementar de forma natural, no obstante, siempre se hace necesario apostar por estrategias proactivas que nos permitan incrementar el número de enlaces de calidad hacia nuestras páginas.
@@ -100,5 +102,6 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYzNTc5MzYsMTU1MDQ4NjQ5MF19
+eyJoaXN0b3J5IjpbNjM5ODMwNjc4LC0xMTQ2MzU3OTM2LDE1NT
+A0ODY0OTBdfQ==
 -->
