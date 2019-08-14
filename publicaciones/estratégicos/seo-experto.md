@@ -1,16 +1,16 @@
 ---
-title: Cómo convertirse en un SEO Experto
+title: Cómo convertirse en un Experto en SEO
 description: Aprende todas las vertientes SEO (técnico, contenidos y linking) y domínalas como un experto
 lang: es_ES
 author: Emirodgar
 tags: estrategico
 date: 14/08/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: seo-experto
+permalink: experto-seo
 
 ---
 
-# Cómo convertirse en un SEO Experto
+# Cómo convertirse en un Experto en
 
 Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportunidad de trabajar, formar y dirigir departamentos SEO en varias agencias digitales. Me gustaría dar mi visión sobre los aspectos de calidad que, en mi opinión, caracterizan a un **SEO experto** y cómo podríamos alcanzar ese nivel.
 
@@ -66,7 +66,7 @@ Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son bási
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTEwMDUyMTYsLTE0OTMwMTg2OTUsLT
+eyJoaXN0b3J5IjpbLTEzNjgzMDU3MjEsLTE0OTMwMTg2OTUsLT
 E5NjI2MTk3NzksMTk0MDA3MzQ1MSwxNDQyNDcyOTU0LC0xMTM1
 MzI0ODAxLDE0OTI1MjM4MjMsMTExMDYwMDA2NSwyNzkyNjY3Nj
 JdfQ==
