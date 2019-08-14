@@ -29,11 +29,11 @@ Un SEO con **conocimientos avanzados** en todas las áreas que afectan al posici
 
 No puedes trabajar en SEO sin tener conocimiento de **qué es un robot de búsqueda** y cómo funciona. Es básico y crucial para poder preparar una estrategia efectiva.
 
-Recomiendo la lectura de [cómo funcionan las motores de búsqueda](https://www.google.com/search/howsearchworks/) de Google o el [vídeo explicativo de Matt Cutts](https://www.youtube.com/watch?v=KyCYyoGusqs).
+> Recomiendo la lectura de [cómo funcionan las motores de búsqueda](https://www.google.com/search/howsearchworks/) de Google o el [vídeo explicativo de Matt Cutts](https://www.youtube.com/watch?v=KyCYyoGusqs).
 
-Para poder posicionar los buscadores hacen uso de en torno a unos 200 [factores SEO](/factores-seo) . Una de las mejores recopilaciones la encontramos en la [tabla periódica SEO](https://searchengineland.com/seotable).
+Para poder posicionar los buscadores hacen uso de en torno a unos 200 [factores SEO](/factores-seo) . Una de las mejores recopilaciones la encontramos en la [tabla periódica SEO](https://searchengineland.com/seotable), la cuál es importante tener presente.
 
-Estos factores pueden ir cambiando a lo largo de las múltiples [actualizaciones de algoritmo](https://emirodgar.com/cambio-algoritmo-google) por lo que es vital conocer cómo funcionan.
+Estos factores pueden ir cambiando a lo largo de las múltiples actualizaciones de algoritmo de los buscadores por lo que es vital conocer [qué son los algoritmos de búsqueda y cómo funcionan](%5Bactualizaciones%20de%20algoritmo%5D%28https://emirodgar.com/cambio-algoritmo-google%29).
 
 ### Conocimientos técnicos básicos
 
@@ -102,6 +102,6 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNjcxNTM4LC0xMTQ2MzU3OTM2LDE1NT
-A0ODY0OTBdfQ==
+eyJoaXN0b3J5IjpbMTcwNzEwODQ4OSwtMTE0NjM1NzkzNiwxNT
+UwNDg2NDkwXX0=
 -->
