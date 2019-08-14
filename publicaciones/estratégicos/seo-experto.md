@@ -38,14 +38,14 @@ Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.
 
 ###  Controlar la indexación
 
-En SEO no vale lo de burro grande ande o no ande. Necesitamos apostar por calidad antes que cantidad y para ello se hacre crucial analizar y establecer qué páginas queremos que se indexen y cuáles no.
+Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial analizar y establecer **qué páginas queremos que se indexen y cuáles no**.
 
 ###  Generar contenido de calidad
 
-Quizá una de las guías más com
+Quizá una de las guías más completas la encontremos de la mano de Moz: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Mjc2NjQ3NCwtMTk2MjYxOTc3OSwxOT
-QwMDczNDUxLDE0NDI0NzI5NTQsLTExMzUzMjQ4MDEsMTQ5MjUy
-MzgyMywxMTEwNjAwMDY1LDI3OTI2Njc2Ml19
+eyJoaXN0b3J5IjpbMzEwMzQyNDU3LC0xOTYyNjE5Nzc5LDE5ND
+AwNzM0NTEsMTQ0MjQ3Mjk1NCwtMTEzNTMyNDgwMSwxNDkyNTIz
+ODIzLDExMTA2MDAwNjUsMjc5MjY2NzYyXX0=
 -->
