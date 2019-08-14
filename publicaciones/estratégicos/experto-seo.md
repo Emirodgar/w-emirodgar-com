@@ -16,11 +16,12 @@ Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportun
 
 > Lectura relacionada: [7 habilidades de un buen SEO](https://emirodgar.com/habilidades-seo)
 
-> Estos han sido mis principales [casos de éxito SEO](https://emirodgar.com/casos-exito-seo).
 
 ## ¿Qué debemos considerar como un SEO experto?
 
 Un SEO con **conocimientos avanzados** en todas las áreas que afectan al posicionamiento web: técnico, contenidos y enlaces. Con **visión global** y **capacidad estratégica** para diseñar y adaptar cualquier acción que sea necesaria dentro del flujo de trabajo actual.
+
+> Un experto en SEO debe tener un portafolio de [casos de éxito SEO](https://emirodgar.com/casos-exito-seo) donde poder mostrar sus estrategias.
 
 ## ¿Qué se necesita para ser un experto en SEO?
 
@@ -90,5 +91,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MzQ4Njc1LDE1NTA0ODY0OTBdfQ==
+eyJoaXN0b3J5IjpbLTEwOTY4NzAwNzYsMTU1MDQ4NjQ5MF19
 -->
