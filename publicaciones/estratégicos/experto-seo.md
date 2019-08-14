@@ -53,6 +53,8 @@ Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial a
 
 > En páginas grandes necesitaremos utilizar [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) de monitorización que nos permitan hacer seguimiento de las miles de URLs indexadas y su aporte a la estrategia.
 
+Google [indexa primero con su algoritmo para páginas móviles](https://developers.google.com/search/mobile-sites/mobile-first-indexing) por lo que disponer de una versión mobile adecuada es vital para la consecución de buenos resultados.
+
 
 ###  Generar contenido de calidad
 
@@ -98,5 +100,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDQxODYwLDE1NTA0ODY0OTBdfQ==
+eyJoaXN0b3J5IjpbLTExNDYzNTc5MzYsMTU1MDQ4NjQ5MF19
 -->
