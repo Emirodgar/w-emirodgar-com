@@ -36,8 +36,10 @@ Entender lo básico acerca de cómo funciona una página web es crucial para pod
 
 Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html)
 
+### 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg1NDMzMDMsLTE5NjI2MTk3NzksMT
-k0MDA3MzQ1MSwxNDQyNDcyOTU0LC0xMTM1MzI0ODAxLDE0OTI1
-MjM4MjMsMTExMDYwMDA2NSwyNzkyNjY3NjJdfQ==
+eyJoaXN0b3J5IjpbLTgyOTAwNjkyMCwtMTk2MjYxOTc3OSwxOT
+QwMDczNDUxLDE0NDI0NzI5NTQsLTExMzUzMjQ4MDEsMTQ5MjUy
+MzgyMywxMTEwNjAwMDY1LDI3OTI2Njc2Ml19
 -->
