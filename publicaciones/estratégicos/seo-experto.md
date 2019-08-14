@@ -36,10 +36,16 @@ Entender lo básico acerca de cómo funciona una página web es crucial para pod
 
 Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html)
 
-### 
+###  Controlar la indexación
+
+En SEO no vale lo de burro grande ande o no ande. Necesitamos apostar por calidad antes que cantidad y para ello se hacre crucial analizar y establecer qué páginas queremos que se indexen y cuáles no.
+
+###  Generar contenido de calidad
+
+Quizá una de las guías más com
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTAwNjkyMCwtMTk2MjYxOTc3OSwxOT
+eyJoaXN0b3J5IjpbMTQ2Mjc2NjQ3NCwtMTk2MjYxOTc3OSwxOT
 QwMDczNDUxLDE0NDI0NzI5NTQsLTExMzUzMjQ4MDEsMTQ5MjUy
 MzgyMywxMTEwNjAwMDY1LDI3OTI2Njc2Ml19
 -->
