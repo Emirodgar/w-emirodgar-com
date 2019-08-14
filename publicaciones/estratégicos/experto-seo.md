@@ -51,7 +51,7 @@ Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial a
 
 [Desindexar URLs](https://emirodgar.com/eliminar-url-google) que no aportan nada nos ayudará a aprovechar mejor el tiempo que el robot de búsqueda pasa en nuestro sitio y nos aseguraremos de que ve lo importante.
 
-En páginas grandes necesitaremos utilizar [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) que nos permitan hacer seguimiento de las miles de URLs indexadas
+> En páginas grandes necesitaremos utilizar [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) de monitorización que nos permitan hacer seguimiento de las miles de URLs indexadas y su aporte a la estrategia.
 
 ###  Generar contenido de calidad
 
@@ -73,6 +73,8 @@ Recomiendo hacer uso de aplicaciones como Hotjar o CrazyEgg para **analizar el c
 
 Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son básicas y bien conocidas por -casi- todos. Si has hecho todos los puntos anteriores de forma correcta seguramente los puedas incrementar de forma natural, no obstante, siempre se hace necesario apostar por estrategias proactivas que nos permitan incrementar el número de enlaces de calidad hacia nuestras páginas.
 
+Si trabajamos de forma local, se hace imprescindible crear un perfil en Google My Business y potenciar las relaciones con empresas de la misma ciudad o región. Éste vídeo
+
 
 
 ###  Medir el impacto de nuestros cambios
@@ -93,5 +95,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5OTk5MDg4LDE1NTA0ODY0OTBdfQ==
+eyJoaXN0b3J5IjpbLTM1MzE4NTc5MiwxNTUwNDg2NDkwXX0=
 -->
