@@ -31,7 +31,7 @@ No puedes trabajar en SEO sin tener conocimiento de **qué es un robot de búsqu
 
 Recomiendo la lectura de [cómo funcionan las motores de búsqueda](https://www.google.com/search/howsearchworks/) de Google o el [vídeo explicativo de Matt Cutts](https://www.youtube.com/watch?v=KyCYyoGusqs).
 
-Para poder posicionar los buscadores hacen uso de múltiples [factores SEO](/factores-seo) (en torno a los 200). Una de las mejores recopilaciones la encontramos en la [tabla periódica SEO](https://searchengineland.com/seotable).
+Para poder posicionar los buscadores hacen uso de en torno a unos 200 [factores SEO](/factores-seo) . Una de las mejores recopilaciones la encontramos en la [tabla periódica SEO](https://searchengineland.com/seotable).
 
 Estos factores pueden ir cambiando a lo largo de las múltiples [actualizaciones de algoritmo](https://emirodgar.com/cambio-algoritmo-google) por lo que es vital conocer cómo funcionan.
 
@@ -72,7 +72,7 @@ Dentro del marketing de contenidos tendremos que probar hasta dar con el formato
 
 Recomiendo hacer uso de aplicaciones como Hotjar o CrazyEgg para **analizar el comportamiento de nuestros usuarios** y aplicar estrategias de contenido más personalizadas. Aspectos de [usabilidad web](https://goodui.org/) también son importantes para asegurar una buena experiencia a nuestros visitantes.
 
-Por último -pero no menos importante- necesitamos apostar por 
+Por último -pero no menos importante- necesitamos apostar por datos estructurados que nos permitan [ganar visibilidad en los resultados de búsqueda](https://www.youtube.com/watch?v=pojj6yXLOqA).
 
 ### Incrementar enlaces y popularidad
 
@@ -102,6 +102,6 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5ODMwNjc4LC0xMTQ2MzU3OTM2LDE1NT
+eyJoaXN0b3J5IjpbOTgxNjcxNTM4LC0xMTQ2MzU3OTM2LDE1NT
 A0ODY0OTBdfQ==
 -->
