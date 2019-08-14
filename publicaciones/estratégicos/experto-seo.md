@@ -44,8 +44,6 @@ A nivel de servidor web no es necesario profundizar mucho pero sí tener claros 
 
 Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial analizar y establecer **qué páginas queremos que se indexen y cuáles no**.
 
-###  Optimizar la base SEO de una página
-
 ###  Generar contenido de calidad
 
 Quizá una de las guías más completas sea la de [Marketing de contenidos para principiantes](https://moz.com/beginners-guide-to-content-marketing). Nos ayudará a tener una base sólida aunque será necesario adquirir experiencia para poder llegar a generar contenidos de calidad que aporten valor y contexto a los visitantes.
@@ -68,7 +66,11 @@ Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son bási
 
 ###  Medir el impacto de nuestros cambios
 
+Por unanimidad podríamos decir que [Google Analytics](https://analytics.google.com/analytics/web/) es la herramienta preferida de cualquier SEO. "Gratis" y rápida de configurar.
 
+Si queremos desarrollar una estrategia SEO efectiva necesitaremos medir y entender el comportamiento que nuestras acciones generan en el sitio.
+
+Recomiendo comenzar la 
 
 ## Consejos importantes
 
@@ -80,5 +82,5 @@ Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son bási
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzAxOTcwMV19
+eyJoaXN0b3J5IjpbMTEwMTUzODM5NV19
 -->
