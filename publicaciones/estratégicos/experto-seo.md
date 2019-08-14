@@ -21,7 +21,7 @@ Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportun
 
 Un SEO con **conocimientos avanzados** en todas las áreas que afectan al posicionamiento web: técnico, contenidos y enlaces. Con **visión global** y **capacidad estratégica** para diseñar y adaptar cualquier acción que sea necesaria dentro del flujo de trabajo actual.
 
-> Un experto en SEO debe tener un portafolio de [casos de éxito SEO](https://emirodgar.com/casos-exito-seo) donde poder mostrar sus estrategias.
+> Un experto SEO debe tener un portafolio de [casos de éxito](https://emirodgar.com/casos-exito-seo) donde poder mostrar los resultados de sus estrategias.
 
 ## ¿Qué se necesita para ser un experto en SEO?
 
@@ -52,6 +52,8 @@ Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial a
 [Desindexar URLs](https://emirodgar.com/eliminar-url-google) que no aportan nada nos ayudará a aprovechar mejor el tiempo que el robot de búsqueda pasa en nuestro sitio y nos aseguraremos de que ve lo importante.
 
 > En páginas grandes necesitaremos utilizar [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) de monitorización que nos permitan hacer seguimiento de las miles de URLs indexadas y su aporte a la estrategia.
+
+También es muy importante conocer a nuestros competidores y qué es lo que están haciendo en el entorno digital. Ésta guía de ingeniería inversa de Ahre
 
 ###  Generar contenido de calidad
 
@@ -95,5 +97,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mzk4MTgxMiwxNTUwNDg2NDkwXX0=
+eyJoaXN0b3J5IjpbLTIxMTA2NTc4MDMsMTU1MDQ4NjQ5MF19
 -->
