@@ -57,15 +57,15 @@ Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son bási
 ## Consejos importantes
 
  1. Sé curioso. Nunca dejes de aprender y mantente siempre actualizado.
- 2. Prueba
- 3. Correlacion no significa causalidad. investiga siempre todo en profundidad y no te quedes en la superficie. 
- 4. Busca siempre los cambios .
- 5. Ten claro el punto de partida.
- 6. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
+ 2. Prueba todo lo que se te ocurra. Nunca sabes lo que va a funcionar. 
+ 3. Si haces lo mismo que los demás siempre irás por detrás de ellos
+ 4. Correlacion no significa causalidad. Investiga siempre todo en profundidad y no te quedes en la superficie. 
+ 6. Ten claro el punto de partida de cualquier proyecto. Es el espejo al que mirarás para
+ 7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIwNDYzOTUsLTE0OTMwMTg2OTUsLT
-E5NjI2MTk3NzksMTk0MDA3MzQ1MSwxNDQyNDcyOTU0LC0xMTM1
-MzI0ODAxLDE0OTI1MjM4MjMsMTExMDYwMDA2NSwyNzkyNjY3Nj
-JdfQ==
+eyJoaXN0b3J5IjpbLTY0OTQzNzYyNywtMTQ5MzAxODY5NSwtMT
+k2MjYxOTc3OSwxOTQwMDczNDUxLDE0NDI0NzI5NTQsLTExMzUz
+MjQ4MDEsMTQ5MjUyMzgyMywxMTEwNjAwMDY1LDI3OTI2Njc2Ml
+19
 -->
