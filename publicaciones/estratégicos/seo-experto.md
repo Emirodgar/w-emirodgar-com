@@ -50,14 +50,21 @@ Quizá una de las guías más completas sea la de [Marketing de contenidos para 
 
 Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son básicas y bien conocidas por -casi- todos. Si has hecho todos los puntos anteriores de forma correcta seguramente los puedas incrementar de forma natural, no obstante, siempre se hace necesario apostar por estrategias proactivas que nos permitan incrementar el número de enlaces de calidad hacia nuestras páginas.
 
+###  Medir el impacto de nuestros cambios
+
+
+
 ## Consejos importantes
 
  1. Sé curioso. Nunca dejes de aprender y mantente siempre actualizado.
- 2. Correlacion no significa causalidad. investiga siempre todo en profundidad y no te quedes en la superficie. 
- 3. Busca s
+ 2. Prueba
+ 3. Correlacion no significa causalidad. investiga siempre todo en profundidad y no te quedes en la superficie. 
+ 4. Busca siempre los cambios .
+ 5. Ten claro el punto de partida.
+ 6. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI0NTU5MTIsLTE0OTMwMTg2OTUsLT
+eyJoaXN0b3J5IjpbLTE2MjIwNDYzOTUsLTE0OTMwMTg2OTUsLT
 E5NjI2MTk3NzksMTk0MDA3MzQ1MSwxNDQyNDcyOTU0LC0xMTM1
 MzI0ODAxLDE0OTI1MjM4MjMsMTExMDYwMDA2NSwyNzkyNjY3Nj
 JdfQ==
