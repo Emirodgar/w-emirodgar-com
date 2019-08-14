@@ -49,8 +49,14 @@ Quizá una de las guías más completas sea la de [Marketing de contenidos para 
 ### Incrementar enlaces y popularidad
 
 Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son básicas y bien conocidas por -casi- todos. Si has hecho todos los puntos anteriores de forma correcta seguramente los puedas incrementar de forma natural, no obstante, siempre se hace necesario apostar por estrategias proactivas que nos permitan incrementar el número de enlaces de calidad hacia nuestras páginas.
+
+## Consejos importantes
+
+ 1. Sé curioso. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTMwMTg2OTUsLTE5NjI2MTk3NzksMT
-k0MDA3MzQ1MSwxNDQyNDcyOTU0LC0xMTM1MzI0ODAxLDE0OTI1
-MjM4MjMsMTExMDYwMDA2NSwyNzkyNjY3NjJdfQ==
+eyJoaXN0b3J5IjpbLTkyMDk5NDI1NCwtMTQ5MzAxODY5NSwtMT
+k2MjYxOTc3OSwxOTQwMDczNDUxLDE0NDI0NzI5NTQsLTExMzUz
+MjQ4MDEsMTQ5MjUyMzgyMywxMTEwNjAwMDY1LDI3OTI2Njc2Ml
+19
 -->
