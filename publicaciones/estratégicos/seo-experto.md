@@ -50,6 +50,8 @@ Quizá una de las guías más completas sea la de [Marketing de contenidos para 
 
 Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son básicas y bien conocidas por -casi- todos. Si has hecho todos los puntos anteriores de forma correcta seguramente los puedas incrementar de forma natural, no obstante, siempre se hace necesario apostar por estrategias proactivas que nos permitan incrementar el número de enlaces de calidad hacia nuestras páginas.
 
+
+
 ###  Medir el impacto de nuestros cambios
 
 
@@ -60,12 +62,12 @@ Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son bási
  2. Prueba todo lo que se te ocurra. Nunca sabes lo que va a funcionar. 
  3. Si haces lo mismo que los demás siempre irás por detrás de ellos
  4. Correlacion no significa causalidad. Investiga siempre todo en profundidad y no te quedes en la superficie. 
- 6. Ten claro el punto de partida de cualquier proyecto. Es el espejo al que mirarás para
+ 6. Ten claro el punto de partida de cualquier proyecto. Es el espejo al que mirarás para poner en valor lo realizado.
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTQzNzYyNywtMTQ5MzAxODY5NSwtMT
-k2MjYxOTc3OSwxOTQwMDczNDUxLDE0NDI0NzI5NTQsLTExMzUz
-MjQ4MDEsMTQ5MjUyMzgyMywxMTEwNjAwMDY1LDI3OTI2Njc2Ml
-19
+eyJoaXN0b3J5IjpbLTE2MTEwMDUyMTYsLTE0OTMwMTg2OTUsLT
+E5NjI2MTk3NzksMTk0MDA3MzQ1MSwxNDQyNDcyOTU0LC0xMTM1
+MzI0ODAxLDE0OTI1MjM4MjMsMTExMDYwMDA2NSwyNzkyNjY3Nj
+JdfQ==
 -->
