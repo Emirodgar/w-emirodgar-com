@@ -24,11 +24,12 @@ Un SEO con **conocimientos avanzados** en todas las áreas que afectan al posici
 
 ### Entender cómo funcionan los motores de búsqueda
 
-No puedes trabajar en SEO sin tener conocimiento de qué es un robot de búsqueda y cómo funciona. Es básico y crucial para poder preparar una estrategia efectiva.
+No puedes trabajar en SEO sin tener conocimiento de **qué es un robot de búsqueda** y cómo funciona. Es básico y crucial para poder preparar una estrategia efectiva.
 
 Recomiendo la lectura de [cómo funcionan las motores de búsqueda](https://www.google.com/search/howsearchworks/) de Google o el [vídeo explicativo de Matt Cutts](https://www.youtube.com/watch?v=KyCYyoGusqs).
 
 Para poder posicionar los buscadores hacen uso de múltiples [factores SEO](/factores-seo) (en torno a los 200). Una de las mejores recopilaciones la encontramos en la [tabla periódica SEO](https://searchengineland.com/seotable).
+
 
 ### Conocimientos técnicos básicos
 
@@ -84,5 +85,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDQ4NjQ5MF19
+eyJoaXN0b3J5IjpbMTk1MDcxNDg2MCwxNTUwNDg2NDkwXX0=
 -->
