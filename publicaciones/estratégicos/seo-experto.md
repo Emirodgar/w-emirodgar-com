@@ -52,11 +52,13 @@ Las [reglas del enlazado](https://moz.com/blog/rules-of-link-building) son bási
 
 ## Consejos importantes
 
- 1. Sé curioso. 
+ 1. Sé curioso. Nunca dejes de aprender y mantente siempre actualizado.
+ 2. Correlacion no significa causalidad. investiga siempre todo en profundidad y no te quedes en la superficie. 
+ 3. Busca s
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDk5NDI1NCwtMTQ5MzAxODY5NSwtMT
-k2MjYxOTc3OSwxOTQwMDczNDUxLDE0NDI0NzI5NTQsLTExMzUz
-MjQ4MDEsMTQ5MjUyMzgyMywxMTEwNjAwMDY1LDI3OTI2Njc2Ml
-19
+eyJoaXN0b3J5IjpbLTE4MDI0NTU5MTIsLTE0OTMwMTg2OTUsLT
+E5NjI2MTk3NzksMTk0MDA3MzQ1MSwxNDQyNDcyOTU0LC0xMTM1
+MzI0ODAxLDE0OTI1MjM4MjMsMTExMDYwMDA2NSwyNzkyNjY3Nj
+JdfQ==
 -->
