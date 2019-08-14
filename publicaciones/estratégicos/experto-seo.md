@@ -51,6 +51,8 @@ Necesitamos apostar por calidad antes que cantidad y para ello se hace crucial a
 
 [Desindexar URLs](https://emirodgar.com/eliminar-url-google) que no aportan nada nos ayudará a aprovechar mejor el tiempo que el robot de búsqueda pasa en nuestro sitio y nos aseguraremos de que ve lo importante.
 
+En páginas grandes necesitaremos utilizar [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) que nos permitan hacer seguimiento de las miles de URLs indexadas
+
 ###  Generar contenido de calidad
 
 Quizá una de las guías más completas sea la de [Marketing de contenidos para principiantes](https://moz.com/beginners-guide-to-content-marketing). Nos ayudará a tener una base sólida aunque será necesario adquirir experiencia para poder llegar a generar contenidos de calidad que aporten valor y contexto a los visitantes.
@@ -91,5 +93,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY4NzAwNzYsMTU1MDQ4NjQ5MF19
+eyJoaXN0b3J5IjpbNzY5OTk5MDg4LDE1NTA0ODY0OTBdfQ==
 -->
