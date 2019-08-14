@@ -39,9 +39,11 @@ Estos factores pueden ir cambiando a lo largo de las múltiples actualizaciones 
 
 Los robots de búsqueda no ven los sitios web como un humano, sino que acceden al **código fuente** y es en lo que se basan para su incorporación al índice de búsqueda y posterior posicionamiento.
 
+> A través de Google Search Console podemos entender y trabajar muchos aspec
+
 Entender lo básico acerca de cómo funciona una página web es crucial para poder abordar mejoras a nivel SEO técnico.
 
-Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html). 
+Recomiendo echar un vistazo a este [curso de introducción al HTML](https://www.codecademy.com/learn/learn-html) y a esta guía sobre [cómo afecta el renderizado Javascript al SEO](https://www.onely.com/blog/ultimate-guide-javascript-seo/). 
 
 A nivel de servidor web no es necesario profundizar mucho pero sí tener claros los [aspectos del hosting que pueden afectar al SEO](https://emirodgar.com/hosting-seo).
 
@@ -102,6 +104,6 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzEwODQ4OSwtMTE0NjM1NzkzNiwxNT
-UwNDg2NDkwXX0=
+eyJoaXN0b3J5IjpbOTgwNjE5OTcyLDE3MDcxMDg0ODksLTExND
+YzNTc5MzYsMTU1MDQ4NjQ5MF19
 -->
