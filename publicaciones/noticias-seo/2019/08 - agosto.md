@@ -52,9 +52,9 @@ Esta es la realidad; no hace falta hacer grandes estudios ya que los números ha
 
 ## Google Data Studio
 
-Si aún no dominas este servicio gratuito para generación de informes te recomiendo leer ésta guía   
+Si aún no dominas este servicio gratuito para generación de informes [te recomiendo leer esta guía](https://omisido.com/google-data-studio-the-complete-guide/); una de las más completas que he encontrado hasta la fecha.   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjczNjkyMjgsMTgyMzg3MjgwMywxNz
-I4MDM2NTQ1LC0xMDk3MDQxNDQ1LC02ODM5MDU1MDksMzU4MTg5
-NDc0XX0=
+eyJoaXN0b3J5IjpbMTQwODY5NDkyMCwxODIzODcyODAzLDE3Mj
+gwMzY1NDUsLTEwOTcwNDE0NDUsLTY4MzkwNTUwOSwzNTgxODk0
+NzRdfQ==
 -->
