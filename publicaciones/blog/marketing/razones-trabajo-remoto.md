@@ -14,7 +14,9 @@ permalink: trabajar-en-remoto
 
 **Trabaja para vivir, no vivas para trabajar**. Con esta célebre frase podríamos resumir el objetivo principal de un teletrabajo o trabajo en remoto.
 
-El principal beneficio -entre otros muchos- es el poder conciliar tu vida profesional con tu vida personal. 
+El principal beneficio -entre otros muchos- es el poder **conciliar tu vida profesional con tu vida personal**. Una persona equilibrada, profesional y con fuerza de voluntad aprovechará al máximo esta posibilidad para sacar el mayor rendimiento a ambas facetas.
+
+Según un [informe de fyi](https://usefyi.com/remote-work-report) un 91% de las personas entrevistadas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjQ0MzA0NCwxMTM2MjkzMThdfQ==
+eyJoaXN0b3J5IjpbMTM3OTMwMzY5OSwxMTM2MjkzMThdfQ==
 -->
