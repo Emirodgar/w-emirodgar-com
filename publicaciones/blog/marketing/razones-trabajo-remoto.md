@@ -1,5 +1,5 @@
 ---
-title: Razones para trabajar en remoto. Ventajas y desventajas de trabajar desde casa
+title: Ventajas y desventajas de trabajar desde casa
 description: Trabajar en remoto ayuda a reducir costes y a conciliar vida personal y profesional
 date: 16/08/2019
 author: Emirodgar
@@ -10,11 +10,13 @@ permalink: trabajar-en-remoto
 
 ---
 
-# Razones para trabajar en remoto
+# Ventajas y desventajas de trabajar en remoto desde casa
 
 **Trabaja para vivir, no vivas para trabajar**. Con esta célebre frase podríamos resumir el objetivo principal de un teletrabajo o trabajo en remoto.
 
 El principal beneficio -entre otros muchos- es el poder **conciliar tu vida profesional con tu vida personal**. Una persona equilibrada, profesional y con fuerza de voluntad aprovechará al máximo esta posibilidad para sacar el mayor rendimiento a ambas facetas.
+
+> En los últimos años han proliferado redes que apuestan por el teletrabajo como [WWR](https://weworkremotely.com/), [AngelList](https://angel.co/remote) o [Stackoverflow](https://stackoverflow.com/jobs/remote-developer-jobs).
 
 Según un [informe de fyi](https://usefyi.com/remote-work-report) un 91% de trabajadores remotos aseguran estar contentos con el beneficio que les supone trabajar desde casa. Un 96% de los que ya lo hacen lo recomendarían a amigos o compañeros.
 
@@ -25,15 +27,15 @@ Según un [informe de fyi](https://usefyi.com/remote-work-report) un 91% de trab
   data-tweetid="1121888399172915200">
 </amp-twitter>
 
-En los últimos años han proliferado redes que apuestan por el teletrabajo como [WWR](https://weworkremotely.com/), [AngelList](https://angel.co/remote) o [Stackoverflow](https://stackoverflow.com/jobs/remote-developer-jobs).
+
 
 ## Ventajas de trabajar en remoto
 
-- Menores costes para la empresa y el trabajador
+- Menores costes para la empresa y el trabajador. Todos ahorran.
 - Mejor conciliación de vida persona y profesional
 - Menor estrés
 - Mejor organización (te fuerza a ser más organizado)
-- 
+- Libertad: tú te organizas (hasta cierto punto) de forma flexible.
 
 ## Inconvenientes de trabajar en remoto
 
@@ -44,6 +46,7 @@ No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inc
 - **Sensación de soledad**: pasar tantas horas solo no es plato de buen gusto para nadie y algunas personas no son capaces de hacerlo. Un trabajo remoto parcial sería la solución.
 - **Valorar tu trabajo**: si no estás presente, poner en valor el trabajo que realizas se complica. Si la empresa cuenta con un sistema eficiente de supervisión y control de trabajo no habrá ningún problema.
 - **Vigila los horarios**: cuando trabajas desde casa es fácil echar más horas de las que deberías. La sensación de no tener que desplazarte o ausencia de prisa suelen ser motivos que favorecen echar más tiempo. Una buena organización te ayudará a ser eficiente en el trabajo y no echar horas ni de menos ni de más.
+- **Distracciones**: debemos organizarnos bien para evitar que las distracciones cotidianas supongan un problema a nuestro trabajo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTYwNzEzLDExMzYyOTMxOF19
+eyJoaXN0b3J5IjpbNzcyNDk0NzQ1LDExMzYyOTMxOF19
 -->
