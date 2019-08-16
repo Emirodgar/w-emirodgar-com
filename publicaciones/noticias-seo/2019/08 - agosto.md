@@ -44,7 +44,7 @@ Por último, haciendo referencia a todos los *bugs* y fallos que han experimenta
 
 [La carga de imágenes bajo demanda (LazyLoad) será una realidad en las próximas versiones de Chrome](https://web.dev/native-lazy-loading). Hasta ahora teníamos que incluir librerías externas y "programar" esta funcionalidad para evitar descargas innecesarias.
 
-Si haces uso de AMP ahora también podrás [mejorar su rendimiento aplicando un SSR](https://blog.amp.dev/2019/08/07/faster-amp-on-the-origin-amp-ssr/) (renderizado a nivel de servidor).
+Si haces uso de AMP ahora también podrás [mejorar su rendimiento aplicando un SSR](https://blog.amp.dev/2019/08/07/faster-amp-on-the-origin-amp-ssr/) (renderizado a nivel de servidor) y haciendo uso de la [Toolbox](https://blog.amp.dev/2019/08/08/announcing-amp-toolbox-1-0/) que han generado.
 
 ## Google te roba tráfico
 
@@ -54,7 +54,7 @@ Esta es la realidad; no hace falta hacer grandes estudios ya que los números ha
 
 Si aún no dominas este servicio gratuito para generación de informes [te recomiendo leer esta guía](https://omisido.com/google-data-studio-the-complete-guide/); una de las más completas que he encontrado hasta la fecha.   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODY5NDkyMCwxODIzODcyODAzLDE3Mj
-gwMzY1NDUsLTEwOTcwNDE0NDUsLTY4MzkwNTUwOSwzNTgxODk0
-NzRdfQ==
+eyJoaXN0b3J5IjpbMjExMzU0NTE3NSwxNDA4Njk0OTIwLDE4Mj
+M4NzI4MDMsMTcyODAzNjU0NSwtMTA5NzA0MTQ0NSwtNjgzOTA1
+NTA5LDM1ODE4OTQ3NF19
 -->
