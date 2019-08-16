@@ -27,11 +27,19 @@ Según un [informe de fyi](https://usefyi.com/remote-work-report) un 91% de trab
 
 En los últimos años han proliferado redes que apuestan por el teletrabajo como [WWR](https://weworkremotely.com/), [AngelList](https://angel.co/remote) o [Stackoverflow](https://stackoverflow.com/jobs/remote-developer-jobs).
 
+## Beneficios de trabajar en remoto
 
 - Menores costes para la empresa
 - Mejor conciliación de vida persona y profesional
 - Menor estrés
 - Mejor organización
+
+## Inconvenientes de trabajar en remoto
+
+No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inconvenientes o, al menos, sus problemáticas.
+
+- **Comunicación**: si no se gestiona correctamente puede ser un lastre del día a día, especialmente en equipos de varios trabajadores.
+- **Socialización**: desde la lejanía es complicado socializar con el resto de compañeros. Si no afianza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg0MzUyMzYsMTEzNjI5MzE4XX0=
+eyJoaXN0b3J5IjpbLTM0NjkxMDAzNywxMTM2MjkzMThdfQ==
 -->
