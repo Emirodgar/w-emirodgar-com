@@ -1,5 +1,5 @@
 ---
-title: Razones para trabajar en remoto
+title: Razones para trabajar en remoto. Ventajas y desventajas de trabajar desde casa
 description: Trabajar en remoto ayuda a reducir costes y a conciliar vida personal y profesional
 date: 16/08/2019
 author: Emirodgar
@@ -27,12 +27,13 @@ Según un [informe de fyi](https://usefyi.com/remote-work-report) un 91% de trab
 
 En los últimos años han proliferado redes que apuestan por el teletrabajo como [WWR](https://weworkremotely.com/), [AngelList](https://angel.co/remote) o [Stackoverflow](https://stackoverflow.com/jobs/remote-developer-jobs).
 
-## Beneficios de trabajar en remoto
+## Ventajas de trabajar en remoto
 
-- Menores costes para la empresa
+- Menores costes para la empresa y el trabajador
 - Mejor conciliación de vida persona y profesional
 - Menor estrés
-- Mejor organización
+- Mejor organización (te fuerza a ser más organizado)
+- 
 
 ## Inconvenientes de trabajar en remoto
 
@@ -44,5 +45,5 @@ No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inc
 - **Valorar tu trabajo**: si no estás presente, poner en valor el trabajo que realizas se complica. Si la empresa cuenta con un sistema eficiente de supervisión y control de trabajo no habrá ningún problema.
 - **Vigila los horarios**: cuando trabajas desde casa es fácil echar más horas de las que deberías. La sensación de no tener que desplazarte o ausencia de prisa suelen ser motivos que favorecen echar más tiempo. Una buena organización te ayudará a ser eficiente en el trabajo y no echar horas ni de menos ni de más.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTcxMTc0NiwxMTM2MjkzMThdfQ==
+eyJoaXN0b3J5IjpbMTg2OTYwNzEzLDExMzYyOTMxOF19
 -->
