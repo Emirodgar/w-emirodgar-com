@@ -39,7 +39,7 @@ En los últimos años han proliferado redes que apuestan por el teletrabajo como
 No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inconvenientes o, al menos, sus problemáticas.
 
 - **Comunicación**: si no se gestiona correctamente puede ser un lastre del día a día, especialmente en equipos de varios trabajadores.
-- **Socialización**: desde la lejanía es complicado socializar con el resto de compañeros. Si no afianza
+- **Relación con compañers**: desde la lejanía es complicado socializar con el resto de compañeros. Si no afianzamos y mantenemos una comunicación fluída, la relación se podría enfriarar y, eventualmente, podría afectar al desempeño en el trabajo. Bastará con hacer quedadas físicas para mantener al equipo unido.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjkxMDAzNywxMTM2MjkzMThdfQ==
+eyJoaXN0b3J5IjpbLTE5OTc1MTg4NzQsMTEzNjI5MzE4XX0=
 -->
