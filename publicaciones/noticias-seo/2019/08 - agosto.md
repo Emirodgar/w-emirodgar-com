@@ -12,11 +12,22 @@ permalink: noticias-seo/2019/agosto
 
 # Noticias SEO agosto 2019
 
+## Google confirma
+
 Comenzamos con varias confirmaciones interesantes por parte de Google. Por un lado, John nos indica que [no sacaremos ningún beneficio si ponemos como nofollow todos los enlaces externos](https://www.searchenginejournal.com/googles-john-mueller-no-benefit-to-marking-all-outbound-links-as-nofollow/319069/).
 
 Por otro lado, y esto creo que es de gran interés para muchos SEOs, [el número de palabras dentro de un contenido no es un factor SEO](https://www.seroundtable.com/google-word-count-is-not-a-ranking-factor-27994.html).
 
 Podemos quitarnos de encima esa obsesión por calcular los porcentajes de palabras clave. Mejor apostemos por un contenido de calidad, bien estructurado y que **aporte valor y contexto a los usuarios**.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1145766318680858625">
+</amp-twitter>
+
+## Mejor renderizado Javascript
 
 Google ha [actualizado el motor de renderizado a todas sus herramientas](https://webmasters.googleblog.com/2019/08/evergreen-googlebot-in-testing-tools.html) por lo que ahora tendremos resultados más fiables en:
 
@@ -37,6 +48,7 @@ Si haces uso de AMP ahora también podrás [mejorar su rendimiento aplicando un 
 
 Esta es la realidad; no hace falta hacer grandes estudios ya que los números hablan por sí solos: [menos de la mitad de las búsquedas terminan en una visita a la página final](https://sparktoro.com/blog/less-than-half-of-google-searches-now-result-in-a-click/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzg3MjgwMywxNzI4MDM2NTQ1LC0xMD
-k3MDQxNDQ1LC02ODM5MDU1MDksMzU4MTg5NDc0XX0=
+eyJoaXN0b3J5IjpbMjAzMTM4OTI0NSwxODIzODcyODAzLDE3Mj
+gwMzY1NDUsLTEwOTcwNDE0NDUsLTY4MzkwNTUwOSwzNTgxODk0
+NzRdfQ==
 -->
