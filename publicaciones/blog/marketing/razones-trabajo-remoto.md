@@ -1,6 +1,6 @@
 ---
 title: Razones para trabajar en remoto
-description: Trabajar en remoto ayuda a reducir costes y a conciliar vida personal y 
+description: Trabajar en remoto ayuda a reducir costes y a conciliar vida personal y profesional
 date: 16/08/2019
 author: Emirodgar
 tags: seo, remoto
@@ -10,7 +10,7 @@ permalink: trabajar-en-remoto
 
 ---
 
-# Inbound Marketing 2019
+# Razones para trabajar en remoto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDg3MjAxMV19
+eyJoaXN0b3J5IjpbMTEzNjI5MzE4XX0=
 -->
