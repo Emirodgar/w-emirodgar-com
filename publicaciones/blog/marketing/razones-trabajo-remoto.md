@@ -6,7 +6,7 @@ author: Emirodgar
 tags: seo, remoto
 lang: es_ES
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
-permalink: trabajar-en-remoto
+permalink: trabajar-desde-casa
 
 ---
 
@@ -32,9 +32,9 @@ Según un [informe de fyi](https://usefyi.com/remote-work-report) un 91% de trab
 ## Ventajas de trabajar en remoto
 
 - Menores costes para la empresa y el trabajador. Todos ahorran.
-- Mejor conciliación de vida persona y profesional
-- Menor estrés
-- Mejor organización (te fuerza a ser más organizado)
+- Mejor conciliación de vida persona y profesional.
+- Menor estrés.
+- Ahorro de tiempo gracias a una mejor organización.
 - Libertad: tú te organizas (hasta cierto punto) de forma flexible.
 
 ## Inconvenientes de trabajar en remoto
@@ -48,5 +48,5 @@ No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inc
 - **Vigila los horarios**: cuando trabajas desde casa es fácil echar más horas de las que deberías. La sensación de no tener que desplazarte o ausencia de prisa suelen ser motivos que favorecen echar más tiempo. Una buena organización te ayudará a ser eficiente en el trabajo y no echar horas ni de menos ni de más.
 - **Distracciones**: debemos organizarnos bien para evitar que las distracciones cotidianas supongan un problema a nuestro trabajo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNDk0NzQ1LDExMzYyOTMxOF19
+eyJoaXN0b3J5IjpbLTY1ODY3MTY3MywxMTM2MjkzMThdfQ==
 -->
