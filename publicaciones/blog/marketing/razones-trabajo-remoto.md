@@ -41,7 +41,8 @@ No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inc
 - **Comunicación**: si no se gestiona correctamente puede ser un lastre del día a día, especialmente en equipos de varios trabajadores.
 - **Relación con compañeros**: desde la lejanía es complicado socializar con el resto de compañeros. Si no afianzamos y mantenemos una comunicación fluída, la relación se podría enfriarar y, eventualmente, podría afectar al desempeño en el trabajo. Bastará con hacer quedadas físicas para mantener al equipo unido.
 - **Sensación de soledad**: pasar tantas horas solo no es plato de buen gusto para nadie y algunas personas no son capaces de hacerlo. Un trabajo remoto parcial sería la solución.
-- **Valorar tu trabajo**: si no estás presente, poner en valor el trabajo que realizas se complica. Si la empresa cuenta con un sistema eficiente de supervisión y control de trabajo no habrá
+- **Valorar tu trabajo**: si no estás presente, poner en valor el trabajo que realizas se complica. Si la empresa cuenta con un sistema eficiente de supervisión y control de trabajo no habrá ningún problema.
+- **Vigila los horarios**: cuando trabajas desde casa es fácil echar más horas de las que deberías. La sensación de no tener que desplazarte o ausencia de prisa suelen ser motivos que favorecen echar más tiempo. Una buena organización te ayudará a ser eficiente en el trabajo y no echar horas ni de menos ni de más.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTkzMzczNywxMTM2MjkzMThdfQ==
+eyJoaXN0b3J5IjpbLTM3OTcxMTc0NiwxMTM2MjkzMThdfQ==
 -->
