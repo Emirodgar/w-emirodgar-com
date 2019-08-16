@@ -16,7 +16,10 @@ permalink: trabajar-en-remoto
 
 El principal beneficio -entre otros muchos- es el poder **conciliar tu vida profesional con tu vida personal**. Una persona equilibrada, profesional y con fuerza de voluntad aprovechará al máximo esta posibilidad para sacar el mayor rendimiento a ambas facetas.
 
-Según un [informe de fyi](https://usefyi.com/remote-work-report) un 91% de las personas entrevistadas
+Según un [informe de fyi](https://usefyi.com/remote-work-report) un 91% de trabajadores remotos aseguran estar contentos con el beneficio que les supone trabajar desde casa. Un 96% de los que ya lo hacen lo recomendarían a amigos o compañeros.
+
+- Menores costes para la empresa
+- Mejor conciliación de vida persona y pr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTMwMzY5OSwxMTM2MjkzMThdfQ==
+eyJoaXN0b3J5IjpbMTUxMzUxMTUyMiwxMTM2MjkzMThdfQ==
 -->
