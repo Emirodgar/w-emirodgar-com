@@ -39,7 +39,9 @@ En los últimos años han proliferado redes que apuestan por el teletrabajo como
 No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inconvenientes o, al menos, sus problemáticas.
 
 - **Comunicación**: si no se gestiona correctamente puede ser un lastre del día a día, especialmente en equipos de varios trabajadores.
-- **Relación con compañers**: desde la lejanía es complicado socializar con el resto de compañeros. Si no afianzamos y mantenemos una comunicación fluída, la relación se podría enfriarar y, eventualmente, podría afectar al desempeño en el trabajo. Bastará con hacer quedadas físicas para mantener al equipo unido.
+- **Relación con compañeros**: desde la lejanía es complicado socializar con el resto de compañeros. Si no afianzamos y mantenemos una comunicación fluída, la relación se podría enfriarar y, eventualmente, podría afectar al desempeño en el trabajo. Bastará con hacer quedadas físicas para mantener al equipo unido.
+- **Sensación de soledad**: pasar tantas horas solo no es plato de buen gusto para nadie y algunas personas no son capaces de hacerlo. Un trabajo remoto parcial sería la solución.
+- **Valorar tu trabajo**: si no estás presente, poner en valor el trabajo que realizas se complica. Si la empresa cuenta con un sistema eficiente de supervisión y control de trabajo no habrá
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc1MTg4NzQsMTEzNjI5MzE4XX0=
+eyJoaXN0b3J5IjpbLTQ0MTkzMzczNywxMTM2MjkzMThdfQ==
 -->
