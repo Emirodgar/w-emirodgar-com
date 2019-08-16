@@ -24,7 +24,7 @@ Podemos quitarnos de encima esa obsesión por calcular los porcentajes de palabr
   width="375"
   height="472"
   layout="responsive"
-  data-tweetid="1145766318680858625">
+  data-tweetid="1161725709926182912">
 </amp-twitter>
 
 ## Mejor renderizado Javascript
@@ -48,7 +48,7 @@ Si haces uso de AMP ahora también podrás [mejorar su rendimiento aplicando un 
 
 Esta es la realidad; no hace falta hacer grandes estudios ya que los números hablan por sí solos: [menos de la mitad de las búsquedas terminan en una visita a la página final](https://sparktoro.com/blog/less-than-half-of-google-searches-now-result-in-a-click/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTM4OTI0NSwxODIzODcyODAzLDE3Mj
-gwMzY1NDUsLTEwOTcwNDE0NDUsLTY4MzkwNTUwOSwzNTgxODk0
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTEyMDcwMjIwODAsMTgyMzg3MjgwMywxNz
+I4MDM2NTQ1LC0xMDk3MDQxNDQ1LC02ODM5MDU1MDksMzU4MTg5
+NDc0XX0=
 -->
