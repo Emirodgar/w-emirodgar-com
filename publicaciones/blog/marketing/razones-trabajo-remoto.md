@@ -18,12 +18,20 @@ El principal beneficio -entre otros muchos- es el poder **conciliar tu vida prof
 
 Según un [informe de fyi](https://usefyi.com/remote-work-report) un 91% de trabajadores remotos aseguran estar contentos con el beneficio que les supone trabajar desde casa. Un 96% de los que ya lo hacen lo recomendarían a amigos o compañeros.
 
-En los últimos años han proliferado redes que apuestan por el teletrabajo como [WWR](https://weworkremotely.com/), AngelList o [Stackoverflow](https://stackoverflow.com/jobs/remote-developer-jobs).
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1121888399172915200">
+</amp-twitter>
+
+En los últimos años han proliferado redes que apuestan por el teletrabajo como [WWR](https://weworkremotely.com/), [AngelList](https://angel.co/remote) o [Stackoverflow](https://stackoverflow.com/jobs/remote-developer-jobs).
+
 
 - Menores costes para la empresa
 - Mejor conciliación de vida persona y profesional
 - Menor estrés
 - Mejor organización
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDQzMDk4LDExMzYyOTMxOF19
+eyJoaXN0b3J5IjpbLTEwNTg0MzUyMzYsMTEzNjI5MzE4XX0=
 -->
