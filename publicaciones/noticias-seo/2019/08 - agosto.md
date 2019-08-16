@@ -20,6 +20,8 @@ Por otro lado, y esto creo que es de gran interés para muchos SEOs, [el número
 
 Podemos quitarnos de encima esa obsesión por calcular los porcentajes de palabras clave. Mejor apostemos por un contenido de calidad, bien estructurado y que **aporte valor y contexto a los usuarios**.
 
+Mucho cuidado si cedemos una subcarpeta o subdominio a un tercero para que gestione su contenido: Google lo permite pero lo vigila estrechamente.
+
 <amp-twitter 
   width="375"
   height="472"
@@ -47,8 +49,12 @@ Si haces uso de AMP ahora también podrás [mejorar su rendimiento aplicando un 
 ## Google te roba tráfico
 
 Esta es la realidad; no hace falta hacer grandes estudios ya que los números hablan por sí solos: [menos de la mitad de las búsquedas terminan en una visita a la página final](https://sparktoro.com/blog/less-than-half-of-google-searches-now-result-in-a-click/).
+
+## Google Data Studio
+
+Si aún no dominas este servicio gratuito para generación de informes te recomiendo leer ésta guía   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDcwMjIwODAsMTgyMzg3MjgwMywxNz
+eyJoaXN0b3J5IjpbLTE2MjczNjkyMjgsMTgyMzg3MjgwMywxNz
 I4MDM2NTQ1LC0xMDk3MDQxNDQ1LC02ODM5MDU1MDksMzU4MTg5
 NDc0XX0=
 -->
