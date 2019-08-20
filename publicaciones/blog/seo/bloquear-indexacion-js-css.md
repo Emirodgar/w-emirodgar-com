@@ -19,6 +19,10 @@ En ciertas ocasiones -casi siempre por temas de recursos- limitamos los tipos de
 
 ## Cómo afecta al SEO bloquear Javascript 
 
+Googlebot hace uso de Chromium para rastrear, navegar e indexar las páginas web. Con [cada cambio de algoritmo](https://emirodgar.com/cambio-algoritmo-google) va mejorando su capacidad para renderizar Javascript. Si en nuestra web utilizamos esta tecnología para mostrar contenido, el hecho de bloquear el acceso a este tipo de ficheros provocará que no pueda ejecutarlo y por tanto acceder al mismo.
+
+> Si bloquem
+
 ## ¿Qué bloqueamos sin afectar a la indexación?
 
 Comenzaremos por [bloquear el acceso a robots SPAM](https://emirodgar.com/listado-robots-bloquear) o que no nos interesa que rastreen e indexen nuestro sitio web.  Con eso veremos una reducción bastante importante de nuestros recursos.
@@ -29,5 +33,5 @@ Con estas dos medidas podremos permitir
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTYzMDE1OV19
+eyJoaXN0b3J5IjpbMTIyOTk3NTM3MV19
 -->
