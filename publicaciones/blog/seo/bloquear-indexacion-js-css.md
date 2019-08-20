@@ -19,9 +19,11 @@ En ciertas ocasiones, casi siempre por temas de recursos, limitamos los tipos de
 
 ## Cómo afecta al SEO bloquear Javascript 
 
+## ¿Qué bloqueamos sin afectar a la indexación?
 
+Comenzaremos por [bloquear el acceso a robots SPAM](https://emirodgar.com/listado-robots-bloquear) o que no nos interesa que rastreen e indexen nuestro sitio web.  Con eso veremos una reducción bastante importante de nuestros recursos.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjAyNTkwXX0=
+eyJoaXN0b3J5IjpbLTg2MjAzODM4NF19
 -->
