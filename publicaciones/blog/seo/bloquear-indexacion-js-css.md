@@ -15,7 +15,7 @@ Dentro del proceso de **indexación de una página web**, podemos hacer uso de d
 
 Lo lógico sería permitir que se indexe siempre **cualquier URL que aporte valor a nuestra estrategia**, incluyendo también todos los recursos - Javascript, CSS e imágenes- de los que hace uso.
 
-En ciertas ocasiones, casi siempre por temas de recursos, limitamos los tipos de documentos a los que tienen acceso para evitar alcanzar el límite del hosting donde estamos alojados.
+En ciertas ocasiones -casi siempre por temas de recursos- limitamos los tipos de documentos a los que tienen acceso para evitar alcanzar el [límite del hosting](https://emirodgar.com/hosting-seo) donde estamos alojados.
 
 ## Cómo afecta al SEO bloquear Javascript 
 
@@ -29,5 +29,5 @@ Con estas dos medidas podremos permitir
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2Mjk5MzY1XX0=
+eyJoaXN0b3J5IjpbMTE5NTYzMDE1OV19
 -->
