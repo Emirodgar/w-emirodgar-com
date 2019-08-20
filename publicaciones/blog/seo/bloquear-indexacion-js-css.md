@@ -29,7 +29,7 @@ Para saber si estamos en este caso podemos hacer uso de [Google Search Console](
 
 ## Cómo afecta al SEO bloquear CSS
 
-El CSS es utilizado para la parte visual de la página web.  Esto implica que no afectará de ninguna forma a la estrategia SEO puesto que los robots de  
+El CSS es utilizado para la parte visual de la página web.  Esto implica que no afectará de ninguna forma a la estrategia SEO puesto que los robots de búsqueda únicamente se fijan en el código fuente de la misma y no en su parte visual. 
 
 ## ¿Qué bloqueamos sin afectar a la indexación?
 
@@ -41,5 +41,5 @@ Por último, podemos bloquear los archivos CSS ya que esta medida no afectará a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NTQyMDQ3LDc2ODQ4NDQ4XX0=
+eyJoaXN0b3J5IjpbLTc5ODQ1NzQsNzY4NDg0NDhdfQ==
 -->
