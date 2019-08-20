@@ -13,11 +13,11 @@ permalink: bloquear-indexacion-js-css
 
 Dentro del proceso de indexación de una página web, podemos hacer uso de diversas instrucciones para determinar qué URLs queremos que se indexen e incluso qué formatos.
 
-Lo lógico sería permitir que se indexe siempre
+Lo lógico sería permitir que se indexe siempre cualquier URL que aporte valor a nuestra estrategia, y, dentro de la misma, que se incluyan todos los recursos -CSS, Javascript e imágenes- de los que haga uso.
 
 ## Cómo afecta al SEO bloquear Javascript y CSS
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkwOTk1NjVdfQ==
+eyJoaXN0b3J5IjpbLTE2NjQ5MTYwMF19
 -->
