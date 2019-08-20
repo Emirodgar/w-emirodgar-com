@@ -19,11 +19,17 @@ En ciertas ocasiones -casi siempre por temas de recursos- limitamos los tipos de
 
 ## Cómo afecta al SEO bloquear Javascript 
 
+El Javascript es utilizado para dotar a una página web de funcionalidad puesto que el HTML en el que se basa es estático.
+
 Googlebot hace uso de Chromium para rastrear, navegar e indexar las páginas web. Con [cada cambio de algoritmo](https://emirodgar.com/cambio-algoritmo-google) va mejorando su capacidad para renderizar Javascript. Si en nuestra web utilizamos esta tecnología para mostrar contenido, el hecho de bloquear el acceso a este tipo de ficheros provocará que no pueda ejecutarlo y por tanto acceder al mismo.
 
 > Si bloqueamos Javascript nos exponemos a que Googlebot no pueda acceder a parte de nuestro contenido
 
-Para saber si estamos en este caso podemos hacer uso de [Google Search Console](https://search.google.com/search-console) (Inspeccionar URL) o la [prueba de optimización para móviles](https://search.google.com/test/mobile-friendly).  En el caso de que estemos bloqueando algún fichero, nos lo dirá y podremos validar cómo ve Googlebot nuestra web. 
+Para saber si estamos en este caso podemos hacer uso de [Google Search Console](https://search.google.com/search-console) (Inspeccionar URL) o la [prueba de optimización para móviles](https://search.google.com/test/mobile-friendly).  En el caso de que estemos bloqueando algún fichero, nos lo dirá y podremos **comprobar cómo ve Googlebot nuestra web**. 
+
+## Cómo afecta al SEO bloquear CSS
+
+El CSS es utilizado para la parte visual de la página web.   
 
 ## ¿Qué bloqueamos sin afectar a la indexación?
 
@@ -35,5 +41,5 @@ Con estas dos medidas podremos permitir
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDY4NzExOV19
+eyJoaXN0b3J5IjpbNzY4NDg0NDhdfQ==
 -->
