@@ -11,13 +11,17 @@ permalink: bloquear-indexacion-js-css
 
 # Bloquear indexación de Javascript y CSS
 
-Dentro del proceso de indexación de una página web, podemos hacer uso de diversas instrucciones para determinar qué URLs queremos que se indexen e incluso qué formatos.
+Dentro del proceso de **indexación de una página web**, podemos hacer uso de diversas instrucciones para determinar qué URLs queremos que se indexen e incluso qué formatos.
 
-Lo lógico sería permitir que se indexe siempre cualquier URL que aporte valor a nuestra estrategia, y, dentro de la misma, que se incluyan todos los recursos -CSS, Javascript e imágenes- de los que haga uso.
+Lo lógico sería permitir que se indexe siempre **cualquier URL que aporte valor a nuestra estrategia**, incluyendo también todos los recursos - Javascript, CSS e imágenes- de los que hace uso.
 
-## Cómo afecta al SEO bloquear Javascript y CSS
+En ciertas ocasiones, casi siempre 
+
+## Cómo afecta al SEO bloquear Javascript 
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ5MTYwMF19
+eyJoaXN0b3J5IjpbMTMxNDA0Njg1N119
 -->
