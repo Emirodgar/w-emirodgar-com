@@ -15,7 +15,7 @@ Dentro del proceso de **indexación de una página web**, podemos hacer uso de d
 
 Lo lógico sería permitir que se indexe siempre **cualquier URL que aporte valor a nuestra estrategia**, incluyendo también todos los recursos - Javascript, CSS e imágenes- de los que hace uso.
 
-En ciertas ocasiones, casi siempre por temas de recursos, limitamos los tipos de documentos a los que tienen
+En ciertas ocasiones, casi siempre por temas de recursos, limitamos los tipos de documentos a los que tienen acceso para evitar alcanzar el límite del hosting donde estamos alojados.
 
 ## Cómo afecta al SEO bloquear Javascript 
 
@@ -23,7 +23,11 @@ En ciertas ocasiones, casi siempre por temas de recursos, limitamos los tipos de
 
 Comenzaremos por [bloquear el acceso a robots SPAM](https://emirodgar.com/listado-robots-bloquear) o que no nos interesa que rastreen e indexen nuestro sitio web.  Con eso veremos una reducción bastante importante de nuestros recursos.
 
+Por otro lado recomiendo hacer uso de servicios CDN (Content Delivery Network) como Cloudflare que nos ayudarán a cachear y optimizar la entrega de recursos estáticos.
+
+Con estas dos medidas podremos permitir
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjAzODM4NF19
+eyJoaXN0b3J5IjpbNjc2Mjk5MzY1XX0=
 -->
