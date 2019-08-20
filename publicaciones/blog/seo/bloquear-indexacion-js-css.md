@@ -21,7 +21,9 @@ En ciertas ocasiones -casi siempre por temas de recursos- limitamos los tipos de
 
 Googlebot hace uso de Chromium para rastrear, navegar e indexar las páginas web. Con [cada cambio de algoritmo](https://emirodgar.com/cambio-algoritmo-google) va mejorando su capacidad para renderizar Javascript. Si en nuestra web utilizamos esta tecnología para mostrar contenido, el hecho de bloquear el acceso a este tipo de ficheros provocará que no pueda ejecutarlo y por tanto acceder al mismo.
 
-> Si bloquem
+> Si bloqueamos Javascript nos exponemos a que Googlebot no pueda acceder a parte de nuestro contenido
+
+Para saber si estamos en este caso podemos hacer uso
 
 ## ¿Qué bloqueamos sin afectar a la indexación?
 
@@ -33,5 +35,5 @@ Con estas dos medidas podremos permitir
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTk3NTM3MV19
+eyJoaXN0b3J5IjpbLTI4NjIyNTkxN119
 -->
