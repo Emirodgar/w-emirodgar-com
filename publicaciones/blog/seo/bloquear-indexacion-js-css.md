@@ -23,7 +23,7 @@ Googlebot hace uso de Chromium para rastrear, navegar e indexar las páginas web
 
 > Si bloqueamos Javascript nos exponemos a que Googlebot no pueda acceder a parte de nuestro contenido
 
-Para saber si estamos en este caso podemos hacer uso
+Para saber si estamos en este caso podemos hacer uso de Google Search Console (Inspeccionar URL) o la [prueba de optimización para móviles](https://search.google.com/test/mobile-friendly). 
 
 ## ¿Qué bloqueamos sin afectar a la indexación?
 
@@ -35,5 +35,5 @@ Con estas dos medidas podremos permitir
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjIyNTkxN119
+eyJoaXN0b3J5IjpbLTg2MjAwNDk4NV19
 -->
