@@ -108,6 +108,9 @@ Este listado nos ayudará a:
 ## Perfiles de Twitter oficiales
 
 - Accelerate with Google [https://twitter.com/AccelwithGoogle](https://twitter.com/AccelwithGoogle)
+- Android Studio: [https://twitter.com/androidstudio](https://twitter.com/androidstudio)
+- Chrome Dev Tools: [https://twitter.com/chromedevtools](https://twitter.com/chromedevtools)
+- Chrome Experiments: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODM1MDU0NV19
+eyJoaXN0b3J5IjpbMjk3MDUxODddfQ==
 -->
