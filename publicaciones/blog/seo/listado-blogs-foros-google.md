@@ -1,7 +1,7 @@
 ---
 title: Listado de blogs y foros oficiales de Google
 description: Si vas a trabajar una estrategia digital necesitarás saber dónde encontrar toda la información relacionada con Google
-image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
+image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 date: 23/08/2019
 author: Emirodgar
 lang: es_ES
@@ -97,7 +97,12 @@ Este listado nos ayudará a:
 -   Google Apps:  [goo.gl/7o1ZAj](http://goo.gl/7o1ZAj)
 -   Google Docs:  [goo.gl/CVuDym](http://goo.gl/CVuDym)
 -   Google Drive:  [goo.gl/2tyaYM](http://goo.gl/2tyaYM)
--
+-   Google Earth:  [goo.gl/XT7LJr](http://goo.gl/XT7LJr)
+-   Google Map Maker:  [goo.gl/YVRQcK](http://goo.gl/YVRQcK)
+-   Google Maps:  [goo.gl/6ciOm5](http://goo.gl/6ciOm5)
+-   Google Maps Engine Lite:  [goo.gl/V10fWx](http://goo.gl/V10fWx)
+-   Google Mobile Help Forum:  [goo.gl/Hd0PlC](http://goo.gl/Hd0PlC)
+-   Google Tag Manager:  [goo.gl/iKu2g5](http://goo.gl/iKu2g5)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxNzgzOTMyXX0=
+eyJoaXN0b3J5IjpbMTAyNzIzNDUyMF19
 -->
