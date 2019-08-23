@@ -111,12 +111,15 @@ Este listado nos ayudará a:
 - Android Studio: [https://twitter.com/androidstudio](https://twitter.com/androidstudio)
 - Analytics: [https://twitter.com/googleanalytics](https://twitter.com/googleanalytics)
 - Chrome: [https://twitter.com/googlechrome](https://twitter.com/googlechrome)
+- Chrome Developers: [https://twitter.com/ChromiumDev](https://twitter.com/ChromiumDev)
 - Chrome Dev Tools: [https://twitter.com/chromedevtools](https://twitter.com/chromedevtools)
 - Chrome Experiments: [https://twitter.com/chromeexp](https://twitter.com/chromeexp)
+- Cloud: [https://twitter.com/googlecloud](https://twitter.com/googlecloud)
+- Design: [https://twitter.com/GoogleDesign](https://twitter.com/GoogleDesign)
 - Firebase: [https://twitter.com/firebase](https://twitter.com/firebase)
 - G. Suite Developers: [https://twitter.com/gsuitedevs](https://twitter.com/gsuitedevs)
 - Gmail: [https://twitter.com/gmail](https://twitter.com/gmail)
 - Google Accesibility: [https://twitter.com/googleaccess](https://twitter.com/googleaccess)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA0ODk2MDFdfQ==
+eyJoaXN0b3J5IjpbLTEwMDQ4MTg5NDldfQ==
 -->
