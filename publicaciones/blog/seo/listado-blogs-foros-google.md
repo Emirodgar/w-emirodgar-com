@@ -11,9 +11,9 @@ permalink: listado-blogs-foros-google
 
 # Listado de blogs y foros oficiales de Google
 
-Google publica miles de artículos cada día en plataformas como Blogspot, sus foros de soporte o en los cientos de canales de Youtube. Acceder y gestionar tanta información se vuelve realmente complicado.
+Google publica miles de artículos cada día en plataformas como Blogspot, Twitter, sus foros de soporte o en sus canales de Youtube. Acceder y gestionar tanta información se vuelve realmente complicado si no nos organizamos.
 
-Este listado nos ayudará a:
+He preparado un listado de blogs, foros y también perfiles de Twitter oficiales de :
 
  - Saber dónde encontrar información relevante asociada a los productos de Google que utilizas.
  - Saber dónde podemos pedir ayuda.
@@ -121,7 +121,7 @@ Este listado nos ayudará a:
 - Firebase: [https://twitter.com/firebase](https://twitter.com/firebase)
 - España: [https://twitter.com/googlees](https://twitter.com/googlees)
 - Fonts: [https://twitter.com/googlefonts](https://twitter.com/googlefonts)
-- Global Ads: https://twitter.com/googleglobalads
+- Global Ads: [https://twitter.com/googleglobalads](https://twitter.com/googleglobalads)
 - G. Suite Developers: [https://twitter.com/gsuitedevs](https://twitter.com/gsuitedevs)
 - Gmail: [https://twitter.com/gmail](https://twitter.com/gmail)
 - Google Accesibility: [https://twitter.com/googleaccess](https://twitter.com/googleaccess)
@@ -136,5 +136,5 @@ Este listado nos ayudará a:
 - Webmasters: [https://twitter.com/googlewmc](https://twitter.com/googlewmc)
 - Think with Google: [https://twitter.com/thinkwithgoogle](https://twitter.com/thinkwithgoogle)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc1MzIxNiwtMTAwNDgxODk0OV19
+eyJoaXN0b3J5IjpbODEzOTcxMjE1LC0xMDA0ODE4OTQ5XX0=
 -->
