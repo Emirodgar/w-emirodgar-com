@@ -11,9 +11,14 @@ permalink: listado-blogs-foros-google
 
 # Listado de blogs y foros oficiales de Google
 
-Google publica miles de artículos cada día en multitud de plataformas digitales como Blogspot, sus foros de soporte o en los cientos de canales de Youtube. 
+Google publica miles de artículos cada día en plataformas como Blogspot, sus foros de soporte o en los cientos de canales de Youtube. 
 
 Acceder y gestionar tanta información se vuelve realmente complicado si no contamos con un esquema.
+
+Este listado nos ayudará a:
+
+ - Estar actualizado res
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTc0NjczM119
+eyJoaXN0b3J5IjpbMTQ5NzUyNTY1NF19
 -->
