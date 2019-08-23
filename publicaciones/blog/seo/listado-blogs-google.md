@@ -44,7 +44,8 @@ Este listado nos ayudará a:
 
 -   YouTube Creator:  [goo.gl/je4fNd](http://goo.gl/je4fNd)
 -   YouTube:  [goo.gl/7C8X8p](http://goo.gl/7C8X8p)
-- Webmasters [[https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)]
+- Webmasters [goo.gl/Hyut45](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
+- - [SEO Mythbusting](https://www.youtube.com/watch?v=B3eysnid0Sk&list=PLKoqnv2vTMUN6lFDz6qMBsz7-Jm8YRV9H)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc4NTc4NDhdfQ==
+eyJoaXN0b3J5IjpbLTI1NzI3MjQwMl19
 -->
