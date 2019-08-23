@@ -27,6 +27,7 @@ Este listado nos ayudará a:
 - Online Security:  [goo.gl/03MRU1](http://goo.gl/03MRU1)
 -   Google & Your Business:  [goo.gl/V1CBLd](http://goo.gl/V1CBLd)
 -   Commerce:  [goo.gl/G5VH9x](http://goo.gl/G5VH9x)
+-  Ads Developer: [goo.gl/HGjkyg5](https://googleadsdeveloper.blogspot.com/)
 
 ## Blogs SEO y Marketing Digital
 
@@ -104,7 +105,9 @@ Este listado nos ayudará a:
 -   Google Mobile Help Forum:  [goo.gl/Hd0PlC](http://goo.gl/Hd0PlC)
 -   Google Tag Manager:  [goo.gl/iKu2g5](http://goo.gl/iKu2g5)
 
-## Perfiles de Twitter
+## Perfiles de Twitter oficiales
+
+- Accelerate with Google [https://twitter.com/AccelwithGoogle](https://twitter.com/AccelwithGoogle)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTg2MTgxOF19
+eyJoaXN0b3J5IjpbMjA2ODM1MDU0NV19
 -->
