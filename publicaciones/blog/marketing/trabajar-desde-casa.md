@@ -55,6 +55,11 @@ Para mí, el mejor recurso para poder trabajar desde casa debe ser un buen libro
 - [It doesn't have to be crazy ay work](https://basecamp.com/books/calm)
 - [Remote: Office not required](https://basecamp.com/books/remote)
 
+También podemos revisar las guías creadas por grandes empresas que apuestan por el trabajo remoto para sus equipos internos:
+
+- [Why great teams ambrace remote work](https://info.trello.com/embrace-remote-work-ultimate-guide)
+- [How to grow, manage and work with remote teams](https://zapier.com/learn/remote-work/)
+
 ## Experiencias de trabajar desde casa
 
 Aunque todas son en inglés, creo que se entienden perfectamente y son buenos ejemplos para hacernos una idea de cómo es trabajar desde casa:
@@ -66,6 +71,6 @@ Aunque todas son en inglés, creo que se entienden perfectamente y son buenos ej
  También tenemos la experiencia de Matt que cuenta [cómo es trabajar en remoto tras 16 años haciéndolo](https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/) y Caileen, [que no fue capaz de conseguirlo](https://www.careercontessa.com/advice/remote-work/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM3NzM2OTksLTcxODA2MDIzOSwtNj
-U4NjcxNjczXX0=
+eyJoaXN0b3J5IjpbLTQxNTU1Njk2MywtNzE4MDYwMjM5LC02NT
+g2NzE2NzNdfQ==
 -->
