@@ -13,7 +13,7 @@ permalink: listado-blogs-foros-google
 
 Google publica miles de artículos cada día en plataformas como Blogspot, Twitter, sus foros de soporte o en sus canales de Youtube. Acceder y gestionar tanta información se vuelve realmente complicado si no nos organizamos.
 
-He preparado un listado de blogs, foros y también perfiles de Twitter oficiales de :
+He preparado un listado de blogs, foros y también perfiles de Twitter oficiales de Google para que podamos estar al día:
 
  - Saber dónde encontrar información relevante asociada a los productos de Google que utilizas.
  - Saber dónde podemos pedir ayuda.
@@ -136,5 +136,5 @@ He preparado un listado de blogs, foros y también perfiles de Twitter oficiales
 - Webmasters: [https://twitter.com/googlewmc](https://twitter.com/googlewmc)
 - Think with Google: [https://twitter.com/thinkwithgoogle](https://twitter.com/thinkwithgoogle)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzOTcxMjE1LC0xMDA0ODE4OTQ5XX0=
+eyJoaXN0b3J5IjpbNTA5NjkwMzY4LC0xMDA0ODE4OTQ5XX0=
 -->
