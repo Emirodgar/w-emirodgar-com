@@ -54,8 +54,11 @@ No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inc
 
 Aunque todas son en inglés, creo que se entienden perfectamente y son buenos ejemplos para hacernos una idea de cómo es trabajar desde casa:
 
- - Ted Goas (Stack Overflow)
+ - [Ted Goas (Stack Overflow)](https://blog.prototypr.io/what-its-like-working-remotely-on-stack-overflow-s-product-design-team-c3a4034c265e)
+ - [Emilie Schario (GitLab)](http://shedoesdatathings.com/post/1-year-at-gitlab/)
+ 
+ También tenemos la experiencia de Matt que cuenta [cómo es trabajar en remoto tras 16 años haciéndol](https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/)o.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTQwMTYzMiwtNjU4NjcxNjczXX0=
+eyJoaXN0b3J5IjpbMTk2NzUwMjY4MSwtNjU4NjcxNjczXX0=
 -->
