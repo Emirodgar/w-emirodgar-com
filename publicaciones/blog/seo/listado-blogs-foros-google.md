@@ -65,6 +65,39 @@ Este listado nos ayudará a:
   - [Ask Google Webmasters](https://www.youtube.com/watch?v=dOrOPDcGRO0&list=PLKoqnv2vTMUM9wKeb-Gvm8bgpFM72yiXw)
 
 ## Foros de ayuda
+
+-   Google Products Forums:  [goo.gl/qo30kj](http://goo.gl/qo30kj)
+-   Google Search Forum:  [goo.gl/e5QV5O](http://goo.gl/e5QV5O)
+-   Google Custom Search:  [goo.gl/1l09Hs](http://goo.gl/1l09Hs)
+-   Webmaster Central:  [goo.gl/xJ5PyV](http://goo.gl/xJ5PyV)
+-   AdSense in English:  [goo.gl/jHcoMn](http://goo.gl/jHcoMn)
+-   DoubleClick for Publishers:  [goo.gl/6IKXMI](http://goo.gl/6IKXMI)
+-   DoubleClick Rich Media:  [goo.gl/WUe5ym](http://goo.gl/WUe5ym)
+-   Google Affiliate Network:  [goo.gl/aAXRo8](http://goo.gl/aAXRo8)
+-   Google Ad Grants Help Forum:  [goo.gl/0U2hgR](http://goo.gl/0U2hgR)
+-   Blogger:  [goo.gl/5xR3Ux](http://goo.gl/5xR3Ux)
+-   Google Sites:  [goo.gl/hC607O](http://goo.gl/hC607O)
+-   Gmail:  [goo.gl/ILriqy](http://goo.gl/ILriqy)
+-   Google+:  [goo.gl/dEjCzu](http://goo.gl/dEjCzu)
+-   Google Chat:  [goo.gl/T5u5hL](http://goo.gl/T5u5hL)
+-   Google Voice Forum:  [goo.gl/DbSDA5](http://goo.gl/DbSDA5)
+-   Hangouts:  [goo.gl/CtfISz](http://goo.gl/CtfISz)
+-   Google Translator Toolkit API:  [goo.gl/J5ocm1](http://goo.gl/J5ocm1)
+-   Google Analytics:  [goo.gl/wSCHqt](http://goo.gl/wSCHqt)
+-   Google Calendar:  [goo.gl/E0KSnH](http://goo.gl/E0KSnH)
+-   Nexus:  [goo.gl/gkdGAf](http://goo.gl/gkdGAf)
+-   Picasa:  [goo.gl/YF2tTi](http://goo.gl/YF2tTi)
+-   Postini:  [goo.gl/TPJWXO](http://goo.gl/TPJWXO)
+-   Sketchup:  [goo.gl/A6Z3t7](http://goo.gl/A6Z3t7)
+-   Google and Your Business:  [goo.gl/oB8p35](http://goo.gl/oB8p35)
+-   Google Business Sitebuilder:  [goo.gl/JcsXL6](http://goo.gl/JcsXL6)
+-   Google Commerce Search:  [goo.gl/TxyK7r](http://goo.gl/TxyK7r)
+-   Google Checkout Merchant:  [goo.gl/taMkrg](http://goo.gl/taMkrg)
+-   Google Merchant Center:  [goo.gl/cWyHKr](http://goo.gl/cWyHKr)
+-   Google Apps:  [goo.gl/7o1ZAj](http://goo.gl/7o1ZAj)
+-   Google Docs:  [goo.gl/CVuDym](http://goo.gl/CVuDym)
+-   Google Drive:  [goo.gl/2tyaYM](http://goo.gl/2tyaYM)
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU4MTg5NjJdfQ==
+eyJoaXN0b3J5IjpbNDQxNzgzOTMyXX0=
 -->
