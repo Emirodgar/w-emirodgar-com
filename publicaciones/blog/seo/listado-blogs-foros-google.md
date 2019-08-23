@@ -130,7 +130,9 @@ Este listado nos ayudará a:
 - Photos: [https://twitter.com/googlephotos](https://twitter.com/googlephotos)
 - Small business: [https://twitter.com/googlesmallbiz](https://twitter.com/googlesmallbiz)
 - Summer of code: [https://twitter.com/gsoc](https://twitter.com/gsoc)
+- Trends: [https://twitter.com/googletrends](https://twitter.com/googletrends)
+- Web designer: [https://twitter.com/googlewdesigner](https://twitter.com/googlewdesigner)
+- Webmasters: [https://twitter.com/googlewmc](https://twitter.com/googlewmc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk4NzgyMjMsLTEwMDQ4MTg5NDldfQ
-==
+eyJoaXN0b3J5IjpbLTcxMjg3OTEzNywtMTAwNDgxODk0OV19
 -->
