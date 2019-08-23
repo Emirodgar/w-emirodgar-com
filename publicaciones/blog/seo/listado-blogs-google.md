@@ -15,10 +15,12 @@ Google publica miles de artículos cada día en plataformas como Blogspot, sus f
 
 Este listado nos ayudará a:
 
- - Saber dónde encontrar información relevante asociada a los productos de Google que utilizas.
  - Estar al día respecto a cualquier novedad de Google.
- - 
+ - Saber dónde encontrar información relevante asociada a los productos de Google que utilizas.
+ - Saber dónde podemos pedir ayuda.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjExMjQwNjRdfQ==
+eyJoaXN0b3J5IjpbLTIxNzcxNjcyXX0=
 -->
