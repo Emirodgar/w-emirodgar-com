@@ -50,7 +50,7 @@ No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inc
 
 ## Recursos para trabajar en remoto
 
-Más que recursos específicos de cada trabajo, me gustaría recomendar lecturas. 
+Para mí,  
 
 - [It doesn't have to be crazy ay work](https://basecamp.com/books/calm)
 - [Remote: Office not required](https://basecamp.com/books/remote)
@@ -65,5 +65,6 @@ Aunque todas son en inglés, creo que se entienden perfectamente y son buenos ej
  También tenemos la experiencia de Matt que cuenta [cómo es trabajar en remoto tras 16 años haciéndolo](https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/) y Caileen, [que no fue capaz de conseguirlo](https://www.careercontessa.com/advice/remote-work/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODA2MDIzOSwtNjU4NjcxNjczXX0=
+eyJoaXN0b3J5IjpbLTE1MjY1Nzk5MiwtNzE4MDYwMjM5LC02NT
+g2NzE2NzNdfQ==
 -->
