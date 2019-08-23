@@ -50,7 +50,7 @@ No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inc
 
 ## Recursos para trabajar en remoto
 
-Para mí,  
+Para mí, el mejor recurso para poder trabajar desde casa debe ser un buen libro que nos facilite el entendimiento de esta nueva situación. 
 
 - [It doesn't have to be crazy ay work](https://basecamp.com/books/calm)
 - [Remote: Office not required](https://basecamp.com/books/remote)
@@ -61,10 +61,11 @@ Aunque todas son en inglés, creo que se entienden perfectamente y son buenos ej
 
  - [Ted Goas (Stack Overflow)](https://blog.prototypr.io/what-its-like-working-remotely-on-stack-overflow-s-product-design-team-c3a4034c265e)
  - [Emilie Schario (GitLab)](http://shedoesdatathings.com/post/1-year-at-gitlab/)
+ - [Scott Berkun (Automattic)](https://scottberkun.com/yearwithoutpants/)
  
  También tenemos la experiencia de Matt que cuenta [cómo es trabajar en remoto tras 16 años haciéndolo](https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/) y Caileen, [que no fue capaz de conseguirlo](https://www.careercontessa.com/advice/remote-work/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY1Nzk5MiwtNzE4MDYwMjM5LC02NT
-g2NzE2NzNdfQ==
+eyJoaXN0b3J5IjpbLTEwMDM3NzM2OTksLTcxODA2MDIzOSwtNj
+U4NjcxNjczXX0=
 -->
