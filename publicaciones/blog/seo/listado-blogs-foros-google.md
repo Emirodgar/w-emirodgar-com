@@ -25,6 +25,8 @@ Este listado nos ayudará a:
 - Think With Google:  [goo.gl/75oPW0](http://goo.gl/75oPW0)
 - Chrome:  [goo.gl/1bCPpa](http://goo.gl/1bCPpa)
 - Online Security:  [goo.gl/03MRU1](http://goo.gl/03MRU1)
+-   Google & Your Business:  [goo.gl/V1CBLd](http://goo.gl/V1CBLd)
+-   Commerce:  [goo.gl/G5VH9x](http://goo.gl/G5VH9x)
 
 ## Blogs SEO y Marketing Digital
 
@@ -39,8 +41,19 @@ Este listado nos ayudará a:
 -   Cloud:  [goo.gl/nQuYBM](http://goo.gl/nQuYBM)
 -   Analytics:  [goo.gl/9LKizW](http://goo.gl/9LKizW)
 -   Android:  [goo.gl/jo98mU](http://goo.gl/jo98mU)
+-  Gmail:  [goo.gl/E2REJQ](http://goo.gl/E2REJQ)
+-   Translate:  [goo.gl/TI4ud0](http://goo.gl/TI4ud0)
+-   Shopping:  [goo.gl/1BXHif](http://goo.gl/1BXHif)
 
+## Blogs de publicidad
 
+-   Inside AdWords:  [goo.gl/DbktUp](http://goo.gl/DbktUp)
+-   Inside AdSense:  [goo.gl/UfnfbL](http://goo.gl/UfnfbL)
+-   DoubleClick Advertiser:  [goo.gl/VDnsTt](http://goo.gl/VDnsTt)
+-   DoubleClick Publishers:  [goo.gl/CpYMeB](http://goo.gl/CpYMeB)
+-   DoubleClick Search:  [goo.gl/O9M0Fu](http://goo.gl/O9M0Fu)
+-   Mobile Ads:  [goo.gl/BnUzuu](http://goo.gl/BnUzuu)
+-   Agency:  [goo.gl/bsjdYf](http://goo.gl/bsjdYf)
 
 ## Canales de Youtube
 
@@ -49,6 +62,9 @@ Este listado nos ayudará a:
 - Webmasters [goo.gl/Hyut45](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
   - [SEO Mythbusting](https://www.youtube.com/watch?v=B3eysnid0Sk&list=PLKoqnv2vTMUN6lFDz6qMBsz7-Jm8YRV9H)
   - [Javascript SEO](https://www.youtube.com/watch?v=LXF8bM4g-J4&list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
+  - [Ask Google Webmasters](https://www.youtube.com/watch?v=dOrOPDcGRO0&list=PLKoqnv2vTMUM9wKeb-Gvm8bgpFM72yiXw)
+
+## Foros de ayuda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjU0MDY0M119
+eyJoaXN0b3J5IjpbLTE2ODU4MTg5NjJdfQ==
 -->
