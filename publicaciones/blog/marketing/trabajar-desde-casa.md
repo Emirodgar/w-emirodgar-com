@@ -57,8 +57,9 @@ Para mí, el mejor recurso para poder trabajar desde casa debe ser un buen libro
 
 También podemos revisar las guías creadas por grandes empresas que apuestan por el trabajo remoto para sus equipos internos:
 
-- [Why great teams ambrace remote work](https://info.trello.com/embrace-remote-work-ultimate-guide)
+- [Why great teams embrace remote work](https://info.trello.com/embrace-remote-work-ultimate-guide)
 - [How to grow, manage and work with remote teams](https://zapier.com/learn/remote-work/)
+- [The remote manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
 
 ## Experiencias de trabajar desde casa
 
@@ -68,9 +69,9 @@ Aunque todas son en inglés, creo que se entienden perfectamente y son buenos ej
  - [Emilie Schario (GitLab)](http://shedoesdatathings.com/post/1-year-at-gitlab/)
  - [Scott Berkun (Automattic)](https://scottberkun.com/yearwithoutpants/)
  
- También tenemos la experiencia de Matt que cuenta [cómo es trabajar en remoto tras 16 años haciéndolo](https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/) y Caileen, [que no fue capaz de conseguirlo](https://www.careercontessa.com/advice/remote-work/).
+ También tenemos la experiencia de Matt que cuenta [cómo es trabajar en remoto tras 16 años](https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/) y Caileen, [que no fue capaz de conseguirlo](https://www.careercontessa.com/advice/remote-work/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzA4NTgyNSwtNzE4MDYwMjM5LC02NT
-g2NzE2NzNdfQ==
+eyJoaXN0b3J5IjpbLTE2NDQ0Nzk4NTIsLTcxODA2MDIzOSwtNj
+U4NjcxNjczXX0=
 -->
