@@ -50,6 +50,10 @@ No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inc
 
 ## Recursos para trabajar en remoto
 
+Más que recursos específicos de cada trabajo, me gustaría recomendar lecturas. 
+
+- [It doesn't have to be crazy ay work](https://basecamp.com/books/calm)
+
 ## Experiencias de trabajar desde casa
 
 Aunque todas son en inglés, creo que se entienden perfectamente y son buenos ejemplos para hacernos una idea de cómo es trabajar desde casa:
@@ -57,8 +61,8 @@ Aunque todas son en inglés, creo que se entienden perfectamente y son buenos ej
  - [Ted Goas (Stack Overflow)](https://blog.prototypr.io/what-its-like-working-remotely-on-stack-overflow-s-product-design-team-c3a4034c265e)
  - [Emilie Schario (GitLab)](http://shedoesdatathings.com/post/1-year-at-gitlab/)
  
- También tenemos la experiencia de Matt que cuenta [cómo es trabajar en remoto tras 16 años haciéndol](https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/)o.
+ También tenemos la experiencia de Matt que cuenta [cómo es trabajar en remoto tras 16 años haciéndolo](https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/) y Caileen, [que no fue capaz de conseguirlo](https://www.careercontessa.com/advice/remote-work/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzUwMjY4MSwtNjU4NjcxNjczXX0=
+eyJoaXN0b3J5IjpbLTQzMTMzOTI3NSwtNjU4NjcxNjczXX0=
 -->
