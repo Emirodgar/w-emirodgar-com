@@ -126,6 +126,11 @@ Este listado nos ayudará a:
 - Gmail: [https://twitter.com/gmail](https://twitter.com/gmail)
 - Google Accesibility: [https://twitter.com/googleaccess](https://twitter.com/googleaccess)
 - Local guides: [https://twitter.com/localguides](https://twitter.com/localguides)
+- Maps: [https://twitter.com/googlemaps](https://twitter.com/googlemaps)
+- Photos: [https://twitter.com/googlephotos](https://twitter.com/googlephotos)
+- Small business: [https://twitter.com/googlesmallbiz](https://twitter.com/googlesmallbiz)
+- Summer of code: [https://twitter.com/gsoc](https://twitter.com/gsoc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTIxOTEsLTEwMDQ4MTg5NDldfQ==
+eyJoaXN0b3J5IjpbLTEzOTk4NzgyMjMsLTEwMDQ4MTg5NDldfQ
+==
 -->
