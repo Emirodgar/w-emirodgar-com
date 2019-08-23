@@ -119,9 +119,13 @@ Este listado nos ayudará a:
 - Developers: [https://twitter.com/googledevs](https://twitter.com/googledevs)
 - Display: [https://twitter.com/googledisplay](https://twitter.com/googledisplay)
 - Firebase: [https://twitter.com/firebase](https://twitter.com/firebase)
+- España: [https://twitter.com/googlees](https://twitter.com/googlees)
+- Fonts: [https://twitter.com/googlefonts](https://twitter.com/googlefonts)
+- Global Ads: https://twitter.com/googleglobalads
 - G. Suite Developers: [https://twitter.com/gsuitedevs](https://twitter.com/gsuitedevs)
 - Gmail: [https://twitter.com/gmail](https://twitter.com/gmail)
 - Google Accesibility: [https://twitter.com/googleaccess](https://twitter.com/googleaccess)
+- Local guides: [https://twitter.com/localguides](https://twitter.com/localguides)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4Njk1OTIyLC0xMDA0ODE4OTQ5XX0=
+eyJoaXN0b3J5IjpbLTg1NTIxOTEsLTEwMDQ4MTg5NDldfQ==
 -->
