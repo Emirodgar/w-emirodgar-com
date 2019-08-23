@@ -1,7 +1,7 @@
 ---
 title: Ventajas y desventajas de trabajar desde casa
 description: Trabajar en remoto ayuda a reducir costes y a conciliar vida personal y profesional
-date: 16/08/2019
+date: 23/08/2019
 author: Emirodgar
 tags: seo, remoto
 lang: es_ES
@@ -71,6 +71,6 @@ Aunque todas son en inglés, creo que se entienden perfectamente y son buenos ej
  También tenemos la experiencia de Matt que cuenta [cómo es trabajar en remoto tras 16 años haciéndolo](https://a.wholelottanothing.org/2019/08/09/tips-from-16-years-of-working-from-home/) y Caileen, [que no fue capaz de conseguirlo](https://www.careercontessa.com/advice/remote-work/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTU1Njk2MywtNzE4MDYwMjM5LC02NT
+eyJoaXN0b3J5IjpbMjEwMzA4NTgyNSwtNzE4MDYwMjM5LC02NT
 g2NzE2NzNdfQ==
 -->
