@@ -116,10 +116,12 @@ Este listado nos ayudará a:
 - Chrome Experiments: [https://twitter.com/chromeexp](https://twitter.com/chromeexp)
 - Cloud: [https://twitter.com/googlecloud](https://twitter.com/googlecloud)
 - Design: [https://twitter.com/GoogleDesign](https://twitter.com/GoogleDesign)
+- Developers: [https://twitter.com/googledevs](https://twitter.com/googledevs)
+- Display: [https://twitter.com/googledisplay](https://twitter.com/googledisplay)
 - Firebase: [https://twitter.com/firebase](https://twitter.com/firebase)
 - G. Suite Developers: [https://twitter.com/gsuitedevs](https://twitter.com/gsuitedevs)
 - Gmail: [https://twitter.com/gmail](https://twitter.com/gmail)
 - Google Accesibility: [https://twitter.com/googleaccess](https://twitter.com/googleaccess)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ4MTg5NDldfQ==
+eyJoaXN0b3J5IjpbNTA4Njk1OTIyLC0xMDA0ODE4OTQ5XX0=
 -->
