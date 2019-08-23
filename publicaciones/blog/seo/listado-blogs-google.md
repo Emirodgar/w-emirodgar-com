@@ -1,5 +1,5 @@
 ---
-title: Listado de todos los blogs y foros de Google
+title: Listado de blogs y foros oficiales de Google
 description: Si vas a trabajar una estrategia digital necesitarás saber dónde encontrar toda la información relacionada con Google
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 date: 23/08/2019
@@ -9,11 +9,11 @@ permalink: listado-blogs-foros-google
 
 ---
 
-# Listado de todos los blogs y foros de Google
+# Listado de blogs y foros oficiales de Google
 
-Google publica miles de artículos diarios en multitud de plataformas digitales como Blogspot, sus foros de soporte o en los cientos de canales de Youtube. 
+Google publica miles de artículos cada día en multitud de plataformas digitales como Blogspot, sus foros de soporte o en los cientos de canales de Youtube. 
 
-Acceder y gestionar tanta información se vuelve realmente complicado
+Acceder y gestionar tanta información se vuelve realmente complicado si no contamos con un esquema.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzkxODY2XX0=
+eyJoaXN0b3J5IjpbMTM5MTc0NjczM119
 -->
