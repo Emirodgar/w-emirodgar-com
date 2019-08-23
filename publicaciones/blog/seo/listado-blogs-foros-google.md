@@ -136,8 +136,8 @@ He preparado un listado de blogs, foros y también perfiles de Twitter oficiales
 - Webmasters: [https://twitter.com/googlewmc](https://twitter.com/googlewmc)
 - Think with Google: [https://twitter.com/thinkwithgoogle](https://twitter.com/thinkwithgoogle)
 
-Aunque no es un perfil oficial de Google, recomiendo seguir a [John Mueller](https://twitter.com/JohnMu) (Webmaster Trends Analyst en Google) y a [Danny Sullivan](https://twitter.com/dannysullivan)
+Aunque no son perfiles oficiales de Google, recomiendo seguir a [John Mueller](https://twitter.com/JohnMu) (Webmaster Trends Analyst en Google) y a [Danny Sullivan](https://twitter.com/dannysullivan). Siempre aportan valor en debates interesantes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3NzA3MTkwLDEwNzQ0NTY5MDQsNTA5Nj
+eyJoaXN0b3J5IjpbMjM3MjMwMTc5LDEwNzQ0NTY5MDQsNTA5Nj
 kwMzY4LC0xMDA0ODE4OTQ5XX0=
 -->
