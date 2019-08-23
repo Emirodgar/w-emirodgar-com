@@ -47,6 +47,15 @@ No todo va a ser bueno, trabajar desde casa o en la playa también tiene sus inc
 - **Valorar tu trabajo**: si no estás presente, poner en valor el trabajo que realizas se complica. Si la empresa cuenta con un sistema eficiente de supervisión y control de trabajo no habrá ningún problema.
 - **Vigila los horarios**: cuando trabajas desde casa es fácil echar más horas de las que deberías. La sensación de no tener que desplazarte o ausencia de prisa suelen ser motivos que favorecen echar más tiempo. Una buena organización te ayudará a ser eficiente en el trabajo y no echar horas ni de menos ni de más.
 - **Distracciones**: debemos organizarnos bien para evitar que las distracciones cotidianas supongan un problema a nuestro trabajo.
+
+## Recursos para trabajar en remoto
+
+## Experiencias de trabajar desde casa
+
+Aunque todas son en inglés, creo que se entienden perfectamente y son buenos ejemplos para hacernos una idea de cómo es trabajar desde casa:
+
+ - Ted Goas (Stack Overflow)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODY3MTY3M119
+eyJoaXN0b3J5IjpbMTc3OTQwMTYzMiwtNjU4NjcxNjczXX0=
 -->
