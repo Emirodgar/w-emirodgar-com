@@ -29,6 +29,8 @@ Tanto imágenes como vídeos pueden provocar que nuestra página sea más lenta 
 
  1. [Carga selectiva (lazy load)](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/?hl=es) en base a lo que se va mostrando en pantalla. En lugar de cargar todas las imágenes o vídeos de golpe, únicamente cargamos aquellas que entran en el campo de visión del usuario. A medida que hace scroll, vamos cargando las siguientes.
  2. Hacer uso de los nuevos formatos de imágenes como [webp](https://developers.google.com/speed/webp/) para mejorar la velocidad.
+ 3. [Comprimir las imágenes](https://web.dev/use-imagemin-to-compress-images) para que ocupen menos espacio.
+ 4. Usar imágenes con las dimensiones adecuadas. No tiene sentido poner una imagen grande si la vamos a m
 
 > Es importante [optimizar las imágenes ](https://emirodgar.com/optimizacion-imagenes-seo) para que aporten valor a la estrategia SEO.
 
@@ -37,5 +39,5 @@ Tanto imágenes como vídeos pueden provocar que nuestra página sea más lenta 
 ## Eliminar aquello que no utilizamos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODUyODE0N119
+eyJoaXN0b3J5IjpbLTkyNjAxMjUxXX0=
 -->
