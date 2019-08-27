@@ -23,6 +23,8 @@ El [hosting afecta al SEO](https://emirodgar.com/hosting-seo) por lo que el serv
 >
 Si tarda mucho en servir nuestra página web, el resto de carga se verá afectado por lo que garantizar un rápido envío del primer byte es crucial para un correcto tiempo de carga.
 
+Si nuestro servidor web no los permite, podemos instalar el [módulo PageSpeed de Google](https://developers.google.com/speed/pagespeed/module/?hl=es-419) que automáticamente configurará una serie de parámetros para optimizar el sitio web.
+
 ## 2. Elementos multimedia
 
 Tanto imágenes como vídeos pueden provocar que nuestra página sea más lenta de lo necesario. A este respecto hay varias cosas que podemos hacer:
@@ -51,5 +53,5 @@ Hay ciertos recursos que creamos una vez y no volvemos a utilizar. Por ello se r
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NTQzMTc2LC01NTA3MzQwNzhdfQ==
+eyJoaXN0b3J5IjpbLTgzNzU0MjYyMCwtNTUwNzM0MDc4XX0=
 -->
