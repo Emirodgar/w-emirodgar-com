@@ -36,6 +36,8 @@ Tanto imágenes como vídeos pueden provocar que nuestra página sea más lenta 
 
 > También es importante [optimizar las imágenes ](https://emirodgar.com/optimizacion-imagenes-seo) para que aporten valor a la estrategia SEO.
 
+Por último, podemos hacer uso de una red de distribución de contenidos (CDN) como Cloudflare que nos permitirá cachear y servir los ficheros estáticos de forma más rápida y eficiente, mejorando la car
+
 ## 3. Comprimir los recursos
 
 Hay ciertos recursos que creamos una vez y no volvemos a utilizar. Por ello se recomiendo comprimirlos al máximo (quitando espacios, comentarios o saltos de línea) para que ocupen el menor tamaño posible.
@@ -59,5 +61,5 @@ La herramienta XX nos ayudará a identificar [el código CSS que no utilizamos e
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzcxNTM3MiwtNTUwNzM0MDc4XX0=
+eyJoaXN0b3J5IjpbMTY1NzQ0OTMyMSwtNTUwNzM0MDc4XX0=
 -->
