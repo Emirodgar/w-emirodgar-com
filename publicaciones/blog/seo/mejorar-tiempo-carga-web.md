@@ -19,10 +19,16 @@ Si queremos disponer de una página cuyo tiempo de carga sea rápido y que nos p
 
 El [hosting afecta al SEO](https://emirodgar.com/hosting-seo) por lo que el servidor donde tengamos alojada nuestra página web es el primer aspecto que debemos trabajar. Un servidor profesional nos ofrecerá buenos tiempos de conexión por lo que antes de contratarlo conviene conocer qué valor de **Time to First Byte** (TTFB) ofrece.
 
+>[Web server perfomance test](https://www.dotcom-tools.com/web-server-performance-test.aspx) nos ayudará a validar el tiempo de carga asociado a un hosting.
+>
 Si tarda mucho en servir nuestra página web, el resto de carga se verá afectado por lo que garantizar un rápido envío del primer byte es crucial para un correcto tiempo de carga.
+
+## 2. Elementos multi
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTIzODcxM119
+eyJoaXN0b3J5IjpbLTEwMTE2MzE3ODBdfQ==
 -->
