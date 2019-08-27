@@ -17,9 +17,9 @@ Si queremos disponer de una página cuyo tiempo de carga sea rápido y que nos p
 
 ## 1. Hosting
 
-El hosting donde tengamos alojada nuestra página web es el primer aspecto que debemos trabajar.
+El [hosting afecta al SEO](https://emirodgar.com/hosting-seo) por lo que el servidor donde tengamos alojada nuestra página web es el primer aspecto que debemos trabajar. Un servidor profesional nos ofrecerá buenos tiempos de conexión por lo que antes de contratarlo conviene 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTg1OTY5OF19
+eyJoaXN0b3J5IjpbLTUyMzI5ODYyXX0=
 -->
