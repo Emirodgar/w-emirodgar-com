@@ -55,13 +55,14 @@ La forma más efectiva de aligerar nuestra web es eliminando aquello que no util
 Por ejemplo, si en la home tenemos un banner y en el resto del sitio no, deberíamos tener un CSS/JS común a toda la página que no incluyera nada relacionado con el banner y, únicamente en la home, añadir ese código extra.
 
 Podemos hacer uso de [Chrome Dev Tools](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage) para identificar [el código CSS que no utilizamos en una página](https://web.dev/unused-css-rules/), de esa forma con retirarlo ajustaremos al máximo el tamaño de este fichero.
-También disponemos de extensiones para el navegador como [UnusedCSS](https://unused-css.com/), [PurgeCSS](https://www.purgecss.com/) o [PurifyCSS](https://github.com/purifycss/purifycss).
+
+También disponemos de extensiones para el navegador como [UnusedCSS](https://unused-css.com/), [PurgeCSS](https://www.purgecss.com/) o [PurifyCSS](https://github.com/purifycss/purifycss) que nos facilitarán la tarea.
 
 ## Herramientas para validar el tiempo de carga
 
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzIzNDAwNiwxMTcwMjgzMTEyLC01NT
+eyJoaXN0b3J5IjpbMTEwNDYxMDAxOSwxMTcwMjgzMTEyLC01NT
 A3MzQwNzhdfQ==
 -->
