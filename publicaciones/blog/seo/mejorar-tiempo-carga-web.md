@@ -42,6 +42,8 @@ Hay ciertos recursos que creamos una vez y no volvemos a utilizar. Por ello se r
  - [Comprimir el código Javascript](https://web.dev/unminified-javascript/)
  - [Comprimir el código HTML](http://minifycode.com/html-minifier/)
 
+> Mucho ojo con [bloquear el acceso de los buscadores a los ficheros CSS y JS](https://emirodgar.com/bloquear-indexacion-js-css) puesto que podría afectar a nuestra estrategia SEO.
+
 ## Eliminar aquello que no utilizamos
 
 ## Herramientas para validar el tiempo de carga
@@ -49,5 +51,5 @@ Hay ciertos recursos que creamos una vez y no volvemos a utilizar. Por ello se r
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMzU2NTUsLTU1MDczNDA3OF19
+eyJoaXN0b3J5IjpbLTEwMDA0NjMxODMsLTU1MDczNDA3OF19
 -->
