@@ -36,7 +36,7 @@ Tanto imágenes como vídeos pueden provocar que nuestra página sea más lenta 
 
 > También es importante [optimizar las imágenes ](https://emirodgar.com/optimizacion-imagenes-seo) para que aporten valor a la estrategia SEO.
 
-Por último, podemos hacer uso de una red de distribución de contenidos (CDN) como Cloudflare que nos permitirá cachear y servir los ficheros estáticos de forma más rápida y eficiente, mejorando la car
+Por último, podemos hacer uso de una r**ed de distribución de contenidos** (CDN) como Cloudflare que nos permitirá cachear y servir los ficheros estáticos de forma más rápida y eficiente, mejorando sustancialmente la carga de nuestro web
 
 ## 3. Comprimir los recursos
 
@@ -54,12 +54,12 @@ La forma más efectiva de aligerar nuestra web es eliminando aquello que no util
 
 Por ejemplo, si en la home tenemos un banner y en el resto del sitio no, deberíamos tener un CSS/JS común a toda la página que no incluyera nada relacionado con el banner y, únicamente en la home, añadir ese código extra.
 
-La herramienta XX nos ayudará a identificar [el código CSS que no utilizamos en una página](https://web.dev/unused-css-rules/), de esa forma con retirarlo ajustaremos al máximo el tamaño de este fichero.
+Podemos hacer uso de [Chrome Dev Tools](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage) para identificar [el código CSS/JS que no utilizamos en una página](https://web.dev/unused-css-rules/), de esa forma con retirarlo ajustaremos al máximo el tamaño de este fichero.
 
 ## Herramientas para validar el tiempo de carga
 
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzQ0OTMyMSwtNTUwNzM0MDc4XX0=
+eyJoaXN0b3J5IjpbMTA5NTUzMjY4NCwtNTUwNzM0MDc4XX0=
 -->
