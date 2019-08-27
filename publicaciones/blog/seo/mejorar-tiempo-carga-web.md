@@ -38,8 +38,8 @@ Tanto imágenes como vídeos pueden provocar que nuestra página sea más lenta 
 
 Hay ciertos recursos que creamos una vez y no volvemos a utilizar. Por ello se recomiendo comprimirlos al máximo (quitando espacios, comentarios o saltos de línea) para que ocupen el menor tamaño posible.
 
- - [Comprimir el código CSS](https://web.dev/unminified-css/)
- - [Comprimir el código Javascript](https://web.dev/unminified-javascript/)
+ - [Comprimir el código CSS](https://web.dev/unminified-css/). Recomiendo [CSSnano](https://github.com/ben-eb/cssnano) o [CSSO](https://github.com/css/csso). 
+ - [Comprimir el código Javascript](https://web.dev/unminified-javascript/). Podemos usar [UglifyJS](https://github.com/mishoo/UglifyJS2).
  - [Comprimir el código HTML](http://minifycode.com/html-minifier/)
 
 > Mucho ojo con [bloquear el acceso de los buscadores a los ficheros CSS y JS](https://emirodgar.com/bloquear-indexacion-js-css) puesto que podría afectar a nuestra estrategia SEO.
@@ -51,5 +51,5 @@ Hay ciertos recursos que creamos una vez y no volvemos a utilizar. Por ello se r
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA0NjMxODMsLTU1MDczNDA3OF19
+eyJoaXN0b3J5IjpbMzg3NTQzMTc2LC01NTA3MzQwNzhdfQ==
 -->
