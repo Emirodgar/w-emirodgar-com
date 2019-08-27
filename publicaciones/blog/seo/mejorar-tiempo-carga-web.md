@@ -40,10 +40,14 @@ Hay ciertos recursos que creamos una vez y no volvemos a utilizar. Por ello se r
 
  - [Comprimir el código CSS](https://web.dev/unminified-css/)
  - [Comprimir el código Javascript](https://web.dev/unminified-javascript/)
- - Comprimir el código HTML
+ - [Comprimir el código HTML](http://minifycode.com/html-minifier/)
 
 ## Eliminar aquello que no utilizamos
 
+## Herramientas para validar el tiempo de carga
+
+Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ3NzI2MzcsLTU1MDczNDA3OF19
+eyJoaXN0b3J5IjpbODIyMzU2NTUsLTU1MDczNDA3OF19
 -->
