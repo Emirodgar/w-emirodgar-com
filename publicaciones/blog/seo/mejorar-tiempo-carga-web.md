@@ -48,12 +48,16 @@ Hay ciertos recursos que creamos una vez y no volvemos a utilizar. Por ello se r
 
 ## 4. Eliminar aquello que no utilizamos
 
-La forma más efectiva de aligerar nuestra web es eliminando aquello que no ut
+La forma más efectiva de aligerar nuestra web es eliminando aquello que no utilizamos. Es práctica habitual hacer un desarrollo y replicarlo a lo largo de todo el sitio web pero muchas veces, ciertas partes del mismo, son usadas de forma puntual; aún asi, las cargamos de forma transversal.
+
+Por ejemplo, si en la home tenemos un banner y en el resto del sitio no, deberíamos tener un CSS/JS común a toda la página que no incluyera nada relacionado con el banner y, únicamente en la home, añadir ese código extra.
+
+A mayores, podemos hacer uso de 
 
 ## Herramientas para validar el tiempo de carga
 
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzkxNTc0NSwtNTUwNzM0MDc4XX0=
+eyJoaXN0b3J5IjpbLTY1NDEzNTY4OSwtNTUwNzM0MDc4XX0=
 -->
