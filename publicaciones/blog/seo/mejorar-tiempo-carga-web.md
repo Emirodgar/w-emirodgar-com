@@ -30,14 +30,20 @@ Tanto imágenes como vídeos pueden provocar que nuestra página sea más lenta 
  1. [Carga selectiva (lazy load)](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/?hl=es) en base a lo que se va mostrando en pantalla. En lugar de cargar todas las imágenes o vídeos de golpe, únicamente cargamos aquellas que entran en el campo de visión del usuario. A medida que hace scroll, vamos cargando las siguientes.
  2. Hacer uso de los nuevos formatos de imágenes como [webp](https://developers.google.com/speed/webp/) para mejorar la velocidad.
  3. [Comprimir las imágenes](https://web.dev/use-imagemin-to-compress-images) para que ocupen menos espacio. Podemos hacer uso de [ImageOptim](https://imageoptim.com/mac), [Squossh](https://squoosh.app/) o [Compressor.io](https://compressor.io/)
- 4. Usar [imágenes con las dimensiones adecuadas](https://web.dev/serve-images-with-correct-dimensions). No tiene sentido poner una imagen grande si la vamos a mostrar en pequeño. Para páginas multidispositivo es importante aprender a utilizar las imágenes adaptati
+ 4. Usar [imágenes con las dimensiones adecuadas](https://web.dev/serve-images-with-correct-dimensions). No tiene sentido poner una imagen grande si la vamos a mostrar en pequeño. Para páginas multidispositivo es importante aprender a utilizar las [imágenes adaptativas](https://web.dev/uses-responsive-images/).
 
 > También es importante [optimizar las imágenes ](https://emirodgar.com/optimizacion-imagenes-seo) para que aporten valor a la estrategia SEO.
 
 ## Comprimir los recursos
 
+Hay ciertos recursos que creamos una vez y no volvemos a utilizar. Por ello se recomiendo comprimirlos al máximo (quitando espacios, comentarios o saltos de línea) para que ocupen el menor tamaño posible.
+
+ - [Comprimir el código CSS](https://web.dev/unminified-css/)
+ - [Comprimir el código Javascript](https://web.dev/unminified-javascript/)
+ - Comprimir el código HTML
+
 ## Eliminar aquello que no utilizamos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjA3MDg5MywtNTUwNzM0MDc4XX0=
+eyJoaXN0b3J5IjpbLTE3NzQ3NzI2MzcsLTU1MDczNDA3OF19
 -->
