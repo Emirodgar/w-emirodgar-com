@@ -23,12 +23,13 @@ El [hosting afecta al SEO](https://emirodgar.com/hosting-seo) por lo que el serv
 >
 Si tarda mucho en servir nuestra página web, el resto de carga se verá afectado por lo que garantizar un rápido envío del primer byte es crucial para un correcto tiempo de carga.
 
-## 2. Elementos multi
+## 2. Elementos multimedia
 
+Tanto imágenes como vídeos pueden provocar que nuestra página sea más lenta de lo necesario. A este respecto hay varias cosas que podemos hacer:
 
-
-
+ 1. Carga selectiva en base 
+ 2. [Optimizar las imágenes para el SEO](https://emirodgar.com/optimizacion-imagenes-seo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTE2MzE3ODBdfQ==
+eyJoaXN0b3J5IjpbMTQ5MDA5Mjc5Nl19
 -->
