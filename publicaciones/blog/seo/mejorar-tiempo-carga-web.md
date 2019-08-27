@@ -11,7 +11,7 @@ permalink: mejorar-tiempo-carga-web
 
 # SEO: Mejorar el tiempo de carga de una web
 
-
+Desde el cambio de algoritmo Mobile First Index, el tiempo de carga de una página web pasó
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDkwNjQwM119
+eyJoaXN0b3J5IjpbLTYzMzk0NzczMV19
 -->
