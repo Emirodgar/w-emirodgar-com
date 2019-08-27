@@ -36,7 +36,7 @@ Tanto imágenes como vídeos pueden provocar que nuestra página sea más lenta 
 
 > También es importante [optimizar las imágenes ](https://emirodgar.com/optimizacion-imagenes-seo) para que aporten valor a la estrategia SEO.
 
-## Comprimir los recursos
+## 3. Comprimir los recursos
 
 Hay ciertos recursos que creamos una vez y no volvemos a utilizar. Por ello se recomiendo comprimirlos al máximo (quitando espacios, comentarios o saltos de línea) para que ocupen el menor tamaño posible.
 
@@ -46,12 +46,14 @@ Hay ciertos recursos que creamos una vez y no volvemos a utilizar. Por ello se r
 
 > Mucho ojo con [bloquear el acceso de los buscadores a los ficheros CSS y JS](https://emirodgar.com/bloquear-indexacion-js-css) puesto que podría afectar a nuestra estrategia SEO.
 
-## Eliminar aquello que no utilizamos
+## 4. Eliminar aquello que no utilizamos
+
+La forma más efectiva de aligerar nuestra web es eliminando aquello que no ut
 
 ## Herramientas para validar el tiempo de carga
 
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzU0MjYyMCwtNTUwNzM0MDc4XX0=
+eyJoaXN0b3J5IjpbLTQ5MzkxNTc0NSwtNTUwNzM0MDc4XX0=
 -->
