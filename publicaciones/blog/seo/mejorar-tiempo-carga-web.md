@@ -27,9 +27,13 @@ Si tarda mucho en servir nuestra página web, el resto de carga se verá afectad
 
 Tanto imágenes como vídeos pueden provocar que nuestra página sea más lenta de lo necesario. A este respecto hay varias cosas que podemos hacer:
 
- 1. [Carga selectiva (lazy load](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/?hl=es)) en base a lo que se va mostrando en pantalla. En lugar de cargar todas las imágenes de golpe, únicamente cargamos aquellas que entran en el campo de visión del usuario. A medida que hace scroll, vamos cargando las siguientes.
- 2. [Optimizar las imágenes para el SEO](https://emirodgar.com/optimizacion-imagenes-seo) para que aporten una mayor captación relevante.
+ 1. [Carga selectiva (lazy load)](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/?hl=es) en base a lo que se va mostrando en pantalla. En lugar de cargar todas las imágenes de golpe, únicamente cargamos aquellas que entran en el campo de visión del usuario. A medida que hace scroll, vamos cargando las siguientes.
+ 3. Hacer uso de los nuevos formatos de imágenes como [webp](https://developers.google.com/speed/webp/) para mejorar la velocidad.
+
+## Comprimir los recursos
+
+## Eliminar aquello que no utilizamos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODI4MjU0N119
+eyJoaXN0b3J5IjpbLTQyNzM0MjM4NF19
 -->
