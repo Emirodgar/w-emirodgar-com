@@ -17,9 +17,12 @@ Si queremos disponer de una página cuyo tiempo de carga sea rápido y que nos p
 
 ## 1. Hosting
 
-El [hosting afecta al SEO](https://emirodgar.com/hosting-seo) por lo que el servidor donde tengamos alojada nuestra página web es el primer aspecto que debemos trabajar. Un servidor profesional nos ofrecerá buenos tiempos de conexión por lo que antes de contratarlo conviene 
+El [hosting afecta al SEO](https://emirodgar.com/hosting-seo) por lo que el servidor donde tengamos alojada nuestra página web es el primer aspecto que debemos trabajar. Un servidor profesional nos ofrecerá buenos tiempos de conexión por lo que antes de contratarlo conviene conocer qué valor de **Time to First Byte** (TTFB) ofrece.
+
+Si tarda mucho en servir nuestra página web, el resto de carga se verá afectado por lo que garantizar un rápido envío del primer byte es crucial para un correcto tiempo de carga.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzI5ODYyXX0=
+eyJoaXN0b3J5IjpbMTg0OTIzODcxM119
 -->
