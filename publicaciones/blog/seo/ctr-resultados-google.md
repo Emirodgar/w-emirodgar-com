@@ -30,7 +30,7 @@ La primera conclusión es arrolladora; **el 33,1% de los clics se realizan en el
 
 Cualquier persona que lleve tiempo trabajando [estrategias SEO](https://emirodgar.com/estrategia-seo) no debería estar sorprendido; el primer resultado siempre es lo más codiciado puesto puesto que se sabe que mucha gente hace clic de forma impulsiva sobre lo primero que ven.
 
-Es interesante comprob
+Es interesante comprobar que el comportamiento en el CTR del TOP3 es muy similar tanto en escritorio como mobile. Entre las posiciones #4 y #6 podemos apreciar algo más de diferencia, justo cuando el usuario tiene que hacer scroll. Parece que en dispositivos móviles son más propensos 
 
 ## El segundo resultado se lleva en torno al 13%-15% del tráfico
 
@@ -59,5 +59,5 @@ Tiene todo el sentido, si ascendemos dentro del TOP10, nuestra visibilidad será
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzQ3MTk4XX0=
+eyJoaXN0b3J5IjpbLTM5NzY0OTcyMV19
 -->
