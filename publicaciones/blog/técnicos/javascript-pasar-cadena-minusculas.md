@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 tags: javascript, tecnico
 date: 17/05/2019
-image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
+image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: funcion-javascript-cadena-minusculas
 
 ---
@@ -25,7 +25,9 @@ function convertirCadena(c){
 
 ```
 
-He dividido el script en dos funciones, la primera **convertirCadena** es la que tendremos que utilizar y bastará con pasarle el texto que queremos convertir a minúsculas. La segunda función, **primeraLetra**, convertirá la primera letra en mayúscula.
+He dividido el script en dos funciones, la primera **convertirCadena** es la que tendremos que utilizar y bastará con pasarle el texto que queremos convertir a minúsculas. La segunda función, **primeraLetra** se llama de forma interna para convertir la primera letra en mayúsculas.
+
+Para poder usarla bastará con ejecutar lo siguiente:
 
 ```
 convertirCadena("esto Es un Ejemplo de Cadena");
@@ -33,5 +35,5 @@ convertirCadena("esto Es un Ejemplo de Cadena");
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkzNDg1NjldfQ==
+eyJoaXN0b3J5IjpbLTgwNzMxMTM2NF19
 -->
