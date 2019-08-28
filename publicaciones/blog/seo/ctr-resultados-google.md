@@ -38,8 +38,12 @@ A partir de ahí vemos que el porcentaje de captación desciende de manera notor
 
 Conclusiones que podemos obtener de este análisis:
 
- 1. List item
+ 1. Bajadas notorias tras las posiciones #3 y #5, a  partir de las cuales la gente parece perder interés.
+ 2. La gente no parece hacer scroll tras la posición #5.
+ 3. Pasar de la posición #6 a la #5 podría conllevar un incremento de CTR importante.
+
+## El TOP
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2NTI1NTQ2XX0=
+eyJoaXN0b3J5IjpbMTA1MTU3MDgxMF19
 -->
