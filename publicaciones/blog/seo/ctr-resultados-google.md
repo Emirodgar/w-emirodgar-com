@@ -21,7 +21,7 @@ A lo largo del tiempo se han realizado múltiples estudios pero quizá uno de lo
 
 La primera conclusión es arrolladora; el 31,7% de los clics se realizan en el primer resultado para escritorio y el 23,08% en dispositivos móviles.
 
-Es importante 
+Cualquier persona que lleve tiempo trabajando estrategias SEO no debería estar sorprendido
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzODk4MDE3XX0=
+eyJoaXN0b3J5IjpbLTE3MzQ1NTY3MThdfQ==
 -->
