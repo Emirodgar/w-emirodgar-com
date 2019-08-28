@@ -14,7 +14,7 @@ permalink: funcion-javascript-cadena-minusculas
 
 La siguiente función Javascript nos ayudará a convertir toda una cadena en minúsculas a excepción de la primera letra que quedará en mayúsculas. 
 
-```
+```js
 function primeraLetra(s) {
   return s.replace(/^.{1}/g, s[0].toUpperCase());
 }
@@ -27,13 +27,13 @@ function convertirCadena(c){
 
 He dividido el script en dos funciones, la primera **convertirCadena** es la que tendremos que utilizar y bastará con pasarle el texto que queremos convertir a minúsculas. La segunda función, **primeraLetra** se llama de forma interna para convertir la primera letra en mayúsculas.
 
-Para poder usarla bastará con ejecutar lo siguiente:
+Para poder usarla bastará con ejecutar el siguiente comando:
 
-```
+```js
 convertirCadena("esto Es un Ejemplo de Cadena");
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzMxMTM2NF19
+eyJoaXN0b3J5IjpbOTgwMzI1NDY1LC04MDczMTEzNjRdfQ==
 -->
