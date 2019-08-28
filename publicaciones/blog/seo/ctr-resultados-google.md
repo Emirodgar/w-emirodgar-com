@@ -28,13 +28,13 @@ La primera conclusión es arrolladora; **el 33,1% de los clics se realizan en el
   layout="responsive">
 </amp-img>
 
-Cualquier persona que lleve tiempo trabajando [estrategias SEO](https://emirodgar.com/estrategia-seo) no debería estar sorprendido; el primer resultado siempre es lo más codiciado puesto puesto que se sabe que mucha gente **hace clic de forma impulsiva sobre lo primero que ven.
+Cualquier persona que lleve tiempo trabajando [estrategias SEO](https://emirodgar.com/estrategia-seo) no debería estar sorprendido; el primer resultado siempre es lo más codiciado puesto puesto que se sabe que mucha gente **hace clic de forma impulsiva** sobre lo primero que ve.
 
 > Es interesante comprobar que el comportamiento en el CTR del TOP3 es muy similar tanto en escritorio como mobile. 
 
 Entre las posiciones #4 y #6 podemos apreciar algo más de diferencia, justo cuando el usuario tiene que hacer scroll. Parece que en dispositivos móviles son más propensos a interactuar con estos resultados.
 
-## El segundo resultado se lleva en torno al 13%-15% del tráfico
+## El segundo resultado se lleva en torno al 15% del tráfico
 
 La segunda posición sigue siendo importante para el SEO ya que, aunque hay diferencia significativa respecto al primer resultado, aún genera un tráfico importante y que deberíamos captar.
 
@@ -42,7 +42,7 @@ A partir de ahí vemos que el porcentaje de captación desciende de manera notor
 
 Conclusiones que podemos obtener de este análisis:
 
- 1. Bajadas notorias tras las posiciones #3 y #5, a  partir de las cuales la gente parece perder interés.
+ 1. Bajadas notorias tras las posiciones #3 y #5, quizá debido a la presentación de los resultados en pantalla.
  2. La gente no parece hacer scroll tras la posición #5.
  3. Pasar de la posición #6 a la #5 podría conllevar un incremento de CTR importante.
 
@@ -61,7 +61,7 @@ Tiene todo el sentido, si ascendemos dentro del TOP10, nuestra visibilidad será
  - De #2 a #1 / +28%
  - De #6 a #5 / +53%
  - De #9 a #8 / +5%
- - De #10 a #9 / -4%
+ - **De #10 a #9 / -4%**
 
 Pasar de la última posición a la #9 puede ocasionarnos una reducción significativa de nuestro CTR relativo. Imagino que ésto se debe a que aún estando en la #10 lo hacemos muy cerca de los enlaces de paginación lo que nos otorga una visibilidad extra que perdemos en las siguientes posiciones.
 
@@ -83,6 +83,6 @@ Aquí van algunas recomendaciones interesantes extraídas del análisis de estos
 Tiene sentido orientar los títulos a preguntas puesto que cuando alguien realiza una búsqueda, [está principalmente buscando respuestas](https://www.blog.google/products/search/providing-more-comprehensive-results-your-questions-search/). Incluir una pregunta en el título implícitamente está diciendo que tenemos la respuesta en el contenido.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1NzEyMTAxLDI1MjA5NzU3MywtNDk0Nj
-IwNDU0LDEwNTI2MzM0NzNdfQ==
+eyJoaXN0b3J5IjpbMTU5NDg3MjEwNywyNTIwOTc1NzMsLTQ5ND
+YyMDQ1NCwxMDUyNjMzNDczXX0=
 -->
