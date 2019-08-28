@@ -21,14 +21,14 @@ A lo largo del tiempo se han realizado múltiples estudios pero quizá uno de lo
 
 La primera conclusión es arrolladora; el 31,7% de los clics se realizan en el primer resultado para escritorio y el 23,08% en dispositivos móviles.
 
-<amp-img alt="CTR primer resultado"
-  src="https://i.imgur.com/esO1WW0.png"
-  width="1132"
-  height="395"
+<amp-img alt="CTR primer resultado búsqueda Google"
+  src="https://i.imgur.com/S1UNyjn.png"
+  width="640"
+  height="386"
   layout="responsive">
 </amp-img>
 
-Cualquier persona que lleve tiempo trabajando estrategias SEO no debería estar sorprendido
+Cualquier persona que lleve tiempo trabajando estrategias SEO no debería estar sorprendido; el primer resultado siempre es lo más codiciado puesto puesto que se sabe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM1OTg0MjBdfQ==
+eyJoaXN0b3J5IjpbMTcwODAyMjI5M119
 -->
