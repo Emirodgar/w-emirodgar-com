@@ -29,6 +29,10 @@ La primera conclusión es arrolladora; **el 31,7% de los clics se realizan en el
 </amp-img>
 
 Cualquier persona que lleve tiempo trabajando [estrategias SEO](https://emirodgar.com/estrategia-seo) no debería estar sorprendido; el primer resultado siempre es lo más codiciado puesto puesto que se sabe que mucha gente hace clic de forma impulsiva sobre lo primero que ven.
+
+## El segundo resultado se lleva en torno al 13%-15% del tráfico
+
+La segunda posición sigue siendo importante para el SEO ya que, aunque hay diferencia significativa respecto al primer resultado, aún 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgxMDY2MjhdfQ==
+eyJoaXN0b3J5IjpbMTUyMjUwMzgxM119
 -->
