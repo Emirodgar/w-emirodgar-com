@@ -58,11 +58,13 @@ Podemos hacer uso de [Chrome Dev Tools](https://developers.google.com/web/update
 
 También disponemos de extensiones para el navegador como [UnusedCSS](https://unused-css.com/), [PurgeCSS](https://www.purgecss.com/) o [PurifyCSS](https://github.com/purifycss/purifycss) que nos facilitarán la tarea.
 
+Adicional a todo esto, existe un punto avanzado que también podemos trabajar. Se trata del [camino crítico para generar nuestra web](https://www.portent.com/blog/design-dev/the-critical-rendering-path-explained.htm).
+
 ## Herramientas para validar el tiempo de carga
 
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODM4NjU0NCwxMTcwMjgzMTEyLC01NT
-A3MzQwNzhdfQ==
+eyJoaXN0b3J5IjpbODUzNDQ4MzI2LDE0MTgzODY1NDQsMTE3MD
+I4MzExMiwtNTUwNzM0MDc4XX0=
 -->
