@@ -19,10 +19,13 @@ function primeraLetra(s) {
   return s.replace(/^.{1}/g, s[0].toUpperCase());
 }
 
-var valor = document.getElementById('XXX').value;
-var min = firstLetter(valor.toLowerCase());
-document.getElementById('name_1').value = min;
+function convertirCadena(c){
+	return primeraLetra(c.toLowerCase());
+}
+
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNzMyOTY4XX0=
+eyJoaXN0b3J5IjpbLTY4ODgwNDc1OV19
 -->
