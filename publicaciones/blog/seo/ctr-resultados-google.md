@@ -74,6 +74,8 @@ Aquí van algunas recomendaciones interesantes extraídas del análisis de estos
 
 > Social Influence analizó el [impacto de los títulos en el CTR](https://www.tandfonline.com/doi/abs/10.1080/15534510.2013.847859#.U1AV2PldXLF) de los resultados de Google.
 
+Tiene sentido orientar los títulos a preguntas puesto que cuando alguien realiza una búsqueda, está principalmente buscando respuestas.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjYzMzQ3M119
+eyJoaXN0b3J5IjpbLTExMTc2OTM3NzEsMTA1MjYzMzQ3M119
 -->
