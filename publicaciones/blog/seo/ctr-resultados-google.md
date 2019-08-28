@@ -19,16 +19,18 @@ A lo largo del tiempo se han realizado múltiples estudios pero quizá uno de lo
 
 ## El primer resultado se lleva  más del 30% de las búsquedas
 
-La primera conclusión es arrolladora; **el 31,7% de los clics se realizan en el primer resultado para escritorio y el 23,08% en dispositivos móviles**.
+La primera conclusión es arrolladora; **el 33,1% de los clics se realizan en el primer resultado para escritorio y el 30,62% en dispositivos móviles**.
 
 <amp-img alt="CTR primer resultado búsqueda Google"
-  src="https://i.imgur.com/S1UNyjn.png"
+  src="https://i.imgur.com/t9rFCgG.png"
   width="640"
   height="386"
   layout="responsive">
 </amp-img>
 
 Cualquier persona que lleve tiempo trabajando [estrategias SEO](https://emirodgar.com/estrategia-seo) no debería estar sorprendido; el primer resultado siempre es lo más codiciado puesto puesto que se sabe que mucha gente hace clic de forma impulsiva sobre lo primero que ven.
+
+Es interesante comprob
 
 ## El segundo resultado se lleva en torno al 13%-15% del tráfico
 
@@ -57,5 +59,5 @@ Tiene todo el sentido, si ascendemos dentro del TOP10, nuestra visibilidad será
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjI4Mjc3NF19
+eyJoaXN0b3J5IjpbLTI3NzQ3MTk4XX0=
 -->
