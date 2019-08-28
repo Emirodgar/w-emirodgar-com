@@ -70,8 +70,10 @@ Pasar de la última posición a la #9 puede ocasionarnos una reducción signific
 Aquí van algunas recomendaciones interesantes extraídas del análisis de estos datos:
 
  - Los títulos con preguntas tienen un CTR superior a la media.
- - 
+ - Incluir "cómo, porqué, quién o de qué forma" en los títulos también ayuda a mejorar el CTR
+
+> Social Influence analizó el impacto de los títulos en el 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMwNzc0NzddfQ==
+eyJoaXN0b3J5IjpbLTU2NzIyMDQ4Nl19
 -->
