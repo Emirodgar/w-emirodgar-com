@@ -32,7 +32,14 @@ Cualquier persona que lleve tiempo trabajando [estrategias SEO](https://emirodga
 
 ## El segundo resultado se lleva en torno al 13%-15% del tráfico
 
-La segunda posición sigue siendo importante para el SEO ya que, aunque hay diferencia significativa respecto al primer resultado, aún 
+La segunda posición sigue siendo importante para el SEO ya que, aunque hay diferencia significativa respecto al primer resultado, aún genera un tráfico importante y que deberíamos captar.
+
+A partir de ahí vemos que el porcentaje de captación desciende de manera notoria.
+
+Conclusiones que podemos obtener de este análisis:
+
+ 1. List item
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjUwMzgxM119
+eyJoaXN0b3J5IjpbNzM2NTI1NTQ2XX0=
 -->
