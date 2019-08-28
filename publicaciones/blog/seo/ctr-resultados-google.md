@@ -13,7 +13,9 @@ permalink: ctr-resultados-google
 
 # Tráfico y CTR en los resultados de Google
 
-Todos queremos salir en las primeras posición de Google, es entendible.
+Todos queremos salir en las primeras posiciones de las búsquedas Google, es entendible; sabemos que así tendremos mayor visibilidad SEO y captaremos más tráfico pero ¿sabemos cómo se reparte realmente el tráfico y qué CTR tiene cada uno de los resultados?
+
+A lo largo del tiempo se han realizado múltiples estudios pero quizá uno de los más recientes y completos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUwNTU4MzRdfQ==
+eyJoaXN0b3J5IjpbMTgwNzgzMjU0MF19
 -->
