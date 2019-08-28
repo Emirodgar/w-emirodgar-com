@@ -25,7 +25,13 @@ function convertirCadena(c){
 
 ```
 
+He dividido el script en dos funciones, la primera **convertirCadena** es la que tendremos que utilizar y bastará con pasarle el texto que queremos convertir a minúsculas. La segunda función, **primeraLetra**, convertirá la primera letra en mayúscula.
+
+```
+convertirCadena("esto Es un Ejemplo de Cadena");
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODgwNDc1OV19
+eyJoaXN0b3J5IjpbLTE0MzkzNDg1NjldfQ==
 -->
