@@ -67,7 +67,8 @@ Pasar de la última posición a la #9 puede ocasionarnos una reducción signific
 
 ## ¿Cómo mejorar el CTR dentro del TOP10 de Google?
 
-Para mejorar 
+Para mejorar el CTR en los resultados de búsqueda tenemos tres aspectos que podemos trabajar: los títulos,   meta descrip y las URLs.
+
 Aquí van algunas recomendaciones interesantes extraídas del análisis de estos datos:
 
  - Los títulos con preguntas tienen un CTR superior a la media.
@@ -82,6 +83,6 @@ Aquí van algunas recomendaciones interesantes extraídas del análisis de estos
 Tiene sentido orientar los títulos a preguntas puesto que cuando alguien realiza una búsqueda, [está principalmente buscando respuestas](https://www.blog.google/products/search/providing-more-comprehensive-results-your-questions-search/). Incluir una pregunta en el título implícitamente está diciendo que tenemos la respuesta en el contenido.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjU3MDg2OSwtNDk0NjIwNDU0LDEwNT
-I2MzM0NzNdfQ==
+eyJoaXN0b3J5IjpbNjM1OTQ3MDY2LC00OTQ2MjA0NTQsMTA1Mj
+YzMzQ3M119
 -->
