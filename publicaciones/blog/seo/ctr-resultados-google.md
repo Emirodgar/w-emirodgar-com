@@ -63,8 +63,15 @@ Tiene todo el sentido, si ascendemos dentro del TOP10, nuestra visibilidad será
  - De #9 a #8 / +5%
  - De #10 a #9 / -4%
 
-Pasar de la última posición a la #9 puede ocasionarnos una reducción significativa de nuestro CTR relativo. Imagino que ésto se debe a que aún estando en la #10 lo hacemos muy cerca de los enlaces de paginación lo que nos otorga una visibilidad extr
+Pasar de la última posición a la #9 puede ocasionarnos una reducción significativa de nuestro CTR relativo. Imagino que ésto se debe a que aún estando en la #10 lo hacemos muy cerca de los enlaces de paginación lo que nos otorga una visibilidad extra que perdemos en las siguientes posiciones.
+
+## ¿Cómo mejorar el CTR dentro del TOP10 de Google?
+
+Aquí van algunas recomendaciones interesantes extraídas del análisis de estos datos:
+
+ - Los títulos con preguntas tienen un CTR superior a la media.
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwNzY2NDQzXX0=
+eyJoaXN0b3J5IjpbLTE0MTMwNzc0NzddfQ==
 -->
