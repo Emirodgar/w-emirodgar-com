@@ -19,7 +19,9 @@ A lo largo del tiempo se han realizado múltiples estudios pero quizá uno de lo
 
 ## El primer resultado se lleva  más del 30% de las búsquedas
 
-La primera conclusión es arrolladora; el 31,7% de los clics 
+La primera conclusión es arrolladora; el 31,7% de los clics se realizan en el primer resultado para escritorio y el 23,08% en dispositivos móviles.
+
+Es importante 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzU5NzUwM119
+eyJoaXN0b3J5IjpbNDMzODk4MDE3XX0=
 -->
