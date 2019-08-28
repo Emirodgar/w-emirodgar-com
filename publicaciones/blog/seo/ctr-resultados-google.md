@@ -46,10 +46,12 @@ Conclusiones que podemos obtener de este análisis:
 
 Y aquí está la clave de todo, si no estamos dentro de ese TOP3 estaremos luchando por el 25% del tráfico junto con otras 6 páginas.
 
-> Posicionar dentro del TOP10 puede no ser un **objetivo SEO válido**
+> Posicionar dentro del TOP10 puede no ser un **objetivo SEO** diferencial.
 
-Si estamos a partir de la posición #6 -donde el tráfico que podemos captar es muy residual- el aporte de valor a la estrategia SEO será mínimo y los recursos que hayamos empleado.
+Si estamos a partir de la posición #6 -donde el tráfico que podemos captar es muy residual- el aporte de valor a la estrategia SEO será mínimo. En este caso sería conveniente revisar qué indicador es más fiable para la evolución de la estrategia.
+
+## Mejorar una posición dispara el CTR
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjI2MTI4M119
+eyJoaXN0b3J5IjpbMTY2MzMyNDk3M119
 -->
