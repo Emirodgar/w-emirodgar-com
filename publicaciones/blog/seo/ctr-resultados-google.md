@@ -58,8 +58,9 @@ Si estamos a partir de la posición #6 -donde el tráfico que podemos captar es 
 
 Tiene todo el sentido, si ascendemos dentro del TOP10, nuestra visibilidad será mayor y podremos captar mayor tráfico pero todo tiene sus particularidades y este incremento dependerá de nuestra posición de partida.
 
-
+ - De #2 a #1 - +28%
+ - De #6 a #5 - +53%
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxODU2NjcwXX0=
+eyJoaXN0b3J5IjpbMTUxOTcwNDUwNl19
 -->
