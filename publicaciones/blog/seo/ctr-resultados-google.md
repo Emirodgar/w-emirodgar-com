@@ -46,8 +46,10 @@ Conclusiones que podemos obtener de este análisis:
 
 Y aquí está la clave de todo, si no estamos dentro de ese TOP3 estaremos luchando por el 25% del tráfico junto con otras 6 páginas.
 
-Por ello, posicionar dentro del TOP10 puede que no deba ser un objetivo SEO válido, no si estamos a partir de la posición #6 donde el tráfico que podemos ca
+> Posicionar dentro del TOP10 puede no ser un **objetivo SEO válido**
+
+Si estamos a partir de la posición #6 -donde el tráfico que podemos captar es muy residual- el aporte de valor a la estrategia SEO será mínimo y los recursos que hayamos empleado.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDAwMDQ5MV19
+eyJoaXN0b3J5IjpbLTYyNjI2MTI4M119
 -->
