@@ -28,7 +28,7 @@ La primera conclusión es arrolladora; **el 33,1% de los clics se realizan en el
   layout="responsive">
 </amp-img>
 
-Cualquier persona que lleve tiempo trabajando [estrategias SEO](https://emirodgar.com/estrategia-seo) no debería estar sorprendido; el primer resultado siempre es lo más codiciado puesto puesto que se sabe que mucha gente hace clic de forma impulsiva sobre lo primero que ven.
+Cualquier persona que lleve tiempo trabajando [estrategias SEO](https://emirodgar.com/estrategia-seo) no debería estar sorprendido; el primer resultado siempre es lo más codiciado puesto puesto que se sabe que mucha gente **hace clic de forma impulsiva sobre lo primero que ven.
 
 > Es interesante comprobar que el comportamiento en el CTR del TOP3 es muy similar tanto en escritorio como mobile. 
 
@@ -83,6 +83,6 @@ Aquí van algunas recomendaciones interesantes extraídas del análisis de estos
 Tiene sentido orientar los títulos a preguntas puesto que cuando alguien realiza una búsqueda, [está principalmente buscando respuestas](https://www.blog.google/products/search/providing-more-comprehensive-results-your-questions-search/). Incluir una pregunta en el título implícitamente está diciendo que tenemos la respuesta en el contenido.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMDk3NTczLC00OTQ2MjA0NTQsMTA1Mj
-YzMzQ3M119
+eyJoaXN0b3J5IjpbOTk1NzEyMTAxLDI1MjA5NzU3MywtNDk0Nj
+IwNDU0LDEwNTI2MzM0NzNdfQ==
 -->
