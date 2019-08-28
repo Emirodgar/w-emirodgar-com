@@ -70,12 +70,13 @@ Pasar de la última posición a la #9 puede ocasionarnos una reducción signific
 Aquí van algunas recomendaciones interesantes extraídas del análisis de estos datos:
 
  - Los títulos con preguntas tienen un CTR superior a la media.
- - Incluir "cómo, porqué, quién o de qué forma" en los títulos también ayuda a mejorar el CTR
+ - Incluir "cómo, porqué, quién o de qué forma" en los títulos también ayuda a mejorar el CTR.
+ - Los títulos entre 15 y 40 caracteres tienen los mejores CTR.
 
 > Social Influence analizó el [impacto de los títulos en el CTR](https://www.tandfonline.com/doi/abs/10.1080/15534510.2013.847859#.U1AV2PldXLF) de los resultados de Google.
 
-Tiene sentido orientar los títulos a preguntas puesto que cuando alguien realiza una búsqueda, está principalmente buscando respuestas.
+Tiene sentido orientar los títulos a preguntas puesto que cuando alguien realiza una búsqueda, [está principalmente buscando respuestas](https://www.blog.google/products/search/providing-more-comprehensive-results-your-questions-search/). Incluir una pregunta en el título implícitamente está diciendo que tenemos la respuesta en el contenido.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc2OTM3NzEsMTA1MjYzMzQ3M119
+eyJoaXN0b3J5IjpbMTg4NjEwMjAwOCwxMDUyNjMzNDczXX0=
 -->
