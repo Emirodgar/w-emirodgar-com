@@ -58,9 +58,13 @@ Si estamos a partir de la posición #6 -donde el tráfico que podemos captar es 
 
 Tiene todo el sentido, si ascendemos dentro del TOP10, nuestra visibilidad será mayor y podremos captar mayor tráfico pero todo tiene sus particularidades y este incremento dependerá de nuestra posición de partida.
 
- - De #2 a #1 - +28%
- - De #6 a #5 - +53%
+ - De #2 a #1 / +28%
+ - De #6 a #5 / +53%
+ - De #9 a #8 / +5%
+ - De #10 a #9 / -4%
+
+Pasar de la última posición a la #9 puede ocasionarnos una reducción significativa de nuestro CTR relativo. Imagino que ésto se debe a que aún estando en la #10 lo hacemos muy cerca de los enlaces de paginación lo que nos otorga una visibilidad extr
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTcwNDUwNl19
+eyJoaXN0b3J5IjpbNjYwNzY2NDQzXX0=
 -->
