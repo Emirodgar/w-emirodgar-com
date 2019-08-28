@@ -52,6 +52,10 @@ Si estamos a partir de la posición #6 -donde el tráfico que podemos captar es 
 
 ## Mejorar una posición dispara el CTR
 
+Tiene todo el sentido, si ascendemos dentro del TOP10, nuestra visibilidad será mayor y podremos captar mayor tráfico pero todo tiene sus particularidades y este incremento dependerá de nuestra posición de partida.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzMyNDk3M119
+eyJoaXN0b3J5IjpbLTY4NjI4Mjc3NF19
 -->
