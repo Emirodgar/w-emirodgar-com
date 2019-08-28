@@ -1,15 +1,19 @@
 ---
-title: CTR en los resultados de Google
-description: Dependiendo de la posición que tengamo
+title: Tráfico y CTR en los resultados de Google
+description: Dependiendo de la posición que tengamos dentro de los resultados obtendremos mayor o menor tráfico
 lang: es_ES
 author: Emirodgar
-tags: seo, htaccess, robots
-date: 11/07/2019
-date_modified: 16/05/2019
+tags: seo, google, ctr
+date: 28/08/2019
+date_modified: 28/08/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: listado-robots-bloquear
+permalink: ctr-resultados-google
 
 ---
+
+# Tráfico y CTR en los resultados de Google
+
+Todos queremos salir en las primeras posición de Google, es entendible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTkzMzI1OF19
+eyJoaXN0b3J5IjpbLTEzOTUwNTU4MzRdfQ==
 -->
