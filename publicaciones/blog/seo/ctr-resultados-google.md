@@ -42,8 +42,12 @@ Conclusiones que podemos obtener de este análisis:
  2. La gente no parece hacer scroll tras la posición #5.
  3. Pasar de la posición #6 a la #5 podría conllevar un incremento de CTR importante.
 
-## El TOP
+## El TOP3 de resultados se lleva más del 75% del tráfico
+
+Y aquí está la clave de todo, si no estamos dentro de ese TOP3 estaremos luchando por el 25% del tráfico junto con otras 6 páginas.
+
+Por ello, posicionar dentro del TOP10 puede que no deba ser un objetivo SEO válido, no si estamos a partir de la posición #6 donde el tráfico que podemos ca
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTU3MDgxMF19
+eyJoaXN0b3J5IjpbLTc0MDAwMDQ5MV19
 -->
