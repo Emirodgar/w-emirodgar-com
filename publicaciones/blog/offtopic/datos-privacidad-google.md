@@ -23,9 +23,12 @@ Los datos valen mucho dinero -[recomiendo la lectura de este artículo de Forbes
 
 Debido a las leyes de protección de datos no podrá hacer públicos datos de carácter personal pero sí los usará para intentar vendernos productos/servicios sobre los que haya determinado que tenemos un mayor interés o para desarrollar y mejorar futuros negocios aprendiendo de nuestro comportamiento.
 
-Algunos ejemplos son los siguientes:
+Algunos ejemplos de acciones de Google llevadas a cabo tras analizar nuestros datos son los siguientes:
 
- - M
+ - Mostrar mejores vídeos en Youtube según tus gustos y preferencias.
+ - Agilizar los mapas a la hora de desplazarte por ciudad en rutas frecuentes.
+ - Mejorar los resultados del buscador en base a tus preferencias y antiguas búsquedas.
+ - Protegerte de correos peligrosos o limitar el SPAM.
 
 ## ¿Qué datos recoge Google de mi vida personal?
 
@@ -37,5 +40,5 @@ Google te permite las siguientes acciones:
 -   [Establecer qué datos quieres que se midan y cuáles no](https://myaccount.google.com/data-and-personalization)
 - [Comprobar los niveles de privacidad de tu cuenta](https://myaccount.google.com/privacycheckup/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTUwMDM2OTRdfQ==
+eyJoaXN0b3J5IjpbNTE3NjcxNTM5XX0=
 -->
