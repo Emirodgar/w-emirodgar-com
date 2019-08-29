@@ -11,6 +11,8 @@ permalink: datos-privacidad-google
 
 # ¿Qué datos almacena Google y porqué lo hace?
 
+## ¿Por qué a?
+
 Según la versión oficial que ofrece Google, el objetivo de recopilar tanta informació responde a **mejora de productos, seguridad y anuncios**. En resumen, el objetivo principal es aprender de los datos que generamos y el segundo, rentabilizarlos a través de sus plataformas.
 
 > **Google no vende tus datos a terceros**; los almacena y explota de forma interna.
@@ -23,7 +25,7 @@ Google te permite las siguientes acciones:
 
 -   [Descargar todos tus datos](https://support.google.com/accounts/answer/3024190?hl=es)
 -   [Establecer qué datos quieres que se midan y cuáles no](https://myaccount.google.com/data-and-personalization)
-- Comprobar los niveles de privacidad de tu cuenta
+- [Comprobar los niveles de privacidad de tu cuenta](https://myaccount.google.com/privacycheckup/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDUwMzU4Ml19
+eyJoaXN0b3J5IjpbNzI0MTQ5NDEzXX0=
 -->
