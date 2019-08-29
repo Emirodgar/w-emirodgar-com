@@ -9,7 +9,7 @@ permalink: datos-privacidad-google
 
 ---
 
-# ¿Qué datos almacena Google y porqué lo hace?
+# ¿Qué datos almacena Google y por qué lo hace?
 
 ## ¿Por qué almacena Google datos privados?
 
@@ -31,7 +31,6 @@ Algunos ejemplos de acciones de Google llevadas a cabo tras analizar nuestros da
  - Protegerte de correos peligrosos o limitar el SPAM.
  - Protegerte de accesos no autorizados a tus cuentas.
 
-## ¿Qué datos recoge Google de mi vida personal?
 
 ## ¿Qué puedo hacer al respecto?
 
@@ -41,5 +40,5 @@ Google te permite las siguientes acciones:
 -   [Establecer qué datos quieres que se midan y cuáles no](https://myaccount.google.com/data-and-personalization)
 - [Comprobar los niveles de privacidad de tu cuenta](https://myaccount.google.com/privacycheckup/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUyNjczM119
+eyJoaXN0b3J5IjpbLTgwNDQ3NjQyNl19
 -->
