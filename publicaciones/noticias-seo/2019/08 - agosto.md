@@ -16,7 +16,14 @@ permalink: noticias-seo/2019/agosto
 
 Comenzamos con varias confirmaciones interesantes por parte de Google. Por un lado, John nos indica que [no sacaremos ningún beneficio si ponemos como nofollow todos los enlaces externos](https://www.searchenginejournal.com/googles-john-mueller-no-benefit-to-marking-all-outbound-links-as-nofollow/319069/).
 
-Por otro lado, y esto creo que es de gran interés para muchos SEOs, [el número de palabras dentro de un contenido no es un factor SEO](https://www.seroundtable.com/google-word-count-is-not-a-ranking-factor-27994.html).
+Por otro lado, y esto creo que es de gran interés para muchos SEOs, [el número de palabras dentro de un contenido no es un factor SEO](https://www.seroundtable.com/google-word-count-is-not-a-ranking-factor-27994.html). Y, siguiendo con los factores SEO, el tráfico hacia una página no es tenido en cuenta por Google para posicionar.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1165905965482479616">
+</amp-twitter>
 
 Podemos quitarnos de encima esa obsesión por calcular los porcentajes de palabras clave. Mejor apostemos por un contenido de calidad, bien estructurado y que **aporte valor y contexto a los usuarios**.
 
@@ -54,7 +61,7 @@ Esta es la realidad; no hace falta hacer grandes estudios ya que los números ha
 
 Si aún no dominas este servicio gratuito para generación de informes [te recomiendo leer esta guía](https://omisido.com/google-data-studio-the-complete-guide/); una de las más completas que he encontrado hasta la fecha.   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzU0NTE3NSwxNDA4Njk0OTIwLDE4Mj
-M4NzI4MDMsMTcyODAzNjU0NSwtMTA5NzA0MTQ0NSwtNjgzOTA1
-NTA5LDM1ODE4OTQ3NF19
+eyJoaXN0b3J5IjpbOTQ3NTgwODEsMjExMzU0NTE3NSwxNDA4Nj
+k0OTIwLDE4MjM4NzI4MDMsMTcyODAzNjU0NSwtMTA5NzA0MTQ0
+NSwtNjgzOTA1NTA5LDM1ODE4OTQ3NF19
 -->
