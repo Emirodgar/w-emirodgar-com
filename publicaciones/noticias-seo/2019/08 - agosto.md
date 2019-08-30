@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 tags: noticias
 date: 13/08/2019
-image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
+image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: noticias-seo/2019/agosto
 
 ---
@@ -61,7 +61,8 @@ Esta es la realidad; no hace falta hacer grandes estudios ya que los números ha
 
 Si aún no dominas este servicio gratuito para generación de informes [te recomiendo leer esta guía](https://omisido.com/google-data-studio-the-complete-guide/); una de las más completas que he encontrado hasta la fecha.   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzUwMTc4NiwyMTEzNTQ1MTc1LDE0MD
-g2OTQ5MjAsMTgyMzg3MjgwMywxNzI4MDM2NTQ1LC0xMDk3MDQx
-NDQ1LC02ODM5MDU1MDksMzU4MTg5NDc0XX0=
+eyJoaXN0b3J5IjpbMTA4ODY0MjA4NiwtNzM3NTAxNzg2LDIxMT
+M1NDUxNzUsMTQwODY5NDkyMCwxODIzODcyODAzLDE3MjgwMzY1
+NDUsLTEwOTcwNDE0NDUsLTY4MzkwNTUwOSwzNTgxODk0NzRdfQ
+==
 -->
