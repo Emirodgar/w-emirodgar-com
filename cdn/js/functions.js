@@ -1206,8 +1206,10 @@ var SEMICOLON = SEMICOLON || {};
 		sidePanel: function(){
 			$(".side-panel-trigger").click(function(){
 				$body.toggleClass("side-panel-open");
+				console.log(1);
 				if( $body.hasClass('device-touch') && $body.hasClass('side-push-panel') ) {
 					$body.toggleClass("ohidden");
+					console.log(2);
 				}
 				return false;
 			});
