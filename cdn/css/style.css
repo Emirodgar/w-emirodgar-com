@@ -553,5 +553,5 @@ code {
 #copyrights a:hover {
     color: #eee;
 }
-.no-webp .service-image {background: url('cdn/images/company/emirodgar.jpg') center center no-repeat; background-size: cover;}
-.webp .service-image {background: url('cdn/images/company/emirodgar.webp') center center no-repeat; background-size: cover;}
+.no-webp .service-image {background: url('https://emirodgar.com/cdn/images/company/emirodgar.jpg') center center no-repeat; background-size: cover;}
+.webp .service-image {background: url('https://emirodgar.com/cdn/images/company/emirodgar.webp') center center no-repeat; background-size: cover;}
