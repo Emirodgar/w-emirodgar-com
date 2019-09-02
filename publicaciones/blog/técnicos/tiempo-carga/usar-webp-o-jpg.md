@@ -16,14 +16,18 @@ Webp es un [nuevo formato de imagen](https://developers.google.com/speed/webp/) 
 
 Utilizar WebP es nuestras páginas web nos ayudará a [mejorar el tiempo de carga](https://emirodgar.com/mejorar-tiempo-carga-web) y ofrecer una mejor experiencia a nuestros usuarios.
 
-Por desgracia [no todos los navegadores ofrecen aún soporte](https://caniuse.com/#search=webp) a este nuevo formato por lo que en muchos casos tendremos
+Por desgracia [no todos los navegadores ofrecen aún soporte](https://caniuse.com/#search=webp) a este nuevo formato por lo que en muchos casos tendremos que utilizar ambos formatos.
+
+La forma correcta de hacerlo será la siguiente:
 
 ```
 <picture>
-   <source style="visibility: visible; opacity: 1; display: block;" srcset="cdn/images/clients/2.webp" type="image/webp">
-   <img style="visibility: visible; opacity: 1; display: block;" src="cdn/images/clients/2.jpg" alt="Telefónica">
+   <source style="visibility: visible; opacity: 1; display: block;" srcset="cdn/images/2.webp" type="image/webp">
+   <img style="visibility: visible; opacity: 1; display: block;" src="cdn/images/2.jpg" alt="Telefónica">
 </picture>
 ```
+
+De esta forma, si el navegador sí permite los WebP, cargará primero dicho formato. En el caso de no saber interpretarlo cargará las imágenes en jpg.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyMjc4NDc1LC0xNDk5ODIwMDIwXX0=
+eyJoaXN0b3J5IjpbMjMzMzkyMTksLTE0OTk4MjAwMjBdfQ==
 -->
