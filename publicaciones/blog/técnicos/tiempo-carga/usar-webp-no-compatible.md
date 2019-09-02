@@ -44,7 +44,7 @@ Esta librería trae por defecto un autodetector de soporte para WebP que podremo
 
 Automáticamente Modernizr sabrá qué clase aplicar y por lo tanto se cargará el formato de imagen soportado por el buscador.
 
-Google tiene una guía muy interesante que ofrece di
+Google tiene una [guía muy interesante](https://developers.google.com/speed/webp/faq#how_can_i_detect_browser_support_for_webp) que ofrece diversas formas de detectar soporte para WebP.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NjY1NjEsLTI5NjU0NDA4Nl19
+eyJoaXN0b3J5IjpbLTg0NTY5NTY0MSwtMjk2NTQ0MDg2XX0=
 -->
