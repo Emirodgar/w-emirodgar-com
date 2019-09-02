@@ -54,9 +54,9 @@ La forma más efectiva de aligerar nuestra web es eliminando aquello que no util
 
 Por ejemplo, si en la home tenemos un banner y en el resto del sitio no, deberíamos tener un CSS/JS común a toda la página que no incluyera nada relacionado con el banner y, únicamente en la home, añadir ese código extra.
 
-Podemos hacer uso de [Chrome Dev Tools](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage) para identificar [el código CSS que no utilizamos en una página](https://web.dev/unused-css-rules/), de esa forma con retirarlo ajustaremos al máximo el tamaño de este fichero.
+Podemos hacer uso de [Chrome Dev Tools](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage) para identificar [el código CSS que no utilizamos en una página](https://web.dev/unused-css-rules/), de esa forma con retirarlo ajustaremos al máximo el tamaño de este fichero. Una aplicación online muy cómoda es [PurifyCSS](https://purifycss.online/).
 
-También disponemos de extensiones para el navegador como [UnusedCSS](https://unused-css.com/), [PurgeCSS](https://www.purgecss.com/) o [PurifyCSS](https://github.com/purifycss/purifycss) que nos facilitarán la tarea.
+También disponemos de extensiones para el navegador como [UnusedCSS](https://unused-css.com/) o [PurgeCSS](https://www.purgecss.com/) que nos facilitarán la tarea. 
 
 Adicional a todo esto, existe un punto avanzado que también podemos trabajar. Se trata del [camino crítico para generar nuestra web](https://www.portent.com/blog/design-dev/the-critical-rendering-path-explained.htm). Si conseguimos identificar y separar la estructura crítica de lo demás -para que sea lo primero que cargue- conseguiremos una página realmente rápida.
 
@@ -65,6 +65,6 @@ Adicional a todo esto, existe un punto avanzado que también podemos trabajar. S
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDk4NDQ5NSwxNDE4Mzg2NTQ0LDExNz
-AyODMxMTIsLTU1MDczNDA3OF19
+eyJoaXN0b3J5IjpbLTE5MDE5MjExMDEsMTU3NDk4NDQ5NSwxND
+E4Mzg2NTQ0LDExNzAyODMxMTIsLTU1MDczNDA3OF19
 -->
