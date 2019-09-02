@@ -6,9 +6,9 @@ function getDate() {
 		
 $(document).ready(function(){
 
-	$('#side-panel-content').load('../template/html/sidebar.html');
+	$('#side-panel-content').load('../html/sidebar.html');
 	
-	$("#footer").load("../template/html/footer.html", function() {
+	$("#footer").load("../html/footer.html", function() {
 		$("#anno").html(getDate());
 	});
 
