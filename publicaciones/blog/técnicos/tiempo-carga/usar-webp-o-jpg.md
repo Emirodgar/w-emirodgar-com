@@ -30,6 +30,19 @@ La forma correcta de hacerlo será la siguiente:
 De esta forma, si el navegador sí permite los WebP, cargará primero dicho formato. En el caso de no saber interpretarlo cargará las imágenes en jpg.
 
 En el caso de que necesitemos aplicarlo a imágenes dentro del CSS podemos hacer uso de la librería [Modernizr](https://modernizr.com/download?setclasses).
+
+Esta librería trae por defecto un autodetector de soporte para WebP que podremos utilizar de la siguiente manera:
+
+```
+.no-webp .client1 { 
+   background-image:  url("image.jpg"); 
+}
+.webp .client1{ 
+   background-image:  url("image.webp"); 
+}
+```
+
+Automáticamente Modernizr sabrá qué clase aplicar y por lo tant
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzg5MjA5MywtMTQ5OTgyMDAyMF19
+eyJoaXN0b3J5IjpbMTkxMzc2MTUxMywtMTQ5OTgyMDAyMF19
 -->
