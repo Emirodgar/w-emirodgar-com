@@ -6,9 +6,9 @@ function getDate() {
 		
 $(document).ready(function(){
 
-	$('#side-panel-content').load('../html/sidebar.html');
+	$('#side-panel-content').load('https://emirodgar.com/cdn/html/sidebar.html');
 	
-	$("#footer").load("../html/footer.html", function() {
+	$("#footer").load("https://emirodgar.com/cdn/html/footer.html", function() {
 		$("#anno").html(getDate());
 	});
 
