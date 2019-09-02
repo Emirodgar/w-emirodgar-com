@@ -6,7 +6,7 @@ function getDate() {
 		
 $(document).ready(function(){
 
-	//$('#side-panel').load('../template/html/sidebar.html');
+	$('#side-panel').load('../template/html/sidebar.html');
 	
 	$("#footer").load("../template/html/footer.html", function() {
 		$("#anno").html(getDate());
