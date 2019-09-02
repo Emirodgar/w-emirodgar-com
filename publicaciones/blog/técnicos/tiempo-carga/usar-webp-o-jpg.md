@@ -12,7 +12,9 @@ permalink: webp-compatibilidad
 
 # Usar formato Webp cuando un navegador no es compatible
 
+Webp es un [nuevo formato de imagen](https://developers.google.com/speed/webp/) desarrollado por Google que ofrece un ratio de compresión un 25% mayor que un PNG y entre 25%-34% que el JPEG.
 
+Utilizar WebP es nuestras páginas web nos ayudará
 
 ```
 <picture>
@@ -21,5 +23,5 @@ permalink: webp-compatibilidad
 </picture>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk4MjAwMjBdfQ==
+eyJoaXN0b3J5IjpbMTQwMTY3MjY4NSwtMTQ5OTgyMDAyMF19
 -->
