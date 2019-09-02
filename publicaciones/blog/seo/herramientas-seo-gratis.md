@@ -2,7 +2,7 @@
 title: Herramientas SEO gratis
 description: Conseguir buenos resultados en una estrategia SEO no depende únicamente de tener herramientas de pago. Utilizar estos recursos totalmente gratuitos para marcar la diferencia.
 image: https://emirodgar.com/cdn/images/og/herramientas.png
-date: 14/06/2019
+date: 16/08/2019
 author: Emirodgar
 lang: es_ES
 permalink: herramientas-seo-gratis
@@ -169,7 +169,8 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Link Miner](https://chrome.google.com/webstore/detail/linkminer/ogdhdnpiclkaeicicamopfohidjokoom?hl=en)
 - [ChomeDev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 - [SEO Minion](https://seominion.com/)
+- [Checkbot (analizar tiempos de carga)](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkwMTk1NzddfQ==
+eyJoaXN0b3J5IjpbMTM0NTM4NzE2MV19
 -->

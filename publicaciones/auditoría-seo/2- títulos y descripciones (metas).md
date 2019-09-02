@@ -59,7 +59,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzY0ODk4NywtMTk5NzI5MDEsLTIxMT
-Q1MTg3MDUsLTEyMDk2MTY0OTcsLTkzNTEyMTA1OSwtOTU3NjIy
-OTZdfQ==
+eyJoaXN0b3J5IjpbMTk3NzY0ODk4N119
 -->

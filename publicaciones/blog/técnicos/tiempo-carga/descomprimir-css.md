@@ -28,6 +28,5 @@ Es buena práctica trabajar con dos ficheros, uno comprimido y otro no de tal fo
 
 Si estáis comprometidos con el tiempo de carga de vuestra web, os recomiendo el artículo [automatizar análisis de Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse) para que podáis monitorizar de forma automática el rendimiento de vuestras páginas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjU2MDc4NSwtMTA1Mjc1ODI2MSwxNj
-UyODg0MTcxXX0=
+eyJoaXN0b3J5IjpbMjA1NjU2MDc4NV19
 -->

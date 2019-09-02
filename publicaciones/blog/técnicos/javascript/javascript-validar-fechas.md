@@ -68,5 +68,5 @@ Esta función en JavaScript nos permitirá de una forma rápida validar una fech
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMjI5MjQ5LC0xODkyMTg2MjM5XX0=
+eyJoaXN0b3J5IjpbOTgzMjI5MjQ5XX0=
 -->

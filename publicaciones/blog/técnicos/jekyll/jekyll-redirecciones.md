@@ -60,6 +60,5 @@ permalink: /actual/
 
 También podríamos crear un fichero .htaccess bajo Jekyll y gestionar las redirecciones a través del mismo, pero creo que esta forma es más rápida y sencilla.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ4MzY3NjQsLTI1NDQ1Mzg1NiwtMj
-EyMjY0MTM2NF19
+eyJoaXN0b3J5IjpbLTE5NjQ4MzY3NjRdfQ==
 -->

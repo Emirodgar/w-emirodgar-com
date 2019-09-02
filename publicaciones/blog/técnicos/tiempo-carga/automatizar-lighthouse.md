@@ -124,5 +124,5 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTY4ODQwNSwxNjUxNjg4NDA1XX0=
+eyJoaXN0b3J5IjpbMTY1MTY4ODQwNV19
 -->
