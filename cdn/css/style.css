@@ -205,9 +205,9 @@ body:not(.device-touch) .portfolio{-webkit-transition:height .4s linear;-o-trans
 body:not(.device-touch):not(.device-xs):not(.device-xxs) .portfolio-overlay{-webkit-transition:opacity .4s ease-in-out;-o-transition:opacity .4s ease-in-out;transition:opacity .4s ease-in-out;}
 .portfolio-item:hover .portfolio-overlay{opacity:1;}
 .portfolio-overlay .portfolio-desc{position:relative;padding:0!important;margin:0;text-align:center;}
-.portfolio-overlay .portfolio-desc h3{font-weight:600;color:#333!important;line-height:1;}
+.portfolio-overlay .portfolio-desc h3{font-weight:600;color:black!important;line-height:1;}
 .portfolio-overlay .portfolio-desc h3{color:#333!important;}
-.portfolio-overlay .portfolio-desc span{margin-top:7px;color:#888!important;}
+.portfolio-overlay .portfolio-desc span{margin-top:7px;color:black!important;}
 .button{display:inline-block;position:relative;cursor:pointer;outline:none;white-space:nowrap;margin:5px;padding:0 22px;font-size:14px;height:40px;line-height:40px;background-color:#1ABC9C;color:#FFF;font-weight:600;text-transform:uppercase;letter-spacing:1px;border:none;text-shadow:1px 1px 1px rgba(0,0,0,0.2);}
 body:not(.device-touch) .button{-webkit-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out;}
 .button-light{background-color:#EEE;color:#333;text-shadow:none!important;}
