@@ -23,7 +23,7 @@ La forma correcta de hacerlo será la siguiente:
 ```html
 <picture>
    <source srcset="cdn/images/2.webp" type="image/webp">
-   <img style="visibility: visible; opacity: 1; display: block;" src="cdn/images/2.jpg" alt="Telefónica">
+   <img src="cdn/images/2.jpg" alt="Telefónica">
 </picture>
 ```
 
@@ -44,5 +44,5 @@ Esta librería trae por defecto un autodetector de soporte para WebP que podremo
 
 Automáticamente Modernizr sabrá qué clase aplicar y por lo tanto se cargará el formato de imagen soportado por el buscador.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTEyNDg4Nl19
+eyJoaXN0b3J5IjpbLTI5NjU0NDA4Nl19
 -->
