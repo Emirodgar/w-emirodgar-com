@@ -12,6 +12,17 @@ permalink: noticias-seo/2019/septiembre
 
 # Noticias SEO septiembre 2019
 
+## ¿Qué es el SEO?
+
+Interesante debate en Twitter en el que se relativiza el trabajo SEO estableciendo que se trata de una problema de ejecución y 
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1169070009366142976">
+</amp-twitter>
+
 ## Estrategia de enlazado
 
 Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estrategias de linkbuilding y la forma adecuada de [establecer y medir el impacto de lo que hemos realizado](http://www.blindfiveyearold.com/the-invisible-attribution-model-of-link-acquisition).
@@ -20,5 +31,6 @@ Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estr
 
 Este caso de estudio nos detalla [cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados](https://growandconvert.com/content-marketing/how-long-does-it-take-for-content-marketing-to-work/). Es bastante completo e interesante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MTQ5ODY5LDEwOTU2MjY1NjZdfQ==
+eyJoaXN0b3J5IjpbMTkyNDAzNTE5NywzNDYxNDk4NjksMTA5NT
+YyNjU2Nl19
 -->
