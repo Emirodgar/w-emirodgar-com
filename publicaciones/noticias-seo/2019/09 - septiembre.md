@@ -18,7 +18,7 @@ Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estr
 
 ## Estategia de contenidos
 
-Este caso de estudio nos detalla cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados.
+Este caso de estudio nos detalla [cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados](https://growandconvert.com/content-marketing/how-long-does-it-take-for-content-marketing-to-work/). Es bastante completo e interesante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MzY1MzIwLDEwOTU2MjY1NjZdfQ==
+eyJoaXN0b3J5IjpbMzQ2MTQ5ODY5LDEwOTU2MjY1NjZdfQ==
 -->
