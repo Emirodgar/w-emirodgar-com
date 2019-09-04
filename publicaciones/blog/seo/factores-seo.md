@@ -76,15 +76,15 @@ Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre
 Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia SEO para garantizar unos buenos resultados.
 
  - La página es relevante para las keywords por las que posiciona.
- - Calidad de enlaces entrantes.
- - Uso de palabras clave adecuadas y dentro del contexto de la página.
+  - Uso de palabras clave adecuadas y dentro del contexto de la página.
  - Frescura y dinamismo en los contenidos.
  - Uso de imágenes únicas y relevantes.
  - Factores de accesibilidad web.
  - URL amigables.
  - La palabra clave aparece en el dominio.
  - Edad y confianza del dominio principal.
+ - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzA5NDQ2MDUsMTc3NTc2OTgyOV19
+eyJoaXN0b3J5IjpbMjU1MzgxOTU3LDE3NzU3Njk4MjldfQ==
 -->
