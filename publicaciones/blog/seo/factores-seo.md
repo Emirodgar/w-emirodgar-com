@@ -79,12 +79,12 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
   - Uso de palabras clave adecuadas y dentro del contexto de la página.
  - Frescura y dinamismo en los contenidos.
  - Uso de imágenes únicas y relevantes.
- - Factores de accesibilidad web.
- - URL amigables.
+ - Factores de tiempo de carga y accesibilidad web.
  - La palabra clave aparece en el dominio.
  - Edad y confianza del dominio principal.
+  - Las URLs son amigables.
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1MzgxOTU3LDE3NzU3Njk4MjldfQ==
+eyJoaXN0b3J5IjpbMTkyNDM4NzU0MiwxNzc1NzY5ODI5XX0=
 -->
