@@ -14,7 +14,7 @@ permalink: noticias-seo/2019/septiembre
 
 ## Estrategia de enlazado
 
-Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estrategias de linkbuilding.
+Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estrategias de linkbuilding y la forma adecuada de [establecer y medir el impacto de lo que hemos realizado](http://www.blindfiveyearold.com/the-invisible-attribution-model-of-link-acquisition).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEzMjczODNdfQ==
+eyJoaXN0b3J5IjpbMTA5NTYyNjU2Nl19
 -->
