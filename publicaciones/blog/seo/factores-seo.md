@@ -70,6 +70,16 @@ A día de hoy la búsqueda tradicional sigue teniendo gran peso pero ya podemos 
 - 76% de los dueños de un asistente virtual buscan información de negocios locales al menos una vez por semana
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
+
+## Otros factores SEO importantes
+
+Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia SEO para garantizar unos buenos resultados.
+
+ - La página es relevante para las keywords por las que posiciona
+ - Calidad de enlaces entrantes
+ - Uso de palabras clave adecuadas y con valor
+ - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTc2OTgyOV19
+eyJoaXN0b3J5IjpbMTYwNDIxNDUyLDE3NzU3Njk4MjldfQ==
 -->
