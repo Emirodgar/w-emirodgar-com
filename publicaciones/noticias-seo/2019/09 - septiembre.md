@@ -15,6 +15,10 @@ permalink: noticias-seo/2019/septiembre
 ## Estrategia de enlazado
 
 Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estrategias de linkbuilding y la forma adecuada de [establecer y medir el impacto de lo que hemos realizado](http://www.blindfiveyearold.com/the-invisible-attribution-model-of-link-acquisition).
+
+## Estategia de contenidos
+
+Este caso de estudio nos detalla cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTYyNjU2Nl19
+eyJoaXN0b3J5IjpbMjc4MzY1MzIwLDEwOTU2MjY1NjZdfQ==
 -->
