@@ -24,8 +24,10 @@ Lo primero de todo es que nunca te aburres. Cada día tienes un entrenamiento di
 
 ## Lesiones en CrossFit
 
-En mis tres años me he lesionado una vez y fue por no querer avanzar demasiado rápido. Cada clase cuenta con un máximo de 14 person
+En mis tres años me he lesionado una vez y fue por no querer avanzar demasiado rápido. Cada clase cuenta con un máximo de 14 personas por lo que el monitor -aseguraros de que tiene los títulos necesarios para ejercer como tal- siempre está pendiente de ti.
+
+En el momento en el que tu postura no es la correcta o no estás haciendo algo bien, se acerca, te corrige y te enseña para que aprendas. No importa cuánto tardes en coger el truco
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTgxMjM4LC0xMDI5MjQzNTcxXX0=
+eyJoaXN0b3J5IjpbLTUxMjYzNjM4NCwtMTAyOTI0MzU3MV19
 -->
