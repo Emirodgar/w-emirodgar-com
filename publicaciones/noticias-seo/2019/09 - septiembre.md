@@ -38,6 +38,8 @@ Personalmente no me gusta nada y pienso que podría complicar la experiencia si 
 
 El 1 de septiembre Google anunció el cese de la vieja interfaz de Google Search Console; [ha tenido una despedida con honores](https://webmasters.googleblog.com/2019/09/goodbye-old-search-console.html?).
 
+Google y DuckDuckGo se enzarzan en una conversión acerca de [qué buscador deberían utilizar los usuarios](https://www.seroundtable.com/google-to-duckduckgo-bias-28135.html). 
+
 ## Estrategia de enlazado
 
 Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estrategias de linkbuilding y la forma adecuada de [establecer y medir el impacto de lo que hemos realizado](http://www.blindfiveyearold.com/the-invisible-attribution-model-of-link-acquisition).
@@ -46,6 +48,7 @@ Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estr
 
 Este caso de estudio nos detalla [cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados](https://growandconvert.com/content-marketing/how-long-does-it-take-for-content-marketing-to-work/). Es bastante completo e interesante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDYwMDE4NCwxMjU2NTI0MDQwLDEwMz
-gwNDYwMDcsMzQ2MTQ5ODY5LDEwOTU2MjY1NjZdfQ==
+eyJoaXN0b3J5IjpbLTk2NTY2MTM2MSwyMDQ0NjAwMTg0LDEyNT
+Y1MjQwNDAsMTAzODA0NjAwNywzNDYxNDk4NjksMTA5NTYyNjU2
+Nl19
 -->
