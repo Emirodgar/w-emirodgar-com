@@ -31,9 +31,13 @@ Ahora tendremos que ir a las imágenes que queremos cargar bajo demando e inclui
 <img data-src="cdn/images/clients/melia-hoteles.jpg"  class="lazyload" alt="Estrategia SEO Meliá Hoteles">
 ```
 
-Básicamente hemos cambiado ```src``` por ```data-src``` y hemos incluido la clase lazyload ```class="lazyload"```. A partir de ahora esas imágenes sólo se mostrarán cuando alguien haga scroll cerca de ellas optimizando el tiempo de carga de la web.
+Básicamente hemos cambiado ```src``` por ```data-src``` y hemos incluido la clase lazyload ```class="lazyload"```. A partir de ahora esas imágenes sólo se mostrarán cuando alguien haga scroll cerca de ellas optimizando el tiempo de carga de la web. Si hacemos uso del [formato WebP](https://emirodgar.com/webp-compatibilidad) el proceso será el mismo. 
 
-En el caso de que estemos usando el formato web
+Por último, si las imágenes forman parte de una galería y necesitan estar presentes durante la carga de la página para confeccionar el esqueleto de la misma, podemos hacer uso de ```src``` con una imagen base de poco peso y que se repita en todos los huecos:
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5ODI1NTgyLC05NzcxOTY3ODRdfQ==
+eyJoaXN0b3J5IjpbNDUwODM4OTgwLC05NzcxOTY3ODRdfQ==
 -->
