@@ -16,9 +16,9 @@ La técnica **Lazy Load** consiste en **cargar elementos de una página web bajo
 
 Cuando accedemos a una página, por defecto descargamos todos los elementos que la componen, lo usemos o no. Si disponemos de un portfolio de clientes a mitad de la página y un 60% de la gente nunca llega a dicha sección, habremos descargado siempre las imágenes para nada.
 
-A través de la carga  
+A través de la **carga bajo demanda** únicamente cargaremos dichas imágenes si el usuario llega hasta ellas mejorando sustancialmente el [tiempo de carga de la web](https://emirodgar.com/mejorar-tiempo-carga-web) y ofreciendo una experiencia gratificante a nuestros usuarios.
 
- y nos permitirá mejorar sustancialmente el [tiempo de carga de una web](https://emirodgar.com/mejorar-tiempo-carga-web).
+Para poder llevar a cabo esta técnica tendremos que incluir el fichero 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDg4NzEyMF19
+eyJoaXN0b3J5IjpbNDA4NTY1ODY4XX0=
 -->
