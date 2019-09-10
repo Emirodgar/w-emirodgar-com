@@ -36,6 +36,8 @@ Parece que Google sigue haciendo pruebas en las SERPs; ahora le ha tocado el tur
 
 Personalmente no me gusta nada y pienso que podría complicar la experiencia si no se actúa con un poco de control. Veremos en qué queda al final.
 
+El 1 de septiembre Google anunció el cese de la vieja interfaz de Google Search Console.
+
 ## Estrategia de enlazado
 
 Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estrategias de linkbuilding y la forma adecuada de [establecer y medir el impacto de lo que hemos realizado](http://www.blindfiveyearold.com/the-invisible-attribution-model-of-link-acquisition).
@@ -44,6 +46,6 @@ Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estr
 
 Este caso de estudio nos detalla [cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados](https://growandconvert.com/content-marketing/how-long-does-it-take-for-content-marketing-to-work/). Es bastante completo e interesante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjUyNDA0MCwxMDM4MDQ2MDA3LDM0Nj
-E0OTg2OSwxMDk1NjI2NTY2XX0=
+eyJoaXN0b3J5IjpbOTczNjQyMTEsMTI1NjUyNDA0MCwxMDM4MD
+Q2MDA3LDM0NjE0OTg2OSwxMDk1NjI2NTY2XX0=
 -->
