@@ -26,7 +26,9 @@ Entretenido y muy sencillo de leer. La trama es algo justa pero se compensa con 
 ## El juego del Ángel
 ### Carlos Ruíz Zafón / 2008 - 7/10
 
-Hacía tiempo que leí La sombra del viento y tenía ganas de meterle mano a esta trepidante saga del Cementerio de los libros olvidados. No me ha defraudado.
+Hace tiempo que leí **La sombra del viento** y tenía ganas de meterle mano a esta trepidante saga del **Cementerio de los libros olvidados**. No me ha defraudado. Me he sumergido de lleno en esa Barcelona olvidada y me h
+
+> No confío en la gente que cree tener muchos amigos. Es señal de que no conocen a los demás.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDA5NzY1N119
+eyJoaXN0b3J5IjpbODU3NDQxNDldfQ==
 -->
