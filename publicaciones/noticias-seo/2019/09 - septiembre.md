@@ -23,6 +23,19 @@ Interesante debate en Twitter en el que se relativiza el trabajo SEO establecien
   data-tweetid="1169070009366142976">
 </amp-twitter>
 
+## Google y sus pruebas
+
+Parece que Google sigue haciendo pruebas en las SERPs; ahora le ha tocado el turno a los emoticonos.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1167034736276996096">
+</amp-twitter>
+
+Personalmente no me gusta nada y pienso que podría complicar la experiencia si no se actúa con un poco de control. Veremos en qué queda al final.
+
 ## Estrategia de enlazado
 
 Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estrategias de linkbuilding y la forma adecuada de [establecer y medir el impacto de lo que hemos realizado](http://www.blindfiveyearold.com/the-invisible-attribution-model-of-link-acquisition).
@@ -31,6 +44,6 @@ Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estr
 
 Este caso de estudio nos detalla [cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados](https://growandconvert.com/content-marketing/how-long-does-it-take-for-content-marketing-to-work/). Es bastante completo e interesante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODA0NjAwNywzNDYxNDk4NjksMTA5NT
-YyNjU2Nl19
+eyJoaXN0b3J5IjpbMTI1NjUyNDA0MCwxMDM4MDQ2MDA3LDM0Nj
+E0OTg2OSwxMDk1NjI2NTY2XX0=
 -->
