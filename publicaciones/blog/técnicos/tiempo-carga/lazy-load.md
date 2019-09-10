@@ -48,11 +48,13 @@ Por último, si las imágenes forman parte de una galería y necesitan estar pre
 ```html
 <img 
 src="cdn/images/clients/base.jpg" 
-data-src="cdn/images/clients/melia-hoteles.jpg"  class="lazyload" 
+data-src="cdn/images/clients/melia-hoteles.jpg" 
+class="lazyload" 
 alt="Estrategia SEO Meliá Hoteles">
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTQ2MjU3OCwtOTc3MTk2Nzg0XX0=
+eyJoaXN0b3J5IjpbLTM5MDg3NTg1MCwyMDU5NDYyNTc4LC05Nz
+cxOTY3ODRdfQ==
 -->
