@@ -14,5 +14,6 @@ $(document).ready(function(){
 	
 	$(".erg_protfolio").load('https://emirodgar.com/cdn/html/portfolio.html');
 	$("#section-services-seo").load('https://emirodgar.com/cdn/html/services.html');
+	$("#section-experience").load('https://emirodgar.com/cdn/html/experience.html');
 
 });
