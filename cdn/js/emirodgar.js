@@ -13,6 +13,6 @@ $(document).ready(function(){
 	});
 	
 	$(".erg_protfolio").load('https://emirodgar.com/cdn/html/portfolio.html');
-	$("#section-reasons").load('https://emirodgar.com/cdn/html/reasons.html');
+	$("#section-services-seo").load('https://emirodgar.com/cdn/html/services.html');
 
 });
