@@ -18,7 +18,13 @@ Cuando accedemos a una página, por defecto descargamos todos los elementos que 
 
 A través de la **carga bajo demanda** únicamente cargaremos dichas imágenes si el usuario llega hasta ellas mejorando sustancialmente el [tiempo de carga de la web](https://emirodgar.com/mejorar-tiempo-carga-web) y ofreciendo una experiencia gratificante a nuestros usuarios.
 
-Para poder llevar a cabo esta técnica tendremos que incluir el fichero 
+Para poder llevar a cabo esta técnica tendremos que incluir el fichero [lazysizes.min.js](https://raw.githubusercontent.com/aFarkas/lazysizes/gh-pages/lazysizes.min.js) en nuestra web. Primero lo descargamos del enlace anterior y después lo incluimos de la siguiente forma
+
+```
+<script src="[ruta]/js/lazysizes.min.js" async></script>
+```
+
+Ahora tendremos que ir a las imágenes que queremos 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NTY1ODY4XX0=
+eyJoaXN0b3J5IjpbLTgzOTkxNDgzNV19
 -->
