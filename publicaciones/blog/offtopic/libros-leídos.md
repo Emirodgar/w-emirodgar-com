@@ -14,7 +14,7 @@ permalink: libros-recomendados
 
 Tras la adquisición de un Kindle por mi cumpleaños el verano de 2019 me propuse recuperar una de mis grandes aficiones que tenía abandonada: **la lectura**.
 
-Estos son algunos de los libros que he leído desde entonces y que me han 
+Estos son algunos de los libros que he leído desde entonces y que hanconseguido que me  perderme entre sus páginas.
 
 ## El asesinato de Pitágoras
 ### Marcos Chicot / 2013 - 6/10
@@ -30,5 +30,5 @@ Hace ya tiempo que leí **La sombra del viento** y tenía ganas de meterle mano 
 
 > No confío en la gente que cree tener muchos amigos. Es señal de que no conocen a los demás.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1NzA5Nzc4XX0=
+eyJoaXN0b3J5IjpbMTM2MDczNzE5OV19
 -->
