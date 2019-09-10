@@ -16,9 +16,9 @@ Tras la adquisición de un Kindle por mi cumpleaños el 21 de julio de 2019 me p
 
 A continuación iré nombrando los libros que he leído desde entonces y alguna
 
-## El asesinato de Pitágoras (02019)
+## El asesinato de Pitágoras (07/2019)
 
-Entretenido aunque la trama algo justa. Muy sencillo de leer y además aprendes algo de historia ya que está bastante bien documentado.
+Entretenido y muy sencillo de leer. La trama es algo justa pero se compensa con los datos históricos ya que está bastante bien documentado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDg4NzQyMl19
+eyJoaXN0b3J5IjpbLTMxNjU5NDA2OV19
 -->
