@@ -31,7 +31,7 @@ Ahora tendremos que ir a las imágenes que queremos cargar bajo demando e inclui
 <img data-src="cdn/images/clients/melia-hoteles.jpg"  class="lazyload" alt="Estrategia SEO Meliá Hoteles">
 ```
 
-Básicamente hemos cambiado ```src``` 
+Básicamente hemos cambiado ```src``` por ```data-src``` y hemos incluido la clase lazyload ```class="lazyload"```. Ya no es necesario hacer nada más.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzU4MTEyNF19
+eyJoaXN0b3J5IjpbLTk3NzE5Njc4NF19
 -->
