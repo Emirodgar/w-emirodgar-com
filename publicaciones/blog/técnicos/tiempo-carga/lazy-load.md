@@ -24,12 +24,17 @@ Para poder llevar a cabo esta técnica tendremos que incluir el fichero [lazysiz
 <script src="[ruta]/js/lazysizes.min.js" async></script>
 ```
 
-Ahora tendremos que ir a las imágenes que queremos cargar bajo demando e incluir los siguientes cambios:
+Ahora tendremos que ir a las imágenes que queremos cargar bajo demando e incluir una serie de cambios. A continuación se muestra el código original de la imagen.
 
 ```html
-~~<img 
+<img 
 src="cdn/images/clients/melia-hoteles.jpg"
-alt="Estrategia SEO Meliá Hoteles">~~
+alt="Estrategia SEO Meliá Hoteles">
+```
+
+En el siguiendo código podemos ver los cambios realizados.
+
+```html
 <img 
 data-src="cdn/images/clients/melia-hoteles.jpg"
 class="lazyload" 
@@ -49,5 +54,5 @@ alt="Estrategia SEO Meliá Hoteles">
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxNzIxNjE4LC05NzcxOTY3ODRdfQ==
+eyJoaXN0b3J5IjpbMjA1OTQ2MjU3OCwtOTc3MTk2Nzg0XX0=
 -->
