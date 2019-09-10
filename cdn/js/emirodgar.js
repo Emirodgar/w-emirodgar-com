@@ -11,5 +11,7 @@ $(document).ready(function(){
 	$("#footer").load("https://emirodgar.com/cdn/html/footer.html", function() {
 		$("#anno").html(getDate());
 	});
+	
+	$(".erg_protfolio").load('https://emirodgar.com/cdn/html/portfolio.html');
 
 });
