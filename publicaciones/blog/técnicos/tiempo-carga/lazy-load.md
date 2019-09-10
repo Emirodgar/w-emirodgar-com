@@ -20,11 +20,18 @@ A través de la **carga bajo demanda** únicamente cargaremos dichas imágenes s
 
 Para poder llevar a cabo esta técnica tendremos que incluir el fichero [lazysizes.min.js](https://raw.githubusercontent.com/aFarkas/lazysizes/gh-pages/lazysizes.min.js) en nuestra web. Primero lo descargamos del enlace anterior y después lo incluimos de la siguiente forma
 
-```
+```html
 <script src="[ruta]/js/lazysizes.min.js" async></script>
 ```
 
-Ahora tendremos que ir a las imágenes que queremos 
+Ahora tendremos que ir a las imágenes que queremos cargar bajo demando e incluir los siguientes cambios:
+
+```html
+~~<img src="cdn/images/clients/melia-hoteles.jpg" alt="Estrategia SEO Meliá Hoteles">~~
+<img data-src="cdn/images/clients/melia-hoteles.jpg"  class="lazyload" alt="Estrategia SEO Meliá Hoteles">
+```
+
+Básicamente hemos cambiado ```src``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTkxNDgzNV19
+eyJoaXN0b3J5IjpbMTI3MzU4MTEyNF19
 -->
