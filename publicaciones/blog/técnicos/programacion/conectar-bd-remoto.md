@@ -8,13 +8,11 @@ permalink: conectar-a-una-base-de-datos-mysql-en-remoto
 
 # Conectar a una base de datos MySQL en remoto
 
-Últimamente me ha dado por hacer copias de seguridad de las bases de datos de mis proyectos, seguramente a raíz de que el otro día sin querer borré una, gracias a phpMyAdmin.  
-  
 Hasta ahora utilizaba principalmente [TOAD](http://www.toadsoft.com/) para el diseño, gestión y mantenimiento de mis bases de datos pero cada día lo encuentro más sencillo y con la sensación de que no cubre todas mis expectativas. Por ello, a partir de hoy he decidido empezar a usar [SQLYog](http://www.webyog.com/en/).  
   
-El caso es que me he planteado la necesidad de realizar copias de seguridad de todas las bases de datos regularmente, y esta es otra de las razones por las que excluyo el uso de phpMyAdmin, ya que al ser vía Web requiere de un registro previo en los servidores donde estén alojados, con lo que se pierde bastante tiempo.  
+El caso es que me he planteado la necesidad de **realizar copias de seguridad de todas las bases de datos regularmente**, y esta es otra de las razones por las que excluyo el uso de phpMyAdmin, ya que al ser vía Web requiere de un registro previo en los servidores donde estén alojados, con lo que se pierde bastante tiempo.  
   
-SQLYog nos va a permitir acceder de forma organizada y rápida tanto a las bases de datos locales como a las remotas pero ¿cómo se configura una base de datos mySQL para ser accedida de forma remota? pues es muy sencillo, de momento lo he hecho para un servidor que utiliza cpanel, aunque, seguramente en otros como plesk el proceso será igual.
+SQLYog nos va a permitir acceder de forma organizada y rápida tanto a las bases de datos locales como a las remotas pero **¿cómo se configura una base de datos mySQL para ser accedida de forma remota?**. Muy sencillo, de momento lo he hecho para un servidor que utiliza cpanel, aunque, seguramente en otros como plesk o similares el proceso será igual.
 
 ## Acceder remotamente a una base de datos MySQL  
   
@@ -32,5 +30,5 @@ Al principio pensé en hacerme un script PHP, pero desde luego que algo tan senc
   
 Si no necesitas programas de gestión de bases de datos sino que lo que buscas es simple y llanamente un programa para hacer copias de seguridad, te recomiendo MyAutoBackup o cualquier aplicación similar que permita programas copias de seguridad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDkxMzQ3Nl19
+eyJoaXN0b3J5IjpbLTYzOTM2ODE4MV19
 -->
