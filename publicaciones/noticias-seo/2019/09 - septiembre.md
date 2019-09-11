@@ -44,11 +44,13 @@ Google y DuckDuckGo se enzarzan en una conversión acerca de [qué buscador debe
 
 Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estrategias de linkbuilding y la forma adecuada de [establecer y medir el impacto de lo que hemos realizado](http://www.blindfiveyearold.com/the-invisible-attribution-model-of-link-acquisition).
 
+Michael Cottam se ha currado una [recopilación de sitios tóxicos a los que hacer disavow](https://www.michaelcottam.com/negative-seo-disavow-list/).
+
 ## Estategia de contenidos
 
 Este caso de estudio nos detalla [cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados](https://growandconvert.com/content-marketing/how-long-does-it-take-for-content-marketing-to-work/). Es bastante completo e interesante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTY2MTM2MSwyMDQ0NjAwMTg0LDEyNT
-Y1MjQwNDAsMTAzODA0NjAwNywzNDYxNDk4NjksMTA5NTYyNjU2
-Nl19
+eyJoaXN0b3J5IjpbLTEwNTUzMDM1MzEsLTk2NTY2MTM2MSwyMD
+Q0NjAwMTg0LDEyNTY1MjQwNDAsMTAzODA0NjAwNywzNDYxNDk4
+NjksMTA5NTYyNjU2Nl19
 -->
