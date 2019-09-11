@@ -6,7 +6,7 @@ author: Emirodgar
 tags: offtopic, crossfit
 date: 10/09/2019
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
-permalink: tecnologia/pasar-de-int-a-string-y-de-string-a-int-en-java
+permalink: pasar-de-int-a-string-y-de-string-a-int-en-java
 
 ---
 
@@ -56,5 +56,5 @@ Otra forma correcta de hacerlo sería utilizando el método toString del objeto 
 ```
 Espero que esto les sirva a todas aquellas personas que vinieron buscándolo, al menos así es como suelo hacerlo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzAxMzQ5OV19
+eyJoaXN0b3J5IjpbLTQ2NzA5MjcwM119
 -->
