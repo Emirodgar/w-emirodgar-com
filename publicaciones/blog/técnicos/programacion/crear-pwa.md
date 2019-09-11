@@ -41,7 +41,7 @@ Como he comentado con anterioridad, necesitamos conocimientos de HTML, Javascrip
  
  Se trata del fichero de configuración que determinará las opciones de ejecución de nuestra aplicación. Establecemos el nombre, colores, rutas de los ficheros que utilizaremos, modos de ejecucución, etc. A continuación tenemos un ejemplo del contenido de este fichero.
 
-```
+```json
 {
   "name": "Prueba PWA",
   "short_name": "Prueba",
@@ -59,7 +59,7 @@ Como he comentado con anterioridad, necesitamos conocimientos de HTML, Javascrip
 ```
 Este fichero será referenciado desde nuestra página web a través de la siguiente instrucción. También acepta que la extensión sea .json
 
-```
+```html
 <link rel="manifest" href="/config.webmanifest">
 ```
 
@@ -79,7 +79,7 @@ Al igual que cualquier app nativa instalada en nuestro móvil, necesitaremos que
 
 Por último debemos incluir en nuestro código HTML las instrucciones necesarias para que se convierta en una PWA. A continuación muestro un código de ejemplo con las instrucciones mínimas.
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -114,5 +114,5 @@ Puedes utilizar el proyecto open source [PWA Builder](https://pwa.cafe/) como pl
 
 Al igual que ocurre con las aplicaciones de Android o iOS, las PWA también tienen su propia página que las agrupa y nos permite acceder a ellas fácilmente. Se llama [Appsco](https://appsco.pe).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAzMzQ5MDBdfQ==
+eyJoaXN0b3J5IjpbNTc4MTEwMjIyXX0=
 -->
