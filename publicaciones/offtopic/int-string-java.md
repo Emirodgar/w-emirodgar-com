@@ -14,7 +14,7 @@ permalink: tecnologia/pasar-de-int-a-string-y-de-string-a-int-en-java
 
 Me llegan muchas visitas buscando el cómo poder cambiar entre varios tipos de datos en java, y ya creo que va siendo hora de que les haga un poquito de caso y explique como es posible convertir datos enteros a cadena (int a String) y cadena a enteros (String a int)  
   
-Por lo general lo que más suelo hacer es pasar cadenas a enteros, es decir, de un tipo String a un tipo int, notese que "String" es un objeto e int es un tipo básico luego el proceso de uno a otro será diferente.  
+Por lo general lo que más suelo hacer es pasar cadenas a enteros, es decir, de un tipo String a un tipo int, nótese que "String" es un **objeto** e int es un **tipo básico** luego el proceso de uno a otro será diferente.  
   
 ## Pasar un STRING a un INT (de cadena a entero)  
   
@@ -56,5 +56,5 @@ Otra forma correcta de hacerlo sería utilizando el método toString del objeto 
 ```
 Espero que esto les sirva a todas aquellas personas que vinieron buscándolo, al menos así es como suelo hacerlo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Nzc1MzI3MV19
+eyJoaXN0b3J5IjpbNjY5OTQxMDUxXX0=
 -->
