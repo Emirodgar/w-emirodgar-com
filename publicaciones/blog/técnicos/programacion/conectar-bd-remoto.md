@@ -10,7 +10,7 @@ permalink: conectar-a-una-base-de-datos-mysql-en-remoto
 
 Últimamente me ha dado por hacer copias de seguridad de las bases de datos de mis proyectos, seguramente a raíz de que el otro día sin querer borré una, gracias a phpMyAdmin.  
   
-Hasta ahora utilizaba este programa para el diseño, gestión y mantenimiento de mis bases de datos, pero desde que en el trabajo manejo el TOAD ([http://www.toadsoft.com/](http://www.toadsoft.com/)), cada día lo encuentro más sencillo y con la sensación de que no cubre todas mis expectativas, por lo que a partir de hoy he decidido empezar a usar SQLYog ([http://www.webyog.com/en/](http://www.webyog.com/en/)).  
+Hasta ahora utilizaba principalmente [TOAD](http://www.toadsoft.com/) para el diseño, gestión y mantenimiento de mis bases de datos pero cada día lo encuentro más sencillo y con la sensación de que no cubre todas mis expectativas. Por ello, a partir de hoy he decidido empezar a usar [SQLYog](http://www.webyog.com/en/).  
   
 El caso es que me he planteado la necesidad de realizar copias de seguridad de todas las bases de datos regularmente, y esta es otra de las razones por las que excluyo el uso de phpMyAdmin, ya que al ser vía Web requiere de un registro previo en los servidores donde estén alojados, con lo que se pierde bastante tiempo.  
   
@@ -32,5 +32,5 @@ Al principio pensé en hacerme un script PHP, pero desde luego que algo tan senc
   
 Si no necesitas programas de gestión de bases de datos sino que lo que buscas es simple y llanamente un programa para hacer copias de seguridad, te recomiendo MyAutoBackup o cualquier aplicación similar que permita programas copias de seguridad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1NTk5NTQ2XX0=
+eyJoaXN0b3J5IjpbMTE4MDkxMzQ3Nl19
 -->
