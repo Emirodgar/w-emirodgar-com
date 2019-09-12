@@ -14,7 +14,16 @@ permalink: noticias-seo/2019/septiembre
 
 ## Nuevos atributos sponsored y ugc
 
-Google ha lanzado dos nuevos atributos para los enlaces que se unen al nofollow: sponsored para enlaces de pago y ugc para enlaces ubicados dentro de contenido generado por usuarios (p
+Google ha lanzado dos nuevos atributos para los enlaces que se unen al nofollow: sponsored para enlaces de pago y ugc para enlaces ubicados dentro de contenido generado por usuarios (por ejemplo en foros o comentarios).
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1171460946037858304">
+</amp-twitter>
+
+Ninguno ayudará a **indexar o descubrir nuevas URLs** (de momento) y permitirá a Google conocer más acerca de la naturaleza de los diferentes backlinks por lo que será él quién decida si aportan valor para el posicionamiento o no.
 
 ## ¿Qué es el SEO?
 
@@ -54,7 +63,7 @@ Michael Cottam se ha currado una [recopilación de sitios tóxicos a los que hac
 
 Este caso de estudio nos detalla [cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados](https://growandconvert.com/content-marketing/how-long-does-it-take-for-content-marketing-to-work/). Es bastante completo e interesante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY5ODIyODYsLTEwNTUzMDM1MzEsLT
-k2NTY2MTM2MSwyMDQ0NjAwMTg0LDEyNTY1MjQwNDAsMTAzODA0
-NjAwNywzNDYxNDk4NjksMTA5NTYyNjU2Nl19
+eyJoaXN0b3J5IjpbNDkwNTg3MDA5LC0xMDU1MzAzNTMxLC05Nj
+U2NjEzNjEsMjA0NDYwMDE4NCwxMjU2NTI0MDQwLDEwMzgwNDYw
+MDcsMzQ2MTQ5ODY5LDEwOTU2MjY1NjZdfQ==
 -->
