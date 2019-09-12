@@ -1,12 +1,25 @@
-  
+ ---
+title: Atributos para los enlaces de Google
+description: Además de nofollow ahora contamos con sponsored y ugc
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
+date: 12/09/2019
+author: Emirodgar
+lang: es_ES
+permalink: atributos-enlaces-google
+
+--- 
+
+# Nuevos atributos para los enlaces de Google
 
 Este semana Google ha anunciado en su blog oficial [nuevos atributos para los enlaces](https://webmasters.googleblog.com/2019/09/evolving-nofollow-new-ways-to-identify.html?m=1). A partir de ahora los enlaces -tanto internos como externos- podrán ser etiquetados como nofollow, sponsored o ugc. Estas son las características de cada uno de ellos:
 
   
 
 -   **nofollow:** existe desde el 2005 e indica a los buscadores que el enlace no debe ser seguido ni tenido en cuenta para traspasar popularidad. A partir de ahora, podría aportar valor al posicionamiento y a partir de 2020 también al rastreo e indexación. Esto lo decidirá Google.  
-      
-    _<a href="https://smartup.es" rel="nofollow">Smartup</a>_  
+ 
+ ```     
+ <a href="https://emirodgar.c" rel="nofollow">Smartup</a>
+ ```
       
     
 -   **sponsored**: nuevo atributo diseñado para etiquetar los enlaces de pago/publicidad. Con esto Google pretende conocer mejor la naturaleza de aquellos enlaces obtenidos a cambio de una colaboración monetaria.  
@@ -51,5 +64,5 @@ En la siguiente imagen podemos ver un esquema de la evolución de los atributos 
 
 Un saludo,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4MjYxMTFdfQ==
+eyJoaXN0b3J5IjpbLTM0NjU2NTA2NSw3OTgyNjExMV19
 -->
