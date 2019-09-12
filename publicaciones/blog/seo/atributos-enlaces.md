@@ -37,26 +37,26 @@ Este semana Google ha anunciado en su blog oficial [nuevos atributos para los en
 
 En la siguiente imagen podemos ver un esquema de la evolución de los atributos y su impacto en las estrategias SEO.
 
-  ![atributos nofollow, sponsored y ugc de Goog](https://i.imgur.com/cxHFBgt.png)  
+<amp-img alt="atributos nofollow, sponsored y ugc de Google"
+  src="https://i.imgur.com/cxHFBgt.png"
+  width="397"
+  height="182"
+  layout="responsive">
+</amp-img>
+    
 
-**Conclusiones**
-
+## Conclusiones
   
 
 -   No es obligatorio utilizar ninguno de los atributos. Si no lo hacemos, el enlace servirá para rastrear, indexar y posicionar la página de destino.  
       
-    
--   Google no recomienda llevar a cabo ningún cambio en el enlazado actual, lo propone más bien para etiquetar de aquí en adelante. También ha dicho que no se esperan grandes cambios en los rankings aunque desde Smartup monitorizaremos exhaustivamente nuestro posicionamiento y propondremos acciones si fuera necesario.  
+-   Google no recomienda llevar a cabo ningún cambio en el enlazado actual, lo propone más bien para etiquetar de aquí en adelante. También ha dicho que no se esperan grandes cambios en los rankings.  
       
-    
--   Actualmente ninguno de los tres atriburos sirve para rastrear ni indexar la URL de destino pero queda en manos de Google decidir si suman al posicionamiento web. A partir de marzo de 2020 todas las acciones -rastrear, indexar y posicionar- serán decisión de Google en función de cómo de relevante considere el enlace y la página de destino, independientemente del atributo que tenga el enlace.  
-      
+-   Actualmente ninguno de los tres atriburos sirve para rastrear ni indexar la URL de destino pero queda en manos de Google decidir si suman al posicionamiento web. A partir de marzo de 2020 todas las acciones -rastrear, indexar y posicionar- serán decisión de Google en función de cómo de relevante considere el enlace y la página de destino, independientemente del atributo que tenga el enlace.     
     
 -   Podemos combinar los atributos como queramos, es decir, no estamos limitados a usar sólo uno.  
-      
-    
+     
 
-Un saludo,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTMwNjMzOCw3OTgyNjExMV19
+eyJoaXN0b3J5IjpbLTE1NDc4MTIxMzgsNzk4MjYxMTFdfQ==
 -->
