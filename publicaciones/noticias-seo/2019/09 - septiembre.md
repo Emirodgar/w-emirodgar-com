@@ -12,6 +12,10 @@ permalink: noticias-seo/2019/septiembre
 
 # Noticias SEO septiembre 2019
 
+## Nuevos atributos sponsored y ugc
+
+Google ha lanzado dos nuevos atributos para los enlaces que se unen al nofollow: sponsored para enlaces de pago y ugc para enlaces ubicados dentro de contenido generado por usuarios (p
+
 ## ¿Qué es el SEO?
 
 Interesante debate en Twitter en el que se relativiza el trabajo SEO estableciendo que se trata de un **problema de ejecución y no de conocimientos**. Quizá éste sea el comentario con el que estoy más de acuerdo.
@@ -50,7 +54,7 @@ Michael Cottam se ha currado una [recopilación de sitios tóxicos a los que hac
 
 Este caso de estudio nos detalla [cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados](https://growandconvert.com/content-marketing/how-long-does-it-take-for-content-marketing-to-work/). Es bastante completo e interesante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUzMDM1MzEsLTk2NTY2MTM2MSwyMD
-Q0NjAwMTg0LDEyNTY1MjQwNDAsMTAzODA0NjAwNywzNDYxNDk4
-NjksMTA5NTYyNjU2Nl19
+eyJoaXN0b3J5IjpbLTEzMDY5ODIyODYsLTEwNTUzMDM1MzEsLT
+k2NTY2MTM2MSwyMDQ0NjAwMTg0LDEyNTY1MjQwNDAsMTAzODA0
+NjAwNywzNDYxNDk4NjksMTA5NTYyNjU2Nl19
 -->
