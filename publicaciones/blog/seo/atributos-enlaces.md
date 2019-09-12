@@ -18,32 +18,26 @@ Este semana Google ha anunciado en su blog oficial [nuevos atributos para los en
 -   **nofollow:** existe desde el 2005 e indica a los buscadores que el enlace no debe ser seguido ni tenido en cuenta para traspasar popularidad. A partir de ahora, podría aportar valor al posicionamiento y a partir de 2020 también al rastreo e indexación. Esto lo decidirá Google.  
  
  ```     
- <a href="https://emirodgar.c" rel="nofollow">Smartup</a>
+ <a href="https://emirodgar.com" rel="nofollow">Emirodgar</a>
  ```
       
     
 -   **sponsored**: nuevo atributo diseñado para etiquetar los enlaces de pago/publicidad. Con esto Google pretende conocer mejor la naturaleza de aquellos enlaces obtenidos a cambio de una colaboración monetaria.  
       
-    _<a href="https://smartup.es" rel="sponsored">Smartup</a>_  
+ ```     
+ <a href="https://emirodgar.com" rel="sponsored">Emirodgar</a>
+ ```
       
     
 -   **ugc**: nuevo atributo diseñado para los enlaces que aparezcan dentro de contenido generado por los usuarios (comentarios, foros, etc). De esta forma Google pretender discernir entre los enlaces originales de una publicación y los que han sido añadidos después por usuarios externos.  
-      
-    _<a href="https://smartup.es" rel="ugc">Smartup</a>_  
-      
-    
 
-  
+ ```     
+ <a href="https://emirodgar.com" rel="ugc">Emirodgar</a>
+ ```      
 
 En la siguiente imagen podemos ver un esquema de la evolución de los atributos y su impacto en las estrategias SEO.
 
-  
-
-  
-
-![image.png](blob:https://mail.google.com/a8cad181-8b19-4653-97f1-f22855f36b88)  
-
-  
+  ![atributos nofollow, sponsored y ugc de Goog](https://i.imgur.com/cxHFBgt.png)  
 
 **Conclusiones**
 
@@ -64,5 +58,5 @@ En la siguiente imagen podemos ver un esquema de la evolución de los atributos 
 
 Un saludo,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjU2NTA2NSw3OTgyNjExMV19
+eyJoaXN0b3J5IjpbLTQ2MTMwNjMzOCw3OTgyNjExMV19
 -->
