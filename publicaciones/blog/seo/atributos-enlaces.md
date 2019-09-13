@@ -1,4 +1,4 @@
- ---
+---
 title: Atributos para los enlaces de Google
 description: Además de nofollow ahora contamos con sponsored y ugc
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -58,5 +58,6 @@ En la siguiente imagen podemos ver un esquema de la evolución de los atributos 
      
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc4MTIxMzgsNzk4MjYxMTFdfQ==
+eyJoaXN0b3J5IjpbLTIwMDgzMjc5NTAsLTE1NDc4MTIxMzgsNz
+k4MjYxMTFdfQ==
 -->
