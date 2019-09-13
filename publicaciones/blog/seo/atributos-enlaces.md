@@ -15,10 +15,8 @@ Este semana Google ha anunciado en su blog oficial [nuevos atributos para los en
 
   
 
--   **nofollow:** existe desde el 2005 e indica a los buscadores que el enlace no debe ser seguido ni tenido en cuenta para traspasar popularidad. A partir de ahora, podría aportar valor al posicionamiento y a partir de 2020 también al rastreo e indexación. Esto lo decidirá Google.        
-    
--   **sponsored**: nuevo atributo diseñado para etiquetar los enlaces de pago/publicidad. Con esto Google pretende conocer mejor la naturaleza de aquellos enlaces obtenidos a cambio de una colaboración monetaria.  
-    
+-   **nofollow:** existe desde el 2005 e indica a los buscadores que el enlace no debe ser seguido ni tenido en cuenta para traspasar popularidad. A partir de ahora, podría aportar valor al posicionamiento y a partir de 2020 también al rastreo e indexación. Esto lo decidirá Google.    
+-   **sponsored**: nuevo atributo diseñado para etiquetar los enlaces de pago/publicidad. Con esto Google pretende conocer mejor la naturaleza de aquellos enlaces obtenidos a cambio de una colaboración monetaria.     
 -   **ugc**: nuevo atributo diseñado para los enlaces que aparezcan dentro de contenido generado por los usuarios (comentarios, foros, etc). De esta forma Google pretender discernir entre los enlaces originales de una publicación y los que han sido añadidos después por usuarios externos.    
 
 Un ejemplo de cómo tendríamos que utilizar estos atributos sería el siguiente:
@@ -42,16 +40,13 @@ En la siguiente imagen podemos ver un esquema de la evolución de los atributos 
 ## Conclusiones
   
 
--   No es obligatorio utilizar ninguno de los atributos. Si no lo hacemos, el enlace servirá para rastrear, indexar y posicionar la página de destino.  
-      
--   Google no recomienda llevar a cabo ningún cambio en el enlazado actual, lo propone más bien para etiquetar de aquí en adelante. También ha dicho que no se esperan grandes cambios en los rankings.  
-      
--   Actualmente ninguno de los tres atriburos sirve para rastrear ni indexar la URL de destino pero queda en manos de Google decidir si suman al posicionamiento web. A partir de marzo de 2020 todas las acciones -rastrear, indexar y posicionar- serán decisión de Google en función de cómo de relevante considere el enlace y la página de destino, independientemente del atributo que tenga el enlace.     
-    
+-   No es obligatorio utilizar ninguno de los atributos. Si no lo hacemos, el enlace servirá para rastrear, indexar y posicionar la página de destino.       
+-   Google no recomienda llevar a cabo ningún cambio en el enlazado actual, lo propone más bien para etiquetar de aquí en adelante. También ha dicho que no se esperan grandes cambios en los rankings.       
+-   Actualmente ninguno de los tres atriburos sirve para rastrear ni indexar la URL de destino pero queda en manos de Google decidir si suman al posicionamiento web. A partir de marzo de 2020 todas las acciones -rastrear, indexar y posicionar- serán decisión de Google en función de cómo de relevante considere el enlace y la página de destino, independientemente del atributo que tenga el enlace.    
 -   Podemos combinar los atributos como queramos, es decir, no estamos limitados a usar sólo uno.  
      
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTgyNTkwNiwtMjAwODMyNzk1MCwtMT
+eyJoaXN0b3J5IjpbMTU2MjUxNzA5MCwtMjAwODMyNzk1MCwtMT
 U0NzgxMjEzOCw3OTgyNjExMV19
 -->
