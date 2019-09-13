@@ -30,9 +30,9 @@ Un ejemplo de cómo tendríamos que utilizar estos atributos sería el siguiente
 En la siguiente imagen podemos ver un esquema de la evolución de los atributos y su impacto en las estrategias SEO.
 
 <amp-img alt="atributos nofollow, sponsored y ugc de Google"
-  src="https://i.imgur.com/2GBbvpn.png"
-  width="550"
-  height="264"
+  src="https://i.imgur.com/45fl7Uv.png"
+  width="745"
+  height="335"
   layout="responsive">
 </amp-img>
     
@@ -47,6 +47,6 @@ En la siguiente imagen podemos ver un esquema de la evolución de los atributos 
      
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjUxNzA5MCwtMjAwODMyNzk1MCwtMT
-U0NzgxMjEzOCw3OTgyNjExMV19
+eyJoaXN0b3J5IjpbNjI0OTI3OTk3LDE1NjI1MTcwOTAsLTIwMD
+gzMjc5NTAsLTE1NDc4MTIxMzgsNzk4MjYxMTFdfQ==
 -->
