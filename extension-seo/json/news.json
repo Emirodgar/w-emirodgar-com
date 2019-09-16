@@ -1,18 +1,14 @@
 {
+  "tools": [
     [
-      "Google Search Console",
-      "Información importante de Google (indexación, enlaces, etc)",
-      "Web",
-      "Gratis",
-      "SEO",
-      "https://www.sistrix.es"
+      "PurifyCSS",
+      "Get the CSS code you are using on your website and delete the unused so your file became lighter.",
+      "https://purifycss.online/"
     ],
     [
-      "Sistrix",
-      "Plataforma de análisis de dominio",
-      "Web",
-      "Pago",
-      "SEO",
-      "https://www.sistrix.es"
+      "HTML Formatter",
+      "Get clean HTML code.",
+      "https://htmlformatter.com/"
     ]
+  ]
 }
