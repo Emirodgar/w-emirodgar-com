@@ -1,0 +1,14 @@
+{
+  "tools": [
+    [
+      "PurifyCSS",
+      "Get the CSS code you are using on your website and delete the unused so your file became lighter.",
+      "https://purifycss.online/"
+    ],
+    [
+      "HTML Formatter",
+      "Get clean HTML code.",
+      "https://htmlformatter.com/"
+    ]
+  ]
+}
