@@ -1,5 +1,5 @@
 {
-  "tools": [
+  "data": [
     [
       "PurifyCSS",
       "Get the CSS code you are using on your website and delete the unused so your file became lighter.",
