@@ -1,6 +1,36 @@
 {
   "data": [
     [
+      "Eliminar URLs en Google",
+      "Herramienta para eliminar URLs indexadas dentro de Google.",
+      "https://www.google.com/webmasters/tools/url-removal"
+    ],
+	[
+      "Probador de robots.txt",
+      "Prueba el código de tu fichro robots.txt a través de esta herramienta antes de ponerlo en funcionamiento en tu web.",
+      "https://www.google.com/webmasters/tools/robots-testing-tool"
+    ],
+	[
+      "Estadísticas de rastreo",
+      "Obtén la frecuencia y otras métricas relacionadas con el rastreo de Google a tu sitio web.",
+      "https://www.google.com/webmasters/tools/crawl-stats"
+    ],
+	[
+      "Parámetros de URL",
+      "Informa a Google acerca de cómo debe interpretar los diferentes parámetros de tu sitio web.",
+      "https://www.google.com/webmasters/tools/crawl-url-parameters"
+    ],
+	[
+      "Segmentación internacional",
+      "Verifica que tus etiquetas hreflang están bien implementadas y que no hay ningún problema relacionado con los idiomas.",
+      "https://www.google.com/webmasters/tools/i18n"
+    ],
+	[
+      "Marcador de datos",
+      "A través de este asistente facilitamos a Google la extracción de información relevante para nuestro posicionamiento.",
+      "https://www.google.com/webmasters/markup-helper/"
+    ],
+	[
       "PurifyCSS",
       "Get the CSS code you are using on your website and delete the unused so your file became lighter.",
       "https://purifycss.online/"

@@ -1,14 +1,29 @@
 {
-  "tools": [
+  "data": [
     [
-      "PurifyCSS",
-      "Get the CSS code you are using on your website and delete the unused so your file became lighter.",
-      "https://purifycss.online/"
+      "Google y las etiquetas canonical",
+      "Por defecto podemos marcar y elegir las URLs de nuestro sitio que queremos que sean indexadas (canonical) y desechar versiones duplicadas pero en algunas ocasiones, el robot de Google decide por nosotros. John Mueller lo explica con más detalle en este tweet.",
+      "https://twitter.com/googlewmc/status/1169285523237683200"
+    ],
+	[
+      "Las denuncias afectan al SEO",
+      "Si tu página web ha sufrido múltiples denuncias a través de Google por plagiar contenido sin el consentimiento de su propietario podría verse afectado su posicionamiento web.",
+      "https://twitter.com/dannysullivan/status/1170713562194440195"
+    ],
+	[
+      "Nuevo dato estructurado para películas",
+      "Google ha lanzado un nuevo dato estructurado que se une a los más que ya tiene en funcionamiento. Se trata de un carrusel para películas.",
+      "https://developers.google.com/search/docs/data-types/movie"
+    ],
+	[
+      "Actualización de Pagerank",
+      "Google ha actualizado su patente de Pagerank para incluir la confianza de los enlaces. Seguramente esté relacionado con el Graph Link.",
+      "http://www.seobythesea.com/2018/04/pagerank-updated/"
     ],
     [
-      "HTML Formatter",
-      "Get clean HTML code.",
-      "https://htmlformatter.com/"
+      "Nueva versión de GSC",
+      "Google Search Console ha confirmado el cierre definitivo de la vieja versión. Lo que no se ha migrado está disponible desde la nueva a través de una serie de enlaces.",
+      "https://support.google.com/webmasters/answer/9133276#additional_tools"
     ]
   ]
 }
