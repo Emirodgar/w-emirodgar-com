@@ -31,6 +31,21 @@
       "https://www.google.com/webmasters/markup-helper/"
     ],
 	[
+      "Ajustes de privacidad",
+      "A través de esta herramienta podremos definir la privacidad que queremos en nuestra cuenta de Google.",
+      "https://myaccount.google.com/privacycheckup/"
+    ],
+	[
+      "Datos a registrar",
+      "Identifica qué tipo de información quieres compartir con Google para mejorar la experiencia de varios de sus productos.",
+      "https://myaccount.google.com/data-and-personalization"
+    ],
+	[
+      "Descarga tus datos",
+      "Google nos ofrece la posibilidad de descargar toda la inforación que tiene almacenada de nuestro perfil de usuario.",
+      "https://support.google.com/accounts/answer/3024190?hl=en"
+    ],
+	[
       "PurifyCSS",
       "Get the CSS code you are using on your website and delete the unused so your file became lighter.",
       "https://purifycss.online/"
