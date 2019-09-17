@@ -62,8 +62,13 @@ Michael Cottam se ha currado una [recopilación de sitios tóxicos a los que hac
 ## Estategia de contenidos
 
 Este caso de estudio nos detalla [cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados](https://growandconvert.com/content-marketing/how-long-does-it-take-for-content-marketing-to-work/). Es bastante completo e interesante.
+
+## Cómo mantenernos al día
+
+Excelente recopilación de los mejores [podcasts relacionados con marketing digital](https://cypressnorth.com/47-best-digital-marketing-podcasts/). Están en inglés pero la calidad de muchos de ellos lo merece.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNTg3MDA5LC0xMDU1MzAzNTMxLC05Nj
-U2NjEzNjEsMjA0NDYwMDE4NCwxMjU2NTI0MDQwLDEwMzgwNDYw
-MDcsMzQ2MTQ5ODY5LDEwOTU2MjY1NjZdfQ==
+eyJoaXN0b3J5IjpbLTIxMjU3Njc4MDgsNDkwNTg3MDA5LC0xMD
+U1MzAzNTMxLC05NjU2NjEzNjEsMjA0NDYwMDE4NCwxMjU2NTI0
+MDQwLDEwMzgwNDYwMDcsMzQ2MTQ5ODY5LDEwOTU2MjY1NjZdfQ
+==
 -->
