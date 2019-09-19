@@ -51,14 +51,15 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - Solo en el último año, ha habido un aumento de 1.3 veces en las búsquedas de "dónde comprar / encontrar / obtener".
  - El 76% de los usuarios de Google que buscan algo en su área local visitarán ese negocio dentro de un día. 28% de ellos comprarán algo.
 
+### Factores SEO relevantes
 
- - Según Andrey Lipattsev de Google, los vínculos de retroceso y el contenido son los factores de clasificación más importantes e impactantes.
- - Se estima que se generan cuatro millones de publicaciones de blog todos los días.
+ - Según Andrey Lipattsev de Google, [los enlaces y el contenido son los factores de clasificación más importantes](https://searchengineland.com/now-know-googles-top-three-search-ranking-factors-245882) y con mayor impacto.
+ - Se estima que se generan [cuatro millones de publicaciones](https://www.podcastinsights.com/start-a-wordpress-blog/) de blog todos los días.
  - El recuento promedio de palabras de una publicación de blog de primer resultado en la primera página de Google es de 1,890 palabras.
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDE4NDQyNiwxNDE0MzE5MjEwLC04OT
-c5Njg4MTUsMTY0Njc3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3
-MDY1XX0=
+eyJoaXN0b3J5IjpbLTE0NzY5MjkxMTksMTQxNDMxOTIxMCwtOD
+k3OTY4ODE1LDE2NDY3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3
+NzA2NV19
 -->
