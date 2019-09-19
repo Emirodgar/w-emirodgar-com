@@ -19,7 +19,7 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
 
  - El 93% de las veces, una visita a una web comienza buscando palabras clave en un motor de búsqueda. Posicionar dentro de los buscadores es clave para captar dicho tráfico.
  
- - El 51% de todo el tráfico del sitio web (en todo el mundo) hace clic en resultados orgánicos. Solo el 10% hace clic en la búsqueda paga. Solo el 5% hace clic en las redes sociales.
+ - El 51% de todo el tráfico del sitio web (en todo el mundo) hace clic en resultados orgánicos. El 10% hace clic en la búsqueda paga y sólo el 5% hace clic en las redes sociales según un [estudio de BrightEdge](https://www.brightedge.com/resources/research-reports/content-optimization).
  - En 2019, Google representa el 74.80% de la cuota de mercado de los motores de búsqueda en todo el mundo.
  - Google procesa más de 40,000 búsquedas de palabras clave cada segundo. Eso es más de 3.5 mil millones de búsquedas en un solo día y 1.2 trillones por año.
  - El 16-20% de las palabras clave buscadas en Google en un día dado nunca se han buscado antes.
@@ -44,6 +44,6 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Nzk2ODgxNSwxNjQ2Nzc4MDIzLC05Mj
-Q3NTQ2MzksLTIwNjk4NzcwNjVdfQ==
+eyJoaXN0b3J5IjpbLTExNzU4ODU1NzUsLTg5Nzk2ODgxNSwxNj
+Q2Nzc4MDIzLC05MjQ3NTQ2MzksLTIwNjk4NzcwNjVdfQ==
 -->
