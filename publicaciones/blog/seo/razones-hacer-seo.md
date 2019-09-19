@@ -13,9 +13,12 @@ permalink: razones-hacer-seo
 
 Después de más de una década [trabajando en SEO](/experiencia-seo) he tenido que responder decenas de veces a la pregunta del millón: **¿Por qué debería trabajar el SEO?**.
 
-El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que la mejo
+El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que la mejor forma de responder a esta pregunta es con datos actuales.
 
- - El 93% de las veces, una visita a una web comienza buscando palabras clave en un motor de búsqueda.
+## Datos que demuestran el aporte de valor del SEO
+
+ - El 93% de las veces, una visita a una web comienza buscando palabras clave en un motor de búsqueda. Posicionar dentro de los buscadores es clave para captar dicho tráfico.
+ 
  - El 51% de todo el tráfico del sitio web (en todo el mundo) hace clic en resultados orgánicos. Solo el 10% hace clic en la búsqueda paga. Solo el 5% hace clic en las redes sociales.
  - En 2019, Google representa el 74.80% de la cuota de mercado de los motores de búsqueda en todo el mundo.
  - Google procesa más de 40,000 búsquedas de palabras clave cada segundo. Eso es más de 3.5 mil millones de búsquedas en un solo día y 1.2 trillones por año.
@@ -41,6 +44,6 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MjQyMzE3LDE2NDY3NzgwMjMsLTkyND
-c1NDYzOSwtMjA2OTg3NzA2NV19
+eyJoaXN0b3J5IjpbLTg5Nzk2ODgxNSwxNjQ2Nzc4MDIzLC05Mj
+Q3NTQ2MzksLTIwNjk4NzcwNjVdfQ==
 -->
