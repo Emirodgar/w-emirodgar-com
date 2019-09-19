@@ -41,9 +41,8 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - El 40% de los ingresos online -de media- [se genera por búsqueda orgánica](https://www.brightedge.com/resources/research-reports/content-optimization).
  - En cualquier búsqueda de Google, los usuarios tienen [20 veces más probabilidades de hacer clic en el resultado de la búsqueda orgánica en un anuncio pagado](https://moz.com/blog/state-of-searcher-behavior-revealed).
  - El [57% de los vendedores encuestados](https://blog.hubspot.com/news-trends/the-future-of-content-marketing) dijo que el SEO genera más clientes potenciales para su negocio que cualquier otra táctica de marketing.
- - Las marcas que publican en su blog mensualmente generan 4.5 veces más leads.
- - Las empresas que priorizan el SEO y el marketing de contenidos tienen 13 veces más probabilidades de generar un retorno positivo de la inversión.
- - En un informe de Ascend2, el 81% de las empresas estudiadas informaron que obtuvieron un ROI positivo con su estrategia SEO
+ - Las marcas que publican en su blog mensualmente [generan 4.5 veces más leads](https://blog.hubspot.com/marketing/blogging-frequency-benchmarks). Además, priorizando el SEO y el marketing de contenidos tienen 13 veces más probabilidades de generar un retorno positivo de la inversión.
+ - En un informe de [Ascend2](https://www.marketingdive.com/news/study-creating-content-is-most-effective-and-most-difficult-seo-tactic/430335/), el 81% de las empresas estudiadas informaron que obtuvieron un ROI positivo con su estrategia SEO
  - Cada mes, las personas visitan más de 1.500 millones de ubicaciones comerciales relacionadas con las palabras clave que buscaron en Google.
  - El 30% de todas las búsquedas móviles en Google se basan en la ubicación.
  - Solo en el último año, ha habido un aumento de 1.3 veces en las búsquedas de "dónde comprar / encontrar / obtener".
@@ -54,6 +53,6 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjU2MjE0NiwtODk3OTY4ODE1LDE2ND
+eyJoaXN0b3J5IjpbMTQxNDMxOTIxMCwtODk3OTY4ODE1LDE2ND
 Y3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3NzA2NV19
 -->
