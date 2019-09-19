@@ -36,8 +36,9 @@ permalink: razones-hacer-seo
  - Según Andrey Lipattsev de Google, los vínculos de retroceso y el contenido son los factores de clasificación más importantes e impactantes.
  - Se estima que se generan cuatro millones de publicaciones de blog todos los días.
  - El recuento promedio de palabras de una publicación de blog de primer resultado en la primera página de Google es de 1,890 palabras.
- - En promedio, el contenido de clasificación superior en un resultado de búsqueda dado tiene la mayoría de los vínculos de retroceso de cualquier clasificación de página para esa palabra clave
+ - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDc1NDYzOSwtMjA2OTg3NzA2NV19
+eyJoaXN0b3J5IjpbMTY0Njc3ODAyMywtOTI0NzU0NjM5LC0yMD
+Y5ODc3MDY1XX0=
 -->
