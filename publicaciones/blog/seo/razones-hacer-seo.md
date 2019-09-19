@@ -21,9 +21,11 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
 
 Si quieres vender más tendrás que salir a buscar a tu público objetivo. A día de hoy, la gran parte del tráfico global se encuentra en los buscadores.
  
- - El 51% de todo el tráfico del sitio web (en todo el mundo) hace clic en resultados orgánicos. El 10% hace clic en la búsqueda paga y sólo el 5% hace clic en las redes sociales según un [estudio de BrightEdge](https://www.brightedge.com/resources/research-reports/content-optimization).
  - En 2019, Google tiene más del [90% de la cuota de mercado de los motores de búsqueda](https://gs.statcounter.com/search-engine-market-share) en todo el mundo.  Aunque es importante trabajar para todos los buscadores, el tráfico orgánico en Google sigue siendo el más relevante.
- - Google procesa más de [40,000 búsquedas de palabras clave cada segundo](https://www.internetlivestats.com/google-search-statistics/). Eso es más de 3.5 mil millones de búsquedas en un solo día y 1.2 trillones por año. Y sigue aumentando. ¿Qué tráfico eres capaz de captar con tu [estrategia SEO](/estrategia-seo)?
+ - Google procesa más de [40,000 búsquedas de palabras clave cada segundo](https://www.internetlivestats.com/google-search-statistics/). Eso es más de 3.5 mil millones de búsquedas en un solo día y 1.2 trillones por año. Y sigue aumentando. ¿Qué tráfico eres capaz de captar con tu [estrategia SEO](/estrategia-seo)?.
+ - El 51% de todo el tráfico del sitio web (en todo el mundo) hace clic en resultados orgánicos. El 10% hace clic en la búsqueda paga y sólo el 5% hace clic en las redes sociales según [BrightEdge](https://www.brightedge.com/resources/research-reports/content-optimization).
+ 
+ 
  - El 16-20% de las palabras clave buscadas en Google a lo largo de un día [nunca se han buscado antes](https://readwrite.com/2012/02/29/interview_changing_engines_mid-flight_qa_with_goog/#awesm=~oiNkM4tAX3xhbP). Esto abre la puerta a crear contenido nuevo y de calidad que posicionará y que la gente buscará.
  - Cada año, Google [cambia su algoritmo alrededor de 500-600 veces](https://www.blog.google/products/search/how-we-keep-google-search-relevant-and-useful/). Por ello las estrategias SEO deben ser vivas y dinámicas.
 
@@ -61,7 +63,7 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2MDA3MTEsMTQxNDMxOTIxMCwtODk3OT
-Y4ODE1LDE2NDY3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3NzA2
-NV19
+eyJoaXN0b3J5IjpbNTQxMTEwNTM2LDE0MTQzMTkyMTAsLTg5Nz
+k2ODgxNSwxNjQ2Nzc4MDIzLC05MjQ3NTQ2MzksLTIwNjk4Nzcw
+NjVdfQ==
 -->
