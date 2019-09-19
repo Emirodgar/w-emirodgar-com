@@ -11,7 +11,9 @@ permalink: razones-hacer-seo
 
 # Razones para hacer SEO
 
+Después de más de una década [trabajando en SEO](/experiencia-seo) he tenido que responder decenas de veces a la pregunta del millón: **¿Por qué debería trabajar el SEO?**.
 
+El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que la mejo
 
  - El 93% de las veces, una visita a una web comienza buscando palabras clave en un motor de búsqueda.
  - El 51% de todo el tráfico del sitio web (en todo el mundo) hace clic en resultados orgánicos. Solo el 10% hace clic en la búsqueda paga. Solo el 5% hace clic en las redes sociales.
@@ -39,6 +41,6 @@ permalink: razones-hacer-seo
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Njc3ODAyMywtOTI0NzU0NjM5LC0yMD
-Y5ODc3MDY1XX0=
+eyJoaXN0b3J5IjpbNjY3MjQyMzE3LDE2NDY3NzgwMjMsLTkyND
+c1NDYzOSwtMjA2OTg3NzA2NV19
 -->
