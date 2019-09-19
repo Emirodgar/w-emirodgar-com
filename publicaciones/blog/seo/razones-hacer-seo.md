@@ -17,7 +17,7 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
 
 ## Datos que demuestran el aporte de valor del SEO
 
-### Los buscadores generan mucho tráfico
+### Nuestro público objetivo usa los buscadores
 
 Si quieres vender más tendrás que salir a buscar a tu público objetivo. A día de hoy, la gran parte del tráfico global se encuentra en los buscadores, especialmente en Google.
  
@@ -29,7 +29,7 @@ Si quieres vender más tendrás que salir a buscar a tu público objetivo. A dí
  - El 16-20% de las palabras clave buscadas en Google a lo largo de un día [nunca se han buscado antes](https://readwrite.com/2012/02/29/interview_changing_engines_mid-flight_qa_with_goog/#awesm=~oiNkM4tAX3xhbP). Esto abre la puerta a crear contenido nuevo y de calidad que posicionará y que la gente buscará.
 
 
-### Más tráfico SEO que captar
+### El tráfico SEO sigue creciendo y se hace mobile
 
 Cada vez existe un mayor acceso a la información y por lo tanto usuarios y tráfico que debemos tener presente en nuestra estrategia de captación orgánica. 
 
@@ -39,7 +39,7 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
 
 ### El SEO genera ingresos
 
- - El 40% de los ingresos online -de media- [se genera por búsqueda orgánica](https://www.brightedge.com/resources/research-reports/content-optimization).
+ - De media, el 40% de los ingresos online [se genera por búsqueda orgánica](https://www.brightedge.com/resources/research-reports/content-optimization).
  - En cualquier búsqueda de Google, los usuarios tienen [20 veces más probabilidades de hacer clic en el resultado de la búsqueda orgánica en un anuncio pagado](https://moz.com/blog/state-of-searcher-behavior-revealed).
  - El [57% de los vendedores encuestados](https://blog.hubspot.com/news-trends/the-future-of-content-marketing) dijo que el SEO genera más clientes potenciales para su negocio que cualquier otra táctica de marketing.
  - Las marcas que publican en su blog mensualmente [generan 4.5 veces más leads](https://blog.hubspot.com/marketing/blogging-frequency-benchmarks). Además, priorizando el SEO y el marketing de contenidos tienen 13 veces más probabilidades de generar un retorno positivo de la inversión.
@@ -62,7 +62,7 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTAwOTA3LDE0MTQzMTkyMTAsLTg5Nz
-k2ODgxNSwxNjQ2Nzc4MDIzLC05MjQ3NTQ2MzksLTIwNjk4Nzcw
-NjVdfQ==
+eyJoaXN0b3J5IjpbMTg3ODI1NDQ1NCwxNDE0MzE5MjEwLC04OT
+c5Njg4MTUsMTY0Njc3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3
+MDY1XX0=
 -->
