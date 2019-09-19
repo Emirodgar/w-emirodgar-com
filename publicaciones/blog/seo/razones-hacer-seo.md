@@ -38,9 +38,9 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
 
 ### El SEO genera ingresos
 
- - El 40% de los ingresos online -de media- se genera por búsqueda orgánica.
- - En cualquier búsqueda de Google, los usuarios tienen 20 veces más probabilidades de hacer clic en el resultado de la búsqueda orgánica en un anuncio pagado.
- - El 57% de los vendedores encuestados dijo que el SEO genera más clientes potenciales y clientes para su negocio que cualquier otra táctica de marketing.
+ - El 40% de los ingresos online -de media- [se genera por búsqueda orgánica](https://www.brightedge.com/resources/research-reports/content-optimization).
+ - En cualquier búsqueda de Google, los usuarios tienen [20 veces más probabilidades de hacer clic en el resultado de la búsqueda orgánica en un anuncio pagado](https://moz.com/blog/state-of-searcher-behavior-revealed).
+ - El [57% de los vendedores encuestados](https://blog.hubspot.com/news-trends/the-future-of-content-marketing) dijo que el SEO genera más clientes potenciales para su negocio que cualquier otra táctica de marketing.
  - Las marcas que publican en su blog mensualmente generan 4.5 veces más leads.
  - Las empresas que priorizan el SEO y el marketing de contenidos tienen 13 veces más probabilidades de generar un retorno positivo de la inversión.
  - En un informe de Ascend2, el 81% de las empresas estudiadas informaron que obtuvieron un ROI positivo con su estrategia SEO
@@ -54,6 +54,6 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxNTU2ODgzLC04OTc5Njg4MTUsMTY0Nj
-c3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3MDY1XX0=
+eyJoaXN0b3J5IjpbLTY3NjU2MjE0NiwtODk3OTY4ODE1LDE2ND
+Y3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3NzA2NV19
 -->
