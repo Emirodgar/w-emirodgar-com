@@ -25,11 +25,16 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
  - El 16-20% de las palabras clave buscadas en Google a lo largo de un día [nunca se han buscado antes](https://readwrite.com/2012/02/29/interview_changing_engines_mid-flight_qa_with_goog/#awesm=~oiNkM4tAX3xhbP). Esto abre la puerta a crear contenido nuevo y de calidad que posicionará y que la gente buscará.
  - Cada año, Google [cambia su algoritmo alrededor de 500-600 veces](https://www.blog.google/products/search/how-we-keep-google-search-relevant-and-useful/). Por ello las estrategias SEO deben ser vivas y dinámicas.
 
+### Más tráfico que captar
+
 Cada vez existe un mayor acceso a la información y por lo tanto usuarios y tráfico que debemos tener presente en nuestra estrategia. 
 
  - Actualmente, más del [50% de la población mundial tiene acceso a Internet](https://www.statista.com/statistics/325706/global-internet-user-penetration/) y, por lo tanto, utiliza motores de búsqueda para encontrar información.
  - En 2018, los dispositivos móviles [representaron el 52,2% del tráfico de Internet en todo el mundo](https://www.statista.com/statistics/241462/global-mobile-phone-website-traffic-share/). En Asia, más del 65% del tráfico web se realiza en dispositivos móviles.
- - A medida que el tiempo de carga de la página pasa de un segundo a diez segundos, la probabilidad de un rebote aumenta en un 123%.
+
+### Trabajar aspectos técnicos
+
+ - A medida que el tiempo de carga de la página pasa de un segundo a diez segundos, [la probabilidad de un rebote aumenta en un 123%](https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/).
  - El tiempo de carga ideal de una página web no debería superar los tres segundos. La realidad es que la media de las páginas requiere más del doble de tiempo.
  - El 40% de los ingresos comerciales en promedio se genera por búsqueda orgánica.
  - En cualquier búsqueda de Google, los usuarios tienen 20 veces más probabilidades de hacer clic en el resultado de la búsqueda orgánica en un anuncio pagado.
@@ -47,6 +52,6 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTcyOTk5LC04OTc5Njg4MTUsMTY0Nj
-c3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3MDY1XX0=
+eyJoaXN0b3J5IjpbLTg5OTI0MzU1MiwtODk3OTY4ODE1LDE2ND
+Y3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3NzA2NV19
 -->
