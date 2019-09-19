@@ -22,10 +22,10 @@ permalink: datos-curiosos-seo
  - A medida que el tiempo de carga de la página pasa de un segundo a diez segundos, la probabilidad de un rebote aumenta en un 123%.
  - El tiempo de carga ideal de una página web no debería superar los tres segundos. La realidad es que la media de las páginas requiere más del doble de tiempo.
  - El 40% de los ingresos comerciales en promedio se genera por búsqueda orgánica.
- - En una determinada búsqueda de Google, los usuarios tienen 20 veces más probabilidades de hacer clic en el resultado de la búsqueda orgánica en un anuncio pagado.
-El 57% de los vendedores encuestados dijo que la optimización de motores de búsqueda genera más clientes potenciales y clientes para su negocio que cualquier otra táctica de marketing.
-Las marcas que publican más publicaciones de blog cada mes generan 4.5 veces más leads
-Las empresas que priorizan el SEO y el marketing de contenidos tienen 13 veces más probabilidades de generar un retorno positivo de la inversión.
+ - En cualquier búsqueda de Google, los usuarios tienen 20 veces más probabilidades de hacer clic en el resultado de la búsqueda orgánica en un anuncio pagado.
+ - El 57% de los vendedores encuestados dijo que el SEO genera más clientes potenciales y clientes para su negocio que cualquier otra táctica de marketing.
+ - Las marcas que publican en su blog mensualmente generan 4.5 veces más leads.
+ - Las empresas que priorizan el SEO y el marketing de contenidos tienen 13 veces más probabilidades de generar un retorno positivo de la inversión.
 En un informe de Ascend2, el 81% de las empresas estudiadas informaron que obtuvieron un ROI positivo con su estrategia SEO
 Cada mes, las personas visitan más de 1.500 millones de ubicaciones comerciales relacionadas con las palabras clave que buscaron en Google
 El 30% de todas las búsquedas móviles en Google se basan en la ubicación.
@@ -37,6 +37,6 @@ El recuento promedio de palabras de una publicación de blog de primer resultado
 En promedio, el contenido de clasificación superior en un resultado de búsqueda dado tiene la mayoría de los vínculos de retroceso de cualquier clasificación de página para esa palabra clave
 La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU2MTQ0NjEsLTE4NzUzNDkwOTJdfQ
+eyJoaXN0b3J5IjpbLTIwMTQ5NDQzNjIsLTE4NzUzNDkwOTJdfQ
 ==
 -->
