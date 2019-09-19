@@ -20,6 +20,13 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
 ### Nuestro público objetivo usa los buscadores
 
 Si quieres vender más tendrás que salir a buscar a tu público objetivo. A día de hoy, la gran parte del tráfico global se encuentra en los buscadores, especialmente en Google.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1174657848846028800">
+</amp-twitter>
  
  - En 2019, Google tiene más del [90% de la cuota de mercado de los motores de búsqueda](https://gs.statcounter.com/search-engine-market-share) en todo el mundo.  Aunque es importante trabajar para todos los buscadores, el tráfico orgánico en Google sigue siendo el más relevante.
  - Google procesa más de [40,000 búsquedas de palabras clave cada segundo](https://www.internetlivestats.com/google-search-statistics/). Eso es más de 3.5 mil millones de búsquedas en un solo día y 1.2 trillones por año. Y sigue aumentando. ¿Qué tráfico eres capaz de captar con tu [estrategia SEO](/estrategia-seo)?.
@@ -71,7 +78,7 @@ Los resultados suelen aparecer a medio/largo plazo por lo que es crucial monitor
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2MTU4MzM3LDE0MTQzMTkyMTAsLTg5Nz
-k2ODgxNSwxNjQ2Nzc4MDIzLC05MjQ3NTQ2MzksLTIwNjk4Nzcw
-NjVdfQ==
+eyJoaXN0b3J5IjpbMjEwNzQ1ODMwMyw2MDYxNTgzMzcsMTQxND
+MxOTIxMCwtODk3OTY4ODE1LDE2NDY3NzgwMjMsLTkyNDc1NDYz
+OSwtMjA2OTg3NzA2NV19
 -->
