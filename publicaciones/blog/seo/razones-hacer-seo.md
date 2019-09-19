@@ -43,16 +43,22 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - El [57% de los vendedores encuestados](https://blog.hubspot.com/news-trends/the-future-of-content-marketing) dijo que el SEO genera más clientes potenciales para su negocio que cualquier otra táctica de marketing.
  - Las marcas que publican en su blog mensualmente [generan 4.5 veces más leads](https://blog.hubspot.com/marketing/blogging-frequency-benchmarks). Además, priorizando el SEO y el marketing de contenidos tienen 13 veces más probabilidades de generar un retorno positivo de la inversión.
  - En un informe de [Ascend2](https://www.marketingdive.com/news/study-creating-content-is-most-effective-and-most-difficult-seo-tactic/430335/), el 81% de las empresas estudiadas informaron que obtuvieron un ROI positivo con su estrategia SEO
+
+### La importancia del SEO local
+
  - Cada mes, las personas visitan más de 1.500 millones de ubicaciones comerciales relacionadas con las palabras clave que buscaron en Google.
  - El 30% de todas las búsquedas móviles en Google se basan en la ubicación.
  - Solo en el último año, ha habido un aumento de 1.3 veces en las búsquedas de "dónde comprar / encontrar / obtener".
  - El 76% de los usuarios de Google que buscan algo en su área local visitarán ese negocio dentro de un día. 28% de ellos comprarán algo.
+
+
  - Según Andrey Lipattsev de Google, los vínculos de retroceso y el contenido son los factores de clasificación más importantes e impactantes.
  - Se estima que se generan cuatro millones de publicaciones de blog todos los días.
  - El recuento promedio de palabras de una publicación de blog de primer resultado en la primera página de Google es de 1,890 palabras.
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDMxOTIxMCwtODk3OTY4ODE1LDE2ND
-Y3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3NzA2NV19
+eyJoaXN0b3J5IjpbMTExNDE4NDQyNiwxNDE0MzE5MjEwLC04OT
+c5Njg4MTUsMTY0Njc3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3
+MDY1XX0=
 -->
