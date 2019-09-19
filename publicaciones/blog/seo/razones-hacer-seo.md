@@ -9,7 +9,9 @@ permalink: razones-hacer-seo
 
 --- 
 
-# Datos curiosos sobre SEO
+# Razones para hacer SEO
+
+
 
  - El 93% de las veces, una visita a una web comienza buscando palabras clave en un motor de búsqueda.
  - El 51% de todo el tráfico del sitio web (en todo el mundo) hace clic en resultados orgánicos. Solo el 10% hace clic en la búsqueda paga. Solo el 5% hace clic en las redes sociales.
@@ -31,11 +33,11 @@ permalink: razones-hacer-seo
  - El 30% de todas las búsquedas móviles en Google se basan en la ubicación.
  - Solo en el último año, ha habido un aumento de 1.3 veces en las búsquedas de "dónde comprar / encontrar / obtener".
  - El 76% de los usuarios de Google que buscan algo en su área local visitarán ese negocio dentro de un día. 28% de ellos comprarán algo.
- - Según Andrey Lipattsev de Google, los vínculos de retroceso y el contenido son los factores de clasificación más importantes e impactantes
-Se estima que se publican cuatro millones de publicaciones de blog todos los días
-El recuento promedio de palabras de una publicación de blog de primer resultado en la primera página de Google es de 1,890 palabras
-En promedio, el contenido de clasificación superior en un resultado de búsqueda dado tiene la mayoría de los vínculos de retroceso de cualquier clasificación de página para esa palabra clave
-La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics
+ - Según Andrey Lipattsev de Google, los vínculos de retroceso y el contenido son los factores de clasificación más importantes e impactantes.
+ - Se estima que se generan cuatro millones de publicaciones de blog todos los días.
+ - El recuento promedio de palabras de una publicación de blog de primer resultado en la primera página de Google es de 1,890 palabras.
+ - En promedio, el contenido de clasificación superior en un resultado de búsqueda dado tiene la mayoría de los vínculos de retroceso de cualquier clasificación de página para esa palabra clave
+ - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk4NzcwNjVdfQ==
+eyJoaXN0b3J5IjpbLTkyNDc1NDYzOSwtMjA2OTg3NzA2NV19
 -->
