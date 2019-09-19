@@ -34,9 +34,11 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
 
 ### Trabajar aspectos técnicos
 
- - A medida que el tiempo de carga de la página pasa de un segundo a diez segundos, [la probabilidad de un rebote aumenta en un 123%](https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/).
- - El tiempo de carga ideal de una página web no debería superar los tres segundos. La realidad es que la media de las páginas requiere más del doble de tiempo.
- - El 40% de los ingresos comerciales en promedio se genera por búsqueda orgánica.
+ - A medida que el tiempo de carga de la página pasa de un segundo a diez segundos, [la probabilidad de un rebote aumenta en un 123%](https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/).  El tiempo de carga ideal de una página web no debería superar los tres segundos. La realidad es que la media de las páginas requiere más del doble de tiempo.
+
+### El SEO genera ingresos
+
+ - El 40% de los ingresos online -de media- se genera por búsqueda orgánica.
  - En cualquier búsqueda de Google, los usuarios tienen 20 veces más probabilidades de hacer clic en el resultado de la búsqueda orgánica en un anuncio pagado.
  - El 57% de los vendedores encuestados dijo que el SEO genera más clientes potenciales y clientes para su negocio que cualquier otra táctica de marketing.
  - Las marcas que publican en su blog mensualmente generan 4.5 veces más leads.
@@ -52,6 +54,6 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTI0MzU1MiwtODk3OTY4ODE1LDE2ND
-Y3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3NzA2NV19
+eyJoaXN0b3J5IjpbNzMxNTU2ODgzLC04OTc5Njg4MTUsMTY0Nj
+c3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3MDY1XX0=
 -->
