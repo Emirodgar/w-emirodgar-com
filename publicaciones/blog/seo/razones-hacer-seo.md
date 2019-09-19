@@ -19,7 +19,7 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
 
 ### Los buscadores como canal de captación
 
- - El 93% de las veces, una visita a una web comienza buscando palabras clave en un motor de búsqueda. Posicionar dentro de los buscadores es clave para captar dicho tráfico.
+Si quieres vender más tendrás que salir a buscar a tu público objetivo. A día de hoy, la gran parte del tráfico global se encuentra en los buscadores.
  
  - El 51% de todo el tráfico del sitio web (en todo el mundo) hace clic en resultados orgánicos. El 10% hace clic en la búsqueda paga y sólo el 5% hace clic en las redes sociales según un [estudio de BrightEdge](https://www.brightedge.com/resources/research-reports/content-optimization).
  - En 2019, Google tiene más del [90% de la cuota de mercado de los motores de búsqueda](https://gs.statcounter.com/search-engine-market-share) en todo el mundo.  Aunque es importante trabajar para todos los buscadores, el tráfico orgánico en Google sigue siendo el más relevante.
@@ -61,7 +61,7 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjQ4Mjg0NywxNDE0MzE5MjEwLC04OT
-c5Njg4MTUsMTY0Njc3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3
-MDY1XX0=
+eyJoaXN0b3J5IjpbNTg2MDA3MTEsMTQxNDMxOTIxMCwtODk3OT
+Y4ODE1LDE2NDY3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3NzA2
+NV19
 -->
