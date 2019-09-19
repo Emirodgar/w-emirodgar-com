@@ -21,7 +21,7 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
  
  - El 51% de todo el tráfico del sitio web (en todo el mundo) hace clic en resultados orgánicos. El 10% hace clic en la búsqueda paga y sólo el 5% hace clic en las redes sociales según un [estudio de BrightEdge](https://www.brightedge.com/resources/research-reports/content-optimization).
  - En 2019, Google tiene más del [90% de la cuota de mercado de los motores de búsqueda](https://gs.statcounter.com/search-engine-market-share) en todo el mundo.  Aunque es importante trabajar para todos los buscadores, el tráfico orgánico en Google sigue siendo el más relevante.
- - Google procesa más de 40,000 búsquedas de palabras clave cada segundo. Eso es más de 3.5 mil millones de búsquedas en un solo día y 1.2 trillones por año.
+ - Google procesa más de [40,000 búsquedas de palabras clave cada segundo](https://www.internetlivestats.com/google-search-statistics/). Eso es más de 3.5 mil millones de búsquedas en un solo día y 1.2 trillones por año. Y sigue aumentando. ¿Qué tráfico eres capaz de captar con tu [estrategia SEO](/estrategia-seo)?
  - El 16-20% de las palabras clave buscadas en Google en un día dado nunca se han buscado antes.
  - Cada año, Google cambia su algoritmo alrededor de 500-600 veces.
  - Actualmente, más del 50% de la población mundial tiene acceso a Internet y, por lo tanto, utiliza motores de búsqueda para encontrar información.
@@ -44,6 +44,6 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzc5MTIxLC04OTc5Njg4MTUsMTY0Nj
-c3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3MDY1XX0=
+eyJoaXN0b3J5IjpbLTEzNjY4Mzc2NzYsLTg5Nzk2ODgxNSwxNj
+Q2Nzc4MDIzLC05MjQ3NTQ2MzksLTIwNjk4NzcwNjVdfQ==
 -->
