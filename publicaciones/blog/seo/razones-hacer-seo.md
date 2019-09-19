@@ -40,8 +40,8 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
 ### El SEO genera ingresos
 
  - De media, el 40% de los ingresos online [se genera por búsqueda orgánica](https://www.brightedge.com/resources/research-reports/content-optimization).
- - En cualquier búsqueda de Google, los usuarios tienen [20 veces más probabilidades de hacer clic en el resultado de la búsqueda orgánica en un anuncio pagado](https://moz.com/blog/state-of-searcher-behavior-revealed).
- - El [57% de los vendedores encuestados](https://blog.hubspot.com/news-trends/the-future-of-content-marketing) dijo que el SEO genera más clientes potenciales para su negocio que cualquier otra táctica de marketing.
+ - Los usuarios tienen 20 veces más probabilidades de hacer [clic en el resultado SEO](https://moz.com/blog/state-of-searcher-behavior-revealed) antes que en un anuncio de pago.
+ - El [57% de clientes de Hubspot](https://blog.hubspot.com/news-trends/the-future-of-content-marketing) dijeron que el SEO genera más clientes potenciales para su negocio que cualquier otra táctica de marketing.
  - Las marcas que publican en su blog mensualmente [generan 4.5 veces más leads](https://blog.hubspot.com/marketing/blogging-frequency-benchmarks). Además, priorizando el SEO y el marketing de contenidos tienen 13 veces más probabilidades de generar un retorno positivo de la inversión.
  - En un informe de [Ascend2](https://www.marketingdive.com/news/study-creating-content-is-most-effective-and-most-difficult-seo-tactic/430335/), el 81% de las empresas estudiadas informaron que obtuvieron un ROI positivo con su estrategia SEO
 
@@ -62,7 +62,7 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODI1NDQ1NCwxNDE0MzE5MjEwLC04OT
-c5Njg4MTUsMTY0Njc3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3
-MDY1XX0=
+eyJoaXN0b3J5IjpbLTE0NzEwMDM2NTAsMTQxNDMxOTIxMCwtOD
+k3OTY4ODE1LDE2NDY3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3
+NzA2NV19
 -->
