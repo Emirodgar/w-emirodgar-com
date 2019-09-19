@@ -60,16 +60,16 @@ La geolocalización y el acceso mobile ha facilitado enormemente la transformaci
 
 Una estrategia SEO debe estar al día de las novedades de los buscadores, ser original y recopilar toda la información posible para seguir aprendiendo de lo realizado.
 
-Los resultados suelen aparecer a medio/largo plazo por lo que es crucial monitorizary adaptar la estrategia siempre que sea necesario. Esas son las principales razones.
+Los resultados suelen aparecer a medio/largo plazo por lo que es crucial monitorizar de forma periódica la evolución SEO y adaptar la estrategia siempre que sea necesario. 
 
   - Cada año, Google [cambia su algoritmo alrededor de 500-600 veces](https://www.blog.google/products/search/how-we-keep-google-search-relevant-and-useful/). Por ello las estrategias SEO deben ser vivas y dinámicas y adaptarse a cada cambio.
  - Según Andrey Lipattsev de Google, [los enlaces y el contenido son los factores de clasificación más importantes](https://searchengineland.com/now-know-googles-top-three-search-ranking-factors-245882) y con mayor impacto a día de hoy.
   - A medida que el tiempo de carga de la página pasa de un segundo a diez segundos, [la probabilidad de un rebote aumenta en un 123%](https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/).  El tiempo de carga ideal de una página web no debería superar los tres segundos. La realidad es que la media de las páginas requiere más del doble de tiempo.
- - El recuento promedio de palabras de una publicación de blog de primer resultado en la primera página de Google es de 1,890 palabras.
+ - El recuento promedio de palabras de una publicación de blog de primer resultado en la primera página de Google [es de 1,890 palabras](http://backlinko.com/search-engine-ranking).
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE1ODg3MDEsMTQxNDMxOTIxMCwtOD
-k3OTY4ODE1LDE2NDY3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3
-NzA2NV19
+eyJoaXN0b3J5IjpbMTMwMjI1NDkwOCwxNDE0MzE5MjEwLC04OT
+c5Njg4MTUsMTY0Njc3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3
+MDY1XX0=
 -->
