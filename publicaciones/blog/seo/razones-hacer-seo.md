@@ -40,7 +40,7 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
 
 ### El SEO genera ingresos
 
-Puede que existan otros canales con un mejor porcentaje de conversión que el orgánico pero es in
+Puede que existan otros canales con un mejor porcentaje de conversión que el orgánico pero es indudable que los ingresos y ROI conseguidos a través del SEO suponen un aporte de valor a las estrategias digitales.
 
  - De media, el 40% de los ingresos online [se genera por búsqueda orgánica](https://www.brightedge.com/resources/research-reports/content-optimization).
  - Los usuarios tienen 20 veces más probabilidades de hacer [clic en el resultado SEO](https://moz.com/blog/state-of-searcher-behavior-revealed) antes que en un anuncio de pago.
@@ -71,7 +71,7 @@ Los resultados suelen aparecer a medio/largo plazo por lo que es crucial monitor
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI0MzY3OTUsMTQxNDMxOTIxMCwtOD
-k3OTY4ODE1LDE2NDY3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3
-NzA2NV19
+eyJoaXN0b3J5IjpbNjA2MTU4MzM3LDE0MTQzMTkyMTAsLTg5Nz
+k2ODgxNSwxNjQ2Nzc4MDIzLC05MjQ3NTQ2MzksLTIwNjk4Nzcw
+NjVdfQ==
 -->
