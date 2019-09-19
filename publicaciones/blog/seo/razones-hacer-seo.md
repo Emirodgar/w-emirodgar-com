@@ -48,14 +48,16 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
 
 ### El negocio local, cada vez más relevante
 
-La geolocalización y el acceso mobile ha facilitado enormemente la transformación digital de las pequeñas y medianas empresas hacia el mundo digital. Google ha elaborado un maravilloso estudio del que podemos extraer las siguientes conclusiones:
+La geolocalización y el acceso mobile ha facilitado enormemente la transformación digital de las pequeñas y medianas empresas hacia el mundo digital. Google ha elaborado [un maravilloso estudio](https://www.thinkwithgoogle.com/consumer-insights/mobile-search-trends-consumers-to-stores/) del que podemos extraer las siguientes conclusiones:
 
  - Cada mes, las personas visitan más de 1.500 millones de ubicaciones comerciales relacionadas con las palabras clave que buscaron en Google.
  - El 30% de todas las búsquedas móviles en Google se basan en la ubicación.
  - Solo en el último año, ha habido un aumento de 1.3 veces en las búsquedas de "dónde comprar / encontrar / obtener".
  - El 76% de los usuarios de Google que buscan algo en su área local visitarán ese negocio dentro de un día. 28% de ellos comprarán algo.
 
-### Factores SEO relevantes
+### Los factores SEO evolucionan
+
+Una estrategia SEO debe estar al día de las 
 
   - Cada año, Google [cambia su algoritmo alrededor de 500-600 veces](https://www.blog.google/products/search/how-we-keep-google-search-relevant-and-useful/). Por ello las estrategias SEO deben ser vivas y dinámicas.
  - Según Andrey Lipattsev de Google, [los enlaces y el contenido son los factores de clasificación más importantes](https://searchengineland.com/now-know-googles-top-three-search-ranking-factors-245882) y con mayor impacto.
@@ -65,7 +67,7 @@ La geolocalización y el acceso mobile ha facilitado enormemente la transformaci
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDEwMzY4NSwxNDE0MzE5MjEwLC04OT
-c5Njg4MTUsMTY0Njc3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3
-MDY1XX0=
+eyJoaXN0b3J5IjpbNzY0MDg0OTUzLDE0MTQzMTkyMTAsLTg5Nz
+k2ODgxNSwxNjQ2Nzc4MDIzLC05MjQ3NTQ2MzksLTIwNjk4Nzcw
+NjVdfQ==
 -->
