@@ -41,11 +41,12 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
 
  - De media, el 40% de los ingresos online [se genera por búsqueda orgánica](https://www.brightedge.com/resources/research-reports/content-optimization).
  - Los usuarios tienen 20 veces más probabilidades de hacer [clic en el resultado SEO](https://moz.com/blog/state-of-searcher-behavior-revealed) antes que en un anuncio de pago.
+ - En un informe de [Ascend2](https://www.marketingdive.com/news/study-creating-content-is-most-effective-and-most-difficult-seo-tactic/430335/), el 81% de las empresas estudiadas informaron que obtuvieron un ROI positivo con su estrategia SEO
  - El [57% de clientes de Hubspot](https://blog.hubspot.com/news-trends/the-future-of-content-marketing) dijeron que el SEO genera más clientes potenciales para su negocio que cualquier otra táctica de marketing.
  - Las marcas que publican en su blog mensualmente [generan 4.5 veces más leads](https://blog.hubspot.com/marketing/blogging-frequency-benchmarks). Además, priorizando el SEO y el marketing de contenidos tienen 13 veces más probabilidades de generar un retorno positivo de la inversión.
- - En un informe de [Ascend2](https://www.marketingdive.com/news/study-creating-content-is-most-effective-and-most-difficult-seo-tactic/430335/), el 81% de las empresas estudiadas informaron que obtuvieron un ROI positivo con su estrategia SEO
+ 
 
-### La importancia del SEO local
+### El negocio local, cada vez más relevante
 
  - Cada mes, las personas visitan más de 1.500 millones de ubicaciones comerciales relacionadas con las palabras clave que buscaron en Google.
  - El 30% de todas las búsquedas móviles en Google se basan en la ubicación.
@@ -62,7 +63,7 @@ Cada vez existe un mayor acceso a la información y por lo tanto usuarios y trá
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzEwMDM2NTAsMTQxNDMxOTIxMCwtOD
+eyJoaXN0b3J5IjpbLTExMjI2MzY3MDYsMTQxNDMxOTIxMCwtOD
 k3OTY4ODE1LDE2NDY3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3
 NzA2NV19
 -->
