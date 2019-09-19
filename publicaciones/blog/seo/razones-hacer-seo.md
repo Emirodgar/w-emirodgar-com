@@ -23,8 +23,8 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
  - En 2019, Google tiene más del [90% de la cuota de mercado de los motores de búsqueda](https://gs.statcounter.com/search-engine-market-share) en todo el mundo.  Aunque es importante trabajar para todos los buscadores, el tráfico orgánico en Google sigue siendo el más relevante.
  - Google procesa más de [40,000 búsquedas de palabras clave cada segundo](https://www.internetlivestats.com/google-search-statistics/). Eso es más de 3.5 mil millones de búsquedas en un solo día y 1.2 trillones por año. Y sigue aumentando. ¿Qué tráfico eres capaz de captar con tu [estrategia SEO](/estrategia-seo)?
  - El 16-20% de las palabras clave buscadas en Google a lo largo de un día [nunca se han buscado antes](https://readwrite.com/2012/02/29/interview_changing_engines_mid-flight_qa_with_goog/#awesm=~oiNkM4tAX3xhbP). Esto abre la puerta a crear contenido nuevo y de calidad que posicionará y que la gente buscará.
- - Cada año, Google cambia su algoritmo alrededor de 500-600 veces.
- - Actualmente, más del 50% de la población mundial tiene acceso a Internet y, por lo tanto, utiliza motores de búsqueda para encontrar información.
+ - Cada año, Google [cambia su algoritmo alrededor de 500-600 veces](https://www.blog.google/products/search/how-we-keep-google-search-relevant-and-useful/). Por ello las estrategias SEO deben ser vivas y dinámicas.
+ - Actualmente, más del [50% de la población mundial tiene acceso a Internet](https://www.statista.com/statistics/325706/global-internet-user-penetration/) y, por lo tanto, utiliza motores de búsqueda para encontrar información.
  - En 2018, los dispositivos móviles representaron el 52,2% del tráfico de Internet en todo el mundo. En Asia, más del 65% del tráfico web se realiza en dispositivos móviles.
  - A medida que el tiempo de carga de la página pasa de un segundo a diez segundos, la probabilidad de un rebote aumenta en un 123%.
  - El tiempo de carga ideal de una página web no debería superar los tres segundos. La realidad es que la media de las páginas requiere más del doble de tiempo.
@@ -44,6 +44,6 @@ El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIwMzYxOTgsLTg5Nzk2ODgxNSwxNj
+eyJoaXN0b3J5IjpbLTIwMDgzMTAyNTgsLTg5Nzk2ODgxNSwxNj
 Q2Nzc4MDIzLC05MjQ3NTQ2MzksLTIwNjk4NzcwNjVdfQ==
 -->
