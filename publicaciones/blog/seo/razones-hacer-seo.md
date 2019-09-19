@@ -57,7 +57,9 @@ La geolocalización y el acceso mobile ha facilitado enormemente la transformaci
 
 ### Los factores SEO evolucionan
 
-Una estrategia SEO debe estar al día de las 
+Una estrategia SEO debe estar al día de las novedades de los buscadores, ser original y recopilar toda la información posible para seguir aprendiendo de lo realizado.
+
+Los resultados suelen aparecer a medio/largo plazo por lo que es crucial monitorizarla y adaptarla siempre que sea necesario. Esas son las principales razones.
 
   - Cada año, Google [cambia su algoritmo alrededor de 500-600 veces](https://www.blog.google/products/search/how-we-keep-google-search-relevant-and-useful/). Por ello las estrategias SEO deben ser vivas y dinámicas.
  - Según Andrey Lipattsev de Google, [los enlaces y el contenido son los factores de clasificación más importantes](https://searchengineland.com/now-know-googles-top-three-search-ranking-factors-245882) y con mayor impacto.
@@ -67,7 +69,7 @@ Una estrategia SEO debe estar al día de las
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0MDg0OTUzLDE0MTQzMTkyMTAsLTg5Nz
-k2ODgxNSwxNjQ2Nzc4MDIzLC05MjQ3NTQ2MzksLTIwNjk4Nzcw
-NjVdfQ==
+eyJoaXN0b3J5IjpbMTMxNzQxNjg0MiwxNDE0MzE5MjEwLC04OT
+c5Njg4MTUsMTY0Njc3ODAyMywtOTI0NzU0NjM5LC0yMDY5ODc3
+MDY1XX0=
 -->
