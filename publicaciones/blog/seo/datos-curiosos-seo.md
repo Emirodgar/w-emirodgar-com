@@ -11,16 +11,14 @@ permalink: datos-curiosos-seo
 
 # Datos curiosos sobre SEO
 
- - List item
-
-El 93% del tiempo, una sesión en línea comienza buscando palabras clave en un motor de búsqueda
-El 51% de todo el tráfico del sitio web (en todo el mundo) hace clic en resultados orgánicos. Solo el 10% hace clic en la búsqueda paga. Solo el 5% hace clic en las redes sociales.
-En 2019, Google representa el 74.80% de la cuota de mercado de los motores de búsqueda en todo el mundo
-Google solo procesa más de 40,000 búsquedas de palabras clave cada segundo. Eso es más de 3.5 mil millones de búsquedas en un solo día y 1.2 trillones por año
-16-20% de las palabras clave buscadas en Google en un día dado nunca se han buscado antes
-Cada año, Google cambia su algoritmo alrededor de 500-600 veces
-Actualmente, más del 50% de la población mundial tiene acceso a Internet y, por lo tanto, utiliza motores de búsqueda para encontrar información.
-En 2018, los dispositivos móviles representaron el 52,2% del tráfico de Internet en todo el mundo. En Asia, más del 65% del tráfico web se realiza en dispositivos móviles.
+ - El 93% de las veces, una visita a una web comienza buscando palabras clave en un motor de búsqueda.
+ - El 51% de todo el tráfico del sitio web (en todo el mundo) hace clic en resultados orgánicos. Solo el 10% hace clic en la búsqueda paga. Solo el 5% hace clic en las redes sociales.
+ - En 2019, Google representa el 74.80% de la cuota de mercado de los motores de búsqueda en todo el mundo.
+ - Google procesa más de 40,000 búsquedas de palabras clave cada segundo. Eso es más de 3.5 mil millones de búsquedas en un solo día y 1.2 trillones por año.
+ - El 16-20% de las palabras clave buscadas en Google en un día dado nunca se han buscado antes.
+ - Cada año, Google cambia su algoritmo alrededor de 500-600 veces.
+ - Actualmente, más del 50% de la población mundial tiene acceso a Internet y, por lo tanto, utiliza motores de búsqueda para encontrar información.
+ - En 2018, los dispositivos móviles representaron el 52,2% del tráfico de Internet en todo el mundo. En Asia, más del 65% del tráfico web se realiza en dispositivos móviles.
 A medida que el tiempo de carga de la página pasa de un segundo a diez segundos, la probabilidad de un rebote aumenta en un 123%
 La mejor práctica para la velocidad de la página es de tres segundos. Pero, el sitio web promedio en cada industria requiere más del doble para cargar
 El 40% de los ingresos comerciales en promedio se genera por búsqueda orgánica
@@ -39,5 +37,5 @@ El recuento promedio de palabras de una publicación de blog de primer resultado
 En promedio, el contenido de clasificación superior en un resultado de búsqueda dado tiene la mayoría de los vínculos de retroceso de cualquier clasificación de página para esa palabra clave
 La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5OTQwNTI5LC0xODc1MzQ5MDkyXX0=
+eyJoaXN0b3J5IjpbLTkwMjE5MTg2OSwtMTg3NTM0OTA5Ml19
 -->
