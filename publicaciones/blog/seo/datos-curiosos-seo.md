@@ -19,10 +19,10 @@ permalink: datos-curiosos-seo
  - Cada año, Google cambia su algoritmo alrededor de 500-600 veces.
  - Actualmente, más del 50% de la población mundial tiene acceso a Internet y, por lo tanto, utiliza motores de búsqueda para encontrar información.
  - En 2018, los dispositivos móviles representaron el 52,2% del tráfico de Internet en todo el mundo. En Asia, más del 65% del tráfico web se realiza en dispositivos móviles.
-A medida que el tiempo de carga de la página pasa de un segundo a diez segundos, la probabilidad de un rebote aumenta en un 123%
-La mejor práctica para la velocidad de la página es de tres segundos. Pero, el sitio web promedio en cada industria requiere más del doble para cargar
-El 40% de los ingresos comerciales en promedio se genera por búsqueda orgánica
-En una determinada búsqueda de Google, los usuarios tienen 20 veces más probabilidades de hacer clic en el resultado de la búsqueda orgánica en un anuncio pagado
+ - A medida que el tiempo de carga de la página pasa de un segundo a diez segundos, la probabilidad de un rebote aumenta en un 123%.
+ - El tiempo de carga ideal de una página web no debería superar los tres segundos. La realidad es que la media de las páginas requiere más del doble de tiempo.
+ - El 40% de los ingresos comerciales en promedio se genera por búsqueda orgánica.
+ - En una determinada búsqueda de Google, los usuarios tienen 20 veces más probabilidades de hacer clic en el resultado de la búsqueda orgánica en un anuncio pagado.
 El 57% de los vendedores encuestados dijo que la optimización de motores de búsqueda genera más clientes potenciales y clientes para su negocio que cualquier otra táctica de marketing.
 Las marcas que publican más publicaciones de blog cada mes generan 4.5 veces más leads
 Las empresas que priorizan el SEO y el marketing de contenidos tienen 13 veces más probabilidades de generar un retorno positivo de la inversión.
@@ -37,5 +37,6 @@ El recuento promedio de palabras de una publicación de blog de primer resultado
 En promedio, el contenido de clasificación superior en un resultado de búsqueda dado tiene la mayoría de los vínculos de retroceso de cualquier clasificación de página para esa palabra clave
 La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjE5MTg2OSwtMTg3NTM0OTA5Ml19
+eyJoaXN0b3J5IjpbLTEzMTU2MTQ0NjEsLTE4NzUzNDkwOTJdfQ
+==
 -->
