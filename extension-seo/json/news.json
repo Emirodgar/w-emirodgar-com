@@ -1,6 +1,21 @@
 {
   "data": [
     [
+      "El número de palabras clave no es relevante",
+      "John Mueller vuelve a confirmar que el número de palabras de una página no es un factor relevante. Escribe para tus usuarios.",
+      "https://twitter.com/JohnMu/status/1176397410714759168"
+    ],
+	[
+      "Datos en Search Console actualizados",
+      "Google Search Console actualizará la información con mayor frecuencia. Ahora podremos ver los resultados con un día de diferencia.",
+      "https://webmasters.googleblog.com/2019/09/search-performance-fresh-data.html"
+    ],
+	[
+      "Actualización de los datos estructurados de valoraciones",
+      "Google ha actualizado el cuándo y cómo se mostrarán las valoraciones basadas en datos estructurados.",
+      "https://webmasters.googleblog.com/2019/09/making-review-rich-results-more-helpful.html"
+    ],
+	[
       "Google y las etiquetas canonical",
       "Por defecto podemos marcar y elegir las URLs de nuestro sitio que queremos que sean indexadas (canonical) y desechar versiones duplicadas pero en algunas ocasiones, el robot de Google decide por nosotros. John Mueller lo explica con más detalle en este tweet.",
       "https://twitter.com/googlewmc/status/1169285523237683200"

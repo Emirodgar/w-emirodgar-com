@@ -46,9 +46,24 @@
       "https://support.google.com/accounts/answer/3024190?hl=en"
     ],
 	[
+      "Way Back Machine",
+      "El repositorio más grande de internet para analizar cómo era una página web en el pasado.",
+      "https://web.archive.org/"
+    ],
+	[
+      "Google trends",
+      "Analiza tendencias de búsqueda de diversos términos en múltiples mercados.",
+      "https://trends.google.es/trends/"
+    ],
+	[
       "PurifyCSS",
       "Get the CSS code you are using on your website and delete the unused so your file became lighter.",
       "https://purifycss.online/"
+    ],
+	[
+      "MinimalCSS",
+      "Aplicación que unifica todos los CSS en un único fichero y que elimina el código que no estemos usando.",
+      "https://minimalcss.app/"
     ],
     [
       "HTML Formatter",
