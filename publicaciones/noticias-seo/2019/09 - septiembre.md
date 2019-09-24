@@ -63,12 +63,14 @@ Michael Cottam se ha currado una [recopilación de sitios tóxicos a los que hac
 
 Este caso de estudio nos detalla [cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados](https://growandconvert.com/content-marketing/how-long-does-it-take-for-content-marketing-to-work/). Es bastante completo e interesante.
 
+Interesante el artículo que desmonta las [tácticas chinas en redes sociales para desacreditar a los protestantes en Hong Kong](https://www.nytimes.com/interactive/2019/09/18/world/asia/hk-twitter.html).
+
 ## Cómo mantenernos al día
 
 Excelente recopilación de los mejores [podcasts relacionados con marketing digital](https://cypressnorth.com/47-best-digital-marketing-podcasts/). Están en inglés pero la calidad de muchos de ellos lo merece.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjU3Njc4MDgsNDkwNTg3MDA5LC0xMD
-U1MzAzNTMxLC05NjU2NjEzNjEsMjA0NDYwMDE4NCwxMjU2NTI0
-MDQwLDEwMzgwNDYwMDcsMzQ2MTQ5ODY5LDEwOTU2MjY1NjZdfQ
-==
+eyJoaXN0b3J5IjpbNTU0ODU2Mzg3LC0yMTI1NzY3ODA4LDQ5MD
+U4NzAwOSwtMTA1NTMwMzUzMSwtOTY1NjYxMzYxLDIwNDQ2MDAx
+ODQsMTI1NjUyNDA0MCwxMDM4MDQ2MDA3LDM0NjE0OTg2OSwxMD
+k1NjI2NTY2XX0=
 -->
