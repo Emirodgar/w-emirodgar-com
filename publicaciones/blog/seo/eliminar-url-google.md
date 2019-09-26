@@ -4,7 +4,7 @@ description: Aprende a eliminar una URL de forma correcta y eficiente para que n
 lang: es_ES
 author: Emirodgar
 tags: SEO, Google
-date: 08/04/2019
+date: 26/09/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: eliminar-url-google
 
@@ -101,5 +101,5 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTU5NzM1OSwyNjkyNjYzMzldfQ==
+eyJoaXN0b3J5IjpbMTA0Nzc4MTc1MiwyNjkyNjYzMzldfQ==
 -->
