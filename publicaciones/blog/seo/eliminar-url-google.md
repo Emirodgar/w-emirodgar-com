@@ -25,7 +25,7 @@ Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web
 
  - Error 404 o 410
  - Redirección 301
- - Herramienta de eliminación de Google (temporal) + noindex/disallow
+ - Herramienta de eliminación de Google (temporal) + noindex
 
  
 
@@ -91,5 +91,5 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MjY2MzM5XX0=
+eyJoaXN0b3J5IjpbNzc0MzI5MTAzLDI2OTI2NjMzOV19
 -->
