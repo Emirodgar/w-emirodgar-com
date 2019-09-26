@@ -79,7 +79,14 @@ En el caso de que la URL esté indexada por los buscadores, además de seguir lo
  1. Forzar un error 404 o error 410 (éste último suele ser más rápido)
  2. Aplicar una redirección 301 (suele generar un error *[404 soft](https://support.google.com/webmasters/answer/181708?hl=es)* en Google Search Console)
 
-Como curiosidad, [John Mueller confirmó a través de Twitter](https://twitter.com/JohnMu/status/1107298611128352769) que siempre que exista un enlace externo hacia una de nuestras URLs, aunque ésta muestre un error 404, Google seguirá intentando indexarla de vez en cuando.
+Como curiosidad, John Mueller confirmó a través de Twitter que siempre que exista un enlace externo hacia una de nuestras URLs, aunque ésta muestre un error 404, Google seguirá intentando indexarla de vez en cuando.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1107298611128352769">
+</amp-twitter>
 
 
 ## Herramientas de Google
@@ -94,5 +101,5 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMzYzMjkyLDI2OTI2NjMzOV19
+eyJoaXN0b3J5IjpbMTQ2NTU5NzM1OSwyNjkyNjYzMzldfQ==
 -->
