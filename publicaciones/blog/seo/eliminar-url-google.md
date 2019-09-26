@@ -37,7 +37,7 @@ Si aún estamos a tiempo, es mejor prevenir la indexación de nuestra página o 
 
 > Para poder utilizar noindex dentro de una URL, ésta debe ser accesible por los buscadores por lo que **no podemos bloquear su acceso a través del robots.txt**
 
-La [directiva **noindex**](https://developers.google.com/search/reference/robots_meta_tag) puede ser implementada a través del header de la página. Bastará con incluir la meta robots con el valor ++noindex*
+La [directiva **noindex**](https://developers.google.com/search/reference/robots_meta_tag) puede ser implementada a través del header de la página. Bastará con incluir la meta robots con el valor **noindex**
 
 ```
 <!DOCTYPE html>
@@ -48,12 +48,12 @@ _(…)_
 <body>_(…)_</body>
 </html>
 ```
-O también como respuesta a una cabecera HTTP:
+También podríamos configurarlo a nivel de servidor como una cabecera HTTP:
 
 ```
 X-Robots-Tag: noindex
 ```
-De esta forma le indicamos a los buscadores que no queremos que dichas URLs sean indexadas.
+Siempre que un robot de búsqueda reciba la etiqueta robots con valor **noindex** la URL no será indexada..
 
 >  La [directiva noindex bajo robots.txt ya no funciona](https://searchengineland.com/google-to-stop-supporting-noindex-directive-in-robots-txt-319003) por lo que no debemos usarla.
 
@@ -101,6 +101,6 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU0NzA2MjUsMTA0Nzc4MTc1MiwyNj
-kyNjYzMzldfQ==
+eyJoaXN0b3J5IjpbLTczOTI0ODYxOSwxMDQ3NzgxNzUyLDI2OT
+I2NjMzOV19
 -->
