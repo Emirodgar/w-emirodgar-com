@@ -69,6 +69,9 @@ Disallow: /cgi-bin/
 Disallow: /tmp/
 Disallow: /privado/
 ```
+
+No obstante, como ya hemos comentado, el disallow **no garantiza la no indexación**.
+
 ## 2. Eliminar una URL ya indexada
 
 En el caso de que la URL esté indexada por los buscadores, además de seguir los pasos del punto anterior, podemos hacer lo siguiente para acelerar y agilizar el proceso:
@@ -91,5 +94,5 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0MzI5MTAzLDI2OTI2NjMzOV19
+eyJoaXN0b3J5IjpbNjMxMzYzMjkyLDI2OTI2NjMzOV19
 -->
