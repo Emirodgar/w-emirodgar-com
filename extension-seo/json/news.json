@@ -1,6 +1,21 @@
 {
-  "data": [
+  "data": [ 
     [
+      "Las imágenes embebidas no cuentan como enlaces",
+      "John confirma a través de Twitter que las imágenes nuestras que otros sitios utilicen en sus páginas (embebidas) no cuentan como enlaces para Google por lo tanto no afectan al SEO.",
+      "https://twitter.com/JohnMu/status/1177165492454338567"
+    ],
+	[
+      "Nuevas etiquetas datos estructurados",
+      "Google ha presentado nuevas etiquetas para facilitar a Google cómo deberían mostrarse ciertos datos estructurados en nuestras páginas.",
+      "https://webmasters.googleblog.com/2019/09/more-controls-on-search.html"
+    ],
+	[
+      "Nueva actualización 'Core' de Google (Septiembre 2019)",
+      "Google ha anunciado el 24/09/2019 una nueva actualización core de su algoritmo. Esto implica que es una actualización a nivel global y que no persigue nada en concreto, por lo tanto no se necesitará llevar a cabo ninguna acción concreta por parte de SEOs ni webmasters.",
+      "https://twitter.com/searchliaison/status/1176473923833225221"
+    ],
+	[
       "El número de palabras clave no es relevante",
       "John Mueller vuelve a confirmar que el número de palabras de una página no es un factor relevante. Escribe para tus usuarios.",
       "https://twitter.com/JohnMu/status/1176397410714759168"
