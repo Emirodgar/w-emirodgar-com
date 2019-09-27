@@ -17,6 +17,13 @@ Una parte fundamental de los [factores SEO](/factores-seo) que afectan a nuestra
 - [Optimizar los títulos](#titulos-seo)
 - [Optimizar las descripciones](#descripcion-seo)
 
+<amp-img alt="Ejemplo título y descripción SEO"
+  src="https://i.imgur.com/pp7XH9R.png"
+  width="693"
+  height="122"
+  layout="responsive">
+</amp-img>
+
 ## <a name="titulos-seo"></name> Títulos (meta título)
 
 Los **meta title** o títulos de cada página son un [factor SEO](/factores-seo) importante para buscadores por eso es importante optimizarlos al máximo posible. En la siguiente imagen podemos ver un ejemplo de resultado dentro de los buscadores. El texto en morado corresponde con el título de la página.
@@ -64,5 +71,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNjgwNTgyXX0=
+eyJoaXN0b3J5IjpbMjA2MTQ2MjcyNl19
 -->
