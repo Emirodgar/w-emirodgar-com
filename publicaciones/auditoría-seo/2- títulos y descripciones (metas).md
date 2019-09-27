@@ -19,14 +19,6 @@ Para ello debemos trabajar dos aspectos fundamentales: títulos (meta title) y d
 - [Optimizar los títulos](#titulos-seo)
 - [Optimizar las descripciones](#descripcion-seo)
 
-En la siguiente imagen podemos ver cómo muestra Google en sus resultados tanto el título de la página como su descripción:
-
-<amp-img alt="Ejemplo título y descripción SEO"
-  src="https://i.imgur.com/pp7XH9R.png"
-  width="693"
-  height="122"
-  layout="responsive">
-</amp-img>
 
 ## <a name="titulos-seo"></name> Títulos (meta título)
 
@@ -75,5 +67,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDU5ODE5MF19
+eyJoaXN0b3J5IjpbNjEyNzMxOTNdfQ==
 -->
