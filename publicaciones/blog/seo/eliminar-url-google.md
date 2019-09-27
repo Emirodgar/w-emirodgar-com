@@ -4,7 +4,7 @@ description: Aprende a eliminar una URL de forma correcta y eficiente para que n
 lang: es_ES
 author: Emirodgar
 tags: SEO, Google
-date: 08/04/2019
+date: 26/09/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: eliminar-url-google
 
@@ -25,7 +25,7 @@ Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web
 
  - Error 404 o 410
  - Redirección 301
- - Herramienta de eliminación de Google (temporal) + noindex/disallow
+ - Herramienta de eliminación de Google (temporal) + noindex
 
  
 
@@ -37,7 +37,7 @@ Si aún estamos a tiempo, es mejor prevenir la indexación de nuestra página o 
 
 > Para poder utilizar noindex dentro de una URL, ésta debe ser accesible por los buscadores por lo que **no podemos bloquear su acceso a través del robots.txt**
 
-La [directiva **noindex**](https://developers.google.com/search/reference/robots_meta_tag) puede ser implementada a través del header de la página:
+La [directiva **noindex**](https://developers.google.com/search/reference/robots_meta_tag) puede ser implementada a través del header de la página. Bastará con incluir la meta robots con el valor **noindex**
 
 ```
 <!DOCTYPE html>
@@ -48,14 +48,14 @@ _(…)_
 <body>_(…)_</body>
 </html>
 ```
-O también como respuesta a una cabecera HTTP
+También podríamos configurarlo a nivel de servidor como una cabecera HTTP:
 
 ```
 X-Robots-Tag: noindex
 ```
-De esta forma le indicamos a los buscadores que no queremos que dichas URLs sean indexadas.
+Siempre que un robot de búsqueda reciba la etiqueta robots con valor **noindex** la URL no será indexada..
 
->  La directiva noindex bajo robots.txt, es algo experimental y [puede que en un futuro desaparezca](https://youtu.be/yIIRyBMSPUk?t=47m58s) por lo que no es recomendable utilizarla.
+>  La [directiva noindex bajo robots.txt ya no funciona](https://searchengineland.com/google-to-stop-supporting-noindex-directive-in-robots-txt-319003) por lo que no debemos usarla.
 
 ### 1.2. <a name="disallow"></a>Disallow en robots.txt
 
@@ -69,6 +69,9 @@ Disallow: /cgi-bin/
 Disallow: /tmp/
 Disallow: /privado/
 ```
+
+No obstante, como ya hemos comentado, el disallow **no garantiza la no indexación**.
+
 ## 2. Eliminar una URL ya indexada
 
 En el caso de que la URL esté indexada por los buscadores, además de seguir los pasos del punto anterior, podemos hacer lo siguiente para acelerar y agilizar el proceso:
@@ -76,7 +79,14 @@ En el caso de que la URL esté indexada por los buscadores, además de seguir lo
  1. Forzar un error 404 o error 410 (éste último suele ser más rápido)
  2. Aplicar una redirección 301 (suele generar un error *[404 soft](https://support.google.com/webmasters/answer/181708?hl=es)* en Google Search Console)
 
-Como curiosidad, [John Mueller confirmó a través de Twitter](https://twitter.com/JohnMu/status/1107298611128352769) que siempre que exista un enlace externo hacia una de nuestras URLs, aunque ésta muestre un error 404, Google seguirá intentando indexarla de vez en cuando.
+Como curiosidad, John Mueller confirmó a través de Twitter que siempre que exista un enlace externo hacia una de nuestras URLs, aunque ésta muestre un error 404, Google seguirá intentando indexarla de vez en cuando.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1107298611128352769">
+</amp-twitter>
 
 
 ## Herramientas de Google
@@ -91,5 +101,6 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MjY2MzM5XX0=
+eyJoaXN0b3J5IjpbLTczOTI0ODYxOSwxMDQ3NzgxNzUyLDI2OT
+I2NjMzOV19
 -->
