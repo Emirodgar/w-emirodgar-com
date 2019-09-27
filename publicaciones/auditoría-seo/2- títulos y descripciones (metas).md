@@ -16,8 +16,8 @@ Una parte fundamental de los [factores SEO](/factores-seo) que afectan a nuestra
 
 Para ello debemos trabajar dos aspectos fundamentales: títulos (meta title) y descripctión (meta description).
 
-- [Optimizar los títulos](#titulos-seo)
-- [Optimizar las descripciones](#descripcion-seo)
+- [Optimizar los títulos](#meta-title)
+- [Optimizar las descripciones](#meta-description)
 
 
 ## <a name="meta-title"></a> Títulos (meta título)
@@ -67,5 +67,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTI0NzE1NF19
+eyJoaXN0b3J5IjpbLTE5MjU4OTIxODNdfQ==
 -->
