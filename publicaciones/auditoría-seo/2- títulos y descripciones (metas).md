@@ -12,6 +12,11 @@ permalink: titulos-descripciones-seo
 
 # Títulos y descripciones optimizadas para el SEO
 
+Una parte fundamental de los factores SEO
+
+- [Optimizar los títulos](#titulos-seo)
+- [Optimizar las descripciones](#descripcion-seo)
+
 ## <a name="titulos-seo"></name> Títulos (meta título)
 
 Los **meta title** o títulos de cada página son un [factor SEO](/factores-seo) importante para buscadores por eso es importante optimizarlos al máximo posible. En la siguiente imagen podemos ver un ejemplo de resultado dentro de los buscadores. El texto en morado corresponde con el título de la página.
@@ -36,7 +41,7 @@ Estos son algunas de las recomendaciones que debemos tener en cuenta a la hora d
 
 
 
-##<a name="titulos-seo"></name> Descripción
+## <a name="descripcion-seo"></name> Descripción (meta description)
 
 Aunque la **meta description** (comúnmente conocida como descripción) no aporta valor directo al SEO, sí es un elemento clave para llamar la atención de los usuarios y conseguir, de esa forma, que visiten nuestra página.
 
@@ -59,5 +64,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ4Mjk2NjRdfQ==
+eyJoaXN0b3J5IjpbLTEyNDY3NzY3NDFdfQ==
 -->
