@@ -12,7 +12,7 @@ permalink: titulos-descripciones-seo
 
 # Títulos y descripciones optimizadas para el SEO
 
-Una parte fundamental de los factores SEO
+Una parte fundamental de los [factores SEO](/factores-seo) que afectan a nuestras estrategias digitales son aquellos que determinan de forma directa si el usuario hará clic o no en nuestro resultados de búsqueda.
 
 - [Optimizar los títulos](#titulos-seo)
 - [Optimizar las descripciones](#descripcion-seo)
@@ -64,5 +64,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY3NzY3NDFdfQ==
+eyJoaXN0b3J5IjpbNDUwNjgwNTgyXX0=
 -->
