@@ -59,6 +59,15 @@ Hacía mucho tiempo que no leía un artículo tan interesante acerca de las estr
 
 Michael Cottam se ha currado una [recopilación de sitios tóxicos a los que hacer disavow](https://www.michaelcottam.com/negative-seo-disavow-list/).
 
+John Mueller confirma a través de Twitter que las imágenes embebidas de otras páginas no cuentan como enlaces para Google.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1177165732427247621">
+</amp-twitter>
+
 ## Estategia de contenidos
 
 Este caso de estudio nos detalla [cuánto debería tardar una estrategia de Content Marketing en aportar valor y resultados](https://growandconvert.com/content-marketing/how-long-does-it-take-for-content-marketing-to-work/). Es bastante completo e interesante.
@@ -69,8 +78,8 @@ Interesante el artículo que desmonta las [tácticas chinas en redes sociales pa
 
 Excelente recopilación de los mejores [podcasts relacionados con marketing digital](https://cypressnorth.com/47-best-digital-marketing-podcasts/). Están en inglés pero la calidad de muchos de ellos lo merece.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0ODU2Mzg3LC0yMTI1NzY3ODA4LDQ5MD
-U4NzAwOSwtMTA1NTMwMzUzMSwtOTY1NjYxMzYxLDIwNDQ2MDAx
-ODQsMTI1NjUyNDA0MCwxMDM4MDQ2MDA3LDM0NjE0OTg2OSwxMD
-k1NjI2NTY2XX0=
+eyJoaXN0b3J5IjpbLTgxMDg3MDIwMyw1NTQ4NTYzODcsLTIxMj
+U3Njc4MDgsNDkwNTg3MDA5LC0xMDU1MzAzNTMxLC05NjU2NjEz
+NjEsMjA0NDYwMDE4NCwxMjU2NTI0MDQwLDEwMzgwNDYwMDcsMz
+Q2MTQ5ODY5LDEwOTU2MjY1NjZdfQ==
 -->
