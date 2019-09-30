@@ -16,12 +16,12 @@ En la red existen múltiples sitios donde poder encontrar trabajos, especialment
 
 A continuación os dejo una serie de portales especializados en trabajos donde podremos encontrar grandes ofertas. Los listados suelen estar actualizados y ofrecen un gran detalle.
 
- - [LinkedIn](https://www.linkedin.com/): Con más de 500 millones de usuarios registrados es el lugar ideal para relacionarse con tu sector y buscar grandes oportunidades. Cada día se publican cientos de o
- - [Simplyhired](https://www.simplyhired.es/)
+ - [LinkedIn](https://www.linkedin.com/): Con más de 500 millones de usuarios registrados es el lugar ideal para relacionarse con tu sector y buscar grandes oportunidades. Cada día se publican cientos de ofertas relacionadas con tu perfil e incluso puedes enviar directamente tu solicitud a través de esta plataforma. Muchas empresas la utilizan como lugar de captación y hacen todo el proceso dentro de LinkedIn.
+ - [Simplyhired](https://www.simplyhired.es/): Diseñada para facilitar a las empresas la contratación de nuevos empleados. Podemos buscar trabajos por zona geográfica o por simili
  - [Indeed Job Search](https://www.indeed.es/)
  - [Glassdoor](https://www.glassdoor.es)
  - [LinkUp](https://www.linkup.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA1NjA5NjMsMTUyOTU5NjkzMF19
+eyJoaXN0b3J5IjpbLTg0Mjc4NTkwNCwxNTI5NTk2OTMwXX0=
 -->
