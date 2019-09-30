@@ -12,14 +12,16 @@ permalink: encontrar-trabajo
 
 # Cómo encontrar trabajo a través de Internet
 
-En la red existen múltiples sitios donde poder encontrar trabajos, especialmente relacionados con el mundo digital.
+En la red existen múltiples sitios donde poder encontrar trabajos, especialmente relacionados con el mundo digital aunque no son la excepción.
 
-A continuación os dejo una serie de portales especializados en trabajos
+A continuación os dejo una serie de portales especializados en trabajos donde podremos 
 
- - LinkedIn
- - Simplyhired
+ - [LinkedIn](https://www.linkedin.com/)
+ - [Simplyhired](https://www.simplyhired.es/)
  - [Indeed Job Search](https://www.indeed.es/)
+ - [Glassdoor](https://www.glassdoor.es)
+ - [LinkUp](https://www.linkup.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjU0Mzk5MjAsMTUyOTU5NjkzMF19
+eyJoaXN0b3J5IjpbMTU0MDY3NDIxNywxNTI5NTk2OTMwXX0=
 -->
