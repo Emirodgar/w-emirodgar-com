@@ -22,7 +22,9 @@ Para ello he utilizado principalmente las redes sociales. Aunque he probado la m
 
 ## Más de 7,5k seguidores en LinkedIn y 4,5k en Twitter
 
-Aunque es difícil **cualificar la calidad de nuestros seguidores**, sumando ambas redes estoy en torno a los 15k seguidores. Así han evolucionado mis redes sociales en los últimos años. 
+Aunque es difícil **cualificar la calidad de nuestros seguidores**, me parece interesante monitorizar la evolución de seguidores. Se trata de información que nos permite saber si seguimos generando interés a la gente y si nuestros perfiles aportan valor.
+
+Sumando ambas redes estoy en torno a los 15k seguidores. Así han evolucionado mis redes sociales en los últimos años. 
 
 
 <amp-iframe width="400" height="200"
@@ -32,7 +34,7 @@ frameborder="0"
 src="https://emirodgar.com/publicaciones/influencer-seo.html"></amp-iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwODU5NDY4LDUzNDIwMDAyOCwxNTE3Mj
-UzMTc0LDY1MTczODk3MywtMTQ3NTQwOTA4NiwtODY4ODkxMjE2
-XX0=
+eyJoaXN0b3J5IjpbMTU2Nzc1MzIwMywyMzA4NTk0NjgsNTM0Mj
+AwMDI4LDE1MTcyNTMxNzQsNjUxNzM4OTczLC0xNDc1NDA5MDg2
+LC04Njg4OTEyMTZdfQ==
 -->
