@@ -16,6 +16,12 @@ customjs:
 
 # Influencer SEO
 
+Desde que descrubrí el mundo del SEO siempre me ha gustado compartir debates e información con amigos y profesionales del sector. 
+
+Para ello he utilizado principalmente las redes sociales. Aunque he probado la mayoría, al final me he decantado por las que me han parecido más efectivas en cuanto a valor y relación; LinkedIn y Twitter.
+
+## Cerca de 15k s
+
 Así han evolucionado mis redes sociales en los últimos años. Participo de forma activa en LinkedIn y Twitter.
 
 
@@ -26,6 +32,7 @@ frameborder="0"
 src="https://emirodgar.com/publicaciones/influencer-seo.html"></amp-iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MjAwMDI4LDE1MTcyNTMxNzQsNjUxNz
-M4OTczLC0xNDc1NDA5MDg2LC04Njg4OTEyMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ1NTQ0NjMwNiw1MzQyMDAwMjgsMTUxNz
+I1MzE3NCw2NTE3Mzg5NzMsLTE0NzU0MDkwODYsLTg2ODg5MTIx
+Nl19
 -->
