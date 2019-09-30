@@ -28,13 +28,13 @@ Sumando ambas redes estoy en torno a los 15k seguidores. Así han evolucionado m
 
 
 <amp-iframe width="400" height="200"
-sandbox="allow-scripts allow-same-origin"
+sandbox="allow-scripts"
 layout="responsive"
 frameborder="0"
 src="../publicaciones/influencer-seo.html"></amp-iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA0MzMzMDMsMjMwODU5NDY4LDUzND
-IwMDAyOCwxNTE3MjUzMTc0LDY1MTczODk3MywtMTQ3NTQwOTA4
-NiwtODY4ODkxMjE2XX0=
+eyJoaXN0b3J5IjpbLTEyNTczMTY4NDYsLTE0OTA0MzMzMDMsMj
+MwODU5NDY4LDUzNDIwMDAyOCwxNTE3MjUzMTc0LDY1MTczODk3
+MywtMTQ3NTQwOTA4NiwtODY4ODkxMjE2XX0=
 -->
