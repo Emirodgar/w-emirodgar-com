@@ -14,14 +14,14 @@ permalink: encontrar-trabajo
 
 En la red existen múltiples sitios donde poder encontrar trabajos, especialmente relacionados con el mundo digital aunque no son la excepción.
 
-A continuación os dejo una serie de portales especializados en trabajos donde podremos 
+A continuación os dejo una serie de portales especializados en trabajos donde podremos encontrar grandes ofertas. Los listados suelen estar actualizados y ofrecen un gran detalle.
 
- - [LinkedIn](https://www.linkedin.com/)
+ - [LinkedIn](https://www.linkedin.com/): Con más de 500 millones de usuarios registrados es el lugar ideal para relacionarse con tu sector y buscar grandes oportunidades. Cada día se publican cientos de o
  - [Simplyhired](https://www.simplyhired.es/)
  - [Indeed Job Search](https://www.indeed.es/)
  - [Glassdoor](https://www.glassdoor.es)
  - [LinkUp](https://www.linkup.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDY3NDIxNywxNTI5NTk2OTMwXX0=
+eyJoaXN0b3J5IjpbLTE4NzA1NjA5NjMsMTUyOTU5NjkzMF19
 -->
