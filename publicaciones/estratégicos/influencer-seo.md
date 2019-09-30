@@ -18,8 +18,9 @@ Así han evolucionado mis redes sociales en los últimos años. Participo de for
 sandbox="allow-scripts allow-same-origin"
 layout="responsive"
 frameborder="0"
-src="../influencer-seo.html"></amp-iframe>
+src="publicaciones/influencer-seo.html"></amp-iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU0MDkwODYsLTg2ODg5MTIxNl19
+eyJoaXN0b3J5IjpbNjUxNzM4OTczLC0xNDc1NDA5MDg2LC04Nj
+g4OTEyMTZdfQ==
 -->
