@@ -77,9 +77,21 @@ Interesante el artículo que desmonta las [tácticas chinas en redes sociales pa
 ## Cómo mantenernos al día
 
 Excelente recopilación de los mejores [podcasts relacionados con marketing digital](https://cypressnorth.com/47-best-digital-marketing-podcasts/). Están en inglés pero la calidad de muchos de ellos lo merece.
+
+## Brighton SEO
+
+Ha tenido lugar el CrightonSEO
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1177165732427247621">
+</amp-twitter>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDg3MDIwMyw1NTQ4NTYzODcsLTIxMj
-U3Njc4MDgsNDkwNTg3MDA5LC0xMDU1MzAzNTMxLC05NjU2NjEz
-NjEsMjA0NDYwMDE4NCwxMjU2NTI0MDQwLDEwMzgwNDYwMDcsMz
-Q2MTQ5ODY5LDEwOTU2MjY1NjZdfQ==
+eyJoaXN0b3J5IjpbNjIwMjY2MzM0LC04MTA4NzAyMDMsNTU0OD
+U2Mzg3LC0yMTI1NzY3ODA4LDQ5MDU4NzAwOSwtMTA1NTMwMzUz
+MSwtOTY1NjYxMzYxLDIwNDQ2MDAxODQsMTI1NjUyNDA0MCwxMD
+M4MDQ2MDA3LDM0NjE0OTg2OSwxMDk1NjI2NTY2XX0=
 -->
