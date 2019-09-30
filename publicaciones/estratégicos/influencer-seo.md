@@ -13,14 +13,12 @@ permalink: influencer-seo
 # Influencer SEO
 
 Así han evolucionado mis redes sociales en los últimos años. Participo de forma activa en LinkedIn y Twitter.
-
-```
 <amp-iframe width="400" height="200"
 sandbox="allow-scripts allow-same-origin"
 layout="responsive"
 frameborder="0"
 src="../influencer-seo.html"></amp-iframe>
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzI1Mzg3Nl19
+eyJoaXN0b3J5IjpbLTg2ODg5MTIxNl19
 -->
