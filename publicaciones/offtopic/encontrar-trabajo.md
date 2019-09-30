@@ -22,6 +22,8 @@ A continuación os dejo una serie de portales especializados en trabajos donde p
  - [Glassdoor](https://www.glassdoor.es):  Las empresas pagan por poner sus anuncios de búsqueda de trabajadores por lo que se puede considerar que aquellas ofertas que encajen con nuestros perfiles son serias y reales. También nos ofrece información sobre las empresas (pueden crearse un perfil) por lo que obtendremos muchos detalles de nuestro posible futuro lugar de trabajo.
  - [LinkUp](https://www.linkup.com/): Sólo acepta ofertas de trabajo de empresas finales, es decir, elimina cualquier intermediario por lo que garantiza que las publicaciones son reales y de calidad.
 
+Aunque aún no tiene una gran cartera de empresas que lo utilice, [Google Jobs](https://jobs.google.com/) puede abrirse paso en un futuro cercano y entrar en el TOP5 antes mencionado por lo que convendría no perderlo de vista.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1NTQ1NjUzLDE1Mjk1OTY5MzBdfQ==
+eyJoaXN0b3J5IjpbLTE4OTIzNDAwNDYsMTUyOTU5NjkzMF19
 -->
