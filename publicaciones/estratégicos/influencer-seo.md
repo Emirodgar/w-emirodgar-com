@@ -31,10 +31,10 @@ Sumando ambas redes estoy en torno a los 15k seguidores. Así han evolucionado m
 sandbox="allow-scripts allow-same-origin"
 layout="responsive"
 frameborder="0"
-src="https://emirodgar.com/publicaciones/influencer-seo.html"></amp-iframe>
+src="../publicaciones/influencer-seo.html"></amp-iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Nzc1MzIwMywyMzA4NTk0NjgsNTM0Mj
-AwMDI4LDE1MTcyNTMxNzQsNjUxNzM4OTczLC0xNDc1NDA5MDg2
-LC04Njg4OTEyMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0OTA0MzMzMDMsMjMwODU5NDY4LDUzND
+IwMDAyOCwxNTE3MjUzMTc0LDY1MTczODk3MywtMTQ3NTQwOTA4
+NiwtODY4ODkxMjE2XX0=
 -->
