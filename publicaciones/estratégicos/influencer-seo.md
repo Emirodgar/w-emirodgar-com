@@ -20,9 +20,9 @@ Desde que descrubrí el mundo del SEO siempre me ha gustado compartir debates e 
 
 Para ello he utilizado principalmente las redes sociales. Aunque he probado la mayoría, al final me he decantado por las que me han parecido más efectivas en cuanto a valor y relación; LinkedIn y Twitter.
 
-## Cerca de 15k s
+## Cerca de 15k seguidores
 
-Así han evolucionado mis redes sociales en los últimos años. Participo de forma activa en LinkedIn y Twitter.
+Así han evolucionado mis redes sociales en los últimos años. 
 
 
 <amp-iframe width="400" height="200"
@@ -32,7 +32,7 @@ frameborder="0"
 src="https://emirodgar.com/publicaciones/influencer-seo.html"></amp-iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTQ0NjMwNiw1MzQyMDAwMjgsMTUxNz
-I1MzE3NCw2NTE3Mzg5NzMsLTE0NzU0MDkwODYsLTg2ODg5MTIx
-Nl19
+eyJoaXN0b3J5IjpbLTE1MzA0MTY4NDUsNTM0MjAwMDI4LDE1MT
+cyNTMxNzQsNjUxNzM4OTczLC0xNDc1NDA5MDg2LC04Njg4OTEy
+MTZdfQ==
 -->
