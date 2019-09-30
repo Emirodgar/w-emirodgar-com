@@ -18,9 +18,9 @@ Así han evolucionado mis redes sociales en los últimos años. Participo de for
 sandbox="allow-scripts allow-same-origin"
 layout="responsive"
 frameborder="0"
-src="publicaciones/influencer-seo.html"></amp-iframe>
+src="https://emirodgar.com/publicaciones/influencer-seo.html"></amp-iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNzM4OTczLC0xNDc1NDA5MDg2LC04Nj
-g4OTEyMTZdfQ==
+eyJoaXN0b3J5IjpbMTUxNzI1MzE3NCw2NTE3Mzg5NzMsLTE0Nz
+U0MDkwODYsLTg2ODg5MTIxNl19
 -->
