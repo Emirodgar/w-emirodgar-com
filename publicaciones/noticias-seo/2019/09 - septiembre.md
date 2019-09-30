@@ -25,6 +25,15 @@ Google ha lanzado dos nuevos atributos para los enlaces que se unen al nofollow:
 
 Ninguno ayudará a **indexar o descubrir nuevas URLs** (de momento) y permitirá a Google conocer más acerca de la naturaleza de los diferentes backlinks por lo que será él quién decida si aportan valor para el posicionamiento o no.
 
+Y como ya vaticiné en su momento, muy posiblemente la siguiente versión de Worpdress incluirá el "ugc" en los comentarios.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1171488591748296705">
+</amp-twitter>
+
 ## ¿Qué es el SEO?
 
 Interesante debate en Twitter en el que se relativiza el trabajo SEO estableciendo que se trata de un **problema de ejecución y no de conocimientos**. Quizá éste sea el comentario con el que estoy más de acuerdo.
@@ -90,8 +99,9 @@ Ha tenido lugar el BrightonSEO. Deepcrawl ha hecho un pequeño resumen de todas 
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjgxOTI3MSwtODEwODcwMjAzLDU1ND
-g1NjM4NywtMjEyNTc2NzgwOCw0OTA1ODcwMDksLTEwNTUzMDM1
-MzEsLTk2NTY2MTM2MSwyMDQ0NjAwMTg0LDEyNTY1MjQwNDAsMT
-AzODA0NjAwNywzNDYxNDk4NjksMTA5NTYyNjU2Nl19
+eyJoaXN0b3J5IjpbLTE3NDIwNjA1MTUsMTIyNjgxOTI3MSwtOD
+EwODcwMjAzLDU1NDg1NjM4NywtMjEyNTc2NzgwOCw0OTA1ODcw
+MDksLTEwNTUzMDM1MzEsLTk2NTY2MTM2MSwyMDQ0NjAwMTg0LD
+EyNTY1MjQwNDAsMTAzODA0NjAwNywzNDYxNDk4NjksMTA5NTYy
+NjU2Nl19
 -->
