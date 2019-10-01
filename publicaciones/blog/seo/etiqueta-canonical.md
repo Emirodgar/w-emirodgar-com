@@ -9,6 +9,9 @@ permalink: etiqueta-canonica
 
 --- 
 
+# Etiqueta canónica
+
+El contenido duplicado siempre ha sido un problema para el SEO. Disponer de múltiples URLs para ofrecer el mismo acceso provocaba que nuestra estrategia orgánica no fuera 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMzAyNjcwXX0=
+eyJoaXN0b3J5IjpbLTQ5NjY5NDYyNCwyODEzMDI2NzBdfQ==
 -->
