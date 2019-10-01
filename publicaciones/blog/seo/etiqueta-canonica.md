@@ -45,6 +45,8 @@ También se puede implementar como encabezado HTTP. Si quisiéramos establecer e
 ```
 Link: <http://emirodgar.com/informe.pdf>; rel="canonical"
 ```
+
+Hay otras opciones como aplicar una redirección 301 (para dejar únicamente una versión o establecerlo a nivel del Sitemap XML.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzMyNzA1NTksNjY0ODgwNDczXX0=
+eyJoaXN0b3J5IjpbLTUxNzAyNDU4Nyw2NjQ4ODA0NzNdfQ==
 -->
