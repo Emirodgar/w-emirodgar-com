@@ -22,7 +22,12 @@ A menudo se tiende a pensar que **el contendido duplicado lo generan dos página
 ## ¿Qué es la etiqueta canónica?
 
 Es la forma que tenemos de indicarle a Google cuál será la página canónica que debe rastrear e indexar con mayor frecuencia.
+
+## Beneficios de usar la etiqueta canónica
+
+- Definimos qué URL queremos que sea rastreada e indexada.
+- Unificamos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTU3MjI2OSwtMTM0NzM0OTQ5NCwxOD
+eyJoaXN0b3J5IjpbLTk5MzEyOTU2NiwtMTM0NzM0OTQ5NCwxOD
 k1NzgwMTM2LDI4MTMwMjY3MF19
 -->
