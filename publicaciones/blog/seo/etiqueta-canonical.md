@@ -31,7 +31,9 @@ Es la forma que tenemos de indicarle a Google cuál será la página canónica q
 - Para ahorrar tiempo de rastreo del robot de búsqueda en páginas duplicadas o con poco valor.
 
 ## Cómo implementar la etiqueta canonical
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NzQ1NTU0LC0xMzQ3MzQ5NDk0LDE4OT
-U3ODAxMzYsMjgxMzAyNjcwXX0=
+eyJoaXN0b3J5IjpbMTI2MzcxOTI3OCwyMjk3NDU1NTQsLTEzND
+czNDk0OTQsMTg5NTc4MDEzNiwyODEzMDI2NzBdfQ==
 -->
