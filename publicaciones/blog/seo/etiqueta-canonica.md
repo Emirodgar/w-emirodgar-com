@@ -17,7 +17,7 @@ Si Google encuentra varias URLs duplicadas, **establecerá una de ellas como can
 
 ## ¿Qué es contenido duplicado?
 
-A menudo se tiende a pensar que **el contendido duplicado lo generan dos páginas idénticas** pero esto no tiene porqué ser así. Aunque exista diferencia entre el contenido, si es poca o no es relevante, Google las considerará como duplicadas y por lo tanto **definirá una como canónica** frente al resto.
+A menudo se tiende a pensar que **el contendido duplicado lo generan dos páginas idénticas** pero esto no tiene porqué ser así. Aunque exista diferencia entre el contenido, si no es relevante o es pequeña, Google las considerará como duplicadas y por lo tanto **definirá una como canónica** frente al resto.
 
 ## ¿Qué es la etiqueta canónica?
 
@@ -48,6 +48,6 @@ Link: <http://emirodgar.com/informe.pdf>; rel="canonical"
 
 Hay otras opciones como aplicar una redirección 301 (para dejar únicamente una versión o establecerlo a nivel del Sitemap XML.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMjE0ODMxLC01MTcwMjQ1ODcsNjY0OD
-gwNDczXX0=
+eyJoaXN0b3J5IjpbLTIwMDAyOTA0NTgsLTUxNzAyNDU4Nyw2Nj
+Q4ODA0NzNdfQ==
 -->
