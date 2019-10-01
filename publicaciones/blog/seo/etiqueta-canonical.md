@@ -26,8 +26,10 @@ Es la forma que tenemos de indicarle a Google cuál será la página canónica q
 ## Beneficios de usar la etiqueta canónica
 
 - Definimos qué URL queremos que sea rastreada e indexada.
-- Unificamos
+- Unificamos enlaces y popularidad en una única URL que mejorará por tanto su posicionamiento web.
+- Para facilitar los análisis en plataformas como Google Search Console
+- Para ahorrar tiempo de rastreo del robot de búsqueda en páginas duplicadas o con poco valor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzEyOTU2NiwtMTM0NzM0OTQ5NCwxOD
+eyJoaXN0b3J5IjpbMTE3NDczNTU5NywtMTM0NzM0OTQ5NCwxOD
 k1NzgwMTM2LDI4MTMwMjY3MF19
 -->
