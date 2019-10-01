@@ -34,10 +34,11 @@ Es la forma que tenemos de indicarle a Google cuál será la página canónica q
 
 Aunque hay varias formas de indicar a Google que una URL es canónica, la más común suele ser añadie una etiqueta dentro de la cabecera de la página.
  
-```
+```htm
 <link rel="canonical" href="https://emirodgar.com" />
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTY0OTc2OSwyMjk3NDU1NTQsLTEzND
-czNDk0OTQsMTg5NTc4MDEzNiwyODEzMDI2NzBdfQ==
+eyJoaXN0b3J5IjpbLTk2MDA3MTEzOCwtMjU1NjQ5NzY5LDIyOT
+c0NTU1NCwtMTM0NzM0OTQ5NCwxODk1NzgwMTM2LDI4MTMwMjY3
+MF19
 -->
