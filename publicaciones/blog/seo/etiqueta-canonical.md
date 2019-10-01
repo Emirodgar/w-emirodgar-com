@@ -17,8 +17,12 @@ Si Google encuentra varias URLs duplicadas, establecerá una como canónica (pre
 
 ## ¿Qué es contenido duplicado?
 
-A menudo se tiende a pensar que son dos páginas idénticas pero esto no tiene porqué ser así
+A menudo se tiende a pensar que **son dos páginas idénticas** pero esto no tiene porqué ser así. Si la diferencia es poca o no es relevante, Google las considerará como duplicadas y por lo tanto **definirá una como canónica**.
+
+## ¿Qué es la etiqueta canónica?
+
+Es la forma que tenemos 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzIyNTMxLDE4OTU3ODAxMzYsMjgxMz
-AyNjcwXX0=
+eyJoaXN0b3J5IjpbLTEzNDczNDk0OTQsMTg5NTc4MDEzNiwyOD
+EzMDI2NzBdfQ==
 -->
