@@ -38,9 +38,13 @@ Aunque hay varias formas de indicar a Google que una URL es canónica, la más c
 <link rel="canonical" href="https://emirodgar.com" />
 ```
 
-También se puede implementar como encabezado HTTP
+También se puede implementar como encabezado HTTP. Si quisiéramos establecer el atributo canonical para algo que no fuera una página web, por ejemplo un PDF, tendríamos que hacer uso de los encabezados HTTP.
+
+```http
+Link: <http://emirodgar.com/informe.pdf>; rel="canonical"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTY3NzIxNiwtMjU1NjQ5NzY5LDIyOT
-c0NTU1NCwtMTM0NzM0OTQ5NCwxODk1NzgwMTM2LDI4MTMwMjY3
-MF19
+eyJoaXN0b3J5IjpbLTExMzk4NzI4OTksLTI1NTY0OTc2OSwyMj
+k3NDU1NTQsLTEzNDczNDk0OTQsMTg5NTc4MDEzNiwyODEzMDI2
+NzBdfQ==
 -->
