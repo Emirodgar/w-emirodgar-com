@@ -29,7 +29,9 @@ Es la forma que tenemos de indicarle a Google cuál será la página canónica q
 - Unificamos enlaces y popularidad en una única URL que mejorará por tanto su posicionamiento web.
 - Para facilitar los análisis en plataformas como Google Search Console
 - Para ahorrar tiempo de rastreo del robot de búsqueda en páginas duplicadas o con poco valor.
+
+## Cómo implementar la etiqueta canonical
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDczNTU5NywtMTM0NzM0OTQ5NCwxOD
-k1NzgwMTM2LDI4MTMwMjY3MF19
+eyJoaXN0b3J5IjpbMjI5NzQ1NTU0LC0xMzQ3MzQ5NDk0LDE4OT
+U3ODAxMzYsMjgxMzAyNjcwXX0=
 -->
