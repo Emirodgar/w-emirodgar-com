@@ -32,8 +32,12 @@ Es la forma que tenemos de indicarle a Google cuál será la página canónica q
 
 ## Cómo implementar la etiqueta canonical
 
-
+Aunque hay varias formas de indicar a Google que una URL es canónica, la más común suele ser añadie una etiqueta dentro de la cabecera de la página.
+ 
+```
+<link rel="canonical" href="https://emirodgar.com" />
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzcxOTI3OCwyMjk3NDU1NTQsLTEzND
+eyJoaXN0b3J5IjpbLTI1NTY0OTc2OSwyMjk3NDU1NTQsLTEzND
 czNDk0OTQsMTg5NTc4MDEzNiwyODEzMDI2NzBdfQ==
 -->
