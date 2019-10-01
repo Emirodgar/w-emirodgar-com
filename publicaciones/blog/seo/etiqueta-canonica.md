@@ -13,11 +13,11 @@ permalink: etiqueta-canonica
 
 El **contenido duplicado** siempre ha sido un problema para el SEO. Disponer de múltiples URLs para ofrecer el mismo acceso provoca que nuestra estrategia orgánica no esté consolidada y no seamos competitivos.
 
-Si Google encuentra varias URLs duplicadas, establecerá una como canónica (predeterminada) y será ésta la que rastree con mayor frecuencia. Las demás quedarán en un segundo plano y, aunque es posible que sí las rastree, lo más seguro es que no posicionen.
+Si Google encuentra varias URLs duplicadas, **establecerá una de ellas como canónica** (predeterminada) y será ésta la que rastree con mayor frecuencia. Las demás quedarán en un segundo plano y, aunque es posible que sí las rastree, lo más seguro es que no posicionen.
 
 ## ¿Qué es contenido duplicado?
 
-A menudo se tiende a pensar que **el contendido duplicado lo generan dos páginas idénticas** pero esto no tiene porqué ser así. Aunque exista diferente entre el contenido, si es poca o no es relevante, Google las considerará como duplicadas y por lo tanto **definirá una como canónica** frente al resto.
+A menudo se tiende a pensar que **el contendido duplicado lo generan dos páginas idénticas** pero esto no tiene porqué ser así. Aunque exista diferencia entre el contenido, si es poca o no es relevante, Google las considerará como duplicadas y por lo tanto **definirá una como canónica** frente al resto.
 
 ## ¿Qué es la etiqueta canónica?
 
@@ -48,5 +48,6 @@ Link: <http://emirodgar.com/informe.pdf>; rel="canonical"
 
 Hay otras opciones como aplicar una redirección 301 (para dejar únicamente una versión o establecerlo a nivel del Sitemap XML.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzAyNDU4Nyw2NjQ4ODA0NzNdfQ==
+eyJoaXN0b3J5IjpbMzcwMjE0ODMxLC01MTcwMjQ1ODcsNjY0OD
+gwNDczXX0=
 -->
