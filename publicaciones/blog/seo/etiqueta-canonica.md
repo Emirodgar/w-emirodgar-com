@@ -21,7 +21,9 @@ A menudo se tiende a pensar que **el contendido duplicado lo generan dos página
 
 ## ¿Qué es la etiqueta canónica?
 
-Es la forma que tenemos de indicarle a Google cuál será la página canónica que debe rastrear e indexar con mayor frecuencia.
+Es la forma que tenemos de indicarle a Google cuál será la página canónica que debe rastrear e indexar con mayor frecuencia delegando a un segundo lugar el resto de posibles duplicadas.
+
+**¿Es necesario que cada página tenga establecida una canónica?** no es necesario pero en ciertos casos sí es conveniente que lo establezcamos para asegurar un rastreo e indexación óptimo de las URLs de valor.
 
 ## Beneficios de usar la etiqueta canónica
 
@@ -44,5 +46,5 @@ También se puede implementar como encabezado HTTP. Si quisiéramos establecer e
 Link: <http://emirodgar.com/informe.pdf>; rel="canonical"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk4NzI4OTldfQ==
+eyJoaXN0b3J5IjpbNjY0ODgwNDczXX0=
 -->
