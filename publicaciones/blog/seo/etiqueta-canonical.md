@@ -15,8 +15,10 @@ El **contenido duplicado** siempre ha sido un problema para el SEO. Disponer de 
 
 Si Google encuentra varias URLs duplicadas, establecerá una como canónica (predeterminada) y será ésta la que rastree con mayor frecuencia. Las demás quedarán en un segundo plano y, aunque es posible que sí las rastree, lo más seguro es que no posicionen.
 
-¿?
+## ¿Qué es contenido duplicado?
+
+A menudo se tiende a pensar que son dos páginas idénticas pero esto no tiene porqué ser así
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzg4NjExNCwxODk1NzgwMTM2LDI4MT
-MwMjY3MF19
+eyJoaXN0b3J5IjpbMTE4MzIyNTMxLDE4OTU3ODAxMzYsMjgxMz
+AyNjcwXX0=
 -->
