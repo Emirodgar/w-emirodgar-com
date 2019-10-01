@@ -38,9 +38,9 @@ Aunque hay varias formas de indicar a Google que una URL es canónica, la más c
 <link rel="canonical" href="https://emirodgar.com" />
 ```
 
-Ta
+También se puede implementar como encabezado HTTP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMxMjI0ODgsLTI1NTY0OTc2OSwyMj
-k3NDU1NTQsLTEzNDczNDk0OTQsMTg5NTc4MDEzNiwyODEzMDI2
-NzBdfQ==
+eyJoaXN0b3J5IjpbMTI1NTY3NzIxNiwtMjU1NjQ5NzY5LDIyOT
+c0NTU1NCwtMTM0NzM0OTQ5NCwxODk1NzgwMTM2LDI4MTMwMjY3
+MF19
 -->
