@@ -35,15 +35,19 @@ Por ejemplo, un escenario correcto sería el siguiente:
 
 Apreciamos claramente que la parte en común es la relevante por la que queremos posicionar y que la relación es clara y directa.
 
-Si por el contrario tenemos lo siguiente
+Veamos otro escenario en el que el término por el que queremos posicionar no es muy grande, por ejemplo el blog.
 
 |Título| H1  |
 |--|--|
 | **Blog** - Emirodgar (Consultor SEO) | **Blog** |
 
-En este caso el término por el que queremos posicionar representa una pequeña parte de la relación por lo que ésta está más diluida. Mi recomendación en estos casos suele ser retirar la marca del título o reducirla. Aquí podría valor poner un "Emirodgar" eliminando la parte de "(Consultor SEO)".
+En este caso el término por el que queremos posicionar representa una pequeña parte de la relación por lo que ésta está más diluida. Mi recomendación en estos casos suele ser retirar la marca del título o reducirla. Un título válido para este caso podría ser:
+
+```
+<title>Blog - Emirodgar</title>
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEyNTc1NjEsMTgwMjg4MDgyNF19
+eyJoaXN0b3J5IjpbLTExMDc2MjM1NTksMTgwMjg4MDgyNF19
 -->
