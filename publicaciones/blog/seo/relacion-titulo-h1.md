@@ -29,28 +29,28 @@ A menudo el título y el H1 comparten la misma información salvo que en el tít
 
 Por ejemplo, un escenario correcto sería el siguiente:
 
-```
+```html
 <title>Relación entre título y H1 - Emirodgar (Consultor SEO)</title>
 <h1>Relación entre título y H1</h1>
 ```
 
-Apreciamos claramente que la parte en común es la relevante por la que queremos posicionar y que la relación es clara y directa.
+Apreciamos claramente que la parte en común es la relevante por la que queremos posicionar y que **la relación es clara y directa**.
 
 Veamos otro escenario en el que el término por el que queremos posicionar no es muy grande, por ejemplo el blog.
 
-```
+```html
 <title>Blog - Emirodgar (Consultor SEO)</title>
 <h1>Blog</h1>
 ```
 
 En este caso el término por el que queremos posicionar representa una pequeña parte de la relación por lo que ésta está más diluida. Mi recomendación en estos casos suele ser retirar la marca del título o reducirla. Un título válido para este caso podría ser:
 
-```
+```html
 <title>Blog - Emirodgar</title>
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzQ5MDMzOSwtMTEwNzYyMzU1OSwxOD
-AyODgwODI0XX0=
+eyJoaXN0b3J5IjpbLTE2OTQ4OTM5MTIsLTkyNzQ5MDMzOSwtMT
+EwNzYyMzU1OSwxODAyODgwODI0XX0=
 -->
