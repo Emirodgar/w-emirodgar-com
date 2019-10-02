@@ -29,17 +29,19 @@ A menudo el título y el H1 comparten la misma información salvo que en el tít
 
 Por ejemplo, un escenario correcto sería el siguiente:
 
-|Título| H1  |
-|--|--|
-| **Relación entre título y H1** - Emirodgar (Consultor SEO) | **Relación entre título y H1** |
+```
+<title>Relación entre título y H1 - Emirodgar (Consultor SEO)</title>
+<h1>Relación entre título y H1</h1>
+```
 
 Apreciamos claramente que la parte en común es la relevante por la que queremos posicionar y que la relación es clara y directa.
 
 Veamos otro escenario en el que el término por el que queremos posicionar no es muy grande, por ejemplo el blog.
 
-|Título| H1  |
-|--|--|
-| **Blog** - Emirodgar (Consultor SEO) | **Blog** |
+```
+<title>Blog - Emirodgar (Consultor SEO)</title>
+<h1>Blog</h1>
+```
 
 En este caso el término por el que queremos posicionar representa una pequeña parte de la relación por lo que ésta está más diluida. Mi recomendación en estos casos suele ser retirar la marca del título o reducirla. Un título válido para este caso podría ser:
 
@@ -49,5 +51,6 @@ En este caso el término por el que queremos posicionar representa una pequeña 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDc2MjM1NTksMTgwMjg4MDgyNF19
+eyJoaXN0b3J5IjpbLTkyNzQ5MDMzOSwtMTEwNzYyMzU1OSwxOD
+AyODgwODI0XX0=
 -->
