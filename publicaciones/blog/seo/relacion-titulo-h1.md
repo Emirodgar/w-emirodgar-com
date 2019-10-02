@@ -19,7 +19,7 @@ El título o *meta title* es un elemento importante para cualquier [estrategia S
   data-tweetid="1179287675653820416">
 </amp-twitter>
 
-En el caso de que ambos existan en una página la principal recomendación que podríamos dar sería que mantuvieran una alta relación en torno al término o términos por los que queremos posicionar.
+En el caso de que ambos existan en una página, la principal recomendación que podríamos dar sería que mantuvieran una alta **relación en torno al término o términos por los que queremos posicionar**.
 
 ## Potenciar la relación entre ambos elementos
 
@@ -45,5 +45,5 @@ En este caso el término por el que queremos posicionar representa una pequeña 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxODMwNDgsMTgwMjg4MDgyNF19
+eyJoaXN0b3J5IjpbLTIyODM0NjQwNiwxODAyODgwODI0XX0=
 -->
