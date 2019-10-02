@@ -10,7 +10,14 @@ permalink: relacion-titulo-h1
 
 # Relación entre el título y el H1 de una página para favorecer el SEO
 
-El título o *meta title* es un elemento importante para cualquier [estrategia SEO](https://emirodgar.com/estrategia-seo). El encabezado H1 (*header*) también es importante aunque no crucial.
+El título o *meta title* es un elemento importante para cualquier [estrategia SEO](https://emirodgar.com/estrategia-seo). El encabezado H1 (*header*) también es importante aunque no crucial, como ha comentado John Mueller en Twitter.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1179287675653820416">
+</amp-twitter>
 
 En el caso de que ambos existan en una página la principal recomendación que podríamos dar sería que mantuvieran una alta relación en torno al término o términos por los que queremos posicionar.
 
@@ -36,16 +43,7 @@ Si por el contrario tenemos lo siguiente
 
 En este caso el término por el que queremos posicionar representa una pequeña parte de la relación por lo que ésta está más diluida. Mi recomendación en estos casos suele ser retirar la marca del título o reducirla. Aquí podría valor poner un "Emirodgar" eliminando la parte de "(Consultor SEO)".
 
-## El encabezado H1 no es un elemento obligatorio
 
-John Mueller lo ha confirmado a través de Twitter, disponer de un H1 no hará que nuestro posicionamiento se dispare hasta la primera posición, aún así, yo siempre recomendaré incluirlo como parte de una estrategia SEO que busque una página optimizada.
-
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1179287675653820416">
-</amp-twitter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDgzNjM5NywxODAyODgwODI0XX0=
+eyJoaXN0b3J5IjpbMjYxODMwNDgsMTgwMjg4MDgyNF19
 -->
