@@ -23,7 +23,7 @@ En el caso de que ambos existan en una página, la principal recomendación que 
 
 ## Potenciar la relación entre ambos elementos
 
-Para mí tanto el título como el H1 son elementos clave para facilitar tanto a buscadores como a usuarios de qué trata la página. Por ello siempre recomiendo que exista una relación básica entre ambos.
+Para mí tanto el título como el H1 son elementos clave para facilitar  a buscadores como a usuarios de qué trata la página. Por ello siempre recomiendo que exista una relación básica entre ambos.
 
 A menudo el título y el H1 comparten la misma información salvo que en el título se suele añadir la marca. Esta es una práctica muy extendida y correcta salvo cuando los términos que queremos posicionar son pequeños o muy cortos.
 
@@ -45,5 +45,5 @@ En este caso el término por el que queremos posicionar representa una pequeña 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODM0NjQwNiwxODAyODgwODI0XX0=
+eyJoaXN0b3J5IjpbLTE4MTA4NzA2NzgsMTgwMjg4MDgyNF19
 -->
