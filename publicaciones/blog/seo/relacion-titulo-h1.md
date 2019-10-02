@@ -38,14 +38,14 @@ En este caso el término por el que queremos posicionar representa una pequeña 
 
 ## El encabezado H1 no es un elemento obligatorio
 
-John Mueller lo ha confirmado a través de Twitter, disponer de un H1 no hará que nuestro posicionamiento se dispare hasta la primera posición, aún así, yo siempre recomendaré incluirlo como parte de cualquier estrategia SEO que busque una página optimizada
+John Mueller lo ha confirmado a través de Twitter, disponer de un H1 no hará que nuestro posicionamiento se dispare hasta la primera posición, aún así, yo siempre recomendaré incluirlo como parte de una estrategia SEO que busque una página optimizada.
 
 <amp-twitter 
   width="375"
   height="472"
   layout="responsive"
-  data-tweetid="1171488591748296705">
+  data-tweetid="1179287675653820416">
 </amp-twitter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NzA2NDUxLDE4MDI4ODA4MjRdfQ==
+eyJoaXN0b3J5IjpbLTU5MDgzNjM5NywxODAyODgwODI0XX0=
 -->
