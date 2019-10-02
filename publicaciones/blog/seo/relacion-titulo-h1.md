@@ -8,11 +8,18 @@ permalink: relacion-titulo-h1
 
 --- 
 
-# Relación entre el título y el H1 de una página
+# Relación entre el título y el H1 de una página para favorecer el SEO
 
-El título o meta title es un elemento muy importante para las estrategia SEO. El encabezado H1 (*header*) también es importante aunque no crucial.
+El título o *meta title* es un elemento importante para cualquier [estrategia SEO](https://emirodgar.com/estrategia-seo). El encabezado H1 (*header*) también es importante aunque no crucial.
 
-En el caso de que ambos existan en una página la principal recomendación que podríamos dar sería que estuvieran
+En el caso de que ambos existan en una página la principal recomendación que podríamos dar sería que mantuvieran una alta relación en torno al término o términos por los
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1171488591748296705">
+</amp-twitter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg1NTg1NjNdfQ==
+eyJoaXN0b3J5IjpbODkxNDIzMTkzXX0=
 -->
