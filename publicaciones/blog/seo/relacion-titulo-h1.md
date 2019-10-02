@@ -26,7 +26,15 @@ Por ejemplo, un escenario correcto sería el siguiente:
 |--|--|
 | Relación entre título y H1 - Emirodgar (Consultor SEO) | Relación entre título y H1 |
 
-Apreciamos claramente que la parte en común es la relevante por la que queremos posicionar y que la relación
+Apreciamos claramente que la parte en común es la relevante por la que queremos posicionar y que la relación es clara y directa.
+
+Si por el contrario tenemos lo siguiente:
+
+|Título| H1  |
+|--|--|
+| Blog - Emirodgar (Consultor SEO) | Blog |
+
+En este caso el término por el que queremos posicionar 
 
 ## El encabezado H1 no es un elemento obligatorio
 
@@ -39,5 +47,5 @@ John Mueller lo ha confirmado a través de Twitter, disponer de un H1 no hará q
   data-tweetid="1171488591748296705">
 </amp-twitter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDMyMDA4NDcsMTgwMjg4MDgyNF19
+eyJoaXN0b3J5IjpbMTU1Mjg0MzU5MSwxODAyODgwODI0XX0=
 -->
