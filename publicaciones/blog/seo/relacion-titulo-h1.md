@@ -28,7 +28,7 @@ Por ejemplo, un escenario correcto sería el siguiente:
 
 Apreciamos claramente que la parte en común es la relevante por la que queremos posicionar y que la relación es clara y directa.
 
-Si por el contrario tenemos lo siguiente:
+Si por el contrario tenemos lo siguiente
 
 |Título| H1  |
 |--|--|
@@ -47,5 +47,5 @@ John Mueller lo ha confirmado a través de Twitter, disponer de un H1 no hará q
   data-tweetid="1171488591748296705">
 </amp-twitter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Mjg0MzU5MSwxODAyODgwODI0XX0=
+eyJoaXN0b3J5IjpbNjkzODA2MDE1LDE4MDI4ODA4MjRdfQ==
 -->
