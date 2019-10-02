@@ -16,7 +16,9 @@ En el caso de que ambos existan en una página la principal recomendación que p
 
 ## Potenciar la relación entre ambos elementos
 
-Para mí tanto el título como el H1 son elementos clave para trasladar tanto a buscadores como a usuarios de qué trata la página que están visitando.
+Para mí tanto el título como el H1 son elementos clave para facilitar tanto a buscadores como a usuarios de qué trata la página. Por ello siempre recomiendo que exista una relación básica entre ambos.
+
+
 
 ## El encabezado H1 no es un elemento obligatorio
 
@@ -29,5 +31,5 @@ John Mueller lo ha confirmado a través de Twitter, disponer de un H1 no hará q
   data-tweetid="1171488591748296705">
 </amp-twitter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjc1NDE1NF19
+eyJoaXN0b3J5IjpbOTQ0MDU2NTg0XX0=
 -->
