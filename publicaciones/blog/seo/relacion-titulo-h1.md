@@ -34,7 +34,7 @@ Si por el contrario tenemos lo siguiente
 |--|--|
 | Blog - Emirodgar (Consultor SEO) | Blog |
 
-En este caso el término por el que queremos posicionar 
+En este caso el término por el que queremos posicionar representa una pequeña parte de la relación por lo que ésta está más diluida. Mi recomendación en estos casos suele ser retirar la marca del título o reducirla. Aquí podría valor poner un "Emirodgar" eliminando la parte de "(Consultor SEO)".
 
 ## El encabezado H1 no es un elemento obligatorio
 
@@ -47,5 +47,5 @@ John Mueller lo ha confirmado a través de Twitter, disponer de un H1 no hará q
   data-tweetid="1171488591748296705">
 </amp-twitter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzODA2MDE1LDE4MDI4ODA4MjRdfQ==
+eyJoaXN0b3J5IjpbNjg2NzA2NDUxLDE4MDI4ODA4MjRdfQ==
 -->
