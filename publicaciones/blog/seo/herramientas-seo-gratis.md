@@ -61,6 +61,7 @@ Las herramientas de SEO técnico están orientadas a evaluar aspectos técnicos 
 - [https://varvy.com/](https://varvy.com/)
 - [http://home.snafu.de/tilman/xenulink.html](http://home.snafu.de/tilman/xenulink.html)
 - [https://www.wappalyzer.com/](https://www.wappalyzer.com/)
+- [https://www.rapidtables.com/web/tools/redirect-generator.html](https://www.rapidtables.com/web/tools/redirect-generator.html)
 
 ## <a name="contenidos"></a>Keyword research / Contenidos
 
@@ -180,7 +181,7 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Checkbot (analizar tiempos de carga)](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MT
-Y5NDU0OSwzMDk4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYx
-XX0=
+eyJoaXN0b3J5IjpbMjcwMjI0NzAzLC0xMjU1NjU1MzksLTU5MD
+A3MTU0MywtNDE2OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1Njcs
+MTM0NTM4NzE2MV19
 -->
