@@ -125,6 +125,7 @@ Un negocio local tendrá un comportamiento ligeramente diferente a otro con un �
 - [https://whitespark.ca/google-review-link-generator/](https://whitespark.ca/google-review-link-generator/)
 - [https://www.brightlocal.com/local-search-results-checker/](https://www.brightlocal.com/local-search-results-checker/)
 - [https://moz.com/local/search](https://moz.com/local/search)
+- [https://serps.com/tools/google-search-location/](https://serps.com/tools/google-search-location/)
 
 ## <a name="analitica-web"></a>Analítica web / medición resultados
 
@@ -176,6 +177,6 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Checkbot (analizar tiempos de carga)](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjk0NTQ5LDMwOTgyOTk0MSwxNDAwND
-Y4NTY3LDEzNDUzODcxNjFdfQ==
+eyJoaXN0b3J5IjpbLTU5MDA3MTU0MywtNDE2OTQ1NDksMzA5OD
+I5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2MV19
 -->
