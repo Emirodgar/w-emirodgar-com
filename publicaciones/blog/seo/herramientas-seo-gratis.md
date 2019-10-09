@@ -136,6 +136,7 @@ Tan importante es trabajar el SEO de una página como poder medir el impacto de 
 - [https://search.google.com/search-console/about?hl=es](https://search.google.com/search-console/about?hl=es)
 - [https://keyword-hero.com/](https://keyword-hero.com/)
 - [https://sheetsformarketers.com/](https://sheetsformarketers.com/)
+- [https://feinternational.com/website-penalty-indicator/](https://feinternational.com/website-penalty-indicator/)
 
 ## <a name="conversion"></a>Optimizar la conversión
 
@@ -157,6 +158,7 @@ Las herramientas a continuación monitorizan millones de keywords relevantes por
 - [https://algoroo.com/](https://algoroo.com/)
 - [https://www.accuranker.com/grump](https://www.accuranker.com/grump)
 - [https://cognitiveseo.com/signals/](https://cognitiveseo.com/signals/)
+- [https://feinternational.com/website-penalty-indicator/](https://feinternational.com/website-penalty-indicator/)
 
 ## <a name="extensiones-navegador"></a>Extensiones de navegador SEO
 
@@ -178,7 +180,7 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Checkbot (analizar tiempos de carga)](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI0ODY0OTksLTU5MDA3MTU0MywtND
-E2OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2
-MV19
+eyJoaXN0b3J5IjpbLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MT
+Y5NDU0OSwzMDk4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYx
+XX0=
 -->
