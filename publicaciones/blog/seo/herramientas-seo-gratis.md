@@ -105,6 +105,7 @@ Antes de ejecutar una estrategia de SEO offpage es conveniente conocer nuestro p
 - [https://www.canirank.com](https://www.canirank.com)
 - [https://www.google.com/webmasters/tools/disavow-links-main](https://www.google.com/webmasters/tools/disavow-links-main)
 - [https://moz.com/link-explorer](https://moz.com/link-explorer)
+- [https://www.seoweather.com/domain-authority-checker/](https://www.seoweather.com/domain-authority-checker/)
 
 ## <a name="mobile-seo"></a>Mobile SEO
 
@@ -177,6 +178,7 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Checkbot (analizar tiempos de carga)](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDA3MTU0MywtNDE2OTQ1NDksMzA5OD
-I5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2MV19
+eyJoaXN0b3J5IjpbLTE4MDI0ODY0OTksLTU5MDA3MTU0MywtND
+E2OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2
+MV19
 -->
