@@ -85,6 +85,7 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [https://buzzsumo.com/](https://buzzsumo.com/)
 - [https://www.webfx.com/seo-tools/faqfox/](https://www.webfx.com/seo-tools/faqfox/)
 - [https://soovle.com/](https://soovle.com/)
+- [http://seo.danzambonini.com/](http://seo.danzambonini.com/)
 
 ## <a name="datos-estructurados"></a>Datos estructurados
 
@@ -174,6 +175,6 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Checkbot (analizar tiempos de carga)](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NT
-M4NzE2MV19
+eyJoaXN0b3J5IjpbLTIwOTE2MDA3NzMsMzA5ODI5OTQxLDE0MD
+A0Njg1NjcsMTM0NTM4NzE2MV19
 -->
