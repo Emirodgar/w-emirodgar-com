@@ -9,7 +9,7 @@ permalink: herramientas-seo-gratis
 
 ---
 
-# Herramientas SEO gratis
+# Herramientas SEO gratuitas
 
 Hace ya tiempo compartí mi listado de [recursos para marketing digital](recursos-marketing-digital/). En él incluía multitud de herramientas, tanto de pago como gratuitas para abordar cualquier problemática dentro de una [estrategia SEO](estrategia-seo).
 
@@ -182,7 +182,7 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Panguin (penalizaciones Google)](https://barracuda.digital/panguin-seo-tool/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTEyNzM3LC0xMjU1NjU1MzksLTU5MD
-A3MTU0MywtNDE2OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1Njcs
-MTM0NTM4NzE2MV19
+eyJoaXN0b3J5IjpbLTEyNjI1OTA1MDEsMTk4NTEyNzM3LC0xMj
+U1NjU1MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMzA5ODI5OTQx
+LDE0MDA0Njg1NjcsMTM0NTM4NzE2MV19
 -->
