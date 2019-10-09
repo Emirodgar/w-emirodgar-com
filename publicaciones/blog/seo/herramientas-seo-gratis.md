@@ -179,9 +179,10 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [ChomeDev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 - [SEO Minion](https://seominion.com/)
 - [Checkbot (analizar tiempos de carga)](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
+- [Panguin (penalizaciones Google)](https://barracuda.digital/panguin-seo-tool/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMjI0NzAzLC0xMjU1NjU1MzksLTU5MD
+eyJoaXN0b3J5IjpbMTk4NTEyNzM3LC0xMjU1NjU1MzksLTU5MD
 A3MTU0MywtNDE2OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1Njcs
 MTM0NTM4NzE2MV19
 -->
