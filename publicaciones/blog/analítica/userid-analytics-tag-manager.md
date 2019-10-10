@@ -46,6 +46,8 @@ Ahora debemos recuperar el ID de usuario en GTM para lo cual necesitaremos crear
  - **Tipo**: variable de capa de datos.
 
 ## Paso 4 - Enviar el ID de usuario a Analytics
+
+En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA5MjQ3MDddfQ==
+eyJoaXN0b3J5IjpbMjAyMDMzODE5N119
 -->
