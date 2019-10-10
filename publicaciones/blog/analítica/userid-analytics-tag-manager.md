@@ -30,10 +30,10 @@ Cuando tengamos un identificador único para cada usuario que ha accedido a nues
 
 ```javascript
 <script type="text/JavaScript"> 
- window.dataLayer = window.dataLayer || [];
- dataLayer.push {( 'erg_userID': 'XXXXXX' )} 
- </script>
-<!-- Código base de Google Tag Manager -->
+  window.dataLayer = window.dataLayer || [];
+  dataLayer.push {( 'erg_userID': 'XXXXXX' )} 
+</script>
+
 ```
 
 Es importante que enviemos la información del identificador del usuario antes del código base de Google Tag Manager.
@@ -53,5 +53,5 @@ Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor re
 
 > Usamos {{nombre}} para hacer referencia a una variable creada en el entorno de GTM.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM5OTU1NzNdfQ==
+eyJoaXN0b3J5IjpbMzM5NjI0NDY3LC0xMzAzOTk1NTczXX0=
 -->
