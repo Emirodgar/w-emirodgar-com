@@ -18,8 +18,12 @@ Google Analytics utiliza el [ID de cliente](https://developers.google.com/analyt
 
 Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).
 
+## Configurar el User ID en Analytics a través de Tag Manager
+
+Dado que soy gran fan de Tag Manager
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTcwMjgyMTBdfQ==
+eyJoaXN0b3J5IjpbMTA1MDk3MTI2N119
 -->
