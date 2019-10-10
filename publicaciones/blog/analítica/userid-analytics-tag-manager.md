@@ -22,10 +22,10 @@ Para solucionar esta configuración por defecto y poder unificar todas las sesio
 
 ## Configurar el User ID en Analytics a través de Tag Manager
 
-Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos identificar 
+Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única a cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han logueado en nuestro sistema.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA5NTQxMDRdfQ==
+eyJoaXN0b3J5IjpbNDg3OTYwNzY4XX0=
 -->
