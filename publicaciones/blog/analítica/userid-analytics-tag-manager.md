@@ -24,19 +24,26 @@ Para solucionar esta configuración por defecto y poder unificar todas las sesio
 
 Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 
+## Paso 2 - Enviar el ID a la capa de datos
+
 Cuando tengamos un identificador único para cada usuario que ha accedido a nuestro sistema, debemos enviarlo a la capa de datos de la siguiente forma:
 
 ```javascript
 <script type="text/JavaScript"> 
  window.dataLayer = window.dataLayer || [];
- dataLayer.push {( 'erguserID': '' )} 
+ dataLayer.push {( 'erg_userID': 'XXXXXX' )} 
  </script>
+<!-- Código base de Google Tag Manager -->
 ```
 
-##
+Es importante que enviemos la información del identificador del usuario antes del código base de Google Tag Manager.
+
+## Paso 3- Recuperar el ID en Tag Manager
+
+Ahora debemos recuperar el ID de usuario en GTM para lo cual necesitaremos crear una variable
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODY0MjE1MF19
+eyJoaXN0b3J5IjpbMTEzODQ3ODU0M119
 -->
