@@ -28,7 +28,7 @@ Dado que se trata de un seguimiento por usuario es requisito indispensable que p
 
 Cuando tengamos un identificador único para cada usuario que ha accedido a nuestro sistema, debemos enviarlo a la capa de datos de la siguiente forma:
 
-```javascript
+```js
 <script type="text/JavaScript"> 
   window.dataLayer = window.dataLayer || [];
   dataLayer.push {( 'erg_userID': 'XXXXXX' )} 
@@ -55,6 +55,6 @@ Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor re
 {{ erg_userID }}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzk2NjQ2NiwxNjY5NjcwOTY4LDI0ND
+eyJoaXN0b3J5IjpbMjA1MDMxMzY5NCwxNjY5NjcwOTY4LDI0ND
 A5MzY4OCwtMTMwMzk5NTU3M119
 -->
