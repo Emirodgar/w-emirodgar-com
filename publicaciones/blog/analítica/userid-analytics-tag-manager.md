@@ -12,11 +12,14 @@ permalink: userid-analytics-tag-manager
 
 # Configurar el User ID de Google Analytics a través de Google Tag Manager
 
-Google Analytics utiliza el [ID de cliente](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id?hl=es#getting_the_client_id_from_the_cookie) (ClientID) para identificar a través de una cookie a los usuarios que acceden a nuestra página web.
+Google Analytics utiliza el [ID de cliente](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id?hl=es#getting_the_client_id_from_the_cookie) (Client ID) para identificar a los usuarios que acceden a nuestra página web.
 
 > Este valor se almacena a nivel de cookie por lo que si un usuario utiliza varios dispositivos para acceder a nuestro sitio web (móvil, tablet y ordenador) tendremos tres cookies diferentes aún siendo la misma persona.
 
-[https://support.google.com/tagmanager/answer/4565987](https://support.google.com/tagmanager/answer/4565987)
+Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI5OTM4MDNdfQ==
+eyJoaXN0b3J5IjpbLTE1NTcwMjgyMTBdfQ==
 -->
