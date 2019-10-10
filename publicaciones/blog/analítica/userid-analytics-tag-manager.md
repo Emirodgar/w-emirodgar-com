@@ -45,8 +45,7 @@ Ahora debemos recuperar el ID de usuario en GTM para lo cual necesitaremos crear
  - **Nombre**: el mismo que hemos utilizado en el envío a la capa de datos. En el ejemplo anterior sería: erg_userID.
  - **Tipo**: variable de capa de datos.
 
-## Paso 4 - Recuperar el ID en Tag Manager
-
+## Paso 4 - Enviar el ID de usuario a Analytics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzgxNDM5NzFdfQ==
+eyJoaXN0b3J5IjpbLTE4NTA5MjQ3MDddfQ==
 -->
