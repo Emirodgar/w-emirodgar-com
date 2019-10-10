@@ -38,12 +38,15 @@ Cuando tengamos un identificador único para cada usuario que ha accedido a nues
 
 Es importante que enviemos la información del identificador del usuario antes del código base de Google Tag Manager.
 
-## Paso 3- Recuperar el ID en Tag Manager
+## Paso 3 - Recuperar el ID en Tag Manager
 
-Ahora debemos recuperar el ID de usuario en GTM para lo cual necesitaremos crear una variable
+Ahora debemos recuperar el ID de usuario en GTM para lo cual necesitaremos crear una variable con las siguientes características:
 
+ - **Nombre**: el mismo que hemos utilizado en el envío a la capa de datos. En el ejemplo anterior sería: erg_userID.
+ - **Tipo**: variable de capa de datos.
 
+## Paso 4 - Recuperar el ID en Tag Manager
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODQ3ODU0M119
+eyJoaXN0b3J5IjpbLTIwMzgxNDM5NzFdfQ==
 -->
