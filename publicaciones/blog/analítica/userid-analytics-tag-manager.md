@@ -49,7 +49,8 @@ Ahora debemos recuperar el ID de usuario en GTM para lo cual necesitaremos crear
 
 En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones > Campos para configurar".
 
-Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado: ```{{erg_userID}}```
+Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado: ```{{erg_userID}}```.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0MDkzNjg4LC0xMzAzOTk1NTczXX0=
+eyJoaXN0b3J5IjpbLTEzNTcwNzE2MzQsMjQ0MDkzNjg4LC0xMz
+AzOTk1NTczXX0=
 -->
