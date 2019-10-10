@@ -51,10 +51,8 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado: 
 
-```
-{{ erg_userID }}
-```
+``{{ erg_userID }}``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDMxMzY5NCwxNjY5NjcwOTY4LDI0ND
-A5MzY4OCwtMTMwMzk5NTU3M119
+eyJoaXN0b3J5IjpbMzgzODAzMTg0LDIwNTAzMTM2OTQsMTY2OT
+Y3MDk2OCwyNDQwOTM2ODgsLTEzMDM5OTU1NzNdfQ==
 -->
