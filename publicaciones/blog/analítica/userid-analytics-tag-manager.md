@@ -12,8 +12,9 @@ permalink: userid-analytics-tag-manager
 
 # Configurar el User ID de Google Analytics a través de Google Tag Manager
 
-Hace tiempo que 
+Google Analytics utiliza el Client ID para identificar de forma única a través de la cookie a los usuarios que acceden a nuestra página web.
+
 [https://support.google.com/tagmanager/answer/4565987](https://support.google.com/tagmanager/answer/4565987)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzEzNjI5ODVdfQ==
+eyJoaXN0b3J5IjpbLTEwMjU3NjEyODddfQ==
 -->
