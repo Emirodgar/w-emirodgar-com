@@ -16,14 +16,16 @@ Google Analytics utiliza el [ID de cliente](https://developers.google.com/analyt
 
 > Este valor se almacena a nivel de cookie por lo que si un usuario utiliza varios dispositivos para acceder a nuestro sitio web (móvil, tablet y ordenador) tendremos tres cookies diferentes aún siendo la misma persona.
 
-Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).
+Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics:
+
+> Asociar varias sesiones de usuario y actividades a un ID único, lo que permite obtener un recuento de usuarios más preciso, analizar la experiencia de los usuarios que han iniciado sesión y comprender el comportamiento de estos en todos los dispositivos.
 
 ## Configurar el User ID en Analytics a través de Tag Manager
 
-Dado que soy gran fan de Tag Manager
+Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos identificar 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDk3MTI2N119
+eyJoaXN0b3J5IjpbLTE5MjA5NTQxMDRdfQ==
 -->
