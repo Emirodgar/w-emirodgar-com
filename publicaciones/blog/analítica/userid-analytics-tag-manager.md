@@ -20,12 +20,14 @@ Para solucionar esta configuración por defecto y poder unificar todas las sesio
 
 > Asociar varias sesiones de usuario y actividades a un ID único, lo que permite obtener un recuento de usuarios más preciso, analizar la experiencia de los usuarios que han iniciado sesión y comprender el comportamiento de estos en todos los dispositivos.
 
-## Configurar el User ID en Analytics a través de Tag Manager
+## Paso 1 - Identificar a nuestros 
 
-Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única a cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han logueado en nuestro sistema.
+Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
+
+##
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3OTYwNzY4XX0=
+eyJoaXN0b3J5IjpbLTE2Mjc3OTM1MDBdfQ==
 -->
