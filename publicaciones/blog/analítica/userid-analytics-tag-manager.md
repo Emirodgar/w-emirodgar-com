@@ -20,14 +20,23 @@ Para solucionar esta configuración por defecto y poder unificar todas las sesio
 
 > Asociar varias sesiones de usuario y actividades a un ID único, lo que permite obtener un recuento de usuarios más preciso, analizar la experiencia de los usuarios que han iniciado sesión y comprender el comportamiento de estos en todos los dispositivos.
 
-## Paso 1 - Identificar a nuestros 
+## Paso 1 - Identificar a nuestros usuarios
 
 Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
+
+Cuando tengamos un identificador único para cada usuario que ha accedido a nuestro sistema, debemos enviarlo a la capa de datos de la siguiente forma:
+
+```javascript
+<script type="text/JavaScript"> 
+ window.dataLayer = window.dataLayer || [];
+ dataLayer.push {( 'erguserID': '' )} 
+ </script>
+```
 
 ##
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc3OTM1MDBdfQ==
+eyJoaXN0b3J5IjpbLTczODY0MjE1MF19
 -->
