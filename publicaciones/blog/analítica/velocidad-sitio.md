@@ -14,7 +14,9 @@ permalink: velocidad-sitio-analytics
 
 Para páginas pequeñas suele ser común que la métrica relacionada con la velocidad del sitio aparezca a cero. Eso no significa que dicha página tenga algún problema, simplemente que la muestra que ha analizado no es suficiente.
 
-En la [documentación oficial](https://support.google.com/analytics/answer/1205784?topic=1120718&hl=es) se especifica que 
+En la [documentación oficial](https://support.google.com/analytics/answer/1205784?topic=1120718&hl=es) se especifica que la muestra usada para calcular estos valores es de tan sólo el 1%.
+
+> De forma predeterminada, las métricas de tiempo en la página se basan en una muestra de datos del 1 % de los usuarios del sitio web
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQxNDg1OV19
+eyJoaXN0b3J5IjpbLTE0NjI0MjkxODNdfQ==
 -->
