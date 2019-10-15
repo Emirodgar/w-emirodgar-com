@@ -18,7 +18,9 @@ En la [documentación oficial](https://support.google.com/analytics/answer/12057
 
 > De forma predeterminada, las métricas de tiempo en la página se basan en una muestra de datos del 1 % de los usuarios del sitio web
 
-Si tenemos un número relativamente pequeño de visitantes diarios a su sitio, como 100,000 o menos, es posible que desee ajustar el muestreo a una tasa mayor. Esto proporcionará una mayor granularidad para el tiempo de carga de la página y otras métricas de velocidad del sitio.
+Si tenemos un número relativamente pequeño de visitantes diarios a nuestra web, será recomendable **ajustar el muestreo a una tasa mayor**. Esto proporcionará una mayor granularidad para el tiempo de carga de la página y otras métricas relacioandas con la velocidad del sitio.
+
+Para ello bastará con establecer el parámetro siteSpeedSampleRate a un valor superior al 1 que trae por defecto.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg4ODQ1NTFdfQ==
+eyJoaXN0b3J5IjpbMTM2OTkyOTg5M119
 -->
