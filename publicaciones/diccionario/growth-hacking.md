@@ -11,7 +11,7 @@ permalink: growth-hacking
 ---
 # Growth Hacking 
 
-
+El término Growth Hacking es a menudo utilizado 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwODE0Nzg1XX0=
+eyJoaXN0b3J5IjpbLTIwNDQzMDYyOF19
 -->
