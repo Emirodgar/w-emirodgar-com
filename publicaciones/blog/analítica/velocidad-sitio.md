@@ -17,6 +17,8 @@ Para páginas pequeñas suele ser común que la métrica relacionada con la velo
 En la [documentación oficial](https://support.google.com/analytics/answer/1205784?topic=1120718&hl=es) se especifica que la muestra usada para calcular estos valores es de tan sólo el 1%.
 
 > De forma predeterminada, las métricas de tiempo en la página se basan en una muestra de datos del 1 % de los usuarios del sitio web
+
+Si tenemos un número relativamente pequeño de visitantes diarios a su sitio, como 100,000 o menos, es posible que desee ajustar el muestreo a una tasa mayor. Esto proporcionará una mayor granularidad para el tiempo de carga de la página y otras métricas de velocidad del sitio.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI0MjkxODNdfQ==
+eyJoaXN0b3J5IjpbLTIwMTg4ODQ1NTFdfQ==
 -->
