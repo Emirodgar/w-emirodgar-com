@@ -20,7 +20,10 @@ En la [documentación oficial](https://support.google.com/analytics/answer/12057
 
 Si tenemos un número relativamente pequeño de visitantes diarios a nuestra web, será recomendable **ajustar el muestreo a una tasa mayor**. Esto proporcionará una mayor granularidad para el tiempo de carga de la página y otras métricas relacioandas con la velocidad del sitio.
 
-Para ello bastará con establecer el parámetro siteSpeedSampleRate a un valor superior al 1 que trae por defecto.
+Para ello bastará con establecer el parámetro [siteSpeedSampleRate](https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference#siteSpeedSampleRate) a un valor superior al 1 que trae por defecto.
+
+    ga('create',  'UA-XXXX-Y',  {'siteSpeedSampleRate':  10});
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTkyOTg5M119
+eyJoaXN0b3J5IjpbLTE1MzkyNDE3ODNdfQ==
 -->
