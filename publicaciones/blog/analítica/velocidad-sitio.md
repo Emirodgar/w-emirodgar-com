@@ -22,8 +22,9 @@ Si tenemos un número relativamente pequeño de visitantes diarios a nuestra web
 
 Para ello bastará con establecer el parámetro [siteSpeedSampleRate](https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference#siteSpeedSampleRate) a un valor superior al 1 que trae por defecto.
 
-    ga('create',  'UA-XXXX-Y',  {'siteSpeedSampleRate':  10});
-
+````js
+ga('create',  'UA-XXXX-Y',  {'siteSpeedSampleRate':  10});
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkyNDE3ODNdfQ==
+eyJoaXN0b3J5IjpbLTQ3MTYyODg5MF19
 -->
