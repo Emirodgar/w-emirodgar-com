@@ -11,7 +11,9 @@ permalink: growth-hacking
 ---
 # Growth Hacking 
 
-El término Growth Hacking es a menudo utilizado 
+El término Growth Hacking es a menudo utilizado para cualquier estrategia cuyo **objetivo principal sea el crecimiento**.
+
+The goal of growth hacking strategies is generally to acquire as many users or customers as possible while spending as little as possible. The term “growth hacking” was coined by Sean Ellis, founder and CEO of GrowthHackers, in 2010.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQzMDYyOF19
+eyJoaXN0b3J5IjpbMjAyMDQ5NjYxOF19
 -->
