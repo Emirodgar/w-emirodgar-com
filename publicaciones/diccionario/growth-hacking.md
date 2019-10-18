@@ -40,8 +40,9 @@ La mejor forma de interiorizar algo es poniendo ejemplos.
 
 -   **Dropbox**: recompensa a sus usuarios si invitan a amigos que se conviertan en nuevos usuarios. Ha conseguido fidelizar y contar con el mayor equipo comercial posible: sus propios clientes.
 -   **AirBnB**: se apoyó en Craigslist para alcanzar a su público objetivo cuando éste no conocía la plataforma.
-- Facebook:
+- **Facebook**: Al importar tus contactos, si en algún momento se les mencionaba o etiquetaba, les enviaba un email para incitarles a registrarse y poder compartir ese momento.
+- **Gmail**: en el momento de su lanzamiento se hizo a través de invitaciones, lo cuál despertó tal interés por parecer un servicio "exclusivo" que fue un gran éxito.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NTk1OTc3LDE0OTQ1ODgyMjksLTE1Nj
+eyJoaXN0b3J5IjpbMzUzNjUyMDQ2LDE0OTQ1ODgyMjksLTE1Nj
 UwMDg0OTcsMjAyMDQ5NjYxOF19
 -->
