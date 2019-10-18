@@ -34,14 +34,32 @@ Como ya viene siendo norma general en los últimos meses, volvemos a experimenta
 
 Gary Illes ha participado en una [ronda de preguntas y respuestas en San Francisco](https://www.kevin-indig.com/my-notes-from-the-gary-illes-qa-bay-area-search/).  Siempre es interesante conocer opiniones de primera mano de trabajadores de Google.
 
+Los vídeos se cuelan en 
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1181209788769882112">
+</amp-twitter>
+
+
 ## Ley europea de derechos de autor
 
 Google [explica en este artículo](https://support.google.com/webmasters/answer/9476993?hl=es) cómo se han adaptado a esta ley europea y cómo afecta a los medios de comunicación. 
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1184409201201864705">
+</amp-twitter>
 
 ## SearchLove Londres 2019
 
 De todas las presentaciones, la que más me ha gustado ha sido la de Diane acerca de los [errores comunes que cometemos al trabajar el SEO](https://www.slideshare.net/DistilledSEO/searchlove-london-2019-will-critchlow-misunderstood-concepts-at-the-heart-of-seo-182776330).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzExNjM0LDEyNjI2ODk4NDcsLTUwMj
-AzMjgxOCwtMTg0NjQ2NDM3MSwyMTIxODE4MTQ2XX0=
+eyJoaXN0b3J5IjpbMTIyNjkyOTM0NywxMTg3MTE2MzQsMTI2Mj
+Y4OTg0NywtNTAyMDMyODE4LC0xODQ2NDY0MzcxLDIxMjE4MTgx
+NDZdfQ==
 -->
