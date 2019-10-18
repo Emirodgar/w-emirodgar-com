@@ -27,13 +27,21 @@ Un Growth Hacker debe por tanto saber cómo establecer prioridades de crecimient
 
 ## Estrategias Growth Hacking 
 
-Cada negocio tendrá su propio punto de partida por lo que no habrá dos estrategias iguales, no obstante, los pilares que debemos tocar siempre se basarán en lo
+Cada negocio tendrá su propio punto de partida por lo que no habrá dos estrategias iguales, no obstante, los pilares que debemos tocar siempre se basarán en los mismos principios:
 
 -  Base técnica 
 -  Marketing de contenidos
 -  Optimización del producto
 -  Publicidad
+
+## Ejemplos de estrategias Growth Hacking 
+
+La mejor forma de interiorizar algo es poniendo ejemplos. 
+
+-   **Dropbox**: recompensa a sus usuarios si invitan a amigos que se conviertan en nuevos usuarios. Ha conseguido fidelizar y contar con el mayor equipo comercial posible
+-   Hotmail, which appended a line to each outgoing email encouraging people to sign up for a new account
+-   AirBnB, which used Craigslist to find and market to people looking for affordable accommodation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2OTU3MDU5LDE0OTQ1ODgyMjksLTE1Nj
-UwMDg0OTcsMjAyMDQ5NjYxOF19
+eyJoaXN0b3J5IjpbMTA5ODE3MjA5MywxNDk0NTg4MjI5LC0xNT
+Y1MDA4NDk3LDIwMjA0OTY2MThdfQ==
 -->
