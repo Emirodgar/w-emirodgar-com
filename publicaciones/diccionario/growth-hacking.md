@@ -38,10 +38,10 @@ Cada negocio tendrá su propio punto de partida por lo que no habrá dos estrate
 
 La mejor forma de interiorizar algo es poniendo ejemplos. 
 
--   **Dropbox**: recompensa a sus usuarios si invitan a amigos que se conviertan en nuevos usuarios. Ha conseguido fidelizar y contar con el mayor equipo comercial posible
--   Hotmail, which appended a line to each outgoing email encouraging people to sign up for a new account
--   AirBnB, which used Craigslist to find and market to people looking for affordable accommodation
+-   **Dropbox**: recompensa a sus usuarios si invitan a amigos que se conviertan en nuevos usuarios. Ha conseguido fidelizar y contar con el mayor equipo comercial posible: sus propios clientes.
+-   **AirBnB**: se apoyó en Craigslist para alcanzar a su público objetivo cuando éste no conocía la plataforma.
+- Facebook:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODE3MjA5MywxNDk0NTg4MjI5LC0xNT
-Y1MDA4NDk3LDIwMjA0OTY2MThdfQ==
+eyJoaXN0b3J5IjpbNjU0NTk1OTc3LDE0OTQ1ODgyMjksLTE1Nj
+UwMDg0OTcsMjAyMDQ5NjYxOF19
 -->
