@@ -44,7 +44,7 @@ Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019
 
 He comenzado lanzando una primera versión de la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
 
-He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) (GSC) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
+He dado de alta el dominio en [Google Search Consolehttps://search.google.com/search-console) (GSC) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
 
 Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
@@ -61,12 +61,12 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
   width="981"
   height="357"
   layout="responsive">
-</amp-img>
+</amp-img>)
 
 He decidido añadir un blog para poder generar contenido de actualidad con cierta facilidad. Utilizo dos tecnologías: 
 
 - La parte principal de la web será *responsive* con HTML5 / CSS3
-- El blog estará bajo [AMP](https://www.ampproject.org). Quiero aprovechar esta funcionalidad de Google.
+- El blog estará bajo [AMPhttps://www.ampproject.org). Quiero aprovechar esta funcionalidad de Google.
 
 El hecho de usar el blog **únicamente con AMP** será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *canonical* a una versión normal.
 
@@ -77,20 +77,20 @@ Además del blog, gran parte del esfuerzo de febrero lo he concentrado en optimi
 Aunque soy consciente de que podría llegar a optimizar algo más, no he querido obsesionarme.
 
 <amp-img alt="Métricas usabilidad SEO web.dev del dominio emirodgar.com"
-  src="https://i.imgur.com/5sI2ybv.png"
+  src="](https://i.imgur.com/5sI2ybv.png"
   width="967"
   height="324"
   layout="responsive">
-</amp-img>
+</amp-img>)
 
 La parte de AMP - que será el blog- está muy optimizado a excepción de la accesibilidad, que es un aspecto que no momento no voy a trabajar pero que no descarto para los próximos meses. 
 
 <amp-img alt="Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP"
-  src="https://i.imgur.com/tcDllgb.png"
+  src="](https://i.imgur.com/tcDllgb.png"
   width="967"
   height="324"
   layout="responsive">
-</amp-img>
+</amp-img>)
 
 ## <a name="marzo"></a>Marzo: Más puertas de entrada
  
@@ -107,7 +107,7 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
 - Páginas relacionadas con **consultor SEO**
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
   -  [Asesor SEO](https://emirodgar.com/asesor-seo/)
-  -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca), [Argentina](https://emirodgar.com/consultor-seo/argentina)  y [México](https://emirodgar.com/consultor-seo/mexico)
+  -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca), [Argentina](https://emirodgar.com/consultor-seo/argentina)  y [Méxicohttps://emirodgar.com/consultor-seo/mexico)
   - [Casos de éxito de SEO](/casos-exito-seo)
  - Páginas para mejorar el enlazado interno
     -   [Mapa web](https://emirodgar.com/mapa-web)
@@ -131,11 +131,11 @@ De cara a poder posicionar por **consultor SEO** decidí crear varias páginas p
 Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
 
 <amp-img alt="consultor seo salamanca, emirodgar en segunda posición"
-  src="https://i.imgur.com/u3RGo9e.png"
+  src="](https://i.imgur.com/u3RGo9e.png"
   width="650"
   height="602"
   layout="responsive">
-</amp-img>
+</amp-img>)
 
 Sé que no es mi objetivo principal y que es un término sin mucha competencia pero es un buen comienzo.
 
@@ -143,6 +143,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDgzNzQ1MCwyMTc3OTk4MywtODA5NT
-gwNzA2XX0=
+eyJoaXN0b3J5IjpbLTY4MTA4NjA0NCwtNjc0ODM3NDUwLDIxNz
+c5OTgzLC04MDk1ODA3MDZdfQ==
 -->
