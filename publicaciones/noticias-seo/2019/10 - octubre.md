@@ -18,6 +18,12 @@ Comenzamos el mes con una noticia inquietante. Google liberó hace unos meses el
 
 Pues parece ser que hay [ciertas discrepancias entre su parseador y cómo realmente Googlebot lo interpreta](https://www.distilled.net/resources/googles-robotstxt-parser-is-misbehaving/). Esto podría derivar en serios problemas para las páginas si han basado directivas cruciales para el SEO en el parseador liberado por Google.
 
+## Google: actualizaciones y problemas
+
+Parece que ha habido movimiento en las SERPs y, sin anuncio oficial, en os mentideros digitales se comenta la posibilidad de un [nuevo cambio de algoritmo](https://www.seroundtable.com/google-search-ranking-algorithm-update-october-3rd-28321.html).
+
+1184594392264232960
+
 Gary Illes ha participado en una [ronda de preguntas y respuestas en San Francisco](https://www.kevin-indig.com/my-notes-from-the-gary-illes-qa-bay-area-search/).  Siempre es interesante conocer opiniones de primera mano de trabajadores de Google.
 
 ## Ley europea de derechos de autor
@@ -28,6 +34,6 @@ Google [explica en este artículo](https://support.google.com/webmasters/answer/
 
 De todas las presentaciones, la que más me ha gustado ha sido la de Diane acerca de los [errores comunes que cometemos al trabajar el SEO](https://www.slideshare.net/DistilledSEO/searchlove-london-2019-will-critchlow-misunderstood-concepts-at-the-heart-of-seo-182776330).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjY4OTg0NywtNTAyMDMyODE4LC0xOD
-Q2NDY0MzcxLDIxMjE4MTgxNDZdfQ==
+eyJoaXN0b3J5IjpbMTg1MDMyOTU5MSwxMjYyNjg5ODQ3LC01MD
+IwMzI4MTgsLTE4NDY0NjQzNzEsMjEyMTgxODE0Nl19
 -->
