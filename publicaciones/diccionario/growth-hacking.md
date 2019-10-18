@@ -42,7 +42,8 @@ La mejor forma de interiorizar algo es poniendo ejemplos.
 -   **AirBnB**: se apoyó en Craigslist para alcanzar a su público objetivo cuando éste no conocía la plataforma.
 - **Facebook**: Al importar tus contactos, si en algún momento se les mencionaba o etiquetaba, les enviaba un email para incitarles a registrarse y poder compartir ese momento.
 - **Gmail**: en el momento de su lanzamiento se hizo a través de invitaciones, lo cuál despertó tal interés por parecer un servicio "exclusivo" que fue un gran éxito.
+- **Hotmail**: añadía una línea a todos los emails enviados desde dicha plataforma con el mensaje "consigue tu cuenta Hotmail gratuita". Consiguieron 12 millones de usuarios en apenas 1 año.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzNjUyMDQ2LDE0OTQ1ODgyMjksLTE1Nj
+eyJoaXN0b3J5IjpbNDIzMTg1ODUzLDE0OTQ1ODgyMjksLTE1Nj
 UwMDg0OTcsMjAyMDQ5NjYxOF19
 -->
