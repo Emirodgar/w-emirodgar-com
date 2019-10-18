@@ -27,8 +27,13 @@ Un Growth Hacker debe por tanto saber cómo establecer prioridades de crecimient
 
 ## Estrategias Growth Hacking 
 
-Cada negocio tendrá su propio punto de partida por lo que no habrá dos estrategias iguales puesto que para poder crecer tendremos que jugar con los
+Cada negocio tendrá su propio punto de partida por lo que no habrá dos estrategias iguales, no obstante, los pilares que debemos tocar siempre se basarán en lo
+
+-  Base técnica 
+-  Marketing de contenidos
+-  Optimización del producto
+-  Publicidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDU4ODIyOSwtMTU2NTAwODQ5NywyMD
-IwNDk2NjE4XX0=
+eyJoaXN0b3J5IjpbMjM2OTU3MDU5LDE0OTQ1ODgyMjksLTE1Nj
+UwMDg0OTcsMjAyMDQ5NjYxOF19
 -->
