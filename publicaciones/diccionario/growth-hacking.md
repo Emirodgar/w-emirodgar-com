@@ -21,8 +21,14 @@ Una estrategia de Growth Hacking se basa por tanto en los siguientes pilares fun
 -   Propuesta de hipótesis y priorizar el trabajo en base a las últimas tendencias digitales.
 -   Analizar y probar de forma constante para determinar qué es lo que realmente funciona.
 
+## Growth Hacker
+
 Un Growth Hacker debe por tanto saber cómo establecer prioridades de crecimiento, identificar canales para la adquisición de nuevos clientes, medir el rendimiento de las acciones llevadas a cabo y seguir aportando medidas para escalar el crecimiento.
+
+## Estrategias Growth Hacking 
+
+Cada negocio tendrá su propio punto de partida por lo que no habrá dos estrategias iguales puesto que para poder crecer tendremos que jugar con los
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwNDQ1MDE2LC0xNTY1MDA4NDk3LDIwMj
-A0OTY2MThdfQ==
+eyJoaXN0b3J5IjpbMTQ5NDU4ODIyOSwtMTU2NTAwODQ5NywyMD
+IwNDk2NjE4XX0=
 -->
