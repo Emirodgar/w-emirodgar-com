@@ -1,5 +1,5 @@
 ---
-title: Noticias SEO - octubre2019
+title: Noticias SEO - octubre 2019
 description: Recopilación de noticias y enlaces de interés relacionados con el SEO y Marketing digital
 lang: es_ES
 author: Emirodgar
