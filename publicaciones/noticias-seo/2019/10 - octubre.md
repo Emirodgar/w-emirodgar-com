@@ -62,11 +62,11 @@ Google [explica en este artículo](https://support.google.com/webmasters/answer/
   data-tweetid="1184409201201864705">
 </amp-twitter>
 
-## SearchLove Londres 2019
+## SearchLove London 2019
 
-De todas las presentaciones, la que más me ha gustado ha sido la de Diane acerca de los [errores comunes que cometemos al trabajar el SEO](https://www.slideshare.net/DistilledSEO/searchlove-london-2019-will-critchlow-misunderstood-concepts-at-the-heart-of-seo-182776330).
+De [todas las presentaciones](https://www.distilled.net/resources/searchlove-london-2019-round-up/), la que más me ha gustado ha sido la de Diane acerca de los [errores comunes que cometemos al trabajar el SEO](https://www.slideshare.net/DistilledSEO/searchlove-london-2019-will-critchlow-misunderstood-concepts-at-the-heart-of-seo-182776330).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjU4NzE4ODcsNDUwNDM2NDg0LDExOD
-cxMTYzNCwxMjYyNjg5ODQ3LC01MDIwMzI4MTgsLTE4NDY0NjQz
-NzEsMjEyMTgxODE0Nl19
+eyJoaXN0b3J5IjpbLTE1NjAyODc5NSwtMTM2NTg3MTg4Nyw0NT
+A0MzY0ODQsMTE4NzExNjM0LDEyNjI2ODk4NDcsLTUwMjAzMjgx
+OCwtMTg0NjQ2NDM3MSwyMTIxODE4MTQ2XX0=
 -->
