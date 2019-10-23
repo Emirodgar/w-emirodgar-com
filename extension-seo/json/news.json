@@ -1,7 +1,12 @@
 {
   "data": [
-    [
-      "2Chrome bloqueará peticiones no seguras",
+	  [
+      "Nuevo problema de indexación en Google",
+      "A través de la cuenta oficial de Twitter han confirmado que vuelven a tener problemas relacionados con la indexación de nuevo contenido.",
+      "https://twitter.com/googlewmc/status/1184594392264232960"
+    ],
+	  [
+      "Chrome bloqueará peticiones no seguras",
       "Las nuevas versiones de Google Chrome bloquearán por defecto las peticiones no seguras (http) realizadas en un dominio con certificado de seguridad.",
       "https://security.googleblog.com/2019/10/no-more-mixed-messages-about-https_3.html"
     ],
