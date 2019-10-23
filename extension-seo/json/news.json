@@ -1,6 +1,11 @@
 {
-  "data": [ 
+  "data": [
     [
+      "2Chrome bloqueará peticiones no seguras",
+      "Las nuevas versiones de Google Chrome bloquearán por defecto las peticiones no seguras (http) realizadas en un dominio con certificado de seguridad.",
+      "https://security.googleblog.com/2019/10/no-more-mixed-messages-about-https_3.html"
+    ],
+	[
       "Las imágenes embebidas no cuentan como enlaces",
       "John confirma a través de Twitter que las imágenes nuestras que otros sitios utilicen en sus páginas (embebidas) no cuentan como enlaces para Google por lo tanto no afectan al SEO.",
       "https://twitter.com/JohnMu/status/1177165492454338567"
