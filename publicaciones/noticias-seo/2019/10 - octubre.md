@@ -41,7 +41,7 @@ Gary Illes ha participado en una [ronda de preguntas y respuestas en San Francis
   data-tweetid="1179655665075310592">
 </amp-twitter>
 
-Cuando hacemos disavow no sólo 
+Cuando hacemos disavow no sólo se deja de tener en cuenta el enlace para el posicionamiento web (popularidad) sino que también se elimina el contexto por asociación. 
 
 <amp-twitter 
   width="375"
@@ -75,7 +75,8 @@ Google [explica en este artículo](https://support.google.com/webmasters/answer/
 
 De [todas las presentaciones](https://www.distilled.net/resources/searchlove-london-2019-round-up/), la que más me ha gustado ha sido la de Diane acerca de los [errores comunes que cometemos al trabajar el SEO](https://www.slideshare.net/DistilledSEO/searchlove-london-2019-will-critchlow-misunderstood-concepts-at-the-heart-of-seo-182776330).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMzIzODU0LC0xNTYwMjg3OTUsLTEzNj
-U4NzE4ODcsNDUwNDM2NDg0LDExODcxMTYzNCwxMjYyNjg5ODQ3
-LC01MDIwMzI4MTgsLTE4NDY0NjQzNzEsMjEyMTgxODE0Nl19
+eyJoaXN0b3J5IjpbLTM5MDcwMTA0NywtMTU2MDI4Nzk1LC0xMz
+Y1ODcxODg3LDQ1MDQzNjQ4NCwxMTg3MTE2MzQsMTI2MjY4OTg0
+NywtNTAyMDMyODE4LC0xODQ2NDY0MzcxLDIxMjE4MTgxNDZdfQ
+==
 -->
