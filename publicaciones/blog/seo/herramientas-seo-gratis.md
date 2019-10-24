@@ -9,7 +9,7 @@ permalink: herramientas-seo-gratis
 
 ---
 
-# Herramientas SEO gratis
+# Herramientas SEO gratuitas
 
 Hace ya tiempo compartí mi listado de [recursos para marketing digital](recursos-marketing-digital/). En él incluía multitud de herramientas, tanto de pago como gratuitas para abordar cualquier problemática dentro de una [estrategia SEO](estrategia-seo).
 
@@ -61,6 +61,7 @@ Las herramientas de SEO técnico están orientadas a evaluar aspectos técnicos 
 - [https://varvy.com/](https://varvy.com/)
 - [http://home.snafu.de/tilman/xenulink.html](http://home.snafu.de/tilman/xenulink.html)
 - [https://www.wappalyzer.com/](https://www.wappalyzer.com/)
+- [https://www.rapidtables.com/web/tools/redirect-generator.html](https://www.rapidtables.com/web/tools/redirect-generator.html)
 
 ## <a name="contenidos"></a>Keyword research / Contenidos
 
@@ -83,6 +84,10 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [https://venngage.com/](https://venngage.com/)
 - [https://visualhunt.com/](https://visualhunt.com/)
 - [https://buzzsumo.com/](https://buzzsumo.com/)
+- [https://www.webfx.com/seo-tools/faqfox/](https://www.webfx.com/seo-tools/faqfox/)
+- [https://soovle.com/](https://soovle.com/)
+- [http://seo.danzambonini.com/](http://seo.danzambonini.com/)
+- [https://searchvolume.io/](https://searchvolume.io/)
 
 ## <a name="datos-estructurados"></a>Datos estructurados
 
@@ -101,6 +106,7 @@ Antes de ejecutar una estrategia de SEO offpage es conveniente conocer nuestro p
 - [https://www.canirank.com](https://www.canirank.com)
 - [https://www.google.com/webmasters/tools/disavow-links-main](https://www.google.com/webmasters/tools/disavow-links-main)
 - [https://moz.com/link-explorer](https://moz.com/link-explorer)
+- [https://www.seoweather.com/domain-authority-checker/](https://www.seoweather.com/domain-authority-checker/)
 
 ## <a name="mobile-seo"></a>Mobile SEO
 
@@ -121,6 +127,7 @@ Un negocio local tendrá un comportamiento ligeramente diferente a otro con un �
 - [https://whitespark.ca/google-review-link-generator/](https://whitespark.ca/google-review-link-generator/)
 - [https://www.brightlocal.com/local-search-results-checker/](https://www.brightlocal.com/local-search-results-checker/)
 - [https://moz.com/local/search](https://moz.com/local/search)
+- [https://serps.com/tools/google-search-location/](https://serps.com/tools/google-search-location/)
 
 ## <a name="analitica-web"></a>Analítica web / medición resultados
 
@@ -130,6 +137,7 @@ Tan importante es trabajar el SEO de una página como poder medir el impacto de 
 - [https://search.google.com/search-console/about?hl=es](https://search.google.com/search-console/about?hl=es)
 - [https://keyword-hero.com/](https://keyword-hero.com/)
 - [https://sheetsformarketers.com/](https://sheetsformarketers.com/)
+- [https://feinternational.com/website-penalty-indicator/](https://feinternational.com/website-penalty-indicator/)
 
 ## <a name="conversion"></a>Optimizar la conversión
 
@@ -151,6 +159,7 @@ Las herramientas a continuación monitorizan millones de keywords relevantes por
 - [https://algoroo.com/](https://algoroo.com/)
 - [https://www.accuranker.com/grump](https://www.accuranker.com/grump)
 - [https://cognitiveseo.com/signals/](https://cognitiveseo.com/signals/)
+- [https://feinternational.com/website-penalty-indicator/](https://feinternational.com/website-penalty-indicator/)
 
 ## <a name="extensiones-navegador"></a>Extensiones de navegador SEO
 
@@ -170,7 +179,10 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [ChomeDev Tools](https://developers.google.com/web/tools/chrome-devtools/)
 - [SEO Minion](https://seominion.com/)
 - [Checkbot (analizar tiempos de carga)](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
+- [Panguin (penalizaciones Google)](https://barracuda.digital/panguin-seo-tool/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTM4NzE2MV19
+eyJoaXN0b3J5IjpbLTEyNjI1OTA1MDEsMTk4NTEyNzM3LC0xMj
+U1NjU1MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMzA5ODI5OTQx
+LDE0MDA0Njg1NjcsMTM0NTM4NzE2MV19
 -->
