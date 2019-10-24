@@ -41,6 +41,15 @@ Gary Illes ha participado en una [ronda de preguntas y respuestas en San Francis
   data-tweetid="1179655665075310592">
 </amp-twitter>
 
+Cuando hacemos disavow no sólo 
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1184213079418167297">
+</amp-twitter>
+
 Los vídeos se cuelan en Google Search Console, podremos analizar tanto el rendimiento como su apariencia.
 
 <amp-twitter 
@@ -66,7 +75,7 @@ Google [explica en este artículo](https://support.google.com/webmasters/answer/
 
 De [todas las presentaciones](https://www.distilled.net/resources/searchlove-london-2019-round-up/), la que más me ha gustado ha sido la de Diane acerca de los [errores comunes que cometemos al trabajar el SEO](https://www.slideshare.net/DistilledSEO/searchlove-london-2019-will-critchlow-misunderstood-concepts-at-the-heart-of-seo-182776330).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjAyODc5NSwtMTM2NTg3MTg4Nyw0NT
-A0MzY0ODQsMTE4NzExNjM0LDEyNjI2ODk4NDcsLTUwMjAzMjgx
-OCwtMTg0NjQ2NDM3MSwyMTIxODE4MTQ2XX0=
+eyJoaXN0b3J5IjpbNjYwMzIzODU0LC0xNTYwMjg3OTUsLTEzNj
+U4NzE4ODcsNDUwNDM2NDg0LDExODcxMTYzNCwxMjYyNjg5ODQ3
+LC01MDIwMzI4MTgsLTE4NDY0NjQzNzEsMjEyMTgxODE0Nl19
 -->
