@@ -18,6 +18,10 @@ Comenzamos el mes con una noticia inquietante. Google liberó hace unos meses el
 
 Pues parece ser que hay [ciertas discrepancias entre su parseador y cómo realmente Googlebot lo interpreta](https://www.distilled.net/resources/googles-robotstxt-parser-is-misbehaving/). Esto podría derivar en serios problemas para las páginas si han basado directivas cruciales para el SEO en el parseador liberado por Google.
 
+## Intención de búsqueda vs búsqueda
+
+Llevo mucho tiempo diciéndolo, la intención de búsqueda puede ser diferente aún haciendo uso de las mismas palabras. Por eso es importante centrarse en el usuario, el punto en el que se encuentra y el camino que tiene por delante para poder conseguir la tan ansiada conversión. 
+
 ## Actualizaciones de algoritmo,  problemas y Q&A
 
 Parece que ha habido movimiento en las SERPs y, sin anuncio oficial, en os mentideros digitales se comenta la posibilidad de un [nuevo cambio de algoritmo](https://www.seroundtable.com/google-search-ranking-algorithm-update-october-3rd-28321.html).
@@ -75,8 +79,8 @@ Google [explica en este artículo](https://support.google.com/webmasters/answer/
 
 De [todas las presentaciones](https://www.distilled.net/resources/searchlove-london-2019-round-up/), la que más me ha gustado ha sido la de Diane acerca de los [errores comunes que cometemos al trabajar el SEO](https://www.slideshare.net/DistilledSEO/searchlove-london-2019-will-critchlow-misunderstood-concepts-at-the-heart-of-seo-182776330).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDcwMTA0NywtMTU2MDI4Nzk1LC0xMz
-Y1ODcxODg3LDQ1MDQzNjQ4NCwxMTg3MTE2MzQsMTI2MjY4OTg0
-NywtNTAyMDMyODE4LC0xODQ2NDY0MzcxLDIxMjE4MTgxNDZdfQ
-==
+eyJoaXN0b3J5IjpbLTMwMDk5ODUxMywtMzkwNzAxMDQ3LC0xNT
+YwMjg3OTUsLTEzNjU4NzE4ODcsNDUwNDM2NDg0LDExODcxMTYz
+NCwxMjYyNjg5ODQ3LC01MDIwMzI4MTgsLTE4NDY0NjQzNzEsMj
+EyMTgxODE0Nl19
 -->
