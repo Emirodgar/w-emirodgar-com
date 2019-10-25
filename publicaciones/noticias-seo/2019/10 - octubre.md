@@ -63,6 +63,7 @@ Los vídeos se cuelan en Google Search Console, podremos analizar tanto el rendi
   data-tweetid="1181209788769882112">
 </amp-twitter>
 
+Un ex-trabajador de Google nos habla acerca de [las penalizaciones SEO](https://www.marketingspeak.com/an-ex-google-engineers-primer-to-google-penalties-with-kaspar-szymanski/) y de cómo debemos trabajar nuestra página para evitarlas.
 
 ## Ley europea de derechos de autor
 
@@ -79,8 +80,8 @@ Google [explica en este artículo](https://support.google.com/webmasters/answer/
 
 De [todas las presentaciones](https://www.distilled.net/resources/searchlove-london-2019-round-up/), la que más me ha gustado ha sido la de Diane acerca de los [errores comunes que cometemos al trabajar el SEO](https://www.slideshare.net/DistilledSEO/searchlove-london-2019-will-critchlow-misunderstood-concepts-at-the-heart-of-seo-182776330).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMDcxNjk1LC0zOTA3MDEwNDcsLTE1Nj
-AyODc5NSwtMTM2NTg3MTg4Nyw0NTA0MzY0ODQsMTE4NzExNjM0
-LDEyNjI2ODk4NDcsLTUwMjAzMjgxOCwtMTg0NjQ2NDM3MSwyMT
-IxODE4MTQ2XX0=
+eyJoaXN0b3J5IjpbLTEyNDUzMDE0MjcsOTAxMDcxNjk1LC0zOT
+A3MDEwNDcsLTE1NjAyODc5NSwtMTM2NTg3MTg4Nyw0NTA0MzY0
+ODQsMTE4NzExNjM0LDEyNjI2ODk4NDcsLTUwMjAzMjgxOCwtMT
+g0NjQ2NDM3MSwyMTIxODE4MTQ2XX0=
 -->
