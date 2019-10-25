@@ -20,7 +20,7 @@ Pues parece ser que hay [ciertas discrepancias entre su parseador y cómo realme
 
 ## Intención de búsqueda vs búsqueda
 
-Llevo mucho tiempo diciéndolo, la intención de búsqueda puede ser diferente aún haciendo uso de las mismas palabras. Por eso es importante centrarse en el usuario, el punto en el que se encuentra y el camino que tiene por delante para poder conseguir la tan ansiada conversión. 
+Llevo mucho tiempo diciéndolo, [la intención de búsqueda puede ser diferente aún haciendo uso de las mismas palabras](https://www.thinkwithgoogle.com/consumer-insights/search-intent-and-customer-needs/). Por eso es importante centrarse en el usuario, el punto en el que se encuentra y el camino que tiene por delante para poder conseguir la tan ansiada conversión. 
 
 ## Actualizaciones de algoritmo,  problemas y Q&A
 
@@ -79,8 +79,8 @@ Google [explica en este artículo](https://support.google.com/webmasters/answer/
 
 De [todas las presentaciones](https://www.distilled.net/resources/searchlove-london-2019-round-up/), la que más me ha gustado ha sido la de Diane acerca de los [errores comunes que cometemos al trabajar el SEO](https://www.slideshare.net/DistilledSEO/searchlove-london-2019-will-critchlow-misunderstood-concepts-at-the-heart-of-seo-182776330).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDk5ODUxMywtMzkwNzAxMDQ3LC0xNT
-YwMjg3OTUsLTEzNjU4NzE4ODcsNDUwNDM2NDg0LDExODcxMTYz
-NCwxMjYyNjg5ODQ3LC01MDIwMzI4MTgsLTE4NDY0NjQzNzEsMj
-EyMTgxODE0Nl19
+eyJoaXN0b3J5IjpbOTAxMDcxNjk1LC0zOTA3MDEwNDcsLTE1Nj
+AyODc5NSwtMTM2NTg3MTg4Nyw0NTA0MzY0ODQsMTE4NzExNjM0
+LDEyNjI2ODk4NDcsLTUwMjAzMjgxOCwtMTg0NjQ2NDM3MSwyMT
+IxODE4MTQ2XX0=
 -->
