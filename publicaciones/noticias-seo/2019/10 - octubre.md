@@ -20,7 +20,9 @@ Pues parece ser que hay [ciertas discrepancias entre su parseador y cómo realme
 
 ## Intención de búsqueda vs búsqueda
 
-Llevo mucho tiempo diciéndolo, [la intención de búsqueda puede ser diferente aún haciendo uso de las mismas palabras](https://www.thinkwithgoogle.com/consumer-insights/search-intent-and-customer-needs/). Por eso es importante centrarse en el usuario, el punto en el que se encuentra y el camino que tiene por delante para poder conseguir la tan ansiada conversión. 
+Llevo mucho tiempo diciéndolo, [la intención de búsqueda puede ser diferente aún haciendo uso de las mismas palabras](https://www.thinkwithgoogle.com/consumer-insights/search-intent-and-customer-needs/). Por eso es importante centrarse en el usuario, el punto en el que se encuentra y el camino que tiene por delante para poder conseguir la tan ansiada conversión.
+
+Para dar respuesta a esto, Google usa [BERT](https://www.blog.google/products/search/search-language-understanding-bert), , en sus resultados de búsqueda
 
 ## Actualizaciones de algoritmo,  problemas y Q&A
 
@@ -84,8 +86,9 @@ De [todas las presentaciones](https://www.distilled.net/resources/searchlove-lon
 
 Ya es oficial, todos los principales navegadores [dejarán de dar soporte al Flash](https://webmasters.googleblog.com/2019/10/goodbye-flash.html). Se cierra una era y, como alternativa, podremos hacer uso de HTMl5+CSS3+JS.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODgyOTk4MzUsLTEyNDUzMDE0MjcsOT
-AxMDcxNjk1LC0zOTA3MDEwNDcsLTE1NjAyODc5NSwtMTM2NTg3
-MTg4Nyw0NTA0MzY0ODQsMTE4NzExNjM0LDEyNjI2ODk4NDcsLT
-UwMjAzMjgxOCwtMTg0NjQ2NDM3MSwyMTIxODE4MTQ2XX0=
+eyJoaXN0b3J5IjpbLTIwNTI4MjAyNjgsLTE4ODgyOTk4MzUsLT
+EyNDUzMDE0MjcsOTAxMDcxNjk1LC0zOTA3MDEwNDcsLTE1NjAy
+ODc5NSwtMTM2NTg3MTg4Nyw0NTA0MzY0ODQsMTE4NzExNjM0LD
+EyNjI2ODk4NDcsLTUwMjAzMjgxOCwtMTg0NjQ2NDM3MSwyMTIx
+ODE4MTQ2XX0=
 -->
