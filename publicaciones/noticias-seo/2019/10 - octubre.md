@@ -79,9 +79,13 @@ Google [explica en este artículo](https://support.google.com/webmasters/answer/
 ## SearchLove London 2019
 
 De [todas las presentaciones](https://www.distilled.net/resources/searchlove-london-2019-round-up/), la que más me ha gustado ha sido la de Diane acerca de los [errores comunes que cometemos al trabajar el SEO](https://www.slideshare.net/DistilledSEO/searchlove-london-2019-will-critchlow-misunderstood-concepts-at-the-heart-of-seo-182776330).
+
+## Adiós, Flash
+
+Ya es oficial, todos los principales navegadores [dejarán de dar soporte al Flash](https://webmasters.googleblog.com/2019/10/goodbye-flash.html). Se cierra una era y, como alternativa, podremos hacer uso de HTMl5+CSS3+JS.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUzMDE0MjcsOTAxMDcxNjk1LC0zOT
-A3MDEwNDcsLTE1NjAyODc5NSwtMTM2NTg3MTg4Nyw0NTA0MzY0
-ODQsMTE4NzExNjM0LDEyNjI2ODk4NDcsLTUwMjAzMjgxOCwtMT
-g0NjQ2NDM3MSwyMTIxODE4MTQ2XX0=
+eyJoaXN0b3J5IjpbLTE4ODgyOTk4MzUsLTEyNDUzMDE0MjcsOT
+AxMDcxNjk1LC0zOTA3MDEwNDcsLTE1NjAyODc5NSwtMTM2NTg3
+MTg4Nyw0NTA0MzY0ODQsMTE4NzExNjM0LDEyNjI2ODk4NDcsLT
+UwMjAzMjgxOCwtMTg0NjQ2NDM3MSwyMTIxODE4MTQ2XX0=
 -->
