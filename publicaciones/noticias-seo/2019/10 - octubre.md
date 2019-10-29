@@ -22,7 +22,7 @@ Pues parece ser que hay [ciertas discrepancias entre su parseador y cómo realme
 
 Llevo mucho tiempo diciéndolo, [la intención de búsqueda puede ser diferente aún haciendo uso de las mismas palabras](https://www.thinkwithgoogle.com/consumer-insights/search-intent-and-customer-needs/). Por eso es importante centrarse en el usuario, el punto en el que se encuentra y el camino que tiene por delante para poder conseguir la tan ansiada conversión.
 
-Para dar respuesta a esto, Google usa [BERT](https://www.blog.google/products/search/search-language-understanding-bert), una técnica de redes neuronales para el procesamiento del lenguaje natural, dentro de sus resultados de búsqueda.
+Para dar respuesta a esto en sus resultados de búsqueda, Google usa [BERT](https://www.blog.google/products/search/search-language-understanding-bert), una técnica para el **procesamiento del lenguaje natural** basada en **redes neuronales** .
 
 ## Actualizaciones de algoritmo,  problemas y Q&A
 
@@ -86,9 +86,9 @@ De [todas las presentaciones](https://www.distilled.net/resources/searchlove-lon
 
 Ya es oficial, todos los principales navegadores [dejarán de dar soporte al Flash](https://webmasters.googleblog.com/2019/10/goodbye-flash.html). Se cierra una era y, como alternativa, podremos hacer uso de HTMl5+CSS3+JS.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTQ2MTgzMCwtMTg4ODI5OTgzNSwtMT
-I0NTMwMTQyNyw5MDEwNzE2OTUsLTM5MDcwMTA0NywtMTU2MDI4
-Nzk1LC0xMzY1ODcxODg3LDQ1MDQzNjQ4NCwxMTg3MTE2MzQsMT
-I2MjY4OTg0NywtNTAyMDMyODE4LC0xODQ2NDY0MzcxLDIxMjE4
-MTgxNDZdfQ==
+eyJoaXN0b3J5IjpbLTg0MzMzNjA5NiwxMzUxNDYxODMwLC0xOD
+g4Mjk5ODM1LC0xMjQ1MzAxNDI3LDkwMTA3MTY5NSwtMzkwNzAx
+MDQ3LC0xNTYwMjg3OTUsLTEzNjU4NzE4ODcsNDUwNDM2NDg0LD
+ExODcxMTYzNCwxMjYyNjg5ODQ3LC01MDIwMzI4MTgsLTE4NDY0
+NjQzNzEsMjEyMTgxODE0Nl19
 -->
