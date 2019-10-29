@@ -1,5 +1,10 @@
 {
   "data": [
+	   [
+      "BERT: procesamiento del lenguaje natural",
+      "Google incorpora a sus búsquedas el algoritmo de redes neuronales BERT para ofrecer resultados mucho más precisos.",
+      "https://www.blog.google/products/search/search-language-understanding-bert"
+    ],
 	  [
       "Un Disavow elimina también el contexto",
       "Cuando hacemos disavow no sólo se deja de tener en cuenta el enlace para el posicionamiento web (popularidad) sino que también se elimina el contexto por asociación.",
