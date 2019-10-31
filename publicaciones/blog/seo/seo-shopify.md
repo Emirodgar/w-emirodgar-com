@@ -68,12 +68,15 @@ Los que recomiendo incluir son:
 
 
 
- - Gestionar adecuadamente las páginas asociadas a las versiones del producto.
- - Comprimir y optimizar las imágenes.
+
+### Comprimir y optimizar las imágenes
+
+En cualquier ecommerce las imágenes son un factor clave y muy relevante. El hecho de que estén completamente optimizadas nos ayudará a que la navegación sea más fluida y la experiencia de los usuarios lo más adecuada posible.
+
  - Ajustar las apps necesarias para que el tiempo de carga 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTUxMjY4NCw0MTA1MDQ2MDksNTcyOD
-k4NzU3XX0=
+eyJoaXN0b3J5IjpbMjI2MTcxODgsLTIyNTUxMjY4NCw0MTA1MD
+Q2MDksNTcyODk4NzU3XX0=
 -->
