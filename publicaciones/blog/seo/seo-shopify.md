@@ -57,6 +57,9 @@ Por desgracia no hay una forma -a excepción del servidor web- para hacerlo de f
 
 ### Añadir datos estructurados, principalmente de breadcrumb y productos.
 
+Los datos estructurados nos ayudarán a transmitir información relevante a los buscadores y facilitar por tanto la rápido acceso a datos clave asociados tanto al producto como a la navegación del sitio.
+
+Los que recomiendo incluir son:
 
 
 
@@ -66,5 +69,6 @@ Por desgracia no hay una forma -a excepción del servidor web- para hacerlo de f
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwNTA0NjA5LDU3Mjg5ODc1N119
+eyJoaXN0b3J5IjpbMTgzNzEzNjk1NSw0MTA1MDQ2MDksNTcyOD
+k4NzU3XX0=
 -->
