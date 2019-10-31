@@ -72,10 +72,12 @@ En cualquier ecommerce las imágenes son un factor clave y muy relevante. El hec
 
 Existen múltiples plugins para integrarse con Shopify, por ejemplo [Crush](https://crush.pics/platforms/shopify). Cualquiera que facilite la compresión de las imágenes será válido.
 
- - Ajustar las apps necesarias para que el tiempo de carga 
+### Ajustar las apps necesarias para que el tiempo de carga 
+
+A mayor número de aplicaciones/plugins que tengamos instaladas, peor rendimiento ofrecerá nuestra tienda. Por ello recomiendo ajustar al mínimo y quedarnos únicamente con a
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDY1NTEyLC0yMjU1MTI2ODQsNDEwNT
+eyJoaXN0b3J5IjpbMjEwMzg2ODI4LC0yMjU1MTI2ODQsNDEwNT
 A0NjA5LDU3Mjg5ODc1N119
 -->
