@@ -24,7 +24,8 @@ Por defecto -y sin una configuración adecuada- Shopify, los puntos que debemos 
 
 Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguiente manera:
 
- - Paginación de productos: debemos evitar que éstas sean indexables aunque sí debemos permitir que Google acceda a las mismas.
+ - Duplicidad de productos: vigilemos las URLs de /products/ y collections/.*/products/ ya que a veces se generan duplicidad 
+ - **Paginación de productos**: debemos evitar que éstas sean indexables aunque sí debemos permitir que Google acceda a las mismas.
  - 
  - Añadir datos estructurados, principalmente de breadcrumb y productos.
  - Gestionar adecuadamente las páginas asociadas a las versiones del producto.
@@ -33,5 +34,5 @@ Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguie
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY1OTk3OCw1NzI4OTg3NTddfQ==
+eyJoaXN0b3J5IjpbMjIyMDg2NDQsNTcyODk4NzU3XX0=
 -->
