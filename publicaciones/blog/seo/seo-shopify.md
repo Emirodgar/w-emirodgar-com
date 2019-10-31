@@ -36,6 +36,8 @@ En el caso de Shopify, debemos programarlo directamente desde el template de la 
     <meta name="robots" content="noindex">
     {% endif %} 
 
+Lógicamente necesitaremos especificar cada caso (condición) en la que queramos que aparezca el noindex y por lo tanto dichas URLs no sean indexadas.
+
 El robots.txt debería ser usado únciamente para evitar el acceso a las siguientes secciones:
 
 -   Área de administración
@@ -43,7 +45,12 @@ El robots.txt debería ser usado únciamente para evitar el acceso a las siguien
 -   Pedidos
 -   Carro de la compra
 -   Búsquedas internas
- 
+
+### Redireccionar páginas antiguas
+
+Cuando dejamos atrás una página o queremos consolidar varias para evitar contenido duplicado, debemos hacerlo a través de una redirección 301. 
+
+
  - Añadir datos estructurados, principalmente de breadcrumb y productos.
  - Gestionar adecuadamente las páginas asociadas a las versiones del producto.
  - Comprimir y optimizar las imágenes.
@@ -51,5 +58,5 @@ El robots.txt debería ser usado únciamente para evitar el acceso a las siguien
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODM1ODQ0MSw1NzI4OTg3NTddfQ==
+eyJoaXN0b3J5IjpbNTI2ODA1NzI1LDU3Mjg5ODc1N119
 -->
