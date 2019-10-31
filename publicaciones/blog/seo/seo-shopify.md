@@ -26,7 +26,7 @@ Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguie
 
  - Duplicidad de productos: vigilemos las URLs de `/products/` y `collections/.*/products/` ya que a veces se generan duplicidades al no establecer bien la etiqueta canónica. 
  - **Paginación de productos**: debemos evitar que éstas sean indexables aunque sí debemos permitir que Google acceda a las mismas.
- - Variantes de un mismo producto: mucho cuidado cuando generamos múltiples variantes de un producto que apenas aportan valor diferencial. 
+ - **Variantes de un mismo producto**: mucho cuidado cuando generamos múltiples variantes de un producto que apenas aportan valor diferencial. Por ejemplo, diferentes colores, tamaños o cambios nimios. Es preferible trabajarlo a nivel de contenido sobre una única página que crear múltiples. Recomiendo [leer esta guía](https://www.searchenginejournal.com/seo-best-practices-for-color-variations/265323/) para profundizar tanto en el problema como en la solución.
  
  
  - Añadir datos estructurados, principalmente de breadcrumb y productos.
@@ -36,5 +36,5 @@ Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguie
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDg2NjUxNCw1NzI4OTg3NTddfQ==
+eyJoaXN0b3J5IjpbLTM0NjM0NzY5Nyw1NzI4OTg3NTddfQ==
 -->
