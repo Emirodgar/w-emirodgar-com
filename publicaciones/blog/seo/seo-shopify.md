@@ -24,9 +24,9 @@ Por defecto -y sin una configuración adecuada- Shopify, los puntos que debemos 
  - Añadir datos estructurados, principalmente de breadcrumb y productos.
  - Gestionar adecuadamente las páginas asociadas a las versiones del producto.
  - Comprimir y optimizar las imágenes.
- - Ajustar las apps necesarias para que 
+ - Ajustar las apps necesarias para que el tiempo de carga 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Mzc0MzYxOV19
+eyJoaXN0b3J5IjpbNTcyODk4NzU3XX0=
 -->
