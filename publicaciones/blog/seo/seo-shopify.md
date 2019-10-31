@@ -66,17 +66,16 @@ Los que recomiendo incluir son:
  - [Breadcrumb](https://developers.google.com/search/docs/data-types/breadcrumb): para todo el sitio de cara a facilitar la navegación por el sitio.
 
 
-
-
-
 ### Comprimir y optimizar las imágenes
 
 En cualquier ecommerce las imágenes son un factor clave y muy relevante. El hecho de que estén completamente optimizadas nos ayudará a que la navegación sea más fluida y la experiencia de los usuarios lo más adecuada posible.
+
+Existen múltiples plugins para integrarse con Shopify, por ejemplo [Crush](https://crush.pics/platforms/shopify). Cualquiera que facilite la compresión de las imágenes será válido.
 
  - Ajustar las apps necesarias para que el tiempo de carga 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MTcxODgsLTIyNTUxMjY4NCw0MTA1MD
-Q2MDksNTcyODk4NzU3XX0=
+eyJoaXN0b3J5IjpbLTgxNDY1NTEyLC0yMjU1MTI2ODQsNDEwNT
+A0NjA5LDU3Mjg5ODc1N119
 -->
