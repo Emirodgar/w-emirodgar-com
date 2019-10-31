@@ -14,7 +14,15 @@ permalink: shopify-seo
 
 Actualmente cerca del 4,5% de los principales ecommerces del mundo hacen uso de Shopify como plataforma de comercio electrónico. 
 
-En esta guía quiero trasladar las principales recomendaciones SEO que he trabajado en portales Shopify. Algunas serán com
+En esta guía quiero trasladar las principales recomendaciones SEO que he trabajado en portales Shopify. Algunas serán comunes a otros portales, otras son específicas de esta plataforma.
+
+## Puntos flojos de Shopify
+
+Por defecto -y sin una configuración adecuada- Shopify, los puntos que debemos trabajar y mejorar serán:
+
+ - Contenido duplicado debido a la arquitectura
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODczNzE2MDFdfQ==
+eyJoaXN0b3J5IjpbLTEyODEzODk2NzNdfQ==
 -->
