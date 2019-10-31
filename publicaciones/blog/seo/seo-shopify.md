@@ -78,8 +78,14 @@ A mayor número de aplicaciones/plugins que tengamos instaladas, peor rendimient
 
 En el caso de SEO, es recomendable hacer uso de aquellas que ofrecen múltiples funcionalidades (como es el caso de [Smart-SEO](https://apps.shopify.com/smart-seo)) que no instalar varias con una única funcionalidad.
 
+Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga y experiencia de los usuarios son:
+
+- Hacer uso de un template rápido y ligero
+- Usar imágenes pequeñas
+- Evitar los carruseles
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTA5ODM3NywtMjI1NTEyNjg0LDQxMD
-UwNDYwOSw1NzI4OTg3NTddfQ==
+eyJoaXN0b3J5IjpbNzAzMDM1ODI2LC0yMjU1MTI2ODQsNDEwNT
+A0NjA5LDU3Mjg5ODc1N119
 -->
