@@ -20,7 +20,7 @@ En esta guía quiero trasladar las principales recomendaciones SEO que he trabaj
 
 Por defecto -y sin una configuración adecuada- Shopify, los puntos que debemos trabajar y mejorar serán:
 
- ### Evitar contenido duplicado debido a la arquitectura y enlazado interno.
+### Evitar contenido duplicado debido a la arquitectura y enlazado interno.
 
 Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguiente manera:
 
@@ -74,10 +74,12 @@ Existen múltiples plugins para integrarse con Shopify, por ejemplo [Crush](http
 
 ### Ajustar las apps necesarias para que el tiempo de carga 
 
-A mayor número de aplicaciones/plugins que tengamos instaladas, peor rendimiento ofrecerá nuestra tienda. Por ello recomiendo ajustar al mínimo y quedarnos únicamente con a
+A mayor número de aplicaciones/plugins que tengamos instaladas, peor rendimiento ofrecerá nuestra tienda. Por ello recomiendo ajustar al mínimo y quedarnos únicamente con aquellas que consideremos cruciales.
+
+En el caso de SEO, es recomendable hacer uso de aquellas que ofrecen múltiples funcionalidades (como es el caso de [Smart-SEO](https://apps.shopify.com/smart-seo)) que no instalar varias con una única funcionalidad.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzg2ODI4LC0yMjU1MTI2ODQsNDEwNT
-A0NjA5LDU3Mjg5ODc1N119
+eyJoaXN0b3J5IjpbLTUwOTA5ODM3NywtMjI1NTEyNjg0LDQxMD
+UwNDYwOSw1NzI4OTg3NTddfQ==
 -->
