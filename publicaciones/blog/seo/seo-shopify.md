@@ -50,13 +50,21 @@ El robots.txt debería ser usado únciamente para evitar el acceso a las siguien
 
 Cuando dejamos atrás una página o queremos consolidar varias para evitar contenido duplicado, debemos hacerlo a través de una redirección 301. 
 
+Por desgracia no hay una forma -a excepción del servidor web- para hacerlo de forma automática por lo que la única opción que nos queda es implementarlas de forma individual desde 
 
- - Añadir datos estructurados, principalmente de breadcrumb y productos.
+    Tienda Online > Navegación > Redirecciones
+
+
+### Añadir datos estructurados, principalmente de breadcrumb y productos.
+
+
+
+
  - Gestionar adecuadamente las páginas asociadas a las versiones del producto.
  - Comprimir y optimizar las imágenes.
  - Ajustar las apps necesarias para que el tiempo de carga 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2ODA1NzI1LDU3Mjg5ODc1N119
+eyJoaXN0b3J5IjpbNDEwNTA0NjA5LDU3Mjg5ODc1N119
 -->
