@@ -16,13 +16,17 @@ Actualmente cerca del 4,5% de los principales ecommerces del mundo hacen uso de 
 
 En esta guía quiero trasladar las principales recomendaciones SEO que he trabajado en portales Shopify. Algunas serán comunes a otros portales, otras son específicas de esta plataforma.
 
-## Puntos flojos de Shopify
+## Puntos a trabajar dentro de Shopify
 
 Por defecto -y sin una configuración adecuada- Shopify, los puntos que debemos trabajar y mejorar serán:
 
- - Contenido duplicado debido a la arquitectura
+ - Evitar contenido duplicado debido a la arquitectura y enlazado interno.
+ - Añadir datos estructurados, principalmente de breadcrumb y productos.
+ - Gestionar adecuadamente las páginas asociadas a las versiones del producto.
+ - Comprimir y optimizar las imágenes.
+ - Ajustar las apps necesarias para que 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEzODk2NzNdfQ==
+eyJoaXN0b3J5IjpbLTM0Mzc0MzYxOV19
 -->
