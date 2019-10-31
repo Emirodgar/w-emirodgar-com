@@ -28,7 +28,8 @@ Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguie
  - **Paginación de productos**: debemos evitar que éstas sean indexables aunque sí debemos permitir que Google acceda a las mismas.
  - **Variantes de un mismo producto**: mucho cuidado cuando generamos múltiples variantes de un producto que apenas aportan valor diferencial. Por ejemplo, diferentes colores, tamaños o cambios nimios. Es preferible trabajarlo a nivel de contenido sobre una única página que crear múltiples. Recomiendo [leer esta guía](https://www.searchenginejournal.com/seo-best-practices-for-color-variations/265323/) para profundizar tanto en el problema como en la solución.
  
- En el caso de que no seamos capaces de evitar esa indexaci
+ En el caso de que no seamos capaces de limitar los accesos a nivel técnico, podemos hacer uso del [robots.txt para no permitir el rastreo](https://help.shopify.com/en/manual/promoting-marketing/seo/hide-a-page-from-search-engines) pero ojo, eso no evitará su indexación.
+El robots.txt debería ser usado únciamente para evitar el acceso a las sig
  
  - Añadir datos estructurados, principalmente de breadcrumb y productos.
  - Gestionar adecuadamente las páginas asociadas a las versiones del producto.
@@ -37,5 +38,5 @@ Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguie
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg3ODUxNDQsNTcyODk4NzU3XX0=
+eyJoaXN0b3J5IjpbLTE4OTE3MTU0NzAsNTcyODk4NzU3XX0=
 -->
