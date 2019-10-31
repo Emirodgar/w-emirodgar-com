@@ -20,7 +20,12 @@ En esta guía quiero trasladar las principales recomendaciones SEO que he trabaj
 
 Por defecto -y sin una configuración adecuada- Shopify, los puntos que debemos trabajar y mejorar serán:
 
- - Evitar contenido duplicado debido a la arquitectura y enlazado interno.
+ ### Evitar contenido duplicado debido a la arquitectura y enlazado interno.
+
+Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguiente manera:
+
+ - Paginación de productos: debemos evitar que éstas sean indexables aunque sí debemos permitir que Google acceda a las mismas.
+ - 
  - Añadir datos estructurados, principalmente de breadcrumb y productos.
  - Gestionar adecuadamente las páginas asociadas a las versiones del producto.
  - Comprimir y optimizar las imágenes.
@@ -28,5 +33,5 @@ Por defecto -y sin una configuración adecuada- Shopify, los puntos que debemos 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyODk4NzU3XX0=
+eyJoaXN0b3J5IjpbLTIwMTY1OTk3OCw1NzI4OTg3NTddfQ==
 -->
