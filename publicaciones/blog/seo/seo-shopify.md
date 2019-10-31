@@ -61,6 +61,10 @@ Los datos estructurados nos ayudarán a transmitir información relevante a los 
 
 Los que recomiendo incluir son:
 
+ - [Artículo](https://developers.google.com/search/docs/data-types/article): para las publicaciones del blog con el objetivo de aparecer en Google Discover y aportar información acerca de fechas de publicación y modificación.
+ - [Breadcrumb](https://developers.google.com/search/docs/data-types/breadcrumb): para todo el sitio de cara a facilitar la navegación por el sitio.
+ - 
+
 
 
  - Gestionar adecuadamente las páginas asociadas a las versiones del producto.
@@ -69,6 +73,6 @@ Los que recomiendo incluir son:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzEzNjk1NSw0MTA1MDQ2MDksNTcyOD
+eyJoaXN0b3J5IjpbMTQ0Nzc4MDk0MSw0MTA1MDQ2MDksNTcyOD
 k4NzU3XX0=
 -->
