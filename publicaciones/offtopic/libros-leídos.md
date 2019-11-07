@@ -29,6 +29,11 @@ Entretenido y muy sencillo de leer. La trama es algo justa pero se compensa con 
 Hace ya tiempo que leí **La sombra del viento** y tenía ganas de meterle mano a esta trepidante saga del **Cementerio de los libros olvidados**. No me ha defraudado. Destaco los detalles en la narración que me han ayudado a sumergirme de lleno en esa Barcelona olvidada de los años 20 de la mano de David Martín. Excelente narrativa.
 
 > No confío en la gente que cree tener muchos amigos. Es señal de que no conocen a los demás.
+
+## El prisionero del cielo
+### Carlos Ruíz Zafón / 2011 - 7/10
+
+Pues he querido continuar con la saga del Cementerio de los libros olv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk4OTc1NDBdfQ==
+eyJoaXN0b3J5IjpbLTczODA3MzU0MiwtMTU1OTg5NzU0MF19
 -->
