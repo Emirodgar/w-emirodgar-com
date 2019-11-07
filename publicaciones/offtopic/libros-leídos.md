@@ -34,6 +34,9 @@ Hace ya tiempo que leí **La sombra del viento** y tenía ganas de meterle mano 
 ### Carlos Ruíz Zafón / 2011 - 6/10
 
 He querido continuar con la saga del Cementerio de los libros olvidados tras la Sombra del viento y El juego del Ángel. Reconozco que me esperaba mucho más de este libro, creo que ha sido bastante 
+
+## El laberinto de los espíritus
+### Carlos Ruíz Zafón / 2016 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDE5NzUyMCwtMTU1OTg5NzU0MF19
+eyJoaXN0b3J5IjpbLTU1MTM1NDg3MCwtMTU1OTg5NzU0MF19
 -->
