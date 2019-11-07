@@ -33,11 +33,12 @@ Hace ya tiempo que leí **La sombra del viento** y tenía ganas de meterle mano 
 ## El prisionero del cielo
 ### Carlos Ruíz Zafón / 2011 - 6/10
 
-He querido continuar con la saga del Cementerio de los libros olvidados tras la Sombra del viento y El juego del Ángel. Reconozco que me esperaba mucho más de este libro, creo que ha sido bastante comedido y le ha faltado profundizar en los personajes y sus historias. Entretenido, sí, pero hubiera agra
+He querido continuar con la saga del **Cementerio de los libros olvidados** tras la Sombra del viento y El juego del Ángel. Reconozco que me esperaba mucho más de este libro, creo que ha sido bastante comedido y le ha faltado profundizar en los personajes y sus historias. Entretenido, sí, pero hubiera agradecido algo más.
+
+> A veces se cansa uno de huir. El mundo es muy pequeño cuando no se tiene adónde ir.
 
 ## El laberinto de los espíritus
 ### Carlos Ruíz Zafón / 2016 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzcxMTQ2ODMsLTE1NTk4OTc1NDBdfQ
-==
+eyJoaXN0b3J5IjpbMTgwOTY2MjE5MiwtMTU1OTg5NzU0MF19
 -->
