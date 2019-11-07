@@ -4,7 +4,7 @@ description: Pequeña recopilación de los libros que he leído y recomiendo
 lang: es_ES
 author: Emirodgar
 tags: offtopic, libros, lectura
-date: 10/09/2019
+date: 07/11/2019
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
 permalink: libros-recomendados
 
@@ -40,6 +40,6 @@ He querido continuar con la saga del **Cementerio de los libros olvidados** tras
 ## El laberinto de los espíritus
 ### Carlos Ruíz Zafón / 2016 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjkwMjkyOSwtOTUyOTAyOTI5LDE4MD
-k2NjIxOTIsLTE1NTk4OTc1NDBdfQ==
+eyJoaXN0b3J5IjpbLTI5MTc5OTIwMiwtOTUyOTAyOTI5LC05NT
+I5MDI5MjksMTgwOTY2MjE5MiwtMTU1OTg5NzU0MF19
 -->
