@@ -31,9 +31,9 @@ Hace ya tiempo que leí **La sombra del viento** y tenía ganas de meterle mano 
 > No confío en la gente que cree tener muchos amigos. Es señal de que no conocen a los demás.
 
 ## El prisionero del cielo
-### Carlos Ruíz Zafón / 2011 - 7/10
+### Carlos Ruíz Zafón / 2011 - 6/10
 
-Pues he querido continuar con la saga del Cementerio de los libros olv
+He querido continuar con la saga del Cementerio de los libros olvidados tras la Sombra del viento y El juego del Ángel. Reconozco que me esperaba mucho más de este libro, creo que ha sido bastante 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODA3MzU0MiwtMTU1OTg5NzU0MF19
+eyJoaXN0b3J5IjpbLTY0MDE5NzUyMCwtMTU1OTg5NzU0MF19
 -->
