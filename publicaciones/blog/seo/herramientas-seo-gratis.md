@@ -88,6 +88,7 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [https://soovle.com/](https://soovle.com/)
 - [http://seo.danzambonini.com/](http://seo.danzambonini.com/)
 - [https://searchvolume.io/](https://searchvolume.io/)
+- [https://alsoasked.com/](https://alsoasked.com/)
 
 ## <a name="datos-estructurados"></a>Datos estructurados
 
@@ -182,7 +183,7 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Panguin (penalizaciones Google)](https://barracuda.digital/panguin-seo-tool/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI1OTA1MDEsMTk4NTEyNzM3LC0xMj
-U1NjU1MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMzA5ODI5OTQx
-LDE0MDA0Njg1NjcsMTM0NTM4NzE2MV19
+eyJoaXN0b3J5IjpbLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOT
+g1MTI3MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5NDU0
+OSwzMDk4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX0=
 -->
