@@ -55,6 +55,11 @@
       "Analiza tendencias de búsqueda de diversos términos en múltiples mercados.",
       "https://trends.google.es/trends/"
     ],
+	  [
+      "Also Asked",
+      "Descubre las preguntas relacionadas con los términos que estés analizando.",
+      "https://alsoasked.com/"
+    ],
 	[
       "PurifyCSS",
       "Get the CSS code you are using on your website and delete the unused so your file became lighter.",
