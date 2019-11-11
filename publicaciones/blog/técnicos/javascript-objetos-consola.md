@@ -24,7 +24,10 @@ this;
 
 Si hacemos uso de `debugger` podremos
 
+## Extensión gadebugger o inyect datapush
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTI3MDc5MjEsLTUwNjk2NzkwNV19
+eyJoaXN0b3J5IjpbLTE4MjIwMzgwMzIsLTE4MTI3MDc5MjEsLT
+UwNjk2NzkwNV19
 -->
