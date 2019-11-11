@@ -3,6 +3,8 @@
 
 ## Obtener listado de variables y objetos creados
 
+Si queremos conocer qué variables están
+
 ```
 for(var b in window) { 
   if(window.hasOwnProperty(b)) console.log(b); 
@@ -21,5 +23,5 @@ O también podemos escribir
 window.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDEwNzg1MzFdfQ==
+eyJoaXN0b3J5IjpbLTcyNzU1NDQ1Nl19
 -->
