@@ -8,13 +8,13 @@ Si queremos conocer qué variables están disponibles
 -   `keys(window)`  para ver las variables
 -   `dir(window)`  para ver los objetos
 
-O también podemos hacer uso directamente del objeto `window` y navegar por las diferentes opciones que nos ofrece.
+O también podemos hacer uso directamente del objeto `window` y navegar por las diferentes opciones que nos ofrece. Desde aquí podremos acceder a todas las variables públicas, tanto del navegador como de la página.
 
 ```
 window.
 ```
 
-Otra opción sería invocar directamente el objeto `this;` para recibir un listado completo de todos los
+Otra opción sería invocar directamente el objeto `this;` para recibir un listado completo de todas las opciones que tenemos disponibles.
 
 ```
 this;
@@ -23,5 +23,5 @@ this;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzA3OTg0OV19
+eyJoaXN0b3J5IjpbLTUwNjk2NzkwNV19
 -->
