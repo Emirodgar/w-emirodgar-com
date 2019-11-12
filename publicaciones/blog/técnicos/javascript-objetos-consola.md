@@ -30,6 +30,8 @@ También lo podemos hacer a través de código tecleando lo siguiente:
 clear()
 ```
 
+> Si en opciones tenemos habilitada la opción de **Preserve log**, el comando `clear()` no funcionará por lo que tendremos que hacerlo a través del menú contextual.
+
 ## Usar los logs
 
 A la hora de desarrollar podemos enviar avisos a la consola directamente desde nuestra aplicación. Para ello usaremos los siguientes comandos:
@@ -55,6 +57,6 @@ Si hacemos uso de `debugger` podremos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIyNjIwODksLTE3MzMzOTA1MjcsLT
-E4MjIwMzgwMzIsLTE4MTI3MDc5MjEsLTUwNjk2NzkwNV19
+eyJoaXN0b3J5IjpbMTI2OTYxMzY0OCwtMTczMzM5MDUyNywtMT
+gyMjAzODAzMiwtMTgxMjcwNzkyMSwtNTA2OTY3OTA1XX0=
 -->
