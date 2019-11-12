@@ -24,8 +24,11 @@ this
 
 A la hora de desarrollar podemos enviar avisos a la consola directamente desde nuestra aplicación. Para ello usaremos los siguientes comandos:
 
-- `console.log`: para un mensaje normal
-- console.info
+- `console.log("texto")`: para un mensaje normal
+- `console.error("texto")`: para un mensaje de error
+- `console.warn("texto")`: para un mensaje de error
+
+Esto nos va a permitir identificar
 
 ## Hacer debug
 
@@ -42,6 +45,6 @@ Si hacemos uso de `debugger` podremos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDIyODUyNSwtMTgyMjAzODAzMiwtMT
-gxMjcwNzkyMSwtNTA2OTY3OTA1XX0=
+eyJoaXN0b3J5IjpbLTE3MzMzOTA1MjcsLTE4MjIwMzgwMzIsLT
+E4MTI3MDc5MjEsLTUwNjk2NzkwNV19
 -->
