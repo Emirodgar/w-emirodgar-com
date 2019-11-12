@@ -12,11 +12,13 @@ permalink: consola-devtools-chrome
 
 # Interactuar con la consola de Google Chrome
 
-En cualquier navegador Google Chrome podemos pulsar la tecla `F12` y atuomáticamente se nos abrirá un panel
+En cualquier navegador Google Chrome podemos pulsar la tecla `F12` y automáticamente se nos abrirá un panel a través del cuál podremos analizar lo que ha ocurrido en la web que estamos viendo o incluso podremos interactuar con la misma.
+
+Veamos algunas de las funcionalidades de las que podemos hacer uso. 
 
 ## Obtener listado de variables y objetos creados
 
-Si queremos conocer qué variables están disponibles
+Si queremos conocer qué variables están disponibles tanto en el entorno del navegador como 
 
 -   `keys(window)`  para ver las variables
 -   `dir(window)`  para ver los objetos
@@ -70,5 +72,5 @@ Si hacemos uso de `debugger` podremos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjAzMzEyMV19
+eyJoaXN0b3J5IjpbLTEwNTE4OTgwMzcsLTg2NjAzMzEyMV19
 -->
