@@ -49,7 +49,9 @@ Esto nos va a permitir identificar de forma rápida lo que está ocurriendo en l
 
 ## Hacer debug
 
-Si hacemos uso de `debugger` podremos
+Si hacemos uso de `debugger` podremos probar directamente el código javascript dentro de la consola. También podemos ir directamente a la pestaña Sources y analizar cualquier fichero Javascript para depurar su ejecución.
+
+Google dispone de un [tutorial básico](https://developers.google.com/web/tools/chrome-devtools/javascript?hl=es) pero completo.
 
 ## Extensión gadebugger o inyect datapush
 
@@ -73,6 +75,6 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3NDQ0MzEzLDE4MjE1ODkzMTgsLTY5MT
-k5NDI4MywtODY2MDMzMTIxXX0=
+eyJoaXN0b3J5IjpbLTUxMTY0MTMzNiw1Njc0NDQzMTMsMTgyMT
+U4OTMxOCwtNjkxOTk0MjgzLC04NjYwMzMxMjFdfQ==
 -->
