@@ -17,7 +17,7 @@ window.
 Otra opción sería invocar directamente el objeto `this;` para recibir un listado completo de todas las opciones que tenemos disponibles.
 
 ```
-this;
+this
 ```
 
 ## Hacer debug
@@ -26,8 +26,15 @@ Si hacemos uso de `debugger` podremos
 
 ## Extensión gadebugger o inyect datapush
 
+## Trabajar con la capa de datos
+
+    window.dataLayer = window.dataLayer || [];  
+    dataLayer.push ({  
+    'event': 'erg_contacto'  
+    })
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIwMzgwMzIsLTE4MTI3MDc5MjEsLT
-UwNjk2NzkwNV19
+eyJoaXN0b3J5IjpbLTE4ODkwMzcyNzgsLTE4MjIwMzgwMzIsLT
+E4MTI3MDc5MjEsLTUwNjk2NzkwNV19
 -->
