@@ -20,6 +20,13 @@ Otra opción sería invocar directamente el objeto `this;` para recibir un lista
 this
 ```
 
+## Usar los logs
+
+A la hora de desarrollar podemos enviar avisos a la consola directamente desde nuestra aplicación. Para ello usaremos los siguientes comandos:
+
+- `console.log`: para un mensaje normal
+- console.info
+
 ## Hacer debug
 
 Si hacemos uso de `debugger` podremos
@@ -35,6 +42,6 @@ Si hacemos uso de `debugger` podremos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODkwMzcyNzgsLTE4MjIwMzgwMzIsLT
-E4MTI3MDc5MjEsLTUwNjk2NzkwNV19
+eyJoaXN0b3J5IjpbMTgxMDIyODUyNSwtMTgyMjAzODAzMiwtMT
+gxMjcwNzkyMSwtNTA2OTY3OTA1XX0=
 -->
