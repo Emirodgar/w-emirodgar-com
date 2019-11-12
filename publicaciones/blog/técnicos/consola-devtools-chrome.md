@@ -63,7 +63,15 @@ Si hacemos uso de `debugger` podremos
 ## Validar páginas AMP
 
 También podemos usar la consola de Chrome para validar páginas AMP. Para ello bastará con que a la URL le añadamos `#development=1` y recarguemos de nuevo la página.
+
+Por defecto, el mensaje que recibiremos será:
+
+    Powered by AMP ⚡ HTML – Version 1911062056110 https://emirodgar.com/consola-devtools-chrome
+
+Una vez incluido la variable development=1 en la URL recibiremos un valor adicional informándonos de si la versión AMP es v
+
+AMP validation successful.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE4Mjg1NzYsMTgyMTU4OTMxOCwtNj
+eyJoaXN0b3J5IjpbLTE2NDE4MjIwMzIsMTgyMTU4OTMxOCwtNj
 kxOTk0MjgzLC04NjYwMzMxMjFdfQ==
 -->
