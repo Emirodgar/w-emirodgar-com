@@ -45,7 +45,7 @@ A la hora de desarrollar podemos enviar avisos a la consola directamente desde n
 - `console.error("texto")`: para un mensaje de error
 
 
-Esto nos va a permitir identificar de forma rápida lo que está ocurriendo en la página y la naturaleza de ello.
+Esto nos va a permitir identificar de forma rápida lo que está ocurriendo en la página.
 
 ## Hacer debug
 
@@ -60,8 +60,10 @@ Si hacemos uso de `debugger` podremos
     'event': 'erg_contacto'  
     })
 
+## Validar páginas AMP
 
+También podemos usar la consola de Chrome para validar páginas AMP. Para ello bastará con que a la URL le añadamos `#development=1` y recarguemos de nuevo la página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkzMTY2NjIsMTgyMTU4OTMxOCwtNj
+eyJoaXN0b3J5IjpbLTIwNTE4Mjg1NzYsMTgyMTU4OTMxOCwtNj
 kxOTk0MjgzLC04NjYwMzMxMjFdfQ==
 -->
