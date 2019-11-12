@@ -61,7 +61,9 @@ Es ideal para identificar problemas y validar implementaciones de analítica web
 
 También podemos interactuar directamente con el objeto de Google Analytics para, por ejemplo, obtener el ID de la cuenta:
 
-    ga.getAll()[0].b.data.values[':trackingId']
+    ga.getAll()[0].get('trackingId')
+
+En la [documentación oficial de Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/ga-object-methods-reference) nos explican con mayor detalle cómo interactuar con este objeto.
 
 ## Trabajar con la capa de datos
 
@@ -85,7 +87,7 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MzQ4NDAwLDQyNzgwMzk0OCwtMTAxMD
-Y2MjEzLC01MTE2NDEzMzYsNTY3NDQ0MzEzLDE4MjE1ODkzMTgs
-LTY5MTk5NDI4MywtODY2MDMzMTIxXX0=
+eyJoaXN0b3J5IjpbLTEwNjg5NTcyNCwzMTYzNDg0MDAsNDI3OD
+AzOTQ4LC0xMDEwNjYyMTMsLTUxMTY0MTMzNiw1Njc0NDQzMTMs
+MTgyMTU4OTMxOCwtNjkxOTk0MjgzLC04NjYwMzMxMjFdfQ==
 -->
