@@ -20,6 +20,16 @@ Otra opción sería invocar directamente el objeto `this;` para recibir un lista
 this
 ```
 
+## Limpiar la consola
+
+Cuando hay un exceso de mensajes, podemos limpiar la consola de nuestro navegador simplemente haciendo clic con el botón derecho y seleccionando clear console.
+
+También lo podemos hacer a través de código tecleando lo siguiente:
+
+ ```
+clear()
+```
+
 ## Usar los logs
 
 A la hora de desarrollar podemos enviar avisos a la consola directamente desde nuestra aplicación. Para ello usaremos los siguientes comandos:
@@ -45,6 +55,6 @@ Si hacemos uso de `debugger` podremos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMzOTA1MjcsLTE4MjIwMzgwMzIsLT
-E4MTI3MDc5MjEsLTUwNjk2NzkwNV19
+eyJoaXN0b3J5IjpbLTE1MjIyNjIwODksLTE3MzMzOTA1MjcsLT
+E4MjIwMzgwMzIsLTE4MTI3MDc5MjEsLTUwNjk2NzkwNV19
 -->
