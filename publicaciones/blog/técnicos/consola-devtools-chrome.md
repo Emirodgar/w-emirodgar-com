@@ -68,10 +68,11 @@ Por defecto, el mensaje que recibiremos será:
 
     Powered by AMP ⚡ HTML – Version 1911062056110 https://emirodgar.com/consola-devtools-chrome
 
-Una vez incluido la variable development=1 en la URL recibiremos un valor adicional informándonos de si la versión AMP es v
+Una vez incluido la variable development=1 en la URL recibiremos un valor adicional informándonos de si la versión AMP es válida o si por el contrario ha habido algún error.
 
-AMP validation successful.
+    AMP validation successful.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE4MjIwMzIsMTgyMTU4OTMxOCwtNj
-kxOTk0MjgzLC04NjYwMzMxMjFdfQ==
+eyJoaXN0b3J5IjpbNTY3NDQ0MzEzLDE4MjE1ODkzMTgsLTY5MT
+k5NDI4MywtODY2MDMzMTIxXX0=
 -->
