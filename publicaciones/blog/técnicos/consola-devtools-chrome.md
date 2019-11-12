@@ -53,11 +53,15 @@ Si hacemos uso de `debugger` podremos probar directamente el código javascript 
 
 Google dispone de un [tutorial básico](https://developers.google.com/web/tools/chrome-devtools/javascript?hl=es) pero completo.
 
-## Extensión gadebugger o inyect datapush
+## Analizar Google Analytics
 
 Google Analytics tiene una extensión para Chrome llamada [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna) a través de la cuál podremos analizar desde la consola de DevTools todo lo que se envía a Google Analytics.
 
 Es ideal para identificar problemas y validar implementaciones de analítica web bajo esta plataforma.
+
+También podemos interactuar directamente con el objeto de Google Analytics para, por ejemplo, obtener el ID de la cuenta:
+
+    ga.getAll()[0].b.data.values[':trackingId']
 
 ## Trabajar con la capa de datos
 
@@ -81,7 +85,7 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3ODAzOTQ4LC0xMDEwNjYyMTMsLTUxMT
-Y0MTMzNiw1Njc0NDQzMTMsMTgyMTU4OTMxOCwtNjkxOTk0Mjgz
-LC04NjYwMzMxMjFdfQ==
+eyJoaXN0b3J5IjpbMzE2MzQ4NDAwLDQyNzgwMzk0OCwtMTAxMD
+Y2MjEzLC01MTE2NDEzMzYsNTY3NDQ0MzEzLDE4MjE1ODkzMTgs
+LTY5MTk5NDI4MywtODY2MDMzMTIxXX0=
 -->
