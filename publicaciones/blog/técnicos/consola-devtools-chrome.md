@@ -12,6 +12,8 @@ permalink: consola-devtools-chrome
 
 # Interactuar con la consola de Google Chrome
 
+En cualquier navegador Google Chrome podemos pulsar la tecla `F12` y atuomáticamente se nos abrirá un panel
+
 ## Obtener listado de variables y objetos creados
 
 Si queremos conocer qué variables están disponibles
@@ -68,5 +70,5 @@ Si hacemos uso de `debugger` podremos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDM2MDY2Nl19
+eyJoaXN0b3J5IjpbLTg2NjAzMzEyMV19
 -->
