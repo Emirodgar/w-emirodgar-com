@@ -41,10 +41,11 @@ También lo podemos hacer a través de código tecleando `clear()`.
 A la hora de desarrollar podemos enviar avisos a la consola directamente desde nuestra aplicación. Para ello usaremos los siguientes comandos:
 
 - `console.log("texto")`: para un mensaje normal
+- `console.warn("texto")`: para un mensaje de aviso
 - `console.error("texto")`: para un mensaje de error
-- `console.warn("texto")`: para un mensaje de error
 
-Esto nos va a permitir identificar
+
+Esto nos va a permitir identificar de forma rápida lo que está ocurriendo en la página y la naturaleza de ello.
 
 ## Hacer debug
 
@@ -61,6 +62,6 @@ Si hacemos uso de `debugger` podremos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTU4OTMxOCwtNjkxOTk0MjgzLC04Nj
-YwMzMxMjFdfQ==
+eyJoaXN0b3J5IjpbLTIxMjkzMTY2NjIsMTgyMTU4OTMxOCwtNj
+kxOTk0MjgzLC04NjYwMzMxMjFdfQ==
 -->
