@@ -25,22 +25,14 @@ Si queremos conocer qué variables están disponibles tanto en el entorno del na
 
 Otra posibilidad sería hacer uso directamente del objeto `window.` y navegar por las diferentes opciones que nos ofrece. Desde aquí podremos acceder a todas las variables públicas, tanto del navegador como de la página.
 
+Otra opción sería invocar directamente el objeto `this` para recibir un listado completo de todas las opciones que tenemos disponibles.
 
-Otra opción sería invocar directamente el objeto `this;` para recibir un listado completo de todas las opciones que tenemos disponibles.
-
-```
-this
-```
 
 ## Limpiar la consola
 
 Cuando hay un exceso de mensajes, podemos limpiar la consola de nuestro navegador simplemente haciendo clic con el botón derecho y seleccionando clear console.
 
-También lo podemos hacer a través de código tecleando lo siguiente:
-
- ```
-clear()
-```
+También lo podemos hacer a través de código tecleando `clear()`.
 
 > Si en opciones tenemos habilitada la opción de **Preserve log**, el comando `clear()` no funcionará por lo que tendremos que hacerlo a través del menú contextual.
 
@@ -69,5 +61,6 @@ Si hacemos uso de `debugger` podremos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTk5NDI4MywtODY2MDMzMTIxXX0=
+eyJoaXN0b3J5IjpbMTgyMTU4OTMxOCwtNjkxOTk0MjgzLC04Nj
+YwMzMxMjFdfQ==
 -->
