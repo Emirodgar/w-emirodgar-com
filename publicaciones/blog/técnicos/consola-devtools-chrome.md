@@ -55,6 +55,10 @@ Google dispone de un [tutorial básico](https://developers.google.com/web/tools/
 
 ## Extensión gadebugger o inyect datapush
 
+Google Analytics tiene una extensión para Chrome llamada [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna) a través de la cuál podremos analizar desde la consola de DevTools todo lo que se envía a Google Analytics.
+
+Es ideal para identificar problemas y validar implementaciones de analítica web bajo esta plataforma.
+
 ## Trabajar con la capa de datos
 
     window.dataLayer = window.dataLayer || [];  
@@ -75,6 +79,7 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTY0MTMzNiw1Njc0NDQzMTMsMTgyMT
-U4OTMxOCwtNjkxOTk0MjgzLC04NjYwMzMxMjFdfQ==
+eyJoaXN0b3J5IjpbOTM5NDY5MDg1LC01MTE2NDEzMzYsNTY3ND
+Q0MzEzLDE4MjE1ODkzMTgsLTY5MTk5NDI4MywtODY2MDMzMTIx
+XX0=
 -->
