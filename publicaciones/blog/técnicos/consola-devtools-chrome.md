@@ -61,6 +61,8 @@ Es ideal para identificar problemas y validar implementaciones de analítica web
 
 ## Trabajar con la capa de datos
 
+También podemos interactuar de forma directa con la capa de datos. Por ejemplo, el siguiente código lanzará un evento
+
     window.dataLayer = window.dataLayer || [];  
     dataLayer.push ({  
     'event': 'erg_contacto'  
@@ -79,7 +81,7 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5NDY5MDg1LC01MTE2NDEzMzYsNTY3ND
-Q0MzEzLDE4MjE1ODkzMTgsLTY5MTk5NDI4MywtODY2MDMzMTIx
-XX0=
+eyJoaXN0b3J5IjpbLTEwMTA2NjIxMywtNTExNjQxMzM2LDU2Nz
+Q0NDMxMywxODIxNTg5MzE4LC02OTE5OTQyODMsLTg2NjAzMzEy
+MV19
 -->
