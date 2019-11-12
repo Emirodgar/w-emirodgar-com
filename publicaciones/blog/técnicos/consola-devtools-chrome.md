@@ -18,16 +18,13 @@ Veamos algunas de las funcionalidades de las que podemos hacer uso.
 
 ## Obtener listado de variables y objetos creados
 
-Si queremos conocer qué variables están disponibles tanto en el entorno del navegador como 
+Si queremos conocer qué variables están disponibles tanto en el entorno del navegador como los asociados a la página o aplicación web, podemos usar los siguientes comandos:
 
 -   `keys(window)`  para ver las variables
 -   `dir(window)`  para ver los objetos
 
-O también podemos hacer uso directamente del objeto `window` y navegar por las diferentes opciones que nos ofrece. Desde aquí podremos acceder a todas las variables públicas, tanto del navegador como de la página.
+Otra posibilidad sería hacer uso directamente del objeto `window.` y navegar por las diferentes opciones que nos ofrece. Desde aquí podremos acceder a todas las variables públicas, tanto del navegador como de la página.
 
-```
-window.
-```
 
 Otra opción sería invocar directamente el objeto `this;` para recibir un listado completo de todas las opciones que tenemos disponibles.
 
@@ -72,5 +69,5 @@ Si hacemos uso de `debugger` podremos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE4OTgwMzcsLTg2NjAzMzEyMV19
+eyJoaXN0b3J5IjpbLTY5MTk5NDI4MywtODY2MDMzMTIxXX0=
 -->
