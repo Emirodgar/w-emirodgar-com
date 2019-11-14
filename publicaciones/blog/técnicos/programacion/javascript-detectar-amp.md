@@ -19,7 +19,7 @@ De esta forma haciendo uso de `getElementsByTagName` podremos comprobar si el el
     document.getElementsByTagName('html')[0].hasAttribute('amp')
     document.getElementsByTagName('html')[0].hasAttribute('⚡')
 
-
+En el caso de ser AMP al menos uno de los dos comandos anteriores devolverá `true`, si no, ambos devolverán `false`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3ODczODEwXX0=
+eyJoaXN0b3J5IjpbLTU3MTE1NjEyN119
 -->
