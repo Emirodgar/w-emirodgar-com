@@ -14,12 +14,12 @@ Para poder determinar si una página web está haciendo uso del framework AMP o 
 
 Según la [documentación oficial](https://amp.dev/documentation/guides-and-tutorials/learn/spec/amphtml/?referrer=ampproject.org#required-markup) una página AMP debe comenzar siempre con `<html ⚡>` tag  o `<html amp>`.
 
-De esta forma podremos comprobar si 
+De esta forma haciendo uso de `getElementsByTagName` podremos comprobar si el elemento `html` tiene uno de los dos atributos.
 
     document.getElementsByTagName('html')[0].hasAttribute('amp')
     document.getElementsByTagName('html')[0].hasAttribute('⚡')
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDkxNzcyMl19
+eyJoaXN0b3J5IjpbNDYwMDIzOTAyXX0=
 -->
