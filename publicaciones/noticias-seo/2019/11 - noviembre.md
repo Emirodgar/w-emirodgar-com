@@ -15,8 +15,16 @@ permalink: noticias-seo/2019/octubre
 ## Cambio de algoritmo no oficial
 
 Google ha informado, tras la petición de la comunidad, que ha ocurrido un cambio de algoritmo pero igual que ocurren todas las semanas o al menos con cierta frecuencia. 
-Estas son las conclusiones:
 
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1194365014703923200">
+</amp-twitter>
+
+
+Estas son las conclusiones que podemos sacar de los comentarios de Google en Twitter:
 
 
  -   Google ha llevado a cabo varias actualizaciones durante la primera semana de noviembre, pero es algo que hacen de forma contínua. Algunas tienen un mayor impacto que otras
@@ -36,6 +44,6 @@ Google Discover ha entrado fuerte demostrando que puede ser una fuente de tráfi
 
 Excelente guía sobre los [códigos HTTP de las páginas web](https://www.contentkingapp.com/academy/http-status-codes/) y cómo afectan a las estrategias SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTQzNTU1OSwxMjY2Nzc2MjU1LDE1MD
-I3OTUwNThdfQ==
+eyJoaXN0b3J5IjpbMzEzNzU3OTAzLDEyNjY3NzYyNTUsMTUwMj
+c5NTA1OF19
 -->
