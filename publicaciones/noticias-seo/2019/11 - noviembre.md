@@ -21,7 +21,7 @@ Google Discover ha entrado fuerte demostrando que puede ser una fuente de tráfi
   data-tweetid="1192906838804582400">
 </amp-twitter>
 
-
+Excelente guía sobre los [códigos HTTP de las páginas web](https://www.contentkingapp.com/academy/http-status-codes/) y cómo afectan a las estrategias SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Njk2NTAwNiwxNTAyNzk1MDU4XX0=
+eyJoaXN0b3J5IjpbMTI2Njc3NjI1NSwxNTAyNzk1MDU4XX0=
 -->
