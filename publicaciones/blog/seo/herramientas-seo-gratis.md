@@ -139,6 +139,7 @@ Tan importante es trabajar el SEO de una página como poder medir el impacto de 
 - [https://keyword-hero.com/](https://keyword-hero.com/)
 - [https://sheetsformarketers.com/](https://sheetsformarketers.com/)
 - [https://feinternational.com/website-penalty-indicator/](https://feinternational.com/website-penalty-indicator/)
+- [Schema GTM Fix](https://saijogeorge.com/json-ld-schema-generator/tag-manager-fix/)
 
 ## <a name="conversion"></a>Optimizar la conversión
 
@@ -166,6 +167,7 @@ Las herramientas a continuación monitorizan millones de keywords relevantes por
 
 Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el trabajo SEO diario. Están todas agrupadas.
 
+- [\[Emirodgar SEO\]](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es)
 - [Extractor de entidades](https://chrome.google.com/webstore/detail/extractor-de-entidades/abngfjnmaobeaaheapakabhdoapfopdi)
 - [Ver renderizado](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob)
 - [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
@@ -181,9 +183,11 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [SEO Minion](https://seominion.com/)
 - [Checkbot (analizar tiempos de carga)](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 - [Panguin (penalizaciones Google)](https://barracuda.digital/panguin-seo-tool/)
+- [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOT
-g1MTI3MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5NDU0
-OSwzMDk4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX0=
+eyJoaXN0b3J5IjpbMTkwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNj
+I1OTA1MDEsMTk4NTEyNzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0
+MywtNDE2OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NT
+M4NzE2MV19
 -->
