@@ -9,13 +9,14 @@ permalink: factores-seo
 
 # Factores SEO 2020
 
-1194888570647072768
-<amp-img alt="Google mobile búsquedas actualización"
-  src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyword_assets_1445x1720.max-1000x1000.jpg"
-  width="1000"
-  height="1000"
-  layout="responsive">
-</amp-img>
+Esta es mi predicción de factores SEO que tendrán un impacto es las estrategias digitales durante 2020.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1194888570647072768">
+</amp-twitter>
 
 ## Factores SEO 2019
 
@@ -96,6 +97,6 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1ODA2NzM3LDE5MjQzODc1NDIsMTc3NT
-c2OTgyOV19
+eyJoaXN0b3J5IjpbMTA2MTQyNDAxOCwxOTI0Mzg3NTQyLDE3Nz
+U3Njk4MjldfQ==
 -->
