@@ -2,6 +2,11 @@
   "data": [
 	  
 	  [
+      "Peticiones no seguras (HTTP) podrían ocasionar problemas a Googlebot",
+      "Si aún tenemos peticiones HTTP bajo una conexión segura (HTTPS) podría generar problemas a Googlebot durante el renderizado.",
+      "https://twitter.com/googlewmc/status/1195341066972602368"
+    ], 
+	  [
       "Actualización Core del algoritmo de Google",
       "Google ha confirmado vía Twitter una actualización Core de su algoritmo. Según ellos, ocurren múltiples veces y algunas son más percentibles que otras. Ésta ha tenido un impacto moderado en los rankings.",
       "https://twitter.com/searchliaison/status/1194365014703923200"
