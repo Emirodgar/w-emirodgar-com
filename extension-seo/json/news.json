@@ -2,6 +2,11 @@
   "data": [
 	  
 	  [
+      "La geolocalización en GSC no garantiza una sola zona",
+      "Aunque geolocalicemos nuestra página web, esto no implicará que su visibilidad orgánica sea exclusiva de dicha zona. Podrá tener visibilidad en otros países.",
+      "https://twitter.com/JohnMu/status/1194141599913127946"
+    ],
+	  [
       "Rendimiento de productos en GSC",
       "Google Search Console nos permitirá a partir de hoy monitorizar el rendimiento y evolución de nuestros productos.",
       "https://webmasters.googleblog.com/2019/11/products-rich-results-search-appearance.html"
