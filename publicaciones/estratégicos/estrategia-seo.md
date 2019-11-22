@@ -77,7 +77,7 @@ Además del blog, gran parte del esfuerzo de febrero lo he concentrado en optimi
 Aunque soy consciente de que podría llegar a optimizar algo más, no he querido obsesionarme.
 
 <amp-img alt="Métricas usabilidad SEO web.dev del dominio emirodgar.com"
-  src="](https://i.imgur.com/5sI2ybv.png"
+  src="https://i.imgur.com/5sI2ybv.png"
   width="967"
   height="324"
   layout="responsive">
@@ -86,7 +86,7 @@ Aunque soy consciente de que podría llegar a optimizar algo más, no he querido
 La parte de AMP - que será el blog- está muy optimizado a excepción de la accesibilidad, que es un aspecto que no momento no voy a trabajar pero que no descarto para los próximos meses. 
 
 <amp-img alt="Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP"
-  src="](https://i.imgur.com/tcDllgb.png"
+  src="https://i.imgur.com/tcDllgb.png"
   width="967"
   height="324"
   layout="responsive">
@@ -131,7 +131,7 @@ De cara a poder posicionar por **consultor SEO** decidí crear varias páginas p
 Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
 
 <amp-img alt="consultor seo salamanca, emirodgar en segunda posición"
-  src="](https://i.imgur.com/u3RGo9e.png"
+  src="https://i.imgur.com/u3RGo9e.png"
   width="650"
   height="602"
   layout="responsive">
@@ -143,6 +143,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzYzODA2ODIsLTY4MTA4NjA0NCwtNj
-c0ODM3NDUwLDIxNzc5OTgzLC04MDk1ODA3MDZdfQ==
+eyJoaXN0b3J5IjpbLTU5NjI5MTk4OSwtNjgxMDg2MDQ0LC02Nz
+Q4Mzc0NTAsMjE3Nzk5ODMsLTgwOTU4MDcwNl19
 -->
