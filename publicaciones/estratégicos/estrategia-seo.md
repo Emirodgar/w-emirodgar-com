@@ -61,7 +61,7 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
   width="981"
   height="357"
   layout="responsive">
-</amp-img>)
+</amp-img>
 
 He decidido añadir un blog para poder generar contenido de actualidad con cierta facilidad. Utilizo dos tecnologías: 
 
@@ -81,7 +81,7 @@ Aunque soy consciente de que podría llegar a optimizar algo más, no he querido
   width="967"
   height="324"
   layout="responsive">
-</amp-img>)
+</amp-img>
 
 La parte de AMP - que será el blog- está muy optimizado a excepción de la accesibilidad, que es un aspecto que no momento no voy a trabajar pero que no descarto para los próximos meses. 
 
@@ -90,7 +90,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
   width="967"
   height="324"
   layout="responsive">
-</amp-img>)
+</amp-img>
 
 ## <a name="marzo"></a>Marzo: Más puertas de entrada
  
@@ -135,7 +135,7 @@ Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimizaci�
   width="650"
   height="602"
   layout="responsive">
-</amp-img>)
+</amp-img>
 
 Sé que no es mi objetivo principal y que es un término sin mucha competencia pero es un buen comienzo.
 
@@ -143,6 +143,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTA4NjA0NCwtNjc0ODM3NDUwLDIxNz
-c5OTgzLC04MDk1ODA3MDZdfQ==
+eyJoaXN0b3J5IjpbLTIxMzYzODA2ODIsLTY4MTA4NjA0NCwtNj
+c0ODM3NDUwLDIxNzc5OTgzLC04MDk1ODA3MDZdfQ==
 -->
