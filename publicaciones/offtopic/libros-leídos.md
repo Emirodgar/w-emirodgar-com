@@ -43,9 +43,9 @@ He querido continuar con la saga del **Cementerio de los libros olvidados** tras
 Por fin terminé la saga de 
 
 ## La chica del tren
-### Paula Hawkins / 2016 - 6/10
+### Paula Hawkins / 2015 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQwMzUwNTUsLTI5MTc5OTIwMiwtOT
+eyJoaXN0b3J5IjpbLTEzMzQzNTA2ODAsLTI5MTc5OTIwMiwtOT
 UyOTAyOTI5LC05NTI5MDI5MjksMTgwOTY2MjE5MiwtMTU1OTg5
 NzU0MF19
 -->
