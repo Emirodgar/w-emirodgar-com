@@ -18,13 +18,19 @@ El primer paso es el más importante, necesitamos definir un objetivo para que e
 
 Con ello claro, podremos identificar los recursos que necesitamos.
 
-## 2 - Define metas
+## 2 - Establece metas realistas
 
 El objetivo global de la web es importante pero es demasiado genérico, por ello, el siguiente paso será establecer metas concretas para alcanzar dicho objetivo global. Por ejemplo:
 
  - Incrementar la visibilidad de la marca
- - Inc
+ - Incrementar las ventas
+ - Reducir el tiempo de rebote en el blog
+ - etc.
+
+##
+
+## Crea un plan de medición
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA0Nzk3NTBdfQ==
+eyJoaXN0b3J5IjpbMjQ0MjU4Mzc3XX0=
 -->
