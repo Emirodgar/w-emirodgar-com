@@ -1,10 +1,10 @@
 ---
-description: Una forma sencilla y rápida de recoger información acerca de los errores que ocurren en nuestra página web
+description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
 lang: es_ES
 author: Emirodgar
 tags: seo, google, gtm, analytics
 date: 18/12/2019
-image: https://emirodgar.com/cdn/images/og/a.png
+image: https://emirodgar.com/cdn/images/og/analitica.png
 permalink: trucos-google.analytics
 
 ---
@@ -70,11 +70,12 @@ Dentro de las múltiples cosas que podemos hacer dentro de Analytics, recomiendo
  5. Si tienes buscador interno en la página, darlo de alta en Analytics para registrar las búsquedas de los usuarios.
  6. Crear informes personalizados con nuestras metas principales y sus KPIs asociados. Así ahorramos tiempo a la hora de realizar consultas. Podemos incluso programarlos.
  7. Establecer alertas para casos peligroso (una caída del tráfico orgánico superior al 50%, descenso de ventas menor del 40%, etc.).
+ 8. Registra los errores que ocurren en tu web para poder solucionarlos.
 
 ## 10 - Implementar Analytics a través de Tag Manager
 
 Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una página web. De esta forma centralizamos todos los códigos -no sólo el de Analytics- en una única plataforma.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTMxODU1ODAsOTcyOTI2MTQ0XX0=
+eyJoaXN0b3J5IjpbMTYwMzQ2Mjg4Miw5NzI5MjYxNDRdfQ==
 -->
