@@ -38,7 +38,11 @@ Llega el momento de unificar todo en un único documento que llamaremos "**plan 
 
 Cada acción ejecutada sobre la web debe ser registrada en dicho plan para poder evaluar su impacto y aprender de ello.
 
-## 5 - Aprender a usar Google 
+## 5 - Aprender a usar Google Analytics
+
+La forma más sencilla y accesible es a través de los cursos gratuitos de [Google Academy](https://analytics.google.com/analytics/academy/). De esta forma dispondremos de una base sólida para poder trabajar con dicha plataforma.
+
+## 5 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5NDk2NzIzXX0=
+eyJoaXN0b3J5IjpbOTU1NDI1MTUzXX0=
 -->
