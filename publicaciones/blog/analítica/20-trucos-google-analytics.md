@@ -62,7 +62,13 @@ Si hacemos uso de algún otro servicio de Google y éste tiene conector, es impo
 
 ## 9 - Configura la plataforma para medir adecuadamente
 
-Dentro de las múltiples cosas que podemos hacer dentro de Analytics, recomiendo comenzar por 
+Dentro de las múltiples cosas que podemos hacer dentro de Analytics, recomiendo comenzar por las siguientes:
+
+ 1. Crear una vista RAW con todos los datos en bruto (no filtramos nada).
+ 2. Crear una vista que excluya nuestro tráfico interno (así medimos únicamente el tráfico de nuestros usuarios)
+ 3. Dar de alta objetivos.
+ 4. Personalizar y adaptar (si fuera necesario) la agrupación de canales por defecto.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODM5MjI3Miw5NzI5MjYxNDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MzQxMDM3MTQsOTcyOTI2MTQ0XX0=
 -->
