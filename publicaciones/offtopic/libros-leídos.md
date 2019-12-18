@@ -21,7 +21,7 @@ A continuación detallo los libros que recomiendo leer.
 | La sombra del viento | Carlos Ruíz Zafón
 | [El juego del Ángel](#juego-angel) | Carlos Ruíz Zafón |
 
-Éste es el listado completo de los libros que he leído desde entonces y que han conseguido que me pierda entre sus páginas.
+Éste es el listado completo de los libros que he leído hasta la fecha. Por cada uno de ellos dejo un pequeño comentario y la frase que más me ha gustado del mismo
 
 ## El asesinato de Pitágoras
 ### Marcos Chicot / 2013 - 6/10
@@ -59,7 +59,7 @@ Creo que se podría haber condensado y darle un final a la saga mucho más digno
 ## La chica del tren
 ### Paula Hawkins / 2015 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjgzMzY5OTAsLTI5MTc5OTIwMiwtOT
-UyOTAyOTI5LC05NTI5MDI5MjksMTgwOTY2MjE5MiwtMTU1OTg5
-NzU0MF19
+eyJoaXN0b3J5IjpbMjMwMDUwMDY5LC0yOTE3OTkyMDIsLTk1Mj
+kwMjkyOSwtOTUyOTAyOTI5LDE4MDk2NjIxOTIsLTE1NTk4OTc1
+NDBdfQ==
 -->
