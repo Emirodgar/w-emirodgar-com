@@ -60,7 +60,9 @@ Analytics nos permite conectar múltiples servicios/herramientas a su plataforma
 
 Si hacemos uso de algún otro servicio de Google y éste tiene conector, es importante conectar ambas plataformas.
 
-##
+## 9 - Configura la plataforma para medir adecuadamente
+
+Dentro de las múltiples cosas que podemos hacer dentro de Analytics, recomiendo comenzar por 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTQ3OTcwNyw5NzI5MjYxNDRdfQ==
+eyJoaXN0b3J5IjpbMjA0ODM5MjI3Miw5NzI5MjYxNDRdfQ==
 -->
