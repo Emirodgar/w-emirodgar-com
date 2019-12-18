@@ -14,9 +14,17 @@ permalink: trucos-google.analytics
 
 ## 1 - Define un objetivo
 
-El primer paso es el más importante, necesitamos definir un objetivo para que el resto del camino tenga sentido. Básicamente se trata de responder la pregunta de ¿qué es lo que queremos conseguir con la página o la aplicación web?
+El primer paso es el más importante, necesitamos definir un objetivo para que el resto del camino tenga sentido. Básicamente se trata de responder la pregunta de **¿qué es lo que queremos conseguir con la página o la aplicación web?**.
+
+Con ello claro, podremos identificar los recursos que necesitamos.
 
 ## 2 - Define metas
+
+El objetivo global de la web es importante pero es demasiado genérico, por ello, el siguiente paso será establecer metas concretas para alcanzar dicho objetivo global. Por ejemplo:
+
+ - Incrementar la visibilidad de la marca
+ - Inc
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTcxOTM3NDNdfQ==
+eyJoaXN0b3J5IjpbLTEwODA0Nzk3NTBdfQ==
 -->
