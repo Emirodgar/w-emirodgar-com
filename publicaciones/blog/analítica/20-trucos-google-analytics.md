@@ -42,9 +42,9 @@ Cada acción ejecutada sobre la web debe ser registrada en dicho plan para poder
 
 La forma más sencilla y accesible es a través de los cursos gratuitos de [Google Academy](https://analytics.google.com/analytics/academy/). De esta forma dispondremos de una base sólida para poder trabajar con dicha plataforma.
 
-## 6 - Vigila el porcentaje de rebote
+## 6 -Analiza el porcentaje de rebote
 
-Un porcentaje de rebote alto (gente que al entrar en nuestra web sale sin interactuar con la misma) puede implicar que no estamos captando el público adecuado
+Un **porcentaje de rebote alto** (gente que al entrar en nuestra web sale sin interactuar con la misma) puede implicar que no estamos captando el público adecuado o que no estamos ofreciendo una respuesta adecuada a sus preguntas. Esto implicaría
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzA2OTE3Ml19
+eyJoaXN0b3J5IjpbLTE0NjEzNjgwOTRdfQ==
 -->
