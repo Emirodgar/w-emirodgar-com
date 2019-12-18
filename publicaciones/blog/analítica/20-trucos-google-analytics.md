@@ -27,10 +27,13 @@ El objetivo global de la web es importante pero es demasiado genérico, por ello
  - Reducir el tiempo de rebote en el blog
  - etc.
 
-##
+## 3 - Identifica los KPIs relevantes
+
+Para cada meta necesitamos establecer un KPI (dos como máximo) que nos permita conocer la evolución del mismo
 
 ## Crea un plan de medición
 
+Llega el momento de unificar todo en un único documento que llamaremos "plan de medición". Aquí debemos registrar el progreso de los KPIs de forma periódica para poder conocer si avanzamos en la línea adecuad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0MjU4Mzc3XX0=
+eyJoaXN0b3J5IjpbMTcyNzY1NzAzNV19
 -->
