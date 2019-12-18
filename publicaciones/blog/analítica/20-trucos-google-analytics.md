@@ -56,7 +56,11 @@ Recomiendo hacer uso de la herramienta [URL Builder](https://ga-dev-tools.appspo
 
 ## 8 - Conecta todas las herramientas de Google
 
-Analytics nos permite conectar múltiples servicios/herramientas a su plataforma. Entre las más relevantes y que recomiendo, estarían: Search Console, Ads
+Analytics nos permite conectar múltiples servicios/herramientas a su plataforma. Entre las más relevantes y que recomiendo, estarían: Google Search Console y Google Ads.
+
+Si hacemos uso de algún otro servicio de Google y éste tiene conector, es importante conectar ambas plataformas.
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyOTI2MTQ0XX0=
+eyJoaXN0b3J5IjpbLTU3OTQ3OTcwNyw5NzI5MjYxNDRdfQ==
 -->
