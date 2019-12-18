@@ -42,7 +42,9 @@ He querido continuar con la saga del **Cementerio de los libros olvidados** tras
 
 Por fin terminé la saga donde se dan respuestas a todas las preguntas que llevába arrastrando en los tres libros anteriores.
 
-Me ha gustado más que El prisionero del cielo pero se me ha hecho largo y con saltos (de personajes o narrativa) q
+Me ha gustado más que "El prisionero del cielo" pero se me ha hecho largo y con saltos (de personajes o narrativa) que me han hecho perder el hilo y el interés en varias ocasiones.
+
+Creo que se podría haber condensado y darle un final a la saga mucho más digno, aún así, entretenido. Los personajes de Fermín y Alicia han devuelto originalidad 
 
 > Los recuerdos que uno entierra en el silencio son los que nunca dejan de perseguirle.
 
@@ -50,7 +52,7 @@ Me ha gustado más que El prisionero del cielo pero se me ha hecho largo y con s
 ## La chica del tren
 ### Paula Hawkins / 2015 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTA1MDU5OCwtMjkxNzk5MjAyLC05NT
-I5MDI5MjksLTk1MjkwMjkyOSwxODA5NjYyMTkyLC0xNTU5ODk3
-NTQwXX0=
+eyJoaXN0b3J5IjpbMjUzOTU2NjU0LC0yOTE3OTkyMDIsLTk1Mj
+kwMjkyOSwtOTUyOTAyOTI5LDE4MDk2NjIxOTIsLTE1NTk4OTc1
+NDBdfQ==
 -->
