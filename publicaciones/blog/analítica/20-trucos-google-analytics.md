@@ -76,8 +76,8 @@ Dentro de las múltiples cosas que podemos hacer dentro de Analytics, recomiendo
 
 Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una página web. De esta forma centralizamos todos los códigos -no sólo el de Analytics- en una única plataforma.  
 
-Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería activar el User-ID para hacer un seguimiento más eficiente de los usuarios.
+Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Nzc3OTY4Nyw5NzI5MjYxNDRdfQ==
+eyJoaXN0b3J5IjpbMTQ5NjQ0Nzc3Myw5NzI5MjYxNDRdfQ==
 -->
