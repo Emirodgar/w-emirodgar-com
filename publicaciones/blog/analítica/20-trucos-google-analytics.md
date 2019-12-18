@@ -50,7 +50,9 @@ Es importante analizar el porcentaje global de la página pero sobre todo hacerl
 
 ## 7 - Etiqueta las campañas con UTMs
 
-Google pone a nuestra disposición los parámetros UTMs para poder identificar tráfico de campañas específicas. E
+Google pone a nuestra disposición los parámetros de campaña -conocidos como UTMs- para poder identificar tráfico de campañas específicas. Es interesante usarlos para analizar cada esfuerzo (especialmente aquellos de pago) de forma estanca evitando mezclar tráfico.
+
+Recomiendo hacer uso de la herramienta [URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) para evitar errores en la generación de la URL final que tendremos que compartir para registrar el tráfico que genere hacia nuestra p.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDQ0Njg2N119
+eyJoaXN0b3J5IjpbMTkwMjkwODM2M119
 -->
