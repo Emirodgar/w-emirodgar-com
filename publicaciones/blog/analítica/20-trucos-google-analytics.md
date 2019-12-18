@@ -70,12 +70,14 @@ Dentro de las múltiples cosas que podemos hacer dentro de Analytics, recomiendo
  5. Si tienes buscador interno en la página, darlo de alta en Analytics para registrar las búsquedas de los usuarios.
  6. Crear informes personalizados con nuestras metas principales y sus KPIs asociados. Así ahorramos tiempo a la hora de realizar consultas. Podemos incluso programarlos.
  7. Establecer alertas para casos peligroso (una caída del tráfico orgánico superior al 50%, descenso de ventas menor del 40%, etc.).
- 8. Registra los errores que ocurren en tu web para poder solucionarlos.
+ 8. Registra los [errores que ocurren en tu web](https://emirodgar.com/registrar-errores-web-con-google-analytics-tag-manager) para poder solucionarlos.
 
 ## 10 - Implementar Analytics a través de Tag Manager
 
 Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una página web. De esta forma centralizamos todos los códigos -no sólo el de Analytics- en una única plataforma.  
 
+Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería activar el User-ID para hacer un seguimiento más eficiente de los usuarios.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzQ2Mjg4Miw5NzI5MjYxNDRdfQ==
+eyJoaXN0b3J5IjpbMjA4Nzc3OTY4Nyw5NzI5MjYxNDRdfQ==
 -->
