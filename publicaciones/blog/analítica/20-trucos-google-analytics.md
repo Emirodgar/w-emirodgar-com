@@ -68,7 +68,10 @@ Dentro de las múltiples cosas que podemos hacer dentro de Analytics, recomiendo
  2. Crear una vista que excluya nuestro tráfico interno (así medimos únicamente el tráfico de nuestros usuarios)
  3. Dar de alta objetivos.
  4. Personalizar y adaptar (si fuera necesario) la agrupación de canales por defecto.
+ 5. Si tienes buscador interno en la página, darlo de alta en Analytics para registrar las búsquedas de los usuarios.
+ 6. Crear informes personalizados con nuestras metas principales y sus KPIs asociados. Así ahorramos tiempo a la hora de realizar consultas.
+ 7. Establecer alertas para casos peligroso (una caída del tráfico orgánico superior al 50%, descenso de ventas menor del 40 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQxMDM3MTQsOTcyOTI2MTQ0XX0=
+eyJoaXN0b3J5IjpbMTQ2NTY3NjM1Myw5NzI5MjYxNDRdfQ==
 -->
