@@ -44,7 +44,7 @@ Por fin terminé la saga donde se dan respuestas a todas las preguntas que llev�
 
 Me ha gustado más que "El prisionero del cielo" pero se me ha hecho largo y con saltos (de personajes o narrativa) que me han hecho perder el hilo y el interés en varias ocasiones.
 
-Creo que se podría haber condensado y darle un final a la saga mucho más digno, aún así, entretenido. Los personajes de Fermín y Alicia han devuelto originalidad 
+Creo que se podría haber condensado y darle un final a la saga mucho más digno, aún así, entretenido. Los personajes de Fermín y Alicia han devuelto originalidad y frescura a la narración. 
 
 > Los recuerdos que uno entierra en el silencio son los que nunca dejan de perseguirle.
 
@@ -52,7 +52,7 @@ Creo que se podría haber condensado y darle un final a la saga mucho más digno
 ## La chica del tren
 ### Paula Hawkins / 2015 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzOTU2NjU0LC0yOTE3OTkyMDIsLTk1Mj
+eyJoaXN0b3J5IjpbOTA5NDg2NDYxLC0yOTE3OTkyMDIsLTk1Mj
 kwMjkyOSwtOTUyOTAyOTI5LDE4MDk2NjIxOTIsLTE1NTk4OTc1
 NDBdfQ==
 -->
