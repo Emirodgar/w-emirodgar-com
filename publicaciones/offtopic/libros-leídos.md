@@ -12,6 +12,11 @@ permalink: libros-recomendados
 
 # Libros que recomiendo leer
 
+| Libro | Autor |
+|--|--|
+| El juego del Ángel | Carlos Ruíz Zafón |
+
+
 Tras la adquisición de un Kindle por mi cumpleaños el verano de 2019 me propuse recuperar una de mis grandes aficiones que tenía abandonada: **la lectura**.
 
 Estos son algunos de los libros que he leído desde entonces y que han conseguido que me pierda entre sus páginas.
@@ -23,7 +28,7 @@ Entretenido y muy sencillo de leer. La trama es algo justa pero se compensa con 
 
 > El objetivo de cada hombre no debe ser llegar a un punto, sino avanzar desde donde está.
 
-## El juego del Ángel
+## <El juego del Ángel
 ### Carlos Ruíz Zafón / 2008 - 7/10
 
 Hace ya tiempo que leí **La sombra del viento** y tenía ganas de meterle mano a esta trepidante saga del **Cementerio de los libros olvidados**. No me ha defraudado. Destaco los detalles en la narración que me han ayudado a sumergirme de lleno en esa Barcelona olvidada de los años 20 de la mano de David Martín. Excelente narrativa.
@@ -52,7 +57,7 @@ Creo que se podría haber condensado y darle un final a la saga mucho más digno
 ## La chica del tren
 ### Paula Hawkins / 2015 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5NDg2NDYxLC0yOTE3OTkyMDIsLTk1Mj
-kwMjkyOSwtOTUyOTAyOTI5LDE4MDk2NjIxOTIsLTE1NTk4OTc1
-NDBdfQ==
+eyJoaXN0b3J5IjpbMTk1NTU3NTcyOSwtMjkxNzk5MjAyLC05NT
+I5MDI5MjksLTk1MjkwMjkyOSwxODA5NjYyMTkyLC0xNTU5ODk3
+NTQwXX0=
 -->
