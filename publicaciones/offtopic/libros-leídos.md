@@ -38,8 +38,14 @@ He querido continuar con la saga del **Cementerio de los libros olvidados** tras
 > A veces se cansa uno de huir. El mundo es muy pequeño cuando no se tiene adónde ir.
 
 ## El laberinto de los espíritus
-### Carlos Ruíz Zafón / 2016 - 
+### Carlos Ruíz Zafón / 2016 - 6/10
+
+Por fin terminé la saga de 
+
+## La chica del tren
+### Paula Hawkins / 2016 - 6/10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTc5OTIwMiwtOTUyOTAyOTI5LC05NT
-I5MDI5MjksMTgwOTY2MjE5MiwtMTU1OTg5NzU0MF19
+eyJoaXN0b3J5IjpbLTE4NzQwMzUwNTUsLTI5MTc5OTIwMiwtOT
+UyOTAyOTI5LC05NTI5MDI5MjksMTgwOTY2MjE5MiwtMTU1OTg5
+NzU0MF19
 -->
