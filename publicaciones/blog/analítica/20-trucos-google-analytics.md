@@ -52,7 +52,11 @@ Es importante analizar el porcentaje global de la página pero sobre todo hacerl
 
 Google pone a nuestra disposición los parámetros de campaña -conocidos como UTMs- para poder identificar tráfico de campañas específicas. Es interesante usarlos para analizar cada esfuerzo (especialmente aquellos de pago) de forma estanca evitando mezclar tráfico.
 
-Recomiendo hacer uso de la herramienta [URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) para evitar errores en la generación de la URL final que tendremos que compartir para registrar el tráfico que genere hacia nuestra p.
+Recomiendo hacer uso de la herramienta [URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) para evitar errores en la generación de la URL final que tendremos que compartir para registrar el tráfico generado hacia nuestra página.
+
+## 8 - Conecta todas las herramientas de Google
+
+Analytics nos permite conectar múltiples servicios/herramientas a su plataforma. Entre las más relevantes y que recomiendo, estarían: Search Console, Ads
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjkwODM2M119
+eyJoaXN0b3J5IjpbOTcyOTI2MTQ0XX0=
 -->
