@@ -42,9 +42,15 @@ Cada acción ejecutada sobre la web debe ser registrada en dicho plan para poder
 
 La forma más sencilla y accesible es a través de los cursos gratuitos de [Google Academy](https://analytics.google.com/analytics/academy/). De esta forma dispondremos de una base sólida para poder trabajar con dicha plataforma.
 
-## 6 -Analiza el porcentaje de rebote
+## 6 - Analiza el porcentaje de rebote
 
-Un **porcentaje de rebote alto** (gente que al entrar en nuestra web sale sin interactuar con la misma) puede implicar que no estamos captando el público adecuado o que no estamos ofreciendo una respuesta adecuada a sus preguntas. Esto implicaría
+Un **porcentaje de rebote alto** (gente que al entrar en nuestra web sale sin interactuar con la misma) puede implicar que no estamos captando el público adecuado o que no estamos ofreciendo la respuesta a sus preguntas. 
+
+Es importante analizar el porcentaje global de la página pero sobre todo hacerlo por secciones puesto que cada una de ellas pueden tener esperar un comportamiento diferente de los usuarios.
+
+## 7 - Etiqueta las campañas con UTMs
+
+Google pone a nuestra disposición los parámetros UTMs para poder identificar tráfico de campañas específicas. E
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjEzNjgwOTRdfQ==
+eyJoaXN0b3J5IjpbMTU0NDQ0Njg2N119
 -->
