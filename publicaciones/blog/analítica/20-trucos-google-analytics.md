@@ -29,11 +29,13 @@ El objetivo global de la web es importante pero es demasiado genérico, por ello
 
 ## 3 - Identifica los KPIs relevantes
 
-Para cada meta necesitamos establecer un KPI (dos como máximo) que nos permita conocer la evolución del mismo
+Para cada meta necesitamos establecer un KPI (dos como máximo) que nos permita conocer la evolución del mismo. Esto evitará que 
 
-## Crea un plan de medición
+## 4 - Crea un plan de medición
 
-Llega el momento de unificar todo en un único documento que llamaremos "plan de medición". Aquí debemos registrar el progreso de los KPIs de forma periódica para poder conocer si avanzamos en la línea adecuad
+Llega el momento de unificar todo en un único documento que llamaremos "**plan de medición**". Aquí debemos registrar el progreso de los KPIs de forma periódica para poder conocer si avanzamos en la línea adecuada o si estamos lejos de alcanzar las metas propuestas.
+
+Cada acción ejecutada sobre la web debe ser registrada en dicho plan para poder evaluar su impacto y aprender de ello.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzY1NzAzNV19
+eyJoaXN0b3J5IjpbLTE2NTIyMDMzOTldfQ==
 -->
