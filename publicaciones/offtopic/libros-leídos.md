@@ -40,12 +40,17 @@ He querido continuar con la saga del **Cementerio de los libros olvidados** tras
 ## El laberinto de los espíritus
 ### Carlos Ruíz Zafón / 2016 - 6/10
 
-Por fin terminé la saga de 
+Por fin terminé la saga donde se dan respuestas a todas las preguntas que llevába arrastrando en los tres libros anteriores.
+
+Me ha gustado más que El prisionero del cielo pero se me ha hecho largo y con saltos (de personajes o narrativa) q
+
+> Los recuerdos que uno entierra en el silencio son los que nunca dejan de perseguirle.
+
 
 ## La chica del tren
 ### Paula Hawkins / 2015 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQzNTA2ODAsLTI5MTc5OTIwMiwtOT
-UyOTAyOTI5LC05NTI5MDI5MjksMTgwOTY2MjE5MiwtMTU1OTg5
-NzU0MF19
+eyJoaXN0b3J5IjpbLTk2MTA1MDU5OCwtMjkxNzk5MjAyLC05NT
+I5MDI5MjksLTk1MjkwMjkyOSwxODA5NjYyMTkyLC0xNTU5ODk3
+NTQwXX0=
 -->
