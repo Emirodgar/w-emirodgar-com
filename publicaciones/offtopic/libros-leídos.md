@@ -14,9 +14,14 @@ permalink: libros-recomendados
 
 Tras la adquisición de un Kindle por mi cumpleaños el verano de 2019 me propuse recuperar una de mis grandes aficiones que tenía abandonada: **la lectura**.
 
-A contin
+A continuación detallo los libros que recomiendo leer.
 
-Estos son algunos de los libros que he leído desde entonces y que han conseguido que me pierda entre sus páginas.
+| Libro | Autor |
+|--|--|
+| La sombra del viento | Carlos Ruíz Zafón
+| [El juego del Ángel](#juego-angel) | Carlos Ruíz Zafón |
+
+Éste es el listado completo de los libros que he leído desde entonces y que han conseguido que me pierda entre sus páginas.
 
 ## El asesinato de Pitágoras
 ### Marcos Chicot / 2013 - 6/10
@@ -54,7 +59,7 @@ Creo que se podría haber condensado y darle un final a la saga mucho más digno
 ## La chica del tren
 ### Paula Hawkins / 2015 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDYzMTk5OCwtMjkxNzk5MjAyLC05NT
-I5MDI5MjksLTk1MjkwMjkyOSwxODA5NjYyMTkyLC0xNTU5ODk3
-NTQwXX0=
+eyJoaXN0b3J5IjpbLTIwNjgzMzY5OTAsLTI5MTc5OTIwMiwtOT
+UyOTAyOTI5LC05NTI5MDI5MjksMTgwOTY2MjE5MiwtMTU1OTg5
+NzU0MF19
 -->
