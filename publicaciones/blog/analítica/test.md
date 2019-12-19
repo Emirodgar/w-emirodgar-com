@@ -4,20 +4,16 @@ layout: post
 
 ---
 
-# test
+# H1 - titulo
 
-## prueba 2
+## H2 - ejemplo
 dfsd
 xcv
 xv
 xcv
 
  
-TABLA de contenidos
-* toc
-			{:toc}
-{% include toc.html %}
-{% include toc.md %}
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA3MTU4NjldfQ==
+eyJoaXN0b3J5IjpbLTczOTk5MzQyNywtMjAyMDcxNTg2OV19
 -->
