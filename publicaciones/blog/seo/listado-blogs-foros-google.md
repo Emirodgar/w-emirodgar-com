@@ -4,6 +4,9 @@ description: Si vas a trabajar una estrategia digital necesitarás saber dónde 
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 date: 23/08/2019
 author: Emirodgar
+sitemap: 1
+feed: 1
+folder: seo
 lang: es_ES
 permalink: listado-blogs-foros-google
 
@@ -138,6 +141,6 @@ He preparado un listado de blogs, foros y también perfiles de Twitter oficiales
 
 Aunque no son perfiles oficiales de Google, recomiendo seguir a [John Mueller](https://twitter.com/JohnMu) (Webmaster Trends Analyst en Google) y a [Danny Sullivan](https://twitter.com/dannysullivan) (responsable de la divisón de Google Search). Siempre aportan valor en debates interesantes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxNDgyMDI0LDEwNzQ0NTY5MDQsNTA5Nj
-kwMzY4LC0xMDA0ODE4OTQ5XX0=
+eyJoaXN0b3J5IjpbLTI3NDUzNzQ5Miw4OTE0ODIwMjQsMTA3ND
+Q1NjkwNCw1MDk2OTAzNjgsLTEwMDQ4MTg5NDldfQ==
 -->
