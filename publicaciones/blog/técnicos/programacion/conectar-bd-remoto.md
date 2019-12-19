@@ -2,6 +2,9 @@
 title: Conectar a una base de datos MySQL en remoto
 description: Diferentes formas para acceder y trabajar con una base de datos MySQL en remoto.
 lang: es_ES
+sitemap: 1
+feed: 1
+folder: programacion
 permalink: conectar-a-una-base-de-datos-mysql-en-remoto
   
 ---
@@ -30,5 +33,5 @@ Al principio pensé en hacerme un script PHP, pero desde luego que algo tan senc
   
 Si no necesitas programas de gestión de bases de datos sino que lo que buscas es simple y llanamente un programa para hacer copias de seguridad, te recomiendo MyAutoBackup o cualquier aplicación similar que permita programas copias de seguridad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTM2ODE4MV19
+eyJoaXN0b3J5IjpbMTUzMjMwOTA1MCwtNjM5MzY4MTgxXX0=
 -->
