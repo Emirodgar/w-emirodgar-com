@@ -30,7 +30,7 @@ Así lo ha confirmado Danny vía Twitter
   data-tweetid="1204346973614202882">
 </amp-twitter>
 
-Den
+Dentro de las lecturas interesantes de este mes destaco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzY5NDgyOCwxNjEyMjMzODc1XX0=
+eyJoaXN0b3J5IjpbLTE3NjA0NDQ3MjAsMTYxMjIzMzg3NV19
 -->
