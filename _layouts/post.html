@@ -193,10 +193,7 @@
 	  <div id="logo"><a href="https://emirodgar.com" class="standard-logo"><b>EMIRODGAR</b><i style="font-size:19px;"> digital</i></a></div>
       <article class="post">
          <section class="post-content">
-            {% include toc.html %}
-			{% include toc.md %}
-			* toc
-			{:toc}
+            {% include toc.html html=content %}
 			{{ content }}
          </section>
          <footer class="post-footer">
