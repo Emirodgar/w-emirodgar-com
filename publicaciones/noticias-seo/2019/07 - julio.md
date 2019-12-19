@@ -3,7 +3,9 @@ title: Noticias SEO - julio 2019
 description: Recopilación de noticias y enlaces de interés relacionados con el SEO y Marketing digital
 lang: es_ES
 author: Emirodgar
-tags: noticias
+sitemap: 1
+feed: 1
+folder: noticias
 date: 11/07/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: noticias-seo/2019/julio
@@ -83,9 +85,10 @@ Interesante artículo acerca de [cómo Bing "roba" tráfico orgánico a Google](
 
 Me gustaría destacar este [generador de datos estructurados de preguntas y respuestas](https://saijogeorge.com/json-ld-schema-generator/faq/). Simple y rápido. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc2MDgwOCwtMTk2NTQyNDg0OSwtMT
-E0NzYwNjQ4MywyMDkwNTI0NDQsLTE4MjEzMjU2MzYsLTE0OTA4
-MDU4NTcsLTY4ODMwODU1OCwtNjY1MTA1MzksLTEwNzM3MjM1Nz
-EsLTEwMDQyMjgzMzYsLTE0MzI3NzY3ODAsMTcwNTA1NDIzMCw4
-MTE2MzgwMDUsLTI2NTAzODIzNSwtMTYyNjA2NTg2N119
+eyJoaXN0b3J5IjpbMzI4MzM0NzEwLC0xNzQ3NjA4MDgsLTE5Nj
+U0MjQ4NDksLTExNDc2MDY0ODMsMjA5MDUyNDQ0LC0xODIxMzI1
+NjM2LC0xNDkwODA1ODU3LC02ODgzMDg1NTgsLTY2NTEwNTM5LC
+0xMDczNzIzNTcxLC0xMDA0MjI4MzM2LC0xNDMyNzc2NzgwLDE3
+MDUwNTQyMzAsODExNjM4MDA1LC0yNjUwMzgyMzUsLTE2MjYwNj
+U4NjddfQ==
 -->
