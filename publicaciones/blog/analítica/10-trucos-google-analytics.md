@@ -19,7 +19,7 @@ TABLA de contenidos
 {% include toc.html %}
 {% include toc.md %}
 
-## 1 - Define un objetivo
+## 1 - Define un objetivo global
 
 El primer paso es el más importante: necesitamos definir un objetivo para que el resto del camino tenga sentido. Básicamente se trata de responder la pregunta de **¿qué es lo que queremos conseguir con la página o la aplicación web?**.
 
@@ -88,9 +88,9 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxMDU5NDczLC0xNjMyMTQwNTMzLC0xOD
-gyNjU3NjY0LC02NzQxMDY1NjUsLTEwNzMwODUxLC0xODUwMDQz
-MzYzLC0zNTgyMDU2NDIsLTEyNjAyNzc1ODgsLTE4NjUzMzEwLD
-EzMzk1ODY2MjQsLTE0ODU3OTg2OTQsLTE0NDkyNzI5OTZdfQ==
+eyJoaXN0b3J5IjpbLTg4MTU1MjI0NCwtMTYzMjE0MDUzMywtMT
+g4MjY1NzY2NCwtNjc0MTA2NTY1LC0xMDczMDg1MSwtMTg1MDA0
+MzM2MywtMzU4MjA1NjQyLC0xMjYwMjc3NTg4LC0xODY1MzMxMC
+wxMzM5NTg2NjI0LC0xNDg1Nzk4Njk0LC0xNDQ5MjcyOTk2XX0=
 
 -->
