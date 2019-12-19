@@ -13,6 +13,7 @@ permalink: trucos-google-analytics
 
 # 10 trucos para comenzar con Google Analytics
 
+TABLA de contenidos
 * toc
 			{:toc}
 {% include toc.html %}
@@ -87,7 +88,7 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExOTc5OTI2LC0xNjMyMTQwNTMzLC0xOD
+eyJoaXN0b3J5IjpbMjcxMDU5NDczLC0xNjMyMTQwNTMzLC0xOD
 gyNjU3NjY0LC02NzQxMDY1NjUsLTEwNzMwODUxLC0xODUwMDQz
 MzYzLC0zNTgyMDU2NDIsLTEyNjAyNzc1ODgsLTE4NjUzMzEwLD
 EzMzk1ODY2MjQsLTE0ODU3OTg2OTQsLTE0NDkyNzI5OTZdfQ==
