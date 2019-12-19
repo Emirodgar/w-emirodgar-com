@@ -34,7 +34,7 @@ De momento todo es especulación pero parece que pueda tener relación con enlac
 
 [Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/noviembre)
 
-## Resumen de noticias SEO octubre
+### Octubre 2019
 
 Google lanza en Estados Unidos BERT, su técnica de procesamiento del lenguaje natural para ayudar a mejorar los resultados de las búsquedas.  De momento sólo afecta a un 10% de las búsquedas y no afecta a la indexación.
 
@@ -44,19 +44,19 @@ También hay alguna ponencia interesante del SearchLove London 2019.
 
 [Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/octubre)
 
-## Resumen de noticias SEO septiembre
+### Septiembre 2019
 
 Quizá la novedad más interesante sean los **nuevos atributos de enlazado** (sponsored y ugc) que se unen al nofollow. Por otro lado, tenemos nueva **actualización "Core"** del algoritmo de Google.
 
 [Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/septiembre)
 
-## Resumen de noticias SEO agosto
+### Agosto 2019
 
-Interesante mes para el SEO puesto que desde Google nos confirman que **el número de apariciones de una palabra clave dentro del contenido no es un factor SEO** y que establecer **todos los enlaces externos como nofollow no nos beneficará**.
+Interesante mes para el SEO puesto que desde Google nos confirman que el número de apariciones de una palabra clave dentro del contenido no es un factor SEO y que establecer **todos los enlaces externos como nofollow no nos beneficará**.
 
 [Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/agosto)
 
-## Resumen de noticias SEO julio
+### Julio 2019
 
 La noticia más interesante es la **estandarización del protocolo de exclusión del robots.txt**. Iniciativa liderada, como no, por Google.
 
@@ -65,7 +65,7 @@ También tenemos confirmación de que las URLs que se excluyen de la indexación
 [Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/julio)
 
 
-## Resumen de noticias SEO junio
+### Junio 2019
 
 Google sorprende con dos cambios de algoritmo casi simultáneos (**June 2019 Core Update** y **Diversity Update**) pero al contrario que otras veces ofrece poca información al respecto del primero.
 
@@ -74,7 +74,7 @@ Continúa con la migración de servicios de Search Console y algún que otro fal
 [Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/junio)
 
 
-## Resumen de noticias SEO mayo 
+### Mayo 2019
 
 Se avecina algo gordo; Google lleva ya semanas experimentando fallos tanto en Search Console como en las SERPs, ¿puede ser algún cambio de algoritmo?
 
@@ -86,5 +86,5 @@ Aprovechando el nuevo rediseño en búsquedas mobile, tenemos recomendación ofi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE5MzU1NzZdfQ==
+eyJoaXN0b3J5IjpbMTc0NDQ4MjY0MCwtMTQ0MTkzNTU3Nl19
 -->
