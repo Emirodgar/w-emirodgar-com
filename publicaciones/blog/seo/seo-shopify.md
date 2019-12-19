@@ -4,7 +4,9 @@ description: Optimizar tu ecommerce con recomendaciones SEO específicas para Sh
 image: https://emirodgar.com/cdn/images/og/auditoria.png
 date: 31/10/2019
 author: Emirodgar
-tags: seo, auditoría, shopify
+sitemap: 1
+feed: 1
+folder: seo
 lang: es_ES
 permalink: shopify-seo
 
@@ -86,6 +88,6 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMDM1ODI2LC0yMjU1MTI2ODQsNDEwNT
-A0NjA5LDU3Mjg5ODc1N119
+eyJoaXN0b3J5IjpbMTc5Mzc1MzcxMiw3MDMwMzU4MjYsLTIyNT
+UxMjY4NCw0MTA1MDQ2MDksNTcyODk4NzU3XX0=
 -->
