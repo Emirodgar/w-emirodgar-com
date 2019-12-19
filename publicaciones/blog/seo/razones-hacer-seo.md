@@ -4,6 +4,9 @@ description: Algunos datos que seguramente no sabías sobre el SEO y el impacto 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 date: 19/09/2019
 author: Emirodgar
+sitemap: 1
+feed: 1
+folder: seo
 lang: es_ES
 permalink: razones-hacer-seo
 
@@ -78,7 +81,7 @@ Los resultados suelen aparecer a medio/largo plazo por lo que es crucial monitor
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzQ1ODMwMyw2MDYxNTgzMzcsMTQxND
-MxOTIxMCwtODk3OTY4ODE1LDE2NDY3NzgwMjMsLTkyNDc1NDYz
-OSwtMjA2OTg3NzA2NV19
+eyJoaXN0b3J5IjpbLTEzOTgxMTA2OSwyMTA3NDU4MzAzLDYwNj
+E1ODMzNywxNDE0MzE5MjEwLC04OTc5Njg4MTUsMTY0Njc3ODAy
+MywtOTI0NzU0NjM5LC0yMDY5ODc3MDY1XX0=
 -->
