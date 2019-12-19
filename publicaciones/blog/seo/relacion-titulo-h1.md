@@ -4,6 +4,9 @@ image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 date: 02/10/2019
 author: Emirodgar
 lang: es_ES
+sitemap: 1
+feed: 1
+folder: seo
 permalink: relacion-titulo-h1
 
 --- 
@@ -51,6 +54,6 @@ En este caso el término por el que queremos posicionar representa una pequeña 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ4OTM5MTIsLTkyNzQ5MDMzOSwtMT
-EwNzYyMzU1OSwxODAyODgwODI0XX0=
+eyJoaXN0b3J5IjpbMTgyMzIzNjIwNCwtMTY5NDg5MzkxMiwtOT
+I3NDkwMzM5LC0xMTA3NjIzNTU5LDE4MDI4ODA4MjRdfQ==
 -->
