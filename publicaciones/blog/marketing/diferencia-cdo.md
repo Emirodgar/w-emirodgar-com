@@ -1,6 +1,9 @@
 ---
 description: El término CDO es muy utilizado hoy en día pero ¿sabemos la diferencia entre Data y Digital?
 lang: es_ES
+sitemap: 1
+feed: 1
+folder: marketing
 permalink: diferencia-chief-data-officer-chief-digital-officer
 
 ---
@@ -36,5 +39,5 @@ Las responsabilidades principales son:
 4. Control sobre todas las fuentes de información que pueden aportar valor a la empresa (internas o externas).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTI0Njg3MV19
+eyJoaXN0b3J5IjpbMTczMDY4NjY5MiwxMTExMjQ2ODcxXX0=
 -->
