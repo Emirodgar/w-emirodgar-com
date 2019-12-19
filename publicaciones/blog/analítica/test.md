@@ -8,38 +8,21 @@ permalink: test
 
 dfdfd fsd otra cosa!! probando otra vez más
 
-## Test  123
+## Test  1234
 
 {% for page in site.pages %}
   {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" or page.name == "redirects.json" or page.url == "inbound-marketing/publicacion" or page.url == "inbound-marketing/general" or page.url == "inbound-marketing/twitter" or page.url == "assets/css/style.css"  %}
     <url>
-      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-      {% if page.sitemap.lastmod %}
-        <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
-      {% elsif page.date %}
-        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-      {% else %}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      {% endif %}
-      {% if page.sitemap.changefreq %}
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-      {% else %}
-        <changefreq>monthly</changefreq>
-      {% endif %}
-      {% if page.sitemap.priority %}
-        <priority>{{ page.sitemap.priority }}</priority>
-      {% else %}
-        <priority>0.3</priority>
-      {% endif %}
+      <loc>{page.url}</loc>     
     </url>
     {% endunless %}
   {% endfor %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIxMDc3MzcsMTUzNjk1MDE2LC01NT
-EzMDYwMDMsLTE2Nzk1ODQyNDEsMjIyMTgzOTUyLDEwODI4MzQ2
-NzIsMTQwOTYyNDM4NiwyMTM5ODI1MjAzLDc0NzA1MjQ5MywtMT
-czMDk1NjcwNiwtMTc1NDkwNzU4MiwxNzAyNjk4MTE1LDE3MDI2
-OTgxMTUsODQyNDE1NzMwLC0xNDQ0MjUxMTUzLC0yNzI1MjY3NT
-ksNzUzNDA2MDE2LC0xMDI0ODAzNjQ2LC03Mzk5OTM0MjcsLTIw
-MjA3MTU4NjldfQ==
+eyJoaXN0b3J5IjpbMjA1NTU1Nzk3NSwtMTM1MjEwNzczNywxNT
+M2OTUwMTYsLTU1MTMwNjAwMywtMTY3OTU4NDI0MSwyMjIxODM5
+NTIsMTA4MjgzNDY3MiwxNDA5NjI0Mzg2LDIxMzk4MjUyMDMsNz
+Q3MDUyNDkzLC0xNzMwOTU2NzA2LC0xNzU0OTA3NTgyLDE3MDI2
+OTgxMTUsMTcwMjY5ODExNSw4NDI0MTU3MzAsLTE0NDQyNTExNT
+MsLTI3MjUyNjc1OSw3NTM0MDYwMTYsLTEwMjQ4MDM2NDYsLTcz
+OTk5MzQyN119
 -->
