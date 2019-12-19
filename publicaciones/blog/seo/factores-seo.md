@@ -2,6 +2,9 @@
 title: Factores SEO 2020
 description: Estos son los factores SEO que mayor impacto tendrán durante el año 2019
 lang: es_ES
+sitemap: 1
+feed: 1
+folder: seo
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: factores-seo
 
@@ -97,6 +100,6 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTQyNDAxOCwxOTI0Mzg3NTQyLDE3Nz
-U3Njk4MjldfQ==
+eyJoaXN0b3J5IjpbNTc5NjYxMzM0LDEwNjE0MjQwMTgsMTkyND
+M4NzU0MiwxNzc1NzY5ODI5XX0=
 -->
