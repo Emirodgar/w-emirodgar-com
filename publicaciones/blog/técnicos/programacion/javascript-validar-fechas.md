@@ -3,7 +3,9 @@ title: Función JavaScript para validar fechas
 description: Sencilla función para validar cualquier formato de fecha lista para incluir en tus proyectos
 lang: es_ES
 author: Emirodgar
-tags: javascript, tecnico
+sitemap: 1
+feed: 1
+folder: programacion
 date: 17/05/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: funcion-javascript-para-validar-fechas
@@ -68,5 +70,5 @@ Esta función en JavaScript nos permitirá de una forma rápida validar una fech
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMjI5MjQ5XX0=
+eyJoaXN0b3J5IjpbLTE4NzM2Njk5MzFdfQ==
 -->
