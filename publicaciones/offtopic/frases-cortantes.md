@@ -1,6 +1,9 @@
 ---
 description: Recopilatorio gracioso de frases cortantes para evitar que te molesten de forma original.
 lang: es_ES
+sitemap: 1
+feed: 1
+folder: offtopic
 permalink: frases-cortantes-para-que-no-te-molesten
 author:
   twitter: emirodgar
@@ -43,5 +46,5 @@ P: ¿Esta silla está libre?
 R: Sí, y la mía también si te sientas.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxMDc1MTE4XX0=
+eyJoaXN0b3J5IjpbLTU1ODE4NDQ4Nyw3MjEwNzUxMThdfQ==
 -->
