@@ -1,5 +1,5 @@
 ---
-title: Inbound Marketing 2019
+title: Inbound Marketing 2020
 description: Las estrategias de Inbound Marketing han ido evolucionando durante los últimos años. Aprende a sacar el máximo rendimiento con estos consejos
 lang: es_ES
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
@@ -11,7 +11,7 @@ permalink: inbound-marketing
 
 ---
 
-# Inbound Marketing 2019
+# Inbound Marketing 2020
 
 La filosofía y metodología Inbound ha ido evolucionando a lo largo de los años aún así, me gustaría compartir **5 consejos que perduran en el tiempo** y que para mí son cruciales en cualquier estrategia digital.
 
@@ -109,5 +109,5 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTYzNzg5NF19
+eyJoaXN0b3J5IjpbMTg2NjI3OTY0MiwxNTQ5NjM3ODk0XX0=
 -->
