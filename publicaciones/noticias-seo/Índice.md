@@ -3,7 +3,9 @@ title: Noticias SEO - 2019
 description: Recopilación de noticias y enlaces de interés relacionados con el SEO y Marketing digital
 lang: es_ES
 author: Emirodgar
-tags: newsletter
+sitemap: 1
+feed: 1
+folder: noticias
 date: 14/12/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 redirect_from: 
@@ -86,5 +88,5 @@ Aprovechando el nuevo rediseño en búsquedas mobile, tenemos recomendación ofi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDQ4MjY0MCwtMTQ0MTkzNTU3Nl19
+eyJoaXN0b3J5IjpbMTU3OTYxNTY1OSwtMTQ0MTkzNTU3Nl19
 -->
