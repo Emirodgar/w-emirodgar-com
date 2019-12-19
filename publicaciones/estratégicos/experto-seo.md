@@ -3,7 +3,9 @@ title: Cómo convertirse en un Experto en SEO
 description: Aprende todas las vertientes SEO (técnico, contenidos y linking) y domínalas como un experto
 lang: es_ES
 author: Emirodgar
-tags: estrategico
+sitemap: 1
+feed: 1
+folder: estrategicos
 date: 14/08/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-experto
@@ -102,7 +104,7 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5Njk1MzgwLDM2MzA3MjE0NSwtMjE0NT
-EyMDMyOCwtMTIxOTc5NTU3MCwxNzA3MTA4NDg5LC0xMTQ2MzU3
-OTM2LDE1NTA0ODY0OTBdfQ==
+eyJoaXN0b3J5IjpbOTU0NjkyODczLDM0OTY5NTM4MCwzNjMwNz
+IxNDUsLTIxNDUxMjAzMjgsLTEyMTk3OTU1NzAsMTcwNzEwODQ4
+OSwtMTE0NjM1NzkzNiwxNTUwNDg2NDkwXX0=
 -->
