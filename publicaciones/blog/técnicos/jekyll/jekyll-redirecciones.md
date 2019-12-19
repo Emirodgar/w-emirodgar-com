@@ -3,7 +3,9 @@ title: Aplicar redirecciones en Jekyll
 description: Aprende a redireccionar tus páginas usando el framework Jekyll
 lang: es_ES
 author: Emirodgar
-tags: SEO, Jekyll
+sitemap: 1
+feed: 1
+folder: jekyll
 date: 28/06/2019
 date_modified: 28/06/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -58,5 +60,5 @@ permalink: /actual/
 
 También podríamos crear un **fichero .htaccess** bajo Jekyll y gestionar las redirecciones a través del mismo, pero creo que esta forma es más rápida y sencilla.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyNjQyMjQwLC0xOTY0ODM2NzY0XX0=
+eyJoaXN0b3J5IjpbNjYyMjcyMzQ1LC0xOTY0ODM2NzY0XX0=
 -->
