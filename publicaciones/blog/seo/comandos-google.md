@@ -3,7 +3,9 @@ title: Comandos de Google para SEO
 description: Aprende a utilizar todos los comandos de Google para potenciar el SEO de tu página
 lang: es_ES
 author: Emirodgar
-tags: seo, google
+sitemap: 1
+feed: 1
+folder: seo
 date: 09/05/2019
 date_modified: 09/05/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -95,5 +97,5 @@ Aunque existen alternativas que nos ayudarán a [analizar el SEO](factores-seo) 
 -site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
 - site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NDQyMjgyXX0=
+eyJoaXN0b3J5IjpbNjYyODM0MTExXX0=
 -->
