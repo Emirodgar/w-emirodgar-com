@@ -2,6 +2,7 @@
 description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
 lang: es_ES
 layout: post
+toc: true
 author: Emirodgar
 tags: seo, google, gtm, analytics
 date: 18/12/2019
@@ -15,7 +16,7 @@ permalink: trucos-google-analytics
 
 ## 1 - Define un objetivo
 
-El primer paso es el más importante, necesitamos definir un objetivo para que el resto del camino tenga sentido. Básicamente se trata de responder la pregunta de **¿qué es lo que queremos conseguir con la página o la aplicación web?**.
+El primer paso es el más importante: necesitamos definir un objetivo para que el resto del camino tenga sentido. Básicamente se trata de responder la pregunta de **¿qué es lo que queremos conseguir con la página o la aplicación web?**.
 
 Con ello claro, podremos identificar los recursos que necesitamos.
 
@@ -80,6 +81,6 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU3OTg2OTQsLTE0NDkyNzI5OTZdfQ
-==
+eyJoaXN0b3J5IjpbMTMzOTU4NjYyNCwtMTQ4NTc5ODY5NCwtMT
+Q0OTI3Mjk5Nl19
 -->
