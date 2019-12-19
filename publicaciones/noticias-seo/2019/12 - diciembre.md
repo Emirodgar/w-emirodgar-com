@@ -30,7 +30,7 @@ Así lo ha confirmado Danny vía Twitter
   data-tweetid="1204346973614202882">
 </amp-twitter>
 
-
+Den
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjIzMzg3NV19
+eyJoaXN0b3J5IjpbLTU3MzY5NDgyOCwxNjEyMjMzODc1XX0=
 -->
