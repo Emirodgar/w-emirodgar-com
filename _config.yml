@@ -18,5 +18,3 @@ plugins: # previsously gems
   - jekyll-redirect-from
 feed:
   path: feed.xml
-gems:
-  - jekyll-sitemap
