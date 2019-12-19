@@ -5,6 +5,9 @@ image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 date: 20/08/2019
 author: Emirodgar
 lang: es_ES
+sitemap: 1
+feed: 1
+folder: seo
 permalink: bloquear-indexacion-js-css
 
 ---
@@ -48,6 +51,6 @@ Por último, podemos bloquear los archivos CSS ya que esta medida no afectará a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODA4ODcyLC03OTg0NTc0LDc2ODQ4ND
-Q4XX0=
+eyJoaXN0b3J5IjpbLTE1MjY0ODExODgsLTczODA4ODcyLC03OT
+g0NTc0LDc2ODQ4NDQ4XX0=
 -->
