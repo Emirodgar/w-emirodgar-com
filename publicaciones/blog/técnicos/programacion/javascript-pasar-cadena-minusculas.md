@@ -3,7 +3,9 @@ title: Función JavaScript para pasar cadena a minúsculas con la primera letra 
 description: Sencilla función para convertir cualquier cadena en minúsculas salvo la primera letra
 lang: es_ES
 author: Emirodgar
-tags: javascript, tecnico
+sitemap: 1
+feed: 1
+folder: programacion
 date: 17/05/2019
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: funcion-javascript-cadena-minusculas
@@ -35,5 +37,5 @@ alert(convertirCadena("esto Es un Ejemplo de Cadena"));
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM3NzA5MTJdfQ==
+eyJoaXN0b3J5IjpbLTQ5NDc3MTIxMl19
 -->
