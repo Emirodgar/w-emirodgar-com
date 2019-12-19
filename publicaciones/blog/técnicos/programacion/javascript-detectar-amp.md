@@ -2,7 +2,9 @@
 description: Detecta de forma sencilla si una página web está utilizando AMP o no
 lang: es_ES
 author: Emirodgar
-tags: javascript, tecnico
+sitemap: 1
+feed: 1
+folder: programacion
 date: 17/05/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: javascript-detectar-amp
@@ -21,5 +23,5 @@ De esta forma haciendo uso de `getElementsByTagName` podremos comprobar si el el
 
 En el caso de ser AMP al menos uno de los dos comandos anteriores devolverá `true`, si no, ambos devolverán `false`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTE1NjEyN119
+eyJoaXN0b3J5IjpbMTc2NTg2MjEzMywtNTcxMTU2MTI3XX0=
 -->
