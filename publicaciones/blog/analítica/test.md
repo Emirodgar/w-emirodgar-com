@@ -11,7 +11,7 @@ dfdfd fsd otra cosa!! probando otra vez más
 ## Test  12
 
 {% for page in site.pages %}
-   {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" or page.name == "redirects.json" or page.name == "inbound-marketing/publicacion" or page.name == "inbound-marketing/general" or page.name == "inbound-marketing/twitter" or page.name == "assets/css/style.css"  %}
+  {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" or page.name == "redirects.json" or page.url == "inbound-marketing/publicacion" or page.url == "inbound-marketing/general" or page.url == "inbound-marketing/twitter" or page.url == "assets/css/style.css"  %}
     <url>
       <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
       {% if page.sitemap.lastmod %}
@@ -35,11 +35,11 @@ dfdfd fsd otra cosa!! probando otra vez más
     {% endunless %}
   {% endfor %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjk1MDE2LC01NTEzMDYwMDMsLTE2Nz
-k1ODQyNDEsMjIyMTgzOTUyLDEwODI4MzQ2NzIsMTQwOTYyNDM4
-NiwyMTM5ODI1MjAzLDc0NzA1MjQ5MywtMTczMDk1NjcwNiwtMT
-c1NDkwNzU4MiwxNzAyNjk4MTE1LDE3MDI2OTgxMTUsODQyNDE1
-NzMwLC0xNDQ0MjUxMTUzLC0yNzI1MjY3NTksNzUzNDA2MDE2LC
-0xMDI0ODAzNjQ2LC03Mzk5OTM0MjcsLTIwMjA3MTU4NjldfQ==
-
+eyJoaXN0b3J5IjpbMTczNTA2Mjc2NiwxNTM2OTUwMTYsLTU1MT
+MwNjAwMywtMTY3OTU4NDI0MSwyMjIxODM5NTIsMTA4MjgzNDY3
+MiwxNDA5NjI0Mzg2LDIxMzk4MjUyMDMsNzQ3MDUyNDkzLC0xNz
+MwOTU2NzA2LC0xNzU0OTA3NTgyLDE3MDI2OTgxMTUsMTcwMjY5
+ODExNSw4NDI0MTU3MzAsLTE0NDQyNTExNTMsLTI3MjUyNjc1OS
+w3NTM0MDYwMTYsLTEwMjQ4MDM2NDYsLTczOTk5MzQyNywtMjAy
+MDcxNTg2OV19
 -->
