@@ -2,7 +2,7 @@
 title: Etiqueta canónica
 description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-date: 01/10/2019
+date: 19/12/2019
 author: Emirodgar
 lang: es_ES
 permalink: etiqueta-canonica
@@ -47,7 +47,29 @@ Link: <http://emirodgar.com/informe.pdf>; rel="canonical"
 ```
 
 Hay otras opciones como aplicar una redirección 301 (para dejar únicamente una versión o establecerlo a nivel del Sitemap XML.
+
+## Necesitamos más factores
+
+Pero cuidado, la etiqueta canónica puede ser ignorada por Google por lo que, además de usarla, sería neceario apoyarla con otros factores.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1204760229906399232">
+</amp-twitter>
+
+Los factores SEO que nos ayudarán a canonicalizar una URL serán:
+
+- Redirecciones
+- Enlazado interno y externo
+- Sitemaps y hreflang
+- URLs amigables y limpias
+- HTTPs
+- Dominio seleccionado como preferido
+
+Básicamente se trata de ser consistente y ofrecer una visión global que esté alineada con la URL canónica que estamos presentando, si no, Google podría ignorarla completamente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDAyOTA0NTgsLTUxNzAyNDU4Nyw2Nj
-Q4ODA0NzNdfQ==
+eyJoaXN0b3J5IjpbLTE4Mzg1NDEwNTMsLTIwMDAyOTA0NTgsLT
+UxNzAyNDU4Nyw2NjQ4ODA0NzNdfQ==
 -->

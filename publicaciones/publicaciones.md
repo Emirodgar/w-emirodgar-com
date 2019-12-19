@@ -26,9 +26,5 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzE3OTExOCwtMTE3MTE2MDgzMywtNT
-Y0MTQ0NTc1LC0xNjgwNjYwMzk1LC0xOTc4MTgwMDU0LDE1MDEx
-NTQwNDgsLTE1NTQ3MTYzMiwtNDgwOTg4NDIwLC0yMDY2NzQxNT
-c1LDEwOTYxOTYzMTYsLTg0NDI4NDg0MiwtMjg2ODQ5MjAyLDQx
-NTM4NDc2OF19
+eyJoaXN0b3J5IjpbLTY0MzE3OTExOF19
 -->
