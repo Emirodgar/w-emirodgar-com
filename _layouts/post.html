@@ -194,8 +194,8 @@
 	  <div id="logo"><a href="https://emirodgar.com" class="standard-logo"><b>EMIRODGAR</b><i style="font-size:19px;"> digital</i></a></div>
       <article class="post">
          <section class="post-content">
-            <h4>Tabla de contenidos</h4>
-			{% include toc.html html=content %}
+            <h4>Tabla de contenidos</h4> - <a href="javascript:$('#erg-toc').toggle();">mostrar / ocultar</a>
+			<div id="erg-toc">{% include toc.html html=content %}</div>
 			{{ content }}
          </section>
          <footer class="post-footer">
