@@ -1,6 +1,7 @@
 ---
 permalink: test
 layout: post
+toc = true
 
 ---
 
@@ -78,7 +79,8 @@ Una de las primeras aplicaciones que recomendaría realizar a través de GTM ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA5NTY3MDYsODQyNDE1NzMwLC0xND
-Q0MjUxMTUzLC0yNzI1MjY3NTksNzUzNDA2MDE2LC0xMDI0ODAz
-NjQ2LC03Mzk5OTM0MjcsLTIwMjA3MTU4NjldfQ==
+eyJoaXN0b3J5IjpbMTcwMjY5ODExNSwtMTczMDk1NjcwNiw4ND
+I0MTU3MzAsLTE0NDQyNTExNTMsLTI3MjUyNjc1OSw3NTM0MDYw
+MTYsLTEwMjQ4MDM2NDYsLTczOTk5MzQyNywtMjAyMDcxNTg2OV
+19
 -->
