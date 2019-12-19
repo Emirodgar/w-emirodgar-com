@@ -3,7 +3,9 @@ title: Listado de robots spam para bloquear
 description: Evita que los buscadores rastreen tu página web y alteren tu tráfico real bloqueando a los SPAM
 lang: es_ES
 author: Emirodgar
-tags: seo, htaccess, robots
+sitemap: 1
+feed: 1
+folder: seo
 date: 11/07/2019
 date_modified: 16/05/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -1082,5 +1084,5 @@ User-agent: ZyBorg
 Disallow:/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNDY1MzBdfQ==
+eyJoaXN0b3J5IjpbLTc0NzA1MDc5NV19
 -->
