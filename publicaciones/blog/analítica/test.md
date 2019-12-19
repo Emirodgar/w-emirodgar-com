@@ -1,5 +1,6 @@
 ---
 toc: 1
+tags: test, prueba
 permalink: test
 
 ---
@@ -10,7 +11,7 @@ dfdfd fsd otra cosa!! probando otra vez más
 
 ## Test  123456
 
-MIO
+MIO - TAGS: {{ page.tags }}
 
 {% for page in site.pages %}
     {% if page.sitemap == 1 %}
@@ -47,11 +48,11 @@ OTRO
     {% endunless %}
   {% endfor %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDU3NjUxLDQzOTk3NDUzMywzNjc1NT
-E5NTcsLTY2Njg2OTQwOCwyMDU1NTU3OTc1LC0xMzUyMTA3NzM3
-LDE1MzY5NTAxNiwtNTUxMzA2MDAzLC0xNjc5NTg0MjQxLDIyMj
-E4Mzk1MiwxMDgyODM0NjcyLDE0MDk2MjQzODYsMjEzOTgyNTIw
-Myw3NDcwNTI0OTMsLTE3MzA5NTY3MDYsLTE3NTQ5MDc1ODIsMT
-cwMjY5ODExNSwxNzAyNjk4MTE1LDg0MjQxNTczMCwtMTQ0NDI1
-MTE1M119
+eyJoaXN0b3J5IjpbMTE0ODM1MTcwNyw0Mzk5NzQ1MzMsMzY3NT
+UxOTU3LC02NjY4Njk0MDgsMjA1NTU1Nzk3NSwtMTM1MjEwNzcz
+NywxNTM2OTUwMTYsLTU1MTMwNjAwMywtMTY3OTU4NDI0MSwyMj
+IxODM5NTIsMTA4MjgzNDY3MiwxNDA5NjI0Mzg2LDIxMzk4MjUy
+MDMsNzQ3MDUyNDkzLC0xNzMwOTU2NzA2LC0xNzU0OTA3NTgyLD
+E3MDI2OTgxMTUsMTcwMjY5ODExNSw4NDI0MTU3MzAsLTE0NDQy
+NTExNTNdfQ==
 -->
