@@ -8,7 +8,7 @@ permalink: test
 
 dfdfd fsd otra cosa!! probando otra vez más
 
-## Test  12345678
+## Test  123456789
 
 MIO - TAGS: {{ page.tags }}
 
@@ -16,11 +16,9 @@ MIO - TAGS: {{ page.tags }}
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
-	{% if page.url != "/404.html" %}
 	{% if page.folder== "auditoria" %}
 	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 	{% endif %}
-{% endif %}
 {% endif %}
 {% endfor %}
 </ul>
@@ -60,11 +58,11 @@ OTRO
     {% endunless %}
   {% endfor %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDMzNTU1MCwxMjI5NDEzNTcyLC0yMD
-YzMTExNzI2LDQzOTk3NDUzMywzNjc1NTE5NTcsLTY2Njg2OTQw
-OCwyMDU1NTU3OTc1LC0xMzUyMTA3NzM3LDE1MzY5NTAxNiwtNT
-UxMzA2MDAzLC0xNjc5NTg0MjQxLDIyMjE4Mzk1MiwxMDgyODM0
-NjcyLDE0MDk2MjQzODYsMjEzOTgyNTIwMyw3NDcwNTI0OTMsLT
-E3MzA5NTY3MDYsLTE3NTQ5MDc1ODIsMTcwMjY5ODExNSwxNzAy
-Njk4MTE1XX0=
+eyJoaXN0b3J5IjpbODE0MTIyOTcyLDEyMjk0MTM1NzIsLTIwNj
+MxMTE3MjYsNDM5OTc0NTMzLDM2NzU1MTk1NywtNjY2ODY5NDA4
+LDIwNTU1NTc5NzUsLTEzNTIxMDc3MzcsMTUzNjk1MDE2LC01NT
+EzMDYwMDMsLTE2Nzk1ODQyNDEsMjIyMTgzOTUyLDEwODI4MzQ2
+NzIsMTQwOTYyNDM4NiwyMTM5ODI1MjAzLDc0NzA1MjQ5MywtMT
+czMDk1NjcwNiwtMTc1NDkwNzU4MiwxNzAyNjk4MTE1LDE3MDI2
+OTgxMTVdfQ==
 -->
