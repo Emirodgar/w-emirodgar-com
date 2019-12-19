@@ -3,7 +3,9 @@ title: Noticias SEO - junio 2019
 description: Recopilación de noticias y enlaces de interés relacionados con el SEO y Marketing digital
 lang: es_ES
 author: Emirodgar
-tags: newsletter
+sitemap: 1
+feed: 1
+folder: noticias
 date: 28/06/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: noticias-seo/2019/junio
@@ -96,6 +98,6 @@ LinkedIn actualiza su algoritmo para fomentar la interacción de sus usuarios. B
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjkyNjI0NSwyMDU1MzMwMDE1LC03MT
-IwODU3NTUsODAyMTcxOTM3XX0=
+eyJoaXN0b3J5IjpbLTE0MTY0NzgwNCwtNDYyOTI2MjQ1LDIwNT
+UzMzAwMTUsLTcxMjA4NTc1NSw4MDIxNzE5MzddfQ==
 -->
