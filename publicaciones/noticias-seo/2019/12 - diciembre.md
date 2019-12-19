@@ -4,7 +4,7 @@ description: Recopilación de noticias y enlaces de interés relacionados con el
 lang: es_ES
 author: Emirodgar
 tags: noticias
-date: 13/11/2019
+date: 19/12/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: noticias-seo/2019/octubre
 
@@ -30,7 +30,7 @@ Así lo ha confirmado Danny vía Twitter
   data-tweetid="1204346973614202882">
 </amp-twitter>
 
-Dentro de las lecturas interesantes de este mes destaco
+Dentro de las lecturas interesantes de este mes destaco este artículo en que se analiza el impacto que tienen los [contenidos generados en foros y como comentarios](https://www.gsqi.com/marketing-blog/user-comments-indexable-versus-indexed/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA0NDQ3MjAsMTYxMjIzMzg3NV19
+eyJoaXN0b3J5IjpbLTE1NTg3NTAxOTQsMTYxMjIzMzg3NV19
 -->
