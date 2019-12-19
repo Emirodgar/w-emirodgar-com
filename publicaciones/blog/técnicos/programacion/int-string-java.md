@@ -3,7 +3,9 @@ title: Pasar de INT a String y de String a INT en Java
 description: Aprende a pasar correctamente de entero a cadena y viceversa en Java.
 lang: es_ES
 author: Emirodgar
-tags: offtopic, crossfit
+sitemap: 1
+feed: 1
+folder: programacion
 date: 10/09/2019
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
 permalink: pasar-de-int-a-string-y-de-string-a-int-en-java
@@ -56,5 +58,5 @@ Otra forma correcta de hacerlo sería utilizando el método toString del objeto 
 ```
 Espero que esto les sirva a todas aquellas personas que vinieron buscándolo, al menos así es como suelo hacerlo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzA5MjcwM119
+eyJoaXN0b3J5IjpbLTExNzI1MzYxOTRdfQ==
 -->
