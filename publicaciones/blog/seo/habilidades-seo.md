@@ -3,7 +3,9 @@ title: 7 habilidades que definen a un buen SEO
 description: Aprende a eliminar una URL de forma correcta y eficiente para que no vuelva a aparecer en Google
 lang: es_ES
 author: Emirodgar
-tags: SEO, Google
+sitemap: 1
+feed: 1
+folder: seo
 date: 28/06/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: habilidades-seo
@@ -61,5 +63,6 @@ Sea como sea, debemos disponer de una capacidad para adaptarnos, entender la nue
 
 Si no disponemos de esta capacidad, un giro inesperado podría terminar con nuestras aspiraciones SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDg4Mjc4NiwxMDg2MzI4ODFdfQ==
+eyJoaXN0b3J5IjpbLTg3MTA4Nzk2NywtMjIwODgyNzg2LDEwOD
+YzMjg4MV19
 -->
