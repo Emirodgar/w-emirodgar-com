@@ -27,7 +27,7 @@ El objetivo global de la web es importante pero es demasiado genérico, por ello
  - Incrementar la visibilidad de la marca
  - Incrementar las ventas
  - Reducir el tiempo de rebote en el blog
- - ... etc.
+ - ...
 
 ## 3 - Identifica los KPIs relevantes
 
@@ -81,6 +81,7 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjAyNzc1ODgsLTE4NjUzMzEwLDEzMz
-k1ODY2MjQsLTE0ODU3OTg2OTQsLTE0NDkyNzI5OTZdfQ==
+eyJoaXN0b3J5IjpbLTM1ODIwNTY0MiwtMTI2MDI3NzU4OCwtMT
+g2NTMzMTAsMTMzOTU4NjYyNCwtMTQ4NTc5ODY5NCwtMTQ0OTI3
+Mjk5Nl19
 -->
