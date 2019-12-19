@@ -1,4 +1,8 @@
+---
 permalink: test
+layout: post
+
+---
 
 # test
 
@@ -15,5 +19,5 @@ TABLA de contenidos
 {% include toc.html %}
 {% include toc.md %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzgzMDk3OV19
+eyJoaXN0b3J5IjpbLTIwMjA3MTU4NjldfQ==
 -->
