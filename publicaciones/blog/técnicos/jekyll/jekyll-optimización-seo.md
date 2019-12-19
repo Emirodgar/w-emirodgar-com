@@ -3,7 +3,9 @@ title: Optimización SEO en Jekyll
 description: Guía completa para optimizar el SEO en Jekyll
 lang: es_ES
 author: Emirodgar
-tags: SEO, Jekyll
+sitemap: 1
+feed: 1
+folder: jekyll
 date: 07/04/2019
 date_modified: 08/04/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -71,5 +73,5 @@ De esta forma nos aseguramos que cualquier URL cuenta con la información mínim
 
 > Los datos estructurados de Jekyll están bastante limitados por lo que recomiendo [este artículo](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html)  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjQ1MzMyN119
+eyJoaXN0b3J5IjpbMjAyNTg3NjU2Nl19
 -->
