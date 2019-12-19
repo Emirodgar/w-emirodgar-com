@@ -3,7 +3,9 @@ title: Configurar el User ID de Analytics a través de Google Tag Manager
 description: Obtén información de tus usuarios de forma más eficiente con la función User ID de Analytics
 lang: es_ES
 author: Emirodgar
-tags: seo, google, gtm, analytics
+sitemap: 1
+feed: 1
+folder: analitica
 date: 10/10/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: userid-analytics-tag-manager
@@ -51,7 +53,7 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTQ1NTc1MiwzODM4MDMxODQsMjA1MD
-MxMzY5NCwxNjY5NjcwOTY4LDI0NDA5MzY4OCwtMTMwMzk5NTU3
-M119
+eyJoaXN0b3J5IjpbLTEzMDg5NTExMDAsLTIzMTQ1NTc1MiwzOD
+M4MDMxODQsMjA1MDMxMzY5NCwxNjY5NjcwOTY4LDI0NDA5MzY4
+OCwtMTMwMzk5NTU3M119
 -->
