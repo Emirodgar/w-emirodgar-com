@@ -9,7 +9,8 @@ image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 redirect_from: 
   - noticias-seo/2019
   - noticias-seo/2019/
-permalink: noticias-seo/
+  - noticias-seo/
+permalink: noticias-seo
 
 ---
 
@@ -85,5 +86,5 @@ Aprovechando el nuevo rediseño en búsquedas mobile, tenemos recomendación ofi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjM3MjA3MV19
+eyJoaXN0b3J5IjpbLTE0NDE5MzU1NzZdfQ==
 -->
