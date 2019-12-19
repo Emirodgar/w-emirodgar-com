@@ -14,7 +14,7 @@ permalink: noticias-seo/2019/septiembre
 
 ## Nuevos atributos sponsored y ugc
 
-Google ha lanzado dos nuevos atributos para los enlaces que se unen al nofollow: sponsored para enlaces de pago y ugc para enlaces ubicados dentro de contenido generado por usuarios (por ejemplo en foros o comentarios).
+Google ha lanzado dos nuevos atributos para los enlaces que se unen al nofollow: **sponsored** para enlaces de pago y **ugc** para enlaces ubicados dentro de contenido generado por usuarios (por ejemplo en foros o comentarios).
 
 <amp-twitter 
   width="375"
@@ -99,9 +99,9 @@ Ha tenido lugar el BrightonSEO. Deepcrawl ha hecho un pequeño resumen de todas 
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIwNjA1MTUsMTIyNjgxOTI3MSwtOD
-EwODcwMjAzLDU1NDg1NjM4NywtMjEyNTc2NzgwOCw0OTA1ODcw
-MDksLTEwNTUzMDM1MzEsLTk2NTY2MTM2MSwyMDQ0NjAwMTg0LD
-EyNTY1MjQwNDAsMTAzODA0NjAwNywzNDYxNDk4NjksMTA5NTYy
-NjU2Nl19
+eyJoaXN0b3J5IjpbNDIzMjM5MzI1LC0xNzQyMDYwNTE1LDEyMj
+Y4MTkyNzEsLTgxMDg3MDIwMyw1NTQ4NTYzODcsLTIxMjU3Njc4
+MDgsNDkwNTg3MDA5LC0xMDU1MzAzNTMxLC05NjU2NjEzNjEsMj
+A0NDYwMDE4NCwxMjU2NTI0MDQwLDEwMzgwNDYwMDcsMzQ2MTQ5
+ODY5LDEwOTU2MjY1NjZdfQ==
 -->

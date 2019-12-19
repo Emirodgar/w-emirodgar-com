@@ -6,7 +6,7 @@ author: Emirodgar
 tags: noticias
 date: 13/11/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: noticias-seo/2019/octubre
+permalink: noticias-seo/2019/noviembre
 
 ---
 
@@ -43,7 +43,20 @@ Google Discover ha entrado fuerte demostrando que puede ser una fuente de tráfi
 </amp-twitter>
 
 Excelente guía sobre los [códigos HTTP de las páginas web](https://www.contentkingapp.com/academy/http-status-codes/) y cómo afectan a las estrategias SEO.
+
+## Mi extensión SEO
+
+Después de un tiempo de usarla sólo para mí, me he decidido a compartirla de forma oficial con todo el mundo. Se trata de una extensión SEO que uso prácticamente a diario donde hago uso de un análisis SEO rápido, acceso a herramientas y test además de recopilatorio de noticias.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1187022113590382598">
+</amp-twitter>
+
+Espero que os guste.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzNzU3OTAzLDEyNjY3NzYyNTUsMTUwMj
-c5NTA1OF19
+eyJoaXN0b3J5IjpbMTg1NTUyMzQ4LC0xOTYzOTkyODExLDMxMz
+c1NzkwMywxMjY2Nzc2MjU1LDE1MDI3OTUwNThdfQ==
 -->

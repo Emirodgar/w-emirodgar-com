@@ -4,7 +4,7 @@ description: Pequeña recopilación de los libros que he leído y recomiendo
 lang: es_ES
 author: Emirodgar
 tags: offtopic, libros, lectura
-date: 07/11/2019
+date: 07/12/2019
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
 permalink: libros-recomendados
 
@@ -59,7 +59,7 @@ Creo que se podría haber condensado y darle un final a la saga mucho más digno
 ## La chica del tren
 ### Paula Hawkins / 2015 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwMDUwMDY5LC0yOTE3OTkyMDIsLTk1Mj
-kwMjkyOSwtOTUyOTAyOTI5LDE4MDk2NjIxOTIsLTE1NTk4OTc1
-NDBdfQ==
+eyJoaXN0b3J5IjpbLTYzMTYyNTE2NCwyMzAwNTAwNjksLTI5MT
+c5OTIwMiwtOTUyOTAyOTI5LC05NTI5MDI5MjksMTgwOTY2MjE5
+MiwtMTU1OTg5NzU0MF19
 -->
