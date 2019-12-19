@@ -1,0 +1,89 @@
+---
+title: Noticias SEO - 2019
+description: Recopilación de noticias y enlaces de interés relacionados con el SEO y Marketing digital
+lang: es_ES
+author: Emirodgar
+tags: newsletter
+date: 14/12/2019
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
+redirect_from: 
+  - noticias-seo/2019
+  - noticias-seo/2019/
+permalink: noticias-seo/
+
+---
+
+# Noticias SEO
+
+## Noticias SEO - 2019
+
+### Diciembre 2019
+
+Ha habido un **cambio de Algoritmo Core** no oficial (Google no ha dado información al respecto más allá de confirmar la actualización) que ha impactado de forma brusca a ciertas páginas.
+
+De momento todo es especulación pero parece que pueda tener relación con enlaces o contenido de baja calidad.
+
+[Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/diciembre)
+
+### Noviembre 2019
+
+Ha habido un cambio de algoritmo Core no oficial (Google no ha dado información al respecto más allá de confirmar la actualización) que ha impactado de forma brusca a ciertas páginas.
+
+De momento todo es especulación pero parece que pueda tener relación con enlaces o contenido de baja calidad.
+
+[Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/noviembre)
+
+## Resumen de noticias SEO octubre
+
+Google lanza en Estados Unidos BERT, su técnica de procesamiento del lenguaje natural para ayudar a mejorar los resultados de las búsquedas.  De momento sólo afecta a un 10% de las búsquedas y no afecta a la indexación.
+
+Esto ha propiciado un debate sobre la diferencia entre **intención de búsqueda vs búsqueda** ya que a partir de ahora será muy relevante a nivel SEO.
+
+También hay alguna ponencia interesante del SearchLove London 2019.
+
+[Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/octubre)
+
+## Resumen de noticias SEO septiembre
+
+Quizá la novedad más interesante sean los **nuevos atributos de enlazado** (sponsored y ugc) que se unen al nofollow. Por otro lado, tenemos nueva **actualización "Core"** del algoritmo de Google.
+
+[Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/septiembre)
+
+## Resumen de noticias SEO agosto
+
+Interesante mes para el SEO puesto que desde Google nos confirman que **el número de apariciones de una palabra clave dentro del contenido no es un factor SEO** y que establecer **todos los enlaces externos como nofollow no nos beneficará**.
+
+[Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/agosto)
+
+## Resumen de noticias SEO julio
+
+La noticia más interesante es la **estandarización del protocolo de exclusión del robots.txt**. Iniciativa liderada, como no, por Google.
+
+También tenemos confirmación de que las URLs que se excluyen de la indexación no afectan a la calidad del sitio web.
+
+[Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/julio)
+
+
+## Resumen de noticias SEO junio
+
+Google sorprende con dos cambios de algoritmo casi simultáneos (**June 2019 Core Update** y **Diversity Update**) pero al contrario que otras veces ofrece poca información al respecto del primero.
+
+Continúa con la migración de servicios de Search Console y algún que otro fallo en sus productos.
+
+[Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2019/junio)
+
+
+## Resumen de noticias SEO mayo 
+
+Se avecina algo gordo; Google lleva ya semanas experimentando fallos tanto en Search Console como en las SERPs, ¿puede ser algún cambio de algoritmo?
+
+Google apuesta por el SEO lanzando su canal de Youtube **SEO Mythbusting** y apela a la **calidad de los sitios web** como factor relevante para el posicionamiento web.
+
+Aprovechando el nuevo rediseño en búsquedas mobile, tenemos recomendación oficial por parte de Google para usar **responsive design** como método para posicionar en escritorio y dispositivos móviles.
+
+[Continuar leyendo todas las noticias de este mes](https://emirodgar.com/noticias-seo/2019/mayo)
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI2NjM3MjA3MV19
+-->
