@@ -65,6 +65,19 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 
+## Publicaciones especiales
+
+<ul>
+{% for page in site.pages %}
+{% if page.title != null  %}
+	{% if page.folder== "estrategicos" %}
+	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+	{% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+
 Índice: 
 <ul>
 {% for page in site.pages %}
@@ -77,5 +90,5 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTY5MDMxMSwtNjQzMTc5MTE4XX0=
+eyJoaXN0b3J5IjpbMzgzODQ5NDQ4LC02NDMxNzkxMThdfQ==
 -->
