@@ -3,7 +3,9 @@ title: Influencer SEO
 description: Aprende todas las vertientes SEO (técnico, contenidos y linking) y domínalas como un experto
 lang: es_ES
 author: Emirodgar
-tags: estrategico
+sitemap: 1
+feed: 1
+folder: estrategicos
 date: 30/09/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: influencer-seo
@@ -34,7 +36,8 @@ frameborder="0"
 src="../publicaciones/influencer-seo.html"></amp-iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTczMTY4NDYsLTE0OTA0MzMzMDMsMj
-MwODU5NDY4LDUzNDIwMDAyOCwxNTE3MjUzMTc0LDY1MTczODk3
-MywtMTQ3NTQwOTA4NiwtODY4ODkxMjE2XX0=
+eyJoaXN0b3J5IjpbLTI4ODgwOTY2NywtMTI1NzMxNjg0NiwtMT
+Q5MDQzMzMwMywyMzA4NTk0NjgsNTM0MjAwMDI4LDE1MTcyNTMx
+NzQsNjUxNzM4OTczLC0xNDc1NDA5MDg2LC04Njg4OTEyMTZdfQ
+==
 -->
