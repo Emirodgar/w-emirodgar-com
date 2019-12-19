@@ -3,7 +3,9 @@ title: 10 trucos para mejorar las hojas de cálculo de Google (Google Sheet)
 description: Saca más provecho a tus hojas de cálculo de Google con estos 10 trucos
 lang: es_ES
 author: Emirodgar
-tags: SEO, Google, excel
+sitemap: 1
+feed: 1
+folder: marketing
 date: 24/04/2019
 image: https://emirodgar.com/cdn/images/og/herramientas.png
 permalink: trucos-hojas-calculo-google
@@ -150,5 +152,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQzNzgwMTRdfQ==
+eyJoaXN0b3J5IjpbMTEyMzc2OTc2NV19
 -->
