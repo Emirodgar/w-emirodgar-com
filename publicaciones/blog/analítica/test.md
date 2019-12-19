@@ -8,7 +8,7 @@ permalink: test
 
 dfdfd fsd otra cosa!! probando otra vez más
 
-## Test 
+## Test  1
 
 
 
@@ -30,6 +30,7 @@ dfdfd fsd otra cosa!! probando otra vez más
 	</channel>
 </rss>
 
+## Test  2
 
 {% for page in site.pages %}
     {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" %}
@@ -56,7 +57,7 @@ dfdfd fsd otra cosa!! probando otra vez más
     {% endunless %}
   {% endfor %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk0NzQ5OTAsMjIyMTgzOTUyLDEwOD
+eyJoaXN0b3J5IjpbLTE2Nzk1ODQyNDEsMjIyMTgzOTUyLDEwOD
 I4MzQ2NzIsMTQwOTYyNDM4NiwyMTM5ODI1MjAzLDc0NzA1MjQ5
 MywtMTczMDk1NjcwNiwtMTc1NDkwNzU4MiwxNzAyNjk4MTE1LD
 E3MDI2OTgxMTUsODQyNDE1NzMwLC0xNDQ0MjUxMTUzLC0yNzI1
