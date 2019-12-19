@@ -1,6 +1,9 @@
 ---
 description: Listado de blogs y herramientas gratuitas y de pago para estar al día en marketing digital. Aprende a ser competitivo.
 lang: es_ES
+sitemap: 1
+feed: 1
+folder: seo
 permalink: como-estar-al-dia-en-seo
 
 ---
@@ -38,5 +41,5 @@ Respecto a problemáticas interesantes, me gusta mucho la [sección para webmast
 Por último, es importante estar al tanto de las herramientas del sector y de sus novedades. Para ello recomiendo mi [listado de recursos para marketing digital](https://emirodgar.com/recursos-marketing-digital/) que actualizo de forma constante. A través del mismo podremos concocer múltiples herramientas para cada problemática digital a la que nos enfrentemos y no perderemos tiempo realizando búsquedas en la red. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzMwNzY4MF19
+eyJoaXN0b3J5IjpbMTM5MzM2MjI3NiwtNDI3MzA3NjgwXX0=
 -->
