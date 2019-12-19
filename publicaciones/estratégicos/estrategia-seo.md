@@ -1,5 +1,4 @@
 ---
-title: Estrategia SEO 2019 - Posicionar por Consultor SEO
 description: Estrategia paso a paso para posicionar por Consultor SEO con herramientas gratuitas.
 lang: es_ES
 sitemap: 1
@@ -10,7 +9,7 @@ permalink: estrategia-seo
 
 ---
 
-# Estrategia SEO 2019
+# Estrategia SEO 
 
 Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en un caso real. Quiero mostrar un ejemplo de todos los pasos a seguir para definir una estrategia en un nicho tan competido como es el **marketing digital** y en especial el **posicionamiento SEO**.
 
@@ -146,7 +145,7 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNTg5NSwtNTk2MjkxOTg5LC02ODEwOD
-YwNDQsLTY3NDgzNzQ1MCwyMTc3OTk4MywtODA5NTgwNzA2XX0=
-
+eyJoaXN0b3J5IjpbOTQ4MjgzMjY2LC01OTYyOTE5ODksLTY4MT
+A4NjA0NCwtNjc0ODM3NDUwLDIxNzc5OTgzLC04MDk1ODA3MDZd
+fQ==
 -->
