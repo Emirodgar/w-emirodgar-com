@@ -8,7 +8,7 @@ permalink: test
 
 dfdfd fsd otra cosa!! probando otra vez más
 
-## 1 - Define un objetivo global
+## Test 
 
 
 <channel>
@@ -28,7 +28,7 @@ dfdfd fsd otra cosa!! probando otra vez más
   </channel>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDAwNjEzMywxNDA5NjI0Mzg2LDIxMz
+eyJoaXN0b3J5IjpbMTA0OTI3MDk2NiwxNDA5NjI0Mzg2LDIxMz
 k4MjUyMDMsNzQ3MDUyNDkzLC0xNzMwOTU2NzA2LC0xNzU0OTA3
 NTgyLDE3MDI2OTgxMTUsMTcwMjY5ODExNSw4NDI0MTU3MzAsLT
 E0NDQyNTExNTMsLTI3MjUyNjc1OSw3NTM0MDYwMTYsLTEwMjQ4
