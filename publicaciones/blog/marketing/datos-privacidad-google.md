@@ -4,6 +4,9 @@ description: Bloquear estos archivos podría afectar a la estrategia SEO. Aprend
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 date: 29/08/2019
 author: Emirodgar
+sitemap: 1
+feed: 1
+folder: marketing
 lang: es_ES
 permalink: datos-privacidad-google
 
@@ -40,5 +43,5 @@ Google te permite las siguientes acciones en relación a tu privacidad y los dat
 -   [Establecer qué datos quieres que se midan y cuáles no](https://myaccount.google.com/data-and-personalization)
 - [Comprobar los niveles de privacidad de tu cuenta](https://myaccount.google.com/privacycheckup/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDAwNzU4N119
+eyJoaXN0b3J5IjpbLTEyMjQ1Mjc3MDIsLTk1MDAwNzU4N119
 -->
