@@ -91,7 +91,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 
-## Sin tema espec
+## Sin tema específico
 
 <ul>
 {% for page in site.pages %}
@@ -104,17 +104,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 
-Índice: 
-<ul>
-{% for page in site.pages %}
-{% if page.title != null  %}
-	{% if page.url != "/404.html" %}
-	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-	{% endif %}
-{% endif %}
-{% endfor %}
-</ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzczMjc2NDcsLTY0MzE3OTExOF19
+eyJoaXN0b3J5IjpbMTE0OTE5ODMxLC02NDMxNzkxMThdfQ==
 -->
