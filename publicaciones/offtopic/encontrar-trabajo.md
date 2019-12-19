@@ -3,7 +3,9 @@ title: Cómo encontrar trabajo a través de Internet
 description: Existen muchas alternativas de fácil acceso para que podamos encontrar nuestro trabajo ideal
 lang: es_ES
 author: Emirodgar
-tags: trabajo, digital
+sitemap: 1
+feed: 1
+folder: offtopic
 date: 30/09/2019
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
 permalink: encontrar-trabajo
@@ -25,5 +27,5 @@ A continuación os dejo una serie de portales especializados en trabajos donde p
 Aunque aún no tiene una gran cartera de empresas que lo utilice, [Google Jobs](https://jobs.google.com/) puede abrirse paso en un futuro cercano y entrar en el TOP5 antes mencionado por lo que convendría no perderlo de vista.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIzNDAwNDYsMTUyOTU5NjkzMF19
+eyJoaXN0b3J5IjpbLTE3ODYxNjM3NzEsMTUyOTU5NjkzMF19
 -->
