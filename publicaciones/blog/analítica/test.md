@@ -1,7 +1,6 @@
 ---
 toc: 1
 permalink: test
-layout: post
 
 ---
 
@@ -22,7 +21,7 @@ dfdfd fsd otra cosa!! probando otra vez más
 			</item>
 		{% endfor %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzE4NzkwNCwyMTM5ODI1MjAzLDc0Nz
+eyJoaXN0b3J5IjpbMTQwOTYyNDM4NiwyMTM5ODI1MjAzLDc0Nz
 A1MjQ5MywtMTczMDk1NjcwNiwtMTc1NDkwNzU4MiwxNzAyNjk4
 MTE1LDE3MDI2OTgxMTUsODQyNDE1NzMwLC0xNDQ0MjUxMTUzLC
 0yNzI1MjY3NTksNzUzNDA2MDE2LC0xMDI0ODAzNjQ2LC03Mzk5
