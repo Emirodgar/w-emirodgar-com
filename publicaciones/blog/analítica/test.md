@@ -10,14 +10,8 @@ dfdfd fsd otra cosa!! probando otra vez más
 
 ## Test  1
 
-
-
-
-
-## Test  2
-
 {% for page in site.pages %}
-    {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" %}
+    {% unless page.sitemap.exclude == "yes" or page.name == "feed.xml" or page.name == "redirects.json"  %}
     <url>
       <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
       {% if page.sitemap.lastmod %}
@@ -41,10 +35,10 @@ dfdfd fsd otra cosa!! probando otra vez más
     {% endunless %}
   {% endfor %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjUxMzA1LC0xNjc5NTg0MjQxLDIyMj
-E4Mzk1MiwxMDgyODM0NjcyLDE0MDk2MjQzODYsMjEzOTgyNTIw
-Myw3NDcwNTI0OTMsLTE3MzA5NTY3MDYsLTE3NTQ5MDc1ODIsMT
-cwMjY5ODExNSwxNzAyNjk4MTE1LDg0MjQxNTczMCwtMTQ0NDI1
-MTE1MywtMjcyNTI2NzU5LDc1MzQwNjAxNiwtMTAyNDgwMzY0Ni
-wtNzM5OTkzNDI3LC0yMDIwNzE1ODY5XX0=
+eyJoaXN0b3J5IjpbLTU1MTMwNjAwMywtMTY3OTU4NDI0MSwyMj
+IxODM5NTIsMTA4MjgzNDY3MiwxNDA5NjI0Mzg2LDIxMzk4MjUy
+MDMsNzQ3MDUyNDkzLC0xNzMwOTU2NzA2LC0xNzU0OTA3NTgyLD
+E3MDI2OTgxMTUsMTcwMjY5ODExNSw4NDI0MTU3MzAsLTE0NDQy
+NTExNTMsLTI3MjUyNjc1OSw3NTM0MDYwMTYsLTEwMjQ4MDM2ND
+YsLTczOTk5MzQyNywtMjAyMDcxNTg2OV19
 -->
