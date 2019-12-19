@@ -2,6 +2,9 @@
 title: Inbound Marketing 2020
 description: Las estrategias de Inbound Marketing han ido evolucionando durante los últimos años. Aprende a sacar el máximo rendimiento con estos consejos
 lang: es_ES
+sitemap: 1
+feed: 1
+folder: marketing
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 redirect_from: 
   - inbound-marketing/twitter
@@ -109,6 +112,6 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjI3OTY0MiwxODY2Mjc5NjQyLDE1ND
-k2Mzc4OTRdfQ==
+eyJoaXN0b3J5IjpbODYyNzk5OTc1LDE4NjYyNzk2NDIsMTU0OT
+YzNzg5NF19
 -->
