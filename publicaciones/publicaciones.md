@@ -78,6 +78,32 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 
+## Newsletter noticias SEO
+
+<ul>
+{% for page in site.pages %}
+{% if page.title != null  %}
+	{% if page.folder== "noticias" %}
+	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+	{% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+
+## Sin tema espec
+
+<ul>
+{% for page in site.pages %}
+{% if page.title != null  %}
+	{% if page.folder== "offtopic" %}
+	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+	{% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+
 Índice: 
 <ul>
 {% for page in site.pages %}
@@ -90,5 +116,5 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzODQ5NDQ4LC02NDMxNzkxMThdfQ==
+eyJoaXN0b3J5IjpbLTIwMzczMjc2NDcsLTY0MzE3OTExOF19
 -->
