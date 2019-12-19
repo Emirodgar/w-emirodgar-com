@@ -3,7 +3,9 @@ title: Noticias SEO - septiembre 2019
 description: Recopilación de noticias y enlaces de interés relacionados con el SEO y Marketing digital
 lang: es_ES
 author: Emirodgar
-tags: noticias
+sitemap: 1
+feed: 1
+folder: noticias
 date: 04/09/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: noticias-seo/2019/septiembre
@@ -99,9 +101,9 @@ Ha tenido lugar el BrightonSEO. Deepcrawl ha hecho un pequeño resumen de todas 
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzMjM5MzI1LC0xNzQyMDYwNTE1LDEyMj
-Y4MTkyNzEsLTgxMDg3MDIwMyw1NTQ4NTYzODcsLTIxMjU3Njc4
-MDgsNDkwNTg3MDA5LC0xMDU1MzAzNTMxLC05NjU2NjEzNjEsMj
-A0NDYwMDE4NCwxMjU2NTI0MDQwLDEwMzgwNDYwMDcsMzQ2MTQ5
-ODY5LDEwOTU2MjY1NjZdfQ==
+eyJoaXN0b3J5IjpbLTE4MzE0NzM2ODMsLTE3NDIwNjA1MTUsMT
+IyNjgxOTI3MSwtODEwODcwMjAzLDU1NDg1NjM4NywtMjEyNTc2
+NzgwOCw0OTA1ODcwMDksLTEwNTUzMDM1MzEsLTk2NTY2MTM2MS
+wyMDQ0NjAwMTg0LDEyNTY1MjQwNDAsMTAzODA0NjAwNywzNDYx
+NDk4NjksMTA5NTYyNjU2Nl19
 -->
