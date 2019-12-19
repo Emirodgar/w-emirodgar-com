@@ -175,6 +175,13 @@
       amp-twitter {margin-top:30px;}	  
 	  @media only screen and (max-width: 600px) {.content article { padding: 40px 0;} }
 	  amp-user-notification > div{padding:1rem;display:flex;align-items:center;justify-content:center}#logo{position:relative;float:left;font-family:raleway,sans-serif;font-size:25px;line-height:100%;margin-right:40px;padding-top:7px;font-family:source sans pro,sans-serif}#logo a.standard-logo{display:block}#logo a{display:block;color:#000;text-decoration:none}img{max-width:100%;margin:0 0 1.75rem;padding:0}	  table{margin:30px;border-collapse:collapse;max-width:100%;display:block;overflow-x:auto;word-break:keep-all;font-size:19px}html th,body th{background:#fff;border-bottom:1px solid #dcdcdc;color:#333;font-weight:700;letter-spacing:.56px;line-height:16px;text-transform:uppercase}td,th{padding:15px;text-align:left;vertical-align:top}td:first-child{border-right:1px solid #dcdcdc}
+	  #ergtoclink{cursor: pointer;padding: 0 7px;background-image:none;background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;padding: 6px 24px;}
+	#ergtoclink:hover{background-color:#f6f6f6;}
    </style>
    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
    <noscript>
@@ -194,10 +201,16 @@
 	  <div id="logo"><a href="https://emirodgar.com" class="standard-logo"><b>EMIRODGAR</b><i style="font-size:19px;"> digital</i></a></div>
       <article class="post">
          <section class="post-content">
-            <h4>Tabla de contenidos</h4> 
-			<button on="tap:ergtoc.toggleVisibility">Mostrar / ocultar</button>
+		 
+		  {% if page.toc == true %}
+	  <h4>Tabla de contenidos</h4> 
+			<a id="ergtoclink" on="tap:ergtoc.toggleVisibility">Mostrar / ocultar</a>
 
 			<div id="ergtoc" hidden>{% include toc.html html=content %}</div>
+	{% endif %}
+		 
+		 
+            
 			{{ content }}
          </section>
          <footer class="post-footer">
