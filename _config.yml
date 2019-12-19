@@ -15,6 +15,5 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-toc
 feed:
   path: feed.xml
