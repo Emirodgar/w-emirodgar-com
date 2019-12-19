@@ -29,7 +29,7 @@ El objetivo global de la web es importante pero es demasiado genérico, por ello
  - Reducir el tiempo de rebote en el blog
  - ...
  
-> Es importante estar alineado con los objetivos del negocio
+> Es importante estar alineado con los **objetivos del negocio**
 
 ## 3 - Identifica los KPIs relevantes
 
@@ -83,7 +83,7 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAwNDMzNjMsLTM1ODIwNTY0MiwtMT
-I2MDI3NzU4OCwtMTg2NTMzMTAsMTMzOTU4NjYyNCwtMTQ4NTc5
-ODY5NCwtMTQ0OTI3Mjk5Nl19
+eyJoaXN0b3J5IjpbLTEwNzMwODUxLC0xODUwMDQzMzYzLC0zNT
+gyMDU2NDIsLTEyNjAyNzc1ODgsLTE4NjUzMzEwLDEzMzk1ODY2
+MjQsLTE0ODU3OTg2OTQsLTE0NDkyNzI5OTZdfQ==
 -->
