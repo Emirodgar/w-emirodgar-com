@@ -3,7 +3,9 @@ title: Noticias SEO - diciembre 2019
 description: Recopilación de noticias y enlaces de interés relacionados con el SEO y Marketing digital
 lang: es_ES
 author: Emirodgar
-tags: noticias
+sitemap: 1
+feed: 1
+folder: noticias
 date: 19/12/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: noticias-seo/2019/diciembre
@@ -43,6 +45,6 @@ Por fin parece que las páginas "Rastreadas pero no indexadas" comenzarán a arr
   data-tweetid="1207341145749147654">
 </amp-twitter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkwOTIxNjIsLTE1NTg3NTAxOTQsMT
-YxMjIzMzg3NV19
+eyJoaXN0b3J5IjpbMTI5MjY2MzU0LC0xMTg5MDkyMTYyLC0xNT
+U4NzUwMTk0LDE2MTIyMzM4NzVdfQ==
 -->
