@@ -2,6 +2,9 @@
 title: Controla la privacidad en Windows con Blackbird
 description: Blackbird en una herramienta que te ayudará a gestionar y controlar los datos que compartes con Windows
 lang: es_ES
+sitemap: 1
+feed: 1
+folder: offtopic
 permalink: controla-la-privacidad-en-windows-con-blackbird
 author:
   twitter: emirodgar
@@ -42,5 +45,5 @@ blackbird -scan
 
 Algunos de los servicios que desactiva esta aplicación son: One Drive, Xbox Live, Anuncios del menú de inicio, Cortana, integraciones con Bing, Wi-Fi Sense, Autologgers, servicios DRM, WGA y P2P, diagnósticos internos, sincronizaciones con otros dispositivos, telemetría, etc. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTM5NzY1OF19
+eyJoaXN0b3J5IjpbLTIwODA4MzU2MywxMTY1Mzk3NjU4XX0=
 -->
