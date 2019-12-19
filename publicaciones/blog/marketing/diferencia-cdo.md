@@ -1,6 +1,7 @@
 ---
 description: El término CDO es muy utilizado hoy en día pero ¿sabemos la diferencia entre Data y Digital?
 lang: es_ES
+image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 sitemap: 1
 feed: 1
 folder: marketing
@@ -39,5 +40,5 @@ Las responsabilidades principales son:
 4. Control sobre todas las fuentes de información que pueden aportar valor a la empresa (internas o externas).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDY4NjY5MiwxMTExMjQ2ODcxXX0=
+eyJoaXN0b3J5IjpbLTExMjYzNjc4MzQsMTExMTI0Njg3MV19
 -->
