@@ -194,8 +194,11 @@
 	  <div id="logo"><a href="https://emirodgar.com" class="standard-logo"><b>EMIRODGAR</b><i style="font-size:19px;"> digital</i></a></div>
       <article class="post">
          <section class="post-content">
-            <h4>Tabla de contenidos</h4> - <a href="javascript:$('#erg-toc').toggle();">mostrar / ocultar</a>
-			<div id="erg-toc">{% include toc.html html=content %}</div>
+            <h4>Tabla de contenidos</h4> 
+			<button id="ergtoc1" class="button" hidden on="tap:ergtoc.hide,ergtoc1.hide,ergtoc2.show">Ocultar</button>
+			<button id="ergtoc2" class="button" on="tap:ergtoc.show,ergtoc2.hide,ergtoc1.show">Mostrar</button>
+
+			<div id="ergtoc">{% include toc.html html=content %}</div>
 			{{ content }}
          </section>
          <footer class="post-footer">
