@@ -47,7 +47,18 @@ Link: <http://emirodgar.com/informe.pdf>; rel="canonical"
 ```
 
 Hay otras opciones como aplicar una redirección 301 (para dejar únicamente una versión o establecerlo a nivel del Sitemap XML.
+
+## Necesitamos más factores
+
+Pero cuidado, la etiqueta canónica puede ser ignorada por Google
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1204760229906399232">
+</amp-twitter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDAyOTA0NTgsLTUxNzAyNDU4Nyw2Nj
-Q4ODA0NzNdfQ==
+eyJoaXN0b3J5IjpbMjgxNDQ1OTQ2LC0yMDAwMjkwNDU4LC01MT
+cwMjQ1ODcsNjY0ODgwNDczXX0=
 -->
