@@ -10,20 +10,27 @@ dfdfd fsd otra cosa!! probando otra vez más
 
 ## 1 - Define un objetivo global
 
-
-{% for post in site.posts limit:10 %}
-			<item>
-				<title>{{ post.title | xml_escape }}</title>
-				<description>{{ post.content | xml_escape }}</description>
-				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-			</item>
-		{% endfor %}
+```html
+<channel>
+    <title>{{ site.name | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+    {% for post in site.posts limit:10 %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <link>{{ site.url }}/{{ post.url }}</link>
+        <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
+      </item>
+    {% endfor %}
+  </channel>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTYyNDM4NiwyMTM5ODI1MjAzLDc0Nz
-A1MjQ5MywtMTczMDk1NjcwNiwtMTc1NDkwNzU4MiwxNzAyNjk4
-MTE1LDE3MDI2OTgxMTUsODQyNDE1NzMwLC0xNDQ0MjUxMTUzLC
-0yNzI1MjY3NTksNzUzNDA2MDE2LC0xMDI0ODAzNjQ2LC03Mzk5
-OTM0MjcsLTIwMjA3MTU4NjldfQ==
+eyJoaXN0b3J5IjpbMTk3NzQ0ODI4MCwxNDA5NjI0Mzg2LDIxMz
+k4MjUyMDMsNzQ3MDUyNDkzLC0xNzMwOTU2NzA2LC0xNzU0OTA3
+NTgyLDE3MDI2OTgxMTUsMTcwMjY5ODExNSw4NDI0MTU3MzAsLT
+E0NDQyNTExNTMsLTI3MjUyNjc1OSw3NTM0MDYwMTYsLTEwMjQ4
+MDM2NDYsLTczOTk5MzQyNywtMjAyMDcxNTg2OV19
 -->
