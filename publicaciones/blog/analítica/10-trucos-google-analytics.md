@@ -1,7 +1,7 @@
 ---
 description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
 lang: es_ES
-layout: post
+layout:  post
 toc: true
 author: Emirodgar
 tags: seo, google, gtm, analytics
@@ -81,6 +81,6 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTU4NjYyNCwtMTQ4NTc5ODY5NCwtMT
-Q0OTI3Mjk5Nl19
+eyJoaXN0b3J5IjpbLTE4NjUzMzEwLDEzMzk1ODY2MjQsLTE0OD
+U3OTg2OTQsLTE0NDkyNzI5OTZdfQ==
 -->

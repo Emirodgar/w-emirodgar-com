@@ -31,7 +31,18 @@ Así lo ha confirmado Danny vía Twitter
 </amp-twitter>
 
 Dentro de las lecturas interesantes de este mes destaco este artículo en que se analiza el impacto que tienen los [contenidos generados en foros y como comentarios](https://www.gsqi.com/marketing-blog/user-comments-indexable-versus-indexed/).
+
+## Search Console recibe actualizaciones
+
+Por fin parece que las páginas "Rastreadas pero no indexadas" comenzarán a arrojar algo más de información. Hasta ahora era complicado analizar su comportamiento.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1207341145749147654">
+</amp-twitter>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzYxMTQwNCwtMTU1ODc1MDE5NCwxNj
-EyMjMzODc1XX0=
+eyJoaXN0b3J5IjpbLTExODkwOTIxNjIsLTE1NTg3NTAxOTQsMT
+YxMjIzMzg3NV19
 -->
