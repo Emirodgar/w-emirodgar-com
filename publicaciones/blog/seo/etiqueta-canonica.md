@@ -50,7 +50,7 @@ Hay otras opciones como aplicar una redirección 301 (para dejar únicamente una
 
 ## Necesitamos más factores
 
-Pero cuidado, la etiqueta canónica puede ser ignorada por Google
+Pero cuidado, la etiqueta canónica puede ser ignorada por Google por lo que, además de usarla, sería neceario apoyarla con otros factores.
 
 <amp-twitter 
   width="375"
@@ -58,7 +58,16 @@ Pero cuidado, la etiqueta canónica puede ser ignorada por Google
   layout="responsive"
   data-tweetid="1204760229906399232">
 </amp-twitter>
+
+Los factores SEO que nos ayudarán a canonicalizar una URL serán:
+
+- Redirecciones
+- Enlazado interno y externo
+- Sitemaps y hreflang
+- URLs amigables y limpias
+- HTTPs
+- Dominio seleccionado como preferido
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxNDQ1OTQ2LC0yMDAwMjkwNDU4LC01MT
-cwMjQ1ODcsNjY0ODgwNDczXX0=
+eyJoaXN0b3J5IjpbMjEwMTEyMzc5MywtMjAwMDI5MDQ1OCwtNT
+E3MDI0NTg3LDY2NDg4MDQ3M119
 -->
