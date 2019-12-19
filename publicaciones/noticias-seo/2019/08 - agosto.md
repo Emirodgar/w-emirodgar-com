@@ -3,7 +3,9 @@ title: Noticias SEO - agosto 2019
 description: Recopilación de noticias y enlaces de interés relacionados con el SEO y Marketing digital
 lang: es_ES
 author: Emirodgar
-tags: noticias
+sitemap: 1
+feed: 1
+folder: noticias
 date: 13/08/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: noticias-seo/2019/agosto
@@ -61,8 +63,8 @@ Esta es la realidad; no hace falta hacer grandes estudios ya que los números ha
 
 Si aún no dominas este servicio gratuito para generación de informes [te recomiendo leer esta guía](https://omisido.com/google-data-studio-the-complete-guide/); una de las más completas que he encontrado hasta la fecha.   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzUwMTc4NiwtNzM3NTAxNzg2LDIxMT
-M1NDUxNzUsMTQwODY5NDkyMCwxODIzODcyODAzLDE3MjgwMzY1
-NDUsLTEwOTcwNDE0NDUsLTY4MzkwNTUwOSwzNTgxODk0NzRdfQ
-==
+eyJoaXN0b3J5IjpbLTIwNDQwMzI4NCwtNzM3NTAxNzg2LC03Mz
+c1MDE3ODYsMjExMzU0NTE3NSwxNDA4Njk0OTIwLDE4MjM4NzI4
+MDMsMTcyODAzNjU0NSwtMTA5NzA0MTQ0NSwtNjgzOTA1NTA5LD
+M1ODE4OTQ3NF19
 -->
