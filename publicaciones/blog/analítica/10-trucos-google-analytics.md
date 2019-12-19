@@ -18,7 +18,7 @@ permalink: trucos-google-analytics
 
 El primer paso es el más importante: necesitamos definir un objetivo para que el resto del camino tenga sentido. Básicamente se trata de responder la pregunta de **¿qué es lo que queremos conseguir con la página o la aplicación web?**.
 
-Con ello claro, podremos identificar los recursos que necesitamos.
+Con ello claro, podremos identificar los recursos que necesitamos para continuar con la estrategia de analítica web.
 
 ## 2 - Establece metas realistas
 
@@ -81,6 +81,6 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjUzMzEwLDEzMzk1ODY2MjQsLTE0OD
-U3OTg2OTQsLTE0NDkyNzI5OTZdfQ==
+eyJoaXN0b3J5IjpbODY2MDkyMzQ2LC0xODY1MzMxMCwxMzM5NT
+g2NjI0LC0xNDg1Nzk4Njk0LC0xNDQ5MjcyOTk2XX0=
 -->
