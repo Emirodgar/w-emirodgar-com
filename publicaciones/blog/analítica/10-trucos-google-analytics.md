@@ -1,7 +1,6 @@
 ---
 description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
 lang: es_ES
-layout:  post
 toc: true
 author: Emirodgar
 tags: seo, google, gtm, analytics
@@ -12,12 +11,6 @@ permalink: trucos-google-analytics
 ---
 
 # 10 trucos para comenzar con Google Analytics
-
-TABLA de contenidos
-* toc
-			{:toc}
-{% include toc.html %}
-{% include toc.md %}
 
 ## 1 - Define un objetivo global
 
@@ -88,9 +81,9 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTU1MjI0NCwtMTYzMjE0MDUzMywtMT
-g4MjY1NzY2NCwtNjc0MTA2NTY1LC0xMDczMDg1MSwtMTg1MDA0
-MzM2MywtMzU4MjA1NjQyLC0xMjYwMjc3NTg4LC0xODY1MzMxMC
-wxMzM5NTg2NjI0LC0xNDg1Nzk4Njk0LC0xNDQ5MjcyOTk2XX0=
-
+eyJoaXN0b3J5IjpbMTQ0NTc1OTMzNywtODgxNTUyMjQ0LC0xNj
+MyMTQwNTMzLC0xODgyNjU3NjY0LC02NzQxMDY1NjUsLTEwNzMw
+ODUxLC0xODUwMDQzMzYzLC0zNTgyMDU2NDIsLTEyNjAyNzc1OD
+gsLTE4NjUzMzEwLDEzMzk1ODY2MjQsLTE0ODU3OTg2OTQsLTE0
+NDkyNzI5OTZdfQ==
 -->
