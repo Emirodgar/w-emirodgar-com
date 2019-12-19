@@ -4,7 +4,9 @@ description: Las estrategias de Inbound Marketing han ido evolucionando durante 
 lang: es_ES
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 redirect_from: 
-  - noticias-seo/2019
+  - inbound-marketing/twitter
+  - inbound-marketing/general
+  - inbound-marketing/publicacion
 permalink: inbound-marketing
 
 ---
@@ -107,5 +109,5 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NjA1ODQyXX0=
+eyJoaXN0b3J5IjpbMTU0OTYzNzg5NF19
 -->
