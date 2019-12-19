@@ -10,7 +10,7 @@ dfdfd fsd otra cosa!! probando otra vez más
 
 ## 1 - Define un objetivo global
 
-```html
+
 <channel>
     <title>{{ site.name | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -26,9 +26,9 @@ dfdfd fsd otra cosa!! probando otra vez más
       </item>
     {% endfor %}
   </channel>
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzQ0ODI4MCwxNDA5NjI0Mzg2LDIxMz
+eyJoaXN0b3J5IjpbLTk4MDAwNjEzMywxNDA5NjI0Mzg2LDIxMz
 k4MjUyMDMsNzQ3MDUyNDkzLC0xNzMwOTU2NzA2LC0xNzU0OTA3
 NTgyLDE3MDI2OTgxMTUsMTcwMjY5ODExNSw4NDI0MTU3MzAsLT
 E0NDQyNTExNTMsLTI3MjUyNjc1OSw3NTM0MDYwMTYsLTEwMjQ4
