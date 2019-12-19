@@ -31,7 +31,7 @@ El objetivo global de la web es importante pero es demasiado genérico, por ello
  
 > Es importante estar alineado con los **objetivos del negocio** para así asegurarnos de que damos respuestas a todas las preguntas.
 
-## 3 - Identifica los KPIs relevantes
+## 3 - Identifica los KPIs relevantes asociados a cada meta
 
 Para cada meta necesitamos establecer un KPI (dos como máximo) que nos permita conocer la evolución del mismo. Esto evitará que perdamos el tiempo con un exceso de información y nos concentremos en los indicaros relevantes.
 
@@ -83,8 +83,8 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI2NTc2NjQsLTY3NDEwNjU2NSwtMT
-A3MzA4NTEsLTE4NTAwNDMzNjMsLTM1ODIwNTY0MiwtMTI2MDI3
-NzU4OCwtMTg2NTMzMTAsMTMzOTU4NjYyNCwtMTQ4NTc5ODY5NC
-wtMTQ0OTI3Mjk5Nl19
+eyJoaXN0b3J5IjpbLTE2MzIxNDA1MzMsLTE4ODI2NTc2NjQsLT
+Y3NDEwNjU2NSwtMTA3MzA4NTEsLTE4NTAwNDMzNjMsLTM1ODIw
+NTY0MiwtMTI2MDI3NzU4OCwtMTg2NTMzMTAsMTMzOTU4NjYyNC
+wtMTQ4NTc5ODY5NCwtMTQ0OTI3Mjk5Nl19
 -->
