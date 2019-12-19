@@ -197,7 +197,7 @@
             <h4>Tabla de contenidos</h4> 
 			<button on="tap:ergtoc.toggleVisibility">Mostrar / ocultar</button>
 
-			<div id="ergtoc">{% include toc.html html=content %}</div>
+			<div id="ergtoc" style="display:none;">{% include toc.html html=content %}</div>
 			{{ content }}
          </section>
          <footer class="post-footer">
