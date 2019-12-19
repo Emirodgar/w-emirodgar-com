@@ -6,7 +6,7 @@ layout: post
 
 # 10 trucos para comenzar con Google Analytics
 
-dfdfd fsd 
+dfdfd fsd otra cosa!!
 
 ## 1 - Define un objetivo global
 
@@ -78,6 +78,7 @@ Una de las primeras aplicaciones que recomendaría realizar a través de GTM ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjUyNjc1OSw3NTM0MDYwMTYsLTEwMj
-Q4MDM2NDYsLTczOTk5MzQyNywtMjAyMDcxNTg2OV19
+eyJoaXN0b3J5IjpbLTE0NDQyNTExNTMsLTI3MjUyNjc1OSw3NT
+M0MDYwMTYsLTEwMjQ4MDM2NDYsLTczOTk5MzQyNywtMjAyMDcx
+NTg2OV19
 -->
