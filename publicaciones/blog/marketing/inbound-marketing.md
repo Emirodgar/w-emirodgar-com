@@ -3,6 +3,8 @@ title: Inbound Marketing 2019
 description: Las estrategias de Inbound Marketing han ido evolucionando durante los últimos años. Aprende a sacar el máximo rendimiento con estos consejos
 lang: es_ES
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
+redirect_from: 
+  - noticias-seo/2019
 permalink: inbound-marketing
 
 ---
@@ -105,5 +107,5 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY5MzUyOTVdfQ==
+eyJoaXN0b3J5IjpbMzE4NjA1ODQyXX0=
 -->
