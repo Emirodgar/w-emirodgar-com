@@ -3,7 +3,9 @@ title: Noticias SEO - noviembre 2019
 description: Recopilación de noticias y enlaces de interés relacionados con el SEO y Marketing digital
 lang: es_ES
 author: Emirodgar
-tags: noticias
+sitemap: 1
+feed: 1
+folder: noticias
 date: 13/11/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: noticias-seo/2019/noviembre
@@ -57,6 +59,6 @@ Después de un tiempo de usarla sólo para mí, me he decidido a compartirla de 
 
 Espero que os guste.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTUyMzQ4LC0xOTYzOTkyODExLDMxMz
-c1NzkwMywxMjY2Nzc2MjU1LDE1MDI3OTUwNThdfQ==
+eyJoaXN0b3J5IjpbLTEzNTk3MTE1ODYsLTE5NjM5OTI4MTEsMz
+EzNzU3OTAzLDEyNjY3NzYyNTUsMTUwMjc5NTA1OF19
 -->
