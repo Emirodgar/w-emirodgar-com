@@ -3,9 +3,11 @@ title: Optimización de imágenes para el SEO
 description: Genera más tráfico orgánico a través de búsquedas de imágenes y consigue mayor visibilidad en buscadores
 lang: es_ES
 author: Emirodgar
-tags: seo, imágenes, auditoría
+folder: auditoría
 date: 16/05/2019
 date_modified: 16/05/2019
+sitemap: 1
+feed: 1
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: optimizacion-imagenes-seo
 
@@ -150,6 +152,5 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MjQyMjM3LC0xNzY1ODM0NjE1LC02OT
-c0ODk4MTNdfQ==
+eyJoaXN0b3J5IjpbMTM3MTgxMDQ0MV19
 -->
