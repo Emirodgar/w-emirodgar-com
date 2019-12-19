@@ -4,6 +4,9 @@ description: Conseguir buenos resultados en una estrategia SEO no depende única
 image: https://emirodgar.com/cdn/images/og/herramientas.png
 date: 16/08/2019
 author: Emirodgar
+sitemap: 1
+feed: 1
+folder: seo
 lang: es_ES
 permalink: herramientas-seo-gratis
 
@@ -186,8 +189,8 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNj
-I1OTA1MDEsMTk4NTEyNzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0
-MywtNDE2OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NT
-M4NzE2MV19
+eyJoaXN0b3J5IjpbLTEyODQ2NDUyODMsMTkwODQ0MjQ5LC01ND
+k3Njg2NTcsLTEyNjI1OTA1MDEsMTk4NTEyNzM3LC0xMjU1NjU1
+MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMzA5ODI5OTQxLDE0MD
+A0Njg1NjcsMTM0NTM4NzE2MV19
 -->
