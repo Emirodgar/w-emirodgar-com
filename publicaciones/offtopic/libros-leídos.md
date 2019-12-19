@@ -3,7 +3,9 @@ title: Grandes libros que recomiendo leer
 description: Pequeña recopilación de los libros que he leído y recomiendo
 lang: es_ES
 author: Emirodgar
-tags: offtopic, libros, lectura
+sitemap: 1
+feed: 1
+folder: offtopic
 date: 07/12/2019
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
 permalink: libros-recomendados
@@ -59,7 +61,7 @@ Creo que se podría haber condensado y darle un final a la saga mucho más digno
 ## La chica del tren
 ### Paula Hawkins / 2015 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTYyNTE2NCwyMzAwNTAwNjksLTI5MT
-c5OTIwMiwtOTUyOTAyOTI5LC05NTI5MDI5MjksMTgwOTY2MjE5
-MiwtMTU1OTg5NzU0MF19
+eyJoaXN0b3J5IjpbMTk5NDM5MDY5LDIzMDA1MDA2OSwtMjkxNz
+k5MjAyLC05NTI5MDI5MjksLTk1MjkwMjkyOSwxODA5NjYyMTky
+LC0xNTU5ODk3NTQwXX0=
 -->
