@@ -6,6 +6,8 @@ author: Emirodgar
 tags: seo, imágenes, auditoría
 date: 16/05/2019
 date_modified: 16/05/2019
+sitemap: 1
+feed: 1
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: optimizacion-imagenes-seo
 
@@ -150,6 +152,6 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MjQyMjM3LC0xNzY1ODM0NjE1LC02OT
-c0ODk4MTNdfQ==
+eyJoaXN0b3J5IjpbMTg5NDU0Njc0MCw2NTgyNDIyMzcsLTE3Nj
+U4MzQ2MTUsLTY5NzQ4OTgxM119
 -->
