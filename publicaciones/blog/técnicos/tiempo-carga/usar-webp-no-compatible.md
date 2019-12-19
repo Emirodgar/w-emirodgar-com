@@ -3,7 +3,9 @@ title: Usar formato Webp cuando un navegador no es compatible
 description: De esta forma podremos hacer uso del formato webp de Google en cualquier navegador web
 lang: es_ES
 author: Emirodgar
-tags: seo, google, performance
+sitemap: 1
+feed: 1
+folder: programacion
 date: 17/05/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: webp-compatibilidad
@@ -46,5 +48,6 @@ Automáticamente Modernizr sabrá qué clase aplicar y por lo tanto se cargará 
 
 Google tiene una [guía muy interesante](https://developers.google.com/speed/webp/faq#how_can_i_detect_browser_support_for_webp) que ofrece diversas formas de detectar soporte para WebP.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTY5NTY0MSwtMjk2NTQ0MDg2XX0=
+eyJoaXN0b3J5IjpbNDQ0MzIxNywtODQ1Njk1NjQxLC0yOTY1ND
+QwODZdfQ==
 -->
