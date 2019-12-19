@@ -3,7 +3,9 @@ title: Noticias SEO - octubre 2019
 description: Recopilación de noticias y enlaces de interés relacionados con el SEO y Marketing digital
 lang: es_ES
 author: Emirodgar
-tags: noticias
+sitemap: 1
+feed: 1
+folder: noticias
 date: 16/10/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: noticias-seo/2019/octubre
@@ -86,9 +88,9 @@ De [todas las presentaciones](https://www.distilled.net/resources/searchlove-lon
 
 Ya es oficial, todos los principales navegadores [dejarán de dar soporte al Flash](https://webmasters.googleblog.com/2019/10/goodbye-flash.html). Se cierra una era y, como alternativa, podremos hacer uso de HTMl5+CSS3+JS.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzMzNjA5NiwxMzUxNDYxODMwLC0xOD
-g4Mjk5ODM1LC0xMjQ1MzAxNDI3LDkwMTA3MTY5NSwtMzkwNzAx
-MDQ3LC0xNTYwMjg3OTUsLTEzNjU4NzE4ODcsNDUwNDM2NDg0LD
-ExODcxMTYzNCwxMjYyNjg5ODQ3LC01MDIwMzI4MTgsLTE4NDY0
-NjQzNzEsMjEyMTgxODE0Nl19
+eyJoaXN0b3J5IjpbLTY1NTkxODY3MiwtODQzMzM2MDk2LDEzNT
+E0NjE4MzAsLTE4ODgyOTk4MzUsLTEyNDUzMDE0MjcsOTAxMDcx
+Njk1LC0zOTA3MDEwNDcsLTE1NjAyODc5NSwtMTM2NTg3MTg4Ny
+w0NTA0MzY0ODQsMTE4NzExNjM0LDEyNjI2ODk4NDcsLTUwMjAz
+MjgxOCwtMTg0NjQ2NDM3MSwyMTIxODE4MTQ2XX0=
 -->
