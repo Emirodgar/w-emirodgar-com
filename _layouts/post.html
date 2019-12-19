@@ -202,12 +202,12 @@
       <article class="post">
          <section class="post-content">
 		 
-		  {% if page.toc == true %}
-	  <h4>Tabla de contenidos</h4> 
-			<a id="ergtoclink" on="tap:ergtoc.toggleVisibility">Mostrar / ocultar</a>
+		  {% if page.toc== 1 %}
+			  <h4>Tabla de contenidos</h4> 
+					<a id="ergtoclink" on="tap:ergtoc.toggleVisibility">Mostrar / ocultar</a>
 
-			<div id="ergtoc" hidden>{% include toc.html html=content %}</div>
-	{% endif %}
+					<div id="ergtoc" hidden>{% include toc.html html=content %}</div>
+			{% endif %}
 		 
 		 
             
