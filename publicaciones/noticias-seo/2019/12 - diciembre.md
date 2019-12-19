@@ -12,15 +12,25 @@ permalink: noticias-seo/2019/octubre
 
 # Noticias SEO diciembre 2019
 
-BERT ya ha sido desplegado en más de 70 idiomas (originalmente sólo estaba en inglés para EE.UU). A
+BERT ya ha sido desplegado en más de 70 idiomas (originalmente sólo estaba en inglés para EE.UU). Aún así, sólo afecta a un 10% de las búsquedas
 
 <amp-twitter 
   width="375"
   height="472"
   layout="responsive"
-  data-tweetid="1194365014703923200">
+  data-tweetid="1204743383035662337">
 </amp-twitter>
 
+Así lo ha confirmado Danny vía Twitter
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1204346973614202882">
+</amp-twitter>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0NzU1NV19
+eyJoaXN0b3J5IjpbMTYxMjIzMzg3NV19
 -->
