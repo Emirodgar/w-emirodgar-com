@@ -11,6 +11,8 @@ emirodgar:
   picture: cdn/images/author/emirodgar-avatar.jpg
   twitter: emirodgar
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
