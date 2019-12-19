@@ -2,7 +2,9 @@
 description: Optimiza tu tiempo y automatiza el rendimiento de múltiples URLs dentro de tu sitio web
 lang: es_ES
 author: Emirodgar
-tags: seo, google, chrome
+sitemap: 1
+feed: 1
+folder: programacion
 date: 12/11/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: consola-devtools-chrome
@@ -87,7 +89,8 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg5NTcyNCwzMTYzNDg0MDAsNDI3OD
-AzOTQ4LC0xMDEwNjYyMTMsLTUxMTY0MTMzNiw1Njc0NDQzMTMs
-MTgyMTU4OTMxOCwtNjkxOTk0MjgzLC04NjYwMzMxMjFdfQ==
+eyJoaXN0b3J5IjpbLTIwMTQxNjQyNDgsLTEwNjg5NTcyNCwzMT
+YzNDg0MDAsNDI3ODAzOTQ4LC0xMDEwNjYyMTMsLTUxMTY0MTMz
+Niw1Njc0NDQzMTMsMTgyMTU4OTMxOCwtNjkxOTk0MjgzLC04Nj
+YwMzMxMjFdfQ==
 -->
