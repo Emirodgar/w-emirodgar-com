@@ -3,7 +3,9 @@ title: Aplicar Lazy Load para cargar imágenes bajo demanda
 description: Esta técnica nos ayudará a mejorar el tiempo de carga
 lang: es_ES
 author: Emirodgar
-tags: seo, google, tecnico
+sitemap: 1
+feed: 1
+folder: programacion
 date: 10/09/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: lazy-load-carga-bajo-demanda-imagenes
@@ -55,6 +57,6 @@ alt="Estrategia SEO Meliá Hoteles">
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDg3NTg1MCwyMDU5NDYyNTc4LC05Nz
-cxOTY3ODRdfQ==
+eyJoaXN0b3J5IjpbODM0MTQ4OTUzLC0zOTA4NzU4NTAsMjA1OT
+Q2MjU3OCwtOTc3MTk2Nzg0XX0=
 -->
