@@ -6,7 +6,7 @@ author: Emirodgar
 tags: noticias
 date: 19/12/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: noticias-seo/2019/octubre
+permalink: noticias-seo/2019/diciembre
 
 ---
 
@@ -32,5 +32,6 @@ Así lo ha confirmado Danny vía Twitter
 
 Dentro de las lecturas interesantes de este mes destaco este artículo en que se analiza el impacto que tienen los [contenidos generados en foros y como comentarios](https://www.gsqi.com/marketing-blog/user-comments-indexable-versus-indexed/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg3NTAxOTQsMTYxMjIzMzg3NV19
+eyJoaXN0b3J5IjpbMTIyNzYxMTQwNCwtMTU1ODc1MDE5NCwxNj
+EyMjMzODc1XX0=
 -->
