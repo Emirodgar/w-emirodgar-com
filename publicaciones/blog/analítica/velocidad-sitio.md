@@ -3,7 +3,9 @@ title: Velocidad del sitio en Google Analytics sale a cero
 description: Cuando la muestra es pequeña, la métrica de velocidad del sitio puede no aparecer. Aprende a solucionarlo.
 lang: es_ES
 author: Emirodgar
-tags: seo, google, gtm, analytics
+sitemap: 1
+feed: 1
+folder: analitica
 date: 15/10/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: velocidad-sitio-analytics
@@ -26,5 +28,5 @@ Para ello bastará con establecer el parámetro [siteSpeedSampleRate](https://de
 ga('create',  'UA-XXXX-Y',  {'siteSpeedSampleRate':  10});
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTYyODg5MF19
+eyJoaXN0b3J5IjpbLTUwNTczNzAwMiwtNDcxNjI4ODkwXX0=
 -->
