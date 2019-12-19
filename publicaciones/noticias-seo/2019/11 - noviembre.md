@@ -6,7 +6,7 @@ author: Emirodgar
 tags: noticias
 date: 13/11/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: noticias-seo/2019/octubre
+permalink: noticias-seo/2019/noviembre
 
 ---
 
@@ -57,6 +57,6 @@ Después de un tiempo de usarla sólo para mí, me he decidido a compartirla de 
 
 Espero que os guste.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM5OTI4MTEsMzEzNzU3OTAzLDEyNj
-Y3NzYyNTUsMTUwMjc5NTA1OF19
+eyJoaXN0b3J5IjpbMTg1NTUyMzQ4LC0xOTYzOTkyODExLDMxMz
+c1NzkwMywxMjY2Nzc2MjU1LDE1MDI3OTUwNThdfQ==
 -->
