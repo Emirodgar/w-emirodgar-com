@@ -5,6 +5,9 @@ image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 date: 27/08/2019
 author: Emirodgar
 lang: es_ES
+sitemap: 1
+feed: 1
+folder: seo
 permalink: mejorar-tiempo-carga-web
 
 ---
@@ -65,6 +68,7 @@ Adicional a todo esto, existe un punto avanzado que también podemos trabajar. S
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE5MjExMDEsMTU3NDk4NDQ5NSwxND
-E4Mzg2NTQ0LDExNzAyODMxMTIsLTU1MDczNDA3OF19
+eyJoaXN0b3J5IjpbLTE5NjE5ODQwOSwtMTkwMTkyMTEwMSwxNT
+c0OTg0NDk1LDE0MTgzODY1NDQsMTE3MDI4MzExMiwtNTUwNzM0
+MDc4XX0=
 -->
