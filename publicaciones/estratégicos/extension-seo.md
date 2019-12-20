@@ -45,7 +45,7 @@ En un segundo menú podremos realizar diversas validaciones sobre la URL que est
 
  * Validación de datos estructurados.
  * Validación de diseño móvil.
- * Validación de HTML/CSS
+ * Validación de HTML/CSS.
  * Validación de AMP.
  * Validación de tiempo de carga.
  * Validación de contenido duplicado.
@@ -54,22 +54,15 @@ En un segundo menú podremos realizar diversas validaciones sobre la URL que est
  * Acceso a versiones antiguas de la página.
 
 
-Acceso a herramientas relacionadas con estrategias digitales
---------------------------------------------------------
+### Acceso a herramientas relacionadas con estrategias digitales
 
- * Completo listado de herramientas gratuitas para enriquecer cualquier estrategia SEO.
+A mayores, ofrezco un listado de herramientas SEO y de Marketing Digital que nos pueden aportar valor. Haciendo uso de un buscador podemos localizar la que nos interesa en cada momento y acceder de forma rápida.
 
-Noticias y actualidad SEO
---------------------------------------------------------
 
- * Mantente al día de todas las novedades en el mundo SEO con un pequeño apartado de noticias relacionadas con este ámbito.
+###  Noticias y actualidad SEO
 
-Listado de actualizaciones del algoritmo de búsqueda
---------------------------------------------------------
+Por último pero no menos importante, ofrezco un listado acMantente al día de todas las novedades en el mundo SEO con un pequeño apartado de noticias relacionadas con este ámbito.
 
- * Acceso a todos los cambios de algoritmo de Google con una pequeña descripción del mismo y enlace a la fuente original.
-
-### Auditoría SEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NzI0OTM5LC01NzIxNzY1OTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MjAzMzU5MTUsLTU3MjE3NjU5NV19
 -->
