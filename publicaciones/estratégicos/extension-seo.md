@@ -13,7 +13,7 @@ permalink: extension-seo
 
 # Extensión SEO
 
-Hace años me decidí a crear una extensión SEO para mi trabajo diario. Al principio era muy sencilla y únicamente analizaba ciertos aspectos críticos como si una URL era indexable o no. Con el tiempo he ido añadiendo más opciones.
+Comparto mi extensión SEO personal que facilita ciertos análisis y validaciones SEO. También tiene acceso rápido a herramientas, noticias y actualidad sobre posicionamiento web.
 
 > [Instalar la extensión SEO para Chrome](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng)
 
@@ -30,7 +30,46 @@ En octubre de 2019 me decidí a hacerla pública para que cualquiera pudiera ins
 
 A continuación detallo las características
 
+
+
+Análisis de página web
+--------------------------------------------------------
+
+ * Revisión de títulos, metas, cabeceras HTML, contenido, etc.
+ * Revisión de etiqueta canónica, enlaces, Open Graph, etc. 
+ * Identifica de forma rápida las imágenes sin atributo ALT.
+ * Identifica enlaces dofollow, nofollow, ugc y sponsored.
+
+Acceso rápido a validación con herramientas externas
+--------------------------------------------------------
+
+ * Validación de datos estructurados.
+ * Validación de diseño móvil.
+ * Validación de HTML/CSS
+ * Validación de AMP.
+ * Validación de tiempo de carga.
+ * Validación de contenido duplicado.
+ * Validación de enlaces rotos.
+ * Validación de idioma y codificación.
+ * Acceso a versiones antiguas de la página.
+
+
+Acceso a herramientas relacionadas con estrategias digitales
+--------------------------------------------------------
+
+ * Completo listado de herramientas gratuitas para enriquecer cualquier estrategia SEO.
+
+Noticias y actualidad SEO
+--------------------------------------------------------
+
+ * Mantente al día de todas las novedades en el mundo SEO con un pequeño apartado de noticias relacionadas con este ámbito.
+
+Listado de actualizaciones del algoritmo de búsqueda
+--------------------------------------------------------
+
+ * Acceso a todos los cambios de algoritmo de Google con una pequeña descripción del mismo y enlace a la fuente original.
+
 ### Auditoría SEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDc4MjkwMSwtNTcyMTc2NTk1XX0=
+eyJoaXN0b3J5IjpbMTQ0MjQ3NDgxLC01NzIxNzY1OTVdfQ==
 -->
