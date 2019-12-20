@@ -15,7 +15,7 @@ permalink: google-local-guide-salamanca
 
 Soy una persona que confía mucho en las valoraciones y consejos de los demás y por ello, para devolver el favor, llevo desde el 2007 puntuando aquellos servicios y lugares que visito.
 
-Intento siempre 
+Intento siempre ofrecer un punto de vista imparcial
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4ODg4NzY0XX0=
+eyJoaXN0b3J5IjpbMTU1Mjk1NDk5NV19
 -->
