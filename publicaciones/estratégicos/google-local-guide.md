@@ -26,8 +26,14 @@ De entre todos los servicios que utilizo destaco el de Google Local Guide, un si
   data-tweetid="1207965095269195776">
 </amp-twitter>
 
-Intento siempre ofrecer un punto de vista imparcial y, en los últimos años, me he centrado en valorar los comercios de Salamanca para ayudar a que los visitantes disfruten de una buena experiencia en la ciudad.
+
+## Recomendaciones para visitar Salamanca
+
+Intento siempre ofrecer un punto de vista imparcial y, en los últimos años, me he centrado en valorar los comercios y el turismo de Salamanca para ayudar a que los visitantes disfruten de una buena experiencia en la ciudad.
+
+El objetivo es claro, que tengan suficiente información como para poder elegir dónde quieren ir y qué quieren hacer con **ciertas garantías de que no se llevarán ninguna sorpresa**. Lo que cualquier querría si viajara a un sitio que no conoce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Nzk0OTAxOCwtMjA0MDMzOTY0NywtMT
-A4MjYwOTUzOCwxOTIyMDkxNDg4LDE1NTI5NTQ5OTVdfQ==
+eyJoaXN0b3J5IjpbLTI2MzIxMTgxOCwxNDU3OTQ5MDE4LC0yMD
+QwMzM5NjQ3LC0xMDgyNjA5NTM4LDE5MjIwOTE0ODgsMTU1Mjk1
+NDk5NV19
 -->
