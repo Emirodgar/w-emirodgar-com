@@ -13,9 +13,8 @@ permalink: extension-seo
 
 # Extensión SEO
 
-Comparto mi extensión SEO personal que facilita ciertos análisis y validaciones SEO. También tiene acceso rápido a herramientas, noticias y actualidad sobre posicionamiento web.
+Comparto la [extensión SEO](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng) que facilita ciertos análisis y validaciones SEO. También tiene acceso rápido a herramientas, noticias y actualidad sobre posicionamiento web.
 
-> [Instalar la extensión SEO para Chrome](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng)
 
 <amp-twitter 
   width="375"
@@ -64,5 +63,5 @@ A mayores, ofrezco un listado de herramientas SEO y de Marketing Digital que nos
 Por último pero no menos importante, ofrezco un listado actualizado de noticias SEO. De esta forma podemos acceder a la fuente original de forma rápida además de estar actualizados en materia de posicionamiento web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTkzNTQ3MCwtNTcyMTc2NTk1XX0=
+eyJoaXN0b3J5IjpbMTYxNTU0MjY3MiwtNTcyMTc2NTk1XX0=
 -->
