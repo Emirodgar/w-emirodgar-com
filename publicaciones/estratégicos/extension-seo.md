@@ -13,7 +13,7 @@ permalink: extension-seo
 
 # Extensión SEO
 
-Desde hace años llevo haciendo uso de una extensión SEO en mi navegador (de momento sólo para Chrome) que me facilita los análisis diarios.
+Hace años me decidí a crear una extensión SEO para mi trabajo diario. Al principio era muy sencilla y únicamente analizaba ciertos aspectos críticos como si una URL era indexable o no. Con el tiempo he ido añadiendo más opc llevo uso de una extensión SEO en mi navegador (de momento sólo para Chrome) que me facilita los análisis diarios.
 
 ## Extensión SEO para Google Chrome
 
@@ -27,5 +27,5 @@ De entre todos los servicios que utilizo destaco el de Google Local Guide, un si
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjE3NjU5NV19
+eyJoaXN0b3J5IjpbNzg3NjIxMjU3LC01NzIxNzY1OTVdfQ==
 -->
