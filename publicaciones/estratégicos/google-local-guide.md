@@ -15,6 +15,10 @@ permalink: google-local-guide-salamanca
 
 Soy una persona que confía mucho en las valoraciones y consejos de los demás y por ello, para devolver el favor, llevo desde el 2007 puntuando aquellos servicios y lugares que visito.
 
+## Google local guide
+
+De entre todos los servicios que utilizo destaco el de Google Local Guide, un sistema rápido y bien integrado en su sistema de búsquedas. Actualmente soy nivel 6.
+
 <amp-twitter 
   width="375"
   height="472"
@@ -24,6 +28,6 @@ Soy una persona que confía mucho en las valoraciones y consejos de los demás y
 
 Intento siempre ofrecer un punto de vista imparcial y, en los últimos años, me he centrado en valorar los comercios de Salamanca para ayudar a que los visitantes disfruten de una buena experiencia en la ciudad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI2MDk1MzgsMTkyMjA5MTQ4OCwxNT
-UyOTU0OTk1XX0=
+eyJoaXN0b3J5IjpbLTIwNDAzMzk2NDcsLTEwODI2MDk1MzgsMT
+kyMjA5MTQ4OCwxNTUyOTU0OTk1XX0=
 -->
