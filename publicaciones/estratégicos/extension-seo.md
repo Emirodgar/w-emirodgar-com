@@ -17,10 +17,6 @@ Comparto mi extensión SEO personal que facilita ciertos análisis y validacione
 
 > [Instalar la extensión SEO para Chrome](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng)
 
-## Extensión SEO para Google Chrome
-
-En octubre de 2019 me decidí a hacerla pública para que cualquiera pudiera instalarla.
-
 <amp-twitter 
   width="375"
   height="472"
@@ -28,12 +24,13 @@ En octubre de 2019 me decidí a hacerla pública para que cualquiera pudiera ins
   data-tweetid="1187022113590382598">
 </amp-twitter>
 
-A continuación detallo las características
+
+## Funcionalidades SEO
 
 
+### Análisis de página web
 
-Análisis de página web
---------------------------------------------------------
+En cada URL que accedemos, automáticamente se validan una serie de aspectos técnicos y de contenido identificando aquellas mejoras potenciales que podríamos llevar a cabo.
 
  * Revisión de títulos, metas, cabeceras HTML, contenido, etc.
  * Revisión de etiqueta canónica, enlaces, Open Graph, etc. 
@@ -71,5 +68,5 @@ Listado de actualizaciones del algoritmo de búsqueda
 
 ### Auditoría SEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjQ3NDgxLC01NzIxNzY1OTVdfQ==
+eyJoaXN0b3J5IjpbLTE5ODAwMjY2OTAsLTU3MjE3NjU5NV19
 -->
