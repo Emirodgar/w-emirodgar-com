@@ -32,13 +32,16 @@ Comparto mi extensión SEO personal que facilita ciertos análisis y validacione
 
 En cada URL que accedemos, automáticamente se validan una serie de aspectos técnicos y de contenido identificando aquellas mejoras potenciales que podríamos llevar a cabo.
 
+Algunos de los aspectos analizados son:
+
  * Revisión de títulos, metas, cabeceras HTML, contenido, etc.
  * Revisión de etiqueta canónica, enlaces, Open Graph, etc. 
  * Identifica de forma rápida las imágenes sin atributo ALT.
  * Identifica enlaces dofollow, nofollow, ugc y sponsored.
 
-Acceso rápido a validación con herramientas externas
---------------------------------------------------------
+###  Acceso rápido a validación con herramientas externas
+
+En un segundo menú podremos realizar diversas validaciones sobre la URL que estamos visualizando: 
 
  * Validación de datos estructurados.
  * Validación de diseño móvil.
@@ -68,5 +71,5 @@ Listado de actualizaciones del algoritmo de búsqueda
 
 ### Auditoría SEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAwMjY2OTAsLTU3MjE3NjU5NV19
+eyJoaXN0b3J5IjpbOTU3NzI0OTM5LC01NzIxNzY1OTVdfQ==
 -->
