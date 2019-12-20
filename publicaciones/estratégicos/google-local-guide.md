@@ -17,7 +17,7 @@ Soy una persona que confía mucho en las valoraciones y consejos de los demás y
 
 ## Google local guide
 
-De entre todos los servicios que utilizo destaco el de Google Local Guide, un sistema rápido y bien integrado en su sistema de búsquedas. Actualmente soy nivel 6 con cer.
+De entre todos los servicios que utilizo destaco el de Google Local Guide, un sistema rápido y bien integrado en su sistema de búsquedas. Actualmente soy **nivel 6** con cerca de **200 opiniones**.
 
 <amp-twitter 
   width="375"
@@ -28,6 +28,6 @@ De entre todos los servicios que utilizo destaco el de Google Local Guide, un si
 
 Intento siempre ofrecer un punto de vista imparcial y, en los últimos años, me he centrado en valorar los comercios de Salamanca para ayudar a que los visitantes disfruten de una buena experiencia en la ciudad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDQ1NDcwMSwtMjA0MDMzOTY0NywtMT
+eyJoaXN0b3J5IjpbMTQ1Nzk0OTAxOCwtMjA0MDMzOTY0NywtMT
 A4MjYwOTUzOCwxOTIyMDkxNDg4LDE1NTI5NTQ5OTVdfQ==
 -->
