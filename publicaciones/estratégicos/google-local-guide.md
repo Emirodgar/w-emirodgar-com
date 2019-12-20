@@ -15,7 +15,14 @@ permalink: google-local-guide-salamanca
 
 Soy una persona que confía mucho en las valoraciones y consejos de los demás y por ello, para devolver el favor, llevo desde el 2007 puntuando aquellos servicios y lugares que visito.
 
-Intento siempre ofrecer un punto de vista imparcial
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1207965095269195776">
+</amp-twitter>
+
+Intento siempre ofrecer un punto de vista imparcial y, en los últimos años, me he centrado en valorar los comercios de Salamanca para ayudar a que los visitantes disfruten de una buena experiencia en la ciudad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Mjk1NDk5NV19
+eyJoaXN0b3J5IjpbMTkyMjA5MTQ4OCwxNTUyOTU0OTk1XX0=
 -->
