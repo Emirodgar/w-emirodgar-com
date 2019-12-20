@@ -5,7 +5,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: estrategicos
-date: 14/08/2019
+date: 20/12/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: google-local-guide-salamanca
 
@@ -24,5 +24,6 @@ Soy una persona que confía mucho en las valoraciones y consejos de los demás y
 
 Intento siempre ofrecer un punto de vista imparcial y, en los últimos años, me he centrado en valorar los comercios de Salamanca para ayudar a que los visitantes disfruten de una buena experiencia en la ciudad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjA5MTQ4OCwxNTUyOTU0OTk1XX0=
+eyJoaXN0b3J5IjpbLTEwODI2MDk1MzgsMTkyMjA5MTQ4OCwxNT
+UyOTU0OTk1XX0=
 -->
