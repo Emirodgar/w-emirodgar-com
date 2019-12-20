@@ -19,7 +19,7 @@ Hace años me decidí a crear una extensión SEO para mi trabajo diario. Al prin
 
 ## Extensión SEO para Google Chrome
 
-De entre todos los servicios que utilizo destaco el de Google Local Guide, un sistema rápido y bien integrado en su sistema de búsquedas. Actualmente soy **nivel 6** con cerca de **200 opiniones**.
+En octubre de 2019 me decidí a hacerla pública para que cualquiera pudiera instalarla.
 
 <amp-twitter 
   width="375"
@@ -28,6 +28,9 @@ De entre todos los servicios que utilizo destaco el de Google Local Guide, un si
   data-tweetid="1187022113590382598">
 </amp-twitter>
 
+A continuación detallo las características
+
+### Auditoría SEO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5Mjg1MTg4LC01NzIxNzY1OTVdfQ==
+eyJoaXN0b3J5IjpbLTI4MDc4MjkwMSwtNTcyMTc2NTk1XX0=
 -->
