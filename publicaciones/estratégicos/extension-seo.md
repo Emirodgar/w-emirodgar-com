@@ -1,5 +1,5 @@
 ---
-description: Valida de forma automática factores SEO y accede a múltiples 
+description: Valida de forma automática factores SEO y accede a múltiples herramientas de forma sencilla
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -13,7 +13,7 @@ permalink: extension-seo
 
 # Extensión SEO
 
-Soy una persona que confía mucho en las valoraciones y consejos de los demás y por ello, para devolver el favor, llevo desde el 2007 puntuando aquellos servicios y lugares que visito.
+Desde hace años llevo haciendo uso de una extensión SEO en mi navegador (de momento sólo para Chrome) que me facilita los análisis 
 
 ## Google local guide
 
@@ -27,5 +27,5 @@ De entre todos los servicios que utilizo destaco el de Google Local Guide, un si
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDg0MTc0Nl19
+eyJoaXN0b3J5IjpbMTgyOTcyMDY2N119
 -->
