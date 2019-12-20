@@ -13,9 +13,9 @@ permalink: extension-seo
 
 # Extensión SEO
 
-Desde hace años llevo haciendo uso de una extensión SEO en mi navegador (de momento sólo para Chrome) que me facilita los análisis 
+Desde hace años llevo haciendo uso de una extensión SEO en mi navegador (de momento sólo para Chrome) que me facilita los análisis diarios.
 
-## Google local guide
+## Extensión SEO para Google Chrome
 
 De entre todos los servicios que utilizo destaco el de Google Local Guide, un sistema rápido y bien integrado en su sistema de búsquedas. Actualmente soy **nivel 6** con cerca de **200 opiniones**.
 
@@ -27,5 +27,5 @@ De entre todos los servicios que utilizo destaco el de Google Local Guide, un si
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTcyMDY2N119
+eyJoaXN0b3J5IjpbLTU3MjE3NjU5NV19
 -->
