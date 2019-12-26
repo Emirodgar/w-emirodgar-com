@@ -23,6 +23,12 @@ $(document).ready(function(){
 		$("#anno_experience").html(getExperience());
 	});
 	
+	$("#section-why").load("https://emirodgar.com/cdn/html/why.html", function() {
+		$("#anno_why").html(getDate());
+	});
+	
+	$('#section-about').load('https://emirodgar.com/cdn/html/about.html');
+	
 	
 
 });

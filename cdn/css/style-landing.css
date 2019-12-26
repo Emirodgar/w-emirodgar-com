@@ -1071,6 +1071,7 @@ body.side-push-panel{overflow-x:hidden}#side-panel{position:fixed;top:0;right:-3
 }
 
 .iconlist a:hover { text-decoration: underline !important; }
+
 .before-heading{    font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 1px;
