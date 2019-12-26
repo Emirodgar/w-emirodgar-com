@@ -27,7 +27,7 @@ $(document).ready(function(){
 		$("#anno_why").html(getDate());
 	});
 	
-	$('#section-about').load('https://emirodgar.com/cdn/html/about.html');
+	$('#section-about-me').load('https://emirodgar.com/cdn/html/about.html');
 	
 	
 
