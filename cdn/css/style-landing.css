@@ -2,7 +2,7 @@ body{margin:0;}
 article,footer,header,nav,section{display:block;}
 a{background-color:transparent;}
 a:active,a:hover{outline:0;}
-b,strong{font-weight:700;}
+b,strong{font-weight:700 !important;}
 h1{font-size:2em;margin:.67em 0;}
 img{border:0;}
 hr{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;height:0;}
@@ -342,7 +342,6 @@ h1,h2,h3,h4{margin-top:0;margin-bottom:0.5rem;}
 p{margin-top:0;margin-bottom:1rem;}
 address{margin-bottom:1rem;font-style:normal;line-height:inherit;}
 ul{margin-top:0;margin-bottom:1rem;}
-b,strong{font-weight:bolder;}
 a{color:#007bff;text-decoration:none;background-color:transparent;-webkit-text-decoration-skip:objects;}
 a:hover{color:#0056b3;text-decoration:underline;}
 img{vertical-align:middle;border-style:none;}
@@ -1057,6 +1056,7 @@ body.side-push-panel{overflow-x:hidden}#side-panel{position:fixed;top:0;right:-3
     font-size: 15px;
     font-weight: 300
 }
+.seo-countries li {list-style-type: none;}
 .iconlist li:not(:first-child) { margin-top: 8px; }
 .iconlist li img {
 	position: relative;
@@ -1071,3 +1071,8 @@ body.side-push-panel{overflow-x:hidden}#side-panel{position:fixed;top:0;right:-3
 }
 
 .iconlist a:hover { text-decoration: underline !important; }
+.before-heading{    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 10px;
+	font-size: 0.83em;}
