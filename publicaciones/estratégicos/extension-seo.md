@@ -1,0 +1,67 @@
+---
+description: Valida de forma automática factores SEO y accede a múltiples herramientas de forma sencilla
+lang: es_ES
+author: Emirodgar
+sitemap: 1
+feed: 1
+folder: estrategicos
+date: 20/12/2019
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
+permalink: extension-seo
+
+---
+
+# Extensión SEO
+
+Comparto la [extensión SEO](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng) que utilizo a diario en mi trabajo. Está diseñada para facilitar ciertos análisis y validaciones SEO. También ofrece acceso rápido a herramientas, noticias y actualidad sobre posicionamiento web.
+
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1187022113590382598">
+</amp-twitter>
+
+
+## Funcionalidades SEO
+
+
+### Análisis de página web
+
+En cada URL que accedemos, automáticamente se validan una serie de aspectos técnicos y de contenido identificando aquellas mejoras potenciales que podríamos llevar a cabo.
+
+Algunos de los aspectos analizados son:
+
+ * Revisión de títulos, metas, cabeceras HTML, contenido, etc.
+ * Revisión de etiqueta canónica, enlaces, Open Graph, etc. 
+ * Identifica de forma rápida las imágenes sin atributo ALT.
+ * Identifica enlaces dofollow, nofollow, ugc y sponsored.
+
+###  Acceso rápido a validación con herramientas externas
+
+En un segundo menú podremos realizar diversas validaciones sobre la URL que estamos visualizando: 
+
+ * Validación de datos estructurados.
+ * Validación de diseño móvil.
+ * Validación de HTML/CSS.
+ * Validación de AMP.
+ * Validación de tiempo de carga.
+ * Validación de contenido duplicado.
+ * Validación de enlaces rotos.
+ * Validación de idioma y codificación.
+ * Acceso a versiones antiguas de la página.
+
+
+### Acceso a herramientas relacionadas con estrategias digitales
+
+A mayores, ofrezco un listado de herramientas SEO y de Marketing Digital que nos pueden aportar valor. Haciendo uso de un buscador podemos localizar la que nos interesa en cada momento y acceder de forma rápida.
+
+
+###  Noticias y actualidad SEO
+
+Por último pero no menos importante, ofrezco un listado actualizado de noticias SEO. De esta forma podemos acceder a la fuente original de forma rápida además de estar actualizados en materia de posicionamiento web.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU5OTc3NzMyMywtNTcyMTc2NTk1XX0=
+-->
