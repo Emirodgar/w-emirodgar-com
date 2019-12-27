@@ -28,6 +28,7 @@ $(document).ready(function(){
 	});
 	
 	$('#section-about-me').load('https://emirodgar.com/cdn/html/about.html');
+	$('#section-reasons-seo').load('https://emirodgar.com/cdn/html/reasons-seo.html');
 	
 	
 
