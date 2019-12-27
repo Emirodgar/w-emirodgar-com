@@ -1077,4 +1077,7 @@ body.side-push-panel{overflow-x:hidden}#side-panel{position:fixed;top:0;right:-3
     letter-spacing: 1px;
     margin-top: 10px;
 	font-size: 0.83em;}
-.why:hover {    background-color: #E5E5E5;}
+.section-contact > div {
+    padding: 30px 20px;
+    border: 1px solid #EEE;
+}
