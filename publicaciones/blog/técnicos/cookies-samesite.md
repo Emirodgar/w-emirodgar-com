@@ -62,8 +62,9 @@ Las reglas establecidas a día de hoy indican que:
  - Cookies sin atributo `SameSite` equivaldrán a `SameSite=Lax`
  - Cookies con `SameSite=None` tendrán que especificar el atributo `Secure` 
 
+En la página de [SameSite cookie recipes](https://web.dev/samesite-cookie-recipes/) nos dan una serie de consejos adicionales sobre qué tipo de configuración debemos crear para nuestras cookies en función de la situación que tengamos delante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjMyMzgwNiw2MTgwOTQ0MywyMDAyNj
+eyJoaXN0b3J5IjpbMTE1MjMyNzg0MCw2MTgwOTQ0MywyMDAyNj
 c2NDQ4LDY4Nzg0MjYsLTE1ODE4MjA5NTEsNzMwOTk4MTE2XX0=
 
 -->
