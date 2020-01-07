@@ -20,13 +20,14 @@ Aquellas cookies generadas por la página web en la que estamos navegando serán
 
 ## Atributo SameSite
 
-El atributo SameSite nace como respuesta a la necesidad de especificar aquellas zonas grises que existen entre los dos tipos actuales de Cookies.
+El atributo `SameSite` nace como respuesta a la necesidad de especificar aquellas zonas grises que existen entre los dos tipos actuales de Cookies.
 
 Este atributo puede tener valor `Strict` `Lax` o `None`) o puede no ser especificado ya que no es -a día de hoy- obligatorio.
 
 ### Valor SameSite None
 
-Si especficamos el valor como `none` no estamos restringiendo la creación de la cookie  por lo que ésta se generará y almacenará en el navegador en todos los casos. Equivaldría a una **third-cookie**.
+Si especificamos el valor como `None` no estamos restringiendo la creación de la cookie  por lo que ésta se generará y almacenará en el navegador en todos los casos. Equivaldría a una **third-cookie**.
+En este caso, adicional a `SameSite` tendremos que incluir también el valor `Secure`
 
 ### Valor SameSite Strict
 
@@ -38,7 +39,7 @@ Este atributo es ideal para almacenar información de usuarios que estén intera
 
 ### Valor SameSite Lax
 
-Si lo que queremos es generar una cookie first-party en cualquier escenario (sin limitar el que el usuario ya tenga que estar presente en nuestra web), entonces deberemos usar el valor `lax`.
+Si lo que queremos es generar una cookie first-party en cualquier escenario (sin limitar el que el usuario ya tenga que estar presente en nuestra web), entonces deberemos usar el valor `Lax`.
 
 Este valor es recomendable para aquellas cookies que afectan a la visualización de la página.
 
@@ -46,9 +47,11 @@ Este valor es recomendable para aquellas cookies que afectan a la visualización
 
 Las reglas establecidas a día de hoy indican que:
 
+ - Cookies sin atributo `SameSite` equivaldrán a `SameSite=Lax`
+ - Cookies con `SameSite=None` tendrán que especificar el atributo `Secure` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDI3OTk4OSw2MTgwOTQ0MywyMDAyNj
+eyJoaXN0b3J5IjpbMTQzNTcwNzkxMCw2MTgwOTQ0MywyMDAyNj
 c2NDQ4LDY4Nzg0MjYsLTE1ODE4MjA5NTEsNzMwOTk4MTE2XX0=
 
 -->
