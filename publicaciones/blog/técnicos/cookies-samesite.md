@@ -12,7 +12,11 @@ Se componen de una clave y de un valor y de unas condiciones que le indican cuá
 
 Con el objetivo de preservar la privacidad de los usuarios, los navegadores han ido evolucionando y siendo más restrictivos a la hora de aceptar cookies.
 
+## Tipos de cookies
+
+Si analizamos las cookies que tenemos 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE4MjA5NTEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3MjUxMTQ3ODYsLTE1ODE4MjA5NTEsNz
+MwOTk4MTE2XX0=
 -->
