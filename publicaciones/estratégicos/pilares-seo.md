@@ -23,7 +23,11 @@ Si tenemos problemas de acceso o rastreo por parte de los robots de búsqueda, e
 
 Debemos abrir tantas puertas de entrada como podamos siempre y cuando nos garanticen una captación de tráfico de calidad y evitando el contenido duplicado, por ejemplo haciendo uso de la [etiqueta canónica](https://emirodgar.com/etiqueta-canonica). 
 
-Por ejemplo, debemos tener cuidado para [no bloquear ficheros como Javascript o CSS](https://emirodgar.com/bloquear-indexacion-js-css) que puedan condicionar el renderizado crítico de parte del contenido de la web y asegurar que lo que ve un usuario es lo mismo que verá cualquier buscador.
+Es importante tener cuidado para [no bloquear ficheros como Javascript o CSS](https://emirodgar.com/bloquear-indexacion-js-css) que puedan condicionar el renderizado crítico de parte del contenido de la web y asegurar que **lo que ve un usuario es lo mismo que verá cualquier buscador**.
+
+Ofrecen un tiempo de carga decente es clave tanto para los usuarios como para el SEO.
+
+### Indexar páginas de calidad
 
 En el caso que tengamos páginas de baja calidad deberemos [eliminarlas del índice de los buscadores](https://emirodgar.com/eliminar-url-google) para evitar que posicionen.
 
@@ -35,5 +39,5 @@ Una vez que hemos permitido la correcta entrada y rastreo a los robots de búsqu
 
 ## 3 - Popularidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjMwODQzNyw4NjYyNDUxMDRdfQ==
+eyJoaXN0b3J5IjpbMTUzNjkyMjA4Niw4NjYyNDUxMDRdfQ==
 -->
