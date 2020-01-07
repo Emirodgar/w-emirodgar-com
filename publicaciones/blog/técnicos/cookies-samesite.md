@@ -42,9 +42,11 @@ Si lo que queremos es generar una first-parto cookie en cualquier escenario (sin
 
 Este valor es recomendable para aquellas cookies que afectan a la visualización de la página.
 
+### Comportamiento por defecto
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MzIwNzkxLDYxODA5NDQzLDIwMDI2Nz
+eyJoaXN0b3J5IjpbNjk4MjAxMTI2LDYxODA5NDQzLDIwMDI2Nz
 Y0NDgsNjg3ODQyNiwtMTU4MTgyMDk1MSw3MzA5OTgxMTZdfQ==
 
 -->
