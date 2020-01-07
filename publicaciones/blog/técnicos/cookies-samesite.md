@@ -34,15 +34,17 @@ Si configuramos la cookie con SameSite `Strict` implicará que la cookie sólo s
 
 Si el usuario accede a nuestra web desde un enlace externo, por ejemplo a través del email o de otra web, la cookie no saltará por no tratarse de una petición inicial lanzada desde nuestro dominio.
 
-Este atributo es ideal para almacenar información de usuarios que estén interactuando de form
+Este atributo es ideal para almacenar información de usuarios que estén interactuando de forma consciente con nuestra web (usuarios registrados, aplicaciones interactivas, etc.)
 
 ### Valor SameSite Lax
 
+Si lo que queremos es generar una first-parto cookie en cualquier escenario (sin limitar el que el usuario ya tenga que estar presente en nuestra web), entonces deberemos usar el valor `lax`.
 
+Este valor es recomendable para aquellas cookies que afectan a la visualización de la página.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDc3MzczOCw2MTgwOTQ0MywyMDAyNj
-c2NDQ4LDY4Nzg0MjYsLTE1ODE4MjA5NTEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzc4MzIwNzkxLDYxODA5NDQzLDIwMDI2Nz
+Y0NDgsNjg3ODQyNiwtMTU4MTgyMDk1MSw3MzA5OTgxMTZdfQ==
 
 -->
