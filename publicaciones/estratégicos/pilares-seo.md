@@ -25,7 +25,7 @@ Debemos abrir tantas puertas de entrada como podamos siempre y cuando nos garant
 
 Es importante tener cuidado para [no bloquear ficheros como Javascript o CSS](https://emirodgar.com/bloquear-indexacion-js-css) que puedan condicionar el renderizado crítico de parte del contenido de la web y asegurar que **lo que ve un usuario es lo mismo que verá cualquier buscador**.
 
-Ofrecen un tiempo de carga decente es clave tanto para los usuarios como para el SEO.
+Ofrecer un [tiempo de carga decente](https://emirodgar.com/mejorar-tiempo-carga-web) es clave tanto para los usuarios como para el SEO.
 
 ### Indexar páginas de calidad
 
@@ -35,9 +35,15 @@ En el caso que tengamos páginas de baja calidad deberemos [eliminarlas del índ
 
 Una vez que hemos permitido la correcta entrada y rastreo a los robots de búsqueda será el momento de trabajar el contenido.
 
+Debemos asegurarnos de que nuestro contenido cumple las expectativas de lo que los usuarios están buscando, de esa forma conseguiremos un posicionamiento eficaz y que perdure en el tiempo.
+
+En este pilar deberemos trabajar la arquitectura y estructura de 
+
+Es conveniente analizar el rendimiento de cada una de nuestras páginas para 
+
 
 
 ## 3 - Popularidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjkyMjA4Niw4NjYyNDUxMDRdfQ==
+eyJoaXN0b3J5IjpbMTE2OTQyODAxMSw4NjYyNDUxMDRdfQ==
 -->
