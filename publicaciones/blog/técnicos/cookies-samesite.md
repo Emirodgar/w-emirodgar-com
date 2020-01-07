@@ -14,9 +14,11 @@ Con el objetivo de preservar la privacidad de los usuarios, los navegadores han 
 
 ## Tipos de cookies
 
-Si analizamos las cookies que tenemos 
+Existen dos tipos de cookies: **first**-party y **third**-party.
+
+Aquellas cookies generadas por la página web en la que estamos navegando
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjUxMTQ3ODYsLTE1ODE4MjA5NTEsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjg3ODQyNiwtMTU4MTgyMDk1MSw3MzA5OT
+gxMTZdfQ==
 -->
