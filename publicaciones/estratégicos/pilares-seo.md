@@ -44,6 +44,10 @@ Es conveniente analizar el [rendimiento de cada una de nuestras páginas](https:
 
 
 ## 3 - Popularidad
+
+Una vez que tenemos asegurado el acceso de los robots y un contenido optimizado, llega el momento de potenciar y mejorar nuestro posicionamiento web.
+
+Para ello debemos conseguir enlaces
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU2Mjg3OTAsODY2MjQ1MTA0XX0=
+eyJoaXN0b3J5IjpbMjEwMDU3NTU0Miw4NjYyNDUxMDRdfQ==
 -->
