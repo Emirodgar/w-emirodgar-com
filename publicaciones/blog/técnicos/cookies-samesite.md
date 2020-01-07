@@ -26,13 +26,15 @@ Este atributo puede tener valor (`Strict` o `Lax`) o puede no ser especificado (
 
 ### Valor SameSite None
 
-Si no especificamos este atributo, por defecto será `none`. En este caso no estamos restringiendo la creación de la cookie y ésta se generará y almacenará en el nave en todos los casos. 
+Si no especificamos este atributo, por defecto será `none`. En este caso no estamos restringiendo la creación de la cookie y ésta se generará y almacenará en el navegador en todos los casos. Equivaldría a una third-cookie.
 
 ### Valor SameSite Strict
 
-Si configuramos la cookie con SameSite `Strict` implicará que la cookie sólo se creará cuando el usuario esté en nuestra página navegando y la URL sea exactamente la misma para la que la cookie ha sido definida, es decir, funcionará como una first-party.
+Si configuramos la cookie con SameSite `Strict` implicará que la cookie sólo se creará cuando el usuario esté en nuestra página navegando y la URL sea exactamente la misma para la que la cookie ha sido definida, es decir, funcionará como una first-party siempre y cuando ya estemos dentro de la web.
 
 Si el usuario accede a nuestra web desde un enlace externo, por ejemplo a través del email o de otra web, la cookie no saltará por no tratarse de una petición inicial lanzada desde nuestro dominio.
+
+Este atributo es ideal para almacenar información de usuarios que estén interactuando de form
 
 ### Valor SameSite Lax
 
@@ -40,7 +42,7 @@ Si el usuario accede a nuestra web desde un enlace externo, por ejemplo a travé
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg3ODI3OCw2MTgwOTQ0MywyMDAyNj
+eyJoaXN0b3J5IjpbMTYwNDc3MzczOCw2MTgwOTQ0MywyMDAyNj
 c2NDQ4LDY4Nzg0MjYsLTE1ODE4MjA5NTEsNzMwOTk4MTE2XX0=
 
 -->
