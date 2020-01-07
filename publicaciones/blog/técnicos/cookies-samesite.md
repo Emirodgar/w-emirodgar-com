@@ -1,13 +1,13 @@
 ---
-description: Guía para enteder la
+description: Guía para enteder el funcionamiento de las cookies y el atributo SameSite
 lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-date: 12/11/2019
+date: 07/01/2020
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: consola-devtools-chrome
+permalink: cookies-samesite
 
 ---
 
@@ -85,7 +85,7 @@ Las reglas establecidas a día de hoy indican que:
 
 En la página de [SameSite cookie recipes](https://web.dev/samesite-cookie-recipes/) nos dan una serie de consejos adicionales sobre qué tipo de configuración debemos crear para nuestras cookies en función de la situación que tengamos delante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE5NTg1MTEsNjE4MDk0NDMsMjAwMj
-Y3NjQ0OCw2ODc4NDI2LC0xNTgxODIwOTUxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNjg2ODc0MzI2LDYxODA5NDQzLDIwMDI2Nz
+Y0NDgsNjg3ODQyNiwtMTU4MTgyMDk1MSw3MzA5OTgxMTZdfQ==
 
 -->
