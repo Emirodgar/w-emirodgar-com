@@ -33,7 +33,7 @@ Aquellas cookies generadas por la página web en la que estamos navegando serán
 
 El atributo `SameSite` nace como respuesta a la necesidad de especificar aquellas zonas grises que existen entre los dos tipos actuales de Cookies.
 
-Este atributo puede tener valor `Strict` `Lax` o `None`) o puede no ser especificado ya que no es -a día de hoy- obligatorio.
+Este atributo puede tener valor `Strict` `Lax` o `None`. También puede no ser especificado ya que no es -a día de hoy- obligatorio.
 
 ### Valor SameSite None
 
@@ -85,7 +85,7 @@ Las reglas establecidas a día de hoy indican que:
 
 En la página de [SameSite cookie recipes](https://web.dev/samesite-cookie-recipes/) nos dan una serie de consejos adicionales sobre qué tipo de configuración debemos crear para nuestras cookies en función de la situación que tengamos delante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2ODc0MzI2LDYxODA5NDQzLDIwMDI2Nz
-Y0NDgsNjg3ODQyNiwtMTU4MTgyMDk1MSw3MzA5OTgxMTZdfQ==
-
+eyJoaXN0b3J5IjpbMzcwOTQwNjkyLDY4Njg3NDMyNiw2MTgwOT
+Q0MywyMDAyNjc2NDQ4LDY4Nzg0MjYsLTE1ODE4MjA5NTEsNzMw
+OTk4MTE2XX0=
 -->
