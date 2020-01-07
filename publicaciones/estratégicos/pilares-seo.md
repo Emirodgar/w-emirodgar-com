@@ -37,13 +37,13 @@ Una vez que hemos permitido la correcta entrada y rastreo a los robots de búsqu
 
 Debemos asegurarnos de que nuestro contenido cumple las expectativas de lo que los usuarios están buscando, de esa forma conseguiremos un posicionamiento eficaz y que perdure en el tiempo.
 
-En este pilar deberemos trabajar la arquitectura y estructura de 
+En este pilar deberemos trabajar la arquitectura y estructura de nuestro sitio para asegurarnos de que damos respuesta a todas y cada una de las cuestiones que nuestro público objetivo puede tener. Una organización fácil y eficiente será clave para la captación de tráfico de calidad y la generación de clientes.
 
-Es conveniente analizar el rendimiento de cada una de nuestras páginas para 
+Es conveniente analizar el [rendimiento de cada una de nuestras páginas](https://emirodgar.com/ctr-resultados-google) para identificar fortalezas y debilidades en el contenido.
 
 
 
 ## 3 - Popularidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTQyODAxMSw4NjYyNDUxMDRdfQ==
+eyJoaXN0b3J5IjpbLTEyMjU2Mjg3OTAsODY2MjQ1MTA0XX0=
 -->
