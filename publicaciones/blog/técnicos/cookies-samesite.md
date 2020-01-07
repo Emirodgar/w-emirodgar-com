@@ -20,9 +20,11 @@ Aquellas cookies generadas por la página web en la que estamos navegando serán
 
 ## Atributo SameSite
 
+El atributo SameSite nace como respuesta a la necesidad de especificar aquellas zonas grises que existen entre los dos tipos actuales de Cookies.
 
+Este atributo puede tener valor 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MDc2NTQ4LDY4Nzg0MjYsLTE1ODE4Mj
-A5NTEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTY1Mzc4MDEwMCw2ODc4NDI2LC0xNTgxOD
+IwOTUxLDczMDk5ODExNl19
 -->
