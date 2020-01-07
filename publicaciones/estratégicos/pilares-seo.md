@@ -47,7 +47,11 @@ Es conveniente analizar el [rendimiento de cada una de nuestras páginas](https:
 
 Una vez que tenemos asegurado el acceso de los robots y un contenido optimizado, llega el momento de potenciar y mejorar nuestro posicionamiento web.
 
-Para ello debemos conseguir enlaces
+Para ello debemos conseguir enlaces de calidad que aporten valor y contexto a nuestras páginas.
+
+### Atributos de enlaces
+
+Es recomendable -aunque no obligatorio- tener presente los 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDU3NTU0Miw4NjYyNDUxMDRdfQ==
+eyJoaXN0b3J5IjpbMzc3MTE3ODA1LDg2NjI0NTEwNF19
 -->
