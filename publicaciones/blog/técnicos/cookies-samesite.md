@@ -22,16 +22,24 @@ Aquellas cookies generadas por la página web en la que estamos navegando serán
 
 El atributo SameSite nace como respuesta a la necesidad de especificar aquellas zonas grises que existen entre los dos tipos actuales de Cookies.
 
-Este atributo puede tener valor (`Strict` o `Lax`) o puede no ser especificado.
+Este atributo puede tener valor (`Strict` o `Lax`) o puede no ser especificado (none).
+
+### Valor SameSite None
+
+Si no especificamos este atributo, por defecto será `none`.
 
 ### Valor SameSite Strict
 
-Si configuramos la cookie con SameSite Strict implicará que la cookie sólo se creará cuando el usuario esté en nuestra página navegando y la URL sea exactamente la misma para la que la cookie ha sido definida, es decir, funcionará como una first-party.
+Si configuramos la cookie con SameSite `Strict` implicará que la cookie sólo se creará cuando el usuario esté en nuestra página navegando y la URL sea exactamente la misma para la que la cookie ha sido definida, es decir, funcionará como una first-party.
 
-Si el usuario accede a nuestra web desde un enlace externo, por ejemplo a través del email o de otra web, la cookie no saltará por no tratarse de una petición inicial lanzada desde nuestro domini
+Si el usuario accede a nuestra web desde un enlace externo, por ejemplo a través del email o de otra web, la cookie no saltará por no tratarse de una petición inicial lanzada desde nuestro dominio.
+
+### Valor SameSite Lax
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI1MzIyMTcsMjAwMjY3NjQ0OCw2OD
-c4NDI2LC0xNTgxODIwOTUxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNjE4MDk0NDMsMjAwMjY3NjQ0OCw2ODc4ND
+I2LC0xNTgxODIwOTUxLDczMDk5ODExNl19
 -->
