@@ -24,7 +24,12 @@ El atributo SameSite nace como respuesta a la necesidad de especificar aquellas 
 
 Este atributo puede tener valor (`Strict` o `Lax`) o puede no ser especificado.
 
+Valor Strict
+
+Si configuramos la cookie con SameSite Strict implicará que la cookie sólo
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjY3NjQ0OCw2ODc4NDI2LC0xNTgxOD
-IwOTUxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIwMTE4OTY0MDYsMjAwMjY3NjQ0OCw2OD
+c4NDI2LC0xNTgxODIwOTUxLDczMDk5ODExNl19
 -->
