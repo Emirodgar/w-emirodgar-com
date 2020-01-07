@@ -26,7 +26,7 @@ Este atributo puede tener valor (`Strict` o `Lax`) o puede no ser especificado (
 
 ### Valor SameSite None
 
-Si no especificamos este atributo, por defecto será `none`.
+Si no especificamos este atributo, por defecto será `none`. En este caso no estamos restringiendo la creación de la cookie y ésta se generará y almacenará en el nave en todos los casos. 
 
 ### Valor SameSite Strict
 
@@ -40,6 +40,7 @@ Si el usuario accede a nuestra web desde un enlace externo, por ejemplo a travé
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4MDk0NDMsMjAwMjY3NjQ0OCw2ODc4ND
-I2LC0xNTgxODIwOTUxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE3MDg3ODI3OCw2MTgwOTQ0MywyMDAyNj
+c2NDQ4LDY4Nzg0MjYsLTE1ODE4MjA5NTEsNzMwOTk4MTE2XX0=
+
 -->
