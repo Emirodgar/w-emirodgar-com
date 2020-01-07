@@ -51,7 +51,7 @@ Para ello debemos conseguir enlaces de calidad que aporten valor y contexto a nu
 
 ### Atributos de enlaces
 
-Es recomendable -aunque no obligatorio- tener presente los 
+Es recomendable -aunque no obligatorio- tener presente los [nuevos atributos de enlazado](https://emirodgar.com/atributos-enlaces-google) que ha propuesto Google. Cuanto mejor entienda la naturaleza de cada uno de ellos, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3MTE3ODA1LDg2NjI0NTEwNF19
+eyJoaXN0b3J5IjpbMjA2ODYxMjA0Myw4NjYyNDUxMDRdfQ==
 -->
