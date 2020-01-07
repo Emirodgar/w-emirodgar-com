@@ -27,7 +27,7 @@ Con el objetivo de preservar la privacidad de los usuarios, los navegadores han 
 
 Existen dos tipos de cookies: **first**-party y **third**-party.
 
-Aquellas cookies generadas por la página web en la que estamos navegando serán consideradas como first-party (ya que son propias de dicha página) y las que correspondan a otra página sobre la que no estamos navegando, serán third-party.
+Aquellas cookies generadas por la página web en la que estamos navegando serán consideradas como *first-party* (ya que son propias de dicha página) y las que correspondan a otra página sobre la que no estamos navegando, serán *third-party*.
 
 ## Atributo SameSite
 
@@ -46,7 +46,7 @@ Set-Cookie: nombre=emilio; SameSite=None; Secure
 
 ### Valor SameSite Strict
 
-Si configuramos la cookie con SameSite `Strict` implicará que la cookie sólo se creará cuando el usuario esté en nuestra página navegando y la URL sea exactamente la misma para la que la cookie ha sido definida, es decir, funcionará como una first-party siempre y cuando ya estemos dentro de la web.
+Si configuramos la cookie con SameSite `Strict` implicará que la cookie sólo se creará cuando el usuario esté en nuestra página navegando y la URL sea exactamente la misma para la que la cookie ha sido definida, es decir, funcionará como una *first-party* siempre y cuando ya estemos dentro de la web.
 
 Si el usuario accede a nuestra web desde un enlace externo, por ejemplo a través del email o de otra web, la cookie no saltará por no tratarse de una petición inicial lanzada desde nuestro dominio.
 
@@ -58,7 +58,7 @@ Set-Cookie: nombre=emilio; SameSite=Strict;
 
 ### Valor SameSite Lax
 
-Si lo que queremos es generar una cookie first-party en cualquier escenario (sin limitar el que el usuario ya tenga que estar presente en nuestra web), entonces deberemos usar el valor `Lax`.
+Si lo que queremos es generar una cookie *first-party* en cualquier escenario (sin limitar el que el usuario ya tenga que estar presente en nuestra web), entonces deberemos usar el valor `Lax`.
 
 Este valor es recomendable para aquellas cookies que afectan a la visualización de la página.
 
@@ -85,7 +85,7 @@ Las reglas establecidas a día de hoy indican que:
 
 En la página de [SameSite cookie recipes](https://web.dev/samesite-cookie-recipes/) nos dan una serie de consejos adicionales sobre qué tipo de configuración debemos crear para nuestras cookies en función de la situación que tengamos delante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwOTQwNjkyLDY4Njg3NDMyNiw2MTgwOT
-Q0MywyMDAyNjc2NDQ4LDY4Nzg0MjYsLTE1ODE4MjA5NTEsNzMw
-OTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTMxMjQ2NDk5NCw2ODY4NzQzMjYsNjE4MD
+k0NDMsMjAwMjY3NjQ0OCw2ODc4NDI2LC0xNTgxODIwOTUxLDcz
+MDk5ODExNl19
 -->
