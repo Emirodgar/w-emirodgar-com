@@ -47,11 +47,13 @@ Es conveniente analizar el [rendimiento de cada una de nuestras páginas](https:
 
 Una vez que tenemos asegurado el acceso de los robots y un contenido optimizado, llega el momento de potenciar y mejorar nuestro posicionamiento web.
 
-Para ello debemos conseguir enlaces de calidad que aporten valor y contexto a nuestras páginas. Existen múltiples páginas que comparten
+Para ello debemos conseguir enlaces de calidad que aporten valor y contexto a nuestras páginas. Existen múltiples páginas que comparten listados de URls donde podemos conseguir un enlace hacia nuestra web y también [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) que nos permiten espiar el perfil de enlazado de nuestra competencia.
+
+> Sólo debemos tener una máxima presente: **es mejor calidad antes que cantidad**.
 
 ### Atributos de enlaces
 
 Es recomendable -aunque no obligatorio- tener presente los [nuevos atributos de enlazado](https://emirodgar.com/atributos-enlaces-google) que ha propuesto Google. Cuanto mejor entienda la naturaleza de cada uno de ellos, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTUxOTA1NDAsODY2MjQ1MTA0XX0=
+eyJoaXN0b3J5IjpbLTE0NzYyMDE0MCw4NjYyNDUxMDRdfQ==
 -->
