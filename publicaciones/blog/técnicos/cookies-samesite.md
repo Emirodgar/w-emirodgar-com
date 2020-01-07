@@ -5,9 +5,10 @@
 
 Las cookies son, a día de hoy, la forma más utilizada para guardar y mantener información entre un usuario y una o varias páginas web. Éstas se guardan en el navegador (Chrome, Firefox, Edge, etc.) y normalmente se usan para guardar sesiones, preferencias en aplicaciones o seguimiento de analítica web.
 
-Se componen
+Se componen de una clave y de un valor y de unas condiciones que le indican cuándo y cómo se debe utilizar dicha información.
 
-    key=value
+    clave=valor
+    nombre=emilio
 
 Con el objetivo de preservar la privacidad de los usuarios, los navegadores han ido evolucionando y siendo más restrictivos a la hora de aceptar cookies.
 
@@ -16,5 +17,5 @@ Cada cookie es un par clave = valor junto con una serie de atributos que control
 
 Supongamos que tiene un blog en el que desea mostrar una promoción "Novedades" a sus usuarios. Los usuarios pueden descartar la promoción y luego no la volverán a ver por un tiempo. Puede almacenar esa preferencia en una cookie, configurarla para que caduque en un mes (2,600,000 segundos) y solo enviarla a través de HTTPS. Ese encabezado se vería así:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzQ1ODU3MSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzQ0ODgxMTg4LDczMDk5ODExNl19
 -->
