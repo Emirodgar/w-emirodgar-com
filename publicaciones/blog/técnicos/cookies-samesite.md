@@ -1,4 +1,15 @@
+---
+description: Guía para enteder la
+lang: es_ES
+author: Emirodgar
+sitemap: 1
+feed: 1
+folder: programacion
+date: 12/11/2019
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
+permalink: consola-devtools-chrome
 
+---
 
 
 # Cookies SameSite: guía para entender cómo funcionan
@@ -55,6 +66,16 @@ Este valor es recomendable para aquellas cookies que afectan a la visualización
 Set-Cookie: nombre=emilio; SameSite=Lax;
 ```
 
+A modo de resumen, la siguiente imagen refleja de forma sencilla la diferencia entre los diferentes valores de `SameSite`.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1214554679620833281">
+</amp-twitter>
+
+
 ### Comportamiento por defecto
 
 Las reglas establecidas a día de hoy indican que:
@@ -64,7 +85,7 @@ Las reglas establecidas a día de hoy indican que:
 
 En la página de [SameSite cookie recipes](https://web.dev/samesite-cookie-recipes/) nos dan una serie de consejos adicionales sobre qué tipo de configuración debemos crear para nuestras cookies en función de la situación que tengamos delante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjMyNzg0MCw2MTgwOTQ0MywyMDAyNj
-c2NDQ4LDY4Nzg0MjYsLTE1ODE4MjA5NTEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxMDE5NTg1MTEsNjE4MDk0NDMsMjAwMj
+Y3NjQ0OCw2ODc4NDI2LC0xNTgxODIwOTUxLDczMDk5ODExNl19
 
 -->
