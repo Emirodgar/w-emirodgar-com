@@ -15,7 +15,7 @@ Antes de comenzar a diseñar una [estrategia SEO](/estrategia-seo) debemos tener
 
 ## 1 - Indexación
 
-Es el primer pilar y la base de cualquier estrategia ya que gracias a la indexación seremos capaces de indicar a los buscadores cuál es nuestra web y qué páginas la conforman.
+Es el primer pilar y la **base de cualquier estrategia SEO** ya que gracias a la indexación seremos capaces de indicar a los buscadores cómo es nuestra web y qué páginas la conforman.
 
 Si tenemos problemas de acceso o rastreo por parte de los robots de búsqueda, esto condicionará el número de URLs que serán indexadas y por lo tanto nuestras posibilidades de posicionamiento.
 
@@ -23,7 +23,11 @@ Debemos abrir tantas puertas de entrada como podamos siempre y cuando nos garant
 
 ## 2 - Contenido
 
+Una vez que hemos permitido la correcta entrada y rastreo a los robots de búsqueda será el momento de trabajar el contenido.
+
+
+
 ## 3 - Popularidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTI0MDE4OSw4NjYyNDUxMDRdfQ==
+eyJoaXN0b3J5IjpbOTc5NDU5NjYxLDg2NjI0NTEwNF19
 -->
