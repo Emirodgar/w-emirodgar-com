@@ -3,9 +3,9 @@
 
 # Iconos para títulos SEO
 
-Dentro de la [estrategia SEO](/estrategia-seo) debemos tener presente la importancia del
+Dentro de la [estrategia SEO](/estrategia-seo) debemos tener presente la importancia del CTR (Click Through Rate) como un [factor SEO](/factores-seo) relevante.
 
 ✓ ® © ≫ ◁ ✔ ✆ → ⇨【】⊛ ( ) 🥇 🙂 ✅ 🤓 🤑 🔥 💥
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzAwNTUyMzBdfQ==
+eyJoaXN0b3J5IjpbLTEwMTA5MDkxNjVdfQ==
 -->
