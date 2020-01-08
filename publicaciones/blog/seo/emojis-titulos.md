@@ -30,6 +30,9 @@ Para ello, simplemente copia y pega cualquier emoji de los que muestro a continu
 ## Cómo usar los emojis en los títulos
 
 No debemos abusar de ellos o Google y el resto de buscadores simplemente los ignorarán. 
+
+Ten siempre presente que debemos [optimizar los títulos y las descripciones](https://emirodgar.com/titulos-descripciones-seo) para que sean descriptivos y aporten valor, después, podremos hacer uso de los iconos para llamar m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDkyMTU2NiwtMjEzNzUzNTEyNV19
+eyJoaXN0b3J5IjpbLTM0MTc2Nzk0OCwyMDQwOTIxNTY2LC0yMT
+M3NTM1MTI1XX0=
 -->
