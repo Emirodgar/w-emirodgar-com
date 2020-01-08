@@ -7,6 +7,7 @@ date: 16/05/2019
 date_modified: 16/05/2019
 sitemap: 1
 feed: 1
+folder: seo
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: optimizacion-imagenes-seo
 
@@ -151,5 +152,5 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwMDA0Mjc5XX0=
+eyJoaXN0b3J5IjpbMjcyMjMyMTU4XX0=
 -->
