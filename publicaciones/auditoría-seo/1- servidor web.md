@@ -3,7 +3,7 @@ description: No es un factor SEO directo pero sí puede afectar a nuestra estrat
 image: https://emirodgar.com/cdn/images/og/auditoria.png
 date: 05/06/2019
 author: Emirodgar
-folder: auditoria
+folder: seo
 lang: es_ES
 sitemap: 1
 feed: 1
@@ -70,6 +70,6 @@ Un buen servidor web nos tiene que permitir llevar a cabo acciones específicas 
 
 Un buen hosting debe darnos acceso completo a las configuraciones antes mencionadas dado que si no fuéramos capaces de poder operar con redirecciones o personalizar ciertos aspectos de nuestra página estaríamos limitando enormemente factores cruciales para nuestra estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM4Nzk5OTUsLTMzOTQ5NDY0MSwxNj
-k4OTQxNDMzLC04MjE5OTE2OTFdfQ==
+eyJoaXN0b3J5IjpbMTAwMzcxMDA5MiwtMTc5Mzg3OTk5NSwtMz
+M5NDk0NjQxLDE2OTg5NDE0MzMsLTgyMTk5MTY5MV19
 -->
