@@ -21,7 +21,7 @@ Es decir, cuando nuestro resultado aparece en las búsquedas, **¿cuánta gente 
 
 Para destacar entre el resto de resultados y ser más visibles a nivel SEO podemos hacer uso de **iconos** o **emojis** dentro del meta title.
 
-## Listado emojis para título SEO
+## Listado de emojis para título SEO
 
 Para ello, simplemente copia y pega cualquier emoji de los que muestro a continuación.
 
@@ -31,6 +31,5 @@ Para ello, simplemente copia y pega cualquier emoji de los que muestro a continu
 
 No debemos abusar de ellos o Google y el resto de buscadores simplemente los ignorarán. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY0ODc0MTEsLTIxMzc1MzUxMjVdfQ
-==
+eyJoaXN0b3J5IjpbMjA0MDkyMTU2NiwtMjEzNzUzNTEyNV19
 -->
