@@ -31,8 +31,16 @@ Para ello, simplemente copia y pega cualquier emoji de los que muestro a continu
 
 No debemos abusar de ellos o Google y el resto de buscadores simplemente los ignorarán. 
 
-Ten siempre presente que debemos [optimizar los títulos y las descripciones](https://emirodgar.com/titulos-descripciones-seo) para que sean descriptivos y aporten valor, después, podremos hacer uso de los iconos para llamar m
+Ten siempre presente que debemos [optimizar los títulos y las descripciones](https://emirodgar.com/titulos-descripciones-seo) para que sean descriptivos y aporten valor, después, podremos hacer uso de los iconos para llamar más la atención de los usuarios.
+
+## Restricciones y consideraciones
+
+- Los emojis también ocupan espacio dentro del título. Dependiendo del icono que usemos, ocupará más o menos espacio.
+- Si usamos varios emojis seguidos es posible que sean ignorados
+- Un mismo emoji puede ser 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTc2Nzk0OCwyMDQwOTIxNTY2LC0yMT
+eyJoaXN0b3J5IjpbMjAzMzUzNTk4MCwyMDQwOTIxNTY2LC0yMT
 M3NTM1MTI1XX0=
 -->
