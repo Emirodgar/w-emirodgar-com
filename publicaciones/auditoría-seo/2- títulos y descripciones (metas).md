@@ -5,6 +5,7 @@ image: https://emirodgar.com/cdn/images/og/auditoria.png
 date: 24/06/2019
 sitemap: 1
 feed: 1
+folder: seo
 author: Emirodgar
 lang: es_ES
 permalink: titulos-descripciones-seo
@@ -68,5 +69,6 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTk2NzYsLTE5MjU4OTIxODNdfQ==
+eyJoaXN0b3J5IjpbNDgxNzIyNTQ3LDE2Mzk5Njc2LC0xOTI1OD
+kyMTgzXX0=
 -->
