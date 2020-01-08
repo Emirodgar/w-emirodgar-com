@@ -27,6 +27,8 @@ Para ello, simplemente copia y pega cualquier emoji de los que muestro a continu
 
 ✓ ® © ≫ ◁ ✔ ✆ → ⇨【】⊛ ( ) 🥇 🙂 ✅ 🤓 🤑 🔥 💥
 
+Aunque existen muchos más, estos son de momento los que Google interpreta y usa en los títulos de sus resultados y por lo tanto los que nos pueden ayudar a mejorar el CTR y por ende el SEO.
+
 ## Cómo usar los emojis en los títulos
 
 No debemos abusar de ellos o Google y el resto de buscadores simplemente los ignorarán. 
@@ -41,10 +43,15 @@ Ten siempre presente que debemos [optimizar los títulos y las descripciones](ht
 
 ## Páginas para descargar emojis
 
-Existen varias páginas que han realizado recopilaciones de emojis e iconos pa
+Existen varias páginas que han realizado recopilaciones de emojis e iconos que podemos utilizar en nuestras páginas web. Eso no significa que todos ellos puedan ser usados por Google y el resto de navegadores. 
+
+ - [Emojipedia](https://emojipedia.org/)
+ - [Emojicopy](https://www.emojicopy.com/)
+ - [UTF8icons](https://www.utf8icons.com/favourites)
+ - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg4MzE1NDUsMjA0MDkyMTU2NiwtMj
-EzNzUzNTEyNV19
+eyJoaXN0b3J5IjpbMjIzODk3MywyMDQwOTIxNTY2LC0yMTM3NT
+M1MTI1XX0=
 -->
