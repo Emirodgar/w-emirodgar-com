@@ -36,11 +36,15 @@ Ten siempre presente que debemos [optimizar los títulos y las descripciones](ht
 ## Restricciones y consideraciones
 
 - Los emojis también ocupan espacio dentro del título. Dependiendo del icono que usemos, ocupará más o menos espacio.
-- Si usamos varios emojis seguidos es posible que sean ignorados
-- Un mismo emoji puede ser 
+- Si usamos varios emojis seguidos es posible que sean ignorados.
+- Un mismo emoji puede ser interpretado de forma diferente por cada navegador.
+
+## Páginas para descargar emojis
+
+Existen varias páginas que han realizado recopilaciones de emojis e iconos pa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzUzNTk4MCwyMDQwOTIxNTY2LC0yMT
-M3NTM1MTI1XX0=
+eyJoaXN0b3J5IjpbLTE5Nzg4MzE1NDUsMjA0MDkyMTU2NiwtMj
+EzNzUzNTEyNV19
 -->
