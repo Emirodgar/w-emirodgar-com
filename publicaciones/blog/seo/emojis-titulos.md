@@ -48,10 +48,10 @@ Existen varias páginas que han realizado recopilaciones de emojis e iconos que 
  - [Emojipedia](https://emojipedia.org/)
  - [Emojicopy](https://www.emojicopy.com/)
  - [UTF8icons](https://www.utf8icons.com/favourites)
- - 
+ - [EmojiTierra](https://emojiterra.com/es/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzODk3MywyMDQwOTIxNTY2LC0yMTM3NT
-M1MTI1XX0=
+eyJoaXN0b3J5IjpbLTEzOTgwNDIzNTcsMjA0MDkyMTU2NiwtMj
+EzNzUzNTEyNV19
 -->
