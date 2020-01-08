@@ -1,4 +1,15 @@
+---
+description: Copia y pega los siguientes emojis para usarlos en tu página web
+lang: es_ES
+author: Emirodgar
+sitemap: 1
+feed: 1
+folder: seo
+date: 08/01/2020
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
+permalink: emojis-titulo
 
+---
 
 
 # Emojis para títulos SEO
@@ -15,5 +26,5 @@ Para destacar entre el resto de resultados y ser más visibles a nivel SEO podem
 
 ✓ ® © ≫ ◁ ✔ ✆ → ⇨【】⊛ ( ) 🥇 🙂 ✅ 🤓 🤑 🔥 💥
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTY1NjYwLC0yMTM3NTM1MTI1XX0=
+eyJoaXN0b3J5IjpbMTIwODAxMTM3NSwtMjEzNzUzNTEyNV19
 -->
