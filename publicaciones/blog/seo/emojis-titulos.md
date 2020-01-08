@@ -12,7 +12,7 @@ permalink: emojis-titulo
 ---
 
 
-# Emojis para títulos SEO
+# ✅ Emojis para títulos SEO
 
 Dentro de la [estrategia SEO](/estrategia-seo) debemos tener presente la importancia del **CTR** (Click Through Rate) como un [factor SEO](/factores-seo) relevante.
 
@@ -26,5 +26,5 @@ Para destacar entre el resto de resultados y ser más visibles a nivel SEO podem
 
 ✓ ® © ≫ ◁ ✔ ✆ → ⇨【】⊛ ( ) 🥇 🙂 ✅ 🤓 🤑 🔥 💥
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODAxMTM3NSwtMjEzNzUzNTEyNV19
+eyJoaXN0b3J5IjpbMTM4NDQxMTY5MCwtMjEzNzUzNTEyNV19
 -->
