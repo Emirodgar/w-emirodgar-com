@@ -1,6 +1,12 @@
 {
   "data": [
 	   [
+      "Los errores 404 o 410 funcionan igual",
+      "Nada nuevo que no supiéramos ya. Si queremos desindexar una URL debemos ofrecer un error 404 o 410. Google los va a interpretar de la misma forma.",
+      "https://twitter.com/JohnMu/status/1214157450485604352",
+	  "Enero 2020"
+    ],
+	   [
       "Más precisión en los datos de Search Console",
       "A partir del 15 de diciembre, Google Search Console ofrecerá más información en su informe de Cobertura para las páginas rastreadas pero actualmente sin indexar.",
       "https://twitter.com/googlewmc/status/1207341145749147654",
