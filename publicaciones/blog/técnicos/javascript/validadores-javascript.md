@@ -32,13 +32,13 @@ Los más conocidos son [JSLint](http://www.jslint.com/), [JSHint](http://jshint.
 
 Para poder instalar ESLint recomiendo usar `npm`por lo que antes tendremos que [instalar node.js](https://nodejs.org/en/). Una vez que tengamos disponible `npm` bastará con abrir una consola en Windows y teclear lo siguiente:
 
-```
+```cmd
 npm install -g eslint
 ```
 
 Una vez terminado, iniciamos el validador y después ya podremos optimizar cualquier fichero JavaScript.
 
-```
+```cmd
 eslint --init
 eslint fichero.js
 ```
@@ -51,7 +51,7 @@ Para hacerlo desde el editor, pulsamos `cmd+shift+p`, seleccionamos `instalar pa
 
 Una vez instalado, debemos ir al archivo de configuración `Settings-Default` y rellenar los tres campos que aparecen.
 
-```
+```json
 {
   "node_path": "C:/Program Files/nodejs",
   "node_modules_path": "C:/Users/Emilio/AppData/Roaming/npm/node_modules",
@@ -64,8 +64,23 @@ Las dos primeras rutas corresponden a dónde está instalado Node.js en nuestro 
 ESLint necesita un **archivo de configuración** para comenzar por lo que tendremos que crearlo y asignarlo en `config_file`. Yo suelo usar JSON, en este caso el fichero se llama `.eslintrc.json` pero se pueden usar [otros formatos](https://eslint.org/docs/user-guide/configuring#configuration-file-formats).
 
 Podemos dejarlo vacío o especificar nuestras primeras condiciones, por ejemplo:
+```json
+{
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "rules": {
+        "semi": "error"
+    }
+}
+```
 
+Ahora ya podemos volver a Sublime, navegamos hacia un fichero JavaScript, pusamos sobre botón derecho y seleccionamos ESLint. En la consola inferior nos aparecerá el resultado de la valida
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDMxNzYyNCwtMTYyNTE2ODc3LC0xMj
+eyJoaXN0b3J5IjpbLTI0NjUwODM3NiwtMTYyNTE2ODc3LC0xMj
 E2ODExNjg2LDk1MTMzNzEyMiwxMTc2OTk5NThdfQ==
 -->
