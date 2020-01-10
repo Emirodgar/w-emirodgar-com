@@ -13,9 +13,11 @@ permalink: validadores-javascript
 
 # Validadores de JavaScript
 
-Un validador nos ayudará a evitar errores a la hora de programar. JavaScript no trae ninguno por defecto pero existen varios que podemos instalar para asegurar que generamos código **claro**, **funcional** y **escalable en el tiempo**.
+Un validador nos ayudará a evitar errores a la hora de programar. JavaScript no trae ninguno por defecto pero existen varios que podemos instalar para asegurar que generamos código **claro**, **funcional**, **estándar** y **escalable en el tiempo**.
 
-A pesar de tener experiencia programando siempre pecamos de malas prácticas y/o de generar 
+A pesar de tener experiencia programando podemos pecar de malas prácticas o de generar lenguaje poco funcional lo cuál puede generar un peor rendimiento. 
+
+El objetivo de un validador es optimizar nuestro tiempo, evitar errores en el código y asegurar una programación es
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzk3NTU4M119
+eyJoaXN0b3J5IjpbMTcxOTczNTE4MF19
 -->
