@@ -33,9 +33,15 @@ Los más conocidos son [JSLint](http://www.jslint.com/), [JSHint](http://jshint.
 Para poder instalarlo lo podemos hacer a través de `npm`. Para ello bastará con abrir una consola en Windows y teclear lo siguiente:
 
 ```
-npm install -g eslint
+npm install eslint
+```
+
+Una vez terminado, iniciamos el validador
+
+```
+eslint --init
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc5NTYzMzAsOTUxMzM3MTIyLDExNz
+eyJoaXN0b3J5IjpbLTEyMTY4MTE2ODYsOTUxMzM3MTIyLDExNz
 Y5OTk1OF19
 -->
