@@ -17,7 +17,11 @@ Un validador nos ayudará a evitar errores a la hora de programar. JavaScript no
 
 A pesar de tener experiencia programando podemos pecar de malas prácticas o de generar lenguaje poco funcional lo cuál puede generar un peor rendimiento. 
 
-El objetivo de un validador es optimizar nuestro tiempo, evitar errores en el código y asegurar una programación es
+El objetivo de un validador es optimizar nuestro tiempo, evitar errores en el código y asegurar una programación estándar.
+
+## ¿Qué validador puedo usar?
+
+Los más conocidos son [JSLint](http://www.jslint.com/), [JSHint](http://jshint.com/), [JSCS](http://jscs.info/) y [ESLint](http://eslint.org/). Todos ellos funcionan de la misma forma: disponen de un conjunto de reglas con las que validan y garantizan que nuestro código es correcto.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTczNTE4MF19
+eyJoaXN0b3J5IjpbLTg2MjgwMDExMl19
 -->
