@@ -22,6 +22,9 @@ El objetivo de un validador es optimizar nuestro tiempo, evitar errores en el c�
 ## ¿Qué validador puedo usar?
 
 Los más conocidos son [JSLint](http://www.jslint.com/), [JSHint](http://jshint.com/), [JSCS](http://jscs.info/) y [ESLint](http://eslint.org/). Todos ellos funcionan de la misma forma: disponen de un conjunto de reglas con las que validan y garantizan que nuestro código es correcto.
+
+- **JSLint**: es el más antiguo de todos. Personalmente no me gusta debido a que genera demasiados avisos y que la configuración, así como la página de ayuda no nada intuitivas.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjgwMDExMl19
+eyJoaXN0b3J5IjpbMTQwNTM0MTI3XX0=
 -->
