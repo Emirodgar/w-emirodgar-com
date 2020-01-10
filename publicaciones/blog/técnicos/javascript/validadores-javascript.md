@@ -36,12 +36,17 @@ Para poder instalarlo lo podemos hacer a través de `npm` (hay que [instalar nod
 npm install -g eslint
 ```
 
-Una vez terminado, iniciamos el validador
+Una vez terminado, iniciamos el validador y después ya podremos optimizar cualquier fichero JavaScript.
 
 ```
 eslint --init
+eslint fichero.js
 ```
+
+## Integrar ESLint en SublimeText
+
+Una vez instalado en nuestro sistema, debemos instalar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDEyNzAwMywtMTIxNjgxMTY4Niw5NT
-EzMzcxMjIsMTE3Njk5OTU4XX0=
+eyJoaXN0b3J5IjpbNjMwODA3NTk3LC0xMjE2ODExNjg2LDk1MT
+MzNzEyMiwxMTc2OTk5NThdfQ==
 -->
