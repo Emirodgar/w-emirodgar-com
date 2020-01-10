@@ -47,10 +47,18 @@ eslint fichero.js
 
 Una vez en nuestro sistema, debemos instalar el plugin de ESLint en Sublime. Para ello usamos su [repositorio oficial](https://packagecontrol.io/packages/ESLint).
 
-Para hacerlo desde el editor, pulsamos `cmd+shift+p`, seleccionamos `instalar paquete`, y buscamos `Sublime Linter`.
+Para hacerlo desde el editor, pulsamos `cmd+shift+p`, seleccionamos `instalar paquete`, y buscamos `ESLint`.
 
+Una vez instalado, debemos ir al archivo de configuración `Settings-Default` y rellenar los tres campos que aparecen.
 
+```
+{
+  "node_path": "C:/Program Files/nodejs",
+  "node_modules_path": "C:/Users/Emilio/AppData/Roaming/npm/node_modules",
+  "config_file": "C:/Users/Emilio/.eslintrc.json"
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjUxNjg3NywtMTIxNjgxMTY4Niw5NT
-EzMzcxMjIsMTE3Njk5OTU4XX0=
+eyJoaXN0b3J5IjpbLTE5MTU2NjM3ODQsLTE2MjUxNjg3NywtMT
+IxNjgxMTY4Niw5NTEzMzcxMjIsMTE3Njk5OTU4XX0=
 -->
