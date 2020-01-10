@@ -30,7 +30,7 @@ Los más conocidos son [JSLint](http://www.jslint.com/), [JSHint](http://jshint.
 
 ## Instalar ESLint
 
-Para poder instalarlo lo podemos hacer a través de `npm` (hay que [instalar node.js](https://nodejs.org/en/) previamente).   Para ello bastará con abrir una consola en Windows y teclear lo siguiente:
+Para poder instalar ESLint recomiendo usar `npm`por lo que antes tendremos que [instalar node.js](https://nodejs.org/en/) previamente).   Para ello bastará con abrir una consola en Windows y teclear lo siguiente:
 
 ```
 npm install -g eslint
@@ -45,8 +45,10 @@ eslint fichero.js
 
 ## Integrar ESLint en SublimeText
 
-Una vez instalado en nuestro sistema, debemos instalar
+Una vez en nuestro sistema, debemos instalar el plugin de ESLint en Sublime. Para ello usamos su [repositorio oficial](https://packagecontrol.io/packages/ESLint).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwODA3NTk3LC0xMjE2ODExNjg2LDk1MT
-MzNzEyMiwxMTc2OTk5NThdfQ==
+eyJoaXN0b3J5IjpbMTYxMjk0NDY0MCwtMTIxNjgxMTY4Niw5NT
+EzMzcxMjIsMTE3Njk5OTU4XX0=
 -->
