@@ -16,7 +16,7 @@ permalink: validadores-javascript
 Un validador nos ayudará a evitar errores a la hora de programar. JavaScript no trae ninguno por defecto pero existen varios que podemos instalar para asegurar que generamos código **claro**, **funcional**, **estándar** y **escalable **.
 
 > El objetivo de un validador es optimizar nuestro tiempo, evitar errores en el código y asegurar una programación estandarizada.
-> 
+
 Aunque tengamos experiencia programando podemos pecar de malas prácticas o de generar lenguaje poco funcional lo cuál se traduce en un peor rendimiento. 
 
 ## ¿Qué validador puedo usar?
@@ -47,7 +47,7 @@ eslint fichero.js
 
 Por comodidad es preferible integrar el validador con el IDE de programación que utilicemos. En mi caso es SublimeText, aunque prácticamente todos permiten estas integraciones. 
 
-El siguiente paso será instalar el plugin de ESLint en Sublime. Para ello podemos hacerlo desde su [repositorio oficial](https://packagecontrol.io/packages/ESLint) o de forma más rápida directamente desde el editor pulsando `cmd+shift+p`, seleccionamos `instalar paquete`, y buscamos `ESLint`.
+El siguiente paso será instalar el plugin de ESLint en Sublime. Podemos hacerlo desde su [repositorio oficial](https://packagecontrol.io/packages/ESLint) o de forma más rápida directamente desde el editor pulsando `cmd+shift+p`, seleccionando `instalar paquete` y luego `ESLint`.
 
 Una vez instalado, debemos ir al archivo de configuración `Settings-Default` y rellenar los tres campos que aparecen.
 
@@ -81,6 +81,7 @@ Podemos dejarlo vacío o especificar nuestras primeras condiciones, por ejemplo:
 
 Ahora ya podemos volver a Sublime, navegamos hacia un fichero JavaScript, pulsamos `botón derecho` y seleccionamos `ESLint`. En la consola inferior nos aparecerá el resultado de la validación.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY4MDEwMTMsLTE2MjUxNjg3NywtMT
-IxNjgxMTY4Niw5NTEzMzcxMjIsMTE3Njk5OTU4XX0=
+eyJoaXN0b3J5IjpbNjYyOTE5NTAwLC0yMDg2ODAxMDEzLC0xNj
+I1MTY4NzcsLTEyMTY4MTE2ODYsOTUxMzM3MTIyLDExNzY5OTk1
+OF19
 -->
