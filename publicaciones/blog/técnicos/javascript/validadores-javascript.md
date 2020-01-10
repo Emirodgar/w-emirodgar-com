@@ -13,11 +13,11 @@ permalink: validadores-javascript
 
 # Validadores de JavaScript
 
-Un validador nos ayudará a evitar errores a la hora de programar. JavaScript no trae ninguno por defecto pero existen varios que podemos instalar para asegurar que generamos código **claro**, **funcional**, **estándar** y **escalable en el tiempo**.
+Un validador nos ayudará a evitar errores a la hora de programar. JavaScript no trae ninguno por defecto pero existen varios que podemos instalar para asegurar que generamos código **claro**, **funcional**, **estándar** y **escalable **.
 
-A pesar de tener experiencia programando podemos pecar de malas prácticas o de generar lenguaje poco funcional lo cuál puede generar un peor rendimiento. 
-
-El objetivo de un validador es optimizar nuestro tiempo, evitar errores en el código y asegurar una programación estándar.
+> El objetivo de un validador es optimizar nuestro tiempo, evitar errores en el código y asegurar una programación estandarizada.
+> 
+Aunque tengamos experiencia programando podemos pecar de malas prácticas o de generar lenguaje poco funcional lo cuál se traduce en un peor rendimiento. 
 
 ## ¿Qué validador puedo usar?
 
@@ -81,6 +81,6 @@ Podemos dejarlo vacío o especificar nuestras primeras condiciones, por ejemplo:
 
 Ahora ya podemos volver a Sublime, navegamos hacia un fichero JavaScript, pulsamos `botón derecho` y seleccionamos `ESLint`. En la consola inferior nos aparecerá el resultado de la validación.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDUxNTkwOCwtMTYyNTE2ODc3LC0xMj
-E2ODExNjg2LDk1MTMzNzEyMiwxMTc2OTk5NThdfQ==
+eyJoaXN0b3J5IjpbODE0MjE1MjUzLC0xNjI1MTY4NzcsLTEyMT
+Y4MTE2ODYsOTUxMzM3MTIyLDExNzY5OTk1OF19
 -->
