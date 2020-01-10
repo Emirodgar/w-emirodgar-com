@@ -25,7 +25,7 @@ Los más conocidos son [JSLint](http://www.jslint.com/), [JSHint](http://jshint.
 
 - **JSLint**: es el más antiguo de todos. Personalmente no me gusta debido a que genera demasiados avisos y que la configuración, así como la página de ayuda no nada intuitivas. Es demasiado estricto.
 - **JSHint**: surge a partir del anterior para solventar, en parte, algunos de los problemas de base. Tiene un buen sistema de configuración y se integra fácilmente con muchos entornos de programación. Podemos especificar y adaptar el validador a nuestras necesidades. 
-- J
+- **JSCS**: este validador debemos configurarlo desde cero para que se adapte por completo a lo que queremos que nos valide. Es útil para proyectos con un tipo de programación muy específica. Sólo detecta errores en el código pero no variables sin usar u otros aspectos que optimicen nuestra programación.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ3ODk2MzksMTE3Njk5OTU4XX0=
+eyJoaXN0b3J5IjpbNTM4NjgwMTY5LDExNzY5OTk1OF19
 -->
