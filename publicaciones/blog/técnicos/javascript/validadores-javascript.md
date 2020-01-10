@@ -30,7 +30,7 @@ Los más conocidos son [JSLint](http://www.jslint.com/), [JSHint](http://jshint.
 
 ## Instalar ESLint
 
-Para poder instalar ESLint recomiendo usar `npm` por lo que antes tendremos que [instalar node.js](https://nodejs.org/en/). Una vez que tengamos disponible `npm` bastará con abrir una consola en Windows y teclear lo siguiente:
+Para poder instalar ESLint recomiendo usar `npm` por lo que antes tendremos que [node.js](https://nodejs.org/en/) funcionando en el ordenador. Una vez que tengamos disponible `npm` bastará con abrir una consola en Windows y teclear lo siguiente:
 
 ```cmd
 npm install -g eslint
@@ -45,7 +45,9 @@ eslint fichero.js
 
 ## Integrar ESLint en SublimeText
 
-Una vez en nuestro sistema, debemos instalar el plugin de ESLint en Sublime. Para ello usamos su [repositorio oficial](https://packagecontrol.io/packages/ESLint).
+Por comodidad es preferible integrar el validador con el IDE de programación que utilicemos. En mi caso es SublimeText aunque prácticamente todos permiten estas integraciones. 
+
+El siguiente paso será debemos instalar el plugin de ESLint en Sublime. Para ello usamos su [repositorio oficial](https://packagecontrol.io/packages/ESLint).
 
 Para hacerlo desde el editor, pulsamos `cmd+shift+p`, seleccionamos `instalar paquete`, y buscamos `ESLint`.
 
@@ -81,6 +83,6 @@ Podemos dejarlo vacío o especificar nuestras primeras condiciones, por ejemplo:
 
 Ahora ya podemos volver a Sublime, navegamos hacia un fichero JavaScript, pulsamos `botón derecho` y seleccionamos `ESLint`. En la consola inferior nos aparecerá el resultado de la validación.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzAwMTE5MSwtMTYyNTE2ODc3LC0xMj
+eyJoaXN0b3J5IjpbLTUxMDQ5MDY4MCwtMTYyNTE2ODc3LC0xMj
 E2ODExNjg2LDk1MTMzNzEyMiwxMTc2OTk5NThdfQ==
 -->
