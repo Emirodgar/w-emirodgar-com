@@ -79,8 +79,8 @@ Podemos dejarlo vacío o especificar nuestras primeras condiciones, por ejemplo:
 }
 ```
 
-Ahora ya podemos volver a Sublime, navegamos hacia un fichero JavaScript, pusamos sobre botón derecho y seleccionamos ESLint. En la consola inferior nos aparecerá el resultado de la valida
+Ahora ya podemos volver a Sublime, navegamos hacia un fichero JavaScript, pulsamos `botón derecho` y seleccionamos `ESLint`. En la consola inferior nos aparecerá el resultado de la validación.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjUwODM3NiwtMTYyNTE2ODc3LC0xMj
+eyJoaXN0b3J5IjpbMTM3MDUxNTkwOCwtMTYyNTE2ODc3LC0xMj
 E2ODExNjg2LDk1MTMzNzEyMiwxMTc2OTk5NThdfQ==
 -->
