@@ -58,7 +58,11 @@ Una vez instalado, debemos ir al archivo de configuración `Settings-Default` y 
   "config_file": "C:/Users/Emilio/.eslintrc.json"
 }
 ```
+
+Las dos primeras rutas corresponden a dónde está instalado Node.js en nuestro ordenador. En mi caso es una ruta de Windows. Si usas Linux, tendrás que buscar la adecuada.
+
+ESLint necesita un archivo de configuración para comenzar por lo que tendremos que crear
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU2NjM3ODQsLTE2MjUxNjg3NywtMT
-IxNjgxMTY4Niw5NTEzMzcxMjIsMTE3Njk5OTU4XX0=
+eyJoaXN0b3J5IjpbLTQwODA5MDc3NiwtMTYyNTE2ODc3LC0xMj
+E2ODExNjg2LDk1MTMzNzEyMiwxMTc2OTk5NThdfQ==
 -->
