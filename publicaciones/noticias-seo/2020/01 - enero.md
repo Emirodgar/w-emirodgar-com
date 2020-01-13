@@ -14,7 +14,9 @@ permalink: noticias-seo/2019/diciembre
 
 # Noticias SEO enero 2020
 
-Recomiendo echar un vistazo a SEO de Canarias por sus publicaciones interesantes
+John Mueller nos confirma -de nuevo- que Google tratará de igual manera un error 404 que uno 410.
+
+Recomiendo echar un vistazo a [SEO de Canarias](https://www.agenciaseocanarias.es/blog/) por sus publicaciones interesantes y a [ABMarketing](https://abmarketing.es/blog/), que aunque está comenzando, Alberto Blanco no nos defraudará.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTc5ODg3OF19
+eyJoaXN0b3J5IjpbLTE2MTIyMDY1ODBdfQ==
 -->
