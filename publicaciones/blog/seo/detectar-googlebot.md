@@ -27,15 +27,18 @@ Es el proceso **más fiable** pero que **más recursos implica** ya que tendremo
 
 El proceso sería el siguiente:  
 
-1.  Con la IP del visitante debemos ejecutar una petición DNS inversa sobre la IP del rastreador.
-2.  Si la petición devuelve un host de googlebot.com entonces se trata de un robot de Google.
+1.  Debemos ejecutar una petición DNS inversa sobre la IP del visitante.
+2.  Si la petición devuelve un host de `googlebot.com` entonces se trata de un robot de Google.
 3.  Podríamos hacer una petición DNS de nuevo sobre el host para asegurarnos de que la IP es la misma y que no hay suplantación. Este tercer paso es opcional.
-4.  Si es de Google, no redireccionamos.
 
-  
+Veamos un ejemplo de cómo sería este proceso
 
-**User Agent**
+    host 66.249.66.1
+    1.66.249.66.in-addr.arpa domain name pointer crawl-66-249-66-1.googlebot.com.
 
+### User Agent
+
+La otra opción que tenemos disponible sería 
   
 
 Aunque el proceso anterior es el más fiable, existe otra posibilidad que implica menos recursos. En este caso sería identificar el user-agent. Google ha publicado en el siguiente enlace todos los user-agents de sus robots.
@@ -43,5 +46,5 @@ Aunque el proceso anterior es el más fiable, existe otra posibilidad que implic
 1.  Comprobamos si el user-agent es de un robot de Google (listado: [https://support.google.com/webmasters/answer/1061943?hl=es-419](https://support.google.com/webmasters/answer/1061943?hl=es-419))
 2.  Si es de Google, no redireccionamos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwMDk1MTg2XX0=
+eyJoaXN0b3J5IjpbLTE3MDQzMTU5OTFdfQ==
 -->
