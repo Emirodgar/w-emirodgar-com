@@ -15,10 +15,13 @@ Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
 
 - **Enlace**: es cualquier enlace desde una página externa que apunta hacia nuestra web. También se denomina *link* o *backlink*.
 - **Texto ancla**: o *anchor text*. Es el término con el que nos están enlazando. Es importante que sea un término importante para nuestra web. 
+- Do
 
-    <a href="https://mipagina.com">anchor text</a>
+```
+<a href="https://mipagina.com">anchor text</a>
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTg4Nzk1MywtMTUwMjEyODk5OV19
+eyJoaXN0b3J5IjpbLTkxMTMzODc3NywtMTUwMjEyODk5OV19
 -->
