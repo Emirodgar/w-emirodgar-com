@@ -23,13 +23,11 @@ Actualmente tenemos dos posibilidades. Bien realizamos una DNS inversa o consult
 
 ### DNS inversa
 
-  Es el proceso m
+Es el proceso **más fiable** pero que **más recursos implica** ya que tendremos que llevar a cabo una operación de consulta sobre la IP.
 
-Básicamente el proceso sería el siguiente:
+El proceso sería el siguiente:  
 
-  
-
-1.  Antes de redireccionar, debemos ejecutar una petición DNS inversa sobre la IP del rastreador.
+1.  Con la IP del visitante debemos ejecutar una petición DNS inversa sobre la IP del rastreador.
 2.  Si la petición devuelve un host de googlebot.com entonces se trata de un robot de Google.
 3.  Podríamos hacer una petición DNS de nuevo sobre el host para asegurarnos de que la IP es la misma y que no hay suplantación. Este tercer paso es opcional.
 4.  Si es de Google, no redireccionamos.
@@ -45,5 +43,5 @@ Aunque el proceso anterior es el más fiable, existe otra posibilidad que implic
 1.  Comprobamos si el user-agent es de un robot de Google (listado: [https://support.google.com/webmasters/answer/1061943?hl=es-419](https://support.google.com/webmasters/answer/1061943?hl=es-419))
 2.  Si es de Google, no redireccionamos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTY1OTk2Nl19
+eyJoaXN0b3J5IjpbNjQwMDk1MTg2XX0=
 -->
