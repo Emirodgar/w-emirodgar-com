@@ -15,7 +15,10 @@ Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
 
 - **Enlace**: es cualquier enlace desde una página externa que apunta hacia nuestra web. También se denomina *link* o *backlink*.
 - **Texto ancla**: o *anchor text*. Es el término con el que nos están enlazando. Es importante que sea un término importante para nuestra web. 
-- **Atributos de enlace**: nos permiten cualificar la naturaleza de un enlace con tres 
+- **Atributos de enlace**: nos permiten cualificar la naturaleza de un enlace con [tres atributos](https://emirodgar.com/atributos-enlaces-google): ugc, sponsored y nofollow.
+- **Nofollow y Dofollow**: los enlaces nofollow no sirven, de momento, para el SEO. Los Dofollo sí aportan valor y popularidad.
+
+Veamos un ejemplo completo
 
 ```
 <a href="https://mipagina.com">anchor text</a>
@@ -23,6 +26,6 @@ Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzgyMDIwMTcsLTEyMzE5MDE4NywtMT
-UwMjEyODk5OV19
+eyJoaXN0b3J5IjpbMTY3OTUyODU2LC0xMjMxOTAxODcsLTE1MD
+IxMjg5OTldfQ==
 -->
