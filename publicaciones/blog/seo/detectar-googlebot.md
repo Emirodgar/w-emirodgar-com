@@ -38,13 +38,11 @@ Veamos un ejemplo de cómo sería este proceso
 
 ### User Agent
 
-La otra opción que tenemos disponible sería 
+La otra opción que tenemos disponible sería consultar el `User-Agent` para comprobar si se trata de un robot de búsqueda de Google. El proceso sería el siguiente:
   
+Google ofrece un
 
-Aunque el proceso anterior es el más fiable, existe otra posibilidad que implica menos recursos. En este caso sería identificar el user-agent. Google ha publicado en el siguiente enlace todos los user-agents de sus robots.
-
-1.  Comprobamos si el user-agent es de un robot de Google (listado: [https://support.google.com/webmasters/answer/1061943?hl=es-419](https://support.google.com/webmasters/answer/1061943?hl=es-419))
-2.  Si es de Google, no redireccionamos.
+`Googlebot/2.1 (+http://www.google.com/bot.html`)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQzMTU5OTFdfQ==
+eyJoaXN0b3J5IjpbMzk2Mzc1NjI4XX0=
 -->
