@@ -46,7 +46,7 @@ Por ejemplo, el `User-Agent` para el robot de búsqueda sería el siguiente:
 
     Googlebot/2.1 (+http://www.google.com/bot.html)
 
-Tan sólo tendríamos que buscara si pertenece a Google
+Tan sólo tendríamos que comparar para saber si es Googlebot o no. Rápido y sencillo. La única pega es que alguien podría suplantar a Googlebot usando el mismo valor por lo que la única opción fiable sería la primera.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzE4ODg0N119
+eyJoaXN0b3J5IjpbMTkyMzUwNTg2XX0=
 -->
