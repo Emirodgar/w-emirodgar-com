@@ -16,7 +16,15 @@ permalink: noticias-seo/2019/diciembre
 
 John Mueller nos confirma -de nuevo- que Google tratará de igual manera un error 404 que uno 410.
 
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1214157450485604352">
+</amp-twitter>
+
+
 Recomiendo echar un vistazo a [SEO de Canarias](https://www.agenciaseocanarias.es/blog/) por sus publicaciones interesantes y a [ABMarketing](https://abmarketing.es/blog/), que aunque está comenzando, Alberto Blanco no nos defraudará.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTIyMDY1ODBdfQ==
+eyJoaXN0b3J5IjpbLTk5NDMzNzI0NF19
 -->
