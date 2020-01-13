@@ -13,10 +13,11 @@ Cualquier [estrategia SEO](https://emirodgar.com/estrategia-seo) se basa en [tre
 
 Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
 
-- Enlace o link: 
+- **Enlace**: es cualquier enlace desde una página externa que apunta hacia nuestra web. También se denomina *link* o *backlink*.
+- **Anchor text**: es el término con el que nos están enlazando. Por ejemplo <a href=""></a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk4NjM5NTMsLTE1MDIxMjg5OTldfQ
+eyJoaXN0b3J5IjpbLTE4NzM1NDM0MTksLTE1MDIxMjg5OTldfQ
 ==
 -->
