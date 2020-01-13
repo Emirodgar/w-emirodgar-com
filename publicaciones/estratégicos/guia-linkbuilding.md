@@ -15,7 +15,7 @@ Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
 
 - **Enlace**: es cualquier enlace desde una página externa que apunta hacia nuestra web. También se denomina *link* o *backlink*.
 - **Texto ancla**: o *anchor text*. Es el término con el que nos están enlazando. Es importante que sea un término importante para nuestra web. 
-- Atributos de enlace: 
+- **Atributos de enlace**: nos permiten cualificar la naturaleza de un enlace
 
 ```
 <a href="https://mipagina.com">anchor text</a>
@@ -23,5 +23,5 @@ Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDM2OTA4NCwtMTUwMjEyODk5OV19
+eyJoaXN0b3J5IjpbLTEyMzE5MDE4NywtMTUwMjEyODk5OV19
 -->
