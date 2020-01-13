@@ -19,11 +19,11 @@ En ciertas ocasiones es necesario identificar si el visitante de nuestro sitio e
 
 ## ¿Cómo identificar al robot de Google?
 
-Actualmente tenemos dos posibilidades
+Actualmente tenemos dos posibilidades. Bien realizamos una DNS inversa o consultamos el `User-Agent`.
 
 ### DNS inversa
 
-  
+  Es el proceso m
 
 Básicamente el proceso sería el siguiente:
 
@@ -45,5 +45,5 @@ Aunque el proceso anterior es el más fiable, existe otra posibilidad que implic
 1.  Comprobamos si el user-agent es de un robot de Google (listado: [https://support.google.com/webmasters/answer/1061943?hl=es-419](https://support.google.com/webmasters/answer/1061943?hl=es-419))
 2.  Si es de Google, no redireccionamos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY5ODczNTJdfQ==
+eyJoaXN0b3J5IjpbMTA2NTY1OTk2Nl19
 -->
