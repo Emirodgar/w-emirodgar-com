@@ -13,15 +13,7 @@ dfdfd fsd otra cosa!! probando otra vez más
 
 
 
-<ul>
-{% for page in site.pages %}
-{% if page.title != null  %}
-	{% if page.folder== "auditoria" %}
-	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-	{% endif %}
-{% endif %}
-{% endfor %}
-</ul>
+
 
 {% for page in site.pages %}
     {% if page.sitemap == 1 %}
@@ -58,11 +50,11 @@ OTRO
     {% endunless %}
   {% endfor %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3MjUzMTA4LDgxNDEyMjk3MiwxMjI5ND
-EzNTcyLC0yMDYzMTExNzI2LDQzOTk3NDUzMywzNjc1NTE5NTcs
-LTY2Njg2OTQwOCwyMDU1NTU3OTc1LC0xMzUyMTA3NzM3LDE1Mz
-Y5NTAxNiwtNTUxMzA2MDAzLC0xNjc5NTg0MjQxLDIyMjE4Mzk1
-MiwxMDgyODM0NjcyLDE0MDk2MjQzODYsMjEzOTgyNTIwMyw3ND
-cwNTI0OTMsLTE3MzA5NTY3MDYsLTE3NTQ5MDc1ODIsMTcwMjY5
-ODExNV19
+eyJoaXN0b3J5IjpbLTE3OTg0OTI4MjUsNTk3MjUzMTA4LDgxND
+EyMjk3MiwxMjI5NDEzNTcyLC0yMDYzMTExNzI2LDQzOTk3NDUz
+MywzNjc1NTE5NTcsLTY2Njg2OTQwOCwyMDU1NTU3OTc1LC0xMz
+UyMTA3NzM3LDE1MzY5NTAxNiwtNTUxMzA2MDAzLC0xNjc5NTg0
+MjQxLDIyMjE4Mzk1MiwxMDgyODM0NjcyLDE0MDk2MjQzODYsMj
+EzOTgyNTIwMyw3NDcwNTI0OTMsLTE3MzA5NTY3MDYsLTE3NTQ5
+MDc1ODJdfQ==
 -->
