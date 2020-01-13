@@ -23,8 +23,13 @@ John Mueller nos confirma -de nuevo- que Google tratará de igual manera un erro
   data-tweetid="1214157450485604352">
 </amp-twitter>
 
+## Extensión SEO
+
+He hecho algunos cambios sobre mi [extensión SEO de Chrome](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para validar AMP y URLs amigables. Ahora nos ofrece un poco más de información.
+
+## Recomendados
 
 Recomiendo echar un vistazo a [SEO de Canarias](https://www.agenciaseocanarias.es/blog/) por sus publicaciones interesantes y a [ABMarketing](https://abmarketing.es/blog/), que aunque está comenzando, Alberto Blanco no nos defraudará.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNTA1NTg1XX0=
+eyJoaXN0b3J5IjpbLTExOTkxNDk5NzBdfQ==
 -->
