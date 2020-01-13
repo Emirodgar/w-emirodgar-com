@@ -1,5 +1,5 @@
 ---
-toc: 1
+toc: 0
 layout:  post
 permalink: test
 
@@ -11,7 +11,6 @@ dfdfd fsd otra cosa!! probando otra vez más
 
 ## Test  123456789
 
-MIO - TAGS: {{ page.tags }}
 
 
 <ul>
@@ -59,7 +58,7 @@ OTRO
     {% endunless %}
   {% endfor %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3MTY5MjIyLDgxNDEyMjk3MiwxMjI5ND
+eyJoaXN0b3J5IjpbNTk3MjUzMTA4LDgxNDEyMjk3MiwxMjI5ND
 EzNTcyLC0yMDYzMTExNzI2LDQzOTk3NDUzMywzNjc1NTE5NTcs
 LTY2Njg2OTQwOCwyMDU1NTU3OTc1LC0xMzUyMTA3NzM3LDE1Mz
 Y5NTAxNiwtNTUxMzA2MDAzLC0xNjc5NTg0MjQxLDIyMjE4Mzk1
