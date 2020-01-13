@@ -1,5 +1,6 @@
 ---
-toc: 1
+toc: 0
+layout:  post
 permalink: test
 
 ---
@@ -10,7 +11,6 @@ dfdfd fsd otra cosa!! probando otra vez más
 
 ## Test  123456789
 
-MIO - TAGS: {{ page.tags }}
 
 
 <ul>
@@ -58,11 +58,11 @@ OTRO
     {% endunless %}
   {% endfor %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0MTIyOTcyLDEyMjk0MTM1NzIsLTIwNj
-MxMTE3MjYsNDM5OTc0NTMzLDM2NzU1MTk1NywtNjY2ODY5NDA4
-LDIwNTU1NTc5NzUsLTEzNTIxMDc3MzcsMTUzNjk1MDE2LC01NT
-EzMDYwMDMsLTE2Nzk1ODQyNDEsMjIyMTgzOTUyLDEwODI4MzQ2
-NzIsMTQwOTYyNDM4NiwyMTM5ODI1MjAzLDc0NzA1MjQ5MywtMT
-czMDk1NjcwNiwtMTc1NDkwNzU4MiwxNzAyNjk4MTE1LDE3MDI2
-OTgxMTVdfQ==
+eyJoaXN0b3J5IjpbNTk3MjUzMTA4LDgxNDEyMjk3MiwxMjI5ND
+EzNTcyLC0yMDYzMTExNzI2LDQzOTk3NDUzMywzNjc1NTE5NTcs
+LTY2Njg2OTQwOCwyMDU1NTU3OTc1LC0xMzUyMTA3NzM3LDE1Mz
+Y5NTAxNiwtNTUxMzA2MDAzLC0xNjc5NTg0MjQxLDIyMjE4Mzk1
+MiwxMDgyODM0NjcyLDE0MDk2MjQzODYsMjEzOTgyNTIwMyw3ND
+cwNTI0OTMsLTE3MzA5NTY3MDYsLTE3NTQ5MDc1ODIsMTcwMjY5
+ODExNV19
 -->

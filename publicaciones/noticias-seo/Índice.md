@@ -1,12 +1,12 @@
 ---
-title: Noticias SEO - 2019
+title: Noticias SEO - 2020
 description: Recopilación de noticias y enlaces de interés relacionados con el SEO y Marketing digital
 lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
 folder: noticias
-date: 14/12/2019
+date: 13/01/2020
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 redirect_from: 
   - noticias-seo/2019
@@ -17,6 +17,14 @@ permalink: noticias-seo
 ---
 
 # Noticias SEO
+
+## Noticias SEO - 2020
+
+### Enero 2020
+
+De momento parece que ha habido algún cambio de algoritmo relacionado con enlaces aunque aún es pronto para confirmarlo. Google no ha dado ningún aviso.
+
+[Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2020/enero)
 
 ## Noticias SEO - 2019
 
@@ -88,5 +96,5 @@ Aprovechando el nuevo rediseño en búsquedas mobile, tenemos recomendación ofi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTYxNTY1OSwtMTQ0MTkzNTU3Nl19
+eyJoaXN0b3J5IjpbMjc1NzY4NjMzLC0xNDQxOTM1NTc2XX0=
 -->
