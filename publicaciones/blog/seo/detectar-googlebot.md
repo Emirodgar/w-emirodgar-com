@@ -40,9 +40,13 @@ Veamos un ejemplo de cómo sería este proceso
 
 La otra opción que tenemos disponible sería consultar el `User-Agent` para comprobar si se trata de un robot de búsqueda de Google. El proceso sería el siguiente:
   
-Google ofrece un
+Google ofrece un [listado completo](https://support.google.com/webmasters/answer/1061943?hl=es-419) de los `User-Agent` de todos sus robots, tanto de los de búsqueda como los asignados a otros servicios.
 
-`Googlebot/2.1 (+http://www.google.com/bot.html`)
+Por ejemplo, el `User-Agent` para el robot de búsqueda sería el siguiente:
+
+    Googlebot/2.1 (+http://www.google.com/bot.html)
+
+Tan sólo tendríamos que buscara si pertenece a Google
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2Mzc1NjI4XX0=
+eyJoaXN0b3J5IjpbMjExNzE4ODg0N119
 -->
