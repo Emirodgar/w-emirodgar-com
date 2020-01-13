@@ -8,7 +8,7 @@ feed: 1
 folder: noticias
 date: 19/12/2020
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: noticias-seo/2019/diciembre
+permalink: noticias-seo/2020/enero
 
 ---
 
@@ -26,5 +26,5 @@ John Mueller nos confirma -de nuevo- que Google tratará de igual manera un erro
 
 Recomiendo echar un vistazo a [SEO de Canarias](https://www.agenciaseocanarias.es/blog/) por sus publicaciones interesantes y a [ABMarketing](https://abmarketing.es/blog/), que aunque está comenzando, Alberto Blanco no nos defraudará.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDMzNzI0NF19
+eyJoaXN0b3J5IjpbOTMxNTA1NTg1XX0=
 -->
