@@ -18,7 +18,10 @@
 17- agua de la cocina se va y se inunda
 18- suelo del balcón lo pnen al revés
 19- azulejos cocina mal puestos
-20 - sobran casi
+20 - sobran casi 250€ de azulejos
+21- ventana ya se atasca
+22- cabecero mal puesto (Agujero mal hecho)
+23- mesa despacho mal medida y mal acabada
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE2NDkyODNdfQ==
+eyJoaXN0b3J5IjpbLTU3NzQ5MTczNV19
 -->
