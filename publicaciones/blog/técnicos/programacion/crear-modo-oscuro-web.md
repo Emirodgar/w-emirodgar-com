@@ -1,10 +1,10 @@
 ---
-description: A través de JavaScript y CSS podremos crear un modo noche sencillo para nuestra página web
+description: A través de JavaScript y CSS podremos crear un modo oscuro sencillo para nuestra página web
 lang: es_ES
 sitemap: 1
 feed: 1
 folder: programacion
-permalink: crear-modo-noche-web
+permalink: crear-modo-oscuro-web
   
 ---
 
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 ## Crear los estilos para el modo noche
 
-Ya sólo nos queda establecer qué estilos CSS tendrá el modo noche.
+Ya sólo nos queda establecer qué estilos CSS tendrá el modo noche. Dado que lo que hace el listener
 
 ```css
 body.dark code[class*=language-],
@@ -47,5 +47,5 @@ body.dark table tbody>tr:nth-child(odd)>th {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE0NTM5NTJdfQ==
+eyJoaXN0b3J5IjpbMTAyNDIzNzY1XX0=
 -->
