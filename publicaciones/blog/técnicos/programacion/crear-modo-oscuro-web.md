@@ -50,11 +50,11 @@ body.dark h1,h2,h3,h4 { color:white;}
 body.dark .post .post-content p {color :white;} 
 ```
 
-Los estilos CSS dependerán de cada página web. L
+Los estilos CSS dependerán de cada página web. Los que he puesto antes son los que corresponde a mi blog.
 
 ## Resultado final
 
-El modo oscu
+El modo oscuro que he desarrollado para mi web quedaría de la siguiente manera:
 
 <amp-twitter 
   width="375"
@@ -65,6 +65,6 @@ El modo oscu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkwNzg3MDcsLTE2ODQwOTkwMzgsLT
-E3NjAwOTc4NTBdfQ==
+eyJoaXN0b3J5IjpbMTAxNDI4Mzc4OCwtMTY4NDA5OTAzOCwtMT
+c2MDA5Nzg1MF19
 -->
