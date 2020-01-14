@@ -3,7 +3,22 @@
 2 - Puerta entrada rozada y sin embellecedores
 3- huecos armarios y pared
 4- Stor que no se para
-5 - 
+5 - rodapiés arrancados y marcos de puerta quitados
+6 - Radiadores quitados
+7- Espejos mal puestos
+8- Sofás que hacen mucho ruido
+9- remates pasillos techo mal
+10- luces que no se apagan
+11- enchufes de fuerza y luz (mezclados)
+12- los muebles de la cocina no llegaban hasta arriba
+13- cuadro de luces mezclado
+14- puerta corredera cocina aml
+15- pintor cae sobre mueble baño
+16- agua se va y hace humedad en el pasillo
+17- agua de la cocina se va y se inunda
+18- suelo del balcón lo pnen al revés
+19- azulejos cocina mal puestos
+20 - sobran casi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3MzU3ODcyXX0=
+eyJoaXN0b3J5IjpbLTEwOTE2NDkyODNdfQ==
 -->
