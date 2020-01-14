@@ -11,21 +11,21 @@ Muchas páginas ofrecen la opción a sus visitantes de cambiar la plantilla web 
 
 El primer paso será ofrecer el enlace que permita -a través de JavaScript y el almacenamiento interno del navegador- seleccionar la versión clara o la oscura.
 
-```
+```html
 <a href="#" onclick="localStorage.setItem('mode', (localStorage.getItem('mode') || 'dark') === 'dark' ? 'light' : 'dark'); localStorage.getItem('mode') === 'dark' ? document.querySelector('body').classList.add('dark') : document.querySelector('body').classList.remove('dark')" title="Dark/light">Modo oscuro</a>
 ```
 
 Con este enlace lo que estamos haciendo es seleccionar una versión u otra. 
 
-```
-<script id="hello-world"
-  type="text/plain"
-  target="amp-script">
-  document.addEventListener('DOMContentLoaded', (event) => {
+## Crear el listener para cambiar la clase
+
+Cada vez que hacemos clic en el enlace lo que tenemos que hacer es asignar una clase "clara" o clase "oscura" a la página web para que de esa forma se pueda
+
+```js
+document.addEventListener('DOMContentLoaded', (event) => {
   ((localStorage.getItem('mode') || 'dark') === 'dark') ? document.querySelector('body').classList.add('dark') : document.querySelector('body').classList.remove('dark')
 })
-</script>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI5MzgwMTddfQ==
+eyJoaXN0b3J5IjpbLTU1Mzc5OTU4Nl19
 -->
