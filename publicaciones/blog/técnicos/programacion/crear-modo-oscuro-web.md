@@ -19,13 +19,17 @@ Con este enlace lo que estamos haciendo es seleccionar una versión u otra.
 
 ## Crear el listener para cambiar la clase
 
-Cada vez que hacemos clic en el enlace lo que tenemos que hacer es asignar una clase "clara" o clase "oscura" a la página web para que de esa forma se pueda
+Cada vez que hacemos clic en el enlace lo que tenemos que hacer es asignar una clase "clara" u "oscura" a la página web para que de esa forma se cambie el color.
 
 ```js
 document.addEventListener('DOMContentLoaded', (event) => {
   ((localStorage.getItem('mode') || 'dark') === 'dark') ? document.querySelector('body').classList.add('dark') : document.querySelector('body').classList.remove('dark')
 })
 ```
+
+## Crear los estilos para el modo noche
+
+Ya sólo nos queda establecer qué estilos CSS tendrá el modo noche.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Mzc5OTU4Nl19
+eyJoaXN0b3J5IjpbLTQyNjE1NTI2MF19
 -->
