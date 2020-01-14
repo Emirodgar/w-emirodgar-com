@@ -1,6 +1,18 @@
 {
   "data": [
 	   [
+      "Actualización Core",
+      "Google acaba de lanzar una nueva actualización Core (13 de enero) que se desplegará durante los próximos días.",
+      "https://twitter.com/searchliaison/status/1216766991882567680",
+	  "Enero 2020"
+    ],
+	[
+      "Google estrena un nueva plantilla",
+      "Los resultados de búsqueda contarán ahora con los iconos de las páginas asociado a cada resultado y un 'Ad' para destacar los resultados de pago.",
+      "https://twitter.com/searchliaison/status/1216782591463813126",
+	  "Enero 2020"
+    ],
+	[
       "Los errores 404 o 410 funcionan igual",
       "Nada nuevo que no supiéramos ya. Si queremos desindexar una URL debemos ofrecer un error 404 o 410. Google los va a interpretar de la misma forma.",
       "https://twitter.com/JohnMu/status/1214157450485604352",
