@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 ## Crear los estilos para el modo noche
 
-Ya sólo nos queda establecer qué estilos CSS tendrá el modo noche. Dado que lo que hace el listener es asignar la clase `dark` al elemento `body` de nuestra página, debemos crear los estilos de la siguiente manera:
+Ya sólo nos queda establecer qué estilos `CSS` tendrá el modo noche. Dado que lo que hace el `listener` es asignar la clase `dark` al elemento `body` de nuestra página, debemos crear los estilos de la siguiente manera:
 
 ```css
 body.dark code[class*=language-],
@@ -49,7 +49,22 @@ body.dark table tbody>tr:nth-child(odd)>th {
 body.dark h1,h2,h3,h4 { color:white;}
 body.dark .post .post-content p {color :white;} 
 ```
+
+Los estilos CSS dependerán de cada página web. L
+
+## Resultado final
+
+El modo oscu
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1217030590106677253">
+</amp-twitter>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQwOTkwMzgsLTE3NjAwOTc4NTBdfQ
-==
+eyJoaXN0b3J5IjpbLTIxMDkwNzg3MDcsLTE2ODQwOTkwMzgsLT
+E3NjAwOTc4NTBdfQ==
 -->
