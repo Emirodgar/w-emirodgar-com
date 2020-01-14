@@ -27,7 +27,7 @@ Con este enlace lo que estamos haciendo es seleccionar una versión u otra.
 
 ## Crear el listener para cambiar la clase
 
-Cada vez que hacemos clic en el enlace lo que tenemos que hacer es asignar una clase "clara" u "oscura" a la página web para que de esa forma se cambie el color. Esto lo hacemos estableciendo un listener 
+Cada vez que hacemos clic en el enlace lo que tenemos que hacer es asignar una clase "clara" u "oscura" a la página web para que de esa forma se cambie el color. Esto lo hacemos estableciendo un `listener` para que obtenga el valor de `localStorage`.
 
 ```js
 document.addEventListener('DOMContentLoaded', (event) => {
@@ -47,5 +47,5 @@ body.dark table tbody>tr:nth-child(odd)>th {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTEwODMyN119
+eyJoaXN0b3J5IjpbLTE3NjAwOTc4NTBdfQ==
 -->
