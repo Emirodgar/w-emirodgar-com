@@ -22,6 +22,8 @@
 21- ventana ya se atasca
 22- cabecero mal puesto (Agujero mal hecho)
 23- mesa despacho mal medida y mal acabada
+24- estantería despacho cierra mal y remate
+25- radiador despacho mal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzQ5MTczNV19
+eyJoaXN0b3J5IjpbLTEzMjk0MjE5MzddfQ==
 -->
