@@ -43,9 +43,13 @@ Ya sólo nos queda establecer qué estilos CSS tendrá el modo noche. Dado que l
 body.dark code[class*=language-],
 body.dark table tbody>tr:nth-child(odd)>td,
 body.dark table tbody>tr:nth-child(odd)>th {
-  background: #282c34
+  background: #282c34;
+  color:white;
 }
+body.dark h1,h2,h3,h4 { color:white;}
+body.dark .post .post-content p {color :white;} 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjAwOTc4NTBdfQ==
+eyJoaXN0b3J5IjpbLTE2ODQwOTkwMzgsLTE3NjAwOTc4NTBdfQ
+==
 -->
