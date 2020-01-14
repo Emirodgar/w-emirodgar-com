@@ -24,6 +24,7 @@
 23- mesa despacho mal medida y mal acabada
 24- estantería despacho cierra mal y remate
 25- radiador despacho mal
+26- taladros 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk0MjE5MzddfQ==
+eyJoaXN0b3J5IjpbLTIwOTQ1ODU1OCwtMTMyOTQyMTkzN119
 -->
