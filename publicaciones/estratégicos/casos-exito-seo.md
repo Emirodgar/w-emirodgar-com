@@ -141,7 +141,9 @@ Al tratarse de un ecommerce con más de 250k URLs indexadas, decidí comenzar a 
   data-tweetid="1194162193819996161">
 </amp-twitter>
 
-A partir de ahí, seguimos incorporando nuevas acciones SEO de contenidos y en y cosechando buenos resultados.
+A partir de ahí, incorporamos nuevas acciones SEO -principalmente de de contenidos y nuevas landings de captación-  lo que nos permitió seguir cosechando buenos resultados.
+
+En apenas 3 meses habíamos logrado incrementar el posicionamiento en más de 50k palabras clave. 
 
 <amp-twitter 
   width="375"
@@ -183,7 +185,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgxMzcyNTgsMTYxOTg2MjU1LDE2OD
-A0MzMyMjcsLTU5ODE4OTMzMSwtMTM4NDc1MTczNywtMTgyNDY2
-OTQ4NV19
+eyJoaXN0b3J5IjpbLTEwNDE0Njg1NCwxNjE5ODYyNTUsMTY4MD
+QzMzIyNywtNTk4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5
+NDg1XX0=
 -->
