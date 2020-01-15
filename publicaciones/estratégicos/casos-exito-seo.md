@@ -1,6 +1,6 @@
 ---
 title: Casos de éxito SEO (Posicionamiento web) - 2020
-description: Os cuento las estrategias SEO de las que estoy más orgulloso. Más de diez años de trabajo.
+description: Os cuento las estrategias SEO de las que estoy más orgulloso. Los mejores resultados en más de diez años de trabajo.
 lang: es_ES
 sitemap: 1
 feed: 1
@@ -15,8 +15,9 @@ permalink: casos-exito-seo
 
 Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la oportunidad de trabajar en múltiples proyectos. Os cuento los **casos de éxito SEO** más importantes que he conseguido.
 
- 1. [Recuperar tráfico perdido en periódico digital](#periodico)
- 2. [Migración Ecommerce Internacional](#ecommerce)
+ 1. [2015 - Recuperar tráfico perdido en periódico digital](#periodico)
+ 2. [2016 - Migración Ecommerce Internacional](#ecommerce)
+ 3. [2019 - Ecommerce con pérdida de tráfico](#ecommerce-local)
 
 ## <a name="periodico"></a> 2015 - Periódico digital (España) / Recuperar tráfico perdido
 
@@ -183,7 +184,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTM5NzQyOCwxNjE5ODYyNTUsMTY4MD
+eyJoaXN0b3J5IjpbLTM1MjE1OTcyNSwxNjE5ODYyNTUsMTY4MD
 QzMzIyNywtNTk4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5
 NDg1XX0=
 -->
