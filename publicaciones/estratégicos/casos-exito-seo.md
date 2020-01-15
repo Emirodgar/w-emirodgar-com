@@ -164,13 +164,10 @@ El hecho de poder favorecer la indexación de páginas relevantes y dejar en un 
 
 En la anterior imagen se puede apreciar claramente el crecimiento experimentado a través de Google Search Console durante los tres primeros meses de trabajo. 
 
-La captación SEO se disparó con algunos picos que duplicaban el tráfico de 2019.
+La captación SEO se disparó con algunos picos que duplicaban el tráfico medio de 2019.
 
 
-
-
-
-## Competidores
+## Competidores orgánicos
 
 En un ecommerce la competencia es feroz. Con este cliente partíamos los primeros frente a competidores local, aún así, la evolución que experimentamos fue tal que nos hicimos líderes indiscutibles del sector.
 
@@ -185,7 +182,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDU2Njk4NCwxNjE5ODYyNTUsMTY4MD
+eyJoaXN0b3J5IjpbMjEyMzUxNDk5MywxNjE5ODYyNTUsMTY4MD
 QzMzIyNywtNTk4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5
 NDg1XX0=
 -->
