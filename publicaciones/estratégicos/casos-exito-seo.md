@@ -17,7 +17,7 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
  1. [Recuperar tráfico perdido en periódico digital](#periodico)
  2. [Migración Ecommerce Internacional](#ecommerce)
 
-## <a name="periodico"></a> 1- Periódico digital (España) / Recuperar tráfico perdido
+## <a name="periodico"></a> 2015 - Periódico digital (España) / Recuperar tráfico perdido
 
 Comencé en el año 2015 a trabajar en un periódico de tirada nacional que en los últimos 4 años había ido perdiendo tráfico de forma progresiva.
 
@@ -71,7 +71,7 @@ En la siguiente imagen se puede ver la evolución conseguida desde que comenzamo
 
 El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para poder ser competitivos y a involucrar a todo el equipo para trabajar en la misma línea.
 
-## <a name="ecommerce"></a> 2- Migración Ecommerce internacional
+## <a name="ecommerce"></a> 2016 - Migración Ecommerce internacional
 
 Comienzo a trabajar en este proyecto a mediados de 2016 debido a que van a cambiar de plataforma y necesitan asegurar la correcta migración a la misma. 
 
@@ -120,7 +120,7 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánica que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 
-## <a name="ecommerce-local"></a> 3- Crecimiento SEO Ecommerce
+## <a name="ecommerce-local"></a> 2019 - Crecimiento SEO Ecommerce
 
 Partíamos de una situación SEO normalizada con una ligera tendencia descendente. Durante todo el año 2019 la visibilidad y posicionamiento SEO iba cayendo poco a poco.
 
@@ -147,6 +147,6 @@ En la anterior imagen se puede apreciar claramente el crecimiento experimentado 
 
 La captación SEO se disparó
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzAwNTk0NywxNjgwNDMzMjI3LC01OT
+eyJoaXN0b3J5IjpbLTg3MzAzMzYzMiwxNjgwNDMzMjI3LC01OT
 gxODkzMzEsLTEzODQ3NTE3MzcsLTE4MjQ2Njk0ODVdfQ==
 -->
