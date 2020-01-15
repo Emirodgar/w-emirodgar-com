@@ -155,6 +155,15 @@ La captación SEO se disparó y en algunas ocasiones duplicaba el tráfico base.
 
 En un ecommerce la competencia es feroz. Con este cliente partíamos los primeros frente a competidores local, aún así,
 
+
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1194162193819996161">
+</amp-twitter>
+
 <amp-twitter 
   width="375"
   height="472"
@@ -164,6 +173,6 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQyMTA3NDcsMTY4MDQzMzIyNywtNT
-k4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5NDg1XX0=
+eyJoaXN0b3J5IjpbMTU5NTU4OTE4NSwxNjgwNDMzMjI3LC01OT
+gxODkzMzEsLTEzODQ3NTE3MzcsLTE4MjQ2Njk0ODVdfQ==
 -->
