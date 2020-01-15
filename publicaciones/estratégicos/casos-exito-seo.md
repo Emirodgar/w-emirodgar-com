@@ -133,7 +133,8 @@ Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajan
   data-tweetid="1217425681434447878">
 </amp-twitter>
 
-Las primeras medidas
+Las primeras medidas se vieron casi de inmediato. El hecho de poder favorecer la indexación de páginas relevantes y dejar en un segundo plano las secundarias con poco valor nos permitió comenzar a **generar más visibilidad SEO**.
+
 
 <amp-twitter 
   width="375"
@@ -144,6 +145,6 @@ Las primeras medidas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTYxMTMwNjgsMTY4MDQzMzIyNywtNT
-k4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5NDg1XX0=
+eyJoaXN0b3J5IjpbMjAyODM3OTUyMCwxNjgwNDMzMjI3LC01OT
+gxODkzMzEsLTEzODQ3NTE3MzcsLTE4MjQ2Njk0ODVdfQ==
 -->
