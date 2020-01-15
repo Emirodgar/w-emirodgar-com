@@ -122,7 +122,9 @@ En la imagen anterior se puede ver el incremento en la visibilidad orgánica que
 
 ## <a name="ecommerce-local"></a> 2019 - Crecimiento SEO Ecommerce
 
-Partíamos de una situación SEO normalizada con una ligera tendencia descendente. Durante todo el año 2019 la visibilidad y posicionamiento SEO iba cayendo poco a poco.
+Comenzamos a trabajar en octubre del 2019 y partíamos de una situación SEO normalizada con una ligera tendencia descendente.  Durante todo el año 2019 la visibilidad y posicionamiento SEO iba cayendo poco a poco.
+
+> El objetivo era crecimiento SEO. Recuperar el tráfico perdido y seguir creciendo. 
 
 Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajando el **SEO técnico** para asegurar una **óptima indexación** por parte de los buscadores. 
 
@@ -177,6 +179,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTg2MjU1LDE2ODA0MzMyMjcsLTU5OD
-E4OTMzMSwtMTM4NDc1MTczNywtMTgyNDY2OTQ4NV19
+eyJoaXN0b3J5IjpbMTExMzE3NDAyMywxNjE5ODYyNTUsMTY4MD
+QzMzIyNywtNTk4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5
+NDg1XX0=
 -->
