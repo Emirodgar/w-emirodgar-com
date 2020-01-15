@@ -126,9 +126,13 @@ Comenzamos a trabajar en octubre del 2019 y partíamos de una situación SEO nor
 
 > El objetivo era crecimiento SEO. Recuperar el tráfico perdido y seguir creciendo. 
 
-Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajando el **SEO técnico** para asegurar una **óptima indexación** por parte de los buscadores. 
 
-Comenzamos con una muestra de control de 50 keywords que, a las pocas semamas ya nos mostró los buenos resultados de la estrategia SEO implementada.
+
+### Muestra de control
+
+Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajando el **SEO técnico** para asegurar una **óptima indexación** por parte de los buscadores. Sería la base sobre la que luego aplicar mejoras de contenido y enlazado.
+
+Comenzamos con una muestra de control de 50 palabras clave que, a las pocas semamas ya nos mostró los buenos resultados de la estrategia SEO implementada. El SEO técnico asociado a la indexación estaba funcionando.
 
 <amp-twitter 
   width="375"
@@ -179,7 +183,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzE3NDAyMywxNjE5ODYyNTUsMTY4MD
+eyJoaXN0b3J5IjpbMjEyNzU3MzQyMSwxNjE5ODYyNTUsMTY4MD
 QzMzIyNywtNTk4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5
 NDg1XX0=
 -->
