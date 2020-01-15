@@ -143,8 +143,10 @@ Las primeras medidas se vieron casi de inmediato. El hecho de poder favorecer la
   data-tweetid="1217425687008751622">
 </amp-twitter>
 
+En la anterior imagen se puede apreciar claramente el crecimiento experimentado a través de Google Search Console durante los tres primeros meses de trabajo. 
 
+La captación SEO se disparó
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODM3OTUyMCwxNjgwNDMzMjI3LC01OT
+eyJoaXN0b3J5IjpbLTYyNzAwNTk0NywxNjgwNDMzMjI3LC01OT
 gxODkzMzEsLTEzODQ3NTE3MzcsLTE4MjQ2Njk0ODVdfQ==
 -->
