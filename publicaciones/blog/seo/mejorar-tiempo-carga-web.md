@@ -18,6 +18,13 @@ Desde el [cambio de algoritmo Mobile First Index](https://emirodgar.com/cambio-a
 
 Si queremos disponer de una página cuyo tiempo de carga sea rápido y que nos permita mejorar posicionamiento, captación y conversión, estos son los puntos que deberíamos de trabajar.
 
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1194883372432134144">
+</amp-twitter>
+
 ## 1. Hosting
 
 El [hosting afecta al SEO](https://emirodgar.com/hosting-seo) por lo que el servidor donde tengamos alojada nuestra página web es el primer aspecto que debemos trabajar. Un servidor profesional nos ofrecerá buenos tiempos de conexión por lo que antes de contratarlo conviene conocer qué valor de **Time to First Byte** (TTFB) ofrece.
@@ -68,7 +75,7 @@ Adicional a todo esto, existe un punto avanzado que también podemos trabajar. S
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE5ODQwOSwtMTkwMTkyMTEwMSwxNT
+eyJoaXN0b3J5IjpbMTc0OTA4MzU0NCwtMTkwMTkyMTEwMSwxNT
 c0OTg0NDk1LDE0MTgzODY1NDQsMTE3MDI4MzExMiwtNTUwNzM0
 MDc4XX0=
 -->
