@@ -145,7 +145,15 @@ Las primeras medidas se vieron casi de inmediato. El hecho de poder favorecer la
 
 En la anterior imagen se puede apreciar claramente el crecimiento experimentado a través de Google Search Console durante los tres primeros meses de trabajo. 
 
-La captación SEO se disparó
+La captación SEO se disparó y en algunas ocasiones duplicaba el tráfico base.
+
+
+
+
+
+## Competidores
+
+En un ecommerce la competencia es feroz. Con este cliente partíamos los primeros frente a competidores local, aún así,
 
 <amp-twitter 
   width="375"
@@ -155,11 +163,7 @@ La captación SEO se disparó
 </amp-twitter>
 
 
-
-## Competidores
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc4NzIwODIsMTY4MDQzMzIyNywtNT
+eyJoaXN0b3J5IjpbLTE1MTQyMTA3NDcsMTY4MDQzMzIyNywtNT
 k4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5NDg1XX0=
 -->
