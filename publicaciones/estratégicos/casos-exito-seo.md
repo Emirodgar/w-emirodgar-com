@@ -124,7 +124,7 @@ En la imagen anterior se puede ver el incremento en la visibilidad orgánica que
 
 Partíamos de una situación SEO normalizada con una ligera tendencia descendente. Durante todo el año 2019 la visibilidad y posicionamiento SEO iba cayendo poco a poco.
 
-Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajando el SEO t 
+Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajando el SEO técnico para asegurar una óptima indexación por parte de los buscadores. 
 
 <amp-twitter 
   width="375"
@@ -133,6 +133,7 @@ Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajan
   data-tweetid="1217425681434447878">
 </amp-twitter>
 
+Las primeras medidas
 
 <amp-twitter 
   width="375"
@@ -143,6 +144,6 @@ Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MDQ2MjY0LDE2ODA0MzMyMjcsLTU5OD
+eyJoaXN0b3J5IjpbNzYzNDIxNTU2LDE2ODA0MzMyMjcsLTU5OD
 E4OTMzMSwtMTM4NDc1MTczNywtMTgyNDY2OTQ4NV19
 -->
