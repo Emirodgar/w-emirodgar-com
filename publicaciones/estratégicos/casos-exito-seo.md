@@ -1,6 +1,6 @@
 ---
 title: Casos de éxito SEO (Posicionamiento web) - 2020
-description: Estrategias SEO con grandes resultados.   
+description: Os cuento las estrategias SEO de las que estoy más orgulloso. Más de diez años de trabajo.
 lang: es_ES
 sitemap: 1
 feed: 1
@@ -183,7 +183,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzkwNzQ2MywxNjE5ODYyNTUsMTY4MD
+eyJoaXN0b3J5IjpbMTIyNTM5NzQyOCwxNjE5ODYyNTUsMTY4MD
 QzMzIyNywtNTk4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5
 NDg1XX0=
 -->
