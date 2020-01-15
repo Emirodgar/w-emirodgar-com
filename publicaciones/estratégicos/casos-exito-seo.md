@@ -120,11 +120,11 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánica que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 
-## <a name="ecommerce-local"></a> 3- Crecimiento SEO ecommerce
+## <a name="ecommerce-local"></a> 3- Crecimiento SEO Ecommerce
 
 Partíamos de una situación SEO normalizada con una ligera tendencia descendente. Durante todo el año 2019 la visibilidad y posicionamiento SEO iba cayendo poco a poco.
 
-Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajando el SEO técnico para asegurar una óptima indexación por parte de los buscadores. 
+Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajando el **SEO técnico** para asegurar una **óptima indexación** por parte de los buscadores. 
 
 <amp-twitter 
   width="375"
@@ -144,6 +144,6 @@ Las primeras medidas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNDIxNTU2LDE2ODA0MzMyMjcsLTU5OD
-E4OTMzMSwtMTM4NDc1MTczNywtMTgyNDY2OTQ4NV19
+eyJoaXN0b3J5IjpbLTE5MTYxMTMwNjgsMTY4MDQzMzIyNywtNT
+k4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5NDg1XX0=
 -->
