@@ -132,7 +132,7 @@ Comenzamos a trabajar en octubre del 2019 y partíamos de una situación SEO nor
 
 Comenzamos trabajando el **SEO técnico** para asegurar una **óptima indexación** por parte de los buscadores. Sería la base sobre la que luego aplicar mejoras de contenido y enlazado.
 
-Al tratarse de un ecommerce con más de 250k URLs indexadas, decidí comenzar a trabajar sobre dos secciones concretas y con una muestra de control de 50 palabras clave que, a las pocas semamas ya nos mostró los buenos resultados de la estrategia SEO implementada. El SEO técnico asociado a la indexación estaba funcionando.
+Al tratarse de un ecommerce con más de 250k URLs indexadas, decidí comenzar a trabajar sobre dos secciones concretas y con una muestra de control de 50 palabras clave. A las pocas semanas empecé a ver los buenos resultados de la estrategia SEO implementada. El SEO técnico asociado a la indexación estaba funcionando. Llegó el momento de hacer las mejoras extensibles a todo el sitio.
 
 <amp-twitter 
   width="375"
@@ -141,7 +141,7 @@ Al tratarse de un ecommerce con más de 250k URLs indexadas, decidí comenzar a 
   data-tweetid="1194162193819996161">
 </amp-twitter>
 
-A partir de ahí, seguimos incorporando nuevas acciones SEO y cosechando buenos resultados.
+A partir de ahí, seguimos incorporando nuevas acciones SEO de contenidos y en y cosechando buenos resultados.
 
 <amp-twitter 
   width="375"
@@ -183,7 +183,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTEwMzc4MCwxNjE5ODYyNTUsMTY4MD
-QzMzIyNywtNTk4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5
-NDg1XX0=
+eyJoaXN0b3J5IjpbLTE5NDgxMzcyNTgsMTYxOTg2MjU1LDE2OD
+A0MzMyMjcsLTU5ODE4OTMzMSwtMTM4NDc1MTczNywtMTgyNDY2
+OTQ4NV19
 -->
