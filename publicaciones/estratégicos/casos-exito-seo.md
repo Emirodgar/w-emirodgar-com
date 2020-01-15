@@ -1,5 +1,5 @@
 ---
-title: Casos de éxito SEO - Posicionamiento web
+title: Casos de éxito SEO / Posicionamiento web - 2020
 description: Después de una década trabajado SEO profesionalmente os cuento mis aprendizajes
 lang: es_ES
 sitemap: 1
@@ -162,7 +162,7 @@ El hecho de poder favorecer la indexación de páginas relevantes y dejar en un 
   data-tweetid="1217425687008751622">
 </amp-twitter>
 
-En la anterior imagen se puede apreciar claramente el crecimiento experimentado a través de Google Search Console durante los tres primeros meses de trabajo. 
+En la anterior imagen se puede apreciar claramente el crecimiento experimentado a través de Google Search Console durante los tres primeros meses de trabajo (noviembre 19 - enero 20). 
 
 La captación SEO se disparó con algunos picos que duplicaban el tráfico medio de 2019.
 
@@ -182,7 +182,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzUxNDk5MywxNjE5ODYyNTUsMTY4MD
-QzMzIyNywtNTk4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5
-NDg1XX0=
+eyJoaXN0b3J5IjpbLTE5MTE5NzE2MzgsMTYxOTg2MjU1LDE2OD
+A0MzMyMjcsLTU5ODE4OTMzMSwtMTM4NDc1MTczNywtMTgyNDY2
+OTQ4NV19
 -->
