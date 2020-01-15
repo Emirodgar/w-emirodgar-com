@@ -152,7 +152,7 @@ En apenas 3 meses logramos incrementar el posicionamiento en más de 65k palabra
   data-tweetid="1217425681434447878">
 </amp-twitter>
 
-El hecho de poder favorecer la indexación de páginas relevantes y dejar en un segundo plano las secundarias con poco valor nos permitió comenzar a **generar más visibilidad SEO**.
+El hecho de poder favorecer la indexación de páginas relevantes y dejar en un segundo plano las secundarias con poco valor nos permitió comenzar a **generar más visibilidad SEO** y se disparó el **tráfico orgánico**.
 
 
 <amp-twitter 
@@ -164,7 +164,7 @@ El hecho de poder favorecer la indexación de páginas relevantes y dejar en un 
 
 En la anterior imagen se puede apreciar claramente el crecimiento experimentado a través de Google Search Console durante los tres primeros meses de trabajo. 
 
-La captación SEO se disparó y en algunas ocasiones duplicaba el tráfico base.
+La captación SEO se disparó con algunos picos que duplicaban el tráfico de 2019.
 
 
 
@@ -185,7 +185,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjA2MDYyMywxNjE5ODYyNTUsMTY4MD
+eyJoaXN0b3J5IjpbMTYxNDU2Njk4NCwxNjE5ODYyNTUsMTY4MD
 QzMzIyNywtNTk4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5
 NDg1XX0=
 -->
