@@ -1,9 +1,10 @@
 ---
-title: Casos de éxito SEO / Posicionamiento web - 2020
-description: Después de una década trabajado SEO profesionalmente os cuento mis aprendizajes
+title: Casos de éxito SEO (Posicionamiento web) - 2020
+description: Estrategias SEO con grandes resultados.   
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 15/01/2020
 folder: estrategicos
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: casos-exito-seo
@@ -182,7 +183,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTE5NzE2MzgsMTYxOTg2MjU1LDE2OD
-A0MzMyMjcsLTU5ODE4OTMzMSwtMTM4NDc1MTczNywtMTgyNDY2
-OTQ4NV19
+eyJoaXN0b3J5IjpbMjEyNzkwNzQ2MywxNjE5ODYyNTUsMTY4MD
+QzMzIyNywtNTk4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5
+NDg1XX0=
 -->
