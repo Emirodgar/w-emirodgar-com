@@ -119,7 +119,13 @@ La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que 
 </amp-img>
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánica que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
+
+## <a name="ecommerce-local"></a> 3- Crecimiento SEO 
+
+Aunque aquí no había un fuerte problema de base, sí se aprecia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDQzMzIyNywtNTk4MTg5MzMxLC0xMz
-g0NzUxNzM3LC0xODI0NjY5NDg1XX0=
+eyJoaXN0b3J5IjpbLTM5NzQzMjA3NSwxNjgwNDMzMjI3LC01OT
+gxODkzMzEsLTEzODQ3NTE3MzcsLTE4MjQ2Njk0ODVdfQ==
 -->
