@@ -171,7 +171,7 @@ La captación SEO se disparó con algunos picos que duplicaban el tráfico medio
 
 ## Competidores orgánicos
 
-En un ecommerce la competencia es feroz. Con este cliente partíamos los primeros frente a competidores local, aún así, la evolución que experimentamos fue tal que nos hicimos líderes indiscutibles del sector.
+En un ecommerce la competencia es feroz. Con este cliente partíamos los primeros frente a competidores locales, aún así, la evolución que experimentamos fue tal que nos hicimos líderes indiscutibles del sector.
 
 <amp-twitter 
   width="375"
@@ -184,7 +184,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4MjA5OTIzLC0zNTIxNTk3MjUsMTYxOT
-g2MjU1LDE2ODA0MzMyMjcsLTU5ODE4OTMzMSwtMTM4NDc1MTcz
-NywtMTgyNDY2OTQ4NV19
+eyJoaXN0b3J5IjpbLTE5NDQwNzk4NTEsNjQ4MjA5OTIzLC0zNT
+IxNTk3MjUsMTYxOTg2MjU1LDE2ODA0MzMyMjcsLTU5ODE4OTMz
+MSwtMTM4NDc1MTczNywtMTgyNDY2OTQ4NV19
 -->
