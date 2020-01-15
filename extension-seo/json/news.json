@@ -1,10 +1,16 @@
 {
   "data": [
 	   [
+      "Además de HTTPS será necesario usar TLS 1.2 o superior",
+      "Google acaba de confirmar que una conexión HTTPS no será suficiente. Tenemos que hacer uso de un protocolo de cifrado 1.2 o superior.",
+      "https://twitter.com/badams/status/1217031392607064064",
+    "Enero 2020"
+    ],
+     [
       "Actualización Core",
       "Google acaba de lanzar una nueva actualización Core (13 de enero) que se desplegará durante los próximos días.",
       "https://twitter.com/searchliaison/status/1216766991882567680",
-	  "Enero 2020"
+    "Enero 2020"
     ],
 	[
       "Google estrena un nueva plantilla",
