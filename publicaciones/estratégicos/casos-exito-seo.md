@@ -15,9 +15,9 @@ permalink: casos-exito-seo
 
 Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la oportunidad de trabajar en múltiples proyectos. Os cuento los **casos de éxito SEO** más importantes que he conseguido.
 
- 1. [2015 - Recuperar tráfico perdido en periódico digital](#periodico)
- 2. [2016 - Migración Ecommerce Internacional](#ecommerce)
- 3. [2019 - Ecommerce con pérdida de tráfico](#ecommerce-local)
+ [2015 - Recuperar tráfico perdido en periódico digital](#periodico)
+ [2016 - Migración Ecommerce Internacional](#ecommerce)
+ [2019 - Ecommerce con pérdida de tráfico](#ecommerce-local)
 
 ## <a name="periodico"></a> 2015 - Periódico digital (España) / Recuperar tráfico perdido
 
@@ -184,7 +184,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjE1OTcyNSwxNjE5ODYyNTUsMTY4MD
-QzMzIyNywtNTk4MTg5MzMxLC0xMzg0NzUxNzM3LC0xODI0NjY5
-NDg1XX0=
+eyJoaXN0b3J5IjpbNjQ4MjA5OTIzLC0zNTIxNTk3MjUsMTYxOT
+g2MjU1LDE2ODA0MzMyMjcsLTU5ODE4OTMzMSwtMTM4NDc1MTcz
+NywtMTgyNDY2OTQ4NV19
 -->
