@@ -126,6 +126,17 @@ Partíamos de una situación SEO normalizada con una ligera tendencia descendent
 
 Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajando el **SEO técnico** para asegurar una **óptima indexación** por parte de los buscadores. 
 
+Comenzamos con una muestra de control de 50 keywords que, a las pocas semamas ya nos mostró los buenos resultados de la estrategia SEO implementada.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1194162193819996161">
+</amp-twitter>
+
+A partir de ahí, seguimos incorporando nuevas acciones SEO y cosechando buenos resultados.
+
 <amp-twitter 
   width="375"
   height="472"
@@ -133,7 +144,7 @@ Al tratarse de un ecommerce con más de 250k URLs indexadas, comenzamos trabajan
   data-tweetid="1217425681434447878">
 </amp-twitter>
 
-Las primeras medidas se vieron casi de inmediato. El hecho de poder favorecer la indexación de páginas relevantes y dejar en un segundo plano las secundarias con poco valor nos permitió comenzar a **generar más visibilidad SEO**.
+El hecho de poder favorecer la indexación de páginas relevantes y dejar en un segundo plano las secundarias con poco valor nos permitió comenzar a **generar más visibilidad SEO**.
 
 
 <amp-twitter 
@@ -153,7 +164,7 @@ La captación SEO se disparó y en algunas ocasiones duplicaba el tráfico base.
 
 ## Competidores
 
-En un ecommerce la competencia es feroz. Con este cliente partíamos los primeros frente a competidores local, aún así,
+En un ecommerce la competencia es feroz. Con este cliente partíamos los primeros frente a competidores local, aún así, la evolución que experimentamos fue tal que nos hicimos líderes indiscutibles del secto
 
 
 
@@ -161,18 +172,13 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
   width="375"
   height="472"
   layout="responsive"
-  data-tweetid="1194162193819996161">
+  data-tweetid="1195263005287755783">
 </amp-twitter>
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1194162193819996161">
-</amp-twitter>
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTU4OTE4NSwxNjgwNDMzMjI3LC01OT
-gxODkzMzEsLTEzODQ3NTE3MzcsLTE4MjQ2Njk0ODVdfQ==
+eyJoaXN0b3J5IjpbMTI3OTk4NTAzLDE2ODA0MzMyMjcsLTU5OD
+E4OTMzMSwtMTM4NDc1MTczNywtMTgyNDY2OTQ4NV19
 -->
