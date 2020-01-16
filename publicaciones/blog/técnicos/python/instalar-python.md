@@ -29,7 +29,7 @@ Para validar que la instalación se ha hecho de forma correcta bastanrá con eje
 
 Si todo ha ido bien deberá devolvernos el valor de la versión de Python que hemos instalado.
 
-### Entornos de programación
+### Entornos de programación en la nube
 
 Python se integra con cualquier entorno de programación. Para mí SublimeText es uno de los mejores aunque para gustos colores. Estos son una pequeña muestra de los que he probado y recomendaría.
 
@@ -47,5 +47,5 @@ Cada cuál es libre de utilizar el lenguaje de programación que más le guste y
 - Funciona en múltiples entornos
 - Automatiza tareas manuales 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTMzMTZdfQ==
+eyJoaXN0b3J5IjpbMjAzMzc1NTA0OF19
 -->
