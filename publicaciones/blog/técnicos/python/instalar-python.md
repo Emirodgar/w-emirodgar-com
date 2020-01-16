@@ -25,7 +25,9 @@ Para este último caso debemos [ir a la página oficial](https://www.python.org/
 
 Para validar que la instalación se ha hecho de forma correcta bastanrá con ejecutar el siguiente comando en la consola 
 
-    python3 --version
+```cmd
+python3 --version
+```
 
 Si todo ha ido bien deberá devolvernos el valor de la versión de Python que hemos instalado.
 
@@ -47,5 +49,5 @@ Cada cuál es libre de utilizar el lenguaje de programación que más le guste y
 - Funciona en múltiples entornos
 - Automatiza tareas manuales 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzc1NTA0OF19
+eyJoaXN0b3J5IjpbMTIzNTM0OTkwMl19
 -->
