@@ -66,7 +66,7 @@ Por último pero no menos importante, ofrezco un listado actualizado de noticias
 
 ### 1.0.3 - Incorporado detección de versión AMP
 
-Hasta ahora no sabía si una URL tenía versión AMP pero gracias a una pequeña comprobac
+A partir de ahora se identifica si [existe una versión AMP](https://emirodgar.com/javascript-detectar-amp) de la página que estamos analizando y ofrece el enlace para facilitar su análisis.
 
 <amp-twitter 
   width="375"
@@ -75,9 +75,12 @@ Hasta ahora no sabía si una URL tenía versión AMP pero gracias a una pequeña
   data-tweetid="1217801681653596161">
 </amp-twitter>
 
+### 1.0.2 - Solucionando bugs
 
+### 1.0.1 - Solucionando pequeños fallos
 
+Como no podr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQwMDU0NzYsLTU5OTc3NzMyMywtNT
-cyMTc2NTk1XX0=
+eyJoaXN0b3J5IjpbLTg4MzI2MzIwMywtNTk5Nzc3MzIzLC01Nz
+IxNzY1OTVdfQ==
 -->
