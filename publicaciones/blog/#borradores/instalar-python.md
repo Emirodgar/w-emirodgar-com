@@ -1,4 +1,15 @@
+---
+description: Guía de instalación para comenzar a trabajar con Python
+lang: es_ES
+author: Emirodgar
+sitemap: 1
+feed: 1
+folder: programacion
+date: 16/01/2020
+image: https://emirodgar.com/cdn/images/og/analitica.png
+permalink: instalar-python
 
+---
 
 
 # Instalar Python
@@ -24,11 +35,12 @@ Python se integra con cualquier entorno de programación. Para mí SublimeText e
 
 ## Razones para usar Python
 
-Cada cuál es libr
+Cada cuál es libre de utilizar el lenguaje de programación que más le guste y con el que se sienta más cómodo. Las razones principales por las que uso Python son:
+
 - Es open source
 - Más potente que R
 - Funciona en múltiples entornos
-- Automatiza tareas manuales y diarias
+- Automatiza tareas manuales 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDMzMTY2OSwtMjEyOTk0NDc3XX0=
+eyJoaXN0b3J5IjpbLTE2ODA2NTE0NTAsLTIxMjk5NDQ3N119
 -->
