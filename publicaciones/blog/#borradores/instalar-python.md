@@ -6,7 +6,7 @@ sitemap: 1
 feed: 1
 folder: programacion
 date: 16/01/2020
-image: https://emirodgar.com/cdn/images/og/analitica.png
+image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: instalar-python
 
 ---
@@ -42,5 +42,5 @@ Cada cuál es libre de utilizar el lenguaje de programación que más le guste y
 - Funciona en múltiples entornos
 - Automatiza tareas manuales 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE1OTQxNjUsLTIxMjk5NDQ3N119
+eyJoaXN0b3J5IjpbLTE3NTcwNDU2MDIsLTIxMjk5NDQ3N119
 -->
