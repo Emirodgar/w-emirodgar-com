@@ -75,12 +75,14 @@ A partir de ahora se identifica si [existe una versión AMP](https://emirodgar.c
   data-tweetid="1217801681653596161">
 </amp-twitter>
 
-### 1.0.2 - Solucionando bugs
+### 1.0.2 - Modificar sección noticias
+
+He cambiado el feed json de noticias para que en lugar de ir asociado a la extesión, éste sea leído desde un dominio externo. Esto me permite actualizar de forma más rápida la actualidad del mundo SEO.
 
 ### 1.0.1 - Solucionando pequeños fallos
 
-Como no podr
+Como no podía ser de otra forma, las primeras versiones siempre traen *bugs* que deben ser corregidos.  Algunos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzI2MzIwMywtNTk5Nzc3MzIzLC01Nz
+eyJoaXN0b3J5IjpbLTI4MDAzOTEzOCwtNTk5Nzc3MzIzLC01Nz
 IxNzY1OTVdfQ==
 -->
