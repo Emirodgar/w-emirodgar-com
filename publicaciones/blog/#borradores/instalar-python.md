@@ -12,7 +12,7 @@ permalink: instalar-python
 ---
 
 
-# Instalar Python
+# Instalar Python 3 
 
 Para comenzar a usar python lo podemos hacer desde nuestro ordenador en local (requerirá instalación) o lo podemos hacer desde la nube con plataformas como [Google Colab](https://colab.research.google.com/) o [Jupyter Notebook](https://jupyter.org/try).
 
@@ -42,5 +42,5 @@ Cada cuál es libre de utilizar el lenguaje de programación que más le guste y
 - Funciona en múltiples entornos
 - Automatiza tareas manuales 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA2NTE0NTAsLTIxMjk5NDQ3N119
+eyJoaXN0b3J5IjpbLTE4NjE1OTQxNjUsLTIxMjk5NDQ3N119
 -->
