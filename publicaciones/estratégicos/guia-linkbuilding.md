@@ -39,30 +39,26 @@ Veamos un ejemplo completo
 
 ## Búsquedas de marca ¿dónde aparecemos?
 
-1.  inkedIn (appears for 381 companies)
-2.  Facebook (246)
-3.  Inc (236, a result of it being our original data list source)
-4.  Glassdoor (230)
-5.  Crunchbase (134)
-6.  Bloomberg (107)
-7.  Indeed (94)
-8.  Yelp (67)
-9.  Manta (63)
-10.  Twitter (57)
-11.  Wikipedia (52)
-12.  BBB (49)
-13.  Amazon (45)
-14.  PR Newswire (38)
-15.  YouTube (32)
-16.  Zoominfo (27)
-17.  Instagram (27)
-18.  Mapquest (24)
-19.  Bizjournals (22)
-20.  GovTribe (18)
-21.  ZipRecruiter (17)
-22.  Businesswire (16)
+A continuación se hace un pequeño recopilatorio de páginas donde nuestra marca puede aparecer. Dependiendo del mercado el listado puede cambiar, pero es importante adelantarnos y monitorizar estos sitios para asegurarnos de que la información que ofrecen es positiva.
+
+1.  LinkedIn 
+2.  Facebook 
+4.  Glassdoor
+5.  Crunchbase 
+6.  Bloomberg 
+7.  Indeed 
+8.  Yelp
+9.  Manta 
+10.  Twitter 
+11.  Wikipedia
+12.  BBB 
+13.  Amazon 
+15.  YouTube 
+16.  Zoominfo
+17.  Instagram 
+18.  Mapquest 
 23.  TechCrunch (15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODAyMzU0MCwxNjc5NTI4NTYsLTEyMz
+eyJoaXN0b3J5IjpbLTc3MTE3MzcxOCwxNjc5NTI4NTYsLTEyMz
 E5MDE4NywtMTUwMjEyODk5OV19
 -->
