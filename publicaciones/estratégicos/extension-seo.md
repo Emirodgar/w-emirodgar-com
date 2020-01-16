@@ -64,7 +64,7 @@ Por último pero no menos importante, ofrezco un listado actualizado de noticias
 
 ## Versiones
 
-### 1.0.4 - Incorporado detección de versión AMP
+### 1.0.4 - Identificación de versión AMP
 
 A partir de ahora se identifica si [existe una versión AMP](https://emirodgar.com/javascript-detectar-amp) de la página que estamos analizando y ofrece el enlace para facilitar su análisis.
 
@@ -87,6 +87,6 @@ He cambiado el feed `json` de noticias para que en lugar de ir asociado a la ext
 
 Como no podía ser de otra forma, las primeras versiones siempre traen *bugs* que deben ser corregidos.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM5NjE0NjQsNjEwMzcwNDUsLTU5OT
-c3NzMyMywtNTcyMTc2NTk1XX0=
+eyJoaXN0b3J5IjpbLTM4NTkwODEyMSw2MTAzNzA0NSwtNTk5Nz
+c3MzIzLC01NzIxNzY1OTVdfQ==
 -->
