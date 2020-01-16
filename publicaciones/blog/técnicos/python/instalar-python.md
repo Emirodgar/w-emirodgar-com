@@ -21,7 +21,7 @@ Podemos hacer uso de aplicaciones de terceros que incluyen un pequeño entorno d
 
 Para este último caso debemos [ir a la página oficial](https://www.python.org/downloads/) y descargar la última versión disponible. Descomprimimos y seguimos las instrucciones.
 
-> Necesitamos marca la opción de "Add Python to PATH". Si no, tendremos que hacerlo luego a mano.
+> Necesitamos marcar la opción de "Add Python to PATH". Si no, tendremos que hacerlo luego a mano.
 
 Para validar que la instalación se ha hecho de forma correcta bastanrá con ejecutar el siguiente comando en la consola 
 
@@ -49,5 +49,5 @@ Cada cuál es libre de utilizar el lenguaje de programación que más le guste y
 - Funciona en múltiples entornos
 - Automatiza tareas manuales 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTM0OTkwMl19
+eyJoaXN0b3J5IjpbLTIwODMzNzA5MDJdfQ==
 -->
