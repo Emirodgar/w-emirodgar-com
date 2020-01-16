@@ -24,8 +24,19 @@ Veamos un ejemplo completo
 <a href="https://mipagina.com">anchor text</a>
 ```
 
+## Páginas donde crear un perfil público
 
+1.  LinkedIn
+2.  Facebook
+3.  Twitter
+4.  YouTube
+5.  Instagram
+6.  Houzz
+7.  Reddit
+8.  Vimeo
+9.  Medium
+10. Quora 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTUyODU2LC0xMjMxOTAxODcsLTE1MD
-IxMjg5OTldfQ==
+eyJoaXN0b3J5IjpbLTEzNTIxODI4OTcsMTY3OTUyODU2LC0xMj
+MxOTAxODcsLTE1MDIxMjg5OTldfQ==
 -->
