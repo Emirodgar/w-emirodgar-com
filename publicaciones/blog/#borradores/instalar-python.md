@@ -11,6 +11,8 @@ Podemos hacer uso de aplicaciones de terceros que incluyen un pequeño entorno d
 
 Para este último caso debemos [ir a la página oficial](https://www.python.org/downloads/) y descargar la última versión disponible. Descomprimimos y seguimos las instrucciones.
 
+> Necesitamos marca la opción de "Add Python to PATH". Si no, tendremos que hacerlo luego a mano.
+
 ### Entornos de programación
 
 Python se integra con cualquier entorno de programación. Para mí SublimeText es uno de los mejores aunque para gustos colores. Estos son una pequeña muestra de los que he probado y recomendaría.
@@ -22,10 +24,11 @@ Python se integra con cualquier entorno de programación. Para mí SublimeText e
 
 ## Razones para usar Python
 
+Cada cuál es libr
 - Es open source
 - Más potente que R
 - Funciona en múltiples entornos
 - Automatiza tareas manuales y diarias
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk5NDQ3N119
+eyJoaXN0b3J5IjpbMTQ2NDMzMTY2OSwtMjEyOTk0NDc3XX0=
 -->
