@@ -64,7 +64,7 @@ Por último pero no menos importante, ofrezco un listado actualizado de noticias
 
 ## Versiones
 
-### 1.0.3 - Incorporado detección de versión AMP
+### 1.0.4 - Incorporado detección de versión AMP
 
 A partir de ahora se identifica si [existe una versión AMP](https://emirodgar.com/javascript-detectar-amp) de la página que estamos analizando y ofrece el enlace para facilitar su análisis.
 
@@ -75,6 +75,10 @@ A partir de ahora se identifica si [existe una versión AMP](https://emirodgar.c
   data-tweetid="1217801681653596161">
 </amp-twitter>
 
+### 1.0.3 - Validación de Viewport
+
+Se incorpora una nueva validación. Ya podemos saber si una página está usando la etiqueta `Viewport` para mejorar la experiencia de sus usuarios en dispositivos móviles.
+
 ### 1.0.2 - Modificar sección noticias
 
 He cambiado el feed `json` de noticias para que en lugar de ir asociado a la extensión, éste sea leído desde un dominio externo. Esto me permite actualizar de forma más rápida la actualidad del mundo SEO.
@@ -83,6 +87,6 @@ He cambiado el feed `json` de noticias para que en lugar de ir asociado a la ext
 
 Como no podía ser de otra forma, las primeras versiones siempre traen *bugs* que deben ser corregidos.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMzcwNDUsLTU5OTc3NzMyMywtNTcyMT
-c2NTk1XX0=
+eyJoaXN0b3J5IjpbLTE1MzM5NjE0NjQsNjEwMzcwNDUsLTU5OT
+c3NzMyMywtNTcyMTc2NTk1XX0=
 -->
