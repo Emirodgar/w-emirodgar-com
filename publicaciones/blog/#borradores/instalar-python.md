@@ -7,7 +7,10 @@ Para comenzar a usar python lo podemos hacer desde nuestro ordenador en local (r
 
 ### Instalación en local
 
-Podemos hacer uso de aplicaciones de terceros que incluyen un pequeño entorno de desarrollo o hacer una instalación individual de python.
+Podemos hacer uso de aplicaciones de terceros que incluyen un pequeño entorno de desarrollo o hacer una instalación individual de Python.
+
+- [Anaconda](https://www.anaconda.com/distribution/) (JupyterLab)
+- [Visual Studio Code](https://code.visualstudio.com/download)
 
 Para este último caso debemos [ir a la página oficial](https://www.python.org/downloads/) y descargar la última versión disponible.
 
@@ -18,5 +21,5 @@ Para este último caso debemos [ir a la página oficial](https://www.python.org/
 - Funciona en múltiples entornos
 - Automatiza tareas manuales y diarias
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDEzODM2MTJdfQ==
+eyJoaXN0b3J5IjpbMTE2MTQ3NDgyNV19
 -->
