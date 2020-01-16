@@ -13,10 +13,12 @@ Para este último caso debemos [ir a la página oficial](https://www.python.org/
 
 ### Entornos de programación
 
-Python se integra con cualquier entorno de programación. Para mí SublimeText es uno de los mejores er
+Python se integra con cualquier entorno de programación. Para mí SublimeText es uno de los mejores aunque para gustos colores. Estos son una pequeña muestra de los que he probado y recomendaría.
 
-- [Anaconda](https://www.anaconda.com/distribution/) (JupyterLab)
-- [Visual Studio Code](https://code.visualstudio.com/download)
+-   Eclipse + PyDev
+-   Sublime Text
+-   Atom
+-   Visual Studio Code
 
 ## Razones para usar Python
 
@@ -25,5 +27,5 @@ Python se integra con cualquier entorno de programación. Para mí SublimeText e
 - Funciona en múltiples entornos
 - Automatiza tareas manuales y diarias
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzM5MDM2MF19
+eyJoaXN0b3J5IjpbLTIxMjk5NDQ3N119
 -->
