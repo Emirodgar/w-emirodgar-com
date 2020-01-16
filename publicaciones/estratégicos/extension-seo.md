@@ -62,6 +62,22 @@ A mayores, ofrezco un listado de herramientas SEO y de Marketing Digital que nos
 
 Por último pero no menos importante, ofrezco un listado actualizado de noticias SEO. De esta forma podemos acceder a la fuente original de forma rápida además de estar actualizados en materia de posicionamiento web.
 
+## Versiones
+
+### 1.0.3 - Incorporado detección de versión AMP
+
+Hasta ahora no sabía si una URL tenía versión AMP pero gracias a una pequeña comprobac
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1217801681653596161">
+</amp-twitter>
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTc3NzMyMywtNTcyMTc2NTk1XX0=
+eyJoaXN0b3J5IjpbLTIwNDQwMDU0NzYsLTU5OTc3NzMyMywtNT
+cyMTc2NTk1XX0=
 -->
