@@ -47,7 +47,8 @@ Existen otras herramientas de pago que también nos permiten analizar los enlace
 
  - Ahrefs
  - Sistrix
- - Semru
+ - Semrush
+ - Moz
 
 ## Búsquedas de marca ¿dónde aparecemos?
 
@@ -73,7 +74,9 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
 
 ## ¿Dónde debemos poner los enlaces?
 
+Cuando vamos a conseguir un enlace es muy importante el lugar de la página donde se ubicará.
 
+Un factor SEO importante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMjk5NzM1XX0=
+eyJoaXN0b3J5IjpbLTYxODQxNDUzMV19
 -->
