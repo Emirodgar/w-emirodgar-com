@@ -37,6 +37,12 @@ Veamos un ejemplo completo
 9.  Medium
 10. Quora 
 
+## Identificar enlaces de los competidores
+
+Una buena práctica para conseguir enlaces de calidad es 
+
+Una herramienta potente y eficaz es [SEO Spy glass](https://www.seopowersuite.es/seo-spyglass/)
+
 ## Búsquedas de marca ¿dónde aparecemos?
 
 A continuación se hace un pequeño recopilatorio de páginas donde nuestra marca puede aparecer. Dependiendo del mercado el listado puede cambiar, pero es importante adelantarnos y monitorizar estos sitios para asegurarnos de que la información que ofrecen es positiva.
@@ -59,5 +65,5 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
 18.  Mapquest 
 23.  TechCrunch (15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTE3MzcxOF19
+eyJoaXN0b3J5IjpbODYzOTE2MjgzXX0=
 -->
