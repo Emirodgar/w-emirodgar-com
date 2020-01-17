@@ -39,9 +39,15 @@ Veamos un ejemplo completo
 
 ## Identificar enlaces de los competidores
 
-Una buena práctica para conseguir enlaces de calidad es analizar el perfil de enlazado de nuestros principales competidores para identificar aquellas páginas que aportan valor y que 
+Una buena práctica para conseguir enlaces de calidad es analizar el perfil de enlazado de nuestros principales competidores para identificar aquellas páginas que aportan valor y en las que nosotros también podemos conseguir un *backlink*.
 
-Una herramienta potente y eficaz es [SEO Spy glass](https://www.seopowersuite.es/seo-spyglass/)
+Una herramienta potente y eficaz para esta tarea es [SEO Spy glass](https://www.seopowersuite.es/seo-spyglass/) que aunque es de pago dispone de una versión limitada más que suficiente para espiar a nuestros competidores.
+
+Existen otras herramientas de pago que también nos permiten analizar los enlaces de la competencia:
+
+ - Ahrefs
+ - Sistrix
+ - Semru
 
 ## Búsquedas de marca ¿dónde aparecemos?
 
@@ -49,21 +55,25 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
 
 1.  LinkedIn 
 2.  Facebook 
-4.  Glassdoor
-5.  Crunchbase 
-6.  Bloomberg 
-7.  Indeed 
-8.  Yelp
-9.  Manta 
-10.  Twitter 
-11.  Wikipedia
-12.  BBB 
-13.  Amazon 
-15.  YouTube 
-16.  Zoominfo
-17.  Instagram 
-18.  Mapquest 
-23.  TechCrunch (15)
+3.  Glassdoor
+4.  Crunchbase 
+5.  Bloomberg 
+6.  Indeed 
+7.  Yelp
+8.  Manta 
+9.  Twitter 
+10.  Wikipedia
+11.  BBB 
+12.  Amazon 
+13.  YouTube 
+14.  Zoominfo
+15.  Instagram 
+16.  Mapquest 
+17.  TechCrunch (15)
+
+## ¿Dónde debemos poner los enlaces?
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2OTM2MDkwXX0=
+eyJoaXN0b3J5IjpbMjcwMjk5NzM1XX0=
 -->
