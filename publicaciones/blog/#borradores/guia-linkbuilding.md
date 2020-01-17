@@ -114,8 +114,13 @@ Es una pieza importante; si creamos material visual que a la gente le guste lo m
  - Diagramas explicativos
  - Infografías
 
-### Ofrecer listados 
+### Crear contenidos atractivos para tu público objetivo
+
+Por ejemplo, una sección de preguntas y respuestas, listados de recursos que puedan necesitar, informes 
+
+[https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg2MjEzNTgsLTcwNTIxNDAyNV19
+eyJoaXN0b3J5IjpbLTExODgyNTg1NTUsLTE2MDg2MjEzNTgsLT
+cwNTIxNDAyNV19
 -->
