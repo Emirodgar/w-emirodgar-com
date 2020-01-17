@@ -87,9 +87,13 @@ Un enlace repetido hasta la saciedad en todos los menús (superior o inferior) d
 
 ## Texto (anchor text) relevante
 
-Hace años, para poder posicionar necesitábamos ser enlazados una y otra vez con la misma palabra clave. Esto ya no es así, ahora debemos usar términos relacionados pero de forma natural y en contexto con el resto del contenido que nos enlaza.
+Hace años, para poder posicionar necesitábamos ser enlazados una y otra vez con la misma palabra clave. Esto ya no es así, ahora debemos usar **términos relacionados pero de forma natural** y en contexto con el resto del contenido que nos enlaza.
+
+### Evitar términos sin valor
+
+Lo único que tenemos que evitar es utilizar un `anchor text` como "ver mas", "pinche aquí", etc. El término que nos enlace debe ser descriptivo y estar relacionado con el contenido final.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI0ODMyODcsLTcwNTIxNDAyNV19
+eyJoaXN0b3J5IjpbMjAwMTU5NDEyOSwtNzA1MjE0MDI1XX0=
 -->
