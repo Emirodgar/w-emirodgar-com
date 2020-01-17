@@ -82,8 +82,9 @@ Un [factor SEO](https://emirodgar.com/factores-seo) importante es el contexto qu
 
 ### Evitar enlaces en menús o al final de la página
 
-Un enlace repetido hasta la saciedad en todos los menús (superior o inferior) de la página no aportará valor.
+Un enlace repetido hasta la saciedad en todos los menús (superior o inferior) de la página no aportará valor. Es preferible calidad (en un contexto relacionado) que cantidad.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzA5Njg0OF19
+eyJoaXN0b3J5IjpbLTEzMjk1MjY2NDFdfQ==
 -->
