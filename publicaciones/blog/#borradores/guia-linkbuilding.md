@@ -39,7 +39,7 @@ Veamos un ejemplo completo
 
 ## Identificar enlaces de los competidores
 
-Una buena práctica para conseguir enlaces de calidad es 
+Una buena práctica para conseguir enlaces de calidad es analizar el perfil de enlazado de nuestros principales competidores para identificar aquellas páginas que aportan valor y que 
 
 Una herramienta potente y eficaz es [SEO Spy glass](https://www.seopowersuite.es/seo-spyglass/)
 
@@ -65,5 +65,5 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
 18.  Mapquest 
 23.  TechCrunch (15)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzOTE2MjgzXX0=
+eyJoaXN0b3J5IjpbOTE2OTM2MDkwXX0=
 -->
