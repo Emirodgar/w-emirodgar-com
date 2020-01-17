@@ -76,7 +76,14 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
 
 Cuando vamos a conseguir un enlace es muy importante el lugar de la página donde se ubicará.
 
-Un factor SEO importante
+### Enlaces dentro de contenido
+
+Un [factor SEO](https://emirodgar.com/factores-seo) importante es el contexto que unifica los diversos elementos de una página web. Por ello, para que los robots de búsqueda valoren más nuestro enlace es imprescindible que éste se ubique dentro de un contenido relacionado.
+
+### Evitar enlaces en menús o al final de la página
+
+Un enlace repetido hasta la saciedad en todos los menús (superior o inferior) de la página no aportará valor.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODQxNDUzMV19
+eyJoaXN0b3J5IjpbLTM1MzA5Njg0OF19
 -->
