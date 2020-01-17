@@ -101,9 +101,18 @@ Lo único que tenemos que evitar es utilizar un `anchor text` como "ver mas", "p
 
 ## Estrategias para conseguir enlaces naturales
 
-Una buena forma de que la gente nos enlace es creando contenido de calidad que aporte valor. Es fácil decirlo pero no tanto hacerlo.
+Una buena forma de que la gente nos enlace es creando contenido de calidad que aporte valor. 
 
+Es fácil decirlo pero no tanto hacerlo por eso voy a dar algunos consejos que nos ayuden a generar interés por parte de potenciales visitantes.
+
+### Crear material visual 
+
+Es una pieza importante; si creamos material visual que a la gente le guste lo más normal es que lo reuitlicen y nos enlacen como fuente original. Los recursos que más suel
+
+ - Crear imágenes propias
+ - Crear diagramas explicativos
+ - Crear infografías
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1OTIzOTU1LC03MDUyMTQwMjVdfQ==
+eyJoaXN0b3J5IjpbOTg4Njc1NDcwLC03MDUyMTQwMjVdfQ==
 -->
