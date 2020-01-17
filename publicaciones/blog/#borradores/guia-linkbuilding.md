@@ -114,6 +114,8 @@ Es una pieza importante; si creamos material visual que a la gente le guste lo m
  - Diagramas explicativos
  - Infografías
 
+### Ofrecer listados 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjExOTEwNiwtNzA1MjE0MDI1XX0=
+eyJoaXN0b3J5IjpbLTE2MDg2MjEzNTgsLTcwNTIxNDAyNV19
 -->
