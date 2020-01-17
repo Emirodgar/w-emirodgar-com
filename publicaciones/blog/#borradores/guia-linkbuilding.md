@@ -24,7 +24,7 @@ Veamos un ejemplo completo
 <a href="https://mipagina.com">anchor text</a>
 ```
 
-## Páginas donde crear un perfil público
+## Crear un perfil público en la red
 
 1.  LinkedIn
 2.  Facebook
@@ -39,7 +39,7 @@ Veamos un ejemplo completo
 
 ### Búsquedas de marca ¿dónde aparecemos?
 
-A continuación se hace un pequeño recopilatorio de páginas donde nuestra marca puede aparecer. Dependiendo del mercado el listado puede cambiar, pero es importante adelantarnos y monitorizar estos sitios para asegurarnos de que la información que ofrecen es positiva.
+A continuación se hace un pequeño recopilatorio de páginas donde nuestra marca puede aparecer. Dependiendo del mercado el listado puede cambiar, pero es importante adelantarnos y monitorizar estos sitios para asegurarnos de que la información que ofrecen es positiva y de que siempre existe un enlace hacia nuestra web.
 
 1.  LinkedIn 
 2.  Facebook 
@@ -58,6 +58,7 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
 15.  Instagram 
 16.  Mapquest 
 17.  TechCrunch (15)
+
 
 ## Identificar enlaces de los competidores
 
@@ -98,7 +99,11 @@ Hace años, para poder posicionar necesitábamos ser enlazados una y otra vez co
 
 Lo único que tenemos que evitar es utilizar un `anchor text` como "ver mas", "pinche aquí", etc. El término que nos enlace debe ser descriptivo y estar relacionado con el contenido final.
 
+## Estrategias para conseguir enlaces naturales
+
+Una buena forma de que la gente nos enlace es creando contenido de calidad que aporte valor. Es fácil decirlo pero no tanto hacerlo.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDExMTI0MywtNzA1MjE0MDI1XX0=
+eyJoaXN0b3J5IjpbNTM1OTIzOTU1LC03MDUyMTQwMjVdfQ==
 -->
