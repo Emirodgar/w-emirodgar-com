@@ -107,12 +107,13 @@ Es fácil decirlo pero no tanto hacerlo por eso voy a dar algunos consejos que n
 
 ### Crear material visual 
 
-Es una pieza importante; si creamos material visual que a la gente le guste lo más normal es que lo reuitlicen y nos enlacen como fuente original. Los recursos que más suel
+Es una pieza importante; si creamos material visual que a la gente le guste lo más normal es que lo reuitlicen y nos enlacen como fuente original. Los recursos que mejor suelen funcionar son:
 
- - Crear imágenes propias
- - Crear diagramas explicativos
- - Crear infografías
+ - Imágenes propias
+ - Gráficos propios
+ - Diagramas explicativos
+ - Infografías
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4Njc1NDcwLC03MDUyMTQwMjVdfQ==
+eyJoaXN0b3J5IjpbLTIyNjExOTEwNiwtNzA1MjE0MDI1XX0=
 -->
