@@ -1,7 +1,7 @@
 
 
 
-# Guía Link building 2020
+# Guía Link building SEO 2020
 
 Esta guía pretende ayudarnos a diseñar y ejecutar correctamente una **estrategia de link building** para favorecer el SEO.
 
@@ -37,20 +37,7 @@ Veamos un ejemplo completo
 9.  Medium
 10. Quora 
 
-## Identificar enlaces de los competidores
-
-Una buena práctica para conseguir enlaces de calidad es analizar el perfil de enlazado de nuestros principales competidores para identificar aquellas páginas que aportan valor y en las que nosotros también podemos conseguir un *backlink*.
-
-Una herramienta potente y eficaz para esta tarea es [SEO Spy glass](https://www.seopowersuite.es/seo-spyglass/) que aunque es de pago dispone de una versión limitada más que suficiente para espiar a nuestros competidores.
-
-Existen otras herramientas de pago que también nos permiten analizar los enlaces de la competencia:
-
- - Ahrefs
- - Sistrix
- - Semrush
- - Moz
-
-## Búsquedas de marca ¿dónde aparecemos?
+### Búsquedas de marca ¿dónde aparecemos?
 
 A continuación se hace un pequeño recopilatorio de páginas donde nuestra marca puede aparecer. Dependiendo del mercado el listado puede cambiar, pero es importante adelantarnos y monitorizar estos sitios para asegurarnos de que la información que ofrecen es positiva.
 
@@ -72,6 +59,20 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
 16.  Mapquest 
 17.  TechCrunch (15)
 
+## Identificar enlaces de los competidores
+
+Una buena práctica para conseguir enlaces de calidad es analizar el perfil de enlazado de nuestros principales competidores para identificar aquellas páginas que aportan valor y en las que nosotros también podemos conseguir un *backlink*.
+
+Una herramienta potente y eficaz para esta tarea es [SEO Spy glass](https://www.seopowersuite.es/seo-spyglass/) que aunque es de pago dispone de una versión limitada más que suficiente para espiar a nuestros competidores.
+
+Existen otras herramientas de pago que también nos permiten analizar los enlaces de la competencia:
+
+ - Ahrefs
+ - Sistrix
+ - Semrush
+ - Moz
+
+
 ## ¿Dónde debemos poner los enlaces?
 
 Cuando vamos a conseguir un enlace es muy importante el lugar de la página donde se ubicará.
@@ -84,7 +85,11 @@ Un [factor SEO](https://emirodgar.com/factores-seo) importante es el contexto qu
 
 Un enlace repetido hasta la saciedad en todos los menús (superior o inferior) de la página no aportará valor. Es preferible calidad (en un contexto relacionado) que cantidad.
 
+## Texto (anchor text) relevante
+
+Hace años para poder posicionar necesitábamos ser enlazados 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk1MjY2NDFdfQ==
+eyJoaXN0b3J5IjpbLTEzMzQxMTg0MDldfQ==
 -->
