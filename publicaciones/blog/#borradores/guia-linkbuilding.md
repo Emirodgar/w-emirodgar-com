@@ -116,11 +116,16 @@ Es una pieza importante; si creamos material visual que a la gente le guste lo m
 
 ### Crear contenidos atractivos para tu público objetivo
 
-Por ejemplo, una sección de preguntas y respuestas, listados de recursos que puedan necesitar, informes 
+Por ejemplo, 
+
+ - Sección de preguntas y respuestas
+ - Listados de recursos que puedan necesitar
+ - Trabajos de investigación
+ - Guías para descargar
 
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODgyNTg1NTUsLTE2MDg2MjEzNTgsLT
-cwNTIxNDAyNV19
+eyJoaXN0b3J5IjpbNzA1NTI2MDU1LC0xNjA4NjIxMzU4LC03MD
+UyMTQwMjVdfQ==
 -->
