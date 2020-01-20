@@ -178,8 +178,8 @@ Por ejemplo,
 
 Los buscadores, especialmente Google, se toman muy en serio la compra/venta de enlaces con el objetivo de alterar el posicionamiento de las páginas.
 
-Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una penalizació
+Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODA0OTU3NiwtNzYwOTA1MzMyLDkxNT
+eyJoaXN0b3J5IjpbLTkxODU1NzExMSwtNzYwOTA1MzMyLDkxNT
 gwMDY3MywtNjMyODE5MTY2XX0=
 -->
