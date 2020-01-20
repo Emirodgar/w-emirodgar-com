@@ -53,14 +53,13 @@ En este punto no importa que aún no tengamos contenido que incluir en todas ell
 
 ### Búsquedas de marca ¿dónde aparecemos?
 
-El listado anterior puede ser completado en aquellos sitios donde 
+El listado anterior puede ser completado en aquellos sitios donde **ya aparece nuestra marca indexada**. Esto puede deberse a que alguien nos ha mencionado o que nuestro perfil ha sido creado. En este último escenario tendríamos que reclamarlo para poder hacer los cambios necesarios.
+
 A continuación se hace un pequeño recopilatorio de páginas donde nuestra marca puede aparecer. Dependiendo del mercado el listado puede cambiar, pero es importante adelantarnos y monitorizar estos sitios para asegurarnos de que la información que ofrecen es positiva y de que siempre existe un enlace hacia nuestra web.
 
-1.  LinkedIn 
-2.  Facebook 
-3.  Glassdoor
+1.  Glassdoor
 4.  Crunchbase 
-5.  Bloomberg 
+5.  Páginas amari
 6.  Indeed 
 7.  Yelp
 8.  Manta 
@@ -143,5 +142,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTgxNTYxMV19
+eyJoaXN0b3J5IjpbLTEwODU1NTk3MzRdfQ==
 -->
