@@ -2,7 +2,6 @@
 description: Estrategias para conseguir enlaces que a día de hoy funcionan correctamente
 lang: es_ES
 author: Emirodgar
-toc:1
 sitemap: 1
 feed: 1
 folder: estrategicos
@@ -17,9 +16,11 @@ permalink: guia-link-building
 
 Esta guía pretende ayudarnos a diseñar y ejecutar correctamente una **estrategia de link building** para favorecer el SEO.
 
+ - [Consejos básicos](#consejos)
+
 > Para que nuestra página sea popular a ojos de los buscadores necesitaremos enlaces desde otras webs.
 
-## Estrategia link building 2020 - conceptos básicos
+## <a name="c"></a>Estrategia link building 2020 - conceptos básicos
 
 Esta guía está diseñada para ejecutar una estrategia de enlazado en 2020. Es decir, no incluye información desactualizada y está en línea con las directrices más actuales de los buscadores, especialmente Google.
 
@@ -174,5 +175,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTkyNzU0NjIsLTYzMjgxOTE2Nl19
+eyJoaXN0b3J5IjpbLTQ1ODgwMzQzNCwtNjMyODE5MTY2XX0=
 -->
