@@ -131,6 +131,8 @@ Una vez que sabemos dónde han conseguido sus enlaces nuestros competidores ser�
 
 Se trata de aplicar la misma práctica que en el punto anterior pero en lugar de analizar los enlaces de los competidores, lo haremos de páginas del sector.
 
+El primer paso será identificar el contenido relacionado que mejor resultados ha generado en redes sociales. Para ello podemos usar [Buzzsumo](https://buzzsumo.com/).
+
 ### 4- Crear material visual 
 
 Es una pieza importante; si creamos material visual que a la gente le guste lo más normal es que lo reutilicen y nos enlacen como fuente original. Los recursos que mejor suelen funcionar son:
@@ -152,5 +154,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzEyNDY5OV19
+eyJoaXN0b3J5IjpbLTEyOTM4NDg5MDNdfQ==
 -->
