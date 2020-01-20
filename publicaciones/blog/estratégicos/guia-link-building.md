@@ -67,8 +67,9 @@ Hace años, para poder posicionar necesitábamos ser enlazados una y otra vez co
 
 Lo único que tenemos que evitar es utilizar un `anchor text` como "ver mas", "pinche aquí", etc. El término que nos enlace debe ser descriptivo y estar relacionado con el contenido final.
 
+## Estrategia link building 2020 - cómo conseguir enlaces
 
-## 1- Crear un perfil público en la red
+### 1- Crear un perfil público en la red
 
 El primer paso para conseguir enlaces de marca y con buena reputación será crearnos perfiles en aquellas redes sociales que nos lo permitan y cuya reputación sea alta. 
 
@@ -89,7 +90,7 @@ A continuación dejo un listado de páginas relevantes donde poder crear nuestro
 
 En este punto no importa que aún no tengamos contenido que incluir en todas ellas. Más adelante y en función de las estrategias digitales implementadas, cada una tendrá una función adicional.
 
-### Búsquedas de marca ¿dónde aparecemos?
+### 2- Búsquedas de marca ¿dónde aparecemos?
 
 El listado anterior puede ser completado en aquellos sitios donde **ya aparece nuestra marca indexada**. Esto puede deberse a que alguien nos ha mencionado o que nuestro perfil ha sido creado. En este último escenario tendríamos que reclamarlo para poder hacer los cambios necesarios.
 
@@ -108,7 +109,7 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
  9. Zoominfo
  10. Mapquest
 
-## 2- Identificar enlaces de los competidores
+### 3- Identificar enlaces de los competidores
 
 Una buena práctica para conseguir enlaces de calidad es analizar el perfil de enlazado de nuestros principales competidores para identificar aquellas páginas que aportan valor y en las que nosotros también podemos conseguir un *backlink*.
 
@@ -123,27 +124,16 @@ Existen otras herramientas de pago que también nos permiten analizar los enlace
 
 > Para conocer el email de contacto de una página web podemos hacer uso de servicios como [Hunter.io](https://hunter.io/) o [Voilanorbert](https://www.voilanorbert.com/)
 
-## Consejos para crear backlinks de calidad
+### 4- Crear material visual 
 
-
-
-
-## Estrategias para conseguir enlaces naturales
-
-Una buena forma de que la gente nos enlace es creando contenido de calidad que aporte valor. 
-
-Es fácil decirlo pero no tanto hacerlo por eso voy a dar algunos consejos que nos ayuden a generar interés por parte de potenciales visitantes.
-
-### Crear material visual 
-
-Es una pieza importante; si creamos material visual que a la gente le guste lo más normal es que lo reuitlicen y nos enlacen como fuente original. Los recursos que mejor suelen funcionar son:
+Es una pieza importante; si creamos material visual que a la gente le guste lo más normal es que lo reutilicen y nos enlacen como fuente original. Los recursos que mejor suelen funcionar son:
 
  - Imágenes propias
  - Gráficos propios
  - Diagramas explicativos
  - Infografías
 
-### Crear contenidos atractivos para tu público objetivo
+### 5- Crear contenidos atractivos para tu público objetivo
 
 Por ejemplo, 
 
@@ -155,5 +145,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODQ4MjkzMF19
+eyJoaXN0b3J5IjpbLTE3MjU3MDI2MF19
 -->
