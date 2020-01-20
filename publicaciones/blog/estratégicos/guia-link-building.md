@@ -19,6 +19,7 @@ Esta guía pretende ayudarnos a diseñar y ejecutar correctamente una **estrateg
  - [Conceptos básicos](#conceptos)
  - [Consejos para generar enlaces](#consejos)
  - [Estrategias para conseguir enlaces](#estrategias)
+ - [Evitar penalizaciones](#penalizacion)
 
 > Para que nuestra página sea popular a ojos de los buscadores necesitaremos enlaces desde otras webs.
 
@@ -173,10 +174,10 @@ Por ejemplo,
  - Guías para descargar
 
 
-## <a name="estrategia"></a> Evitar penalizaciones
+## <a name="penalizacion"></a> Evitar penalizaciones
 
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkzNTE2NSwtNjMyODE5MTY2XX0=
+eyJoaXN0b3J5IjpbOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
 -->
