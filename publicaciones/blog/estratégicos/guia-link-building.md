@@ -16,11 +16,13 @@ permalink: guia-link-building
 
 Esta guía pretende ayudarnos a diseñar y ejecutar correctamente una **estrategia de link building** para favorecer el SEO.
 
- - [Consejos básicos](#consejos)
+ - [Conceptos básicos](#conceptos)
+ - [Consejos para generar enlaces](#consejos)
+ - [Estrategias para conseguir enlaces](#estrategias)
 
 > Para que nuestra página sea popular a ojos de los buscadores necesitaremos enlaces desde otras webs.
 
-## <a name="c"></a>Estrategia link building 2020 - conceptos básicos
+## <a name="conceptos"></a>Estrategia link building 2020 - conceptos básicos
 
 Esta guía está diseñada para ejecutar una estrategia de enlazado en 2020. Es decir, no incluye información desactualizada y está en línea con las directrices más actuales de los buscadores, especialmente Google.
 
@@ -46,7 +48,7 @@ Veamos unos ejemplos de cómo serían varios enlaces si viéramos el código fue
 <a rel="nofollow ugc" href="https://mipagina.com">anchor text</a>
 ```
 
-## Consejos a la hora de generar enlaces
+## <a name="consejos"></a>Consejos a la hora de generar enlaces
 
 ### a) Enlazar páginas relacionadas
 
@@ -69,7 +71,7 @@ Hace años, para poder posicionar necesitábamos ser enlazados una y otra vez co
 
 Lo único que tenemos que evitar es utilizar un `anchor text` como "ver mas", "pinche aquí", etc. El término que nos enlace debe ser descriptivo y estar relacionado con el contenido final.
 
-## Estrategia link building 2020 - cómo conseguir enlaces
+## <a name="estrategia"></a>Estrategia link building 2020 - cómo conseguir enlaces
 
 ### 1- Crear un perfil público en la red
 
@@ -152,8 +154,6 @@ En este punto es práctico disponer de una plantilla de contacto para solicitar 
 
 La idea es poder ofrecer a la página **contenido relacionado de calidad que cualifique y aporte valor** a sus artículos ya publicados.
 
- 
-
 ### 4- Crear material visual 
 
 Es una pieza importante; si creamos material visual que a la gente le guste lo más normal es que lo reutilicen y nos enlacen como fuente original. Los recursos que mejor suelen funcionar son:
@@ -172,8 +172,11 @@ Por ejemplo,
  - Trabajos de investigación
  - Guías para descargar
 
+
+## <a name="estrategia"></a> Evitar penalizaciones
+
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODgwMzQzNCwtNjMyODE5MTY2XX0=
+eyJoaXN0b3J5IjpbLTE1MzkzNTE2NSwtNjMyODE5MTY2XX0=
 -->
