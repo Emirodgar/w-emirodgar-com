@@ -1,11 +1,11 @@
 ---
-description: Aprende todas las vertientes SEO (técnico, contenidos y linking) y domínalas como un experto
+description: Estrategias para conseguir enlaces que a día de hoy funcionan correctamente
 lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
 folder: estrategicos
-date: 20/12/2019
+date: 20/01/2020
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: guia-link-building
 
@@ -148,5 +148,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODk5OTgwXX0=
+eyJoaXN0b3J5IjpbLTE5Mjg3MTMyNzZdfQ==
 -->
