@@ -57,22 +57,17 @@ El listado anterior puede ser completado en aquellos sitios donde **ya aparece n
 
 A continuación se hace un pequeño recopilatorio de páginas donde nuestra marca puede aparecer. Dependiendo del mercado el listado puede cambiar, pero es importante adelantarnos y monitorizar estos sitios para asegurarnos de que la información que ofrecen es positiva y de que siempre existe un enlace hacia nuestra web.
 
-1.  Glassdoor
-4.  Crunchbase 
-5.  Páginas amari
-6.  Indeed 
-7.  Yelp
-8.  Manta 
-9.  Twitter 
-10.  Wikipedia
-11.  BBB 
-12.  Amazon 
-13.  YouTube 
-14.  Zoominfo
-15.  Instagram 
-16.  Mapquest 
-17.  TechCrunch (15)
-
+ 1. Páginas amarillas
+ 2. Crunchbase 
+ 3. Glassdoor
+ 4. Reddit
+ 5. Yelp
+ 6. Wikipedia
+ 7. BBB
+ 8. Amazon
+ 9. Zoominfo
+ 10. Mapquest
+ 11. TechCrunch 
 
 ## Identificar enlaces de los competidores
 
@@ -142,5 +137,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU1NTk3MzRdfQ==
+eyJoaXN0b3J5IjpbLTQyNjI5MTcyNV19
 -->
