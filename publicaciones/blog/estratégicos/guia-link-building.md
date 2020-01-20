@@ -142,7 +142,15 @@ El primer paso será identificar el contenido relacionado que mejor resultados h
 
 Una vez identificadas las publicaciones con más interacción podemos repetir el proceso: analizamos qué páginas las han enlazado y contactamos con ellas para que nos incluyan un enlace.
 
-En este punto es práctico disponer de una plantilla de contacto para solic 
+En este punto es práctico disponer de una plantilla de contacto para solicitar un enlace. El objetivo es el siguiente:
+
+ 1. Comunicar que buscando contenido sobre XXX tema, hemos encontrado su página.
+ 2. Que nos ha gustado lo que escribe y lo que enlaza.
+ 3. Comunicarle que hemos generado/publicado algo relacionado XXX y que si le gusta, podría enlazarlo.
+
+La idea es poder ofercerle
+
+ 
 
 ### 4- Crear material visual 
 
@@ -165,5 +173,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTQ1OTQwNl19
+eyJoaXN0b3J5IjpbLTYzMjgxOTE2Nl19
 -->
