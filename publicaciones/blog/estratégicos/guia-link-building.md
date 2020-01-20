@@ -125,6 +125,12 @@ Existen otras herramientas de pago que también nos permiten analizar los enlace
 
 > Para conocer el email de contacto de una página web podemos hacer uso de servicios como [Hunter.io](https://hunter.io/) o [Voilanorbert](https://www.voilanorbert.com/)
 
+Una vez que sabemos dónde han conseguido sus enlaces nuestros competidores será cuestión de contactar o replicar de forma manual para conseguir nosotros también aparecer en dichas páginas.
+
+### 3- Identificar enlaces del sector
+
+Se trata de aplicar la misma práctica que en el punto anterior pero
+
 ### 4- Crear material visual 
 
 Es una pieza importante; si creamos material visual que a la gente le guste lo más normal es que lo reutilicen y nos enlacen como fuente original. Los recursos que mejor suelen funcionar son:
@@ -146,5 +152,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1Mzg3NDE4XX0=
+eyJoaXN0b3J5IjpbLTEzNjEwODEwODddfQ==
 -->
