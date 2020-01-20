@@ -72,7 +72,7 @@ Hace años, para poder posicionar necesitábamos ser enlazados una y otra vez co
 
 Lo único que tenemos que evitar es utilizar un `anchor text` como "ver mas", "pinche aquí", etc. El término que nos enlace debe ser descriptivo y estar relacionado con el contenido final.
 
-## <a name="estrategia"></a>Estrategia link building 2020 - cómo conseguir enlaces
+## <a name="estrategias"></a>Estrategia link building 2020 - cómo conseguir enlaces
 
 ### 1- Crear un perfil público en la red
 
@@ -179,5 +179,6 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
+eyJoaXN0b3J5IjpbLTc2MDkwNTMzMiw5MTU4MDA2NzMsLTYzMj
+gxOTE2Nl19
 -->
