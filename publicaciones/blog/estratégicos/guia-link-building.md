@@ -133,6 +133,14 @@ Se trata de aplicar la misma práctica que en el punto anterior pero en lugar de
 
 El primer paso será identificar el contenido relacionado que mejor resultados ha generado en redes sociales. Para ello podemos usar [Buzzsumo](https://buzzsumo.com/).
 
+<amp-img alt="Visibilidad en caída libre desde comienzos de 2016"
+  src="https://i.imgur.com/6HUkSGh.png"
+  width="566"
+  height="5314"
+  layout="responsive">
+</amp-img>
+
+https://i.imgur.com/1ueqwVG.png
 
 ### 4- Crear material visual 
 
@@ -155,5 +163,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk5OTI2MDBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjYyNDk3NTVdfQ==
 -->
