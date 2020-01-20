@@ -32,6 +32,12 @@ Veamos un ejemplo completo
 
 ## 1- Crear un perfil público en la red
 
+El primer paso para conseguir enlaces de marca y con buena reputación será crearnos perfiles en aquellas redes sociales que nos lo permitan y cuya reputación sea alta. 
+
+No todas nos permitirán un enlace `dofollow` pero en este punto lo que buscamos es reforzar nuestra marca y conseguir autoridad a ojos de los buscadores.
+
+A continuación dejo un listado de 
+
 1.  LinkedIn
 2.  Facebook
 3.  Twitter
@@ -134,6 +140,6 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYwNjk1NTUsNzA1NTI2MDU1LC0xNj
-A4NjIxMzU4LC03MDUyMTQwMjVdfQ==
+eyJoaXN0b3J5IjpbMTgzMDQ1MDIxOCw3MDU1MjYwNTUsLTE2MD
+g2MjEzNTgsLTcwNTIxNDAyNV19
 -->
