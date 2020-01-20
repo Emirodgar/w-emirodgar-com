@@ -33,6 +33,8 @@ Veamos un ejemplo completo
 
 ```
 <a href="https://mipagina.com">anchor text</a>
+<a rel="nofollow" href="https://mipagina.com">anchor text</a>
+<a rel="nofollow ugc" href="https://mipagina.com">anchor text</a>
 ```
 
 ## Consejos a la hora de generar enlaces
@@ -146,5 +148,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODcxMzU1OF19
+eyJoaXN0b3J5IjpbNjkyNDY0NTddfQ==
 -->
