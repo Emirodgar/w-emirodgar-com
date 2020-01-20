@@ -176,9 +176,10 @@ Por ejemplo,
 
 ## <a name="penalizacion"></a> Evitar penalizaciones
 
-[https://backlinko.com/link-building](https://backlinko.com/link-building)
+Los buscadores, especialmente Google, se toman muy en serio la compra/venta de enlaces con el objetivo de alterar el posicionamiento de las páginas.
 
+Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una penalizació
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDkwNTMzMiw5MTU4MDA2NzMsLTYzMj
-gxOTE2Nl19
+eyJoaXN0b3J5IjpbMTQzODA0OTU3NiwtNzYwOTA1MzMyLDkxNT
+gwMDY3MywtNjMyODE5MTY2XX0=
 -->
