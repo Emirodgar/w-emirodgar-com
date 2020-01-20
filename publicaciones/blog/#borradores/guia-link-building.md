@@ -69,13 +69,12 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
  8. Amazon
  9. Zoominfo
  10. Mapquest
- 11. TechCrunch 
 
-## Identificar enlaces de los competidores
+## 2- Identificar enlaces de los competidores
 
 Una buena práctica para conseguir enlaces de calidad es analizar el perfil de enlazado de nuestros principales competidores para identificar aquellas páginas que aportan valor y en las que nosotros también podemos conseguir un *backlink*.
 
-Una herramienta potente y eficaz para esta tarea es [SEO Spy glass](https://www.seopowersuite.es/seo-spyglass/) que aunque es de pago dispone de una versión limitada más que suficiente para espiar a nuestros competidores.
+> Una herramienta potente y eficaz para esta tarea es [SEO Spy glass](https://www.seopowersuite.es/seo-spyglass/) que aunque es de pago dispone de una versión limitada más que suficiente para espiar a nuestros competidores.
 
 Existen otras herramientas de pago que también nos permiten analizar los enlaces de la competencia:
 
@@ -86,7 +85,9 @@ Existen otras herramientas de pago que también nos permiten analizar los enlace
 
 > Para conocer el email de contacto de una página web podemos hacer uso de servicios como [Hunter.io](https://hunter.io/) o [Voilanorbert](https://www.voilanorbert.com/)
 
-## Enlazar páginas relacionadas
+## Consejos para crear backlinks de calidad
+
+### Enlazar páginas relacionadas
 
 Si nuestra web trata de venta de coches usados no tendría ningún sentido obtener un enlace de una página de veleros. Tendríamos que conseguir enlaces desde páginas relacionadas con nuestro sector, por ejemplo un portal de noticias de coches, concesionarios, desguaces de piezas, rutas y viajes con coche, etc.
 
@@ -139,5 +140,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkwNjAzNTJdfQ==
+eyJoaXN0b3J5IjpbLTE4ODE0MzEyNjVdfQ==
 -->
