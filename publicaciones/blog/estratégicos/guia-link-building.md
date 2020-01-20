@@ -148,7 +148,7 @@ En este punto es práctico disponer de una plantilla de contacto para solicitar 
  2. Que nos ha gustado lo que escribe y lo que enlaza.
  3. Comunicarle que hemos generado/publicado algo relacionado XXX y que si le gusta, podría enlazarlo.
 
-La idea es poder ofercerle
+La idea es poder ofercer a la página conte
 
  
 
@@ -173,5 +173,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjgxOTE2Nl19
+eyJoaXN0b3J5IjpbLTU1OTAzODYxMCwtNjMyODE5MTY2XX0=
 -->
