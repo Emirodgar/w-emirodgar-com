@@ -9,7 +9,11 @@ Cualquier [estrategia SEO](https://emirodgar.com/estrategia-seo) se basa en [tre
 
 > Para que nuestra página sea popular a ojos de los buscadores necesitaremos enlaces desde otras webs.
 
-## Conceptos básicos de link building
+## Estrategia link building 2020
+
+Esta guía está diseñada para ejecutar una estrategia de enlazado en 2020. Es decir, no incluye información desactualizada y está en línea con las directrices más actuales de los buscadores, especialmente Google.
+
+### Conceptos básicos de link building
 
 Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
 
@@ -26,7 +30,7 @@ Veamos un ejemplo completo
 
 
 
-## Crear un perfil público en la red
+## 1- Crear un perfil público en la red
 
 1.  LinkedIn
 2.  Facebook
@@ -130,6 +134,6 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc4NDYxNzYsNzA1NTI2MDU1LC0xNj
+eyJoaXN0b3J5IjpbLTIwODYwNjk1NTUsNzA1NTI2MDU1LC0xNj
 A4NjIxMzU4LC03MDUyMTQwMjVdfQ==
 -->
