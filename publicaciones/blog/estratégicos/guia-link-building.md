@@ -109,6 +109,7 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
  9. Zoominfo
  10. Mapquest
 
+
 ### 3- Identificar enlaces de los competidores
 
 Una buena práctica para conseguir enlaces de calidad es analizar el perfil de enlazado de nuestros principales competidores para identificar aquellas páginas que aportan valor y en las que nosotros también podemos conseguir un *backlink*.
@@ -145,5 +146,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU3MDI2MF19
+eyJoaXN0b3J5IjpbNjk1Mzg3NDE4XX0=
 -->
