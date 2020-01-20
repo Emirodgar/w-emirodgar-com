@@ -46,24 +46,24 @@ Veamos unos ejemplos de cómo serían varios enlaces si viéramos el código fue
 
 ## Consejos a la hora de generar enlaces
 
-### Enlazar páginas relacionadas
+### a) Enlazar páginas relacionadas
 
 Si nuestra web trata de venta de coches usados no tendría ningún sentido obtener un enlace de una página de veleros. Tendríamos que conseguir enlaces desde páginas relacionadas con nuestro sector, por ejemplo un portal de noticias de coches, concesionarios, desguaces de piezas, rutas y viajes con coche, etc.
 
-### Enlaces dentro de contenido
+### b) Enlaces dentro de contenido
 
 Un [factor SEO](https://emirodgar.com/factores-seo) importante es el contexto que unifica los diversos elementos de una página web. Por ello, para que los robots de búsqueda valoren más nuestro enlace es imprescindible que éste se ubique dentro de un contenido relacionado.
 
-### Evitar enlaces en menús o al final de la página
+### c) Evitar enlaces en menús o al final de la página
 
 Un enlace repetido hasta la saciedad en todos los menús (superior o inferior) de la página no aportará valor. Es preferible calidad (en un contexto relacionado) que cantidad.
 
-### Texto (anchor text) relevante
+### d) Texto (anchor text) relevante
 
 Hace años, para poder posicionar necesitábamos ser enlazados una y otra vez con la misma palabra clave. Esto ya no es así, ahora debemos usar **términos relacionados pero de forma natural** y en contexto con el resto del contenido que nos enlaza.
 
 
-### Evitar términos sin valor
+### e) Evitar términos sin valor
 
 Lo único que tenemos que evitar es utilizar un `anchor text` como "ver mas", "pinche aquí", etc. El término que nos enlace debe ser descriptivo y estar relacionado con el contenido final.
 
@@ -155,5 +155,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTEzNjMwXX0=
+eyJoaXN0b3J5IjpbLTU2ODQ4MjkzMF19
 -->
