@@ -49,8 +49,11 @@ A continuación dejo un listado de páginas relevantes donde poder crear nuestro
 9.  Medium
 10. Quora 
 
+En este punto no importa que aún no tengamos contenido que incluir en todas ellas. Más adelante y en función de las estrategias digitales implementadas, cada una tendrá una función adicional.
+
 ### Búsquedas de marca ¿dónde aparecemos?
 
+El listado anterior puede ser completado en aquellos sitios donde 
 A continuación se hace un pequeño recopilatorio de páginas donde nuestra marca puede aparecer. Dependiendo del mercado el listado puede cambiar, pero es importante adelantarnos y monitorizar estos sitios para asegurarnos de que la información que ofrecen es positiva y de que siempre existe un enlace hacia nuestra web.
 
 1.  LinkedIn 
@@ -140,5 +143,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5NzAzMzk1XX0=
+eyJoaXN0b3J5IjpbLTk3NTgxNTYxMV19
 -->
