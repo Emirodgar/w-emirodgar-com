@@ -36,9 +36,9 @@ Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
   data-tweetid="1207679355150831620">
 </amp-twitter>
 
-Veamos un ejemplo completo de cómo quedaría un enlace si viéramos el código fuente (HTML)
+Veamos unos ejemplos de cómo serían varios enlaces si viéramos el código fuente (HTML)
 
-```
+```html
 <a href="https://mipagina.com">anchor text</a>
 <a rel="nofollow" href="https://mipagina.com">anchor text</a>
 <a rel="nofollow ugc" href="https://mipagina.com">anchor text</a>
@@ -155,5 +155,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTkwNTQxNV19
+eyJoaXN0b3J5IjpbMTkyMTEzNjMwXX0=
 -->
