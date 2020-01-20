@@ -55,14 +55,16 @@ En este punto no importa que aún no tengamos contenido que incluir en todas ell
 
 El listado anterior puede ser completado en aquellos sitios donde **ya aparece nuestra marca indexada**. Esto puede deberse a que alguien nos ha mencionado o que nuestro perfil ha sido creado. En este último escenario tendríamos que reclamarlo para poder hacer los cambios necesarios.
 
+> Recomiendo dar de alta nuestra marca en [Google Alerts](https://www.google.es/alerts) para detectar cuándo alguien habla de nosotros. En ese momento, solicitamos un enlace (si no lo tuviera).
+
 A continuación se hace un pequeño recopilatorio de páginas donde nuestra marca puede aparecer. Dependiendo del mercado el listado puede cambiar, pero es importante adelantarnos y monitorizar estos sitios para asegurarnos de que la información que ofrecen es positiva y de que siempre existe un enlace hacia nuestra web.
 
  1. Páginas amarillas
  2. Crunchbase 
- 3. Glassdoor
+ 3. Wikipedia
  4. Reddit
  5. Yelp
- 6. Wikipedia
+ 6. Glassdoor
  7. BBB
  8. Amazon
  9. Zoominfo
@@ -137,5 +139,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjI5MTcyNV19
+eyJoaXN0b3J5IjpbLTE3MTkwNjAzNTJdfQ==
 -->
