@@ -73,6 +73,8 @@ Existen otras herramientas de pago que también nos permiten analizar los enlace
  - Semrush
  - Moz
 
+> Para conocer el email de contacto de una página web podemos hacer uso de servicios como [Hunter.io](https://hunter.io/) o [Voilanorbert](https://www.voilanorbert.com/)
+
 ## Enlazar páginas relacionadas
 
 Si nuestra web trata de venta de coches usados no tendría ningún sentido obtener un enlace de una página de veleros. Tendríamos que conseguir enlaces desde páginas relacionadas con nuestro sector, por ejemplo un portal de noticias de coches, concesionarios, desguaces de piezas, rutas y viajes con coche, etc.
@@ -126,6 +128,6 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1NTI2MDU1LC0xNjA4NjIxMzU4LC03MD
-UyMTQwMjVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDUwMTAwNDQsNzA1NTI2MDU1LC0xNj
+A4NjIxMzU4LC03MDUyMTQwMjVdfQ==
 -->
