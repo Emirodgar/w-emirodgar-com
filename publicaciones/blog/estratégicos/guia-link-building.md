@@ -133,14 +133,16 @@ Se trata de aplicar la misma práctica que en el punto anterior pero en lugar de
 
 El primer paso será identificar el contenido relacionado que mejor resultados ha generado en redes sociales. Para ello podemos usar [Buzzsumo](https://buzzsumo.com/).
 
-<amp-img alt="Visibilidad en caída libre desde comienzos de 2016"
-  src="https://i.imgur.com/6HUkSGh.png"
+<amp-img alt="Buzzsumo"
+  src="https://i.imgur.com/1ueqwVG.png"
   width="566"
-  height="5314"
+  height="531"
   layout="responsive">
 </amp-img>
 
-https://i.imgur.com/1ueqwVG.png
+Una vez identificadas las publicaciones con más interacción podemos repetir el proceso: analizamos qué páginas las han enlazado y contactamos con ellas para que nos incluyan un enlace.
+
+En este punto es práctico disponer de una plantilla de contacto para solic 
 
 ### 4- Crear material visual 
 
@@ -163,5 +165,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYyNDk3NTVdfQ==
+eyJoaXN0b3J5IjpbMTc1NTQ1OTQwNl19
 -->
