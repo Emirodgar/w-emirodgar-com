@@ -2,6 +2,7 @@
 description: Estrategias para conseguir enlaces que a día de hoy funcionan correctamente
 lang: es_ES
 author: Emirodgar
+toc:1
 sitemap: 1
 feed: 1
 folder: estrategicos
@@ -148,7 +149,7 @@ En este punto es práctico disponer de una plantilla de contacto para solicitar 
  2. Que nos ha gustado lo que escribe y lo que enlaza.
  3. Comunicarle que hemos generado/publicado algo relacionado XXX y que si le gusta, podría enlazarlo.
 
-La idea es poder ofercer a la página conte
+La idea es poder ofrecer a la página **contenido relacionado de calidad que cualifique y aporte valor** a sus artículos ya publicados.
 
  
 
@@ -173,5 +174,5 @@ Por ejemplo,
 [https://backlinko.com/link-building](https://backlinko.com/link-building)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTAzODYxMCwtNjMyODE5MTY2XX0=
+eyJoaXN0b3J5IjpbLTIwOTkyNzU0NjIsLTYzMjgxOTE2Nl19
 -->
