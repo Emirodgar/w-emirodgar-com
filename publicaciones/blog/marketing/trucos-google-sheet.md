@@ -137,6 +137,8 @@ También podemos añadir **caracteres unicode** haciendo uso de la función `CHA
 - `=CHAR(10)` sería una flecha de enter
 - `=CHAR(8595)` sería una flecha hacia abajo
 
+> Podemos usar cualquier carácter uni
+
 ## <a name="automatizar-tareas"></a> 9- Automatiza tareas
 
 A través de [macros](https://support.google.com/docs/answer/7665004?hl=es) podemos crear tareas automatizadas dentro de nuestras hojas sin necesidad de hacerlo nosotros de forma manual. 
@@ -163,5 +165,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MjM1ODMxLDE2NDkwMDUzMjJdfQ==
+eyJoaXN0b3J5IjpbLTQzNzE4MDMwNywxNjQ5MDA1MzIyXX0=
 -->
