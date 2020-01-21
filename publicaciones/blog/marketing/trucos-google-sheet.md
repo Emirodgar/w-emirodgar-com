@@ -89,6 +89,8 @@ La mayoría de gente suele arrastrar una fórmula por todo el rango donde quiere
 =ArrayFormula(TRIM(C1:C50))
 ```
 
+Si decidimos arrastrar una fómula podemos fijar cel
+
 ## <a name="normalizar-validar"></a> 7- Normaliza y valida el contenido
 
 Para mí hay cuatro funciones básicas que nos ayudarán a que el texto de nuestras hojas de cálculo esté normalizado:
@@ -154,5 +156,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTIwMjg5OF19
+eyJoaXN0b3J5IjpbMTAxNzAxMzUyOF19
 -->
