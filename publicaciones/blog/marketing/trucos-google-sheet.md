@@ -49,6 +49,7 @@ Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de
  8. Seleccionar todos los datos (`ctrl` + `a`)
  9. Buscar y sustituir (`ctrl` + `h`)
  10. Acceder a una fórmula (`F2`)
+ 11. Hacer fórmulas multilínea (`ctrl` + `enter`)
 
 Dependiendo de tu forma de trabajar tendrá sentido usar unas u otras.
 
@@ -166,5 +167,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0NDY3Nzk0LDE2NDkwMDUzMjJdfQ==
+eyJoaXN0b3J5IjpbLTU2OTQ3NTczLDE2NDkwMDUzMjJdfQ==
 -->
