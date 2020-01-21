@@ -166,7 +166,7 @@ Es una pieza importante; si creamos material visual que a la gente le guste lo m
 
 ### 5- Crear contenidos atractivos para tu público objetivo
 
-Por ejemplo, 
+A continuación se detallan algunas acciones que nos permiten crear contenido de interés para nuestro público objetivo
 
  - Sección de preguntas y respuestas
  - Listados de recursos que puedan necesitar
@@ -180,6 +180,6 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODU1NzExMSwtNzYwOTA1MzMyLDkxNT
-gwMDY3MywtNjMyODE5MTY2XX0=
+eyJoaXN0b3J5IjpbLTIxMzQ2NzEwNSwtOTE4NTU3MTExLC03Nj
+A5MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
 -->
