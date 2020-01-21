@@ -47,6 +47,7 @@ Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de
  6. Insertar una nota (`may` + `f2`)
  7. Insertar un comentario (`ctrl` + `alt` + `m`)
  8. Inserta la fecha actual (`ctrl` + `;`)
+ 9. Seleccionar todos los datos (`ctrl` + `a`)
 
 Dependiendo de tu forma de trabajar tendrá sentido usar unas u otras.
 
@@ -153,5 +154,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDM1NjM2M119
+eyJoaXN0b3J5IjpbMjA3NTIwMjg5OF19
 -->
