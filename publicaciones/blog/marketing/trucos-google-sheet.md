@@ -124,6 +124,11 @@ También podemos eliminar de forma rápida cualquier valor duplicado de la sigui
   layout="responsive">
 </amp-img>
 
+Por último, también podemos añadir caracteres unicode como flechas haciendo uso de la función `CHAR`. Por ejemplo
+
+- CHAR(8594) produces the right arrow. 
+- CHAR(10) produces a carriage return (new line). CHAR(8595) produces a down arrow.
+
 ## <a name="grafica-sparkline"></a>8- Haz uso de gráficas de control (sparkline)
 
 El apoyo visual siempre es importante aunque generar gráficos sin un objetivo concreto puede que no aporte nada. Google sheets nos permite crear mini gráficos que se representan en una celda gracias a la función [Sparkline](https://support.google.com/docs/answer/3093289).
@@ -156,5 +161,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTAwNTMyMl19
+eyJoaXN0b3J5IjpbLTE5NDIyNTIwMjQsMTY0OTAwNTMyMl19
 -->
