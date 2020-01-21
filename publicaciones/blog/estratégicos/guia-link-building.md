@@ -177,12 +177,12 @@ A continuación se detallan algunas acciones que nos permiten crear contenido de
 
 Los directorios son páginas que agrupan enlaces. Por ejemplo podemos hacer una búsqueda para identificar directorios de nuestro sector y solicitar que incluyan nuestros enlaces.
 
-    “Plab” + inurl:links  
-    “Keyword” + “helpful resources”  
-    “Keyword” + “useful resources”  
-    “Keyword” + “useful links”
+    “Palabra clave” + inurl:enlaces  
+    “Palabra clave” + “recursos”  
+    “Palabra clave” + “páginas”  
+    “Palabra clave” + “enlaces útiles”
 
-Lógicamente antes tendremos que validar y valorar si dichos directorios tienen suficiente calidad para determinar si nos interesa incluir ahí un enlace o no.
+Lógicamente antes tendremos que validar y valorar si dichos directorios tienen suficiente calidad para determinar si nos interesa incluir ahí un enlace o no. Si queremos, contactamos con los responsables y ofrecemos nuestra página.
 
 ## <a name="penalizacion"></a> Evitar penalizaciones
 
@@ -190,6 +190,6 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTM2ODA4MSwtOTE4NTU3MTExLC03Nj
-A5MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
+eyJoaXN0b3J5IjpbLTExODczOTU3MjcsLTkxODU1NzExMSwtNz
+YwOTA1MzMyLDkxNTgwMDY3MywtNjMyODE5MTY2XX0=
 -->
