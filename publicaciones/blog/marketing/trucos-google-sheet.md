@@ -93,6 +93,10 @@ La mayoría de gente suele arrastrar una fórmula por todo el rango donde quiere
 
 Si decidimos arrastrar una fómula podemos fijar celdas y columnas añadiendo `$` delante del valor. Para hacerlo más sencillo podemos pulsar `F4` cuando estemos en la fórmula y lo añadirá por defecto.
 
+También podrás añadir comentarios a las fórmulas usando `N("comentario")`. Por ejemplo:
+
+    =SUMA(A1:A100) + N("Suma de presupuestos")
+
 ## <a name="normalizar-validar"></a> 7- Normaliza y valida el contenido
 
 Para mí hay cuatro funciones básicas que nos ayudarán a que el texto de nuestras hojas de cálculo esté normalizado:
@@ -167,5 +171,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTQ3NTczLDE2NDkwMDUzMjJdfQ==
+eyJoaXN0b3J5IjpbLTkyODM3MzUyOCwxNjQ5MDA1MzIyXX0=
 -->
