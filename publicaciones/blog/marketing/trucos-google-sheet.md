@@ -46,8 +46,9 @@ Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de
  5. Dar formato de moneda (`ctrl` + `may` + `4`)
  6. Insertar una nota (`may` + `f2`)
  7. Insertar un comentario (`ctrl` + `alt` + `m`)
- 9. Seleccionar todos los datos (`ctrl` + `a`)
- 10. Buscar y sustituir (`ctrl` + `h`)
+ 8. Seleccionar todos los datos (`ctrl` + `a`)
+ 9. Buscar y sustituir (`ctrl` + `h`)
+ 10. Acceder a una fórmula (`F2`)
 
 Dependiendo de tu forma de trabajar tendrá sentido usar unas u otras.
 
@@ -137,7 +138,7 @@ También podemos añadir **caracteres unicode** haciendo uso de la función `CHA
 - `=CHAR(10)` sería una flecha de enter
 - `=CHAR(8595)` sería una flecha hacia abajo
 
-> Podemos usar cualquier carácter uni
+> Podemos usar cualquier carácter unicode que aparece en [esta tabla](https://en.wikipedia.org/wiki/List_of_Unicode_characters).
 
 ## <a name="automatizar-tareas"></a> 9- Automatiza tareas
 
@@ -165,5 +166,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzE4MDMwNywxNjQ5MDA1MzIyXX0=
+eyJoaXN0b3J5IjpbNDA0NDY3Nzk0LDE2NDkwMDUzMjJdfQ==
 -->
