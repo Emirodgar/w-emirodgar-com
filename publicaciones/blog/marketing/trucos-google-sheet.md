@@ -6,7 +6,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: marketing
-date: 24/04/2019
+date: 21/01/2020
 image: https://emirodgar.com/cdn/images/og/herramientas.png
 permalink: trucos-hojas-calculo-google
 
@@ -46,6 +46,7 @@ Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de
  5. Dar formato de moneda (ctrl + may + 4)
  6. Insertar una nota (may + f2)
  7. Insertar un comentario (ctrl + alt + m)
+ 8. Inserta la fecha actual (ctrl + ;
 
 Dependiendo de tu forma de trabajar tendrá sentido usar unas u otras.
 
@@ -152,5 +153,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzc2OTc2NV19
+eyJoaXN0b3J5IjpbLTE0ODEzMDAxNDJdfQ==
 -->
