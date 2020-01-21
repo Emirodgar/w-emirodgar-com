@@ -46,8 +46,8 @@ Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de
  5. Dar formato de moneda (`ctrl` + `may` + `4`)
  6. Insertar una nota (`may` + `f2`)
  7. Insertar un comentario (`ctrl` + `alt` + `m`)
- 8. Inserta la fecha actual (`ctrl` + `;`)
  9. Seleccionar todos los datos (`ctrl` + `a`)
+ 10. Buscar y sustituir (`ctrl` + `h`)
 
 Dependiendo de tu forma de trabajar tendrá sentido usar unas u otras.
 
@@ -89,7 +89,7 @@ La mayoría de gente suele arrastrar una fórmula por todo el rango donde quiere
 =ArrayFormula(TRIM(C1:C50))
 ```
 
-Si decidimos arrastrar una fómula podemos fijar cel
+Si decidimos arrastrar una fómula podemos fijar celdas y columnas añadiendo `$` delante del valor. Para hacerlo más sencillo podemos pulsar `F4` cuando estemos en la fórmula y lo añadirá por defecto.
 
 ## <a name="normalizar-validar"></a> 7- Normaliza y valida el contenido
 
@@ -156,5 +156,5 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzAxMzUyOF19
+eyJoaXN0b3J5IjpbMTY0OTAwNTMyMl19
 -->
