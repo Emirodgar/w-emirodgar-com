@@ -145,7 +145,7 @@ Lógicamente esta estrategia debe ser complementaria a otras acciones puesto que
 
 Se trata de aplicar la misma táctica que en el punto anterior pero en lugar de analizar los enlaces de los competidores, lo haremos de páginas del sector.
 
-El primer paso será identificar el contenido relacionado que mejor resultados ha generado en redes sociales. Para ello podemos usar [Buzzsumo](https://buzzsumo.com/).
+Por tanto el primer paso será identificar el contenido relacionado con la temática de nuestra página que mejor resultados ha generado en redes sociales. Para ello recomiendo usar [Buzzsumo](https://buzzsumo.com/).
 
 <amp-img alt="Buzzsumo"
   src="https://i.imgur.com/1ueqwVG.png"
@@ -160,7 +160,7 @@ En este punto es práctico disponer de una plantilla de contacto para solicitar 
 
  1. Comunicar que buscando contenido sobre XXX tema, hemos encontrado su página.
  2. Que nos ha gustado lo que escribe y lo que enlaza.
- 3. Comunicarle que hemos generado/publicado algo relacionado XXX y que si le gusta, podría enlazarlo.
+ 3. Informar de que hemos generado/publicado algo relacionado XXX y, que si le gusta, podría enlazarlo.
 
 La idea es poder ofrecer a la página **contenido relacionado de calidad que cualifique y aporte valor** a sus artículos ya publicados.
 
@@ -210,7 +210,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjYyMDI2NCwtMTk5OTA3MDA4OCwtMT
+eyJoaXN0b3J5IjpbMTMzMDAzMDM1MCwtMTk5OTA3MDA4OCwtMT
 E0MTQ1NTkwMSwtMTE4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5
 MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
 -->
