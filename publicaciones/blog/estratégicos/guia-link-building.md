@@ -174,16 +174,20 @@ A continuación se detallan algunas acciones que nos permiten crear contenido de
  - Trabajos de investigación
  - Guías para descargar
 
-### 6- Buscar directorios del sector
+### 6- Buscar directorios
 
 Los directorios son páginas que agrupan enlaces. Por ejemplo podemos hacer una búsqueda para identificar directorios de nuestro sector y solicitar que incluyan nuestros enlaces.
 
-    “Palabra clave” + inurl:enlaces  
-    “Palabra clave” + “recursos”  
-    “Palabra clave” + “páginas”  
-    “Palabra clave” + “enlaces útiles”
+    "Palabra clave" + inurl:enlaces  
+    "Palabra clave" + "recursos"  
+    "Palabra clave" + "páginas"  
+    "Palabra clave" + "enlaces útiles"
 
 Lógicamente antes tendremos que validar y valorar si dichos directorios tienen suficiente calidad para determinar si nos interesa incluir ahí un enlace o no. Si queremos, contactamos con los responsables y ofrecemos nuestra página.
+
+### 7- Buscar enlaces rotos
+
+Otra táctica para encontrar 
 
 ## <a name="penalizacion"></a> Evitar penalizaciones
 
@@ -191,7 +195,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE0NTU5MDEsLTExODczOTU3MjcsLT
-kxODU1NzExMSwtNzYwOTA1MzMyLDkxNTgwMDY3MywtNjMyODE5
-MTY2XX0=
+eyJoaXN0b3J5IjpbLTQ1MjY2MjkxNSwtMTE0MTQ1NTkwMSwtMT
+E4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5MDUzMzIsOTE1ODAw
+NjczLC02MzI4MTkxNjZdfQ==
 -->
