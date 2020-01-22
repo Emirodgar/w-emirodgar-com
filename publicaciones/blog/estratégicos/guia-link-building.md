@@ -34,6 +34,7 @@ Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
 - **Texto ancla**: o *anchor text*. Es el término con el que nos están enlazando. Es importante que sea un término importante para nuestra web. 
 - **Atributos de enlace**: nos permiten cualificar la naturaleza de un enlace con [tres atributos](https://emirodgar.com/atributos-enlaces-google): ugc, sponsored y nofollow.
 - **Nofollow y Dofollow**: los enlaces `nofollow` no sirven, de momento, para el SEO. Los `dofollow` sí aportan valor y popularidad.
+- **DA** y **PA**: DA son las siglas de Domain Authority (autoridad de dominio) y PA de Page Authority (autoridad de página). Estas métricas miden la calidad/popularidad de un dominio entero o de una página concreta.
 
 En la siguiente imagen explico en detalle los diferentes tipos de atributo de los enlaces y su **impacto en las estrategias SEO**.
 
@@ -224,7 +225,8 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTE3OTgwMiwtMTk5OTA3MDA4OCwtMT
-E0MTQ1NTkwMSwtMTE4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5
-MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
+eyJoaXN0b3J5IjpbMTc2OTkxNjU3MywyMDcxMTc5ODAyLC0xOT
+k5MDcwMDg4LC0xMTQxNDU1OTAxLC0xMTg3Mzk1NzI3LC05MTg1
+NTcxMTEsLTc2MDkwNTMzMiw5MTU4MDA2NzMsLTYzMjgxOTE2Nl
+19
 -->
