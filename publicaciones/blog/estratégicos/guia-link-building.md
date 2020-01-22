@@ -95,13 +95,14 @@ A continuación dejo un listado de páginas relevantes donde poder crear perfile
 9.  Medium
 10. Quora 
 
-También debemos alinearnos -si tenemos- con nuestro perfil de Google My Business para potenciar el [SEO local](https://emirodgar.com/posicionamiento-seo-local).
+También debemos alinearnos -si tenemos- con la información de nuestro perfil de Google My Business para potenciar el [SEO local](https://emirodgar.com/posicionamiento-seo-local).
 
 En este punto no importa que aún no tengamos contenido que incluir en todas ellas. Más adelante, y en función de las estrategias digitales implementadas, cada una tendrá una función adicional y será explotada de forma independiente.
 
 ### 2- Búsquedas de marca ¿dónde aparecemos?
 
-El listado anterior puede ser completado en aquellos sitios donde **ya aparece nuestra marca**. Esto puede deberse a que alguien nos ha mencionado o que nuestro perfil ha sido creado. En este último escenario tendríamos que reclamarlo para poder hacer los cambios necesarios e incluir un enlace hacia nuestra web.
+El objetivo de esta táctica es identificar páginas web donde estén hablando de nosotros y solicitar -si no existiera- que incluyan un enlace hacia nuestra página. Básicamente se trata de monitorizar la marca y asegurarnos de que nos enlazan correctamente.
+
 
 > Recomiendo dar de alta nuestra marca en [Google Alerts](https://www.google.es/alerts) para detectar cuándo alguien habla de nosotros. En ese momento debemos solicita un enlace (si no lo tuviera).
 
@@ -205,7 +206,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTMxNjAyOCwtMTk5OTA3MDA4OCwtMT
-E0MTQ1NTkwMSwtMTE4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5
-MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
+eyJoaXN0b3J5IjpbMTgwODQ1MDMxLC0xOTk5MDcwMDg4LC0xMT
+QxNDU1OTAxLC0xMTg3Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkw
+NTMzMiw5MTU4MDA2NzMsLTYzMjgxOTE2Nl19
 -->
