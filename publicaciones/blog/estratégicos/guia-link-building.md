@@ -187,7 +187,9 @@ Lógicamente antes tendremos que validar y valorar si dichos directorios tienen 
 
 ### 7- Buscar enlaces rotos
 
-Otra táctica para encontrar 
+Otra táctica para conseguir enlaces de calidad es identificar páginas del sector con gran volumen de tráfico y enlaces relacionados. 
+
+la idea es 
 
 ## <a name="penalizacion"></a> Evitar penalizaciones
 
@@ -195,7 +197,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjY2MjkxNSwtMTE0MTQ1NTkwMSwtMT
-E4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5MDUzMzIsOTE1ODAw
-NjczLC02MzI4MTkxNjZdfQ==
+eyJoaXN0b3J5IjpbLTIwNzI2NTU0OTMsLTExNDE0NTU5MDEsLT
+ExODczOTU3MjcsLTkxODU1NzExMSwtNzYwOTA1MzMyLDkxNTgw
+MDY3MywtNjMyODE5MTY2XX0=
 -->
