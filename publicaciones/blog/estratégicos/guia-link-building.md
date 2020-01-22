@@ -99,12 +99,11 @@ También debemos alinearnos -si tenemos- con la información de nuestro perfil d
 
 En este punto no importa que aún no tengamos contenido que incluir en todas ellas. Más adelante, y en función de las estrategias digitales implementadas, cada una tendrá una función adicional y será explotada de forma independiente.
 
-### 2- Búsquedas de marca ¿dónde aparecemos?
+### 2- Búsquedas de marca ¿quién habla de nosotros?
 
-El objetivo de esta táctica es identificar páginas web donde estén hablando de nosotros y solicitar -si no existiera- que incluyan un enlace hacia nuestra página. Básicamente se trata de monitorizar la marca y asegurarnos de que nos enlazan correctamente.
+El objetivo de esta táctica es identificar páginas web donde estén hablando de nosotros y solicitar -si no existiera- que incluyan un enlace hacia nuestra página. Básicamente se trata de **monitorizar la marca** y asegurarnos de que nos enlazan correctamente.
 
-
-> Recomiendo dar de alta nuestra marca en [Google Alerts](https://www.google.es/alerts) para detectar cuándo alguien habla de nosotros. En ese momento debemos solicita un enlace (si no lo tuviera).
+> Recomiendo dar de alta nuestra marca en [Google Alerts](https://www.google.es/alerts) para detectar cuándo alguien habla de nosotros. 
 
 A continuación se hace un pequeño recopilatorio de páginas donde nuestra marca puede aparecer. Dependiendo del mercado el listado puede cambiar, pero es importante adelantarnos y monitorizar estos sitios para asegurarnos de que la información que ofrecen es positiva y de que siempre existe un enlace hacia nuestra web.
 
@@ -206,7 +205,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODQ1MDMxLC0xOTk5MDcwMDg4LC0xMT
+eyJoaXN0b3J5IjpbNzcxMDIzMjAxLC0xOTk5MDcwMDg4LC0xMT
 QxNDU1OTAxLC0xMTg3Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkw
 NTMzMiw5MTU4MDA2NzMsLTYzMjgxOTE2Nl19
 -->
