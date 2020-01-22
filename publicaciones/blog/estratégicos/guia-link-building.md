@@ -182,6 +182,8 @@ Los pasos a seguir serían los siguientes:
  1. Accedemos a [https://images.google.com/](https://images.google.com/)
  2. Hacemos click sobre el icono de la cámara "buscar por imagen"
  3. Subimos nuestra imagen
+ 4. Identificamos páginas que hacen uso de nuestras creatividades y que no nos han enlazado
+ 5. Les enviamos un email para solicitar un enlace
 
 ### 5- Crear contenidos atractivos para tu público objetivo
 
@@ -220,7 +222,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDUyODE3MSwtMTk5OTA3MDA4OCwtMT
+eyJoaXN0b3J5IjpbLTczNDY4NDI5OSwtMTk5OTA3MDA4OCwtMT
 E0MTQ1NTkwMSwtMTE4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5
 MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
 -->
