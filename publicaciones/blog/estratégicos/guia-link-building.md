@@ -83,7 +83,7 @@ El primer paso para conseguir **enlaces de marca**  será crearnos perfiles en a
 
 > No todas nos permitirán un enlace `dofollow` pero en este punto lo que buscamos es reforzar nuestra marca y **conseguir autoridad a ojos de los buscadores**.
 
-A continuación dejo un listado de páginas relevantes donde poder crear nuestro perfil. Es importante ser uniformes en la información, logos y enlaces que incluyamos en todas ellas.
+A continuación dejo un listado de páginas relevantes donde poder crear nuestro perfil. Es importante ser uniformes en la información, logos y enlaces que incluyamos en todas ellas. Debemos alinearnos -si tenemos- con nuestro perfil de Google My Business para potenciar el [SEO local](https://emirodgar.com/posicionamiento-seo-local).
 
 1.  LinkedIn
 2.  Facebook
@@ -204,7 +204,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNDMzNDQ5LC0xOTk5MDcwMDg4LC0xMT
-QxNDU1OTAxLC0xMTg3Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkw
-NTMzMiw5MTU4MDA2NzMsLTYzMjgxOTE2Nl19
+eyJoaXN0b3J5IjpbMTM1NTg2NjQ3NCwtMTk5OTA3MDA4OCwtMT
+E0MTQ1NTkwMSwtMTE4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5
+MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
 -->
