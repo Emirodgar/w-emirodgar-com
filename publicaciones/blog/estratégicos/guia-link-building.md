@@ -189,7 +189,11 @@ Lógicamente antes tendremos que validar y valorar si dichos directorios tienen 
 
 Otra táctica para conseguir enlaces de calidad es identificar páginas del sector con gran volumen de tráfico y enlaces relacionados. 
 
-la idea es 
+La idea es buscar enlaces rotos (que ya no funcionan) y escribir al responsable informando de ello y proponiendo un enlace que sí funcione: el nuestro.  
+
+Para identificar enlaces rotos dentro de una página podemos hacer uso de diversas herramientas:
+ - [Xenu broken links](http://home.snafu.de/tilman/xenulink.html)
+ - [ScreamingFrog](https://www.screamingfrog.co.uk/seo-spider/)
 
 ## <a name="penalizacion"></a> Evitar penalizaciones
 
@@ -197,7 +201,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI2NTU0OTMsLTExNDE0NTU5MDEsLT
-ExODczOTU3MjcsLTkxODU1NzExMSwtNzYwOTA1MzMyLDkxNTgw
-MDY3MywtNjMyODE5MTY2XX0=
+eyJoaXN0b3J5IjpbODk1MDc4MzI3LC0xMTQxNDU1OTAxLC0xMT
+g3Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkwNTMzMiw5MTU4MDA2
+NzMsLTYzMjgxOTE2Nl19
 -->
