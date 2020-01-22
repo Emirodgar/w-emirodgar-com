@@ -79,7 +79,7 @@ Debemos evitar es utilizar `anchor text` como "ver mas", "pinche aquí", o cualq
 
 ### 1- Crear un perfil público en la red
 
-El primer paso para conseguir **enlaces de marca**  será crearnos perfiles en aquellas redes sociales que nos lo permitan y cuya reputación sea alta. 
+El primer paso para conseguir **enlaces y reputación de marca**  será crear perfiles en aquellas redes sociales que nos lo permitan y cuya reputación sea alta. 
 
 > No todas nos permitirán un enlace `dofollow` pero en este punto lo que buscamos es reforzar nuestra marca y **conseguir autoridad a ojos de los buscadores**.
 
@@ -96,7 +96,7 @@ A continuación dejo un listado de páginas relevantes donde poder crear nuestro
 9.  Medium
 10. Quora 
 
-En este punto no importa que aún no tengamos contenido que incluir en todas ellas. Más adelante y en función de las estrategias digitales implementadas, cada una tendrá una función adicional.
+En este punto no importa que aún no tengamos contenido que incluir en todas ellas. Más adelante, y en función de las estrategias digitales implementadas, cada una tendrá una función adicional.
 
 ### 2- Búsquedas de marca ¿dónde aparecemos?
 
@@ -204,7 +204,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTg2NjQ3NCwtMTk5OTA3MDA4OCwtMT
-E0MTQ1NTkwMSwtMTE4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5
-MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
+eyJoaXN0b3J5IjpbLTY2NTA1NjQ1LC0xOTk5MDcwMDg4LC0xMT
+QxNDU1OTAxLC0xMTg3Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkw
+NTMzMiw5MTU4MDA2NzMsLTYzMjgxOTE2Nl19
 -->
