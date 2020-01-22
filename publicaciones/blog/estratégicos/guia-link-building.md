@@ -14,7 +14,7 @@ permalink: guia-link-building
 
 # Guía Link building SEO 2020
 
-Esta guía pretende ayudarnos a diseñar y ejecutar correctamente una **estrategia de link building** para favorecer el SEO.
+Esta guía pretende ayudarnos a diseñar y ejecutar correctamente una **estrategia de link building** para favorecer el SEO. Está ac
 
  - [Conceptos básicos](#conceptos)
  - [Consejos para generar enlaces](#consejos)
@@ -190,6 +190,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODczOTU3MjcsLTkxODU1NzExMSwtNz
-YwOTA1MzMyLDkxNTgwMDY3MywtNjMyODE5MTY2XX0=
+eyJoaXN0b3J5IjpbLTExMTM2NDIxMDIsLTExODczOTU3MjcsLT
+kxODU1NzExMSwtNzYwOTA1MzMyLDkxNTgwMDY3MywtNjMyODE5
+MTY2XX0=
 -->
