@@ -90,7 +90,6 @@ A continuación dejo un listado de páginas relevantes donde poder crear perfile
 3.  Twitter
 4.  YouTube
 5.  Instagram
-6.  Houzz
 7.  Reddit
 8.  Vimeo
 9.  Medium
@@ -102,9 +101,9 @@ En este punto no importa que aún no tengamos contenido que incluir en todas ell
 
 ### 2- Búsquedas de marca ¿dónde aparecemos?
 
-El listado anterior puede ser completado en aquellos sitios donde **ya aparece nuestra marca indexada**. Esto puede deberse a que alguien nos ha mencionado o que nuestro perfil ha sido creado. En este último escenario tendríamos que reclamarlo para poder hacer los cambios necesarios.
+El listado anterior puede ser completado en aquellos sitios donde **ya aparece nuestra marca**. Esto puede deberse a que alguien nos ha mencionado o que nuestro perfil ha sido creado. En este último escenario tendríamos que reclamarlo para poder hacer los cambios necesarios e incluir un enlace hacia nuestra web.
 
-> Recomiendo dar de alta nuestra marca en [Google Alerts](https://www.google.es/alerts) para detectar cuándo alguien habla de nosotros. En ese momento, solicitamos un enlace (si no lo tuviera).
+> Recomiendo dar de alta nuestra marca en [Google Alerts](https://www.google.es/alerts) para detectar cuándo alguien habla de nosotros. En ese momento debemos solicita un enlace (si no lo tuviera).
 
 A continuación se hace un pequeño recopilatorio de páginas donde nuestra marca puede aparecer. Dependiendo del mercado el listado puede cambiar, pero es importante adelantarnos y monitorizar estos sitios para asegurarnos de que la información que ofrecen es positiva y de que siempre existe un enlace hacia nuestra web.
 
@@ -206,7 +205,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDEwMzcyNjQsLTE5OTkwNzAwODgsLT
-ExNDE0NTU5MDEsLTExODczOTU3MjcsLTkxODU1NzExMSwtNzYw
-OTA1MzMyLDkxNTgwMDY3MywtNjMyODE5MTY2XX0=
+eyJoaXN0b3J5IjpbMTU3MTMxNjAyOCwtMTk5OTA3MDA4OCwtMT
+E0MTQ1NTkwMSwtMTE4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5
+MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
 -->
