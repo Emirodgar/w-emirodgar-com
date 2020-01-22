@@ -35,7 +35,7 @@ Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
 - **Atributos de enlace**: nos permiten cualificar la naturaleza de un enlace con [tres atributos](https://emirodgar.com/atributos-enlaces-google): ugc, sponsored y nofollow.
 - **Nofollow y Dofollow**: los enlaces `nofollow` no sirven, de momento, para el SEO. Los `dofollow` sí aportan valor y popularidad.
 - **DA** y **PA**: DA son las siglas de Domain Authority (autoridad de dominio) y PA de Page Authority (autoridad de página). Estas métricas de la aplicación Moz miden la calidad/popularidad de un dominio entero o de una página concreta. Su valor es de 0 (nulo) a 100 (el más alto).
-- **DR** y **UR**: DR son las siglas de Domain Rate (autoridad de dominio) y UR de URL Rate (autoridad de página). Son utilizadas por Ahrefs
+- **DR** y **UR**: DR son las siglas de Domain Rating (autoridad de dominio) y UR de URL Rating (autoridad de página). Son utilizadas por Ahrefs y al igual que las anteriores van de 0 a 100 para validar la calidad/popularidad de un sitio web o de una página concreta.
 
 En la siguiente imagen explico en detalle los diferentes tipos de atributo de los enlaces y su **impacto en las estrategias SEO**.
 
@@ -226,7 +226,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Mzg2NTM2OSwyMDcxMTc5ODAyLC0xOT
+eyJoaXN0b3J5IjpbLTE0ODI5ODIwMSwyMDcxMTc5ODAyLC0xOT
 k5MDcwMDg4LC0xMTQxNDU1OTAxLC0xMTg3Mzk1NzI3LC05MTg1
 NTcxMTEsLTc2MDkwNTMzMiw5MTU4MDA2NzMsLTYzMjgxOTE2Nl
 19
