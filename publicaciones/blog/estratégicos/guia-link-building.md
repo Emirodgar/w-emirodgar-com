@@ -79,11 +79,11 @@ Debemos evitar es utilizar `anchor text` como "ver mas", "pinche aquí", o cualq
 
 ### 1- Crear un perfil público en la red
 
-El primer paso para conseguir **enlaces y reputación de marca**  será crear perfiles en aquellas redes sociales que nos lo permitan y cuya reputación sea alta. 
+El primer paso para conseguir **enlaces y reputación de marca**  será crear perfiles en aquellas redes sociales cuya reputación sea alta y donde esté nuestro publico objetivo. 
 
 > No todas nos permitirán un enlace `dofollow` pero en este punto lo que buscamos es reforzar nuestra marca y **conseguir autoridad a ojos de los buscadores**.
 
-A continuación dejo un listado de páginas relevantes donde poder crear nuestro perfil. Es importante ser uniformes en la información, logos y enlaces que incluyamos en todas ellas. Debemos alinearnos -si tenemos- con nuestro perfil de Google My Business para potenciar el [SEO local](https://emirodgar.com/posicionamiento-seo-local).
+A continuación dejo un listado de páginas relevantes donde poder crear perfiles web. Es importante ser uniformes en la información, logos y enlaces que incluyamos en todas ellas. 
 
 1.  LinkedIn
 2.  Facebook
@@ -96,7 +96,9 @@ A continuación dejo un listado de páginas relevantes donde poder crear nuestro
 9.  Medium
 10. Quora 
 
-En este punto no importa que aún no tengamos contenido que incluir en todas ellas. Más adelante, y en función de las estrategias digitales implementadas, cada una tendrá una función adicional.
+También debemos alinearnos -si tenemos- con nuestro perfil de Google My Business para potenciar el [SEO local](https://emirodgar.com/posicionamiento-seo-local).
+
+En este punto no importa que aún no tengamos contenido que incluir en todas ellas. Más adelante, y en función de las estrategias digitales implementadas, cada una tendrá una función adicional y será explotada de forma independiente.
 
 ### 2- Búsquedas de marca ¿dónde aparecemos?
 
@@ -204,7 +206,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTA1NjQ1LC0xOTk5MDcwMDg4LC0xMT
-QxNDU1OTAxLC0xMTg3Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkw
-NTMzMiw5MTU4MDA2NzMsLTYzMjgxOTE2Nl19
+eyJoaXN0b3J5IjpbLTE4NDEwMzcyNjQsLTE5OTkwNzAwODgsLT
+ExNDE0NTU5MDEsLTExODczOTU3MjcsLTkxODU1NzExMSwtNzYw
+OTA1MzMyLDkxNTgwMDY3MywtNjMyODE5MTY2XX0=
 -->
