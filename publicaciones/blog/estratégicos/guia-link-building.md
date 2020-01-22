@@ -194,6 +194,7 @@ La idea es buscar enlaces rotos (que ya no funcionan) y escribir al responsable 
 Para identificar enlaces rotos dentro de una página podemos hacer uso de diversas herramientas:
  - [Xenu broken links](http://home.snafu.de/tilman/xenulink.html)
  - [ScreamingFrog](https://www.screamingfrog.co.uk/seo-spider/)
+ - Extensiones para Chrome como LinkMiner o Check My Links
 
 ## <a name="penalizacion"></a> Evitar penalizaciones
 
@@ -201,7 +202,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1MDc4MzI3LC0xMTQxNDU1OTAxLC0xMT
-g3Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkwNTMzMiw5MTU4MDA2
-NzMsLTYzMjgxOTE2Nl19
+eyJoaXN0b3J5IjpbLTE5OTkwNzAwODgsLTExNDE0NTU5MDEsLT
+ExODczOTU3MjcsLTkxODU1NzExMSwtNzYwOTA1MzMyLDkxNTgw
+MDY3MywtNjMyODE5MTY2XX0=
 -->
