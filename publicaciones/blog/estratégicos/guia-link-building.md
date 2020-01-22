@@ -35,7 +35,7 @@ Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
 - **Atributos de enlace**: nos permiten cualificar la naturaleza de un enlace con [tres atributos](https://emirodgar.com/atributos-enlaces-google): ugc, sponsored y nofollow.
 - **Nofollow y Dofollow**: los enlaces `nofollow` no sirven, de momento, para el SEO. Los `dofollow` sí aportan valor y popularidad.
 
-En la siguiente imagen explico en 
+En la siguiente imagen explico en detalle los diferentes tipos de atributo de los enlaces y su **impacto en las estrategias SEO**.
 
 <amp-twitter 
   width="375"
@@ -44,7 +44,7 @@ En la siguiente imagen explico en
   data-tweetid="1207679355150831620">
 </amp-twitter>
 
-Veamos unos ejemplos de cómo serían varios enlaces si viéramos el código fuente (HTML)
+Veamos unos ejemplos de cómo serían varios enlaces en el código fuente (HTML) de una página web.
 
 ```html
 <a href="https://mipagina.com">anchor text</a>
@@ -60,7 +60,7 @@ Si nuestra web trata de venta de coches usados no tendría ningún sentido obten
 
 ### b) Enlaces dentro de contenido
 
-Un [factor SEO](https://emirodgar.com/factores-seo) importante es el contexto que unifica los diversos elementos de una página web. Por ello, para que los robots de búsqueda valoren más nuestro enlace es imprescindible que éste se ubique dentro de un contenido relacionado.
+Un [factor SEO](https://emirodgar.com/factores-seo) importante es el contexto que unifica los diversos elementos de una página web. Por ello, para que los robots de búsqueda valoren más nuestro enlace es imprescindible que esté ubicado dentro de un contenido relacionado.
 
 ### c) Evitar enlaces en menús o al final de la página
 
@@ -204,7 +204,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQxNDk0NTcsLTE5OTkwNzAwODgsLT
+eyJoaXN0b3J5IjpbLTE1NTc0NDg2NjcsLTE5OTkwNzAwODgsLT
 ExNDE0NTU5MDEsLTExODczOTU3MjcsLTkxODU1NzExMSwtNzYw
 OTA1MzMyLDkxNTgwMDY3MywtNjMyODE5MTY2XX0=
 -->
