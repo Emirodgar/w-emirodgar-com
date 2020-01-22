@@ -118,6 +118,7 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
  9. Zoominfo
  10. Mapquest
 
+Además de monitorizar la marca también es recomendable hacerlo con los nombres de **directivos**, **colaboradores**, estudios realizados, etc. Todo lo que nos represente y pueda generar un enalace a nuestra página. 
 
 ### 3- Identificar enlaces de los competidores
 
@@ -205,7 +206,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxMDIzMjAxLC0xOTk5MDcwMDg4LC0xMT
+eyJoaXN0b3J5IjpbNTk5NDAzNjMyLC0xOTk5MDcwMDg4LC0xMT
 QxNDU1OTAxLC0xMTg3Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkw
 NTMzMiw5MTU4MDA2NzMsLTYzMjgxOTE2Nl19
 -->
