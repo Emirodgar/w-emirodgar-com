@@ -118,13 +118,13 @@ A continuación se hace un pequeño recopilatorio de páginas donde nuestra marc
  9. Zoominfo
  10. Mapquest
 
-Además de monitorizar la marca también es recomendable hacerlo con los nombres de **directivos**, **colaboradores**, estudios realizados, etc. Todo lo que nos represente y pueda generar un enalace a nuestra página. 
+Además de monitorizar la marca también es recomendable hacerlo con aquello lo que nos represente y pueda generar un enlace a nuestra página; por ejemplo: nombres de **directivos**, **colaboradores**, **estudios realizados**, etc.  
 
 ### 3- Identificar enlaces de los competidores
 
 Una buena práctica para conseguir enlaces de calidad es analizar el perfil de enlazado de nuestros principales competidores para identificar aquellas páginas que aportan valor y en las que nosotros también podemos conseguir un *backlink*.
 
-> Una herramienta potente y eficaz para esta tarea es [SEO Spy glass](https://www.seopowersuite.es/seo-spyglass/) que aunque es de pago dispone de una versión limitada más que suficiente para espiar a nuestros competidores.
+> Una herramienta potente y eficaz para esta tarea es [SEO Spy Glass](https://www.seopowersuite.es/seo-spyglass/) que aunque es de pago dispone de una versión limitada más que suficiente para espiar a nuestros competidores.
 
 Existen otras herramientas de pago que también nos permiten analizar los enlaces de la competencia:
 
@@ -206,7 +206,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5NDAzNjMyLC0xOTk5MDcwMDg4LC0xMT
-QxNDU1OTAxLC0xMTg3Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkw
-NTMzMiw5MTU4MDA2NzMsLTYzMjgxOTE2Nl19
+eyJoaXN0b3J5IjpbLTIyNjU0MjkyMCwtMTk5OTA3MDA4OCwtMT
+E0MTQ1NTkwMSwtMTE4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5
+MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
 -->
