@@ -133,13 +133,17 @@ Existen otras herramientas de pago que también nos permiten analizar los enlace
  - Semrush
  - Moz
 
+Todas ellas nos permitirán conocer desde qué páginas están consiguiendo *backlinks* y si estos son de calidad o no. 
+
+Una vez que sepamos dónde han conseguido sus enlaces nuestros competidores será cuestión de contactar o replicar de forma manual para conseguir nosotros también aparecer en dichas páginas. 
+
 > Para conocer el email de contacto de una página web podemos hacer uso de servicios como [Hunter.io](https://hunter.io/) o [Voilanorbert](https://www.voilanorbert.com/)
 
-Una vez que sabemos dónde han conseguido sus enlaces nuestros competidores será cuestión de contactar o replicar de forma manual para conseguir nosotros también aparecer en dichas páginas. Lógicamente esta estrategia debe ser complementaria a otras acciones puesto que si únicamente repetimos los enlaces de nuestros competidores, será complicado superarlos en los rankings de los buscadores.
+Lógicamente esta estrategia debe ser complementaria a otras acciones puesto que si únicamente repetimos los enlaces de nuestros competidores, será complicado superarlos en los rankings de los buscadores.
 
 ### 4- Identificar enlaces del sector
 
-Se trata de aplicar la misma práctica que en el punto anterior pero en lugar de analizar los enlaces de los competidores, lo haremos de páginas del sector.
+Se trata de aplicar la misma táctica que en el punto anterior pero en lugar de analizar los enlaces de los competidores, lo haremos de páginas del sector.
 
 El primer paso será identificar el contenido relacionado que mejor resultados ha generado en redes sociales. Para ello podemos usar [Buzzsumo](https://buzzsumo.com/).
 
@@ -206,7 +210,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjE2ODQ4OSwtMTk5OTA3MDA4OCwtMT
+eyJoaXN0b3J5IjpbMTI1MjYyMDI2NCwtMTk5OTA3MDA4OCwtMT
 E0MTQ1NTkwMSwtMTE4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5
 MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
 -->
