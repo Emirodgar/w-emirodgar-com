@@ -73,13 +73,13 @@ Hace años, para poder posicionar necesitábamos ser enlazados una y otra vez co
 
 ### e) Evitar términos sin valor
 
-Lo único que tenemos que evitar es utilizar un `anchor text` como "ver mas", "pinche aquí", etc. El término que nos enlace debe ser descriptivo y estar relacionado con el contenido final.
+Debemos evitar es utilizar `anchor text` como "ver mas", "pinche aquí", o cualquier otro término que no describa ni aporte valor SEO a la página de destino. El término que nos enlace debe ser descriptivo y estar relacionado con el contenido final.
 
 ## <a name="estrategias"></a>Estrategia link building 2020 - cómo conseguir enlaces
 
 ### 1- Crear un perfil público en la red
 
-El primer paso para conseguir enlaces de marca y con buena reputación será crearnos perfiles en aquellas redes sociales que nos lo permitan y cuya reputación sea alta. 
+El primer paso para conseguir **enlaces de marca**  será crearnos perfiles en aquellas redes sociales que nos lo permitan y cuya reputación sea alta. 
 
 > No todas nos permitirán un enlace `dofollow` pero en este punto lo que buscamos es reforzar nuestra marca y **conseguir autoridad a ojos de los buscadores**.
 
@@ -204,7 +204,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc0NDg2NjcsLTE5OTkwNzAwODgsLT
-ExNDE0NTU5MDEsLTExODczOTU3MjcsLTkxODU1NzExMSwtNzYw
-OTA1MzMyLDkxNTgwMDY3MywtNjMyODE5MTY2XX0=
+eyJoaXN0b3J5IjpbMjIyNDMzNDQ5LC0xOTk5MDcwMDg4LC0xMT
+QxNDU1OTAxLC0xMTg3Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkw
+NTMzMiw5MTU4MDA2NzMsLTYzMjgxOTE2Nl19
 -->
