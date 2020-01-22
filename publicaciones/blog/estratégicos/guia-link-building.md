@@ -122,7 +122,7 @@ Además de monitorizar la marca también es recomendable hacerlo con aquello lo 
 
 ### 3- Identificar enlaces de los competidores
 
-Una buena práctica para conseguir enlaces de calidad es analizar el perfil de enlazado de nuestros principales competidores para identificar aquellas páginas que aportan valor y en las que nosotros también podemos conseguir un *backlink*.
+Una buena práctica para conseguir enlaces de calidad es analizar el **perfil de enlazado de nuestros principales competidores** para identificar aquellas páginas donde han conseguido enlaces y en las que nosotros también podríamos aparecer.
 
 > Una herramienta potente y eficaz para esta tarea es [SEO Spy Glass](https://www.seopowersuite.es/seo-spyglass/) que aunque es de pago dispone de una versión limitada más que suficiente para espiar a nuestros competidores.
 
@@ -206,7 +206,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjU0MjkyMCwtMTk5OTA3MDA4OCwtMT
+eyJoaXN0b3J5IjpbLTk5MjE2ODQ4OSwtMTk5OTA3MDA4OCwtMT
 E0MTQ1NTkwMSwtMTE4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5
 MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
 -->
