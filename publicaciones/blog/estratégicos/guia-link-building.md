@@ -166,14 +166,14 @@ La idea es poder ofrecer a la página **contenido relacionado de calidad que cua
 
 ### 4- Crear material visual 
 
-Es una pieza importante; si creamos material visual que a la gente le guste lo más normal es que lo reutilicen y nos enlacen como fuente original. Los recursos que mejor suelen funcionar son:
+Es una pieza fundamental en cualquier estrategia de *linking*. Si creamos material visual que a la gente le guste lo más normal es que lo reutilicen y **nos enlacen como fuente original**. Los recursos que mejor suelen funcionar son:
 
  - Imágenes propias
  - Gráficos propios
  - Diagramas explicativos
  - Infografías
 
-En esta táctica podemos reutilizar también la de buscar aquellas páginas que están usando nuestras imágenes pero no nos han enlazado.
+En esta táctica podemos reutilizar también la de buscar aquellas páginas que están usando nuestras imágenes pero no nos hayan enlazado.
 
 > Google permite hacer búsquedas inversas de imágenes para identificar en qué páginas se están usando.
 
@@ -187,7 +187,9 @@ Los pasos a seguir serían los siguientes:
 
 ### 5- Crear contenidos atractivos para tu público objetivo
 
-A continuación se detallan algunas acciones que nos permiten crear contenido de interés para nuestro público objetivo
+El disponer de un contenido atractivo y de valor se convertirá en una fuente de enlaces natural y escalable en el tiempo.
+
+A continuación se detallan algunas acciones que nos permiten crear contenido de interés para nuestro público objetivo.
 
  - Sección de preguntas y respuestas
  - Listados de recursos que puedan necesitar
@@ -222,7 +224,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDY4NDI5OSwtMTk5OTA3MDA4OCwtMT
+eyJoaXN0b3J5IjpbMjA3MTE3OTgwMiwtMTk5OTA3MDA4OCwtMT
 E0MTQ1NTkwMSwtMTE4NzM5NTcyNywtOTE4NTU3MTExLC03NjA5
 MDUzMzIsOTE1ODAwNjczLC02MzI4MTkxNjZdfQ==
 -->
