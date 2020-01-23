@@ -185,14 +185,14 @@ Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas pu
   data-tweetid="1199246796297519109">
 </amp-twitter>
 
-A finales de 2019 
+A finales de 2019 se puede ver toda la evolución seguida. El cambio más grande se originó a raíz de incorporar los enlaces pero
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDkwODQ5MCwtMTcyNzQwMDIyOCw1MD
-kxMDI3NCwtODU5MzU3NTg0LDg4OTg4NDMwMSwtNzEzNzk4MTg0
-LDIwMDk4NzQxOTQsMTEwNDAyNjQwNl19
+eyJoaXN0b3J5IjpbOTUwMDQwOTI4LC0xNzI3NDAwMjI4LDUwOT
+EwMjc0LC04NTkzNTc1ODQsODg5ODg0MzAxLC03MTM3OTgxODQs
+MjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
 -->
