@@ -27,11 +27,11 @@ Para ello voy a utilizar  el dominio emirodgar.com, el cual tenía abandonado de
   data-tweetid="1095273190971113473">
 </amp-twitter>
 
-Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, nos servirá para analizar una estrategia SEO real.
+Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, nos servirá para analizar los resultados de una estrategia SEO real.
 
 ## Estrategia digital paso a paso
 
-índice de las acciones llevadas a cabo en la estrategia SEO.
+Índice de las acciones llevadas a cabo en la estrategia SEO.
 
 | Mes      | Tareas SEO / Estrategia      
 |----------|----------------------------------
@@ -49,7 +49,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
   layout="responsive">
 </amp-img>
 
-He comenzado lanzando una primera versión de la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
+He comenzado lanzando una primera versión de la página principal muy básica para que Google me vaya indexando. Sólo es la home El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
 
 He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) (GSC) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
 
@@ -147,5 +147,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzA2OTM1OV19
+eyJoaXN0b3J5IjpbODA2NzY0OTcxXX0=
 -->
