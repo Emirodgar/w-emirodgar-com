@@ -79,14 +79,7 @@ Con sólo dos URLs indexadas y una posición media de 64 dentro de Google Españ
 
 ## <a name="usabilidad-seo"></a>3- Usabilidad SEO (optimizar tiempo de carga)
  
-
-
-
-
-
 Los siguientes esfuerzos los he invertido en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
-
-Aunque soy consciente de que podría llegar a optimizar algo más, no he querido obsesionarme.
 
 <amp-img alt="Métricas usabilidad SEO web.dev del dominio emirodgar.com"
   src="https://i.imgur.com/5sI2ybv.png"
@@ -104,11 +97,9 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
   layout="responsive">
 </amp-img>
 
-## <a name="abril"></a>3- Más puertas de entrada
+
+## <a name="captacion"></a>3- Más puertas de entrada
  
- - Resultados: 10 clics / 0 conversiones
- - Páginas indexadas: 9
- - Posicionamiento: XX / 12 términos relacionados
 
 Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en tres partes:
 
@@ -125,7 +116,7 @@ Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. 
     -   [Mapa web](https://emirodgar.com/mapa-web)
     - [Listado de publicaciones](https://emirodgar.com/publicaciones)
 
-He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO y también he subido a GSC un sitemap XML para facilitar el seguimiento de la indexación.
+He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO y también he subido a Search Console un sitemap XML para facilitar el seguimiento de la indexación.
 
 
 ## <a name="abril"></a>Abril: Optimización del contenido
@@ -155,6 +146,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTQ1MzQ1NywyMDA5ODc0MTk0LDExMD
+eyJoaXN0b3J5IjpbLTcxMzc5ODE4NCwyMDA5ODc0MTk0LDExMD
 QwMjY0MDZdfQ==
 -->
