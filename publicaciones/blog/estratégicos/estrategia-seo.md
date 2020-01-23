@@ -3,7 +3,7 @@ description: Estrategia paso a paso para posicionar por Consultor SEO con herram
 lang: es_ES
 sitemap: 1
 feed: 1
-date:
+date: 23/01/2020
 folder: estrategicos
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: estrategia-seo
@@ -214,7 +214,7 @@ Tengo muchas ideas y ganas de seguir ejecutando acciones SEO en emirodgar.com pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTkzMzM1MCwtMTgxMDExNTQ0LDk1MD
+eyJoaXN0b3J5IjpbMTk0MjY4MDgzOCwtMTgxMDExNTQ0LDk1MD
 A0MDkyOCwtMTcyNzQwMDIyOCw1MDkxMDI3NCwtODU5MzU3NTg0
 LDg4OTg4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQsMTEwND
 AyNjQwNl19
