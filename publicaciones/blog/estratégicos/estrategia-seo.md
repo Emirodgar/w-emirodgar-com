@@ -161,7 +161,14 @@ No son muchos pero están afectando tanto a la indexación de ciertas páginas c
  1. He identificado un problema en las imágenes con AMP. Es un problema que afecta a la validación de dicha tecnología y que impide que ésta genere un buen renderizado en dispositivos móviles.
  2. He identificado problemas de contenido duplicado para varias URLs debido a configuraciones erróneas del servidor web.
  
- También he aprovechado para
+ También he aprovechado para mejorar la plantilla de la página web y optimizar aspectos que aún quedaban pendientes consiguiendo así una puntuación perfecta en PageSpeed.
+ 
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1194883372432134144">
+</amp-twitter>
 
 ## <a name="link-building"></a>7- Link Building (generación de enlaces)
 
@@ -179,7 +186,7 @@ Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg4MzQxNzksNTA5MTAyNzQsLTg1OT
-M1NzU4NCw4ODk4ODQzMDEsLTcxMzc5ODE4NCwyMDA5ODc0MTk0
-LDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbLTg3ODc5NTUyNyw1MDkxMDI3NCwtODU5Mz
+U3NTg0LDg4OTg4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQs
+MTEwNDAyNjQwNl19
 -->
