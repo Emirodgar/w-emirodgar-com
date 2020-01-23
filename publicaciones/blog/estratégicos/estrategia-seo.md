@@ -189,7 +189,9 @@ A finales de 2019 se puede ver toda la evolución seguida. El cambio más grande
 
 ## Estrategia SEO 2020
 
-Este proyecto me ha hecho ver que se necesita demasiado tiempo
+Este proyecto me ha hecho ver durante 2019 que, por desgacia, no dispongo del suficiente tiempo libre como para llevarlo a cabo de la mejor forma posible.
+
+Tengo muchas ideas y gan
 
 <amp-twitter 
   width="375"
@@ -203,7 +205,8 @@ Este proyecto me ha hecho ver que se necesita demasiado tiempo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTAxMTU0NCw5NTAwNDA5MjgsLTE3Mj
-c0MDAyMjgsNTA5MTAyNzQsLTg1OTM1NzU4NCw4ODk4ODQzMDEs
-LTcxMzc5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbNTg0NDk1OTYsLTE4MTAxMTU0NCw5NTAwND
+A5MjgsLTE3Mjc0MDAyMjgsNTA5MTAyNzQsLTg1OTM1NzU4NCw4
+ODk4ODQzMDEsLTcxMzc5ODE4NCwyMDA5ODc0MTk0LDExMDQwMj
+Y0MDZdfQ==
 -->
