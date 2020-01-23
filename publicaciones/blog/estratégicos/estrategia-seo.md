@@ -64,24 +64,18 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 He decidido añadir un blog para poder generar **contenido de actualidad** con cierta facilidad. 
 
-Me he animado a hacerlo únicamente con la tecnología de  [AMP](https://www.ampproject.org) será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *[canonical](https://emirodgar.com/etiqueta-canonica)* a una versión normal.
+Me he animado a hacerlo únicamente en [AMP](https://www.ampproject.org). Será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *[canonical](https://emirodgar.com/etiqueta-canonica)* a una versión normal.
 
 La primera publicación del blog ha sido [factores SEO](/factores-seo).  A partir de aquí intentaré generar contenido optimizado de forma periódica.
 
 ## <a name="usabilidad-seo"></a>3- Usabilidad SEO (optimizar tiempo de carga)
  
 
-<amp-img alt="Google Search Console - emirodgar.com"
-  src="https://i.imgur.com/MVStSCU.png"
-  width="981"
-  height="357"
-  layout="responsive">
-</amp-img>
 
 
 
 
-Los siguientes pasos los he invertido en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
+Los siguientes esfuerzos los he invertido en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
 
 Aunque soy consciente de que podría llegar a optimizar algo más, no he querido obsesionarme.
 
@@ -152,6 +146,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTA4MjUzMSwyMDA5ODc0MTk0LDExMD
+eyJoaXN0b3J5IjpbMTg1NDQ4MDYxMiwyMDA5ODc0MTk0LDExMD
 QwMjY0MDZdfQ==
 -->
