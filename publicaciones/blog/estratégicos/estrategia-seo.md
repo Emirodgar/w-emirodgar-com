@@ -42,6 +42,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 | Junio 19 | [Optimizar contenido](#contenido)  / Revisión del contenido en función de los análisis realizados 
 | Julio 19 | [Solucionar errores](#errores)  / Corregir errores asociados a indexación y AMP
 | Septiembre 19 | [Link building](#link-building)  / Conseguir enlaces para impulsar el posicionamiento
+| Septiembre 19 | [Link building](#link-building)  / Conseguir enlaces para impulsar el posicionamiento
 
 
 ## <a name="web"></a> 1- Nueva web con base SEO sólida
@@ -142,6 +143,7 @@ Sin haber trabajado enlaces y únicamente con una optimización *onpage*, he con
   layout="responsive">
 </amp-img>
 
+
 ## <a name="errores"></a>6- Solucionar errores técnicos
 
 El siguiente paso ha sido revisar los errores que aparecen en Google Search Console y solucionarlos. 
@@ -165,12 +167,13 @@ Por muy bien que hayamos trabajado la parte técnica y de contenidos de nuestra 
 
 > Recomiendo seguir esta [guía SEO de link building](https://emirodgar.com/guia-link-building) para conseguir enalces de calidad de forma natural
 
-Lo que he hecho ha sido obtener enlaces desde sitios
+Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas publicaciones y crear perfiles en redes relevantes. Un impulso rápido que se ha notado casi al instante.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTM1NzU4NCw4ODk4ODQzMDEsLTcxMz
-c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbLTc2NzczOTE5NSwtODU5MzU3NTg0LDg4OT
+g4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQsMTEwNDAyNjQw
+Nl19
 -->
