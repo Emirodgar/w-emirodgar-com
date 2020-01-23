@@ -16,7 +16,7 @@ Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en 
 
 ## Definir estrategia y objetivos
 
-Mi objetivo principal será posicionar en el TOP10 de Google España por el término **consultor SEO** y para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
+Mi objetivo principal será posicionar en el TOP10 de Google España por el término **consultor SEO** y relacionados para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
 
 Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
 
@@ -145,5 +145,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MjgzMjY2XX0=
+eyJoaXN0b3J5IjpbLTM5NjY1Mjc3NF19
 -->
