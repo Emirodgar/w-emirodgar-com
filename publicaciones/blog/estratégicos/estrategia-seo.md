@@ -196,7 +196,7 @@ A finales de 2019 se puede ver toda la evolución seguida. El cambio más grande
   data-tweetid="1220315126273921024">
 </amp-twitter>
 
-Se aprecia una caída a finales de diciembre
+Se aprecia una caída a finales de diciembre principalmente por la **pérdida de posición para términos con alto volumen** que estaban en el TOP3 de Google España. Por desgracia aún no he podido realizar un análisis de situación en profundidad y proponer acciones para contrarestar esa caída. Esperemos que a corto plazo saque tiempo y pueda actualizar esta estrategia. 
 
 
 ## Estrategia SEO 2020
@@ -217,8 +217,8 @@ Tengo muchas ideas y ganas de seguir ejecutando acciones SEO en emirodgar.com pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NTAwNDU2LC0xODEwMTE1NDQsOTUwMD
-QwOTI4LC0xNzI3NDAwMjI4LDUwOTEwMjc0LC04NTkzNTc1ODQs
-ODg5ODg0MzAxLC03MTM3OTgxODQsMjAwOTg3NDE5NCwxMTA0MD
-I2NDA2XX0=
+eyJoaXN0b3J5IjpbMTk4NDc5Mzg2MSwtMTgxMDExNTQ0LDk1MD
+A0MDkyOCwtMTcyNzQwMDIyOCw1MDkxMDI3NCwtODU5MzU3NTg0
+LDg4OTg4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQsMTEwND
+AyNjQwNl19
 -->
