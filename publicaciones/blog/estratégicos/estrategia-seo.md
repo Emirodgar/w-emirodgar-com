@@ -38,6 +38,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 | Febrero 19 | [Template con base SEO](#web) / Creación de template (diseño y programación)                  
 | Marzo 19| [Creación de blog](#blog) / Creación de blog con tecnología AMP       |
 | Abril 19 | [Optimizar tiempos de carga](#usabilidad-seo)  / Ampliamos la página web con términos relacionados
+| Mayo 19 | [Crear páginas de captación](#captacion)  / Ampliamos la página web con términos relacionados
 
 
 ## <a name="web"></a> 1- Nueva web con base SEO sólida
@@ -46,7 +47,7 @@ He comenzado lanzando una primera versión de la página principal muy básica p
 
 El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de dicha página.
 
-He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) (GSC) y solicitado la indexación de la única URL del dominio. Se ha indexado al día siguiente.
+He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) y solicitado la indexación de la única URL del dominio. Se ha indexado al día siguiente.
 
 <amp-img alt="Google Search Console - emirodgar.com"
   src="https://i.imgur.com/7ce2kiB.png"
@@ -154,5 +155,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzIyMjU1LDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbMjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
 -->
