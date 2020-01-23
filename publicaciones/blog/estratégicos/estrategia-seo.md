@@ -127,7 +127,7 @@ He implementado la [etiqueta hreflang](https://support.google.com/webmasters/ans
 
 ## <a name="contenido"></a>5- Optimización del contenido
  
-Después del verano -donde no he podido trabajar nada- llega el momento de analizar los datos generados y definir siguientes acciones. Tareas que he realizado:
+El contenido es un [pilar fundamental de cualquier estrategia SEO](https://emirodgar.com/pilares-seo) por lo que después de haber generado suficientes datos para analizar, he llevado a cabo las siguientes acciones:
 
  1. He identificado aquellas páginas con un [bajo CTR](https://emirodgar.com/ctr-resultados-google) en Search Console y he optimizado su contenido en base a los términos por los que aparecen.
  2. He optimizado [títulos y descripciones](https://emirodgar.com/titulos-descripciones-seo) para incrementar la captación de usuarios.
@@ -163,6 +163,6 @@ No son muchos pero están afectando tanto a la indexación de ciertas páginas c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjA1NzE0Myw4ODk4ODQzMDEsLTcxMz
-c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbOTI1NjI5OTYxLDg4OTg4NDMwMSwtNzEzNz
+k4MTg0LDIwMDk4NzQxOTQsMTEwNDAyNjQwNl19
 -->
