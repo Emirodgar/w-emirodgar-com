@@ -196,6 +196,8 @@ A finales de 2019 se puede ver toda la evolución seguida. El cambio más grande
   data-tweetid="1220315126273921024">
 </amp-twitter>
 
+Se aprecia una caída a finales de diciembre
+
 
 ## Estrategia SEO 2020
 
@@ -215,8 +217,8 @@ Tengo muchas ideas y ganas de seguir ejecutando acciones SEO en emirodgar.com pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzM4MjcyNSwtMTgxMDExNTQ0LDk1MD
-A0MDkyOCwtMTcyNzQwMDIyOCw1MDkxMDI3NCwtODU5MzU3NTg0
-LDg4OTg4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQsMTEwND
-AyNjQwNl19
+eyJoaXN0b3J5IjpbNjY5NTAwNDU2LC0xODEwMTE1NDQsOTUwMD
+QwOTI4LC0xNzI3NDAwMjI4LDUwOTEwMjc0LC04NTkzNTc1ODQs
+ODg5ODg0MzAxLC03MTM3OTgxODQsMjAwOTg3NDE5NCwxMTA0MD
+I2NDA2XX0=
 -->
