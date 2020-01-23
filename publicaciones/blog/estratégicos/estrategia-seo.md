@@ -165,10 +165,12 @@ Por muy bien que hayamos trabajado la parte técnica y de contenidos de nuestra 
 
 > Recomiendo seguir esta [guía SEO de link building](https://emirodgar.com/guia-link-building) para conseguir enalces de calidad de forma natural
 
+Lo que he hecho ha sido obtener enlaces desde sitios
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE5NzUyNDAsODg5ODg0MzAxLC03MT
-M3OTgxODQsMjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
+eyJoaXN0b3J5IjpbLTg1OTM1NzU4NCw4ODk4ODQzMDEsLTcxMz
+c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
 -->
