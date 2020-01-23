@@ -42,16 +42,18 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 ## <a name="febrero"></a> 1- Base SEO sólida
  
+He comenzado lanzando una primera versión de la página principal muy básica para que Google me vaya indexando. Sólo es la home.
+
+El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de dicha página.
+
+He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) (GSC) y solicitado la indexación de la única URL del dominio. Se ha indexado al día siguiente.
+
 <amp-img alt="Google Search Console - emirodgar.com"
   src="https://i.imgur.com/7ce2kiB.png"
   width="981"
   height="357"
   layout="responsive">
 </amp-img>
-
-He comenzado lanzando una primera versión de la página principal muy básica para que Google me vaya indexando. Sólo es la home El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
-
-He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) (GSC) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
 
 Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
@@ -147,5 +149,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2NzY0OTcxXX0=
+eyJoaXN0b3J5IjpbMTEwNDAyNjQwNl19
 -->
