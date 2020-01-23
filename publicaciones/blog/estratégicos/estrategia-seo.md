@@ -104,7 +104,7 @@ Para [mejorar el tiempo de carga](https://emirodgar.com/mejorar-tiempo-carga-web
 ## <a name="captacion"></a>3- Más puertas de entrada
  
 
-Mi objetivo para este mes ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en tres partes:
+El siguiente paso que he dado en la estrategia ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en tres partes:
 
 - Páginas que atraigan visitantes y enlaces:
    -  [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
@@ -149,6 +149,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NzU0ODM1LDg4OTg4NDMwMSwtNzEzNz
-k4MTg0LDIwMDk4NzQxOTQsMTEwNDAyNjQwNl19
+eyJoaXN0b3J5IjpbLTY0OTY3OTExNyw4ODk4ODQzMDEsLTcxMz
+c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
 -->
