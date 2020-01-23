@@ -125,16 +125,15 @@ He implementado la [etiqueta hreflang](https://support.google.com/webmasters/ans
 
 ## <a name="contenido"></a>5- Optimización del contenido
  
-Después del verano -donde no he podido trabajar nada- llega el momento de analizar los datos generados y definir siguientes acciones. Ésto ha sido lo que he hecho:
+Después del verano -donde no he podido trabajar nada- llega el momento de analizar los datos generados y definir siguientes acciones. Tareas que he realizado:
 
  1. He identificado aquellas páginas con un [bajo CTR](https://emirodgar.com/ctr-resultados-google) en Search Console y he optimizado su contenido en base a los términos por los que aparecen.
  2. He optimizado [títulos y descripciones](https://emirodgar.com/titulos-descripciones-seo) para incrementar la captación de usuarios.
  3. He mejorado el enlazado interno para potenciar las palabras por las que más me interesa posicionar.
- 4. He solucionado diversos errores que aparecían en
 
-## <a name="contenido"></a>5- Optimización del contenido
+## <a name="errores"></a>6- Solucionar errores técnicos
 
-He identificado un problema en las imágenes con AMP. Es un problema.
+El siguiente paso ha sido revisar los errores He identificado un problema en las imágenes con AMP. Es un problema.
 
 Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
 
@@ -151,6 +150,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODc5MTEwMTksODg5ODg0MzAxLC03MT
-M3OTgxODQsMjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
+eyJoaXN0b3J5IjpbMTk5ODI3NDA3NSw4ODk4ODQzMDEsLTcxMz
+c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
 -->
