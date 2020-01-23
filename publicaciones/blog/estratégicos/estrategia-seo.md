@@ -75,11 +75,13 @@ La primera publicación del blog ha sido [factores SEO](/factores-seo).  A parti
   layout="responsive">
 </amp-img>
 
-Con sólo dos URLs indexadas y una posición media de 64 dentro de Google España, ya he sido capaz de conseguir 10 visitas.
+Las impresiones en búsquedas en Google España comienzan a crecer. Empezamos a generar visibilidad.
 
 ## <a name="usabilidad-seo"></a>3- Usabilidad SEO (optimizar tiempo de carga)
  
 Los siguientes esfuerzos los he invertido en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
+
+La siguiente imagen refleja el resultado de la autoría con Google Page Speed.
 
 <amp-img alt="Métricas usabilidad SEO web.dev del dominio emirodgar.com"
   src="https://i.imgur.com/5sI2ybv.png"
@@ -146,6 +148,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzc5ODE4NCwyMDA5ODc0MTk0LDExMD
-QwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbODg5ODg0MzAxLC03MTM3OTgxODQsMjAwOT
+g3NDE5NCwxMTA0MDI2NDA2XX0=
 -->
