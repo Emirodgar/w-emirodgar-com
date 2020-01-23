@@ -25,11 +25,11 @@ Mi objetivo principal será posicionar en el TOP10 de Google España por términ
   data-tweetid="1095273190971113473">
 </amp-twitter>
 
-Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del tiempo.
+Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, detallaré todos los pasos que implemente.
 
 ## Estrategia digital paso a paso
 
-Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019.
+índice de las acciones llevadas a cabo en la estrategia SEO.
 
 | Mes      | Tareas SEO / Estrategia      
 |----------|----------------------------------
@@ -145,5 +145,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDQxMTY2NV19
+eyJoaXN0b3J5IjpbMTA3NzI2ODMwMF19
 -->
