@@ -37,7 +37,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 |----------|----------------------------------
 | Febrero 19 | [Template con base SEO](#web) / Creación de template (diseño y programación)                  
 | Marzo 19| [Creación de blog](#blog) / Creación de blog con tecnología AMP       |
-| Abril 19 | [Más puertas de entrada](#usabilidad-seo)  / Ampliamos la página web con términos relacionados
+| Abril 19 | [Optimizar tiempos de carga](#usabilidad-seo)  / Ampliamos la página web con términos relacionados
 
 
 ## <a name="web"></a> 1- Nueva web con base SEO sólida
@@ -154,5 +154,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0OTAyMTUzLDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbMjA3NzIyMjU1LDExMDQwMjY0MDZdfQ==
 -->
