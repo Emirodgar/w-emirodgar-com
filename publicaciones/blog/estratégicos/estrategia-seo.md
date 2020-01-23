@@ -185,14 +185,25 @@ Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas pu
   data-tweetid="1199246796297519109">
 </amp-twitter>
 
-A finales de 2019 se puede ver toda la evolución seguida. El cambio más grande se originó a raíz de incorporar los enlaces pero
+A finales de 2019 se puede ver toda la evolución seguida. El cambio más grande se originó a raíz de incorporar los enlaces pero estoy convencido de que sin la base SEO adecuada el impacto generado no hubiera sido tan grande.
+
+## Estrategia SEO 2020
+
+Este proyecto me ha hecho ver que se necesita demasiado tiempo
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1194888570647072768">
+</amp-twitter>
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMDQwOTI4LC0xNzI3NDAwMjI4LDUwOT
-EwMjc0LC04NTkzNTc1ODQsODg5ODg0MzAxLC03MTM3OTgxODQs
-MjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
+eyJoaXN0b3J5IjpbLTE4MTAxMTU0NCw5NTAwNDA5MjgsLTE3Mj
+c0MDAyMjgsNTA5MTAyNzQsLTg1OTM1NzU4NCw4ODk4ODQzMDEs
+LTcxMzc5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
 -->
