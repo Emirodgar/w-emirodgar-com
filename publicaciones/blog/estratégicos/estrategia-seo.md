@@ -39,6 +39,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 | Marzo 19| [Creación de blog](#blog) / Creación de blog con tecnología AMP       |
 | Abril 19 | [Optimizar tiempos de carga](#usabilidad-seo)  / Ampliamos la página web con términos relacionados
 | Mayo 19 | [Crear páginas de captación](#captacion)  / Ampliamos la página web con términos relacionados
+| Septiembre 19 | [Optimizar contenido](#contenido)  / Ampliamos la página web con términos relacionados
 
 
 ## <a name="web"></a> 1- Nueva web con base SEO sólida
@@ -101,28 +102,28 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
 
 
 
-## <a name="captacion"></a>3- Más puertas de entrada
+## <a name="captacion"></a>4- Más puertas de entrada
  
 
 El siguiente paso que he dado en la estrategia ha sido abrir un mayor número de puertas de entrada. He dividido el proceso en tres partes:
 
-- Páginas que atraigan visitantes y enlaces:
+- Páginas que atraigan **visitantes y enlaces**:
    -  [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
    - [Herramientas SEO gratis](herramientas-seo-gratis)
    -  [Experiencia SEO](https://emirodgar.com/experiencia-seo)
 - Páginas relacionadas con **consultor SEO**
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
   -  [Asesor SEO](https://emirodgar.com/asesor-seo/)
-  -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca), [Argentina](https://emirodgar.com/consultor-seo/argentina)  y [Méxicohttps://emirodgar.com/consultor-seo/mexico)
+  -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca), [Argentina](https://emirodgar.com/consultor-seo/argentina)  y [México](https://emirodgar.com/consultor-seo/mexico)
   - [Casos de éxito de SEO](/casos-exito-seo)
- - Páginas para mejorar el enlazado interno
+ - Páginas para mejorar el **enlazado interno**
     -   [Mapa web](https://emirodgar.com/mapa-web)
     - [Listado de publicaciones](https://emirodgar.com/publicaciones)
 
-He hecho uso de la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO y también he subido a Search Console un sitemap XML para facilitar el seguimiento de la indexación.
+He implementado la [etiqueta hreflang](https://support.google.com/webmasters/answer/189077?hl=es) para evitar posibles problemas con las localizaciones en las que trabajo como SEO y también he subido a Search Console un sitemap XML para facilitar el seguimiento de la indexación.
 
 
-## <a name="abril"></a>Abril: Optimización del contenido
+## <a name="contenido"></a>5- Optimización del contenido
  
  - Resultados: XXX
  - Páginas indexadas: XXX
@@ -149,6 +150,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDM2ODU5OCw4ODk4ODQzMDEsLTcxMz
-c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbNDc5MDE1Njc0LDg4OTg4NDMwMSwtNzEzNz
+k4MTg0LDIwMDk4NzQxOTQsMTEwNDAyNjQwNl19
 -->
