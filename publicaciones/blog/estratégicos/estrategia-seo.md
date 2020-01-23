@@ -99,7 +99,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
   layout="responsive">
 </amp-img>
 
-Para [mejorar el tiempo de carga](https://emirodgar.com/mejorar-tiempo-carga-web) recomiendo usar Lighthouse o GTMetrix
+Para [mejorar el tiempo de carga](https://emirodgar.com/mejorar-tiempo-carga-web) recomiendo usar [Lighthouse](https://developers.google.com/web/tools/lighthouse) de Google.
 
 ## <a name="captacion"></a>3- Más puertas de entrada
  
@@ -149,6 +149,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjY1MDA1Nyw4ODk4ODQzMDEsLTcxMz
-c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbMzg4NzU0ODM1LDg4OTg4NDMwMSwtNzEzNz
+k4MTg0LDIwMDk4NzQxOTQsMTEwNDAyNjQwNl19
 -->
