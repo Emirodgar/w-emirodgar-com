@@ -178,7 +178,13 @@ Por muy bien que hayamos trabajado la parte técnica y de contenidos de nuestra 
 
 Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas publicaciones y crear perfiles en redes relevantes. Un impulso rápido que se ha notado casi al instante.
 
-## <a name="evolucion"></a>8- Repaso analítica para conocer evolución
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1199246796297519109">
+</amp-twitter>
 
 
 
@@ -186,7 +192,7 @@ Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODc5NTUyNyw1MDkxMDI3NCwtODU5Mz
+eyJoaXN0b3J5IjpbLTQyMTc2ODQ2MCw1MDkxMDI3NCwtODU5Mz
 U3NTg0LDg4OTg4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQs
 MTEwNDAyNjQwNl19
 -->
