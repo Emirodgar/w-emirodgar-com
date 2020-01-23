@@ -66,9 +66,9 @@ He decidido añadir un blog para poder generar **contenido de actualidad** con c
 - **Páginas de captación**: será *responsive* con HTML5 / CSS3
 - **Blog**: los contenidos dinámicos estarán únicamente en [AMP](https://www.ampproject.org). 
 
-El hecho de usar el blog **únicamente con AMP** será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *canonical* a una versión normal.
+El hecho de usar el blog **únicamente con AMP** será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *[canonical](https://emirodgar.com/etiqueta-canonica)* a una versión normal.
 
-La primera publicación del blog ha sido [factores SEO](/factores-seo). He decidido no utilizar una subcarpeta /blog/ en la URL y hacer que todo cuelgue de la *home*. No incluyo fechas en la URL pero sí en título y H1 para aprovechar la estacionalidad de cada año.
+La primera publicación del blog ha sido [factores SEO](/factores-seo).  A partir de aquí intentaré generar contenido optimizado de forma periódica.
 
 ## <a name="marzo"></a>3- Usabilidad SEO (optimizar tiempo de carga)
  
@@ -83,7 +83,7 @@ La primera publicación del blog ha sido [factores SEO](/factores-seo). He decid
 
 
 
-Además del blog, gran parte del esfuerzo de febrero lo he concentrado en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
+Gran parte del esfuerzo de febrero lo he concentrado en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
 
 Aunque soy consciente de que podría llegar a optimizar algo más, no he querido obsesionarme.
 
@@ -154,5 +154,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjIxMzYwNCwxMTA0MDI2NDA2XX0=
+eyJoaXN0b3J5IjpbLTI5MTUwMzgzMSwxMTA0MDI2NDA2XX0=
 -->
