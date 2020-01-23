@@ -62,12 +62,9 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 ## <a name="blog"></a>2- Añadir un blog para contenido dinámico
 
-He decidido añadir un blog para poder generar **contenido de actualidad** con cierta facilidad. Utilizo dos tecnologías en la página: 
+He decidido añadir un blog para poder generar **contenido de actualidad** con cierta facilidad. 
 
-- **Páginas de captación**: será *responsive* con HTML5 / CSS3
-- **Blog**: los contenidos dinámicos estarán únicamente en [AMP](https://www.ampproject.org). 
-
-El hecho de usar el blog **únicamente con AMP** será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *[canonical](https://emirodgar.com/etiqueta-canonica)* a una versión normal.
+Me he animado a hacerlo únicamente con la tecnología de  [AMP](https://www.ampproject.org) será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *[canonical](https://emirodgar.com/etiqueta-canonica)* a una versión normal.
 
 La primera publicación del blog ha sido [factores SEO](/factores-seo).  A partir de aquí intentaré generar contenido optimizado de forma periódica.
 
@@ -155,5 +152,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
+eyJoaXN0b3J5IjpbMjA3MTA4MjUzMSwyMDA5ODc0MTk0LDExMD
+QwMjY0MDZdfQ==
 -->
