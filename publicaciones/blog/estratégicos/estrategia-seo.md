@@ -133,7 +133,19 @@ Después del verano -donde no he podido trabajar nada- llega el momento de anali
 
 ## <a name="errores"></a>6- Solucionar errores técnicos
 
-El siguiente paso ha sido revisar los errores que aparecen en Google Search Console y solucionarlos.  He identificado un problema en las imágenes con AMP. Es un problema.
+El siguiente paso ha sido revisar los errores que aparecen en Google Search Console y solucionarlos. 
+
+<amp-img alt="Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP"
+  src="https://i.imgur.com/tcDllgb.png"
+  width="901"
+  height="330"
+  layout="responsive">
+</amp-img>
+https://i.imgur.com/7gEJqzh.png
+
+No son muchos pero están afectando tanto a la indexación de ciertas páginas como a la potencia de AMP. 
+
+ 1. He identificado un problema en las imágenes con AMP. Es un problema que afecta a la validación AMP.
 
 Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
 
@@ -150,6 +162,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTMxMDU5Niw4ODk4ODQzMDEsLTcxMz
-c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbNDM2MDU2MTM0LDg4OTg4NDMwMSwtNzEzNz
+k4MTg0LDIwMDk4NzQxOTQsMTEwNDAyNjQwNl19
 -->
