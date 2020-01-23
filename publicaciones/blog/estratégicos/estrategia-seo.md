@@ -127,7 +127,9 @@ He implementado la [etiqueta hreflang](https://support.google.com/webmasters/ans
  
 Después del verano -donde no he podido trabajar nada- llega el momento de analizar los datos generados y definir siguientes acciones. Ésto ha sido lo que he hecho:
 
-He optimizado más los contenidos, especialmente los de las páginas externas a España y he mejorado el enlazado interno para potenciar la palabra clave principal.
+ 1. He identificado aquellas páginas con un [bajo CTR](https://emirodgar.com/ctr-resultados-google) en Search Console y he optimizado su contenido en base a los términos por los que aparezco.
+ 2. 
+ 3. He mejorado el enlazado interno para potenciar las palabras por las que más me interesa posicionar.
 
 He identificado un problema en las imágenes con AMP. Es un problema.
 
@@ -146,6 +148,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzU3OTg0OCw4ODk4ODQzMDEsLTcxMz
-c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbLTExMTAwMjYxMDMsODg5ODg0MzAxLC03MT
+M3OTgxODQsMjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
 -->
