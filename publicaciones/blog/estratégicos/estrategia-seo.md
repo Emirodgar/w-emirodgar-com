@@ -69,10 +69,10 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
   layout="responsive">
 </amp-img>
 
-He decidido añadir un blog para poder generar **contenido de actualidad** con cierta facilidad. Utilizo dos tecnologías: 
+He decidido añadir un blog para poder generar **contenido de actualidad** con cierta facilidad. Utilizo dos tecnologías en la página: 
 
-- La parte principal de la web será *responsive* con HTML5 / CSS3
-- El blog estará bajo [AMPhttps://www.ampproject.org). Quiero aprovechar esta funcionalidad de Google.
+- Páginas de captación: será *responsive* con HTML5 / CSS3
+- Blog [AMP](https://www.ampproject.org). Quiero aprovechar esta funcionalidad de Google.
 
 El hecho de usar el blog **únicamente con AMP** será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *canonical* a una versión normal.
 
@@ -149,5 +149,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDAyNjQwNl19
+eyJoaXN0b3J5IjpbLTEzNDM3NDMwNzMsMTEwNDAyNjQwNl19
 -->
