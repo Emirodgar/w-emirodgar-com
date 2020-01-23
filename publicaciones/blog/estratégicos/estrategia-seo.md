@@ -131,6 +131,15 @@ Después del verano -donde no he podido trabajar nada- llega el momento de anali
  2. He optimizado [títulos y descripciones](https://emirodgar.com/titulos-descripciones-seo) para incrementar la captación de usuarios.
  3. He mejorado el enlazado interno para potenciar las palabras por las que más me interesa posicionar.
 
+Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
+
+<amp-img alt="consultor seo salamanca, emirodgar en segunda posición"
+  src="https://i.imgur.com/u3RGo9e.png"
+  width="650"
+  height="602"
+  layout="responsive">
+</amp-img>
+
 ## <a name="errores"></a>6- Solucionar errores técnicos
 
 El siguiente paso ha sido revisar los errores que aparecen en Google Search Console y solucionarlos. 
@@ -145,23 +154,13 @@ https://i.imgur.com/7gEJqzh.png
 
 No son muchos pero están afectando tanto a la indexación de ciertas páginas como a la potencia de AMP. 
 
- 1. He identificado un problema en las imágenes con AMP. Es un problema que afecta a la validación AMP.
+ 1. He identificado un problema en las imágenes con AMP. Es un problema que afecta a la validación de dicha tecnología y que impide que ésta genere un buen renderizado en dispositivos móviles.
+ 2. He identificado problemas de contenido duplicado para varias URLs debido a configuraciones erróneas del servidor web.
 
-Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
 
-<amp-img alt="consultor seo salamanca, emirodgar en segunda posición"
-  src="https://i.imgur.com/u3RGo9e.png"
-  width="650"
-  height="602"
-  layout="responsive">
-</amp-img>
 
-Sé que no es mi objetivo principal y que es un término sin mucha competencia pero es un buen comienzo.
 
-- Metidos códigos de OG
-- Creadas otras páginas por país
-- comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MDU2MTM0LDg4OTg4NDMwMSwtNzEzNz
-k4MTg0LDIwMDk4NzQxOTQsMTEwNDAyNjQwNl19
+eyJoaXN0b3J5IjpbLTExNzYyMTg3NDAsODg5ODg0MzAxLC03MT
+M3OTgxODQsMjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
 -->
