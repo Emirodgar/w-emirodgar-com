@@ -133,7 +133,7 @@ Después del verano -donde no he podido trabajar nada- llega el momento de anali
 
 ## <a name="errores"></a>6- Solucionar errores técnicos
 
-El siguiente paso ha sido revisar los errores He identificado un problema en las imágenes con AMP. Es un problema.
+El siguiente paso ha sido revisar los errores que aparecen en Google Search Console y solucionarlos.  He identificado un problema en las imágenes con AMP. Es un problema.
 
 Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
 
@@ -150,6 +150,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODI3NDA3NSw4ODk4ODQzMDEsLTcxMz
+eyJoaXN0b3J5IjpbMTc0NTMxMDU5Niw4ODk4ODQzMDEsLTcxMz
 c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
 -->
