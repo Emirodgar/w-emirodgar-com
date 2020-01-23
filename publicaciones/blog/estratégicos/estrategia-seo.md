@@ -81,7 +81,7 @@ Las impresiones en búsquedas en Google España comienzan a crecer. Empezamos a 
  
 Los siguientes esfuerzos los he invertido en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
 
-La siguiente imagen refleja el resultado de la autoría con Google Page Speed.
+La siguiente imagen refleja el resultado de la auditoría con [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/?hl=es).
 
 <amp-img alt="Métricas usabilidad SEO web.dev del dominio emirodgar.com"
   src="https://i.imgur.com/5sI2ybv.png"
@@ -99,6 +99,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
   layout="responsive">
 </amp-img>
 
+Para [mejorar el tiempo de carga](https://emirodgar.com/mejorar-tiempo-carga-web) recomiendo usar Lighthouse o GTMetrix
 
 ## <a name="captacion"></a>3- Más puertas de entrada
  
@@ -148,6 +149,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5ODg0MzAxLC03MTM3OTgxODQsMjAwOT
-g3NDE5NCwxMTA0MDI2NDA2XX0=
+eyJoaXN0b3J5IjpbMTkzNjY1MDA1Nyw4ODk4ODQzMDEsLTcxMz
+c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
 -->
