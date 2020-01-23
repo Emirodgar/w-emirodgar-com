@@ -127,9 +127,12 @@ He implementado la [etiqueta hreflang](https://support.google.com/webmasters/ans
  
 Después del verano -donde no he podido trabajar nada- llega el momento de analizar los datos generados y definir siguientes acciones. Ésto ha sido lo que he hecho:
 
- 1. He identificado aquellas páginas con un [bajo CTR](https://emirodgar.com/ctr-resultados-google) en Search Console y he optimizado su contenido en base a los términos por los que aparezco.
- 2. 
+ 1. He identificado aquellas páginas con un [bajo CTR](https://emirodgar.com/ctr-resultados-google) en Search Console y he optimizado su contenido en base a los términos por los que aparecen.
+ 2. He optimizado [títulos y descripciones](https://emirodgar.com/titulos-descripciones-seo) para incrementar la captación de usuarios.
  3. He mejorado el enlazado interno para potenciar las palabras por las que más me interesa posicionar.
+ 4. He solucionado diversos errores que aparecían en
+
+## <a name="contenido"></a>5- Optimización del contenido
 
 He identificado un problema en las imágenes con AMP. Es un problema.
 
@@ -148,6 +151,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAwMjYxMDMsODg5ODg0MzAxLC03MT
+eyJoaXN0b3J5IjpbLTE0ODc5MTEwMTksODg5ODg0MzAxLC03MT
 M3OTgxODQsMjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
 -->
