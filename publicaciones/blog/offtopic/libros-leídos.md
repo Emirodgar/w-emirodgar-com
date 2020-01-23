@@ -61,7 +61,11 @@ Creo que se podría haber condensado y darle un final a la saga mucho más digno
 ## La chica del tren
 ### Paula Hawkins / 2015 - 6/10
 
-Libro entretenido sin más. Mi opinión -al tratarse de un *bestseller* en Inglaterra y Estados Unidos- es que en versión original (inglés) gana bastante, al menos en la redacción y 
+Libro entretenido sin más. Mi opinión -al tratarse de un *bestseller* en Inglaterra y Estados Unidos- es que en versión original (inglés) gana bastante, al menos en la redacción y la forma de expresarse y atrapar al lector.
+
+Sí es cierto que tiene algo de intriga pero se me ha hecho algo lento y pesado.
+
+> Sé lo que supone querer a alguien y decirle las cosas más terribles, bien por enfado o por sufrimiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTMzNDAxMl19
+eyJoaXN0b3J5IjpbMTIxNzQyNjEyOV19
 -->
