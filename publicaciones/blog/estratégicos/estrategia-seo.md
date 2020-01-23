@@ -40,7 +40,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 | Abril 19 | [Optimizar tiempos de carga](#usabilidad-seo)  / Mejoramos la experiencia de los usuarios
 | Mayo 19 | [Crear páginas de captación](#captacion)  / Ampliamos la página web con términos relacionados
 | Septiembre 19 | [Optimizar contenido](#contenido)  / Revisión del contenido en función de los análisis realizados [Solucionar errores](#errores)  / Corregir errores asociados a indexación y AMP
-| Noviembre 19 | [Solucionar errores](#errores)  / Corregir errores asociados a indexación y AMP
+| Noviembre 19 | [Link building](#link-building)  / Conseguir enlaces para impulsar el posicionamiento
 
 
 ## <a name="web"></a> 1- Nueva web con base SEO sólida
@@ -162,6 +162,6 @@ No son muchos pero están afectando tanto a la indexación de ciertas páginas c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDE0MTQ5Niw4ODk4ODQzMDEsLTcxMz
+eyJoaXN0b3J5IjpbLTM4MTU2MzYwMiw4ODk4ODQzMDEsLTcxMz
 c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
 -->
