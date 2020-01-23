@@ -176,7 +176,7 @@ Por muy bien que hayamos trabajado la parte técnica y de contenidos de nuestra 
 
 > Recomiendo seguir esta [guía SEO de link building](https://emirodgar.com/guia-link-building) para conseguir enalces de calidad de forma natural
 
-Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas publicaciones y crear perfiles en redes relevantes. También he redireccionado unos cuantos que tenía en otros proyectos antiguos y que ya no usaba. Esto lo que hecho principalmente por falta de tiempo ya que  Un impulso rápido que se ha notado casi al instante.
+Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas publicaciones y crear perfiles en redes relevantes. También he redireccionado unos cuantos que tenía en otros proyectos antiguos y que ya no usaba. Esto lo que hecho principalmente por falta de tiempo ya que me era imposible conseguir nuevos enlaces. Un impulso rápido que se ha notado casi al instante.
 
 <amp-twitter 
   width="375"
@@ -205,8 +205,8 @@ Tengo muchas ideas y ganas de seguir ejecutando acciones SEO en emirodgar.com pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA4MzM3NjQsLTE4MTAxMTU0NCw5NT
-AwNDA5MjgsLTE3Mjc0MDAyMjgsNTA5MTAyNzQsLTg1OTM1NzU4
-NCw4ODk4ODQzMDEsLTcxMzc5ODE4NCwyMDA5ODc0MTk0LDExMD
-QwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbOTU0NTA5MTU2LC0xODEwMTE1NDQsOTUwMD
+QwOTI4LC0xNzI3NDAwMjI4LDUwOTEwMjc0LC04NTkzNTc1ODQs
+ODg5ODg0MzAxLC03MTM3OTgxODQsMjAwOTg3NDE5NCwxMTA0MD
+I2NDA2XX0=
 -->
