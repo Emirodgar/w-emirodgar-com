@@ -11,7 +11,7 @@ permalink: estrategia-seo
 
 # Estrategia SEO 
 
-¿Qué mejor forma de enseñar algo que con un ejemplo práctico?Este año 2019 me he propuesto implementar una **estrategia SEO** basado en un caso real. Quiero enseñar todos los pasos a seguir para definir una estrategia en un nicho tan competido como es el **marketing digital** y en especial el **posicionamiento SEO**.
+¿Qué mejor forma de enseñar algo que con un ejemplo práctico? Este año 2019 me he propuesto implementar una **estrategia SEO** basado en un caso real. Quiero enseñar todos los pasos a seguir para definir una estrategia en un nicho tan competido como es el **marketing digital** y en especial el **posicionamiento SEO**.
 
 
 ## Definir estrategia y objetivos
@@ -138,5 +138,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTczMjA3OTZdfQ==
+eyJoaXN0b3J5IjpbLTMxNjc4NDA4NF19
 -->
