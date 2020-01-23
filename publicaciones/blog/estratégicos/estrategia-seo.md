@@ -27,16 +27,12 @@ Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019
 | Mes      | Tareas SEO / Estrategia      
 |----------|----------------------------------
 | Enero | [Base SEO sólida](#enero) / Creación de template (diseño y programación)                  
-| Marzo| [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
-| Mayo| [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
+| Febrero| [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
+| Marzo| [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
 
 
 ## <a name="enero"></a> Enero: Base SEO sólida
  
- - Resultados: 5 clics / 0 conversiones
- - Páginas indexadas: 2
- - Posicionamiento 0 / 0
-
 <amp-img alt="Google Search Console - emirodgar.com"
   src="https://i.imgur.com/7ce2kiB.png"
   width="981"
@@ -46,7 +42,7 @@ Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019
 
 He comenzado lanzando una primera versión de la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
 
-He dado de alta el dominio en [Google Search Console]https://search.google.com/search-console) (GSC) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
+He dado de alta el dominio en [Google Search Console](https://search.google.com/search-console) (GSC) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
 
 Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
@@ -54,9 +50,6 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
 
 ## <a name="febrero"></a>Febrero: Blog AMP y Usabilidad SEO
  
- - Resultados: 10 clics / 0 conversiones
- - Páginas indexadas: 3
- - Posicionamiento: 122 / 0
 
 <amp-img alt="Google Search Console - emirodgar.com"
   src="https://i.imgur.com/MVStSCU.png"
@@ -65,7 +58,7 @@ Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que 
   layout="responsive">
 </amp-img>
 
-He decidido añadir un blog para poder generar contenido de actualidad con cierta facilidad. Utilizo dos tecnologías: 
+He decidido añadir un blog para poder generar **contenido de actualidad** con cierta facilidad. Utilizo dos tecnologías: 
 
 - La parte principal de la web será *responsive* con HTML5 / CSS3
 - El blog estará bajo [AMPhttps://www.ampproject.org). Quiero aprovechar esta funcionalidad de Google.
@@ -145,5 +138,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzM2MzYzXX0=
+eyJoaXN0b3J5IjpbLTcwMjQwMzk3OF19
 -->
