@@ -83,7 +83,7 @@ La primera publicación del blog ha sido [factores SEO](/factores-seo).  A parti
 
 
 
-Gran parte del esfuerzo de febrero lo he concentrado en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
+Los siguientes pasos los he invertido en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
 
 Aunque soy consciente de que podría llegar a optimizar algo más, no he querido obsesionarme.
 
@@ -154,5 +154,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTUwMzgzMSwxMTA0MDI2NDA2XX0=
+eyJoaXN0b3J5IjpbLTU1NTM2MTUwLDExMDQwMjY0MDZdfQ==
 -->
