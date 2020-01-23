@@ -37,9 +37,9 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 |----------|----------------------------------
 | Febrero 19 | [Template con base SEO](#web) / Creación de template (diseño y programación)                  
 | Marzo 19| [Creación de blog](#blog) / Creación de blog con tecnología AMP       |
-| Abril 19 | [Optimizar tiempos de carga](#usabilidad-seo)  / Ampliamos la página web con términos relacionados
+| Abril 19 | [Optimizar tiempos de carga](#usabilidad-seo)  / Mejoramos la experiencia de los usuarios
 | Mayo 19 | [Crear páginas de captación](#captacion)  / Ampliamos la página web con términos relacionados
-| Septiembre 19 | [Optimizar contenido](#contenido)  / Ampliamos la página web con términos relacionados
+| Septiembre 19 | [Optimizar contenido](#contenido)  / Revisión del contenido en función de los análisis realizados
 
 
 ## <a name="web"></a> 1- Nueva web con base SEO sólida
@@ -125,9 +125,7 @@ He implementado la [etiqueta hreflang](https://support.google.com/webmasters/ans
 
 ## <a name="contenido"></a>5- Optimización del contenido
  
- - Resultados: XXX
- - Páginas indexadas: XXX
- - Posicionamiento: XX / 12 términos relacionados
+Después de pasar el verano -donde no he podido trabajar nada- llega el momento de analizar los datos generados y definir siguientes acciones.
 
 He optimizado más los contenidos, especialmente los de las páginas externas a España y he mejorado el enlazado interno para potenciar la palabra clave principal.
 
@@ -150,6 +148,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MDE1Njc0LDg4OTg4NDMwMSwtNzEzNz
+eyJoaXN0b3J5IjpbOTkzNjc2NjI4LDg4OTg4NDMwMSwtNzEzNz
 k4MTg0LDIwMDk4NzQxOTQsMTEwNDAyNjQwNl19
 -->
