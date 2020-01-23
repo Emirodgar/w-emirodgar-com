@@ -147,12 +147,12 @@ Sin haber trabajado enlaces y únicamente con una optimización *onpage*, he con
 El siguiente paso ha sido revisar los errores que aparecen en Google Search Console y solucionarlos. 
 
 <amp-img alt="Errores Search Console AMP indexación"
-  src="https://i.imgur.com/tcDllgb.png"
+  src="https://i.imgur.com/7gEJqzh.png"
   width="901"
   height="330"
   layout="responsive">
 </amp-img>
-https://i.imgur.com/7gEJqzh.png
+
 
 No son muchos pero están afectando tanto a la indexación de ciertas páginas como a la potencia de AMP. 
 
@@ -163,10 +163,12 @@ No son muchos pero están afectando tanto a la indexación de ciertas páginas c
 
 Por muy bien que hayamos trabajado 
 
+https://emirodgar.com/guia-link-building
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTIyMzM4OCw4ODk4ODQzMDEsLTcxMz
-c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjA2MDU2OTIsODg5ODg0MzAxLC03MT
+M3OTgxODQsMjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
 -->
