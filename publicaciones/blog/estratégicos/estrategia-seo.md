@@ -35,12 +35,12 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 | Mes      | Tareas SEO / Estrategia      
 |----------|----------------------------------
-| Febrero 19 | [Base SEO sólida](#febrero) / Creación de template (diseño y programación)                  
-| Marzo 19| [Usabilidad SEO](#marzo) / Creación de blog con tecnología AMP       |
-| Abril 19 | [Más puertas de entrada](#abril)  / Ampliamos la página web con términos relacionados
+| Febrero 19 | [Template con base SEO](#web) / Creación de template (diseño y programación)                  
+| Marzo 19| [Creación de blog](#blog) / Creación de blog con tecnología AMP       |
+| Abril 19 | [Más puertas de entrada](#usabilidad-seo)  / Ampliamos la página web con términos relacionados
 
 
-## <a name="febrero"></a> 1- Nueva web con base SEO sólida
+## <a name="web"></a> 1- Nueva web con base SEO sólida
  
 He comenzado lanzando una primera versión de la página principal muy básica para que Google me vaya indexando. Sólo es la home.
 
@@ -59,7 +59,7 @@ Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba de
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
 
-## <a name="marzo"></a>2- Añadir un blog para contenido dinámico
+## <a name="blog"></a>2- Añadir un blog para contenido dinámico
 
 He decidido añadir un blog para poder generar **contenido de actualidad** con cierta facilidad. Utilizo dos tecnologías en la página: 
 
@@ -70,7 +70,7 @@ El hecho de usar el blog **únicamente con AMP** será un experimento para anali
 
 La primera publicación del blog ha sido [factores SEO](/factores-seo).  A partir de aquí intentaré generar contenido optimizado de forma periódica.
 
-## <a name="marzo"></a>3- Usabilidad SEO (optimizar tiempo de carga)
+## <a name="usabilidad-seo"></a>3- Usabilidad SEO (optimizar tiempo de carga)
  
 
 <amp-img alt="Google Search Console - emirodgar.com"
@@ -154,5 +154,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTM2MTUwLDExMDQwMjY0MDZdfQ==
+eyJoaXN0b3J5IjpbNjU0OTAyMTUzLDExMDQwMjY0MDZdfQ==
 -->
