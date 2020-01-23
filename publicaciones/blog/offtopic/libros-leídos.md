@@ -59,7 +59,9 @@ Creo que se podría haber condensado y darle un final a la saga mucho más digno
 
 
 ## La chica del tren
-### Paula Hawkins / 2015 - 
+### Paula Hawkins / 2015 - 6/10
+
+Libro entretenido sin más. Mi opinión -al tratarse de un *bestseller* en Inglaterra y Estados Unidos- es que en versión original (inglés) gana bastante, al menos en la redacción y 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDM5MDY5XX0=
+eyJoaXN0b3J5IjpbMTcwMTMzNDAxMl19
 -->
