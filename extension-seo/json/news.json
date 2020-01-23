@@ -1,6 +1,12 @@
 {
   "data": [
 	   [
+      "Sin soporte para data-vocabulary.org",
+      "Los datos estructurados serán generados únicamente con schema.org. Si hacemos uso de data-vocabulary.org tendremos hasta abril 2020 para migrarlo. Desde Search Console podremos ver advertencias hasta entonces.",
+      "https://twitter.com/googlewmc/status/1219565763759165441",
+    "Enero 2020"
+    ],
+     [
       "Además de HTTPS será necesario usar TLS 1.2 o superior",
       "Google acaba de confirmar que una conexión HTTPS no será suficiente. Tenemos que hacer uso de un protocolo de cifrado 1.2 o superior.",
       "https://twitter.com/badams/status/1217031392607064064",
