@@ -191,7 +191,7 @@ A finales de 2019 se puede ver toda la evolución seguida. El cambio más grande
 
 Este proyecto me ha hecho ver durante 2019 que, por desgacia, no dispongo del suficiente tiempo libre como para llevarlo a cabo de la mejor forma posible.
 
-Tengo muchas ideas y ganas de seguir ejecutando acciones SEO en emirodgar.com puesto que esta página se ha convertido en mi patio de juegos particular donde puedo probar y probar antes de recomendar a mis clientes. No obstante, no tengo muy claro que este año lo 
+Tengo muchas ideas y ganas de seguir ejecutando acciones SEO en emirodgar.com puesto que esta página se ha convertido en mi patio de juegos particular donde puedo probar y probar antes de recomendar a mis clientes. No obstante, no tengo muy claro que este año lo pueda hacer. Aún así, os dejo mis ideas SEO para 2020.
 
 <amp-twitter 
   width="375"
@@ -205,7 +205,7 @@ Tengo muchas ideas y ganas de seguir ejecutando acciones SEO en emirodgar.com pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDIxOTY2NSwtMTgxMDExNTQ0LDk1MD
+eyJoaXN0b3J5IjpbMTI3MzIzNzkzNywtMTgxMDExNTQ0LDk1MD
 A0MDkyOCwtMTcyNzQwMDIyOCw1MDkxMDI3NCwtODU5MzU3NTg0
 LDg4OTg4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQsMTEwND
 AyNjQwNl19
