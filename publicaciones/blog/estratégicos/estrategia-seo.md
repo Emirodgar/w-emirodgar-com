@@ -125,13 +125,11 @@ He implementado la [etiqueta hreflang](https://support.google.com/webmasters/ans
 
 ## <a name="contenido"></a>5- Optimización del contenido
  
-Después de pasar el verano -donde no he podido trabajar nada- llega el momento de analizar los datos generados y definir siguientes acciones.
+Después del verano -donde no he podido trabajar nada- llega el momento de analizar los datos generados y definir siguientes acciones. Ésto ha sido lo que he hecho:
 
 He optimizado más los contenidos, especialmente los de las páginas externas a España y he mejorado el enlazado interno para potenciar la palabra clave principal.
 
 He identificado un problema en las imágenes con AMP. Es un problema.
-
-De cara a poder posicionar por **consultor SEO** decidí crear varias páginas para reforzar el concepto junto con localizaciones específicas donde he trabajado (Salamanca, mi ciudad natal y México, donde he sido SEO Manager de Smartup).
 
 Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
 
@@ -148,6 +146,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNjc2NjI4LDg4OTg4NDMwMSwtNzEzNz
-k4MTg0LDIwMDk4NzQxOTQsMTEwNDAyNjQwNl19
+eyJoaXN0b3J5IjpbLTY1NzU3OTg0OCw4ODk4ODQzMDEsLTcxMz
+c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
 -->
