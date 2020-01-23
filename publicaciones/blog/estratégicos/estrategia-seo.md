@@ -16,7 +16,9 @@ permalink: estrategia-seo
 
 ## Definir estrategia y objetivos
 
-Mi objetivo principal será posicionar en el TOP10 de Google España por términos relacionados con **posicionamiento web** y **consultor SEO** . Para ello voy a utilizar  el dominio emirodgar.com, el cual tenía abandonado desde hace años y que he rescatado para la ocasión.
+Mi objetivo principal será posicionar en el TOP10 de Google España por términos relacionados con **posicionamiento web** y **consultor SEO** . 
+
+Para ello voy a utilizar  el dominio emirodgar.com, el cual tenía abandonado desde hace años y que he rescatado para la ocasión.
 
 <amp-twitter 
   width="375"
@@ -25,7 +27,7 @@ Mi objetivo principal será posicionar en el TOP10 de Google España por términ
   data-tweetid="1095273190971113473">
 </amp-twitter>
 
-Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, detallaré todos los pasos que implemente.
+Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, nos servirá para analizar una estrategia SEO real.
 
 ## Estrategia digital paso a paso
 
@@ -33,9 +35,9 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 
 | Mes      | Tareas SEO / Estrategia      
 |----------|----------------------------------
-| Enero 19 | [Base SEO sólida](#enero) / Creación de template (diseño y programación)                  
-| Febrero 19| [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
-| Marzo 19 | [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
+| Febrero 19 | [Base SEO sólida](#febrero) / Creación de template (diseño y programación)                  
+| Marzo 19| [Usabilidad SEO](#marzo) / Creación de blog con tecnología AMP       |
+| Abril 19 | [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
 
 
 ## <a name="enero"></a> Enero: Base SEO sólida
@@ -145,5 +147,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzI2ODMwMF19
+eyJoaXN0b3J5IjpbODQzOTA2NjAxXX0=
 -->
