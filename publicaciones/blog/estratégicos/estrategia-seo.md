@@ -37,10 +37,10 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 |----------|----------------------------------
 | Febrero 19 | [Base SEO sólida](#febrero) / Creación de template (diseño y programación)                  
 | Marzo 19| [Usabilidad SEO](#marzo) / Creación de blog con tecnología AMP       |
-| Abril 19 | [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
+| Abril 19 | [Más puertas de entrada](#abril)  / Ampliamos la página web con términos relacionados
 
 
-## <a name="enero"></a> Enero: Base SEO sólida
+## <a name="febrero"></a> 1- Base SEO sólida
  
 <amp-img alt="Google Search Console - emirodgar.com"
   src="https://i.imgur.com/7ce2kiB.png"
@@ -57,7 +57,7 @@ Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba de
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
 
-## <a name="febrero"></a>Febrero: Blog AMP y Usabilidad SEO
+## <a name="marzo"></a>2- Blog AMP y Usabilidad SEO
  
 
 <amp-img alt="Google Search Console - emirodgar.com"
@@ -96,7 +96,7 @@ La parte de AMP - que será el blog- está muy optimizado a excepción de la acc
   layout="responsive">
 </amp-img>
 
-## <a name="marzo"></a>Marzo: Más puertas de entrada
+## <a name="abril"></a>3- Más puertas de entrada
  
  - Resultados: 10 clics / 0 conversiones
  - Páginas indexadas: 9
@@ -147,5 +147,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzOTA2NjAxXX0=
+eyJoaXN0b3J5IjpbLTkyNzA2OTM1OV19
 -->
