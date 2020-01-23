@@ -161,14 +161,14 @@ No son muchos pero están afectando tanto a la indexación de ciertas páginas c
 
 ## <a name="link-building"></a>7- Consecución de enlaces
 
-Por muy bien que hayamos trabajado 
+Por muy bien que hayamos trabajado la parte técnica y de contenidos de nuestra web, **si no tenemos enlaces será difícil posicionar**.
 
-https://emirodgar.com/guia-link-building
+> Recomiendo seguir esta [guía SEO de link building](https://emirodgar.com/guia-link-building) para conseguir enalces de calidad de forma natural
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA2MDU2OTIsODg5ODg0MzAxLC03MT
+eyJoaXN0b3J5IjpbLTE4NzE5NzUyNDAsODg5ODg0MzAxLC03MT
 M3OTgxODQsMjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
 -->
