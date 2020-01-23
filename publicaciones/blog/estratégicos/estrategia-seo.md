@@ -3,6 +3,7 @@ description: Estrategia paso a paso para posicionar por Consultor SEO con herram
 lang: es_ES
 sitemap: 1
 feed: 1
+date:
 folder: estrategicos
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: estrategia-seo
@@ -187,6 +188,14 @@ Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas pu
 
 A finales de 2019 se puede ver toda la evolución seguida. El cambio más grande se originó a raíz de incorporar los enlaces pero estoy convencido de que sin la base SEO adecuada el impacto generado no hubiera sido tan grande.
 
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1220315126273921024">
+</amp-twitter>
+
+
 ## Estrategia SEO 2020
 
 Este proyecto me ha hecho ver durante 2019 que, por desgacia, no dispongo del suficiente tiempo libre como para llevarlo a cabo de la mejor forma posible.
@@ -205,8 +214,8 @@ Tengo muchas ideas y ganas de seguir ejecutando acciones SEO en emirodgar.com pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NTA5MTU2LC0xODEwMTE1NDQsOTUwMD
-QwOTI4LC0xNzI3NDAwMjI4LDUwOTEwMjc0LC04NTkzNTc1ODQs
-ODg5ODg0MzAxLC03MTM3OTgxODQsMjAwOTg3NDE5NCwxMTA0MD
-I2NDA2XX0=
+eyJoaXN0b3J5IjpbMTM0MTkzMzM1MCwtMTgxMDExNTQ0LDk1MD
+A0MDkyOCwtMTcyNzQwMDIyOCw1MDkxMDI3NCwtODU5MzU3NTg0
+LDg4OTg4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQsMTEwND
+AyNjQwNl19
 -->
