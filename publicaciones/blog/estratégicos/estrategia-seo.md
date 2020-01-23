@@ -11,14 +11,14 @@ permalink: estrategia-seo
 
 # Estrategia SEO 
 
-Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en un caso real. Quiero mostrar un ejemplo de todos los pasos a seguir para definir una estrategia en un nicho tan competido como es el **marketing digital** y en especial el **posicionamiento SEO**.
+¿Qué mejor forma de enseñar algo que con un ejemplo práctico?Este año 2019 me he propuesto implementar una **estrategia SEO** basado en un caso real. Quiero enseñar todos los pasos a seguir para definir una estrategia en un nicho tan competido como es el **marketing digital** y en especial el **posicionamiento SEO**.
 
 
 ## Definir estrategia y objetivos
 
 Mi objetivo principal será posicionar en el TOP10 de Google España por términos relacionados con **posicionamiento web** y **consultor SEO** . Para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
 
-Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
+Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del tiempo.
 
 ## Estrategia digital paso a paso
 
@@ -26,9 +26,9 @@ Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019
 
 | Mes      | Tareas SEO / Estrategia      
 |----------|----------------------------------
-| Enero | [Base SEO sólida](#enero) / Creación de template (diseño y programación)                  
-| Febrero| [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
-| Marzo| [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
+| Enero 19 | [Base SEO sólida](#enero) / Creación de template (diseño y programación)                  
+| Febrero 19| [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
+| Marzo 19 | [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
 
 
 ## <a name="enero"></a> Enero: Base SEO sólida
@@ -138,5 +138,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjQwMzk3OF19
+eyJoaXN0b3J5IjpbLTE5MTczMjA3OTZdfQ==
 -->
