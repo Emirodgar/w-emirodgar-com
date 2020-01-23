@@ -16,19 +16,19 @@ Este año 2019 me he propuesto hacer un ejemplo de **estrategia SEO** basado en 
 
 ## Definir estrategia y objetivos
 
-Mi objetivo principal será posicionar en el TOP10 de Google España por el término **consultor SEO** y relacionados para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
+Mi objetivo principal será posicionar en el TOP10 de Google España por términos relacionados con **posicionamiento web** y **consultor SEO** . Para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
 
 Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del año.
 
-## Estrategia digital mes a mes
+## Estrategia digital paso a paso
 
 Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019.
 
 | Mes      | Tareas SEO / Estrategia      
 |----------|----------------------------------
 | Enero | [Base SEO sólida](#enero) / Creación de template (diseño y programación)                  
-| Febrero | [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
-| Marzo | [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
+| Marzo| [Usabilidad SEO](#febrero) / Creación de blog con tecnología AMP       |
+| Mayo| [Más puertas de entrada](#marzo)  / Ampliamos la página web con términos relacionados
 
 
 ## <a name="enero"></a> Enero: Base SEO sólida
@@ -46,7 +46,7 @@ Estas son la tareas SEO que he ido implementado a lo largo de la estrategia 2019
 
 He comenzado lanzando una primera versión de la página principal -para posicionar por [especialista digital](https://emirodgar.com)- y la página de [consultor SEO](/consultor-seo/). El resto del mes lo he pasado definiendo -sobre papel- la futura arquitectura del sitio y optimizando tanto la parte visual como el contenido de ambas páginas.
 
-He dado de alta el dominio en [Google Search Consolehttps://search.google.com/search-console) (GSC) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
+He dado de alta el dominio en [Google Search Console]https://search.google.com/search-console) (GSC) y solicitado la indexación de ambas URLs. Se han indexado al día siguiente.
 
 Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba desde cero. Eso ha agilizado el proceso de indexación.
 
@@ -145,5 +145,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjY1Mjc3NF19
+eyJoaXN0b3J5IjpbMTMwNzM2MzYzXX0=
 -->
