@@ -16,7 +16,14 @@ permalink: estrategia-seo
 
 ## Definir estrategia y objetivos
 
-Mi objetivo principal será posicionar en el TOP10 de Google España por términos relacionados con **posicionamiento web** y **consultor SEO** . Para ello voy a utilizar  el dominio emirodgar.com, el cual [tenía abandonado desde hace años](https://twitter.com/Emirodgar/status/1095273190971113473) y que he rescatado para la ocasión.
+Mi objetivo principal será posicionar en el TOP10 de Google España por términos relacionados con **posicionamiento web** y **consultor SEO** . Para ello voy a utilizar  el dominio emirodgar.com, el cual tenía abandonado desde hace años y que he rescatado para la ocasión.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1095273190971113473">
+</amp-twitter>
 
 Como se trata de un proyecto a título personal el tiempo que podré invertir estará muy limitado, aún así, veamos qué resultados obtenemos a lo largo del tiempo.
 
@@ -138,5 +145,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjIyOTY5MV19
+eyJoaXN0b3J5IjpbMTM2NDQxMTY2NV19
 -->
