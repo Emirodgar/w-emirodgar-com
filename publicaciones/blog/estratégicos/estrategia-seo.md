@@ -127,13 +127,13 @@ He implementado la [etiqueta hreflang](https://support.google.com/webmasters/ans
 
 ## <a name="contenido"></a>5- Optimización del contenido
  
-El contenido es un [pilar fundamental de cualquier estrategia SEO](https://emirodgar.com/pilares-seo) por lo que después de haber generado suficientes datos para analizar, he llevado a cabo las siguientes acciones:
+El contenido es un [pilar fundamental en cualquier estrategia SEO](https://emirodgar.com/pilares-seo) por lo que después de haber generado suficientes datos para analizar, he llevado a cabo las siguientes tareas:
 
  1. He identificado aquellas páginas con un [bajo CTR](https://emirodgar.com/ctr-resultados-google) en Search Console y he optimizado su contenido en base a los términos por los que aparecen.
  2. He optimizado [títulos y descripciones](https://emirodgar.com/titulos-descripciones-seo) para incrementar la captación de usuarios.
  3. He mejorado el enlazado interno para potenciar las palabras por las que más me interesa posicionar.
 
-Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** .
+Sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** .
 
 <amp-img alt="consultor seo salamanca, emirodgar en segunda posición"
   src="https://i.imgur.com/u3RGo9e.png"
@@ -159,10 +159,14 @@ No son muchos pero están afectando tanto a la indexación de ciertas páginas c
  1. He identificado un problema en las imágenes con AMP. Es un problema que afecta a la validación de dicha tecnología y que impide que ésta genere un buen renderizado en dispositivos móviles.
  2. He identificado problemas de contenido duplicado para varias URLs debido a configuraciones erróneas del servidor web.
 
+## <a name="link-building"></a>7- Consecución de enlaces
+
+Por muy bien que hayamos trabajado 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1NjI5OTYxLDg4OTg4NDMwMSwtNzEzNz
-k4MTg0LDIwMDk4NzQxOTQsMTEwNDAyNjQwNl19
+eyJoaXN0b3J5IjpbMTI0NTIyMzM4OCw4ODk4ODQzMDEsLTcxMz
+c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
 -->
