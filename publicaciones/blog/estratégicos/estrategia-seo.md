@@ -131,7 +131,7 @@ Después del verano -donde no he podido trabajar nada- llega el momento de anali
  2. He optimizado [títulos y descripciones](https://emirodgar.com/titulos-descripciones-seo) para incrementar la captación de usuarios.
  3. He mejorado el enlazado interno para potenciar las palabras por las que más me interesa posicionar.
 
-Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** y en 17 para **SEO Salamanca** que será un término que también tendré vigilado.
+Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimización *onpage*, he conseguido situarme en segunda posición para **consultor SEO Salamanca** .
 
 <amp-img alt="consultor seo salamanca, emirodgar en segunda posición"
   src="https://i.imgur.com/u3RGo9e.png"
@@ -144,7 +144,7 @@ Sorprendentemente, sin haber trabajado enlaces y únicamente con una optimizaci�
 
 El siguiente paso ha sido revisar los errores que aparecen en Google Search Console y solucionarlos. 
 
-<amp-img alt="Usabilidad SEO de web.dev sobre emirodgar.com y tecnología AMP"
+<amp-img alt="Errores Search Console AMP indexación"
   src="https://i.imgur.com/tcDllgb.png"
   width="901"
   height="330"
@@ -161,6 +161,6 @@ No son muchos pero están afectando tanto a la indexación de ciertas páginas c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYyMTg3NDAsODg5ODg0MzAxLC03MT
-M3OTgxODQsMjAwOTg3NDE5NCwxMTA0MDI2NDA2XX0=
+eyJoaXN0b3J5IjpbLTE1NDczOTY5OSw4ODk4ODQzMDEsLTcxMz
+c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
 -->
