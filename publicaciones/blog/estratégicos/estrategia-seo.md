@@ -40,7 +40,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 | Abril 19 | [Más puertas de entrada](#abril)  / Ampliamos la página web con términos relacionados
 
 
-## <a name="febrero"></a> 1- Base SEO sólida
+## <a name="febrero"></a> 1- Nueva web con base SEO sólida
  
 He comenzado lanzando una primera versión de la página principal muy básica para que Google me vaya indexando. Sólo es la home.
 
@@ -59,15 +59,7 @@ Aclarar que el dominio había funcionado en el pasado por lo que no comenzaba de
 
 Respecto a la base SEO de la página, he dado prioridad a los [factores SEO que considero que van a tener mayor peso este año](factores-seo).  Más adelante iré trabajando otros factores.
 
-## <a name="marzo"></a>2- Blog AMP y Usabilidad SEO
- 
-
-<amp-img alt="Google Search Console - emirodgar.com"
-  src="https://i.imgur.com/MVStSCU.png"
-  width="981"
-  height="357"
-  layout="responsive">
-</amp-img>
+## <a name="marzo"></a>2- Añadir un blog para contenido dinámico
 
 He decidido añadir un blog para poder generar **contenido de actualidad** con cierta facilidad. Utilizo dos tecnologías en la página: 
 
@@ -77,6 +69,19 @@ He decidido añadir un blog para poder generar **contenido de actualidad** con c
 El hecho de usar el blog **únicamente con AMP** será un experimento para analizar cómo posiciona esta tecnología cuando es la única existente. Es decir, no tengo *canonical* a una versión normal.
 
 La primera publicación del blog ha sido [factores SEO](/factores-seo). He decidido no utilizar una subcarpeta /blog/ en la URL y hacer que todo cuelgue de la *home*. No incluyo fechas en la URL pero sí en título y H1 para aprovechar la estacionalidad de cada año.
+
+## <a name="marzo"></a>3- Usabilidad SEO (optimizar tiempo de carga)
+ 
+
+<amp-img alt="Google Search Console - emirodgar.com"
+  src="https://i.imgur.com/MVStSCU.png"
+  width="981"
+  height="357"
+  layout="responsive">
+</amp-img>
+
+
+
 
 Además del blog, gran parte del esfuerzo de febrero lo he concentrado en optimizar al máximo la página web para que el **tiempo de carga** y **experiencia de los usuarios** sea óptima.
 
@@ -149,5 +154,5 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODY2NzY4NywxMTA0MDI2NDA2XX0=
+eyJoaXN0b3J5IjpbMTQ0NjIxMzYwNCwxMTA0MDI2NDA2XX0=
 -->
