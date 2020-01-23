@@ -42,7 +42,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 | Junio 19 | [Optimizar contenido](#contenido)  / Revisión del contenido en función de los análisis realizados 
 | Julio 19 | [Solucionar errores](#errores)  / Corregir errores asociados a indexación y AMP
 | Septiembre 19 | [Link building](#link-building)  / Conseguir enlaces para impulsar el posicionamiento
-| Noviembre 19 | [Repaso analítica](#repaso)  / Análisis de evolución de la estrategia
+| Noviembre 19 | [Repaso analítica](#evolucion)  / Análisis de evolución de la estrategia
 
 
 ## <a name="web"></a> 1- Nueva web con base SEO sólida
@@ -160,8 +160,10 @@ No son muchos pero están afectando tanto a la indexación de ciertas páginas c
 
  1. He identificado un problema en las imágenes con AMP. Es un problema que afecta a la validación de dicha tecnología y que impide que ésta genere un buen renderizado en dispositivos móviles.
  2. He identificado problemas de contenido duplicado para varias URLs debido a configuraciones erróneas del servidor web.
+ 
+ También he aprovechado para
 
-## <a name="link-building"></a>7- Consecución de enlaces
+## <a name="link-building"></a>7- Link Building (generación de enlaces)
 
 Por muy bien que hayamos trabajado la parte técnica y de contenidos de nuestra web, **si no tenemos enlaces será difícil posicionar**.
 
@@ -169,11 +171,15 @@ Por muy bien que hayamos trabajado la parte técnica y de contenidos de nuestra 
 
 Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas publicaciones y crear perfiles en redes relevantes. Un impulso rápido que se ha notado casi al instante.
 
+## <a name="evolucion"></a>8- Repaso analítica para conocer evolución
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5MTAyNzQsLTg1OTM1NzU4NCw4ODk4OD
-QzMDEsLTcxMzc5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZd
-fQ==
+eyJoaXN0b3J5IjpbLTIxMDg4MzQxNzksNTA5MTAyNzQsLTg1OT
+M1NzU4NCw4ODk4ODQzMDEsLTcxMzc5ODE4NCwyMDA5ODc0MTk0
+LDExMDQwMjY0MDZdfQ==
 -->
