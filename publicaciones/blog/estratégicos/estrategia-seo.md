@@ -42,7 +42,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 | Junio 19 | [Optimizar contenido](#contenido)  / Revisión del contenido en función de los análisis realizados 
 | Julio 19 | [Solucionar errores](#errores)  / Corregir errores asociados a indexación y AMP
 | Septiembre 19 | [Link building](#link-building)  / Conseguir enlaces para impulsar el posicionamiento
-| Noviembre 19 | [Repaso analítica](#evolucion)  / Análisis de evolución de la estrategia
+
 
 
 ## <a name="web"></a> 1- Nueva web con base SEO sólida
@@ -178,7 +178,6 @@ Por muy bien que hayamos trabajado la parte técnica y de contenidos de nuestra 
 
 Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas publicaciones y crear perfiles en redes relevantes. Un impulso rápido que se ha notado casi al instante.
 
-
 <amp-twitter 
   width="375"
   height="472"
@@ -192,7 +191,7 @@ Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTc2ODQ2MCw1MDkxMDI3NCwtODU5Mz
-U3NTg0LDg4OTg4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQs
-MTEwNDAyNjQwNl19
+eyJoaXN0b3J5IjpbMzQ4NTUyODE4LDUwOTEwMjc0LC04NTkzNT
+c1ODQsODg5ODg0MzAxLC03MTM3OTgxODQsMjAwOTg3NDE5NCwx
+MTA0MDI2NDA2XX0=
 -->
