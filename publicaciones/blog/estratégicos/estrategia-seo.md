@@ -68,6 +68,15 @@ Me he animado a hacerlo únicamente en [AMP](https://www.ampproject.org). Será 
 
 La primera publicación del blog ha sido [factores SEO](/factores-seo).  A partir de aquí intentaré generar contenido optimizado de forma periódica.
 
+<amp-img alt="Google Search Console - emirodgar.com"
+  src="https://i.imgur.com/MVStSCU.png"
+  width="981"
+  height="357"
+  layout="responsive">
+</amp-img>
+
+Con sólo dos URLs indexadas y una posición media de 64 dentro de Google España, ya he sido capaz de conseguir 10 visitas.
+
 ## <a name="usabilidad-seo"></a>3- Usabilidad SEO (optimizar tiempo de carga)
  
 
@@ -146,6 +155,6 @@ Sé que no es mi objetivo principal y que es un término sin mucha competencia p
 - Creadas otras páginas por país
 - comienzo a trabajar "posicionamiento web" en lugar de únicamente consultor seo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDQ4MDYxMiwyMDA5ODc0MTk0LDExMD
+eyJoaXN0b3J5IjpbMjA2MTQ1MzQ1NywyMDA5ODc0MTk0LDExMD
 QwMjY0MDZdfQ==
 -->
