@@ -172,11 +172,11 @@ No son muchos pero están afectando tanto a la indexación de ciertas páginas c
 
 ## <a name="link-building"></a>7- Link Building (generación de enlaces)
 
-Por muy bien que hayamos trabajado la parte técnica y de contenidos de nuestra web, **si no tenemos enlaces será difícil posicionar**.
+Por muy bien que hayamos trabajado la parte técnica y de contenidos de nuestra web, **si no tenemos enlaces, será difícil posicionar**.
 
 > Recomiendo seguir esta [guía SEO de link building](https://emirodgar.com/guia-link-building) para conseguir enalces de calidad de forma natural
 
-Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas publicaciones y crear perfiles en redes relevantes. Un impulso rápido que se ha notado casi al instante.
+Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas publicaciones y crear perfiles en redes relevantes. También he redireccionado unos cuantos que tenía en otros proyectos antiguos y que ya no usaba. Esto lo que hecho principalmente por falta de tiempo ya que  Un impulso rápido que se ha notado casi al instante.
 
 <amp-twitter 
   width="375"
@@ -205,8 +205,8 @@ Tengo muchas ideas y ganas de seguir ejecutando acciones SEO en emirodgar.com pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzIzNzkzNywtMTgxMDExNTQ0LDk1MD
-A0MDkyOCwtMTcyNzQwMDIyOCw1MDkxMDI3NCwtODU5MzU3NTg0
-LDg4OTg4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQsMTEwND
-AyNjQwNl19
+eyJoaXN0b3J5IjpbLTE3MjA4MzM3NjQsLTE4MTAxMTU0NCw5NT
+AwNDA5MjgsLTE3Mjc0MDAyMjgsNTA5MTAyNzQsLTg1OTM1NzU4
+NCw4ODk4ODQzMDEsLTcxMzc5ODE4NCwyMDA5ODc0MTk0LDExMD
+QwMjY0MDZdfQ==
 -->
