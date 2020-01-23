@@ -42,7 +42,7 @@ Como se trata de un proyecto a título personal el tiempo que podré invertir es
 | Junio 19 | [Optimizar contenido](#contenido)  / Revisión del contenido en función de los análisis realizados 
 | Julio 19 | [Solucionar errores](#errores)  / Corregir errores asociados a indexación y AMP
 | Septiembre 19 | [Link building](#link-building)  / Conseguir enlaces para impulsar el posicionamiento
-| Septiembre 19 | [Link building](#link-building)  / Conseguir enlaces para impulsar el posicionamiento
+| Noviembre 19 | [Repaso analítica](#repaso)  / Análisis de evolución de la estrategia
 
 
 ## <a name="web"></a> 1- Nueva web con base SEO sólida
@@ -173,7 +173,7 @@ Lo que he hecho ha sido obtener enlaces desde sitios relacionados con ciertas pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzczOTE5NSwtODU5MzU3NTg0LDg4OT
-g4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQsMTEwNDAyNjQw
-Nl19
+eyJoaXN0b3J5IjpbNTA5MTAyNzQsLTg1OTM1NzU4NCw4ODk4OD
+QzMDEsLTcxMzc5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZd
+fQ==
 -->
