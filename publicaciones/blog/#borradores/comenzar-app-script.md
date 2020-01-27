@@ -8,6 +8,8 @@
 
 [https://developers.google.com/apps-script/guides/support/best-practices#avoid_libraries_in_ui-heavy_scripts](https://developers.google.com/apps-script/guides/support/best-practices#avoid_libraries_in_ui-heavy_scripts)
 
+[https://script.google.com/home](https://script.google.com/home)
+
 Ctrl + R para ejcutar el script
 
 ## Extensiones interesantes
@@ -16,5 +18,6 @@ Ctrl + R para ejcutar el script
 - [GitHub Assistant](https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM4NTAzNTEsLTcxOTk4ODc3OV19
+eyJoaXN0b3J5IjpbNzQwODAxODgsLTEwOTM4NTAzNTEsLTcxOT
+k4ODc3OV19
 -->
