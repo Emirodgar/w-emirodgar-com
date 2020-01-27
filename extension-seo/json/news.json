@@ -1,6 +1,18 @@
 {
   "data": [
-	   [
+     [
+      "Actualizada la guía de Mobile Frist Indexing",
+      "Google ha actualizado su guía de indexación centrada en dispositivos móviles por lo que es recomendable echar un vistazo y asegurarnos de que cumplimos sus directrices.",
+      "https://developers.google.com/search/mobile-sites/mobile-first-indexing",
+    "Enero 2020"
+    ],
+     [
+      "Google probará nuevos lugares para los favicon",
+      "Los usuarios no estaban muy convencidos de cómo Google usaba los favicon en los resultados de búsqueda y se ha comprometido a analizarlo e intentar mostrarlo de otra forma.",
+      "https://twitter.com/searchliaison/status/1220768238490939394",
+    "Enero 2020"
+    ],
+     [
       "Sin soporte para data-vocabulary.org",
       "Los datos estructurados serán generados únicamente con schema.org. Si hacemos uso de data-vocabulary.org tendremos hasta abril 2020 para migrarlo. Desde Search Console podremos ver advertencias hasta entonces.",
       "https://twitter.com/googlewmc/status/1219565763759165441",
