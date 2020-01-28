@@ -44,7 +44,7 @@ Son chinos, sí, pero han evolucionado mucho en los últimos años. El precio es
 
 ### Teléfonos de gama media - desde 300€
 
-Si queremos exprimir un poco más nuestro teléfono móvil podemos optar por la gama media. Son teléfonos similares a los anteriores pero con componentes de mayor calidad.
+Si queremos exprimir un poco más nuestro teléfono móvil podemos optar por la gama media. Son teléfonos similares a los anteriores pero con componentes de mayor calidad. Nos permitirá una interacción más cómoda, más tiempo de batería, mejor pantalla y jugar de forma fluida.
 
 Aquí encontramos posiblemente la mayor variedad de dispositivos. Podemos irnos a las marcas conocidas como:
 
@@ -62,12 +62,12 @@ O también tenemos otra sería de dispositivos móviles no tan conocidos pero co
 
 ### Teléfonos de gama alta - desde 600€
 
-Aquí ya entramos en la recta final donde encontramos teléfonos móviles a un precio elevado y, en algunos casos, injustificado.
+Aquí ya entramos en la recta final donde encontramos teléfonos móviles a un precio elevado y, en algunos casos, injustificado. No obstante, cualquier teléfono de gama alta contará siempre con componentes de calidad y asegurará una gran experiencia del usuario.
 
-Principalmente son casi todos de Apple aunque también se cuelan algunos teléfonos de otros fabricantes como Samsung, Huawei o Xiaomi.
+Principalmente son casi todos de Apple aunque también se cuelan algunos modelos de teléfono de otros fabricantes como Samsung, Huawei o Xiaomi.
 
 ## Aspectos a valorar en un teléfono móvil
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE5MzgyODEsLTEzMzcwODY4ODUsLT
-UzODE3MDkwMF19
+eyJoaXN0b3J5IjpbLTM0MjQ3NzU3NywtMTMzNzA4Njg4NSwtNT
+M4MTcwOTAwXX0=
 -->
