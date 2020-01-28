@@ -19,14 +19,15 @@ Me gusta probar diferentes modelos ya que es la única forma fiable que tienes d
 
 ## Smartphones que he tenido
 
-Desde que comencé en el maravilloso mundo de los smartphones he tenido la suerte de poder probar una serie de marcas. 
+Desde que comencé en el maravilloso mundo de los *smartphones* he tenido la suerte de poder probar una serie de marcas y modelos. 
 
- 1. iPhone 3GS  
- 2. Google Nexus
- 3. iPhone 6
- 4. iPhone 6s
- 5. Google Pixel XL
- 6. Xiaomi Mi 9T
+ 1. iPhone 3GS  - 2009
+ 2. Google Nexus - 2012
+ 3. iPhone 6 - 2015
+ 4. Google Pixel XL -2018
+ 5. Xiaomi Mi 9T - 2020
+
+Reconozco la superioridad de Apple al principio
 
 ## ¿Qué teléfono es mejor para mí?
 
@@ -78,7 +79,7 @@ A la hora de comprar un teléfono móvil hay una serie de aspectos importantes q
  - **Batería**: un punto importante. A mayor mAh, mayor duración y también tener en cuenta aspectos como carga rápida o carga inalámbrica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTE3OTY4NiwtMTAwMTQ2NTM5NCwtMT
-M4MjEzNDExMywtMzQyNDc3NTc3LC0xMzM3MDg2ODg1LC01Mzgx
-NzA5MDBdfQ==
+eyJoaXN0b3J5IjpbNDgwODc4NTkzLC0xMDAxNDY1Mzk0LC0xMz
+gyMTM0MTEzLC0zNDI0Nzc1NzcsLTEzMzcwODY4ODUsLTUzODE3
+MDkwMF19
 -->
