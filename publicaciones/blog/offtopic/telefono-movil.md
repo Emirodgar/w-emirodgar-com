@@ -33,7 +33,7 @@ Desde que comencé con el
 
 Para gustos colores pero todo depende de para qué lo quieres y de lo que te quieras gastar. Mi humilde opinión es que pagar más de 500€-600€ por un móvil es una auténtica barbaridad ya que estás pagando un sobre coste por el producto. 
 
-### Teléfonos simples para llamar y chatear
+### Teléfonos simples para llamar y chatear - desde 150€ 
 
 Si no te preocupa tener una pantalla normal y un procesador simple, te recomiendo que optes por los teléfonos Xiaomi.
 
@@ -42,5 +42,5 @@ Si no te preocupa tener una pantalla normal y un procesador simple, te recomiend
 
 Son chinos, sí, pero han evolucionado mucho en los últimos años. El precio es barato porque no usan materiales de gran calidad (ten cuidado de que no se te caiga y usa siempre funda) y, al ser de gama baja, usan lentes, pantallas y sensores por debajo de la media del mercado. Si no vas a jugar ni pasar mucho tiempo con el móvil, este tipo de dispositivos son más que suficientes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODEzNTU1NCwtNTM4MTcwOTAwXX0=
+eyJoaXN0b3J5IjpbMTY1NDAxMzE1NCwtNTM4MTcwOTAwXX0=
 -->
