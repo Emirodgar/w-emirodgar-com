@@ -67,7 +67,13 @@ Aquí ya entramos en la recta final donde encontramos teléfonos móviles a un p
 Principalmente son casi todos de Apple aunque también se cuelan algunos modelos de teléfono de otros fabricantes como Samsung, Huawei o Xiaomi.
 
 ## Aspectos a valorar en un teléfono móvil
+
+A la hora de comprar un teléfono móvil hay una serie de aspectos importantes que debemos tener en cuenta:
+
+ - **Pantalla**: es crucial que sepamos qué tipo de pantalla tendremos, qué resolución soporta (a mayor, más nitided y mejor se verá) y qué versión de Gorilla Glass (capa de protección) trae. 
+ - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjQ3NzU3NywtMTMzNzA4Njg4NSwtNT
-M4MTcwOTAwXX0=
+eyJoaXN0b3J5IjpbNDQ5MTcxNzA1LC0zNDI0Nzc1NzcsLTEzMz
+cwODY4ODUsLTUzODE3MDkwMF19
 -->
