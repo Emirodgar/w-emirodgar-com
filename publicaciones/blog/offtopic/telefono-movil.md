@@ -29,7 +29,7 @@ Desde que comencé con el
  5. Google Pixel XL
  6. Xiaomi Mi 9T
 
-## ¿Qué teléfono es mejor?
+## ¿Qué teléfono es mejor para mí?
 
 Para gustos colores pero todo depende de para qué lo quieres y de lo que te quieras gastar. Mi humilde opinión es que pagar más de 500€-600€ por un móvil es una auténtica barbaridad ya que estás pagando un sobre coste por el producto. 
 
@@ -64,8 +64,10 @@ O también tenemos otra sería de dispositivos móviles no tan conocidos pero co
 
 Aquí ya entramos en la recta final donde encontramos teléfonos móviles a un precio elevado y, en algunos casos, injustificado.
 
-Principalmente
+Principalmente son casi todos de Apple aunque también se cuelan algunos teléfonos de otros fabricantes como Samsung, Huawei o Xiaomi.
+
+## Aspectos a valorar en un teléfono móvil
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTkxMjQ3OCwtMTMzNzA4Njg4NSwtNT
-M4MTcwOTAwXX0=
+eyJoaXN0b3J5IjpbLTE1NjE5MzgyODEsLTEzMzcwODY4ODUsLT
+UzODE3MDkwMF19
 -->
