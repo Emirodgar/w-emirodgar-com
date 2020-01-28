@@ -13,13 +13,13 @@ permalink: telefono-movil
 
 # Guía para comprar un teléfono móvil
 
-Como informático y amante de la tecnología siempre he tenido especial atención y cuidado a la hora de seleccionar qué terminal quiero usar.
+Como informático y amante de la tecnología, siempre he tenido especial atención y cuidado a la hora de seleccionar qué terminal quiero usar.
 
 Me gusta probar diferentes modelos ya que es la única forma fiable que tienes de valorar realmente sus capacidades para ponerlos a prueba en un entorno real.
 
 ## Smartphones que he tenido
 
-Desde que comencé con el 
+Desde que comencé en el maravilloso mundo de los smartphones he tenido la suerte de poder probar una serie de marcas. 
 
  1. iPhone 3GS  
  2. Google Nexus
@@ -78,6 +78,7 @@ A la hora de comprar un teléfono móvil hay una serie de aspectos importantes q
  - **Batería**: un punto importante. A mayor mAh, mayor duración y también tener en cuenta aspectos como carga rápida o carga inalámbrica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE0NjUzOTQsLTEzODIxMzQxMTMsLT
-M0MjQ3NzU3NywtMTMzNzA4Njg4NSwtNTM4MTcwOTAwXX0=
+eyJoaXN0b3J5IjpbMTA4MTE3OTY4NiwtMTAwMTQ2NTM5NCwtMT
+M4MjEzNDExMywtMzQyNDc3NTc3LC0xMzM3MDg2ODg1LC01Mzgx
+NzA5MDBdfQ==
 -->
