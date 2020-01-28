@@ -29,8 +29,16 @@ Desde que comencé en el maravilloso mundo de los *smartphones* he tenido la sue
 
 Reconozco la superioridad de Apple al principio pero creo que en los últimos años ha perdido tracción y que muchas otras marcas han ganado terreno. Ahora, en muchos casos, no logro ver la diferencia en el precio.
 
-Después de menos de dos años con el Google PixelXL -que lo mejor que tení
+Después de menos de dos años con el Google PixelXL -que lo mejor que tenía eran las actualizaciones por parte de Google- se me cayó al suelo y se rompió la cámara. Por desgracia y como ya han sacado otros tres modelos, **no hay recambios oficiales**.
 
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1222125329789214721">
+</amp-twitter>
+
+Viendo que con niños en casa es muy probable que se sigan cayendo los teléfonos he optado por un teléfono de gama media pero a un precio razonable. Por ello voy a lanzarme a los brazos de Xiaomi y si Mi
 
 ## ¿Qué teléfono es mejor para mí?
 
@@ -82,7 +90,7 @@ A la hora de comprar un teléfono móvil hay una serie de aspectos importantes q
  - **Batería**: un punto importante. A mayor mAh, mayor duración y también tener en cuenta aspectos como carga rápida o carga inalámbrica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzYyMjk3NiwtMTAwMTQ2NTM5NCwtMT
-M4MjEzNDExMywtMzQyNDc3NTc3LC0xMzM3MDg2ODg1LC01Mzgx
-NzA5MDBdfQ==
+eyJoaXN0b3J5IjpbLTIwMzU1Nzc0NzMsLTEwMDE0NjUzOTQsLT
+EzODIxMzQxMTMsLTM0MjQ3NzU3NywtMTMzNzA4Njg4NSwtNTM4
+MTcwOTAwXX0=
 -->
