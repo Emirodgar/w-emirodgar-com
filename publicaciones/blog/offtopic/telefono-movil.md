@@ -1,11 +1,11 @@
 
 ---
 description: No interesa pagar por un móvil gama alta. Hay que ser prácticos
-date: 23/08/2019
+date: 28/01/2020
 author: Emirodgar
 sitemap: 1
 feed: 1
-folder: marketing
+folder: offtopic
 lang: es_ES
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: telefono-movil
@@ -79,6 +79,6 @@ A la hora de comprar un teléfono móvil hay una serie de aspectos importantes q
  - **Batería**: un punto importante. A mayor mAh, mayor duración y también tener en cuenta aspectos como carga rápida o carga inalámbrica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTgyMzYyOTMsLTEzODIxMzQxMTMsLT
-M0MjQ3NzU3NywtMTMzNzA4Njg4NSwtNTM4MTcwOTAwXX0=
+eyJoaXN0b3J5IjpbNTM3OTQ5OTQ1LC0xMzgyMTM0MTEzLC0zND
+I0Nzc1NzcsLTEzMzcwODY4ODUsLTUzODE3MDkwMF19
 -->
