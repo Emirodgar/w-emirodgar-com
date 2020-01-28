@@ -41,6 +41,10 @@ Si no te preocupa tener una pantalla normal y un procesador simple, te recomiend
  - Xiaomi Mi A3
 
 Son chinos, sí, pero han evolucionado mucho en los últimos años. El precio es barato porque no usan materiales de gran calidad (ten cuidado de que no se te caiga y usa siempre funda) y, al ser de gama baja, usan lentes, pantallas y sensores por debajo de la media del mercado. Si no vas a jugar ni pasar mucho tiempo con el móvil, este tipo de dispositivos son más que suficientes.
+
+### Teléfonos de gama media - desde 300€
+
+Si queremos exprimir un poco más nuestro teléfono móvil podemos optar por 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDAxMzE1NCwtNTM4MTcwOTAwXX0=
+eyJoaXN0b3J5IjpbLTEzMzcwODY4ODUsLTUzODE3MDkwMF19
 -->
