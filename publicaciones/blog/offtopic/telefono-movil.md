@@ -60,8 +60,12 @@ O también tenemos otra sería de dispositivos móviles no tan conocidos pero co
 - Realme X2 Pro
 - Xiaomi Mi 9T Pro
 
+### Teléfonos de gama alta - desde 600€
 
+Aquí ya entramos en la recta final donde encontramos teléfonos móviles a un precio elevado y, en algunos casos, injustificado.
+
+Principalmente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1NjQxMzgzLC0xMzM3MDg2ODg1LC01Mz
-gxNzA5MDBdfQ==
+eyJoaXN0b3J5IjpbMjA5MTkxMjQ3OCwtMTMzNzA4Njg4NSwtNT
+M4MTcwOTAwXX0=
 -->
