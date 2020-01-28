@@ -32,6 +32,13 @@ Desde que comencé con el
 ## ¿Qué teléfono es mejor?
 
 Para gustos colores pero todo depende de para qué lo quieres y de lo que te quieras gastar. Mi humilde opinión es que pagar más de 500€-600€ por un móvil es una auténtica barbaridad ya que estás pagando un sobre coste por el producto. 
+
+### Teléfonos simples para llamar y chatear
+
+Si no te preocupa tener una pantalla normal y un procesador simple, te recomiendo que optes por los teléfonos Xiaomi.
+
+ - Xiaomi Redmi Note 8/T  Xiaomi Mi A3
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDUxNDA4MSwtNTM4MTcwOTAwXX0=
+eyJoaXN0b3J5IjpbLTEwODMwNjQ1NTMsLTUzODE3MDkwMF19
 -->
