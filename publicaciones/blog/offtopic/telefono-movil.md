@@ -19,6 +19,15 @@ Como informático y amante de la tecnología siempre he tenido especial atenció
 Me gusta probar diferentes modelos ya que es la única forma fiable que tienes de valorar realmente sus capacidades para ponerlos a prueba en un entorno real.
 
 ## Smartphones que he tenido
+
+Desde que comencé con el 
+
+ 1. iPhone 3GS  
+ 2. Google Nexus
+ 3. iPhone 6
+ 4. iPhone 6s
+ 5. Google Pixel XL
+ 6. Xiaomi 9T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODE3MDkwMF19
+eyJoaXN0b3J5IjpbLTIwMDIxODc1NDQsLTUzODE3MDkwMF19
 -->
