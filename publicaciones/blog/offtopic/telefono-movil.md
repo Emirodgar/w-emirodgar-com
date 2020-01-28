@@ -44,7 +44,8 @@ Son chinos, sí, pero han evolucionado mucho en los últimos años. El precio es
 
 ### Teléfonos de gama media - desde 300€
 
-Si queremos exprimir un poco más nuestro teléfono móvil podemos optar por 
+Si queremos exprimir un poco más nuestro teléfono móvil podemos optar por la gama media. Son teléf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzcwODY4ODUsLTUzODE3MDkwMF19
+eyJoaXN0b3J5IjpbLTg0NDIyNjM2OCwtMTMzNzA4Njg4NSwtNT
+M4MTcwOTAwXX0=
 -->
