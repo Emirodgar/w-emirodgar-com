@@ -27,7 +27,10 @@ Desde que comencé en el maravilloso mundo de los *smartphones* he tenido la sue
  4. Google Pixel XL -2018
  5. Xiaomi Mi 9T - 2020
 
-Reconozco la superioridad de Apple al principio
+Reconozco la superioridad de Apple al principio pero creo que en los últimos años ha perdido tracción y que muchas otras marcas han ganado terreno. Ahora, en muchos casos, no logro ver la diferencia en el precio.
+
+Después de menos de dos años con el Google PixelXL -que lo mejor que tení
+
 
 ## ¿Qué teléfono es mejor para mí?
 
@@ -79,7 +82,7 @@ A la hora de comprar un teléfono móvil hay una serie de aspectos importantes q
  - **Batería**: un punto importante. A mayor mAh, mayor duración y también tener en cuenta aspectos como carga rápida o carga inalámbrica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwODc4NTkzLC0xMDAxNDY1Mzk0LC0xMz
-gyMTM0MTEzLC0zNDI0Nzc1NzcsLTEzMzcwODY4ODUsLTUzODE3
-MDkwMF19
+eyJoaXN0b3J5IjpbMTQ1NzYyMjk3NiwtMTAwMTQ2NTM5NCwtMT
+M4MjEzNDExMywtMzQyNDc3NTc3LC0xMzM3MDg2ODg1LC01Mzgx
+NzA5MDBdfQ==
 -->
