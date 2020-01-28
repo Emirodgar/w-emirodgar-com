@@ -75,9 +75,10 @@ A la hora de comprar un teléfono móvil hay una serie de aspectos importantes q
  - **RAM**: no confundir con el espacio de almacenaje. La RAM nos ayudará a ejecutar varias aplicaciones de forma simultánea sin que nuestro teléfono se bloqueé. Es decir, la experiencia será mejor. Hoy en día un teléfono con menos de 4GB de RAM es posible que vaya justo si le queremos dar uso.
  - **Almacenamiento**: será el espacio en el que podremos instalar aplicaciones, guardar vídeos, fotos, etc. A mayor número de Gigas, más almacenamiento tendremos. Casi todos los móviles Android cuentan con una ranura para tarjeta SD con la que ampliar este almacenamiento por lo que no suele ser requisito importante a la hora de comprar a no ser que no disponga de esta opción.
  - **Cámara**: si tu intención es usar el móvil como cámara fotográfica entonces sí te interesará evaluar qué tipo de lente trae, megapíxeles y calidad de grabación (fps). A mayores números, mejor cámara.
- - Software: básicamente se refiere al sistema operativo. Por norma general tenemos Windows Phone, iOS (Apple) y Android (Google). Cada uno es diferente y se adapta de una u otra forma a lo que queramos. Especial atención a los  
+ - **Software**: básicamente se refiere al sistema operativo. Por norma general tenemos Windows Phone, iOS (Apple) y Android (Google). Cada uno es diferente y se adapta de una u otra forma a lo que queramos. Especial atención a los Android ya que pueden traer capas de personalización como los MIUI de Xiaomi.  
+ - **Batería**: un punto importante. A mayor mAh, mayor duración y también tener en cuenta aspectos como carga rápida o carga inalámbrica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc0Nzg2LC0xMzgyMTM0MTEzLC0zND
-I0Nzc1NzcsLTEzMzcwODY4ODUsLTUzODE3MDkwMF19
+eyJoaXN0b3J5IjpbLTEwOTgyMzYyOTMsLTEzODIxMzQxMTMsLT
+M0MjQ3NzU3NywtMTMzNzA4Njg4NSwtNTM4MTcwOTAwXX0=
 -->
