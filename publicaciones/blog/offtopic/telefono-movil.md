@@ -27,7 +27,11 @@ Desde que comencé con el
  3. iPhone 6
  4. iPhone 6s
  5. Google Pixel XL
- 6. Xiaomi 9T
+ 6. Xiaomi Mi 9T
+
+## ¿Qué teléfono es mejor?
+
+Para gustos colores pero todo depende de para qué lo quieres y de lo que te quieras gastar. Mi humilde opinión es que pagar más de 500€-600€ por un móvil es una auténtica barbaridad ya que estás pagando un sobre coste por el producto. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIxODc1NDQsLTUzODE3MDkwMF19
+eyJoaXN0b3J5IjpbLTIyNDUxNDA4MSwtNTM4MTcwOTAwXX0=
 -->
