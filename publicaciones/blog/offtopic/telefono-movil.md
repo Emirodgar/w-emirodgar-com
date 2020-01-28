@@ -16,7 +16,9 @@ permalink: telefono-movil
 
 Como informático y amante de la tecnología siempre he tenido especial atención y cuidado a la hora de seleccionar qué terminal quiero usar.
 
-Me gusta probar diferentes modelos ya que es la única forma fiable que tienes de valorar realmente sus capacidades para ponerlos 
+Me gusta probar diferentes modelos ya que es la única forma fiable que tienes de valorar realmente sus capacidades para ponerlos a prueba en un entorno real.
+
+## Smartphones que he tenido
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDAxNDM3MjBdfQ==
+eyJoaXN0b3J5IjpbLTUzODE3MDkwMF19
 -->
