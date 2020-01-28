@@ -72,9 +72,10 @@ A la hora de comprar un teléfono móvil hay una serie de aspectos importantes q
 
  - **Pantalla**: es crucial que sepamos qué tipo de pantalla tendremos, qué resolución soporta (a mayor, más nitided y mejor se verá) y qué versión de Gorilla Glass (capa de protección) trae. 
  - **Procesador**: si estamos buscando potencia tendremos que decatantarnos por aquellos modelos cuyo procesador sea más potente. Si no tenemos mucha idea, por norma general un valor más alto equivale a un procesador más nuevo y normalmente con mejores prestaciones.
- - RAM: no confundir con el espacio de almacenaje. La RAM nos ayudará a ejecutar varias aplicaciones de forma simultánea sin que nuestro teléfono se bloqueé. Es decir, la experiencia será mejor. Hoy en día un teléfono con menos de 4GB de RAM irá a
+ - **RAM**: no confundir con el espacio de almacenaje. La RAM nos ayudará a ejecutar varias aplicaciones de forma simultánea sin que nuestro teléfono se bloqueé. Es decir, la experiencia será mejor. Hoy en día un teléfono con menos de 4GB de RAM es posible que vaya justo si le queremos dar uso.
+ - Almacenamiento: será el espacio en el que podremos instalar aplicaciones, guardar vídeos, fotos, etc. A mayor número de Gigas, más almacenamiento tendremos. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODY5NjQ4LC0zNDI0Nzc1NzcsLTEzMz
-cwODY4ODUsLTUzODE3MDkwMF19
+eyJoaXN0b3J5IjpbLTE1NjQwNzIzOTEsLTM0MjQ3NzU3NywtMT
+MzNzA4Njg4NSwtNTM4MTcwOTAwXX0=
 -->
