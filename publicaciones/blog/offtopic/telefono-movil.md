@@ -17,28 +17,6 @@ Como informático y amante de la tecnología, siempre he tenido especial atenci�
 
 Me gusta probar diferentes modelos ya que es la única forma fiable que tienes de valorar realmente sus capacidades para ponerlos a prueba en un entorno real.
 
-## Smartphones que he tenido
-
-Desde que comencé en el maravilloso mundo de los *smartphones* he tenido la suerte de poder probar una serie de marcas y modelos. 
-
- 1. iPhone 3GS  - 2009
- 2. Google Nexus - 2012
- 3. iPhone 6 - 2015
- 4. Google Pixel XL -2018
- 5. Xiaomi Mi 9T - 2020
-
-Reconozco la superioridad de Apple al principio pero creo que en los últimos años ha perdido tracción y que muchas otras marcas han ganado terreno. Ahora, en muchos casos, no logro ver la diferencia en el precio.
-
-Después de menos de dos años con el Google PixelXL -que lo mejor que tenía eran las actualizaciones por parte de Google- se me cayó al suelo y se rompió la cámara. Por desgracia y como ya han sacado otros tres modelos, **no hay recambios oficiales**.
-
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1222125329789214721">
-</amp-twitter>
-
-Viendo que con niños en casa es muy probable que se sigan cayendo los teléfonos he optado por un teléfono de gama media pero a un precio razonable. Por ello voy a lanzarme a los brazos de Xiaomi y si Mi
 
 ## ¿Qué teléfono es mejor para mí?
 
@@ -88,9 +66,35 @@ A la hora de comprar un teléfono móvil hay una serie de aspectos importantes q
  - **Cámara**: si tu intención es usar el móvil como cámara fotográfica entonces sí te interesará evaluar qué tipo de lente trae, megapíxeles y calidad de grabación (fps). A mayores números, mejor cámara.
  - **Software**: básicamente se refiere al sistema operativo. Por norma general tenemos Windows Phone, iOS (Apple) y Android (Google). Cada uno es diferente y se adapta de una u otra forma a lo que queramos. Especial atención a los Android ya que pueden traer capas de personalización como los MIUI de Xiaomi.  
  - **Batería**: un punto importante. A mayor mAh, mayor duración y también tener en cuenta aspectos como carga rápida o carga inalámbrica.
+ 
+ 
+## Smartphones que he tenido
+
+Desde que comencé en el maravilloso mundo de los *smartphones* he tenido la suerte de poder probar una serie de marcas y modelos. 
+
+ 1. iPhone 3GS  - 2009
+ 2. Google Nexus - 2012
+ 3. iPhone 6 - 2015
+ 4. Google Pixel XL -2018
+ 5. Xiaomi Mi 9T - 2020
+
+Reconozco la superioridad de Apple al principio pero creo que en los últimos años ha perdido tracción y que muchas otras marcas han ganado terreno. Ahora, en muchos casos, no logro ver la diferencia en el precio.
+
+Después de menos de dos años con el Google PixelXL -que lo mejor que tenía eran las actualizaciones por parte de Google- se me cayó al suelo y se rompió la cámara. Por desgracia y como ya han sacado otros tres modelos, **no hay recambios oficiales**.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1222125329789214721">
+</amp-twitter>
+
+Viendo que con niños en casa es muy probable que se sigan cayendo los teléfonos he optado por un teléfono de gama media pero a un precio razonable. Por ello voy a lanzarme a los brazos de **Xiaomi y si Mi 9T** que me ha costado **269€**.
+
+Os iré contando qué tal me va con este teléfono.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU1Nzc0NzMsLTEwMDE0NjUzOTQsLT
-EzODIxMzQxMTMsLTM0MjQ3NzU3NywtMTMzNzA4Njg4NSwtNTM4
-MTcwOTAwXX0=
+eyJoaXN0b3J5IjpbNjI2NjI2MTc2LC0xMDAxNDY1Mzk0LC0xMz
+gyMTM0MTEzLC0zNDI0Nzc1NzcsLTEzMzcwODY4ODUsLTUzODE3
+MDkwMF19
 -->
