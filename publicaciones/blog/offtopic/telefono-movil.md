@@ -46,12 +46,22 @@ Son chinos, sí, pero han evolucionado mucho en los últimos años. El precio es
 
 Si queremos exprimir un poco más nuestro teléfono móvil podemos optar por la gama media. Son teléfonos similares a los anteriores pero con componentes de mayor calidad.
 
-Aquí encontramos posiblemente la mayor variedad de dispositivos. Podemos irnos a las marcas conocidas
+Aquí encontramos posiblemente la mayor variedad de dispositivos. Podemos irnos a las marcas conocidas como:
+
+- Samsung
+- LG
+- Google Pixel
+- Huawei
+- Sony
+- BQ
 
 O también tenemos otra sería de dispositivos móviles no tan conocidos pero con pantallas y procesadores muy por encima de la gama media. Por ejemplo:
 
-- 
+- Realme X2 Pro
+- Xiaomi Mi 9T Pro
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDIyNzc5LC0xMzM3MDg2ODg1LC01Mz
+eyJoaXN0b3J5IjpbMjI1NjQxMzgzLC0xMzM3MDg2ODg1LC01Mz
 gxNzA5MDBdfQ==
 -->
