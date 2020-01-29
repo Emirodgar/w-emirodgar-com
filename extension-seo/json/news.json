@@ -1,7 +1,13 @@
 {
   "data": [
+    [
+      "Retirada de URL disponible en Search Console",
+      "Google ha habilitado una opción En Search Console para solicitar la retirada temporal de URLs de nuestro sitio web o bien la eliminación de contenido obsoleto.",
+      "https://webmasters.googleblog.com/2020/01/new-removals-report-in-search-console.html",
+    "Enero 2020"
+    ],
      [
-      "Actualizada la guía de Mobile Frist Indexing",
+      "Actualizada la guía de Mobile First Indexing",
       "Google ha actualizado su guía de indexación centrada en dispositivos móviles por lo que es recomendable echar un vistazo y asegurarnos de que cumplimos sus directrices.",
       "https://developers.google.com/search/mobile-sites/mobile-first-indexing",
     "Enero 2020"
