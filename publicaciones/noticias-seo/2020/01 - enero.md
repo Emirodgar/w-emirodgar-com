@@ -61,7 +61,7 @@ Tras recibir múltiples [quejas por no diferenciar claramente anuncios de result
   data-tweetid="1220768238490939394">
 </amp-twitter>
 
-¿Tie?
+¿Tienes tu página adaptaba para funcionar con SameSite Cookie? date prisa, [el tiempo se acaba](https://webmasters.googleblog.com/2020/01/get-ready-for-new-samesitenone-secure.html).
 
 ## Estrategia SEO 2019
 
@@ -77,6 +77,13 @@ Durante 2019 desarrollé una estrategia SEO personal para posicionar emirodgar.c
 ## Extensión SEO
 
 He hecho algunos cambios sobre mi [extensión SEO de Chrome](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para validar AMP y URLs amigables. Ahora nos ofrece un poco más de información.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1217801681653596161">
+</amp-twitter>
 
 ## Guía link building 2020
 
@@ -105,6 +112,6 @@ Cómo hacer un [keyword research basado en la intención de búsqueda](https://w
 
 Aspectos impotantes de una web que [afectan al tiempo de carga](https://salt.agency/blog/seo-questions-what-factors-into-website-speed/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDcwNDE1NCwxMjgwNzY2NjMyLDIxMj
+eyJoaXN0b3J5IjpbLTQxMDk2ODI3NiwxMjgwNzY2NjMyLDIxMj
 UwMzkxNzcsLTExOTkxNDk5NzBdfQ==
 -->
