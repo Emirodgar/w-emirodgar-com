@@ -104,13 +104,13 @@ Aprovecho para recomendar leer acerca de la [diferencia entre JSON-LD y los micr
 
 ## Caso de éxito SEO
 
-En el equipo SEO de Smartup estamos de enhorabuena ya que hemos conseguido otro caso de éxito.
+En Smartup estamos de enhorabuena ya que hemos conseguido otro [caso de éxito SEO](https://emirodgar.com/casos-exito-seo). Con tan sólo tres meses de trabajo hemos conseguido **frenar una tendencia de tráfico orgánico descendente** e **incrementar captación y conversión**.
 
 <amp-twitter 
   width="375"
   height="472"
   layout="responsive"
-  data-tweetid="1219890166795341825">
+  data-tweetid="1217425687008751622">
 </amp-twitter>
 
 ## Recomendados
@@ -123,6 +123,6 @@ Cómo hacer un [keyword research basado en la intención de búsqueda](https://w
 
 Aspectos impotantes de una web que [afectan al tiempo de carga](https://salt.agency/blog/seo-questions-what-factors-into-website-speed/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDg0MjEyMSwtNDEwOTY4Mjc2LDEyOD
-A3NjY2MzIsMjEyNTAzOTE3NywtMTE5OTE0OTk3MF19
+eyJoaXN0b3J5IjpbLTE5Mjk5MDU4MDUsLTQxMDk2ODI3NiwxMj
+gwNzY2NjMyLDIxMjUwMzkxNzcsLTExOTkxNDk5NzBdfQ==
 -->
