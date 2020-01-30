@@ -69,7 +69,7 @@ Durante 2019 desarrollé una estrategia SEO personal para posicionar emirodgar.c
   width="375"
   height="472"
   layout="responsive"
-  data-tweetid="[https://emirodgar.com/estrategia-seo](https://emirodgar.com/estrategia-seo)">
+  data-tweetid="1220315126273921024">
 </amp-twitter>
 
 ## Extensión SEO
@@ -82,7 +82,14 @@ Dado que es un aspecto que genere muchas dudas dentro de las estrategias SEO, me
 
 ## Datos estructurados
 
-Google deja de dar soporte a vocabulary.org y a partir de ahora sólo se generarán fragmentos enriquecidos que hagan uso de Schema.org, que por cierto, ha [publicado nueva versión (6)](https://thegraphlounge.com/schema-org-6-0-released/) con bastantes añadidos.
+Google [deja de dar soporte a vocabulary.org](https://webmasters.googleblog.com/2020/01/data-vocabulary.html) y a partir de ahora sólo se generarán fragmentos enriquecidos que hagan uso de Schema.org, que por cierto, ha [publicado nueva versión (6)](https://thegraphlounge.com/schema-org-6-0-released/) con bastantes añadidos.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1219890166795341825">
+</amp-twitter>
 
 Aprovecho para recomendar leer acerca de la [diferencia entre JSON-LD y los microdatos](https://wordlift.io/blog/en/mixing-json-ld-and-microdata). 
 
@@ -94,5 +101,6 @@ IKEA está teniendo [problemas de indexación con páginas internacionales](http
 
 Cómo hacer un [keyword research basado en la intención de búsqueda](https://www.semrush.com/blog/keyword-research-guide-for-seo/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTAzOTE3NywtMTE5OTE0OTk3MF19
+eyJoaXN0b3J5IjpbMTI4MDc2NjYzMiwyMTI1MDM5MTc3LC0xMT
+k5MTQ5OTcwXX0=
 -->
