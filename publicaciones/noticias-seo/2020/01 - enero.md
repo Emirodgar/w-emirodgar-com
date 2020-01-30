@@ -23,6 +23,8 @@ John Mueller nos confirma -de nuevo- que Google tratará de igual manera un erro
   data-tweetid="1214157450485604352">
 </amp-twitter>
 
+Google Search Console incorpora un nuevo panel para solicitar la eliminación de URLs de su índice.
+
 ## Extensión SEO
 
 He hecho algunos cambios sobre mi [extensión SEO de Chrome](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para validar AMP y URLs amigables. Ahora nos ofrece un poco más de información.
@@ -31,7 +33,7 @@ He hecho algunos cambios sobre mi [extensión SEO de Chrome](https://chrome.goog
 
 Google deja de dar soporte a vocabulary.org y a partir de ahora sólo se generarán fragmentos enriquecidos que hagan uso de Schema.org, que por cierto, ha [publicado nueva versión (6)](https://thegraphlounge.com/schema-org-6-0-released/) con bastantes añadidos.
 
-Aprovecho para recomendar leer acerca de la [diferencia de JSON-LD y los micro datos](https://wordlift.io/blog/en/mixing-json-ld-and-microdata). 
+Aprovecho para recomendar leer acerca de la [diferencia entre JSON-LD y los microdatos](https://wordlift.io/blog/en/mixing-json-ld-and-microdata). 
 
 ## Recomendados
 
@@ -39,5 +41,5 @@ Recomiendo echar un vistazo a [SEO de Canarias](https://www.agenciaseocanarias.e
 
 IKEA está teniendo [problemas de indexación con páginas internacionales](https://www.seroundtable.com/google-ikea-seo-issues-28904.html) y Google responde que en algunos escenarios les cuesta interpretar correctamente ciertas estructuras web.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODA0ODA2NiwtMTE5OTE0OTk3MF19
+eyJoaXN0b3J5IjpbMTgzMTMxNjgwMywtMTE5OTE0OTk3MF19
 -->
