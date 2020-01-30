@@ -43,7 +43,7 @@ Google Search Console incorpora un nuevo panel para [solicitar la eliminación d
 
 Otra de las novedades de este mes es que [Google ha actualizado su guía de Mobile First Indexing](https://developers.google.com/search/mobile-sites/mobile-first-indexing) por lo que recomiendo echar un vistazo y asegurarnos de que estamos alineados con sus directrices.
 
-Google ha decidido revisar dónde y cómo usar los favicons en sus resultados de búsqueda.
+Google ha decidido revisar dónde y cómo usar los favicons en sus resultados de búsqueda. Ya hemos hablado en alguna ocasión de cómo podemos [optimizarlos para favorecer el SEO](http://www.seobook.com/favicon-seo).
 
 <amp-twitter 
   width="375"
@@ -55,6 +55,10 @@ Google ha decidido revisar dónde y cómo usar los favicons en sus resultados de
 ## Extensión SEO
 
 He hecho algunos cambios sobre mi [extensión SEO de Chrome](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para validar AMP y URLs amigables. Ahora nos ofrece un poco más de información.
+
+## Guía link building 2020
+
+Dado que es un aspecto que genere muchas dudas dentr, me he animado a crear esta [guía de link building](https://emirodgar.com/guia-link-building) con directrices actualizadas a las normas que aportan valor en 2020.
 
 ## Datos estructurados
 
@@ -70,5 +74,5 @@ IKEA está teniendo [problemas de indexación con páginas internacionales](http
 
 Cómo hacer un [keyword research basado en la intención de búsqueda](https://www.semrush.com/blog/keyword-research-guide-for-seo/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwMDEwNTc4LC0xMTk5MTQ5OTcwXX0=
+eyJoaXN0b3J5IjpbMTM5NTQ5MzI2MiwtMTE5OTE0OTk3MF19
 -->
