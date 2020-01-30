@@ -31,11 +31,13 @@ He hecho algunos cambios sobre mi [extensión SEO de Chrome](https://chrome.goog
 
 Google deja de dar soporte a vocabulary.org y a partir de ahora sólo se generarán fragmentos enriquecidos que hagan uso de Schema.org, que por cierto, ha [publicado nueva versión (6)](https://thegraphlounge.com/schema-org-6-0-released/) con bastantes añadidos.
 
+Aprovecho para recomendar leer acerca de la [diferencia de JSON-LD y los micro datos](https://wordlift.io/blog/en/mixing-json-ld-and-microdata). 
+
 ## Recomendados
 
 Recomiendo echar un vistazo a [SEO de Canarias](https://www.agenciaseocanarias.es/blog/) por sus publicaciones interesantes y a [ABMarketing](https://abmarketing.es/blog/), que aunque está comenzando, Alberto Blanco no nos defraudará.
 
-IKEA está teniendo [problemas de indexación con páginas internacionales](https://www.seroundtable.com/google-ikea-seo-issues-28904.html) y Google responde que es posible que no sean capaces de interpretar correctamente ciertas estructuras.
+IKEA está teniendo [problemas de indexación con páginas internacionales](https://www.seroundtable.com/google-ikea-seo-issues-28904.html) y Google responde que en algunos escenarios les cuesta interpretar correctamente ciertas estructuras web.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzQ3NTEzMSwtMTE5OTE0OTk3MF19
+eyJoaXN0b3J5IjpbMTAxODA0ODA2NiwtMTE5OTE0OTk3MF19
 -->
