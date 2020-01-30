@@ -14,7 +14,7 @@ permalink: noticias-seo/2020/enero
 
 # Noticias SEO enero 2020
 
-Nueva actualización Core de Google. Como todas 
+Nueva actualización Core de Google. Como todas de este tipo, la información de Google es escasa y la información que podemos obtener está basada en análisis desde plataformas como Moz, Ahrefs, Sistrix o Semrush.
 
 <amp-twitter 
   width="375"
@@ -56,6 +56,8 @@ Aprovecho para recomendar leer acerca de la [diferencia entre JSON-LD y los micr
 Recomiendo echar un vistazo a [SEO de Canarias](https://www.agenciaseocanarias.es/blog/) por sus publicaciones interesantes y a [ABMarketing](https://abmarketing.es/blog/), que aunque está comenzando, Alberto Blanco no nos defraudará.
 
 IKEA está teniendo [problemas de indexación con páginas internacionales](https://www.seroundtable.com/google-ikea-seo-issues-28904.html) y Google responde que en algunos escenarios les cuesta interpretar correctamente ciertas estructuras web.
+
+Cómo hacer un [keyword research basado en la intención de búsqueda](https://www.semrush.com/blog/keyword-research-guide-for-seo/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjMzNDUyOSwtMTE5OTE0OTk3MF19
+eyJoaXN0b3J5IjpbLTY0MzM3MzMxOCwtMTE5OTE0OTk3MF19
 -->
