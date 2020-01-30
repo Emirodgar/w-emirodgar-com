@@ -6,7 +6,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: seo
-date: 08/01/2020
+date: 30/01/2020
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: emojis-titulo
 
@@ -61,6 +61,6 @@ Con frecuencia se van añadiendo nuevos emojis pero es importante recordar que *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzM1OTEzNywtMTM5ODA0MjM1NywyMD
-QwOTIxNTY2LC0yMTM3NTM1MTI1XX0=
+eyJoaXN0b3J5IjpbLTQ2NzkyNzg4LC0xMzk4MDQyMzU3LDIwND
+A5MjE1NjYsLTIxMzc1MzUxMjVdfQ==
 -->
