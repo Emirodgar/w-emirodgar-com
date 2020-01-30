@@ -35,7 +35,7 @@ Google deja de dar soporte a vocabulary.org y a partir de ahora sólo se generar
 
 Recomiendo echar un vistazo a [SEO de Canarias](https://www.agenciaseocanarias.es/blog/) por sus publicaciones interesantes y a [ABMarketing](https://abmarketing.es/blog/), que aunque está comenzando, Alberto Blanco no nos defraudará.
 
-Me ha gustado leer este hilo de IK
+IKEA está teniendo [problemas de indexación con páginas internacionales](https://www.seroundtable.com/google-ikea-seo-issues-28904.html) y Google responde que es posible que no sean capaces de interpretar correctamente ciertas estructuras.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzkxNjk5MCwtMTE5OTE0OTk3MF19
+eyJoaXN0b3J5IjpbMTYyMzQ3NTEzMSwtMTE5OTE0OTk3MF19
 -->
