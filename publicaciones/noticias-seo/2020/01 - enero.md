@@ -61,11 +61,11 @@ Tras recibir múltiples [quejas por no diferenciar claramente anuncios de result
   data-tweetid="1220768238490939394">
 </amp-twitter>
 
-¿Tienes tu página adaptaba para funcionar con SameSite Cookie? date prisa, [el tiempo se acaba](https://webmasters.googleblog.com/2020/01/get-ready-for-new-samesitenone-secure.html).
+¿Tienes tu página adaptada para funcionar con **SameSite Cookie**? date prisa, [el tiempo se acaba](https://webmasters.googleblog.com/2020/01/get-ready-for-new-samesitenone-secure.html).
 
 ## Estrategia SEO 2019
 
-Durante 2019 desarrollé una estrategia SEO personal para posicionar emirodgar.com. Fui explicando paso a paso lo que iba haciendo y los resultados obtenidos. Ahora he hecho resumen y presentado el resultado final.
+Durante 2019 desarrollé una [estrategia SEO](https://emirodgar.com/estrategia-seo) personal para posicionar emirodgar.com. Fui explicando paso a paso lo que iba haciendo y los resultados obtenidos. Ahora he hecho resumen y presentado el resultado final.
 
 <amp-twitter 
   width="375"
@@ -112,6 +112,6 @@ Cómo hacer un [keyword research basado en la intención de búsqueda](https://w
 
 Aspectos impotantes de una web que [afectan al tiempo de carga](https://salt.agency/blog/seo-questions-what-factors-into-website-speed/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDk2ODI3NiwxMjgwNzY2NjMyLDIxMj
-UwMzkxNzcsLTExOTkxNDk5NzBdfQ==
+eyJoaXN0b3J5IjpbLTM0MjgyMDM4NSwtNDEwOTY4Mjc2LDEyOD
+A3NjY2MzIsMjEyNTAzOTE3NywtMTE5OTE0OTk3MF19
 -->
