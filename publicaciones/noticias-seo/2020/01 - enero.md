@@ -29,7 +29,7 @@ No está directamente relacionado pero también se han aplicado cambios en las S
   width="375"
   height="472"
   layout="responsive"
-  data-tweetid="1220249414528389120">
+  data-tweetid="1220096026981175296">
 </amp-twitter>
 
 John Mueller nos confirma -de nuevo- que Google tratará de igual manera un error 404 que uno 410.
@@ -132,7 +132,7 @@ Cómo hacer un [keyword research basado en la intención de búsqueda](https://w
 
 Aspectos impotantes de una web que [afectan al tiempo de carga](https://salt.agency/blog/seo-questions-what-factors-into-website-speed/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzMzOTM0MCwtMTkyOTkwNTgwNSwtND
-EwOTY4Mjc2LDEyODA3NjY2MzIsMjEyNTAzOTE3NywtMTE5OTE0
-OTk3MF19
+eyJoaXN0b3J5IjpbNzE0MzQzMzUsLTE5Mjk5MDU4MDUsLTQxMD
+k2ODI3NiwxMjgwNzY2NjMyLDIxMjUwMzkxNzcsLTExOTkxNDk5
+NzBdfQ==
 -->
