@@ -14,7 +14,7 @@ permalink: noticias-seo/2020/enero
 
 # Noticias SEO enero 2020
 
-Nueva actualización Core de Google. Como todas de este tipo, la información de Google es escasa y la información que podemos obtener está basada en análisis desde plataformas como Moz, Ahrefs, Sistrix o Semrush.
+Nueva **actualización Core de Google**. Como todas de este tipo, la información de Google es escasa y la información que podemos obtener está basada en análisis desde plataformas como Moz, Ahrefs, Sistrix o Semrush.
 
 <amp-twitter 
   width="375"
@@ -41,6 +41,8 @@ Google Search Console incorpora un nuevo panel para [solicitar la eliminación d
   data-tweetid="1222456996646932481">
 </amp-twitter>
 
+Otra de las novedades de este mes es que Google ha actualizado su guía de Mobile First I
+
 ## Extensión SEO
 
 He hecho algunos cambios sobre mi [extensión SEO de Chrome](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para validar AMP y URLs amigables. Ahora nos ofrece un poco más de información.
@@ -59,5 +61,6 @@ IKEA está teniendo [problemas de indexación con páginas internacionales](http
 
 Cómo hacer un [keyword research basado en la intención de búsqueda](https://www.semrush.com/blog/keyword-research-guide-for-seo/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzM3MzMxOCwtMTE5OTE0OTk3MF19
+eyJoaXN0b3J5IjpbLTE4OTA2MjYxOTcsLTExOTkxNDk5NzBdfQ
+==
 -->
