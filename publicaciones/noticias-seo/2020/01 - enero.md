@@ -63,6 +63,17 @@ Tras recibir múltiples [quejas por no diferenciar claramente anuncios de result
 
 ¿Tienes tu página adaptada para funcionar con **SameSite Cookie**? date prisa, [el tiempo se acaba](https://webmasters.googleblog.com/2020/01/get-ready-for-new-samesitenone-secure.html) ya que Google quiere [bloquear las cookies de terceros](https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html) de aquí a dos años.
 
+Importante: tener un certificado SSL y que nuestra conexión se realice vía HTTPs no será suficiente para Google. Necesitamos usar una versión TLS actualizada.
+
+1217360224278892545
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1220768238490939394">
+</amp-twitter>
+
 ## Estrategia SEO 2019
 
 Durante 2019 desarrollé una [estrategia SEO](https://emirodgar.com/estrategia-seo) personal para posicionar emirodgar.com. Fui explicando paso a paso lo que iba haciendo y los resultados obtenidos. Ahora he hecho resumen y presentado el resultado final.
@@ -123,7 +134,7 @@ Cómo hacer un [keyword research basado en la intención de búsqueda](https://w
 
 Aspectos impotantes de una web que [afectan al tiempo de carga](https://salt.agency/blog/seo-questions-what-factors-into-website-speed/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQxMTcyNTMsLTE5Mjk5MDU4MDUsLT
-QxMDk2ODI3NiwxMjgwNzY2NjMyLDIxMjUwMzkxNzcsLTExOTkx
-NDk5NzBdfQ==
+eyJoaXN0b3J5IjpbLTk4NDg0Mzc1OSwtMTkyOTkwNTgwNSwtND
+EwOTY4Mjc2LDEyODA3NjY2MzIsMjEyNTAzOTE3NywtMTE5OTE0
+OTk3MF19
 -->
