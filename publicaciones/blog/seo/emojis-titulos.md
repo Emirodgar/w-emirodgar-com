@@ -29,6 +29,15 @@ Para ello, simplemente copia y pega cualquier emoji de los que muestro a continu
 
 Aunque existen muchos más, estos son de momento los que Google interpreta y usa en los títulos de sus resultados y por lo tanto los que nos pueden ayudar a mejorar el CTR y por ende el SEO.
 
+Con frecuencia se van añadiendo nuevos emojis pero es importante recordad que no todos ellos pueden ser usados en las SERPs de los buscadores.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1222856122710798336">
+</amp-twitter>
+
 ## Cómo usar los emojis en los títulos
 
 No debemos abusar de ellos o Google y el resto de buscadores simplemente los ignorarán. 
@@ -52,6 +61,6 @@ Existen varias páginas que han realizado recopilaciones de emojis e iconos que 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgwNDIzNTcsMjA0MDkyMTU2NiwtMj
-EzNzUzNTEyNV19
+eyJoaXN0b3J5IjpbNTYxNzAxMzMxLC0xMzk4MDQyMzU3LDIwND
+A5MjE1NjYsLTIxMzc1MzUxMjVdfQ==
 -->
