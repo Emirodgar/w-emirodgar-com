@@ -52,7 +52,7 @@ Google Search Console incorpora un nuevo panel para [solicitar la eliminación d
 
 Otra de las novedades de este mes es que [Google ha actualizado su guía de Mobile First Indexing](https://developers.google.com/search/mobile-sites/mobile-first-indexing) por lo que recomiendo echar un vistazo y asegurarnos de que estamos alineados con sus directrices.
 
-Tras recibir múltiples [quejas por no diferenciar claramente anuncios de resultados orgánicos](https://www.theverge.com/tldr/2020/1/23/21078343/google-ad-desktop-design-change-favicon-icon-ftc-guidelines), Google ha decidido revisar dónde y cómo usar los favicons en sus resultados de búsqueda. Ya hemos hablado en alguna ocasión de cómo podemos [optimizarlos para favorecer el SEO](http://www.seobook.com/favicon-seo).
+Tras recibir múltiples [quejas por no diferenciar claramente anuncios de resultados orgánicos](https://www.theverge.com/tldr/2020/1/23/21078343/google-ad-desktop-design-change-favicon-icon-ftc-guidelines), Google ha decidido revisar dónde y cómo usar los favicons en sus resultados de búsqueda. Ya hemos hablado en alguna ocasión de cómo podemos [optimizarlos para favorecer el SEO](http://www.seobook.com/favicon-seo) y qué [herramientas usar para crearlos](https://realfavicongenerator.net/).
 
 <amp-twitter 
   width="375"
@@ -60,6 +60,8 @@ Tras recibir múltiples [quejas por no diferenciar claramente anuncios de result
   layout="responsive"
   data-tweetid="1220768238490939394">
 </amp-twitter>
+
+¿Tie?
 
 ## Estrategia SEO 2019
 
@@ -100,7 +102,9 @@ Recomiendo echar un vistazo a [SEO de Canarias](https://www.agenciaseocanarias.e
 IKEA está teniendo [problemas de indexación con páginas internacionales](https://www.seroundtable.com/google-ikea-seo-issues-28904.html) y Google responde que en algunos escenarios les cuesta interpretar correctamente ciertas estructuras web.
 
 Cómo hacer un [keyword research basado en la intención de búsqueda](https://www.semrush.com/blog/keyword-research-guide-for-seo/).
+
+Aspectos impotantes de una web que [afectan al tiempo de carga](https://salt.agency/blog/seo-questions-what-factors-into-website-speed/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDc2NjYzMiwyMTI1MDM5MTc3LC0xMT
-k5MTQ5OTcwXX0=
+eyJoaXN0b3J5IjpbLTg5MDcwNDE1NCwxMjgwNzY2NjMyLDIxMj
+UwMzkxNzcsLTExOTkxNDk5NzBdfQ==
 -->
