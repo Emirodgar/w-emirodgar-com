@@ -23,6 +23,15 @@ Nueva **actualización Core de Google**. Como todas de este tipo, la informació
   data-tweetid="1222067475967172608">
 </amp-twitter>
 
+No está directamente relacionado pero también se han aplicado cambios en las SERPs. Cuando un dominio salga como resultado enriquecido en posición #0, no aparecerá como orgánico en el TOP10 si
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1220249414528389120">
+</amp-twitter>
+
 John Mueller nos confirma -de nuevo- que Google tratará de igual manera un error 404 que uno 410.
 
 <amp-twitter 
@@ -85,5 +94,5 @@ IKEA está teniendo [problemas de indexación con páginas internacionales](http
 
 Cómo hacer un [keyword research basado en la intención de búsqueda](https://www.semrush.com/blog/keyword-research-guide-for-seo/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTY4MjM0OSwtMTE5OTE0OTk3MF19
+eyJoaXN0b3J5IjpbMTM5Mjg4MzkwMywtMTE5OTE0OTk3MF19
 -->
