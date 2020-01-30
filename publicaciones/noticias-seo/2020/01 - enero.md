@@ -27,9 +27,15 @@ John Mueller nos confirma -de nuevo- que Google tratará de igual manera un erro
 
 He hecho algunos cambios sobre mi [extensión SEO de Chrome](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para validar AMP y URLs amigables. Ahora nos ofrece un poco más de información.
 
+## Datos estructurados
+
+Google deja de dar soporte a vocabulary.org y a partir de ahora sólo se generarán fragmentos enriquecidos que hagan uso de Schema.org, que por cierto, ha [publicado nueva versión (6)](https://thegraphlounge.com/schema-org-6-0-released/) con bastantes añadidos.
+
 ## Recomendados
 
 Recomiendo echar un vistazo a [SEO de Canarias](https://www.agenciaseocanarias.es/blog/) por sus publicaciones interesantes y a [ABMarketing](https://abmarketing.es/blog/), que aunque está comenzando, Alberto Blanco no nos defraudará.
+
+Me ha gustado leer este hilo de IK
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTkxNDk5NzBdfQ==
+eyJoaXN0b3J5IjpbMTIxNzkxNjk5MCwtMTE5OTE0OTk3MF19
 -->
