@@ -52,6 +52,17 @@ Tras recibir múltiples [quejas por no diferenciar claramente anuncios de result
   data-tweetid="1220768238490939394">
 </amp-twitter>
 
+## Estrategia SEO 2019
+
+Durante 2019 desarrollé una estrategia SEO personal para posicionar emirodgar.com. Fui explicando paso a paso lo que iba haciendo y los resultados obtenidos. Ahora he hecho resumen y presentado el resultado final.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="[https://emirodgar.com/estrategia-seo](https://emirodgar.com/estrategia-seo)">
+</amp-twitter>
+
 ## Extensión SEO
 
 He hecho algunos cambios sobre mi [extensión SEO de Chrome](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para validar AMP y URLs amigables. Ahora nos ofrece un poco más de información.
@@ -74,6 +85,5 @@ IKEA está teniendo [problemas de indexación con páginas internacionales](http
 
 Cómo hacer un [keyword research basado en la intención de búsqueda](https://www.semrush.com/blog/keyword-research-guide-for-seo/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzk1OTMwMjIsLTExOTkxNDk5NzBdfQ
-==
+eyJoaXN0b3J5IjpbMTIwMTY4MjM0OSwtMTE5OTE0OTk3MF19
 -->
