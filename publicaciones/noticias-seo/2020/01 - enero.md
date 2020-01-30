@@ -87,7 +87,7 @@ He hecho algunos cambios sobre mi [extensión SEO de Chrome](https://chrome.goog
 
 ## Guía link building 2020
 
-Dado que es un aspecto que genere muchas dudas dentro de las estrategias SEO, me he animado a crear esta [guía de link building](https://emirodgar.com/guia-link-building) con estrategias válidas a día de hoy.
+Dado que es un aspecto que genera muchas dudas dentro de las estrategias SEO, me he animado a crear esta [guía de link building](https://emirodgar.com/guia-link-building) con estrategias válidas a día de hoy.
 
 ## Datos estructurados
 
@@ -102,6 +102,17 @@ Google [deja de dar soporte a vocabulary.org](https://webmasters.googleblog.com/
 
 Aprovecho para recomendar leer acerca de la [diferencia entre JSON-LD y los microdatos](https://wordlift.io/blog/en/mixing-json-ld-and-microdata). 
 
+## Caso de éxito SEO
+
+En el equipo SEO de Smartup estamos de enhorabuena ya que hemos conseguido otro caso de éxito.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1219890166795341825">
+</amp-twitter>
+
 ## Recomendados
 
 Recomiendo echar un vistazo a [SEO de Canarias](https://www.agenciaseocanarias.es/blog/) por sus publicaciones interesantes y a [ABMarketing](https://abmarketing.es/blog/), que aunque está comenzando, Alberto Blanco no nos defraudará.
@@ -112,6 +123,6 @@ Cómo hacer un [keyword research basado en la intención de búsqueda](https://w
 
 Aspectos impotantes de una web que [afectan al tiempo de carga](https://salt.agency/blog/seo-questions-what-factors-into-website-speed/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjgyMDM4NSwtNDEwOTY4Mjc2LDEyOD
+eyJoaXN0b3J5IjpbMjAyMDg0MjEyMSwtNDEwOTY4Mjc2LDEyOD
 A3NjY2MzIsMjEyNTAzOTE3NywtMTE5OTE0OTk3MF19
 -->
