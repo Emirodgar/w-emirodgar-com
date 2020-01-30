@@ -41,7 +41,16 @@ Google Search Console incorpora un nuevo panel para [solicitar la eliminación d
   data-tweetid="1222456996646932481">
 </amp-twitter>
 
-Otra de las novedades de este mes es que Google ha actualizado su guía de Mobile First I
+Otra de las novedades de este mes es que [Google ha actualizado su guía de Mobile First Indexing](https://developers.google.com/search/mobile-sites/mobile-first-indexing) por lo que recomiendo echar un vistazo y asegurarnos de que estamos alineados con sus directrices.
+
+Google ha decidido revisar dónde y cómo usar los favicons en sus resultados de búsqueda.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1220768238490939394">
+</amp-twitter>
 
 ## Extensión SEO
 
@@ -61,6 +70,5 @@ IKEA está teniendo [problemas de indexación con páginas internacionales](http
 
 Cómo hacer un [keyword research basado en la intención de búsqueda](https://www.semrush.com/blog/keyword-research-guide-for-seo/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA2MjYxOTcsLTExOTkxNDk5NzBdfQ
-==
+eyJoaXN0b3J5IjpbMzMwMDEwNTc4LC0xMTk5MTQ5OTcwXX0=
 -->
