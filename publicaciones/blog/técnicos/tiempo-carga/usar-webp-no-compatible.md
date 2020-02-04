@@ -47,7 +47,11 @@ Esta librería trae por defecto un autodetector de soporte para WebP que podremo
 Automáticamente Modernizr sabrá qué clase aplicar y por lo tanto se cargará el formato de imagen soportado por el buscador.
 
 Google tiene una [guía muy interesante](https://developers.google.com/speed/webp/faq#how_can_i_detect_browser_support_for_webp) que ofrece diversas formas de detectar soporte para WebP.
+
+## Usar WebP en Wordpress
+
+Si hacemos uso de Wordpress como CMS de nuestra web lo tendremos relativamente más fácil puesto que podemos instalar la extensión [WebP Express](https://es.wordpress.org/plugins/webp-express/) para, automáticamente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0MzIxNywtODQ1Njk1NjQxLC0yOTY1ND
-QwODZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDA5NjgwNjYsNDQ0MzIxNywtODQ1Nj
+k1NjQxLC0yOTY1NDQwODZdfQ==
 -->
