@@ -50,8 +50,8 @@ Google tiene una [guía muy interesante](https://developers.google.com/speed/web
 
 ## Usar WebP en Wordpress
 
-Si hacemos uso de Wordpress como CMS de nuestra web lo tendremos relativamente más fácil puesto que podemos instalar la extensión [WebP Express](https://es.wordpress.org/plugins/webp-express/) para, automáticamente, convertir todas las imágenes a este formato y mostrarlas siempre que el navegador sea compatible.
+Si hacemos uso de Wordpress lo tendremos relativamente más fácil puesto que podemos instalar la extensión [WebP Express](https://es.wordpress.org/plugins/webp-express/) para, automáticamente, convertir todas las imágenes a este formato y mostrarlas siempre que el navegador sea compatible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTYwMTAzLDQ0NDMyMTcsLTg0NTY5NT
+eyJoaXN0b3J5IjpbNjI0NDE2NzIzLDQ0NDMyMTcsLTg0NTY5NT
 Y0MSwtMjk2NTQ0MDg2XX0=
 -->
