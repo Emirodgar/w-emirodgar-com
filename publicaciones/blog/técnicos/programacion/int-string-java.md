@@ -60,8 +60,8 @@ Espero que esto les sirva a todas aquellas personas que vinieron buscándolo, al
 
 ## Libros para aprender Java
 
-Si tienes Kindle Unlimited de Amazon te gustará saber que tienes gratis el libro [Java para novatos: Cómo aprender programación orientada a objetos con Java sin desesperarse en el intento](https://amzn.to/2SemsXu).
+Si tienes **Kindle Unlimited** de Amazon te gustará saber que tienes gratis el libro [Java para novatos: Cómo aprender programación orientada a objetos con Java sin desesperarse en el intento](https://amzn.to/2SemsXu) y si lo que estás buscando es algo más profesional, también encontrarás gratuitamente en su catálogo [Curso de Programación en Java EE: 6ª edición](https://amzn.to/2OpMGFf).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODAxMzA4MDQsMTE4ODk3NTQyNywxNz
-A1NzM4NjE5XX0=
+eyJoaXN0b3J5IjpbNjQ4NDkwNDA1LDExODg5NzU0MjcsMTcwNT
+czODYxOV19
 -->
