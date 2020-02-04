@@ -57,6 +57,11 @@ Otra forma correcta de hacerlo sería utilizando el método toString del objeto 
     String numCadena= Integer.toString(numEntero);
 ```
 Espero que esto les sirva a todas aquellas personas que vinieron buscándolo, al menos así es como suelo hacerlo.
+
+## Libros para aprender Java
+
+Si tienes Kindle Unlimited de Amazon te gustará saber que tienes gratis el libro 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODk3NTQyNywxNzA1NzM4NjE5XX0=
+eyJoaXN0b3J5IjpbOTg3OTUyMTUzLDExODg5NzU0MjcsMTcwNT
+czODYxOV19
 -->
