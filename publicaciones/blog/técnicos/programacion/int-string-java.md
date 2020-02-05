@@ -76,9 +76,9 @@ Si lo que estás buscando es algo más profesional, también encontrarás gratui
  - [Curso de Programación en Java EE: 6ª edición](https://amzn.to/2OpMGFf){:rel="sponsored"} 
  - [Curso Avanzado de Programación en Java EE: Struts, JSF, Ajax, EJB, JPA](https://amzn.to/2OrJ8SZ){:rel="sponsored"}.
 
-Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel=sponsored}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
+Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel="sponsored"}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNTYwNzIwLDEwNzU1MDAwNDIsMTU5OD
-k4ODI5Niw0NjI0ODU4MzgsNjQ4NDkwNDA1LDExODg5NzU0Mjcs
-MTcwNTczODYxOV19
+eyJoaXN0b3J5IjpbMjA4NTk0MDk0NCwyNTA1NjA3MjAsMTA3NT
+UwMDA0MiwxNTk4OTg4Mjk2LDQ2MjQ4NTgzOCw2NDg0OTA0MDUs
+MTE4ODk3NTQyNywxNzA1NzM4NjE5XX0=
 -->
