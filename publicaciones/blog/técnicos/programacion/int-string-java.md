@@ -64,12 +64,18 @@ Otra forma correcta de hacerlo sería utilizando el método `toString` del objet
 
 Espero que esto les sirva a todas aquellas personas que vinieron buscándolo, al menos así es como suelo hacerlo.
 
-## Libros gratis para aprender Java
+## Libros para aprender Java
 
-Si tienes **Kindle Unlimited** de Amazon te gustará saber que tienes gratis el libro [Java para novatos: Cómo aprender programación orientada a objetos con Java sin desesperarse en el intento](https://amzn.to/2SemsXu){:rel=sponsored} y si lo que estás buscando es algo más profesional, también encontrarás gratuitamente en su catálogo [Curso de Programación en Java EE: 6ª edición](https://amzn.to/2OpMGFf){:rel=sponsored} y [Curso Avanzado de Programación en Java EE: Struts, JSF, Ajax, EJB, JPA](https://amzn.to/2OrJ8SZ){:rel=sponsored}.
+Si tienes **Kindle Unlimited** de Amazon te gustará saber que tienes gratis una serie de libros relacionados con Java.
+
+### Libros gratuitos para programar con Java con 
+
+Tanto si nos estamos iniciando, como si ya tenemos un cierto nivel y queremos seguir aprendiendo recomiendo los siguientes libros:
+-  [Java para novatos: Cómo aprender programación orientada a objetos con Java sin desesperarse en el intento](https://amzn.to/2SemsXu){:rel=sponsored} y si lo que estás buscando es algo más profesional, también encontrarás gratuitamente en su catálogo [Curso de Programación en Java EE: 6ª edición](https://amzn.to/2OpMGFf){:rel=sponsored} y [Curso Avanzado de Programación en Java EE: Struts, JSF, Ajax, EJB, JPA](https://amzn.to/2OrJ8SZ){:rel=sponsored}.
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel=sponsored}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODk4ODI5Niw0NjI0ODU4MzgsNjQ4ND
-kwNDA1LDExODg5NzU0MjcsMTcwNTczODYxOV19
+eyJoaXN0b3J5IjpbMTM2NDM3NTIxMSwxNTk4OTg4Mjk2LDQ2Mj
+Q4NTgzOCw2NDg0OTA0MDUsMTE4ODk3NTQyNywxNzA1NzM4NjE5
+XX0=
 -->
