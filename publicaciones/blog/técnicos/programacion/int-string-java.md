@@ -1,6 +1,6 @@
 ---
-title: Pasar de INT a String y de String a INT en Java 💥
-description: Aprende a pasar correctamente de entero a cadena y viceversa en Java.
+title: Pasar de INT a String y de String a INT en Java 
+description: 💥 Aprende a pasar correctamente de entero a cadena y viceversa en Java. Paso a paso y con explicaciones. 
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -64,6 +64,6 @@ Si tienes **Kindle Unlimited** de Amazon te gustará saber que tienes gratis el 
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel=sponsored}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA4ODIxNjIsNDYyNDg1ODM4LDY0OD
-Q5MDQwNSwxMTg4OTc1NDI3LDE3MDU3Mzg2MTldfQ==
+eyJoaXN0b3J5IjpbLTM4NDM5ODkyMyw0NjI0ODU4MzgsNjQ4ND
+kwNDA1LDExODg5NzU0MjcsMTcwNTczODYxOV19
 -->
