@@ -56,11 +56,12 @@ La forma correcta de realizar esta operación sería invocando al método `value
     String numCadena= String.valueOf(numEntero);
 ```
 
-Otra forma correcta de hacerlo sería utilizando el método toString del objeto Integer de la siguiente manera:
+Otra forma correcta de hacerlo sería utilizando el método `toString` del objeto `Integer` de la siguiente manera:
 
 ```java
     String numCadena= Integer.toString(numEntero);
 ```
+
 Espero que esto les sirva a todas aquellas personas que vinieron buscándolo, al menos así es como suelo hacerlo.
 
 ## Libros gratis para aprender Java
@@ -69,6 +70,6 @@ Si tienes **Kindle Unlimited** de Amazon te gustará saber que tienes gratis el 
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel=sponsored}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzEzOTgsNDYyNDg1ODM4LDY0ODQ5MD
-QwNSwxMTg4OTc1NDI3LDE3MDU3Mzg2MTldfQ==
+eyJoaXN0b3J5IjpbMTU5ODk4ODI5Niw0NjI0ODU4MzgsNjQ4ND
+kwNDA1LDExODg5NzU0MjcsMTcwNTczODYxOV19
 -->
