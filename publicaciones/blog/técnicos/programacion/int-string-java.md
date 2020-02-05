@@ -33,7 +33,7 @@ Si los espacios vienen al principio o al final, con un simple `trim` bastará pa
 ```java
     numCadena.trim();
 ```
-Si tenemos espacio entre los números deberíamos usar el método `replaceAll (" 1 3 45 6")`.
+Si tenemos espacio entre los números  (" 1 3 45 6") deberíamos usar el método `replaceAll`.
 
 ```java
     numCadena.replaceAll(" ", "");
@@ -78,7 +78,7 @@ Si lo que estás buscando es algo más profesional, también encontrarás gratui
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel=sponsored}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTUwMDA0MiwxNTk4OTg4Mjk2LDQ2Mj
-Q4NTgzOCw2NDg0OTA0MDUsMTE4ODk3NTQyNywxNzA1NzM4NjE5
-XX0=
+eyJoaXN0b3J5IjpbMjUwNTYwNzIwLDEwNzU1MDAwNDIsMTU5OD
+k4ODI5Niw0NjI0ODU4MzgsNjQ4NDkwNDA1LDExODg5NzU0Mjcs
+MTcwNTczODYxOV19
 -->
