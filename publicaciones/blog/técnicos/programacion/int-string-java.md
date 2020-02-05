@@ -20,18 +20,21 @@ Por lo general lo que más suelo hacer es pasar cadenas a enteros, es decir, de 
   
 ## Pasar un STRING a un INT (de cadena a entero)  
   
-Para hacer la siguiente operación necesitaremos hacer uso de la clase Integer y de su método "parseInt" de la siguiente manera:
+Para hacer la siguiente operación necesitaremos hacer uso de la clase `Integer` y de su método `parseInt` de la siguiente manera:
+
 ```java
     String numCadena = "1";      
     int numEntero = Integer.parseInt(numCadena);
 ```
 ¿Qué problemas podemos tener? pues que la cadena no sólo contenga números sino que venga con espacios.  
   
-Si los espacios vienen al princio o al final, con un simple trim bastará para eliminarlos, por ejemplo ("1")
+Si los espacios vienen al principio o al final, con un simple `trim` bastará para eliminarlos, por ejemplo ("1")
+
 ```java
     numCadena.trim();
 ```
-Si tenemos espacio entre los números deberíamos usar el método replaceAll (" 1 3 45 6")
+Si tenemos espacio entre los números deberíamos usar el método `replaceAll (" 1 3 45 6")`.
+
 ```java
     numCadena.replaceAll(" ", "");
 ```
@@ -39,12 +42,14 @@ Una vez realiazdos estos sencillos pasos podremos trabajar con los números ente
   
 ## Pasar un INT a STRING (de entero a cadena)  
   
-Para pasar de un tipo básico a un objeto String tenemos varias posibilidades, por un lado, si eres un artesano, puedes simplemente concatenar a tu entero una cadena vacía:
+Para pasar de un tipo básico a un objeto `String` tenemos varias posibilidades, por un lado, si eres un artesano, puedes simplemente concatenar a tu entero una cadena vacía:
+
 ```java
     int numEntero = 4;    
     String numCadena= numEntero+"";
 ```
-La forma correcta de realizar esta operación sería invocando al método valueOf de la clase String  
+
+La forma correcta de realizar esta operación sería invocando al método `valueOf` de la clase `String`  
   
 ```java
     int numEntero = 4;    
@@ -64,6 +69,6 @@ Si tienes **Kindle Unlimited** de Amazon te gustará saber que tienes gratis el 
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel=sponsored}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDM5ODkyMyw0NjI0ODU4MzgsNjQ4ND
-kwNDA1LDExODg5NzU0MjcsMTcwNTczODYxOV19
+eyJoaXN0b3J5IjpbLTMyMzEzOTgsNDYyNDg1ODM4LDY0ODQ5MD
+QwNSwxMTg4OTc1NDI3LDE3MDU3Mzg2MTldfQ==
 -->
