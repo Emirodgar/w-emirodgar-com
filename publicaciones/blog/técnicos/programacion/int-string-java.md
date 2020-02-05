@@ -69,16 +69,16 @@ Espero que esto les sirva a todas aquellas personas que vinieron buscándolo, al
 Si tienes **Kindle Unlimited** de Amazon te gustará saber que tienes gratis una serie de libros relacionados con Java.
 
 Si nos estamos iniciando y queremos conseguir una buena base en Java, recomiendo el siguiente libro:
--  [Java para novatos: Cómo aprender programación orientada a objetos con Java sin desesperarse en el intento](https://amzn.to/2SemsXu){:rel=sponsored} 
+-  [Java para novatos: Cómo aprender programación orientada a objetos con Java sin desesperarse en el intento](https://amzn.to/2SemsXu){:rel="sponsored"} 
 
 Si lo que estás buscando es algo más profesional, también encontrarás gratuitamente en su catálogo los siguientes libros:  
 
- - [Curso de Programación en Java EE: 6ª edición](https://amzn.to/2OpMGFf){:rel=sponsored} 
- - [Curso Avanzado de Programación en Java EE: Struts, JSF, Ajax, EJB, JPA](https://amzn.to/2OrJ8SZ){:rel=sponsored}.
+ - [Curso de Programación en Java EE: 6ª edición](https://amzn.to/2OpMGFf){:rel="sponsored"} 
+ - [Curso Avanzado de Programación en Java EE: Struts, JSF, Ajax, EJB, JPA](https://amzn.to/2OrJ8SZ){:rel="sponsored"}.
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel=sponsored}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE0OTA0NiwxNTk4OTg4Mjk2LDQ2Mj
+eyJoaXN0b3J5IjpbMTA3NTUwMDA0MiwxNTk4OTg4Mjk2LDQ2Mj
 Q4NTgzOCw2NDg0OTA0MDUsMTE4ODk3NTQyNywxNzA1NzM4NjE5
 XX0=
 -->
