@@ -21,7 +21,8 @@ Uniendo estas dos pasiones da como resultado este post donde quiero explicaros y
 
 Si eres usuarios de Amazon Kindle Unlimited entonces te podrán interesar los siguientes libros gratuitos:
 
+- [SEO 101: Everything You Need to Know About SEO (But Were Afraid to Ask)](https://amzn.to/3bcnAU2)
 - [3 Months to No.1: The "No-Nonsense" SEO Playbook for Getting Your Website Found on Google](https://amzn.to/31FGzlL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU0MzMyNCwxODg4MTAzMzg3XX0=
+eyJoaXN0b3J5IjpbMjEwNjEzNTEwNiwxODg4MTAzMzg3XX0=
 -->
