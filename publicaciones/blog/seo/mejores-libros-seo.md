@@ -21,7 +21,7 @@ Uniendo estas dos pasiones da como resultado este post donde quiero explicaros y
 
 ### The Art of SEO: Mastering Search Engine Optimization
 
-Este libro es uno de los primeros que recomiendo debido a que nos ofrece una visión muy realista del SEO. Explica 
+Este libro es uno de los primeros que recomiendo debido a que nos ofrece una visión muy realista del SEO. Explica su evolución,
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=emirodgar-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1491948965&linkId=030d4cb6de688ac50646808a0d253105"></iframe>
 
@@ -32,5 +32,5 @@ Si eres usuarios de Amazon Kindle Unlimited entonces te podrán interesar los si
 - [SEO 101: Everything You Need to Know About SEO (But Were Afraid to Ask)](https://amzn.to/3bcnAU2)
 - [3 Months to No.1: The "No-Nonsense" SEO Playbook for Getting Your Website Found on Google](https://amzn.to/31FGzlL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzM1NTI2NCwxODg4MTAzMzg3XX0=
+eyJoaXN0b3J5IjpbLTM1NjgwMjE4MiwxODg4MTAzMzg3XX0=
 -->
