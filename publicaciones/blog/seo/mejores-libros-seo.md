@@ -30,14 +30,21 @@ Este libro de Peter Kent  es un clásico en las estanterías de las agencias dig
   layout="responsive">
 </amp-img>](https://amzn.to/381iQ1G)
 
-Tenemos una versión del libro es castellano y, aunque se trata de otro autor, la fol
+Tenemos una [versión del libro es castellano](https://amzn.to/39aE793) y, aunque se trata de otro autor, la filosofía del libro es la misma.
 
 
 ### The Art of SEO: Mastering Search Engine Optimization
 
 Este libro es uno de los primeros que recomiendo debido a que nos ofrece una visión muy realista del SEO. Explica su historia, su evolución y nos ayuda a asentar términos básicos pero relevantes para cualquier estrategia digital.
 
-<iframe style="width:220px;height:340px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=emirodgar-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=1491948965&linkId=030d4cb6de688ac50646808a0d253105"></iframe>
+
+[<amp-img alt="SEO for dummies"
+  src="https://images-na.ssl-images-amazon.com/images/I/41-7HxU6LML._SX379_BO1,204,203,200_.jpg"
+  width="406"
+  height="500"
+  layout="responsive">
+</amp-img>](https://amzn.to/2OxCbzJ)
+
 
 ## Libros SEO gratis 
 
@@ -46,6 +53,6 @@ Si eres usuarios de Amazon Kindle Unlimited entonces te podrán interesar los si
 - [SEO 101: Everything You Need to Know About SEO (But Were Afraid to Ask)](https://amzn.to/3bcnAU2)
 - [3 Months to No.1: The "No-Nonsense" SEO Playbook for Getting Your Website Found on Google](https://amzn.to/31FGzlL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzEwOTk0NiwtNDIyNjEzNzEsLTM1Nj
+eyJoaXN0b3J5IjpbLTcxNjE2Mzg3OSwtNDIyNjEzNzEsLTM1Nj
 gwMjE4MiwxODg4MTAzMzg3XX0=
 -->
