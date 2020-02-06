@@ -19,6 +19,18 @@ Uniendo estas dos pasiones da como resultado este post donde quiero explicaros y
 
 ## Libros SEO imprescindibles
 
+### SEO For Dummies
+
+Este libro de ya es un clásico
+
+[<amp-img alt="SEO for dummies"
+  src="https://images-na.ssl-images-amazon.com/images/I/51hrL0v5J4L._SX404_BO1,204,203,200_.jpg"
+  width="1132"
+  height="395"
+  layout="responsive">
+</amp-img>](https://amzn.to/381iQ1G)
+
+
 ### The Art of SEO: Mastering Search Engine Optimization
 
 Este libro es uno de los primeros que recomiendo debido a que nos ofrece una visión muy realista del SEO. Explica su historia, su evolución y nos ayuda a asentar términos básicos pero relevantes para cualquier estrategia digital.
@@ -32,6 +44,6 @@ Si eres usuarios de Amazon Kindle Unlimited entonces te podrán interesar los si
 - [SEO 101: Everything You Need to Know About SEO (But Were Afraid to Ask)](https://amzn.to/3bcnAU2)
 - [3 Months to No.1: The "No-Nonsense" SEO Playbook for Getting Your Website Found on Google](https://amzn.to/31FGzlL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjYxMzcxLC0zNTY4MDIxODIsMTg4OD
-EwMzM4N119
+eyJoaXN0b3J5IjpbLTEwNzc1MzI3MCwtNDIyNjEzNzEsLTM1Nj
+gwMjE4MiwxODg4MTAzMzg3XX0=
 -->
