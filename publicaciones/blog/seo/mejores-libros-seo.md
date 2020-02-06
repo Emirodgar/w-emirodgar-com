@@ -25,8 +25,8 @@ Este libro de Peter Kent  es un clásico en las estanterías de las agencias dig
 
 [<amp-img alt="SEO for dummies"
   src="https://images-na.ssl-images-amazon.com/images/I/51hrL0v5J4L._SX404_BO1,204,203,200_.jpg"
-  width="406"
-  height="500"
+  width="306"
+  height="400"
   layout="fixed">
 </amp-img>](https://amzn.to/381iQ1G)
 
@@ -40,8 +40,8 @@ Este libro es uno de los que suelo recomendar debido a que nos ofrece una visió
 
 [<amp-img alt="SEO for dummies"
   src="https://images-na.ssl-images-amazon.com/images/I/41-7HxU6LML._SX379_BO1,204,203,200_.jpg"
-  width="406"
-  height="500"
+  width="306"
+  height="400"
   layout="fixed">
 </amp-img>](https://amzn.to/2OxCbzJ)
 
@@ -54,8 +54,8 @@ Para garantizar el éxito de una estrategia es necesario trabajar de la mano con
 
 [<amp-img alt="SEO for dummies"
   src="https://images-eu.ssl-images-amazon.com/images/I/51NY%2Bhs5B%2BL.jpg"
-  width="406"
-  height="500"
+  width="306"
+  height="400"
   layout="fixed">
 </amp-img>](https://amzn.to/2HbrtLn)
 
@@ -66,6 +66,6 @@ Si eres usuarios de Amazon Kindle Unlimited entonces te podrán interesar los si
 - [SEO 101: Everything You Need to Know About SEO (But Were Afraid to Ask)](https://amzn.to/3bcnAU2)
 - [3 Months to No.1: The "No-Nonsense" SEO Playbook for Getting Your Website Found on Google](https://amzn.to/31FGzlL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU2OTM5ODYsLTEzOTI3NjMwMDgsLT
+eyJoaXN0b3J5IjpbLTIwOTkxNTY5NjAsLTEzOTI3NjMwMDgsLT
 QyMjYxMzcxLC0zNTY4MDIxODIsMTg4ODEwMzM4N119
 -->
