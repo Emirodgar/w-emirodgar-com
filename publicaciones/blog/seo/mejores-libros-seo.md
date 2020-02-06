@@ -46,6 +46,17 @@ Este libro es uno de los que suelo recomendar debido a que nos ofrece una visió
 </amp-img>](https://amzn.to/2OxCbzJ)
 
 
+## SEO for Growth: The Ultimate Guide for Marketers, Web Designers & Entrepreneurs
+
+Mi última recomendación es el libro de John Jantsch y Phil Singleton
+
+[<amp-img alt="SEO for dummies"
+  src="https://images-eu.ssl-images-amazon.com/images/I/51NY%2Bhs5B%2BL.jpg"
+  width="406"
+  height="500"
+  layout="fixed">
+</amp-img>](https://amzn.to/2HbrtLn)
+
 ## Libros SEO gratis 
 
 Si eres usuarios de Amazon Kindle Unlimited entonces te podrán interesar los siguientes libros gratuitos:
@@ -53,6 +64,6 @@ Si eres usuarios de Amazon Kindle Unlimited entonces te podrán interesar los si
 - [SEO 101: Everything You Need to Know About SEO (But Were Afraid to Ask)](https://amzn.to/3bcnAU2)
 - [3 Months to No.1: The "No-Nonsense" SEO Playbook for Getting Your Website Found on Google](https://amzn.to/31FGzlL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI3NjMwMDgsLTQyMjYxMzcxLC0zNT
-Y4MDIxODIsMTg4ODEwMzM4N119
+eyJoaXN0b3J5IjpbNzcxMzg2ODA3LC0xMzkyNzYzMDA4LC00Mj
+I2MTM3MSwtMzU2ODAyMTgyLDE4ODgxMDMzODddfQ==
 -->
