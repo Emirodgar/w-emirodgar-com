@@ -21,14 +21,16 @@ Uniendo estas dos pasiones da como resultado este post donde quiero explicaros y
 
 ### SEO For Dummies
 
-Este libro de Peter Kent ya es un clásico en las estanterías de las agencias digitales. Va por su sexta edición y nos 
+Este libro de Peter Kent  es un clásico en las estanterías de las agencias digitales. Va por su sexta edición y nos ofrece una visión básico pero muy completa del ecosistema SEO. Imprescindible si estamos comenzando y no queremos dejarnos nada atrás.
 
 [<amp-img alt="SEO for dummies"
   src="https://images-na.ssl-images-amazon.com/images/I/51hrL0v5J4L._SX404_BO1,204,203,200_.jpg"
-  width="1132"
-  height="395"
+  width="406"
+  height="500"
   layout="responsive">
 </amp-img>](https://amzn.to/381iQ1G)
+
+Tenemos una versión del libro es castellano y, aunque se trata de otro autor, la fol
 
 
 ### The Art of SEO: Mastering Search Engine Optimization
@@ -44,6 +46,6 @@ Si eres usuarios de Amazon Kindle Unlimited entonces te podrán interesar los si
 - [SEO 101: Everything You Need to Know About SEO (But Were Afraid to Ask)](https://amzn.to/3bcnAU2)
 - [3 Months to No.1: The "No-Nonsense" SEO Playbook for Getting Your Website Found on Google](https://amzn.to/31FGzlL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTMyOTIxMSwtNDIyNjEzNzEsLTM1Nj
+eyJoaXN0b3J5IjpbLTM3NzEwOTk0NiwtNDIyNjEzNzEsLTM1Nj
 gwMjE4MiwxODg4MTAzMzg3XX0=
 -->
