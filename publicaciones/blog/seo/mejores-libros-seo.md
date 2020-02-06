@@ -13,7 +13,7 @@ permalink: mejores-libros-seo
 
 # Los mejores libros de SEO
 
-
+Quien me conozca puede saber dos cosas que realmente me apasionan: [mi afición por leer](https://emirodgar.com/libros-recomendados) y [ mi trabajo como SEO](https://emirodgar.com/experiencia-seo).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODA1OTcxOF19
+eyJoaXN0b3J5IjpbMTkzNDg4ODk4Ml19
 -->
