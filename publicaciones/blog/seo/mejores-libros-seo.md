@@ -48,7 +48,9 @@ Este libro es uno de los que suelo recomendar debido a que nos ofrece una visió
 
 ## SEO for Growth: The Ultimate Guide for Marketers, Web Designers & Entrepreneurs
 
-Mi última recomendación es el libro de John Jantsch y Phil Singleton
+Mi última recomendación es el libro de John Jantsch y Phil Singleton escrito para dar una visión de la integración del SEO con otros departamentos: marketing, diseño y dirección.
+
+Para garantizar el éxito de una estrategia es necesario trabajar de la mano con otros departamentos, especialmente en empresas grandes. Por ello me gusta el enfoque que tiene este libro.
 
 [<amp-img alt="SEO for dummies"
   src="https://images-eu.ssl-images-amazon.com/images/I/51NY%2Bhs5B%2BL.jpg"
@@ -64,6 +66,6 @@ Si eres usuarios de Amazon Kindle Unlimited entonces te podrán interesar los si
 - [SEO 101: Everything You Need to Know About SEO (But Were Afraid to Ask)](https://amzn.to/3bcnAU2)
 - [3 Months to No.1: The "No-Nonsense" SEO Playbook for Getting Your Website Found on Google](https://amzn.to/31FGzlL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxMzg2ODA3LC0xMzkyNzYzMDA4LC00Mj
-I2MTM3MSwtMzU2ODAyMTgyLDE4ODgxMDMzODddfQ==
+eyJoaXN0b3J5IjpbLTEzMTU2OTM5ODYsLTEzOTI3NjMwMDgsLT
+QyMjYxMzcxLC0zNTY4MDIxODIsMTg4ODEwMzM4N119
 -->
