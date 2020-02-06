@@ -54,8 +54,8 @@ Para garantizar el éxito de una estrategia es necesario trabajar de la mano con
 
 [<amp-img alt="SEO for dummies"
   src="https://images-eu.ssl-images-amazon.com/images/I/51NY%2Bhs5B%2BL.jpg"
-  width="306"
-  height="400"
+  width="313"
+  height="500"
   layout="fixed">
 </amp-img>](https://amzn.to/2HbrtLn)
 
@@ -66,6 +66,6 @@ Si eres usuarios de Amazon Kindle Unlimited entonces te podrán interesar los si
 - [SEO 101: Everything You Need to Know About SEO (But Were Afraid to Ask)](https://amzn.to/3bcnAU2)
 - [3 Months to No.1: The "No-Nonsense" SEO Playbook for Getting Your Website Found on Google](https://amzn.to/31FGzlL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTkxNTY5NjAsLTEzOTI3NjMwMDgsLT
-QyMjYxMzcxLC0zNTY4MDIxODIsMTg4ODEwMzM4N119
+eyJoaXN0b3J5IjpbMTE5MDQxNzI1LC0xMzkyNzYzMDA4LC00Mj
+I2MTM3MSwtMzU2ODAyMTgyLDE4ODgxMDMzODddfQ==
 -->
