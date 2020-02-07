@@ -19,13 +19,13 @@ Tras muchos años pensando que el nombre de una imagen `nombre-imagen.jpg` tendr
 
 ## Calidad en los contenidos
 
-
+Si nuestras páginas no están siendo indexadas de forma automática puede que sea debido a que **nuestro contenido no es de calidad**. Debemos revisar si realmente estamos aportando valor a los potenciales usuarios.
 
 <amp-twitter 
   width="375"
   height="472"
   layout="responsive"
-  data-tweetid="1222067475967172608">
+  data-tweetid="1224373191310704640">
 </amp-twitter>
 
 
@@ -35,6 +35,6 @@ Google explica de qué trata la meta etiqueta [X-Client-Data](https://9to5google
 
 Esta información sólo se enviará desde Chrome a Google cuando se detecte un dominio de su propiedad, es decir, nadie más podrá verla.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzM4ODI3NiwtMTgyNTQzNjAzNCwtMT
-Q5Mzg4OTU1Nl19
+eyJoaXN0b3J5IjpbLTE3OTAyNTEwMDksLTE4MjU0MzYwMzQsLT
+E0OTM4ODk1NTZdfQ==
 -->
