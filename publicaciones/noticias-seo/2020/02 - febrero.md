@@ -13,6 +13,21 @@ permalink: noticias-seo/2020/febrero
 
 # Noticias SEO febrero 2020
 
+## Factores de posicionamiento web
+
+Tras muchos años pensando que el nombre de una imagen `nombre-imagen.jpg` tendría impacto en el posicionamiento, [Google confirma que no es así](https://www.youtube.com/watch?v=RE6ATxMcDss&feature=youtu.be&t=717).
+
+## Calidad en los contenidos
+
+
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1222067475967172608">
+</amp-twitter>
+
 
 Me ha gustado este experimento en el que se ha puesto a prueba la veracidad de los volúmenes de palabras clave que muestran tanto Ahrefs como Semrush. No salen muy bien parados y [están alejados de los datos registrados en Search Console](https://www.localseoguide.com/can-you-trust-seo-tools-for-b2b-keyword-research/).
 
@@ -20,6 +35,6 @@ Google explica de qué trata la meta etiqueta [X-Client-Data](https://9to5google
 
 Esta información sólo se enviará desde Chrome a Google cuando se detecte un dominio de su propiedad, es decir, nadie más podrá verla.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNDY5OTk2LC0xODI1NDM2MDM0LC0xND
-kzODg5NTU2XX0=
+eyJoaXN0b3J5IjpbLTMyMzM4ODI3NiwtMTgyNTQzNjAzNCwtMT
+Q5Mzg4OTU1Nl19
 -->
