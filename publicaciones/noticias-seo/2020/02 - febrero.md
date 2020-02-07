@@ -13,12 +13,13 @@ permalink: noticias-seo/2020/febrero
 
 # Noticias SEO febrero 2020
 
+
 Me ha gustado este experimento en el que se ha puesto a prueba la veracidad de los volúmenes de palabras clave que muestran tanto Ahrefs como Semrush. No salen muy bien parados y [están alejados de los datos registrados en Search Console](https://www.localseoguide.com/can-you-trust-seo-tools-for-b2b-keyword-research/).
 
 Google explica de qué trata la meta etiqueta [X-Client-Data](https://9to5google.com/2020/02/06/google-chrome-x-client-data-tracking/) que tanto preocupaba a la comunidad por pensar que haría **seguimiento de los usuarios**. Se usará para enviar a Google la configuración adicional (flags) y ciertos experimentos que tengas configurados a través de Chrome.
 
 Esta información sólo se enviará desde Chrome a Google cuando se detecte un dominio de su propiedad, es decir, nadie más podrá verla.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU0MzYwMzQsLTE0OTM4ODk1NTZdfQ
-==
+eyJoaXN0b3J5IjpbNzczNDY5OTk2LC0xODI1NDM2MDM0LC0xND
+kzODg5NTU2XX0=
 -->
