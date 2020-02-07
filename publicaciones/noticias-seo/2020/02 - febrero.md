@@ -15,8 +15,7 @@ permalink: noticias-seo/2020/febrero
 
 Me ha gustado este experimento en el que se ha puesto a prueba la veracidad de los volúmenes de palabras clave que muestran tanto Ahrefs como Semrush. No salen muy bien parados y [están alejados de los datos registrados en Search Console](https://www.localseoguide.com/can-you-trust-seo-tools-for-b2b-keyword-research/).
 
-Google explica de qué trata la meta etiqueta [X-Client-Data](https://9to5google.com/2020/02/06/google-chrome-x-client-data-tracking/) que tanto preocupaba a la comunidad. Se usará 
+Google explica de qué trata la meta etiqueta [X-Client-Data](https://9to5google.com/2020/02/06/google-chrome-x-client-data-tracking/) que tanto preocupaba a la comunidad por pensar que haría **seguimiento de los usuarios**. Se usará para enviar a Google la configuración adicional (flags) y para ciertos experimentos con los que navegues a través de Chrome.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQwOTc3NTcsLTE0OTM4ODk1NTZdfQ
-==
+eyJoaXN0b3J5IjpbNDE5NTQ0NjIsLTE0OTM4ODk1NTZdfQ==
 -->
