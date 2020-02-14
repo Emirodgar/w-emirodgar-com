@@ -38,13 +38,13 @@ He identificado algunos puntos importantes que pueden estar relacionados con un 
 
 - Deshabilitar **mostrar la huella en la pantalla de inicio**
 - Deshabilitar **pantalla siempre activa** (Ajustes > Pantalla siempre activa y Pantalla de bloqueo)
-- Deshabilitar el **NFS**
+- Deshabilitar el **NFS** (Ajustes > Conexión y Compartir > NFC)
 - Deshabilitar el **modo bolsillo** (Ajustes > Pantalla siempre activa y Pantalla de bloqueo > Modo bolsillo)
 - Deshabilitar el **activar pantalla al levantar dispositivo** (Ajustes > Pantalla siempre activa y Pantalla de bloqueo > Levantar para activar)
 - Deshabilitar **aplicaciones al inicio** (Seguridad > Administrar aplicaciones > Permisos > Inicio automático) 
 
 A mayores, recomiendo [echar un vistazo a este vídeo](https://www.youtube.com/watch?v=Kjyucud0fzA&feature=emb_logo) donde nos dan consejos para optimizar la vida útil de nuestra batería.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjE5OTY3NCwtMTcwNTc5NjY5OCwzNT
-YwOTQzNV19
+eyJoaXN0b3J5IjpbLTExMjQ3MDQxMzgsLTE3MDU3OTY2OTgsMz
+U2MDk0MzVdfQ==
 -->
