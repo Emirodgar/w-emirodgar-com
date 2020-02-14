@@ -36,7 +36,6 @@ Después de mucho leer y hacer pruebas, creo que he dado con una solución. Al m
 
 He identificado algunos puntos importantes que pueden estar relacionados con un comportamiento semi automático que podría ocasionar este problema. Desde que los tengo desactivados no ha vuelto a ocurrir:
 
-- Deshabilitar **mostrar la huella en la pantalla de inicio**
 - Deshabilitar **pantalla siempre activa** (Ajustes > Pantalla siempre activa y Pantalla de bloqueo)
 - Deshabilitar el **NFS** (Ajustes > Conexión y Compartir > NFC)
 - Deshabilitar el **modo bolsillo** (Ajustes > Pantalla siempre activa y Pantalla de bloqueo > Modo bolsillo)
@@ -45,6 +44,6 @@ He identificado algunos puntos importantes que pueden estar relacionados con un 
 
 A mayores, recomiendo [echar un vistazo a este vídeo](https://www.youtube.com/watch?v=Kjyucud0fzA&feature=emb_logo) donde nos dan consejos para optimizar la vida útil de nuestra batería.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzQ1OTk4MCwxNDcwMDQ5OTY4LC0xMT
-I0NzA0MTM4LC0xNzA1Nzk2Njk4LDM1NjA5NDM1XX0=
+eyJoaXN0b3J5IjpbLTExMzIxMDIyNDAsMTQ3MDA0OTk2OCwtMT
+EyNDcwNDEzOCwtMTcwNTc5NjY5OCwzNTYwOTQzNV19
 -->
