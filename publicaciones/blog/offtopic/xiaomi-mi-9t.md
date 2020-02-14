@@ -19,7 +19,7 @@ Un teléfono que se apaga deja de cumplir su principal función, máxime cuando 
 
 ## ¿Por qué se calienta?
 
-Desde noviembre de 2019 se pueden encontrar comentarios en los fot
+Desde octubre de 2019 se pueden encontrar comentarios en la red de usuarios de este modelo de teléfono a los que el dispositivo comenzó a perder batería de forma automática y, en algunos casos como el m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwNzM1NDI5XX0=
+eyJoaXN0b3J5IjpbMTE3NDkyMzAyMF19
 -->
