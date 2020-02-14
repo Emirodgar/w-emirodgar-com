@@ -40,6 +40,9 @@ He identificado algunos puntos importantes que pueden estar relacionados con un 
 - Deshabilitar 
 - Deshabilitar el NFS
 - Deshabilitar el activar pantalla al levantar dispositivo
+
+A mayores, recomiendo [echar un vistazo a este vídeo](https://www.youtube.com/watch?v=Kjyucud0fzA&feature=emb_logo) donde nos dan consejos para optimizar la vida útil de nuestra batería.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU3OTY2OTgsMzU2MDk0MzVdfQ==
+eyJoaXN0b3J5IjpbLTE4MDg1MDg3NzIsLTE3MDU3OTY2OTgsMz
+U2MDk0MzVdfQ==
 -->
