@@ -19,7 +19,18 @@ Un teléfono que se apaga deja de cumplir su principal función, máxime cuando 
 
 ## ¿Por qué se calienta?
 
-Desde octubre de 2019 se pueden encontrar comentarios en la red de usuarios de este modelo de teléfono a los que el dispositivo comenzó a perder batería de forma automática y, en algunos casos como el m
+Desde octubre de 2019 se pueden encontrar comentarios en la red de usuarios de este modelo de teléfono a los que el dispositivo comenzó a perder batería de forma automática y, en algunos casos como el mío, se terminaba apagando.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1228252540929814528">
+</amp-twitter>
+
+Parece que el problema comenzó con MIUI 10 y que ha persistido con la versión 11.
+
+¿?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDkyMzAyMF19
+eyJoaXN0b3J5IjpbLTEwNzQxNjYzOTJdfQ==
 -->
