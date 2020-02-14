@@ -34,7 +34,7 @@ Parece que el problema comenzó con `MIUI 10.3.6.0` y que ha persistido con la v
 
 Después de mucho leer y hacer pruebas, creo que he dado con una solución. Al menos ya llevo más de tres semanas sin que el móvil haya pasado por una situación similar y ahora la batería dura, de media, dos días.
 
-He identificado algunos puntos importantes que pueden estar relacionados con un comportamiento semiautomático que podría ocasionar este problema. Desde que los tengo desactivados no ha vuelto a ocurrir:
+He identificado algunos puntos importantes que pueden estar relacionados con un comportamiento semiautomático que podría ocasionar este problema. Esto es lo que yo he hecho:
 
 - Deshabilitar **pantalla siempre activa** (Ajustes > Pantalla siempre activa y Pantalla de bloqueo)
 - Deshabilitar el **NFS** (Ajustes > Conexión y Compartir > NFC)
@@ -45,6 +45,6 @@ He identificado algunos puntos importantes que pueden estar relacionados con un 
 
 A mayores, recomiendo [echar un vistazo a este vídeo](https://www.youtube.com/watch?v=Kjyucud0fzA&feature=emb_logo) donde nos dan consejos para optimizar la vida útil de nuestra batería.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDkzMzYxNCwxNDcwMDQ5OTY4LC0xMT
-I0NzA0MTM4LC0xNzA1Nzk2Njk4LDM1NjA5NDM1XX0=
+eyJoaXN0b3J5IjpbNzgxODA2MjY2LDE0NzAwNDk5NjgsLTExMj
+Q3MDQxMzgsLTE3MDU3OTY2OTgsMzU2MDk0MzVdfQ==
 -->
