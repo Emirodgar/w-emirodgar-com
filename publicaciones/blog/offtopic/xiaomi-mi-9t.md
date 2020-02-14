@@ -40,10 +40,10 @@ He identificado algunos puntos importantes que pueden estar relacionados con un 
 - Deshabilitar 
 - Deshabilitar el NFS
 - Deshabilitar el activar pantalla al levantar dispositivo
-- Deshabilitar aplicaciones al inicio (Seguridad > Permisos > 
+- Deshabilitar aplicaciones al inicio (Seguridad > Administrar aplicaciones > Permisos > Inicio automático) 
 
 A mayores, recomiendo [echar un vistazo a este vídeo](https://www.youtube.com/watch?v=Kjyucud0fzA&feature=emb_logo) donde nos dan consejos para optimizar la vida útil de nuestra batería.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3OTAxNTgsLTE3MDU3OTY2OTgsMzU2MD
-k0MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MDg2NzAyMSwtMTcwNTc5NjY5OCwzNT
+YwOTQzNV19
 -->
