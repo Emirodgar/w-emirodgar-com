@@ -30,7 +30,14 @@ Desde octubre de 2019 se pueden encontrar comentarios en la red de usuarios de e
 
 Parece que el problema comenzó con MIUI 10 y que ha persistido con la versión 11.
 
-¿?
+## ¿Cómo solucionar el problema?
+
+Después de mucho leer y hacer pruebas, creo que he dado con una solución. Al menos ya llevo más de dos semanas sin que el móvil haya pasado por una situación similar y ahora la batería dura, de media, dos días.
+
+He identificado algunos puntos
+
+- Deshabilitar el NFS
+- Deshabilitar el activar pantalla al levantar dispositivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQxNjYzOTJdfQ==
+eyJoaXN0b3J5IjpbMzU2MDk0MzVdfQ==
 -->
