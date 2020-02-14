@@ -36,14 +36,15 @@ Después de mucho leer y hacer pruebas, creo que he dado con una solución. Al m
 
 He identificado algunos puntos importantes que pueden estar relacionados con un comportamiento semi automático que podría ocasionar este problema. Desde que los tengo desactivados no ha vuelto a ocurrir:
 
-- Deshabilitar mostrar la huella en la pantalla de inicio
-- Deshabilitar pantalla siempre activa (Ajustes > Pantalla siempre activa y Pantalla de bloqueo)
-- Deshabilitar el NFS
-- Deshabilitar el activar pantalla al levantar dispositivo (Ajustes > Pantalla siempre activa y Pantalla de bloqueo )
-- Deshabilitar aplicaciones al inicio (Seguridad > Administrar aplicaciones > Permisos > Inicio automático) 
+- Deshabilitar **mostrar la huella en la pantalla de inicio**
+- Deshabilitar **pantalla siempre activa** (Ajustes > Pantalla siempre activa y Pantalla de bloqueo)
+- Deshabilitar el **NFS**
+- Deshabilitar el **modo bolsillo** (Ajustes > Pantalla siempre activa y Pantalla de bloqueo > Modo bolsillo)
+- Deshabilitar el **activar pantalla al levantar dispositivo** (Ajustes > Pantalla siempre activa y Pantalla de bloqueo > Levantar para activar)
+- Deshabilitar **aplicaciones al inicio** (Seguridad > Administrar aplicaciones > Permisos > Inicio automático) 
 
 A mayores, recomiendo [echar un vistazo a este vídeo](https://www.youtube.com/watch?v=Kjyucud0fzA&feature=emb_logo) donde nos dan consejos para optimizar la vida útil de nuestra batería.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODg5NDEzLC0xNzA1Nzk2Njk4LDM1Nj
-A5NDM1XX0=
+eyJoaXN0b3J5IjpbLTI0NjE5OTY3NCwtMTcwNTc5NjY5OCwzNT
+YwOTQzNV19
 -->
