@@ -19,7 +19,7 @@ De momento, la única queja que tengo -y que podría ser un motivo de devolució
 
 ## ¿Por qué se calienta?
 
-Desde octubre de 2019 se pueden encontrar comentarios en la red de usuarios de este modelo de teléfono a los que el dispositivo comenzó a perder batería de forma automática y, en algunos casos como el mío, se terminaba apagando.
+Desde octubre de 2019 se pueden encontrar comentarios en la red de usuarios de este modelo de teléfono a los que el dispositivo se calentó mucho, perdió batería de forma rápida y, en algunos, se terminaba apagando.
 
 <amp-twitter 
   width="375"
@@ -45,6 +45,6 @@ He identificado algunos puntos importantes que pueden estar relacionados con un 
 
 A mayores, recomiendo [echar un vistazo a este vídeo](https://www.youtube.com/watch?v=Kjyucud0fzA&feature=emb_logo) donde nos dan consejos para optimizar la vida útil de nuestra batería.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjEyODEzMSwtMTEyNDcwNDEzOCwtMT
+eyJoaXN0b3J5IjpbMTQ3MDA0OTk2OCwtMTEyNDcwNDEzOCwtMT
 cwNTc5NjY5OCwzNTYwOTQzNV19
 -->
