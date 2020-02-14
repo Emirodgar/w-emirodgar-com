@@ -34,10 +34,12 @@ Parece que el problema comenzó con `MIUI 10.3.6.0` y que ha persistido con la v
 
 Después de mucho leer y hacer pruebas, creo que he dado con una solución. Al menos ya llevo más de dos semanas sin que el móvil haya pasado por una situación similar y ahora la batería dura, de media, dos días.
 
-He identificado algunos puntos importantes que al desactivarlos
+He identificado algunos puntos importantes que pueden estar relacionados con un comportamiento semi automático que podría ocasionar este problema. Desde que los tengo desactivados no ha vuelto a ocurrir:
 
+- Deshabilitar mostrar la huella en la pantalla de inicio
+- Deshabilitar 
 - Deshabilitar el NFS
 - Deshabilitar el activar pantalla al levantar dispositivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzY3MzAxMSwzNTYwOTQzNV19
+eyJoaXN0b3J5IjpbLTE3MDU3OTY2OTgsMzU2MDk0MzVdfQ==
 -->
