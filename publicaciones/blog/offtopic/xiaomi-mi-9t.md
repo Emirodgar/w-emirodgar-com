@@ -9,7 +9,9 @@ permalink: xiaomi-mi-9t-problemas
 
 ---
 
-Problemas de consumo de batería y de filtros de cámara
+# Problemas de consumo de batería en Xiaomi Mi 9T
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1NTMwMTg4XX0=
+eyJoaXN0b3J5IjpbMTI4NTY2ODk1N119
 -->
