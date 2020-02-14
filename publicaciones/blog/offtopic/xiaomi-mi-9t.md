@@ -9,7 +9,7 @@ permalink: xiaomi-mi-9t-problemas
 
 ---
 
-# Problemas de consumo de batería en Xiaomi Mi 9T
+# Problemas de consumo de batería y calentamiento en Xiaomi Mi 9T
 
 Mi experiencia con un **teléfono móvil Xiaomi** comenzó bastante bien. Invertí bastante tiempo en analizar los diferentes modelos del mercado para terminar apostando por uno de gama baja pero con altas prestaciones. Es decir, un [teléfono móvil Xiaomi](telefono-movil) de 260€ pero con un procesador, RAM y otras prestaciones en línea con las de dispositivos de gama media.
 
@@ -28,7 +28,7 @@ Desde octubre de 2019 se pueden encontrar comentarios en la red de usuarios de e
   data-tweetid="1228252540929814528">
 </amp-twitter>
 
-Parece que el problema comenzó con `MIUI 10.3.6.0` y que ha persistido con la versión `11`. Esto da pie a pensar que se trata de un problema de *software*.
+Parece que el problema comenzó con `MIUI 10.3.6.0` y que ha persistido con la versión `11`. Esto da pie a pensar que se trata de un problema de *software* asociado a la ROM y que aún no ha sido resuelto por parte de Xiaomi. Hay otros dispositivos afectados como Redmi note 4.
 
 ## ¿Cómo solucionar el problema?
 
@@ -44,6 +44,6 @@ He identificado algunos puntos importantes que pueden estar relacionados con un 
 
 A mayores, recomiendo [echar un vistazo a este vídeo](https://www.youtube.com/watch?v=Kjyucud0fzA&feature=emb_logo) donde nos dan consejos para optimizar la vida útil de nuestra batería.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg2NzAyMSwtMTcwNTc5NjY5OCwzNT
-YwOTQzNV19
+eyJoaXN0b3J5IjpbMTg5NzU0MDI5LC0xNzA1Nzk2Njk4LDM1Nj
+A5NDM1XX0=
 -->
