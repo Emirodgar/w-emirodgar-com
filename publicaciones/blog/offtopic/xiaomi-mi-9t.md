@@ -11,7 +11,7 @@ permalink: xiaomi-mi-9t-problemas
 
 # Problemas de consumo de batería en Xiaomi Mi 9T
 
-
+Como ya comenté en el blog, decidí
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTY2ODk1N119
+eyJoaXN0b3J5IjpbLTEwOTI0NzI5NDZdfQ==
 -->
