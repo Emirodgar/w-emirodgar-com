@@ -29,7 +29,7 @@ Básicamente si tenemos un mejor enlazado interno y externo y se trata de conten
 
 ## Si Google no lo visita con frecuencia, quizá no aporte valor
 
-
+John Mueller hizo un comentario bastante interesan
 
 <amp-twitter 
   width="375"
@@ -39,5 +39,5 @@ Básicamente si tenemos un mejor enlazado interno y externo y se trata de conten
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDMxNDA5MF19
+eyJoaXN0b3J5IjpbMzMyNDI3ODIsMTg0NDMxNDA5MF19
 -->
