@@ -29,7 +29,7 @@ Básicamente si tenemos un mejor enlazado interno y externo y se trata de conten
 
 ## Si Google no lo visita con frecuencia, quizá no aporte valor
 
-John Mueller hizo un comentario bastante interesan
+John Mueller hizo un comentario bastante interesante en Twitter. Si detectamos un contenido que no es visitado con frecuencia por Google, quizá es que no tiene suficiente valor y tendríamos que replantearnos optimizarlo o eliminarlo.
 
 <amp-twitter 
   width="375"
@@ -38,6 +38,7 @@ John Mueller hizo un comentario bastante interesan
   data-tweetid="1029701659335839744">
 </amp-twitter>
 
+Para páginas grandes con millones de páginas indexadas, optimizar el rastreo por parte de los robots de búsqueda -conocido como *crawl budget*- es crucial para garantizar que se rastrea e indexa el contenido que realmente aporta valor.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNDI3ODIsMTg0NDMxNDA5MF19
+eyJoaXN0b3J5IjpbLTM0MTM3NTg3NywxODQ0MzE0MDkwXX0=
 -->
