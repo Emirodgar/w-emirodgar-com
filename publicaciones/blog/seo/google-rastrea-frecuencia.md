@@ -25,8 +25,19 @@ Como [ha confirmado Google](https://webmasters.googleblog.com/2017/01/what-crawl
 
 > Las URL que son más populares en Internet tienden a rastrearse con mayor frecuencia para mantenerlas más frescas en nuestro índice.
 
-Básicamente si tenemos un mejor enlazado interno
+Básicamente si tenemos un mejor enlazado interno y externo y se trata de contenido dinámico y actualizado, tendremos más posibilidades de que los robots nos rastreen con una mayor frecuencia.
+
+## Si Google no lo visita con frecuencia, quizá no aporte valor
+
+
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1029701659335839744">
+</amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjIwMDA5NjBdfQ==
+eyJoaXN0b3J5IjpbMTg0NDMxNDA5MF19
 -->
