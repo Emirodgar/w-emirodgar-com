@@ -39,6 +39,16 @@ John Mueller hizo un comentario bastante interesante en Twitter. Si detectamos u
 </amp-twitter>
 
 Para páginas grandes con millones de páginas indexadas, optimizar el rastreo por parte de los robots de búsqueda -conocido como *crawl budget*- es crucial para garantizar que se rastrea e indexa el contenido que realmente aporta valor.
+
+## Cómo descrubre Googlebot nuevas páginas
+
+Hay varias formas de que Googlebot identifique y rastree las páginas de nuestro sitio:
+
+ - Sigue un enlace interno o externo
+ - Sigue un enlace desde un fichero Sitemap XML
+ - Se envía a través de Google Search Console
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTM3NTg3NywxODQ0MzE0MDkwXX0=
+eyJoaXN0b3J5IjpbMTkzNDQ0NzE0NywtMzQxMzc1ODc3LDE4ND
+QzMTQwOTBdfQ==
 -->
