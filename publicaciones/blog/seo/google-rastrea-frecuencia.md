@@ -19,6 +19,14 @@ Es importante conocer cuándo nos visitan los robots y qué rutas siguen dentro 
 
 > También podemos [bloquear el acceso a robots](https://emirodgar.com/listado-robots-bloquear) que no nos interesen y que puedan consumir recursos en exceso.
 
+## Rutas que siguen los robots de búsqueda
+
+Como [ha confirmado Google](https://webmasters.googleblog.com/2017/01/what-crawl-budget-means-for-googlebot.html), el criterio principal de rastreo de sus robots se basa en la popularidad de las URLs:
+
+> Las URL que son más populares en Internet tienden a rastrearse con mayor frecuencia para mantenerlas más frescas en nuestro índice.
+
+Básicamente si tenemos un mejor enlazado interno
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MTEzNTQzXX0=
+eyJoaXN0b3J5IjpbLTIwMjIwMDA5NjBdfQ==
 -->
