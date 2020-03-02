@@ -13,7 +13,9 @@ permalink: script-python-twitter-unfollow
 
 # Script en Python para hacer unfollow de aquellos que no nos siguen
 
+Si llevamos muchos años en Twitter y seguimos a mucha gente suele ser complicado atender a todos ellos y a menudo tenemos que recurrir a listas para estar al tanto de lo que realmente nos interesa.
 
+Para poder hacer un poco de limpieza, podemos programar un script en Python que nos ayude 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDA0MTI0NF19
+eyJoaXN0b3J5IjpbMTUyODEwNjA1MywtNDIwMDQxMjQ0XX0=
 -->
