@@ -15,7 +15,10 @@ permalink: script-python-twitter-unfollow
 
 Si llevamos muchos años en Twitter y seguimos a mucha gente suele ser complicado atender a todos ellos y a menudo tenemos que recurrir a listas para estar al tanto de lo que realmente nos interesa.
 
-Para poder hacer un poco de limpieza, podemos programar un script en Python que nos ayude 
+Para poder hacer un poco de limpieza, podemos programar un script en Python que nos ayude a despejar nuestros seguidos de gente que no nos sigue de vuelta aunque este script se puede adaptar fácilmente para limpiar también nuestro *timeline* de aquelos perfiles que no publican, que no interactúan con nosotros o que tienen métricas *SPAM*. 
+
+Una vez [instalado Python](https://emirodgar.com/instalar-python) en nuestro ordenador, creamos el script: unfollow.py.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODEwNjA1MywtNDIwMDQxMjQ0XX0=
+eyJoaXN0b3J5IjpbNjI0OTA2MjI5LDE1MjgxMDYwNTMsLTQyMD
+A0MTI0NF19
 -->
