@@ -47,7 +47,7 @@ followers = api.followers_ids(config["screen_name"])
 following = api.friends_ids(config["screen_name"])
 ```
 
-Y por último, definimos un bucle en el que dejamos de seguir a aquellos perfiles que no nos siguen. Mi único criterio es dejar de seguir 25 perfiles en cada ejecución, de esta forma evitamos ser bloqueados por Twitter.
+Y por último, definimos un bucle en el que dejamos de seguir a aquellos perfiles que no nos siguen. El criterio que he establecido para detener el script es **hacer *unfollow* a 25 perfiles**, de esta forma evitamos ser bloqueados por Twitter.
 
 ```python
 no_followers = set(following) - set(followers)
@@ -64,6 +64,6 @@ print(str(total_unfollowed) + ' unfollowed')
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2ODE1ODgzLDE1MjgxMDYwNTMsLTQyMD
-A0MTI0NF19
+eyJoaXN0b3J5IjpbLTExNTU1ODkwLDY3NjgxNTg4MywxNTI4MT
+A2MDUzLC00MjAwNDEyNDRdfQ==
 -->
