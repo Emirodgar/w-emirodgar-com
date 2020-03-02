@@ -47,7 +47,7 @@ followers = api.followers_ids(config["screen_name"])
 following = api.friends_ids(config["screen_name"])
 ```
 
-Y por último, definimos un bucle en el que 
+Y por último, definimos un bucle en el que dejamos de seguir a aquellos perfiles que no nos siguen. Mi único criterio es dejar de seguir 25 perfiles en cada ejecución, de esta forma evitamos ser bloqueados por Twitter.
 
 ```python
 no_followers = set(following) - set(followers)
@@ -56,7 +56,7 @@ for f in no_followers:
     try:
         api.destroy_friendship(f)
         total_unfollowed += 1
-        if total_unfollowed == 5:
+        if total_unfollowed == 25:
             break
     except (tweepy.RateLimitError, tweepy.TweepError) as e:
         error_handling(e)
@@ -64,6 +64,6 @@ print(str(total_unfollowed) + ' unfollowed')
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzk5ODc0MiwxNTI4MTA2MDUzLC00Mj
-AwNDEyNDRdfQ==
+eyJoaXN0b3J5IjpbNjc2ODE1ODgzLDE1MjgxMDYwNTMsLTQyMD
+A0MTI0NF19
 -->
