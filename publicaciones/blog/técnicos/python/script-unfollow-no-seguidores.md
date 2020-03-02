@@ -31,7 +31,7 @@ config = {
         "ACCESS_SECRET": "XXXX"
 }
 ```
-El siguiente paso será crear la conexión de nuestro perfil con Twitter a través de su A
+El siguiente paso será crear la conexión de nuestro perfil con Twitter a través de su API.
 
 ```python
 auth = tweepy.OAuthHandler(config["CONSUMER_KEY"], config["CONSUMER_SECRET"])
@@ -39,7 +39,31 @@ auth.set_access_token(config["ACCESS_TOKEN"], config["ACCESS_SECRET"])
 
 api = tweepy.API(auth)
 ```
+
+Una vez que estemos conectamos, recuperamos el listado de los perfiles que nos siguen y a los que nosotros seguimos.
+
+```python
+followers = api.followers_ids(config["screen_name"])
+following = api.friends_ids(config["screen_name"])
+```
+
+Y por último, definimos un bucle en el que 
+
+```python
+no_followers = set(following) - set(followers)
+total_unfollowed = 0
+for f in no_followers:
+    try:
+        api.destroy_friendship(f)
+        total_unfollowed += 1
+        if total_unfollowed == 5:
+            break
+    except (tweepy.RateLimitError, tweepy.TweepError) as e:
+        error_handling(e)
+print(str(total_unfollowed) + ' unfollowed')
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ3NzU0NjgsMTUyODEwNjA1MywtND
-IwMDQxMjQ0XX0=
+eyJoaXN0b3J5IjpbLTQyNzk5ODc0MiwxNTI4MTA2MDUzLC00Mj
+AwNDEyNDRdfQ==
 -->
