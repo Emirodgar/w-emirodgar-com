@@ -19,12 +19,10 @@ Para poder hacer un poco de limpieza, podemos programar un script en Python que 
 
 Una vez [instalado Python](https://emirodgar.com/instalar-python) en nuestro ordenador, creamos el script: unfollow.py.
 
-Para este script usaremos la librería tweepy por lo que el primer paso será importarla y acto seguido preparar un array con los datos de 
+Para este script usaremos la librería tweepy por lo que el primer paso será importarla y acto seguido preparar un array con los datos de acceso a nuestro perfil.
 
 ```python
-
 import tweepy
-
 config = {
         "screen_name": "Emirodgar",
         "CONSUMER_KEY": "XXXX",
@@ -32,9 +30,16 @@ config = {
         "ACCESS_TOKEN": "XXXX-XXXX",
         "ACCESS_SECRET": "XXXX"
 }
+```
+El siguiente paso será crear la conexión de nuestro perfil con Twitter a través de su A
 
+```python
+auth = tweepy.OAuthHandler(config["CONSUMER_KEY"], config["CONSUMER_SECRET"])
+auth.set_access_token(config["ACCESS_TOKEN"], config["ACCESS_SECRET"])
+
+api = tweepy.API(auth)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTkxNTI2MSwxNTI4MTA2MDUzLC00Mj
-AwNDEyNDRdfQ==
+eyJoaXN0b3J5IjpbLTE2MzQ3NzU0NjgsMTUyODEwNjA1MywtND
+IwMDQxMjQ0XX0=
 -->
