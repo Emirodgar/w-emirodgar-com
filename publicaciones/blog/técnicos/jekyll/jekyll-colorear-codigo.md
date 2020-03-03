@@ -13,7 +13,13 @@ permalink: colorear-codigo-jekyll
 
 # Colorear el código con markdown en Jekyll
 
+Cuando hacemos uso de `Jekyll` y `Markdown` suele ser frecuente que incluyamos pequeños fragmentos de código eventualmente.
 
+Por norma general, para poder incluir código fuente lo hacemos con 
+
+````
+``
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDcxMTg0MDddfQ==
+eyJoaXN0b3J5IjpbOTQ3MjMxNzgxXX0=
 -->
