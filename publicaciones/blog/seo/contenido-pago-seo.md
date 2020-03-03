@@ -19,7 +19,11 @@ Cada vez más periódicos digitales se están pasando al modelo de suscripción.
  - **Muro de pago mixto**: algunas publicaciones son gratuitas y otras de pago. Para poder acceder a todo hay que tener una suscripción.
  - **Prueba gratuita**: las primeras publicaciones son gratuitas -para que puedas evaluar la calidad de las mismas- y a partir de un número determinado tienes que pagar para seguir leyendo.
 
+## Cómo evitar penalizaciones por cloacking
+
+Las técnicas de ocultación o cloacking- 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcxMzAxMjVdfQ==
+eyJoaXN0b3J5IjpbLTcxNzEwMzY4NCwtMTczNzEzMDEyNV19
 -->
