@@ -25,9 +25,11 @@ Por norma general, para poder incluir código fuente lo hacemos de la siguiente 
 ````
 Básicamente indicamos el lenguaje de programación que vamos a utilizar para que sea formatea de forma correcta. 
 
-> Listado de los lenguajes soportados en Je
-
 Por defecto, Jekyll hace uso de [Rouge](http://rouge.jneen.net/) para formatear y colorear hasta **más de 100 lenguajes de programación** facilitando por tanto la lectura y análisis por parte de los usuarios.
+
+> [Listado de los lenguajes soportados por Rouge](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)
+
+En el caso de no especificar uno por defecto, se coloreará con los colores base sin destacar ninguna parte específica.
 
 ## Templates para colorear el código fuente
 
@@ -35,5 +37,5 @@ Si queremos modificar los colores predeterminados lo podemos hacer creando un c�
 
 En este último caso bastará con que seleccionemos el que más nos guste e incorporemos su código en nuestra página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MjQ4NDczXX0=
+eyJoaXN0b3J5IjpbLTkzNDI3MjkxMF19
 -->
