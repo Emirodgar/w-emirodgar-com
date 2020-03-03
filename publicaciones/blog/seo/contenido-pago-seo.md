@@ -13,7 +13,13 @@ permalink: contenidos-pago-google
 
 # Contenidos de pago en Google
 
-Cada vez más periódicos digitales se están pasando al modelo de suscripción. Existen varias opciones te ofrecen una serie de artículos
+Cada vez más periódicos digitales se están pasando al modelo de suscripción. Existen varias opciones:
+
+ - **Muro de pago**: todas las publicaciones son de pago y es necesario una suscripción para su acceso.
+ - Muro de pago mixto: algunas publicaciones son gratuitas y otras de pago. Para poder acceder a todo hay que tener una suscripción.
+ - Prueba gratuita: las primeras publicaciones son gratuitas -para que puedas evaluar la calidad de las mismas- y a partir de un número determinado tienes que pagar para seguir leyendo.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzNzc2Nzg3XX0=
+eyJoaXN0b3J5IjpbOTI0MjI3MTg3XX0=
 -->
