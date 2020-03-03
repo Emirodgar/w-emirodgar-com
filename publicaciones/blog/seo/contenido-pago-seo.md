@@ -19,14 +19,16 @@ Cada vez más periódicos digitales se están pasando al modelo de suscripción.
  - **Muro de pago mixto**: algunas publicaciones son gratuitas y otras de pago. Para poder acceder a todo hay que tener una suscripción.
  - **Prueba gratuita**: las primeras publicaciones son gratuitas -para que puedas evaluar la calidad de las mismas- y a partir de un número determinado tienes que pagar para seguir leyendo.
 
+Google Noticias ya tiene su [propio sistema de ingresos](https://support.google.com/news/publisher-center/answer/9606543?visit_id=637188253321907152-220207309&rd=1&hl=es) por lo que si está activo en nuestro país podemos solicitar participar en dicho programa. Si no, tendremos que preparar nuestra web a nivel técnico para que Google no tenga problemas con nuestros contenidos de pago. 
+
 ## Cómo evitar penalizaciones por cloacking
 
-Las técnicas de ocultación o cloacking- 
+Las **técnicas de ocultación** o **cloaking** 
 
 Para ello [Google dispone de una guía](https://developers.google.com/search/docs/data-types/paywalled-content) bastante completa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU5MDM5MDgsLTE3MzcxMzAxMjVdfQ
+eyJoaXN0b3J5IjpbLTIxMTUyNDI4MDcsLTE3MzcxMzAxMjVdfQ
 ==
 -->
