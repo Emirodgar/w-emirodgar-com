@@ -25,9 +25,11 @@ Google Noticias ya tiene su [propio sistema de ingresos](https://support.google.
 
 Las **técnicas de ocultación** o **cloaking** consisten en mostrar contenido diferente a usuarios y a robots de búsqueda. Están penalizadas por Google y suelen acarrean desposicionamientos bastante grandes.
 
-Para ello [Google dispone de una guía](https://developers.google.com/search/docs/data-types/paywalled-content) bastante completa
+Para evitar problemas [Google ha dispuesto una guía](https://developers.google.com/search/docs/data-types/paywalled-content) bastante completa en la que nos enseña los pasos a seguir para poder hacer accesible a sus robots de búsqueda contenidos de pago **sin generar cloacking**.
+
+### Usar etiquetas para el conte
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDEwNzQxLC0xNzM3MTMwMTI1XX0=
+eyJoaXN0b3J5IjpbLTY5MDg1MjY4NiwtMTczNzEzMDEyNV19
 -->
