@@ -23,12 +23,11 @@ Google Noticias ya tiene su [propio sistema de ingresos](https://support.google.
 
 ## Cómo evitar penalizaciones por cloacking
 
-Las **técnicas de ocultación** o **cloaking** 
+Las **técnicas de ocultación** o **cloaking** consisten en mostrar contenido diferente a usuarios y a robots de búsqueda. Están penalizadas por Google y suelen acarrean desposicionamientos bastante grandes.
 
 Para ello [Google dispone de una guía](https://developers.google.com/search/docs/data-types/paywalled-content) bastante completa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUyNDI4MDcsLTE3MzcxMzAxMjVdfQ
-==
+eyJoaXN0b3J5IjpbLTQ4MDEwNzQxLC0xNzM3MTMwMTI1XX0=
 -->
