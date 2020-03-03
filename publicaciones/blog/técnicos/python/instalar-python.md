@@ -23,7 +23,7 @@ Para este último caso debemos [ir a la página oficial](https://www.python.org/
 
 > Necesitamos marcar la opción de "Add Python to PATH". Si no, tendremos que hacerlo luego a mano.
 
-Para validar que la instalación se ha hecho de forma correcta bastanrá con ejecutar el siguiente comando en la consola 
+Para validar que la instalación se ha hecho de forma correcta bastará con ejecutar el siguiente comando en la consola 
 
 ```cmd
 python3 --version
@@ -49,5 +49,5 @@ Cada cuál es libre de utilizar el lenguaje de programación que más le guste y
 - Funciona en múltiples entornos
 - Automatiza tareas manuales 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMzNzA5MDJdfQ==
+eyJoaXN0b3J5IjpbNDczMTc1ODUwLC0yMDgzMzcwOTAyXX0=
 -->
