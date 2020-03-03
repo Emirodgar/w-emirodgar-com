@@ -24,7 +24,13 @@ Por norma general, para poder incluir código fuente lo hacemos de la siguiente 
 ```
 ````
 
-Por defecto, Jekyll hace uso de [Rouge](http://rouge.jneen.net/) para formatear y colorear hasta más de 100 tiposese código facilitando por tanto la lectura y análisis por parte de los usuarios.
+Por defecto, Jekyll hace uso de [Rouge](http://rouge.jneen.net/) para formatear y colorear hasta **más de 100 lenguajes de programación** facilitando por tanto la lectura y análisis por parte de los usuarios.
+
+## Templates para colorear el código fuente
+
+Si queremos modificar los colores predeterminados lo podemos hacer creando un código `CSS` propio o haciendo uso de los [múltiples templates ya existentes](http://jwarby.github.io/jekyll-pygments-themes/languages/python.html).
+
+En este último caso bastará con que seleccionemos el que más nos guste e incorporemos su código en nuestra pág
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxODc3OTEwXX0=
+eyJoaXN0b3J5IjpbMjQwNjk3NTU2XX0=
 -->
