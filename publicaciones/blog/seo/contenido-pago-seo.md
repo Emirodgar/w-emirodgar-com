@@ -23,7 +23,10 @@ Cada vez más periódicos digitales se están pasando al modelo de suscripción.
 
 Las técnicas de ocultación o cloacking- 
 
+Para ello [Google dispone de una guía](https://developers.google.com/search/docs/data-types/paywalled-content) bastante completa
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzEwMzY4NCwtMTczNzEzMDEyNV19
+eyJoaXN0b3J5IjpbLTE5NDU5MDM5MDgsLTE3MzcxMzAxMjVdfQ
+==
 -->
