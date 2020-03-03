@@ -66,7 +66,11 @@ Por último pero no menos importante, ofrezco un listado actualizado de noticias
 
 ### 1.0.5 - Nuevas funcionalidades
 
-Para optimizar el rendimiento de Google Chrome, esta versión excluye directamente su ejecución en 
+Para optimizar el rendimiento de Google Chrome, esta versión excluye directamente su ejecución en google.com, bing.com, facebook.com y algunos otros portales relevantes.
+
+De esta forma nos centramos únicamente en analizar
+
+También se ha añadido la validación de idioma a través de la etiqueta `lang` para saber si existe o no.
 
 ### 1.0.4 - Identificación de versión AMP
 
@@ -91,5 +95,5 @@ He cambiado el feed `json` de noticias para que en lugar de ir asociado a la ext
 
 Como no podía ser de otra forma, las primeras versiones siempre traen *bugs* que deben ser corregidos.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjE0NjM5N119
+eyJoaXN0b3J5IjpbMzQyMzQxODIzXX0=
 -->
