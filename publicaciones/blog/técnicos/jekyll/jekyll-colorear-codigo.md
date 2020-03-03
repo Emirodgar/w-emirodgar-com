@@ -15,11 +15,16 @@ permalink: colorear-codigo-jekyll
 
 Cuando hacemos uso de `Jekyll` y `Markdown` suele ser frecuente que incluyamos pequeños fragmentos de código eventualmente.
 
-Por norma general, para poder incluir código fuente lo hacemos con 
+Por norma general, para poder incluir código fuente lo hacemos de la siguiente manera.
 
-````
-``
-````
+```
+```html
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+   <link rel="icon" href="https://emirodgar.com/cdn/images/hash.png">
+```
+```
+
+Por defecto, Jekyll hace uso de Rouge para formatear y colorear ese código f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MjMxNzgxXX0=
+eyJoaXN0b3J5IjpbNTU5MzI1ODY4XX0=
 -->
