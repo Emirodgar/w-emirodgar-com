@@ -27,9 +27,11 @@ Las **técnicas de ocultación** o **cloaking** consisten en mostrar contenido d
 
 Para evitar problemas [Google ha dispuesto una guía](https://developers.google.com/search/docs/data-types/paywalled-content) bastante completa en la que nos enseña los pasos a seguir para poder hacer accesible a sus robots de búsqueda contenidos de pago **sin generar cloacking**.
 
-### Usar etiquetas para el conte
+### Usar etiquetas para el contenido de pago
+
+Si ofrecemos una parte gratuita y otra de pago, la recomendación que nos da Google es etiquetar a través de los [datos estructurados de `NewsArticle`](https://developers.google.com/search/docs/data-types/article) que se trata de un artículo de pago y establecer el selector `CSS` que determinará qué partes son de pago y cuáles gratuitas.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDg1MjY4NiwtMTczNzEzMDEyNV19
+eyJoaXN0b3J5IjpbLTc5Mjc2Njk1NywtMTczNzEzMDEyNV19
 -->
