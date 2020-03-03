@@ -39,7 +39,7 @@ En el siguiente ejemplo utilizaremos la clase `paywall`  para determinar párraf
 <div class="paywall">Contenido de pago.</div>  
 </body>
 ```
-Y en los datos estructurados indicaremos que existen zonas de pago a través de la opción `isAccessibleForFree` a `False`.
+Y en los datos estructurados indicaremos que existen zonas de pago a través de la opción `isAccessibleForFree` a `False` e indicando que serán las que incluyan el `cssSelector` con valor `paywall`.
 
 ```json
 {
@@ -60,5 +60,5 @@ Y en los datos estructurados indicaremos que existen zonas de pago a través de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5Njc5NTA0LC0xNzM3MTMwMTI1XX0=
+eyJoaXN0b3J5IjpbNzA3MDc4Mjg1LC0xNzM3MTMwMTI1XX0=
 -->
