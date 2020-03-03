@@ -30,7 +30,7 @@ Por defecto, Jekyll hace uso de [Rouge](http://rouge.jneen.net/) para formatear 
 
 Si queremos modificar los colores predeterminados lo podemos hacer creando un código `CSS` propio o haciendo uso de los [múltiples templates ya existentes](http://jwarby.github.io/jekyll-pygments-themes/languages/python.html).
 
-En este último caso bastará con que seleccionemos el que más nos guste e incorporemos su código en nuestra pág
+En este último caso bastará con que seleccionemos el que más nos guste e incorporemos su código en nuestra página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNjk3NTU2XX0=
+eyJoaXN0b3J5IjpbLTk5Mzg3MDAxNF19
 -->
