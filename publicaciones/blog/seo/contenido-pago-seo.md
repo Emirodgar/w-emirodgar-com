@@ -39,11 +39,26 @@ En el siguiente ejemplo utilizaremos la clase `paywall`  para determinar párraf
 <div class="paywall">Contenido de pago.</div>  
 </body>
 ```
-Y en los datos estructurados indicaremos que existen
+Y en los datos estructurados indicaremos que existen zonas de pago a través de la opción `isAccessibleForFree` a `False`.
 
-``````
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.org/article"
+  },
+  "isAccessibleForFree": "False",
+  "hasPart": {
+    "@type": "WebPageElement",
+    "isAccessibleForFree": "False",
+    "cssSelector": ".paywall"
+  }
+}
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0NTc5NTcwLC0xNzM3MTMwMTI1XX0=
+eyJoaXN0b3J5IjpbMzM5Njc5NTA0LC0xNzM3MTMwMTI1XX0=
 -->
