@@ -17,14 +17,14 @@ Cuando hacemos uso de `Jekyll` y `Markdown` suele ser frecuente que incluyamos p
 
 Por norma general, para poder incluir código fuente lo hacemos de la siguiente manera.
 
-```
+````
 ```html
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
    <link rel="icon" href="https://emirodgar.com/cdn/images/hash.png">
 ```
-```
+````
 
-Por defecto, Jekyll hace uso de Rouge para formatear y colorear ese código f
+Por defecto, Jekyll hace uso de [Rouge](http://rouge.jneen.net/) para formatear y colorear hasta más de 100 tiposese código facilitando por tanto la lectura y análisis por parte de los usuarios.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5MzI1ODY4XX0=
+eyJoaXN0b3J5IjpbOTMxODc3OTEwXX0=
 -->
