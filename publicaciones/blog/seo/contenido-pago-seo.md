@@ -31,7 +31,19 @@ Para evitar problemas [Google ha dispuesto una guía](https://developers.google.
 
 Si ofrecemos una parte gratuita y otra de pago, la recomendación que nos da Google es etiquetar a través de los [datos estructurados de `NewsArticle`](https://developers.google.com/search/docs/data-types/article) que se trata de un artículo de pago y establecer el selector `CSS` que determinará qué partes son de pago y cuáles gratuitas.
 
+En el siguiente ejemplo utilizaremos la clase `paywall`  para determinar párrafos de contenido de pago.
+
+```html
+<body>  
+<p>Contenido gratuito</p>  
+<div class="paywall">Contenido de pago.</div>  
+</body>
+```
+Y en los datos estructurados indicaremos que existen
+
+``````
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Mjc2Njk1NywtMTczNzEzMDEyNV19
+eyJoaXN0b3J5IjpbNDI0NTc5NTcwLC0xNzM3MTMwMTI1XX0=
 -->
