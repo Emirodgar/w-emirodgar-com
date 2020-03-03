@@ -63,8 +63,10 @@ Y en los datos estructurados indicaremos que existen zonas de pago a través de 
 
 Para que Google pueda rastrear e indexar nuestras páginas es necesario que no bloqueemos el rastreo a través del `robots.txt` ni la indexación con la etiqueta `noindex`. 
 
-> Podemos [detectar los accesos de Googlebot](https://emirodgar.com/detectar-googlebot) a nuestra página aunque no es recomendable ofrecer al robot un contenido distinto que a los usuarios. 
+> Cuidado con [bloquear ficheros como Javascript o CSS](https://emirodgar.com/bloquear-indexacion-js-css) ya que podría causar problemas en el proceso de indexación.
+
+Para garantizar un mayor control en los accesos a los contenidos de pago también podemos [detectar los accesos de Googlebot](https://emirodgar.com/detectar-googlebot) a nuestra página aunque no es recomendable ofrecer al robot un contenido distinto que a los usuarios ya que eso sería cloaking. Lo podemos usar a modo de  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzk4MzQxMSw3MDcwNzgyODUsLTE3Mz
-cxMzAxMjVdfQ==
+eyJoaXN0b3J5IjpbNzU0OTY3MzgzLDcwNzA3ODI4NSwtMTczNz
+EzMDEyNV19
 -->
