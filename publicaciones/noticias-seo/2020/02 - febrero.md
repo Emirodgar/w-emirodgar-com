@@ -33,8 +33,8 @@ Me ha gustado este experimento en el que se ha puesto a prueba la veracidad de l
 
 Google explica de qué trata la meta etiqueta [X-Client-Data](https://9to5google.com/2020/02/06/google-chrome-x-client-data-tracking/) que tanto preocupaba a la comunidad por pensar que haría **seguimiento de los usuarios**. Se usará para enviar a Google la configuración adicional (flags) y ciertos experimentos que tengas configurados a través de Chrome.
 
-Esta información sólo se enviará desde Chrome a Google cuando se detecte un dominio de su propiedad, es decir, nadie más podrá verla.
+Esta información sólo se enviará desde Chrome a Google cuando se detecte un **dominio de su propiedad**, es decir, nadie más podrá verla.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAyNTEwMDksLTE4MjU0MzYwMzQsLT
-E0OTM4ODk1NTZdfQ==
+eyJoaXN0b3J5IjpbMTA3NTc0Mzk5LC0xNzkwMjUxMDA5LC0xOD
+I1NDM2MDM0LC0xNDkzODg5NTU2XX0=
 -->
