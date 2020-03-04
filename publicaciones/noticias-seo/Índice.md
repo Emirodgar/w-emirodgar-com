@@ -22,7 +22,9 @@ permalink: noticias-seo
 
 ### Febrero 2020
 
-Pocas novedades a nivel SE
+Google confirma que si una página no es accedida frecuentemente por su robot indica que no es relevante y que deberíamos evaluar si aporta valor.
+
+Por el resto, pocas novedades a nivel SEO. Parece que Google sigue haciendo cambios y ajustes en su algoritmo pero sin ninguna comunicación oficial. 
 
 [Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2020/febrero)
 
@@ -102,6 +104,5 @@ Aprovechando el nuevo rediseño en búsquedas mobile, tenemos recomendación ofi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA3NjIzNjgsLTE0NDE5MzU1NzZdfQ
-==
+eyJoaXN0b3J5IjpbMjA1ODY0Mzc2NywtMTQ0MTkzNTU3Nl19
 -->
