@@ -20,6 +20,12 @@ permalink: noticias-seo
 
 ## Noticias SEO - 2020
 
+### Febrero 2020
+
+Pocas novedades a nivel SE
+
+[Continuar leyendo las noticias de este mes](https://emirodgar.com/noticias-seo/2020/febrero)
+
 ### Enero 2020
 
 De momento parece que ha habido algún cambio de algoritmo relacionado con enlaces aunque aún es pronto para confirmarlo. Google no ha dado ningún aviso.
@@ -96,5 +102,6 @@ Aprovechando el nuevo rediseño en búsquedas mobile, tenemos recomendación ofi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1NzY4NjMzLC0xNDQxOTM1NTc2XX0=
+eyJoaXN0b3J5IjpbLTE5NTA3NjIzNjgsLTE0NDE5MzU1NzZdfQ
+==
 -->
