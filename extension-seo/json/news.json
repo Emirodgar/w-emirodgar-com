@@ -1,6 +1,30 @@
 {
   "data": [
     [
+      "Google no interactuará con los botones de 'cargar más'",
+      "Para ahorrar costes, Google no interactuará con los botones de ver más. Si cargamos información a través de Javascript, no será accesible pero si lo hacemos a través de CSS (ocultar/mostrar) no tendremos problemas. ",
+      "https://twitter.com/Marie_Haynes/status/1234559842158891008",
+    "Marzo 2020"
+    ],
+    [
+      "Google incoporará iconos en las imágenes",
+      "En las búsquedas de escritorio podremos ver una serie de iconos en las búsquedas de imágenes que nos indicarán si pertenecen a productos, recetas o a contenido de un vídeo.",
+      "https://twitter.com/searchliaison/status/1232426759770886144",
+    "Marzo 2020"
+    ],
+    [
+      "Los atributos de enlace aún no son usados por Google",
+      "El 1 de marzo de 2020 era la fecha en la que Google comenzaría a usar los enlaces nofollow como hint para rastreo e indexación. De momento, según confirma John Mueller, ningún equipo está haciendo uso de esta funcaionalidad.",
+      "https://twitter.com/KyleW_Sutton/status/1232767353110355971",
+    "Marzo 2020"
+    ],
+    [
+      "Indexación mobile-first para todas las páginas",
+      "Google avisa de que en los próximos 6-12 meses aplicará la indexación mobile-first para todas las páginas. Si tu web aún no está adaptada -o tiene problemas- deberías trabajar en solucionarlos.",
+      "https://twitter.com/KyleW_Sutton/status/1232767353110355971",
+    "Marzo 2020"
+    ],
+    [
       "Al migrar dominios mantén ambos certificados SSL",
       "Si hacemos una migración de un dominio a otro, Google nos recomienda mantener un certificado SSL en el viejo para evitar problemas.",
       "https://twitter.com/JohnMu/status/1235251254797971457",
