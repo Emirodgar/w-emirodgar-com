@@ -1,6 +1,12 @@
 {
   "data": [
     [
+      "Al migrar dominios mantén ambos certificados SSL",
+      "Si hacemos una migración de un dominio a otro, Google nos recomienda mantener un certificado SSL en el viejo para evitar problemas.",
+      "https://twitter.com/JohnMu/status/1235251254797971457",
+    "Marzo 2020"
+    ],
+    [
       "Si Google no te indexa el problema será tu contenido",
       "John lo ha dejado bastante claro a través de Twitter: si tienes problemas con la indexación de nuevas páginas, quizá sea que Googlebot no las considera relevantes y deberías optimizarlas.",
       "https://twitter.com/JohnMu/status/1224373191310704640",
