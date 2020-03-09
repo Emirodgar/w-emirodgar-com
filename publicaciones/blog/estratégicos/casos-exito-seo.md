@@ -8,6 +8,8 @@ date: 15/01/2020
 folder: estrategicos
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: casos-exito-seo
+author: emirodgar
+
 
 ---
 
@@ -184,5 +186,6 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDM5NTA3MCwtMTk0NDA3OTg1MV19
+eyJoaXN0b3J5IjpbOTAzMjQ3MTc5LC02MTAzOTUwNzAsLTE5ND
+QwNzk4NTFdfQ==
 -->
