@@ -16,7 +16,7 @@ permalink: coronavirus-salamanca
 
 ## Teléfonos e información
 
-
+- Teléfono de información de la Junta de Castilla y León: **900 222 000**
 
 ## Infectados
 
@@ -35,5 +35,5 @@ Actualmente en Salamanca hay **6 infectados**.
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgzNzg4MjVdfQ==
+eyJoaXN0b3J5IjpbMTIzNTg4Nzg1OF19
 -->
