@@ -16,13 +16,6 @@ permalink: coronavirus-salamanca
 > 12 de marzo @ 16:30 / 
 >  **7 infectados**: 6 en cuarentena domiciliaria y 1 ingresado. **1 alta** y **0** muertes.
 
-<amp-img alt="Evolución coronavirus Salamanca"
-  src="https://i.imgur.com/vMsngKp.png"
-  width="580"
-  height="349"
-  layout="responsive">
-</amp-img>
-
 ## Menú principal
 
 - [Teléfonos e información](#telefonos)
@@ -98,7 +91,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkzNzk3NiwxOTU2NDc1MTM1LDE4Mz
+eyJoaXN0b3J5IjpbMTcxMTQ5OTE2MCwxOTU2NDc1MTM1LDE4Mz
 I1OTY0MDgsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEwMDc1
 MDcsLTIwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMzE3OTAwODddfQ
 ==
