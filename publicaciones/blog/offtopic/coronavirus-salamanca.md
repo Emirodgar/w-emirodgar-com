@@ -38,7 +38,7 @@ La información está actualizada a 12 de marzo @ 18:50. Gráfico de evolución 
 - **Teléfono de información (900 222 000)**: habilitado por la Junta de Castilla y León. Usar con responsabilidad ya que hay muchos afectados y podríamos colapsar las líneas).
 - **Teléfono de emergencias (112)**: usar sólo en casos de extrema necesidad (emergencia real) ya que es necesario dejar estas líneas disponibles para aquellas personas que realmente las necesiten.
 - [Perfil de Twitter de  Emergencias 112 Castilla y León](https://twitter.com/112cyl)
-- [Streaming en directo con datos globales de la pandemia](https://www.youtube.com/watch?v=qgylp3Td1Bw&feature=emb_logo).
+- [Streaming en directo](https://www.youtube.com/watch?v=qgylp3Td1Bw&feature=emb_logo)  con datos globales de la pandemia y [todos los datos por país](https://www.worldometers.info/coronavirus/).
 
 
 ## <a name="hospitales"></a> Hospitales
@@ -103,8 +103,8 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc0NTMwNDAsNjgxODk5NzkzLC04ND
-I3NDgyMzYsMTk1NjQ3NTEzNSwxODMyNTk2NDA4LC00MjA0NTUy
-MDUsMjA3NTIwNDU1NywxMzUxMDA3NTA3LC0yMDc5Mjc1NDI3LD
-QzMTI5MDYwMiwyMDMxNzkwMDg3XX0=
+eyJoaXN0b3J5IjpbMzc4NzI1NDA4LC0xNTM3NDUzMDQwLDY4MT
+g5OTc5MywtODQyNzQ4MjM2LDE5NTY0NzUxMzUsMTgzMjU5NjQw
+OCwtNDIwNDU1MjA1LDIwNzUyMDQ1NTcsMTM1MTAwNzUwNywtMj
+A3OTI3NTQyNyw0MzEyOTA2MDIsMjAzMTc5MDA4N119
 -->
