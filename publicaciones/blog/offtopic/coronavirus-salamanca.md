@@ -13,7 +13,7 @@ permalink: coronavirus-salamanca
 
 # Coronavirus en Salamanca
 
-> 12 de marzo: 6 infectados y un dado de alta.
+> 12 de marzo: **6 infectados** y **1 alta**.
 
 ## Teléfonos e información
 
@@ -51,7 +51,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 - **07 de marzo**: En Tamames hay dos hermanos infectados y también el médico del centro de salud que les atendió inicialmente. 
 - **02 de marzo**:
 
-## Cronología de eventos
+## Prohibiciones y 
 
 - 12 de marzo:  **Burgos en cuarentena social**: cese de la actividad docente en todos los centros educativos desde guarderías a colegios y universidades en Burgos.
 
@@ -69,6 +69,6 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTAwNzUwNywtMjA3OTI3NTQyNyw0Mz
-EyOTA2MDIsMjAzMTc5MDA4N119
+eyJoaXN0b3J5IjpbMTE3NzMzMzU1MywxMzUxMDA3NTA3LC0yMD
+c5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkwMDg3XX0=
 -->
