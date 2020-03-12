@@ -82,15 +82,6 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 - **11 de marzo**: 5 profesores del Colegio Salesiano María Auxiliadora (Calle Padre Cámara, 1, 37004 Salamanca) han sido puestos en cuarentena domociliaria (están asintomáticos) al haber estado el pasado 28 de febrero en un curso en León con una persona positiva en coronaviru.
 - **07 de marzo**: En Tamames hay dos hermanos infectados y también el médico del centro de salud que les atendió inicialmente. 
 
-## <a name="prohibiciones"></a> Prohibiciones y recomendaciones
-
-### 12 de marzo
-
-- **Burgos en cuarentena social**: cese de la actividad docente en todos los centros educativos desde guarderías a colegios y universidades en Burgos.
-- Cancelado el **Rastro de Salamanca**
-- Canceladas todas las actividades culturales de **El Liceo y el CAEM**: concierto de Los Secretos, Festival Salamanca Town of Rock and Roll, así como las obras de teatro planificadas para las próximas dos semanas.
-- La **Universidad de Salamanca** suspende las clases.
-
 ## <a name="recomendaciones"></a> Recomendaciones
 
  1. Lavarse las manos de forma correcta: [ver ejemplo](https://www.cdc.gov/handwashing/esp/when-how-handwashing.html).
@@ -100,6 +91,16 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
  5. Si tiene fiebre, tos y dificultad para respirar, solicite atención médica a tiempo.
  6. Si tiene usted síntomas respiratorios leves y ningún antecedente de viaje a/en China, quédese en casa hasta que se recupere.
  7. Evite el consumo de productos animales crudos o poco cocinados.
+
+## <a name="prohibiciones"></a> Prohibiciones y cancelaciones
+
+### 12 de marzo
+
+- **Burgos en cuarentena social**: cese de la actividad docente en todos los centros educativos desde guarderías a colegios y universidades en Burgos.
+- Cancelado el **Rastro de Salamanca**
+- Canceladas todas las actividades culturales de **El Liceo y el CAEM**: concierto de Los Secretos, Festival Salamanca Town of Rock and Roll, así como las obras de teatro planificadas para las próximas dos semanas.
+- La **Universidad de Salamanca** suspende las clases.
+
 
 ## <a name="compras"></a> Compras
 
@@ -150,9 +151,9 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDIzMDE5NjIsLTczODk1MzA3MCwzNz
-g3MjU0MDgsLTE1Mzc0NTMwNDAsNjgxODk5NzkzLC04NDI3NDgy
-MzYsMTk1NjQ3NTEzNSwxODMyNTk2NDA4LC00MjA0NTUyMDUsMj
-A3NTIwNDU1NywxMzUxMDA3NTA3LC0yMDc5Mjc1NDI3LDQzMTI5
-MDYwMiwyMDMxNzkwMDg3XX0=
+eyJoaXN0b3J5IjpbMTEyMDY2MTQ5NSwtNzM4OTUzMDcwLDM3OD
+cyNTQwOCwtMTUzNzQ1MzA0MCw2ODE4OTk3OTMsLTg0Mjc0ODIz
+NiwxOTU2NDc1MTM1LDE4MzI1OTY0MDgsLTQyMDQ1NTIwNSwyMD
+c1MjA0NTU3LDEzNTEwMDc1MDcsLTIwNzkyNzU0MjcsNDMxMjkw
+NjAyLDIwMzE3OTAwODddfQ==
 -->
