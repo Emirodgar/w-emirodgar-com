@@ -90,6 +90,12 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 - Canceladas todas las actividades culturales de **El Liceo y el CAEM**: concierto de Los Secretos, Festival Salamanca Town of Rock and Roll, así como las obras de teatro planificadas para las próximas dos semanas.
 - La **Universidad de Salamanca** suspende las clases.
 
+## <a name="recomendaciones"></a> Recomendaciones
+
+ 1. Lavarse las manos de forma correcta: [ver ejemplo](https://www.cdc.gov/handwashing/esp/when-how-handwashing.html).
+ 2. Al toser o estornudar, cúbrase la boca y la nariz con el codo flexionado o con un pañuelo; tire el pañuelo inmediatamente y lávese las manos con un desinfectante de manos a base de alcohol, o con agua y jabón.
+ 3. Mantenga al menos 1 metro (3 pies) de distancia entre usted y las demás personas, particularmente aquellas que tosan, estornuden y tengan fiebre.
+
 ## <a name="compras"></a> Compras
 
 A continuación se detallan una serie de productos que pueden ser útiles si tenemos que hacer cuarentena en casa durante un tiempo prolongado.
@@ -139,9 +145,9 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODk1MzA3MCwzNzg3MjU0MDgsLTE1Mz
-c0NTMwNDAsNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1NjQ3NTEz
-NSwxODMyNTk2NDA4LC00MjA0NTUyMDUsMjA3NTIwNDU1NywxMz
-UxMDA3NTA3LC0yMDc5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkw
-MDg3XX0=
+eyJoaXN0b3J5IjpbMTA5NzczNTY1MCwtNzM4OTUzMDcwLDM3OD
+cyNTQwOCwtMTUzNzQ1MzA0MCw2ODE4OTk3OTMsLTg0Mjc0ODIz
+NiwxOTU2NDc1MTM1LDE4MzI1OTY0MDgsLTQyMDQ1NTIwNSwyMD
+c1MjA0NTU3LDEzNTEwMDc1MDcsLTIwNzkyNzU0MjcsNDMxMjkw
+NjAyLDIwMzE3OTAwODddfQ==
 -->
