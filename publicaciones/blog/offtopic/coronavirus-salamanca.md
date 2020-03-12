@@ -44,6 +44,15 @@ permalink: coronavirus-salamanca
 
 ### Personas infectadas
 
+La información está actualizada a 12 de marzo @ 18:50. Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer registro (2 de marzo) hasta hoy.
+
+<amp-img alt="Evolución coronavirus Salamanca"
+  src="https://i.imgur.com/vMsngKp.png"
+  width="580"
+  height="349"
+  layout="responsive">
+</amp-img>
+
 Actualmente en Salamanca hay **6 infectados** de los cuales 5 están en cuarentena en su casa y uno ingresado en el clínico. 
 
 |Fecha contagio| Personas afectadas | Lugar de contagio | Lugar de residencia | Información adicional
@@ -147,7 +156,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODAwOTY1MCwxMTIwNjYxNDk1LC03Mz
+eyJoaXN0b3J5IjpbMTY2NjEyMzQ3MiwxMTIwNjYxNDk1LC03Mz
 g5NTMwNzAsMzc4NzI1NDA4LC0xNTM3NDUzMDQwLDY4MTg5OTc5
 MywtODQyNzQ4MjM2LDE5NTY0NzUxMzUsMTgzMjU5NjQwOCwtND
 IwNDU1MjA1LDIwNzUyMDQ1NTcsMTM1MTAwNzUwNywtMjA3OTI3
