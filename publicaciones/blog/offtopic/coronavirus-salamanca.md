@@ -16,15 +16,8 @@ permalink: coronavirus-salamanca
 > 12 de marzo @ 16:30 / 
 >  **7 infectados**: 6 en cuarentena domiciliaria y 1 ingresado. **1 alta** y **0** muertes.
 
-<amp-img alt="Estado inicial caso éxito - pérdida de visibilidad orgánica"
-  src="https://i.imgur.com/esO1WW0.png"
-  width="1132"
-  height="395"
-  layout="responsive">
-</amp-img>
-
 <amp-img alt="Evolución coronavirus Salamanca"
-  src="[https://i.imgur.com/vMsngKp.png](https://i.imgur.com/vMsngKp.png)"
+  src="https://i.imgur.com/vMsngKp.png"
   width="580"
   height="349"
   layout="responsive">
@@ -65,6 +58,13 @@ Actualmente en Salamanca hay **6 infectados** de los cuales 5 están en cuarente
 | 11/03 | 2| Salamanca | - | - 
 | 12/03 | 1| Salamanca | Candelario | Candelario 
 
+<amp-img alt="Infectados coronavirus Salamanca"
+  src="https://i.imgur.com/FxKJ60W.png"
+  width="581"
+  height="351"
+  layout="responsive">
+</amp-img>
+
 ### Personas dadas de alta en Salamanca
 
 La primera infectada en Salamanca, estudiante de la facultad de Educación, ha recibido el alta el día 12 de marzo.  De momento hay **una persona con el alta**.
@@ -98,7 +98,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjcxNTYwNCwxOTU2NDc1MTM1LDE4Mz
+eyJoaXN0b3J5IjpbLTEyNTkzNzk3NiwxOTU2NDc1MTM1LDE4Mz
 I1OTY0MDgsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEwMDc1
 MDcsLTIwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMzE3OTAwODddfQ
 ==
