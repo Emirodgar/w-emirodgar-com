@@ -109,19 +109,18 @@ A continuación se detallan una serie de productos que pueden ser útiles si ten
 - Zumos
 - Pan tostado
   
-Herramientas  
+### Productos para cuarentena
 
+- Papel higiénico
 - Cerillas
 - Velas
 - Pilas
-- Bombonas de gas 
+- Bombona de gas 
 - Manta térmica
-- Pastilla potabilizadoras (@Dr Polux )  
-- Navaja suiza
+- Pastilla potabilizadoras
 - Linterna
 - Carbón
 - Bolsas de basura
-- Cinta americana 
 - Papel albal
 - Mascarillas 
 - Guantes desechables
@@ -140,9 +139,9 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc0MTI0MzYsMzc4NzI1NDA4LC0xNT
-M3NDUzMDQwLDY4MTg5OTc5MywtODQyNzQ4MjM2LDE5NTY0NzUx
-MzUsMTgzMjU5NjQwOCwtNDIwNDU1MjA1LDIwNzUyMDQ1NTcsMT
-M1MTAwNzUwNywtMjA3OTI3NTQyNyw0MzEyOTA2MDIsMjAzMTc5
-MDA4N119
+eyJoaXN0b3J5IjpbLTczODk1MzA3MCwzNzg3MjU0MDgsLTE1Mz
+c0NTMwNDAsNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1NjQ3NTEz
+NSwxODMyNTk2NDA4LC00MjA0NTUyMDUsMjA3NTIwNDU1NywxMz
+UxMDA3NTA3LC0yMDc5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkw
+MDg3XX0=
 -->
