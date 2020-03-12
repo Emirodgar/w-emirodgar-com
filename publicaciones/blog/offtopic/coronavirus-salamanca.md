@@ -18,10 +18,14 @@ permalink: coronavirus-salamanca
 
 Actualmente en Salamanca hay 6 infectados. El primer contagio ocurrió en
 
-|Fecha contagio| Personas afectadas  | Procedencia |
-|--|--|--|
+|Fecha contagio| Lugar de contagio | Lugar de residencia | Persona
+|--|--|--
+| 02/03/2020 | Italia | Salamanca |
+|  |  | |
+|  |  | |
+|  |  | |
 |  |  | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI4MDgyNjZdfQ==
+eyJoaXN0b3J5IjpbLTQzMTkyNzQ5OV19
 -->
