@@ -16,14 +16,14 @@ permalink: coronavirus-salamanca
 
 ## Teléfonos e información
 
-- **Teléfono de información (900 222 000)** (habilitado por la Junta de Castilla y León. Usar con responsabilidad ya que hay muchos afectados y podríamos colapsar las líneas).
+- **Teléfono de información (900 222 000)**: habilitado por la Junta de Castilla y León. Usar con responsabilidad ya que hay muchos afectados y podríamos colapsar las líneas).
 - **Teléfono de emergencias (112)**: usar sólo en casos de extrema necesidad (emergencia real) ya que es necesario dejar estas líneas disponibles para aquellas personas que realmente las necesiten.
 
 ## Redes sociales
 
 - [Emergencias 112 Castilla y León](https://twitter.com/112cyl)
 
-## Infectados
+## Infectados en Salamanca
 
 Actualmente en Salamanca hay **6 infectados**. 
 
@@ -37,8 +37,8 @@ Actualmente en Salamanca hay **6 infectados**.
 ## Focos en cuarentena
 
 - **11/03/2020**: 5 profesores del Colegio Salesiano María Auxiliadora (Calle Padre Cámara, 1, 37004 Salamanca) han sido puestos en cuarentena al haber estado el pasado 28 de febrero en un curso en León con una persona positiva en coronaviru.
-- 
+- **
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk0OTI0MjJdfQ==
+eyJoaXN0b3J5IjpbMTA4OTA3NDMzOF19
 -->
