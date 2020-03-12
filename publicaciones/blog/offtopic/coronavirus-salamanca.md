@@ -41,8 +41,15 @@ Actualmente en Salamanca hay **6 infectados**.
 
 ## Bulos
 
-- 12 de marzo: La Junta de Castilla Y León no
+- 12 de marzo: La Junta de Castilla Y León no ha suspendido las clases en los colegios de la comunidad, se trata de una noticia falsa.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1222067475967172608">
+</amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY0MjA5OTddfQ==
+eyJoaXN0b3J5IjpbLTExMDU2NjI4NzldfQ==
 -->
