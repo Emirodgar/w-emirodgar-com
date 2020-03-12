@@ -16,8 +16,11 @@ permalink: coronavirus-salamanca
 > 12 de marzo 16:30
 >  **7 infectados**: 6 en cuarentena domiciliaria y 1 ingresado. **1 alta** y **0** muertes.
 
-Menú principal
+## Menú principal
+
 - [Teléfonos e información](#telefonos)
+- [Hospitales](#hospitales)
+- [Infectados](#infectados)
 
 ## <a name="telefonos"></a> Teléfonos e información
 
@@ -26,15 +29,17 @@ Menú principal
 - Perfil de Twitter de [Emergencias 112 Castilla y León](https://twitter.com/112cyl)
 
 
-## Hospitales
+## <a name="hospitales"></a> Hospitales
 
 - **Hospital Universitario**: Paseo de San Vicente, 182, 37007 Salamanca
 - **Hospital Virgen de la Vega**: Paseo de San Vicente, 58, 182, 37007 Salamanca
 
 
-## Infectados en Salamanca
+## <a name="infectados"></a> Infectados en Salamanca
 
-Actualmente en Salamanca hay **6 infectados**. 
+### Personas infectadas
+
+Actualmente en Salamanca hay **6 infectados**. . 
 
 |Fecha contagio| Personas afectadas | Lugar de contagio | Lugar de residencia | Información adicional
 |--|--|--|--|--|
@@ -44,7 +49,7 @@ Actualmente en Salamanca hay **6 infectados**.
 | 11/03 | 2| Salamanca | - | - 
 | 12/03 | 1| Salamanca | Candelario | Candelario 
 
-## Altas en Salamanca
+### Personas dadas de alta en Salamanca
 
 La primera infectada en Salamanca, estudiante de la facultad de Educación, ha recibido el alta el día 12 de marzo.  De momento hay **una persona con el alta**.
 
@@ -77,7 +82,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTU2NTMyNSwxODMyNTk2NDA4LC00Mj
-A0NTUyMDUsMjA3NTIwNDU1NywxMzUxMDA3NTA3LC0yMDc5Mjc1
-NDI3LDQzMTI5MDYwMiwyMDMxNzkwMDg3XX0=
+eyJoaXN0b3J5IjpbNzMyNjM2NjgyLDE4MzI1OTY0MDgsLTQyMD
+Q1NTIwNSwyMDc1MjA0NTU3LDEzNTEwMDc1MDcsLTIwNzkyNzU0
+MjcsNDMxMjkwNjAyLDIwMzE3OTAwODddfQ==
 -->
