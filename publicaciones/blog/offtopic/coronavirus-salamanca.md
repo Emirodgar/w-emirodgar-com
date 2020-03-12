@@ -13,7 +13,7 @@ permalink: coronavirus-salamanca
 
 # Coronavirus en Salamanca
 
-> 12 de marzo: **6 infectados** en cuarentena domiciliaria y **1 alta**.
+> 12 de marzo: **7 infectados** en cuarentena domiciliaria y **1 alta**.
 
 ## Teléfonos e información
 
@@ -38,6 +38,7 @@ Actualmente en Salamanca hay **6 infectados**.
 | 05/03 | 2 |Tamames | Madrid | Familiar de Madrid que vino a carnavales
 | 09/03 | 1 |Tamames | Tamames | Médico que atendió a los pacientes
 | 11/03 | 2| Salamanca | - | - 
+| 12/03 | 2| Salamanca | - | - 
 
 ## Altas en Salamanca
 
@@ -71,6 +72,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTIwNDU1NywxMzUxMDA3NTA3LC0yMD
-c5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkwMDg3XX0=
+eyJoaXN0b3J5IjpbMTg2NDg4NzYxMCwyMDc1MjA0NTU3LDEzNT
+EwMDc1MDcsLTIwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMzE3OTAw
+ODddfQ==
 -->
