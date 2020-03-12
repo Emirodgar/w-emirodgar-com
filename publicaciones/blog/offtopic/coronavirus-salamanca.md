@@ -31,6 +31,7 @@ La información está actualizada a 12 de marzo @ 18:50. Gráfico de evolución 
 - [Hospitales](#hospitales)
 - [Infectados](#infectados)
 - [Prohibiciones y recomendaciones](#prohibiciones)
+- [Compras recomendadas](#compras)
 - [Bulos](#bulos)
 
 ## <a name="telefonos"></a> Teléfonos e información
@@ -89,6 +90,10 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 - Canceladas todas las actividades culturales de **El Liceo y el CAEM**: concierto de Los Secretos, Festival Salamanca Town of Rock and Roll, así como las obras de teatro planificadas para las próximas dos semanas.
 - La **Universidad de Salamanca** suspende las clases.
 
+## <a name="compras"></a> Compras
+
+A continuación se detallan una serie de productos que puede
+
 ## <a name="bulos"></a> Bulos
 
 ### Suspensión de clases en colegios
@@ -103,8 +108,9 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4NzI1NDA4LC0xNTM3NDUzMDQwLDY4MT
-g5OTc5MywtODQyNzQ4MjM2LDE5NTY0NzUxMzUsMTgzMjU5NjQw
-OCwtNDIwNDU1MjA1LDIwNzUyMDQ1NTcsMTM1MTAwNzUwNywtMj
-A3OTI3NTQyNyw0MzEyOTA2MDIsMjAzMTc5MDA4N119
+eyJoaXN0b3J5IjpbNTU1NjkyMCwzNzg3MjU0MDgsLTE1Mzc0NT
+MwNDAsNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1NjQ3NTEzNSwx
+ODMyNTk2NDA4LC00MjA0NTUyMDUsMjA3NTIwNDU1NywxMzUxMD
+A3NTA3LC0yMDc5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkwMDg3
+XX0=
 -->
