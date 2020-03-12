@@ -33,6 +33,10 @@ Actualmente en Salamanca hay **6 infectados**.
 | 09/03 | 1 |Tamames | Tamames | Médico que atendió a los pacientes
 | 11/03 | 2| Salamanca | - | - 
 
+## Altas en Salamanca
+
+La primera infectada en Salamanca, estudiante de la facultad de Educación, ha recibido el alta el día 12 de marzo.  De momento hay una persona con el alta.
+
 ## Focos en cuarentena o a evitar
 
 - **11 de marzo**: 5 profesores del Colegio Salesiano María Auxiliadora (Calle Padre Cámara, 1, 37004 Salamanca) han sido puestos en cuarentena domociliaria (están asintomáticos) al haber estado el pasado 28 de febrero en un curso en León con una persona positiva en coronaviru.
@@ -53,5 +57,6 @@ Actualmente en Salamanca hay **6 infectados**.
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxMjkwNjAyLDIwMzE3OTAwODddfQ==
+eyJoaXN0b3J5IjpbMjMxNzAzMTk3LDQzMTI5MDYwMiwyMDMxNz
+kwMDg3XX0=
 -->
