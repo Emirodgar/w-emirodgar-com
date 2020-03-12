@@ -101,7 +101,6 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 
 ### 12 de marzo
 
-- **Burgos en cuarentena social**: cese de la actividad docente en todos los centros educativos desde guarderías a colegios y universidades en Burgos.
 - Cancelado el **Rastro de Salamanca**
 - Canceladas todas las actividades culturales de **El Liceo y el CAEM**: concierto de Los Secretos, Festival Salamanca Town of Rock and Roll, así como las obras de teatro planificadas para las próximas dos semanas.
 - La **Universidad de Salamanca** suspende las clases.
@@ -156,7 +155,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2NDA4MDA1LDExMjA2NjE0OTUsLTczOD
+eyJoaXN0b3J5IjpbNzQxNTE3MjkyLDExMjA2NjE0OTUsLTczOD
 k1MzA3MCwzNzg3MjU0MDgsLTE1Mzc0NTMwNDAsNjgxODk5Nzkz
 LC04NDI3NDgyMzYsMTk1NjQ3NTEzNSwxODMyNTk2NDA4LC00Mj
 A0NTUyMDUsMjA3NTIwNDU1NywxMzUxMDA3NTA3LC0yMDc5Mjc1
