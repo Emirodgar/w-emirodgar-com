@@ -24,8 +24,9 @@ Actualmente en Salamanca hay **6 infectados**.
 | 05/03/2020 | 2 |Tamames | Madrid | Familiar de Madrid que vino a carnavales
 | 07/03/2020 | 1 |Tamames | Tamames | Médico que atendió a los pacientes
 | 09/03/2020 | 2| Salamanca | - | - 
+| 09/03/2020 | 2| Salamanca | - | - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI1NTEzMV19
+eyJoaXN0b3J5IjpbMTYzMDY5NTU1NF19
 -->
