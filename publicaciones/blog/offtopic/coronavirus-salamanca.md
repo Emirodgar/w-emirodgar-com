@@ -13,16 +13,13 @@ permalink: coronavirus-salamanca
 
 # Coronavirus en Salamanca
 
-> 12 de marzo: **6 infectados** y **1 alta**.
+> 12 de marzo: **6 infectados** en cuarentena domiciliaria y **1 alta**.
 
 ## Teléfonos e información
 
 - **Teléfono de información (900 222 000)**: habilitado por la Junta de Castilla y León. Usar con responsabilidad ya que hay muchos afectados y podríamos colapsar las líneas).
 - **Teléfono de emergencias (112)**: usar sólo en casos de extrema necesidad (emergencia real) ya que es necesario dejar estas líneas disponibles para aquellas personas que realmente las necesiten.
-- Perfil de Twitter d[Emergencias 112 Castilla y León](https://twitter.com/112cyl)
-
-## Redes sociales
-
+- Perfil de Twitter de [Emergencias 112 Castilla y León](https://twitter.com/112cyl)
 
 
 ## Hospitales
@@ -74,6 +71,6 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Njk2MzgwLDEzNTEwMDc1MDcsLTIwNz
-kyNzU0MjcsNDMxMjkwNjAyLDIwMzE3OTAwODddfQ==
+eyJoaXN0b3J5IjpbMjA3NTIwNDU1NywxMzUxMDA3NTA3LC0yMD
+c5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkwMDg3XX0=
 -->
