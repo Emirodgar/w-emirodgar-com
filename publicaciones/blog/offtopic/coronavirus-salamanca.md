@@ -4,6 +4,7 @@ description: Información actualizada de la propagación del coronavirus en Sala
 date: 12/03/2020
 author: Emirodgar
 sitemap: 1
+image: https://emirodgar.com/cdn/images/og/emirodgar.png
 feed: 1
 folder: marketing
 lang: es_ES
@@ -101,8 +102,8 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mjc0ODIzNiwxOTU2NDc1MTM1LDE4Mz
-I1OTY0MDgsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEwMDc1
-MDcsLTIwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMzE3OTAwODddfQ
-==
+eyJoaXN0b3J5IjpbNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1Nj
+Q3NTEzNSwxODMyNTk2NDA4LC00MjA0NTUyMDUsMjA3NTIwNDU1
+NywxMzUxMDA3NTA3LC0yMDc5Mjc1NDI3LDQzMTI5MDYwMiwyMD
+MxNzkwMDg3XX0=
 -->
