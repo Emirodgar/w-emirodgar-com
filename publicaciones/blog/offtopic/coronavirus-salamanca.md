@@ -30,7 +30,8 @@ La información está actualizada a 12 de marzo @ 18:50. Gráfico de evolución 
 - [Teléfonos e información](#telefonos)
 - [Hospitales](#hospitales)
 - [Infectados](#infectados)
-- [Prohibiciones y recomendaciones](#prohibiciones)
+- [Síntomas y recomendaciones](#recomendaciones)
+- [Prohibiciones y cancelaciones](#prohibiciones)
 - [Compras recomendadas](#compras)
 - [Bulos](#bulos)
 
@@ -95,6 +96,10 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
  1. Lavarse las manos de forma correcta: [ver ejemplo](https://www.cdc.gov/handwashing/esp/when-how-handwashing.html).
  2. Al toser o estornudar, cúbrase la boca y la nariz con el codo flexionado o con un pañuelo; tire el pañuelo inmediatamente y lávese las manos con un desinfectante de manos a base de alcohol, o con agua y jabón.
  3. Mantenga al menos 1 metro (3 pies) de distancia entre usted y las demás personas, particularmente aquellas que tosan, estornuden y tengan fiebre.
+ 4. Evite tocarse los ojos, la nariz y la boca.
+ 5. Si tiene fiebre, tos y dificultad para respirar, solicite atención médica a tiempo.
+ 6. Si tiene usted síntomas respiratorios leves y ningún antecedente de viaje a/en China, quédese en casa hasta que se recupere.
+ 7. Evite el consumo de productos animales crudos o poco cocinados.
 
 ## <a name="compras"></a> Compras
 
@@ -145,9 +150,9 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzczNTY1MCwtNzM4OTUzMDcwLDM3OD
-cyNTQwOCwtMTUzNzQ1MzA0MCw2ODE4OTk3OTMsLTg0Mjc0ODIz
-NiwxOTU2NDc1MTM1LDE4MzI1OTY0MDgsLTQyMDQ1NTIwNSwyMD
-c1MjA0NTU3LDEzNTEwMDc1MDcsLTIwNzkyNzU0MjcsNDMxMjkw
-NjAyLDIwMzE3OTAwODddfQ==
+eyJoaXN0b3J5IjpbLTIwNDIzMDE5NjIsLTczODk1MzA3MCwzNz
+g3MjU0MDgsLTE1Mzc0NTMwNDAsNjgxODk5NzkzLC04NDI3NDgy
+MzYsMTk1NjQ3NTEzNSwxODMyNTk2NDA4LC00MjA0NTUyMDUsMj
+A3NTIwNDU1NywxMzUxMDA3NTA3LC0yMDc5Mjc1NDI3LDQzMTI5
+MDYwMiwyMDMxNzkwMDg3XX0=
 -->
