@@ -15,7 +15,7 @@ permalink: coronavirus-salamanca
 
 >  **7 infectados**: 6 en cuarentena domiciliaria y 1 ingresado. **1 alta** y **0** muertes.
 
-La información está actualizada a 12 de marzo @ 18:50. Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer registro
+La información está actualizada a 12 de marzo @ 18:50. Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer registro (2 de marzo) hasta hoy.
 
 <amp-img alt="Evolución coronavirus Salamanca"
   src="https://i.imgur.com/vMsngKp.png"
@@ -59,6 +59,8 @@ Actualmente en Salamanca hay **6 infectados** de los cuales 5 están en cuarente
 | 11/03 | 2| Salamanca | - | - 
 | 12/03 | 1| Salamanca | Candelario | Candelario 
 
+Los dos primeros contagios fueron importados, uno de Italia por una estudiante y otro de Madrid por un familiar de vecinos de Ledesma. Del resto, o no se sabe la procedencia o podemos intuir que han sido transmisiones locales dentro de Salamanca.
+
 <amp-img alt="Infectados coronavirus Salamanca"
   src="https://i.imgur.com/FxKJ60W.png"
   width="581"
@@ -99,7 +101,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjkyNTEwNCwxOTU2NDc1MTM1LDE4Mz
+eyJoaXN0b3J5IjpbMTI1NzQyMjM2NiwxOTU2NDc1MTM1LDE4Mz
 I1OTY0MDgsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEwMDc1
 MDcsLTIwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMzE3OTAwODddfQ
 ==
