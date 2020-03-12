@@ -45,11 +45,11 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 
 ## Cronología de eventos
 
-- 12 de marzo:  cese de la actividad docente en todos los centros educativos desde guarderías a colegios y universidades en Burgos.
+- 12 de marzo:  **Burgos en cuarentena social**: cese de la actividad docente en todos los centros educativos desde guarderías a colegios y universidades en Burgos.
 
 ## Bulos
 
-### 12 de marzo - suspensión de clases en colegios
+### 12 de marzo: suspensión de clases en colegios
 
  La Junta de Castilla Y León no ha suspendido las clases en los colegios de la comunidad, se trata de una noticia falsa.
 
@@ -61,6 +61,6 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwMDgyNDg1LC0yMDc5Mjc1NDI3LDQzMT
-I5MDYwMiwyMDMxNzkwMDg3XX0=
+eyJoaXN0b3J5IjpbMTk2MzU2NDc0MCwtMjA3OTI3NTQyNyw0Mz
+EyOTA2MDIsMjAzMTc5MDA4N119
 -->
