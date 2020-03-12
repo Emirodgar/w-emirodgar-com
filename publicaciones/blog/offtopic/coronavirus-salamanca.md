@@ -90,9 +90,8 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 ## <a name="bulos"></a> Bulos
 
 ### Suspensión de clases en colegios
-#### 12 de marzo
 
-La Junta de Castilla Y León no ha suspendido las clases en los colegios de la comunidad, se trata de una noticia falsa.
+El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido las clases en los colegios de la comunidad, se trata de una noticia falsa. Más tarde se confirmó la cancelación sólo en Burgos.
 
 <amp-twitter 
   width="375"
@@ -102,8 +101,8 @@ La Junta de Castilla Y León no ha suspendido las clases en los colegios de la c
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY2NTEwMDYsMTk1NjQ3NTEzNSwxOD
-MyNTk2NDA4LC00MjA0NTUyMDUsMjA3NTIwNDU1NywxMzUxMDA3
-NTA3LC0yMDc5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkwMDg3XX
-0=
+eyJoaXN0b3J5IjpbLTg0Mjc0ODIzNiwxOTU2NDc1MTM1LDE4Mz
+I1OTY0MDgsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEwMDc1
+MDcsLTIwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMzE3OTAwODddfQ
+==
 -->
