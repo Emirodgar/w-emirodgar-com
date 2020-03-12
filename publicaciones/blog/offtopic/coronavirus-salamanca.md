@@ -28,7 +28,7 @@ Actualmente en Salamanca hay **6 infectados**.
 
 |Fecha contagio| Personas afectadas | Lugar de contagio | Lugar de residencia | Información adicional
 |--|--|--|--|--|
-| 02/03 | 1 | Italia | Salamanca | Estudiante
+| 02/03 | 1 | Italia | Salamanca | Estudiante de 
 | 05/03 | 2 |Tamames | Madrid | Familiar de Madrid que vino a carnavales
 | 09/03 | 1 |Tamames | Tamames | Médico que atendió a los pacientes
 | 11/03 | 2| Salamanca | - | - 
@@ -52,5 +52,5 @@ Actualmente en Salamanca hay **6 infectados**.
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTc5MDA4N119
+eyJoaXN0b3J5IjpbLTE3MTM3NjIzOTQsMjAzMTc5MDA4N119
 -->
