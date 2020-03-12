@@ -45,7 +45,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 
 ## Cronología de eventos
 
-- 
+- 12 de marzo:  cese de la actividad docente en todos los centros educativos desde guarderías a colegios y universidades en Burgos.
 
 ## Bulos
 
@@ -61,6 +61,6 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY3OTMwMiwtMjA3OTI3NTQyNyw0Mz
-EyOTA2MDIsMjAzMTc5MDA4N119
+eyJoaXN0b3J5IjpbMzYwMDgyNDg1LC0yMDc5Mjc1NDI3LDQzMT
+I5MDYwMiwyMDMxNzkwMDg3XX0=
 -->
