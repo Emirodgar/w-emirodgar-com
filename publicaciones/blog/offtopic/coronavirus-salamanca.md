@@ -103,24 +103,17 @@ A continuación se detallan una serie de productos que pueden ser útiles si ten
 - Pastillas de caldo
 - Ajos y cebollas  
 - Frutos secos
-- Aceite, Miel, azúcar y sal
-- Aceite (también para trueque) (@el mensa )  
-- Semillas (@el mensa )  
-- Proteína en polvo (@favelados )  
-- Papilla de bebé (@favelados )  
-- Huevos en polvo (@Chinotofeo )  
+- Harina, aceite, miel, azúcar y sal
+- Zumos
+- Pan tostado
   
 Herramientas  
-  
-- Bicicletas (@-bubble- )  
-- Armas y munición (@Vicus )  
-- Cerillas (@Vicus )  
-- Velas (@Vicus )  
-- Pilas (@Vicus )  
-- Llave multiusos ascensor / bocas de riego (@Dr Polux ) Pongo enlace a Amazon para indicar cuál es (Amazon.es: llave ascensor)  
-- Bombonas de gas (@S4ng )  
-- Gasolina (@Lounge Act )  
-- Manta térmica (@Dr Polux )  
+
+- Cerillas
+- Velas
+- Pilas
+- Bombonas de gas 
+- Manta térmica
 - Pastilla potabilizadoras (@Dr Polux )  
 - Navaja suiza (@Dr Polux )  
 - Velitas de café (@Dr Polux )  
@@ -157,7 +150,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzUxNzc0NywzNzg3MjU0MDgsLTE1Mz
+eyJoaXN0b3J5IjpbMTA0NTcxNzkxMCwzNzg3MjU0MDgsLTE1Mz
 c0NTMwNDAsNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1NjQ3NTEz
 NSwxODMyNTk2NDA4LC00MjA0NTUyMDUsMjA3NTIwNDU1NywxMz
 UxMDA3NTA3LC0yMDc5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkw
