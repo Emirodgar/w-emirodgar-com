@@ -53,6 +53,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 ## Prohibiciones y recomendaciones
 
 - 12 de marzo:  **Burgos en cuarentena social**: cese de la actividad docente en todos los centros educativos desde guarderías a colegios y universidades en Burgos.
+- Cancelado el Rastro
 
 ## Bulos
 
@@ -68,6 +69,6 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3ODE4MTIxLDEzNTEwMDc1MDcsLTIwNz
+eyJoaXN0b3J5IjpbODg1NDk2ODc0LDEzNTEwMDc1MDcsLTIwNz
 kyNzU0MjcsNDMxMjkwNjAyLDIwMzE3OTAwODddfQ==
 -->
