@@ -22,6 +22,7 @@ permalink: coronavirus-salamanca
 - [Hospitales](#hospitales)
 - [Infectados](#infectados)
 - [Prohibiciones y recomendaciones](#prohibiciones)
+- [Bulos](#bulos)
 
 ## <a name="telefonos"></a> Teléfonos e información
 
@@ -69,7 +70,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 - Canceladas todas las actividades culturales de **El Liceo y el CAEM**: concierto de Los Secretos, Festival Salamanca Town of Rock and Roll, así como las obras de teatro planificadas para las próximas dos semanas.
 - La **Universidad de Salamanca** suspende las clases.
 
-## <a name="telefonos"></a>Bulos
+## <a name="bulos"></a> Bulos
 
 ### 12 de marzo: suspensión de clases en colegios
 
@@ -83,7 +84,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgzNDUzNTAsMTgzMjU5NjQwOCwtND
-IwNDU1MjA1LDIwNzUyMDQ1NTcsMTM1MTAwNzUwNywtMjA3OTI3
-NTQyNyw0MzEyOTA2MDIsMjAzMTc5MDA4N119
+eyJoaXN0b3J5IjpbMTk1NjQ3NTEzNSwxODMyNTk2NDA4LC00Mj
+A0NTUyMDUsMjA3NTIwNDU1NywxMzUxMDA3NTA3LC0yMDc5Mjc1
+NDI3LDQzMTI5MDYwMiwyMDMxNzkwMDg3XX0=
 -->
