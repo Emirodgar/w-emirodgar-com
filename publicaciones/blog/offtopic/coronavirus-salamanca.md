@@ -57,7 +57,7 @@ Actualmente en Salamanca hay **6 infectados** de los cuales 5 están en cuarente
 | 05/03 | 2 |Tamames | Madrid | Familiar de Madrid que vino a carnavales
 | 09/03 | 1 |Tamames | Tamames | Médico que atendió a los pacientes
 | 11/03 | 2| Salamanca | - | - 
-| 12/03 | 1| Salamanca | Candelario | Candelario 
+| 12/03 | 1| Salamanca | Candelario | -
 
 Los dos primeros contagios fueron importados, uno de Italia por una estudiante y otro de Madrid por un familiar de vecinos de Ledesma. Del resto, o no se sabe la procedencia o podemos intuir que han sido transmisiones locales dentro de Salamanca.
 
@@ -89,7 +89,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 
 ## <a name="bulos"></a> Bulos
 
-### 12 de marzo: suspensión de clases en colegios
+### Suspensión de clases en colegios
 
  La Junta de Castilla Y León no ha suspendido las clases en los colegios de la comunidad, se trata de una noticia falsa.
 
@@ -101,7 +101,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTEwMDc0NSwxOTU2NDc1MTM1LDE4Mz
+eyJoaXN0b3J5IjpbMTUyNTg5OTM1OSwxOTU2NDc1MTM1LDE4Mz
 I1OTY0MDgsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEwMDc1
 MDcsLTIwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMzE3OTAwODddfQ
 ==
