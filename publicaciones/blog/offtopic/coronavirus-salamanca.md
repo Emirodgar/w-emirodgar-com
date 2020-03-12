@@ -44,7 +44,7 @@ permalink: coronavirus-salamanca
 
 ### Personas infectadas
 
-La información está actualizada a 12 de marzo @ 18:50. Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer registro (2 de marzo) hasta hoy.
+Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer registro (2 de marzo) hasta hoy (12 de marzo).
 
 <amp-img alt="Evolución coronavirus Salamanca"
   src="https://i.imgur.com/vMsngKp.png"
@@ -156,9 +156,9 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjEyMzQ3MiwxMTIwNjYxNDk1LC03Mz
-g5NTMwNzAsMzc4NzI1NDA4LC0xNTM3NDUzMDQwLDY4MTg5OTc5
-MywtODQyNzQ4MjM2LDE5NTY0NzUxMzUsMTgzMjU5NjQwOCwtND
-IwNDU1MjA1LDIwNzUyMDQ1NTcsMTM1MTAwNzUwNywtMjA3OTI3
-NTQyNyw0MzEyOTA2MDIsMjAzMTc5MDA4N119
+eyJoaXN0b3J5IjpbMzE5NDA2MjEyLDExMjA2NjE0OTUsLTczOD
+k1MzA3MCwzNzg3MjU0MDgsLTE1Mzc0NTMwNDAsNjgxODk5Nzkz
+LC04NDI3NDgyMzYsMTk1NjQ3NTEzNSwxODMyNTk2NDA4LC00Mj
+A0NTUyMDUsMjA3NTIwNDU1NywxMzUxMDA3NTA3LC0yMDc5Mjc1
+NDI3LDQzMTI5MDYwMiwyMDMxNzkwMDg3XX0=
 -->
