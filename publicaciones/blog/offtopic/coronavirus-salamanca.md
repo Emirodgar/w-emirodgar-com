@@ -43,6 +43,10 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 - **07 de marzo**: En Tamames hay dos hermanos infectados y también el médico del centro de salud que les atendió inicialmente. 
 - **02 de marzo**:
 
+## Cronología de eventos
+
+- 
+
 ## Bulos
 
 ### 12 de marzo - suspensión de clases en colegios
@@ -57,6 +61,6 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMz
-E3OTAwODddfQ==
+eyJoaXN0b3J5IjpbLTE3NTY3OTMwMiwtMjA3OTI3NTQyNyw0Mz
+EyOTA2MDIsMjAzMTc5MDA4N119
 -->
