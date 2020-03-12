@@ -13,6 +13,8 @@ permalink: coronavirus-salamanca
 
 # Coronavirus en Salamanca
 
+> 12 de marzo: 6 infectados y un dado de alta.
+
 ## Teléfonos e información
 
 - **Teléfono de información (900 222 000)**: habilitado por la Junta de Castilla y León. Usar con responsabilidad ya que hay muchos afectados y podríamos colapsar las líneas).
@@ -21,6 +23,12 @@ permalink: coronavirus-salamanca
 ## Redes sociales
 
 - [Emergencias 112 Castilla y León](https://twitter.com/112cyl)
+
+## Hospitales
+
+- **Hospital Universitario**: Paseo de San Vicente, 182, 37007 Salamanca
+- **Hospital Virgen de la Vega**: Paseo de San Vicente, 58, 182, 37007 Salamanca
+
 
 ## Infectados en Salamanca
 
@@ -61,6 +69,6 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzU2NDc0MCwtMjA3OTI3NTQyNyw0Mz
+eyJoaXN0b3J5IjpbMTM1MTAwNzUwNywtMjA3OTI3NTQyNyw0Mz
 EyOTA2MDIsMjAzMTc5MDA4N119
 -->
