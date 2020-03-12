@@ -16,7 +16,10 @@ permalink: coronavirus-salamanca
 > 12 de marzo 16:30
 >  **7 infectados**: 6 en cuarentena domiciliaria y 1 ingresado. **1 alta** y **0** muertes.
 
-## Teléfonos e información
+Menú principal
+- [Teléfonos e información](#telefonos)
+
+## <a name="telefonos"></a> Teléfonos e información
 
 - **Teléfono de información (900 222 000)**: habilitado por la Junta de Castilla y León. Usar con responsabilidad ya que hay muchos afectados y podríamos colapsar las líneas).
 - **Teléfono de emergencias (112)**: usar sólo en casos de extrema necesidad (emergencia real) ya que es necesario dejar estas líneas disponibles para aquellas personas que realmente las necesiten.
@@ -74,7 +77,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjU5NjQwOCwtNDIwNDU1MjA1LDIwNz
-UyMDQ1NTcsMTM1MTAwNzUwNywtMjA3OTI3NTQyNyw0MzEyOTA2
-MDIsMjAzMTc5MDA4N119
+eyJoaXN0b3J5IjpbMjAyNTU2NTMyNSwxODMyNTk2NDA4LC00Mj
+A0NTUyMDUsMjA3NTIwNDU1NywxMzUxMDA3NTA3LC0yMDc5Mjc1
+NDI3LDQzMTI5MDYwMiwyMDMxNzkwMDg3XX0=
 -->
