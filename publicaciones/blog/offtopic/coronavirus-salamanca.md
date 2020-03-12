@@ -25,10 +25,10 @@ Actualmente en Salamanca hay **6 infectados**.
 | 09/03 | 1 |Tamames | Tamames | Médico que atendió a los pacientes
 | 11/03 | 2| Salamanca | - | - 
 
-## Personas en cuarentena
+## Focos en cuarentena
 
-5 profesores del Colegio María Auxiliadora (C
+5 profesores del Colegio Salesiano María Auxiliadora (Calle Padre Cámara, 1, 37004 Salamanca) han sido puestos en cuarentena al haber estado el pasado 28 de febrero en una
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjk1NjUwNF19
+eyJoaXN0b3J5IjpbLTQyOTU0Nzg4NV19
 -->
