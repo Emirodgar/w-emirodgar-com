@@ -92,7 +92,56 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 
 ## <a name="compras"></a> Compras
 
-A continuación se detallan una serie de productos que puede
+A continuación se detallan una serie de productos que pueden ser útiles si tenemos que hacer cuarentena en casa durante un tiempo prolongado:
+
+- Agua envasada  
+- Pasta  
+- Arroz 
+- Legumbres (lentejas, garbanzos y alubias) 
+- Leche en polvo  
+- Harina 
+- Pastillas de caldo
+- Ajos y cebollas  
+- Frutos secos
+- Aceite, Miel, azúcar y sal
+- Aceite (también para trueque) (@el mensa )  
+- Semillas (@el mensa )  
+- Proteína en polvo (@favelados )  
+- Papilla de bebé (@favelados )  
+- Huevos en polvo (@Chinotofeo )  
+  
+Herramientas  
+  
+- Bicicletas (@-bubble- )  
+- Armas y munición (@Vicus )  
+- Cerillas (@Vicus )  
+- Velas (@Vicus )  
+- Pilas (@Vicus )  
+- Llave multiusos ascensor / bocas de riego (@Dr Polux ) Pongo enlace a Amazon para indicar cuál es (Amazon.es: llave ascensor)  
+- Bombonas de gas (@S4ng )  
+- Gasolina (@Lounge Act )  
+- Manta térmica (@Dr Polux )  
+- Pastilla potabilizadoras (@Dr Polux )  
+- Navaja suiza (@Dr Polux )  
+- Velitas de café (@Dr Polux )  
+- Linterna (@Dr Polux )  
+- Carbón/Leña (@FranMen )  
+- Bolsas de basura varios tamaños (@burbujadetrufas )  
+- Cinta americana y/o de embalaje (@burbujadetrufas )  
+- Cuerda (@Perro Viejo )  
+- Zotal / Veneno para ratas / Antiparasitario (@el mensa )  
+- Trampas / Redes / Cepos (conejos y pájaros) (@el mensa )  
+- Hachas -para leña y protección- (@Frysby )  
+- Papel albal (@hhlfhkfdlhdhfhfhhhlfhkhh )  
+- Mascarillas (@Chinotofeo )  
+- Gafas protección (@Chinotofeo )  
+- Guantes y buzos desechables (@Chinotofeo )  
+- Lifestraw -filtro de agua- (@Educo Gratis )  
+- Lupa -hacer fuego- (@clérigo lonchafinista )  
+- Prismáticos -seguridad y caza- (@clérigo lonchafinista )  
+- Hilo de pescar, Anzuelos y Caña para mar/río (@ULTRAPACO )  
+- Chisquero encendedor (@arevacoali )  
+- Cocina de luz solar (@arevacoali )
 
 ## <a name="bulos"></a> Bulos
 
@@ -108,9 +157,9 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NjkyMCwzNzg3MjU0MDgsLTE1Mzc0NT
-MwNDAsNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1NjQ3NTEzNSwx
-ODMyNTk2NDA4LC00MjA0NTUyMDUsMjA3NTIwNDU1NywxMzUxMD
-A3NTA3LC0yMDc5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkwMDg3
-XX0=
+eyJoaXN0b3J5IjpbLTk0MzUxNzc0NywzNzg3MjU0MDgsLTE1Mz
+c0NTMwNDAsNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1NjQ3NTEz
+NSwxODMyNTk2NDA4LC00MjA0NTUyMDUsMjA3NTIwNDU1NywxMz
+UxMDA3NTA3LC0yMDc5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkw
+MDg3XX0=
 -->
