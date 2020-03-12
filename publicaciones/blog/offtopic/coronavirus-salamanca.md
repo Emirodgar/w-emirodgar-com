@@ -35,7 +35,7 @@ Actualmente en Salamanca hay **6 infectados**.
 
 ## Altas en Salamanca
 
-La primera infectada en Salamanca, estudiante de la facultad de Educación, ha recibido el alta el día 12 de marzo.  De momento hay una persona con el alta.
+La primera infectada en Salamanca, estudiante de la facultad de Educación, ha recibido el alta el día 12 de marzo.  De momento hay **una persona con el alta**.
 
 ## Focos en cuarentena o a evitar
 
@@ -57,6 +57,6 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNzAzMTk3LDQzMTI5MDYwMiwyMDMxNz
-kwMDg3XX0=
+eyJoaXN0b3J5IjpbLTIwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMz
+E3OTAwODddfQ==
 -->
