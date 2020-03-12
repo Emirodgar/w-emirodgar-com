@@ -20,13 +20,15 @@ Actualmente en Salamanca hay **6 infectados**.
 
 |Fecha contagio| Personas afectadas | Lugar de contagio | Lugar de residencia | Información adicional
 |--|--|--|--|--|
-| 02/03/2020 | 1 | Italia | Salamanca | Estudiante
-| 05/03/2020 | 2 |Tamames | Madrid | Familiar de Madrid que vino a carnavales
-| 07/03/2020 | 1 |Tamames | Tamames | Médico que atendió a los pacientes
-| 09/03/2020 | 2| Salamanca | - | - 
-| 09/03/2020 | 2| Salamanca | - | - 
+| 02/03 | 1 | Italia | Salamanca | Estudiante
+| 05/03 | 2 |Tamames | Madrid | Familiar de Madrid que vino a carnavales
+| 09/03 | 1 |Tamames | Tamames | Médico que atendió a los pacientes
+| 11/03 | 2| Salamanca | - | - 
 
+## Personas en cuarentena
+
+5 profesores del Colegio María Auxiliadora (C
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDY5NTU1NF19
+eyJoaXN0b3J5IjpbLTE4Mjk1NjUwNF19
 -->
