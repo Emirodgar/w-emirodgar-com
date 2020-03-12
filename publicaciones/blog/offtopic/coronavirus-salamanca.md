@@ -16,15 +16,6 @@ permalink: coronavirus-salamanca
 
 >  **7 infectados**,  **1** alta y **0** muertes.
 
-La información está actualizada a 12 de marzo @ 18:50. Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer registro (2 de marzo) hasta hoy.
-
-<amp-img alt="Evolución coronavirus Salamanca"
-  src="https://i.imgur.com/vMsngKp.png"
-  width="580"
-  height="349"
-  layout="responsive">
-</amp-img>
-
 ## Menú principal
 
 - [Teléfonos e información](#telefonos)
@@ -82,15 +73,20 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 - **11 de marzo**: 5 profesores del Colegio Salesiano María Auxiliadora (Calle Padre Cámara, 1, 37004 Salamanca) han sido puestos en cuarentena domociliaria (están asintomáticos) al haber estado el pasado 28 de febrero en un curso en León con una persona positiva en coronaviru.
 - **07 de marzo**: En Tamames hay dos hermanos infectados y también el médico del centro de salud que les atendió inicialmente. 
 
-## <a name="recomendaciones"></a> Recomendaciones
+## <a name="recomendaciones"></a> Síntomas y recomendaciones
+
+### Recomendaciones de prevención
 
  1. Lavarse las manos de forma correcta: [ver ejemplo](https://www.cdc.gov/handwashing/esp/when-how-handwashing.html).
  2. Al toser o estornudar, cúbrase la boca y la nariz con el codo flexionado o con un pañuelo; tire el pañuelo inmediatamente y lávese las manos con un desinfectante de manos a base de alcohol, o con agua y jabón.
  3. Mantenga al menos 1 metro (3 pies) de distancia entre usted y las demás personas, particularmente aquellas que tosan, estornuden y tengan fiebre.
  4. Evite tocarse los ojos, la nariz y la boca.
- 5. Si tiene fiebre, tos y dificultad para respirar, solicite atención médica a tiempo.
- 6. Si tiene usted síntomas respiratorios leves y ningún antecedente de viaje a/en China, quédese en casa hasta que se recupere.
- 7. Evite el consumo de productos animales crudos o poco cocinados.
+ 5. Evite el consumo de productos animales crudos o poco cocinados.
+
+### Síntomas y qué hacer
+
+ 1. Si tiene fiebre, tos y dificultad para respirar, solicite atención médica a tiempo.
+ 2. Si tiene usted síntomas respiratorios leves y ningún antecedente de viaje a/en China, quédese en casa hasta que se recupere.
 
 ## <a name="prohibiciones"></a> Prohibiciones y cancelaciones
 
@@ -151,9 +147,9 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDY2MTQ5NSwtNzM4OTUzMDcwLDM3OD
-cyNTQwOCwtMTUzNzQ1MzA0MCw2ODE4OTk3OTMsLTg0Mjc0ODIz
-NiwxOTU2NDc1MTM1LDE4MzI1OTY0MDgsLTQyMDQ1NTIwNSwyMD
-c1MjA0NTU3LDEzNTEwMDc1MDcsLTIwNzkyNzU0MjcsNDMxMjkw
-NjAyLDIwMzE3OTAwODddfQ==
+eyJoaXN0b3J5IjpbMTA5ODAwOTY1MCwxMTIwNjYxNDk1LC03Mz
+g5NTMwNzAsMzc4NzI1NDA4LC0xNTM3NDUzMDQwLDY4MTg5OTc5
+MywtODQyNzQ4MjM2LDE5NTY0NzUxMzUsMTgzMjU5NjQwOCwtND
+IwNDU1MjA1LDIwNzUyMDQ1NTcsMTM1MTAwNzUwNywtMjA3OTI3
+NTQyNyw0MzEyOTA2MDIsMjAzMTc5MDA4N119
 -->
