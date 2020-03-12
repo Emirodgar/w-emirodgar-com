@@ -6,6 +6,9 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
+lang: es_ES
+author: Emirodgar
+tags: offtopic, crossfit
 date: 10/09/2019
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
 permalink: pasar-de-int-a-string-y-de-string-a-int-en-java
@@ -14,13 +17,13 @@ permalink: pasar-de-int-a-string-y-de-string-a-int-en-java
 
 # Pasar de INT a String y de String a INT en Java
 
-Me llegan muchas visitas buscando el cómo poder cambiar entre varios tipos de datos en Java así que voy a explicar cómo podemos convertir datos enteros a cadena (`Int` a `String`) y cadena a enteros (`String` a `Int`)  
+Me llegan muchas visitas buscando el cómo poder cambiar entre varios tipos de datos en Jjava así que voy a, y ya creo que va siendo hora de que les haga un poquito de caso y explicarque cóomo podemoses posible convertir datos enteros a cadena (`Iint` a `String`) y cadena a enteros (`String` a `Iint`)  
   
-Por lo general lo que más suelo hacer es pasar cadenas a enteros, es decir, de un tipo `String` a un tipo `Int`, nótese que "String" es un **objeto** e "Int" es un **tipo básico** luego el proceso de conversión de uno a otro será diferente.  
+Por lo general lo que más suelo hacer es pasar cadenas a enteros, es decir, de un tipo `String` a un tipo `Iint`, nótese que "String" es un **objeto** e "Iint" es un **tipo básico** luego el proceso de conversión de uno a otro será diferente.  
   
 ## Pasar un STRING a un INT (de cadena a entero)  
   
-Para hacer la siguiente operación necesitaremos hacer uso de la clase `Integer` y de su método `parseInt` de la siguiente manera:
+Para hacer la siguiente operación necesitaremos hacer uso de la clase `Integer` y de su método `"parseInt`" de la siguiente manera:
 
 ```java
     String numCadena = "1";      
@@ -34,7 +37,7 @@ Si los espacios vienen al principio o al final, con un simple `trim` bastará pa
     numCadena.trim();
 ```
 Si tenemos espacio entre los números  (" 1 3 45 6") deberíamos usar el método `replaceAll`.
-
+ (" 1 3 45 6")
 ```java
     numCadena.replaceAll(" ", "");
 ```
@@ -78,7 +81,7 @@ Si lo que estás buscando es algo más profesional, también encontrarás gratui
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel="sponsored"}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTk0MDk0NCwyNTA1NjA3MjAsMTA3NT
-UwMDA0MiwxNTk4OTg4Mjk2LDQ2MjQ4NTgzOCw2NDg0OTA0MDUs
-MTE4ODk3NTQyNywxNzA1NzM4NjE5XX0=
+eyJoaXN0b3J5IjpbMTA4MTY2NDYyMSwyMDg1OTQwOTQ0LDI1MD
+U2MDcyMCwxMDc1NTAwMDQyLDE1OTg5ODgyOTYsNDYyNDg1ODM4
+LDY0ODQ5MDQwNSwxMTg4OTc1NDI3LDE3MDU3Mzg2MTldfQ==
 -->
