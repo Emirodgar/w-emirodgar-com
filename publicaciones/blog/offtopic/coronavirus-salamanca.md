@@ -14,6 +14,10 @@ permalink: coronavirus-salamanca
 
 # Coronavirus en Salamanca
 
+## Teléfonos e información
+
+
+
 ## Infectados
 
 Actualmente en Salamanca hay **6 infectados**. 
@@ -27,8 +31,9 @@ Actualmente en Salamanca hay **6 infectados**.
 
 ## Focos en cuarentena
 
-5 profesores del Colegio Salesiano María Auxiliadora (Calle Padre Cámara, 1, 37004 Salamanca) han sido puestos en cuarentena al haber estado el pasado 28 de febrero en una
+- **11/03/2020**: 5 profesores del Colegio Salesiano María Auxiliadora (Calle Padre Cámara, 1, 37004 Salamanca) han sido puestos en cuarentena al haber estado el pasado 28 de febrero en un curso en León con una persona positiva en coronaviru.
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTU0Nzg4NV19
+eyJoaXN0b3J5IjpbLTIxMjgzNzg4MjVdfQ==
 -->
