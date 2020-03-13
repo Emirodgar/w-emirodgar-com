@@ -80,12 +80,13 @@ Los dos primeros contagios fueron importados, uno de Italia por una estudiante y
 
 La primera infectada en Salamanca, estudiante de la facultad de Educación, ha recibido el alta el día 12 de marzo.  De momento sólo hay **una persona con el alta**.
 
-### Muerte en Salamanca
+### Muertes en Salamanca
 
 El primer fallecido es un anciano de 81 años con otras patologías anteriores y que llevaba ingresado casi una semana en el Hospital Clínico.
 
 ### Focos en cuarentena a evitar
 
+- **13 de marzo**: El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, ha solicitado al Estado la declaración del Estado de Alarma en la Comunidad. Se recomienda la no apertura de establecimientos a , limitar los movimientos y evitar acudir a cualquier espacio abierto o cerrrado. 
 - **12 de marzo**: Dos profesores del colegio Salesiano San José de Salamanca, ubicado en la carretera de Ledesma, han dado positivo y un profesor del colegio San Juan Bosco Salesianas de Salamanca, ubicado en el paseo de Canalejas, también.
 - **12 de marzo**: tercer infectado en Candelario. Se trataría de una médica (segunda infectada en el pueblo)
 - **12 de marzo**: un infectado en Candelario.
@@ -170,11 +171,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzMTE4NTU0LC0xMjE2MjY4MjMzLDc0Nz
-g1OTIzLC0xOTg2MzM5NDk0LC05Mjc2MzU5NzksNzc4MzAzODc4
-LC0xNjM1MTQ3MTA3LC0yMDA3OTU1NDE2LDYwOTI5MzU5NywtMz
-EzOTEyNzUzLDIwNTg1NzI2NzAsLTE5MjEzOTEwNTQsNzQxNTE3
-MjkyLDExMjA2NjE0OTUsLTczODk1MzA3MCwzNzg3MjU0MDgsLT
-E1Mzc0NTMwNDAsNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1NjQ3
-NTEzNV19
+eyJoaXN0b3J5IjpbMTIyNTUwNTg0MywyNDMxMTg1NTQsLTEyMT
+YyNjgyMzMsNzQ3ODU5MjMsLTE5ODYzMzk0OTQsLTkyNzYzNTk3
+OSw3NzgzMDM4NzgsLTE2MzUxNDcxMDcsLTIwMDc5NTU0MTYsNj
+A5MjkzNTk3LC0zMTM5MTI3NTMsMjA1ODU3MjY3MCwtMTkyMTM5
+MTA1NCw3NDE1MTcyOTIsMTEyMDY2MTQ5NSwtNzM4OTUzMDcwLD
+M3ODcyNTQwOCwtMTUzNzQ1MzA0MCw2ODE4OTk3OTMsLTg0Mjc0
+ODIzNl19
 -->
