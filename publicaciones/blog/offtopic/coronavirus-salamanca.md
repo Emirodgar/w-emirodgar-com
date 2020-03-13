@@ -2,6 +2,7 @@
 title: Coronavirus en Salamanca - Teléfonos e información actualizada
 description: Información actualizada de la propagación del coronavirus en Salamanca provincia
 date: 12/03/2020
+date_modified: 13/03/2020
 author: Emirodgar
 sitemap: 1
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
@@ -14,7 +15,7 @@ permalink: coronavirus-salamanca
 
 # Coronavirus en Salamanca
 
->  **9 infectados**,  **1** alta y **1** muerte.
+>  **12 infectados**, **10** activos, **1** alta y **1** muerte.
 
 ## Menú principal
 
@@ -172,7 +173,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTEzNDY3MiwtMTE0MDk4MDczNCwyND
+eyJoaXN0b3J5IjpbLTcxODUwNTU0MywtMTE0MDk4MDczNCwyND
 MxMTg1NTQsLTEyMTYyNjgyMzMsNzQ3ODU5MjMsLTE5ODYzMzk0
 OTQsLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2MzUxNDcxMDcsLT
 IwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMjA1ODU3
