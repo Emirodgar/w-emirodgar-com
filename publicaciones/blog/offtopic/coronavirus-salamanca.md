@@ -26,8 +26,6 @@ permalink: coronavirus-salamanca
 - [Compras recomendadas](#compras)
 - [Bulos](#bulos)
 
-> El riesgo individual es muy bajo, pero el impacto poblacional es alto (y todo el mundo puede ayudar a reducirlo). Sigue las [recomendaciones propuestas](#recomendaciones) y evita, en la medida de lo posible, exponerte de forma innecesaria.
-
 ## <a name="telefonos"></a> Teléfonos e información
 
 - **Teléfono de información (900 222 000)**: habilitado por la Junta de Castilla y León. Usar con responsabilidad ya que hay muchos afectados y podríamos colapsar las líneas.
@@ -43,6 +41,8 @@ permalink: coronavirus-salamanca
 
 
 ## <a name="infectados"></a> Infectados en Salamanca
+
+El riesgo individual es muy bajo, pero el impacto poblacional es alto (y todo el mundo puede ayudar a reducirlo). Sigue las [recomendaciones propuestas](#recomendaciones) y evita, en la medida de lo posible, exponerte de forma innecesaria.
 
 ### Personas infectadas
 
@@ -169,7 +169,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU4MjM5MjcsNzQ3ODU5MjMsLTE5OD
+eyJoaXN0b3J5IjpbLTEyMTYyNjgyMzMsNzQ3ODU5MjMsLTE5OD
 YzMzk0OTQsLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2MzUxNDcx
 MDcsLTIwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMj
 A1ODU3MjY3MCwtMTkyMTM5MTA1NCw3NDE1MTcyOTIsMTEyMDY2
