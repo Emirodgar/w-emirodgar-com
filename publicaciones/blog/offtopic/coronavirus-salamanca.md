@@ -102,6 +102,10 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 
 ## <a name="prohibiciones"></a> Prohibiciones y cancelaciones
 
+### 13 de marzo
+
+- Visitas a la **cárcel de Topas** canceladas.
+
 ### 12 de marzo
 
 - Cancelado el **Rastro de Salamanca**
@@ -158,10 +162,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MjkzNTk3LC0zMTM5MTI3NTMsMjA1OD
-U3MjY3MCwtMTkyMTM5MTA1NCw3NDE1MTcyOTIsMTEyMDY2MTQ5
-NSwtNzM4OTUzMDcwLDM3ODcyNTQwOCwtMTUzNzQ1MzA0MCw2OD
-E4OTk3OTMsLTg0Mjc0ODIzNiwxOTU2NDc1MTM1LDE4MzI1OTY0
-MDgsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEwMDc1MDcsLT
-IwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMzE3OTAwODddfQ==
+eyJoaXN0b3J5IjpbMzQ0MDU4MjE5LDYwOTI5MzU5NywtMzEzOT
+EyNzUzLDIwNTg1NzI2NzAsLTE5MjEzOTEwNTQsNzQxNTE3Mjky
+LDExMjA2NjE0OTUsLTczODk1MzA3MCwzNzg3MjU0MDgsLTE1Mz
+c0NTMwNDAsNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1NjQ3NTEz
+NSwxODMyNTk2NDA4LC00MjA0NTUyMDUsMjA3NTIwNDU1NywxMz
+UxMDA3NTA3LC0yMDc5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkw
+MDg3XX0=
 -->
