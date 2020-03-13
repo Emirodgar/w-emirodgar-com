@@ -1,5 +1,5 @@
 ---
-title: Coronavirus en Salamanca
+title: Coronavirus en Salamanca -
 description: Información actualizada de la propagación del coronavirus en Salamanca provincia
 date: 12/03/2020
 author: Emirodgar
@@ -167,11 +167,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2Mz
-UxNDcxMDcsLTIwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3
-NTMsMjA1ODU3MjY3MCwtMTkyMTM5MTA1NCw3NDE1MTcyOTIsMT
-EyMDY2MTQ5NSwtNzM4OTUzMDcwLDM3ODcyNTQwOCwtMTUzNzQ1
-MzA0MCw2ODE4OTk3OTMsLTg0Mjc0ODIzNiwxOTU2NDc1MTM1LD
-E4MzI1OTY0MDgsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEw
-MDc1MDddfQ==
+eyJoaXN0b3J5IjpbLTE0MTMyMDEwMjIsLTkyNzYzNTk3OSw3Nz
+gzMDM4NzgsLTE2MzUxNDcxMDcsLTIwMDc5NTU0MTYsNjA5Mjkz
+NTk3LC0zMTM5MTI3NTMsMjA1ODU3MjY3MCwtMTkyMTM5MTA1NC
+w3NDE1MTcyOTIsMTEyMDY2MTQ5NSwtNzM4OTUzMDcwLDM3ODcy
+NTQwOCwtMTUzNzQ1MzA0MCw2ODE4OTk3OTMsLTg0Mjc0ODIzNi
+wxOTU2NDc1MTM1LDE4MzI1OTY0MDgsLTQyMDQ1NTIwNSwyMDc1
+MjA0NTU3XX0=
 -->
