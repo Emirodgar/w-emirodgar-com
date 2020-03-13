@@ -59,7 +59,7 @@ Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer r
   layout="responsive">
 </amp-img>
 
-Gráfico que muestra infecciones totales, casos activos, muertes y recuperaciones en la provincia de Salamanca. 
+Gráfico que muestra la evolución de lasinfecciones totales, casos activos, muertes y recuperaciones en la provincia de Salamanca. 
 
 <amp-img alt="Evolución coronavirus Salamanca"
   src="https://i.imgur.com/LvZ9may.png"
@@ -184,11 +184,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTQzMTg5MSwtMTQ2MjQzODk4Nyw1NT
-g5MjUyMzAsLTYxNTI1MTAwOSwtMTE0MDk4MDczNCwyNDMxMTg1
-NTQsLTEyMTYyNjgyMzMsNzQ3ODU5MjMsLTE5ODYzMzk0OTQsLT
-kyNzYzNTk3OSw3NzgzMDM4NzgsLTE2MzUxNDcxMDcsLTIwMDc5
-NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMjA1ODU3MjY3MC
-wtMTkyMTM5MTA1NCw3NDE1MTcyOTIsMTEyMDY2MTQ5NSwtNzM4
-OTUzMDcwXX0=
+eyJoaXN0b3J5IjpbLTU5NTAxMjQ4OSwtMjg1NDMxODkxLC0xND
+YyNDM4OTg3LDU1ODkyNTIzMCwtNjE1MjUxMDA5LC0xMTQwOTgw
+NzM0LDI0MzExODU1NCwtMTIxNjI2ODIzMyw3NDc4NTkyMywtMT
+k4NjMzOTQ5NCwtOTI3NjM1OTc5LDc3ODMwMzg3OCwtMTYzNTE0
+NzEwNywtMjAwNzk1NTQxNiw2MDkyOTM1OTcsLTMxMzkxMjc1My
+wyMDU4NTcyNjcwLC0xOTIxMzkxMDU0LDc0MTUxNzI5MiwxMTIw
+NjYxNDk1XX0=
 -->
