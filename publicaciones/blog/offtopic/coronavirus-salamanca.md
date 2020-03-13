@@ -67,7 +67,7 @@ Actualmente en Salamanca hay **10 infectados** de los cuales varios están en cu
 Los dos primeros contagios fueron importados, uno de Italia por una estudiante y otro de Madrid por un familiar de vecinos de Ledesma. Del resto, o no se sabe la procedencia o podemos intuir que han sido transmisiones locales dentro de Salamanca.
 
 <amp-img alt="Infectados coronavirus Salamanca"
-  src="https://i.imgur.com/0Oc8xha.png"
+  src="https://i.imgur.com/6EC0ouY.png"
   width="581"
   height="351"
   layout="responsive">
@@ -167,11 +167,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE5NzA5MzIsLTE2MzUxNDcxMDcsLT
-IwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMjA1ODU3
-MjY3MCwtMTkyMTM5MTA1NCw3NDE1MTcyOTIsMTEyMDY2MTQ5NS
-wtNzM4OTUzMDcwLDM3ODcyNTQwOCwtMTUzNzQ1MzA0MCw2ODE4
-OTk3OTMsLTg0Mjc0ODIzNiwxOTU2NDc1MTM1LDE4MzI1OTY0MD
-gsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEwMDc1MDcsLTIw
-NzkyNzU0MjddfQ==
+eyJoaXN0b3J5IjpbNzc4MzAzODc4LC0xNjM1MTQ3MTA3LC0yMD
+A3OTU1NDE2LDYwOTI5MzU5NywtMzEzOTEyNzUzLDIwNTg1NzI2
+NzAsLTE5MjEzOTEwNTQsNzQxNTE3MjkyLDExMjA2NjE0OTUsLT
+czODk1MzA3MCwzNzg3MjU0MDgsLTE1Mzc0NTMwNDAsNjgxODk5
+NzkzLC04NDI3NDgyMzYsMTk1NjQ3NTEzNSwxODMyNTk2NDA4LC
+00MjA0NTUyMDUsMjA3NTIwNDU1NywxMzUxMDA3NTA3LC0yMDc5
+Mjc1NDI3XX0=
 -->
