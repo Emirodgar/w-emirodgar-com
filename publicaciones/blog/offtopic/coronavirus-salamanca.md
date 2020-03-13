@@ -47,7 +47,7 @@ permalink: coronavirus-salamanca
 Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer registro (2 de marzo) hasta el 12 de marzo.
 
 <amp-img alt="Evolución coronavirus Salamanca"
-  src="https://i.imgur.com/X9KMMT9.png"
+  src="https://i.imgur.com/LvZ9may.png"
   width="580"
   height="349"
   layout="responsive">
@@ -67,7 +67,7 @@ Actualmente en Salamanca hay **10 infectados** de los cuales varios están en cu
 Los dos primeros contagios fueron importados, uno de Italia por una estudiante y otro de Madrid por un familiar de vecinos de Ledesma. Del resto, o no se sabe la procedencia o podemos intuir que han sido transmisiones locales dentro de Salamanca.
 
 <amp-img alt="Infectados coronavirus Salamanca"
-  src="https://i.imgur.com/6EC0ouY.png"
+  src="https://i.imgur.com/eASs4Lm.png"
   width="581"
   height="351"
   layout="responsive">
@@ -167,11 +167,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MzAzODc4LC0xNjM1MTQ3MTA3LC0yMD
-A3OTU1NDE2LDYwOTI5MzU5NywtMzEzOTEyNzUzLDIwNTg1NzI2
-NzAsLTE5MjEzOTEwNTQsNzQxNTE3MjkyLDExMjA2NjE0OTUsLT
-czODk1MzA3MCwzNzg3MjU0MDgsLTE1Mzc0NTMwNDAsNjgxODk5
-NzkzLC04NDI3NDgyMzYsMTk1NjQ3NTEzNSwxODMyNTk2NDA4LC
-00MjA0NTUyMDUsMjA3NTIwNDU1NywxMzUxMDA3NTA3LC0yMDc5
-Mjc1NDI3XX0=
+eyJoaXN0b3J5IjpbLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2Mz
+UxNDcxMDcsLTIwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3
+NTMsMjA1ODU3MjY3MCwtMTkyMTM5MTA1NCw3NDE1MTcyOTIsMT
+EyMDY2MTQ5NSwtNzM4OTUzMDcwLDM3ODcyNTQwOCwtMTUzNzQ1
+MzA0MCw2ODE4OTk3OTMsLTg0Mjc0ODIzNiwxOTU2NDc1MTM1LD
+E4MzI1OTY0MDgsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEw
+MDc1MDddfQ==
 -->
