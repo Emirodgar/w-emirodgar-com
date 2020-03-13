@@ -57,7 +57,7 @@ Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer r
   layout="responsive">
 </amp-img>
 
-Actualmente en Salamanca hay **10 infectados** de los cuales varios están en cuarentena en su casa y otros ingresados en el clínico. Una persona ya ha sido dada de alta y otra ha fallecido.
+Actualmente en Salamanca hay **más de 10 infectados** de los cuales varios están en cuarentena en su casa y otros ingresados en el clínico. Una persona ya ha sido dada de alta y otra ha fallecido.
 
 |Fecha contagio| Personas infectadas| Lugar de contagio 
 |--|--|--|--|--|
@@ -66,7 +66,7 @@ Actualmente en Salamanca hay **10 infectados** de los cuales varios están en cu
 | 09/03 | 1 |Tamames 
 | 11/03 | 2| Salamanca 
 | 12/03 | 2| Candelario y Tamames
-| 12/03 | 3| Salamanca 
+| 13/03 | 4| Salamanca 
 
 Los dos primeros contagios fueron importados, uno de Italia por una estudiante y otro de Madrid por un familiar de vecinos de Ledesma. Del resto, o no se sabe la procedencia o podemos intuir que han sido transmisiones locales dentro de Salamanca.
 
@@ -173,7 +173,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODUwNTU0MywtMTE0MDk4MDczNCwyND
+eyJoaXN0b3J5IjpbLTYxNTI1MTAwOSwtMTE0MDk4MDczNCwyND
 MxMTg1NTQsLTEyMTYyNjgyMzMsNzQ3ODU5MjMsLTE5ODYzMzk0
 OTQsLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2MzUxNDcxMDcsLT
 IwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMjA1ODU3
