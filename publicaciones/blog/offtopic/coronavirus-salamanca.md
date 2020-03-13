@@ -114,6 +114,7 @@ El primer fallecido es un anciano de 81 años con otras patologías anteriores y
 
 ### 13 de marzo
 
+- El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, ha solicitado al Estado la **declaración del Estado de Alarma en la Comunidad**. Se recomienda la no apertura de establecimientos a excepción de supermercados, farmacias y tiendas de alimentación, limitar los movimientos y evitar acudir a cualquier espacio abierto o cerrrado. 
 - Visitas a la **cárcel de Topas** canceladas.
 - La **UPSA** (Universidad Pontificia) suspende las clases.
 
@@ -173,7 +174,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNzg4NDU3LC02MTUyNTEwMDksLTExND
+eyJoaXN0b3J5IjpbNTU4OTI1MjMwLC02MTUyNTEwMDksLTExND
 A5ODA3MzQsMjQzMTE4NTU0LC0xMjE2MjY4MjMzLDc0Nzg1OTIz
 LC0xOTg2MzM5NDk0LC05Mjc2MzU5NzksNzc4MzAzODc4LC0xNj
 M1MTQ3MTA3LC0yMDA3OTU1NDE2LDYwOTI5MzU5NywtMzEzOTEy
