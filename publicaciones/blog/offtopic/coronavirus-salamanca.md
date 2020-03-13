@@ -26,6 +26,8 @@ permalink: coronavirus-salamanca
 - [Compras recomendadas](#compras)
 - [Bulos](#bulos)
 
+> El riesgo individual es muy bajo, pero el impacto poblacional es alto (y todo el mundo puede ayudar a reducirlo). Sigue las [recomendaciones propuestas](#recomendaciones) y evita, en la medida de lo posible, exponerte de forma innecesaria.
+
 ## <a name="telefonos"></a> Teléfonos e información
 
 - **Teléfono de información (900 222 000)**: habilitado por la Junta de Castilla y León. Usar con responsabilidad ya que hay muchos afectados y podríamos colapsar las líneas.
@@ -167,11 +169,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3ODU5MjMsLTE5ODYzMzk0OTQsLTkyNz
-YzNTk3OSw3NzgzMDM4NzgsLTE2MzUxNDcxMDcsLTIwMDc5NTU0
-MTYsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMjA1ODU3MjY3MCwtMT
-kyMTM5MTA1NCw3NDE1MTcyOTIsMTEyMDY2MTQ5NSwtNzM4OTUz
-MDcwLDM3ODcyNTQwOCwtMTUzNzQ1MzA0MCw2ODE4OTk3OTMsLT
-g0Mjc0ODIzNiwxOTU2NDc1MTM1LDE4MzI1OTY0MDgsLTQyMDQ1
-NTIwNV19
+eyJoaXN0b3J5IjpbLTExOTU4MjM5MjcsNzQ3ODU5MjMsLTE5OD
+YzMzk0OTQsLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2MzUxNDcx
+MDcsLTIwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMj
+A1ODU3MjY3MCwtMTkyMTM5MTA1NCw3NDE1MTcyOTIsMTEyMDY2
+MTQ5NSwtNzM4OTUzMDcwLDM3ODcyNTQwOCwtMTUzNzQ1MzA0MC
+w2ODE4OTk3OTMsLTg0Mjc0ODIzNiwxOTU2NDc1MTM1LDE4MzI1
+OTY0MDhdfQ==
 -->
