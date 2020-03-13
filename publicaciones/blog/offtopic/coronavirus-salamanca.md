@@ -1,5 +1,5 @@
 ---
-title: Coronavirus en Salamanca -
+title: Coronavirus en Salamanca - Teléfonos e información actualizada
 description: Información actualizada de la propagación del coronavirus en Salamanca provincia
 date: 12/03/2020
 author: Emirodgar
@@ -167,7 +167,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMyMDEwMjIsLTkyNzYzNTk3OSw3Nz
+eyJoaXN0b3J5IjpbLTE5ODYzMzk0OTQsLTkyNzYzNTk3OSw3Nz
 gzMDM4NzgsLTE2MzUxNDcxMDcsLTIwMDc5NTU0MTYsNjA5Mjkz
 NTk3LC0zMTM5MTI3NTMsMjA1ODU3MjY3MCwtMTkyMTM5MTA1NC
 w3NDE1MTcyOTIsMTEyMDY2MTQ5NSwtNzM4OTUzMDcwLDM3ODcy
