@@ -53,15 +53,16 @@ Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer r
   layout="responsive">
 </amp-img>
 
-Actualmente en Salamanca hay **8 infectados** de los cuales varios están en cuarentena en su casa y otros ingresados en el clínico. Una persona ya ha sido dada de alta y otra ha fallecido.
+Actualmente en Salamanca hay **9 infectados** de los cuales varios están en cuarentena en su casa y otros ingresados en el clínico. Una persona ya ha sido dada de alta y otra ha fallecido.
 
-|Fecha contagio| Personas afectadas | Lugar de contagio | Lugar de residencia | Información adicional
+|Fecha contagio| Personas infectadas| Lugar de contagio 
 |--|--|--|--|--|
-| 02/03 | 1 | Italia | Salamanca | Estudiante de Educación
-| 05/03 | 2 |Tamames | Madrid | Familiar de Madrid que vino a carnavales
-| 09/03 | 1 |Tamames | Tamames | Médico que atendió a los pacientes
-| 11/03 | 2| Salamanca | - | - 
-| 12/03 | 1| Salamanca | Candelario | -
+| 02/03 | 1 | Italia 
+| 05/03 | 2 |Tamames 
+| 09/03 | 1 |Tamames 
+| 11/03 | 2| Salamanca 
+| 12/03 | 2| Candelario y Tamames
+| 12/03 | 3| Salamanca 
 
 Los dos primeros contagios fueron importados, uno de Italia por una estudiante y otro de Madrid por un familiar de vecinos de Ledesma. Del resto, o no se sabe la procedencia o podemos intuir que han sido transmisiones locales dentro de Salamanca.
 
@@ -155,10 +156,10 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjEzOTEwNTQsNzQxNTE3MjkyLDExMj
-A2NjE0OTUsLTczODk1MzA3MCwzNzg3MjU0MDgsLTE1Mzc0NTMw
-NDAsNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1NjQ3NTEzNSwxOD
-MyNTk2NDA4LC00MjA0NTUyMDUsMjA3NTIwNDU1NywxMzUxMDA3
-NTA3LC0yMDc5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkwMDg3XX
-0=
+eyJoaXN0b3J5IjpbMjA1ODU3MjY3MCwtMTkyMTM5MTA1NCw3ND
+E1MTcyOTIsMTEyMDY2MTQ5NSwtNzM4OTUzMDcwLDM3ODcyNTQw
+OCwtMTUzNzQ1MzA0MCw2ODE4OTk3OTMsLTg0Mjc0ODIzNiwxOT
+U2NDc1MTM1LDE4MzI1OTY0MDgsLTQyMDQ1NTIwNSwyMDc1MjA0
+NTU3LDEzNTEwMDc1MDcsLTIwNzkyNzU0MjcsNDMxMjkwNjAyLD
+IwMzE3OTAwODddfQ==
 -->
