@@ -32,6 +32,7 @@ permalink: coronavirus-salamanca
 - **Teléfono de emergencias (112)**: usar sólo en casos de extrema necesidad (emergencia real) ya que es necesario dejar estas líneas disponibles para aquellas personas que realmente las necesiten.
 - [Perfil de Twitter de  Emergencias 112 Castilla y León](https://twitter.com/112cyl)
 - [Streaming en directo](https://www.youtube.com/watch?v=qgylp3Td1Bw&feature=emb_logo)  con datos globales de la pandemia y [todos los datos por país](https://www.worldometers.info/coronavirus/).
+- [Autotest de Coronavirus de la Comunidad Valenciana](http://coronavirusautotest.san.gva.es/autotest_es.html).
 
 
 ## <a name="hospitales"></a> Hospitales
@@ -169,11 +170,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTYyNjgyMzMsNzQ3ODU5MjMsLTE5OD
-YzMzk0OTQsLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2MzUxNDcx
-MDcsLTIwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMj
-A1ODU3MjY3MCwtMTkyMTM5MTA1NCw3NDE1MTcyOTIsMTEyMDY2
-MTQ5NSwtNzM4OTUzMDcwLDM3ODcyNTQwOCwtMTUzNzQ1MzA0MC
-w2ODE4OTk3OTMsLTg0Mjc0ODIzNiwxOTU2NDc1MTM1LDE4MzI1
-OTY0MDhdfQ==
+eyJoaXN0b3J5IjpbMjQzMTE4NTU0LC0xMjE2MjY4MjMzLDc0Nz
+g1OTIzLC0xOTg2MzM5NDk0LC05Mjc2MzU5NzksNzc4MzAzODc4
+LC0xNjM1MTQ3MTA3LC0yMDA3OTU1NDE2LDYwOTI5MzU5NywtMz
+EzOTEyNzUzLDIwNTg1NzI2NzAsLTE5MjEzOTEwNTQsNzQxNTE3
+MjkyLDExMjA2NjE0OTUsLTczODk1MzA3MCwzNzg3MjU0MDgsLT
+E1Mzc0NTMwNDAsNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1NjQ3
+NTEzNV19
 -->
