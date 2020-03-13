@@ -105,6 +105,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 ### 13 de marzo
 
 - Visitas a la **cárcel de Topas** canceladas.
+- La UPSA suspende las clases.
 
 ### 12 de marzo
 
@@ -162,11 +163,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MDU4MjE5LDYwOTI5MzU5NywtMzEzOT
-EyNzUzLDIwNTg1NzI2NzAsLTE5MjEzOTEwNTQsNzQxNTE3Mjky
-LDExMjA2NjE0OTUsLTczODk1MzA3MCwzNzg3MjU0MDgsLTE1Mz
-c0NTMwNDAsNjgxODk5NzkzLC04NDI3NDgyMzYsMTk1NjQ3NTEz
-NSwxODMyNTk2NDA4LC00MjA0NTUyMDUsMjA3NTIwNDU1NywxMz
-UxMDA3NTA3LC0yMDc5Mjc1NDI3LDQzMTI5MDYwMiwyMDMxNzkw
-MDg3XX0=
+eyJoaXN0b3J5IjpbLTIwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMT
+M5MTI3NTMsMjA1ODU3MjY3MCwtMTkyMTM5MTA1NCw3NDE1MTcy
+OTIsMTEyMDY2MTQ5NSwtNzM4OTUzMDcwLDM3ODcyNTQwOCwtMT
+UzNzQ1MzA0MCw2ODE4OTk3OTMsLTg0Mjc0ODIzNiwxOTU2NDc1
+MTM1LDE4MzI1OTY0MDgsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LD
+EzNTEwMDc1MDcsLTIwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMzE3
+OTAwODddfQ==
 -->
