@@ -47,7 +47,7 @@ permalink: coronavirus-salamanca
 Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer registro (2 de marzo) hasta el 12 de marzo.
 
 <amp-img alt="Evolución coronavirus Salamanca"
-  src="https://i.imgur.com/vMsngKp.png"
+  src="https://i.imgur.com/X9KMMT9.png"
   width="580"
   height="349"
   layout="responsive">
@@ -75,7 +75,11 @@ Los dos primeros contagios fueron importados, uno de Italia por una estudiante y
 
 ### Personas dadas de alta en Salamanca
 
-La primera infectada en Salamanca, estudiante de la facultad de Educación, ha recibido el alta el día 12 de marzo.  De momento hay **una persona con el alta**.
+La primera infectada en Salamanca, estudiante de la facultad de Educación, ha recibido el alta el día 12 de marzo.  De momento sólo hay **una persona con el alta**.
+
+### Muerte en Salamanca
+
+El primer fallecido es un anciano de 81 años con otras patologías anteriores y que llevaba ingresado casi una semana en el Hospital Clínico.
 
 ### Focos en cuarentena a evitar
 
@@ -163,11 +167,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUxNDcxMDcsLTIwMDc5NTU0MTYsNj
-A5MjkzNTk3LC0zMTM5MTI3NTMsMjA1ODU3MjY3MCwtMTkyMTM5
-MTA1NCw3NDE1MTcyOTIsMTEyMDY2MTQ5NSwtNzM4OTUzMDcwLD
-M3ODcyNTQwOCwtMTUzNzQ1MzA0MCw2ODE4OTk3OTMsLTg0Mjc0
-ODIzNiwxOTU2NDc1MTM1LDE4MzI1OTY0MDgsLTQyMDQ1NTIwNS
-wyMDc1MjA0NTU3LDEzNTEwMDc1MDcsLTIwNzkyNzU0MjcsNDMx
-MjkwNjAyXX0=
+eyJoaXN0b3J5IjpbLTExNTE5NzA5MzIsLTE2MzUxNDcxMDcsLT
+IwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMjA1ODU3
+MjY3MCwtMTkyMTM5MTA1NCw3NDE1MTcyOTIsMTEyMDY2MTQ5NS
+wtNzM4OTUzMDcwLDM3ODcyNTQwOCwtMTUzNzQ1MzA0MCw2ODE4
+OTk3OTMsLTg0Mjc0ODIzNiwxOTU2NDc1MTM1LDE4MzI1OTY0MD
+gsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEwMDc1MDcsLTIw
+NzkyNzU0MjddfQ==
 -->
