@@ -79,7 +79,8 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 
 ### Focos en cuarentena a evitar
 
-- **12 de marzo**: Dos profesores del colegio.
+- **12 de marzo**: Dos profesores del colegio Salesiano San José de Salamanca, ubicado en la carretera de Ledesma, han dado positivo y un profesor del colegio San Juan Bosco Salesianas de Salamanca, ubicado en el paseo de Canalejas, también.
+- **12 de marzo**: tercer infectado en Candelario. Se trataría de una médica (segunda infectada en el pueblo)
 - **12 de marzo**: un infectado en Candelario.
 - **11 de marzo**: 5 profesores del Colegio Salesiano María Auxiliadora (Calle Padre Cámara, 1, 37004 Salamanca) han sido puestos en cuarentena domociliaria (están asintomáticos) al haber estado el pasado 28 de febrero en un curso en León con una persona positiva en coronaviru.
 - **07 de marzo**: En Tamames hay dos hermanos infectados y también el médico del centro de salud que les atendió inicialmente. 
@@ -157,7 +158,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDcyMjQ1NywyMDU4NTcyNjcwLC0xOT
+eyJoaXN0b3J5IjpbLTMxMzkxMjc1MywyMDU4NTcyNjcwLC0xOT
 IxMzkxMDU0LDc0MTUxNzI5MiwxMTIwNjYxNDk1LC03Mzg5NTMw
 NzAsMzc4NzI1NDA4LC0xNTM3NDUzMDQwLDY4MTg5OTc5MywtOD
 QyNzQ4MjM2LDE5NTY0NzUxMzUsMTgzMjU5NjQwOCwtNDIwNDU1
