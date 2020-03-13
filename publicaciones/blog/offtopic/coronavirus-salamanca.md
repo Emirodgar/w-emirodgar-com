@@ -16,6 +16,7 @@ permalink: coronavirus-salamanca
 # Coronavirus en Salamanca
 
 >  **12 infectados**, **10** activos, **1** alta y **1** muerte.
+>  Solicitado el **estado de alarma**: cierre de negocios y limitación de movimientos en Castilla y León.
 
 ## Menú principal
 
@@ -87,7 +88,6 @@ El primer fallecido es un anciano de 81 años con otras patologías anteriores y
 
 ### Focos de cuarentena en Salamanca a evitar
 
-- **13 de marzo**: El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, ha solicitado al Estado la declaración del Estado de Alarma en la Comunidad. Se recomienda la no apertura de establecimientos a excepción de supermercados, farmacias y tiendas de alimentación, limitar los movimientos y evitar acudir a cualquier espacio abierto o cerrrado. 
 - **13 de marzo**: Un profesor del Colegio Salesiano María Auxiliadora ha dado positivo (de los tres que el 11 de marzo fueron puestos en cuarentena).
 - **12 de marzo**: Dos profesores del colegio Salesiano San José de Salamanca, ubicado en la carretera de Ledesma, han dado positivo y un profesor del colegio San Juan Bosco Salesianas de Salamanca, ubicado en el paseo de Canalejas, también.
 - **12 de marzo**: tercer infectado en Candelario. Se trataría de una médica (segunda infectada en el pueblo)
@@ -173,11 +173,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTI1MTAwOSwtMTE0MDk4MDczNCwyND
-MxMTg1NTQsLTEyMTYyNjgyMzMsNzQ3ODU5MjMsLTE5ODYzMzk0
-OTQsLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2MzUxNDcxMDcsLT
-IwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMjA1ODU3
-MjY3MCwtMTkyMTM5MTA1NCw3NDE1MTcyOTIsMTEyMDY2MTQ5NS
-wtNzM4OTUzMDcwLDM3ODcyNTQwOCwtMTUzNzQ1MzA0MCw2ODE4
-OTk3OTNdfQ==
+eyJoaXN0b3J5IjpbNTYxNzg4NDU3LC02MTUyNTEwMDksLTExND
+A5ODA3MzQsMjQzMTE4NTU0LC0xMjE2MjY4MjMzLDc0Nzg1OTIz
+LC0xOTg2MzM5NDk0LC05Mjc2MzU5NzksNzc4MzAzODc4LC0xNj
+M1MTQ3MTA3LC0yMDA3OTU1NDE2LDYwOTI5MzU5NywtMzEzOTEy
+NzUzLDIwNTg1NzI2NzAsLTE5MjEzOTEwNTQsNzQxNTE3MjkyLD
+ExMjA2NjE0OTUsLTczODk1MzA3MCwzNzg3MjU0MDgsLTE1Mzc0
+NTMwNDBdfQ==
 -->
