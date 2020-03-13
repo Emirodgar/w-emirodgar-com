@@ -87,7 +87,7 @@ El primer fallecido es un anciano de 81 años con otras patologías anteriores y
 ### Focos de cuarentena en Salamanca a evitar
 
 - **13 de marzo**: El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, ha solicitado al Estado la declaración del Estado de Alarma en la Comunidad. Se recomienda la no apertura de establecimientos a excepción de supermercados, farmacias y tiendas de alimentación, limitar los movimientos y evitar acudir a cualquier espacio abierto o cerrrado. 
-- **13 de marzo**: Un profesor del Colegio Salesiano María Auxiliadora ha dado positivo (de los que el 11.
+- **13 de marzo**: Un profesor del Colegio Salesiano María Auxiliadora ha dado positivo (de los tres que el 11 de marzo fueron puestos en cuarentena).
 - **12 de marzo**: Dos profesores del colegio Salesiano San José de Salamanca, ubicado en la carretera de Ledesma, han dado positivo y un profesor del colegio San Juan Bosco Salesianas de Salamanca, ubicado en el paseo de Canalejas, también.
 - **12 de marzo**: tercer infectado en Candelario. Se trataría de una médica (segunda infectada en el pueblo)
 - **12 de marzo**: un infectado en Candelario.
@@ -172,7 +172,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjMzNTEzMCwtMTE0MDk4MDczNCwyND
+eyJoaXN0b3J5IjpbLTMzNTEzNDY3MiwtMTE0MDk4MDczNCwyND
 MxMTg1NTQsLTEyMTYyNjgyMzMsNzQ3ODU5MjMsLTE5ODYzMzk0
 OTQsLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2MzUxNDcxMDcsLT
 IwMDc5NTU0MTYsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMjA1ODU3
