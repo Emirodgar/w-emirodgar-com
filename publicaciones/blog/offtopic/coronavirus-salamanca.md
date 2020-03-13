@@ -53,7 +53,7 @@ Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer r
   layout="responsive">
 </amp-img>
 
-Actualmente en Salamanca hay **9 infectados** de los cuales varios están en cuarentena en su casa y otros ingresados en el clínico. Una persona ya ha sido dada de alta y otra ha fallecido.
+Actualmente en Salamanca hay **10 infectados** de los cuales varios están en cuarentena en su casa y otros ingresados en el clínico. Una persona ya ha sido dada de alta y otra ha fallecido.
 
 |Fecha contagio| Personas infectadas| Lugar de contagio 
 |--|--|--|--|--|
@@ -158,10 +158,10 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzkxMjc1MywyMDU4NTcyNjcwLC0xOT
-IxMzkxMDU0LDc0MTUxNzI5MiwxMTIwNjYxNDk1LC03Mzg5NTMw
-NzAsMzc4NzI1NDA4LC0xNTM3NDUzMDQwLDY4MTg5OTc5MywtOD
-QyNzQ4MjM2LDE5NTY0NzUxMzUsMTgzMjU5NjQwOCwtNDIwNDU1
-MjA1LDIwNzUyMDQ1NTcsMTM1MTAwNzUwNywtMjA3OTI3NTQyNy
-w0MzEyOTA2MDIsMjAzMTc5MDA4N119
+eyJoaXN0b3J5IjpbNjA5MjkzNTk3LC0zMTM5MTI3NTMsMjA1OD
+U3MjY3MCwtMTkyMTM5MTA1NCw3NDE1MTcyOTIsMTEyMDY2MTQ5
+NSwtNzM4OTUzMDcwLDM3ODcyNTQwOCwtMTUzNzQ1MzA0MCw2OD
+E4OTk3OTMsLTg0Mjc0ODIzNiwxOTU2NDc1MTM1LDE4MzI1OTY0
+MDgsLTQyMDQ1NTIwNSwyMDc1MjA0NTU3LDEzNTEwMDc1MDcsLT
+IwNzkyNzU0MjcsNDMxMjkwNjAyLDIwMzE3OTAwODddfQ==
 -->
