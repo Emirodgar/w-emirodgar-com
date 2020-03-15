@@ -53,7 +53,7 @@ El riesgo individual es muy bajo, pero el impacto poblacional es alto (y todo el
 Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer registro (2 de marzo) hasta el 13 de marzo.
 
 <amp-img alt="Evolución coronavirus Salamanca"
-  src="https://i.imgur.com/P0sWHb0.png"
+  src="https://i.imgur.com/6otyZtl.png"
   width="580"
   height="349"
   layout="responsive">
@@ -62,7 +62,7 @@ Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer r
 Gráfico que muestra la evolución de las infecciones totales, casos de coronavirus activos, muertes y recuperaciones en la provincia de Salamanca. 
 
 <amp-img alt="Evolución coronavirus Salamanca"
-  src="https://i.imgur.com/6otyZtl.png"
+  src="https://i.imgur.com/P0sWHb0.png"
   width="580"
   height="349"
   layout="responsive">
@@ -185,7 +185,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjMyNzcyNCwtMjAyNDQ0NDcxNiw0Nj
+eyJoaXN0b3J5IjpbMTIzMjMyODQ5MiwtMjAyNDQ0NDcxNiw0Nj
 M0OTE1MzgsLTEzMzU5MzIyOTUsLTIxODM5OTY1NywtMjg1NDMx
 ODkxLC0xNDYyNDM4OTg3LDU1ODkyNTIzMCwtNjE1MjUxMDA5LC
 0xMTQwOTgwNzM0LDI0MzExODU1NCwtMTIxNjI2ODIzMyw3NDc4
