@@ -15,7 +15,7 @@ permalink: coronavirus-salamanca
 
 # Coronavirus en Salamanca
 
->  **13 días desde la primera infección**: **14** infectados, **11** activos, **1** alta y **2** muertes.
+>  **13 días desde la primera infección**: **33** infectados, **28** activos, **1** alta y **2** muertes.
 > 
 >  Solicitado el **estado de alarma**: cierre de negocios y limitación de movimientos en Castilla y León.
 
@@ -187,7 +187,7 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjc3MzUzOSwxMjMyMzI4NDkyLC0yMD
+eyJoaXN0b3J5IjpbMTMzMDE1OTIxMiwxMjMyMzI4NDkyLC0yMD
 I0NDQ0NzE2LDQ2MzQ5MTUzOCwtMTMzNTkzMjI5NSwtMjE4Mzk5
 NjU3LC0yODU0MzE4OTEsLTE0NjI0Mzg5ODcsNTU4OTI1MjMwLC
 02MTUyNTEwMDksLTExNDA5ODA3MzQsMjQzMTE4NTU0LC0xMjE2
