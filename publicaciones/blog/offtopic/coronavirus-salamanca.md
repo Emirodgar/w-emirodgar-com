@@ -15,7 +15,7 @@ permalink: coronavirus-salamanca
 
 # Coronavirus en Salamanca
 
->  **11 días desde la primera infección**: **12** infectados, **10** activos, **1** alta y **1** muerte.
+>  **13 días desde la primera infección**: **14** infectados, **11** activos, **1** alta y **2** muertes.
 > 
 >  Solicitado el **estado de alarma**: cierre de negocios y limitación de movimientos en Castilla y León.
 
@@ -78,6 +78,7 @@ Actualmente en Salamanca hay **más de 10 infectados** de los cuales varios est�
 | 11/03 | 2| Salamanca 
 | 12/03 | 2| Candelario y Tamames
 | 13/03 | 4| Salamanca 
+| 14/03 | 4| Salamanca y Tamames
 
 Los dos primeros contagios fueron importados, uno de Italia por una estudiante y otro de Madrid por un familiar de vecinos de Ledesma. Del resto, o no se sabe la procedencia o podemos intuir que han sido transmisiones locales dentro de Salamanca.
 
@@ -94,7 +95,7 @@ La primera infectada en Salamanca, estudiante de la facultad de Educación, ha r
 
 ### Muertes en Salamanca
 
-El primer fallecido es un anciano de 81 años con otras patologías anteriores y que llevaba ingresado casi una semana en el Hospital Clínico.
+El primer fallecido es un anciano de 81 años con otras patologías anteriores y que llevaba ingresado casi una semana en el Hospital Clínico. El segundo, también un anciano, el primer infectado de Candelario.
 
 ### Focos de cuarentena en Salamanca a evitar
 
@@ -184,11 +185,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODM5OTY1NywtMjg1NDMxODkxLC0xND
-YyNDM4OTg3LDU1ODkyNTIzMCwtNjE1MjUxMDA5LC0xMTQwOTgw
-NzM0LDI0MzExODU1NCwtMTIxNjI2ODIzMyw3NDc4NTkyMywtMT
-k4NjMzOTQ5NCwtOTI3NjM1OTc5LDc3ODMwMzg3OCwtMTYzNTE0
-NzEwNywtMjAwNzk1NTQxNiw2MDkyOTM1OTcsLTMxMzkxMjc1My
-wyMDU4NTcyNjcwLC0xOTIxMzkxMDU0LDc0MTUxNzI5MiwxMTIw
-NjYxNDk1XX0=
+eyJoaXN0b3J5IjpbLTEzMzU5MzIyOTUsLTIxODM5OTY1NywtMj
+g1NDMxODkxLC0xNDYyNDM4OTg3LDU1ODkyNTIzMCwtNjE1MjUx
+MDA5LC0xMTQwOTgwNzM0LDI0MzExODU1NCwtMTIxNjI2ODIzMy
+w3NDc4NTkyMywtMTk4NjMzOTQ5NCwtOTI3NjM1OTc5LDc3ODMw
+Mzg3OCwtMTYzNTE0NzEwNywtMjAwNzk1NTQxNiw2MDkyOTM1OT
+csLTMxMzkxMjc1MywyMDU4NTcyNjcwLC0xOTIxMzkxMDU0LDc0
+MTUxNzI5Ml19
 -->
