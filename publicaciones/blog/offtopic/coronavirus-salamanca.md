@@ -93,11 +93,13 @@ Los dos primeros contagios fueron importados, uno de Italia por una estudiante y
 
 ### Personas dadas de alta en Salamanca
 
-La primera infectada en Salamanca, estudiante de la facultad de Educación, ha recibido el alta el día 12 de marzo.  De momento sólo hay **una persona con el alta**.
+La primera infectada en Salamanca, estudiante de la facultad de Educación, ha recibido el alta el día 12 de marzo.  A día 15 hay **dos personas con el alta**.
 
 ### Muertes en Salamanca
 
 El primer fallecido es un anciano de 81 años con otras patologías anteriores y que llevaba ingresado casi una semana en el Hospital Clínico. El segundo, también un anciano, el primer infectado de Candelario.
+
+A día de hoy hay 3 muertes en Salamanca por Coronavirus.
 
 ### Focos de cuarentena en Salamanca a evitar
 
@@ -187,11 +189,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNzE5NDM2LDEyMzIzMjg0OTIsLTIwMj
-Q0NDQ3MTYsNDYzNDkxNTM4LC0xMzM1OTMyMjk1LC0yMTgzOTk2
-NTcsLTI4NTQzMTg5MSwtMTQ2MjQzODk4Nyw1NTg5MjUyMzAsLT
-YxNTI1MTAwOSwtMTE0MDk4MDczNCwyNDMxMTg1NTQsLTEyMTYy
-NjgyMzMsNzQ3ODU5MjMsLTE5ODYzMzk0OTQsLTkyNzYzNTk3OS
-w3NzgzMDM4NzgsLTE2MzUxNDcxMDcsLTIwMDc5NTU0MTYsNjA5
-MjkzNTk3XX0=
+eyJoaXN0b3J5IjpbLTE4MTM1MTQ0NzcsNjQyNzE5NDM2LDEyMz
+IzMjg0OTIsLTIwMjQ0NDQ3MTYsNDYzNDkxNTM4LC0xMzM1OTMy
+Mjk1LC0yMTgzOTk2NTcsLTI4NTQzMTg5MSwtMTQ2MjQzODk4Ny
+w1NTg5MjUyMzAsLTYxNTI1MTAwOSwtMTE0MDk4MDczNCwyNDMx
+MTg1NTQsLTEyMTYyNjgyMzMsNzQ3ODU5MjMsLTE5ODYzMzk0OT
+QsLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2MzUxNDcxMDcsLTIw
+MDc5NTU0MTZdfQ==
 -->
