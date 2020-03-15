@@ -53,7 +53,7 @@ El riesgo individual es muy bajo, pero el impacto poblacional es alto (y todo el
 Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer registro (2 de marzo) hasta el 13 de marzo.
 
 <amp-img alt="Evolución coronavirus Salamanca"
-  src="https://i.imgur.com/IfDpgrm.png"
+  src="https://i.imgur.com/P0sWHb0.png"
   width="580"
   height="349"
   layout="responsive">
@@ -185,11 +185,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU5MzIyOTUsLTIxODM5OTY1NywtMj
-g1NDMxODkxLC0xNDYyNDM4OTg3LDU1ODkyNTIzMCwtNjE1MjUx
-MDA5LC0xMTQwOTgwNzM0LDI0MzExODU1NCwtMTIxNjI2ODIzMy
-w3NDc4NTkyMywtMTk4NjMzOTQ5NCwtOTI3NjM1OTc5LDc3ODMw
-Mzg3OCwtMTYzNTE0NzEwNywtMjAwNzk1NTQxNiw2MDkyOTM1OT
-csLTMxMzkxMjc1MywyMDU4NTcyNjcwLC0xOTIxMzkxMDU0LDc0
-MTUxNzI5Ml19
+eyJoaXN0b3J5IjpbNDYzNDkxNTM4LC0xMzM1OTMyMjk1LC0yMT
+gzOTk2NTcsLTI4NTQzMTg5MSwtMTQ2MjQzODk4Nyw1NTg5MjUy
+MzAsLTYxNTI1MTAwOSwtMTE0MDk4MDczNCwyNDMxMTg1NTQsLT
+EyMTYyNjgyMzMsNzQ3ODU5MjMsLTE5ODYzMzk0OTQsLTkyNzYz
+NTk3OSw3NzgzMDM4NzgsLTE2MzUxNDcxMDcsLTIwMDc5NTU0MT
+YsNjA5MjkzNTk3LC0zMTM5MTI3NTMsMjA1ODU3MjY3MCwtMTky
+MTM5MTA1NF19
 -->
