@@ -15,7 +15,7 @@ permalink: coronavirus-salamanca
 
 # Coronavirus en Salamanca
 
->  **13 días desde la primera infección**: **33** infectados, **28** activos, **1** alta y **2** muertes.
+>  **13 días desde la primera infección**: **33** infectados, **28** activos, **2** altas y **3** muertes.
 > 
 >  Solicitado el **estado de alarma**: cierre de negocios y limitación de movimientos en Castilla y León.
 
@@ -53,7 +53,7 @@ El riesgo individual es muy bajo, pero el impacto poblacional es alto (y todo el
 Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer registro (2 de marzo) hasta el 13 de marzo.
 
 <amp-img alt="Evolución coronavirus Salamanca"
-  src="https://i.imgur.com/6otyZtl.png"
+  src="https://i.imgur.com/gEpucnD.png"
   width="580"
   height="349"
   layout="responsive">
@@ -62,7 +62,7 @@ Gráfico de evolución de infectados por COVID-19 en Salamanca desde el primer r
 Gráfico que muestra la evolución de las infecciones totales, casos de coronavirus activos, muertes y recuperaciones en la provincia de Salamanca. 
 
 <amp-img alt="Evolución coronavirus Salamanca"
-  src="https://i.imgur.com/P0sWHb0.png"
+  src="https://i.imgur.com/L9jbXG9.png"
   width="580"
   height="349"
   layout="responsive">
@@ -187,11 +187,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDE1OTIxMiwxMjMyMzI4NDkyLC0yMD
-I0NDQ0NzE2LDQ2MzQ5MTUzOCwtMTMzNTkzMjI5NSwtMjE4Mzk5
-NjU3LC0yODU0MzE4OTEsLTE0NjI0Mzg5ODcsNTU4OTI1MjMwLC
-02MTUyNTEwMDksLTExNDA5ODA3MzQsMjQzMTE4NTU0LC0xMjE2
-MjY4MjMzLDc0Nzg1OTIzLC0xOTg2MzM5NDk0LC05Mjc2MzU5Nz
-ksNzc4MzAzODc4LC0xNjM1MTQ3MTA3LC0yMDA3OTU1NDE2LDYw
-OTI5MzU5N119
+eyJoaXN0b3J5IjpbNjQyNzE5NDM2LDEyMzIzMjg0OTIsLTIwMj
+Q0NDQ3MTYsNDYzNDkxNTM4LC0xMzM1OTMyMjk1LC0yMTgzOTk2
+NTcsLTI4NTQzMTg5MSwtMTQ2MjQzODk4Nyw1NTg5MjUyMzAsLT
+YxNTI1MTAwOSwtMTE0MDk4MDczNCwyNDMxMTg1NTQsLTEyMTYy
+NjgyMzMsNzQ3ODU5MjMsLTE5ODYzMzk0OTQsLTkyNzYzNTk3OS
+w3NzgzMDM4NzgsLTE2MzUxNDcxMDcsLTIwMDc5NTU0MTYsNjA5
+MjkzNTk3XX0=
 -->
