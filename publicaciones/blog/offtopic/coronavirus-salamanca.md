@@ -80,7 +80,7 @@ Tabla de registro de infectados por COVID-19 en Salamanca. La ubicación sólo s
 | 19/03 | 24| -
 
 
-Los dos primeros contagios fueron importados, uno de Italia por una estudiante y otro de Madrid por un familiar de vecinos de Ledesma. Del resto, o no se sabe la procedencia o podemos intuir que han sido transmisiones locales dentro de Salamanca.
+Los dos primeros contagios fueron importados, uno de Italia por una estudiante y otro de Madrid por un familiar de vecinos de Ledesma. Del resto, o no se sabe la procedencia o podemos intuir que han sido transmisiones locales dentro de Salamanca. Así evolucionaron los primeros contagios en Salamanca.
 
 <amp-img alt="Infectados coronavirus Salamanca"
   src="https://i.imgur.com/dUNyjXQ.png"
@@ -89,15 +89,7 @@ Los dos primeros contagios fueron importados, uno de Italia por una estudiante y
   layout="responsive">
 </amp-img>
 
-### Personas dadas de alta en Salamanca
 
-La primera infectada en Salamanca, estudiante de la facultad de Educación, ha recibido el alta el día 12 de marzo.  A día 15 hay **dos personas con el alta**.
-
-### Muertes en Salamanca
-
-El primer fallecido es un anciano de 81 años con otras patologías anteriores y que llevaba ingresado casi una semana en el Hospital Clínico. El segundo, también un anciano, el primer infectado de Candelario.
-
-A día de hoy hay 3 muertes en Salamanca por Coronavirus.
 
 ### Focos de cuarentena en Salamanca a evitar
 
@@ -187,11 +179,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjY0MjQ1NSwtMTgxMzUxNDQ3Nyw2ND
-I3MTk0MzYsMTIzMjMyODQ5MiwtMjAyNDQ0NDcxNiw0NjM0OTE1
-MzgsLTEzMzU5MzIyOTUsLTIxODM5OTY1NywtMjg1NDMxODkxLC
-0xNDYyNDM4OTg3LDU1ODkyNTIzMCwtNjE1MjUxMDA5LC0xMTQw
-OTgwNzM0LDI0MzExODU1NCwtMTIxNjI2ODIzMyw3NDc4NTkyMy
-wtMTk4NjMzOTQ5NCwtOTI3NjM1OTc5LDc3ODMwMzg3OCwtMTYz
-NTE0NzEwN119
+eyJoaXN0b3J5IjpbLTExNjQ5NDgwNjgsLTE4MTM1MTQ0NzcsNj
+QyNzE5NDM2LDEyMzIzMjg0OTIsLTIwMjQ0NDQ3MTYsNDYzNDkx
+NTM4LC0xMzM1OTMyMjk1LC0yMTgzOTk2NTcsLTI4NTQzMTg5MS
+wtMTQ2MjQzODk4Nyw1NTg5MjUyMzAsLTYxNTI1MTAwOSwtMTE0
+MDk4MDczNCwyNDMxMTg1NTQsLTEyMTYyNjgyMzMsNzQ3ODU5Mj
+MsLTE5ODYzMzk0OTQsLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2
+MzUxNDcxMDddfQ==
 -->
