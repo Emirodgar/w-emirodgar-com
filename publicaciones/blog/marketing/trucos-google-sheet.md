@@ -6,7 +6,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: marketingtags: SEO, Google, excel
-date: 214/014/202019
+date: 26/03/2020
 image: https://emirodgar.com/cdn/images/og/herramientas.png
 permalink: trucos-hojas-calculo-google
 
@@ -171,6 +171,6 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mzc1OTM1MywtOTI4MzczNTI4LDE2ND
-kwMDUzMjJdfQ==
+eyJoaXN0b3J5IjpbNzI0NzA5Mjc2LC05MjgzNzM1MjgsMTY0OT
+AwNTMyMl19
 -->
