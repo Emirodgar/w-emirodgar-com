@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
-folder: seotags: seo, google
+folder: seo, google
 date: 09/05/2019
 date_modified: 09/05/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -97,5 +97,5 @@ Aunque existen alternativas que nos ayudarán a [analizar el SEO](factores-seo) 
 -site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
 - site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwNzY5NjkyLDY2MjgzNDExMV19
+eyJoaXN0b3J5IjpbLTU5MDU4MzI0Niw2NjI4MzQxMTFdfQ==
 -->
