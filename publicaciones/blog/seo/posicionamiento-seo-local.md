@@ -5,7 +5,8 @@ image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 lang: es_ES
 sitemap: 1
 feed: 1
-folder: seotags: SEO
+folder: seo
+tags: SEO
 permalink: posicionamiento-seo-local
 
 ---
@@ -58,5 +59,5 @@ Es posible que tu competencia también haya hecho este tipo de análisis por lo 
 
 Recomiendo prestar especial atención a los horarios, ¿es posible que estemos cerrando justo cuando nuestro público objetivo sale del trabajo y quiere comprar?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM0OTY2MzQsNzQ0MjUzNjZdfQ==
+eyJoaXN0b3J5IjpbLTYyOTAxMjcxMiw3NDQyNTM2Nl19
 -->
