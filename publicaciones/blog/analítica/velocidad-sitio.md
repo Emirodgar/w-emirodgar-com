@@ -5,6 +5,7 @@ lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
+layout: blog
 folder: analitica
 date: 15/10/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -28,6 +29,6 @@ Para ello bastará con establecer el parámetro [siteSpeedSampleRate](https://de
 ga('create',  'UA-XXXX-Y',  {'siteSpeedSampleRate':  10});
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTczNzAwMiwtMTk1NTI3NjA3NiwtNT
-A1NzM3MDAyLC00NzE2Mjg4OTBdfQ==
+eyJoaXN0b3J5IjpbLTI3NTEzOTMwMiwtNTA1NzM3MDAyLC0xOT
+U1Mjc2MDc2LC01MDU3MzcwMDIsLTQ3MTYyODg5MF19
 -->
