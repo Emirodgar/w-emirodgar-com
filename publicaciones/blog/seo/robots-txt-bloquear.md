@@ -5,7 +5,8 @@ lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
-folder: seotags: seo, htaccess, robots
+folder: seo
+tags: seo, htaccess, robots
 date: 11/07/2019
 date_modified: 16/05/2019
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -1084,5 +1085,5 @@ User-agent: ZyBorg
 Disallow:/
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY4NjY1NDQsLTc0NzA1MDc5NV19
+eyJoaXN0b3J5IjpbNzMwMTkwMDE0LC03NDcwNTA3OTVdfQ==
 -->
