@@ -12,76 +12,46 @@ permalink: test3
 ---
 
 
-# 10 trucos para comenzar con Google Analytics
 
-## 1 - Define un objetivo global
+Google Analytics utiliza el [ID de cliente](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id?hl=es#getting_the_client_id_from_the_cookie) (Client ID) para identificar a los usuarios que acceden a nuestra página web.
 
-El primer paso es el más importante: necesitamos definir un objetivo para que el resto del camino tenga sentido. Básicamente se trata de responder la pregunta de **¿qué es lo que queremos conseguir con la página o la aplicación web?**.
+> Este valor se almacena a nivel de cookie por lo que si un usuario utiliza varios dispositivos para acceder a nuestro sitio web (móvil, tablet y ordenador) tendremos tres cookies diferentes aún siendo la misma persona.
 
-Con ello claro, podremos identificar los recursos que necesitamos para continuar con la estrategia de analítica web.
+Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics:
 
-## 2 - Establece metas realistas
+> Asociar varias sesiones de usuario y actividades a un ID único, lo que permite obtener un recuento de usuarios más preciso, analizar la experiencia de los usuarios que han iniciado sesión y comprender el comportamiento de estos en todos los dispositivos.
 
-El objetivo global de la web es importante pero es demasiado genérico, por ello, el siguiente paso será establecer metas concretas para alcanzar dicho objetivo global. Por ejemplo:
+## Paso 1 - Identificar a nuestros usuarios
 
- - Incrementar la visibilidad de la marca
- - Incrementar las ventas
- - Reducir el tiempo de rebote en el blog
- - ...
- 
-> Es importante estar alineado con los **objetivos del negocio** para así asegurarnos de que damos respuestas a todas las preguntas.
+Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 
-## 3 - Identifica los KPIs relevantes asociados a cada meta
+## Paso 2 - Enviar el ID a la capa de datos
 
-Para cada meta necesitamos establecer un KPI (dos como máximo) que nos permita conocer la evolución del mismo. Esto evitará que perdamos el tiempo con un exceso de información y nos concentremos en los indicaros relevantes.
+Cuando tengamos un identificador único para cada usuario que ha accedido a nuestro sistema, debemos enviarlo a la capa de datos de la siguiente forma:
 
-## 4 - Crea un plan de medición
+```js
+<script type="text/JavaScript"> 
+  window.dataLayer = window.dataLayer || [];
+  dataLayer.push {( 'erg_userID': 'XXXXXX' )} 
+</script>
 
-Llega el momento de unificar todo en un único documento que llamaremos "**plan de medición**". Aquí debemos registrar el progreso de los KPIs de forma periódica para poder conocer si avanzamos en la línea adecuada o si estamos lejos de alcanzar las metas propuestas.
+```
 
-Cada acción ejecutada sobre la web debe ser registrada en dicho plan para poder evaluar su impacto y aprender de ello.
+Es importante que enviemos la información del identificador del usuario antes del código base de Google Tag Manager.
 
-## 5 - Aprender a usar Google Analytics
+## Paso 3 - Recuperar el ID en Tag Manager
 
-La forma más sencilla y accesible es a través de los cursos gratuitos de [Google Academy](https://analytics.google.com/analytics/academy/). De esta forma dispondremos de una base sólida para poder trabajar con dicha plataforma.
+Ahora debemos recuperar el ID de usuario en GTM para lo cual necesitaremos crear una variable con las siguientes características:
 
-## 6 - Analiza el porcentaje de rebote
+ - **Nombre**: el mismo que hemos utilizado en el envío a la capa de datos. En el ejemplo anterior sería: erg_userID.
+ - **Tipo**: variable de capa de datos.
 
-Un **porcentaje de rebote alto** (gente que al entrar en nuestra web sale sin interactuar con la misma) puede implicar que no estamos captando el público adecuado o que no estamos ofreciendo la respuesta a sus preguntas. 
+## Paso 4 - Enviar el ID de usuario a Analytics
 
-Es importante analizar el porcentaje global de la página pero sobre todo hacerlo por secciones puesto que cada una de ellas pueden tener esperar un comportamiento diferente de los usuarios.
+En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones > Campos para configurar".
 
-## 7 - Etiqueta las campañas con UTMs
-
-Google pone a nuestra disposición los parámetros de campaña -conocidos como UTMs- para poder identificar tráfico de campañas específicas. Es interesante usarlos para analizar cada esfuerzo (especialmente aquellos de pago) de forma estanca evitando mezclar tráfico.
-
-Recomiendo hacer uso de la herramienta [URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) para evitar errores en la generación de la URL final que tendremos que compartir para registrar el tráfico generado hacia nuestra página.
-
-## 8 - Conecta todas las herramientas de Google
-
-Analytics nos permite conectar múltiples servicios/herramientas a su plataforma. Entre las más relevantes y que recomiendo, estarían: Google Search Console y Google Ads.
-
-Si hacemos uso de algún otro servicio de Google y éste tiene conector, es importante conectar ambas plataformas.
-
-## 9 - Configura la plataforma para medir adecuadamente
-
-Dentro de las múltiples cosas que podemos hacer dentro de Analytics, recomiendo comenzar por las siguientes:
-
- 1. Crear una vista RAW con todos los datos en bruto (no filtramos nada).
- 2. Crear una vista que excluya nuestro tráfico interno (así medimos únicamente el tráfico de nuestros usuarios)
- 3. Dar de alta objetivos.
- 4. Personalizar y adaptar (si fuera necesario) la agrupación de canales por defecto.
- 5. Si tienes buscador interno en la página, darlo de alta en Analytics para registrar las búsquedas de los usuarios.
- 6. Crear informes personalizados con nuestras metas principales y sus KPIs asociados. Así ahorramos tiempo a la hora de realizar consultas. Podemos incluso programarlos.
- 7. Establecer alertas para casos peligroso (una caída del tráfico orgánico superior al 50%, descenso de ventas menor del 40%, etc.).
- 8. Registra los [errores que ocurren en tu web](https://emirodgar.com/registrar-errores-web-con-google-analytics-tag-manager) para poder solucionarlos.
-
-## 10 - Implementar Analytics a través de Tag Manager
-
-Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una página web. De esta forma centralizamos todos los códigos -no sólo el de Analytics- en una única plataforma.  
-
-Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
+Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjgwODY4MywtMzU2ODA4NjgzLC0yMD
-E4ODA3Njc0XX0=
+eyJoaXN0b3J5IjpbMTU3NDU0MTgyOCwtMzU2ODA4NjgzLC0zNT
+Y4MDg2ODMsLTIwMTg4MDc2NzRdfQ==
 -->
