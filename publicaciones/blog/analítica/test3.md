@@ -43,7 +43,7 @@ Cada acción ejecutada sobre la web debe ser registrada en dicho plan para poder
 
 ## 5 - Aprender a usar Google Analytics
 
-La forma más sencilla y accesible es a través de los cursos gratuitos de [Google Academy](https://analytics.google.com/analytics/academy/). De esta forma dispondremos de una base sólida para poder trabajar con dicha plataforma.
+La forma más sencilla y accesible es a través de los cursos gratuitos de [Google Academy](https://analytics.google.com/analytics/academy/). De esta forma dispondremos de una base sólida para poder trabajar con dicha plataforma. f
 
 ## 6 - Analiza el porcentaje de rebote
 
@@ -82,5 +82,6 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjgwODY4MywtMjAxODgwNzY3NF19
+eyJoaXN0b3J5IjpbMTI4NTU3NzM1OSwtMzU2ODA4NjgzLC0yMD
+E4ODA3Njc0XX0=
 -->
