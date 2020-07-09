@@ -1,6 +1,6 @@
 ---
 description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
-lang: es_ES
+layout: erg_main
 author: Emirodgar
 sitemap: 0
 feed: 0
@@ -15,5 +15,5 @@ permalink: test2
 
 dgdfgkj sljsdklfjdsklfjds lkdsjfkldsj dslkjf dslokfjds
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxNTk3MDM0XX0=
+eyJoaXN0b3J5IjpbNTgxMTM2MjM1XX0=
 -->
