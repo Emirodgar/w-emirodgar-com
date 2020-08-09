@@ -13,9 +13,7 @@ permalink: test4
 
 ---
 
-dfjgkhdfkg dfghdskjfjdsklf jdsklfjdskl jfkdlsjf kldsjfds
-dsf 
-dsfds
+Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 
 Google Analytics utiliza el [ID de cliente](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id?hl=es#getting_the_client_id_from_the_cookie) (Client ID) para identificar a los usuarios que acceden a nuestra página web.
 
@@ -56,7 +54,7 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODA3MDE0LDEzNjYwMjg5NzgsMjAxNT
-AwNjg4MSwtMjE3NjQwNzM2LDE1NzQ1NDE4MjgsLTM1NjgwODY4
-MywtMzU2ODA4NjgzLC0yMDE4ODA3Njc0XX0=
+eyJoaXN0b3J5IjpbNDExMDc1OTk1LDEwNzgwNzAxNCwxMzY2MD
+I4OTc4LDIwMTUwMDY4ODEsLTIxNzY0MDczNiwxNTc0NTQxODI4
+LC0zNTY4MDg2ODMsLTM1NjgwODY4MywtMjAxODgwNzY3NF19
 -->
