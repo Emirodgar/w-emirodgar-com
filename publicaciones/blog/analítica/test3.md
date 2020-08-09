@@ -12,7 +12,9 @@ permalink: test4
 
 ---
 
-
+dfjgkhdfkg dfghdskjfjdsklf jdsklfjdskl jfkdlsjf kldsjfds
+dsf 
+dsfds
 
 Google Analytics utiliza el [ID de cliente](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id?hl=es#getting_the_client_id_from_the_cookie) (Client ID) para identificar a los usuarios que acceden a nuestra página web.
 
@@ -53,7 +55,7 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTAwNjg4MSwtMjE3NjQwNzM2LDE1Nz
-Q1NDE4MjgsLTM1NjgwODY4MywtMzU2ODA4NjgzLC0yMDE4ODA3
-Njc0XX0=
+eyJoaXN0b3J5IjpbMTM2NjAyODk3OCwyMDE1MDA2ODgxLC0yMT
+c2NDA3MzYsMTU3NDU0MTgyOCwtMzU2ODA4NjgzLC0zNTY4MDg2
+ODMsLTIwMTg4MDc2NzRdfQ==
 -->
