@@ -14,7 +14,7 @@ permalink: publicaciones
 
 Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de otras áreas relacionadas con el Marketing Digital.
 
-## Publicaciones SEO
+## <a name="seo"></a> Publicaciones SEO
 
 <ul>
 {% for page in site.pages %}
@@ -26,7 +26,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 {% endfor %}
 </ul>
 
-## Publicaciones de Analítica web
+## <a name="analitica"></a> Publicaciones de Analítica web
 
 <ul>
 {% for page in site.pages %}
@@ -39,7 +39,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 
-## Publicaciones de Marketing
+## <a name="marketing"></a> Publicaciones de Marketing
 
 <ul>
 {% for page in site.pages %}
@@ -52,7 +52,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 
-## Publicaciones de Programación
+##<a name="programacion"></a> Publicaciones de Programación
 
 <ul>
 {% for page in site.pages %}
@@ -65,7 +65,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 
-## Publicaciones especiales
+##<a name="especiales"></a> Publicaciones especiales
 
 <ul>
 {% for page in site.pages %}
@@ -77,21 +77,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 {% endfor %}
 </ul>
 
-
-## Newsletter noticias SEO
-
-<ul>
-{% for page in site.pages %}
-{% if page.title != null  %}
-	{% if page.folder== "noticias" %}
-	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-	{% endif %}
-{% endif %}
-{% endfor %}
-</ul>
-
-
-## Sin tema específico
+## <a name="offtopic"></a> Sin tema específico
 
 <ul>
 {% for page in site.pages %}
@@ -106,5 +92,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTE5ODMxLC02NDMxNzkxMThdfQ==
+eyJoaXN0b3J5IjpbMTg3NjU2MTAzNywxMTQ5MTk4MzEsLTY0Mz
+E3OTExOF19
 -->
