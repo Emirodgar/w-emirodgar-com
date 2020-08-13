@@ -1,5 +1,5 @@
 ---
-title: Analytics y userid tag manager
+title: # Nuevos atributos para los enlaces de Google
 description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
 layout: erg_blog
 author: Emirodgar
@@ -90,11 +90,11 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDU4NjExMiwxMDE4MzIyMTk3LDk5NT
-g4MzgwNiwxNjkzODYyMjY5LDI4MDU4MjA3NywtMTMxMTc5NTc2
-MCw3MTkxNDQ0NjQsLTEzMTE3OTU3NjAsLTExMzQ3MjQyNTcsLT
-EzMDg4ODk3NjMsMjAxMDc5ODQxNCw0MTEwNzU5OTUsMTA3ODA3
-MDE0LDEzNjYwMjg5NzgsMjAxNTAwNjg4MSwtMjE3NjQwNzM2LD
-E1NzQ1NDE4MjgsLTM1NjgwODY4MywtMzU2ODA4NjgzLC0yMDE4
-ODA3Njc0XX0=
+eyJoaXN0b3J5IjpbLTE4MDM3MDM1ODMsLTg2NDU4NjExMiwxMD
+E4MzIyMTk3LDk5NTg4MzgwNiwxNjkzODYyMjY5LDI4MDU4MjA3
+NywtMTMxMTc5NTc2MCw3MTkxNDQ0NjQsLTEzMTE3OTU3NjAsLT
+ExMzQ3MjQyNTcsLTEzMDg4ODk3NjMsMjAxMDc5ODQxNCw0MTEw
+NzU5OTUsMTA3ODA3MDE0LDEzNjYwMjg5NzgsMjAxNTAwNjg4MS
+wtMjE3NjQwNzM2LDE1NzQ1NDE4MjgsLTM1NjgwODY4MywtMzU2
+ODA4NjgzXX0=
 -->
