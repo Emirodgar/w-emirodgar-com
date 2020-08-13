@@ -16,7 +16,7 @@ date_modified: 12/08/2020
 Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 
 Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics:
-
+Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics:
 
 -   **nofollow:** existe desde el 2005 e indica a los buscadores que el enlace no debe ser seguido ni tenido en cuenta para traspasar popularidad. A partir de ahora, podría aportar valor al posicionamiento y a partir de 2020 también al rastreo e indexación. Esto lo decidirá Google.    
 -   **sponsored**: nuevo atributo diseñado para etiquetar los enlaces de pago/publicidad. Con esto Google pretende conocer mejor la naturaleza de aquellos enlaces obtenidos a cambio de una colaboración monetaria.     
@@ -89,10 +89,10 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Mzg2MjI2OSwyODA1ODIwNzcsLTEzMT
-E3OTU3NjAsNzE5MTQ0NDY0LC0xMzExNzk1NzYwLC0xMTM0NzI0
-MjU3LC0xMzA4ODg5NzYzLDIwMTA3OTg0MTQsNDExMDc1OTk1LD
-EwNzgwNzAxNCwxMzY2MDI4OTc4LDIwMTUwMDY4ODEsLTIxNzY0
-MDczNiwxNTc0NTQxODI4LC0zNTY4MDg2ODMsLTM1NjgwODY4My
-wtMjAxODgwNzY3NF19
+eyJoaXN0b3J5IjpbOTk1ODgzODA2LDE2OTM4NjIyNjksMjgwNT
+gyMDc3LC0xMzExNzk1NzYwLDcxOTE0NDQ2NCwtMTMxMTc5NTc2
+MCwtMTEzNDcyNDI1NywtMTMwODg4OTc2MywyMDEwNzk4NDE0LD
+QxMTA3NTk5NSwxMDc4MDcwMTQsMTM2NjAyODk3OCwyMDE1MDA2
+ODgxLC0yMTc2NDA3MzYsMTU3NDU0MTgyOCwtMzU2ODA4NjgzLC
+0zNTY4MDg2ODMsLTIwMTg4MDc2NzRdfQ==
 -->
