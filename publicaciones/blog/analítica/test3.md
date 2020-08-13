@@ -15,7 +15,8 @@ date_modified: 12/08/2020
 
 Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 
-  
+  Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics:
+
 
 -   **nofollow:** existe desde el 2005 e indica a los buscadores que el enlace no debe ser seguido ni tenido en cuenta para traspasar popularidad. A partir de ahora, podría aportar valor al posicionamiento y a partir de 2020 también al rastreo e indexación. Esto lo decidirá Google.    
 -   **sponsored**: nuevo atributo diseñado para etiquetar los enlaces de pago/publicidad. Con esto Google pretende conocer mejor la naturaleza de aquellos enlaces obtenidos a cambio de una colaboración monetaria.     
@@ -88,9 +89,10 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE3OTU3NjAsNzE5MTQ0NDY0LC0xMz
-ExNzk1NzYwLC0xMTM0NzI0MjU3LC0xMzA4ODg5NzYzLDIwMTA3
-OTg0MTQsNDExMDc1OTk1LDEwNzgwNzAxNCwxMzY2MDI4OTc4LD
-IwMTUwMDY4ODEsLTIxNzY0MDczNiwxNTc0NTQxODI4LC0zNTY4
-MDg2ODMsLTM1NjgwODY4MywtMjAxODgwNzY3NF19
+eyJoaXN0b3J5IjpbMjgwNTgyMDc3LC0xMzExNzk1NzYwLDcxOT
+E0NDQ2NCwtMTMxMTc5NTc2MCwtMTEzNDcyNDI1NywtMTMwODg4
+OTc2MywyMDEwNzk4NDE0LDQxMTA3NTk5NSwxMDc4MDcwMTQsMT
+M2NjAyODk3OCwyMDE1MDA2ODgxLC0yMTc2NDA3MzYsMTU3NDU0
+MTgyOCwtMzU2ODA4NjgzLC0zNTY4MDg2ODMsLTIwMTg4MDc2Nz
+RdfQ==
 -->
