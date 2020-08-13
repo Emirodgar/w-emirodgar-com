@@ -110,7 +110,7 @@
 	  @media only screen and (max-width: 600px) {.content article { padding: 40px 0;} }
 	  amp-user-notification > div{padding:1rem;display:flex;align-items:center;justify-content:center}#logo{position:relative;float:left;font-family:raleway,sans-serif;font-size:25px;line-height:100%;margin-right:40px;padding-top:7px;font-family:source sans pro,sans-serif}#logo a.standard-logo{display:block}#logo a{display:block;color:#000;text-decoration:none}img{max-width:100%;margin:0 0 1.75rem;padding:0}	  table{margin:30px;border-collapse:collapse;max-width:100%;display:block;overflow-x:auto;word-break:keep-all;font-size:19px}html th,body th{background:#fff;border-bottom:1px solid #dcdcdc;color:#333;font-weight:700;letter-spacing:.56px;line-height:16px;text-transform:uppercase}td,th{padding:15px;text-align:left;vertical-align:top}td:first-child{border-right:1px solid #dcdcdc}
 	  #ergtoclink{cursor: pointer;padding: 0 7px;background-image:none;display:inline-block;color:#666666;padding: 6px 24px;}
-	  .entry-meta{margin: 10px; color: #707070; background: rgba(0, 0, 0, 0.05);}
+	  .entry-meta{padding: 10px; color: #707070; background: rgba(0, 0, 0, 0.05);}
    </style>
    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
    <noscript>
@@ -129,12 +129,13 @@
 				Publicado el
 					<strong><time class="entry-date published" datetime="{{ site.time |  date: '%Y-%m-%d %H:%M:%S' }}">{{ site.time |  date: ' %d/%m/%Y' }}</time></strong>
 					en <a href="https://emirodgar.com/publicaciones#{{ page.folder }}" rel="tag">{{ page.category }}</a> | 
-					{% raw %}
-					{% if words < 360 %}
-					  1 minuto
-					{% else %}
-					  {{ words | divided_by:180 }} minutos
-					{% endif %}{% endraw %}
+
+					 {% assign words = content | number_of_words %}
+					  {% if words < 360 %}
+						1 minuto
+					  {% else %}
+						{{ words | divided_by:180 }} minutos
+					  {% endif %}
 			</div>
 			 {% if page.toc!= null %}
 			  <h4>Tabla de contenidos</h4>
