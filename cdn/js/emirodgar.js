@@ -12,9 +12,10 @@ $(document).ready(function(){
 
 	$('#side-panel-content').load('https://emirodgar.com/cdn/html/sidebar.html');
 	
-	$("#footer").load("https://emirodgar.com/cdn/html/footer.html", function() {
+	/*$("#footer").load("https://emirodgar.com/cdn/html/footer.html", function() {
 		$("#anno").html(getDate());
-	});
+	});*/
+	$("#anno").html(getDate());
 	
 	$(".erg_protfolio").load('https://emirodgar.com/cdn/html/portfolio.html');
 	$("#section-services-seo").load('https://emirodgar.com/cdn/html/services.html');
