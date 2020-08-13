@@ -5,8 +5,8 @@ layout: erg_post
 author: Emirodgar
 sitemap: 0
 feed: 0
-folder: analitica
-category: Analítica
+folder: analitica2
+category: Analítica2
 image: https://emirodgar.com/cdn/images/og/analitica.png
 permalink: test3
 
@@ -87,6 +87,6 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY5MzEzNjQsLTU1Nzg2NTg0Niw1OD
-ExMzYyMzVdfQ==
+eyJoaXN0b3J5IjpbMTIwNDUxNjUwOCwtMTU2NjkzMTM2NCwtNT
+U3ODY1ODQ2LDU4MTEzNjIzNV19
 -->
