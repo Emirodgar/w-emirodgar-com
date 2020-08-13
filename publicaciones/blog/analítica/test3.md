@@ -14,6 +14,40 @@ permalink: test4
 
 Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 
+  
+
+-   **nofollow:** existe desde el 2005 e indica a los buscadores que el enlace no debe ser seguido ni tenido en cuenta para traspasar popularidad. A partir de ahora, podría aportar valor al posicionamiento y a partir de 2020 también al rastreo e indexación. Esto lo decidirá Google.    
+-   **sponsored**: nuevo atributo diseñado para etiquetar los enlaces de pago/publicidad. Con esto Google pretende conocer mejor la naturaleza de aquellos enlaces obtenidos a cambio de una colaboración monetaria.     
+-   **ugc**: nuevo atributo diseñado para los enlaces que aparezcan dentro de contenido generado por los usuarios (comentarios, foros, etc). De esta forma Google pretender discernir entre los enlaces originales de una publicación y los que han sido añadidos después por usuarios externos.    
+
+Un ejemplo de cómo tendríamos que utilizar estos atributos sería el siguiente:
+
+ ```html     
+ <a href="https://emirodgar.com" rel="ugc">Emirodgar</a>
+ <a href="https://emirodgar.com" rel="sponsored">Emirodgar</a>
+ <a href="https://emirodgar.com" rel="nofollow">Emirodgar</a>
+ ```  
+
+En la siguiente imagen podemos ver un esquema de la evolución de los atributos y su impacto en las estrategias SEO.
+
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1207679355150831620">
+</amp-twitter>
+    
+
+## Conclusiones
+  
+
+-   No es obligatorio utilizar ninguno de los atributos. Si no lo hacemos, el enlace servirá para rastrear, indexar y posicionar la página de destino.       
+-   Google no recomienda llevar a cabo ningún cambio en el enlazado actual, lo propone más bien para etiquetar de aquí en adelante. También ha dicho que no se esperan grandes cambios en los rankings.       
+-   Actualmente ninguno de los tres atriburos sirve para rastrear ni indexar la URL de destino pero queda en manos de Google decidir si suman al posicionamiento web. A partir de marzo de 2020 todas las acciones -rastrear, indexar y posicionar- serán decisión de Google en función de cómo de relevante considere el enlace y la página de destino, independientemente del atributo que tenga el enlace.    
+-   Podemos combinar los atributos como queramos, es decir, no estamos limitados a usar sólo uno.  
+     
+
+
 Google Analytics utiliza el [ID de cliente](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id?hl=es#getting_the_client_id_from_the_cookie) (Client ID) para identificar a los usuarios que acceden a nuestra página web.
 
 > Este valor se almacena a nivel de cookie por lo que si un usuario utiliza varios dispositivos para acceder a nuestro sitio web (móvil, tablet y ordenador) tendremos tres cookies diferentes aún siendo la misma persona.
@@ -53,8 +87,8 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDc5ODQxNCw0MTEwNzU5OTUsMTA3OD
-A3MDE0LDEzNjYwMjg5NzgsMjAxNTAwNjg4MSwtMjE3NjQwNzM2
-LDE1NzQ1NDE4MjgsLTM1NjgwODY4MywtMzU2ODA4NjgzLC0yMD
-E4ODA3Njc0XX0=
+eyJoaXN0b3J5IjpbLTEzMDg4ODk3NjMsMjAxMDc5ODQxNCw0MT
+EwNzU5OTUsMTA3ODA3MDE0LDEzNjYwMjg5NzgsMjAxNTAwNjg4
+MSwtMjE3NjQwNzM2LDE1NzQ1NDE4MjgsLTM1NjgwODY4MywtMz
+U2ODA4NjgzLC0yMDE4ODA3Njc0XX0=
 -->
