@@ -144,12 +144,13 @@
 			{{ content }}
          </section>
          <footer class="post-footer">
+			<!--
 			<div id="entry-conversion">
 				<h2>¿Necesitas ayuda?</h2>
 				<h3>Hablemos, es gratis.</h3>
 				<p>Dime lo que necesitas y te diré cómo conseguirlo.</p>
 				<a href="">hola@emirodgar.com</a>
-			</div>
+			</div>-->
 		 
 			<h2>OTRO</h2>
 			<p>dgdfgdf gdfg dg en <a href="https://emirodgar.com/publicaciones#{{ page.folder }}" rel="tag">{{ page.category }}</a></p>
@@ -160,15 +161,21 @@
     -webkit-transition: 80ms ease-in;
     transition: 80ms ease-in;
     word-wrap: break-word;
-    text-decoration: none;">PRUEBA</div>
+    text-decoration: none;">Ver más publicaciones de <a href="https://emirodgar.com/publicaciones#{{ page.folder }}" rel="tag">{{ page.category }}</a></div>
          </footer>
          <div class="bottom-teaser cf">
-            <div class="isLeft">
+             <h5 class="index-headline featured"><span>Publicado el {{ site.time |  date: ' %d-%m-%Y' }}</span></h5>
+               <section class="author">
+                  <h4>Emilio Rodríguez</h4>
+                  <p class="bio" style="color: rgba(117, 117, 117, 1);">Me apasionan los retos digitales, especialmente si los puedo desarrollar desde Salamanca. Director SEO en dos agencias internacionales. Más de 10 años de experiencia en marketing digital.</p>
+				</section>
+			<div class="isLeft">
                <h5 class="index-headline featured"><span>Publicado el {{ site.time |  date: ' %d-%m-%Y' }}</span></h5>
                <section class="author">
                   <div class="author-image"></div>
                   <h4>Experto SEO</h4>
                   <p class="bio">¿Necesitas contratar un profesional? <strong><a href="mailto:hola@emirodgar.com">#hablemos</a></strong></p>
+				</section>
             </div>
             <div class="isRight">
             <h5 class="index-headline featured"><span>Enlaces de interés</span></h5>
