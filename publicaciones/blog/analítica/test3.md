@@ -17,11 +17,7 @@ Dado que se trata de un seguimiento por usuario es requisito indispensable que p
 dfgg 
 
 Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics:
-Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics:
 
--   **nofollow:** existe desde el 2005 e indica a los buscadores que el enlace no debe ser seguido ni tenido en cuenta para traspasar popularidad. A partir de ahora, podría aportar valor al posicionamiento y a partir de 2020 también al rastreo e indexación. Esto lo decidirá Google.    
--   **sponsored**: nuevo atributo diseñado para etiquetar los enlaces de pago/publicidad. Con esto Google pretende conocer mejor la naturaleza de aquellos enlaces obtenidos a cambio de una colaboración monetaria.     
--   **ugc**: nuevo atributo diseñado para los enlaces que aparezcan dentro de contenido generado por los usuarios (comentarios, foros, etc). De esta forma Google pretender discernir entre los enlaces originales de una publicación y los que han sido añadidos después por usuarios externos.    
 
 Un ejemplo de cómo tendríamos que utilizar estos atributos sería el siguiente:
 
@@ -31,37 +27,7 @@ Un ejemplo de cómo tendríamos que utilizar estos atributos sería el siguiente
  <a href="https://emirodgar.com" rel="nofollow">Emirodgar</a>
  ```  
 
-En la siguiente imagen podemos ver un esquema de la evolución de los atributos y su impacto en las estrategias SEO.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1207679355150831620">
-</amp-twitter>
-    
-
-## Conclusiones
-  
-
--   No es obligatorio utilizar ninguno de los atributos. Si no lo hacemos, el enlace servirá para rastrear, indexar y posicionar la página de destino.       
--   Google no recomienda llevar a cabo ningún cambio en el enlazado actual, lo propone más bien para etiquetar de aquí en adelante. También ha dicho que no se esperan grandes cambios en los rankings.       
--   Actualmente ninguno de los tres atriburos sirve para rastrear ni indexar la URL de destino pero queda en manos de Google decidir si suman al posicionamiento web. A partir de marzo de 2020 todas las acciones -rastrear, indexar y posicionar- serán decisión de Google en función de cómo de relevante considere el enlace y la página de destino, independientemente del atributo que tenga el enlace.    
--   Podemos combinar los atributos como queramos, es decir, no estamos limitados a usar sólo uno.  
-     
-
-
-Google Analytics utiliza el [ID de cliente](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id?hl=es#getting_the_client_id_from_the_cookie) (Client ID) para identificar a los usuarios que acceden a nuestra página web.
-
-> Este valor se almacena a nivel de cookie por lo que si un usuario utiliza varios dispositivos para acceder a nuestro sitio web (móvil, tablet y ordenador) tendremos tres cookies diferentes aún siendo la misma persona.
-
-Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics:
-
-> Asociar varias sesiones de usuario y actividades a un ID único, lo que permite obtener un recuento de usuarios más preciso, analizar la experiencia de los usuarios que han iniciado sesión y comprender el comportamiento de estos en todos los dispositivos.
-
-## Paso 1 - Identificar a nuestros usuarios
-
-Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 
 ## Paso 2 - Enviar el ID a la capa de datos
 
@@ -90,11 +56,11 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTI4MTQxMiwtMTgwMzcwMzU4MywtOD
-Y0NTg2MTEyLDEwMTgzMjIxOTcsOTk1ODgzODA2LDE2OTM4NjIy
-NjksMjgwNTgyMDc3LC0xMzExNzk1NzYwLDcxOTE0NDQ2NCwtMT
-MxMTc5NTc2MCwtMTEzNDcyNDI1NywtMTMwODg4OTc2MywyMDEw
-Nzk4NDE0LDQxMTA3NTk5NSwxMDc4MDcwMTQsMTM2NjAyODk3OC
-wyMDE1MDA2ODgxLC0yMTc2NDA3MzYsMTU3NDU0MTgyOCwtMzU2
-ODA4NjgzXX0=
+eyJoaXN0b3J5IjpbMTQxMjg2NDE3NywxMzA5MjgxNDEyLC0xOD
+AzNzAzNTgzLC04NjQ1ODYxMTIsMTAxODMyMjE5Nyw5OTU4ODM4
+MDYsMTY5Mzg2MjI2OSwyODA1ODIwNzcsLTEzMTE3OTU3NjAsNz
+E5MTQ0NDY0LC0xMzExNzk1NzYwLC0xMTM0NzI0MjU3LC0xMzA4
+ODg5NzYzLDIwMTA3OTg0MTQsNDExMDc1OTk1LDEwNzgwNzAxNC
+wxMzY2MDI4OTc4LDIwMTUwMDY4ODEsLTIxNzY0MDczNiwxNTc0
+NTQxODI4XX0=
 -->
