@@ -14,7 +14,7 @@ date_modified: 12/08/2020
 ---
 
 Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
-Esto es otra prueba.
+Esto es otra prueba. Y otra má
 
 Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics:
 
@@ -56,11 +56,11 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2OTA1MTQ5LDE0MTI4NjQxNzcsMTMwOT
-I4MTQxMiwtMTgwMzcwMzU4MywtODY0NTg2MTEyLDEwMTgzMjIx
-OTcsOTk1ODgzODA2LDE2OTM4NjIyNjksMjgwNTgyMDc3LC0xMz
-ExNzk1NzYwLDcxOTE0NDQ2NCwtMTMxMTc5NTc2MCwtMTEzNDcy
-NDI1NywtMTMwODg4OTc2MywyMDEwNzk4NDE0LDQxMTA3NTk5NS
-wxMDc4MDcwMTQsMTM2NjAyODk3OCwyMDE1MDA2ODgxLC0yMTc2
-NDA3MzZdfQ==
+eyJoaXN0b3J5IjpbMTA1MTM3MjAwNCw5MzY5MDUxNDksMTQxMj
+g2NDE3NywxMzA5MjgxNDEyLC0xODAzNzAzNTgzLC04NjQ1ODYx
+MTIsMTAxODMyMjE5Nyw5OTU4ODM4MDYsMTY5Mzg2MjI2OSwyOD
+A1ODIwNzcsLTEzMTE3OTU3NjAsNzE5MTQ0NDY0LC0xMzExNzk1
+NzYwLC0xMTM0NzI0MjU3LC0xMzA4ODg5NzYzLDIwMTA3OTg0MT
+QsNDExMDc1OTk1LDEwNzgwNzAxNCwxMzY2MDI4OTc4LDIwMTUw
+MDY4ODFdfQ==
 -->
