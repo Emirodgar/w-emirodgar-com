@@ -35,8 +35,8 @@ A mayores de estas, que son las consideradas como más relevantes, existen otras
 -   [First Contentful Paint (FCP)](https://web.dev/fcp/)
 -   [Time to First Byte (TTFB)](https://web.dev/time-to-first-byte/)
 
-Para poder conocer y analizar nuestras métricas Core Web Vitals podemos hacer uso de Google PageSpeed, Google Lighthouse o el informe de Data 
+Para poder conocer y analizar nuestras métricas Core Web Vitals podemos hacer uso de [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/?hl=es) o el [informe de Data Studio](https://datastudio.google.com/u/0/reporting/bbc5698d-57bb-4969-9e07-68810b9fa348/page/keDQB?params=%7B%22origin%22:%22https://emirodgar.com%22%7D) que nos permite hacer seguimiento de las mismas de forma mensual.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDg3OTE0NSwxMjQ4NDgzMTIxLC0xNj
-kyNjMxNzksMTMwMTIxMTg5LC0zNTQyMDQ1MDddfQ==
+eyJoaXN0b3J5IjpbOTM2NjM1MzI5LDEyNDg0ODMxMjEsLTE2OT
+I2MzE3OSwxMzAxMjExODksLTM1NDIwNDUwN119
 -->
