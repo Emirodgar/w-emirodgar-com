@@ -24,12 +24,17 @@ Desde Twitter, el equipo de desarrolladores de Chrome ha anunciado que a partir 
   data-tweetid="1295390463038349312">
 </amp-twitter>
 
-Para ello se basarán en los resultados de las métricas definidas como Core Web Vitals.
+Para ello se basarán en los resultados de las métricas definidas como **Core Web Vitals** que son las siguientes.
 
 -   [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
 -   [First Input Delay (FID)](https://web.dev/fid/)
 -   [Largest Contentful Paint (LCP)](https://web.dev/lcp/)
+
+A mayores de estas, que son las consideradas como más relevantes, existen otras dos que también nos recomiendan trabajar de cara a poder conseguir aún una mejor experiencia de los usuarios:
+
+-   [First Contentful Paint (FCP)](https://web.dev/fcp/)
+-   [Time to First Byte (TTFB)](https://web.dev/time-to-first-byte/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTI2MzE3OSwxMzAxMjExODksLTM1ND
-IwNDUwN119
+eyJoaXN0b3J5IjpbLTEyMzM4NzE1MzUsLTE2OTI2MzE3OSwxMz
+AxMjExODksLTM1NDIwNDUwN119
 -->
