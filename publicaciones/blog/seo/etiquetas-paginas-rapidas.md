@@ -11,7 +11,9 @@ permalink: etiqueta-pagina-rapida
 
 --- 
 
-De sobra es sabido que un tiempo de carga óptimo así como una buena experiencia de usuario son sinónimo de éxito digital. De esta forma minimizamos el rebote de nuestros usuarios y favorecemos la conversión.
+# Chrome mostrará etiquetas de página rápida
+
+De sobra es sabido que un tiempo de carga óptimo así como una buena experiencia de usuario son sinónimo de éxito digital ya que de esta forma minimizamos el rebote de nuestros usuarios y favorecemos la conversión.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDIwNDUwN119
+eyJoaXN0b3J5IjpbMTMwMTIxMTg5LC0zNTQyMDQ1MDddfQ==
 -->
