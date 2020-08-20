@@ -116,119 +116,129 @@
 	display: inline-block;
 }
 
-.nav-main label {
-	display: block;
-	height: 2em;
-	width: 2em;
-	text-indent: -9999px;
+* {
+	box-sizing: border-box;
 }
 
-.nav-main label > i {
-	display: block;
-	text-indent: 0px;
-	padding: 1em;
-}
-
-.nav-main input {
-	display: none;
-}
-
-.nav-main input:checked + ul {
-	transform: translateX(0%);
-	box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
-}
-
-.nav-main input:checked + ul > li {
-	opacity: 1;
-	transform: translateX(0%);
-}
-
-.nav-main input:checked + ul > li:nth-child(1) {
-	transition-delay: .1s;
-}
-
-.nav-main input:checked + ul > li:nth-child(1) i {
-	transform: translateX(0%) rotate(360deg);
-}
-
-.nav-main input:checked + ul > li:nth-child(2) {
-	transition-delay: .1s;
-}
-
-.nav-main input:checked + ul > li:nth-child(3) {
-	transition-delay: .15s;
-}
-
-.nav-main input:checked + ul > li:nth-child(4) {
-	transition-delay: .2s;
-}
-
-.nav-main input:checked + ul > li:nth-child(5) {
-	transition-delay: .25s;
-}
-
-.nav-main input:checked + ul > li:nth-child(6) {
-	transition-delay: .3s;
-}
-
-.nav-main input:checked + ul > li:nth-child(7) {
-	transition-delay: .35s;
-}
-
-.nav-main input:checked + ul > li:nth-child(8) {
-	transition-delay: .4s;
-}
-
-.nav-main input:checked + ul > li:nth-child(9) {
-	transition-delay: .45s;
-}
-
-.nav-main ul {
-	position: fixed;
-	top: 0;
+body {
 	margin: 0;
-	height: 100vh;
-	width: 15em;
-	padding: 0;
-	list-style: none;
-	transform: translateX(-100%);
-	transition: all .2s ease;
-	background: #B52B2B;
-	text-indent: 0;
-	box-shadow: 0 0 30px transparent;
 }
 
-.nav-main ul > li {
+.container {
+	width: 80%;
+	overflow: hidden;
+	margin: 80px auto;
+	transition: all 0.5s;
+}
+
+.container h1, .container h2 {
+	margin: 0;
+	font-smoothing: antialiased;
+}
+
+.container h1 {
+	font-size: 40px;
+	color: #888;
+}
+
+.container h2 {
+	font-size: 20px;
+	color: #aaa;
+}
+
+.message {
+	width: 100%;
+	background: #181818;
+	padding: 30px 60px;
+	color: #fff;
+	height: 250px;
+	position: absolute;
+	left: 0;
+	overflow: hidden;
+	top: -250px;
+	transition: all 0.5s;
+}
+
+.message h1 {
+	font-size: 40px;
+	font-smoothing: antialiased;
+	color: #fff;
+	margin-bottom: 0;
+}
+
+.message h2 {
+	font-smoothing: antialiased;
+	font-size: 20px;
+	font-weight: normal;
+	color: #888;
+	margin: 0;
+}
+
+input[type=checkbox] {
+	position: absolute;
 	opacity: 0;
-	transform: translateX(-100%);
-	transition: all .3s ease .05s;
+	top: 25px;
+	left: 25px;
 }
 
-.nav-main ul > li:nth-child(1) a {
-	padding: 0;
+input[type=checkbox]:checked ~ .message {
+	top: 0;
 }
 
-.nav-main ul > li:nth-child(1) a i {
-	transform: translateX(0%) rotate(0deg);
-	transition: all .5s ease;
+input[type=checkbox]:checked ~ .container {
+	margin-top: 280px;
 }
 
-.nav-main ul > li:nth-child(1) a:hover {
-	background: #B52B2B;
+input[type=checkbox]:checked ~ .menu span {
+	transform: scale3d(0, 1, 1);
 }
 
-.nav-main ul > li > a {
+input[type=checkbox]:checked ~ .menu:after {
+	transform: rotate3d(0, 0, 1, 45deg);
+}
+
+input[type=checkbox]:checked ~ .menu:before {
+	transform: rotate3d(0, 0, 1, -45deg);
+}
+
+.menu {
+	width: 30px;
+	height: 24px;
 	display: block;
-	position: relative;
-	padding: 1em 1em;
-	color: #FFF;
-	font-weight: 900;
-	text-decoration: none;
-	transition: all .1s ease;
+	cursor: pointer;
+	top: 20px;
+	left: 20px;
+	position: absolute;
+	z-index: 1;
 }
 
-.nav-main ul > li > a:hover {
-	background: #942A2A;
+.menu:after, .menu:before {
+	content: '';
+	width: 100%;
+	height: 2px;
+	position: absolute;
+	background: red;
+	top: 50%;
+	transition: transform 0.5s;
+	transform-origin: 50% 50%;
+}
+
+.menu:after {
+	transform: translate3d(0, -10px, 0) scale3d(0.8, 1, 1);
+}
+
+.menu:before {
+	transform: translate3d(0, 10px, 0) scale3d(0.8, 1, 1);
+}
+
+.menu span {
+	position: absolute;
+	width: 100%;
+	overflow: hidden;
+	height: 2px;
+	background: red;
+	top: 50%;
+	transition: all 0.5s;
 }
    </style>
    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
@@ -239,7 +249,14 @@
    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:300,400,500,700" rel="stylesheet" type="text/css" />
 </head>
 <body>
-   <nav class="nav-main"><label><i class="fa fa-bars pointer">MENU</i><input type="checkbox"/><ul><li><a><i class="fa fa-times pointer"></i>CERRAR</a></li><li><a href="https://emirodgar.com">Inicio</a></li><li><a href="https://emirodgar.com">Blog</a></li><li><a href="https://emirodgar.com/carrera-profesional/">Carrera profesional</a></li><li><a href="https://emirodgar.com/consultor-seo/">Consultor SEO</a></li></ul></label></nav>
+   
+     <input id="menu" type="checkbox"/>
+  <label for="menu" class="menu">
+  <span>Menu</span>
+  </label>
+  <div class="message"><h1> Hello, I'm a hidden message. You found it.</h1>
+<h2>Now Click the Cross button to hide me</h2>
+</div>
    <main class="content" role="main">
 	   <div id="logo"><a href="https://emirodgar.com" class="standard-logo"><b>EMIRODGAR</b><i style="font-size:19px;"> digital</i></a></div>
       <article class="post">
