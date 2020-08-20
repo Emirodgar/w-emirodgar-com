@@ -86,6 +86,12 @@ section .page-title {
     right: 50%;
     height: 100%;
     width: 50%;
+	/*background: #999 url("https://emirodgar.com/cdn/images/company/emirodgar.webp") no-repeat fixed left;*/
+  }
+}
+@media screen and  (max-width: 991px) {
+   section .page-title {
+    display: none !important;
   }
 }
 section .page-title .title-container {
@@ -134,7 +140,7 @@ section .page-content {
   }
 }
 section .page-content .content-section {
-  padding: 5.625rem;
+  padding: 3.625rem;
   border-bottom: 1px solid #eee;
   /*h2, p {
     max-width: rem(640);
