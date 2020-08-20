@@ -131,7 +131,7 @@ section .page-title a {
     border-radius: 6px;
     margin-top: -1.125rem;
     color: #fff;
-	background-color: #333;
+	background-color: #666;
 }
 
 section .page-content {
@@ -151,7 +151,7 @@ section .page-content {
   }
 }
 section .page-content .content-section {
-  padding: 3.625rem;
+  padding: 2.625rem;
   border-bottom: 1px solid #eee;
   /*h2, p {
     max-width: rem(640);
