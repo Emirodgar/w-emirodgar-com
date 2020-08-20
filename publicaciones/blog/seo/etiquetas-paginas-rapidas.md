@@ -34,7 +34,9 @@ A mayores de estas, que son las consideradas como más relevantes, existen otras
 
 -   [First Contentful Paint (FCP)](https://web.dev/fcp/)
 -   [Time to First Byte (TTFB)](https://web.dev/time-to-first-byte/)
+
+Para poder conocer y analizar nuestras métricas Core Web Vitals podemos hacer uso de Google PageSpeed, Google Lighthouse o el informe de Data 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODQ4MzEyMSwtMTY5MjYzMTc5LDEzMD
-EyMTE4OSwtMzU0MjA0NTA3XX0=
+eyJoaXN0b3J5IjpbLTk4MDg3OTE0NSwxMjQ4NDgzMTIxLC0xNj
+kyNjMxNzksMTMwMTIxMTg5LC0zNTQyMDQ1MDddfQ==
 -->
