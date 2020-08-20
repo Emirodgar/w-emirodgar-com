@@ -1,6 +1,12 @@
 {
   "data": [
-    [
+	[
+      "Google chrome identificará a las páginas rápidas",
+      "Para ayudar a los usuarios a identificar páginas con un gran tiempo de carga, Chrome mostrará una etiqueta para identificar unos buenos valores en las Core Web Vitals. ",
+      "https://emirodgar.com/etiqueta-pagina-rapida",
+    "Agosto 2020"
+    ],
+	[
       "Google no interactuará con los botones de 'cargar más'",
       "Para ahorrar costes, Google no interactuará con los botones de ver más. Si cargamos información a través de Javascript, no será accesible pero si lo hacemos a través de CSS (ocultar/mostrar) no tendremos problemas. ",
       "https://twitter.com/Marie_Haynes/status/1234559842158891008",
