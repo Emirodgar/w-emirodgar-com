@@ -1,6 +1,6 @@
 ---
 title: Chrome mostrará etiquetas de página rápida
-description: Para ayudar a los usuarios a identificar páginas con un gran tiempo de carga, Chrome 85 mostrará una etiqueta junto a aquellas con unos buenos valores en las Core Web  Vitals.
+description: Para ayudar a los usuarios a identificar páginas con un gran tiempo de carga, Chrome mostrará una etiqueta para identificar unos buenos valores en las Core Web Vitals.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 author: Emirodgar
 lang: es_ES
@@ -24,12 +24,12 @@ Desde Twitter, el equipo de desarrolladores de Chrome ha anunciado que a partir 
   data-tweetid="1295390463038349312">
 </amp-twitter>
 
-
+Para ello se basarán en los resultados de las métricas definidas como Core Web Vitals.
 
 -   [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
 -   [First Input Delay (FID)](https://web.dev/fid/)
 -   [Largest Contentful Paint (LCP)](https://web.dev/lcp/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MzE0MjQwLDEzMDEyMTE4OSwtMzU0Mj
-A0NTA3XX0=
+eyJoaXN0b3J5IjpbLTE2OTI2MzE3OSwxMzAxMjExODksLTM1ND
+IwNDUwN119
 -->
