@@ -1,284 +1,239 @@
-<!DOCTYPE html>
-<html lang="en-US" >
-   <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link rel="icon" href="https://emirodgar.com/cdn/images/hash.png"  sizes="32x32">
-      {% seo %}
-      {% if page.image== null %}
-      <meta content="https://emirodgar.com/cdn/images/og/emirodgar.png" property="og:image">
-      {% endif %}
-      <link rel="alternate" type="application/rss+xml" title="Kraft Minimal Portfolio WordPress Theme &raquo; Feed" href="https://kraft.caliberthemes.com/minimal/feed/" />
-      <link rel='stylesheet' id='main-css'  href='https://emirodgar.com/media/css/style_post.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='kraft-theme-font-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700%7CRoboto%3A300%2C400%2C500%2C700%7CRoboto%3A500&#038;subset=latin%2Clatin-ext&#038;ver=5.4.2' type='text/css' media='all' />
-      <script type='text/javascript' src='https://emirodgar.com/media/js/jquery-1.12.4.min.js'></script>
-      <script type='text/javascript' src='https://emirodgar.com/media/js/TweenMax.min.js'></script>      
-      <script type='text/javascript' src='https://emirodgar.com/media/js/headsup.min.js'></script>     
-      <script type='text/javascript' src='https://emirodgar.com/media/js/jquery.easing.min.1.3.js'></script> 
-   </head>
-   
-   <body class="post-template-default single single-post postid-282 single-format-standard  blog-classic-sidebar-style has-sidebar wpb-js-composer js-comp-ver-6.2.0 vc_responsive" >
-      <div id="page" class="site">
-         <div class="page-click-capture"></div>
-         <header id="masthead" class="site-header standard boxed solid" role="banner">
-            <div class="wrap">
-               <div id="site-branding" >	
-                  <a class="logo-brand" href="" >
-                  <img class="logo" src="https://kraft.caliberthemes.com/minimal/wp-content/uploads/sites/11/2019/10/standard-logo.png" alt="Logo">	
-                  </a>	
-               </div>
-               <!-- .site-branding -->
-               <span id="ham-trigger-wrap"><span class="ham-trigger"><span></span></span></span>
-               <nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Top Menu">
-                  <ul id="top-menu" class="menu">
-                     <li id="menu-item-267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-267">
-                        <a href="#">Home</a>
-                        <ul class="sub-menu">
-                           <li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-202"><a href="https://kraft.caliberthemes.com/minimal/">Basic</a></li>
-                           <li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a href="https://kraft.caliberthemes.com/minimal/clean/">Clean</a></li>
-                           <li id="menu-item-203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203"><a href="https://kraft.caliberthemes.com/minimal/centered-menu/">Centered Menu</a></li>
-                           <li id="menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-973"><a href="https://kraft.caliberthemes.com/minimal/fullwidth-showcase/">Fullwidth Showcase</a></li>
-                           <li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://kraft.caliberthemes.com/minimal/hamburger-menu/">Hamburger Menu</a></li>
-                           <li id="menu-item-625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-625"><a href="https://kraft.caliberthemes.com/minimal/hero-image/">Hero Image</a></li>
-                           <li id="menu-item-1027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1027"><a href="https://kraft.caliberthemes.com/minimal/projects-gallery/">Projects Gallery</a></li>
-                           <li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="https://kraft.caliberthemes.com/minimal/single-row/">Single Row</a></li>
-                           <li id="menu-item-972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-972"><a href="https://kraft.caliberthemes.com/minimal/sidebar-menu/">Sidebar Menu</a></li>
-                           <li id="menu-item-1033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1033">
-                              <a href="#">Sliders</a>
-                              <ul class="sub-menu">
-                                 <li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="https://kraft.caliberthemes.com/minimal/slider-single/">Slider Single</a></li>
-                                 <li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="https://kraft.caliberthemes.com/minimal/slider-multiple/">Slider Multiple</a></li>
-                                 <li id="menu-item-970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-970"><a href="https://kraft.caliberthemes.com/minimal/fullwidth-slider/">Fullwidth Slider</a></li>
-                                 <li id="menu-item-971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-971"><a href="https://kraft.caliberthemes.com/minimal/split-slider/">Split Slider</a></li>
-                              </ul>
-                           </li>
-                           <li id="menu-item-974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-974"><a href="https://kraft.caliberthemes.com/minimal/zigzag/">Zigzag</a></li>
-                        </ul>
-                     </li>
-                     <li id="menu-item-371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-371">
-                        <a href="#">Pages</a>
-                        <ul class="sub-menu">
-                           <li id="menu-item-372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-372">
-                              <a href="#">About</a>
-                              <ul class="sub-menu">
-                                 <li id="menu-item-378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-378"><a href="https://kraft.caliberthemes.com/minimal/about-basic/">About Basic</a></li>
-                                 <li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="https://kraft.caliberthemes.com/minimal/about-extended/">About Extended</a></li>
-                                 <li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="https://kraft.caliberthemes.com/minimal/about-us/">About Us</a></li>
-                              </ul>
-                           </li>
-                           <li id="menu-item-373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-373">
-                              <a href="#">Services</a>
-                              <ul class="sub-menu">
-                                 <li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="https://kraft.caliberthemes.com/minimal/service-grid/">Service Grid</a></li>
-                                 <li id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="https://kraft.caliberthemes.com/minimal/service-list/">Service List</a></li>
-                              </ul>
-                           </li>
-                           <li id="menu-item-390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"><a href="https://kraft.caliberthemes.com/minimal/contact/">Contact</a></li>
-                        </ul>
-                     </li>
-                     <li id="menu-item-416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-416">
-                        <a href="#">Portfolio Layouts</a>
-                        <ul class="sub-menu">
-                           <li id="menu-item-640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-640">
-                              <a href="#">Grid</a>
-                              <ul class="sub-menu">
-                                 <li id="menu-item-641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-641"><a href="https://kraft.caliberthemes.com/minimal/grid-2-column/">Grid 2 Column</a></li>
-                                 <li id="menu-item-642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-642"><a href="https://kraft.caliberthemes.com/minimal/grid-3-column/">Grid 3 Column</a></li>
-                                 <li id="menu-item-643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-643"><a href="https://kraft.caliberthemes.com/minimal/grid-4-column/">Grid 4 Column</a></li>
-                              </ul>
-                           </li>
-                           <li id="menu-item-626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-626">
-                              <a href="#">Masonry</a>
-                              <ul class="sub-menu">
-                                 <li id="menu-item-629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-629"><a href="https://kraft.caliberthemes.com/minimal/masonry-2-column/">Masonry 2 Column</a></li>
-                                 <li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-627"><a href="https://kraft.caliberthemes.com/minimal/masonry-3-column/">Masonry 3 Column</a></li>
-                                 <li id="menu-item-628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-628"><a href="https://kraft.caliberthemes.com/minimal/masonry-4-column/">Masonry 4 Column</a></li>
-                              </ul>
-                           </li>
-                           <li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="https://kraft.caliberthemes.com/minimal/mosaic/">Mosaic</a></li>
-                           <li id="menu-item-833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-833"><a href="https://kraft.caliberthemes.com/minimal/load-more/">Loadmore Button</a></li>
-                           <li id="menu-item-832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-832"><a href="https://kraft.caliberthemes.com/minimal/load-more-auto/">Loadmore Auto</a></li>
-                        </ul>
-                     </li>
-                     <li id="menu-item-391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-391">
-                        <a href="#">Portfolio Single</a>
-                        <ul class="sub-menu">
-                           <li id="menu-item-412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-412">
-                              <a href="#">Images</a>
-                              <ul class="sub-menu">
-                                 <li id="menu-item-398" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-398"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/design-package/">Stack Images</a></li>
-                                 <li id="menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-394"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/brochure-design/">Hero Image</a></li>
-                                 <li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-410"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/square-brochure/">Hero Image Alt</a></li>
-                              </ul>
-                           </li>
-                           <li id="menu-item-413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-413">
-                              <a href="#">Sliders</a>
-                              <ul class="sub-menu">
-                                 <li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-396"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/collective-arts/">Small Slider</a></li>
-                                 <li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-393"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/branding-package/">Wide Slider</a></li>
-                                 <li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-405"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/modern-brochure/">Hero Slider</a></li>
-                                 <li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-404"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/mockups/">Hero Multislider</a></li>
-                              </ul>
-                           </li>
-                           <li id="menu-item-414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-414">
-                              <a href="#">Videos</a>
-                              <ul class="sub-menu">
-                                 <li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-409"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/short-films/">Small Video</a></li>
-                                 <li id="menu-item-411" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-411"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/videography/">Hero Video</a></li>
-                              </ul>
-                           </li>
-                           <li id="menu-item-415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-415">
-                              <a href="#">Gallery</a>
-                              <ul class="sub-menu">
-                                 <li id="menu-item-406" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-406"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/mosaic-gallery/">Small Gallery</a></li>
-                                 <li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-407"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/mug-showcase/">Small Gallery Alt</a></li>
-                                 <li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-397"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/design-gallery/">Image Gallery</a></li>
-                                 <li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-403"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/magazine-design/">Wide Gallery</a></li>
-                                 <li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-399"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/graphic-design/">Hero Gallery</a></li>
-                              </ul>
-                           </li>
-                           <li id="menu-item-395" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-395"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/coffee-mug/">Before After</a></li>
-                           <li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-408"><a href="https://kraft.caliberthemes.com/minimal/portfolio-item/multiple-media/">Mixed Media</a></li>
-                        </ul>
-                     </li>
-                     <li id="menu-item-286" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-286">
-                        <a href="#">Blog</a>
-                        <ul class="sub-menu">
-                           <li id="menu-item-287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-287"><a href="https://kraft.caliberthemes.com/blog-list/blog/">Blog List</a></li>
-                           <li id="menu-item-270" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-270"><a href="https://kraft.caliberthemes.com/minimal/blog/">Blog Classic</a></li>
-                        </ul>
-                     </li>
-                  </ul>
-               </nav>
-               <!-- #site-navigation -->
+<!doctype html>
+<html ⚡ lang="{{ site.lang | default: 'es_ES' }}">
+<head>
+   <meta http-equiv="X-UA-Compatible" content="chrome=1">
+   <link rel="icon" href="https://emirodgar.com/cdn/images/hash.png">
+    {% seo %}
+	{% if page.image== null %}
+	  <meta content="https://emirodgar.com/cdn/images/og/emirodgar.png" property="og:image">
+	{% endif %}
+	<link rel="alternate" type="application/rss+xml" title="SEO y Marketing Digital - Emirodgar" href="https://emirodgar.com/feed.xml">
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width,minimum-scale=1">
+   <!--[if lt IE 9]>
+   <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+   <![endif]-->
+   <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+   <style amp-custom>
+      /** Syntax highlighting styles */
+      .highlight { background: #fff; margin-top: 30px;}
+      .highlighter-rouge .highlight { background: #eef; }
+      .highlight .c { color: #998; font-style: italic; }
+      .highlight .err { color: #a61717; background-color: #e3d2d2; }
+      .highlight .k { font-weight: bold; }
+      .highlight .o { font-weight: bold; }
+      .highlight .cm { color: #998; font-style: italic; }
+      .highlight .cp { color: #999; font-weight: bold; }
+      .highlight .c1 { color: #998; font-style: italic; }
+      .highlight .cs { color: #999; font-weight: bold; font-style: italic; }
+      .highlight .gd { color: #000; background-color: #fdd; }
+      .highlight .gd .x { color: #000; background-color: #faa; }
+      .highlight .ge { font-style: italic; }
+      .highlight .gr { color: #a00; }
+      .highlight .gh { color: #999; }
+      .highlight .gi { color: #000; background-color: #dfd; }
+      .highlight .gi .x { color: #000; background-color: #afa; }
+      .highlight .go { color: #888; }
+      .highlight .gp { color: #555; }
+      .highlight .gs { font-weight: bold; }
+      .highlight .gu { color: #aaa; }
+      .highlight .gt { color: #a00; }
+      .highlight .kc { font-weight: bold; }
+      .highlight .kd { font-weight: bold; }
+      .highlight .kp { font-weight: bold; }
+      .highlight .kr { font-weight: bold; }
+      .highlight .kt { color: #458; font-weight: bold; }
+      .highlight .m { color: #099; }
+      .highlight .s { color: #d14; }
+      .highlight .na { color: #008080; }
+      .highlight .nb { color: #0086B3; }
+      .highlight .nc { color: #458; font-weight: bold; }
+      .highlight .no { color: #008080; }
+      .highlight .ni { color: #800080; }
+      .highlight .ne { color: #900; font-weight: bold; }
+      .highlight .nf { color: #900; font-weight: bold; }
+      .highlight .nn { color: #555; }
+      .highlight .nt { color: #000080; }
+      .highlight .nv { color: #008080; }
+      .highlight .ow { font-weight: bold; }
+      .highlight .w { color: #bbb; }
+      .highlight .mf { color: #099; }
+      .highlight .mh { color: #099; }
+      .highlight .mi { color: #099; }
+      .highlight .mo { color: #099; }
+      .highlight .sb { color: #d14; }
+      .highlight .sc { color: #d14; }
+      .highlight .sd { color: #d14; }
+      .highlight .s2 { color: #d14; }
+      .highlight .se { color: #d14; }
+      .highlight .sh { color: #d14; }
+      .highlight .si { color: #d14; }
+      .highlight .sx { color: #d14; }
+      .highlight .sr { color: #009926; }
+      .highlight .s1 { color: #d14; }
+      .highlight .ss { color: #990073; }
+      .highlight .bp { color: #999; }
+      .highlight .vc { color: #008080; }
+      .highlight .vg { color: #008080; }
+      .highlight .vi { color: #008080; }
+      .highlight .il { color: #099; }
+      .icon > svg { display: inline-block; width: 16px; height: 16px; vertical-align: middle; }
+      .icon > svg path { fill: #828282; }
+      amp-img { background-color: grey; }
+      .cf:after { content: ""; display: table; clear: both; }
+      main { display: block; }
+      body { font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; margin: 0; padding: 0; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-font-feature-settings: "liga=1, dlig=1"; -ms-font-feature-settings: "liga", "dlig"; -webkit-font-feature-settings: "liga", "dlig"; -o-font-feature-settings: "liga", "dlig"; font-feature-settings: "liga", "dlig"; }
+      .site-header { position: relative; width: 100%; max-width: 700px; margin: 16px auto 0 auto; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+      @media only screen and (max-width: 800px) { .site-header { padding: 0 16px; } }
+      .site-header .page-links { display: block; position: absolute; top: 0px; left: 5px; font-weight: 200; font-style: normal; font-size: 18px; line-height: 30px; }
+      .site-header .page-links a { text-decoration: none; color: #333333; }
+      .site-header .page-links a:hover { color: #333333; }
+      .blog-header { width: 100%; max-width: 700px; margin: 0 auto; position: relative; padding: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+      .blog-header .blog-title { margin-bottom: 8px; font-size: 50px; font-weight: 700; letter-spacing: -2px; outline: 0; line-height: 50px; word-break: break-word; color: #333333; }
+      .blog-header .blog-description { font-size: 28px; margin: 0 0 20px; padding: 0; line-height: 1.2; color: #666666; font-weight: 300; }
+      .content { width: 100%; max-width: 700px; margin: 25px auto 0 auto; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+      @media only screen and (max-width: 800px) { .content { padding: 0 16px; } }
+      .content article { padding: 20px 0; border-bottom: 1px solid #f2f2f0; }
+      .content article:last-child { border-bottom: 0px; }
+      .content article .post-title { letter-spacing: -0.02em; font-weight: 700; font-style: normal; display: block; font-size: 36px; line-height: 1.15; margin: 0 0; }
+      .content article .post-title a { text-decoration: none; color: #333332; }
+      .content article .post-title a:hover { text-decoration: none; }
+      .content article .post-excerpt { letter-spacing: -0.02em; font-weight: 300; font-style: normal; font-size: 20px; line-height: 1.59; color: #666665; }
+      .content article .post-meta { font-size: 14px; color: #b3b3b1; line-height: 30px; }
+      .content article .post-meta a { color: #b3b3b1; text-decoration: none; }
+      .content article .post-meta a:hover { text-decoration: underline; }
+      .post-template .content { max-width: 700px; }
+      .index-headline { border-top: 1px solid #dededc; margin: 0; padding: 16px 0; }
+      .index-headline span { color: #b3b3b1; font-size: 10px; text-transform: uppercase; letter-spacing: 1px; }
+      .pagination { text-align: center; padding: 16px 0 0; font-size: 12px; }
+      .pagination a { color: #999999; text-decoration: none; }
+      .pagination a:hover { color: #333333; }
+      .site-footer { margin: 0 auto; padding: 48px 0; width: 100%; max-width: 700px; font-size: 12px; text-align: center; color: #999999; line-height: 17.6px; }
+      .site-footer a { color: #666666; text-decoration: none; }
+      .site-footer a:hover { color: #333333; }
+      .post .post-meta { font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; }
+      .post .post-title { font-weight: 700; font-style: normal; letter-spacing: -0.04em; font-size: 50px; line-height: 1.1; color: #333332; margin-bottom: 50px; }
+      .post .author-image { background-image: url(https://emirodgar.com/cdn/images/author/emirodgar-avatar.jpg); filter: grayscale(50%); display: inline-block; width: 30px; height: 30px; line-height: 30px; margin-right: 8px; margin-bottom: -10px; float: left; background-size: cover; border-radius: 100%; text-indent: -9999px; }
+      .post .post-meta-text { color: #b3b3b1; letter-spacing: -0.02em; font-weight: 400; font-style: normal; font-size: 14px; overflow: hidden; font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; white-space: nowrap; text-overflow: ellipsis; }
+      .post .post-content { width: 100%; font-family: Georgia, Cambria, "Times New Roman", Times, "Lora", serif; color: #333333; }
+      .post .post-content h1, .post .post-content h2, .post .post-content h3 { font-family: Georgia, Cambria, "Times New Roman", Times, "Lora", serif; }
+      .post .post-content h3, .post .post-content h4, .post .post-content h5, .post .post-content h6 { letter-spacing: -0.02em; font-weight: 700; font-style: normal; font-size: 24px; line-height: 1.3; margin-top: 50px; margin-bottom: 0px; font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; }
+      .post .post-content h2, .post .post-content h1 { letter-spacing: -0.02em; font-weight: 700; font-style: normal; font-size: 42px; line-height: 1.2; margin-top: 50px; margin-bottom: 0px; }
+      .post .post-content h2 { font-size: 32px; }
+      .post .post-content h3 { font-size: 26px; }
+      .post .post-content p { font-weight: 400; font-style: normal; font-size: 21px; line-height: 1.59; letter-spacing: -.002em; margin-top: 30px; margin-bottom: 0; color: #333333; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; }
+      .post .post-content a { color: #008192; text-decoration: none;
+		background-repeat: repeat-x;
+		background-image: linear-gradient(to right,rgba(0,0,0,.84) 100%,rgba(0,0,0,0) 0);
+		background-image: linear-gradient(to right,currentColor 100%,currentColor 0);
+		background-size: 1px 1px;
+		background-position: 0 1.05em;
+		background-position: 0 calc(1em + 1px);
+	 }
+      .post .post-content amp-img, .post .post-content amp-youtube { margin-top: 30px; }
+      .post .post-content figure { margin: 0; padding: 0 0 30px; }
+      .post .post-content figcaption { font-weight: 400; font-style: italic; font-size: 16px; line-height: 1.3; color: #666665; outline: 0; z-index: 300; text-align: center; }
+      .post .post-content hr { border: 0; padding: 0; display: block; width: 15%; margin: 30px auto; border: 0px solid #dddddd; border-top: 1px solid #dddddd; }
+      .post .post-content blockquote {border-style: solid;border-width: 0 0 0 0.1rem;color: inherit;font-size: 1em;margin: 4rem 0;border-color: #008192;padding: 0.4rem 0 0.4rem 2rem;}
+      .post .post-content blockquote p {letter-spacing: 0.01rem; font-weight: 400; padding-bottom: 3px; font-style: italic;font-size: 25px;line-height: 1.48;letter-spacing: -.012em;margin: 20px 0;}
+      .post .post-content ul, .post .post-content ol { padding: 30px 20px 30px; margin: 0; }
+      .post .post-content li { padding: 0; font-weight: 400; font-style: normal; font-size: 20px; line-height: 30px; margin-left: 30px; margin-bottom: 12px; padding-top: 2px; }
+      .post .post-content li p { padding: 0 0 1.618rem; }
+      .post .post-content ol li { list-style-type: decimal; }
+      .post .bottom-teaser { padding: 50px 0 0 0; font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; }
+      .post .bottom-teaser hr { border: 0; padding: 0; display: block; width: 15%; margin: 16px 0 16px 100px; border: 0px solid #dddddd; border-top: 1px solid #dddddd; }
+      .post .bottom-teaser .isLeft { float: left; width: 47%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+      @media only screen and (max-width: 800px) { .post .bottom-teaser .isLeft { width: 100%; padding-bottom: 32px; } }
+      .post .bottom-teaser .isLeft .bio { margin-top: 18px; margin-bottom: 18px; }
+      .post .bottom-teaser .isLeft .username { margin-left: 4px; margin-right: 18px; margin-bottom: 18px; }
+      .post .bottom-teaser .isLeft .index-headline { padding-bottom: 32px; }
+      .post .bottom-teaser .isLeft a { color: black; text-decoration: none; }
+      .post .bottom-teaser .isLeft a:hover { color: #333333; text-decoration: underline; }
+      .post .bottom-teaser .isLeft .author-image { display: block; width: 80px; height: 80px; float: left; background-size: cover; border-radius: 100%; text-indent: -9999px; }
+      .post .bottom-teaser .isLeft h4 { font-size: 18px; line-height: 1.1; font-weight: 700; padding: 0; margin: 0; padding-left: 100px; }
+      .post .bottom-teaser .isLeft p { font-size: 14px; line-height: 1.3; font-weight: 400; padding: 0; margin: 0; padding-left: 100px; }
+      .post .bottom-teaser .isLeft p.published { color: #999999; }
+      .post .bottom-teaser .isRight { float: right; width: 47%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+      @media only screen and (max-width: 800px) { .post .bottom-teaser .isRight { width: 100%; } }
+      .post .bottom-teaser .isRight .index-headline { padding-bottom: 32px; }
+      .post .bottom-teaser .isRight .site-footer { margin: 0; padding: 0; color: #333333; text-align: left; font-size: 14px; line-height: 1.3; color: #999999; }
+      .post .bottom-teaser .isRight .site-footer a { color: #333333; text-decoration: none; }
+      .post .bottom-teaser .isRight .site-footer a:hover { text-decoration: underline; }
+      .post .bottom-teaser .isRight .site-footer .poweredby { display: block; padding-bottom: 18px; font-weight: 700; color: #333333; }
+      .share { text-align: right; padding: 20px 0 0; }
+      .share a { text-decoration: none; color: #bbbbbb; padding-left: 12px; }
+      .share a .hidden { display: none; }
+      .share a:hover { color: #333333; }
+      pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eeeeff; }
+      code { padding: 1px 5px; }
+      pre { padding: 8px 12px; overflow-x: scroll; }
+      pre > code { border: 0; padding-right: 0; padding-left: 0; }
+      .emirodgar { font-weight: bold; font-size:21px;}
+      .emirodgar a{ color:#333333}
+      amp-twitter {margin-top:30px;}
+	  @media only screen and (max-width: 600px) {.content article { padding: 40px 0;} }
+	  amp-user-notification > div{padding:1rem;display:flex;align-items:center;justify-content:center}#logo{position:relative;float:left;font-family:raleway,sans-serif;font-size:25px;line-height:100%;margin-right:40px;padding-top:7px;font-family:source sans pro,sans-serif}#logo a.standard-logo{display:block}#logo a{display:block;color:#000;text-decoration:none}img{max-width:100%;margin:0 0 1.75rem;padding:0}	  table{margin:30px;border-collapse:collapse;max-width:100%;display:block;overflow-x:auto;word-break:keep-all;font-size:19px}html th,body th{background:#fff;border-bottom:1px solid #dcdcdc;color:#333;font-weight:700;letter-spacing:.56px;line-height:16px;text-transform:uppercase}td,th{padding:15px;text-align:left;vertical-align:top}td:first-child{border-right:1px solid #dcdcdc}
+	  #ergtoclink{cursor: pointer;padding: 0 7px;background-image:none;display:inline-block;color:#666666;padding: 6px 24px;}
+	  .container{width:80%;overflow:hidden;margin:80px auto;transition:all .5s}.container h1,.container h2{margin:0;font-smoothing:antialiased}.container h1{font-size:40px;color:#888}.container h2{font-size:20px;color:#aaa}.message{width:100%;background:#181818;padding:30px 60px;color:#fff;height:250px;position:absolute;left:0;overflow:hidden;top:-300px;transition:all .5s;z-index:10}.message h1{font-size:40px;font-smoothing:antialiased;color:#fff;margin-bottom:0}.message h2,a{font-smoothing:antialiased;font-size:20px;font-weight:400;color:#888;margin:10px;text-decoration:none}input[type=checkbox]{position:absolute;opacity:0;top:25px;left:25px}input[type=checkbox]:checked~.message{top:-50px}input[type=checkbox]:checked~.container{margin-top:280px}input[type=checkbox]:checked~.menu span{transform:scale3d(0,1,1)}input[type=checkbox]:checked~.menu:after{transform:rotate3d(0,0,1,45deg)}input[type=checkbox]:checked~.menu:before{transform:rotate3d(0,0,1,-45deg)}.menu{width:30px;height:24px;display:block;cursor:pointer;top:0;right:20px;position:absolute;z-index:11}.menu:after,.menu:before{content:'';width:100%;height:2px;position:absolute;background:red;top:50%;transition:transform .5s;transform-origin:50% 50%}.menu:after{transform:translate3d(0,-10px,0) scale3d(.8,1,1)}.menu:before{transform:translate3d(0,10px,0) scale3d(.8,1,1)}.menu span{position:absolute;width:100%;overflow:hidden;height:2px;background:red;top:50%;transition:all .5s}
+	  .entry-meta{padding-top: 10px; color: #b3b3b1;font-size: 11px;text-transform: uppercase;letter-spacing: 1px;font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif;}
+	  
+   </style>
+   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+   <noscript>
+      <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style>
+   </noscript>
+   <script async src="https://cdn.ampproject.org/v0.js"></script>
+   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:300,400,500,700" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<input id="menu" type="checkbox"/>
+	<label for="menu" class="menu">
+	<span>Menu</span>
+	</label>
+	<div class="message">
+	   <h1> ¿Necesitas ayuda SEO?</h1>
+	   <h2><a href="https://emirodgar.com">Quién soy</a> | <a href="https://emirodgar.com/publicaciones">Blog</a></h2>
+	</div>
+   <main class="content" role="main">
+	  <div id="logo"><a href="https://emirodgar.com" class="standard-logo"><b>EMIRODGAR</b><i style="font-size:19px;"> digital</i></a></div>
+      <article class="post">
+		   <section class="post-content">
+			<h1>{{ page.title }}</h1>
+			<div class="entry-meta">
+				Publicado el <strong><time class="entry-date published" datetime="{{ site.time |  date: '%Y-%m-%d %H:%M:%S' }}">{{ site.time |  date: ' %d/%m/%Y' }}</time></strong>
+					| 
+					 {% assign words = content | number_of_words %}
+					  {% if words < 360 %}
+						1 minuto
+					  {% else %}
+						{{ words | divided_by:180 }} minutos
+					  {% endif %}
+			</div>
+			{{ content }}
+         </section>
+         <footer class="post-footer">
+         </footer>
+         <div class="bottom-teaser cf">
+            <div class="isLeft">
+               <h5 class="index-headline featured"><span>Publicado el {{ site.time |  date: ' %d-%m-%Y' }}</span></h5>
+               <section class="author">
+                  <div class="author-image"></div>
+                  <h4>Experto SEO</h4>
+                  <p class="bio">¿Necesitas contratar un profesional? <strong><a href="mailto:hola@emirodgar.com">#hablemos</a></strong></p>
             </div>
-            <!-- .wrap -->		
-         </header>
-         <!-- #masthead -->
-         <div class="site-content-contain">
-            <div id="content" class="site-content">
-               <div class="wrap">
-                  <div id="primary" class="content-area">
-                     <main id="main" class="site-main" role="main">
-                        <article id="post-282" class="post-282 post type-post status-publish format-standard has-post-thumbnail hentry category-inspirational tag-agency tag-creative tag-minimal">
-                           <div class="post-wrap">
-                              <div class="post-content">
-                                 <header class="entry-header">
-                                    <h1 class="entry-title">{{ page.title }}</h1>
-                                    <div class="entry-meta">
-										<span class="author vcard">Emilio Rodríguez</a></span>
-										<span class="cat-links"><span class="screen-reader-text">Categoría</span><a href="https://emirodgar.com/publicaciones/{{ page.folder }}" rel="category tag">{{ page.category }}</a></span>
-										<span class="posted-on"><span class="screen-reader-text">Publicado el</span>
-											<time class="entry-date published" datetime="{{ site.time |  date: '%Y-%m-%d %H:%M:%S' }}">{{ site.time |  date: ' %d/%m/%Y' }}</time>
-											<time class="updated" datetime="{{ site.time |  date: '%Y-%m-%d %H:%M:%S' }}">{{ site.time |  date: '%d/%m/%Y' }}</time>
-										</span>
-									</div>
-                                    <!-- .entry-meta -->			
-                                 </header>
-                                 <!-- .entry-header -->
-                                 <div class="entry-content">
-                                    {{ content }}																		
-                                 </div>
-                                 <!-- bloque final
-                                 <footer class="entry-footer">
-                                    <div class="footer-links">
-                                       <div class="socials-share-links">
-                                          <span class="screen-reader-text">Otro</span>
-                                          <h6>Otro</h6>
-                                          <ul>
-                                             <li></li>
-                                          </ul>
-                                       </div>
-                                    </div>
-                                 </footer> -->
-                                 <!-- .entry-footer -->			
-                              </div>
-                           </div>
-                        </article>
-                        <!-- #post-## -->
-                        <div id="comments" class="comments-area">
-                           <h2 class="comments-title">
-                              <span>
-                              Autor		</span>	
-                           </h2>
-                           <ol class="comment-list">
-                              <li id="comment-2" class="comment byuser comment-author-caliberthemes bypostauthor even thread-even depth-1 parent">
-                                 <article id="div-comment-2" class="comment-body">
-                                    <footer class="comment-meta">
-                                       <div class="comment-author vcard">
-                                          <img src="https://emirodgar.com/cdn/images/author/emirodgar-avatar-bn.jpg" width="100" height="100" alt="caliberthemes" class="avatar avatar-100 wp-user-avatar wp-user-avatar-100 alignnone photo" />						<b class="fn">Emilio Rodríguez</b> <span class="says">says:</span>					
-                                       </div>
-                                       <!-- .comment-author -->
-                                    </footer>
-                                    <!-- .comment-meta -->
-                                    <div class="comment-content">
-                                       <p>Me apasionan los retos digitales, especialmente si los puedo desarrollar desde Salamanca. Director SEO en dos agencias internacionales. Más de 10 años de experiencia en marketing digital.</p>
-                                    </div>
-                                    <!-- linkedin
-                                    <div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://www.linkedin.com/in/emirodgar/'>Linkedin</a></div> -->
-                                 </article>
-
-                              </li>
-                              <!-- #comment-## -->
-                           </ol>
-                        </div>
-                     </main>
-                     <!-- #main -->
-                  </div>
-                  <!-- #primary -->
-                  <aside id="secondary" class="widget-area" role="complementary" aria-label="Blog Sidebar">
-                     <section id="tag_cloud-3" class="widget widget_tag_cloud">
-                        <h2 class="widget-title"><span>Tags</span></h2>
-                        <div class="tagcloud">
-                           <p>sjdfh skdfhsdjkfh hskjfhsdkj hsdkjfhdsjkfh sdkjfhdsjk hdskjfh sdjkfhdsjkfhsd kfj</p>
-						   <ul class='wp-tag-cloud' role='list'>
-                             
-                              <li><a href="https://kraft.caliberthemes.com/minimal/tag/creative/" class="tag-cloud-link tag-link-16 tag-link-position-2" style="font-size: 1em;">Creative</a></li>
-                              <li><a href="https://kraft.caliberthemes.com/minimal/tag/digital/" class="tag-cloud-link tag-link-19 tag-link-position-3" style="font-size: 1em;">Digital</a></li>
-                              <li><a href="https://kraft.caliberthemes.com/minimal/tag/exceptional/" class="tag-cloud-link tag-link-24 tag-link-position-4" style="font-size: 1em;">Exceptional</a></li>
-                              <li><a href="https://kraft.caliberthemes.com/minimal/tag/media/" class="tag-cloud-link tag-link-18 tag-link-position-5" style="font-size: 1em;">Media</a></li>
-                              <li><a href="https://kraft.caliberthemes.com/minimal/tag/minimal/" class="tag-cloud-link tag-link-20 tag-link-position-6" style="font-size: 1em;">Minimal</a></li>
-                              <li><a href="https://kraft.caliberthemes.com/minimal/tag/photography/" class="tag-cloud-link tag-link-17 tag-link-position-7" style="font-size: 1em;">Photography</a></li>
-                              <li><a href="https://kraft.caliberthemes.com/minimal/tag/seo/" class="tag-cloud-link tag-link-25 tag-link-position-8" style="font-size: 1em;">SEO</a></li>
-                              <li><a href="https://kraft.caliberthemes.com/minimal/tag/tips/" class="tag-cloud-link tag-link-15 tag-link-position-9" style="font-size: 1em;">Tips</a></li>
-                           </ul>
-                        </div>
-                     </section>
-                  </aside>
-                  <!-- #secondary -->
-               </div>
-               <!-- .wrap -->
-               <a id="gotoTop" href="#" class="scroll-top-link" data-easing="easeOutQuad" data-speed="700" >
-               <img src="https://kraft.caliberthemes.com/minimal/wp-content/themes/kraft/assets/images/svg/chevron-up.svg" class="go-to-top" />				
-               </a>
+            <div class="isRight">
+            <h5 class="index-headline featured"><span>Enlaces de interés</span></h5>
+            <footer class="site-footer">
+            <section class="poweredby"><a href="https://emirodgar.com">INICIO</a> / <a href="https://emirodgar.com/mapa-web">MAPA WEB</a> / <a href="https://emirodgar.com/publicaciones">PUBLICACIONES</a></section>
+            <div class="inner">
+            <section class="copyright"> Informático con más de 10 años de experiencia en SEO, Marketing Digital y Growth Hacking.</section><br>
+			<strong><a target="_blank" href="https://emirodgar.com/experiencia-seo">Experiencia SEO</a></strong> / <strong><a target="_blank" href="https://emirodgar.com/casos-exito-seo">Casos de éxito SEO</a></strong>
             </div>
-            <!-- #content -->
-            <footer id="footer" class="site-footer standard boxed" role="contentinfo">
-               <div class="wrap">
-                  <div class="site-info">
-                     <p class="copyright">
-                        &#169; {{ site.time |  date: '%Y' }} - Emirodgar	
-                     </p>
-                  </div>
-                  <!-- .site-info -->
-                  <nav class="footer-socials">
-                     <ul class="social-links-menu">
-                        <li>	
-                           <b>Agencia digital</b> 
-                           </a>
-                        </li>
-                        <li>	
-                            Ofrecemos resultados
-                           </a>
-                        </li>
-                     </ul>
-                  </nav>
-               </div>
-               <!-- .wrap -->
             </footer>
-            <!-- #colophon -->
+            </div>
          </div>
-         <!-- .site-content-contain -->
-      </div>
-   </body>
+      </article>
+   </main>
+</body>
 </html>
