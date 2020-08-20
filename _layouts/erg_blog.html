@@ -157,6 +157,7 @@ body {
 	overflow: hidden;
 	top: -300px;
 	transition: all 0.5s;
+	z-index: 10;
 }
 
 .message h1 {
@@ -166,12 +167,13 @@ body {
 	margin-bottom: 0;
 }
 
-.message h2 {
+.message h2, a {
 	font-smoothing: antialiased;
 	font-size: 20px;
 	font-weight: normal;
 	color: #888;
 	margin: 0;
+	text-decoration: none;
 }
 
 input[type=checkbox] {
@@ -209,7 +211,7 @@ input[type=checkbox]:checked ~ .menu:before {
 	top: 0px;
 	right: 20px;
 	position: absolute;
-	z-index: 1;
+	z-index: 11;
 }
 
 .menu:after, .menu:before {
@@ -254,8 +256,8 @@ input[type=checkbox]:checked ~ .menu:before {
   <label for="menu" class="menu">
   <span>Menu</span>
   </label>
-  <div class="message"><h1> Hello, I'm a hidden message. You found it.</h1>
-<h2>Now Click the Cross button to hide me</h2>
+  <div class="message"><h1> ¿Necesitas ayuda SEO?.</h1>
+<h2><a href="https://emirodgar.com">Inicio</a> | <a href="https://emirodgar.com/publicaciones">Blog</a></h2>
 </div>
    <main class="content" role="main">
 	   <div id="logo"><a href="https://emirodgar.com" class="standard-logo"><b>EMIRODGAR</b><i style="font-size:19px;"> digital</i></a></div>
