@@ -274,7 +274,7 @@ section .page-content blockquote{
 		}
 		.footer .footer-main p
 		{
-			/*margin-right: 0px;*/
+			margin-right: 0px;
 		}
 }
 .footer .footer-cred {
