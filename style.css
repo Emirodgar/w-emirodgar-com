@@ -1,5 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
+  margin:0px;
 }
 
 .header {
@@ -122,6 +123,7 @@ section .page-title .title-container h1 {
   color: #fff;
   font-weight: 100;
   line-height: 1.125;
+  margin-block-end: 1.33em;
 }
 
 section .page-title a {
@@ -192,9 +194,9 @@ section .page-content .content-section h2.title {
   line-height: 1.25;
 }
 section .page-content .content-section p {
-  font-size: 18px;
+  font-size: 17px;
   line-height: 1.5;
-  color: #999;
+  color: #363636;
   font-weight: 100;
   margin-bottom: 1rem;
 }
@@ -216,13 +218,30 @@ section .page-content .cta .btn {
   text-decoration: none;
   color: #333;
 }
-
+section .page-content img {
+	width: 100%;
+	height: auto;
+}
+section .page-content li {
+	line-height: 20px;
+    margin-left: 10px;
+    margin-bottom: 12px;
+}
+section .page-content blockquote{
+	line-height: 34px;
+    margin: 2.76em 1.50em 2.76em 1.50em ;
+    font-weight: 400;
+    font-size: 21px;
+    font-style: italic;
+    color: #999;
+}
 .footer {
   position: relative;
   clear: both;
   z-index: 1000;
   background: #333;
   padding: 3.75rem 3.75rem 1.875rem;
+
 }
 .footer .footer-main {
   width: 100%;
@@ -230,7 +249,7 @@ section .page-content .cta .btn {
 .footer .footer-main p {
   display: inline-block;
   margin-right: 1.875rem;
-  color: #666;
+  color: #888;
 }
 .footer .footer-main a {
   text-decoration: none;
@@ -243,6 +262,20 @@ section .page-content .cta .btn {
 .footer .footer-main a {
   display: inline-block;
   float: right;
+}
+@media screen and  (max-width: 991px) {
+		.footer .footer-main a {
+			margin: 10px;
+			float: none;
+		}
+		.footer .footer-main
+		{
+			text-align: center;
+		}
+		.footer .footer-main p
+		{
+			/*margin-right: 0px;*/
+		}
 }
 .footer .footer-cred {
   width: 100%;
@@ -259,4 +292,16 @@ section .page-content .cta .btn {
 }
 .footer .footer-cred p:last-of-type {
   float: right;
+}
+
+pre {
+    background: #eee;
+    font-family: "Courier 10 Pitch", Courier, monospace;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 1.6em;
+    max-width: 100%;
+    overflow: auto;
+    padding: 1.6em;
+    color: #707070;
 }
