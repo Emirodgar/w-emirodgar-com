@@ -16,11 +16,17 @@ body {
 }
 .header .logo {
   height: 3.75rem;
+  line-height: 3.75rem;
   width: 7.5rem;
-  background: #999;
   /*margin-left: rem(30);*/
   margin-top: 0.9375rem;
   float: left;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.27rem;
+	text-transform: uppercase;
+	font-weight: 900;
+	letter-spacing: 1px;
+	color: #444;
 }
 .header .nav-links {
   float: right;
