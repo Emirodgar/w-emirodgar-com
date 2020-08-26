@@ -94,6 +94,7 @@ section .page-title {
     height: 100%;
     width: 50%;
 	/*background: #999 url("https://emirodgar.com/cdn/images/company/emirodgar.webp") no-repeat fixed left;*/
+	/*background: linear-gradient(15deg, #999 70%, #333 50.1%);*/
   }
 }
 @media screen and  (max-width: 991px) {
@@ -109,6 +110,12 @@ section .page-title .title-container {
   margin-left: 3.75rem;
   max-width: 31.25rem;
   padding: 1.875rem;
+}
+section .page-title .title-container h2{
+  color:#555;
+  margin-bottom:3.50rem;
+  margin-top: -1.5rem;
+  font-size: 1.405rem;
 }
 @media screen and (min-width: 1024px) {
   section .page-title .title-container {
@@ -129,7 +136,6 @@ section .page-title .title-container h1 {
   color: #fff;
   font-weight: 100;
   line-height: 1.125;
-  margin-block-end: 1.33em;
 }
 
 section .page-title a {
@@ -140,6 +146,12 @@ section .page-title a {
     margin-top: -1.125rem;
     color: #fff;
 	background-color: #666;
+	border-radius: 36px;
+}
+
+section .page-title .light {
+	background-color: #999;
+	border: 1px solid white;
 }
 
 section .page-content {
@@ -259,7 +271,7 @@ section .page-content blockquote{
 }
 .footer .footer-main a {
   text-decoration: none;
-  border: 2px solid #666;
+  border: 1px solid #666;
   padding: 0.75rem 1.875rem;
   border-radius: 6px;
   margin-top: -1.125rem;
