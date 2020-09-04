@@ -256,7 +256,7 @@ section .page-content blockquote{
   clear: both;
   z-index: 1000;
   background: #333;
-  padding: 3.75rem 3.75rem 1.875rem;
+  padding: 1.75rem 2.75rem 1.75rem;
 
 }
 .footer .footer-main {
@@ -272,7 +272,6 @@ section .page-content blockquote{
   border: 1px solid #666;
   padding: 0.75rem 1.875rem;
   border-radius: 6px;
-  margin-top: -1.125rem;
   color: #fff;
 }
 .footer .footer-main a {
@@ -347,7 +346,6 @@ label[for=menu-button-check]:nth-of-type(1) {
     .header {
         box-sizing: border-box;
         width: 100%;
-        padding: 0 10%;
     }
 
     .menu {
@@ -390,7 +388,7 @@ label[for=menu-button-check]:nth-of-type(1) {
 
     label[for=menu-button-check]:nth-of-type(1) {
         position: absolute;
-        top: 0.25em;
+        top: 0.35em;
         color: #444;
         right: 0.5em;
         z-index: 1000;
