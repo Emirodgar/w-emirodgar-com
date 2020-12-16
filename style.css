@@ -228,7 +228,7 @@ section .page-content .content-section h1.title {
   font-size: 2.25rem;
   line-height: 1.25;
 }
-section .page-content .content-section p, li {
+section .page-content .content-section p, section .page-content .content-section li {
   font-size: 17px;
   line-height: 1.5;
   color: #363636;
@@ -262,13 +262,21 @@ section .page-content li {
     margin-left: 10px;
     margin-bottom: 12px;
 }
-section .page-content blockquote p{
+section .page-content blockquote {
 	line-height: 34px;
     margin: 2.76em 1.50em 2.76em 1.50em ;
     font-weight: 400;
     font-size: 21px;
     font-style: italic;
     color: #999;
+}
+section .page-content blockquote p{
+	line-height: 34px;
+    margin: 2.76em 1.50em 2.76em 1.50em ;
+    font-weight: 400;
+    font-size: 21px !important;
+    font-style: italic;
+    color: #999 !important;
 }
 .footer {
   position: relative;
