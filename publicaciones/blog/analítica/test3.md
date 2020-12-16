@@ -16,7 +16,7 @@ date_modified: 12/08/2020
 Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 Esto es otra prueba. Y otra más. Igual. Más. sdf fdgfdgfdg dfgdfgdfg dfgdfgdfgdf dsfds f DSFDSF SD dfsgdfgdfg dfgdgdfg 
 
-Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics:
+Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics: fhgfh
 Bien!
 
 Un ejemplo de cómo tendríamos que utilizar estos atributos sería el siguiente:
@@ -56,11 +56,11 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczNDUzMTcsNjgyMTU2NTkwLDEyNzU5NT
-Y2NDIsNjA3ODY1MjUzLDM1MTcyMjQ5MiwxODEwNjUxNTE4LC02
-OTI5ODU0MDAsMTEzMzg2NDM5MCwtMTA0MDQ0OTU3LDkzNjkwNT
-E0OSwxNDEyODY0MTc3LDEzMDkyODE0MTIsLTE4MDM3MDM1ODMs
-LTg2NDU4NjExMiwxMDE4MzIyMTk3LDk5NTg4MzgwNiwxNjkzOD
-YyMjY5LDI4MDU4MjA3NywtMTMxMTc5NTc2MCw3MTkxNDQ0NjRd
-fQ==
+eyJoaXN0b3J5IjpbLTgxNjc5OTQyNiw5NzM0NTMxNyw2ODIxNT
+Y1OTAsMTI3NTk1NjY0Miw2MDc4NjUyNTMsMzUxNzIyNDkyLDE4
+MTA2NTE1MTgsLTY5Mjk4NTQwMCwxMTMzODY0MzkwLC0xMDQwND
+Q5NTcsOTM2OTA1MTQ5LDE0MTI4NjQxNzcsMTMwOTI4MTQxMiwt
+MTgwMzcwMzU4MywtODY0NTg2MTEyLDEwMTgzMjIxOTcsOTk1OD
+gzODA2LDE2OTM4NjIyNjksMjgwNTgyMDc3LC0xMzExNzk1NzYw
+XX0=
 -->
