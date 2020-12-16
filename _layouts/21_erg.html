@@ -53,7 +53,7 @@
 		  <div class="section-container">
 				<h1 class="title">{{ page.title }}</h1>
 				<div class="entry-meta">
-					Publicado el <strong><time class="entry-date published" datetime="{{ site.time |  date: '%Y-%m-%d %H:%M:%S' }}">{{ site.time |  date: ' %d/%m/%Y' }}</time></strong>
+					<strong><time class="entry-date published" datetime="{{ site.time |  date: '%Y-%m-%d %H:%M:%S' }}">{{ site.time |  date: ' %d/%m/%Y' }}</time></strong>
 						| 
 						 {% assign words = content | number_of_words %}
 						  {% if words < 360 %}

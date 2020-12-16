@@ -190,6 +190,18 @@ section .page-content .content-section {
     margin: 0 auto;
   }
 }
+
+section .page-content .content-section .section-container p a  {color: black;
+    text-decoration: none;
+    background-repeat: repeat-x;
+    background-image: linear-gradient(to right,rgba(0,0,0,.84) 100%,rgba(0,0,0,0) 0);
+    background-image: linear-gradient(to right,currentColor 100%,currentColor 0);
+    background-size: 1px 1px;
+    background-position: 0 1.05em;
+    background-position: 0 calc(1em + 1px);
+}
+
+
 section .page-content .content-section .capability-card {
   background: #f5f5f5;
   padding: 3.75rem;
@@ -200,7 +212,7 @@ section .page-content .content-section .capability-card:first-of-type {
   margin-top: 3.75rem !important;
 }
 section .page-content .content-section .capability-card h2 {
-  margin-botom: 0.375rem !important;
+  margin-bottom: 0.375rem !important;
 }
 section .page-content .content-section .capability-card p {
   max-width: 22.5rem;
