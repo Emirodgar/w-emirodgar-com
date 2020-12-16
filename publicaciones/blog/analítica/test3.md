@@ -17,7 +17,7 @@ Dado que se trata de un seguimiento por usuario es requisito indispensable que p
 Esto es otra prueba. Y otra más. Igual. Más. sdf fdgfdgfdg dfgdfgdfg dfgdfgdfgdf dsfds f DSFDSF SD dfsgdfgdfg dfgdgdfg 
 
 Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics:
-
+Bien!
 
 Un ejemplo de cómo tendríamos que utilizar estos atributos sería el siguiente:
 
@@ -56,11 +56,11 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMTU2NTkwLDEyNzU5NTY2NDIsNjA3OD
-Y1MjUzLDM1MTcyMjQ5MiwxODEwNjUxNTE4LC02OTI5ODU0MDAs
-MTEzMzg2NDM5MCwtMTA0MDQ0OTU3LDkzNjkwNTE0OSwxNDEyOD
-Y0MTc3LDEzMDkyODE0MTIsLTE4MDM3MDM1ODMsLTg2NDU4NjEx
-MiwxMDE4MzIyMTk3LDk5NTg4MzgwNiwxNjkzODYyMjY5LDI4MD
-U4MjA3NywtMTMxMTc5NTc2MCw3MTkxNDQ0NjQsLTEzMTE3OTU3
-NjBdfQ==
+eyJoaXN0b3J5IjpbOTczNDUzMTcsNjgyMTU2NTkwLDEyNzU5NT
+Y2NDIsNjA3ODY1MjUzLDM1MTcyMjQ5MiwxODEwNjUxNTE4LC02
+OTI5ODU0MDAsMTEzMzg2NDM5MCwtMTA0MDQ0OTU3LDkzNjkwNT
+E0OSwxNDEyODY0MTc3LDEzMDkyODE0MTIsLTE4MDM3MDM1ODMs
+LTg2NDU4NjExMiwxMDE4MzIyMTk3LDk5NTg4MzgwNiwxNjkzOD
+YyMjY5LDI4MDU4MjA3NywtMTMxMTc5NTc2MCw3MTkxNDQ0NjRd
+fQ==
 -->
