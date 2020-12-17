@@ -14,7 +14,7 @@ permalink: test2
 
 Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 
-  dfgdfgdfg
+Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 
 -   **nofollow:** existe desde el 2005 e indica a los buscadores que el enlace no debe ser seguido ni tenido en cuenta para traspasar popularidad. A partir de ahora, podría aportar valor al posicionamiento y a partir de 2020 también al rastreo e indexación. Esto lo decidirá Google.    
 -   **sponsored**: nuevo atributo diseñado para etiquetar los enlaces de pago/publicidad. Con esto Google pretende conocer mejor la naturaleza de aquellos enlaces obtenidos a cambio de una colaboración monetaria.     
@@ -81,7 +81,8 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTIwNDIxMDgsLTE5MTQzNjAzNDEsLT
-IxMTgyNDA3NjUsNTgzOTQ5MzY3LDEyMDQ1MTY1MDgsLTE1NjY5
-MzEzNjQsLTU1Nzg2NTg0Niw1ODExMzYyMzVdfQ==
+eyJoaXN0b3J5IjpbNTUwOTI0NzI3LC0xNjEyMDQyMTA4LC0xOT
+E0MzYwMzQxLC0yMTE4MjQwNzY1LDU4Mzk0OTM2NywxMjA0NTE2
+NTA4LC0xNTY2OTMxMzY0LC01NTc4NjU4NDYsNTgxMTM2MjM1XX
+0=
 -->
