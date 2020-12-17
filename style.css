@@ -232,7 +232,7 @@ section .page-content .content-section p, section .page-content .content-section
   font-size: 17px;
   line-height: 1.5;
   color: #363636;
-  font-weight: 100;
+  */font-weight: 100;*/
   margin-bottom: 1rem;
 }
 section .page-content .content-section p strong {
