@@ -1,5 +1,5 @@
 ---
-title: Analytics y userid tag manager
+title: Configuración de Google Analytics y userid tag manager
 description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
 layout: 21_erg
 author: Emirodgar
@@ -30,15 +30,6 @@ Un ejemplo de cómo tendríamos que utilizar estos atributos sería el siguiente
 
 En la siguiente imagen podemos ver un esquema de la evolución de los atributos y su impacto en las estrategias SEO.
 
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Así me gusta explicar la diferencia entre HTML, CSS y Javascript y las diferentes opciones de renderizado. <a href="https://t.co/x8sMvAXcNu">pic.twitter.com/x8sMvAXcNu</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1163769116571947009?ref_src=twsrc%5Etfw">August 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1207679355150831620">
-</amp-twitter>
     
 
 ## Conclusiones
@@ -90,7 +81,7 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQzNjAzNDEsLTIxMTgyNDA3NjUsNT
-gzOTQ5MzY3LDEyMDQ1MTY1MDgsLTE1NjY5MzEzNjQsLTU1Nzg2
-NTg0Niw1ODExMzYyMzVdfQ==
+eyJoaXN0b3J5IjpbLTE2MTIwNDIxMDgsLTE5MTQzNjAzNDEsLT
+IxMTgyNDA3NjUsNTgzOTQ5MzY3LDEyMDQ1MTY1MDgsLTE1NjY5
+MzEzNjQsLTU1Nzg2NTg0Niw1ODExMzYyMzVdfQ==
 -->
