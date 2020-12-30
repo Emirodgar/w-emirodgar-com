@@ -37,7 +37,7 @@ En la siguiente imagen podemos ver un esquema de la evolución de los atributos 
 
 -   No es obligatorio utilizar ninguno de los atributos. Si no lo hacemos, el enlace servirá para rastrear, indexar y posicionar la página de destino.       
 -   Google no recomienda llevar a cabo ningún cambio en el enlazado actual, lo propone más bien para etiquetar de aquí en adelante. También ha dicho que no se esperan grandes cambios en los rankings.       
--   Actualmente ninguno de los tres atriburos sirve para rastrear ni indexar la URL de destino pero queda en manos de Google decidir si suman al posicionamiento web. A partir de marzo de 2020 todas las acciones -rastrear, indexar y posicionar- serán decisión de Google en función de cómo de relevante considere el enlace y la página de destino, independientemente del atributo que tenga el enlace.    
+-   Actualmente ninguno de los tres atributosS sirve para rastrear ni indexar la URL de destino pero queda en manos de Google decidir si suman al posicionamiento web. A partir de marzo de 2020 todas las acciones -rastrear, indexar y posicionar- serán decisión de Google en función de cómo de relevante considere el enlace y la página de destino, independientemente del atributo que tenga el enlace.    
 -   Podemos combinar los atributos como queramos, es decir, no estamos limitados a usar sólo uno.  
      
 
@@ -81,8 +81,8 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwOTI0NzI3LC0xNjEyMDQyMTA4LC0xOT
-E0MzYwMzQxLC0yMTE4MjQwNzY1LDU4Mzk0OTM2NywxMjA0NTE2
-NTA4LC0xNTY2OTMxMzY0LC01NTc4NjU4NDYsNTgxMTM2MjM1XX
-0=
+eyJoaXN0b3J5IjpbLTIxMTEwODk0NzgsNTUwOTI0NzI3LC0xNj
+EyMDQyMTA4LC0xOTE0MzYwMzQxLC0yMTE4MjQwNzY1LDU4Mzk0
+OTM2NywxMjA0NTE2NTA4LC0xNTY2OTMxMzY0LC01NTc4NjU4ND
+YsNTgxMTM2MjM1XX0=
 -->
