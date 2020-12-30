@@ -14,7 +14,7 @@ permalink: test2
 
 ---
 
-Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
+Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos difgsponer de un sistema de registro de usuarios.
 
 Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 
@@ -83,8 +83,8 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTc4NDcxMyw1NTA5MjQ3MjcsLTE2MT
-IwNDIxMDgsLTE5MTQzNjAzNDEsLTIxMTgyNDA3NjUsNTgzOTQ5
-MzY3LDEyMDQ1MTY1MDgsLTE1NjY5MzEzNjQsLTU1Nzg2NTg0Ni
-w1ODExMzYyMzVdfQ==
+eyJoaXN0b3J5IjpbLTExOTA5MjU3MzgsLTk0NTc4NDcxMyw1NT
+A5MjQ3MjcsLTE2MTIwNDIxMDgsLTE5MTQzNjAzNDEsLTIxMTgy
+NDA3NjUsNTgzOTQ5MzY3LDEyMDQ1MTY1MDgsLTE1NjY5MzEzNj
+QsLTU1Nzg2NTg0Niw1ODExMzYyMzVdfQ==
 -->
