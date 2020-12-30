@@ -68,7 +68,13 @@
 						<div id="ergtoc" hidden>{% include toc.html html=content %}</div>
 				{% endif %}
 				{{ content }}
-		  </div>
+		   </div>
+		   {% if page.cta1title != null %}
+				<div class="section-container capability-card">
+					<h2>{% page.cta1title %}</h2>
+					<p>{% page.cta1content %}</p>
+				</div>
+		   {% endif %}
 
 		</div><!-- .content-section -->
 			
