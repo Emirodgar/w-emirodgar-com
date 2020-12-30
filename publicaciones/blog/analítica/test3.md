@@ -15,7 +15,7 @@ date_modified: 12/08/2020
 
 ---
 
-Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
+Sí, Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 Esto es otra prueba. Y otra más. Igual. Más. sdf fdgfdgfdg dfgdfgdfg dfgdfgdfgdf dsfds f DSFDSF SD dfsgdfgdfg dfgdgdfg 
 
 Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics: fhgfh
@@ -58,11 +58,11 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3MzEwMTM5LC04MTY3OTk0MjYsOTczND
-UzMTcsNjgyMTU2NTkwLDEyNzU5NTY2NDIsNjA3ODY1MjUzLDM1
-MTcyMjQ5MiwxODEwNjUxNTE4LC02OTI5ODU0MDAsMTEzMzg2ND
-M5MCwtMTA0MDQ0OTU3LDkzNjkwNTE0OSwxNDEyODY0MTc3LDEz
-MDkyODE0MTIsLTE4MDM3MDM1ODMsLTg2NDU4NjExMiwxMDE4Mz
-IyMTk3LDk5NTg4MzgwNiwxNjkzODYyMjY5LDI4MDU4MjA3N119
-
+eyJoaXN0b3J5IjpbLTMyMzM5Nzk3NSwtODE2Nzk5NDI2LDk3Mz
+Q1MzE3LDY4MjE1NjU5MCwxMjc1OTU2NjQyLDYwNzg2NTI1Mywz
+NTE3MjI0OTIsMTgxMDY1MTUxOCwtNjkyOTg1NDAwLDExMzM4Nj
+QzOTAsLTEwNDA0NDk1Nyw5MzY5MDUxNDksMTQxMjg2NDE3Nywx
+MzA5MjgxNDEyLC0xODAzNzAzNTgzLC04NjQ1ODYxMTIsMTAxOD
+MyMjE5Nyw5OTU4ODM4MDYsMTY5Mzg2MjI2OSwyODA1ODIwNzdd
+fQ==
 -->
