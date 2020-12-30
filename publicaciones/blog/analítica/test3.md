@@ -9,12 +9,12 @@ folder: analitica
 category: Analítica
 image: https://emirodgar.com/cdn/images/og/analitica.png
 permalink: test3
-tag: 1
+tags: 1
 date_modified: 12/08/2020
 
 ---
 
-Prueba 154545df sdfds f
+Prueba 154545df sdfds f dfgdfgfdg
 
 Sí, Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
 Esto es otra prueba. Y otra más. Igual. Más. sdf fdgfdgfdg dfgdfgdfg dfgdfgdfgdf dsfds f DSFDSF SD dfsgdfgdfg dfgdgdfg 
@@ -59,11 +59,11 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTM1OTU0MSwtNjQyMTE5MTgxLDE1NT
-kzNzQxNTksLTE1OTI1ODUzMzEsLTgxNjc5OTQyNiw5NzM0NTMx
-Nyw2ODIxNTY1OTAsMTI3NTk1NjY0Miw2MDc4NjUyNTMsMzUxNz
-IyNDkyLDE4MTA2NTE1MTgsLTY5Mjk4NTQwMCwxMTMzODY0Mzkw
-LC0xMDQwNDQ5NTcsOTM2OTA1MTQ5LDE0MTI4NjQxNzcsMTMwOT
-I4MTQxMiwtMTgwMzcwMzU4MywtODY0NTg2MTEyLDEwMTgzMjIx
-OTddfQ==
+eyJoaXN0b3J5IjpbOTUxOTA5OTk3LC02NDIxMTkxODEsMTU1OT
+M3NDE1OSwtMTU5MjU4NTMzMSwtODE2Nzk5NDI2LDk3MzQ1MzE3
+LDY4MjE1NjU5MCwxMjc1OTU2NjQyLDYwNzg2NTI1MywzNTE3Mj
+I0OTIsMTgxMDY1MTUxOCwtNjkyOTg1NDAwLDExMzM4NjQzOTAs
+LTEwNDA0NDk1Nyw5MzY5MDUxNDksMTQxMjg2NDE3NywxMzA5Mj
+gxNDEyLC0xODAzNzAzNTgzLC04NjQ1ODYxMTIsMTAxODMyMjE5
+N119
 -->
