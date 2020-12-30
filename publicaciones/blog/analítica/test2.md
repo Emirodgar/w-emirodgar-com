@@ -8,6 +8,8 @@ feed: 0
 folder: analitica2
 category: Analítica2
 image: https://emirodgar.com/cdn/images/og/analitica.png
+cta1title: Planificación estratégica
+cta1content: Todos nuestros proyectos se nutren de una excelente planificación
 permalink: test2
 
 ---
@@ -81,8 +83,8 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTEwODk0NzgsNTUwOTI0NzI3LC0xNj
-EyMDQyMTA4LC0xOTE0MzYwMzQxLC0yMTE4MjQwNzY1LDU4Mzk0
-OTM2NywxMjA0NTE2NTA4LC0xNTY2OTMxMzY0LC01NTc4NjU4ND
-YsNTgxMTM2MjM1XX0=
+eyJoaXN0b3J5IjpbLTk0NTc4NDcxMyw1NTA5MjQ3MjcsLTE2MT
+IwNDIxMDgsLTE5MTQzNjAzNDEsLTIxMTgyNDA3NjUsNTgzOTQ5
+MzY3LDEyMDQ1MTY1MDgsLTE1NjY5MzEzNjQsLTU1Nzg2NTg0Ni
+w1ODExMzYyMzVdfQ==
 -->
