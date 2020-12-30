@@ -30,7 +30,7 @@ Un ejemplo de cómo tendríamos que utilizar estos atributos sería el siguiente
  <a href="https://emirodgar.com" rel="nofollow">Emirodgar</a>
  ```  
 
-En la siguiente imagen podemos ver un esquema de la evolución de los atributos y su impacto en las estrategias SEO.
+En la siguiente imagen podemos ver un esquema de la evolución de los atributos y su impacto en las estrategias SEO. Vale, vale
 
     
 
@@ -83,8 +83,8 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjY0NDUyMiwtOTQ1Nzg0NzEzLDU1MD
-kyNDcyNywtMTYxMjA0MjEwOCwtMTkxNDM2MDM0MSwtMjExODI0
-MDc2NSw1ODM5NDkzNjcsMTIwNDUxNjUwOCwtMTU2NjkzMTM2NC
-wtNTU3ODY1ODQ2LDU4MTEzNjIzNV19
+eyJoaXN0b3J5IjpbLTI0Nzc5MjAxOCwyMDgyNjQ0NTIyLC05ND
+U3ODQ3MTMsNTUwOTI0NzI3LC0xNjEyMDQyMTA4LC0xOTE0MzYw
+MzQxLC0yMTE4MjQwNzY1LDU4Mzk0OTM2NywxMjA0NTE2NTA4LC
+0xNTY2OTMxMzY0LC01NTc4NjU4NDYsNTgxMTM2MjM1XX0=
 -->
