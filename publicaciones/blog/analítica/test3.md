@@ -1,5 +1,5 @@
 ---
-title: Nuevos atributos para los enlaces de Google
+title: 10 nuevos atributos para los enlaces de Google
 description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
 layout: 21_erg
 author: Emirodgar
@@ -60,7 +60,7 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQzNjIxNTYsLTgxNjc5OTQyNiw5Nz
+eyJoaXN0b3J5IjpbLTE1OTI1ODUzMzEsLTgxNjc5OTQyNiw5Nz
 M0NTMxNyw2ODIxNTY1OTAsMTI3NTk1NjY0Miw2MDc4NjUyNTMs
 MzUxNzIyNDkyLDE4MTA2NTE1MTgsLTY5Mjk4NTQwMCwxMTMzOD
 Y0MzkwLC0xMDQwNDQ5NTcsOTM2OTA1MTQ5LDE0MTI4NjQxNzcs
