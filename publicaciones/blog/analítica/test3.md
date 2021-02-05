@@ -9,59 +9,24 @@ folder: analitica
 category: Analítica
 tags: 1
 image: https://emirodgar.com/cdn/images/og/analitica.png
-permalink: test3
+permalink: test_home
 date_modified: 12/08/2020
 
 ---
 
-No Sí, Dado que se trata de un seguimiento por usuario es requisito indispensable que podamos **identificar de forma única cada visitante de nuestra web**. Para ello, lo normal suele ser generar un ID de usuario cuando se han identificado en nuestro sistema; es decir, necesitamos disponer de un sistema de registro de usuarios.
-Esto es otra prueba. Y otra más. Igual. Más. sdf fdgfdgfdg dfgdfgdfg dfgdfgdfgdf dsfds f DSFDSF SD dfsgdfgdfg dfgdgdfg 
+¿Nuevo en SEO? comencemos por lo básico. Las siglas SEO hacen referencia a *Search Engine Optimization* que en castellano sería el equivalente a **Optimización de motores de búsqueda** o **Posicionamiento en Buscadores**.
 
-Para solucionar esta configuración por defecto y poder unificar todas las sesiones de un mismo usuario bajo un mismo identificador, Analytics nos ofrece la opción de utilizar el [ID de usuario](https://support.google.com/tagmanager/answer/4565987) (User ID).  Así define Google el objetivo de esta funcionalidad de Analytics: fhgfh
-Bien!
+El objetivo del SEO es aumentar la **cantidad** y **calidad** del tráfico de un sitio web a través de resultados orgánicos (tráfico no pagado que proviene de los distintos motores de búsqueda). 
 
-Un ejemplo de cómo tendríamos que utilizar estos atributos sería el siguiente:
+Esto se logra gracias a mejorar el posicionamiento y visibilidad para búsquedas relevantes. Desde hace unos años es muy importante el trabajo asociado a la experiencia de los usuarios en nuestro sitio web. Lo denominamos *Search Experience Optimization*.
 
- ```html     
- <a href="https://emirodgar.com" rel="ugc">Emirodgar</a>
- <a href="https://emirodgar.com" rel="sponsored">Emirodgar</a>
- <a href="https://emirodgar.com" rel="nofollow">Emirodgar</a>
- ```  
-
-
-
-## Paso 2 - Enviar el ID a la capa de datos
-
-Cuando tengamos un identificador único para cada usuario que ha accedido a nuestro sistema, debemos enviarlo a la capa de datos de la siguiente forma:
-
-```js
-<script type="text/JavaScript"> 
-  window.dataLayer = window.dataLayer || [];
-  dataLayer.push {( 'erg_userID': 'XXXXXX' )} 
-</script>
-
-```
-
-Es importante que enviemos la información del identificador del usuario antes del código base de Google Tag Manager.
-
-## Paso 3 - Recuperar el ID en Tag Manager
-
-Ahora debemos recuperar el ID de usuario en GTM para lo cual necesitaremos crear una variable con las siguientes características:
-
- - **Nombre**: el mismo que hemos utilizado en el envío a la capa de datos. En el ejemplo anterior sería: erg_userID.
- - **Tipo**: variable de capa de datos.
-
-## Paso 4 - Enviar el ID de usuario a Analytics
-
-En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones > Campos para configurar".
-
-Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
+Si damos respuesta a los que nuestros usuarios están buscando, los algoritmos de los buscadores lo tendrán en cuenta y favorecerá nuestra estrategia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY5MzE1MDQsLTY0MjExOTE4MSwxNT
-U5Mzc0MTU5LC0xNTkyNTg1MzMxLC04MTY3OTk0MjYsOTczNDUz
-MTcsNjgyMTU2NTkwLDEyNzU5NTY2NDIsNjA3ODY1MjUzLDM1MT
-cyMjQ5MiwxODEwNjUxNTE4LC02OTI5ODU0MDAsMTEzMzg2NDM5
-MCwtMTA0MDQ0OTU3LDkzNjkwNTE0OSwxNDEyODY0MTc3LDEzMD
-kyODE0MTIsLTE4MDM3MDM1ODMsLTg2NDU4NjExMiwxMDE4MzIy
-MTk3XX0=
+eyJoaXN0b3J5IjpbLTQ5NjUxMzE1MSwtMTYwNjkzMTUwNCwtNj
+QyMTE5MTgxLDE1NTkzNzQxNTksLTE1OTI1ODUzMzEsLTgxNjc5
+OTQyNiw5NzM0NTMxNyw2ODIxNTY1OTAsMTI3NTk1NjY0Miw2MD
+c4NjUyNTMsMzUxNzIyNDkyLDE4MTA2NTE1MTgsLTY5Mjk4NTQw
+MCwxMTMzODY0MzkwLC0xMDQwNDQ5NTcsOTM2OTA1MTQ5LDE0MT
+I4NjQxNzcsMTMwOTI4MTQxMiwtMTgwMzcwMzU4MywtODY0NTg2
+MTEyXX0=
 -->
