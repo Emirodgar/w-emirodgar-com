@@ -52,6 +52,21 @@
 		<div class="content-section">
 		  <div class="section-container">
 				<h1 class="title">{{ page.title }}</h1>
+				<div class="entry-meta">
+					<strong><time class="entry-date published" datetime="{{ site.time |  date: '%Y-%m-%d %H:%M:%S' }}">{{ site.time |  date: ' %d/%m/%Y' }}</time></strong>
+						| 
+						 {% assign words = content | number_of_words %}
+						  {% if words < 360 %}
+							1 minuto
+						  {% else %}
+							{{ words | divided_by:180 }} minutos
+						  {% endif %}
+				</div>
+				 {% if page.toc!= null %}
+				  <h4>Tabla de contenidos</h4>
+						<a id="ergtoclink" on="tap:ergtoc.toggleVisibility">Mostrar / ocultar</a>
+						<div id="ergtoc" hidden>{% include toc.html html=content %}</div>
+				{% endif %}
 				{{ content }}
 		   </div>
 		   {% if page.tags== 1 %}
