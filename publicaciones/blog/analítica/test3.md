@@ -1,6 +1,6 @@
 ---
-title: Consultoría SEO o
-description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
+title: SEO orientado a resultados
+description: Más de 15 años nos avalan. Conoce nuestros casos de éxito y nuestra forma de trabajar.
 layout: 21_erg
 author: Emirodgar
 sitemap: 0
@@ -22,7 +22,7 @@ Esto se logra gracias a mejorar el posicionamiento y visibilidad para búsquedas
 
 Si damos respuesta a los que nuestros usuarios están buscando, los algoritmos de los buscadores lo tendrán en cuenta y favorecerá nuestra estrategia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTk3NDM4NSwtNDk2NTEzMTUxLC0xNj
+eyJoaXN0b3J5IjpbMTc1MTUzNTU5NiwtNDk2NTEzMTUxLC0xNj
 A2OTMxNTA0LC02NDIxMTkxODEsMTU1OTM3NDE1OSwtMTU5MjU4
 NTMzMSwtODE2Nzk5NDI2LDk3MzQ1MzE3LDY4MjE1NjU5MCwxMj
 c1OTU2NjQyLDYwNzg2NTI1MywzNTE3MjI0OTIsMTgxMDY1MTUx
