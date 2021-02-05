@@ -20,13 +20,13 @@ El objetivo del SEO es aumentar la **cantidad** y **calidad** del tráfico de un
 
 Esto se logra gracias a mejorar el posicionamiento y visibilidad para búsquedas relevantes. Desde hace unos años es muy importante el trabajo asociado a la experiencia de los usuarios en nuestro sitio web. Lo denominamos *Search Experience Optimization*.
 
-Si damos respuesta a los que nuestros usuarios están buscando, los algoritmos de los buscadores lo tendrán en cuenta y favorecerá nuestra estrategia.
+## ¿Cómo trabajamos el SEO?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTUzNTU5NiwtNDk2NTEzMTUxLC0xNj
-A2OTMxNTA0LC02NDIxMTkxODEsMTU1OTM3NDE1OSwtMTU5MjU4
-NTMzMSwtODE2Nzk5NDI2LDk3MzQ1MzE3LDY4MjE1NjU5MCwxMj
-c1OTU2NjQyLDYwNzg2NTI1MywzNTE3MjI0OTIsMTgxMDY1MTUx
-OCwtNjkyOTg1NDAwLDExMzM4NjQzOTAsLTEwNDA0NDk1Nyw5Mz
-Y5MDUxNDksMTQxMjg2NDE3NywxMzA5MjgxNDEyLC0xODAzNzAz
-NTgzXX0=
+eyJoaXN0b3J5IjpbMjk3ODUyOTI5LDE3NTE1MzU1OTYsLTQ5Nj
+UxMzE1MSwtMTYwNjkzMTUwNCwtNjQyMTE5MTgxLDE1NTkzNzQx
+NTksLTE1OTI1ODUzMzEsLTgxNjc5OTQyNiw5NzM0NTMxNyw2OD
+IxNTY1OTAsMTI3NTk1NjY0Miw2MDc4NjUyNTMsMzUxNzIyNDky
+LDE4MTA2NTE1MTgsLTY5Mjk4NTQwMCwxMTMzODY0MzkwLC0xMD
+QwNDQ5NTcsOTM2OTA1MTQ5LDE0MTI4NjQxNzcsMTMwOTI4MTQx
+Ml19
 -->
