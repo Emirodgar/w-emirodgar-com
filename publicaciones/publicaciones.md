@@ -52,7 +52,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 
-##<a name="programacion"></a> Publicaciones de Programación
+## <a name="programacion"></a> Publicaciones de Programación
 
 <ul>
 {% for page in site.pages %}
@@ -65,7 +65,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 </ul>
 
 
-##<a name="especiales"></a> Publicaciones especiales
+## <a name="especiales"></a> Publicaciones especiales
 
 <ul>
 {% for page in site.pages %}
@@ -92,6 +92,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjU2MTAzNywxMTQ5MTk4MzEsLTY0Mz
+eyJoaXN0b3J5IjpbMjA4Mzc3MTc1NywxMTQ5MTk4MzEsLTY0Mz
 E3OTExOF19
 -->
