@@ -17,21 +17,23 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 ## <a name="seo"></a> Publicaciones SEO
 
-<div class="item mb-5">
-				    <div class="media">
-					   <div class="media-body">
+
 {% for page in site.pages %}
 {% if page.title != null  %}
 	{% if page.folder== "seo" %}
+	<div class="item mb-5">
+				    <div class="media">
+					   <div class="media-body">
 	  <h3 class="title mb-1"><a href="{{ page.url }}">{{ page.title }}</a></h3>
 	  <div class="meta mb-1"><span class="date">{{ page.date }}</span></div>
 	  <div class="intro">{{ page.description}}</div>
+	     </div><!--//media-body-->
+				    </div><!--//media-->
+			    </div><!--//item-->
 	{% endif %}
 {% endif %}
 {% endfor %}
-   </div><!--//media-body-->
-				    </div><!--//media-->
-			    </div><!--//item-->
+
 
 ## <a name="analitica"></a> Publicaciones de Analítica web
 
@@ -99,6 +101,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTU1NjMxNSwxNzUzMjE2ODY2LDE5Nz
-Y3ODI5MTgsLTE5NjExMTc1NjRdfQ==
+eyJoaXN0b3J5IjpbNTA5ODc1NzA3LDExMTk1NTYzMTUsMTc1Mz
+IxNjg2NiwxOTc2NzgyOTE4LC0xOTYxMTE3NTY0XX0=
 -->
