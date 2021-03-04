@@ -15,7 +15,7 @@ permalink: publicaciones-test
 
 Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de otras áreas relacionadas con el Marketing Digital.df
 
-## <a name="seo"></a> Publicaciones SEO3
+## <a name="seo"></a> Publicaciones SEO4
 
 
 {% for page in site.pages %}
@@ -24,7 +24,8 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 	<div class="item mb-5"><div class="media"><div class="media-body">
 	<h3 class="title mb-1"><a href="{{ page.url }}">{{ page.title }}</a></h3>
 	<div class="meta mb-1"><span class="date">{{ page.date }}</span></div>
-	<div class="intro">{{ page.description}}</div></div></div></div>		    
+	<div class="intro">{{ page.description}}</div>
+	</div></div></div>		    
 	{% endif %}
 {% endif %}
 {% endfor %}
@@ -96,7 +97,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTg1MDMzOSwtMTM2MzI0NzAzOSw1MD
-k4NzU3MDcsMTExOTU1NjMxNSwxNzUzMjE2ODY2LDE5NzY3ODI5
-MTgsLTE5NjExMTc1NjRdfQ==
+eyJoaXN0b3J5IjpbLTEyNzcxMTU3MzIsMTEzMTg1MDMzOSwtMT
+M2MzI0NzAzOSw1MDk4NzU3MDcsMTExOTU1NjMxNSwxNzUzMjE2
+ODY2LDE5NzY3ODI5MTgsLTE5NjExMTc1NjRdfQ==
 -->
