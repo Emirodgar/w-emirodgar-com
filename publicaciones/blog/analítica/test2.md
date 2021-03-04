@@ -16,11 +16,12 @@ permalink: test2
 
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+
 ### Code Block Example
 
-You can get more info at  [https://highlightjs.org/](https://highlightjs.org/). Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+You can get more info at  [https://highlightjs.org/](https://highlightjs.org/). Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim
 
-					    ``function $initHighlight(block, cls) {
+```function $initHighlight(block, cls) {
   try {
     if (cls.search(/\bno\-highlight\b/) != -1)
       return process(block, true, 0x0F) +
@@ -57,9 +58,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 > 
 > John Romero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkzNTM4MTMsMTQ1MTk1OTcwNywxMz
-g4ODQ4OTIzLDIwODI2NDQ1MjIsLTk0NTc4NDcxMyw1NTA5MjQ3
-MjcsLTE2MTIwNDIxMDgsLTE5MTQzNjAzNDEsLTIxMTgyNDA3Nj
-UsNTgzOTQ5MzY3LDEyMDQ1MTY1MDgsLTE1NjY5MzEzNjQsLTU1
-Nzg2NTg0Niw1ODExMzYyMzVdfQ==
+eyJoaXN0b3J5IjpbLTIyMzM3NzU2MSwtMTI1OTM1MzgxMywxND
+UxOTU5NzA3LDEzODg4NDg5MjMsMjA4MjY0NDUyMiwtOTQ1Nzg0
+NzEzLDU1MDkyNDcyNywtMTYxMjA0MjEwOCwtMTkxNDM2MDM0MS
+wtMjExODI0MDc2NSw1ODM5NDkzNjcsMTIwNDUxNjUwOCwtMTU2
+NjkzMTM2NCwtNTU3ODY1ODQ2LDU4MTEzNjIzNV19
 -->
