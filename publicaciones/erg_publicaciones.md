@@ -31,15 +31,9 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 {% endfor %}
 
 
-## <a name="analitica"></a> Publicaciones de Analítica web2
+## <a name="analitica"></a> Publicaciones de Analítica web3
 
-{% for page in site.pages %}
-{% if page.title != null  %}
-	{% if page.folder== "analitica" %}
-	  <div class="item mb-5"><div class="media"><div class="media-body"><h3 class="title mb-1"><a href="{{ page.url }}">{{ page.title }}</a></h3></div></div></div>
-	{% endif %}
-{% endif %}
-{% endfor %}
+{% for page in site.pages %} {% if page.title != null  %} {% if page.folder== "analitica" %}<div class="item mb-5"><div class="media"><div class="media-body"><h3 class="title mb-1"><a href="{{ page.url }}">{{ page.title }}</a></h3></div></div></div>{% endif %}{% endif %}{% endfor %}
 
 
 
@@ -96,7 +90,8 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI1MzUyNDAsMTEzMTg1MDMzOSwtMT
-M2MzI0NzAzOSw1MDk4NzU3MDcsMTExOTU1NjMxNSwxNzUzMjE2
-ODY2LDE5NzY3ODI5MTgsLTE5NjExMTc1NjRdfQ==
+eyJoaXN0b3J5IjpbMTQ5OTM5OTc1NSwtMTYzMjUzNTI0MCwxMT
+MxODUwMzM5LC0xMzYzMjQ3MDM5LDUwOTg3NTcwNywxMTE5NTU2
+MzE1LDE3NTMyMTY4NjYsMTk3Njc4MjkxOCwtMTk2MTExNzU2NF
+19
 -->
