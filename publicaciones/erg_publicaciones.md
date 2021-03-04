@@ -21,6 +21,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 {% for page in site.pages %}
 {% if page.title != null  %}
 	{% if page.folder== "seo" %}
+	
 	<div class="item mb-5">
 				    <div class="media">
 					   <div class="media-body">
@@ -30,6 +31,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 	     </div><!--//media-body-->
 				    </div><!--//media-->
 			    </div><!--//item-->
+			    
 	{% endif %}
 {% endif %}
 {% endfor %}
@@ -101,7 +103,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjMyNDcwMzksNTA5ODc1NzA3LDExMT
-k1NTYzMTUsMTc1MzIxNjg2NiwxOTc2NzgyOTE4LC0xOTYxMTE3
-NTY0XX0=
+eyJoaXN0b3J5IjpbNjI5NDI1NzEzLC0xMzYzMjQ3MDM5LDUwOT
+g3NTcwNywxMTE5NTU2MzE1LDE3NTMyMTY4NjYsMTk3Njc4Mjkx
+OCwtMTk2MTExNzU2NF19
 -->
