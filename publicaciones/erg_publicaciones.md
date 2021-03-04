@@ -29,6 +29,9 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 	{% endif %}
 {% endif %}
 {% endfor %}
+   </div><!--//media-body-->
+				    </div><!--//media-->
+			    </div><!--//item-->
 
 ## <a name="analitica"></a> Publicaciones de Analítica web
 
@@ -96,6 +99,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyMzUxNTk0LDE3NTMyMTY4NjYsMTk3Nj
-c4MjkxOCwtMTk2MTExNzU2NF19
+eyJoaXN0b3J5IjpbMTExOTU1NjMxNSwxNzUzMjE2ODY2LDE5Nz
+Y3ODI5MTgsLTE5NjExMTc1NjRdfQ==
 -->
