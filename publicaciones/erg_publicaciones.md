@@ -11,8 +11,6 @@ permalink: publicaciones-test
 
 ---
 
-# Publicaciones SEO
-
 Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de otras áreas relacionadas con el Marketing Digital.df
 
 ## <a name="seo"></a> Publicaciones SEO
@@ -93,8 +91,8 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Njc4MjkxOCwxNDk5Mzk5NzU1LC0xNj
-MyNTM1MjQwLDExMzE4NTAzMzksLTEzNjMyNDcwMzksNTA5ODc1
-NzA3LDExMTk1NTYzMTUsMTc1MzIxNjg2NiwxOTc2NzgyOTE4LC
-0xOTYxMTE3NTY0XX0=
+eyJoaXN0b3J5IjpbLTE5NTk3MDEwNywxOTc2NzgyOTE4LDE0OT
+kzOTk3NTUsLTE2MzI1MzUyNDAsMTEzMTg1MDMzOSwtMTM2MzI0
+NzAzOSw1MDk4NzU3MDcsMTExOTU1NjMxNSwxNzUzMjE2ODY2LD
+E5NzY3ODI5MTgsLTE5NjExMTc1NjRdfQ==
 -->
