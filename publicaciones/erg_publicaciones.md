@@ -22,8 +22,8 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 {% if page.title != null  %}
 	{% if page.folder== "seo" %}
 	  <h3 class="title mb-1"><a href="{{ page.url }}">{{ page.title }}</a></h3>
-	  <div class="meta mb-1"><span class="date">{{ page.date }}</span><span class="time">5 min read</span><span class="comment"><a href="#">8 comments</a></span></div>
-						    <div class="intro">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies...</div>
+	  <div class="meta mb-1"><span class="date">{{ page.date }}</span></div>
+	  <div class="intro">{{ page.description}}</div>
 	{% endif %}
 {% endif %}
 {% endfor %}
@@ -95,6 +95,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDk4ODYwOCwxOTc2NzgyOTE4LC0xOT
+eyJoaXN0b3J5IjpbMTc1MzIxNjg2NiwxOTc2NzgyOTE4LC0xOT
 YxMTE3NTY0XX0=
 -->
