@@ -15,26 +15,29 @@ permalink: publicaciones-test
 
 Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de otras áreas relacionadas con el Marketing Digital.df
 
-## <a name="seo"></a> Publicaciones SEO4
+## <a name="seo"></a> Publicaciones SEO
 
-
+<ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
 	{% if page.folder== "seo" %}
-	<div class="item mb-5"><div class="media"><div class="media-body">
-	<h3 class="title mb-1"><a href="{{ page.url }}">{{ page.title }}</a></h3>
-	<div class="meta mb-1"><span class="date">{{ page.date }}</span></div>
-	<div class="intro">{{ page.description}}</div>
-	</div></div></div>		    
+	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 	{% endif %}
 {% endif %}
 {% endfor %}
+</ul>
 
+## <a name="analitica"></a> Publicaciones de Analítica web
 
-## <a name="analitica"></a> Publicaciones de Analítica web3
-
-{% for page in site.pages %} {% if page.title != null  %} {% if page.folder== "analitica" %}<div class="item mb-5"><div class="media"><div class="media-body"><h3 class="title mb-1"><a href="{{ page.url }}">{{ page.title }}</a></h3></div></div></div>{% endif %}{% endif %}{% endfor %}
-
+<ul>
+{% for page in site.pages %}
+{% if page.title != null  %}
+	{% if page.folder== "analitica" %}
+	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+	{% endif %}
+{% endif %}
+{% endfor %}
+</ul>
 
 
 ## <a name="marketing"></a> Publicaciones de Marketing
@@ -90,8 +93,8 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTM5OTc1NSwtMTYzMjUzNTI0MCwxMT
-MxODUwMzM5LC0xMzYzMjQ3MDM5LDUwOTg3NTcwNywxMTE5NTU2
-MzE1LDE3NTMyMTY4NjYsMTk3Njc4MjkxOCwtMTk2MTExNzU2NF
-19
+eyJoaXN0b3J5IjpbMTk3Njc4MjkxOCwxNDk5Mzk5NzU1LC0xNj
+MyNTM1MjQwLDExMzE4NTAzMzksLTEzNjMyNDcwMzksNTA5ODc1
+NzA3LDExMTk1NTYzMTUsMTc1MzIxNjg2NiwxOTc2NzgyOTE4LC
+0xOTYxMTE3NTY0XX0=
 -->
