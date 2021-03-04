@@ -36,7 +36,7 @@ You can get more info at  [https://highlightjs.org/](https://highlightjs.org/). 
 }
 
 export  $initHighlight;`` 
-				    
+```				    
 
 ### Typography
 
@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 > 
 > John Romero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzM3NzU2MSwtMTI1OTM1MzgxMywxND
+eyJoaXN0b3J5IjpbLTIxNjc1OTkxNSwtMTI1OTM1MzgxMywxND
 UxOTU5NzA3LDEzODg4NDg5MjMsMjA4MjY0NDUyMiwtOTQ1Nzg0
 NzEzLDU1MDkyNDcyNywtMTYxMjA0MjEwOCwtMTkxNDM2MDM0MS
 wtMjExODI0MDc2NSw1ODM5NDkzNjcsMTIwNDUxNjUwOCwtMTU2
