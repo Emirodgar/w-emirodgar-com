@@ -17,7 +17,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 ## <a name="seo"></a> Publicaciones SEO
 
-<ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
 	{% if page.folder== "seo" %}
@@ -27,7 +26,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 	{% endif %}
 {% endif %}
 {% endfor %}
-</ul>
 
 ## <a name="analitica"></a> Publicaciones de Analítica web
 
@@ -95,6 +93,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzIxNjg2NiwxOTc2NzgyOTE4LC0xOT
-YxMTE3NTY0XX0=
+eyJoaXN0b3J5IjpbMjEzNDk2MDI5NSwxNzUzMjE2ODY2LDE5Nz
+Y3ODI5MTgsLTE5NjExMTc1NjRdfQ==
 -->
