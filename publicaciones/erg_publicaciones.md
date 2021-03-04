@@ -33,15 +33,14 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 ## <a name="analitica"></a> Publicaciones de Analítica web
 
-<ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
 	{% if page.folder== "analitica" %}
-	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+	  <div class="item mb-5"><div class="media"><div class="media-body"><h3 class="title mb-1"><a href="{{ page.url }}">{{ page.title }}</a></h3></li>
 	{% endif %}
 {% endif %}
 {% endfor %}
-</ul>
+
 
 
 ## <a name="marketing"></a> Publicaciones de Marketing
@@ -97,7 +96,7 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzcxMTU3MzIsMTEzMTg1MDMzOSwtMT
-M2MzI0NzAzOSw1MDk4NzU3MDcsMTExOTU1NjMxNSwxNzUzMjE2
-ODY2LDE5NzY3ODI5MTgsLTE5NjExMTc1NjRdfQ==
+eyJoaXN0b3J5IjpbNTU3ODY1MzgsMTEzMTg1MDMzOSwtMTM2Mz
+I0NzAzOSw1MDk4NzU3MDcsMTExOTU1NjMxNSwxNzUzMjE2ODY2
+LDE5NzY3ODI5MTgsLTE5NjExMTc1NjRdfQ==
 -->
