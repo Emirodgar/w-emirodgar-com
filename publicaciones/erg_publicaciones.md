@@ -17,6 +17,9 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 ## <a name="seo"></a> Publicaciones SEO
 
+<div class="item mb-5">
+				    <div class="media">
+					   <div class="media-body">
 {% for page in site.pages %}
 {% if page.title != null  %}
 	{% if page.folder== "seo" %}
@@ -93,6 +96,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDk2MDI5NSwxNzUzMjE2ODY2LDE5Nz
-Y3ODI5MTgsLTE5NjExMTc1NjRdfQ==
+eyJoaXN0b3J5IjpbMzUyMzUxNTk0LDE3NTMyMTY4NjYsMTk3Nj
+c4MjkxOCwtMTk2MTExNzU2NF19
 -->
