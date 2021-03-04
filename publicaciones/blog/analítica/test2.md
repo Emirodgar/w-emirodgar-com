@@ -1,5 +1,5 @@
 ---
-title: Configuración de Google Analytics y userid tag manager
+title: Configuración de Google Analytics y userid tag manager 22
 description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
 layout: emirodgar_post
 author: Emirodgar
@@ -83,8 +83,9 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODg0ODkyMywyMDgyNjQ0NTIyLC05ND
-U3ODQ3MTMsNTUwOTI0NzI3LC0xNjEyMDQyMTA4LC0xOTE0MzYw
-MzQxLC0yMTE4MjQwNzY1LDU4Mzk0OTM2NywxMjA0NTE2NTA4LC
-0xNTY2OTMxMzY0LC01NTc4NjU4NDYsNTgxMTM2MjM1XX0=
+eyJoaXN0b3J5IjpbMTQ1MTk1OTcwNywxMzg4ODQ4OTIzLDIwOD
+I2NDQ1MjIsLTk0NTc4NDcxMyw1NTA5MjQ3MjcsLTE2MTIwNDIx
+MDgsLTE5MTQzNjAzNDEsLTIxMTgyNDA3NjUsNTgzOTQ5MzY3LD
+EyMDQ1MTY1MDgsLTE1NjY5MzEzNjQsLTU1Nzg2NTg0Niw1ODEx
+MzYyMzVdfQ==
 -->
