@@ -1,5 +1,5 @@
 ---
-title: Configuración de Google Analytics y userid tag manager 88
+title: Configuración de Google Analytics y userid tag manager 99
 description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
 layout: emirodgar_post
 author: Emirodgar
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 > 
 > John Romero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODE1NDA4Nyw0NTQ0NDc0MzMsNjQ3OD
+eyJoaXN0b3J5IjpbMTI4Njk0NTIyMyw0NTQ0NDc0MzMsNjQ3OD
 gyMTM1LDEwMDkwOTA5OTksMTI5MzczODQyMSwtMTI1OTM1Mzgx
 MywxNDUxOTU5NzA3LDEzODg4NDg5MjMsMjA4MjY0NDUyMiwtOT
 Q1Nzg0NzEzLDU1MDkyNDcyNywtMTYxMjA0MjEwOCwtMTkxNDM2
