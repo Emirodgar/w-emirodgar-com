@@ -54,14 +54,14 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 ##### Quote Example:
 
 > You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
-> 
-> John Romero
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcwODY3MTIsNDU0NDQ3NDMzLDY0Nz
-g4MjEzNSwxMDA5MDkwOTk5LDEyOTM3Mzg0MjEsLTEyNTkzNTM4
-MTMsMTQ1MTk1OTcwNywxMzg4ODQ4OTIzLDIwODI2NDQ1MjIsLT
-k0NTc4NDcxMyw1NTA5MjQ3MjcsLTE2MTIwNDIxMDgsLTE5MTQz
-NjAzNDEsLTIxMTgyNDA3NjUsNTgzOTQ5MzY3LDEyMDQ1MTY1MD
-gsLTE1NjY5MzEzNjQsLTU1Nzg2NTg0Niw1ODExMzYyMzVdfQ==
 
+¡Genial!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ4MjgyMTgzNywtMTUwNzA4NjcxMiw0NT
+Q0NDc0MzMsNjQ3ODgyMTM1LDEwMDkwOTA5OTksMTI5MzczODQy
+MSwtMTI1OTM1MzgxMywxNDUxOTU5NzA3LDEzODg4NDg5MjMsMj
+A4MjY0NDUyMiwtOTQ1Nzg0NzEzLDU1MDkyNDcyNywtMTYxMjA0
+MjEwOCwtMTkxNDM2MDM0MSwtMjExODI0MDc2NSw1ODM5NDkzNj
+csMTIwNDUxNjUwOCwtMTU2NjkzMTM2NCwtNTU3ODY1ODQ2LDU4
+MTEzNjIzNV19
 -->
