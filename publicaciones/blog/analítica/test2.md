@@ -10,7 +10,7 @@ category: Analítica2
 image: https://emirodgar.com/cdn/images/og/analitica.png
 cta1title: Planificación estratégica
 cta1content: Todos nuestros proyectos se nutren de una excelente planificación
-permalink: test-
+permalink: test-cwv
 
 ---
 
@@ -53,15 +53,14 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 ##### Quote Example:
 
-> You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+> You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity :)
 
-¡Genial!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzEwODE5NCwtMTAxNDk5MzA5NSwtMT
-AzMjM2MjkzNywtMjE0MDQ2MjIxNCwtMTU4MTQ1MjA5OCwtMTQx
-ODUzNDU0NywtMTUwNzA4NjcxMiw0NTQ0NDc0MzMsNjQ3ODgyMT
-M1LDEwMDkwOTA5OTksMTI5MzczODQyMSwtMTI1OTM1MzgxMywx
-NDUxOTU5NzA3LDEzODg4NDg5MjMsMjA4MjY0NDUyMiwtOTQ1Nz
-g0NzEzLDU1MDkyNDcyNywtMTYxMjA0MjEwOCwtMTkxNDM2MDM0
-MSwtMjExODI0MDc2NV19
+eyJoaXN0b3J5IjpbODcwMzYwODM3LC0xMDE0OTkzMDk1LC0xMD
+MyMzYyOTM3LC0yMTQwNDYyMjE0LC0xNTgxNDUyMDk4LC0xNDE4
+NTM0NTQ3LC0xNTA3MDg2NzEyLDQ1NDQ0NzQzMyw2NDc4ODIxMz
+UsMTAwOTA5MDk5OSwxMjkzNzM4NDIxLC0xMjU5MzUzODEzLDE0
+NTE5NTk3MDcsMTM4ODg0ODkyMywyMDgyNjQ0NTIyLC05NDU3OD
+Q3MTMsNTUwOTI0NzI3LC0xNjEyMDQyMTA4LC0xOTE0MzYwMzQx
+LC0yMTE4MjQwNzY1XX0=
 -->
