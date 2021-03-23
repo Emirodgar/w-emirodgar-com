@@ -10,7 +10,7 @@ category: Analítica2
 image: https://emirodgar.com/cdn/images/og/analitica.png
 cta1title: Planificación estratégica
 cta1content: Todos nuestros proyectos se nutren de una excelente planificación
-permalink: test2
+permalink: test-
 
 ---
 
@@ -57,11 +57,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 ¡Genial!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ5OTMwOTUsLTEwMzIzNjI5MzcsLT
-IxNDA0NjIyMTQsLTE1ODE0NTIwOTgsLTE0MTg1MzQ1NDcsLTE1
-MDcwODY3MTIsNDU0NDQ3NDMzLDY0Nzg4MjEzNSwxMDA5MDkwOT
-k5LDEyOTM3Mzg0MjEsLTEyNTkzNTM4MTMsMTQ1MTk1OTcwNywx
-Mzg4ODQ4OTIzLDIwODI2NDQ1MjIsLTk0NTc4NDcxMyw1NTA5Mj
-Q3MjcsLTE2MTIwNDIxMDgsLTE5MTQzNjAzNDEsLTIxMTgyNDA3
-NjUsNTgzOTQ5MzY3XX0=
+eyJoaXN0b3J5IjpbLTYxMzEwODE5NCwtMTAxNDk5MzA5NSwtMT
+AzMjM2MjkzNywtMjE0MDQ2MjIxNCwtMTU4MTQ1MjA5OCwtMTQx
+ODUzNDU0NywtMTUwNzA4NjcxMiw0NTQ0NDc0MzMsNjQ3ODgyMT
+M1LDEwMDkwOTA5OTksMTI5MzczODQyMSwtMTI1OTM1MzgxMywx
+NDUxOTU5NzA3LDEzODg4NDg5MjMsMjA4MjY0NDUyMiwtOTQ1Nz
+g0NzEzLDU1MDkyNDcyNywtMTYxMjA0MjEwOCwtMTkxNDM2MDM0
+MSwtMjExODI0MDc2NV19
 -->
