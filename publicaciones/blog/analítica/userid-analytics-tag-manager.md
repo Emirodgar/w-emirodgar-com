@@ -2,17 +2,16 @@
 title: Configurar el User ID de Analytics a través de Google Tag Manager
 description: Obtén información de tus usuarios de forma más eficiente con la función User ID de Analytics
 lang: es_ES
+layout: emirodgar_post
 author: Emirodgar
 sitemap: 1
 feed: 1
 folder: analitica
 date: 10/10/2019
-image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
+image: https://emirodgar.com/cdn/images/og/analitica.png
 permalink: userid-analytics-tag-manager
 
 ---
-
-# Configurar el User ID de Google Analytics a través de Google Tag Manager
 
 Google Analytics utiliza el [ID de cliente](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id?hl=es#getting_the_client_id_from_the_cookie) (Client ID) para identificar a los usuarios que acceden a nuestra página web.
 
@@ -53,7 +52,7 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg5NTExMDAsLTIzMTQ1NTc1MiwzOD
-M4MDMxODQsMjA1MDMxMzY5NCwxNjY5NjcwOTY4LDI0NDA5MzY4
-OCwtMTMwMzk5NTU3M119
+eyJoaXN0b3J5IjpbLTExNTg4MDIyODMsLTEzMDg5NTExMDAsLT
+IzMTQ1NTc1MiwzODM4MDMxODQsMjA1MDMxMzY5NCwxNjY5Njcw
+OTY4LDI0NDA5MzY4OCwtMTMwMzk5NTU3M119
 -->
