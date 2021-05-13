@@ -65,7 +65,7 @@ Este cambio nos ayudó a potenciar todo lo que ya habíamos ido trabajando y **c
 
 En la siguiente imagen se puede ver la evolución conseguida desde que comenzamos a trabajar (línea negra horizontal) hasta la fecha de hoy.
 
-![Caso éxito SEO: Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png | width=100)
+![Caso éxito SEO: Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png){:class="img-responsive"}
 
 El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para poder ser competitivos y a involucrar a todo el equipo para trabajar en la misma línea.
 
@@ -80,13 +80,6 @@ Me enfrento a un reto sin igual dado que se trata de una página con millones de
 ### Objetivo y esquema de trabajo
 
 Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a perder visibilidad y tráfico orgánico de forma muy agresiva, por ello, **analizo los puntos débiles** que han dado problemas durante los últimos meses y me aseguro que los solucionamos en el nuevo desarrollo web. 
-
-<amp-img alt="Visibilidad en caída libre desde comienzos de 2016"
-  src="https://i.imgur.com/6HUkSGh.png"
-  width="790"
-  height="394"
-  layout="responsive">
-</amp-img>
 
 ![Visibilidad en caída libre desde comienzos de 2016](https://i.imgur.com/6HUkSGh.png){:class="img-responsive"}
 
@@ -111,12 +104,14 @@ Una vez que tuvimos todo el trabajo realizado, procedimos a establecer las fases
 
 La migración fue un éxito, no sólo evitamos un retroceso en el tráfico (que normalmente existe en cualquier migración web) sino que el hecho de que la nueva plataforma estuviera altamente optimizada para SEO nos ayudó a generar, a corto plazo, un incremento grande en posicionamiento y tráfico orgánico.
 
-<amp-img alt="Caso de éxito migración SEO - Emirodgar"
-  src="https://i.imgur.com/88J5XxI.png"
+<amp-img alt=""
+  src=""
   width="1145"
   height="406"
   layout="responsive">
 </amp-img>
+
+![Caso de éxito migración SEO - Emirodgar](https://i.imgur.com/88J5XxI.png){:class="img-responsive"}
 
 En la imagen anterior se puede ver el incremento en la visibilidad orgánica que se experimentó tras la migración web. Al poco tiempo hubo una actualización del algoritmo de Google que nos impactó incluso de forma positiva ya que seguimos creciendo.
 
@@ -182,7 +177,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM4NjUwMTIsOTMzMjA5MzQ3LDIwMD
-k4NDcwMzksNjc3MjY5NTkyLDkwMzI0NzE3OSwtNjEwMzk1MDcw
-LC0xOTQ0MDc5ODUxXX0=
+eyJoaXN0b3J5IjpbLTM3ODQ3NTQxOCw5MzMyMDkzNDcsMjAwOT
+g0NzAzOSw2NzcyNjk1OTIsOTAzMjQ3MTc5LC02MTAzOTUwNzAs
+LTE5NDQwNzk4NTFdfQ==
 -->
