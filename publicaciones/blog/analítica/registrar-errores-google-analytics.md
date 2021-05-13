@@ -40,6 +40,8 @@ Lo primero que haremos será crear dicha dimensión desde el panel de administra
   data-tweetid="1009388806393466880">
 </amp-twitter>
 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Entendido esto, vamos a crear una dimensión personalizada en Analytics &quot;Estado HTTP&quot; donde recopilaremos el código de estado de cada página. <a href="https://t.co/GFR8HqCGdi">pic.twitter.com/GFR8HqCGdi</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1009388806393466880?ref_src=twsrc%5Etfw">June 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Si no hiciéramos uso de Google Tag Manager, ya podríamos enviar la información directamente a Analytics utilizando la función set (y como parámetros, el id de dimensión y su valor). Ojo, **el orden de los comandos importa** y, además, tenemos que actualizar el número de dimensión; en este caso es dimension1 porque ha sido la primera en crearse pero si fuera la tercera tendríamos que utilizar dimension3.
 
 ```
@@ -103,7 +105,7 @@ A partir de ahora podremos utilizar esta nueva dimensión en cualquiera de nuest
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODU5MDU0NSwxMjI4OTIxMTk3LC0xND
+eyJoaXN0b3J5IjpbMTM5ODc5MzY4NSwxMjI4OTIxMTk3LC0xND
 gzMDgwMzkxLDgwNjMwMzg1OSwxMDA2OTU2NjAxLC0xOTA3NTcw
 NDIwLC0xMjgxMjE2Mjg4XX0=
 -->
