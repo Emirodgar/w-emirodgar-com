@@ -128,22 +128,12 @@ A partir de ahí, incorporamos nuevas acciones SEO -principalmente de de conteni
 
 En apenas 3 meses logramos incrementar el posicionamiento en más de 65k palabras clave. Aproximadamente 2k de ellas dentro del TOP10 de Google.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1217425681434447878">
-</amp-twitter>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Orgulloso del trabajo del equipo <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a> de <a href="https://twitter.com/smartup_es?ref_src=twsrc%5Etfw">@smartup_es</a> en un ecommerce con +250k URLs indexadas. En tres meses se detiene la tendencia descendente de 2019 y comenzamos a crecer. <a href="https://t.co/S6N00Iv3u2">pic.twitter.com/S6N00Iv3u2</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1217425681434447878?ref_src=twsrc%5Etfw">January 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 El hecho de poder favorecer la indexación de páginas relevantes y dejar en un segundo plano las secundarias con poco valor nos permitió comenzar a **generar más visibilidad SEO** y se disparó el **tráfico orgánico**.
 
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1217425687008751622">
-</amp-twitter>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">El proceso seguido ha sido:<br> <br>1- SEO técnico<br>2- Optimización de contenidos<br>3- Optimización enlazado interno<br>4- Nuevas landings de captación <a href="https://t.co/WnSvC4elrk">pic.twitter.com/WnSvC4elrk</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1217425687008751622?ref_src=twsrc%5Etfw">January 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 En la anterior imagen se puede apreciar claramente el crecimiento experimentado a través de Google Search Console durante los tres primeros meses de trabajo (noviembre 19 - enero 20). 
 
@@ -154,18 +144,13 @@ La captación SEO se disparó con algunos picos que duplicaban el tráfico medio
 
 En un ecommerce la competencia es feroz. Con este cliente partíamos los primeros frente a competidores locales, aún así, la evolución que experimentamos fue tal que nos hicimos líderes indiscutibles del sector.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1195263005287755783">
-</amp-twitter>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Me dijeron que lo habíamos conseguido, que ya estábamos los primeros (línea verde / sector ecommerce) pero no me importó. Siempre se puede ir más allá. En el último mes hemos marcado la diferencia a nivel <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a> <a href="https://t.co/lpegr5ZJBb">pic.twitter.com/lpegr5ZJBb</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1195263005287755783?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4NzQ4MjMyLDE4OTYyOTA1MDcsOTMzMj
-A5MzQ3LDIwMDk4NDcwMzksNjc3MjY5NTkyLDkwMzI0NzE3OSwt
-NjEwMzk1MDcwLC0xOTQ0MDc5ODUxXX0=
+eyJoaXN0b3J5IjpbLTIwODYwMTM0ODcsNDE4NzQ4MjMyLDE4OT
+YyOTA1MDcsOTMzMjA5MzQ3LDIwMDk4NDcwMzksNjc3MjY5NTky
+LDkwMzI0NzE3OSwtNjEwMzk1MDcwLC0xOTQ0MDc5ODUxXX0=
 -->
