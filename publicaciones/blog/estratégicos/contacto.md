@@ -16,11 +16,12 @@ permalink: contacto
 
 Si quieres contactar conmigo lo puedes hacer de varias formas:
 
- - Enviando un email a hola@emirodgar.com
+ - Enviando un email a [hola@emirodgar.com](mailto:hola@emirodgar.com)
  - A través de mi [perfil de LinkedIn](https://es.linkedin.com/in/emirodgar)
- - Llamando al (+34) 923 015 199
+ - Llamando al [(+34) 923 015 199](tel:+34923015199)
 
 Si necesitas ayuda con una [estrategia SEO](estrategia-seo) es importante que tengas claro los **objetivos de negocio a corto y medio plazo** que quieres conseguir así como cualquier otra información que consideres relevante para que podamos entender el punto de partida y poder hacer así una mejor valoración del proyecto.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDMyMjk5OSwyMDMyMjYzNjU5XX0=
+eyJoaXN0b3J5IjpbLTE4MDYyMDc4MzQsMTM0NDMyMjk5OSwyMD
+MyMjYzNjU5XX0=
 -->
