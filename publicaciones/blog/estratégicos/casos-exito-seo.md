@@ -65,12 +65,7 @@ Este cambio nos ayudó a potenciar todo lo que ya habíamos ido trabajando y **c
 
 En la siguiente imagen se puede ver la evolución conseguida desde que comenzamos a trabajar (línea negra horizontal) hasta la fecha de hoy.
 
-<amp-img alt="Caso éxito SEO: Visibilidad orgánica (Sistrix) desde 2011 a 2019"
-  src="https://i.imgur.com/n08VP9W.png"
-  width="1132"
-  height="390"
-  layout="responsive">
-</amp-img>
+![Caso éxito SEO: Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png)
 
 El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para poder ser competitivos y a involucrar a todo el equipo para trabajar en la misma línea.
 
@@ -185,6 +180,6 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3MjY5NTkyLDkwMzI0NzE3OSwtNjEwMz
-k1MDcwLC0xOTQ0MDc5ODUxXX0=
+eyJoaXN0b3J5IjpbMjAwOTg0NzAzOSw2NzcyNjk1OTIsOTAzMj
+Q3MTc5LC02MTAzOTUwNzAsLTE5NDQwNzk4NTFdfQ==
 -->
