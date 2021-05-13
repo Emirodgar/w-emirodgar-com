@@ -80,26 +80,16 @@ Por último, nos quedará enviar la información que acabamos de recibir a Googl
 - Introducimos la información de índice (el mismo que tengamos en Analytics que en el ejemplo es el 1)
 - Introducimos el valor de la dimensión (que será el nombre de la variable que acabamos de crear en GTM que en este ejemplo es GA - httpStatus (ojo, debemos utilizar los corchetes como se muestra en la siguiente imagen).
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1009390415701774336">
-</amp-twitter>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">El siguiente paso será modificar la etiqueta de Analytics para añadir a la dimensión personalizada el valor recogido desde la capa de datos (al final de la imagen). <a href="https://t.co/g1i4gBFnwe">pic.twitter.com/g1i4gBFnwe</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1009390415701774336?ref_src=twsrc%5Etfw">June 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Con esto ya solo nos queda hacer las [comprobaciones oportunas](https://twitter.com/Emirodgar/status/1009391279187398656) utilizando la función de [vista previa/preview de GTM](https://support.google.com/tagmanager/answer/6107056?hl=es) para asegurarnos de que la variable GA - httpStatus se rellena con el estado correcto en cada petición.
 
 A partir de ahora podremos utilizar esta nueva dimensión en cualquiera de nuestros informes dentro de Analytics.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1009392061945139200">
-</amp-twitter>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Y así de rápido podremos disponer en nuestros informes de la dimensión &#39;Estado HTTP&#39; para poder analizar y ubicar rápidamente dónde estamos generando errores. <a href="https://t.co/a3b4eHVwts">pic.twitter.com/a3b4eHVwts</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1009392061945139200?ref_src=twsrc%5Etfw">June 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mjg3ODk0NCwxMzk4NzkzNjg1LDEyMj
-g5MjExOTcsLTE0ODMwODAzOTEsODA2MzAzODU5LDEwMDY5NTY2
-MDEsLTE5MDc1NzA0MjAsLTEyODEyMTYyODhdfQ==
+eyJoaXN0b3J5IjpbODQyMjMwMTEwLDEzOTg3OTM2ODUsMTIyOD
+kyMTE5NywtMTQ4MzA4MDM5MSw4MDYzMDM4NTksMTAwNjk1NjYw
+MSwtMTkwNzU3MDQyMCwtMTI4MTIxNjI4OF19
 -->
