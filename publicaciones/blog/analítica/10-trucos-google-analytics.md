@@ -2,11 +2,12 @@
 title: 10 trucos para potenciar Google Analytics
 description: 10 pasos sencillos para abordar de forma efectiva una estrategia de analítica web.
 lang: es_ES
+layout: emirodgar_post
 author: Emirodgar
 sitemap: 1
 feed: 1
 folder: analitica
-date: 19/12/2019
+date: 13/05/2021
 image: https://emirodgar.com/cdn/images/og/analitica.png
 permalink: trucos-google-analytics
 
@@ -81,11 +82,11 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODY5NDI2NiwtMTk2MzkzNDA3MSwxNz
-M4MjI1MzY5LC01NDUyODQ4ODMsLTE1OTA2MjI4LDE3MzgyMjUz
-NjksMTQ0NTc1OTMzNywtODgxNTUyMjQ0LC0xNjMyMTQwNTMzLC
-0xODgyNjU3NjY0LC02NzQxMDY1NjUsLTEwNzMwODUxLC0xODUw
-MDQzMzYzLC0zNTgyMDU2NDIsLTEyNjAyNzc1ODgsLTE4NjUzMz
-EwLDEzMzk1ODY2MjQsLTE0ODU3OTg2OTQsLTE0NDkyNzI5OTZd
-fQ==
+eyJoaXN0b3J5IjpbLTc1NjcxMTkwMCwtMzc4Njk0MjY2LC0xOT
+YzOTM0MDcxLDE3MzgyMjUzNjksLTU0NTI4NDg4MywtMTU5MDYy
+MjgsMTczODIyNTM2OSwxNDQ1NzU5MzM3LC04ODE1NTIyNDQsLT
+E2MzIxNDA1MzMsLTE4ODI2NTc2NjQsLTY3NDEwNjU2NSwtMTA3
+MzA4NTEsLTE4NTAwNDMzNjMsLTM1ODIwNTY0MiwtMTI2MDI3Nz
+U4OCwtMTg2NTMzMTAsMTMzOTU4NjYyNCwtMTQ4NTc5ODY5NCwt
+MTQ0OTI3Mjk5Nl19
 -->
