@@ -65,7 +65,7 @@ Este cambio nos ayudó a potenciar todo lo que ya habíamos ido trabajando y **c
 
 En la siguiente imagen se puede ver la evolución conseguida desde que comenzamos a trabajar (línea negra horizontal) hasta la fecha de hoy.
 
-![Caso éxito SEO: Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png)
+![Caso éxito SEO: Visibilidad orgánica (Sistrix) desde 2011 a 2019](https://i.imgur.com/n08VP9W.png | width=100)
 
 El hecho de haber podido crecer tanto se debió a identificar correctamente las debilidades existentes en la estructura inicial, a buscar una solución para poder ser competitivos y a involucrar a todo el equipo para trabajar en la misma línea.
 
@@ -87,6 +87,8 @@ Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a
   height="394"
   layout="responsive">
 </amp-img>
+
+![Visibilidad en caída libre desde comienzos de 2016](https://i.imgur.com/6HUkSGh.png | width=100)
 
 Comienzo a trabajar con el equipo técnico encargado del desarrollo de la nueva web para disponer de una **base SEO sólida** que nos permita salir reforzados tras la migración.
 
@@ -180,6 +182,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTg0NzAzOSw2NzcyNjk1OTIsOTAzMj
-Q3MTc5LC02MTAzOTUwNzAsLTE5NDQwNzk4NTFdfQ==
+eyJoaXN0b3J5IjpbOTMzMjA5MzQ3LDIwMDk4NDcwMzksNjc3Mj
+Y5NTkyLDkwMzI0NzE3OSwtNjEwMzk1MDcwLC0xOTQ0MDc5ODUx
+XX0=
 -->
