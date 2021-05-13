@@ -13,7 +13,7 @@ permalink: userid-analytics-tag-manager
 
 ---
 
-Siguiendo con la línea de
+Siguiendo con la línea de [trucos para Google Analytics](https://emirodgar.com/trucos-google-analytics) hoy os queremos trasladar la funcionalidad que nos permite hacer un **seguimiento específico de usuarios**.
 
 Google Analytics utiliza el [ID de cliente](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id?hl=es#getting_the_client_id_from_the_cookie) (Client ID) para identificar a los usuarios que acceden a nuestra página web.
 
@@ -54,7 +54,7 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI2NzU0ODYsLTEzMDg5NTExMDAsLT
-IzMTQ1NTc1MiwzODM4MDMxODQsMjA1MDMxMzY5NCwxNjY5Njcw
-OTY4LDI0NDA5MzY4OCwtMTMwMzk5NTU3M119
+eyJoaXN0b3J5IjpbLTQxMzUzNjMxNSwtMTMwODk1MTEwMCwtMj
+MxNDU1NzUyLDM4MzgwMzE4NCwyMDUwMzEzNjk0LDE2Njk2NzA5
+NjgsMjQ0MDkzNjg4LC0xMzAzOTk1NTczXX0=
 -->
