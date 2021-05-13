@@ -13,7 +13,6 @@ image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: growth-hacking
 
 ---
-# Growth Hacking 
 
 El término **Growth Hacking** es a menudo utilizado para identificar estrategias cuyo **objetivo principal sea el crecimiento digital**.
 
@@ -48,5 +47,6 @@ La mejor forma de interiorizar algo es poniendo ejemplos.
 - **Gmail**: en el momento de su lanzamiento se hizo a través de invitaciones, lo cuál despertó tal interés por parecer un servicio "exclusivo" que fue un gran éxito.
 - **Hotmail**: añadía una línea a todos los emails enviados desde dicha plataforma con el mensaje "consigue tu cuenta Hotmail gratuita". Consiguieron 12 millones de usuarios en apenas 1 año.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3NjE4MDE3LDM0ODkwMDgwOF19
+eyJoaXN0b3J5IjpbNDgwMTcwMDcyLDM5NzYxODAxNywzNDg5MD
+A4MDhdfQ==
 -->
