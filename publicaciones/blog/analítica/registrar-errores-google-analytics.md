@@ -42,12 +42,12 @@ Lo primero que haremos será crear dicha dimensión desde el panel de administra
 
 Si no hiciéramos uso de Google Tag Manager, ya podríamos enviar la información directamente a Analytics utilizando la función set (y como parámetros, el id de dimensión y su valor). Ojo, **el orden de los comandos importa** y, además, tenemos que actualizar el número de dimensión; en este caso es dimension1 porque ha sido la primera en crearse pero si fuera la tercera tendríamos que utilizar dimension3.
 
-```...
+```
 ga('create', 'UA-XXXX-Y', 'auto');
 ga('set', 'dimension1', '200');
 ga('send', 'pageview');
 ...
-````
+```
 
 Para que esto funcione debemos tener un **template personalizado para cada estado de la página**. En el template principal -del que se nutre todo el sitio- envíaríamos el valor 200. En el template de error página no encontrada, enviaríamos el valor 404 y así con el resto de estados que queramos medir.
 
@@ -103,7 +103,7 @@ A partir de ahora podremos utilizar esta nueva dimensión en cualquiera de nuest
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODkyMTE5NywtMTQ4MzA4MDM5MSw4MD
-YzMDM4NTksMTAwNjk1NjYwMSwtMTkwNzU3MDQyMCwtMTI4MTIx
-NjI4OF19
+eyJoaXN0b3J5IjpbMTA0ODU5MDU0NSwxMjI4OTIxMTk3LC0xND
+gzMDgwMzkxLDgwNjMwMzg1OSwxMDA2OTU2NjAxLC0xOTA3NTcw
+NDIwLC0xMjgxMjE2Mjg4XX0=
 -->
