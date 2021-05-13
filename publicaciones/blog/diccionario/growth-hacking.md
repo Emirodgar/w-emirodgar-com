@@ -1,7 +1,8 @@
 ---
 title: ¿Qué es el Growth Hacking?
-description: Metodología para hacer crecer una estrategia haciendo uso de nuevas tecnologías y herramientas digitales
+description: Se trata de una metodología para hacer crecer una estrategia haciendo uso de nuevas tecnologías y herramientas digitales
 lang: es_ES
+layout: emirodgar_post
 author: Emirodgar
 sitemap: 1
 feed: 1
@@ -46,5 +47,5 @@ La mejor forma de interiorizar algo es poniendo ejemplos.
 - **Gmail**: en el momento de su lanzamiento se hizo a través de invitaciones, lo cuál despertó tal interés por parecer un servicio "exclusivo" que fue un gran éxito.
 - **Hotmail**: añadía una línea a todos los emails enviados desde dicha plataforma con el mensaje "consigue tu cuenta Hotmail gratuita". Consiguieron 12 millones de usuarios en apenas 1 año.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4OTAwODA4XX0=
+eyJoaXN0b3J5IjpbLTE4MjkwMTg2MjYsMzQ4OTAwODA4XX0=
 -->
