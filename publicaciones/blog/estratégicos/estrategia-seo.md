@@ -1,17 +1,17 @@
 ---
+title: Estrategia SEO
 description: Estrategia paso a paso para posicionar por Consultor SEO con herramientas gratuitas.
 lang: es_ES
 sitemap: 1
 feed: 1
 date: 15/01/2019
-date_modified: 23/01/2020
+date_modified: 13/05/2021
 folder: estrategicos
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: estrategia-seo
 
 ---
-
-# Estrategia SEO 
 
 ¿Qué mejor forma de enseñar algo que con un ejemplo práctico? Quiero enseñar todos los pasos a seguir para definir una **estrategia SEO** en un nicho tan competido como es el **marketing digital** y en especial el **posicionamiento SEO**.
 
@@ -217,8 +217,8 @@ Tengo muchas ideas y ganas de seguir ejecutando acciones SEO en emirodgar.com pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDc5Mzg2MSwtMTgxMDExNTQ0LDk1MD
-A0MDkyOCwtMTcyNzQwMDIyOCw1MDkxMDI3NCwtODU5MzU3NTg0
-LDg4OTg4NDMwMSwtNzEzNzk4MTg0LDIwMDk4NzQxOTQsMTEwND
-AyNjQwNl19
+eyJoaXN0b3J5IjpbLTY1ODQxMjU2NywxOTg0NzkzODYxLC0xOD
+EwMTE1NDQsOTUwMDQwOTI4LC0xNzI3NDAwMjI4LDUwOTEwMjc0
+LC04NTkzNTc1ODQsODg5ODg0MzAxLC03MTM3OTgxODQsMjAwOT
+g3NDE5NCwxMTA0MDI2NDA2XX0=
 -->
