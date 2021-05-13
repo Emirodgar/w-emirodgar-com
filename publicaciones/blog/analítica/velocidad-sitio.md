@@ -6,7 +6,6 @@ author: Emirodgar
 layout: emirodgar_post
 sitemap: 1
 feed: 1
-layout: blog
 folder: secundario
 image: https://emirodgar.com/cdn/images/og/analitica.png
 permalink: velocidad-sitio-analytics
@@ -27,7 +26,7 @@ Para ello bastará con establecer el parámetro [siteSpeedSampleRate](https://de
 ga('create',  'UA-XXXX-Y',  {'siteSpeedSampleRate':  10});
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxODIyMzk0LDMxNTc2NDIxMyw5MDc2ND
-A4MDksLTM2MDcxNzEyNiwtNTA1NzM3MDAyLC0xOTU1Mjc2MDc2
-LC01MDU3MzcwMDIsLTQ3MTYyODg5MF19
+eyJoaXN0b3J5IjpbMTgxNTYwMTU5MCwzMTU3NjQyMTMsOTA3Nj
+QwODA5LC0zNjA3MTcxMjYsLTUwNTczNzAwMiwtMTk1NTI3NjA3
+NiwtNTA1NzM3MDAyLC00NzE2Mjg4OTBdfQ==
 -->
