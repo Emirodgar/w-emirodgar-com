@@ -14,7 +14,12 @@ permalink: contacto
 
 ---
 
+Si quieres contactar conmigo lo puedes hacer a través de varias formas:
+
+ - Enviando un email a hola@emirodgar.com
+ - A través de mi [perfil de LinkedIn](https://es.linkedin.com/in/emirodgar)
+ - Llamando al 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NTQwMjYxXX0=
+eyJoaXN0b3J5IjpbMTAwMzU0OTQ3MF19
 -->
