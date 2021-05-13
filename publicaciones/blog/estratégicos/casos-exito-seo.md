@@ -88,7 +88,7 @@ Como se puede ver en la siguiente imagen, desde mediados de 2015 han comenzado a
   layout="responsive">
 </amp-img>
 
-![Visibilidad en caída libre desde comienzos de 2016](https://i.imgur.com/6HUkSGh.png | width=100)
+![Visibilidad en caída libre desde comienzos de 2016](https://i.imgur.com/6HUkSGh.png){:class="img-responsive"}
 
 Comienzo a trabajar con el equipo técnico encargado del desarrollo de la nueva web para disponer de una **base SEO sólida** que nos permita salir reforzados tras la migración.
 
@@ -182,7 +182,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMjA5MzQ3LDIwMDk4NDcwMzksNjc3Mj
-Y5NTkyLDkwMzI0NzE3OSwtNjEwMzk1MDcwLC0xOTQ0MDc5ODUx
-XX0=
+eyJoaXN0b3J5IjpbLTE2MzM4NjUwMTIsOTMzMjA5MzQ3LDIwMD
+k4NDcwMzksNjc3MjY5NTkyLDkwMzI0NzE3OSwtNjEwMzk1MDcw
+LC0xOTQ0MDc5ODUxXX0=
 -->
