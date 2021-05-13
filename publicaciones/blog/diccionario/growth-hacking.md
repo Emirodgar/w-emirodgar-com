@@ -7,7 +7,8 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: diccionario
-date: 15/10/2019
+category: marketing
+date: 13/05/2021
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: growth-hacking
 
@@ -47,5 +48,5 @@ La mejor forma de interiorizar algo es poniendo ejemplos.
 - **Gmail**: en el momento de su lanzamiento se hizo a través de invitaciones, lo cuál despertó tal interés por parecer un servicio "exclusivo" que fue un gran éxito.
 - **Hotmail**: añadía una línea a todos los emails enviados desde dicha plataforma con el mensaje "consigue tu cuenta Hotmail gratuita". Consiguieron 12 millones de usuarios en apenas 1 año.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkwMTg2MjYsMzQ4OTAwODA4XX0=
+eyJoaXN0b3J5IjpbMzk3NjE4MDE3LDM0ODkwMDgwOF19
 -->
