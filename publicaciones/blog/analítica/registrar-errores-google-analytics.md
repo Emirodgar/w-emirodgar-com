@@ -44,18 +44,17 @@ Lo primero que haremos será crear dicha dimensión desde el panel de administra
 
 Si no hiciéramos uso de Google Tag Manager, ya podríamos enviar la información directamente a Analytics utilizando la función set (y como parámetros, el id de dimensión y su valor). Ojo, **el orden de los comandos importa** y, además, tenemos que actualizar el número de dimensión; en este caso es dimension1 porque ha sido la primera en crearse pero si fuera la tercera tendríamos que utilizar dimension3.
 
-```
+```js
 ga('create', 'UA-XXXX-Y', 'auto');
 ga('set', 'dimension1', '200');
 ga('send', 'pageview');
-...
 ```
 
 Para que esto funcione debemos tener un **template personalizado para cada estado de la página**. En el template principal -del que se nutre todo el sitio- envíaríamos el valor 200. En el template de error página no encontrada, enviaríamos el valor 404 y así con el resto de estados que queramos medir.
 
 En el caso de que utilicemos Tag Manager, debemos **enviar a la capa de datos la información del estado de la página**. Para ello utilizamos el [comando push](https://developers.google.com/tag-manager/devguide#adding-data-layer-variables-to-a-page). El siguiente código es el que se insertaría en el template de la página de error 404. 
 
-```
+```js
 <script>
  window.dataLayer = window.dataLayer || [];
  window.dataLayer.push({
@@ -65,12 +64,7 @@ En el caso de que utilicemos Tag Manager, debemos **enviar a la capa de datos la
 ```
 Para poder recibir dicho valor en Tag Manager debemos crear una variable del tipo **capa de datos** cuyo nombre sea el mismo que estamos utilizando en el código anterior, httpStatus. En este caso, podemos definir un valor por defecto para la variable (que sería 200) y por lo tanto únicamente tendríamos que enviar un valor actualizado cuando ocurra un error (404, 500, etc).
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1009389941204439041">
-</amp-twitter>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Para recoger dicha información, creamos una variable en GTM con el mismo nombre que la utilizada en la capa de datos (imagen anterior). <a href="https://t.co/JGGIjiE9Xb">pic.twitter.com/JGGIjiE9Xb</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1009389941204439041?ref_src=twsrc%5Etfw">June 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Vamos a hacer un resumen de las dimensiones y variables que tenemos creadas hasta este momento:
 
@@ -105,7 +99,7 @@ A partir de ahora podremos utilizar esta nueva dimensión en cualquiera de nuest
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODc5MzY4NSwxMjI4OTIxMTk3LC0xND
-gzMDgwMzkxLDgwNjMwMzg1OSwxMDA2OTU2NjAxLC0xOTA3NTcw
-NDIwLC0xMjgxMjE2Mjg4XX0=
+eyJoaXN0b3J5IjpbMTU2Mjg3ODk0NCwxMzk4NzkzNjg1LDEyMj
+g5MjExOTcsLTE0ODMwODAzOTEsODA2MzAzODU5LDEwMDY5NTY2
+MDEsLTE5MDc1NzA0MjAsLTEyODEyMTYyODhdfQ==
 -->
