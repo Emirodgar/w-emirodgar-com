@@ -7,7 +7,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: analitica
-date: 10/10/2019
+date: 10/05/2021
 image: https://emirodgar.com/cdn/images/og/analitica.png
 permalink: userid-analytics-tag-manager
 
@@ -52,7 +52,7 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg4MDIyODMsLTEzMDg5NTExMDAsLT
-IzMTQ1NTc1MiwzODM4MDMxODQsMjA1MDMxMzY5NCwxNjY5Njcw
-OTY4LDI0NDA5MzY4OCwtMTMwMzk5NTU3M119
+eyJoaXN0b3J5IjpbMTIyOTA1Mjg0LC0xMzA4OTUxMTAwLC0yMz
+E0NTU3NTIsMzgzODAzMTg0LDIwNTAzMTM2OTQsMTY2OTY3MDk2
+OCwyNDQwOTM2ODgsLTEzMDM5OTU1NzNdfQ==
 -->
