@@ -13,8 +13,6 @@ author: emirodgar
 
 ---
 
-# Casos de éxito SEO - Posicionamiento web
-
 Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la oportunidad de trabajar en múltiples proyectos. Os cuento los **casos de éxito SEO** más importantes que he conseguido.
 
  - [2015 - Recuperar tráfico perdido en periódico digital](#periodico)
@@ -186,6 +184,6 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzMjQ3MTc5LC02MTAzOTUwNzAsLTE5ND
-QwNzk4NTFdfQ==
+eyJoaXN0b3J5IjpbNTY1MDY5ODcwLDkwMzI0NzE3OSwtNjEwMz
+k1MDcwLC0xOTQ0MDc5ODUxXX0=
 -->
