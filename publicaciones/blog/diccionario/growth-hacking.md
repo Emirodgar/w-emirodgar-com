@@ -39,7 +39,7 @@ Cada negocio tendrá su propio punto de partida por lo que no habrá dos estrate
 
 ## Ejemplos de estrategias Growth Hacking 
 
-La mejor forma de interiorizar algo es poniendo ejemplos. 
+La mejor forma de interiorizar algo es poniendo ejemplos. Estas son algunas de las estrategias de crecimiento digital usadas por grandes compañías en los últimos años:
 
 -   **Dropbox**: recompensa a sus usuarios si invitan a amigos que se conviertan en nuevos usuarios. Ha conseguido fidelizar y contar con el mayor equipo comercial posible: sus propios clientes.
 -   **AirBnB**: se apoyó en Craigslist para alcanzar a su público objetivo cuando éste no conocía la plataforma.
@@ -47,6 +47,6 @@ La mejor forma de interiorizar algo es poniendo ejemplos.
 - **Gmail**: en el momento de su lanzamiento se hizo a través de invitaciones, lo cuál despertó tal interés por parecer un servicio "exclusivo" que fue un gran éxito.
 - **Hotmail**: añadía una línea a todos los emails enviados desde dicha plataforma con el mensaje "consigue tu cuenta Hotmail gratuita". Consiguieron 12 millones de usuarios en apenas 1 año.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwMTcwMDcyLDM5NzYxODAxNywzNDg5MD
-A4MDhdfQ==
+eyJoaXN0b3J5IjpbNTkyNjY1OTA0LDQ4MDE3MDA3MiwzOTc2MT
+gwMTcsMzQ4OTAwODA4XX0=
 -->
