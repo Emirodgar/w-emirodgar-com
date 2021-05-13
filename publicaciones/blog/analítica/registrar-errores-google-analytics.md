@@ -14,7 +14,7 @@ permalink: registrar-errores-web-con-google-analytics-tag-manager
 
 ---
 
-Desde hace tiempo se ha puesto de moda el **análisis 'big data' de los logs de los servidores** para conocer al detalle lo que está ocurriendo con nuestra página. Podemos conocer cuándo y por donde navegan los robots de los buscadores, páginas con error, cargas, tiempos, etc.
+Desde hace tiempo se ha puesto de moda el **análisis big data de los logs de los servidores** para conocer al detalle lo que está ocurriendo con nuestra página. Podemos conocer cuándo y por donde navegan los robots de los buscadores, páginas con error, cargas, tiempos, etc.
 
 Por desgracia no todo el mundo tiene los recursos necesarios ni el acceso a estos logs por lo que os voy a enseñar **cómo podemos registrar los errores con Analytics y Tag Manager**. El objetivo es conocer dónde está fallando nuestra web y poder solucionarlo.
 
@@ -103,6 +103,7 @@ A partir de ahora podremos utilizar esta nueva dimensión en cualquiera de nuest
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMwODAzOTEsODA2MzAzODU5LDEwMD
-Y5NTY2MDEsLTE5MDc1NzA0MjAsLTEyODEyMTYyODhdfQ==
+eyJoaXN0b3J5IjpbMTIyODkyMTE5NywtMTQ4MzA4MDM5MSw4MD
+YzMDM4NTksMTAwNjk1NjYwMSwtMTkwNzU3MDQyMCwtMTI4MTIx
+NjI4OF19
 -->
