@@ -13,6 +13,8 @@ permalink: userid-analytics-tag-manager
 
 ---
 
+Siguiendo con la línea de
+
 Google Analytics utiliza el [ID de cliente](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id?hl=es#getting_the_client_id_from_the_cookie) (Client ID) para identificar a los usuarios que acceden a nuestra página web.
 
 > Este valor se almacena a nivel de cookie por lo que si un usuario utiliza varios dispositivos para acceder a nuestro sitio web (móvil, tablet y ordenador) tendremos tres cookies diferentes aún siendo la misma persona.
@@ -52,7 +54,7 @@ En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones >
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTA1Mjg0LC0xMzA4OTUxMTAwLC0yMz
-E0NTU3NTIsMzgzODAzMTg0LDIwNTAzMTM2OTQsMTY2OTY3MDk2
-OCwyNDQwOTM2ODgsLTEzMDM5OTU1NzNdfQ==
+eyJoaXN0b3J5IjpbLTE5MzI2NzU0ODYsLTEzMDg5NTExMDAsLT
+IzMTQ1NTc1MiwzODM4MDMxODQsMjA1MDMxMzY5NCwxNjY5Njcw
+OTY4LDI0NDA5MzY4OCwtMTMwMzk5NTU3M119
 -->
