@@ -20,8 +20,8 @@ Si quieres contactar conmigo lo puedes hacer de varias formas:
  - A través de mi [perfil de LinkedIn](https://es.linkedin.com/in/emirodgar)
  - Llamando al (+34) 923 015 199
 
-Si necesitas ayuda con una estrategia SEO es importante que tengas claro los objetivos que persigues para que podamos entender el 
+Si necesitas ayuda con una [estrategia SEO](estrategia-seo) es importante que tengas claro los objetivos que persigues para que podamos entender el 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDE4NDE2XX0=
+eyJoaXN0b3J5IjpbLTQxMDMwMjc0XX0=
 -->
