@@ -6,7 +6,7 @@ layout: emirodgar_post
 author: Emirodgar
 sitemap: 1
 feed: 1
-folder: diccionario
+folder: estrategicos
 category: marketing
 date: 13/05/2021
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
@@ -18,8 +18,10 @@ Si quieres contactar conmigo lo puedes hacer a través de varias formas:
 
  - Enviando un email a hola@emirodgar.com
  - A través de mi [perfil de LinkedIn](https://es.linkedin.com/in/emirodgar)
- - Llamando al 
+ - Llamando al (+34) 923 015 199
+
+Si necesitas ayuda con una estrategia SEO es importante que tengas claro los objetivos que persigues y 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzU0OTQ3MF19
+eyJoaXN0b3J5IjpbOTIxODEwODI3XX0=
 -->
