@@ -7,7 +7,8 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: analitica
-date: 13/05/2021
+date_modified: 13/05/2021
+date: 03/05/2021
 image: https://emirodgar.com/cdn/images/og/analitica.png
 permalink: trucos-google-analytics
 
@@ -86,5 +87,6 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDMwMDMyNiwtNzU2NzExOTAwXX0=
+eyJoaXN0b3J5IjpbLTI5MDEyMzI0OSwtMjkwMzAwMzI2LC03NT
+Y3MTE5MDBdfQ==
 -->
