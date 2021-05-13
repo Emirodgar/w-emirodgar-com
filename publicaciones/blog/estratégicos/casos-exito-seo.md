@@ -30,12 +30,7 @@ Comencé en el año 2015 a trabajar en un periódico de tirada nacional que en l
 
 El objetivo era **recuperar el tráfico perdido y volver a ser competitivos** tras varios años perdiendo anunciantes debido a su baja visibilidad orgánica. También habían sido impactados por Panda, el cambio de algoritmo de Google de 2012, por lo que el punto de partida era complicado.
 
-<amp-img alt="Estado inicial caso éxito - pérdida de visibilidad orgánica"
-  src="https://i.imgur.com/esO1WW0.png"
-  width="1132"
-  height="395"
-  layout="responsive">
-</amp-img>
+![Estado inicial caso éxito - pérdida de visibilidad orgánica](https://i.imgur.com/esO1WW0.png){:class="img-responsive"}
 
 En la imagen anterior podemos ver la evolución de la **visibilidad SEO** -obtenida con Sistrix- desde el 2011 hasta el momento en el que comencé a trabajar en el proyecto.
 
@@ -170,7 +165,7 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjI5MDUwNyw5MzMyMDkzNDcsMjAwOT
-g0NzAzOSw2NzcyNjk1OTIsOTAzMjQ3MTc5LC02MTAzOTUwNzAs
-LTE5NDQwNzk4NTFdfQ==
+eyJoaXN0b3J5IjpbNDE4NzQ4MjMyLDE4OTYyOTA1MDcsOTMzMj
+A5MzQ3LDIwMDk4NDcwMzksNjc3MjY5NTkyLDkwMzI0NzE3OSwt
+NjEwMzk1MDcwLC0xOTQ0MDc5ODUxXX0=
 -->
