@@ -4,8 +4,9 @@ description: Os cuento las estrategias SEO de las que estoy más orgulloso. Los 
 lang: es_ES
 sitemap: 1
 feed: 1
-date: 15/01/2020
+date: 13/05/2021
 folder: estrategicos
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: casos-exito-seo
 author: emirodgar
@@ -184,6 +185,6 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1MDY5ODcwLDkwMzI0NzE3OSwtNjEwMz
+eyJoaXN0b3J5IjpbNjc3MjY5NTkyLDkwMzI0NzE3OSwtNjEwMz
 k1MDcwLC0xOTQ0MDc5ODUxXX0=
 -->
