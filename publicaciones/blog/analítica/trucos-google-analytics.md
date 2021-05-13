@@ -13,7 +13,7 @@ permalink: trucos-google-analytics
 
 ---
 
-Google Analytics es posiblemente una de las **plataformas de analítica web más utilizadas** en el mundo. Su versión gratuita, facilidad de implementacón y de uso hace que prácticamente cualquier página pueda comenzar a usarla sin apenas tener conocimientos técnicos o de análisis de datos.
+Google Analytics es seguramente una de las **plataformas de analítica web más utilizadas** en el mundo. Su versión gratuita, facilidad de implementacón y de uso hace que prácticamente cualquier página pueda comenzar a usarla sin apenas tener conocimientos técnicos o de análisis de datos.
 
 A continuación mostramos una serie de trucos y aspectos importantes a tener en cuenta dentro de una implementación de Google Analytics para obtener el mejor rendimiento y resultados posibles.
 
@@ -86,5 +86,5 @@ Google Tag Manager es un gestor de etiquetas que nos da cierto control sobre una
 Una de las primeras aplicaciones que recomendaría realizar a través de GTM sería [activar el User-ID](https://emirodgar.com/userid-analytics-tag-manager) para hacer un seguimiento más eficiente de los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgzNzIzODcsLTc1NjcxMTkwMF19
+eyJoaXN0b3J5IjpbLTI5MDMwMDMyNiwtNzU2NzExOTAwXX0=
 -->
