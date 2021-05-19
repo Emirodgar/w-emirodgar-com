@@ -10,8 +10,6 @@ folder: estrategicos
 date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: influencer-seo
-customjs:
- - https://cdn.ampproject.org/v0/amp-iframe-0.1.js
  
  ---
 
@@ -23,15 +21,10 @@ Para ello he utilizado principalmente las redes sociales. Aunque he probado la m
 
 Aunque es difícil **cualificar la calidad de nuestros seguidores**, me parece interesante monitorizar la evolución de seguidores. Se trata de información que nos permite saber si seguimos generando interés a la gente y si nuestros perfiles aportan valor.
 
-Sumando ambas redes estoy en torno a los 15k seguidores. Así han evolucionado mis redes sociales en los últimos años. 
+Sumando ambas redes estoy en torno a los 15k seguidores. 
 
 
-<amp-iframe width="400" height="200"
-sandbox="allow-scripts"
-layout="responsive"
-frameborder="0"
-src="../publicaciones/influencer-seo.html"></amp-iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODY4MTgyMyw2NDg1NDUwNDldfQ==
+eyJoaXN0b3J5IjpbLTkyNzM5MTUxMiw2NDg1NDUwNDldfQ==
 -->
