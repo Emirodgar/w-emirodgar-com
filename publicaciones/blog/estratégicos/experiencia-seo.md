@@ -14,7 +14,7 @@ permalink: experiencia-seo
 ---
 
 
-En marzo de 2009 -justo hace 10 años- comencé a trabajar como **Consultor SEO** en Traffic4U, por aquel entonces una de las agencias de marketing digital más grandes de Europa. 
+En marzo de 2009 comencé a trabajar como **Consultor SEO** en Traffic4U, por aquel entonces una de las agencias de marketing digital más grandes de Europa. 
 
 Desde entonces he tenido la oportunidad de participar en más de un centenar de proyectos digitales y liderar los **departamentos SEO** de dos agencias internacionales: Internet Advantage y Smartup.
 
@@ -39,6 +39,6 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
 ![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDY4MTkyOSwtMjM1Mjc2MzI4LC00MD
-Y1OTQ0MjJdfQ==
+eyJoaXN0b3J5IjpbNzM3NDc4NzAwLC0yMzUyNzYzMjgsLTQwNj
+U5NDQyMl19
 -->
