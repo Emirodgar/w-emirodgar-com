@@ -1,14 +1,15 @@
 ---
+title: Cómo estar al día en SEO
 description: Listado de blogs y herramientas gratuitas y de pago para estar al día en marketing digital. Aprende a ser competitivo.
 lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
+layout: emirodgar_post
+date: 19/05/2021
 permalink: como-estar-al-dia-en-seo
 
 ---
-
-# Cómo estar al día en SEO
 
 La transformación digital avanza demasiado rápido y -teniendo en cuenta la cantidad de información que se genera cada día- cada vez es más complicado estar actualizado con información **relevante** y de **calidad**.
 
@@ -41,5 +42,6 @@ Respecto a problemáticas interesantes, me gusta mucho la [sección para webmast
 Por último, es importante estar al tanto de las herramientas del sector y de sus novedades. Para ello recomiendo mi [listado de recursos para marketing digital](https://emirodgar.com/recursos-marketing-digital/) que actualizo de forma constante. A través del mismo podremos concocer múltiples herramientas para cada problemática digital a la que nos enfrentemos y no perderemos tiempo realizando búsquedas en la red. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzM2MjI3NiwtNDI3MzA3NjgwXX0=
+eyJoaXN0b3J5IjpbMTQ5OTk1OTMwMiwxMzkzMzYyMjc2LC00Mj
+czMDc2ODBdfQ==
 -->
