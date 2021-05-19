@@ -16,8 +16,6 @@ permalink: inbound-marketing
 
 ---
 
-# Inbound Marketing 2021
-
 La filosofía y metodología Inbound ha ido evolucionando a lo largo de los años aún así, me gustaría compartir **5 consejos que perduran en el tiempo** y que para mí son cruciales en cualquier estrategia digital.
 
  1. [Centraliza todo en tu página web](#clave1)  
@@ -114,6 +112,6 @@ Mis recomendaciones son las siguientes:
 	 - 	Sería recomendable conocer el % de impacto sobre la audiencia correcta para ir afinando futuras acciones (métrica propia).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MTExNTE0LDg2Mjc5OTk3NSwxODY2Mj
-c5NjQyLDE1NDk2Mzc4OTRdfQ==
+eyJoaXN0b3J5IjpbMjA3OTg3MTE2MSw4NjI3OTk5NzUsMTg2Nj
+I3OTY0MiwxNTQ5NjM3ODk0XX0=
 -->
