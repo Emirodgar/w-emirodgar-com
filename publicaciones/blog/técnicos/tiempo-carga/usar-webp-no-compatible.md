@@ -6,13 +6,12 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-date: 04/02/2020
+layout: emirodgar_post
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: webp-compatibilidad
 
 ---
-
-# Usar formato WebP cuando un navegador no es compatible
 
 WebP es un [nuevo formato de imagen](https://developers.google.com/speed/webp/) desarrollado por Google que ofrece un ratio de compresión un 25% mayor que un PNG y entre 25%-34% que el JPEG.
 
@@ -52,6 +51,6 @@ Google tiene una [guía muy interesante](https://developers.google.com/speed/web
 
 Si hacemos uso de Wordpress lo tendremos relativamente más fácil puesto que podemos instalar la extensión [WebP Express](https://es.wordpress.org/plugins/webp-express/) para, automáticamente, convertir todas las imágenes a este formato y mostrarlas siempre que el navegador sea compatible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0NDE2NzIzLDQ0NDMyMTcsLTg0NTY5NT
-Y0MSwtMjk2NTQ0MDg2XX0=
+eyJoaXN0b3J5IjpbLTIwNTY5MjUzMzMsNjI0NDE2NzIzLDQ0ND
+MyMTcsLTg0NTY5NTY0MSwtMjk2NTQ0MDg2XX0=
 -->
