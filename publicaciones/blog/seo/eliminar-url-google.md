@@ -6,13 +6,12 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: seo
-date: 26/09/2019
+layout: emirodgar_post
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: eliminar-url-google
 
 ---
-
-# Eliminar página o URL indexada en Google
 
 Existe un gran desconocimiento sobre cómo podemos hacer que nuestra página web o una URL de la misma sea desindexada correctamente de Google.
 
@@ -83,12 +82,7 @@ En el caso de que la URL esté indexada por los buscadores, además de seguir lo
 
 Como curiosidad, John Mueller confirmó a través de Twitter que siempre que exista un enlace externo hacia una de nuestras URLs, aunque ésta muestre un error 404, Google seguirá intentando indexarla de vez en cuando.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1107298611128352769">
-</amp-twitter>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As long as we have signals for that URL (even if it&#39;s just a random link somewhere), we&#39;ll keep trying it from time to time.</p>&mdash; 🍌 John 🍌 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1107298611128352769?ref_src=twsrc%5Etfw">March 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Herramientas de Google
@@ -103,6 +97,6 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTQ4NzEwLC03MzkyNDg2MTksMTA0Nz
-c4MTc1MiwyNjkyNjYzMzldfQ==
+eyJoaXN0b3J5IjpbMTczNjY4NjAzOSwtOTQxNDg3MTAsLTczOT
+I0ODYxOSwxMDQ3NzgxNzUyLDI2OTI2NjMzOV19
 -->
