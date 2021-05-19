@@ -2,7 +2,8 @@
 title: Guía SEO pra Shopify 
 description: Optimizar tu ecommerce con recomendaciones SEO específicas para Shopify 
 image: https://emirodgar.com/cdn/images/og/auditoria.png
-date: 31/10/2019
+layout: emirodgar_post
+date: 15/05/2021
 author: Emirodgar
 sitemap: 1
 feed: 1
@@ -11,8 +12,6 @@ lang: es_ES
 permalink: shopify-seo
 
 ---
-
-# Guía SEO pra Shopify
 
 Actualmente cerca del 4,5% de los principales ecommerces del mundo hacen uso de Shopify como plataforma de comercio electrónico. 
 
@@ -88,6 +87,7 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Mzc1MzcxMiw3MDMwMzU4MjYsLTIyNT
-UxMjY4NCw0MTA1MDQ2MDksNTcyODk4NzU3XX0=
+eyJoaXN0b3J5IjpbLTEwNDk0OTgxODEsMTc5Mzc1MzcxMiw3MD
+MwMzU4MjYsLTIyNTUxMjY4NCw0MTA1MDQ2MDksNTcyODk4NzU3
+XX0=
 -->
