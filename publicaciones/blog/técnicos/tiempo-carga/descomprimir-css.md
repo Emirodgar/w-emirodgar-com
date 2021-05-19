@@ -6,13 +6,12 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-date: 17/05/2019
+layout: emirodgar_post
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: descomprimir-css-comprimido
 
 ---
-
-# Descomprimir CSS comprimido
 
 En muchas ocasiones, por temas de velocidad de carga se opta por comprimir tanto el código fuente HTML como las hojas de estilo CSS y el código JavaScript.
 
@@ -30,5 +29,6 @@ Es buena práctica trabajar con dos ficheros, uno comprimido y otro no de tal fo
 
 Si estáis comprometidos con el tiempo de carga de vuestra web, os recomiendo el artículo [automatizar análisis de Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse) para que podáis monitorizar de forma automática el rendimiento de vuestras páginas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTMwMTMyMSwyMDU2NTYwNzg1XX0=
+eyJoaXN0b3J5IjpbLTU5Mjg3MzIyOCwxNjgxMzAxMzIxLDIwNT
+Y1NjA3ODVdfQ==
 -->
