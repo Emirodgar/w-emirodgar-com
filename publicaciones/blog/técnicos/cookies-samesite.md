@@ -5,7 +5,8 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-date: 07/01/2020
+layout: emirodgar_post
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: cookies-samesite
 
@@ -85,7 +86,7 @@ Las reglas establecidas a día de hoy indican que:
 
 En la página de [SameSite cookie recipes](https://web.dev/samesite-cookie-recipes/) nos dan una serie de consejos adicionales sobre qué tipo de configuración debemos crear para nuestras cookies en función de la situación que tengamos delante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjQ2NDk5NCw2ODY4NzQzMjYsNjE4MD
-k0NDMsMjAwMjY3NjQ0OCw2ODc4NDI2LC0xNTgxODIwOTUxLDcz
-MDk5ODExNl19
+eyJoaXN0b3J5IjpbMTYwNjc5NDA5MSwtMzEyNDY0OTk0LDY4Nj
+g3NDMyNiw2MTgwOTQ0MywyMDAyNjc2NDQ4LDY4Nzg0MjYsLTE1
+ODE4MjA5NTEsNzMwOTk4MTE2XX0=
 -->
