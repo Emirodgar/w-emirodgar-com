@@ -1,5 +1,6 @@
 ---
-title: Trucos para usar la consola de Google Chromedescription: Cookies SameSite: guía para entender cómo funcionan
+title: Cookies SameSite: guía para entender cómo funcionan
+description: Aprende todo sobre las cookies SameSite; guía completa para saber cómo operar con ellas.
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -12,11 +13,6 @@ image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: cookies-samesite
 
 ---
-
-# 
-
-
-# Cookies SameSite: guía para entender cómo funcionan
 
 Las cookies son, a día de hoy, la forma más utilizada para guardar y mantener información entre un usuario y una o varias páginas web. Éstas se guardan en el navegador (Chrome, Firefox, Edge, etc.) y normalmente se usan para guardar sesiones, preferencias en aplicaciones o seguimiento de analítica web.
 
@@ -89,7 +85,7 @@ Las reglas establecidas a día de hoy indican que:
 
 En la página de [SameSite cookie recipes](https://web.dev/samesite-cookie-recipes/) nos dan una serie de consejos adicionales sobre qué tipo de configuración debemos crear para nuestras cookies en función de la situación que tengamos delante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg4MTI4NDUsLTMxMjQ2NDk5NCw2OD
-Y4NzQzMjYsNjE4MDk0NDMsMjAwMjY3NjQ0OCw2ODc4NDI2LC0x
-NTgxODIwOTUxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTU2NDU4NTUzLC0zMTI0NjQ5OTQsNjg2OD
+c0MzI2LDYxODA5NDQzLDIwMDI2NzY0NDgsNjg3ODQyNiwtMTU4
+MTgyMDk1MSw3MzA5OTgxMTZdfQ==
 -->
