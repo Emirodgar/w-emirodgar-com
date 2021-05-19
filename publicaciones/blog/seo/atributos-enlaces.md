@@ -29,13 +29,6 @@ Un ejemplo de cómo tendríamos que utilizar estos atributos sería el siguiente
  ```  
 
 En la siguiente imagen podemos ver un esquema de la evolución de los atributos y su impacto en las estrategias SEO.
-
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1207679355150831620">
-</amp-twitter>
     
 
 ## Conclusiones
@@ -48,7 +41,7 @@ En la siguiente imagen podemos ver un esquema de la evolución de los atributos 
      
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDE4OTgxMiwtMTMxNjE5OTQzOCw2Mj
-Q5Mjc5OTcsMTU2MjUxNzA5MCwtMjAwODMyNzk1MCwtMTU0Nzgx
-MjEzOCw3OTgyNjExMV19
+eyJoaXN0b3J5IjpbODA5MzM5NTEwLC0xMzE2MTk5NDM4LDYyND
+kyNzk5NywxNTYyNTE3MDkwLC0yMDA4MzI3OTUwLC0xNTQ3ODEy
+MTM4LDc5ODI2MTExXX0=
 -->
