@@ -122,14 +122,7 @@ Por otro lado, si queremos validar ciertos campos, podemos hacer uso de las func
 
 También podemos eliminar de forma rápida cualquier valor duplicado de la siguiente forma:
 
-<amp-img alt="Google sheets eliminar contenidos duplicados"
-  src=""
-  width="640"
-  height="360"
-  layout="responsive">
-</amp-img>
-
-![Consultor SEO Traffic4U primer trabajo agencia internacional](https://i.imgur.com/eETYCGw.png){:class="img-responsive"}
+![Google sheets eliminar contenidos duplicados](https://1.bp.blogspot.com/-rfa43G2hKMM/XNLh5IKw0wI/AAAAAAAAH7w/4LEbkCaIP8MCP21TS6eqYIS1M0q3F_NEwCLcBGAs/s640/1.gif){:class="img-responsive"}
 
 
 ## <a name="grafica-sparkline"></a>8- Haz uso de gráficas de control (sparkline)
@@ -172,6 +165,6 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTA3ODAzNCwxMDY0MTc1MTgsNzI0Nz
+eyJoaXN0b3J5IjpbMjAyMTY5MTg4NywxMDY0MTc1MTgsNzI0Nz
 A5Mjc2LC05MjgzNzM1MjgsMTY0OTAwNTMyMl19
 -->
