@@ -1,7 +1,9 @@
 ---
+title: Cómo trabajar el SEO de contenidos de pago
 description: Podemos mostrar contenidos de pago a Google pero que no sean accesibles a los usuarios
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-date: 03/03/2020
+layout: emirodgar_post
+date: 19/05/2021
 author: Emirodgar
 lang: es_ES
 sitemap: 1
@@ -10,8 +12,6 @@ folder: seo
 permalink: contenidos-pago-google
 
 --- 
-
-# Contenidos de pago en Google
 
 Cada vez más periódicos digitales se están pasando al modelo de suscripción. Existen varias opciones:
 
@@ -67,6 +67,6 @@ Para que [Google pueda rastrear e indexar nuestras páginas](https://emirodgar.c
 
 Para garantizar un mayor control en los accesos a los contenidos de pago también podemos [detectar los accesos de Googlebot](https://emirodgar.com/detectar-googlebot) a nuestra página aunque no es recomendable ofrecer al robot un contenido distinto que a los usuarios ya que eso sería cloaking. Lo podemos usar a modo de verificación de que el proceso funciona correctamente. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTM0NzA5NCw3MDcwNzgyODUsLTE3Mz
-cxMzAxMjVdfQ==
+eyJoaXN0b3J5IjpbMTU1NTIxNzAzMiwxNDk5MzQ3MDk0LDcwNz
+A3ODI4NSwtMTczNzEzMDEyNV19
 -->
