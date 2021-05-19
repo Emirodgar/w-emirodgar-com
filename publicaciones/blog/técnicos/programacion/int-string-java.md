@@ -16,7 +16,7 @@ permalink: pasar-de-int-a-string-y-de-string-a-int-en-java
 
 Me llegan muchas visitas buscando el cómo poder cambiar entre varios tipos de datos en Jjava así que voy a, y ya creo que va siendo hora de que les haga un poquito de caso y explicarque cóomo podemoses posible convertir datos enteros a cadena (`Int` a `String`) y cadena a enteros (`String` a `Int`)  
   
-Por lo general lo que más suelo hacer es pasar cadenas a enteros, es decir, de un tipo `String` a un tipo `Int`, nótese que "String" es un **objeto** e "Iint" es un **tipo básico** luego el proceso de conversión de uno a otro será diferente.  
+Por lo general lo que más suelo hacer es pasar cadenas a enteros, es decir, de un tipo `String` a un tipo `Int`, nótese que "String" es un **objeto** e "Int" es un **tipo básico** luego el proceso de conversión de uno a otro será diferente.  
   
 ## Pasar un STRING a un INT (de cadena a entero)  
   
@@ -78,8 +78,8 @@ Si lo que estás buscando es algo más profesional, también encontrarás gratui
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel="sponsored"}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTg1OTM4NywtMTc2NDkzMzU2LC0xMT
-c4NzU2OTA1LDEwODE2NjQ2MjEsMjA4NTk0MDk0NCwyNTA1NjA3
-MjAsMTA3NTUwMDA0MiwxNTk4OTg4Mjk2LDQ2MjQ4NTgzOCw2ND
-g0OTA0MDUsMTE4ODk3NTQyNywxNzA1NzM4NjE5XX0=
+eyJoaXN0b3J5IjpbMTI5MTU5OTc2LC0xNzY0OTMzNTYsLTExNz
+g3NTY5MDUsMTA4MTY2NDYyMSwyMDg1OTQwOTQ0LDI1MDU2MDcy
+MCwxMDc1NTAwMDQyLDE1OTg5ODgyOTYsNDYyNDg1ODM4LDY0OD
+Q5MDQwNSwxMTg4OTc1NDI3LDE3MDU3Mzg2MTldfQ==
 -->
