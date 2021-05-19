@@ -3,8 +3,8 @@ title: Influencer SEO
 description: Aprende todas las vertientes SEO (técnico, contenidos y linking) y domínalas como un experto
 lang: es_ES
 author: Emirodgar
-sitemap: 1
-feed: 1
+sitemap: 0
+feed: 0
 layout: emirodgar_post
 folder: estrategicos
 date: 19/05/2021
@@ -26,5 +26,6 @@ Sumando ambas redes estoy en torno a los 15k seguidores.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzM5MTUxMiw2NDg1NDUwNDldfQ==
+eyJoaXN0b3J5IjpbLTk0NDEwMTQzMiwtOTI3MzkxNTEyLDY0OD
+U0NTA0OV19
 -->
