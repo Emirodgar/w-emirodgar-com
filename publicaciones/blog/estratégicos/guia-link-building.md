@@ -1,5 +1,5 @@
 ---
-title: Guía Link building SEO 2020
+title: Guía Link building SEO 2021
 description: Estrategias para conseguir enlaces que a día de hoy funcionan correctamente
 lang: es_ES
 author: Emirodgar
@@ -21,7 +21,7 @@ Esta guía pretende ayudarnos a diseñar y ejecutar correctamente una **estrateg
  - [Evitar penalizaciones](#penalizacion)
 
 
-## <a name="conceptos"></a>Estrategia link building 2020 - conceptos básicos
+## <a name="conceptos"></a>Estrategia link building 2021 - conceptos básicos
 
 Esta guía está diseñada para ejecutar una estrategia de enlazado en 2020. Es decir, no incluye información desactualizada y está en línea con las directrices más actuales de los buscadores, especialmente Google.
 
@@ -215,7 +215,7 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzM5NzQwOSwtMTQ4Mjk4MjAxLDIwNz
+eyJoaXN0b3J5IjpbLTM2MzgyMjIzNywtMTQ4Mjk4MjAxLDIwNz
 ExNzk4MDIsLTE5OTkwNzAwODgsLTExNDE0NTU5MDEsLTExODcz
 OTU3MjcsLTkxODU1NzExMSwtNzYwOTA1MzMyLDkxNTgwMDY3My
 wtNjMyODE5MTY2XX0=
