@@ -1,5 +1,5 @@
 ---
-description: Guía para enteder el funcionamiento de las cookies y el atributo SameSite
+description: Cookies SameSite: guía para entender cómo funcionan
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -11,9 +11,6 @@ image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: cookies-samesite
 
 ---
-
-
-# Cookies SameSite: guía para entender cómo funcionan
 
 Las cookies son, a día de hoy, la forma más utilizada para guardar y mantener información entre un usuario y una o varias páginas web. Éstas se guardan en el navegador (Chrome, Firefox, Edge, etc.) y normalmente se usan para guardar sesiones, preferencias en aplicaciones o seguimiento de analítica web.
 
@@ -86,7 +83,7 @@ Las reglas establecidas a día de hoy indican que:
 
 En la página de [SameSite cookie recipes](https://web.dev/samesite-cookie-recipes/) nos dan una serie de consejos adicionales sobre qué tipo de configuración debemos crear para nuestras cookies en función de la situación que tengamos delante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjc5NDA5MSwtMzEyNDY0OTk0LDY4Nj
-g3NDMyNiw2MTgwOTQ0MywyMDAyNjc2NDQ4LDY4Nzg0MjYsLTE1
-ODE4MjA5NTEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyNTM1MzkyNjIsLTMxMjQ2NDk5NCw2OD
+Y4NzQzMjYsNjE4MDk0NDMsMjAwMjY3NjQ0OCw2ODc4NDI2LC0x
+NTgxODIwOTUxLDczMDk5ODExNl19
 -->
