@@ -7,8 +7,7 @@ sitemap: 1
 feed: 1
 folder: programacion
 layout: emirodgar_post
-layout: emirodgar_post
-date:199/55/2011
+date:19/05/2011
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: cookies-samesite
 
@@ -68,12 +67,7 @@ Set-Cookie: nombre=emilio; SameSite=Lax;
 
 A modo de resumen, la siguiente imagen refleja de forma sencilla la diferencia entre los diferentes valores de `SameSite`.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1214554679620833281">
-</amp-twitter>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La imagen que mejor explica los valores del atributo SameSite a la hora de crear cookies <a href="https://t.co/knYAU9t7FA">pic.twitter.com/knYAU9t7FA</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1214554679620833281?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ### Comportamiento por defecto
@@ -85,7 +79,7 @@ Las reglas establecidas a día de hoy indican que:
 
 En la página de [SameSite cookie recipes](https://web.dev/samesite-cookie-recipes/) nos dan una serie de consejos adicionales sobre qué tipo de configuración debemos crear para nuestras cookies en función de la situación que tengamos delante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2NDU4NTUzLC0zMTI0NjQ5OTQsNjg2OD
-c0MzI2LDYxODA5NDQzLDIwMDI2NzY0NDgsNjg3ODQyNiwtMTU4
-MTgyMDk1MSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU2ODU4MTA0OSwtMzEyNDY0OTk0LDY4Nj
+g3NDMyNiw2MTgwOTQ0MywyMDAyNjc2NDQ4LDY4Nzg0MjYsLTE1
+ODE4MjA5NTEsNzMwOTk4MTE2XX0=
 -->
