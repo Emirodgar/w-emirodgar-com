@@ -1,17 +1,17 @@
 ---
+title: Extensión SEO para Google Chrome
 description: Valida de forma automática factores SEO y accede a múltiples herramientas de forma sencilla
 lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
+layout: emirodgar_post
 folder: estrategicos
-date: 20/12/2019
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: extension-seo
 
 ---
-
-# Extensión SEO
 
 Comparto la [extensión SEO](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng) que utilizo a diario en mi trabajo. Está diseñada para facilitar ciertos análisis y validaciones SEO. También ofrece acceso rápido a herramientas, noticias y actualidad sobre posicionamiento web.
 
@@ -95,5 +95,5 @@ He cambiado el feed `json` de noticias para que en lugar de ir asociado a la ext
 
 Como no podía ser de otra forma, las primeras versiones siempre traen *bugs* que deben ser corregidos.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODgzNTE5MV19
+eyJoaXN0b3J5IjpbNjcxNzE1MTcxLDEzNTg4MzUxOTFdfQ==
 -->
