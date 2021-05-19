@@ -5,14 +5,13 @@ lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
+layout: emirodgar_post
 folder: estrategicos
-date: 14/08/2019
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-experto
 
 ---
-
-# Cómo convertirse en un Experto en SEO
 
 Con más de 10 años de [experiencia SEO](/experiencia-seo) he tenido la oportunidad de trabajar, formar y dirigir departamentos SEO en varias agencias digitales. Me gustaría dar mi visión sobre los aspectos de calidad que, en mi opinión, caracterizan a un **SEO experto** y cómo podríamos alcanzar ese nivel.
 
@@ -104,5 +103,5 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NjkyODczXX0=
+eyJoaXN0b3J5IjpbLTM2NzgzMzY5Myw5NTQ2OTI4NzNdfQ==
 -->
