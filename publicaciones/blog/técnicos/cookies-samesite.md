@@ -1,6 +1,5 @@
 ---
-title: Cookies SameSite: guía para entender cómo funcionan
-description: Aprende todo sobre las cookies SameSite; guía completa para saber cómo operar con ellas.
+title: Cookies SameSite, guía para entender cómo funcionan
 lang: es_ES
 author: Emirodgar
 sitemap: 1
