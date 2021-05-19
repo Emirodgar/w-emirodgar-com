@@ -71,7 +71,7 @@ Disallow: /tmp/
 Disallow: /privado/
 ```
 
-No obstante, como ya hemos comentado, el disallow **no garantiza la no indexación**.
+No obstante, como ya hemos comentado, el disallow **no garantiza la no indexación** ya que lo que realmente hace es bloquear el rastreo de los robots.
 
 ## 2. Eliminar una URL ya indexada
 
@@ -97,6 +97,7 @@ En el caso de que queramos que desaparezca información alojada en otras página
 
 Tags: {{page.tags}}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjY4NjAzOSwtOTQxNDg3MTAsLTczOT
-I0ODYxOSwxMDQ3NzgxNzUyLDI2OTI2NjMzOV19
+eyJoaXN0b3J5IjpbLTIwNjM2MTUyNjIsMTczNjY4NjAzOSwtOT
+QxNDg3MTAsLTczOTI0ODYxOSwxMDQ3NzgxNzUyLDI2OTI2NjMz
+OV19
 -->
