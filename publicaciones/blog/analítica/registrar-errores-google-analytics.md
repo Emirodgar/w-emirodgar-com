@@ -33,13 +33,6 @@ Para poder disfrutar de esta información en Analytics, vamos a utilizar una [di
 
 Lo primero que haremos será crear dicha dimensión desde el panel de administración de Google Analytics. En mi caso he utilizado el nombre "Estado HTTP". El ámbito -la explicación de esta opción daría lugar a otro post- lo dejamos en Hit. Si queréis saber más, os remito a la [guía oficial](https://support.google.com/analytics/answer/2709828?hl=es).
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1009388806393466880">
-</amp-twitter>
-
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Entendido esto, vamos a crear una dimensión personalizada en Analytics &quot;Estado HTTP&quot; donde recopilaremos el código de estado de cada página. <a href="https://t.co/GFR8HqCGdi">pic.twitter.com/GFR8HqCGdi</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1009388806393466880?ref_src=twsrc%5Etfw">June 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Si no hiciéramos uso de Google Tag Manager, ya podríamos enviar la información directamente a Analytics utilizando la función set (y como parámetros, el id de dimensión y su valor). Ojo, **el orden de los comandos importa** y, además, tenemos que actualizar el número de dimensión; en este caso es dimension1 porque ha sido la primera en crearse pero si fuera la tercera tendríamos que utilizar dimension3.
@@ -89,7 +82,7 @@ A partir de ahora podremos utilizar esta nueva dimensión en cualquiera de nuest
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Y así de rápido podremos disponer en nuestros informes de la dimensión &#39;Estado HTTP&#39; para poder analizar y ubicar rápidamente dónde estamos generando errores. <a href="https://t.co/a3b4eHVwts">pic.twitter.com/a3b4eHVwts</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1009392061945139200?ref_src=twsrc%5Etfw">June 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyMjMwMTEwLDEzOTg3OTM2ODUsMTIyOD
+eyJoaXN0b3J5IjpbNDI4Mzg0MzI1LDEzOTg3OTM2ODUsMTIyOD
 kyMTE5NywtMTQ4MzA4MDM5MSw4MDYzMDM4NTksMTAwNjk1NjYw
 MSwtMTkwNzU3MDQyMCwtMTI4MTIxNjI4OF19
 -->
