@@ -5,6 +5,7 @@ image: https://i.imgur.com/GlZhXpz.jpg
 lang: es_ES
 sitemap: 1
 feed: 1
+layout: emirodgar_post
 folder: estrategicos
 date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -38,5 +39,6 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
 ![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTI3NjMyOCwtNDA2NTk0NDIyXX0=
+eyJoaXN0b3J5IjpbMTgxMDY4MTkyOSwtMjM1Mjc2MzI4LC00MD
+Y1OTQ0MjJdfQ==
 -->
