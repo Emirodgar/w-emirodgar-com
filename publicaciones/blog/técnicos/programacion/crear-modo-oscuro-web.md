@@ -1,15 +1,15 @@
 ---
+title: Cómo crear un modo oscuro en una web
 description: A través de JavaScript y CSS podremos crear un modo oscuro sencillo para nuestra página web
 lang: es_ES
 sitemap: 1
 feed: 1
 folder: programacion
+layout: emirodgar_post
+date: 15/05/2021
 permalink: crear-modo-oscuro-web
   
 ---
-
-
-# Cómo crear un modo oscuro en una web
 
 Muchas páginas ofrecen la opción a sus visitantes de cambiar la plantilla web y pasar de una versión clara (generalmente blanca) a una oscura. 
 
@@ -51,20 +51,7 @@ body.dark .post .post-content p {color :white;}
 ```
 
 Los estilos CSS dependerán de cada página web. Los que he puesto antes son los que corresponde a mi blog.
-
-## Resultado final
-
-El modo oscuro que he desarrollado para mi web quedaría de la siguiente manera:
-
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1217030590106677253">
-</amp-twitter>
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDI4Mzc4OCwtMTY4NDA5OTAzOCwtMT
-c2MDA5Nzg1MF19
+eyJoaXN0b3J5IjpbLTE2MzMxMzcxODMsMTAxNDI4Mzc4OCwtMT
+Y4NDA5OTAzOCwtMTc2MDA5Nzg1MF19
 -->
