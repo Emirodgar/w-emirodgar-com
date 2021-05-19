@@ -6,7 +6,6 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-lang: es_ES
 author: Emirodgar
 date: 13/05/2021
 layout: emirodgar_post
@@ -81,7 +80,7 @@ Si lo que estás buscando es algo más profesional, también encontrarás gratui
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel="sponsored"}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjYxNTQ5MiwxMDgxNjY0NjIxLDIwOD
+eyJoaXN0b3J5IjpbLTcyMjI5ODk2MywxMDgxNjY0NjIxLDIwOD
 U5NDA5NDQsMjUwNTYwNzIwLDEwNzU1MDAwNDIsMTU5ODk4ODI5
 Niw0NjI0ODU4MzgsNjQ4NDkwNDA1LDExODg5NzU0MjcsMTcwNT
 czODYxOV19
