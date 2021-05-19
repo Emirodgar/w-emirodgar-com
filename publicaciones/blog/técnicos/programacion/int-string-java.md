@@ -8,8 +8,8 @@ feed: 1
 folder: programacion
 lang: es_ES
 author: Emirodgar
-tags: offtopic, crossfit
-date: 10/09/2019
+date: 13/05/2021
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
 permalink: pasar-de-int-a-string-y-de-string-a-int-en-java
 
@@ -81,7 +81,8 @@ Si lo que estás buscando es algo más profesional, también encontrarás gratui
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel="sponsored"}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTY2NDYyMSwyMDg1OTQwOTQ0LDI1MD
-U2MDcyMCwxMDc1NTAwMDQyLDE1OTg5ODgyOTYsNDYyNDg1ODM4
-LDY0ODQ5MDQwNSwxMTg4OTc1NDI3LDE3MDU3Mzg2MTldfQ==
+eyJoaXN0b3J5IjpbMTY0NjYxNTQ5MiwxMDgxNjY0NjIxLDIwOD
+U5NDA5NDQsMjUwNTYwNzIwLDEwNzU1MDAwNDIsMTU5ODk4ODI5
+Niw0NjI0ODU4MzgsNjQ4NDkwNDA1LDExODg5NzU0MjcsMTcwNT
+czODYxOV19
 -->
