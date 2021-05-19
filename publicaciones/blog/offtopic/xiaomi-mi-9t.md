@@ -22,12 +22,7 @@ De momento, la única queja que tengo -y que podría ser un motivo de devolució
 
 Desde octubre de 2019 se pueden encontrar comentarios en la red de usuarios de este modelo de teléfono a los que el dispositivo se calentó mucho, perdió batería de forma rápida y, en algunos, se terminaba apagando.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1228252540929814528">
-</amp-twitter>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La primera experiencia con el Xiaomi Mi 9T no es mala pero cuando se le va la pinza con la batería, fulmina el dispositivo. Parece un problema de software. <a href="https://t.co/ZBO81KoMPf">pic.twitter.com/ZBO81KoMPf</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1228252540929814528?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Parece que el problema comenzó con `MIUI 10.3.6.0` y que ha persistido con la versión `11`. Esto da pie a pensar que se trata de un problema de *software* asociado a la ROM y que aún no ha sido resuelto por parte de Xiaomi. Hay otros dispositivos afectados como Redmi note 4.
 
@@ -46,7 +41,7 @@ He identificado algunos puntos importantes que pueden estar relacionados con un 
 
 A mayores, recomiendo [echar un vistazo a este vídeo](https://www.youtube.com/watch?v=Kjyucud0fzA&feature=emb_logo) donde nos dan consejos para optimizar la vida útil de nuestra batería.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNTYwNCw3ODE4MDYyNjYsMTQ3MDA0OT
-k2OCwtMTEyNDcwNDEzOCwtMTcwNTc5NjY5OCwzNTYwOTQzNV19
-
+eyJoaXN0b3J5IjpbMTAxMzE0NzIwMiw3ODE4MDYyNjYsMTQ3MD
+A0OTk2OCwtMTEyNDcwNDEzOCwtMTcwNTc5NjY5OCwzNTYwOTQz
+NV19
 -->
