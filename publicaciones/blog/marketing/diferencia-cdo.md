@@ -1,15 +1,16 @@
 ---
+title: ¿Cuál es la diferencia entre Chief Data Officer y Chief Digital Officer?
 description: El término CDO es muy utilizado hoy en día pero ¿sabemos la diferencia entre Data y Digital?
 lang: es_ES
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 sitemap: 1
 feed: 1
 folder: marketing
+layout: emirodgar_post
+date: 19/05/2021
 permalink: diferencia-chief-data-officer-chief-digital-officer
 
 ---
-
-# ¿Cuál es la diferencia entre Chief Data Officer y Chief Digital Officer?
 
 La transformación digital sigue su curso y cada vez más rápido. Surgen nuevos términos para tareas conocidas y nuevos puestos de trabajo que buscan la eficiencia en un mundo gobernado por el dato. Las empresas se afanan por contratar directivos con experiencia en estas *nuevas* áreas y con ello se pone de moda el término **CDO**.
 
@@ -40,5 +41,6 @@ Las responsabilidades principales son:
 4. Control sobre todas las fuentes de información que pueden aportar valor a la empresa (internas o externas).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjYzNjc4MzQsMTExMTI0Njg3MV19
+eyJoaXN0b3J5IjpbLTMyNzY2MzI0MCwtMTEyNjM2NzgzNCwxMT
+ExMjQ2ODcxXX0=
 -->
