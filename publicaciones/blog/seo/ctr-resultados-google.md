@@ -21,12 +21,7 @@ A lo largo del tiempo se han realizado múltiples estudios pero quizá uno de lo
 
 La primera conclusión es arrolladora; **el 33,1% de los clics se realizan en el primer resultado para escritorio y el 30,62% en dispositivos móviles**.
 
-<amp-img alt="CTR primer resultado búsqueda Google"
-  src="https://i.imgur.com/t9rFCgG.png"
-  width="640"
-  height="386"
-  layout="responsive">
-</amp-img>
+![CTR primer resultado búsqueda Google](https://i.imgur.com/t9rFCgG.png){:class="img-responsive"}
 
 Cualquier persona que lleve tiempo trabajando [estrategias SEO](https://emirodgar.com/estrategia-seo) no debería estar sorprendido; el primer resultado siempre es lo más codiciado puesto puesto que se sabe que mucha gente **hace clic de forma impulsiva** sobre lo primero que ve.
 
@@ -83,7 +78,7 @@ Aquí van algunas recomendaciones interesantes extraídas del análisis de estos
 Tiene sentido orientar los títulos a preguntas puesto que cuando alguien realiza una búsqueda, [está principalmente buscando respuestas](https://www.blog.google/products/search/providing-more-comprehensive-results-your-questions-search/). Incluir una pregunta en el título implícitamente está diciendo que tenemos la respuesta en el contenido.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg5NTQzMTgsMTk4OTY3Mjg5MSwxNT
+eyJoaXN0b3J5IjpbLTE0MzkxMTg2OTAsMTk4OTY3Mjg5MSwxNT
 k0ODcyMTA3LDI1MjA5NzU3MywtNDk0NjIwNDU0LDEwNTI2MzM0
 NzNdfQ==
 -->
