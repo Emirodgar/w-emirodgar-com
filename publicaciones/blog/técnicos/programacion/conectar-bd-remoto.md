@@ -5,11 +5,11 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: programacion
+layout: emirodgar_post
+date: 15/05/2021
 permalink: conectar-a-una-base-de-datos-mysql-en-remoto
   
 ---
-
-# Conectar a una base de datos MySQL en remoto
 
 Hasta ahora utilizaba principalmente [TOAD](http://www.toadsoft.com/) para el diseño, gestión y mantenimiento de mis bases de datos pero cada día lo encuentro más sencillo y con la sensación de que no cubre todas mis expectativas. Por ello, a partir de hoy he decidido empezar a usar [SQLYog](http://www.webyog.com/en/).  
   
@@ -33,5 +33,6 @@ Al principio pensé en hacerme un script PHP, pero desde luego que algo tan senc
   
 Si no necesitas programas de gestión de bases de datos sino que lo que buscas es simple y llanamente un programa para hacer copias de seguridad, te recomiendo MyAutoBackup o cualquier aplicación similar que permita programas copias de seguridad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjMwOTA1MCwtNjM5MzY4MTgxXX0=
+eyJoaXN0b3J5IjpbLTEwNzQwNTE5NjAsMTUzMjMwOTA1MCwtNj
+M5MzY4MTgxXX0=
 -->
