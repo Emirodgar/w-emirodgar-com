@@ -1,15 +1,16 @@
 ---
+title: Los tres pilares SEO
 description: Estrategia paso a paso para posicionar por Consultor SEO con herramientas gratuitas.
 lang: es_ES
 sitemap: 1
 feed: 1
+layout: emirodgar_post
 folder: estrategicos
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: pilares-seo
 
 ---
-
-# Los tres pilares SEO
 
 Antes de comenzar a diseñar una [estrategia SEO](/estrategia-seo) debemos tener presente los **tres pilares SEO** que nos ayudarán a asegurar unos buenos resultados digitales.
 
@@ -55,5 +56,5 @@ Para ello debemos conseguir enlaces de calidad que aporten valor y contexto a nu
 
 Es recomendable -aunque no obligatorio- tener presente los [nuevos atributos de enlazado](https://emirodgar.com/atributos-enlaces-google) que ha propuesto Google. Cuanto mejor entienda la naturaleza de cada uno de ellos, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzYyMDE0MF19
+eyJoaXN0b3J5IjpbNTIwMjcyMjkyLC0xNDc2MjAxNDBdfQ==
 -->
