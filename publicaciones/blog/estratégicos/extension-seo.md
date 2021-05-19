@@ -16,12 +16,7 @@ permalink: extension-seo
 Comparto la [extensión SEO](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng) que utilizo a diario en mi trabajo. Está diseñada para facilitar ciertos análisis y validaciones SEO. También ofrece acceso rápido a herramientas, noticias y actualidad sobre posicionamiento web.
 
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1187022113590382598">
-</amp-twitter>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Comparto mi extensión <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a> para Chrome. Análisis, validación, herramientas y noticias. Ideal para análisis rápidos y estar al día en posicionamiento web. <a href="https://t.co/jHVA2cxabS">https://t.co/jHVA2cxabS</a> <a href="https://t.co/0v7b51Y5Wx">pic.twitter.com/0v7b51Y5Wx</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1187022113590382598?ref_src=twsrc%5Etfw">October 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Funcionalidades SEO
@@ -76,12 +71,6 @@ También se ha añadido la validación de idioma a través de la etiqueta `lang`
 
 A partir de ahora se identifica si [existe una versión AMP](https://emirodgar.com/javascript-detectar-amp) de la página que estamos analizando y ofrece el enlace para facilitar su análisis.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1217801681653596161">
-</amp-twitter>
 
 ### 1.0.3 - Validación de Viewport
 
@@ -95,5 +84,5 @@ He cambiado el feed `json` de noticias para que en lugar de ir asociado a la ext
 
 Como no podía ser de otra forma, las primeras versiones siempre traen *bugs* que deben ser corregidos.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxNzE1MTcxLDEzNTg4MzUxOTFdfQ==
+eyJoaXN0b3J5IjpbNDMzNzMzODY4LDEzNTg4MzUxOTFdfQ==
 -->
