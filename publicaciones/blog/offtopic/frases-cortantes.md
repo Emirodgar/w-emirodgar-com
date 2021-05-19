@@ -1,15 +1,17 @@
 ---
+title: Frases cortantes para que no te molesten
 description: Recopilatorio gracioso de frases cortantes para evitar que te molesten de forma original.
 lang: es_ES
 sitemap: 1
 feed: 1
 folder: offtopic
+layout: emirodgar_post
+date: 15/05/2021
 permalink: frases-cortantes-para-que-no-te-molesten
 author:
   twitter: emirodgar
   
 ---
-# Frases cortantes para que no te molesten
 
 A raíz de un audio en el que un chico se defendía de forma muy original de la teleoperadora que quería venderle un paquete de Internet, he recordado que tenía apuntado de mis tiempos del IRC una serie de frases cortantes para evitar que te molesten.
 
@@ -46,5 +48,5 @@ P: ¿Esta silla está libre?
 R: Sí, y la mía también si te sientas.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODE4NDQ4N119
+eyJoaXN0b3J5IjpbLTE0MTczNTkyOTksLTU1ODE4NDQ4N119
 -->
