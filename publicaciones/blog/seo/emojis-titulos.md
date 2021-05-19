@@ -6,14 +6,13 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: seo
-date: 30/01/2020
+date: 19/05/2021
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: emojis-titulo
 
 ---
 
-
-# Emojis para títulos SEO
 
 Dentro de la [estrategia SEO](/estrategia-seo) debemos tener presente la importancia del **CTR** (Click Through Rate) como un [factor SEO](/factores-seo) relevante.
 
@@ -52,15 +51,9 @@ Existen varias páginas que han realizado recopilaciones de emojis e iconos que 
 
 Con frecuencia se van añadiendo nuevos emojis pero es importante recordar que **no todos ellos pueden ser usados en las SERPs** de los buscadores.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1222856122710798336">
-</amp-twitter>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzkyNzg4LC0xMzk4MDQyMzU3LDIwND
-A5MjE1NjYsLTIxMzc1MzUxMjVdfQ==
+eyJoaXN0b3J5IjpbMTYxMjIyMjU0LC00Njc5Mjc4OCwtMTM5OD
+A0MjM1NywyMDQwOTIxNTY2LC0yMTM3NTM1MTI1XX0=
 -->
