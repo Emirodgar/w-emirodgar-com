@@ -1,15 +1,16 @@
 ---
+title: Problemas de consumo de batería y calentamiento en Xiaomi Mi 9T
 description: Problemas de consumo de batería y de filtros de cámara
 author: Emirodgar
 sitemap: 1
 feed: 1
 folder: offtopic
 lang: es_ES
+layout: emirodgar_post
+date: 15/05/2021
 permalink: xiaomi-mi-9t-problemas
 
 ---
-
-# Problemas de consumo de batería y calentamiento en Xiaomi Mi 9T
 
 Mi experiencia con un **teléfono móvil Xiaomi** comenzó bastante bien. Invertí bastante tiempo en analizar los diferentes modelos del mercado para terminar apostando por uno de gama baja pero con altas prestaciones. 
 
@@ -45,6 +46,7 @@ He identificado algunos puntos importantes que pueden estar relacionados con un 
 
 A mayores, recomiendo [echar un vistazo a este vídeo](https://www.youtube.com/watch?v=Kjyucud0fzA&feature=emb_logo) donde nos dan consejos para optimizar la vida útil de nuestra batería.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxODA2MjY2LDE0NzAwNDk5NjgsLTExMj
-Q3MDQxMzgsLTE3MDU3OTY2OTgsMzU2MDk0MzVdfQ==
+eyJoaXN0b3J5IjpbNTcwNTYwNCw3ODE4MDYyNjYsMTQ3MDA0OT
+k2OCwtMTEyNDcwNDEzOCwtMTcwNTc5NjY5OCwzNTYwOTQzNV19
+
 -->
