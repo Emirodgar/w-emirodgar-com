@@ -38,7 +38,7 @@ Si tenemos espacio entre los números  (" 1 3 45 6") deberíamos usar el método
 ```java
     numCadena.replaceAll(" ", "");
 ```
-Una vez realiazdos estos sencillos pasos podremos trabajar con los números enteros.  
+Una vez realizados estos sencillos pasos podremos trabajar con los números enteros.  
   
 ## Pasar un INT a STRING (de entero a cadena)  
   
@@ -78,8 +78,8 @@ Si lo que estás buscando es algo más profesional, también encontrarás gratui
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel="sponsored"}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODUzMzU1OTMsLTE3NjQ5MzM1NiwtMT
-E3ODc1NjkwNSwxMDgxNjY0NjIxLDIwODU5NDA5NDQsMjUwNTYw
-NzIwLDEwNzU1MDAwNDIsMTU5ODk4ODI5Niw0NjI0ODU4MzgsNj
-Q4NDkwNDA1LDExODg5NzU0MjcsMTcwNTczODYxOV19
+eyJoaXN0b3J5IjpbLTU5MTg1OTM4NywtMTc2NDkzMzU2LC0xMT
+c4NzU2OTA1LDEwODE2NjQ2MjEsMjA4NTk0MDk0NCwyNTA1NjA3
+MjAsMTA3NTUwMDA0MiwxNTk4OTg4Mjk2LDQ2MjQ4NTgzOCw2ND
+g0OTA0MDUsMTE4ODk3NTQyNywxNzA1NzM4NjE5XX0=
 -->
