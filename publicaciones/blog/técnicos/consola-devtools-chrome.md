@@ -5,7 +5,8 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-date: 12/11/2019
+layout: emirodgar_post
+date: 15/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: consola-devtools-chrome
 
@@ -89,8 +90,8 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQxNjQyNDgsLTEwNjg5NTcyNCwzMT
-YzNDg0MDAsNDI3ODAzOTQ4LC0xMDEwNjYyMTMsLTUxMTY0MTMz
-Niw1Njc0NDQzMTMsMTgyMTU4OTMxOCwtNjkxOTk0MjgzLC04Nj
-YwMzMxMjFdfQ==
+eyJoaXN0b3J5IjpbLTE3NjI5NTUxNTYsLTIwMTQxNjQyNDgsLT
+EwNjg5NTcyNCwzMTYzNDg0MDAsNDI3ODAzOTQ4LC0xMDEwNjYy
+MTMsLTUxMTY0MTMzNiw1Njc0NDQzMTMsMTgyMTU4OTMxOCwtNj
+kxOTk0MjgzLC04NjYwMzMxMjFdfQ==
 -->
