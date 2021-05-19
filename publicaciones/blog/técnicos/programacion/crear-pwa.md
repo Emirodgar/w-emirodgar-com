@@ -21,13 +21,6 @@ Las PWA están programadas con el mismo lenguaje que una página web: **HTML, Ja
 
 Otra ventaja la encontramos en el proceso de instalación de una app. En las nativas, se siguen varios pasos como acceso al marketplace, descarga, instalación, acceso y utilización. Por contra, las PWA reducen considerablemente el número de pasos necesarios **mejorando por tanto la conversión** asociada al uso de la aplicación.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="864987919685001216">
-</amp-twitter>
-
 Un último punto importante es el tamaño. Las PWA están diseñadas para **operar de forma eficiente sin apenas consumir espacio** del dispositivo móvil por lo que facilitan enormemente el hecho de poder trabajar con muchas aplicaciones.   
 
 ## ¿Qué necesitamos para crear nuestra PWA?
@@ -117,6 +110,6 @@ Puedes utilizar el proyecto open source [PWA Builder](https://pwa.cafe/) como pl
 
 Al igual que ocurre con las aplicaciones de Android o iOS, las PWA también tienen su propia página que las agrupa y nos permite acceder a ellas fácilmente. Se llama [Appsco](https://appsco.pe).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI5OTY1MzcsNzMyOTE5MjAzLDU3OD
-ExMDIyMl19
+eyJoaXN0b3J5IjpbMTE1MTU1MDY2MCwtMTc2Mjk5NjUzNyw3Mz
+I5MTkyMDMsNTc4MTEwMjIyXX0=
 -->
