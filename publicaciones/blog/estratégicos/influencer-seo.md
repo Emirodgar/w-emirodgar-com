@@ -5,16 +5,15 @@ lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
+layout: emirodgar_post
 folder: estrategicos
-date: 30/09/2019
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: influencer-seo
 customjs:
  - https://cdn.ampproject.org/v0/amp-iframe-0.1.js
  
  ---
-
-# Influencer SEO
 
 Desde que descrubrí el mundo del SEO siempre me ha gustado compartir debates e información con amigos y profesionales del sector. 
 
@@ -34,5 +33,5 @@ frameborder="0"
 src="../publicaciones/influencer-seo.html"></amp-iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4NTQ1MDQ5XX0=
+eyJoaXN0b3J5IjpbMTM5ODY4MTgyMyw2NDg1NDUwNDldfQ==
 -->
