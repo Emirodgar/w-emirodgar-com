@@ -6,14 +6,12 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: seo, google
-date: 09/05/2019
-date_modified: 09/05/2020
+layout: emirodgar_post
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: comandos-google
 
 ---
-
-# Comandos de Google para SEO
 
 Google es un gran buscador y como tal nos permite interactuar tanto con las búsquedas como con los resultados de una forma diferente.
 
@@ -97,5 +95,6 @@ Aunque existen alternativas que nos ayudarán a [analizar el SEO](factores-seo) 
 -site:emirodgar.com inurl:? para identificar posibles parámetros en las URLs
 - site:emirodgar.* -emirodgar.com para encontrar otros dominios adicionales al que estamos optimizando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODYzODI2NCw2NjI4MzQxMTFdfQ==
+eyJoaXN0b3J5IjpbLTIxMzQxNDY5MDksLTU3ODYzODI2NCw2Nj
+I4MzQxMTFdfQ==
 -->
