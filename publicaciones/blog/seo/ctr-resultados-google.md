@@ -6,14 +6,12 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: seo
-date: 28/08/2019
-date_modified: 28/08/2019
+layout: emirodgar_post
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: ctr-resultados-google
 
 ---
-
-# Tráfico y CTR en los resultados de Google
 
 Todos queremos salir en las primeras posiciones de las búsquedas Google, es entendible; sabemos que así tendremos mayor visibilidad SEO y captaremos más tráfico pero ¿sabemos cómo se reparte realmente el tráfico y qué CTR tiene cada uno de los resultados?
 
@@ -85,6 +83,7 @@ Aquí van algunas recomendaciones interesantes extraídas del análisis de estos
 Tiene sentido orientar los títulos a preguntas puesto que cuando alguien realiza una búsqueda, [está principalmente buscando respuestas](https://www.blog.google/products/search/providing-more-comprehensive-results-your-questions-search/). Incluir una pregunta en el título implícitamente está diciendo que tenemos la respuesta en el contenido.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTY3Mjg5MSwxNTk0ODcyMTA3LDI1Mj
-A5NzU3MywtNDk0NjIwNDU0LDEwNTI2MzM0NzNdfQ==
+eyJoaXN0b3J5IjpbLTEzMzg5NTQzMTgsMTk4OTY3Mjg5MSwxNT
+k0ODcyMTA3LDI1MjA5NzU3MywtNDk0NjIwNDU0LDEwNTI2MzM0
+NzNdfQ==
 -->
