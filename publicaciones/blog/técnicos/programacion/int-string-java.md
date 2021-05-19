@@ -37,18 +37,18 @@ Si tenemos espacio entre los números  (" 1 3 45 6") deberíamos usar el método
 ```java
     numCadena.replaceAll(" ", "");
 ```
-Una vez realizados estos sencillos pasos podremos trabajar con los números enteros.  
+Una vez realizados estos sencillos pasos podremos trabajar con los números enteros. 
   
 ## Pasar un INT a STRING (de entero a cadena)  
   
-Para pasar de un tipo básico a un objeto `String` tenemos varias posibilidades, por un lado, si eres un artesano, puedes simplemente concatenar a tu entero una cadena vacía:
+Para pasar de un tipo básico a un objeto `String` tenemos varias posibilidades; por un lado, si eres un artesano, puedes simplemente concatenar a tu entero una cadena vacía:
 
 ```java
     int numEntero = 4;    
     String numCadena= numEntero+"";
 ```
 
-La forma correcta de realizar esta operación sería invocando al método `valueOf` de la clase `String`  
+No obstante, la forma correcta de realizar esta operación sería invocando al método `valueOf` de la clase `String`  
   
 ```java
     int numEntero = 4;    
@@ -61,7 +61,8 @@ Otra forma correcta de hacerlo sería utilizando el método `toString` del objet
     String numCadena= Integer.toString(numEntero);
 ```
 
-Espero que esto les sirva a todas aquellas personas que vinieron buscándolo, al menos así es como suelo hacerlo.
+Espero que esto les sirva a todas aquellas personas que vinieron buscándolo.
+
 
 ## Libros gratuitos para aprender Java
 
@@ -77,8 +78,8 @@ Si lo que estás buscando es algo más profesional, también encontrarás gratui
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel="sponsored"}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDk2NTMzMSwtMTc2NDkzMzU2LC0xMT
-c4NzU2OTA1LDEwODE2NjQ2MjEsMjA4NTk0MDk0NCwyNTA1NjA3
-MjAsMTA3NTUwMDA0MiwxNTk4OTg4Mjk2LDQ2MjQ4NTgzOCw2ND
-g0OTA0MDUsMTE4ODk3NTQyNywxNzA1NzM4NjE5XX0=
+eyJoaXN0b3J5IjpbNTU5OTc3NDMsLTE3NjQ5MzM1NiwtMTE3OD
+c1NjkwNSwxMDgxNjY0NjIxLDIwODU5NDA5NDQsMjUwNTYwNzIw
+LDEwNzU1MDAwNDIsMTU5ODk4ODI5Niw0NjI0ODU4MzgsNjQ4ND
+kwNDA1LDExODg5NzU0MjcsMTcwNTczODYxOV19
 -->
