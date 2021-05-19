@@ -1,17 +1,17 @@
 ---
-title: Cómo crear una Progressive Web App
+title: Cómo crear una Progressive Web App (PWA)
 description: Aprende a crear tu propia Progressive Web App (PWA) y olvídate de programar apps tradicionales en iOS o Android.
 lang: es_ES
 sitemap: 1
 feed: 1
 folder: programacion
+layout: emirodgar_post
+date: 15/05/2021
 permalink: como-crear-una-progressive-web-app
 author:
   twitter: emirodgar
   
 ---
-
-# Cómo crear una Progressive Web App
 
 La revolución de los smartphone y los marketplaces de apps supuso un antes y un después en el mundo de la movilidad y las comunicaciones. Pero como todo en esta vida, sigue evolucionando y el siguiente paso son las **PWA** (*Progressive Web Apps*).
 
@@ -117,5 +117,6 @@ Puedes utilizar el proyecto open source [PWA Builder](https://pwa.cafe/) como pl
 
 Al igual que ocurre con las aplicaciones de Android o iOS, las PWA también tienen su propia página que las agrupa y nos permite acceder a ellas fácilmente. Se llama [Appsco](https://appsco.pe).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyOTE5MjAzLDU3ODExMDIyMl19
+eyJoaXN0b3J5IjpbLTE3NjI5OTY1MzcsNzMyOTE5MjAzLDU3OD
+ExMDIyMl19
 -->
