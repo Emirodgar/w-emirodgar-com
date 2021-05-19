@@ -6,13 +6,12 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-date: 17/05/2019
+layout: emirodgar_post
+date: 15/05/2021
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: funcion-javascript-cadena-minusculas
 
 ---
-
-# Función JavaScript para pasar cadena a minúsculas con la primera letra en mayúsculas
 
 La siguiente función Javascript nos ayudará a convertir toda una cadena en minúsculas a excepción de la primera letra que quedará en mayúsculas. 
 
@@ -37,5 +36,5 @@ alert(convertirCadena("esto Es un Ejemplo de Cadena"));
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDc3MTIxMl19
+eyJoaXN0b3J5IjpbLTI2NzM4MjM0MSwtNDk0NzcxMjEyXX0=
 -->
