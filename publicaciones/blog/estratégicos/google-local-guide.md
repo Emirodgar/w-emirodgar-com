@@ -1,17 +1,17 @@
 ---
+title: Google Local Guide Salamanca
 description: Aprende todas las vertientes SEO (técnico, contenidos y linking) y domínalas como un experto
 lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
+layout: emirodgar_post
 folder: estrategicos
-date: 20/12/2019
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: google-local-guide-salamanca
 
 ---
-
-# Google Local Guide Salamanca
 
 Soy una persona que confía mucho en las valoraciones y consejos de los demás y por ello, para devolver el favor, llevo desde el 2007 puntuando aquellos servicios y lugares que visito.
 
@@ -33,5 +33,5 @@ Intento siempre ofrecer un punto de vista imparcial y, en los últimos años, me
 
 El objetivo es claro, que tengan suficiente información como para poder elegir dónde quieren ir y qué quieren hacer con **ciertas garantías de que no se llevarán ninguna sorpresa**. Lo que cualquier querría si viajara a un sitio que no conoce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzIxMTgxOF19
+eyJoaXN0b3J5IjpbNTg4NTkxNDE5LC0yNjMyMTE4MThdfQ==
 -->
