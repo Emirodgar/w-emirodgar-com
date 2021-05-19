@@ -6,13 +6,12 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-date: 10/09/2019
+layout: emirodgar_post
+date: 15/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: lazy-load-carga-bajo-demanda-imagenes
 
 ---
-
-# Aplicar Lazy Load para cargar imágenes bajo demanda
 
 La técnica **Lazy Load** consiste en **cargar elementos de una página web bajo demanda**, es decir, cuando se van a utilizar.
 
@@ -57,6 +56,6 @@ alt="Estrategia SEO Meliá Hoteles">
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0MTQ4OTUzLC0zOTA4NzU4NTAsMjA1OT
-Q2MjU3OCwtOTc3MTk2Nzg0XX0=
+eyJoaXN0b3J5IjpbMTk1MTA5MTY1NCw4MzQxNDg5NTMsLTM5MD
+g3NTg1MCwyMDU5NDYyNTc4LC05NzcxOTY3ODRdfQ==
 -->
