@@ -1,16 +1,22 @@
 ---
-description: Cookies SameSite: guía para entender cómo funcionan
+title: Trucos para usar la consola de Google Chromedescription: Cookies SameSite: guía para entender cómo funcionan
 lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
 layout: emirodgar_post
-date: 19/05/2021
+layout: emirodgar_post
+date:199/55/2011
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: cookies-samesite
 
 ---
+
+# 
+
+
+# Cookies SameSite: guía para entender cómo funcionan
 
 Las cookies son, a día de hoy, la forma más utilizada para guardar y mantener información entre un usuario y una o varias páginas web. Éstas se guardan en el navegador (Chrome, Firefox, Edge, etc.) y normalmente se usan para guardar sesiones, preferencias en aplicaciones o seguimiento de analítica web.
 
@@ -66,7 +72,12 @@ Set-Cookie: nombre=emilio; SameSite=Lax;
 
 A modo de resumen, la siguiente imagen refleja de forma sencilla la diferencia entre los diferentes valores de `SameSite`.
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">La imagen que mejor explica los valores del atributo SameSite a la hora de crear cookies <a href="https://t.co/knYAU9t7FA">pic.twitter.com/knYAU9t7FA</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1214554679620833281?ref_src=twsrc%5Etfw">January 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<amp-twitter 
+  width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1214554679620833281">
+</amp-twitter>
 
 
 ### Comportamiento por defecto
@@ -78,7 +89,7 @@ Las reglas establecidas a día de hoy indican que:
 
 En la página de [SameSite cookie recipes](https://web.dev/samesite-cookie-recipes/) nos dan una serie de consejos adicionales sobre qué tipo de configuración debemos crear para nuestras cookies en función de la situación que tengamos delante.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMxNDQzOTEsLTMxMjQ2NDk5NCw2OD
+eyJoaXN0b3J5IjpbLTE1MDg4MTI4NDUsLTMxMjQ2NDk5NCw2OD
 Y4NzQzMjYsNjE4MDk0NDMsMjAwMjY3NjQ0OCw2ODc4NDI2LC0x
 NTgxODIwOTUxLDczMDk5ODExNl19
 -->
