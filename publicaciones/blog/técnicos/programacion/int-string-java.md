@@ -20,7 +20,7 @@ Por lo general lo que más suelo hacer es pasar cadenas a enteros, es decir, de 
   
 ## Pasar un STRING a un INT (de cadena a entero)  
   
-Para hacer la siguiente operación necesitaremos hacer uso de la clase `Integer` y de su método `"parseInt`" de la siguiente manera:
+Para hacer la siguiente operación necesitaremos hacer uso de la clase `Integer` y de su método `parseInt` de la siguiente manera:
 
 ```java
     String numCadena = "1";      
@@ -34,7 +34,7 @@ Si los espacios vienen al principio o al final, con un simple `trim` bastará pa
     numCadena.trim();
 ```
 Si tenemos espacio entre los números  (" 1 3 45 6") deberíamos usar el método `replaceAll`.
- (" 1 3 45 6")
+ 
 ```java
     numCadena.replaceAll(" ", "");
 ```
@@ -78,8 +78,8 @@ Si lo que estás buscando es algo más profesional, también encontrarás gratui
 
 Para los peques de la casa, a los que recomendaría comenzar por Arduino y similares, también contamos con títulos como [Java para niños: Aprende a programar y crea tus propios proyectos con Java 8](https://amzn.to/3biXPSa){:rel="sponsored"}. Una forma original y relativamente sencilla de introducirles en el mundo de la programación con Java.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ5MzM1NiwtMTE3ODc1NjkwNSwxMD
-gxNjY0NjIxLDIwODU5NDA5NDQsMjUwNTYwNzIwLDEwNzU1MDAw
-NDIsMTU5ODk4ODI5Niw0NjI0ODU4MzgsNjQ4NDkwNDA1LDExOD
-g5NzU0MjcsMTcwNTczODYxOV19
+eyJoaXN0b3J5IjpbMTU5Nzg5NzYyMCwtMTc2NDkzMzU2LC0xMT
+c4NzU2OTA1LDEwODE2NjQ2MjEsMjA4NTk0MDk0NCwyNTA1NjA3
+MjAsMTA3NTUwMDA0MiwxNTk4OTg4Mjk2LDQ2MjQ4NTgzOCw2ND
+g0OTA0MDUsMTE4ODk3NTQyNywxNzA1NzM4NjE5XX0=
 -->
