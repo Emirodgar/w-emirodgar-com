@@ -38,12 +38,7 @@ Antes de entrar en materia necesitamos aclarar unos conceptos básicos:
 
 En la siguiente imagen explico en detalle los diferentes tipos de atributo de los enlaces y su **impacto en las estrategias SEO**.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1207679355150831620">
-</amp-twitter>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Ya va quedando menos para marzo 2020, con todos los enlaces nofollow que tengo desde hace años... 🤣 <a href="https://t.co/yeKXeVhQKZ">pic.twitter.com/yeKXeVhQKZ</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1207679355150831620?ref_src=twsrc%5Etfw">December 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Veamos unos ejemplos de cómo serían varios enlaces en el código fuente (HTML) de una página web.
 
@@ -148,12 +143,7 @@ Se trata de aplicar la misma táctica que en el punto anterior pero en lugar de 
 
 Por tanto el primer paso será identificar el contenido relacionado con la temática de nuestra página que mejor resultados ha generado en redes sociales. Para ello recomiendo usar [Buzzsumo](https://buzzsumo.com/).
 
-<amp-img alt="Buzzsumo"
-  src="https://i.imgur.com/1ueqwVG.png"
-  width="566"
-  height="531"
-  layout="responsive">
-</amp-img>
+![Estrategia de linking con Buzzsumo](https://i.imgur.com/1ueqwVG.png){:class="img-responsive"}
 
 Una vez identificadas las publicaciones con más interacción podemos repetir el proceso: analizamos qué páginas las han enlazado y contactamos con ellas para que nos incluyan un enlace.
 
@@ -225,8 +215,8 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA2MzU1MzYsLTE0ODI5ODIwMSwyMD
-cxMTc5ODAyLC0xOTk5MDcwMDg4LC0xMTQxNDU1OTAxLC0xMTg3
-Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkwNTMzMiw5MTU4MDA2Nz
-MsLTYzMjgxOTE2Nl19
+eyJoaXN0b3J5IjpbMTEwMzM5NzQwOSwtMTQ4Mjk4MjAxLDIwNz
+ExNzk4MDIsLTE5OTkwNzAwODgsLTExNDE0NTU5MDEsLTExODcz
+OTU3MjcsLTkxODU1NzExMSwtNzYwOTA1MzMyLDkxNTgwMDY3My
+wtNjMyODE5MTY2XX0=
 -->
