@@ -38,17 +38,17 @@ Si estás haciendo uso de Google Chrome (con tu sesión de Google iniciada) bata
 
 Si trabajas frecuentemente en hojas de cálculo, el conocer las combinaciones de teclas te ayudará a avanzar mucho más rápido. El [listado de combinaciones de teclas para Google Sheets](https://support.google.com/docs/answer/181110?p=spreadsheets_shortcuts&visit_id=636916984300300429-799695081&rd=1) es bastante amplio así que os dejo las que considero más relevantes:
 
- 1. Insertar enlace (`ctrl` + `k`k)
- 2. Quitar formato (`ctrl` + `\`\)
- 3. Pegar sólo valores (`ctrl` + `may` + `v`v)
- 4. Dar formato de fecha (`ctrl` + `may` + `3`3)
- 5. Dar formato de moneda (`ctrl` + `may` + `4`4)
+ 1. Insertar enlace (`ctrl` + `k`)
+ 2. Quitar formato (`ctrl` + `\`)
+ 3. Pegar sólo valores (`ctrl` + `may` + `v`)
+ 4. Dar formato de fecha (`ctrl` + `may` + `3`)
+ 5. Dar formato de moneda (`ctrl` + `may` + `4`)
  6. Insertar una nota (`may` + `f2`)
  7. Insertar un comentario (`ctrl` + `alt` + `m`)
  8. Seleccionar todos los datos (`ctrl` + `a`)
  9. Buscar y sustituir (`ctrl` + `h`)
  10. Acceder a una fórmula (`F2`)
- 11. Hacer fórmulas multilínea (`ctrl` + `enter`m)
+ 11. Hacer fórmulas multilínea (`ctrl` + `enter`)
 
 Dependiendo de tu forma de trabajar tendrá sentido usar unas u otras.
 
@@ -165,6 +165,7 @@ Y al siguiente para hacerlo en formato JSON:
 https://spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json
 ``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTY5MTg4NywxMDY0MTc1MTgsNzI0Nz
-A5Mjc2LC05MjgzNzM1MjgsMTY0OTAwNTMyMl19
+eyJoaXN0b3J5IjpbMTk5OTcxMDQzNCwyMDIxNjkxODg3LDEwNj
+QxNzUxOCw3MjQ3MDkyNzYsLTkyODM3MzUyOCwxNjQ5MDA1MzIy
+XX0=
 -->
