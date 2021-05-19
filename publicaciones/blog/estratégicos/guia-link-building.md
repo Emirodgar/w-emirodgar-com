@@ -1,18 +1,17 @@
 ---
+title: Guía Link building SEO 2020
 description: Estrategias para conseguir enlaces que a día de hoy funcionan correctamente
 lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
+layout: emirodgar_post
 folder: estrategicos
-date: 20/01/2020
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: guia-link-building
 
 ---
-
-
-# Guía Link building SEO 2020
 
 Esta guía pretende ayudarnos a diseñar y ejecutar correctamente una **estrategia de link building** para favorecer el SEO. 
 
@@ -226,8 +225,8 @@ Los buscadores, especialmente Google, se toman muy en serio la compra/venta de e
 
 Si detectan un proceso no natural o en el que ha intervenido dinero (compra/venta) es posible que recibamos una [penalización manual por enlaces artificiales](https://support.google.com/webmasters/answer/9044175?hl=es).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI5ODIwMSwyMDcxMTc5ODAyLC0xOT
-k5MDcwMDg4LC0xMTQxNDU1OTAxLC0xMTg3Mzk1NzI3LC05MTg1
-NTcxMTEsLTc2MDkwNTMzMiw5MTU4MDA2NzMsLTYzMjgxOTE2Nl
-19
+eyJoaXN0b3J5IjpbLTE0NjA2MzU1MzYsLTE0ODI5ODIwMSwyMD
+cxMTc5ODAyLC0xOTk5MDcwMDg4LC0xMTQxNDU1OTAxLC0xMTg3
+Mzk1NzI3LC05MTg1NTcxMTEsLTc2MDkwNTMzMiw5MTU4MDA2Nz
+MsLTYzMjgxOTE2Nl19
 -->
