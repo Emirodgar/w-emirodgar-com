@@ -21,16 +21,20 @@ Mi nombre es Emilio Rodríguez y llevo trabajando en SEO desde el año 2007. He 
 ## ¿Por qué hacer SEO?
 
 **Inversión a largo plazo**  
-El SEO funcionará durante mucho tiempo gracias a un pequeño mantenimiento  
+El SEO funcionará durante mucho tiempo gracias a un pequeño mantenimiento.  
 
 **Alto porcentaje de conversión**  
-Los resultados orgánicos suelen estar mejor valorados por los usuarios  
+Los resultados orgánicos suelen estar mejor valorados por los usuarios.  
 
 **Mejorar la experiencia de usuario**  
-Nos ayudará a que la experiencia de los usuarios en nuestra web sea óptima  
+Nos ayudará a que la experiencia de los usuarios en nuestra web sea óptima.  
 
 **Vigila a tu competencia**  
-Es importante saber qué está haciendo la competencia y actuar en consecuencia
+Es importante saber qué está haciendo la competencia y actuar en consecuencia.
+
+## Cartera de clientes
+
+![Estado inicial caso éxito - pérdida de visibilidad orgánica](https://emirodgar.com/cdn/images/clients/erg-com-clientes.jpg){:class="img-responsive"}
 
 ## Beneficios del SEO
 
@@ -46,5 +50,5 @@ Haz que la gente te conozca
 **Supera a tu competencia**  
 Sé el líder digital de tu sector
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc4NDk5MzBdfQ==
+eyJoaXN0b3J5IjpbLTgxNjU1NDc0NiwtMTI0Nzg0OTkzMF19
 -->
