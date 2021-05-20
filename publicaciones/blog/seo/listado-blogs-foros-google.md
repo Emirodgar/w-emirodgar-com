@@ -2,7 +2,8 @@
 title: Listado de blogs y foros oficiales de Google
 description: Si vas a trabajar una estrategia digital necesitarás saber dónde encontrar toda la información relacionada con Google
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
-date: 23/08/2019
+layout: emirodgar_post
+date: 19/05/2021
 author: Emirodgar
 sitemap: 1
 feed: 1
@@ -11,8 +12,6 @@ lang: es_ES
 permalink: listado-blogs-foros-google
 
 ---
-
-# Listado de blogs y foros oficiales de Google
 
 Google publica miles de contenidos cada día en plataformas como Blogspot, sus foros de soporte, Twitter o Youtube. Acceder y gestionar tanta información se vuelve realmente complicado si no nos organizamos.
 
@@ -28,9 +27,9 @@ He preparado un listado de blogs, foros y también perfiles de Twitter oficiales
 - Think With Google:  [goo.gl/75oPW0](http://goo.gl/75oPW0)
 - Chrome:  [goo.gl/1bCPpa](http://goo.gl/1bCPpa)
 - Online Security:  [goo.gl/03MRU1](http://goo.gl/03MRU1)
--   Google & Your Business:  [goo.gl/V1CBLd](http://goo.gl/V1CBLd)
--   Commerce:  [goo.gl/G5VH9x](http://goo.gl/G5VH9x)
--  Ads Developer: [goo.gl/HGjkyg5](https://googleadsdeveloper.blogspot.com/)
+- Google & Your Business:  [goo.gl/V1CBLd](http://goo.gl/V1CBLd)
+- Commerce:  [goo.gl/G5VH9x](http://goo.gl/G5VH9x)
+- Ads Developer: [goo.gl/HGjkyg5](https://googleadsdeveloper.blogspot.com/)
 
 ## Blogs SEO y Marketing Digital
 
@@ -46,8 +45,8 @@ He preparado un listado de blogs, foros y también perfiles de Twitter oficiales
 -   Analytics:  [goo.gl/9LKizW](http://goo.gl/9LKizW)
 -   Android:  [goo.gl/jo98mU](http://goo.gl/jo98mU)
 -  Gmail:  [goo.gl/E2REJQ](http://goo.gl/E2REJQ)
--   Translate:  [goo.gl/TI4ud0](http://goo.gl/TI4ud0)
--   Shopping:  [goo.gl/1BXHif](http://goo.gl/1BXHif)
+-  Translate:  [goo.gl/TI4ud0](http://goo.gl/TI4ud0)
+-  Shopping:  [goo.gl/1BXHif](http://goo.gl/1BXHif)
 
 ## Blogs de publicidad
 
@@ -61,8 +60,8 @@ He preparado un listado de blogs, foros y también perfiles de Twitter oficiales
 
 ## Canales de Youtube
 
--   YouTube Creator:  [goo.gl/je4fNd](http://goo.gl/je4fNd)
--   YouTube:  [goo.gl/7C8X8p](http://goo.gl/7C8X8p)
+-  YouTube Creator:  [goo.gl/je4fNd](http://goo.gl/je4fNd)
+-  YouTube:  [goo.gl/7C8X8p](http://goo.gl/7C8X8p)
 - Webmasters [goo.gl/Hyut45](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
   - [SEO Mythbusting](https://www.youtube.com/watch?v=B3eysnid0Sk&list=PLKoqnv2vTMUN6lFDz6qMBsz7-Jm8YRV9H)
   - [Javascript SEO](https://www.youtube.com/watch?v=LXF8bM4g-J4&list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
@@ -141,6 +140,7 @@ He preparado un listado de blogs, foros y también perfiles de Twitter oficiales
 
 Aunque no son perfiles oficiales de Google, recomiendo seguir a [John Mueller](https://twitter.com/JohnMu) (Webmaster Trends Analyst en Google) y a [Danny Sullivan](https://twitter.com/dannysullivan) (responsable de la divisón de Google Search). Siempre aportan valor en debates interesantes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDUzNzQ5Miw4OTE0ODIwMjQsMTA3ND
-Q1NjkwNCw1MDk2OTAzNjgsLTEwMDQ4MTg5NDldfQ==
+eyJoaXN0b3J5IjpbMTc5OTI2MjA5MiwtMjc0NTM3NDkyLDg5MT
+Q4MjAyNCwxMDc0NDU2OTA0LDUwOTY5MDM2OCwtMTAwNDgxODk0
+OV19
 -->
