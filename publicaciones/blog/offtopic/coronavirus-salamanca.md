@@ -12,7 +12,6 @@ permalink: coronavirus-salamanca
 
 ---
 
-# Coronavirus en Salamanca
 
 - [Teléfonos e información](#telefonos)
 - [Hospitales](#hospitales)
@@ -178,11 +177,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTE2NDgyOSwtMTE2NDk0ODA2OCwtMT
-gxMzUxNDQ3Nyw2NDI3MTk0MzYsMTIzMjMyODQ5MiwtMjAyNDQ0
-NDcxNiw0NjM0OTE1MzgsLTEzMzU5MzIyOTUsLTIxODM5OTY1Ny
-wtMjg1NDMxODkxLC0xNDYyNDM4OTg3LDU1ODkyNTIzMCwtNjE1
-MjUxMDA5LC0xMTQwOTgwNzM0LDI0MzExODU1NCwtMTIxNjI2OD
-IzMyw3NDc4NTkyMywtMTk4NjMzOTQ5NCwtOTI3NjM1OTc5LDc3
-ODMwMzg3OF19
+eyJoaXN0b3J5IjpbMTI3NzMyMSwtMTE2NDk0ODA2OCwtMTgxMz
+UxNDQ3Nyw2NDI3MTk0MzYsMTIzMjMyODQ5MiwtMjAyNDQ0NDcx
+Niw0NjM0OTE1MzgsLTEzMzU5MzIyOTUsLTIxODM5OTY1NywtMj
+g1NDMxODkxLC0xNDYyNDM4OTg3LDU1ODkyNTIzMCwtNjE1MjUx
+MDA5LC0xMTQwOTgwNzM0LDI0MzExODU1NCwtMTIxNjI2ODIzMy
+w3NDc4NTkyMywtMTk4NjMzOTQ5NCwtOTI3NjM1OTc5LDc3ODMw
+Mzg3OF19
 -->
