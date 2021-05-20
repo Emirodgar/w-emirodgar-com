@@ -2,7 +2,8 @@
 title: SEO - Mejorar el tiempo de carga de una web
 description: El tiempo de carga es un factor clave para las estrategias de posicionamiento web
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
-date: 27/08/2019
+layout: emirodgar_post
+date: 19/05/2021
 author: Emirodgar
 lang: es_ES
 sitemap: 1
@@ -11,8 +12,6 @@ folder: seo
 permalink: mejorar-tiempo-carga-web
 
 ---
-
-# SEO: Mejorar el tiempo de carga de una web
 
 Desde el [cambio de algoritmo Mobile First Index](https://emirodgar.com/cambio-algoritmo-google), el tiempo de carga de una página web pasó a ser un [factor SEO](https://emirodgar.com/factores-seo) importante en cualquier estrategia de posicionamiento.
 
@@ -75,7 +74,7 @@ Adicional a todo esto, existe un punto avanzado que también podemos trabajar. S
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTA4MzU0NCwtMTkwMTkyMTEwMSwxNT
-c0OTg0NDk1LDE0MTgzODY1NDQsMTE3MDI4MzExMiwtNTUwNzM0
-MDc4XX0=
+eyJoaXN0b3J5IjpbMTYwNzQ3NDYyMSwxNzQ5MDgzNTQ0LC0xOT
+AxOTIxMTAxLDE1NzQ5ODQ0OTUsMTQxODM4NjU0NCwxMTcwMjgz
+MTEyLC01NTA3MzQwNzhdfQ==
 -->
