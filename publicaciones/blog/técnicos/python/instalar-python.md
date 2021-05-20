@@ -1,17 +1,17 @@
 ---
+title: Instalar Python 3 
 description: Guía de instalación para comenzar a trabajar con Python
 lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-date: 16/01/2020
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: instalar-python
 
 ---
 
-# Instalar Python 3 
 
 Para comenzar a usar python lo podemos hacer desde nuestro ordenador en local (requerirá instalación) o lo podemos hacer desde la nube con plataformas como [Google Colab](https://colab.research.google.com/) o [Jupyter Notebook](https://jupyter.org/try).
 
@@ -49,5 +49,6 @@ Cada cuál es libre de utilizar el lenguaje de programación que más le guste y
 - Funciona en múltiples entornos
 - Automatiza tareas manuales 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMTc1ODUwLC0yMDgzMzcwOTAyXX0=
+eyJoaXN0b3J5IjpbMTczMTk2NDE5Miw0NzMxNzU4NTAsLTIwOD
+MzNzA5MDJdfQ==
 -->
