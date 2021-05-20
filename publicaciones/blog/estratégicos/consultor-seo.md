@@ -3,8 +3,8 @@ title: Consultor SEO
 description: Experto SEO con más de 10 años de experiencia en múltiples agencias, países y proyectos. Hablemos, es gratis.
 lang: es_ES
 author: emirodgar
-sitemap: 1
-feed: 1
+sitemap: 0
+feed: 0
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -34,7 +34,7 @@ Es importante saber qué está haciendo la competencia y actuar en consecuencia.
 
 ## Cartera de clientes
 
-![Estado inicial caso éxito - pérdida de visibilidad orgánica](https://emirodgar.com/cdn/images/clients/erg-com-clientes.jpg){:class="img-responsive"}
+![Cartera de clientes SEo - Emirodgar](https://emirodgar.com/cdn/images/clients/erg-com-clientes.jpg){:class="img-responsive"}
 
 ## Beneficios del SEO
 
@@ -50,5 +50,6 @@ Haz que la gente te conozca
 **Supera a tu competencia**  
 Sé el líder digital de tu sector
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjU1NDc0NiwtMTI0Nzg0OTkzMF19
+eyJoaXN0b3J5IjpbLTEwNTg1NzkwODMsLTEyNDc4NDk5MzBdfQ
+==
 -->
