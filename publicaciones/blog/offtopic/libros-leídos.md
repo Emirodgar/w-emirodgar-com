@@ -12,8 +12,6 @@ permalink: libros-recomendados
 
 ---
 
-# Libros que recomiendo leer
-
 Tras la adquisición de un Kindle por mi cumpleaños el verano de 2019 me propuse recuperar una de mis grandes aficiones que tenía abandonada: **la lectura**.
 
 A continuación detallo los libros que recomiendo leer.
@@ -67,5 +65,5 @@ Sí es cierto que tiene algo de intriga pero se me ha hecho algo lento y pesado.
 
 > Sé lo que supone querer a alguien y decirle las cosas más terribles, bien por enfado o por sufrimiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MzMwMzA0LC04MTQwMjU3NjNdfQ==
+eyJoaXN0b3J5IjpbLTY0MjY1MzE5NCwtODE0MDI1NzYzXX0=
 -->
