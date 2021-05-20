@@ -1,17 +1,16 @@
 ---
+title: Script en Python para hacer unfollow de aquellos que no nos siguen
 description: Guía de instalación para comenzar a trabajar con Python
 lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-date: 16/01/2020
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: script-python-twitter-unfollow
 
 ---
-
-# Script en Python para hacer unfollow de aquellos que no nos siguen
 
 Si llevamos muchos años en Twitter y seguimos a mucha gente suele ser complicado atender a todos ellos y a menudo tenemos que recurrir a listas para estar al tanto de lo que realmente nos interesa.
 
@@ -64,6 +63,6 @@ print(str(total_unfollowed) + ' unfollowed')
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU1ODkwLDY3NjgxNTg4MywxNTI4MT
-A2MDUzLC00MjAwNDEyNDRdfQ==
+eyJoaXN0b3J5IjpbLTYwNjI3NjI3OCwtMTE1NTU4OTAsNjc2OD
+E1ODgzLDE1MjgxMDYwNTMsLTQyMDA0MTI0NF19
 -->
