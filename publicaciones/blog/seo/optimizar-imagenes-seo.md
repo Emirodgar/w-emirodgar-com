@@ -28,12 +28,14 @@ Cuando Google decide mostrar un fragmento de página destacada en la primera pos
 
 En la siguiente imagen podemos ver un ejemplo de lo que hablamos: el contenido es de businessinsider.com pero la imagen pertenece a pcworld.com.
 
-<amp-img alt="Ejemplo de resultado con contenido e imagen de páginas diferentes"
-  src="https://i.imgur.com/JYBZsY9.png"
+<amp-img alt=""
+  src=""
   width="650"
   height="361"
   layout="responsive">
 </amp-img>
+
+![Ejemplo de resultado con contenido e imagen de páginas diferentes](https://i.imgur.com/JYBZsY9.png){:class="img-responsive"}
 
 El hecho de no disponer de una imagen adecuada hace perder visibilidad a una página que ha conseguido aparecer en una posición destacada por su contenido. Por ello, debe ser una prioridad **optimizar las imágenes al máximo** y favorecer así nuestra [estrategia SEO](estrategia-seo).
 
@@ -47,13 +49,6 @@ En cierta medida esto tiene sentido. Puede que tu imagen ayude a complementar el
 Accelerated Mobile Pages (AMP) es -junto con las PWA- la otra apuesta fuerte de Google por el futuro de la web.
 
 A mediados de marzo, [Google anunció a través de Twitter](https://twitter.com/IamJoseVarghese/status/1109404147508342784) una nueva funcionalidad en Google Imágenes con la que se podría pasar -de forma rápida- desde una imagen al artículo AMP en el que aparece.
-
-<amp-img alt="Nueva funcionalidad Google AMP noticias imágenes"
-  src="https://lh4.googleusercontent.com/S2gn-rMi3rLpBtHCwAZTUSNDoCwZYXuvCTJzGFpa_hJaMp5TuhSTSJvy01HA8R0KM05XQnxkEnxlOg-IX4dTastq8Fh--Ts2rlIdtndyAbqSlPlEZi-93YjjMhUk90fWHQ1BjGgj"
-  width="640"
-  height="978"
-  layout="responsive">
-</amp-img>
 
 Esto deja claro que para Google las imágenes tienen una gran relevancia y van de la mano de los lanzamientos más importantes que están haciendo en los últimos años.
 
@@ -122,13 +117,6 @@ Desde Schema.org podemos ver al detalle el [marcado semántico de las imágenes]
 
 Google anunció recientemente su [Programa Opt-In de alta resolución](https://searchengineland.com/google-to-add-support-for-higher-quality-images-in-search-swipe-up-images-3d-images-316706)  en el que podremos proporcionar a Google una imagen de alta resolución a través de un marcado semántico.  Parece que podríamos llegar a incluir una propiedad de  **licencia**  al esquema de  **ImageObject**  :
 
-
-<amp-img alt="Google imágenes licencia"  src="https://lh4.googleusercontent.com/FtmIC_bil_ZiL1YJlxO0qhUJYSkUNe5uYSVeLZ-2qniHiNUsxDQv9bFz-i-YgL-lN-S7aEb-gvEIthGIfSTW64mUFR9cXOPcul0w4s0lXmDvjkdzyRNSg-Rc_x5PXOd7omAL-_QA"
-  width="800"
-  height="377"
-  layout="responsive">
-</amp-img>
-
 Para asegurarnos de que nuestras imágenes aparecen en los bloques de fragmentos destacados, debemos usar la  **mejor representación visual para el contexto de la página**  , teniendo en cuenta la consulta de destino.  Si la página trata sobre “  _cómo dibujar un gato_  ”, elija una imagen que muestre a una persona dibujando un gato, no muestre un gato real.
 
 ### 8- Accesibilidad
@@ -151,5 +139,5 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ4NzQ3NjAsMjcyMjMyMTU4XX0=
+eyJoaXN0b3J5IjpbLTIwNzA1Njk1NDcsMjcyMjMyMTU4XX0=
 -->
