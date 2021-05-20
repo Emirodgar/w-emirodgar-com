@@ -6,7 +6,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: offtopic
-date: 10/09/2019
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
 permalink: crossfit-salamanca
 
@@ -35,5 +35,5 @@ En mis tres años me he lesionado una vez y fue por no querer avanzar demasiado 
 En el momento en el que tu postura no es la correcta o no estás haciendo algo bien, se acerca, te corrige y te enseña para que aprendas. No importa cuánto tardes en adquirir la práctica, ellos siempre están ahí.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI2MTM2MjZdfQ==
+eyJoaXN0b3J5IjpbODQ2MzMxOTIzLC0xMzcyNjEzNjI2XX0=
 -->
