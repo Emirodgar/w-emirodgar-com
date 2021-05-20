@@ -5,23 +5,16 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
+layout: emirodgar_post
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: factores-seo
 
 ---
 
-# Factores SEO 2020
-
 Esta es mi predicción de factores SEO que tendrán un impacto es las estrategias digitales durante 2020.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1194888570647072768">
-</amp-twitter>
-
-## Factores SEO 2019
+## Factores SEO 2020
 
 Siempre es importante hacer un repaso de lo que fue el SEO en los años anteriores. A continuación os dejo los factores SEO que predije para 2019; salvo las búsquedas por voz, el resto sí fueron conformados.
 
@@ -34,7 +27,7 @@ Nadie tiene la verdad absoluta, pero basándome en la experiencia y los resultad
 -   Optimización para Google Mobile First Index
 -   Optimización para búsqueda por voz
 
-## Lo más importante para el SEO en 2019
+## Lo más importante para el SEO en 2020
 
 ### RankBrain y factores UX
 
@@ -100,6 +93,6 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5NjYxMzM0LDEwNjE0MjQwMTgsMTkyND
-M4NzU0MiwxNzc1NzY5ODI5XX0=
+eyJoaXN0b3J5IjpbLTEyNjI4NjU0NDUsNTc5NjYxMzM0LDEwNj
+E0MjQwMTgsMTkyNDM4NzU0MiwxNzc1NzY5ODI5XX0=
 -->
