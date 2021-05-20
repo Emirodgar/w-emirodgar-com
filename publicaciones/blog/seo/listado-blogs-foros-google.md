@@ -63,9 +63,9 @@ He preparado un listado de blogs, foros y también perfiles de Twitter oficiales
 -  YouTube Creator:  [goo.gl/je4fNd](http://goo.gl/je4fNd)
 -  YouTube:  [goo.gl/7C8X8p](http://goo.gl/7C8X8p)
 - Webmasters [goo.gl/Hyut45](https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA)
-  - [SEO Mythbusting](https://www.youtube.com/watch?v=B3eysnid0Sk&list=PLKoqnv2vTMUN6lFDz6qMBsz7-Jm8YRV9H)
-  - [Javascript SEO](https://www.youtube.com/watch?v=LXF8bM4g-J4&list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
-  - [Ask Google Webmasters](https://www.youtube.com/watch?v=dOrOPDcGRO0&list=PLKoqnv2vTMUM9wKeb-Gvm8bgpFM72yiXw)
+- [SEO Mythbusting](https://www.youtube.com/watch?v=B3eysnid0Sk&list=PLKoqnv2vTMUN6lFDz6qMBsz7-Jm8YRV9H)
+- [Javascript SEO](https://www.youtube.com/watch?v=LXF8bM4g-J4&list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9)
+- [Ask Google Webmasters](https://www.youtube.com/watch?v=dOrOPDcGRO0&list=PLKoqnv2vTMUM9wKeb-Gvm8bgpFM72yiXw)
 
 ## Foros de ayuda
 
@@ -140,7 +140,7 @@ He preparado un listado de blogs, foros y también perfiles de Twitter oficiales
 
 Aunque no son perfiles oficiales de Google, recomiendo seguir a [John Mueller](https://twitter.com/JohnMu) (Webmaster Trends Analyst en Google) y a [Danny Sullivan](https://twitter.com/dannysullivan) (responsable de la divisón de Google Search). Siempre aportan valor en debates interesantes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTI2MjA5MiwtMjc0NTM3NDkyLDg5MT
+eyJoaXN0b3J5IjpbLTY1OTA1ODM1NiwtMjc0NTM3NDkyLDg5MT
 Q4MjAyNCwxMDc0NDU2OTA0LDUwOTY5MDM2OCwtMTAwNDgxODk0
 OV19
 -->
