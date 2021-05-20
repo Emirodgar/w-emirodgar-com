@@ -53,10 +53,10 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **No debemos superar los 165 caracteres** para asegurarnos que ésta se muestra correctamente. No obstante, en ciertas ocasiones algunos buscadores como Google pueden modificar la descripción por otra que ellos consideran que apota mayor valor al usuario.
 -  **Debemos escribir para los usuarios** y no para los buscadores por lo que es importante ser descriptivos y transmitir información de forma natural.
 - **No hay que repetir el título**. El objetivo de la descripción es cualificar el título por lo que debe aportar información adicional al mismo.
-- **Utiliza emoticonos** con cautela; llaman la anteción pero siempre tienen que aportar valor.
+- **Utiliza emoticonos** con cautela; llaman la atención pero siempre tienen que aportar valor.
 - **Incluye una llamada a la acción** para captar la atención de los usuarios e incitarles a hacer clic.
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDQzODUyMCw0ODE3MjI1NDddfQ==
+eyJoaXN0b3J5IjpbMTg3MTM5ODM5NCw0ODE3MjI1NDddfQ==
 -->
