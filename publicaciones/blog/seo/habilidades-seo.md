@@ -6,14 +6,13 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: seo
-date: 28/06/2019
+layout: emirodgar_post
+date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: habilidades-seo
 
 ---
 
-
-# 7 habilidades que definen a un buen SEO
 
 Iniciarse en el mundo del marketing digital como **consultor SEO** no es difícil; demostrar tu valía y conseguir buenos clientes, sí.
 
@@ -63,6 +62,6 @@ Sea como sea, debemos disponer de una capacidad para adaptarnos, entender la nue
 
 Si no disponemos de esta capacidad, un giro inesperado podría terminar con nuestras aspiraciones SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTA4Nzk2NywtMjIwODgyNzg2LDEwOD
-YzMjg4MV19
+eyJoaXN0b3J5IjpbOTAyMTcyODI3LC04NzEwODc5NjcsLTIyMD
+g4Mjc4NiwxMDg2MzI4ODFdfQ==
 -->
