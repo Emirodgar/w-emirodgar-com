@@ -1,7 +1,9 @@
 ---
+title: Google rastrea mi página con mucha frecuencia
 description: Además de nofollow ahora contamos con sponsored y ugc
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-date: 24/02/2019
+layout: emirodgar_post
+date: 19/05/2021
 author: Emirodgar
 lang: es_ES
 sitemap: 1
@@ -10,8 +12,6 @@ folder: seo
 permalink: google-rastreo
 
 --- 
-
-# Google rastrea mi página con mucha frecuencia
 
 Uno de los aspectos cruciales para poder trabajar el SEO técnico es saber [identificar a GoogleBot](https://emirodgar.com/detectar-googlebot) y conocer en detalle cómo se comporta el robot de búsqueda de Google dentro de nuestra página.
 
@@ -49,6 +49,6 @@ Hay varias formas de que Googlebot identifique y rastree las páginas de nuestro
  - Se envía a través de Google Search Console
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDQ0NzE0NywtMzQxMzc1ODc3LDE4ND
-QzMTQwOTBdfQ==
+eyJoaXN0b3J5IjpbMTcwOTQzNDAyMSwxOTM0NDQ3MTQ3LC0zND
+EzNzU4NzcsMTg0NDMxNDA5MF19
 -->
