@@ -3,8 +3,8 @@ title: Optimización de imágenes para el SEO
 description: Genera más tráfico orgánico a través de búsquedas de imágenes y consigue mayor visibilidad en buscadores
 lang: es_ES
 author: Emirodgar
-date: 16/05/2019
-date_modified: 16/05/2019
+layout: emirodgar_post
+date: 19/05/2021
 sitemap: 1
 feed: 1
 folder: seo
@@ -13,7 +13,6 @@ permalink: optimizacion-imagenes-seo
 
 ---
 
-# Optimización de imágenes para el SEO
 
 Las imágenes han ido adquiriendo cada vez más relevancia dentro de las búsquedas, por ello, el posicionar de forma óptima dentro de este segmento nos ayudará a **incrementar notoriamiente el tráfico orgánico** hacia nuestra página.
 
@@ -152,5 +151,5 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyMjMyMTU4XX0=
+eyJoaXN0b3J5IjpbLTE5ODQ4NzQ3NjAsMjcyMjMyMTU4XX0=
 -->
