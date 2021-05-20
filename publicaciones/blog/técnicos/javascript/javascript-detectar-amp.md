@@ -1,4 +1,5 @@
 ---
+title: Detectar AMP a través de Javascript
 description: Detecta de forma sencilla si una página web está utilizando AMP o no
 lang: es_ES
 author: Emirodgar
@@ -12,8 +13,6 @@ permalink: javascript-detectar-amp
 
 ---
 
-# Detectar AMP a través de Javascript
-
 Para poder determinar si una página web está haciendo uso del framework AMP o no es relativamente sencillo si sabemos qué requisitos tiene que tener dicha página y por lo tanto los buscamos en el código fuente.
 
 Según la [documentación oficial](https://amp.dev/documentation/guides-and-tutorials/learn/spec/amphtml/?referrer=ampproject.org#required-markup) una página AMP debe comenzar siempre con `<html ⚡>` aunque también está permitido `<html amp>`.
@@ -25,6 +24,6 @@ De esta forma haciendo uso de `getElementsByTagName` podremos comprobar si el el
 
 En el caso de ser AMP al menos uno de los dos comandos anteriores devolverá `true`, si no, ambos devolverán `false`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg2NzY0OTAsLTE4MTc0NjEzMDVdfQ
+eyJoaXN0b3J5IjpbLTIwNzEyMTg4MDcsLTE4MTc0NjEzMDVdfQ
 ==
 -->
