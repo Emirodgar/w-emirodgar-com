@@ -1,10 +1,12 @@
 ---
+title: Guía para comprar un teléfono móvil
 description: No interesa pagar por un móvil gama alta. Hay que ser prácticos y cubrir nuestras necesidades
 date: 28/01/2020
 author: Emirodgar
 sitemap: 1
 feed: 1
 folder: offtopic
+layout: emirodgar_post
 lang: es_ES
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: telefono-movil
@@ -94,7 +96,7 @@ Viendo que con niños en casa es muy probable que se sigan cayendo los teléfono
 Os iré contando qué tal me va con este teléfono.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE3NTA5MjcsNjI2NjI2MTc2LC0xMD
-AxNDY1Mzk0LC0xMzgyMTM0MTEzLC0zNDI0Nzc1NzcsLTEzMzcw
-ODY4ODUsLTUzODE3MDkwMF19
+eyJoaXN0b3J5IjpbMzUyOTAzODE4LC0xMzMxNzUwOTI3LDYyNj
+YyNjE3NiwtMTAwMTQ2NTM5NCwtMTM4MjEzNDExMywtMzQyNDc3
+NTc3LC0xMzM3MDg2ODg1LC01MzgxNzA5MDBdfQ==
 -->
