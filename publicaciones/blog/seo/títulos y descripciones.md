@@ -3,6 +3,7 @@ title: Títulos y descripciones optimizadas para el SEO
 description: Aprende a desarrollar títulos y meta descriptions adecuados para tus proyectos digitales
 image: https://emirodgar.com/cdn/images/og/auditoria.png
 date: 24/06/2019
+layout: emirodgar_post
 sitemap: 1
 feed: 1
 folder: seo
@@ -11,8 +12,6 @@ lang: es_ES
 permalink: titulos-descripciones-seo
 
 ---
-
-# Títulos y descripciones optimizadas para el SEO
 
 Una parte fundamental de los [factores SEO](/factores-seo) que afectan a nuestras estrategias digitales son aquellos que determinan de forma directa si **el usuario hará clic o no en nuestro resultados** de búsqueda.
 
@@ -69,5 +68,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxNzIyNTQ3XX0=
+eyJoaXN0b3J5IjpbLTE4OTMyMTg4OCw0ODE3MjI1NDddfQ==
 -->
