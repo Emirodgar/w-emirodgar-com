@@ -6,6 +6,7 @@ sitemap: 1
 feed: 1
 folder: programacion
 date: 17/05/2019
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: javascript-detectar-amp
 
@@ -24,5 +25,6 @@ De esta forma haciendo uso de `getElementsByTagName` podremos comprobar si el el
 
 En el caso de ser AMP al menos uno de los dos comandos anteriores devolverá `true`, si no, ambos devolverán `false`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc0NjEzMDVdfQ==
+eyJoaXN0b3J5IjpbLTExMzg2NzY0OTAsLTE4MTc0NjEzMDVdfQ
+==
 -->
