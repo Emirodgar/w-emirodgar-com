@@ -13,13 +13,13 @@ permalink: consultor-seo-salamanca-test
 
 ---
 
-Mi nombre es Emilio Rodríguez y llevo trabajando el SEO en Salamanca desde el año 2007. He sido director SEO en dos agencias internacionales (Holanda y España) y trabajado en más de un centenar de proyectos digitales para grandes empresas. A mayores, 
+Mi nombre es Emilio Rodríguez y llevo trabajando el SEO en Salamanca desde el año 2007. He sido director SEO en dos agencias internacionales (Holanda y España) y he trabajado en más de un centenar de proyectos digitales para grandes empresas. 
 
-He tenido la gran suerte de haber diseñado y ejecutado estrategias de posicionamiento SEO para varias empresas salmantinas
+He tenido la gran suerte de haber participado en estrategias de posicionamiento SEO para varias empresas salmantinas como Novelty, Oyrsa.
 
 He participado en ponencias como **experto de marketing digital** tanto en la Universidad Pontificia de Salamanca como en el máster de marketing digital de la Universidad de Salamanca.
 
-También estoy certificado como SEO por ICEX España (Instituto Español de Comercio Exterior) para ayudar a las empresas españolas a externalizar sus 
+También estoy certificado como SEO por ICEX España (Instituto Español de Comercio Exterior) para ayudar a las empresas españolas a externalizar sus productos en mercados internacionales a través de estrategias de posicionamiento web.
 
 ## ¿Por qué hacer SEO?
 
@@ -67,5 +67,5 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTU1MDEwM119
+eyJoaXN0b3J5IjpbLTg4MTE1NDI0OF19
 -->
