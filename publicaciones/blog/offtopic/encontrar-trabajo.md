@@ -6,7 +6,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: offtopic
-date: 30/09/2019
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
 permalink: encontrar-trabajo
 
@@ -27,5 +27,5 @@ A continuación os dejo una serie de portales especializados en trabajos donde p
 Aunque aún no tiene una gran cartera de empresas que lo utilice, [Google Jobs](https://jobs.google.com/) puede abrirse paso en un futuro cercano y entrar en el TOP5 antes mencionado por lo que convendría no perderlo de vista.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYxNjM3NzFdfQ==
+eyJoaXN0b3J5IjpbNzc3ODAyMTM0LC0xNzg2MTYzNzcxXX0=
 -->
