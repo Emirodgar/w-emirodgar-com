@@ -17,7 +17,9 @@ Mi nombre es Emilio Rodríguez y llevo trabajando el SEO en Salamanca desde el a
 
 He tenido la gran suerte de haber diseñado y ejecutado estrategias de posicionamiento SEO para varias empresas salmantinas
 
-He participado en ponencias como experto de marketing digital tanto en la Universidad Pontificia de Salamanca como en el máster de marketing digital de la Universidad de Salamanca.
+He participado en ponencias como **experto de marketing digital** tanto en la Universidad Pontificia de Salamanca como en el máster de marketing digital de la Universidad de Salamanca.
+
+También estoy certificado como SEO por ICEX España (Instituto Español de Comercio Exterior) para ayudar a las empresas españolas a externalizar sus 
 
 ## ¿Por qué hacer SEO?
 
@@ -65,5 +67,5 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODA3ODIwMl19
+eyJoaXN0b3J5IjpbLTc2MTU1MDEwM119
 -->
