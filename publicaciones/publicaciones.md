@@ -9,8 +9,6 @@ permalink: publicaciones
 
 ---
 
-# Publicaciones SEO
-
 Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de otras áreas relacionadas con el Marketing Digital.
 
 ## <a name="seo"></a> Publicaciones SEO
@@ -91,6 +89,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODI0ODAyMiwyMDgzNzcxNzU3LDExND
+eyJoaXN0b3J5IjpbLTI5NTAzODU0MywyMDgzNzcxNzU3LDExND
 kxOTgzMSwtNjQzMTc5MTE4XX0=
 -->
