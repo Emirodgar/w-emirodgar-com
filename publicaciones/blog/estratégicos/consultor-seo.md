@@ -52,10 +52,10 @@ Haz que la gente te conozca.
 **Supera a tu competencia**  
 Sé el líder digital de tu sector.
 
-## ¿Por qué hacer SEO conmigo?
+## ¿Por qué hacer SEO con nosotros?
 
-Desarrollo y ejecuto  **estrategias SEO personalizadas**. Para cada necesidad, existe una  **solución SEO**  adecuada.
+Desarrollamos y ejecutamos  **estrategias SEO personalizadas** dado que para cada necesidad, existe una  **solución SEO**  adecuada. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIyNzMwNTUsLTEwNTg1NzkwODMsLT
-EyNDc4NDk5MzBdfQ==
+eyJoaXN0b3J5IjpbMTQ5OTUxMTU2OSwtMTA1ODU3OTA4MywtMT
+I0Nzg0OTkzMF19
 -->
