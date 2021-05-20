@@ -6,14 +6,11 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-tags: seo, google, performance
-date: 16/04/2019
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: automatizar-analisis-lighthouse
 
 ---
-
-# Analiza el tiempo de carga de tu web de forma automática con Lighthouse
 
 Lighthouse es una  [herramienta gratuita de Google](https://developers.google.com/web/tools/lighthouse/?hl=es)  para poder analizar una web en base a rendimiento, accesibilidad, mejores prácticas y SEO.
 
@@ -127,5 +124,6 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTk1NzY4OCwtNzc3NjUzMDUxXX0=
+eyJoaXN0b3J5IjpbLTI1MDA4MjIyLC04MzE5NTc2ODgsLTc3Nz
+Y1MzA1MV19
 -->
