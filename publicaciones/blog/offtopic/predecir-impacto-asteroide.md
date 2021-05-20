@@ -4,14 +4,13 @@ description: ¿Puede servir el Big Data y la tecnología para prededir el impact
 lang: es_ES
 sitemap: 1
 feed: 1
+layout: emirodgar_post
 folder: offtopic
 permalink: predecir-impacto-de-asteroide-en-la-tierra
 author:
   twitter: emirodgar
   
 ---
-
-# Predecir el impacto de un asteroide en la Tierra
 
 Seguro que más de uno recordará la [película Armageddon](https://www.imdb.com/title/tt0120591/) y cómo Bruce Willis y su equipo salvan a la Tierra del impacto de un asteroide gigante.
 
@@ -47,5 +46,5 @@ Lo más preocupante hasta la fecha ha ocurrido el 14 de abril de 2018 cuando el 
 
 Como vemos, existen muchos programas para catalogar y vigilar potenciales colisiones pero pocos con posibilidades reales de alterar sus órbitas. Seguiremos vigilando el espacio y recopilando información; aquí el Big Data nos ayuda a predecir potenciales impactos pero aún nos queda trabajo por delante para aprender a desviarlos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDM5NjM2XX0=
+eyJoaXN0b3J5IjpbLTEzNjk3MTY3MDMsLTc1MDM5NjM2XX0=
 -->
