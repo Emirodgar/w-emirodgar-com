@@ -25,12 +25,7 @@ Para ello debemos trabajar dos aspectos fundamentales: títulos (meta title) y d
 
 Los **meta title** o títulos de cada página son un [factor SEO](/factores-seo) importante para buscadores por eso es importante optimizarlos al máximo posible. En la siguiente imagen podemos ver un ejemplo de resultado dentro de los buscadores. El texto en morado corresponde con el título de la página.
 
-<amp-img alt="Ejemplo de título optimizado para el SEO"
-  src="https://i.imgur.com/HQYuvsg.png"
-  width="559"
-  height="104"
-  layout="responsive">
-</amp-img>
+![Ejemplo de título optimizado para el SEO](https://i.imgur.com/HQYuvsg.png){:class="img-responsive"}
 
 ### Recomendaciones para generar títulos optimizados
 
@@ -58,6 +53,8 @@ Se trata del pequeño texto que acompaña al título en los resultados de búsqu
   layout="responsive">
 </amp-img>
 
+![Ejemplo de título optimizado para el SEO](https://i.imgur.com/HQYuvsg.png){:class="img-responsive"}
+
 Para generar una buena meta descripción es importante hacer uso de las siguientes recomendaciones:
 
 - **No debemos superar los 165 caracteres** para asegurarnos que ésta se muestra correctamente. No obstante, en ciertas ocasiones algunos buscadores como Google pueden modificar la descripción por otra que ellos consideran que apota mayor valor al usuario.
@@ -68,5 +65,5 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTMyMTg4OCw0ODE3MjI1NDddfQ==
+eyJoaXN0b3J5IjpbLTExMTE0ODQ1NzIsNDgxNzIyNTQ3XX0=
 -->
