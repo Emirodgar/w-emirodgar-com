@@ -5,12 +5,11 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-videos-youtube
 
 ---
-
-# Cómo hacer SEO en vídeos de Youtube
 
 ¿Por qué hablamos de Youtube y no de otros portales de vídeos? Youtube [representa el 77% del mercado de vídeos digitales](https://www.datanyze.com/market-share/online-video/youtube-market-share); el siguiente es Vimeo con una cuota cercana al 16%.
 
@@ -176,5 +175,6 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1OTA2Nzg1LDE1NDY5NTYyODFdfQ==
+eyJoaXN0b3J5IjpbLTE2NDYyOTU4NTgsOTc1OTA2Nzg1LDE1ND
+Y5NTYyODFdfQ==
 -->
