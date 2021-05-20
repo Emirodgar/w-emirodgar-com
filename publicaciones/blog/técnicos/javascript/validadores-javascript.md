@@ -1,4 +1,5 @@
 ---
+title: Validadores de JavaScript
 description: ¿Qué validador Javascript es mejor para mis proyectos?
 lang: es_ES
 author: Emirodgar
@@ -6,12 +7,11 @@ sitemap: 1
 feed: 1
 folder: programacion
 date: 10/01/2020
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: validadores-javascript
 
 ---
-
-# Validadores de JavaScript
 
 Un validador nos ayudará a evitar errores a la hora de programar. JavaScript no trae ninguno por defecto pero existen varios que podemos instalar para asegurar que generamos código **claro**, **funcional**, **estándar** y **escalable**.
 
@@ -81,5 +81,5 @@ Podemos utilizar la configuración básica o personalizarla gracias a su [comple
 
 Ahora ya podemos volver a Sublime, navegamos hacia un fichero JavaScript, pulsamos `botón derecho` y seleccionamos `ESLint`. En la consola inferior nos aparecerá el resultado de la validación.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjQzNzk3MF19
+eyJoaXN0b3J5IjpbMTgzNjYxNzQyLC01MTY0Mzc5NzBdfQ==
 -->
