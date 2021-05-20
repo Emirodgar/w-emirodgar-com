@@ -1,7 +1,8 @@
 ---
 description: Análisis de los mejores libros de SEO
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-date: 06/02/2020
+layout: emirodgar_post
+date: 19/05/2021
 author: Emirodgar
 lang: es_ES
 sitemap: 1
@@ -22,6 +23,8 @@ Uniendo estas dos pasiones da como resultado este post donde quiero explicaros y
 ### SEO For Dummies
 
 Este libro de Peter Kent  es un clásico en las estanterías de las agencias digitales. Va por su sexta edición y nos ofrece una visión básica pero muy completa del ecosistema SEO. Imprescindible si estamos comenzando y no queremos dejarnos nada atrás.
+
+![enter image description here](https://images-na.ssl-images-amazon.com/images/I/51hrL0v5J4L._SX404_BO1,204,203,200_.jpg)
 
 [<amp-img alt="SEO for dummies"
   src="https://images-na.ssl-images-amazon.com/images/I/51hrL0v5J4L._SX404_BO1,204,203,200_.jpg"
@@ -61,11 +64,12 @@ Para garantizar el éxito de una estrategia es necesario trabajar de la mano con
 
 ## Libros SEO gratis 
 
-Si eres usuarios de Amazon Kindle Unlimited entonces te podrán interesar los siguientes libros gratuitos:
+Si eres usuario de Amazon Kindle Unlimited entonces te podrán interesar los siguientes libros gratuitos:
 
 - [SEO 101: Everything You Need to Know About SEO (But Were Afraid to Ask)](https://amzn.to/3bcnAU2)
 - [3 Months to No.1: The "No-Nonsense" SEO Playbook for Getting Your Website Found on Google](https://amzn.to/31FGzlL)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDQxNzI1LC0xMzkyNzYzMDA4LC00Mj
-I2MTM3MSwtMzU2ODAyMTgyLDE4ODgxMDMzODddfQ==
+eyJoaXN0b3J5IjpbLTEyMjg0MjA0OTEsMTE5MDQxNzI1LC0xMz
+kyNzYzMDA4LC00MjI2MTM3MSwtMzU2ODAyMTgyLDE4ODgxMDMz
+ODddfQ==
 -->
