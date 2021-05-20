@@ -60,11 +60,15 @@ Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser lige
 A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Google en la primera página de resultados. De aparecer ahí podemos estar seguros de que serán vídeos relevantes a nivel de **palabras clave e interacciones**.
 
 
-<amp-img alt="Búsqueda google receta pollo vídeos youtube"  src="https://i.imgur.com/4TrrOMW.png"
+<amp-img alt=""  src=""
   width="673"
   height="421"
   layout="responsive">
 </amp-img>
+
+![Búsqueda google receta pollo vídeos youtube](https://i.imgur.com/4TrrOMW.png){:class="img-responsive"}
+
+
 
 De forma complementaria podemos hacer una búsqueda en Google directamente sobre vídeos de Youtube para analizar el TOP10 de resultados. Para ello bastará con usar el siguiente comando actualizando el último valor "local seo" por la palabra clave que queramos buscar.
 
@@ -175,6 +179,6 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDYyOTU4NTgsOTc1OTA2Nzg1LDE1ND
-Y5NTYyODFdfQ==
+eyJoaXN0b3J5IjpbLTE0OTk3NjcxNDMsLTE2NDYyOTU4NTgsOT
+c1OTA2Nzg1LDE1NDY5NTYyODFdfQ==
 -->
