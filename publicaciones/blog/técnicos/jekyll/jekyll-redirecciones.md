@@ -6,14 +6,12 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: jekyll
-date: 28/06/2019
-date_modified: 28/06/2019
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: redirecciones-seo-jekyll
 
 ---
 
-# Aplicar redirecciones en Jekyll
 
 Ya he hablado en alguna ocasión del generador de páginas webs **Jekyll** y [cómo optimizarlo para una estrategia SEO](optimizacion-seo-jekyll).
 
@@ -60,5 +58,6 @@ permalink: /actual/
 
 También podríamos crear un **fichero .htaccess** bajo Jekyll y gestionar las redirecciones a través del mismo, pero creo que esta forma es más rápida y sencilla.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMjcyMzQ1LC0xOTY0ODM2NzY0XX0=
+eyJoaXN0b3J5IjpbMTA1Mjc0OTA3OCw2NjIyNzIzNDUsLTE5Nj
+Q4MzY3NjRdfQ==
 -->
