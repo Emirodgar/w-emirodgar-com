@@ -2,8 +2,7 @@
 title: Publicaciones SEO
 description: Listado de publicaciones sobre SEO, Marketing Digital y Growth Hacking
 lang: es_ES
-date: 09/05/2019
-tags: seo
+layout: emirodgar_post
 author: Emirodgar
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: publicaciones
@@ -92,6 +91,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Mzc3MTc1NywxMTQ5MTk4MzEsLTY0Mz
-E3OTExOF19
+eyJoaXN0b3J5IjpbMTc2ODI0ODAyMiwyMDgzNzcxNzU3LDExND
+kxOTgzMSwtNjQzMTc5MTE4XX0=
 -->
