@@ -54,8 +54,16 @@ Sé el líder digital de tu sector.
 
 ## ¿Por qué hacer SEO con nosotros?
 
-Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada necesidad, existe una  **solución SEO**  adecuada. La experiencia y pr
+Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada necesidad, existe una  **solución SEO**  adecuada. La experiencia y profesionalidad son garantía de calidad.
+
+#### Entrego todo el material generado
+
+#### Resuelvo el 100% de las dudas
+
+#### Trabajo con total transparencia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTUxMjc3ODYsMTQ5OTUxMTU2OSwtMT
-A1ODU3OTA4MywtMTI0Nzg0OTkzMF19
+eyJoaXN0b3J5IjpbMTYzMDMwNDEwNSwxNDk5NTExNTY5LC0xMD
+U4NTc5MDgzLC0xMjQ3ODQ5OTMwXX0=
 -->
