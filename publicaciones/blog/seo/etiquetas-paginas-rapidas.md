@@ -1,5 +1,5 @@
 ---
-title: Chrome mostrará etiquetas de página rápida
+title: Google Chrome mostrará etiquetas de página rápida
 description: Para ayudar a los usuarios a identificar páginas con un gran tiempo de carga, Chrome mostrará una etiqueta para identificar unos buenos valores en las Core Web Vitals.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 author: Emirodgar
@@ -7,11 +7,11 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
+layout: emirodgar_post
+date: 19/05/2021
 permalink: etiqueta-pagina-rapida
 
 --- 
-
-# Google Chrome mostrará etiquetas de página rápida
 
 De sobra es sabido que un [tiempo de carga óptimo](https://emirodgar.com/mejorar-tiempo-carga-web) así como una buena experiencia de usuario son sinónimo de éxito digital ya que de esta forma minimizamos el rebote de nuestros usuarios y favorecemos la conversión.
 
@@ -37,6 +37,7 @@ A mayores de estas, que son las consideradas como más relevantes, existen otras
 
 Para poder conocer y analizar nuestras métricas Core Web Vitals podemos hacer uso de [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/?hl=es) o el [informe de Data Studio](https://datastudio.google.com/u/0/reporting/bbc5698d-57bb-4969-9e07-68810b9fa348/page/keDQB?params=%7B%22origin%22:%22https://emirodgar.com%22%7D) que nos permite hacer seguimiento de las mismas de forma mensual.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDY5MTgwNiwxMjQ4NDgzMTIxLC0xNj
-kyNjMxNzksMTMwMTIxMTg5LC0zNTQyMDQ1MDddfQ==
+eyJoaXN0b3J5IjpbLTEyODI1NTQyNzIsMTQ4MDY5MTgwNiwxMj
+Q4NDgzMTIxLC0xNjkyNjMxNzksMTMwMTIxMTg5LC0zNTQyMDQ1
+MDddfQ==
 -->
