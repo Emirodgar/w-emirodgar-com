@@ -17,12 +17,6 @@ Desde el [cambio de algoritmo Mobile First Index](https://emirodgar.com/cambio-a
 
 Si queremos disponer de una página cuyo tiempo de carga sea rápido y que nos permita mejorar posicionamiento, captación y conversión, estos son los puntos que deberíamos de trabajar.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1194883372432134144">
-</amp-twitter>
 
 ## 1. Hosting
 
@@ -74,7 +68,7 @@ Adicional a todo esto, existe un punto avanzado que también podemos trabajar. S
 Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzQ3NDYyMSwxNzQ5MDgzNTQ0LC0xOT
-AxOTIxMTAxLDE1NzQ5ODQ0OTUsMTQxODM4NjU0NCwxMTcwMjgz
-MTEyLC01NTA3MzQwNzhdfQ==
+eyJoaXN0b3J5IjpbLTEzNzg5MTUyMTgsMTc0OTA4MzU0NCwtMT
+kwMTkyMTEwMSwxNTc0OTg0NDk1LDE0MTgzODY1NDQsMTE3MDI4
+MzExMiwtNTUwNzM0MDc4XX0=
 -->
