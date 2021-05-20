@@ -7,11 +7,11 @@ sitemap: 1
 feed: 1
 folder: seo
 lang: es_ES
+layout: emirodgar_post
+date: 19/05/2021
 permalink: etiqueta-canonica
 
 --- 
-
-# Etiqueta canónica
 
 El **contenido duplicado** siempre ha sido un problema para el SEO. Disponer de múltiples URLs para ofrecer el mismo acceso provoca que nuestra estrategia orgánica no esté consolidada y no seamos competitivos.
 
@@ -54,13 +54,6 @@ Hay otras opciones como aplicar una redirección 301 (para dejar únicamente una
 
 Pero cuidado, la etiqueta canónica puede ser ignorada por Google por lo que, además de usarla, sería neceario apoyarla con otros factores. En [este vídeo de Google Webmasters](https://www.youtube.com/watch?v=8j_hxBw5B4E) explican en qué casos Google podría ignorar la que nosotros hemos enviado y seleccionar otra URL como canónica.
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1204760229906399232">
-</amp-twitter>
-
 Los factores SEO que nos ayudarán a canonicalizar una URL serán:
 
 - Redirecciones
@@ -72,7 +65,7 @@ Los factores SEO que nos ayudarán a canonicalizar una URL serán:
 
 Básicamente se trata de ser consistente y ofrecer una visión global que esté alineada con la URL canónica que estamos presentando, si no, Google podría ignorarla completamente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTE2Nzg2NSwtMTA5ODc3MTQ1NywtMT
-gzODU0MTA1MywtMjAwMDI5MDQ1OCwtNTE3MDI0NTg3LDY2NDg4
-MDQ3M119
+eyJoaXN0b3J5IjpbMTQzMTg3MTIwOCwxMzI1MTY3ODY1LC0xMD
+k4NzcxNDU3LC0xODM4NTQxMDUzLC0yMDAwMjkwNDU4LC01MTcw
+MjQ1ODcsNjY0ODgwNDczXX0=
 -->
