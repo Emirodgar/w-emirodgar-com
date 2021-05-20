@@ -41,17 +41,17 @@ Estos son algunos de los clientes para los que he trabajado a lo largo de los ú
 ## Beneficios del SEO
 
 **Aumenta el tráfico**  
-Mayor captación de tráfico de calidad  
+Mayor captación de tráfico de calidad.
 
 **Aumenta las ventas**  
-Más ingresos de tráfico orgánico  
+Más ingresos de tráfico orgánico.
 
 **Imagen de marca**  
-Haz que la gente te conozca  
+Haz que la gente te conozca.
 
 **Supera a tu competencia**  
-Sé el líder digital de tu sector
+Sé el líder digital de tu sector.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODY2MDgzMywtMTA1ODU3OTA4MywtMT
+eyJoaXN0b3J5IjpbMTQwMzY1MzQyMywtMTA1ODU3OTA4MywtMT
 I0Nzg0OTkzMF19
 -->
