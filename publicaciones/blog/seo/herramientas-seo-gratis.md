@@ -2,7 +2,8 @@
 title: Herramientas SEO gratis
 description: Conseguir buenos resultados en una estrategia SEO no depende únicamente de tener herramientas de pago. Utilizar estos recursos totalmente gratuitos para marcar la diferencia.
 image: https://emirodgar.com/cdn/images/og/herramientas.png
-date: 16/08/2019
+layout: emirodgar_post
+date: 19/05/2021
 author: Emirodgar
 sitemap: 1
 feed: 1
@@ -189,8 +190,8 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQ2NDUyODMsMTkwODQ0MjQ5LC01ND
-k3Njg2NTcsLTEyNjI1OTA1MDEsMTk4NTEyNzM3LC0xMjU1NjU1
-MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMzA5ODI5OTQxLDE0MD
-A0Njg1NjcsMTM0NTM4NzE2MV19
+eyJoaXN0b3J5IjpbLTE3NDA5NTAxNTksLTEyODQ2NDUyODMsMT
+kwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1OTA1MDEsMTk4NTEy
+NzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMz
+A5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2MV19
 -->
