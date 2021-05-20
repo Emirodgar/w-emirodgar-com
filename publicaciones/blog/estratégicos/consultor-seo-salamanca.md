@@ -13,10 +13,9 @@ permalink: consultor-seo-salamanca-test
 
 ---
 
-¿Quieres **vender más** a través de tu web? ¿quieres ser el **líder digital** de tu sector?  
-Sea cual sea tu necesidad encontraremos una solución SEO que nos permita incrementar la captación de tráfico y ventas.
+Mi nombre es Emilio Rodríguez y llevo trabajando en SEO en Salamanca desde el año 2007. He sido director SEO en dos agencias internacionales (Holanda y España) y trabajado en más de un centenar de proyectos digitales para grandes empresas.
 
-Mi nombre es Emilio Rodríguez y llevo trabajando en SEO desde el año 2007. He sido director SEO en dos agencias internacionales y trabajado en más de un centenar de proyectos digitales para grandes empresas.
+He tenido la gran suerte de 
 
 ## ¿Por qué hacer SEO?
 
@@ -64,5 +63,5 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNDY0MDE3XX0=
+eyJoaXN0b3J5IjpbMTUwOTcyMjQzN119
 -->
