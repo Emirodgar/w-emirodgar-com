@@ -12,7 +12,6 @@ permalink: crossfit-salamanca
 
 ---
 
-# Crossfit Salamanca
 
 Ya hace varios años que decidí apuntarme a CrossFit. En Salamanca hay varias empresas que lo ofertan, incluso algunos gimnasios y estoy convencido de que en todos ellos podemos encontrar grandes profesionales pero yo, basándome en mi experiencia, sólo puedo recomendar Céfiro CrossFit.
 
@@ -35,5 +34,5 @@ En mis tres años me he lesionado una vez y fue por no querer avanzar demasiado 
 En el momento en el que tu postura no es la correcta o no estás haciendo algo bien, se acerca, te corrige y te enseña para que aprendas. No importa cuánto tardes en adquirir la práctica, ellos siempre están ahí.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MzMxOTIzLC0xMzcyNjEzNjI2XX0=
+eyJoaXN0b3J5IjpbMjAyMzU4Nzc0MiwtMTM3MjYxMzYyNl19
 -->
