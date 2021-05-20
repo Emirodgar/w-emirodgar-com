@@ -64,6 +64,7 @@ Las dos primeras rutas corresponden a dónde está instalado Node.js en nuestro 
 ESLint necesita un **archivo de configuración** para comenzar por lo que tendremos que crearlo y asignarlo en `config_file`. Yo suelo usar JSON, en este caso el fichero se llama `.eslintrc.json` pero se pueden usar [otros formatos](https://eslint.org/docs/user-guide/configuring#configuration-file-formats).
 
 Podemos utilizar la configuración básica o personalizarla gracias a su [completa guía](https://eslint.org/docs/user-guide/configuring). En mi caso, el fichero base es el siguiente:
+
 ```json
 {
     "parserOptions": {
@@ -81,5 +82,5 @@ Podemos utilizar la configuración básica o personalizarla gracias a su [comple
 
 Ahora ya podemos volver a Sublime, navegamos hacia un fichero JavaScript, pulsamos `botón derecho` y seleccionamos `ESLint`. En la consola inferior nos aparecerá el resultado de la validación.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjYxNzQyLC01MTY0Mzc5NzBdfQ==
+eyJoaXN0b3J5IjpbLTE2MzU1NDU1MzYsLTUxNjQzNzk3MF19
 -->
