@@ -16,7 +16,7 @@ permalink: consultor-seo-test
 ¿Quieres **vender más** a través de tu web? ¿quieres ser el **líder digital** de tu sector?  
 Sea cual sea tu necesidad encontraremos una solución SEO que nos permita incrementar la captación de tráfico y ventas.
 
-Mi nombre es Emilio Rodríguez y llevo trabajando en SEO desde el año 2007. He sido director SEO en dos agencias internacionales y trabajado en más de un centenar de proyectos digita
+Mi nombre es Emilio Rodríguez y llevo trabajando en SEO desde el año 2007. He sido director SEO en dos agencias internacionales y trabajado en más de un centenar de proyectos digitales para grandes empresas.
 
 ## ¿Por qué hacer SEO?
 
@@ -31,6 +31,20 @@ Nos ayudará a que la experiencia de los usuarios en nuestra web sea óptima
 
 **Vigila a tu competencia**  
 Es importante saber qué está haciendo la competencia y actuar en consecuencia
+
+## Beneficios del SEO
+
+**Aumenta el tráfico**  
+Mayor captación de tráfico de calidad  
+
+**Aumenta las ventas**  
+Más ingresos de tráfico orgánico  
+
+**Imagen de marca**  
+Haz que la gente te conozca  
+
+**Supera a tu competencia**  
+Sé el líder digital de tu sector
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTk5MzYyOF19
+eyJoaXN0b3J5IjpbLTEyNDc4NDk5MzBdfQ==
 -->
