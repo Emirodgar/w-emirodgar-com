@@ -61,13 +61,13 @@ Sé el líder digital de tu sector.
 
 Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada necesidad, existe una  **solución SEO**  adecuada. La experiencia y profesionalidad son garantía de calidad.
 
-#### Entrego todo el material generado
+- Entrego todo el material generado
 
-#### Resuelvo el 100% de las dudas
+- Resuelvo el 100% de las dudas
 
-#### Trabajo con total transparencia
+- Trabajo con total transparencia
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzU5ODU4N119
+eyJoaXN0b3J5IjpbLTI0NzYyMjg2MiwyMDY3NTk4NTg3XX0=
 -->
