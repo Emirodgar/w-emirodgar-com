@@ -6,7 +6,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: offtopic
-date: 07/12/2019
+layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
 permalink: libros-recomendados
 
@@ -67,5 +67,5 @@ Sí es cierto que tiene algo de intriga pero se me ha hecho algo lento y pesado.
 
 > Sé lo que supone querer a alguien y decirle las cosas más terribles, bien por enfado o por sufrimiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDAyNTc2M119
+eyJoaXN0b3J5IjpbODI2MzMwMzA0LC04MTQwMjU3NjNdfQ==
 -->
