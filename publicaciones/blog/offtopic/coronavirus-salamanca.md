@@ -1,13 +1,12 @@
 ---
 title: Coronavirus en Salamanca - Teléfonos e información actualizada
 description: Información actualizada de la propagación del coronavirus en Salamanca provincia
-date: 19/03/2020
-date_modified: 19/03/2020
+layout: emirodgar_post
 author: Emirodgar
 sitemap: 1
 image: https://emirodgar.com/cdn/images/og/emirodgar.png
 feed: 1
-folder: marketing
+folder: offtopic
 lang: es_ES
 permalink: coronavirus-salamanca
 
@@ -179,11 +178,11 @@ El 12 de marzo La Junta de Castilla Y León informaba que no había suspendido l
 </amp-twitter>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ5NDgwNjgsLTE4MTM1MTQ0NzcsNj
-QyNzE5NDM2LDEyMzIzMjg0OTIsLTIwMjQ0NDQ3MTYsNDYzNDkx
-NTM4LC0xMzM1OTMyMjk1LC0yMTgzOTk2NTcsLTI4NTQzMTg5MS
-wtMTQ2MjQzODk4Nyw1NTg5MjUyMzAsLTYxNTI1MTAwOSwtMTE0
-MDk4MDczNCwyNDMxMTg1NTQsLTEyMTYyNjgyMzMsNzQ3ODU5Mj
-MsLTE5ODYzMzk0OTQsLTkyNzYzNTk3OSw3NzgzMDM4NzgsLTE2
-MzUxNDcxMDddfQ==
+eyJoaXN0b3J5IjpbMTE5NTE2NDgyOSwtMTE2NDk0ODA2OCwtMT
+gxMzUxNDQ3Nyw2NDI3MTk0MzYsMTIzMjMyODQ5MiwtMjAyNDQ0
+NDcxNiw0NjM0OTE1MzgsLTEzMzU5MzIyOTUsLTIxODM5OTY1Ny
+wtMjg1NDMxODkxLC0xNDYyNDM4OTg3LDU1ODkyNTIzMCwtNjE1
+MjUxMDA5LC0xMTQwOTgwNzM0LDI0MzExODU1NCwtMTIxNjI2OD
+IzMyw3NDc4NTkyMywtMTk4NjMzOTQ5NCwtOTI3NjM1OTc5LDc3
+ODMwMzg3OF19
 -->
