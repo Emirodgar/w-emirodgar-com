@@ -34,6 +34,8 @@ Es importante saber qué está haciendo la competencia y actuar en consecuencia.
 
 ## Cartera de clientes
 
+Estos son algunos de los clientes para los que he trabajado a lo largo de los últimos años. Puedes ver también mis [casos de éxito SEO](https://emirodgar.com/casos-exito-seo) para conocer mi forma de trabajar el posicionamiento SEO y los resultados que obtengo. 
+
 ![Cartera de clientes SEo - Emirodgar](https://emirodgar.com/cdn/images/clients/erg-com-clientes.jpg){:class="img-responsive"}
 
 ## Beneficios del SEO
@@ -50,6 +52,6 @@ Haz que la gente te conozca
 **Supera a tu competencia**  
 Sé el líder digital de tu sector
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg1NzkwODMsLTEyNDc4NDk5MzBdfQ
-==
+eyJoaXN0b3J5IjpbNDY2NDI1ODA2LC0xMDU4NTc5MDgzLC0xMj
+Q3ODQ5OTMwXX0=
 -->
