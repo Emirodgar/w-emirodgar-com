@@ -12,7 +12,6 @@ permalink: encontrar-trabajo
 
 ---
 
-# Cómo encontrar trabajo a través de Internet
 
 En la red existen múltiples sitios donde poder encontrar trabajos, especialmente relacionados con el mundo digital aunque no son la excepción.
 
@@ -27,5 +26,5 @@ A continuación os dejo una serie de portales especializados en trabajos donde p
 Aunque aún no tiene una gran cartera de empresas que lo utilice, [Google Jobs](https://jobs.google.com/) puede abrirse paso en un futuro cercano y entrar en el TOP5 antes mencionado por lo que convendría no perderlo de vista.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3ODAyMTM0LC0xNzg2MTYzNzcxXX0=
+eyJoaXN0b3J5IjpbMTA1MzQxNzM4LC0xNzg2MTYzNzcxXX0=
 -->
