@@ -2,7 +2,8 @@
 title: Razones para hacer SEO
 description: Algunos datos que seguramente no sabías sobre el SEO y el impacto que tienen en las estrategias
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-date: 19/09/2019
+layout: emirodgar_post
+date: 19/05/2021
 author: Emirodgar
 sitemap: 1
 feed: 1
@@ -12,7 +13,6 @@ permalink: razones-hacer-seo
 
 --- 
 
-# Razones para hacer SEO
 
 Después de más de una década [trabajando en SEO](/experiencia-seo) he tenido que responder decenas de veces a la pregunta del millón: **¿Por qué debería trabajar el SEO?**.
 
@@ -81,7 +81,7 @@ Los resultados suelen aparecer a medio/largo plazo por lo que es crucial monitor
  - En promedio, el contenido que mejor posiciona suele tener un mayor número de enlaces provienentes de páginas relacionadas con el término de búsqueda.
  - La primera publicación de clasificación en una página de resultados de motor de búsqueda (SERP) obtendrá el 32.5% de los clics.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgxMTA2OSwyMTA3NDU4MzAzLDYwNj
-E1ODMzNywxNDE0MzE5MjEwLC04OTc5Njg4MTUsMTY0Njc3ODAy
-MywtOTI0NzU0NjM5LC0yMDY5ODc3MDY1XX0=
+eyJoaXN0b3J5IjpbMzYwNDE4MDg0LC0xMzk4MTEwNjksMjEwNz
+Q1ODMwMyw2MDYxNTgzMzcsMTQxNDMxOTIxMCwtODk3OTY4ODE1
+LDE2NDY3NzgwMjMsLTkyNDc1NDYzOSwtMjA2OTg3NzA2NV19
 -->
