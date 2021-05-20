@@ -28,12 +28,6 @@ Cuando Google decide mostrar un fragmento de página destacada en la primera pos
 
 En la siguiente imagen podemos ver un ejemplo de lo que hablamos: el contenido es de businessinsider.com pero la imagen pertenece a pcworld.com.
 
-<amp-img alt=""
-  src=""
-  width="650"
-  height="361"
-  layout="responsive">
-</amp-img>
 
 ![Ejemplo de resultado con contenido e imagen de páginas diferentes](https://i.imgur.com/JYBZsY9.png){:class="img-responsive"}
 
@@ -139,5 +133,5 @@ Google ha diseñado su propio formato de imagen, [WebP](https://developers.googl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA1Njk1NDcsMjcyMjMyMTU4XX0=
+eyJoaXN0b3J5IjpbLTQ0ODc0NzY0NCwyNzIyMzIxNThdfQ==
 -->
