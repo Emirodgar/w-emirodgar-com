@@ -6,12 +6,11 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
-tags: SEO
+layout: emirodgar_post
+date: 19/05/2021
 permalink: posicionamiento-seo-local
 
 ---
-
-# Posicionamiento SEO local 
 
 Para poder trabajar el SEO local y aumentar las ventas de clientes presenciales en nuestro negocio es imprescindible tener un perfil en [Google My Business](https://www.google.com/intl/es_es/business/) (GMB).
 
@@ -59,5 +58,6 @@ Es posible que tu competencia también haya hecho este tipo de análisis por lo 
 
 Recomiendo prestar especial atención a los horarios, ¿es posible que estemos cerrando justo cuando nuestro público objetivo sale del trabajo y quiere comprar?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTAxMjcxMiw3NDQyNTM2Nl19
+eyJoaXN0b3J5IjpbMTIxNTk5MzQ4NywtNjI5MDEyNzEyLDc0ND
+I1MzY2XX0=
 -->
