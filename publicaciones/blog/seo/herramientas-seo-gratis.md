@@ -169,7 +169,7 @@ Las herramientas a continuación monitorizan millones de keywords relevantes por
 
 Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el trabajo SEO diario. Están todas agrupadas.
 
-- [\[Emirodgar SEO\]](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es)
+- [Emirodgar SEO](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es)
 - [Extractor de entidades](https://chrome.google.com/webstore/detail/extractor-de-entidades/abngfjnmaobeaaheapakabhdoapfopdi)
 - [Ver renderizado](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob)
 - [Web developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
@@ -188,7 +188,7 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTY0MTQzMiwtMTI4NDY0NTI4MywxOT
+eyJoaXN0b3J5IjpbMTkwNjM5MDEyNiwtMTI4NDY0NTI4MywxOT
 A4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOTg1MTI3
 MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5NDU0OSwzMD
 k4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX0=
