@@ -17,13 +17,6 @@ De sobra es sabido que un [tiempo de carga óptimo](https://emirodgar.com/mejora
 
 Desde Twitter, el equipo de desarrolladores de Chrome ha anunciado que a partir de la versión 85 aparecerá una pequeña etiqueta que identificará aquellas páginas consideradas como "rápidas".
 
-<amp-twitter 
-  width="375"
-  height="472"
-  layout="responsive"
-  data-tweetid="1295390463038349312">
-</amp-twitter>
-
 Para ello se basarán en los resultados de las métricas definidas como **Core Web Vitals**, que son las siguientes.
 
 -   [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
@@ -37,7 +30,7 @@ A mayores de estas, que son las consideradas como más relevantes, existen otras
 
 Para poder conocer y analizar nuestras métricas Core Web Vitals podemos hacer uso de [Google PageSpeed](https://developers.google.com/speed/pagespeed/insights/?hl=es) o el [informe de Data Studio](https://datastudio.google.com/u/0/reporting/bbc5698d-57bb-4969-9e07-68810b9fa348/page/keDQB?params=%7B%22origin%22:%22https://emirodgar.com%22%7D) que nos permite hacer seguimiento de las mismas de forma mensual.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI1NTQyNzIsMTQ4MDY5MTgwNiwxMj
-Q4NDgzMTIxLC0xNjkyNjMxNzksMTMwMTIxMTg5LC0zNTQyMDQ1
-MDddfQ==
+eyJoaXN0b3J5IjpbLTE2NDg4ODg0MzIsLTEyODI1NTQyNzIsMT
+Q4MDY5MTgwNiwxMjQ4NDgzMTIxLC0xNjkyNjMxNzksMTMwMTIx
+MTg5LC0zNTQyMDQ1MDddfQ==
 -->
