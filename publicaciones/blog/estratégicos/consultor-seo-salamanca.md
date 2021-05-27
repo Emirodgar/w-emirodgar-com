@@ -10,7 +10,7 @@ layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: consultor-seo-salamanca
 redirect_from: 
-  - https://emirodgar.com/consultor-seo/salamanca
+  - consultor-seo/salamanca
 
 
 ---
@@ -76,6 +76,6 @@ Sé el líder digital de tu sector.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTY0NjQzMSwtMTk4MDE5MTcwMiw5Nj
+eyJoaXN0b3J5IjpbLTgwMjk4OTk5MiwtMTk4MDE5MTcwMiw5Nj
 YwMTQ5NjcsLTI0NzYyMjg2MiwyMDY3NTk4NTg3XX0=
 -->
