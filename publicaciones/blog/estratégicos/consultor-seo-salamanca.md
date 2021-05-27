@@ -19,7 +19,7 @@ He tenido la suerte de haber participado en estrategias de **posicionamiento SEO
 
 ## Ponente en las Universidades Salmantinas
 
-He participado en ponencias como **experto de marketing digital** tanto en la Universidad Pontificia de Salamanca como en el Máster de Marketing Digital de la Universidad de Salamanca. Fuera de Salamanca también colaboro como docente con la Universidad de Deusto y diversas escuelas de negocio como Foro Economía Digital, C2B o la Escuela Europea de Negocios. 
+He participado en ponencias como **experto de marketing digital** tanto en la Universidad Pontificia de Salamanca como en el Máster de Marketing Digital de la Universidad de Salamanca. Fuera de Salamanca también colaboro como docente con la Universidad de Deusto, Foro Economía Digital, C2B o la Escuela Europea de Negocios. 
 
 También estoy certificado como SEO por ICEX España (Instituto Español de Comercio Exterior) para ayudar a las empresas españolas a externalizar sus productos en mercados internacionales a través de estrategias de posicionamiento web.
 
@@ -69,6 +69,6 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxNzU4MjE5LC0yNDc2MjI4NjIsMjA2Nz
+eyJoaXN0b3J5IjpbOTY2MDE0OTY3LC0yNDc2MjI4NjIsMjA2Nz
 U5ODU4N119
 -->
