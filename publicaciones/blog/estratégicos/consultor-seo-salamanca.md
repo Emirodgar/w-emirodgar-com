@@ -58,7 +58,7 @@ Segundo, porque desarrollo y ejecuto  **estrategias SEO personalizadas** dado qu
 
 ## Beneficios del SEO
 
-Si aún no tienes claro qué aporte puede realizar el SEO a tu proyecto web, te dejo algunos de los objetivos
+Si aún no tienes claro qué aporte puede realizar el SEO a tu proyecto web, te dejo algunos de los objetivos que solemos perseguir
 
 **Aumenta el tráfico**  
 Mayor captación de tráfico de calidad.
@@ -74,6 +74,6 @@ Sé el líder digital de tu sector.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAxOTE3MDIsOTY2MDE0OTY3LC0yND
-c2MjI4NjIsMjA2NzU5ODU4N119
+eyJoaXN0b3J5IjpbLTE1MTE3OTQ1LC0xOTgwMTkxNzAyLDk2Nj
+AxNDk2NywtMjQ3NjIyODYyLDIwNjc1OTg1ODddfQ==
 -->
