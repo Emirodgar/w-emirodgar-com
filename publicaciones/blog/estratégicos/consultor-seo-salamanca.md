@@ -3,12 +3,12 @@ title: Consultor SEO en Salamanca
 description: Experto SEO con más de 10 años de experiencia en múltiples agencias, países y proyectos. Hablemos, es gratis.
 lang: es_ES
 author: emirodgar
-sitemap: 0
-feed: 0
+sitemap: 1
+feed: 1
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: consultor-seo-salamanca-test
+permalink: consultor-seo-salamanca
 
 
 ---
@@ -74,6 +74,6 @@ Sé el líder digital de tu sector.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwOTQzMDAsLTE5ODAxOTE3MDIsOTY2MD
-E0OTY3LC0yNDc2MjI4NjIsMjA2NzU5ODU4N119
+eyJoaXN0b3J5IjpbMjAyMDk1NzE0NSwtMTk4MDE5MTcwMiw5Nj
+YwMTQ5NjcsLTI0NzYyMjg2MiwyMDY3NTk4NTg3XX0=
 -->
