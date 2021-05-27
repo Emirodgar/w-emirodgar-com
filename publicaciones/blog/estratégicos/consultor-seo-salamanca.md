@@ -43,6 +43,17 @@ Estos son algunos de los clientes para los que he trabajado a lo largo de los ú
 
 ![Cartera de clientes SEo - Emirodgar](https://emirodgar.com/cdn/images/clients/erg-com-clientes.jpg){:class="img-responsive"}
 
+
+## ¿Por qué hacer SEO con nosotros?
+
+Para empezar, porque soy Salmantino y trabajo como SEO en Salamanca desde mis inicios Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada necesidad, existe una  **solución SEO**  adecuada. La experiencia y profesionalidad son garantía de calidad.
+
+- Entrego todo el material generado
+
+- Resuelvo el 100% de las dudas
+
+- Trabajo con total transparencia
+
 ## Beneficios del SEO
 
 **Aumenta el tráfico**  
@@ -57,18 +68,8 @@ Haz que la gente te conozca.
 **Supera a tu competencia**  
 Sé el líder digital de tu sector.
 
-## ¿Por qué hacer SEO con nosotros?
-
-Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada necesidad, existe una  **solución SEO**  adecuada. La experiencia y profesionalidad son garantía de calidad.
-
-- Entrego todo el material generado
-
-- Resuelvo el 100% de las dudas
-
-- Trabajo con total transparencia
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjMwNzY1Nyw5NjYwMTQ5NjcsLTI0Nz
+eyJoaXN0b3J5IjpbLTQyMjU4MDM3Nyw5NjYwMTQ5NjcsLTI0Nz
 YyMjg2MiwyMDY3NTk4NTg3XX0=
 -->
