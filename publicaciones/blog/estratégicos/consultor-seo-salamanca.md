@@ -48,7 +48,7 @@ Estos son algunos de los clientes para los que he trabajado a lo largo de los ú
 
 Para empezar, porque soy salmantino y desarrollo mis estrategias SEO desde Salamanca. La comunicación del proyecto será mucho más sencilla si todos vivimos en el mismo lugar.
 
-Quiero que sepas que desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada necesidad, existe una  **solución SEO**  adecuada. La experiencia y profesionalidad son garantía de calidad y cada proyecto trabajado es único y diferente.
+Segundo, porque desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada necesidad, existe una  **solución SEO**  adecuada. La experiencia y profesionalidad son garantía de calidad.
 
 - Entrego todo el material generado
 
@@ -57,6 +57,8 @@ Quiero que sepas que desarrollo y ejecuto  **estrategias SEO personalizadas** da
 - Trabajo con total transparencia
 
 ## Beneficios del SEO
+
+Si aún no tienes claro qué aporte puede realizar el SEO a tu proyecto web, te dejo algunos de los objetivos
 
 **Aumenta el tráfico**  
 Mayor captación de tráfico de calidad.
@@ -72,6 +74,6 @@ Sé el líder digital de tu sector.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDE2MTQwLDk2NjAxNDk2NywtMjQ3Nj
-IyODYyLDIwNjc1OTg1ODddfQ==
+eyJoaXN0b3J5IjpbLTE5ODAxOTE3MDIsOTY2MDE0OTY3LC0yND
+c2MjI4NjIsMjA2NzU5ODU4N119
 -->
