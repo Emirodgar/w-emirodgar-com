@@ -59,11 +59,11 @@ Las herramientas de SEO técnico están orientadas a evaluar aspectos técnicos 
 - [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
 - [Seobility](https://www.seobility.net)
 - [Dareboost](https://www.dareboost.com)
-- [gtmetrix.com](https://gtmetrix.com/)
-- [varvy.com](https://varvy.com/)
-- [http://home.snafu.de/tilman/xenulink.html](http://home.snafu.de/tilman/xenulink.html)
-- [https://www.wappalyzer.com/](https://www.wappalyzer.com/)
-- [https://www.rapidtables.com/web/tools/redirect-generator.html](https://www.rapidtables.com/web/tools/redirect-generator.html)
+- [Gtmetrix](https://gtmetrix.com/)
+- [Varvy](https://varvy.com/)
+- [Xenulink](http://home.snafu.de/tilman/xenulink.html)
+- [wappalyzer](https://www.wappalyzer.com/)
+- [Rapidtables](https://www.rapidtables.com/web/tools/redirect-generator.html)
 
 ## <a name="contenidos"></a>Keyword research / Contenidos
 
@@ -71,17 +71,17 @@ Estas aplicaciones nos ayudarán a definir y concretar las palabras clave más i
 
 Necesarias antes de llevar a cabo cualquier plan editorial
 
-- [https://keywordseverywhere.com](https://keywordseverywhere.com)
-- [https://answerthepublic.com/](https://answerthepublic.com/)
-- [https://textoptimizer.com](https://textoptimizer.com)
-- [http://keywordshitter.com](http://keywordshitter.com)
-- [https://metatags.io](https://metatags.io)
-- [http://tools.seobook.com/firefox/rank-checker/](http://tools.seobook.com/firefox/rank-checker/)
-- [http://www.seopowersuite.es/rank-tracker/](http://www.seopowersuite.es/rank-tracker/)
-- [https://www.seedkeywords.com/](https://www.seedkeywords.com/)
-- [https://app.neilpatel.com/es/ubersuggest](https://app.neilpatel.com/es/ubersuggest)
-- [https://www.keyworddit.com/](https://www.keyworddit.com/)
-- [https://lsigraph.com](https://lsigraph.com)
+- [Keywordseverywhere](https://keywordseverywhere.com)
+- [Answerthepublic](https://answerthepublic.com/)
+- [Textoptimizer](https://textoptimizer.com)
+- [Keywordshitter](http://keywordshitter.com)
+- [Metatags](https://metatags.io)
+- [Rank-checker](http://tools.seobook.com/firefox/rank-checker/)
+- [Seopowersuite](http://www.seopowersuite.es/rank-tracker/)
+- [Seedkeywords](https://www.seedkeywords.com/)
+- [Ubersuggest](https://app.neilpatel.com/es/ubersuggest)
+- [Keyworddit](https://www.keyworddit.com/)
+- [Lsigraph](https://lsigraph.com)
 - [https://safecont.com/](https://safecont.com/)
 - [https://venngage.com/](https://venngage.com/)
 - [https://visualhunt.com/](https://visualhunt.com/)
@@ -188,8 +188,8 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTUxMTIxNywtMTI4NDY0NTI4MywxOT
-A4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOTg1MTI3
-MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5NDU0OSwzMD
-k4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX0=
+eyJoaXN0b3J5IjpbNjgyNzA5ODc4LC0xMjg0NjQ1MjgzLDE5MD
+g0NDI0OSwtNTQ5NzY4NjU3LC0xMjYyNTkwNTAxLDE5ODUxMjcz
+NywtMTI1NTY1NTM5LC01OTAwNzE1NDMsLTQxNjk0NTQ5LDMwOT
+gyOTk0MSwxNDAwNDY4NTY3LDEzNDUzODcxNjFdfQ==
 -->
