@@ -56,7 +56,11 @@ Enlaces de calidad para ganar popularidad. Definimos y ejecutamos estrategias pa
 
 Ayudamos a definir los mejores contenidos para captar al público objetivo adecuado. El contenido sigue siendo el rey de las estrategias SEO por lo que transmitir correctamente nuestros productos y servicios además de ayudar a los usuarios a encontrar lo que están buscando es clave para cualquier estrategia de posicionamiento web.
 
+### Reputación online
 
+### Penalización SEO
+
+Si has recibido una penalización SEO, no te preocupes, podemos ayudarte a recuperar tu tráfico orgánico
 
 ## Beneficios del SEO
 
@@ -84,7 +88,7 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE3Mzg1NDgsMzA4NDQwNjg4LDQ3OT
-E1NTcxOCwxNDk5NTExNTY5LC0xMDU4NTc5MDgzLC0xMjQ3ODQ5
-OTMwXX0=
+eyJoaXN0b3J5IjpbMTAyODI3NjIwNywzMDg0NDA2ODgsNDc5MT
+U1NzE4LDE0OTk1MTE1NjksLTEwNTg1NzkwODMsLTEyNDc4NDk5
+MzBdfQ==
 -->
