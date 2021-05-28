@@ -50,7 +50,9 @@ Nos ayudará a crear una base SEO sólida sobre la que seguir trabajando y conse
 
 ### Linkbuilding
 
-Enlaces de calidad para ganar popularidad. Definimos y ejecutamos estrategias para optimizar y cualificar el perfil de enlazado
+Enlaces de calidad para ganar popularidad. Definimos y ejecutamos estrategias para optimizar y cualificar el perfil de enlazado con el objetivo de conseguir incrementar nuestra popularidad.
+
+### 
 
 ## Beneficios del SEO
 
@@ -78,6 +80,6 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc1MjYxMywxNDk5NTExNTY5LC0xMD
-U4NTc5MDgzLC0xMjQ3ODQ5OTMwXX0=
+eyJoaXN0b3J5IjpbNDc5MTU1NzE4LDE0OTk1MTE1NjksLTEwNT
+g1NzkwODMsLTEyNDc4NDk5MzBdfQ==
 -->
