@@ -58,9 +58,11 @@ Ayudamos a definir los mejores contenidos para captar al público objetivo adecu
 
 ### Reputación online
 
+La reputación online es un factor importante para trasladar con
+
 ### Penalización SEO
 
-Si has recibido una penalización SEO, no te preocupes, podemos ayudarte a recuperar tu tráfico orgánico
+Si has recibido una penalización SEO, no te preocupes, podemos ayudarte a recuperar tu tráfico orgánico. Lo primero será identificar el tipo de penalización recibida (manual o automática por alguna actualización de algoritmo), conocer qué lo ha causado y establecer una hoja de ruta con acciones para salir de la penalización. 
 
 ## Beneficios del SEO
 
@@ -88,7 +90,7 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODI3NjIwNywzMDg0NDA2ODgsNDc5MT
-U1NzE4LDE0OTk1MTE1NjksLTEwNTg1NzkwODMsLTEyNDc4NDk5
-MzBdfQ==
+eyJoaXN0b3J5IjpbLTE1ODc1MDI2MzQsMzA4NDQwNjg4LDQ3OT
+E1NTcxOCwxNDk5NTExNTY5LC0xMDU4NTc5MDgzLC0xMjQ3ODQ5
+OTMwXX0=
 -->
