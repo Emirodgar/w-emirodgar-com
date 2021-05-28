@@ -82,22 +82,22 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [Ubersuggest](https://app.neilpatel.com/es/ubersuggest)
 - [Keyworddit](https://www.keyworddit.com/)
 - [Lsigraph](https://lsigraph.com)
-- [https://safecont.com/](https://safecont.com/)
-- [https://venngage.com/](https://venngage.com/)
-- [https://visualhunt.com/](https://visualhunt.com/)
-- [https://buzzsumo.com/](https://buzzsumo.com/)
-- [https://www.webfx.com/seo-tools/faqfox/](https://www.webfx.com/seo-tools/faqfox/)
-- [https://soovle.com/](https://soovle.com/)
-- [http://seo.danzambonini.com/](http://seo.danzambonini.com/)
-- [https://searchvolume.io/](https://searchvolume.io/)
-- [https://alsoasked.com/](https://alsoasked.com/)
+- [Safecont](https://safecont.com/)
+- [Venngage](https://venngage.com/)
+- [Visualhunt](https://visualhunt.com/)
+- [Buzzsumo](https://buzzsumo.com/)
+- [Webfx Faqfox](https://www.webfx.com/seo-tools/faqfox/)
+- [Soovle](https://soovle.com/)
+- [seo.danzambonini](http://seo.danzambonini.com/)
+- [Searchvolume](https://searchvolume.io/)
+- [Alsoasked](https://alsoasked.com/)
 
 ## <a name="datos-estructurados"></a>Datos estructurados
 
 Nos permitirán facilitar a los buscadores la extracción de información relevante. De momento no afectan de forma directa al SEO pero sí nos ayudan a generar mayor visibilidad por lo que podríamos aumentar y mejorar la captación de tráfico relevante.
 
-- [https://search.google.com/test/rich-results](https://search.google.com/test/rich-results)
-- [https://search.google.com/structured-data/testing-tool/u/0/](https://search.google.com/structured-data/testing-tool/u/0/)
+- [Rrich results](https://search.google.com/test/rich-results)
+- [Structured data testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
 
 ## <a name="enlaces"></a>Enlaces / Linkbuilding
 
@@ -188,8 +188,8 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNzA5ODc4LC0xMjg0NjQ1MjgzLDE5MD
-g0NDI0OSwtNTQ5NzY4NjU3LC0xMjYyNTkwNTAxLDE5ODUxMjcz
-NywtMTI1NTY1NTM5LC01OTAwNzE1NDMsLTQxNjk0NTQ5LDMwOT
-gyOTk0MSwxNDAwNDY4NTY3LDEzNDUzODcxNjFdfQ==
+eyJoaXN0b3J5IjpbLTQwNjkwMjA4MiwtMTI4NDY0NTI4MywxOT
+A4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOTg1MTI3
+MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5NDU0OSwzMD
+k4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX0=
 -->
