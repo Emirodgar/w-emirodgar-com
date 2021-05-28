@@ -138,19 +138,19 @@ Tan importante es trabajar el SEO de una página como poder medir el impacto de 
 
 - [Google Analytics](https://analytics.google.com/analytics/web/)
 - [Google Search Console](https://search.google.com/search-console/about?hl=es)
-- [https://keyword-hero.com/](https://keyword-hero.com/)
-- [https://sheetsformarketers.com/](https://sheetsformarketers.com/)
-- [https://feinternational.com/website-penalty-indicator/](https://feinternational.com/website-penalty-indicator/)
+- [Keyword hero](https://keyword-hero.com/)
+- [Sheetsformarketers](https://sheetsformarketers.com/)
+- [Website penalty indicator](https://feinternational.com/website-penalty-indicator/)
 - [Schema GTM Fix](https://saijogeorge.com/json-ld-schema-generator/tag-manager-fix/)
 
 ## <a name="conversion"></a>Optimizar la conversión
 
 Toda estrategia debe terminar con una conversión, si no, no seremos capaces de obtener un retorno de la inversión. Estas herramientas nos ayudarán a mejorar la conversión de nuestra web.
 
-- [https://www.finteza.com](https://www.finteza.com)
-- [https://www.hotjar.com](https://www.hotjar.com)
-- [https://www.crazyegg.com](https://www.crazyegg.com)
-- [https://optimize.google.com](https://optimize.google.com)
+- [Finteza](https://www.finteza.com)
+- [Hotjar](https://www.hotjar.com)
+- [Crazyegg](https://www.crazyegg.com)
+- [Google Optimize](https://optimize.google.com)
 
 ## <a name="cambios-algoritmo"></a>Cambios de algoritmo
 
@@ -158,12 +158,12 @@ Los [algoritmos de los buscadores cambian frecuentemente](https://emirodgar.com/
 
 Las herramientas a continuación monitorizan millones de keywords relevantes por países y dispositivos de forma diaria. Cuando ocurre un cambio masivo de posiciones lo identifican y anuncian un posible cambio de algoritmo.
 
-- [https://moz.com/mozcast/](https://moz.com/mozcast/)
-- [https://serpmetrics.com/flux/](https://serpmetrics.com/flux/)
-- [https://algoroo.com/](https://algoroo.com/)
-- [https://www.accuranker.com/grump](https://www.accuranker.com/grump)
-- [https://cognitiveseo.com/signals/](https://cognitiveseo.com/signals/)
-- [https://feinternational.com/website-penalty-indicator/](https://feinternational.com/website-penalty-indicator/)
+- [Mozcast](https://moz.com/mozcast/)
+- [Flux](https://serpmetrics.com/flux/)
+- [Algoroo.com](https://algoroo.com/)
+- [Accuranker](https://www.accuranker.com/grump)
+- [Signals](https://cognitiveseo.com/signals/)
+- [Website penalty indicator](https://feinternational.com/website-penalty-indicator/)
 
 ## <a name="extensiones-navegador"></a>Extensiones de navegador SEO
 
@@ -188,8 +188,8 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDQ0OTgzMSwtMTI4NDY0NTI4MywxOT
-A4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOTg1MTI3
-MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5NDU0OSwzMD
-k4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX0=
+eyJoaXN0b3J5IjpbLTIwOTM2MzQ3NDgsLTEyODQ2NDUyODMsMT
+kwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1OTA1MDEsMTk4NTEy
+NzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMz
+A5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2MV19
 -->
