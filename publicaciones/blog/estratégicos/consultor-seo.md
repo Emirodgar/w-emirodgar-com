@@ -46,6 +46,12 @@ Por ello -y en base a esa filosofía- los servicios SEO que ofrecemos son los si
 
 ### Auditoría SEO
 
+Nos ayudará a crear una base SEO sólida sobre la que seguir trabajando y conseguir así los mejores resultados posibles.
+
+### Linkbuilding
+
+Enlaces de calidad para ganar popularidad. Definimos y ejecutamos estrategias para optimizar y cualificar el perfil de enlazado
+
 ## Beneficios del SEO
 
 **Aumenta el tráfico**  
@@ -72,6 +78,6 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNzUwNDgyLDE0OTk1MTE1NjksLTEwNT
-g1NzkwODMsLTEyNDc4NDk5MzBdfQ==
+eyJoaXN0b3J5IjpbLTIwMTc1MjYxMywxNDk5NTExNTY5LC0xMD
+U4NTc5MDgzLC0xMjQ3ODQ5OTMwXX0=
 -->
