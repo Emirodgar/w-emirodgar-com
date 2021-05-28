@@ -103,13 +103,13 @@ Nos permitirán facilitar a los buscadores la extracción de información releva
 
 Antes de ejecutar una estrategia de SEO offpage es conveniente conocer nuestro perfil de enlazado y detectar fortalezas y debilidades de tal forma que podamos identificar los enlaces que más valor nos van a aportar. 
 
--   [https://backlinkshitter.com](https://backlinkshitter.com/)
-- [http://www.seopowersuite.es/seo-spyglass/](http://www.seopowersuite.es/seo-spyglass/)
-- [https://ahrefs.com/es/backlink-checker](https://ahrefs.com/es/backlink-checker)
-- [https://www.canirank.com](https://www.canirank.com)
-- [https://www.google.com/webmasters/tools/disavow-links-main](https://www.google.com/webmasters/tools/disavow-links-main)
-- [https://moz.com/link-explorer](https://moz.com/link-explorer)
-- [https://www.seoweather.com/domain-authority-checker/](https://www.seoweather.com/domain-authority-checker/)
+- [backlinkshitter](https://backlinkshitter.com/)
+- [seopowersuite](http://www.seopowersuite.es/seo-spyglass/)
+- [backlink-checker](https://ahrefs.com/es/backlink-checker)
+- [canirank](https://www.canirank.com)
+- [disavow links](https://www.google.com/webmasters/tools/disavow-links-main)
+- [link explorer](https://moz.com/link-explorer)
+- [domain authority checker/](https://www.seoweather.com/domain-authority-checker/)
 
 ## <a name="mobile-seo"></a>Mobile SEO
 
@@ -188,7 +188,7 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjkwMjA4MiwtMTI4NDY0NTI4MywxOT
+eyJoaXN0b3J5IjpbMTY4NDAyNDM1OCwtMTI4NDY0NTI4MywxOT
 A4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOTg1MTI3
 MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5NDU0OSwzMD
 k4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX0=
