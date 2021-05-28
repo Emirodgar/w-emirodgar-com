@@ -58,7 +58,7 @@ Ayudamos a definir los mejores contenidos para captar al público objetivo adecu
 
 ### Reputación online
 
-La reputación online es un factor importante para trasladar con
+La reputación online es un factor importante para trasladar confianza a nuestros potenciales clientes.
 
 ### Penalización SEO
 
@@ -90,7 +90,7 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc1MDI2MzQsMzA4NDQwNjg4LDQ3OT
-E1NTcxOCwxNDk5NTExNTY5LC0xMDU4NTc5MDgzLC0xMjQ3ODQ5
-OTMwXX0=
+eyJoaXN0b3J5IjpbMjAxODU5NzIxLDMwODQ0MDY4OCw0NzkxNT
+U3MTgsMTQ5OTUxMTU2OSwtMTA1ODU3OTA4MywtMTI0Nzg0OTkz
+MF19
 -->
