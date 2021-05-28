@@ -42,25 +42,25 @@ Estas herramientas nos ayudarán a obtener una visión completa del estado SEO d
 - [Website Auditor](http://www.seopowersuite.es/website-auditor/)
 - [Lipperhey](https://www.lipperhey.com)
 - [Google Webmasters Tools](https://www.google.com/webmasters/tools/home?hl=es)
-- [iteliner.com](http://www.siteliner.com)
-- [https://serpstat.com](https://serpstat.com/)
-- [http://beamusup.com/](http://beamusup.com/)
-- [https://www.marketingminer.com](https://www.marketingminer.com/)
-- [https://archive.org/web/](https://archive.org/web/)
+- [Siteliner](http://www.siteliner.com)
+- [Serpstat](https://serpstat.com/)
+- [Beamusup](http://beamusup.com/)
+- [Marketingminer](https://www.marketingminer.com/)
+- [Archive.org](https://archive.org/web/)
 
 ## <a name="seo-tecnico"></a>SEO Técnico 
 
 Las herramientas de SEO técnico están orientadas a evaluar aspectos técnicos que afectan directamente al posicionamiento web. Son avanzadas pero dan información muy útil.
 
-- [https://speedmonitor.io](https://speedmonitor.io)
-- [http://www.browseo.net](http://www.browseo.net)
-- [https://www.screamingfrog.co.uk/seo-spider/](https://www.screamingfrog.co.uk/seo-spider/)
-- [http://spyonweb.com](http://spyonweb.com)
-- [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
-- [https://www.seobility.net](https://www.seobility.net)
-- [https://www.dareboost.com](https://www.dareboost.com)
-- [https://gtmetrix.com/](https://gtmetrix.com/)
-- [https://varvy.com/](https://varvy.com/)
+- [Speedmonitor.io](https://speedmonitor.io)
+- [Browseo](http://www.browseo.net)
+- [Screamingfrog](https://www.screamingfrog.co.uk/seo-spider/)
+- [Spyonweb](http://spyonweb.com)
+- [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
+- [Seobility](https://www.seobility.net)
+- [Dareboost](https://www.dareboost.com)
+- [gtmetrix.com](https://gtmetrix.com/)
+- [varvy.com](https://varvy.com/)
 - [http://home.snafu.de/tilman/xenulink.html](http://home.snafu.de/tilman/xenulink.html)
 - [https://www.wappalyzer.com/](https://www.wappalyzer.com/)
 - [https://www.rapidtables.com/web/tools/redirect-generator.html](https://www.rapidtables.com/web/tools/redirect-generator.html)
@@ -188,8 +188,8 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIyMDU5NjQsLTEyODQ2NDUyODMsMT
-kwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1OTA1MDEsMTk4NTEy
-NzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMz
-A5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2MV19
+eyJoaXN0b3J5IjpbLTM5MTUxMTIxNywtMTI4NDY0NTI4MywxOT
+A4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOTg1MTI3
+MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5NDU0OSwzMD
+k4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX0=
 -->
