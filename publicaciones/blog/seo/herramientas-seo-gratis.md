@@ -115,29 +115,29 @@ Antes de ejecutar una estrategia de SEO offpage es conveniente conocer nuestro p
 
 El tráfico móvil es mayor que el del resto de dispositivos, por ello es crucial asegurarnos de que nuestra página web está totalmente optimizada para ofrecer una buena experiencia desde estos dispositivos.
 
-- [https://zeo.org/seo-tools/mfi/](https://zeo.org/seo-tools/mfi/)
-- [https://mobilemoxie.com/tools/mobile-serp-test/](https://mobilemoxie.com/tools/mobile-serp-test/)
-- [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly)
-- [https://mobilemoxie.com/tools/mobile-serp-test/](https://mobilemoxie.com/tools/mobile-serp-test/)
+- [zeo mfi](https://zeo.org/seo-tools/mfi/)
+- [mobile serp test/](https://mobilemoxie.com/tools/mobile-serp-test/)
+- [mobile friendly](https://search.google.com/test/mobile-friendly)
+
 
 ## <a name="seo-local"></a>SEO Local
 
 Un negocio local tendrá un comportamiento ligeramente diferente a otro con un ámbito mayor. Por ello debemos hacer uso de herramientas específicas para potenciar las compras locales.
 
-- [https://www.google.com/business/](https://www.google.com/business/)
-- [https://review-checker.whitespark.ca](https://review-checker.whitespark.ca)
-- [https://www.yext.com/](https://www.yext.com/)
-- [https://whitespark.ca/google-review-link-generator/](https://whitespark.ca/google-review-link-generator/)
-- [https://www.brightlocal.com/local-search-results-checker/](https://www.brightlocal.com/local-search-results-checker/)
-- [https://moz.com/local/search](https://moz.com/local/search)
-- [https://serps.com/tools/google-search-location/](https://serps.com/tools/google-search-location/)
+- [Google Business](https://www.google.com/business/)
+- [review checker](https://review-checker.whitespark.ca)
+- [Yext](https://www.yext.com/)
+- [Google review link generator/](https://whitespark.ca/google-review-link-generator/)
+- [Local search results checker/](https://www.brightlocal.com/local-search-results-checker/)
+- [Moz local search](https://moz.com/local/search)
+- [Google search location/](https://serps.com/tools/google-search-location/)
 
 ## <a name="analitica-web"></a>Analítica web / medición resultados
 
 Tan importante es trabajar el SEO de una página como poder medir el impacto de los cambios. De esta forma sabremos lo que funciona y lo que no para que nuestra estrategia sea dinámica y pueda evolucionar de forma positiva.
 
-- [https://analytics.google.com/analytics/web/](https://analytics.google.com/analytics/web/)
-- [https://search.google.com/search-console/about?hl=es](https://search.google.com/search-console/about?hl=es)
+- [Google Analytics](https://analytics.google.com/analytics/web/)
+- [Google Search Console](https://search.google.com/search-console/about?hl=es)
 - [https://keyword-hero.com/](https://keyword-hero.com/)
 - [https://sheetsformarketers.com/](https://sheetsformarketers.com/)
 - [https://feinternational.com/website-penalty-indicator/](https://feinternational.com/website-penalty-indicator/)
@@ -188,7 +188,7 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDAyNDM1OCwtMTI4NDY0NTI4MywxOT
+eyJoaXN0b3J5IjpbLTg4MDQ0OTgzMSwtMTI4NDY0NTI4MywxOT
 A4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOTg1MTI3
 MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5NDU0OSwzMD
 k4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX0=
