@@ -42,7 +42,9 @@ Estos son algunos de los clientes para los que he trabajado a lo largo de los ú
 
 Aunque el mundo del posicionamiento web es muy amplio, necesitamos focalizarnos en lo que realmente se nos da bien y con lo que sabemos que podemos generar beneficios. No se trata de vender más, sino de vender bien y orientado a resultados.
 
-P
+Por ello -y en base a esa filosofía- los servicios SEO que ofrecemos son los siguientes:
+
+### Auditoría SEO
 
 ## Beneficios del SEO
 
@@ -70,6 +72,6 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTQ4MTg0NCwxNDk5NTExNTY5LC0xMD
-U4NTc5MDgzLC0xMjQ3ODQ5OTMwXX0=
+eyJoaXN0b3J5IjpbODkwNzUwNDgyLDE0OTk1MTE1NjksLTEwNT
+g1NzkwODMsLTEyNDc4NDk5MzBdfQ==
 -->
