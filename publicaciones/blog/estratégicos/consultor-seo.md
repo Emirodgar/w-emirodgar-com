@@ -8,7 +8,7 @@ feed: 0
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: consultor-seo-test
+permalink: consultor-seo
 
 
 ---
@@ -38,6 +38,12 @@ Estos son algunos de los clientes para los que he trabajado a lo largo de los ú
 
 ![Cartera de clientes SEo - Emirodgar](https://emirodgar.com/cdn/images/clients/erg-com-clientes.jpg){:class="img-responsive"}
 
+## Servicios SEO que ofrezco
+
+Aunque el mundo del posicionamiento web es muy amplio, necesitamos focalizarnos en lo que realmente se nos da bien y con lo que sabemos que podemos generar beneficios. No se trata de vender más, sino de vender bien y orientado a resultados.
+
+P
+
 ## Beneficios del SEO
 
 **Aumenta el tráfico**  
@@ -64,6 +70,6 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDMwNDEwNSwxNDk5NTExNTY5LC0xMD
+eyJoaXN0b3J5IjpbMTE5NTQ4MTg0NCwxNDk5NTExNTY5LC0xMD
 U4NTc5MDgzLC0xMjQ3ODQ5OTMwXX0=
 -->
