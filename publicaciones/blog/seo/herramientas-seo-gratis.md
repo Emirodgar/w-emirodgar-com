@@ -35,14 +35,14 @@ Herramientas clasificadas por categorías:
 
 Estas herramientas nos ayudarán a obtener una visión completa del estado SEO de una página. En algunos casos nos permitirán crear proyectos y dar seguimiento al posicionamiento e indexación de uno o varios dominios. Ideales para proyectos personales y análisis preliminares. 
 
-- [https://sitechecker.pro](https://sitechecker.pro/)  
-- [https://seositecheckup.com/](https://seositecheckup.com/)
-- [https://seolyzer.io](https://seolyzer.io)
-- [https://www.woorank.com](https://www.woorank.com)
-- [http://www.seopowersuite.es/website-auditor/](http://www.seopowersuite.es/website-auditor/)
-- [https://www.lipperhey.com](https://www.lipperhey.com)
-- [https://www.google.com/webmasters/tools/home?hl=es](https://www.google.com/webmasters/tools/home?hl=es)
-- [http://www.siteliner.com](http://www.siteliner.com)
+- [Sitechecker](https://sitechecker.pro/)  
+- [Seositecheckup/](https://seositecheckup.com/)
+- [Seolyzer](https://seolyzer.io)
+- [Woorank](https://www.woorank.com)
+- [Website Auditor](http://www.seopowersuite.es/website-auditor/)
+- [Lipperhey](https://www.lipperhey.com)
+- [Google Webmasters Tools](https://www.google.com/webmasters/tools/home?hl=es)
+- [iteliner.com](http://www.siteliner.com)
 - [https://serpstat.com](https://serpstat.com/)
 - [http://beamusup.com/](http://beamusup.com/)
 - [https://www.marketingminer.com](https://www.marketingminer.com/)
@@ -188,8 +188,8 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjM5MDEyNiwtMTI4NDY0NTI4MywxOT
-A4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOTg1MTI3
-MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5NDU0OSwzMD
-k4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX0=
+eyJoaXN0b3J5IjpbLTEyNDIyMDU5NjQsLTEyODQ2NDUyODMsMT
+kwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1OTA1MDEsMTk4NTEy
+NzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMz
+A5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2MV19
 -->
