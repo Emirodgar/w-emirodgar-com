@@ -42,12 +42,15 @@ En este punto, Google nos da una [serie de recomendaciones](https://developers.g
 
 ### ¿Podemos fiarnos del contenido? ¿tiene autoridad?
 
--   ¿Presenta el contenido la información de una forma fiable? Por ejemplo, ¿cita bibliografía de forma clara, parece que lo haya producido un experto o se proporciona información sobre el autor o el sitio que lo publica, puede que mediante enlaces a una página que trate sobre ellos?
+-  ¿Citamos referencias o bibliografía de forma clara?
+-  ¿Queda claro quién es el autor del contenido o hay forma fácil de acceder a ?
+-  ¿Se hace referencia a que el contenido ha sido creado por un experto en la materia?
 -   Si buscaras más información sobre el sitio que publica el contenido, ¿concluirías que es de confianza o una autoridad reconocida del tema que trata?
 -   ¿Está escrito el contenido por un experto o entusiasta del tema cuyos conocimientos están demostrados?
 -   ¿Se ha comprobado que no haya errores en el contenido que sean fáciles de verificar?
 -   ¿Te fiarías de este contenido para tratar temas relacionados con tu dinero o tu vida?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODU3NTY0Niw3NDQ4OTgzODFdfQ==
+eyJoaXN0b3J5IjpbLTc1NDQyNjkxNCwyMDc4NTc1NjQ2LDc0ND
+g5ODM4MV19
 -->
