@@ -22,9 +22,11 @@ Esto implica que una actualización del algoritmo Core nunca va a impactar a una
 
 ## ¿Qué hacer si mi página ha perdido posicionamiento tras una actualización Core? 
 
-Si tu página se ha visto afectada, implica que posiblemente Google ha detectado otras páginas del sector -competidores orgánicos- **cuyo contenido está más alineado con lo que los usuarios están buscando**. Esto no implica necesariamente que nosotros hayamos hecho algo mal o que nuestro contenido esté desactualizado, podría ser que nuestra competencia haya mejorado sus páginas y, ahora que Google puede rastrear e indexar mejor sus contenidos, éstos al ser más idóneos adquieran una mayor visibilidad.
+Si tu página se ha visto afectada, implica que posiblemente Google ha detectado otras páginas del sector (competidores orgánicos) **cuyo contenido está más alineado con lo que los usuarios están buscando**. Esto no implica necesariamente que nosotros hayamos hecho algo mal o que nuestro contenido esté desactualizado, podría ser que nuestra competencia haya mejorado sus páginas y, ahora que Google puede rastrear e indexar mejor sus contenidos, éstos al ser más idóneos adquieran una mayor visibilidad delegando a nuestra web a posiciones inferiores.
 
-No hay un cambio directo que podamos accionar  
+## ¿Cómo recuperar tráfico SEO tras una actualización Core?
+
+No hay un cambio directo que podamos accionar pero lo que sí podemos hacer es trabajar por mejorar nuestro contenido y alinearlo con lo que nuestros potenciales usuarios
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzIzNjI3Miw3NDQ4OTgzODFdfQ==
+eyJoaXN0b3J5IjpbLTE2MzE3NDMyNiw3NDQ4OTgzODFdfQ==
 -->
