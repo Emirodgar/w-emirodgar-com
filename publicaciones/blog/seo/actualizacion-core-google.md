@@ -43,14 +43,20 @@ En este punto, Google nos da una [serie de recomendaciones](https://developers.g
 ### ¿Podemos fiarnos del contenido? ¿tiene autoridad?
 
 -  ¿Citamos referencias o bibliografía de forma clara?
--  ¿Queda claro quién es el autor del contenido o hay forma fácil de acceder a ?
--  ¿Se hace referencia a que el contenido ha sido creado por un experto en la materia?
--   Si buscaras más información sobre el sitio que publica el contenido, ¿concluirías que es de confianza o una autoridad reconocida del tema que trata?
--   ¿Está escrito el contenido por un experto o entusiasta del tema cuyos conocimientos están demostrados?
+-  ¿Queda claro quién es el autor del contenido o hay forma fácil de acceder a la persona/empresa que lo ha realizado?
+-  ¿Se hace referencia a que el contenido ha sido creado por un experto o persona con grandes conocimientos de la materia?
 -   ¿Se ha comprobado que no haya errores en el contenido que sean fáciles de verificar?
 -   ¿Te fiarías de este contenido para tratar temas relacionados con tu dinero o tu vida?
 
+### ¿Está presentado de forma adecuada?
+
+-   ¿El contenido está escrito sin errores de ortografía y con un estilo adecuado?
+-   ¿Se nota que se ha dedicado tiempo y esfuerzo a crear el contenido o, por el contrario, parece descuidado o que se ha creado de forma apresurada?
+-   ¿Es el contenido obra de muchos autores distintos o está repartido en una gran cantidad de sitios, de modo que el de algunas páginas o sitios no está hecho con la misma atención al detalle ni el mismo cuidado?
+-   ¿Hay demasiados anuncios que distraen o interfieren con el contenido principal?
+-   ¿Se muestra correctamente el contenido en los dispositivos móviles?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDQyNjkxNCwyMDc4NTc1NjQ2LDc0ND
-g5ODM4MV19
+eyJoaXN0b3J5IjpbLTIwMjk0NDk4OTAsMjA3ODU3NTY0Niw3ND
+Q4OTgzODFdfQ==
 -->
