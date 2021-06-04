@@ -26,7 +26,20 @@ Si tu página se ha visto afectada, implica que posiblemente Google ha detectado
 
 ## ¿Cómo recuperar tráfico SEO tras una actualización Core?
 
-No hay un cambio directo que podamos accionar pero lo que sí podemos hacer es trabajar por mejorar nuestro contenido y alinearlo con lo que nuestros potenciales usuarios
+No hay un cambio directo que podamos accionar pero lo que sí podemos hacer es trabajar por mejorar nuestro contenido y alinearlo con lo que nuestros potenciales usuarios están buscando.
+
+En este punto, Google nos da una serie de recomendaciones para que podamos auditar nuestro contenido
+
+### ¿Nuestro contenido es de calidad?
+
+-   ¿Ofrece nuestro contenido información, datos de informes, investigaciones o análisis originales?
+-   ¿Proporciona el contenido una descripción sustancial, completa o exhaustiva del tema que trata?
+-   ¿Proporciona el contenido información interesante y no trivial, o se analiza un tema con una perspectiva útil?
+-   Si el contenido cita otras fuentes, ¿aporta suficiente valor y originalidad o, por el contrario, se limita a copiar o reescribir información que se incluye en esas fuentes?
+-   ¿El título del contenido o de la página es útil y descriptivo?
+-   ¿Se evitan en el título del contenido o de la página las exageraciones o las expresiones impactantes?
+-   ¿Es una página que añadirías a tus marcadores, compartirías con un amigo o recomendarías a alguien?
+-   ¿Esperarías ver este contenido en una revista, una enciclopedia o un libro, aunque sea simplemente como referencia?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE3NDMyNiw3NDQ4OTgzODFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTA0ODkwNTAsNzQ0ODk4MzgxXX0=
 -->
