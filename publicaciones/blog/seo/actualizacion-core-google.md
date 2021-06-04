@@ -74,9 +74,11 @@ En este punto, Google nos da una [serie de recomendaciones](https://developers.g
 -   ¿Da la sensación de que el contenido está creado para satisfacer los intereses de los visitantes del sitio o, por el contrario, parece que alguien lo ha creado con la única intención de conseguir un buen posicionamiento en buscadores?
 
 
-Todas las preguntas anteriores nos a
+Todas las preguntas anteriores nos ayudarán a discernir si nuestro contenido es único, original y aporta valor a nuestros visitantes o si por el contrario, a ojos de los buscadores, puede no tener la calidad suficiente para posicionar de forma efecitva.
+
+Si estuviéramos en este último caso, tendremos que trabajar una 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAyNDM5NDksLTE1MTIzODc3NDEsLT
+eyJoaXN0b3J5IjpbLTEwNjk5MDQ0OTUsLTE1MTIzODc3NDEsLT
 UwNjc5MDc5NSwzNjUxOTU5MDUsMjA3ODU3NTY0Niw3NDQ4OTgz
 ODFdfQ==
 -->
