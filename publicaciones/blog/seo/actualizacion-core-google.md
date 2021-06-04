@@ -36,10 +36,9 @@ En este punto, Google nos da una serie de recomendaciones para que podamos audit
 -   ¿Es nuestro contenido descriptivo y ofrece un buen contexto del tema que estamos tratando?
 -   ¿Ofrecemos una perspectiva útil y diferente del tema que estamos tratando?
 -   Si citamos otras fuentes, ¿aportamos un valor adicional al contenido que estas ofrecen o nos limitamos a copiarlo?
--   ¿El título del contenido o de la página es útil y descriptivo?. Recordemos que un [título optimizado](https://emirodgar.com/titulos-descripciones-seo) es importante.
--   ¿Se evitan en el título del contenido o de la página las exageraciones o las expresiones impactantes?
--   ¿Es una página que añadirías a tus marcadores, compartirías con un amigo o recomendarías a alguien?
--   ¿Esperarías ver este contenido en una revista, una enciclopedia o un libro, aunque sea simplemente como referencia?
+-   ¿El título del contenido o de la página es útil y descriptivo?. Aprende cómo [optimizar un título](https://emirodgar.com/titulos-descripciones-seo) para SEO.
+-   ¿Repetimos ciertos términos o expresiones de forma constante dificultando la lectura y compresión del contenido?
+-   ¿Consideras que es una página que aporta valor al usuario final que la que añadirías a tus marcadores, compartirías con un amigo o recomendarías a alguien?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1NDcyMzM0LDc0NDg5ODM4MV19
+eyJoaXN0b3J5IjpbMzkxOTQxNjk0LDc0NDg5ODM4MV19
 -->
