@@ -76,9 +76,9 @@ En este punto, Google nos da una [serie de recomendaciones](https://developers.g
 
 Todas las preguntas anteriores nos ayudarán a discernir si nuestro contenido es único, original y aporta valor a nuestros visitantes o si por el contrario, a ojos de los buscadores, puede no tener la calidad suficiente para posicionar de forma efecitva.
 
-Si estuviéramos en este último caso, tendremos que trabajar una 
+Si estuviéramos en este último caso, tendremos que trabajar una **estrategia de optimización de contenidos** que nos ayude a cualificar las páginas de nuestro sitio web.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk5MDQ0OTUsLTE1MTIzODc3NDEsLT
-UwNjc5MDc5NSwzNjUxOTU5MDUsMjA3ODU3NTY0Niw3NDQ4OTgz
-ODFdfQ==
+eyJoaXN0b3J5IjpbMTYwMDQ2ODc5MSwtMTUxMjM4Nzc0MSwtNT
+A2NzkwNzk1LDM2NTE5NTkwNSwyMDc4NTc1NjQ2LDc0NDg5ODM4
+MV19
 -->
