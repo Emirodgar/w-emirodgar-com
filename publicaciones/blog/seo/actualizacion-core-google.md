@@ -34,7 +34,7 @@ Esto lo podemos hacer con Google Search Console comparando periodos para conocer
 
 ### Asegurar que disponemos de una buena base SEO
 
-El siguiente paso será comprob
+El siguiente paso será comprobar que nuestra web dispone de una óptima base SEO y de que no hay problemas con los múltiples factores 
 
 ## ¿Cómo recuperar tráfico SEO tras una actualización Core?
 
@@ -73,6 +73,6 @@ En este punto, Google nos da una [serie de recomendaciones](https://developers.g
 -   ¿Proporciona el contenido información de interés si se compara con otras páginas que aparecen en los resultados de búsqueda?
 -   ¿Da la sensación de que el contenido está creado para satisfacer los intereses de los visitantes del sitio o, por el contrario, parece que alguien lo ha creado con la única intención de conseguir un buen posicionamiento en buscadores?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMzNzY0OTQsLTUwNjc5MDc5NSwzNj
+eyJoaXN0b3J5IjpbLTE1MTIzODc3NDEsLTUwNjc5MDc5NSwzNj
 UxOTU5MDUsMjA3ODU3NTY0Niw3NDQ4OTgzODFdfQ==
 -->
