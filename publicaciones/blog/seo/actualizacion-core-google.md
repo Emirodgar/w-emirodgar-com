@@ -28,7 +28,7 @@ Si tu página se ha visto afectada, implica que posiblemente Google ha detectado
 
 El primer paso tras una caída por algoritmo Core será identificar qué páginas y términos han perdido posicionamiento para que así podamos acotar la parte de nuestra web que debemos revisar.
 
-Esto lo podemos hacer con Google Search Console comparando periodos para conocer cómo ha impactado a la evolución el antes y después del cambio de algoritmo.  
+Esto lo podemos hacer con Google Search Console comparando periodos para conocer cómo ha impactado a la evolución el antes y después del cambio de algoritmo.  De esta forma sabremos dónde hemos perdido tráfico y cómo ha afectado a nuestro [CTR orgánico](https://emirodgar.com/ctr-resultados-google).  
 
 ## ¿Cómo recuperar tráfico SEO tras una actualización Core?
 
@@ -67,6 +67,6 @@ En este punto, Google nos da una [serie de recomendaciones](https://developers.g
 -   ¿Proporciona el contenido información de interés si se compara con otras páginas que aparecen en los resultados de búsqueda?
 -   ¿Da la sensación de que el contenido está creado para satisfacer los intereses de los visitantes del sitio o, por el contrario, parece que alguien lo ha creado con la única intención de conseguir un buen posicionamiento en buscadores?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzM2MDE0MiwzNjUxOTU5MDUsMjA3OD
+eyJoaXN0b3J5IjpbLTUwNjc5MDc5NSwzNjUxOTU5MDUsMjA3OD
 U3NTY0Niw3NDQ4OTgzODFdfQ==
 -->
