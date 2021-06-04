@@ -34,7 +34,7 @@ Esto lo podemos hacer con Google Search Console comparando periodos para conocer
 
 ### Validar que no hay problemas que afecten al rastreo e indexación
 
-El siguiente paso será comprobar que nuestra web no dispone de barreras que pudieran estar complicando el rastreo e indexación de páginas. Lo podemos hacer a través del informe de Cobertura de Search Console validando que no haya errores ni se estén excluyendo páginas con valor SEO. A mayores, también sería recomendable revisar que no existan problemas con los múltiples [factores SEO](https://emirodgar.com/factores-seo) que Google tiene en cuenta para posicionar una página.
+El siguiente paso será comprobar que nuestra web no dispone de barreras que pudieran estar complicando el rastreo e indexación de páginas. Lo podemos hacer a través del **informe de Cobertura de Search Console** validando que no haya errores ni se estén excluyendo páginas con valor SEO. A mayores, también sería recomendable revisar que no existan problemas con los múltiples [factores SEO](https://emirodgar.com/factores-seo) que Google tiene en cuenta para posicionar una página.
 
 ## ¿Cómo recuperar tráfico SEO tras una actualización Core?
 
@@ -72,8 +72,11 @@ En este punto, Google nos da una [serie de recomendaciones](https://developers.g
 
 -   ¿Proporciona el contenido información de interés si se compara con otras páginas que aparecen en los resultados de búsqueda?
 -   ¿Da la sensación de que el contenido está creado para satisfacer los intereses de los visitantes del sitio o, por el contrario, parece que alguien lo ha creado con la única intención de conseguir un buen posicionamiento en buscadores?
+
+
+Todas las preguntas anteriores nos a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzMwNTYzMiwtMTUxMjM4Nzc0MSwtNT
-A2NzkwNzk1LDM2NTE5NTkwNSwyMDc4NTc1NjQ2LDc0NDg5ODM4
-MV19
+eyJoaXN0b3J5IjpbLTIxMDAyNDM5NDksLTE1MTIzODc3NDEsLT
+UwNjc5MDc5NSwzNjUxOTU5MDUsMjA3ODU3NTY0Niw3NDQ4OTgz
+ODFdfQ==
 -->
