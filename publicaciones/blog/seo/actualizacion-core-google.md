@@ -28,7 +28,7 @@ Si tu página se ha visto afectada, implica que posiblemente Google ha detectado
 
 No hay un cambio directo que podamos accionar pero lo que sí podemos hacer es trabajar por mejorar nuestro contenido y alinearlo con lo que nuestros potenciales usuarios están buscando.
 
-En este punto, Google nos da una serie de recomendaciones para que podamos auditar nuestro contenido
+En este punto, Google nos da una [serie de recomendaciones](https://developers.google.com/search/blog/2019/08/core-updates) para que podamos auditar nuestro contenido
 
 ### ¿Nuestro contenido es de calidad?
 
@@ -38,7 +38,16 @@ En este punto, Google nos da una serie de recomendaciones para que podamos audit
 -   Si citamos otras fuentes, ¿aportamos un valor adicional al contenido que estas ofrecen o nos limitamos a copiarlo?
 -   ¿El título del contenido o de la página es útil y descriptivo?. Aprende cómo [optimizar un título](https://emirodgar.com/titulos-descripciones-seo) para SEO.
 -   ¿Repetimos ciertos términos o expresiones de forma constante dificultando la lectura y compresión del contenido?
--   ¿Consideras que es una página que aporta valor al usuario final que la que añadirías a tus marcadores, compartirías con un amigo o recomendarías a alguien?
+-   ¿Consideras que es una página que aporta valor al usuario final que la visite?
+
+### ¿Podemos fiarnos del contenido? ¿tiene autoridad?
+
+-   ¿Presenta el contenido la información de una forma fiable? Por ejemplo, ¿cita bibliografía de forma clara, parece que lo haya producido un experto o se proporciona información sobre el autor o el sitio que lo publica, puede que mediante enlaces a una página que trate sobre ellos?
+-   Si buscaras más información sobre el sitio que publica el contenido, ¿concluirías que es de confianza o una autoridad reconocida del tema que trata?
+-   ¿Está escrito el contenido por un experto o entusiasta del tema cuyos conocimientos están demostrados?
+-   ¿Se ha comprobado que no haya errores en el contenido que sean fáciles de verificar?
+-   ¿Te fiarías de este contenido para tratar temas relacionados con tu dinero o tu vida?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxOTQxNjk0LDc0NDg5ODM4MV19
+eyJoaXN0b3J5IjpbMjA3ODU3NTY0Niw3NDQ4OTgzODFdfQ==
 -->
