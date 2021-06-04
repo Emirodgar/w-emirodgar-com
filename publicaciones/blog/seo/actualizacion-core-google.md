@@ -20,7 +20,7 @@ Google hace múltiples cambios a lo largo del año, algunos los anuncia y otros 
 
 Esto implica que una actualización del algoritmo Core nunca va a impactar a una página en concreto sino que se trata de un cambio o ajuste sobre cómo Google está interpretando y valorando los contenidos a mostrar dentro de sus resultados. Esto es muy importante ya que no hay que hacer ningún cambio sobre nuestras páginas, ni antes ni después del cambio del algoritmo.
 
-> Es importante estar al día en SEO para poder conocer cuándo ocurren estos cambios y analizar el posible impacto sobre n
+> Es importante [estar al día en SEO](https://emirodgar.com/como-estar-al-dia-en-seo) para poder conocer cuándo ocurren estos cambios y analizar el posible impacto sobre nuestra [estrategia SEO](https://emirodgar.com/estrategia-seo).
 
 ## ¿Qué hacer si mi página ha perdido posicionamiento tras una actualización Core? 
 
@@ -31,6 +31,10 @@ Si tu página se ha visto afectada, implica que posiblemente Google ha detectado
 El primer paso tras una caída por algoritmo Core será identificar qué páginas y términos han perdido posicionamiento para que así podamos acotar la parte de nuestra web que debemos revisar.
 
 Esto lo podemos hacer con Google Search Console comparando periodos para conocer cómo ha impactado a la evolución el antes y después del cambio de algoritmo.  De esta forma sabremos dónde hemos perdido tráfico y cómo ha afectado a nuestro [CTR orgánico](https://emirodgar.com/ctr-resultados-google).  
+
+### Asegurar que disponemos de una buena base SEO
+
+El siguiente paso será comprob
 
 ## ¿Cómo recuperar tráfico SEO tras una actualización Core?
 
@@ -69,6 +73,6 @@ En este punto, Google nos da una [serie de recomendaciones](https://developers.g
 -   ¿Proporciona el contenido información de interés si se compara con otras páginas que aparecen en los resultados de búsqueda?
 -   ¿Da la sensación de que el contenido está creado para satisfacer los intereses de los visitantes del sitio o, por el contrario, parece que alguien lo ha creado con la única intención de conseguir un buen posicionamiento en buscadores?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY1ODI4MTMsLTUwNjc5MDc5NSwzNj
+eyJoaXN0b3J5IjpbLTExNDMzNzY0OTQsLTUwNjc5MDc5NSwzNj
 UxOTU5MDUsMjA3ODU3NTY0Niw3NDQ4OTgzODFdfQ==
 -->
