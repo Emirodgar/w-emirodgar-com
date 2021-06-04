@@ -18,9 +18,11 @@ Por norma general todos los buscadores aplican [cambios sobre sus algoritmos](ht
 
 Google hace múltiples cambios a lo largo del año, algunos los anuncia y otros no. Dentro de estos cambios de algoritmo existe una variante denominada **Core** o **Principal** cuyo objetivo final es seguir mostrando a los usuarios contenido de calidad y fiable en los resultados de búsqueda.
 
-Esto implica que una actualización Core nunca va a impactar a una página en concreto sino que se trata de un cambio o ajuste sobre 
+Esto implica que una actualización del algoritmo Core nunca va a impactar a una página en concreto sino que se trata de un cambio o ajuste sobre cómo Google está interpretando y valorando los contenidos a mostrar dentro de sus resultados. Esto es muy importante ya que no hay que hacer ningún cambio sobre nuestras páginas, ni antes ni después del cambio del algoritmo.
+
+¿Qué hacer si mi págin? 
 
 Tras una actualización Core es 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg5ODk1NDMsNzQ0ODk4MzgxXX0=
+eyJoaXN0b3J5IjpbOTgzMTAwNTQsNzQ0ODk4MzgxXX0=
 -->
