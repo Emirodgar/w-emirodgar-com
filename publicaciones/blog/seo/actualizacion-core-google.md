@@ -20,9 +20,9 @@ Google hace múltiples cambios a lo largo del año, algunos los anuncia y otros 
 
 Esto implica que una actualización del algoritmo Core nunca va a impactar a una página en concreto sino que se trata de un cambio o ajuste sobre cómo Google está interpretando y valorando los contenidos a mostrar dentro de sus resultados. Esto es muy importante ya que no hay que hacer ningún cambio sobre nuestras páginas, ni antes ni después del cambio del algoritmo.
 
-¿Qué hacer si mi págin? 
+## ¿Qué hacer si mi página ha perdido posicionamiento tras una actualización Core? 
 
-Tras una actualización Core es 
+Si tu página se ha visto afectada, implica que posiblemente Google ha detectado otras páginas del sector -competidores orgánicos- cuyo contenido está más alineado con lo que los usuarios están buscando. Esto no implica necesariamente que nosotros hayamos hecho algo mal o que nuestro contenido esté desactualizado, podría ser que nuestra competencia  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMTAwNTQsNzQ0ODk4MzgxXX0=
+eyJoaXN0b3J5IjpbODYyNzAzOTAxLDc0NDg5ODM4MV19
 -->
