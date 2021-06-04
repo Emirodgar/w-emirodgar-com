@@ -32,14 +32,14 @@ En este punto, Google nos da una serie de recomendaciones para que podamos audit
 
 ### ¿Nuestro contenido es de calidad?
 
--   ¿Ofrece nuestro contenido información, datos de informes, investigaciones o análisis originales?
--   ¿Proporciona el contenido una descripción sustancial, completa o exhaustiva del tema que trata?
--   ¿Proporciona el contenido información interesante y no trivial, o se analiza un tema con una perspectiva útil?
--   Si el contenido cita otras fuentes, ¿aporta suficiente valor y originalidad o, por el contrario, se limita a copiar o reescribir información que se incluye en esas fuentes?
+-   ¿Compartimos en nuestro contenido información, datos de informes, investigaciones o análisis originales?
+-   ¿Es nuestro contenido descriptivo y ofrece un buen contexto del tema que estamos tratando?
+-   ¿Ofrecemos una perspectiva útil y diferente del tema que estamos tratando?
+-   Si citamos otras fuentes, ¿aportamos un valor adicional al contenido que estas?
 -   ¿El título del contenido o de la página es útil y descriptivo?
 -   ¿Se evitan en el título del contenido o de la página las exageraciones o las expresiones impactantes?
 -   ¿Es una página que añadirías a tus marcadores, compartirías con un amigo o recomendarías a alguien?
 -   ¿Esperarías ver este contenido en una revista, una enciclopedia o un libro, aunque sea simplemente como referencia?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTA0ODkwNTAsNzQ0ODk4MzgxXX0=
+eyJoaXN0b3J5IjpbLTU3NzI1Njg2Nyw3NDQ4OTgzODFdfQ==
 -->
