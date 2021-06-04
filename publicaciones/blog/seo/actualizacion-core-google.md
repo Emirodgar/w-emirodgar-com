@@ -52,11 +52,15 @@ En este punto, Google nos da una [serie de recomendaciones](https://developers.g
 
 -   ¿El contenido está escrito sin errores de ortografía y con un estilo adecuado?
 -   ¿Se nota que se ha dedicado tiempo y esfuerzo a crear el contenido o, por el contrario, parece descuidado o que se ha creado de forma apresurada?
--   ¿Es el contenido obra de muchos autores distintos o está repartido en una gran cantidad de sitios, de modo que el de algunas páginas o sitios no está hecho con la misma atención al detalle ni el mismo cuidado?
+-  ¿Se puede encontrar el mismo contenido ubicado en otras páginas?
 -   ¿Hay demasiados anuncios que distraen o interfieren con el contenido principal?
 -   ¿Se muestra correctamente el contenido en los dispositivos móviles?
 
+### ¿Ofrecemos un valor diferencial?
+
+-   ¿Proporciona el contenido información de interés si se compara con otras páginas que aparecen en los resultados de búsqueda?
+-   ¿Da la sensación de que el contenido está creado para satisfacer los intereses de los visitantes del sitio o, por el contrario, parece que alguien lo ha creado con la única intención de conseguir un buen posicionamiento en buscadores?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk0NDk4OTAsMjA3ODU3NTY0Niw3ND
+eyJoaXN0b3J5IjpbLTIxMzE4MTExNjksMjA3ODU3NTY0Niw3ND
 Q4OTgzODFdfQ==
 -->
