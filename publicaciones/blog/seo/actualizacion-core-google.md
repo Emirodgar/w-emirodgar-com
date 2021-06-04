@@ -1,5 +1,5 @@
 ---
-title: Cambio de algoritmo Core de Google (Goole Core Update)
+title: Goole Core Update - ¿Qué implica este cambio de algoritmo?
 description: ¿Qué es una actualización core del algoritmo de Google y qué implicaciones tiene?
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
-permalink: actualizacion-core-google
+permalink: google-core-update
 
 --- 
 
@@ -78,7 +78,7 @@ Todas las preguntas anteriores nos ayudarán a discernir si nuestro contenido es
 
 Si estuviéramos en este último caso, tendremos que trabajar una **estrategia de optimización de contenidos** que nos ayude a cualificar las páginas de nuestro sitio web.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ0NDI1ODcsMTYwMDQ2ODc5MSwtMT
-UxMjM4Nzc0MSwtNTA2NzkwNzk1LDM2NTE5NTkwNSwyMDc4NTc1
-NjQ2LDc0NDg5ODM4MV19
+eyJoaXN0b3J5IjpbLTEyOTY0NzYwNjUsLTE1OTQ0NDI1ODcsMT
+YwMDQ2ODc5MSwtMTUxMjM4Nzc0MSwtNTA2NzkwNzk1LDM2NTE5
+NTkwNSwyMDc4NTc1NjQ2LDc0NDg5ODM4MV19
 -->
