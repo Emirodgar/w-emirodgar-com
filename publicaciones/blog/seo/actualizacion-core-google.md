@@ -18,7 +18,7 @@ Por norma general todos los buscadores aplican [cambios sobre sus algoritmos](ht
 
 Google hace múltiples cambios a lo largo del año, algunos los anuncia y otros no. Dentro de estos cambios de algoritmo existe una variante denominada **Core** o **Principal** cuyo objetivo final es seguir mostrando a los usuarios contenido de calidad y fiable en los resultados de búsqueda.
 
-Esto implica que una actualización del algoritmo Core nunca va a impactar a una página en concreto sino que se trata de un cambio o ajuste sobre cómo Google está interpretando y valorando los contenidos a mostrar dentro de sus resultados. Esto es muy importante ya que no hay que hacer ningún cambio sobre nuestras páginas, ni antes ni después del cambio del algoritmo.
+Esto implica que una actualización del algoritmo Core nunca va a impactar a una página en concreto sino que se trata de un cambio o ajuste sobre cómo Google está interpretando y valorando los contenidos a mostrar dentro de sus resultados. Es decir, las Actualizaciones Principales o Core Update responden a cambios en los criterios de evaluación y clasificación de contenido por parte de Google y únicamente afectan a los resultados de búsqueda (SERPs). En el caso de que perdamos visibilidad y/o captación orgánica será necesario revisar la calidad de los contenidos afectados y asegurarnos de que están alineados con lo que los potenciales usuarios están buscando.
 
 > Es importante [estar al día en SEO](https://emirodgar.com/como-estar-al-dia-en-seo) para poder conocer cuándo ocurren estos cambios y analizar el posible impacto sobre nuestra [estrategia SEO](https://emirodgar.com/estrategia-seo).
 
@@ -78,7 +78,8 @@ Todas las preguntas anteriores nos ayudarán a discernir si nuestro contenido es
 
 Si estuviéramos en este último caso, tendremos que trabajar una **estrategia de optimización de contenidos** que nos ayude a cualificar las páginas de nuestro sitio web.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY0NzYwNjUsLTE1OTQ0NDI1ODcsMT
-YwMDQ2ODc5MSwtMTUxMjM4Nzc0MSwtNTA2NzkwNzk1LDM2NTE5
-NTkwNSwyMDc4NTc1NjQ2LDc0NDg5ODM4MV19
+eyJoaXN0b3J5IjpbLTEzNzM0NjQ4NDgsLTEyOTY0NzYwNjUsLT
+E1OTQ0NDI1ODcsMTYwMDQ2ODc5MSwtMTUxMjM4Nzc0MSwtNTA2
+NzkwNzk1LDM2NTE5NTkwNSwyMDc4NTc1NjQ2LDc0NDg5ODM4MV
+19
 -->
