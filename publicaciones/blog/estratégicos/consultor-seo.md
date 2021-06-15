@@ -9,6 +9,8 @@ folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: consultor-seo
+redirect_from: 
+  - consultor-seo/
 
 
 ---
@@ -90,7 +92,7 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTM1NjM2Nyw3ODE5NDY2MjIsMjAxOD
-U5NzIxLDMwODQ0MDY4OCw0NzkxNTU3MTgsMTQ5OTUxMTU2OSwt
-MTA1ODU3OTA4MywtMTI0Nzg0OTkzMF19
+eyJoaXN0b3J5IjpbLTkzNjgzNjk2NywxOTM1MzU2MzY3LDc4MT
+k0NjYyMiwyMDE4NTk3MjEsMzA4NDQwNjg4LDQ3OTE1NTcxOCwx
+NDk5NTExNTY5LC0xMDU4NTc5MDgzLC0xMjQ3ODQ5OTMwXX0=
 -->
