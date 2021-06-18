@@ -3,7 +3,6 @@ title: Herramientas SEO gratuitas
 description: Conseguir buenos resultados en una estrategia SEO no depende únicamente de tener herramientas de pago. Utilizar estos recursos totalmente gratuitos para marcar la diferencia.
 image: https://emirodgar.com/cdn/images/og/herramientas.png
 layout: emirodgar_post
-date: 19/05/2021
 author: Emirodgar
 sitemap: 1
 feed: 1
@@ -199,9 +198,9 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Orange Data Mining](https://orangedatamining.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ4NjI4MzQsLTIwOTM2MzQ3NDgsLT
-EyODQ2NDUyODMsMTkwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1
-OTA1MDEsMTk4NTEyNzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0My
-wtNDE2OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4
-NzE2MV19
+eyJoaXN0b3J5IjpbMTcwMTA5MDk2NCwtMjA5MzYzNDc0OCwtMT
+I4NDY0NTI4MywxOTA4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5
+MDUwMSwxOTg1MTI3MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC
+00MTY5NDU0OSwzMDk4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3
+MTYxXX0=
 -->
