@@ -30,6 +30,8 @@ Herramientas clasificadas por categorías:
  - [Optimizar la conversión](#conversion)
  - [Cambios de algoritmo](#cambios-algoritmo)
  - [Extensiones de navegador](#extensiones-navegador)
+ - [Scripts para Google Sheets](#scripts-gsheets)
+ - [Explotación de datos y análisis](#analisis-datos)
 
 ## <a name="auditoria-seo"></a>Auditoría SEO 
 
@@ -187,9 +189,19 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Panguin (penalizaciones Google)](https://barracuda.digital/panguin-seo-tool/)
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
 
+
+## <a name="scripts-gsheets"></a>Scripts para Google Sheets
+
+- [Importar URLs de un Sitemap XML](https://docs.google.com/spreadsheets/d/1U549m-mcSHIwebpMzjDr3s5ggO95LAnf7YbccrwUkoE/copy)
+
+## <a name="analisis-datos"></a>Explotación de datos y análisis
+
+- [Orange Data Mining](https://orangedatamining.com/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM2MzQ3NDgsLTEyODQ2NDUyODMsMT
-kwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1OTA1MDEsMTk4NTEy
-NzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMz
-A5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2MV19
+eyJoaXN0b3J5IjpbLTE3MTQ4NjI4MzQsLTIwOTM2MzQ3NDgsLT
+EyODQ2NDUyODMsMTkwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1
+OTA1MDEsMTk4NTEyNzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0My
+wtNDE2OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4
+NzE2MV19
 -->
