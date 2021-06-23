@@ -20,8 +20,10 @@ Por todo ello, en ciertas ocasiones necesitaremos navegar como si fuéramos un r
 ## Cómo cambiar el User-Agent desde Chrome
 
 Si navegamos con Google Chrome bastará con seguir los siguientes pasos:
-1. 
+1. Pulsar "F12" para abrir la consola de DevTools.
+2. A la derecha del todo aparecerán tres iconos: rueda dentada, tres puntos y un aspa. Hacemos clic sobre los tres puntos.
+3. Seleccionamos "More Tools".
+4. Seleccionamos "Network Conditions".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMyMjAxNDgsLTE0NjU3MzE5MDFdfQ
-==
+eyJoaXN0b3J5IjpbMTQ0MDM1OTE4MywtMTQ2NTczMTkwMV19
 -->
