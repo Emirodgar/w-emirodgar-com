@@ -1,5 +1,5 @@
 ---
-title: Cambiar el User Agent en Google Chrome
+title: Cómo cambiar el User Agent en Google Chrome
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -30,6 +30,6 @@ En este punto se nos abrirá un panel con varias opciones. Tendremos que ir al b
 Ahora podremos optar por seleccionar un user agent de los que ya vienen predefinidos en el combo o introducir uno específico nuestro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMzQzOTg5LC0xMTQyNTAwOTU4LC0xMD
-gwOTU4NTQxLC0xNDY1NzMxOTAxXX0=
+eyJoaXN0b3J5IjpbMjAxMDE1NjgxLDc1MDM0Mzk4OSwtMTE0Mj
+UwMDk1OCwtMTA4MDk1ODU0MSwtMTQ2NTczMTkwMV19
 -->
