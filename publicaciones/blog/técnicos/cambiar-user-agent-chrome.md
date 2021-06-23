@@ -1,16 +1,17 @@
 ---
-title: Cookies SameSite, guía para entender cómo funcionan
+title: Cambiar el User-Agent en Google Chrome
 lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
 layout: emirodgar_post
-date: 15/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: cookies-samesite
+permalink: cambiar-user-agent-chrome
 
 ---
+
+En ciertas ocasiones necesitaremos navegar como si fuéramos un robot de búsqueda 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE4NTA4ODJdfQ==
+eyJoaXN0b3J5IjpbLTE0NjU3MzE5MDFdfQ==
 -->
