@@ -25,10 +25,11 @@ Si navegamos con Google Chrome bastará con seguir los siguientes pasos:
 3. Seleccionamos "More Tools".
 4. Seleccionamos "Network Conditions".
 
-En este punto se nos abrirá un panel con varias opciones. Tendremos que ir al bloque de "User agent" desmarcar la opción de "Use browser default". 
+En este punto se nos abrirá un panel con varias opciones. Tendremos que ir al bloque de "user agent" desmarcar la opción de "Use browser default". 
 
 Ahora podremos optar por seleccionar un user agent de los que ya vienen predefinidos en el combo o introducir uno específico nuestro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjAxNzUxNywtMTQ2NTczMTkwMV19
+eyJoaXN0b3J5IjpbLTEwODA5NTg1NDEsLTE0NjU3MzE5MDFdfQ
+==
 -->
