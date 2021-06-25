@@ -25,16 +25,16 @@ Si navegamos con Google Chrome bastará con seguir los siguientes pasos:
 3. Seleccionamos "More Tools".
 4. Seleccionamos "Network Conditions".
 
-![Herramientas google chrome devtolls](https://emirodgar.com/cdn/images/posts/devtools-network.png)
+![Herramientas google chrome devtolls](https://emirodgar.com/cdn/images/posts/devtools-network.png){:class="img-responsive"}
 
 En este punto se nos abrirá un panel con varias opciones. Tendremos que ir al bloque de "user agent" desmarcar la opción de "Use browser default". 
 
-![Cambiar user agent google chrome devtools](https://emirodgar.com/cdn/images/posts/user-agent chrome.png)
+![Cambiar user agent google chrome devtools](https://emirodgar.com/cdn/images/posts/user-agent chrome.png){:class="img-responsive"}
 
 Ahora podremos optar por seleccionar un user agent de los que ya vienen predefinidos en el combo o introducir uno específico nuestro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTE1Njk4MDAsMjAxMDE1NjgxLDc1MD
-M0Mzk4OSwtMTE0MjUwMDk1OCwtMTA4MDk1ODU0MSwtMTQ2NTcz
-MTkwMV19
+eyJoaXN0b3J5IjpbLTMxODA0NjgwLDIwMTAxNTY4MSw3NTAzND
+M5ODksLTExNDI1MDA5NTgsLTEwODA5NTg1NDEsLTE0NjU3MzE5
+MDFdfQ==
 -->
