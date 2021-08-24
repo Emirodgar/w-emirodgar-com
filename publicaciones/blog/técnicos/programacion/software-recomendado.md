@@ -14,7 +14,8 @@ En mi día a día utilizo multitud de programas, por ello, poder tener todo actu
 
 
 
- - **Suite ofimática de Google**: aquí centralizo todos mis documentos, presentaciones, templates e informes. Principalmente utilizo Google Docs y Google Spreadsheets. 
+ - **Suite ofimática de Google**: aquí centralizo todos mis documentos, presentaciones, templates e informes. Principalmente utilizo Google Docs, Google Spreadsheets.
+ - **Suite de marketing de Google**: Tres aplicaciones imprescindibles son Tag Manager, Analytics y Data Studio. 
  - **Google Search Console**: No hay mejor aplicación para poder conocer el estado de una estrategia SEO aplicada sobre Google.
  - **Ahrefs**: Aunque existen cientos de [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis), una de mis preferidas para hacer análisis de keywords es Ahrefs y analizar *gaps* frente a competidores.
  - **Semrush**: Aunque su interfaz me gusta menos que la de Ahrefs, los datos me resultan más precisos y el seguimiento de proyectos más completo.
@@ -22,9 +23,10 @@ En mi día a día utilizo multitud de programas, por ello, poder tener todo actu
  - **Skype**: Para comunicarme con compañeros y clientes.
  - **Telegram**: Para comunicarme con compañeros y clientes.
  - **Slack**: Maravilloso para gestionar equipos de trabajo y proyectos.
+ - **Trello**: Lo utilizo para gestionar proyectos mediante metodología Kanban cuando hay que com
  - **WhatsAPP desktop**
  - **Patch My PC Updater**: Ideal para poder mantener mi ordenador actualizado y evitar fallos de seguridad. Analiza nuestras aplicaciones instaladas y nos informa/ayuda a descargar actualizaciones.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTY5MDYxN119
+eyJoaXN0b3J5IjpbMTAzNjE4Mzc0OF19
 -->
