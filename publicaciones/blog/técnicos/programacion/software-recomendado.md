@@ -15,12 +15,14 @@ En mi día a día utilizo multitud de programas, por ello, poder tener todo actu
 
 
  - **Suite ofimática de Google**: aquí centralizo todos mis documentos, presentaciones, templates e informes. Principalmente utilizo Google Docs y Google Spreadsheets. 
- - **Google Search Console**: No hay aplicación mejor para poder conocer el estado de una estrategia SEO
- - **Ahrefs**: 
+ - **Google Search Console**: No hay mejor aplicación para poder conocer el estado de una estrategia SEO aplicada sobre Google.
+ - **Ahrefs**: Aunque existen cientos de [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis), una de mis preferidas para hen Ahrefs.
+ - **ScreamingFrog**
  - **Skype**
  - **Telegram**
- - 
+ - **Slack**
+ - **WhatsAPP desktop**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMjQ0NzQyXX0=
+eyJoaXN0b3J5IjpbMzg3MDc1MDMyXX0=
 -->
