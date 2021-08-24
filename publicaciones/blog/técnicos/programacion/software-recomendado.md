@@ -15,7 +15,12 @@ En mi día a día utilizo multitud de programas, por ello, poder tener todo actu
 
 
  - **Suite ofimática de Google**: aquí centralizo todos mis documentos, presentaciones, templates e informes. Principalmente utilizo Google Docs y Google Spreadsheets. 
+ - **Google Search Console**: No hay aplicación mejor para poder conocer el estado de una estrategia SEO
+ - **Ahrefs**: 
+ - **Skype**
+ - **Telegram**
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjA5NzI1OV19
+eyJoaXN0b3J5IjpbNzcyMjQ0NzQyXX0=
 -->
