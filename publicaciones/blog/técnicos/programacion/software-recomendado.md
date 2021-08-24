@@ -24,8 +24,8 @@ En mi día a día utilizo multitud de programas, por ello, poder tener todo actu
  - **Slack**: Maravilloso para gestionar equipos de trabajo y proyectos.
  - **Trello**: Lo utilizo para gestionar proyectos mediante metodología Kanban cuando hay que alinearse con equipos externos u otros departamentos.
  - **Patch My PC Updater**: Ideal para poder mantener mi ordenador actualizado y evitar fallos de seguridad. Analiza nuestras aplicaciones instaladas y nos informa/ayuda a descargar actualizaciones.
- - **Wifi Analyzer**: para saber si hay problemas con la red WiFi y si las redes de nuestros vecinos están
+ - **Wifi Analyzer**: para saber si hay problemas con la red WiFi y si las redes de nuestros vecinos están interfiriendo con las nuestras.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc2ODgyOSwtMTI0MjM2NjAxNF19
+eyJoaXN0b3J5IjpbMTUyNzM5Mjc4NCwtMTI0MjM2NjAxNF19
 -->
