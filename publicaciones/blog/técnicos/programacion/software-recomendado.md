@@ -1,16 +1,16 @@
 ---
-title: Software recomendado para Windows
+title: Software recomendado para un consultor SEO
 description: 
 lang: es_ES
 sitemap: 1
 feed: 1
 folder: programacion
 layout: emirodgar_post
-date: 15/05/2021
 permalink: software-recomendado
   
 ---
 
+En mi día a día utilizo multitud de programas, por ello, poder tener todo actualizado y organizar es vital para el correcto desempeño de mi trabajo como consultor SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5ODQ4MTAwXX0=
+eyJoaXN0b3J5IjpbLTk5MTc0Nzk5OF19
 -->
