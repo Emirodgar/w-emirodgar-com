@@ -1,5 +1,5 @@
 ---
-title: Usar regex en fichero robots.txt
+title: Usar expresiones regulares en fichero robots.txt
 description: Aprende a utilizar expresiones más usables en el fichero robots.txt
 image: https://emirodgar.com/cdn/images/og/auditoria.png
 layout: emirodgar_post
@@ -22,6 +22,13 @@ Por ejemplo, si queremos evitar el rastreo de todas las URLs que contentan el t�
 User-agent: *
 Disallow: /*perros
 ```
+
+Si únicamente quisiéramos bloquear el rastreo
+
+```
+User-agent: *
+Disallow: /*perros$
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODY1NjMyMiwxNjgwODk2Mzc3XX0=
+eyJoaXN0b3J5IjpbLTI5MzA1MzEzNiwxNjgwODk2Mzc3XX0=
 -->
