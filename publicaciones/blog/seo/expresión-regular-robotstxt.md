@@ -31,6 +31,8 @@ Disallow: /*perros$
 ```
 
 Es importante recordar que las reglas que transmitimos a través del robots.txt son directivas que pueden ser ignoradas por los buscadores y que sólo sirven para ajustar el **rastreo de una página**, pero **no su indexación**. 
+
+Si [bloqueamos el rastreo de ficheros clave](https://emirodgar.com/bloquear-indexacion-js-css) para nuestra visualización mobile, podría afectar a nuestro posicionamiento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDE0ODUyMiwxNjgwODk2Mzc3XX0=
+eyJoaXN0b3J5IjpbLTEzNDk4ODkzMzQsMTY4MDg5NjM3N119
 -->
