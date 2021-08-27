@@ -29,6 +29,8 @@ Si únicamente quisiéramos bloquear el rastreo de las páginas que terminan en 
 User-agent: *
 Disallow: /*perros$
 ```
+
+Es importante recordar que las reglas que transmitimos a través del robots.txt son directivas que pueden ser ignoradas por los buscadores y que sólo sirven para ajustar el **rastreo de una página**, pero **no su indexación**. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzM3NjY4OCwxNjgwODk2Mzc3XX0=
+eyJoaXN0b3J5IjpbLTYxNDE0ODUyMiwxNjgwODk2Mzc3XX0=
 -->
