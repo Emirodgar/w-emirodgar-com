@@ -7,7 +7,7 @@ sitemap: 1
 feed: 1
 folder: seo
 author: Emirodgar
-permalink: regex-robotstxt
+permalink: regex-robots-txt
 
 ---
 
@@ -16,19 +16,19 @@ Ni Google ni Bing aceptan usar expresiones regulares en los ficheros robots.txt 
 - El asteristo  `*`  nos permitirá identificar 0 o más apariciones de cualquier caracter o términos válido.
 - El dólar `$` nos permitirá identificar el final de una cadena.
 
-Por ejemplo, si queremos evitar el rastreo de todas las URLs que contentan el término `perro` lo podemos hacer de la siguiente manera:
+Por ejemplo, si queremos evitar el rastreo de todas las URLs que contentan el término `perro` lo podemos hacer de la siguiente manera.
 
 ```
 User-agent: *
 Disallow: /*perros
 ```
 
-Si únicamente quisiéramos bloquear el rastreo
+Si únicamente quisiéramos bloquear el rastreo de las páginas que terminan en `perros` lo haríamos de la siguiente manera. Esto no afectaría a otras páginas que incluyeran dicho térinos 
 
 ```
 User-agent: *
 Disallow: /*perros$
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzA1MzEzNiwxNjgwODk2Mzc3XX0=
+eyJoaXN0b3J5IjpbMjMyNDgzNjA5LDE2ODA4OTYzNzddfQ==
 -->
