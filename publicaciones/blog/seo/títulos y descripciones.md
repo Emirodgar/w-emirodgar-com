@@ -38,6 +38,9 @@ Estos son algunas de las recomendaciones que debemos tener en cuenta a la hora d
 - **Los títulos deben ir siempre en minúsculas** salvo el comienzo del mismo o alguna palabra que así lo requiera.
 - **El nombre de marca debe ir siempre al final** de esa forma nos aseguramos que lo realmente importante y descriptivo se encuentra al principio del mismo.
 
+### Actualización Agosto 2021
+
+Google [ha anunciado](https://developers.google.com/search/blog/2021/08/update-to-generating-page-titles) un cambio en el proceso de identificar y mostrar el título de una página en sus resultados. Ya no sólo 
 
 
 ## <a name="meta-description"></a> Descripción (meta description)
@@ -58,5 +61,6 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTM5ODM5NCw0ODE3MjI1NDddfQ==
+eyJoaXN0b3J5IjpbLTQ4MTAyOTcxLDE4NzEzOTgzOTQsNDgxNz
+IyNTQ3XX0=
 -->
