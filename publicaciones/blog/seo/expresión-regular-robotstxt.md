@@ -16,7 +16,7 @@ Ni Google ni Bing aceptan usar expresiones regulares en los ficheros robots.txt 
 - El asteristo  `*`  nos permitirá identificar 0 o más apariciones de cualquier término.
 - El dólar `$` nos permitirá identificar el final de una cadena.
 
-Por ejemplo, si queremos evitar el rastreo de todas las URLs que contengan el término `perro` lo podemos hacer de la siguiente manera.
+Por ejemplo, si queremos evitar el rastreo de todas las URLs que contengan el término `perros` lo podemos hacer de la siguiente manera.
 
 ```
 User-agent: *
@@ -34,5 +34,5 @@ Es importante recordar que las reglas que transmitimos a través del robots.txt 
 
 Por último, si [bloqueamos el rastreo de ficheros clave](https://emirodgar.com/bloquear-indexacion-js-css) para nuestra visualización mobile, podría afectar a nuestro posicionamiento, por lo que hay que ser muy cautos con los ficheros y páginas que queremos evitar que sean rastreados por los robots de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk5NjI3MzcsMTY4MDg5NjM3N119
+eyJoaXN0b3J5IjpbNzQyMTk0NjgsMTY4MDg5NjM3N119
 -->
