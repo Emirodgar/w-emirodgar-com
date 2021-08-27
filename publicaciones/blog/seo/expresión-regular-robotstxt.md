@@ -13,7 +13,7 @@ permalink: regex-robots-txt
 
 Ni Google ni Bing aceptan usar expresiones regulares en los ficheros robots.txt no obstante, sí permiten hacer uso de dos caracteres a [modo de comodines](https://developers.google.com/search/docs/advanced/robots/robots_txt#url-matching-based-on-path-values): son el `*` y el `$`.
 
-- El asteristo  `*`  nos permitirá identificar 0 o más apariciones de cualquier caracter o términos válido.
+- El asteristo  `*`  nos permitirá identificar 0 o más apariciones de cualquier término.
 - El dólar `$` nos permitirá identificar el final de una cadena.
 
 Por ejemplo, si queremos evitar el rastreo de todas las URLs que contentan el término `perro` lo podemos hacer de la siguiente manera.
@@ -34,5 +34,5 @@ Es importante recordar que las reglas que transmitimos a través del robots.txt 
 
 Por último, si [bloqueamos el rastreo de ficheros clave](https://emirodgar.com/bloquear-indexacion-js-css) para nuestra visualización mobile, podría afectar a nuestro posicionamiento, por lo que hay que ser muy cautos con los ficheros y páginas que queremos evitar que sean rastreados por los robots de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTM5Mzk0NCwxNjgwODk2Mzc3XX0=
+eyJoaXN0b3J5IjpbLTI5OTQyMjYyMiwxNjgwODk2Mzc3XX0=
 -->
