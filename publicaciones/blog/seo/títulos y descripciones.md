@@ -40,7 +40,7 @@ Estos son algunas de las recomendaciones que debemos tener en cuenta a la hora d
 
 ### Actualización Agosto 2021
 
-Google [ha anunciado](https://developers.google.com/search/blog/2021/08/update-to-generating-page-titles) un cambio en el proceso de identificar y mostrar el título de una página en sus resultados. Ya no sólo tendrá en cuenta el `meta title` utilizado sino que podrá modificarlo por otras etiquetas como encabezados (Hs), Alt de imágenes o partes destacadas en negrita del contenido siempre cuando estime que tendrá una mayor relevancia para el usuario que ha realizado la búsqueda.
+Google ha anunciado un [cambio en el proceso de identificar y mostrar el título](https://developers.google.com/search/blog/2021/08/update-to-generating-page-titles) de una página en sus resultados. Ya no sólo tendrá en cuenta el `meta title` utilizado sino que podrá sustituirlo por otras etiquetas como encabezados (Hs), Alt de imágenes o partes destacadas del contenido siempre cuando estime que tendrá una mayor relevancia para el usuario que ha realizado la búsqueda.
 
 El objetivo que persiguen con este cambio es evitar títulos:
 - Demasiado largos.
@@ -66,6 +66,6 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzY0NTU2NCwxODcxMzk4Mzk0LDQ4MT
-cyMjU0N119
+eyJoaXN0b3J5IjpbLTEyNDgwMDEzMTksMTg3MTM5ODM5NCw0OD
+E3MjI1NDddfQ==
 -->
