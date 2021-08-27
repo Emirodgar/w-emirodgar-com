@@ -23,12 +23,12 @@ User-agent: *
 Disallow: /*perros
 ```
 
-Si únicamente quisiéramos bloquear el rastreo de las páginas que terminan en `perros` lo haríamos de la siguiente manera. Esto no afectaría a otras páginas que incluyeran dicho térinos 
+Si únicamente quisiéramos bloquear el rastreo de las páginas que terminan en `perros` lo haríamos de la siguiente manera. Esto no afectaría a otras páginas que incluyeran dicho término en la URL, como por ejemplo `perros-grandes` ya que no terminan de la forma que hemos indicado. 
 
 ```
 User-agent: *
 Disallow: /*perros$
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNDgzNjA5LDE2ODA4OTYzNzddfQ==
+eyJoaXN0b3J5IjpbLTg0NzM3NjY4OCwxNjgwODk2Mzc3XX0=
 -->
