@@ -11,7 +11,7 @@ permalink: regex-robotstxt
 
 ---
 
-Ni 
+Ni Google ni Bing aceptan usar expresiones regulares en los ficheros robots.txt no obstante, sí permiten hacer uso de dos caracteres a [modo de comodines](https://developers.google.com/search/docs/advanced/robots/robots_txt#url-matching-based-on-path-values): son el `*` y el `$`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1MDkzMDQ2LDE2ODA4OTYzNzddfQ==
+eyJoaXN0b3J5IjpbMTczMjcxMDk5NCwxNjgwODk2Mzc3XX0=
 -->
