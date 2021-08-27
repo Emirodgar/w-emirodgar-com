@@ -30,9 +30,9 @@ User-agent: *
 Disallow: /*perros$
 ```
 
-Es importante recordar que las reglas que transmitimos a través del robots.txt son directivas que pueden ser ignoradas por los buscadores y que sólo sirven para ajustar el **rastreo de una página**, pero **no su indexación**. 
+Es importante recordar que las reglas que transmitimos a través del robots.txt son directivas que pueden ser ignoradas por los buscadores y que sólo sirven para ajustar el **rastreo de una página**, pero **no su indexación**.  Si realmente queremos evitar una indexación, deberemos utilizar la [etiqueta noindex](https://emirodgar.com/eliminar-url-google#noindex).
 
-Si [bloqueamos el rastreo de ficheros clave](https://emirodgar.com/bloquear-indexacion-js-css) para nuestra visualización mobile, podría afectar a nuestro posicionamiento.
+Por último, si [bloqueamos el rastreo de ficheros clave](https://emirodgar.com/bloquear-indexacion-js-css) para nuestra visualización mobile, podría afectar a nuestro posicionamiento, por lo que hay que ser muy cautos con los ficheros y páginas que queremos evitar que sean rastreados por los robots de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk4ODkzMzQsMTY4MDg5NjM3N119
+eyJoaXN0b3J5IjpbMTgwMTM5Mzk0NCwxNjgwODk2Mzc3XX0=
 -->
