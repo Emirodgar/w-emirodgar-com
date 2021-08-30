@@ -27,11 +27,14 @@ En este escenario y para avanzar con la [indexación de JavaScript](https://deve
 
 En realidad tomó prestado el término de hahsbang `#!` de linux para crear un proceso por el que el robot convertiría dicho símbolo en un parámetro de URL `?_escaped_fragment_` que pudiera ser rastreado e indexado como una página independiente.
 
+Más tarde se recomendó utilizar `history.pushState()` y 
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjY4NTYyMywtMTI3MTUxODQ0NV19
+eyJoaXN0b3J5IjpbLTE0MDQyNjc1ODUsLTEyNzE1MTg0NDVdfQ
+==
 -->
