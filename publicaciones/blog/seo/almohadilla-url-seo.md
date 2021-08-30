@@ -11,7 +11,9 @@ permalink: url-almohadilla-seo
 
 ---
 
-Según las [recomendaciones de la W3C](https://www.w3.org/Addressing/URL/4_URI_Recommentations.html), la almohadilla `#` debe ser utilizada
+Según las [recomendaciones de la W3C](https://www.w3.org/Addressing/URL/4_URI_Recommentations.html), la almohadilla `#` debe ser utilizada para separar la URL y poder identificar un fragmento de la página de destino.
+
+Por ejemplo, si queremos enlazar a la página de `/razas-de-perros` y queremos llevar al usuario directamente a P
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjQ1ODExOV19
+eyJoaXN0b3J5IjpbMTQ0OTAyODYxNF19
 -->
