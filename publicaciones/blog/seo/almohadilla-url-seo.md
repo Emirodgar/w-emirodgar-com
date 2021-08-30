@@ -21,9 +21,9 @@ Este comportamiento sólo ocurre en el navegador de cliente por lo que a ojos de
 
 Con la proliferación de AJAX surgió la necesidad de hacer indexables ciertas aplicaciones/webs que se cargaban únicamente desde una URL (algo similar a lo que hace ahora Angular).
 
-En este escenario y para avanzar con la [indexación de JavaScript](https://developers.google.com/search/docs/advanced/javascript/javascript-seo-basics), Google abrió la puerta a utilizar `#` para poder informar al robot de búsqueda de nuevas páginas.
+En este escenario y para avanzar con la [indexación de JavaScript](https://developers.google.com/search/docs/advanced/javascript/javascript-seo-basics), Google abrió la puerta a utilizar `#` para poder informar al robot de búsqueda de nuevas "**páginas virtuales**".
 
-En realidad tomó prestado el término de hahsbang `#!` de linux para crear un proceso por el que el robot convertiría dicho símbolo en un parámetro de URL `?_escaped_fragment_` que pudiera ser rastreado e indexado como una página independiente.
+En realidad tomó prestado el término de hahsbang `#!` de linux para crear un proceso por el que su robot de búsqueda convertiría dicho símbolo en un parámetro de URL `?_escaped_fragment_` que pudiera ser rastreado e indexado como una página independiente.
 
 Más tarde se recomendó utilizar `history.pushState()` y la indexación a través de `#` o `#!` quedo [obsoleta](https://developers.google.com/search/blog/2015/10/deprecating-our-ajax-crawling-scheme).
 
@@ -39,6 +39,5 @@ Sea como sea, es una herramienta útil que nos puede ayudar a que los buscadores
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQzNzk4ODAsLTEyNzE1MTg0NDVdfQ
-==
+eyJoaXN0b3J5IjpbMTM1MjgwNTYyOCwtMTI3MTUxODQ0NV19
 -->
