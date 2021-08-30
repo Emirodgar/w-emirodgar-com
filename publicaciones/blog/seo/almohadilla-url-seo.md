@@ -31,15 +31,15 @@ Más tarde se recomendó utilizar `history.pushState()` y la indexación a trav�
 
 ## Indexación y contenidos
 
-A día de hoy, Google nos indica que a nivel de indexación los fragmentos de URL serán ignorados pero la realidad es distinta: en múltiples ocasiones pod
+A día de hoy, Google nos indica que a nivel de indexación los fragmentos de URL serán ignorados pero la realidad es distinta: en múltiples ocasiones podemos ver URLs con `#` indexadas y generando tráfico en Google Search Console.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You might see fragment identifiers in Search Console if we show jump links in search, which sometimes show like sitelinks would. It&#39;s confusing since most of the time we do show canonicals in SC, sorry :/. They don&#39;t play a role for canonicalization though, it&#39;s just display. <a href="https://t.co/6WhBuz49T4">pic.twitter.com/6WhBuz49T4</a></p>&mdash; 🍌 John 🍌 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1311419771871731712?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+Sea como sea, es una herramienta útil que nos puede ayudar a que los buscadores consigan un mejor contexto a través de nuestro enlazado interno y que nuestros usuarios accedan rápidamente a lo que realmente están buscando. Todo centrado en el ámbito del contenido, pero en ningún caso recomendaría utilizar la almohadilla para trabajar la indexación de un sitio 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzU4MzY3NSwtMTI3MTUxODQ0NV19
+eyJoaXN0b3J5IjpbMTE2Njc1NjIxMiwtMTI3MTUxODQ0NV19
 -->
