@@ -31,7 +31,7 @@ Más tarde se recomendó utilizar `history.pushState()` y la indexación a trav�
 
 ## Indexación y contenidos
 
-A día de hoy, Google ignorará a nivel de indexación los fragmentos de URL que 
+A día de hoy, Google nos indica que a nivel de indexación los fragmentos de URL serán ignorados pero 
 
 
 
@@ -39,5 +39,6 @@ A día de hoy, Google ignorará a nivel de indexación los fragmentos de URL que
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTU0MzUyNywtMTI3MTUxODQ0NV19
+eyJoaXN0b3J5IjpbLTE3ODcwOTI2MTksLTEyNzE1MTg0NDVdfQ
+==
 -->
