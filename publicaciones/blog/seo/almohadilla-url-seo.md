@@ -21,11 +21,12 @@ En un principio Google se alineó con la W3C y fue claro al indicar que los frag
 
 ## Los problemas para indexar AJAX
 
-Con la proliferación de AJA
+Con la proliferación de AJAX surgió la necesidad de hacer indexables ciertas aplicaciones/webs que se cargaban únicamente desde una URL (algo similar a lo que hace ahora Angular).
+
+En este escenario y para avanzar con la [indexación de JavaScript](https://developers.google.com/search/docs/advanced/javascript/javascript-seo-basics), Google abrió la puerta a utilizar `#` para poder informar al robot de búsqueda de nuevas páginas.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE3NDM5NjcsLTEyNzE1MTg0NDVdfQ
-==
+eyJoaXN0b3J5IjpbMTM4OTM2OTA5NCwtMTI3MTUxODQ0NV19
 -->
