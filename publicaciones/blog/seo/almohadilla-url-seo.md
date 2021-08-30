@@ -15,10 +15,10 @@ Según las [recomendaciones de la W3C](https://www.w3.org/Addressing/URL/4_URI_R
 
 Por ejemplo, si queremos enlazar a la página de `/razas-de-perros` y queremos llevar al usuario directamente a Pastor Alemán, tendríamos que hacerlo de la siguiente manera: `/razas-de-perros#pastor-aleman`.
 
-En la página de destino necesitaríamos ubicar un pequeño código
+Este comportamiento sólo ocurre en el navegador de cliente por lo que a ojos del servidor web es irrelevante.
 
-    <a name="pastor-aleman"></name>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE1MTg0NDVdfQ==
+eyJoaXN0b3J5IjpbMTM3ODEyNzk4OCwtMTI3MTUxODQ0NV19
 -->
