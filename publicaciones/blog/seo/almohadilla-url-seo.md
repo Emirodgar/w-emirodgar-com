@@ -11,7 +11,7 @@ permalink: url-almohadilla-seo
 
 ---
 
-Si revisamos el estándar de navegación veremos
+Según el estándar de recomendaciones de URLs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0Mzc2NDQyXX0=
+eyJoaXN0b3J5IjpbMTE2NTY0MTIyOF19
 -->
