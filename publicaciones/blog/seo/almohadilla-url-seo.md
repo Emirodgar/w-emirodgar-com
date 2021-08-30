@@ -17,8 +17,13 @@ Por ejemplo, si queremos enlazar a la página de `/razas-de-perros` y queremos l
 
 Este comportamiento sólo ocurre en el navegador de cliente por lo que a ojos del servidor web es irrelevante.
 
+En un principio Google fue claro al indicar que los fragmentos de URLs no serían tenidos en cuenta en sus rastreos y posteriores análisis.
+
+> Traditionally, hash fragments (that is, everything after # in the URL) have been used to indicate one portion of a static HTML document. ...hash fragments are not part of HTTP requests (and as a result they are not sent to the server)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODEyNzk4OCwtMTI3MTUxODQ0NV19
+eyJoaXN0b3J5IjpbLTE3NzA5MjU3NjEsLTEyNzE1MTg0NDVdfQ
+==
 -->
