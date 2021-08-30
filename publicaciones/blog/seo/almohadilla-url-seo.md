@@ -27,7 +27,11 @@ En este escenario y para avanzar con la [indexación de JavaScript](https://deve
 
 En realidad tomó prestado el término de hahsbang `#!` de linux para crear un proceso por el que el robot convertiría dicho símbolo en un parámetro de URL `?_escaped_fragment_` que pudiera ser rastreado e indexado como una página independiente.
 
-Más tarde se recomendó utilizar `history.pushState()` y 
+Más tarde se recomendó utilizar `history.pushState()` y la indexación a través de `#` o `#!` quedo [obsoleta](https://developers.google.com/search/blog/2015/10/deprecating-our-ajax-crawling-scheme).
+
+## Indexación y contenidos
+
+A día de hoy, Google ignorará a nivel de indexación los fragmentos de URL que 
 
 
 
@@ -35,6 +39,5 @@ Más tarde se recomendó utilizar `history.pushState()` y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQyNjc1ODUsLTEyNzE1MTg0NDVdfQ
-==
+eyJoaXN0b3J5IjpbLTQzNTU0MzUyNywtMTI3MTUxODQ0NV19
 -->
