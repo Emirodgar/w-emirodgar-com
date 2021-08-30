@@ -11,7 +11,7 @@ permalink: url-almohadilla-seo
 
 ---
 
-Según el estándar de recomendaciones de URLs
+Según las [recomendaciones de la W3C](https://www.w3.org/Addressing/URL/4_URI_Recommentations.html), la almohadilla `#` debe ser utilizada
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTY0MTIyOF19
+eyJoaXN0b3J5IjpbMTc3NjQ1ODExOV19
 -->
