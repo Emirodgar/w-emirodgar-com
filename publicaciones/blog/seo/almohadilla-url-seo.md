@@ -25,12 +25,12 @@ Con la proliferación de AJAX surgió la necesidad de hacer indexables ciertas a
 
 En este escenario y para avanzar con la [indexación de JavaScript](https://developers.google.com/search/docs/advanced/javascript/javascript-seo-basics), Google abrió la puerta a utilizar `#` para poder informar al robot de búsqueda de nuevas páginas.
 
-En realidad acuñó el término 
+En realidad tomó prestado elhahsbang `#!` de linux
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyOTg4OTg3LC0xMjcxNTE4NDQ1XX0=
+eyJoaXN0b3J5IjpbMjg5OTM3MTU0LC0xMjcxNTE4NDQ1XX0=
 -->
