@@ -25,7 +25,7 @@ En este escenario y para avanzar con la [indexación de JavaScript](https://deve
 
 En realidad tomó prestado el término de hahsbang `#!` de linux para crear un proceso por el que su robot de búsqueda convertiría dicho símbolo en un parámetro de URL `?_escaped_fragment_` que pudiera ser rastreado e indexado como una página independiente.
 
-Más tarde se recomendó utilizar `history.pushState()` y la indexación a través de `#` o `#!` quedo [obsoleta](https://developers.google.com/search/blog/2015/10/deprecating-our-ajax-crawling-scheme).
+Más tarde se recomendó utilizar `history.pushState()` para indicar una navegación a través de páginas virtuales y la indexación a través de la almohadilla quedo [obsoleta en 2015](https://developers.google.com/search/blog/2015/10/deprecating-our-ajax-crawling-scheme).
 
 ## Indexación y contenidos
 
@@ -39,5 +39,6 @@ Sea como sea, es una herramienta útil que nos puede ayudar a que los buscadores
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjgwNTYyOCwtMTI3MTUxODQ0NV19
+eyJoaXN0b3J5IjpbLTEzMjY5ODA4NjAsLTEyNzE1MTg0NDVdfQ
+==
 -->
