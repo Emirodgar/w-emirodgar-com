@@ -13,11 +13,9 @@ permalink: url-almohadilla-seo
 
 Según las [recomendaciones de la W3C](https://www.w3.org/Addressing/URL/4_URI_Recommentations.html), la almohadilla `#` debe ser utilizada para separar la URL y poder identificar un fragmento de la página de destino.
 
-Por ejemplo, si queremos enlazar a la página de `/razas-de-perros` y queremos llevar al usuario directamente a Pastor Alemán, tendríamos que hacerlo de la siguiente manera: `/razas-de-perros#pastor-aleman`.
+Por ejemplo, si queremos enlazar a la página de `/razas-de-perros` y queremos llevar al usuario directamente a la raza Caniche, tendríamos que hacerlo de la siguiente manera: `/razas-de-perros#caniche`.
 
-Este comportamiento sólo ocurre en el navegador de cliente por lo que a ojos del servidor web es irrelevante.
-
-En un principio Google se alineó con la W3C y fue claro al indicar que los fragmentos de URLs **no serían tenidos en cuenta en sus rastreos y posteriores análisis** ya que no eran tenidos en cuenta como parte de la petición HTTP.
+Este comportamiento sólo ocurre en el navegador de cliente por lo que a ojos del servidor web es irrelevante.En un principio Google se alineó con la W3C y fue claro al indicar que los fragmentos de URLs **no serían tenidos en cuenta en sus rastreos y posteriores análisis** ya que no los consideraba parte de la petición HTTP.
 
 ## Los problemas para indexar AJAX
 
@@ -35,11 +33,12 @@ A día de hoy, Google nos indica que a nivel de indexación los fragmentos de UR
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You might see fragment identifiers in Search Console if we show jump links in search, which sometimes show like sitelinks would. It&#39;s confusing since most of the time we do show canonicals in SC, sorry :/. They don&#39;t play a role for canonicalization though, it&#39;s just display. <a href="https://t.co/6WhBuz49T4">pic.twitter.com/6WhBuz49T4</a></p>&mdash; 🍌 John 🍌 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1311419771871731712?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Sea como sea, es una herramienta útil que nos puede ayudar a que los buscadores consigan un mejor contexto a través de nuestro enlazado interno y que nuestros usuarios accedan rápidamente a lo que realmente están buscando. Todo centrado en el ámbito del contenido, pero en ningún caso recomendaría utilizar la almohadilla para trabajar la indexación de un sitio 
+Sea como sea, es una herramienta útil que nos puede ayudar a que los buscadores consigan un mejor contexto a través de nuestro enlazado interno y que nuestros usuarios accedan rápidamente a lo que realmente están buscando. Todo centrado en el ámbito del contenido, pero en ningún caso recomendaría **utilizar la almohadilla para trabajar la indexación** de un sitio web. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Njc1NjIxMiwtMTI3MTUxODQ0NV19
+eyJoaXN0b3J5IjpbLTExOTQzNzk4ODAsLTEyNzE1MTg0NDVdfQ
+==
 -->
