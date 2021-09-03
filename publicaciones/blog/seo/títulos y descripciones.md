@@ -44,8 +44,8 @@ Google ha anunciado un [cambio en el proceso de identificar y mostrar el título
 
 Algunos comportamientos detectados a partir de esta actualización han sido:
 
- - Si es demasiado largo, el Title no siempre se cortará al final. Se pueden eliminar partes al inicio o a la mitad, bucando un Title lo más relevante y legible posible para los usuarios. 
- - El Title mostrado por Google ya no cambiará en función de la búsqueda, a cada página se le asignará uno por parte de Google.
+ - Si es demasiado largo, el `meta title` no siempre se cortará al final. Se pueden eliminar partes al inicio o a la mitad, bucando un Title lo más relevante y legible posible para los usuarios. 
+ - El `meta title` mostrado por Google ya no cambiará en función de la búsqueda, a cada página se le asignará uno por parte de Google.
 
 El objetivo que persiguen con este cambio es evitar títulos:
 
@@ -75,6 +75,6 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTE2NjcyNywxODcxMzk4Mzk0LDQ4MT
-cyMjU0N119
+eyJoaXN0b3J5IjpbLTE3NTE1NTI4MTEsLTMxNTE2NjcyNywxOD
+cxMzk4Mzk0LDQ4MTcyMjU0N119
 -->
