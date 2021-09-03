@@ -42,7 +42,10 @@ Estos son algunas de las recomendaciones que debemos tener en cuenta a la hora d
 
 Google ha anunciado un [cambio en el proceso de identificar y mostrar el título](https://developers.google.com/search/blog/2021/08/update-to-generating-page-titles) de una página en sus resultados. Ya no sólo tendrá en cuenta el `meta title` utilizado sino que podrá sustituirlo por otras etiquetas como encabezados (Hs), Alt de imágenes o partes destacadas del contenido siempre cuando estime que estas tengan una mayor relevancia para el usuario que ha realizado la búsqueda.
 
-Algunos comportamientos detectados a partir de esta 
+Algunos comportamientos detectados a partir de esta actualización han sido:
+
+ - Si es demasiado largo, el Title no siempre se cortará al final. Se pueden eliminar partes al inicio o a la mitad, bucando un Title lo más relevante y legible posible para los usuarios. 
+ - El Title mostrado por Google ya no cambiará en función de la búsqueda, a cada página se le asignará uno por parte de Google.
 
 El objetivo que persiguen con este cambio es evitar títulos:
 
@@ -72,6 +75,6 @@ Para generar una buena meta descripción es importante hacer uso de las siguient
 - **Utiliza una descripción diferente para cada URL** de esa forma nos aseguraremos de que cada página tiene un mensaje específico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk1ODg0NzUsMTg3MTM5ODM5NCw0OD
-E3MjI1NDddfQ==
+eyJoaXN0b3J5IjpbLTMxNTE2NjcyNywxODcxMzk4Mzk0LDQ4MT
+cyMjU0N119
 -->
