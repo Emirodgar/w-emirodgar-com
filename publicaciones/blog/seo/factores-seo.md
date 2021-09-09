@@ -21,16 +21,16 @@ Por orden de importancia, en la siguiente tabla muestro de mayor a menor impacto
 
 |  |  |
 |--|--|
-| 1 | Factores Onpage (título, description, H1, etc |
-| 2 | Comportamiento del usuario (CTR, rebote, tiempo en el sitio, etc) |
-| 3 | Calidad y contexto del contenido |
-| 4 | Datos estructurados |
-| 5 | Contenidos actualizados |
-| 6 | Sitio adaptado para móviles |
-| 7 | Perfil de enlazado |
-| 8 | Tiempo de carga de la página |
-| 9 | Seguridad de la página |
-| 10 | EAT |
+| 1-  | Factores Onpage (título, description, H1, etc |
+| 2-  | Comportamiento del usuario (CTR, rebote, tiempo en el sitio, etc) |
+| 3-  | Calidad y contexto del contenido |
+| 4-  | Datos estructurados |
+| 5-  | Contenidos actualizados |
+| 6-  | Sitio adaptado para móviles |
+| 7-  | Perfil de enlazado |
+| 8-  | Tiempo de carga de la página |
+| 9-  | Seguridad de la página |
+| 10-  | EAT |
 
 
 
@@ -102,7 +102,7 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzODY0NTEwLC0xMjYyODY1NDQ1LDU3OT
-Y2MTMzNCwxMDYxNDI0MDE4LDE5MjQzODc1NDIsMTc3NTc2OTgy
-OV19
+eyJoaXN0b3J5IjpbLTEyMjQ3MjkzMCwzMDM4NjQ1MTAsLTEyNj
+I4NjU0NDUsNTc5NjYxMzM0LDEwNjE0MjQwMTgsMTkyNDM4NzU0
+MiwxNzc1NzY5ODI5XX0=
 -->
