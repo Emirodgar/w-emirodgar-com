@@ -36,16 +36,16 @@ Por orden de importancia, en la siguiente tabla muestro de mayor a menor impacto
 
 |  |  |
 |--|--|
-| Factores Onpage (título, description, H1, etc   |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1 | Factores Onpage (título, description, H1, etc |
+| 2 | Comportamiento del usuario (CTR, rebote, tiempo en el sitio, etc) |
+| 3 | Calidad y contexto del contenido |
+| 4 | Datos estructurados |
+| 5 | Contenidos actualizados |
+| 6 |  |
+| 7 |  |
+| 8 |  |
+| 9 |  |
+| 10 |  |
 
 
 ## Lo más importante para el SEO en 2020
@@ -114,7 +114,7 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDU2ODMwNiwtMTI2Mjg2NTQ0NSw1Nz
+eyJoaXN0b3J5IjpbLTk1MTg4MTQ2MSwtMTI2Mjg2NTQ0NSw1Nz
 k2NjEzMzQsMTA2MTQyNDAxOCwxOTI0Mzg3NTQyLDE3NzU3Njk4
 MjldfQ==
 -->
