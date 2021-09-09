@@ -36,6 +36,8 @@ Por orden de importancia, en la siguiente tabla muestro de mayor a menor impacto
 
 ## Lo más importante para el SEO en 2020
 
+Pequeño resumen del impacto que han tenido los factores SEO más relevantes durante el año 2020. Este desglose se hace a año vencido para que tengamos la visión de cómo ha evolucionado todo.
+
 ### RankBrain y factores UX
 
 Aunque pueda parecer raro, destaco como crucial el  [ofrecer una buena experiencia al usuario](https://searchengineland.com/seo-ux-success-286638)  como **factor SEO relevante**. Google ha avanzando mucho durante 2018 en este aspecto y prueba de ello son el lanzamiento de [Lighthouse](https://developers.google.com/web/tools/lighthouse/?hl=es) y de su herramienta [web.dev](https://web.dev/) . 
@@ -100,7 +102,7 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg3NjgwMDksLTEyNjI4NjU0NDUsNT
-c5NjYxMzM0LDEwNjE0MjQwMTgsMTkyNDM4NzU0MiwxNzc1NzY5
-ODI5XX0=
+eyJoaXN0b3J5IjpbMzAzODY0NTEwLC0xMjYyODY1NDQ1LDU3OT
+Y2MTMzNCwxMDYxNDI0MDE4LDE5MjQzODc1NDIsMTc3NTc2OTgy
+OV19
 -->
