@@ -27,9 +27,9 @@ En mi día a día utilizo multitud de programas, por ello, poder tener todo actu
  - **Wifi Analyzer**: para saber si hay problemas con la red WiFi y si las redes de nuestros vecinos están interfiriendo con las nuestras.
  - **LightShot**: Ideal para hacer capturas de pantalla y poder editarlas en el momento. Cuando estás compartiendo pantalla también te ayuda a resaltar partes de la misma.
 
-Aunque no es un programa específico para SEO
+Aunque no es un programa específico para SEO, recomiendo Blackbird para [mejorar nuestra privacidad en Windows](https://emirodgar.com/controla-la-privacidad-en-windows-con-blackbird).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTIxODAwMiwxNTI3MzkyNzg0LC0xMj
+eyJoaXN0b3J5IjpbMjEwODYyNTM4MCwxNTI3MzkyNzg0LC0xMj
 QyMzY2MDE0XX0=
 -->
