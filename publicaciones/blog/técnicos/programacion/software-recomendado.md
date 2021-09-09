@@ -25,9 +25,11 @@ En mi día a día utilizo multitud de programas, por ello, poder tener todo actu
  - **Trello**: Lo utilizo para gestionar proyectos mediante metodología Kanban cuando hay que alinearse con equipos externos u otros departamentos.
  - **Patch My PC Updater**: Ideal para poder mantener mi ordenador actualizado y evitar fallos de seguridad. Analiza nuestras aplicaciones instaladas y nos informa/ayuda a descargar actualizaciones.
  - **Wifi Analyzer**: para saber si hay problemas con la red WiFi y si las redes de nuestros vecinos están interfiriendo con las nuestras.
- - **
+ - **LightShot**: Ideal para hacer capturas de pantalla y poder editarlas en el momento. Cuando estás compartiendo pantalla también te ayuda a resaltar partes de la misma.
+
+Aunque no es un programa específico para SEO
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNjAzNjE1LDE1MjczOTI3ODQsLTEyND
-IzNjYwMTRdfQ==
+eyJoaXN0b3J5IjpbLTc4MTIxODAwMiwxNTI3MzkyNzg0LC0xMj
+QyMzY2MDE0XX0=
 -->
