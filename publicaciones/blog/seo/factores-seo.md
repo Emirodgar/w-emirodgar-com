@@ -12,25 +12,10 @@ permalink: factores-seo
 
 ---
 
-Esta es mi predicción de factores SEO que tendrán un impacto es las estrategias digitales durante 2020.
-
-## Factores SEO 2020
-
-Siempre es importante hacer un repaso de lo que fue el SEO en los años anteriores. A continuación os dejo los factores SEO que predije para 2019; salvo las búsquedas por voz, el resto sí fueron conformados.
-
-Nadie tiene la verdad absoluta, pero basándome en la experiencia y los resultados de los últimos meses, estos son los puntos críticos que pienso que marcarán la diferecia durante este año:
-
--   RankBrain y factores UX (Google)
--   Rebote y CTR
--   Datos estructurados
--   Calidad y originalidad en los contenidos
--   Optimización para Google Mobile First Index
--   Optimización para búsqueda por voz
-
 
 ## Factores SEO 2021
 
-Como cada año me gusta hacer un repaso de los factores SEO que más impacto están teniendo. Dentro de una estrategia de posicionamiento web es importante estar atento a los [cambios de algoritmo](https://emirodgar.com/cambio-algoritmo-google) de los buscadores ya que estos darán mayor o menor peso a ciertos factores clave.
+Como cada año me gusta hacer un repaso de los factores SEO que más impacto están teniendo. Dentro de una [estrategia de posicionamiento web](https://emirodgar.com/estrategia-seo) es importante estar atento a los [cambios de algoritmo](https://emirodgar.com/cambio-algoritmo-google) de los buscadores ya que estos darán mayor o menor peso a ciertos factores clave.
 
 Por orden de importancia, en la siguiente tabla muestro de mayor a menor impacto, los 10 factores que considero relevantes:
 
@@ -46,6 +31,7 @@ Por orden de importancia, en la siguiente tabla muestro de mayor a menor impacto
 | 8 | Tiempo de carga de la página |
 | 9 | Seguridad de la página |
 | 10 | EAT |
+
 
 
 ## Lo más importante para el SEO en 2020
@@ -114,7 +100,7 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTM3Mzk1MywtMTI2Mjg2NTQ0NSw1Nz
-k2NjEzMzQsMTA2MTQyNDAxOCwxOTI0Mzg3NTQyLDE3NzU3Njk4
-MjldfQ==
+eyJoaXN0b3J5IjpbLTE5ODg3NjgwMDksLTEyNjI4NjU0NDUsNT
+c5NjYxMzM0LDEwNjE0MjQwMTgsMTkyNDM4NzU0MiwxNzc1NzY5
+ODI5XX0=
 -->
