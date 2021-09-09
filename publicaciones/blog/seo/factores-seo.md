@@ -1,5 +1,5 @@
 ---
-title: Factores SEO 2020
+title: Factores SEO 2021
 description: Estos son los factores SEO que mayor impacto tendrán durante el año 2019
 lang: es_ES
 sitemap: 1
@@ -26,6 +26,11 @@ Nadie tiene la verdad absoluta, pero basándome en la experiencia y los resultad
 -   Calidad y originalidad en los contenidos
 -   Optimización para Google Mobile First Index
 -   Optimización para búsqueda por voz
+
+
+## Factores SEO 2021
+
+Como cada año me gusta hacer un repaso de los factores SEO que más impacto están teniendo. D
 
 ## Lo más importante para el SEO en 2020
 
@@ -93,6 +98,7 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI4NjU0NDUsNTc5NjYxMzM0LDEwNj
-E0MjQwMTgsMTkyNDM4NzU0MiwxNzc1NzY5ODI5XX0=
+eyJoaXN0b3J5IjpbNDA4MjEzODAyLC0xMjYyODY1NDQ1LDU3OT
+Y2MTMzNCwxMDYxNDI0MDE4LDE5MjQzODc1NDIsMTc3NTc2OTgy
+OV19
 -->
