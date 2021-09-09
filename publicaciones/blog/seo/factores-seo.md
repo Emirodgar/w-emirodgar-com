@@ -30,7 +30,9 @@ Nadie tiene la verdad absoluta, pero basándome en la experiencia y los resultad
 
 ## Factores SEO 2021
 
-Como cada año me gusta hacer un repaso de los factores SEO que más impacto están teniendo. D
+Como cada año me gusta hacer un repaso de los factores SEO que más impacto están teniendo. Dentro de una estrategia de posicionamiento web es importante estar atento a los [cambios de algoritmo](https://emirodgar.com/cambio-algoritmo-google) de los buscadores ya que estos darán mayor o menor peso a ciertos factores clave.
+
+
 
 ## Lo más importante para el SEO en 2020
 
@@ -98,7 +100,7 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4MjEzODAyLC0xMjYyODY1NDQ1LDU3OT
-Y2MTMzNCwxMDYxNDI0MDE4LDE5MjQzODc1NDIsMTc3NTc2OTgy
-OV19
+eyJoaXN0b3J5IjpbLTcwNDIzMDY4MywtMTI2Mjg2NTQ0NSw1Nz
+k2NjEzMzQsMTA2MTQyNDAxOCwxOTI0Mzg3NTQyLDE3NzU3Njk4
+MjldfQ==
 -->
