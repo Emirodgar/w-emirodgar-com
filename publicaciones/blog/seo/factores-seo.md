@@ -32,6 +32,20 @@ Nadie tiene la verdad absoluta, pero basándome en la experiencia y los resultad
 
 Como cada año me gusta hacer un repaso de los factores SEO que más impacto están teniendo. Dentro de una estrategia de posicionamiento web es importante estar atento a los [cambios de algoritmo](https://emirodgar.com/cambio-algoritmo-google) de los buscadores ya que estos darán mayor o menor peso a ciertos factores clave.
 
+Por orden de importancia, en la siguiente tabla muestro de mayor a menor impacto, los factores que considero relevantas:
+
+|  |  |
+|--|--|
+| Factores Onpage (título, description, H1, etc   |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Lo más importante para el SEO en 2020
@@ -100,7 +114,7 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDIzMDY4MywtMTI2Mjg2NTQ0NSw1Nz
+eyJoaXN0b3J5IjpbLTY2MDU2ODMwNiwtMTI2Mjg2NTQ0NSw1Nz
 k2NjEzMzQsMTA2MTQyNDAxOCwxOTI0Mzg3NTQyLDE3NzU3Njk4
 MjldfQ==
 -->
