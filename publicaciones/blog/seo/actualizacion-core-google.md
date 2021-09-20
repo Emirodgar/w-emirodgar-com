@@ -30,7 +30,7 @@ Si tu página se ha visto afectada, implica que posiblemente Google ha detectado
 
 El primer paso tras una caída por algoritmo Core será identificar qué páginas y términos han perdido posicionamiento para que así podamos acotar la parte de nuestra web que debemos revisar.
 
-Esto lo podemos hacer con Google Search Console comparando periodos para conocer cómo ha impactado a la evolución el antes y después del cambio de algoritmo.  De esta forma sabremos dónde hemos perdido tráfico y cómo ha afectado a nuestro [CTR orgánico](https://emirodgar.com/ctr-resultados-google).  
+Esto lo podemos hacer con Google Search Console comparando periodos para conocer cómo ha impactado a la evolución el antes y después del cambio de algoritmo.  De esta forma sabremos dónde hemos perdido tráfico y cómo ha afectado a nuestro [CTR orgánico](https://emirodgar.com/ctr-resultados-google). 
 
 ### Validar que no hay problemas que afecten al rastreo e indexación
 
@@ -78,8 +78,8 @@ Todas las preguntas anteriores nos ayudarán a discernir si nuestro contenido es
 
 Si estuviéramos en este último caso, tendremos que trabajar una **estrategia de optimización de contenidos** que nos ayude a cualificar las páginas de nuestro sitio web.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDY2MDA4MCwtMTM3MzQ2NDg0OCwtMT
-I5NjQ3NjA2NSwtMTU5NDQ0MjU4NywxNjAwNDY4NzkxLC0xNTEy
-Mzg3NzQxLC01MDY3OTA3OTUsMzY1MTk1OTA1LDIwNzg1NzU2ND
-YsNzQ0ODk4MzgxXX0=
+eyJoaXN0b3J5IjpbLTM5MDAyOTAwNiwxODU0NjYwMDgwLC0xMz
+czNDY0ODQ4LC0xMjk2NDc2MDY1LC0xNTk0NDQyNTg3LDE2MDA0
+Njg3OTEsLTE1MTIzODc3NDEsLTUwNjc5MDc5NSwzNjUxOTU5MD
+UsMjA3ODU3NTY0Niw3NDQ4OTgzODFdfQ==
 -->
