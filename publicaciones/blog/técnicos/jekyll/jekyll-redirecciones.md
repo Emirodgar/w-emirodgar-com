@@ -19,7 +19,7 @@ Ahora vamos a ver cómo se pueden implementar redirecciones de forma sencilla.
 
 ## Habilitar el módulo de redirecciones
 
-El primer paso será habilitar en el fichero ```_config.yml``` el plugin asociado a las redirecciones -*jekyll-redirect-from*. Éste nos permitirá utilizarlas dentro del framework; para ello si no tenemos ya creada una sección de plugins, añadimos lo siguiente:
+El primer paso será habilitar en el fichero ```_config.yml``` el plugin asociado a las redirecciones `jekyll-redirect-from`. Éste nos permitirá utilizarlas dentro del framework; para ello si no tenemos ya creada una sección de plugins, añadimos lo siguiente:
 
 ```yml
 plugins:  
@@ -58,6 +58,6 @@ permalink: /actual/
 
 También podríamos crear un **fichero .htaccess** bajo Jekyll y gestionar las redirecciones a través del mismo, pero creo que esta forma es más rápida y sencilla.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mjc0OTA3OCw2NjIyNzIzNDUsLTE5Nj
-Q4MzY3NjRdfQ==
+eyJoaXN0b3J5IjpbMTE4MDEzMDc1LDY2MjI3MjM0NSwtMTk2ND
+gzNjc2NF19
 -->
