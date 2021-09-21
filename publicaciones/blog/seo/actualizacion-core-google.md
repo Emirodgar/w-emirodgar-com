@@ -12,9 +12,9 @@ permalink: google-core-update
 
 --- 
 
-**¿Qué es una actualización core del algoritmo de Google y qué implicaciones tiene?**
+**¿Qué es una Actualización Core del algoritmo de Google y qué implicaciones tiene?**
 
-Por norma general todos los buscadores aplican [cambios sobre sus algoritmos](https://emirodgar.com/cambio-algoritmo-google) de forma constante para seguir ofreciendo un mejor servicio a sus usuarios. Podríamos equiparar estos cambios a **pequeñas actualizaciones**.
+Por norma general todos los buscadores aplican [cambios sobre sus algoritmos](https://emirodgar.com/cambio-algoritmo-google) de forma constante para seguir ofreciendo un mejor servicio a sus usuarios. Podríamos describir estos cambios como **pequeñas actualizaciones**.
 
 Google hace múltiples cambios a lo largo del año, algunos los anuncia y otros no. Dentro de estos cambios de algoritmo existe una variante denominada **Core** o **Principal** cuyo objetivo final es seguir mostrando a los usuarios contenido de calidad y fiable en los resultados de búsqueda.
 
@@ -78,8 +78,9 @@ Todas las preguntas anteriores nos ayudarán a discernir si nuestro contenido es
 
 Si estuviéramos en el último caso, deberíamos trabajar una **estrategia de optimización de contenidos** que nos ayude a cualificar las páginas de nuestro sitio web.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTI2MzM4MywtMzkwMDI5MDA2LDE4NT
-Q2NjAwODAsLTEzNzM0NjQ4NDgsLTEyOTY0NzYwNjUsLTE1OTQ0
-NDI1ODcsMTYwMDQ2ODc5MSwtMTUxMjM4Nzc0MSwtNTA2NzkwNz
-k1LDM2NTE5NTkwNSwyMDc4NTc1NjQ2LDc0NDg5ODM4MV19
+eyJoaXN0b3J5IjpbNzI1NTMwMzgxLDIxMzkyNjMzODMsLTM5MD
+AyOTAwNiwxODU0NjYwMDgwLC0xMzczNDY0ODQ4LC0xMjk2NDc2
+MDY1LC0xNTk0NDQyNTg3LDE2MDA0Njg3OTEsLTE1MTIzODc3ND
+EsLTUwNjc5MDc5NSwzNjUxOTU5MDUsMjA3ODU3NTY0Niw3NDQ4
+OTgzODFdfQ==
 -->
