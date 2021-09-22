@@ -15,7 +15,7 @@ redirect_from:
 
 ---
 
-Mi nombre es Emilio Rodríguez y llevo trabajando el **SEO en Salamanca** desde el año 2007. He sido director SEO en dos agencias internacionales (Holanda y España) y he trabajado en más de un centenar de proyectos digitales para grandes empresas. 
+Mi nombre es Emilio Rodríguez y llevo trabajando el **SEO en Salamanca** desde el año 2007. He sido director SEO en dos agencias internacionales (Internet Advantage y Smartup) y he trabajado en más de un centenar de proyectos digitales para grandes empresas. 
 
 He tenido la suerte de haber participado en estrategias de **posicionamiento SEO** para varias empresas salmantinas como la Universidad Pontificia de Salamanca, La Gaceta de Salamanca, Grupo Tribuna, Oyrsa o un clásico de Salamanca como es el café bar Novelty.
 
@@ -76,6 +76,7 @@ Sé el líder digital de tu sector.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjk4OTk5MiwtMTk4MDE5MTcwMiw5Nj
-YwMTQ5NjcsLTI0NzYyMjg2MiwyMDY3NTk4NTg3XX0=
+eyJoaXN0b3J5IjpbLTEzMDY5OTUzNzAsLTgwMjk4OTk5MiwtMT
+k4MDE5MTcwMiw5NjYwMTQ5NjcsLTI0NzYyMjg2MiwyMDY3NTk4
+NTg3XX0=
 -->
