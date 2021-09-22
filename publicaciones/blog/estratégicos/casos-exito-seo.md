@@ -142,7 +142,7 @@ La captación SEO se disparó con algunos picos que duplicaban el tráfico medio
 
 ## Competidores orgánicos
 
-En un ecommerce la competencia es feroz. Con este cliente partíamos los primeros frente a competidores locales, aún así, la evolución que experimentamos fue tal que nos hicimos líderes indiscutibles del sector.
+En un ecommerce la competencia es grande. Con este cliente partíamos los primeros frente a competidores locales, aún así, la evolución que experimentamos fue tal que nos hicimos líderes indiscutibles del sector.
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Me dijeron que lo habíamos conseguido, que ya estábamos los primeros (línea verde / sector ecommerce) pero no me importó. Siempre se puede ir más allá. En el último mes hemos marcado la diferencia a nivel <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a> <a href="https://t.co/lpegr5ZJBb">pic.twitter.com/lpegr5ZJBb</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1195263005287755783?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -150,7 +150,8 @@ En un ecommerce la competencia es feroz. Con este cliente partíamos los primero
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYwMTM0ODcsNDE4NzQ4MjMyLDE4OT
-YyOTA1MDcsOTMzMjA5MzQ3LDIwMDk4NDcwMzksNjc3MjY5NTky
-LDkwMzI0NzE3OSwtNjEwMzk1MDcwLC0xOTQ0MDc5ODUxXX0=
+eyJoaXN0b3J5IjpbLTg4NjU4MDQ0OCwtMjA4NjAxMzQ4Nyw0MT
+g3NDgyMzIsMTg5NjI5MDUwNyw5MzMyMDkzNDcsMjAwOTg0NzAz
+OSw2NzcyNjk1OTIsOTAzMjQ3MTc5LC02MTAzOTUwNzAsLTE5ND
+QwNzk4NTFdfQ==
 -->
