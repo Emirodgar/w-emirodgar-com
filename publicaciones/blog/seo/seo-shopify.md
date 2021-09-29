@@ -80,9 +80,9 @@ Los que recomiendo incluir son:
 
 En cualquier ecommerce las imágenes son un factor clave y muy relevante. El hecho de que estén completamente optimizadas nos ayudará a que la navegación sea más fluida y la experiencia de los usuarios lo más adecuada posible.
 
-Existen múltiples plugins para integrarse con Shopify, por ejemplo [Crush](https://crush.pics/platforms/shopify). Cualquiera que facilite la compresión de las imágenes será válido. También podemos de forma externa a Shopify con aplicaciones como 
+Existen múltiples plugins para integrarse con Shopify, por ejemplo [Crush](https://crush.pics/platforms/shopify). Cualquiera que facilite la compresión de las imágenes será válido. También podemos de forma externa a Shopify con aplicaciones como https://squoosh.app/.
 
-### Ajustar las apps necesarias para que el tiempo de carga 
+## Minimizar el uso de apps, plugins y extensiones
 
 A mayor número de aplicaciones/plugins que tengamos instaladas, peor rendimiento ofrecerá nuestra tienda. Por ello recomiendo ajustar al mínimo y quedarnos únicamente con aquellas que consideremos cruciales.
 
@@ -91,12 +91,12 @@ En el caso de SEO, es recomendable hacer uso de aquellas que ofrecen múltiples 
 Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga y experiencia de los usuarios son:
 
 - Hacer uso de un template rápido y ligero
-- Usar imágenes pequeñas
+- Usar imágenes pequeñas y adaptadas a nuestro template
 - Evitar los carruseles
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDcxNzA4NSwtMTYwMjczNDU0NywtNj
+eyJoaXN0b3J5IjpbLTc5MjYxNzY1MiwtMTYwMjczNDU0NywtNj
 c4Njc1Mjg5LDk4NTMyOTQ2NywtMTcyNzA1NTkzMiwtMTA0OTQ5
 ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMjI1NTEyNjg0LD
 QxMDUwNDYwOSw1NzI4OTg3NTddfQ==
