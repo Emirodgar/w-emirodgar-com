@@ -25,14 +25,14 @@ Será decisión final del usuario visitar o no nuestra página pero al menos est
 
 En los ecommerce más del 90% de las páginas son productos que queremos vender por ello es recomendable hacer uso de datos estructurados que permitan a los buscadores extraer la información relevante de forma simple y enriquecer nuestros resultados en las futuras búsquedas.
 
-Para ello tendremos que incluir en las páginas de producto el [código estructurado `"Product"`](https://developers.google.com/search/docs/advanced/structured-data/product).
+Para ello tendremos que incluir en las páginas de producto el [código estructurado `Product`](https://developers.google.com/search/docs/advanced/structured-data/product).
 
-> Google no permite enviar en los datos estructurados contenido para adultos ni diferente al mostrado en la web. Ambos deben ofrecer la misma información.
+> Google no permite etiquetar datos estructurados contenido para adultos ni diferente al mostrado en la web. Ambos deben ofrecer la misma información.
 
-Dentro de los múltiples campos que podemos utilizar para etiquetar un `Product` algunos 
+Dentro de los múltiples campos que podemos utilizar para etiquetar un `Product` algunos pueden ser utilizados también para potenciar las imágenes.
 
--   **Para mostrar la información de tu producto en el visor de imágenes enriquecidas:**  incluye las propiedades  `name`,  `image`,  `price`  y  `priceCurrency`.
--   **Para mostrar la información de tu producto en la función Artículos relacionados:**  incluye las propiedades  `name`,  `image`,  `price`,  `priceCurrency`  y  `availability`.
+-   Para mostrar la información de tu producto en el **visor de imágenes enriquecidas** debemos incluir las propiedades  `name`,  `image`,  `price`  y  `priceCurrency`.
+-   Para mostrar la información de tu producto en la función de **artículos relacionados** debemos incluir las propiedades  `name`,  `image`,  `price`,  `priceCurrency`  y  `availability`.
 
 ### Búsquedas de imágenes
 
@@ -52,6 +52,6 @@ Aunque no es SEO, sí puede ser un buen complemento a nuestra estrategia y ayuda
 
 A nivel de Google tenemos Google Ads (que son los anuncios pagados que aparecen antes de los resultados SEO) y también Google Merchant Center, donde podremos publicar directamente nuestros productos en la pestaña de Shopping / Compras de los resultados de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY4MDY0MDksLTEwMzYyOTMyNDYsLT
-ExNzg4Mjc2MjAsNjQ0MjY5NTk0XX0=
+eyJoaXN0b3J5IjpbNTI5OTYwNTA5LC0xMDM2MjkzMjQ2LC0xMT
+c4ODI3NjIwLDY0NDI2OTU5NF19
 -->
