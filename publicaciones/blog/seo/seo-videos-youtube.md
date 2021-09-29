@@ -66,7 +66,7 @@ Podemos discernir dos escenarios: **cómo estamos posicionados** y **cómo inter
       
 > Si no somos capaces de crear interacción con los usuarios las posibilidades que tendremos que aparecer en las búsquedas por nuestras palabras clave son bajas.
  
- Respecto a las métricas antes comentadas, es importante mencionar que el tiempo promedio de visualización dependerá en buena medida de lo largos o cortos que sean nuestros vídeos. Si todos están normalizados (duran lo mismo) tendrá sentido analizar dicha métrica pero si no es el caso la aproximación más correcta será abordar un porcentaje de retención: cuántos usuarios visualizaron el 50%, el 75% o terminaron de verlo. 
+ Respecto a las métricas antes comentadas, es importante mencionar que el tiempo promedio de visualización dependerá en buena medida de lo largos o cortos que sean nuestros vídeos. Si todos están normalizados (duran lo mismo) tendrá sentido analizar dicha métrica pero si no es el caso, la aproximación más correcta será abordar un porcentaje de retención: cuántos usuarios visualizaron el 50% del vídeo, el 75% o terminaron de verlo. 
 
 Para poder **conseguir más visualizaciones en nuestros vídeos** podemos seguir el siguiente esquema de trabajo.
 
@@ -187,7 +187,7 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODIzOTkxODEsLTE5MDY2NzE5MiwyMD
-kwMTkyNTkzLC0xNjQ2Mjk1ODU4LDk3NTkwNjc4NSwxNTQ2OTU2
-MjgxXX0=
+eyJoaXN0b3J5IjpbMTAwMDM2MDE0OSwtMTkwNjY3MTkyLDIwOT
+AxOTI1OTMsLTE2NDYyOTU4NTgsOTc1OTA2Nzg1LDE1NDY5NTYy
+ODFdfQ==
 -->
