@@ -3,7 +3,6 @@ title: Guía SEO para Shopify
 description: Optimizar tu ecommerce con recomendaciones SEO específicas para Shopify 
 image: https://emirodgar.com/cdn/images/og/auditoria.png
 layout: emirodgar_post
-date: 15/05/2021
 author: Emirodgar
 sitemap: 1
 feed: 1
@@ -88,7 +87,7 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1MzI5NDY3LC0xNzI3MDU1OTMyLC0xMD
-Q5NDk4MTgxLDE3OTM3NTM3MTIsNzAzMDM1ODI2LC0yMjU1MTI2
-ODQsNDEwNTA0NjA5LDU3Mjg5ODc1N119
+eyJoaXN0b3J5IjpbNjUzOTAzNjczLDk4NTMyOTQ2NywtMTcyNz
+A1NTkzMiwtMTA0OTQ5ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgy
+NiwtMjI1NTEyNjg0LDQxMDUwNDYwOSw1NzI4OTg3NTddfQ==
 -->
