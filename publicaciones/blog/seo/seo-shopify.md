@@ -58,9 +58,9 @@ El robots.txt debería ser usado únciamente para evitar el acceso a las siguien
 
 ## Redireccionar páginas eliminadas
 
-Cuando dejamos atrás una página o queremos consolidar varias para evitar contenido duplicado, debemos hacerlo a través de una redirección 301. 
+A medida que pasa el tiempo vamos actualizando, eliminando y creando nuevas URLs. Cuando dejamos atrás una página o queremos consolidar varias para evitar contenido duplicado, debemos hacerlo a través de una **redirección 301** para asegurarnos que la popularidad SEO asociada a las mismas no se pierde. 
 
-Por desgracia no hay una forma -a excepción del servidor web- para hacerlo de forma automática por lo que la única opción que nos queda es implementarlas de forma individual desde 
+Por desgracia Shopify no dispone de este comportamiento de forma a por lo que la única opción que nos queda es implementarlas de forma individual desde 
 
     Tienda Online > Navegación > Redirecciones
 
@@ -96,8 +96,8 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDQxODU5LC0xNjAyNzM0NTQ3LC02Nz
-g2NzUyODksOTg1MzI5NDY3LC0xNzI3MDU1OTMyLC0xMDQ5NDk4
-MTgxLDE3OTM3NTM3MTIsNzAzMDM1ODI2LC0yMjU1MTI2ODQsND
-EwNTA0NjA5LDU3Mjg5ODc1N119
+eyJoaXN0b3J5IjpbMTA4MzYxOTcwMCwtMTYwMjczNDU0NywtNj
+c4Njc1Mjg5LDk4NTMyOTQ2NywtMTcyNzA1NTkzMiwtMTA0OTQ5
+ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMjI1NTEyNjg0LD
+QxMDUwNDYwOSw1NzI4OTg3NTddfQ==
 -->
