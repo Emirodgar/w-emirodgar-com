@@ -39,7 +39,9 @@ Aunque `Product` es el más relevante, recomendamos incluir también los siguien
 - [Empresa local](https://developers.google.com/search/docs/advanced/structured-data/local-business): para ofrecer información acerca de horarios de apertura, métodos de contacto, logo, etc.
 - [Fragmento de opinión](https://developers.google.com/search/docs/data-types/review-snippet): para enviar calificación de los productos así como opiniones cualificadas.
 - [Instrucciones](https://developers.google.com/search/docs/advanced/structured-data/how-to): si disponemos de artículos que explican cómo hacer uso de nuestros productos.
-- Preguntas y respuestas: si tenemos una sección espec
+- [Preguntas y respuestas](https://developers.google.com/search/docs/advanced/structured-data/faqpage): si tenemos una sección específica para ello.
+- [Breadcrumb](https://developers.google.com/search/docs/advanced/structured-data/breadcrumb): para ayudar a los buscadores a entender la arquitectura de nuestro sitio.
+- [Vídeo](https://developers.google.com/search/docs/data-types/video): si disponemos de vídeos, recomendamos etiquetarlos  
 
 Una vez implementados haremos uso del [validador de Schema.org](https://validator.schema.org/) para saber que están bien y la [prueba de resultados enriquecidos](https://search.google.com/test/rich-results) para saber si podrán ser utilizados en los resultados de búsqueda.
 
@@ -62,6 +64,6 @@ Aunque no es SEO, sí puede ser un buen complemento a nuestra estrategia y ayuda
 
 A nivel de Google tenemos Google Ads (que son los anuncios pagados que aparecen antes de los resultados SEO) y también Google Merchant Center, donde podremos publicar directamente nuestros productos en la pestaña de Shopping / Compras de los resultados de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTMyMTc3MCwxODcwODI3NzM1LC0xMD
-M2MjkzMjQ2LC0xMTc4ODI3NjIwLDY0NDI2OTU5NF19
+eyJoaXN0b3J5IjpbLTIwMjY4MTM4NzIsMTg3MDgyNzczNSwtMT
+AzNjI5MzI0NiwtMTE3ODgyNzYyMCw2NDQyNjk1OTRdfQ==
 -->
