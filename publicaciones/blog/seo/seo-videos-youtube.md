@@ -34,17 +34,12 @@ Su objetivo es claro, quieren mantener a los usuarios en Youtube, al igual que h
 
 ### Métricas de interacción
 
-La mayoría de las métricas de interacción se pueden medir en el informe de análisis de [YouTube Studio](https://studio.youtube.com). Las más relevantes son: 
+La mayoría de las métricas de interacción se pueden medir en el informe de análisis de [YouTube Studio](https://studio.youtube.com). Las más conocidas son: 
 
 - Likes / dislikes
 - Comentarios
 - CTR (veces que aparecemos / veces que ven el vídeo)
-- Retención de audiencia
-- Tiempo promedio de visualización
-- Clics en la pantalla final
-- Clics en tarjetas
 
-> Si no somos capaces de crear interacción con los usuarios las posibilidades que tendremos que aparecer en las búsquedas por nuestras palabras clave son bajas.
 
 ## Análisis de la calidad SEO de nuestros vídeos
 
@@ -67,6 +62,9 @@ A nivel SEO podemos agrupar las métricas en los bloques de captación, calidad,
 -   **Fidelización**  
      -   Suscripción
       
+  Podemos discernir dos escenarios principales, cómo estamos bien 
+      
+> Si no somos capaces de crear interacción con los usuarios las posibilidades que tendremos que aparecer en las búsquedas por nuestras palabras clave son bajas.
   
 
 Para poder **conseguir más visualizaciones en nuestros vídeos** podemos seguir el siguiente esquema de trabajo.
@@ -188,6 +186,7 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY2NzE5MiwyMDkwMTkyNTkzLC0xNj
-Q2Mjk1ODU4LDk3NTkwNjc4NSwxNTQ2OTU2MjgxXX0=
+eyJoaXN0b3J5IjpbLTE4NTA2MTE4NCwtMTkwNjY3MTkyLDIwOT
+AxOTI1OTMsLTE2NDYyOTU4NTgsOTc1OTA2Nzg1LDE1NDY5NTYy
+ODFdfQ==
 -->
