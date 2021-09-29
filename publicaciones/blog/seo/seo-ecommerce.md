@@ -15,7 +15,7 @@ permalink: seo-ecommerce
 
 ### Resultados orgánicos
 
-La primera apro
+La primera aproximación -y más conocida- es a través de los **resultados de búsqueda orgánicos**. Los buscadores rastrean e indexan las diversas páginas de nuestro sitio web y cuando consideran que puede aportar valor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5MTU5MDkwLDY0NDI2OTU5NF19
+eyJoaXN0b3J5IjpbLTE4MjAxNzM5NTQsNjQ0MjY5NTk0XX0=
 -->
