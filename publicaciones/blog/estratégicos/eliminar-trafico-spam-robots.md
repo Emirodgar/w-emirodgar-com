@@ -1,3 +1,5 @@
+---
+
 title: Eliminar el tráfico SPAM y de Robots de nuestra web
 description: Protege tu página web frente al SPAM y evita distorsiones en los datos de la analítica
 image: https://emirodgar.com/cdn/images/og/auditoria.png
@@ -8,6 +10,8 @@ feed: 1
 folder: seo
 lang: es_ES
 permalink: eliminar-trafico-spam-robots
+
+---
 
 En ocasiones los sistemas de analítica web reflejan picos de tráfico de referencia de dominios que nunca nos han enlazado y tráfico desde países que no tiene sentido. Se trata de  **tráfico SPAM**  y/o  **generado por robots**. Más allá de que pueden consumir una parte de los recursos de nuestro servidor, el verdadero problema reside en que  **nuestra analítica se distorsiona**  y terminamos analizando un tráfico que no aporta ningún valor.
 
@@ -48,5 +52,5 @@ Para ello recomiendo generar una nueva vista de análisis que excluya el segment
 
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es  [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html)  para los  **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA5MjE4MDVdfQ==
+eyJoaXN0b3J5IjpbOTM1MjU3NDYxXX0=
 -->
