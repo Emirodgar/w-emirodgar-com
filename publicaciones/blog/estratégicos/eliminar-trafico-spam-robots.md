@@ -26,13 +26,13 @@ Ojo, por sí solo esto no es indicativo de que se trate de robots, lógicamente 
 
 ## 2- Bloqueamos los accesos
 
-### 2.1 - BLOQUEAMOS A LOS ROBOTS DE BÚSQUEDA CONOCIDOS
+### 2.1 - Bloquear a los robots de búsqueda conocidos
 
 En el caso de Google Analytics Universal, disponemos de una  opción dentro de nuestro panel de administración `Vista` > `Configuración de la vista` > `Filtrado de robots`  para bloquear el tráfico generado por robots de búsqueda conocidos. Bastará con hacer clic sobre la opción de `Excluir todos los hits de robots y de arañas conocidos`.  Una vez activado, nuestra herramienta excluirá todo el tráfico que "entienda" que no está generado por personas.
 
-![Caso de éxito migración SEO - Emirodgar](https://emirodgar.com){:class="img-responsive"}
+![Emirodgar - excluir Analytics tráfico generado por robots](https://emirodgar.com/cdn/images/posts/analytics-filtrado-robots.jpg){:class="img-responsive"}
 
-### 2.2 - BLOQUEAMOS A LOS SPAMMERS
+### 2.2 - Bloquear tráfico SPAM
 
 El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico que son conocidos por hacer SPAM. Lo haremos a nivel de servidor (por ejemplo en Apache con el fichero .htaccess) bloqueando por IP y  _User Agent_. Existen  [multitud de listas negras](http://tab-studio.com/en/blocking-robots-on-your-page/)  que podemos utilizar e incorporar a nuestro proyecto para, con un copiar y pegar, bloquear cientos de fuentes SPAM.
 
@@ -48,5 +48,5 @@ Para ello podemos generar una nueva vista de análisis que excluya el segmento d
 
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es  [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html)  para los  **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDk0NjIzMV19
+eyJoaXN0b3J5IjpbLTE0ODU0MTY4MTVdfQ==
 -->
