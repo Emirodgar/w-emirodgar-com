@@ -37,7 +37,9 @@ En el caso de Google Analytics Universal, disponemos de una  opción dentro de n
 
 ### 2.2 - Bloquear tráfico SPAM
 
-El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico que son conocidos por hacer SPAM. Lo haremos a nivel de servidor (por ejemplo en Apache con el fichero .htaccess) bloqueando por `dirección IP` y  `User Agent`. Existen  [multitud de listas negras](http://tab-studio.com/en/blocking-robots-on-your-page/)  que podemos utilizar e incorporar a nuestro proyecto para, con un copiar y pegar, bloquear cientos de fuentes SPAM. Yo tengo mi propia lista de [robots spam](https://emirodgar.com/listado-robots-bloquear).
+El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico que son conocidos por hacer SPAM. Lo haremos a nivel de servidor (por ejemplo en Apache con el fichero .htaccess) bloqueando por `dirección IP` y  `User Agent`. 
+
+> Existen  [multitud de listas negras](http://tab-studio.com/en/blocking-robots-on-your-page/)  que podemos utilizar e incorporar a nuestro proyecto para, con un copiar y pegar, bloquear cientos de fuentes SPAM. Yo tengo mi propia lista de [robots spam](https://emirodgar.com/listado-robots-bloquear).
 
 Este paso, aunque nos ayudará a reducir considerablemente el tráfico SPAM, no es una solución definitiva ya que tendremos que **actualizar frecuentemente el listado** de fuentes bloqueadas.
 
@@ -51,6 +53,6 @@ Para ello recomiendo generar una nueva vista de análisis que excluya el segment
 
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es  [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html)  para los  **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDQxNDgwMSwtMTg4NTAzMzg0LC0xMz
-AyMDE3NTI5XX0=
+eyJoaXN0b3J5IjpbLTExMDMwODQ0OTEsLTE4ODUwMzM4NCwtMT
+MwMjAxNzUyOV19
 -->
