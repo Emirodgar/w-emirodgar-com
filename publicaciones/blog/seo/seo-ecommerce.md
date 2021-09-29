@@ -35,8 +35,10 @@ Este servicio está comúnmente asociado a estrategias de [SEO local](https://em
 
 ### Canales de pago
 
-Aunque no es SEO, sí puede ser un buen complemento a nuestra es
+Aunque no es SEO, sí puede ser un buen complemento a nuestra estrategia y ayudarnos así a conseguir una mayor visibilidad en los resultados de búsqueda, tanto pagados (campañas de pago) como gratuitos (seo/orgánico).
+
+A nivel de Google tenemos Google Ads (que son los anuncios pagados que aparecen antes de los resultados SEO) y también Google Merchant Center, donde podremos publicar directamente nuestros productos en la pestaña de Shopping / Compras de los resultados de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzM4NTUzNiwtMTE3ODgyNzYyMCw2ND
-QyNjk1OTRdfQ==
+eyJoaXN0b3J5IjpbLTEwOTQxNTY5MDUsLTExNzg4Mjc2MjAsNj
+Q0MjY5NTk0XX0=
 -->
