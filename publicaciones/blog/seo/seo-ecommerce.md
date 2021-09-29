@@ -48,12 +48,14 @@ Tener presencia en Google Maps y a nivel de empresa dentro de los resultados de 
 
 Este servicio está comúnmente asociado a estrategias de [SEO local](https://emirodgar.com/posicionamiento-seo-local) pero va mucho más allá al permitirnos ofrecer a nuestros potenciales clientes productos y servicios así como análisis de las búsquedas por las que nos encuentran, definir horarios de atención al cliente, formas de contacto, etc.
 
+Al igual que en el primer
+
 ### Canales de pago
 
 Aunque no es SEO, sí puede ser un buen complemento a nuestra estrategia y ayudarnos así a conseguir una mayor visibilidad en los resultados de búsqueda, tanto pagados (campañas de pago) como gratuitos (seo/orgánico).
 
 A nivel de Google tenemos Google Ads (que son los anuncios pagados que aparecen antes de los resultados SEO) y también Google Merchant Center, donde podremos publicar directamente nuestros productos en la pestaña de Shopping / Compras de los resultados de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0ODEyNTM0LDE4NzA4Mjc3MzUsLTEwMz
-YyOTMyNDYsLTExNzg4Mjc2MjAsNjQ0MjY5NTk0XX0=
+eyJoaXN0b3J5IjpbLTEwMTgzMTYxMTcsMTg3MDgyNzczNSwtMT
+AzNjI5MzI0NiwtMTE3ODgyNzYyMCw2NDQyNjk1OTRdfQ==
 -->
