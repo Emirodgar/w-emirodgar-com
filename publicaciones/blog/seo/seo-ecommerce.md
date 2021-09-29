@@ -23,7 +23,7 @@ Será decisión final del usuario visitar o no nuestra página pero al menos est
 
 ## Búsquedas de imágenes
 
-Los materiales multimedia tales como
+Las imágenes juegan un papel fundamental a la hora de conseguir vender nuestros productos, por ello es importante que [estén bien optimizadas](https://emirodgar.com/optimizacion-imagenes-seo) para que .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTM0MzczOTIsNjQ0MjY5NTk0XX0=
+eyJoaXN0b3J5IjpbLTExNzg4Mjc2MjAsNjQ0MjY5NTk0XX0=
 -->
