@@ -23,8 +23,10 @@ Será decisión final del usuario visitar o no nuestra página pero al menos est
 
 ## Búsquedas de imágenes
 
-Las imágenes juegan un papel fundamental a la hora de conseguir vender nuestros productos, por ello es importante que [estén bien optimizadas](https://emirodgar.com/optimizacion-imagenes-seo) para que se.
+Las imágenes juegan un papel fundamental a la hora de conseguir vender nuestros productos, por ello es importante que [estén bien optimizadas](https://emirodgar.com/optimizacion-imagenes-seo) para que sean indexadas y ofrecidas en los portales específicos para ello como [Google Imágenes](https://www.google.es/imghp?hl=es).
+
+Gracias a este servicio un potencial comprador podría hacer una búsqueda inversa (a través de una imagen que tiene del producto que quiere comprar) y terminar llegando a nuestro ecommerce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjcyOTQ4NjYsLTExNzg4Mjc2MjAsNj
-Q0MjY5NTk0XX0=
+eyJoaXN0b3J5IjpbMTI3Mzc1OTQxNywtMTE3ODgyNzYyMCw2ND
+QyNjk1OTRdfQ==
 -->
