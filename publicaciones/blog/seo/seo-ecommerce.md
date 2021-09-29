@@ -34,6 +34,8 @@ Dentro de los múltiples campos que podemos utilizar para etiquetar un `Product`
 -   Para mostrar la información de tu producto en el **visor de imágenes enriquecidas** debemos incluir las propiedades  `name`,  `image`,  `price`  y  `priceCurrency`.
 -   Para mostrar la información de tu producto en la función de **artículos relacionados** debemos incluir las propiedades  `name`,  `image`,  `price`,  `priceCurrency`  y  `availability`.
 
+Una vez implementados podemos hacer uso del validador de Schema
+
 ### Búsquedas de imágenes
 
 Las imágenes juegan un papel fundamental a la hora de conseguir vender nuestros productos, por ello es importante que [estén bien optimizadas](https://emirodgar.com/optimizacion-imagenes-seo) para que sean indexadas y ofrecidas en los portales específicos para ello como [Google Imágenes](https://www.google.es/imghp?hl=es) o Google Lens (app).
@@ -52,6 +54,6 @@ Aunque no es SEO, sí puede ser un buen complemento a nuestra estrategia y ayuda
 
 A nivel de Google tenemos Google Ads (que son los anuncios pagados que aparecen antes de los resultados SEO) y también Google Merchant Center, donde podremos publicar directamente nuestros productos en la pestaña de Shopping / Compras de los resultados de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5OTYwNTA5LC0xMDM2MjkzMjQ2LC0xMT
+eyJoaXN0b3J5IjpbODIxMjgxNDQyLC0xMDM2MjkzMjQ2LC0xMT
 c4ODI3NjIwLDY0NDI2OTU5NF19
 -->
