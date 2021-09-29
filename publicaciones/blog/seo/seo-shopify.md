@@ -60,7 +60,7 @@ El robots.txt debería ser usado únciamente para evitar el acceso a las siguien
 
 A medida que pasa el tiempo vamos actualizando, eliminando y creando nuevas URLs. Cuando dejamos atrás una página o queremos consolidar varias para evitar contenido duplicado, debemos hacerlo a través de una **redirección 301** para asegurarnos que la popularidad SEO asociada a las mismas no se pierde. 
 
-Por desgracia Shopify no dispone de este comportamiento de forma a por lo que la única opción que nos queda es implementarlas de forma individual desde 
+Por desgracia Shopify no dispone de este comportamiento de forma automática por lo que la única opción que nos queda es implementarlas de forma individual desde: 
 
     Tienda Online > Navegación > Redirecciones
 
@@ -80,7 +80,7 @@ Los que recomiendo incluir son:
 
 En cualquier ecommerce las imágenes son un factor clave y muy relevante. El hecho de que estén completamente optimizadas nos ayudará a que la navegación sea más fluida y la experiencia de los usuarios lo más adecuada posible.
 
-Existen múltiples plugins para integrarse con Shopify, por ejemplo [Crush](https://crush.pics/platforms/shopify). Cualquiera que facilite la compresión de las imágenes será válido.
+Existen múltiples plugins para integrarse con Shopify, por ejemplo [Crush](https://crush.pics/platforms/shopify). Cualquiera que facilite la compresión de las imágenes será válido. También podemos de forma externa a Shopify con aplicaciones como 
 
 ### Ajustar las apps necesarias para que el tiempo de carga 
 
@@ -96,7 +96,7 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzYxOTcwMCwtMTYwMjczNDU0NywtNj
+eyJoaXN0b3J5IjpbMTEyMDcxNzA4NSwtMTYwMjczNDU0NywtNj
 c4Njc1Mjg5LDk4NTMyOTQ2NywtMTcyNzA1NTkzMiwtMTA0OTQ5
 ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMjI1NTEyNjg0LD
 QxMDUwNDYwOSw1NzI4OTg3NTddfQ==
