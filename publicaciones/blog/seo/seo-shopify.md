@@ -16,11 +16,7 @@ Actualmente cerca del 4,5% de los principales ecommerces del mundo hacen uso de 
 
 En esta guía quiero trasladar las principales recomendaciones SEO que he trabajado en portales Shopify. Algunas serán comunes a otros portales, otras son específicas de esta plataforma.
 
-## Puntos a trabajar dentro de Shopify
-
-Por defecto -y sin una configuración adecuada- en Shopify, los puntos que debemos trabajar y mejorar serán:
-
-### Evitar contenido duplicado debido a la arquitectura y enlazado interno.
+## Evitar contenido duplicado debido a la arquitectura y enlazado interno
 
 Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguiente manera:
 
@@ -36,21 +32,21 @@ En la siguiente imagen podemos ver un ejemplo de múltiples búsquedas de produc
 
 Por ello, personalizar cada "modelo + color" tanto en contenido como en idioma en este caso es crucial para poder aspirar a la máxima captación posible.
 
-## Cómo bloquear la indexación de URLs en Shopify
+### Cómo bloquear la indexación de URLs en Shopify
  
 Como medida inicial antes de que se haya indexado, podemos hacer uso del [robots.txt para no permitir el rastreo](https://help.shopify.com/en/manual/promoting-marketing/seo/hide-a-page-from-search-engines) pero ojo, eso no garantiza que no sea indexado si Google lo considera de valor. Por ello necesitaremos aplicar la **etiqueta noindex**.
 
 En el caso de Shopify, la etiqueta noindex debe ser programada directamente desde el template de una forma similar a la expuesta a continuación:
 
 ```
-{% if template contains 'search' %}
+{ % if template contains 'search' % }
     <meta name="robots" content="noindex">
-{% endif %} 
+{ % endif % } 
 ```
 
 En el ejemplo anterior estamos bloqueando la indexación de las páginas de búsqueda por lo que el código deberá ser actualizado para adaptarse a aquellas partes que queramos que no sean indexadas.
 
-## Accesos bloqueados a través del robots.txt
+### Accesos bloqueados a través del robots.txt
 
 El robots.txt debería ser usado únciamente para evitar el acceso a las siguientes secciones que requieren de un proceso de identificación previo o cuyas páginas tienen escaso valor SEO:
 
@@ -69,7 +65,7 @@ Por desgracia no hay una forma -a excepción del servidor web- para hacerlo de f
     Tienda Online > Navegación > Redirecciones
 
 
-### Añadir datos estructurados, principalmente de breadcrumb y productos.
+## Añadir datos estructurados, principalmente de breadcrumb y productos
 
 Los datos estructurados nos ayudarán a transmitir información relevante a los buscadores y facilitar por tanto la rápido acceso a datos clave asociados tanto al producto como a la navegación del sitio.
 
@@ -100,8 +96,8 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjI3MjYxNywtMTYwMjczNDU0NywtNj
-c4Njc1Mjg5LDk4NTMyOTQ2NywtMTcyNzA1NTkzMiwtMTA0OTQ5
-ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMjI1NTEyNjg0LD
-QxMDUwNDYwOSw1NzI4OTg3NTddfQ==
+eyJoaXN0b3J5IjpbLTI1MDQxODU5LC0xNjAyNzM0NTQ3LC02Nz
+g2NzUyODksOTg1MzI5NDY3LC0xNzI3MDU1OTMyLC0xMDQ5NDk4
+MTgxLDE3OTM3NTM3MTIsNzAzMDM1ODI2LC0yMjU1MTI2ODQsND
+EwNTA0NjA5LDU3Mjg5ODc1N119
 -->
