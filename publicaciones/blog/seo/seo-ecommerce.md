@@ -25,9 +25,11 @@ Será decisión final del usuario visitar o no nuestra página pero al menos est
 
 En los ecommerce más del 90% de las páginas son productos que queremos vender por ello es recomendable hacer uso de datos estructurados que permitan a los buscadores extraer la información relevante de forma simple y enriquecer nuestros resultados en las futuras búsquedas.
 
-Para ello tendremos que incluir en las páginas de producto el [código estructurado "](https://developers.google.com/search/docs/advanced/structured-data/product).
+Para ello tendremos que incluir en las páginas de producto el [código estructurado "Product"](https://developers.google.com/search/docs/advanced/structured-data/product).
 
-> Google no permite etiquetar contenido para adultos
+> Google no permite enviar en los datos estructurados contenido diferente al mostrado en la web.
+
+
 
 -   **Para mostrar la información de tu producto en el visor de imágenes enriquecidas:**  incluye las propiedades  `name`,  `image`,  `price`  y  `priceCurrency`.
 -   **Para mostrar la información de tu producto en la función Artículos relacionados:**  incluye las propiedades  `name`,  `image`,  `price`,  `priceCurrency`  y  `availability`.
@@ -50,6 +52,6 @@ Aunque no es SEO, sí puede ser un buen complemento a nuestra estrategia y ayuda
 
 A nivel de Google tenemos Google Ads (que son los anuncios pagados que aparecen antes de los resultados SEO) y también Google Merchant Center, donde podremos publicar directamente nuestros productos en la pestaña de Shopping / Compras de los resultados de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjcyMTE2NCwtMTAzNjI5MzI0NiwtMT
+eyJoaXN0b3J5IjpbMTI4ODg1MTYxNCwtMTAzNjI5MzI0NiwtMT
 E3ODgyNzYyMCw2NDQyNjk1OTRdfQ==
 -->
