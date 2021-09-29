@@ -46,7 +46,9 @@ La mayoría de las métricas de interacción se pueden medir en el informe de an
 
 > Si no somos capaces de crear interacción con los usuarios las posibilidades que tendremos que aparecer en las búsquedas por nuestras palabras clave son bajas.
 
-A nivel SEO podemos agrupar las métricas para definir la calidad
+## Análisis de la caalidad SEO
+
+A nivel SEO podemos agrupar las métricas en los bloques de captación, calidad, interacción y fidelización para emular el buyer journey de nuestros usuarios con los vídeos y facilitar su posterior análisis. 
 
 -   **Captación**  
      -   Aparición en listados de resultados
@@ -59,24 +61,13 @@ A nivel SEO podemos agrupar las métricas para definir la calidad
      - Tiempo promedio de visualización 
   
 -   **Interacción**  
-     -   Aparición en listados de resultados
-     -    CTR (veces que aparecemos / veces que ven el vídeo)  
+     -   Clics en la pantalla final
+     -  Clics en tarjetas   
 
--   Interacción  
+-   **Fidelización**  
+     -   Suscripción
       
-    
-
--   Clics en la pantalla final
-    
--   Clics en tarjetas  
-      
-    
-
--   Fidelización  
-      
-    
-
--   Suscripción
+  
 
 Para poder **conseguir más visualizaciones en nuestros vídeos** podemos seguir el siguiente esquema de trabajo.
 
@@ -197,6 +188,6 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMDQ2OTE0LDIwOTAxOTI1OTMsLTE2ND
+eyJoaXN0b3J5IjpbMjQyOTQ0NzA1LDIwOTAxOTI1OTMsLTE2ND
 YyOTU4NTgsOTc1OTA2Nzg1LDE1NDY5NTYyODFdfQ==
 -->
