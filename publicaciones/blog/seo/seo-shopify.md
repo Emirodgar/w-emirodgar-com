@@ -36,15 +36,17 @@ Por ejemplo, en la siguiente imagen podemos ver un ejemplo de múltiples búsque
 
 Por ello, personalizar cada "modelo + color" tanto en contenido como en idioma en este caso es crucial para poder aspirar a la máxima captación posible.
 
-
+## Cómo bloquear la indexación de URLs en Shopify
  
- En el caso de que no seamos capaces de limitar los accesos a nivel técnico, podemos hacer uso del [robots.txt para no permitir el rastreo](https://help.shopify.com/en/manual/promoting-marketing/seo/hide-a-page-from-search-engines) pero ojo, eso no evitará su indexación. Para ello necesitaremos aplicar la etiqueta noindex.
+En el caso de que no seamos capaces de limitar los accesos a nivel técnico, podemos hacer uso del [robots.txt para no permitir el rastreo](https://help.shopify.com/en/manual/promoting-marketing/seo/hide-a-page-from-search-engines) pero ojo, eso no evitará su indexación. Para ello necesitaremos aplicar la etiqueta noindex.
 
 En el caso de Shopify, debemos programarlo directamente desde el template de la siguiente manera:
 
-    {% if template contains 'search' %}
+```
+{% if template contains 'search' %}
     <meta name="robots" content="noindex">
-    {% endif %} 
+{% endif %} 
+```
 
 Lógicamente necesitaremos especificar cada caso (condición) en la que queramos que aparezca el noindex y por lo tanto dichas URLs no sean indexadas.
 
@@ -96,8 +98,8 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc1NjkyMzQsLTE2MDI3MzQ1NDcsLT
-Y3ODY3NTI4OSw5ODUzMjk0NjcsLTE3MjcwNTU5MzIsLTEwNDk0
-OTgxODEsMTc5Mzc1MzcxMiw3MDMwMzU4MjYsLTIyNTUxMjY4NC
-w0MTA1MDQ2MDksNTcyODk4NzU3XX0=
+eyJoaXN0b3J5IjpbLTYxNTUxMjA0MiwtMTYwMjczNDU0NywtNj
+c4Njc1Mjg5LDk4NTMyOTQ2NywtMTcyNzA1NTkzMiwtMTA0OTQ5
+ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMjI1NTEyNjg0LD
+QxMDUwNDYwOSw1NzI4OTg3NTddfQ==
 -->
