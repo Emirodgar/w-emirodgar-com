@@ -6,7 +6,7 @@ layout: emirodgar_post
 author: Emirodgar
 sitemap: 1
 feed: 1
-folder: seo
+folder: analitica
 lang: es_ES
 permalink: eliminar-trafico-spam-robots
 
@@ -53,5 +53,5 @@ Para ello recomiendo generar una nueva vista de análisis que excluya el segment
 
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es  [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html)  para los  **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYwMjkwMTddfQ==
+eyJoaXN0b3J5IjpbLTI0ODY5Mzg0MiwtMTMxNjAyOTAxN119
 -->
