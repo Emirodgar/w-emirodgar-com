@@ -62,7 +62,7 @@ A nivel SEO podemos agrupar las métricas en los bloques de captación, calidad,
 -   **Fidelización**  
      -   Suscripción
       
-  Podemos discernir dos escenarios principales, cómo estamos bien 
+Podemos discernir dos escenarios: **cómo estamos posicionados** y **cómo interactúan los usuarios** con nuestros vídeos. El objetivo es conseguir un equilibrio lógico en ambos. 
       
 > Si no somos capaces de crear interacción con los usuarios las posibilidades que tendremos que aparecer en las búsquedas por nuestras palabras clave son bajas.
   
@@ -186,7 +186,7 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA2MTE4NCwtMTkwNjY3MTkyLDIwOT
+eyJoaXN0b3J5IjpbMTY4NzEwNzUxMywtMTkwNjY3MTkyLDIwOT
 AxOTI1OTMsLTE2NDYyOTU4NTgsOTc1OTA2Nzg1LDE1NDY5NTYy
 ODFdfQ==
 -->
