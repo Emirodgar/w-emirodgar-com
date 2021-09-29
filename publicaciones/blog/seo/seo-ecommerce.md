@@ -21,7 +21,7 @@ Para aparecer mejor posicionados tendremos que alinearnos con los [factores SEO]
 
 Será decisión final del usuario visitar o no nuestra página pero al menos estaremos apareciendo en búsquedas de nuestros potenciales clientes. Este será un buen momento para trabajar estrategias de optimización sobre los [títulos y descripciones](https://emirodgar.com/titulos-descripciones-seo) para mejorar el [CTR de nuestros resultados](https://emirodgar.com/ctr-resultados-google).
 
-#### Uso de datos estructurados
+#### Uso de datos estructurados 
 
 En los ecommerce más del 90% de las páginas son productos que queremos vender por ello es recomendable hacer uso de datos estructurados que permitan a los buscadores extraer la información relevante de forma simple y enriquecer nuestros resultados en las futuras búsquedas.
 
@@ -33,6 +33,8 @@ Dentro de los múltiples campos que podemos utilizar para etiquetar un `Product`
 
 -   Para mostrar la información de tu producto en el **visor de imágenes enriquecidas** debemos incluir las propiedades  `name`,  `image`,  `price`  y  `priceCurrency`.
 -   Para mostrar la información de tu producto en la función de **artículos relacionados** debemos incluir las propiedades  `name`,  `image`,  `price`,  `priceCurrency`  y  `availability`.
+
+Aunque Product es el más relevante, recomend
 
 Una vez implementados haremos uso del [validador de Schema.org](https://validator.schema.org/) para saber que están bien y la [prueba de resultados enriquecidos](https://search.google.com/test/rich-results) para saber si podrán ser utilizados en los resultados de búsqueda.
 
@@ -48,7 +50,6 @@ Tener presencia en Google Maps y a nivel de empresa dentro de los resultados de 
 
 Este servicio está comúnmente asociado a estrategias de [SEO local](https://emirodgar.com/posicionamiento-seo-local) pero va mucho más allá al permitirnos ofrecer a nuestros potenciales clientes productos y servicios así como análisis de las búsquedas por las que nos encuentran, definir horarios de atención al cliente, formas de contacto, etc.
 
-Al igual que en el primer
 
 ### Canales de pago
 
@@ -56,6 +57,6 @@ Aunque no es SEO, sí puede ser un buen complemento a nuestra estrategia y ayuda
 
 A nivel de Google tenemos Google Ads (que son los anuncios pagados que aparecen antes de los resultados SEO) y también Google Merchant Center, donde podremos publicar directamente nuestros productos en la pestaña de Shopping / Compras de los resultados de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgzMTYxMTcsMTg3MDgyNzczNSwtMT
-AzNjI5MzI0NiwtMTE3ODgyNzYyMCw2NDQyNjk1OTRdfQ==
+eyJoaXN0b3J5IjpbLTI0NTAxMzgxMSwxODcwODI3NzM1LC0xMD
+M2MjkzMjQ2LC0xMTc4ODI3NjIwLDY0NDI2OTU5NF19
 -->
