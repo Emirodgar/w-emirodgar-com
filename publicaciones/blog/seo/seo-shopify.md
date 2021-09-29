@@ -27,7 +27,7 @@ Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguie
  - **Duplicidad de productos**: vigilemos las URLs de `/products/` y `collections/.*/products/` ya que a veces se generan duplicidades al no establecer bien la etiqueta canónica. Es crucial dejar sólo una versión indexable y asegurarnos de que Google entiende bien la canonical. Para ello será importante reforzar el enlazado interno de esa versión.
  - **Paginación de productos**: debemos evitar que éstas sean indexables aunque sí debemos permitir que Google acceda a las mismas. Por tanto tendrán que tener la metaetiqueta `noindex, follow`
  - **Variantes de un mismo producto**: mucho cuidado cuando generamos múltiples variantes de un producto que apenas aportan valor diferencial. Por ejemplo, diferentes colores, tamaños o cambios nimios. Es preferible trabajarlo a nivel de contenido sobre una única página que crear múltiples. Recomiendo [leer esta guía](https://www.searchenginejournal.com/seo-best-practices-for-color-variations/265323/) para profundizar tanto en el problema como en la solución. No obstante, en el caso de que nuestros productos se busquen
- ![Caso de éxito migración SEO - Emirodgar](https://emirodgar.com/cdn/images){:class="img-responsive"}
+ ![Caso de éxito migración SEO - Emirodgar](https://emirodgar.com/cdn/images/posts/){:class="img-responsive"}
 
 
  
@@ -89,7 +89,7 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjEwMTM3MCw5ODUzMjk0NjcsLTE3Mj
+eyJoaXN0b3J5IjpbLTY3ODY3NTI4OSw5ODUzMjk0NjcsLTE3Mj
 cwNTU5MzIsLTEwNDk0OTgxODEsMTc5Mzc1MzcxMiw3MDMwMzU4
 MjYsLTIyNTUxMjY4NCw0MTA1MDQ2MDksNTcyODk4NzU3XX0=
 -->
