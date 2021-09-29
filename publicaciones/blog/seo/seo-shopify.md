@@ -40,7 +40,7 @@ Por ello, personalizar cada "modelo + color" tanto en contenido como en idioma e
  
 Como medida inicial antes de que se haya indexado, podemos hacer uso del [robots.txt para no permitir el rastreo](https://help.shopify.com/en/manual/promoting-marketing/seo/hide-a-page-from-search-engines) pero ojo, eso no garantiza que no sea indexado si Google lo considera de valor. Por ello necesitaremos aplicar la **etiqueta noindex**.
 
-En el caso de Shopify, debemos programarlo directamente desde el template de la siguiente manera:
+En el caso de Shopify, la etiqueta noindex debe ser programada directamente desde el template de una forma similar a la expuesta a continuación:
 
 ```
 {% if template contains 'search' %}
@@ -98,8 +98,8 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4NzY4NjY5LC0xNjAyNzM0NTQ3LC02Nz
-g2NzUyODksOTg1MzI5NDY3LC0xNzI3MDU1OTMyLC0xMDQ5NDk4
-MTgxLDE3OTM3NTM3MTIsNzAzMDM1ODI2LC0yMjU1MTI2ODQsND
-EwNTA0NjA5LDU3Mjg5ODc1N119
+eyJoaXN0b3J5IjpbMTg5MzI5MTg1NCwtMTYwMjczNDU0NywtNj
+c4Njc1Mjg5LDk4NTMyOTQ2NywtMTcyNzA1NTkzMiwtMTA0OTQ5
+ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMjI1NTEyNjg0LD
+QxMDUwNDYwOSw1NzI4OTg3NTddfQ==
 -->
