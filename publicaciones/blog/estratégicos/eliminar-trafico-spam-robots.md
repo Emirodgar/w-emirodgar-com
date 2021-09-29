@@ -27,7 +27,7 @@ El primer paso será asegurarnos de que realmente tenemos tráfico SPAM o de rob
 
 Ojo, por sí solo esto no es indicativo de que se trate de robots, por lo que tenemos que ver si existe un segmento de nuestro tráfico que corresponde con estas características y, de ser así, analizarlo para determinar si se trata de **tráfico malo o de baja calidad**.
 
-## 2- Bloqueamos los accesos
+## 2- Bloquear los accesos
 
 ### 2.1 - Bloquear a los robots de búsqueda conocidos
 
@@ -51,5 +51,5 @@ Para ello recomiendo generar una nueva vista de análisis que excluya el segment
 
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es  [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html)  para los  **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDIwMTc1MjldfQ==
+eyJoaXN0b3J5IjpbLTE4ODUwMzM4NCwtMTMwMjAxNzUyOV19
 -->
