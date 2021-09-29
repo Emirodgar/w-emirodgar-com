@@ -28,7 +28,9 @@ Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguie
  - **Paginación de productos**: debemos evitar que éstas sean indexables aunque sí debemos permitir que Google acceda a las mismas. Por tanto tendrán que tener la metaetiqueta `noindex, follow`
  - **Variantes de un mismo producto**: mucho cuidado cuando generamos múltiples variantes de un producto que apenas aportan valor diferencial. Por ejemplo, diferentes colores, tamaños o cambios nimios. Es preferible trabajarlo a nivel de contenido sobre una única página que crear múltiples. Recomiendo [leer esta guía](https://www.searchenginejournal.com/seo-best-practices-for-color-variations/265323/) para profundizar tanto en el problema como en la solución. 
 
-Cada ecommerce tiene un mercado, público oEn el caso de que nuestros productos se busquen asociados a colores, ahí sí será importante generar una versión específica para cada uno de ellos puesto que de esa forma podremos optar a una captación relevante
+Cada ecommerce tiene un mercado, público objetivo y estrategia digital diferente por lo que las recomendaciones genéricas deben adaptarse. En el caso de que nuestros productos se busquen asociados a colores, será importante generar una versión específica para cada uno de ellos puesto que de esa forma podremos optar a una captación relevante.
+
+Por ejemplo, en la siguiente imagen podemos ver un ejemplo de múltiples búsquedas de productos con colores para los que no estamos bien posicionados y cuya captación es inexistente puesto que sólo ofrecemos una versión de color 
 
  ![Caso de éxito migración SEO - Emirodgar](https://emirodgar.com/cdn/images/posts/gsc-colores-shopify.jpg){:class="img-responsive"}
 
@@ -92,8 +94,8 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjUxNzAsLTE2MDI3MzQ1NDcsLTY3OD
-Y3NTI4OSw5ODUzMjk0NjcsLTE3MjcwNTU5MzIsLTEwNDk0OTgx
-ODEsMTc5Mzc1MzcxMiw3MDMwMzU4MjYsLTIyNTUxMjY4NCw0MT
-A1MDQ2MDksNTcyODk4NzU3XX0=
+eyJoaXN0b3J5IjpbLTE3NzQyNDAzOTYsLTE2MDI3MzQ1NDcsLT
+Y3ODY3NTI4OSw5ODUzMjk0NjcsLTE3MjcwNTU5MzIsLTEwNDk0
+OTgxODEsMTc5Mzc1MzcxMiw3MDMwMzU4MjYsLTIyNTUxMjY4NC
+w0MTA1MDQ2MDksNTcyODk4NzU3XX0=
 -->
