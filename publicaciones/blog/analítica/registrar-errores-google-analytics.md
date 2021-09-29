@@ -7,8 +7,6 @@ layout: emirodgar_post
 sitemap: 1
 feed: 1
 folder: analitica
-date: 28/06/2019
-date_modified: 13/05/2021
 image: https://emirodgar.com/cdn/images/og/analitica.png
 permalink: registrar-errores-web-con-google-analytics-tag-manager
 
@@ -82,7 +80,8 @@ A partir de ahora podremos utilizar esta nueva dimensión en cualquiera de nuest
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Y así de rápido podremos disponer en nuestros informes de la dimensión &#39;Estado HTTP&#39; para poder analizar y ubicar rápidamente dónde estamos generando errores. <a href="https://t.co/a3b4eHVwts">pic.twitter.com/a3b4eHVwts</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1009392061945139200?ref_src=twsrc%5Etfw">June 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4Mzg0MzI1LDEzOTg3OTM2ODUsMTIyOD
-kyMTE5NywtMTQ4MzA4MDM5MSw4MDYzMDM4NTksMTAwNjk1NjYw
-MSwtMTkwNzU3MDQyMCwtMTI4MTIxNjI4OF19
+eyJoaXN0b3J5IjpbLTU1ODU1MDEzMSw0MjgzODQzMjUsMTM5OD
+c5MzY4NSwxMjI4OTIxMTk3LC0xNDgzMDgwMzkxLDgwNjMwMzg1
+OSwxMDA2OTU2NjAxLC0xOTA3NTcwNDIwLC0xMjgxMjE2Mjg4XX
+0=
 -->
