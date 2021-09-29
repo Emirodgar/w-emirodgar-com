@@ -42,11 +42,11 @@ Este paso, aunque nos ayudará a reducir considerablemente el tráfico SPAM, no 
 
 Como hemos visto hasta ahora, no existe una solución definitiva para hacer frente a todo el tráfico SPAM o generado por bots pero lo que sí podemos hacer es -con lo que no haya sido bloqueado hasta este punto- excluirlo de nuestros análisis.
 
-Para ello recomiendo generar una nueva vista de análisis que excluya el segmento de tráfico identificado en el punto 1. De esta forma nos aseguraremos que dicha vista incluirá únicamente tráfico relevante para ser analizado. Es importante que siempre mantengamos una vista sin filtros (con datos en bruto) para evitar perder información.
+Para ello recomiendo generar una nueva vista de análisis que excluya el segmento de tráfico identificado en el punto 1. De esta forma nos aseguraremos que dicha vista incluirá únicamente tráfico relevante para ser analizado. Es importante que siempre mantengamos una vista sin filtros (con datos en bruto/raw) para evitar perder información.
 
-## 4 - OTRAS ACCIONES
+## 4 - Otras acciones
 
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es  [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html)  para los  **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgzNDIwMDZdfQ==
+eyJoaXN0b3J5IjpbLTE5MzE0Mjc5NTFdfQ==
 -->
