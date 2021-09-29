@@ -25,7 +25,7 @@ Será decisión final del usuario visitar o no nuestra página pero al menos est
 
 En los ecommerce más del 90% de las páginas son productos que queremos vender por ello es recomendable hacer uso de datos estructurados que permitan a los buscadores extraer la información relevante de forma simple y enriquecer nuestros resultados en las futuras búsquedas.
 
-Para ello tendremos que incluir sólo en las páginas de producto
+Para ello tendremos que incluir en las páginas de producto el código estructurado
 
 
 ### Búsquedas de imágenes
@@ -46,6 +46,6 @@ Aunque no es SEO, sí puede ser un buen complemento a nuestra estrategia y ayuda
 
 A nivel de Google tenemos Google Ads (que son los anuncios pagados que aparecen antes de los resultados SEO) y también Google Merchant Center, donde podremos publicar directamente nuestros productos en la pestaña de Shopping / Compras de los resultados de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2MDIyNjc0LC0xMDM2MjkzMjQ2LC0xMT
-c4ODI3NjIwLDY0NDI2OTU5NF19
+eyJoaXN0b3J5IjpbLTEwMDU1NjU5NzAsLTEwMzYyOTMyNDYsLT
+ExNzg4Mjc2MjAsNjQ0MjY5NTk0XX0=
 -->
