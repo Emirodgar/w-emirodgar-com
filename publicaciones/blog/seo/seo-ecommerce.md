@@ -13,6 +13,8 @@ permalink: seo-ecommerce
 
 ## ¿Cómo podemos potenciar las ventas a través del SEO?
 
+Trabajar el S
+
 ### Resultados orgánicos
 
 La primera aproximación -y más conocida- es a través de los **resultados de búsqueda orgánicos**. Los buscadores rastrean e indexan las diversas páginas de nuestro sitio web y cuando consideran que puede aportar valor a un usuario, se lo ofrecen.
@@ -64,6 +66,7 @@ Aunque no es SEO, sí puede ser un buen complemento a nuestra estrategia y ayuda
 
 A nivel de Google tenemos Google Ads (que son los anuncios pagados que aparecen antes de los resultados SEO) y también Google Merchant Center, donde podremos publicar directamente nuestros productos en la pestaña de Shopping / Compras de los resultados de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDE4NDM3MCwxODcwODI3NzM1LC0xMD
-M2MjkzMjQ2LC0xMTc4ODI3NjIwLDY0NDI2OTU5NF19
+eyJoaXN0b3J5IjpbLTE3MTY2NTIwMjUsMTgxNDE4NDM3MCwxOD
+cwODI3NzM1LC0xMDM2MjkzMjQ2LC0xMTc4ODI3NjIwLDY0NDI2
+OTU5NF19
 -->
