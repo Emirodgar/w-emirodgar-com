@@ -31,8 +31,12 @@ Gracias a esto un potencial comprador podría hacer una búsqueda inversa (a tra
 
 Tener presencia en Google Maps y a nivel de empresa dentro de los resultados de búsqueda de Google sólo será posible a través de un perfil de My Business.
 
-Este servicio está comúnmente asociado a estrategias de [SEO local](https://emirodgar.com/posicionamiento-seo-local) pero va mucho más allá al permitirnos ofrecer productos, servicios, horarios de atención al cliente o incluso direc
+Este servicio está comúnmente asociado a estrategias de [SEO local](https://emirodgar.com/posicionamiento-seo-local) pero va mucho más allá al permitirnos ofrecer a nuestros potenciales clientes productos y servicios así como análisis de las búsquedas por las que nos encuentran, definir horarios de atención al cliente, formas de contacto, etc.
+
+### Canales de pago
+
+Aunque no es SEO, sí puede ser un buen complemento a nuestra es
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDA4MTQ0MSwtMTE3ODgyNzYyMCw2ND
+eyJoaXN0b3J5IjpbMTEwNzM4NTUzNiwtMTE3ODgyNzYyMCw2ND
 QyNjk1OTRdfQ==
 -->
