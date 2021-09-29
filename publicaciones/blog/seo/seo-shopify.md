@@ -25,9 +25,10 @@ Por defecto -y sin una configuración adecuada- en Shopify, los puntos que debem
 
 Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguiente manera:
 
- - Duplicidad de productos: vigilemos las URLs de `/products/` y `collections/.*/products/` ya que a veces se generan duplicidades al no establecer bien la etiqueta canónica. Es crucial dejar sólo una versión indexable y asegurarnos de que Google entiende bien la canonical. Para ello será importante reforzar el enlazado interno de esa v
- - **Paginación de productos**: debemos evitar que éstas sean indexables aunque sí debemos permitir que Google acceda a las mismas.
- - **Variantes de un mismo producto**: mucho cuidado cuando generamos múltiples variantes de un producto que apenas aportan valor diferencial. Por ejemplo, diferentes colores, tamaños o cambios nimios. Es preferible trabajarlo a nivel de contenido sobre una única página que crear múltiples. Recomiendo [leer esta guía](https://www.searchenginejournal.com/seo-best-practices-for-color-variations/265323/) para profundizar tanto en el problema como en la solución.
+ - **Duplicidad de productos**: vigilemos las URLs de `/products/` y `collections/.*/products/` ya que a veces se generan duplicidades al no establecer bien la etiqueta canónica. Es crucial dejar sólo una versión indexable y asegurarnos de que Google entiende bien la canonical. Para ello será importante reforzar el enlazado interno de esa versión.
+ - **Paginación de productos**: debemos evitar que éstas sean indexables aunque sí debemos permitir que Google acceda a las mismas. Por tanto tendrán que tener la metaetiqueta `noindex, follow`
+ - **Variantes de un mismo producto**: mucho cuidado cuando generamos múltiples variantes de un producto que apenas aportan valor diferencial. Por ejemplo, diferentes colores, tamaños o cambios nimios. Es preferible trabajarlo a nivel de contenido sobre una única página que crear múltiples. Recomiendo [leer esta guía](https://www.searchenginejournal.com/seo-best-practices-for-color-variations/265323/) para profundizar tanto en el problema como en la solución. No obstante, en el caso de que nuestros productos se busquen
+
  
  En el caso de que no seamos capaces de limitar los accesos a nivel técnico, podemos hacer uso del [robots.txt para no permitir el rastreo](https://help.shopify.com/en/manual/promoting-marketing/seo/hide-a-page-from-search-engines) pero ojo, eso no evitará su indexación. Para ello necesitaremos aplicar la etiqueta noindex.
 
@@ -87,7 +88,7 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDgzNDcyNSwtMTcyNzA1NTkzMiwtMT
-A0OTQ5ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMjI1NTEy
-Njg0LDQxMDUwNDYwOSw1NzI4OTg3NTddfQ==
+eyJoaXN0b3J5IjpbOTg1MzI5NDY3LC0xNzI3MDU1OTMyLC0xMD
+Q5NDk4MTgxLDE3OTM3NTM3MTIsNzAzMDM1ODI2LC0yMjU1MTI2
+ODQsNDEwNTA0NjA5LDU3Mjg5ODc1N119
 -->
