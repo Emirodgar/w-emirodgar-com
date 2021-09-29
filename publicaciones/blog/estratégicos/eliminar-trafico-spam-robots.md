@@ -22,7 +22,7 @@ El primer paso será asegurarnos de que realmente tenemos tráfico SPAM o de rob
 -   Porcentaje alto de visitantes nuevos.
 -   Sin conversiones asociadas.
 
-Ojo, por sí solo esto no es indicativo de que se trate de robots, lógicamente tenemos que ver si tenemos un segmento de nuestro tráfico que corresponde con estas características y, de ser así, analizarlo para determinar si se trata de tráfico malo.
+Ojo, por sí solo esto no es indicativo de que se trate de robots, por lo que tenemos que ver si existe un segmento de nuestro tráfico que corresponde con estas características y, de ser así, analizarlo para determinar si se trata de **tráfico malo o de baja calidad**.
 
 ## 2- Bloqueamos los accesos
 
@@ -34,7 +34,7 @@ En el caso de Google Analytics Universal, disponemos de una  opción dentro de n
 
 ### 2.2 - Bloquear tráfico SPAM
 
-El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico que son conocidos por hacer SPAM. Lo haremos a nivel de servidor (por ejemplo en Apache con el fichero .htaccess) bloqueando por IP y  _User Agent_. Existen  [multitud de listas negras](http://tab-studio.com/en/blocking-robots-on-your-page/)  que podemos utilizar e incorporar a nuestro proyecto para, con un copiar y pegar, bloquear cientos de fuentes SPAM.
+El siguiente paso será bloquear todos aquellos dominios y fuentes de tráfico que son conocidos por hacer SPAM. Lo haremos a nivel de servidor (por ejemplo en Apache con el fichero .htaccess) bloqueando por `dirección IP` y  `User Agent`. Existen  [multitud de listas negras](http://tab-studio.com/en/blocking-robots-on-your-page/)  que podemos utilizar e incorporar a nuestro proyecto para, con un copiar y pegar, bloquear cientos de fuentes SPAM.
 
 Este paso, aunque nos ayudará a reducir considerablemente el tráfico SPAM, no es una solución definitiva ya que tendremos que actualizar frecuentemente el listado de fuentes bloqueadas.
 
@@ -48,5 +48,5 @@ Para ello podemos generar una nueva vista de análisis que excluya el segmento d
 
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es  [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html)  para los  **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU0MTY4MTVdfQ==
+eyJoaXN0b3J5IjpbNzc3OTczODU5XX0=
 -->
