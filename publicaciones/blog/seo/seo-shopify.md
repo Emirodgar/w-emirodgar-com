@@ -30,7 +30,7 @@ Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguie
 
 Cada ecommerce tiene un mercado, público objetivo y estrategia digital diferente por lo que las recomendaciones genéricas deben adaptarse. En el caso de que nuestros productos se busquen asociados a colores, será importante generar una versión específica para cada uno de ellos puesto que de esa forma podremos optar a una captación relevante.
 
-Por ejemplo, en la siguiente imagen podemos ver un ejemplo de múltiples búsquedas de productos con colores para los que no estamos bien posicionados y cuya captación es inexistente puesto que sólo indexamos una versión de color y además es la misma para todos los idiomas. 
+En la siguiente imagen podemos ver un ejemplo de múltiples búsquedas de productos con colores para los que no estamos bien posicionados y cuya captación es inexistente puesto que sólo indexamos una versión de color y además es la misma para todos los idiomas. 
 
  ![Caso de éxito migración SEO - Emirodgar](https://emirodgar.com/cdn/images/posts/gsc-colores-shopify.jpg){:class="img-responsive"}
 
@@ -38,7 +38,7 @@ Por ello, personalizar cada "modelo + color" tanto en contenido como en idioma e
 
 ## Cómo bloquear la indexación de URLs en Shopify
  
-En el caso de que no seamos capaces de limitar los accesos a nivel técnico, podemos hacer uso del [robots.txt para no permitir el rastreo](https://help.shopify.com/en/manual/promoting-marketing/seo/hide-a-page-from-search-engines) pero ojo, eso no evitará su indexación. Para ello necesitaremos aplicar la etiqueta noindex.
+Como medida inicial antes de que se haya indexado, podemos hacer uso del [robots.txt para no permitir el rastreo](https://help.shopify.com/en/manual/promoting-marketing/seo/hide-a-page-from-search-engines) pero ojo, eso no evitará su indexación. Para ello necesitaremos aplicar la **etiqueta noindex**.
 
 En el caso de Shopify, debemos programarlo directamente desde el template de la siguiente manera:
 
@@ -98,7 +98,7 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTUxMjA0MiwtMTYwMjczNDU0NywtNj
+eyJoaXN0b3J5IjpbMTg4NjYzNjU1OSwtMTYwMjczNDU0NywtNj
 c4Njc1Mjg5LDk4NTMyOTQ2NywtMTcyNzA1NTkzMiwtMTA0OTQ5
 ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMjI1NTEyNjg0LD
 QxMDUwNDYwOSw1NzI4OTg3NTddfQ==
