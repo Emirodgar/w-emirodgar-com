@@ -28,7 +28,9 @@ Ojo, por sí solo esto no es indicativo de que se trate de robots, lógicamente 
 
 ### 2.1 - BLOQUEAMOS A LOS ROBOTS DE BÚSQUEDA CONOCIDOS
 
-En el caso de Google Analytics, disponemos de una  opción dentro de nuestro panel de administración Vista > Configuración de la vista > Filtrado de robots  para bloquear el tráfico generado por robots de búsqueda conocidos. Una vez activado, nuestra herramienta excluirá todo el tráfico que ‘entienda’ proviene de robots y no está generado por personas.
+En el caso de Google Analytics Universal, disponemos de una  opción dentro de nuestro panel de administración `Vista` > `Configuración de la vista` > `Filtrado de robots`  para bloquear el tráfico generado por robots de búsqueda conocidos. Bastará con hacer clic sobre la opción de `Excluir todos los hits de robots y de arañas conocidos`.  Una vez activado, nuestra herramienta excluirá todo el tráfico que "entienda" que no está generado por personas.
+
+![Caso de éxito migración SEO - Emirodgar](https://emirodgar.com){:class="img-responsive"}
 
 ### 2.2 - BLOQUEAMOS A LOS SPAMMERS
 
@@ -46,5 +48,5 @@ Para ello podemos generar una nueva vista de análisis que excluya el segmento d
 
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es  [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html)  para los  **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTEwOTA4NDddfQ==
+eyJoaXN0b3J5IjpbMTgwMDk0NjIzMV19
 -->
