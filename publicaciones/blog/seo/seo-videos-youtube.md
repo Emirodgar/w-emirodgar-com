@@ -94,12 +94,7 @@ Algunas de las funcionalidades extra que aportan son:
 - **Análisis de competidores**: nos permitirá analizar qué es lo que hacen nuestros principales competidores y trabajar en una línea que nos permita reducir las distancias con ellos.
 - **Palabras clave (tags)**: por defecto Youtube no muestra los tags utilizados por un vídeo. Para poder ver las palabras clave que están usando tendríamos que ir al código fuente y buscar "*keywords*". Esta extensión nos ayuda a identificarlas de forma sencilla.
 
-Los aspectos más relevantes de nuestros vídeos y que siempre debemos tener bien optimizados son los siguientes:
-
--   Título
--   Descripción
--   Tags
--   Thumbnail (imagen por defecto del vídeo)
+Los aspectos más relevantes de nuestros vídeos y que siempre debemos tener bien optimizados son:  Título, Descripción, Tags (etiquetas) y  Thumbnail (imagen por defecto del vídeo). A continuación damos unas recomendaciones sobre cada uno de ellos.
 
 ### 2.1- Redactar títulos de calidad para Youtube
 
@@ -170,6 +165,6 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDE5MjU5MywtMTY0NjI5NTg1OCw5Nz
-U5MDY3ODUsMTU0Njk1NjI4MV19
+eyJoaXN0b3J5IjpbLTEyMDcwOTk3NzUsMjA5MDE5MjU5MywtMT
+Y0NjI5NTg1OCw5NzU5MDY3ODUsMTU0Njk1NjI4MV19
 -->
