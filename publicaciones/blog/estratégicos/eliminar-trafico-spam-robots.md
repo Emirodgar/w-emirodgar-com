@@ -14,7 +14,7 @@ permalink: eliminar-trafico-spam-robots
 
 En ocasiones los sistemas de analítica web reflejan picos de tráfico de referencia de dominios que nunca nos han enlazado y tráfico desde países que no tiene sentido. Se trata de  **tráfico SPAM**  y/o  **generado por robots**. Más allá de que pueden consumir una parte de los recursos de nuestro servidor, el verdadero problema reside en que  **nuestra analítica se distorsiona**  y terminamos analizando un tráfico que no aporta ningún valor.
 
-> A continuación detallo algunos pasos para prevenir y minimizar el impacto de este tráfico malo en nuestra estrategia digital.
+A continuación detallo algunos pasos para prevenir y minimizar el impacto de este tráfico malo en nuestra estrategia digital.
 
 ## 1- Identificar el tráfico de baja calidad
 
@@ -31,7 +31,7 @@ Ojo, por sí solo esto no es indicativo de que se trate de robots, por lo que te
 
 ### 2.1 - Bloquear a los robots de búsqueda conocidos
 
-En el caso de Google Analytics Universal, disponemos de una  opción dentro de nuestro panel de administración `Vista` > `Configuración de la vista` > `Filtrado de robots`  para bloquear el tráfico generado por robots de búsqueda conocidos. Bastará con hacer clic sobre la opción de `Excluir todos los hits de robots y de arañas conocidos`.  Una vez activado, nuestra herramienta excluirá todo el tráfico que "entienda" que no está generado por personas.
+En el caso de Google Analytics Universal, disponemos de una  opción dentro de nuestro panel de administración  `Configuración de la vista` > `Filtrado de robots`  para bloquear el tráfico generado por robots de búsqueda conocidos. Bastará con hacer clic sobre la opción de `Excluir todos los hits de robots y de arañas conocidos`.  Una vez activado, nuestra herramienta excluirá todo el tráfico que "entienda" que no está generado por personas.
 
 ![Emirodgar - excluir Analytics tráfico generado por robots](https://emirodgar.com/cdn/images/posts/analytics-filtrado-robots.jpg){:class="img-responsive"}
 
@@ -51,5 +51,6 @@ Para ello recomiendo generar una nueva vista de análisis que excluya el segment
 
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es  [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html)  para los  **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODUwMzM4NCwtMTMwMjAxNzUyOV19
+eyJoaXN0b3J5IjpbLTQzNDQxNDgwMSwtMTg4NTAzMzg0LC0xMz
+AyMDE3NTI5XX0=
 -->
