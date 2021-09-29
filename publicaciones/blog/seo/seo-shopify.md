@@ -19,13 +19,13 @@ En esta guía quiero trasladar las principales recomendaciones SEO que he trabaj
 
 ## Puntos a trabajar dentro de Shopify
 
-Por defecto -y sin una configuración adecuada- Shopify, los puntos que debemos trabajar y mejorar serán:
+Por defecto -y sin una configuración adecuada- en Shopify, los puntos que debemos trabajar y mejorar serán:
 
 ### Evitar contenido duplicado debido a la arquitectura y enlazado interno.
 
 Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguiente manera:
 
- - Duplicidad de productos: vigilemos las URLs de `/products/` y `collections/.*/products/` ya que a veces se generan duplicidades al no establecer bien la etiqueta canónica. 
+ - Duplicidad de productos: vigilemos las URLs de `/products/` y `collections/.*/products/` ya que a veces se generan duplicidades al no establecer bien la etiqueta canónica. Es crucial dejar sólo una versión indexable y asegurarnos de que Google entiende bien la canonical. Para ello será importante reforzar el enlazado interno de esa v
  - **Paginación de productos**: debemos evitar que éstas sean indexables aunque sí debemos permitir que Google acceda a las mismas.
  - **Variantes de un mismo producto**: mucho cuidado cuando generamos múltiples variantes de un producto que apenas aportan valor diferencial. Por ejemplo, diferentes colores, tamaños o cambios nimios. Es preferible trabajarlo a nivel de contenido sobre una única página que crear múltiples. Recomiendo [leer esta guía](https://www.searchenginejournal.com/seo-best-practices-for-color-variations/265323/) para profundizar tanto en el problema como en la solución.
  
@@ -87,7 +87,7 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjcwNTU5MzIsLTEwNDk0OTgxODEsMT
-c5Mzc1MzcxMiw3MDMwMzU4MjYsLTIyNTUxMjY4NCw0MTA1MDQ2
-MDksNTcyODk4NzU3XX0=
+eyJoaXN0b3J5IjpbLTQyNDgzNDcyNSwtMTcyNzA1NTkzMiwtMT
+A0OTQ5ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMjI1NTEy
+Njg0LDQxMDUwNDYwOSw1NzI4OTg3NTddfQ==
 -->
