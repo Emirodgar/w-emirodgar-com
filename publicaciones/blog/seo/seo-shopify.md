@@ -30,9 +30,11 @@ Por defecto podemos encontrarnos con duplicidades dentro de Shopify de la siguie
 
 Cada ecommerce tiene un mercado, público objetivo y estrategia digital diferente por lo que las recomendaciones genéricas deben adaptarse. En el caso de que nuestros productos se busquen asociados a colores, será importante generar una versión específica para cada uno de ellos puesto que de esa forma podremos optar a una captación relevante.
 
-Por ejemplo, en la siguiente imagen podemos ver un ejemplo de múltiples búsquedas de productos con colores para los que no estamos bien posicionados y cuya captación es inexistente puesto que sólo ofrecemos una versión de color 
+Por ejemplo, en la siguiente imagen podemos ver un ejemplo de múltiples búsquedas de productos con colores para los que no estamos bien posicionados y cuya captación es inexistente puesto que sólo indexamos una versión de color y además es la misma para todos los idiomas. 
 
  ![Caso de éxito migración SEO - Emirodgar](https://emirodgar.com/cdn/images/posts/gsc-colores-shopify.jpg){:class="img-responsive"}
+
+Por ello, personalizar cada "modelo + color" tanto en contenido como en idioma en este caso es crucial para poder aspirar a la máxima captación posible.
 
 
  
@@ -94,7 +96,7 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQyNDAzOTYsLTE2MDI3MzQ1NDcsLT
+eyJoaXN0b3J5IjpbLTE5Njc1NjkyMzQsLTE2MDI3MzQ1NDcsLT
 Y3ODY3NTI4OSw5ODUzMjk0NjcsLTE3MjcwNTU5MzIsLTEwNDk0
 OTgxODEsMTc5Mzc1MzcxMiw3MDMwMzU4MjYsLTIyNTUxMjY4NC
 w0MTA1MDQ2MDksNTcyODk4NzU3XX0=
