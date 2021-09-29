@@ -10,6 +10,12 @@ image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-ecommerce
 
 ---
+
+## ¿Cómo podemos potenciar las ventas a través del SEO?
+
+### Resultados orgánicos
+
+La primera apro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MjY5NTk0XX0=
+eyJoaXN0b3J5IjpbMjc5MTU5MDkwLDY0NDI2OTU5NF19
 -->
