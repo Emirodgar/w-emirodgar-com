@@ -48,9 +48,11 @@ En el caso de Shopify, la etiqueta noindex debe ser programada directamente desd
 {% endif %} 
 ```
 
-Lógicamente necesitaremos especificar cada caso (condición) en la que queramos que aparezca el noindex y por lo tanto dichas URLs no sean indexadas.
+En el ejemplo anterior estamos bloqueando la indexación de las páginas de búsqueda por lo que el código deberá ser actualizado para adaptarse a aquellas partes que queramos que no sean indexadas.
 
-El robots.txt debería ser usado únciamente para evitar el acceso a las siguientes secciones:
+## Accesos bloqueados a través del robots.txt
+
+El robots.txt debería ser usado únciamente para evitar el acceso a las siguientes secciones que requieren de un proceso de iden:
 
 -   Área de administración
 -   Checkout
@@ -98,8 +100,8 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzI5MTg1NCwtMTYwMjczNDU0NywtNj
-c4Njc1Mjg5LDk4NTMyOTQ2NywtMTcyNzA1NTkzMiwtMTA0OTQ5
-ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMjI1NTEyNjg0LD
-QxMDUwNDYwOSw1NzI4OTg3NTddfQ==
+eyJoaXN0b3J5IjpbLTE0OTI3OTk0OTAsLTE2MDI3MzQ1NDcsLT
+Y3ODY3NTI4OSw5ODUzMjk0NjcsLTE3MjcwNTU5MzIsLTEwNDk0
+OTgxODEsMTc5Mzc1MzcxMiw3MDMwMzU4MjYsLTIyNTUxMjY4NC
+w0MTA1MDQ2MDksNTcyODk4NzU3XX0=
 -->
