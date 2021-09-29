@@ -17,7 +17,7 @@ permalink: seo-ecommerce
 
 La primera aproximación -y más conocida- es a través de los **resultados de búsqueda orgánicos**. Los buscadores rastrean e indexan las diversas páginas de nuestro sitio web y cuando consideran que puede aportar valor a un usuario, se lo ofrecen.
 
-Será decisión final del usuario visitar o no nuestra página pero al menos estaremos apareciendo en búsquedas de nuestros potenciales clientes.
+Será decisión final del usuario visitar o no nuestra página pero al menos estaremos apareciendo en búsquedas de nuestros potenciales clientes. Este será un buen momento para trabajar estrategias de optimización sobre los [títulos y descripciones](https://emirodgar.com/titulos-descripciones-seo) para mejorar el [CTR de nuestros resultados](https://emirodgar.com/ctr-resultados-google).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDUwOTUyOSw2NDQyNjk1OTRdfQ==
+eyJoaXN0b3J5IjpbLTIwNzkxNTU4MDIsNjQ0MjY5NTk0XX0=
 -->
