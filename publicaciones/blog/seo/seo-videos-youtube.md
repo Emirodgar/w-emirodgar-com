@@ -46,29 +46,21 @@ La mayoría de las métricas de interacción se pueden medir en el informe de an
 
 > Si no somos capaces de crear interacción con los usuarios las posibilidades que tendremos que aparecer en las búsquedas por nuestras palabras clave son bajas.
 
-A nivel SEO
+A nivel SEO podemos agrupar las métricas para definir la calidad
 
--   **Captación**    
+-   **Captación**  
+     -   Aparición en listados de resultados
+     -    CTR (veces que aparecemos / veces que ven el vídeo)  
 
-  -   Aparición en listados de resultados
-    
- -   CTR (veces que aparecemos / veces que ven el vídeo)  
-      
-    
-
--   Calidad  
-      
-    
-
--   Likes / dislikes
-    
--   Comentarios
-    
--   Retención de audiencia (%)
-    
--   Tiempo promedio de visualización  
-      
-    
+-   **Calidad**  
+     -   Likes / dislikes
+     -   Comentarios
+     - Retención de audiencia (%)
+     - Tiempo promedio de visualización 
+  
+-   **Interacción**  
+     -   Aparición en listados de resultados
+     -    CTR (veces que aparecemos / veces que ven el vídeo)  
 
 -   Interacción  
       
@@ -205,6 +197,6 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzkzNTAwOCwyMDkwMTkyNTkzLC0xNj
-Q2Mjk1ODU4LDk3NTkwNjc4NSwxNTQ2OTU2MjgxXX0=
+eyJoaXN0b3J5IjpbNDczMDQ2OTE0LDIwOTAxOTI1OTMsLTE2ND
+YyOTU4NTgsOTc1OTA2Nzg1LDE1NDY5NTYyODFdfQ==
 -->
