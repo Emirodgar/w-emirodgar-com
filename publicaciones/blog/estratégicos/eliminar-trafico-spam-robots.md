@@ -11,7 +11,7 @@ permalink: eliminar-trafico-spam-robots
 
 En ocasiones los sistemas de analítica web reflejan picos de tráfico de referencia de dominios que nunca nos han enlazado y tráfico desde países que no tiene sentido. Se trata de  **tráfico SPAM**  y/o  **generado por robots**. Más allá de que pueden consumir una parte de los recursos de nuestro servidor, el verdadero problema reside en que  **nuestra analítica se distorsiona**  y terminamos analizando un tráfico que no aporta ningún valor.
 
-A continuación detallo algunos pasos para prevenir y minimizar el impacto de este tráfico malo en nuestra estrategia digital.
+> A continuación detallo algunos pasos para prevenir y minimizar el impacto de este tráfico malo en nuestra estrategia digital.
 
 ## 1- Identificar el tráfico de baja calidad
 
@@ -48,5 +48,5 @@ Para ello recomiendo generar una nueva vista de análisis que excluya el segment
 
 Una última acción -y muy efectiva- para frenar el tráfico generado por robots es  [habilitar un captcha](https://www.google.com/recaptcha/intro/v3beta.html)  para los  **usuarios que visitan nuestra página por primera vez**. Si resuelven el captcha, procedemos a insertar el código de analítica, si no, no lo hacemos y evitamos así registrar información de baja calidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE0Mjc5NTFdfQ==
+eyJoaXN0b3J5IjpbLTE2MDA5MjE4MDVdfQ==
 -->
