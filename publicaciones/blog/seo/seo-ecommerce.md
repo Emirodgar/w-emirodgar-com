@@ -49,7 +49,7 @@ Una vez implementados haremos uso del [validador de Schema.org](https://validato
 
 ### Sitemaps
 
-Para facilitar que los buscadores rastreen e indexen la mayo
+Para facilitar que los buscadores rastreen e indexen la mayor parte de nuestro sitio web es importante hacer uso de Sitemaps XML. En nuestro caso, y dado la importancia que tienen también las imágenes, siempre recomendamos implementar un **sitemap XML de imágenes**.
 
 
 ## Búsquedas de imágenes
@@ -71,7 +71,7 @@ Aunque no es SEO, sí puede ser un buen complemento a nuestra estrategia y ayuda
 
 A nivel de Google tenemos Google Ads (que son los anuncios pagados que aparecen antes de los resultados SEO) y también Google Merchant Center, donde podremos publicar directamente nuestros productos en la pestaña de Shopping / Compras de los resultados de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTA0MDQ4OSwxODE0MTg0MzcwLDE4Nz
-A4Mjc3MzUsLTEwMzYyOTMyNDYsLTExNzg4Mjc2MjAsNjQ0MjY5
-NTk0XX0=
+eyJoaXN0b3J5IjpbNzM2NzI2MjY5LDE4MTQxODQzNzAsMTg3MD
+gyNzczNSwtMTAzNjI5MzI0NiwtMTE3ODgyNzYyMCw2NDQyNjk1
+OTRdfQ==
 -->
