@@ -15,7 +15,9 @@ permalink: seo-ecommerce
 
 ### Resultados orgánicos
 
-La primera aproximación -y más conocida- es a través de los **resultados de búsqueda orgánicos**. Los buscadores rastrean e indexan las diversas páginas de nuestro sitio web y cuando consideran que puede aportar valor
+La primera aproximación -y más conocida- es a través de los **resultados de búsqueda orgánicos**. Los buscadores rastrean e indexan las diversas páginas de nuestro sitio web y cuando consideran que puede aportar valor a un usuario, se lo ofrecen.
+
+Será decisión final del usuario visitar o no nuestra página pero al menos estaremos apareciendo en búsquedas de nuestros potenciales clientes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjAxNzM5NTQsNjQ0MjY5NTk0XX0=
+eyJoaXN0b3J5IjpbMTMxMDUwOTUyOSw2NDQyNjk1OTRdfQ==
 -->
