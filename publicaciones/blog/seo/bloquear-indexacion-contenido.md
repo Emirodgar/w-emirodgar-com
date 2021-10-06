@@ -1,5 +1,5 @@
 ---
-title: Evita que Google indexe una parte de tu contenido
+title: Cómo evitar que Google indexe una parte de tu contenido
 description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
@@ -40,6 +40,6 @@ Como alternativas podemos cargar el contenido que queremos ocultar a los buscado
 
 Ojo con [bloquear los ficheros JS o CSS](https://emirodgar.com/bloquear-indexacion-js-css) ya que podríamos provocar conflictos en la indexación y visualización de la página por parte de los buscadores.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg2NDU2MTMsMjAyMzQ2NDc0NSw0Nj
-I4ODM1MjldfQ==
+eyJoaXN0b3J5IjpbMjA0MDY5Nzc4OSwtMTA3ODY0NTYxMywyMD
+IzNDY0NzQ1LDQ2Mjg4MzUyOV19
 -->
