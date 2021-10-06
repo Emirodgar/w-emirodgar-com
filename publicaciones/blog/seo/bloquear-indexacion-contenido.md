@@ -34,12 +34,12 @@ Según John Mueller, a día de hoy Google no cuenta con una funcionalidad que pe
 
 La única opción viable que nos queda sería crear una versión diferente para los buscadores y otra para usuarios pero ojo, esto puede ser considerado [cloaking](https://developers.google.com/search/docs/advanced/guidelines/cloaking?hl=es) y acarrear una penalización web.
 
-> Google nos ayuda a [detectar a Googlebot](https://emirodgar.com/detectar-googlebot) -su robot de búsqueda- por si necesitamos 
+> Google nos ayuda a [detectar a Googlebot](https://emirodgar.com/detectar-googlebot) -su robot de búsqueda- por si necesitamos llevar a cabo alguna acción específica.
 
-Como otras alternativas podemos cargar el contenido que queremos ocultar a los buscadores mediente Javascript, no obstante, Google ya renderiza (ejecutando JS)
+Como alternativas podemos cargar el contenido que queremos ocultar a los buscadores mediente Javascript, no obstante, Google ya renderiza (ejecuta código JS) por lo que cada vez es más complicado hacerlo de esta manera.
 
-Ojo con [bloquear los ficheros JS o CSS](https://emirodgar.com/bloquear-indexacion-js-css) ya que podrían
+Ojo con [bloquear los ficheros JS o CSS](https://emirodgar.com/bloquear-indexacion-js-css) ya que podríamos provocar conflictos en la indexación y visualización de la página por parte de los buscadores.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1OTMzMTM4LDIwMjM0NjQ3NDUsNDYyOD
-gzNTI5XX0=
+eyJoaXN0b3J5IjpbLTEwNzg2NDU2MTMsMjAyMzQ2NDc0NSw0Nj
+I4ODM1MjldfQ==
 -->
