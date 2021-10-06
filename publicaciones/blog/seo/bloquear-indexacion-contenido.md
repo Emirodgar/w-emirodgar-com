@@ -13,6 +13,13 @@ permalink: bloquear-indexacion-contenido
 --- 
 
 ## Las etiquetas googleoff y googleon no sirven
+
+En la red se puede encontrar una solución rápida para indicar a 
+
+    < !--googleoff: all -->  
+    Lo que está entre estas etiquetas no será indexado  
+    < !--googleon: all -->
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyODgzNTI5XX0=
+eyJoaXN0b3J5IjpbLTEzOTc2NTk0ODMsNDYyODgzNTI5XX0=
 -->
