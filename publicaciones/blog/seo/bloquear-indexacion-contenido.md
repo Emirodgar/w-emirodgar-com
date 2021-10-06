@@ -20,7 +20,7 @@ En la red se puede encontrar una solución rápida para indicar a Google qué fr
     Lo que está entre estas etiquetas no será indexado  
     < !--googleon: all -->
 
-Lo que pocas veces se indica es que 
+Lo que pocas veces se indica es que estas etiquetas sólo sirven para Google Search Appliance, es decir cuando instalamos el buscador de Google en nuestro servidor para realizar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjQxODk2LDQ2Mjg4MzUyOV19
+eyJoaXN0b3J5IjpbLTE5MjM2NzY4NjYsNDYyODgzNTI5XX0=
 -->
