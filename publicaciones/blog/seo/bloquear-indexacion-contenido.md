@@ -32,9 +32,9 @@ Según John Mueller, a día de hoy Google no cuenta con una funcionalidad que pe
 
 ## Cuidado con hacer versiones diferentes
 
-La única opción viable que nos queda sería crear una versión diferente para buscadores y otra para usuarios pero ojo, esto puede ser considerado como [cloaking](https://developers.google.com/search/docs/advanced/guidelines/cloaking?hl=es) y acarrear una penalización web.
+La única opción viable que nos queda sería crear una versión diferente para el [robot de búsqueda de Google](https://emirodgar.com/detectar-googlebot) y otra para usuarios pero ojo, esto puede ser considerado [cloaking](https://developers.google.com/search/docs/advanced/guidelines/cloaking?hl=es) y acarrear una penalización web.
 
-Como otras alternativas podemos cargar el contenido que queremos ocultar a los buscadores mediente
+Como otras alternativas podemos cargar el contenido que queremos ocultar a los buscadores mediente Javascript, no obstante, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTA3NjYzMCw0NjI4ODM1MjldfQ==
+eyJoaXN0b3J5IjpbMjAyMzQ2NDc0NSw0NjI4ODM1MjldfQ==
 -->
