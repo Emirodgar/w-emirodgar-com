@@ -26,9 +26,13 @@ Para el motor de búsqueda de Google (*Google Web Search*) estas etiquetas no ti
 
 ## No existe un mecanismo para bloquear una parte del contenido
 
-Según John Mueller, a día de hoy Google no cuenta con una funcionalidad que permita bloquear el rastreo e indexación a una parta del contenido. Podremos bloquear el rstertoda una URL o incluso
+Según John Mueller, a día de hoy Google no cuenta con una funcionalidad que permita bloquear el rastreo e indexación a una parta del contenido. Podremos bloquear el rastreo de toda una URL con la directiva noindex o [eliminarla del índice de Google](https://emirodgar.com/eliminar-url-google) pero no acotar partes dentro de la misma.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It has no effect in websearch. There&#39;s no mechanism to block indexing of a part of a page (other than hacky workarounds). You can use data-nosnippet to block a part of a snippet though.</p>&mdash; 🧀 John 🧀 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1234952552141271046?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Cuidado con hacer versiones diferentes
+
+La única opción viable que nos queda es crear una
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzYyMDMyLDQ2Mjg4MzUyOV19
+eyJoaXN0b3J5IjpbLTE2NDk0NDY3NjgsNDYyODgzNTI5XX0=
 -->
