@@ -135,11 +135,24 @@ Este será nuestro paso final. Para ello haremos uso de la opción `purchase` co
       ]
     }); 
 
-## Visualizar la información en Google Analytics
+## Visualizar la información en Google Analytics y Data Studio
 
-Si accedemos ahora a nuestro informe veremos que la información aparece correctamente registrada.
+Si accedemos ahora a nuestro informe en Analytics veremos que la información aparece correctamente registrada.
 
 ![enter image description here](https://i.imgur.com/YvsGyNS.png)
+
+Si queremos trasladar dicha visualización a Google Data Studio recomiendo crearnos una dimensión personalizada
+
+    CASE 
+    WHEN REGEXP_MATCH (Fase de compra, "ALL_VISITS") THEN "1) All Sessions" 
+    WHEN REGEXP_MATCH (Fase de compra, "CHECKOUT_WITH_CART_ADDITION") THEN "4) Sessions with Check-Out" 
+    WHEN REGEXP_MATCH (Fase de compra, "CHECKOUT_WITHOUT_CART_ADDITION") THEN "4) Sessions with Check-Out" 
+    WHEN REGEXP_MATCH (Fase de compra, "ADD_TO_CART_WITHOUT_VIEW") THEN "3) Sessions with Add to Cart" 
+    WHEN REGEXP_MATCH (Fase de compra, "ADD_TO_CART_WITH_VIEW") THEN "3) Sessions with Add to Cart" 
+    WHEN REGEXP_MATCH (Fase de compra, "TRANSACTION") THEN "5) Sessions with Transactions" 
+    WHEN REGEXP_MATCH (Fase de compra, "PRODUCT_VIEW") THEN "2) Sessions with Product Views" 
+    END
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQwMjE5MDIsMTQ4NTk1MzU5XX0=
+eyJoaXN0b3J5IjpbMTEzNzg4NTM1NCwxNDg1OTUzNTldfQ==
 -->
