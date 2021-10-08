@@ -157,7 +157,7 @@ El resultado que podríamos visualizar en Data Studio sería similar al siguient
 
 ![funnel análisis de compra data studio analytics ecommerce mejorado](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-comportamiento-compra-correcto-data-studio.jpg){:class="img-responsive"}
 
-Si queremos emular el funnel con métricas independientes o incluso para poder obtener los porcentajes que vamos generando en cada paso, lo podemos hacer aplicando filtros sobre las sesiones de la siguiente manera:
+Si queremos emular el funnel con métricas independientes o incluso poder obtener los porcentajes que vamos generando en cada paso del embudo, lo podemos hacer aplicando filtros sobre las sesiones de la siguiente manera:
 
 ![filtro data studio funnel compra analytics ecommerce mejorado](https://emirodgar.com/cdn/images/posts/filtro-data-studio-ecommerce.jpg){:class="img-responsive"}
 
@@ -172,6 +172,6 @@ Por último, pero no menos importante, si queremos poder visualizar el porcentaj
 
 ![data studio combinar datos](https://emirodgar.com/cdn/images/posts/data-studio-combinar-datos.jpg){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk4MDUwMywxNDQyMjc1MDYzLC04MT
-cwNDEyMjYsMTQ4NTk1MzU5XX0=
+eyJoaXN0b3J5IjpbNTMzMDkzMjEyLC0xNDU5ODA1MDMsMTQ0Mj
+I3NTA2MywtODE3MDQxMjI2LDE0ODU5NTM1OV19
 -->
