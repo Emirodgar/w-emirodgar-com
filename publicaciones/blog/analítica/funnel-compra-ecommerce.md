@@ -139,23 +139,19 @@ Si accedemos ahora a nuestro informe en Analytics veremos que la información ap
 
 ![análisis de compra ecommerce mejorado analytics correcto](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-comportamiento-compra-correcto.jpg){:class="img-responsive"}
 
-Si queremos trasladar dicha visualización a Google Data Studio bastará con hacer uso de la dimensión `Fase de compra` e importarla en cualquier gráfico de barras para disponer de un gráfico similar al que tenemos en Analytics.
+Si queremos trasladar dicha visualización a Google Data Studio bastará con hacer uso de la dimensión `Fase de compra` e importarla en cualquier gráfico de barras para disponer de un gráfico similar al que tenemos en Analytics. 
 
-También podemos crear nuestra propia dimensión personalizada y añadir ahí las fases del comportamiento de compra que queramos analizar así como traducir los nombres de cada paso que Analytics trae por defecto. Esto sería por ejemplo un añadido frente al funnel por defecto de Analytics. Para ello bastaría con tener una agrupación similar a la siguiente:
+El resultado que podríamos visualizar en Data Studio sería similar al siguiente (en la siguiente imagen no he tra
+
+![funnel análisis de compra data studio analytics ecommerce mejorado](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-comportamiento-compra-correcto-data-studio.jpg){:class="img-responsive"}
+
+En el caso de que queramos tener los pasos de compra traducidos, podemos hacerlo a través de una dimensión personalizada de la siguiente manera:
 
     CASE 
     WHEN REGEXP_MATCH (Fase de compra, "ALL_VISITS") THEN "1) Todas las sesiones" 
     WHEN REGEXP_MATCH (Fase de compra, "CHECKOUT_WITH_CART_ADDITION") THEN "4) Sesiones con Check-Out" 
-    WHEN REGEXP_MATCH (Fase de compra, "CHECKOUT_WITHOUT_CART_ADDITION") THEN "4) Sesiones sin Check-Out" 
-    WHEN REGEXP_MATCH (Fase de compra, "ADD_TO_CART_WITHOUT_VIEW") THEN "3) Sesiones con carrito" 
-    WHEN REGEXP_MATCH (Fase de compra, "ADD_TO_CART_WITH_VIEW") THEN "3) Sesiones sin carrito" 
-    WHEN REGEXP_MATCH (Fase de compra, "TRANSACTION") THEN "5) Sesiones completadas" 
-    WHEN REGEXP_MATCH (Fase de compra, "PRODUCT_VIEW") THEN "2) Sessions son vistas de producto" 
+    ...
     END
-
-El resultado que podríamos visualizar en Data Studio sería similar al siguiente
-
-![funnel análisis de compra data studio analytics ecommerce mejorado](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-comportamiento-compra-correcto-data-studio.jpg){:class="img-responsive"}
 
 Si queremos emular el funnel con métricas independientes o incluso poder obtener los porcentajes que vamos generando en cada paso del embudo, lo podemos hacer aplicando filtros sobre las sesiones de la siguiente manera:
 
@@ -172,6 +168,7 @@ Por último, pero no menos importante, si queremos poder visualizar el porcentaj
 
 ![data studio combinar datos](https://emirodgar.com/cdn/images/posts/data-studio-combinar-datos.jpg){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzMDkzMjEyLC0xNDU5ODA1MDMsMTQ0Mj
-I3NTA2MywtODE3MDQxMjI2LDE0ODU5NTM1OV19
+eyJoaXN0b3J5IjpbLTM3OTc1ODU3LDUzMzA5MzIxMiwtMTQ1OT
+gwNTAzLDE0NDIyNzUwNjMsLTgxNzA0MTIyNiwxNDg1OTUzNTld
+fQ==
 -->
