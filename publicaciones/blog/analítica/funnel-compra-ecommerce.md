@@ -32,7 +32,11 @@ Con el mejorado activaremos una serie de informes más especializados como Compo
 
 ## Analizar el comportamiento de compra
 
-Esta opción se habrá activado al habilitar el ecommerce mejorado y aparecerá en nuestro menú bajo las opciones de Conversiones > Comercio electrónico > Comportamiento d
+Esta opción se habrá activado al habilitar el ecommerce mejorado y aparecerá en nuestro menú bajo las opciones de Conversiones > Comercio electrónico > Comportamiento de compra.
+
+Si usamos algún CMS conocido, seguramente ya tenga integrado la medición con Analytics por lo que nuestros datos aparecerán. Si no es el caso, la gráfica aparecerá vacía y no tendremos visibilidad del funnel de compra dentro de nuestro sitio.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTY4MzAyN119
+eyJoaXN0b3J5IjpbMTQ4NTk1MzU5XX0=
 -->
