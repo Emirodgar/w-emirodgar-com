@@ -170,8 +170,8 @@ En nuestro caso tendríamos que crear cuatro métricas que contengan las `sesion
 
 Por último, pero no menos importante, si queremos poder visualizar el porcentaje de personas que avanzan en nuestro funnel, lo podremos hacer seleccionando dos métricas de forma invertida (es decir, primero la que tiene menos valor y después la anterior), pulsamos botón derecho y seleccionamos la opción de `combinar datos`. Automáticamente aparecerá el valor que estamos buscando.
 
-![filtro data studio funnel compra analytics ecommerce mejorado](https://emirodgar.com/cdn/images/posts/data-studio-combinar-datos.jpg){:class="img-responsive"}
+![data studio combinar datos](https://emirodgar.com/cdn/images/posts/data-studio-combinar-datos.jpg){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjQ0ODc5MiwxNDQyMjc1MDYzLC04MT
+eyJoaXN0b3J5IjpbLTE0NTk4MDUwMywxNDQyMjc1MDYzLC04MT
 cwNDEyMjYsMTQ4NTk1MzU5XX0=
 -->
