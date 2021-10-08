@@ -137,7 +137,9 @@ Este será nuestro paso final. Para ello haremos uso de la opción `purchase` co
 
 ## Visualizar la información en Google Analytics
 
-Si 
+Si accedemos ahora a nuestro informe veremos que la información aparece correctamente registrada.
+
+![enter image description here](https://i.imgur.com/YvsGyNS.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU5MDk4MzgsMTQ4NTk1MzU5XX0=
+eyJoaXN0b3J5IjpbLTE5ODQwMjE5MDIsMTQ4NTk1MzU5XX0=
 -->
