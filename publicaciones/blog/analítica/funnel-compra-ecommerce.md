@@ -155,7 +155,9 @@ También podemos crear nuestra propia dimensión personalizada y añadir ahí la
     WHEN REGEXP_MATCH (Fase de compra, "PRODUCT_VIEW") THEN "2) Sessions son vistas de producto" 
     END
 
-Si queremos emular el funnel con métricas id
+El resultado que podríamos visualizar en Data Studio sería similar al siguiente
+
+Si queremos emular el funnel con métricas independientes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTcwMzYyMCwxNDg1OTUzNTldfQ==
+eyJoaXN0b3J5IjpbLTE3MzI1MDMwNDksMTQ4NTk1MzU5XX0=
 -->
