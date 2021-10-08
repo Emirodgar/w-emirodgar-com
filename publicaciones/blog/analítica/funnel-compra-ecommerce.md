@@ -68,7 +68,7 @@ Lo importante es entender cuándo lo queremos medir para que nuestros posteriore
 
 ### Etiquetar añadir al carrito
 
-El siguiente paso del funnel será añadir al carrito un producto. Cuando esto ocurra ejecutaremos el siguiente código JavaScript que invoca al evento `add_to_cart`.
+El siguiente paso del funnel será añadir al carrito un producto. Cuando esto ocurra ejecutaremos el siguiente código JavaScript que invoca al evento `add_to_cart`. Fijaros que los datos a enviar bajo `items` son los mismos que en el paso anterior por lo que hecho para uno, sólo tendremos que cambiar el evento de Analytics.
 
     gtag('event', 'add_to_cart', {
       "items": [
@@ -76,16 +76,19 @@ El siguiente paso del funnel será añadir al carrito un producto. Cuando esto o
           "id": "P12345",
           "name": "Camiseta roja",
           "list_name": "Search Results",
-          "brand": "Google",
-          "category": "Apparel/T-Shirts",
-          "variant": "Black",
+          "brand": "H&M",
+          "category": "Camiseta",
+          "variant": "Roja",
           "list_position": 1,
-          "quantity": 2,
+          "quantity": 1,
           "price": '2.0'
         }
       ]
     });
 
+También podemos etiquetar la retirada de un producto del carrito, aunque éste no se verá reflejado en el funnel de comportamiento de compra.
+
+### Et
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxMDYzNDgsMTQ4NTk1MzU5XX0=
+eyJoaXN0b3J5IjpbLTMyMzY4OTUzMSwxNDg1OTUzNTldfQ==
 -->
