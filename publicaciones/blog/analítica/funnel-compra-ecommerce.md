@@ -153,11 +153,11 @@ En el caso de que queramos tener los pasos de compra traducidos (por defecto en 
     ...
     END
 
-La siguiente acción para disponer del mismo funnel que en Analtics será crear métricas para cada paso del funnel e incluso poder obtener los porcentajes que vamos generando en cada uno de ellos; para ello crearemos varias métricas partiendo de las sesiones y aplicaremos filtrosde la siguiente manera:
+La siguiente acción para disponer del mismo funnel que en Analtics será crear métricas para cada paso del funnel e incluso poder obtener los porcentajes que vamos generando en cada uno de ellos; para ello crearemos varias métricas partiendo de las `sesiones` y aplicaremos filtrosde la siguiente manera:
 
 ![filtro data studio funnel compra analytics ecommerce mejorado](https://emirodgar.com/cdn/images/posts/filtro-data-studio-ecommerce.jpg){:class="img-responsive"}
 
-En nuestro caso tendríamos que crear cuatro métricas que contengan las `sesiones` y filtrar cada una de ellas por la `Fase de compra` tal como se muestra en la imagen anterior haciendo uso de los siguientes términos:
+Los diferentes valores de  `Fase de compra` que debemos usar son los siguientes:
 
  - PRODUCT_VIEW
  - ADD_TO_CART
@@ -168,7 +168,7 @@ Por último, pero no menos importante, si queremos poder visualizar el porcentaj
 
 ![data studio combinar datos](https://emirodgar.com/cdn/images/posts/data-studio-combinar-datos.jpg){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjE1NjI2Miw1MzMwOTMyMTIsLTE0NT
-k4MDUwMywxNDQyMjc1MDYzLC04MTcwNDEyMjYsMTQ4NTk1MzU5
-XX0=
+eyJoaXN0b3J5IjpbLTEzNTE3MTQ4NjAsNTMzMDkzMjEyLC0xND
+U5ODA1MDMsMTQ0MjI3NTA2MywtODE3MDQxMjI2LDE0ODU5NTM1
+OV19
 -->
