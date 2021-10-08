@@ -90,7 +90,7 @@ También podemos etiquetar la retirada de un producto del carrito, aunque éste 
 
 ### Etiquetar el checkout (proceso de verificar datos)
 
-El siguiente paso de nuestro embudo de compra invocará al evento `begin_checkout` para indicar que se ha comenzado el proceso de verificación de los datos y selección de pago. Deberemos ejecutarlo cuando el usuario pulse sobre el botón de pagar o seleccionar medios de pago. Con esto será suficiente para avanzar en el registro de información de nuestro funnel pero si queremos tener más detalle en Analytics -que no en este embudo- también podemos usar los eventos `checkout_progress` para monitorizar cambios en los productos antes de pagar (como cantidades, cupones, etc) o `set_checkout_option` para medir las opciones de pago.
+El siguiente paso de nuestro embudo de compra invocará al evento `begin_checkout` para indicar que se ha comenzado el proceso de verificación de los datos y selección de pago. Deberemos ejecutarlo cuando el usuario pulse sobre el botón de pagar o en el último paso antes de terminar con la compra. Con esto será suficiente para avanzar en el registro de información de nuestro funnel pero si queremos tener más detalle en Analytics -que no en este embudo- también podemos usar los eventos `checkout_progress` para monitorizar cambios en los productos antes de pagar (como cantidades, cupones, etc) o `set_checkout_option` para medir las opciones de pago.
 
     gtag('event', 'begin_checkout', {
       "items": [
@@ -111,28 +111,33 @@ El siguiente paso de nuestro embudo de compra invocará al evento `begin_checkou
 
 ### Etiquetar el final de la compra
 
+Este será nuestro paso final. Para ello haremos uso de la opción `purchase` con la registraremos correctamente la venta en Analytics.
+
     gtag('event', 'purchase', {
       "transaction_id": "24.031608523954162",
       "affiliation": "Google online store",
-      "value": 23.07,
+      "value": 2.0,
       "currency": "USD",
       "tax": 1.24,
       "shipping": 0,
       "items": [
         {
            "id": "P12345",
-              "name": "Camiseta roja",
-              "list_name": "Search Results",
-              "brand": "H&M",
-              "category": "Camiseta",
-              "variant": "Roja",
-              "list_position": 1,
-              "quantity": 1,
-              "price": '2.0'
+           "name": "Camiseta roja",
+           "list_name": "Search Results",
+           "brand": "H&M",
+           "category": "Camiseta",
+           "variant": "Roja",
+           "list_position": 1,
+           "quantity": 1,
+           "price": '2.0'
         }
       ]
     }); 
 
+## Visualizar la información en Google Analytics
+
+Si 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQzNjEzMDQsMTQ4NTk1MzU5XX0=
+eyJoaXN0b3J5IjpbLTExMzU5MDk4MzgsMTQ4NTk1MzU5XX0=
 -->
