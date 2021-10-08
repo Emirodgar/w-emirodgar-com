@@ -162,14 +162,15 @@ Si queremos emular el funnel con métricas independientes o incluso para poder o
 
 ![enter image description here](https://i.imgur.com/OQRscUh.png)
 
-En nuestro caso tendríamos que filtrar:
+En nuestro caso tendríamos que crear cuatro métricas que contengan las `sesiones` y filtrar cada una de ellas por la `Fase de compra` tal como se muestra en la imagen anterior haciendo uso de los siguientes términos:
 
  - PRODUCT_VIEW
  - ADD_TO_CART
  - CHECKOUT
- - PURCHA
+ - PURCHASE
 
+Por último, pero no menos importante, si queremos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1MDk0MDM5LC04MTcwNDEyMjYsMTQ4NT
-k1MzU5XX0=
+eyJoaXN0b3J5IjpbLTE1NTczNjAzMDcsLTgxNzA0MTIyNiwxND
+g1OTUzNTldfQ==
 -->
