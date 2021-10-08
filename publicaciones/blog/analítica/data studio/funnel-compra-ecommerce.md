@@ -18,8 +18,10 @@ En este artículo os enseñaré a configurar correctamente el funnel o embudo de
 
 ## Comercio electrónico y Comercio electrónico mejorado
 
-Analytics nos permite
+Analytics nos permite activar dentro de cada vista el informe de comercio
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mjc0MjY2NiwyMDE5MTkyOTU2LC03OT
+eyJoaXN0b3J5IjpbLTM1NDg2NTY4MCwyMDE5MTkyOTU2LC03OT
 MwMjQwMjgsLTE2MjE2MDk0OTZdfQ==
 -->
