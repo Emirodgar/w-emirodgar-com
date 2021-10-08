@@ -38,7 +38,15 @@ Si usamos algún CMS conocido, seguramente ya tenga integrado la medición con A
 
 ![enter image description here](https://i.imgur.com/Z3q49EC.png)
 
-Básicamente lo que veremos serán todas las sesiones en el primer paso del embudo pero 
+Básicamente lo que veremos serán todas las sesiones en el primer paso del embudo pero nada de información en el resto.
+
+## Etiquetar cada paso del funnel
+
+Lo que debemos hacer ahora es ir etiquetando de forma manual cada paso o acción del funnel. Para ello seguiremos los siguientes pasos.
+
+### Etiquetar sesiones con vistas del producto
+
+Este paso lo llevaremos a cabo con la opción 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjgxNDMsMTQ4NTk1MzU5XX0=
+eyJoaXN0b3J5IjpbMTUwMjMyMTQ3MSwxNDg1OTUzNTldfQ==
 -->
