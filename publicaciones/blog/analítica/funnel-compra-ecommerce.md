@@ -153,7 +153,7 @@ En el caso de que queramos tener los pasos de compra traducidos (por defecto en 
     ...
     END
 
-Si queremos emular el funnel con métricas independientes o incluso poder obtener los porcentajes que vamos generando en cada paso del embudo, lo podemos hacer aplicando filtros sobre las sesiones de la siguiente manera:
+La siguiente acción para disponer del mismo funnel que en Analtics será crear métricas para cada paso del funnel e incluso poder obtener los porcentajes que vamos generando en cada uno de ellos; para ello crearemos varias métricas partiendo de las sesiones y aplicaremos filtrosde la siguiente manera:
 
 ![filtro data studio funnel compra analytics ecommerce mejorado](https://emirodgar.com/cdn/images/posts/filtro-data-studio-ecommerce.jpg){:class="img-responsive"}
 
@@ -168,7 +168,7 @@ Por último, pero no menos importante, si queremos poder visualizar el porcentaj
 
 ![data studio combinar datos](https://emirodgar.com/cdn/images/posts/data-studio-combinar-datos.jpg){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDg0NDc0OSw1MzMwOTMyMTIsLTE0NT
+eyJoaXN0b3J5IjpbLTkwMjE1NjI2Miw1MzMwOTMyMTIsLTE0NT
 k4MDUwMywxNDQyMjc1MDYzLC04MTcwNDEyMjYsMTQ4NTk1MzU5
 XX0=
 -->
