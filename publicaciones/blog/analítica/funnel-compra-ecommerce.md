@@ -141,11 +141,11 @@ Si accedemos ahora a nuestro informe en Analytics veremos que la información ap
 
 Si queremos trasladar dicha visualización a Google Data Studio bastará con hacer uso de la dimensión `Fase de compra` e importarla en cualquier gráfico de barras para disponer de un gráfico similar al que tenemos en Analytics. 
 
-El resultado que podríamos visualizar en Data Studio sería similar al siguiente (en la siguiente imagen no he tra
+El resultado inicial en Data Studio será más básico que el informe de Analytics, pero podremos ir creando y emulando todas y cada una de las métricas así como adaptar el embudo a nuestros análisis. 
 
 ![funnel análisis de compra data studio analytics ecommerce mejorado](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-comportamiento-compra-correcto-data-studio.jpg){:class="img-responsive"}
 
-En el caso de que queramos tener los pasos de compra traducidos, podemos hacerlo a través de una dimensión personalizada de la siguiente manera:
+En el caso de que queramos tener los pasos de compra traducidos (por defecto en Analytics vienen en inglés), podemos hacerlo a través de una dimensión personalizada de la siguiente manera:
 
     CASE 
     WHEN REGEXP_MATCH (Fase de compra, "ALL_VISITS") THEN "1) Todas las sesiones" 
@@ -168,7 +168,7 @@ Por último, pero no menos importante, si queremos poder visualizar el porcentaj
 
 ![data studio combinar datos](https://emirodgar.com/cdn/images/posts/data-studio-combinar-datos.jpg){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTc1ODU3LDUzMzA5MzIxMiwtMTQ1OT
-gwNTAzLDE0NDIyNzUwNjMsLTgxNzA0MTIyNiwxNDg1OTUzNTld
-fQ==
+eyJoaXN0b3J5IjpbLTQ3MDg0NDc0OSw1MzMwOTMyMTIsLTE0NT
+k4MDUwMywxNDQyMjc1MDYzLC04MTcwNDEyMjYsMTQ4NTk1MzU5
+XX0=
 -->
