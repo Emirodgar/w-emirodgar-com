@@ -36,7 +36,9 @@ Esta opción se habrá activado al habilitar el ecommerce mejorado y aparecerá 
 
 Si usamos algún CMS conocido, seguramente ya tenga integrado la medición con Analytics por lo que nuestros datos aparecerán. Si no es el caso, la gráfica aparecerá vacía y no tendremos visibilidad del funnel de compra dentro de nuestro sitio.
 
+![enter image description here](https://i.imgur.com/Z3q49EC.png)
 
+Básicamente lo que veremos serán todas las sesiones en el primer paso del embudo pero 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTk1MzU5XX0=
+eyJoaXN0b3J5IjpbLTUyMjgxNDMsMTQ4NTk1MzU5XX0=
 -->
