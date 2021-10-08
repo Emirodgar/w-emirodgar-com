@@ -16,15 +16,19 @@ Recoger la información adecuada nos permitirá hacer un análisis de calidad y 
 
 En este artículo os enseñaré a configurar correctamente el funnel o embudo del proceso de compra de Google Analytics así como su visualización dentro de Google Data Studio. 
 
-## Activar Comercio electrónico y Comercio electrónico mejorado
+## Activar Comercio electrónico 
 
 Analytics nos permite activar para cada vista el informe de comercio electrónico. Para ello iremos a Administración, pulsaremos en la vista y haremos clic sobre `Configuración del comercio electrónico`. 
 
-Aquí bastará con que activemos ambas opciones
+Aquí bastará con que activemos ambas opciones.
 
 ![enter image description here](https://i.imgur.com/EAMLmS8.png)
 
 
+### Diferencia entre Comercio electrónico y Comercio electrónico mejorado
+
+
+Con el mejorado activaremos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjMxNjMwNl19
+eyJoaXN0b3J5IjpbMTY5NzUwOTQwN119
 -->
