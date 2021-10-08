@@ -90,7 +90,7 @@ También podemos etiquetar la retirada de un producto del carrito, aunque éste 
 
 ### Etiquetar el checkout (proceso de pago)
 
-El siguiente paso de nuestro embudo de compra invocará al evento `begin_checkout` para indicar que se ha comenzado el proceso de pago. Deberemos ejecutarlo cuando el usuario pulse sobre el botón de pagar o seleccionar medios de pago. Con esto será suficiente
+El siguiente paso de nuestro embudo de compra invocará al evento `begin_checkout` para indicar que se ha comenzado el proceso de pago. Deberemos ejecutarlo cuando el usuario pulse sobre el botón de pagar o seleccionar medios de pago. Con esto será suficiente para avanzar en el registro de información de nuestro funnel pero si queremos tener más detalle en Analytics -que no en este embudo- también podemos usar los eventos checkout_progress en el caso.
 
 gtag('event', 'begin_checkout', {
   "items": [
@@ -109,5 +109,5 @@ gtag('event', 'begin_checkout', {
   "coupon": ""
 });
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Njg4MTMzNSwxNDg1OTUzNTldfQ==
+eyJoaXN0b3J5IjpbLTEzMzE4Mjc5MiwxNDg1OTUzNTldfQ==
 -->
