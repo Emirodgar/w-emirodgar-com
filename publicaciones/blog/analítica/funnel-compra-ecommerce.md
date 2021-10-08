@@ -46,7 +46,7 @@ Lo que debemos hacer ahora es ir etiquetando de forma manual cada paso o acción
 
 ### Etiquetar sesiones con vistas del producto
 
-Este paso lo llevaremos a cabo con la opción `view_item` y ejecutaremos el siguiente código JavaScript siempre que consideremos que el usuario está visualizando los detalles de un producto. Lo podemos hacer al acceder sin más a una página de producto o si debe hacer clic en un desplegable para visualizar toda la información del mismo. 
+Este paso lo llevaremos a cabo ejecutando el siguiente código JavaScript con la opción `view_item` siempre que consideremos que el usuario está visualizando los detalles de un producto. Lo podemos hacer al acceder sin más a una página de producto o si el usuario ha hecho clic en un desplegable para visualizar toda la información del mismo. 
 
     gtag('event', 'view_item', {
       "items": [
@@ -64,6 +64,9 @@ Este paso lo llevaremos a cabo con la opción `view_item` y ejecutaremos el sigu
       ]
     });
 
+Lo importante es entender cuándo lo queremos medir para que nuestros posteriores análisis tengan sentido.
+
+### Etiquetar añad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA4NDA1NSwxNDg1OTUzNTldfQ==
+eyJoaXN0b3J5IjpbLTE5NTk2MDA4MDksMTQ4NTk1MzU5XX0=
 -->
