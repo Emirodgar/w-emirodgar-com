@@ -29,6 +29,10 @@ Aquí bastará con que activemos ambas opciones.
 
 
 Con el mejorado activaremos una serie de informes más especializados como Comportamiento de compra, rentabilidad económica, rendimiento de campañas o atribución de productos. Son más detallados pero también requieren de una configuración o etiquetado adicional dentro de nuestro sitio.
+
+## Analizar el comportamiento de compra
+
+Esta opción se habrá activado al habilitar el ecommerce mejorado y aparecerá en nuestro menú bajo las opciones de Conversiones > Comercio electrónico > Comportamiento d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5NzIyMjQ1XX0=
+eyJoaXN0b3J5IjpbMTAyMTY4MzAyN119
 -->
