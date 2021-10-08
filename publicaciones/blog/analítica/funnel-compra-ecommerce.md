@@ -169,10 +169,10 @@ En nuestro caso tendríamos que crear cuatro métricas que contengan las `sesion
  - CHECKOUT
  - PURCHASE
 
-Por último, pero no menos importante, si queremos poder visualizar el porcentaje de personas que avanzan en nuestro funnel, lo podremos hacer seleccionando dos métricas de forma invertida (es decir, primero la que tiene menos valor y después la anterior), pulsamos botón derecho y seleccionamos la opción de `combinar datos`. Automática 
+Por último, pero no menos importante, si queremos poder visualizar el porcentaje de personas que avanzan en nuestro funnel, lo podremos hacer seleccionando dos métricas de forma invertida (es decir, primero la que tiene menos valor y después la anterior), pulsamos botón derecho y seleccionamos la opción de `combinar datos`. Automáticamente aparecerá el valor que estamos buscando.
 
 ![enter image description here](https://i.imgur.com/0qOpPd7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MTg5OTQzLC04MTcwNDEyMjYsMTQ4NT
-k1MzU5XX0=
+eyJoaXN0b3J5IjpbMTQ0MjI3NTA2MywtODE3MDQxMjI2LDE0OD
+U5NTM1OV19
 -->
