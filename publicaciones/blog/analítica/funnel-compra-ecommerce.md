@@ -34,7 +34,7 @@ Esta opción se habrá activado al habilitar el ecommerce mejorado y aparecerá 
 
 Si usamos algún CMS conocido, seguramente ya tenga integrado la medición con Analytics por lo que nuestros datos aparecerán. Si no es el caso, la gráfica aparecerá vacía y no tendremos visibilidad del funnel de compra dentro de nuestro sitio.
 
-![enter image description here](https://i.imgur.com/Z3q49EC.png)
+![análisis de compra ecommerce mejorado analytics vacío](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-comportamiento-compra-vacio.jpg){:class="img-responsive"}
 
 Básicamente lo que veremos serán todas las sesiones en el primer paso del embudo pero nada de información en el resto.
 
@@ -137,7 +137,7 @@ Este será nuestro paso final. Para ello haremos uso de la opción `purchase` co
 
 Si accedemos ahora a nuestro informe en Analytics veremos que la información aparece correctamente registrada.
 
-![enter image description here](https://i.imgur.com/YvsGyNS.png)
+![análisis de compra ecommerce mejorado analytics correcto](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-comportamiento-compra-correcto.jpg){:class="img-responsive"}
 
 Si queremos trasladar dicha visualización a Google Data Studio bastará con hacer uso de la dimensión `Fase de compra` e importarla en cualquier gráfico de barras para disponer de un gráfico similar al que tenemos en Analytics.
 
@@ -154,7 +154,8 @@ También podemos crear nuestra propia dimensión personalizada y añadir ahí la
     END
 
 El resultado que podríamos visualizar en Data Studio sería similar al siguiente
-![enter image description here](https://i.imgur.com/CAqsYMe.png)
+
+![análisis de compra ecommerce mejorado analytics correcto](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-comportamiento-compra-correcto.jpg){:class="img-responsive"}
 
 Si queremos emular el funnel con métricas independientes o incluso para poder obtener los porcentajes que vamos generando en cada paso, lo podemos hacer aplicando filtros sobre las sesiones de la siguiente manera:
 
@@ -171,6 +172,6 @@ Por último, pero no menos importante, si queremos poder visualizar el porcentaj
 
 ![enter image description here](https://i.imgur.com/0qOpPd7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDUyMjMxNzUsMTQ0MjI3NTA2MywtOD
-E3MDQxMjI2LDE0ODU5NTM1OV19
+eyJoaXN0b3J5IjpbLTY3MzUxNzI1LDE0NDIyNzUwNjMsLTgxNz
+A0MTIyNiwxNDg1OTUzNTldfQ==
 -->
