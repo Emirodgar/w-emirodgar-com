@@ -18,11 +18,9 @@ En este artículo os enseñaré a configurar correctamente el funnel o embudo de
 
 ## Activar Comercio electrónico 
 
-Analytics nos permite activar para cada vista el informe de comercio electrónico. Para ello iremos a Administración, pulsaremos en la vista y haremos clic sobre `Configuración del comercio electrónico`. 
+Analytics nos permite activar para cada vista el informe de comercio electrónico. Para ello iremos a Administración, pulsaremos en la vista y haremos clic sobre `Configuración del comercio electrónico`. Bastará con que activemos ambas opciones.
 
-Aquí bastará con que activemos ambas opciones.
-
-![enter image description here](https://i.imgur.com/EAMLmS8.png)
+![Habilitar ecommerce mejorado Analytics](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-opciones.jpg){:class="img-responsive"}
 
 
 ### Diferencia entre Comercio electrónico y Comercio electrónico mejorado
@@ -173,6 +171,6 @@ Por último, pero no menos importante, si queremos poder visualizar el porcentaj
 
 ![enter image description here](https://i.imgur.com/0qOpPd7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjI3NTA2MywtODE3MDQxMjI2LDE0OD
-U5NTM1OV19
+eyJoaXN0b3J5IjpbLTEwMDUyMjMxNzUsMTQ0MjI3NTA2MywtOD
+E3MDQxMjI2LDE0ODU5NTM1OV19
 -->
