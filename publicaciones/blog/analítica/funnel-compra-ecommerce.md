@@ -88,7 +88,26 @@ El siguiente paso del funnel será añadir al carrito un producto. Cuando esto o
 
 También podemos etiquetar la retirada de un producto del carrito, aunque éste no se verá reflejado en el funnel de comportamiento de compra.
 
-### Et
+### Etiquetar el checkout (proceso de pago)
+
+El siguiente paso de nuestro embudo de compra invocará al evento `begin_checkout` para indicar que se ha comenzado el proceso de pago. Deberemos ejecutarlo cuando el usuario pulse sobre el botón de pagar o seleccionar medios de pago. Con esto será suficiente
+
+gtag('event', 'begin_checkout', {
+  "items": [
+    {
+      "id": "P12345",
+          "name": "Camiseta roja",
+          "list_name": "Search Results",
+          "brand": "H&M",
+          "category": "Camiseta",
+          "variant": "Roja",
+          "list_position": 1,
+          "quantity": 1,
+          "price": '2.0'
+    }
+  ],
+  "coupon": ""
+});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzY4OTUzMSwxNDg1OTUzNTldfQ==
+eyJoaXN0b3J5IjpbLTY1Njg4MTMzNSwxNDg1OTUzNTldfQ==
 -->
