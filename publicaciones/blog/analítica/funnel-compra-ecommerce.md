@@ -28,7 +28,7 @@ Aquí bastará con que activemos ambas opciones.
 ### Diferencia entre Comercio electrónico y Comercio electrónico mejorado
 
 
-Con el mejorado activaremos
+Con el mejorado activaremos una serie de informes más especializados como Comportamiento de compra, rentabilidad económica, rendimiento de campañas o atribución de productos. Son más detallados pero también requieren de una configuración o etiquetado adicional dentro de nuestro sitio.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzUwOTQwN119
+eyJoaXN0b3J5IjpbODQ5NzIyMjQ1XX0=
 -->
