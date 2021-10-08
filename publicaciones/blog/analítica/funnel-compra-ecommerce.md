@@ -155,11 +155,11 @@ También podemos crear nuestra propia dimensión personalizada y añadir ahí la
 
 El resultado que podríamos visualizar en Data Studio sería similar al siguiente
 
-![análisis de compra ecommerce mejorado analytics correcto](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-comportamiento-compra-correcto.jpg){:class="img-responsive"}
+![funnel análisis de compra data studio analytics ecommerce mejorado](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-comportamiento-compra-correcto-data-studio.jpg){:class="img-responsive"}
 
 Si queremos emular el funnel con métricas independientes o incluso para poder obtener los porcentajes que vamos generando en cada paso, lo podemos hacer aplicando filtros sobre las sesiones de la siguiente manera:
 
-![enter image description here](https://i.imgur.com/OQRscUh.png)
+![filtro data studio funnel compra analytics ecommerce mejorado](https://emirodgar.com/cdn/images/posts/filtro-data-studio-ecommerce.jpg){:class="img-responsive"}
 
 En nuestro caso tendríamos que crear cuatro métricas que contengan las `sesiones` y filtrar cada una de ellas por la `Fase de compra` tal como se muestra en la imagen anterior haciendo uso de los siguientes términos:
 
@@ -170,8 +170,8 @@ En nuestro caso tendríamos que crear cuatro métricas que contengan las `sesion
 
 Por último, pero no menos importante, si queremos poder visualizar el porcentaje de personas que avanzan en nuestro funnel, lo podremos hacer seleccionando dos métricas de forma invertida (es decir, primero la que tiene menos valor y después la anterior), pulsamos botón derecho y seleccionamos la opción de `combinar datos`. Automáticamente aparecerá el valor que estamos buscando.
 
-![enter image description here](https://i.imgur.com/0qOpPd7.png)
+![filtro data studio funnel compra analytics ecommerce mejorado](https://emirodgar.com/cdn/images/posts/data-studio-combinar-datos.jpg){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzUxNzI1LDE0NDIyNzUwNjMsLTgxNz
-A0MTIyNiwxNDg1OTUzNTldfQ==
+eyJoaXN0b3J5IjpbLTYzMjQ0ODc5MiwxNDQyMjc1MDYzLC04MT
+cwNDEyMjYsMTQ4NTk1MzU5XX0=
 -->
