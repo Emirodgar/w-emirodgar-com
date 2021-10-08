@@ -58,7 +58,7 @@ Este paso lo llevaremos a cabo ejecutando el siguiente código JavaScript con la
           "category": "Camiseta",
           "variant": "Roja",
           "list_position": 1,
-          "quantity": 2,
+          "quantity": 1,
           "price": '2.0'
         }
       ]
@@ -66,7 +66,26 @@ Este paso lo llevaremos a cabo ejecutando el siguiente código JavaScript con la
 
 Lo importante es entender cuándo lo queremos medir para que nuestros posteriores análisis tengan sentido.
 
-### Etiquetar añad
+### Etiquetar añadir al carrito
+
+El siguiente paso del funnel será añadir al carrito un producto. Cuando esto ocurra ejecutaremos el siguiente código JavaScript que invoca al evento `add_to_cart`.
+
+    gtag('event', 'add_to_cart', {
+      "items": [
+        {
+          "id": "P12345",
+          "name": "Camiseta roja",
+          "list_name": "Search Results",
+          "brand": "Google",
+          "category": "Apparel/T-Shirts",
+          "variant": "Black",
+          "list_position": 1,
+          "quantity": 2,
+          "price": '2.0'
+        }
+      ]
+    });
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk2MDA4MDksMTQ4NTk1MzU5XX0=
+eyJoaXN0b3J5IjpbNzgxMDYzNDgsMTQ4NTk1MzU5XX0=
 -->
