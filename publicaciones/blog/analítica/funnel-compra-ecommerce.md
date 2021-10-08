@@ -46,7 +46,24 @@ Lo que debemos hacer ahora es ir etiquetando de forma manual cada paso o acción
 
 ### Etiquetar sesiones con vistas del producto
 
-Este paso lo llevaremos a cabo con la opción 
+Este paso lo llevaremos a cabo con la opción view_item y ejecutaremos el siguiente código JavaScript siempre que se visualice una página de un producto.
+
+    gtag('event', 'view_item', {
+      "items": [
+        {
+          "id": "P12345",
+          "name": "Camiseta roja",
+          "list_name": "Search Results",
+          "brand": "H&M",
+          "category": "Camiseta",
+          "variant": "Roja",
+          "list_position": 1,
+          "quantity": 2,
+          "price": '2.0'
+        }
+      ]
+    });
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjMyMTQ3MSwxNDg1OTUzNTldfQ==
+eyJoaXN0b3J5IjpbMTI5NTg5ODc4NCwxNDg1OTUzNTldfQ==
 -->
