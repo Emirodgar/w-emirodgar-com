@@ -141,7 +141,9 @@ Si accedemos ahora a nuestro informe en Analytics veremos que la información ap
 
 ![enter image description here](https://i.imgur.com/YvsGyNS.png)
 
-Si queremos trasladar dicha visualización a Google Data Studio recomiendo crearnos una dimensión personalizada
+Si queremos trasladar dicha visualización a Google Data Studio bastará con hacer uso de la dimensión `Fase de compra` e importarla en cualquier gráfico de barras para disponer de un gráfico similar al que tenemos en Analytics.
+
+recomiendo crearnos una dimensión personalizada
 
     CASE 
     WHEN REGEXP_MATCH (Fase de compra, "ALL_VISITS") THEN "1) All Sessions" 
@@ -154,5 +156,5 @@ Si queremos trasladar dicha visualización a Google Data Studio recomiendo crear
     END
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzg4NTM1NCwxNDg1OTUzNTldfQ==
+eyJoaXN0b3J5IjpbMjAxOTAxNzgxNSwxNDg1OTUzNTldfQ==
 -->
