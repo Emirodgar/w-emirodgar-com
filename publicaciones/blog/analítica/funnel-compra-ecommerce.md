@@ -156,8 +156,11 @@ También podemos crear nuestra propia dimensión personalizada y añadir ahí la
     END
 
 El resultado que podríamos visualizar en Data Studio sería similar al siguiente
+![enter image description here](https://i.imgur.com/CAqsYMe.png)
 
-Si queremos emular el funnel con métricas independientes
+Si queremos emular el funnel con métricas independientes o incluso para poder obtener los porcentajes que vamos generando en cada paso, lo podemos hacer de la siguiente manera:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI1MDMwNDksMTQ4NTk1MzU5XX0=
+eyJoaXN0b3J5IjpbLTgxNzA0MTIyNiwxNDg1OTUzNTldfQ==
 -->
