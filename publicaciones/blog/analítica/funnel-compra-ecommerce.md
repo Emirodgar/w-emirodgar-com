@@ -90,7 +90,7 @@ También podemos etiquetar la retirada de un producto del carrito, aunque éste 
 
 ### Etiquetar el checkout (proceso de verificar datos)
 
-El siguiente paso de nuestro embudo de compra invocará al evento `begin_checkout` para indicar que se ha comenzado el proceso de verificación de los datos y selecci. Deberemos ejecutarlo cuando el usuario pulse sobre el botón de pagar o seleccionar medios de pago. Con esto será suficiente para avanzar en el registro de información de nuestro funnel pero si queremos tener más detalle en Analytics -que no en este embudo- también podemos usar los eventos `checkout_progress` para monitorizar cambios en los productos antes de pagar (como cantidades, cupones, etc) o `set_checkout_option` para medir las opciones de pago.
+El siguiente paso de nuestro embudo de compra invocará al evento `begin_checkout` para indicar que se ha comenzado el proceso de verificación de los datos y selección de pago. Deberemos ejecutarlo cuando el usuario pulse sobre el botón de pagar o seleccionar medios de pago. Con esto será suficiente para avanzar en el registro de información de nuestro funnel pero si queremos tener más detalle en Analytics -que no en este embudo- también podemos usar los eventos `checkout_progress` para monitorizar cambios en los productos antes de pagar (como cantidades, cupones, etc) o `set_checkout_option` para medir las opciones de pago.
 
     gtag('event', 'begin_checkout', {
       "items": [
@@ -134,5 +134,5 @@ El siguiente paso de nuestro embudo de compra invocará al evento `begin_checkou
     }); 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDg1NzYyNywxNDg1OTUzNTldfQ==
+eyJoaXN0b3J5IjpbLTE1ODQzNjEzMDQsMTQ4NTk1MzU5XX0=
 -->
