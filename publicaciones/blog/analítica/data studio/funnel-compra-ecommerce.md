@@ -14,7 +14,7 @@ permalink: funnel-compra-ecommerce
 
 Recoger la información adecuada nos permitirá hacer un análisis de calidad y obtener información de valor. Si el primer paso falla, el resto del proceso no será riguroso y podría llevarnos a tomar decisiones de negocio equivocadas.
 
-En este artículo os enseñaré a configurar correctamente el funnel o embudo del proceso de compra de Google Analytics 
+En este artículo os enseñaré a configurar correctamente el funnel o embudo del proceso de compra de Google Analytics así como su visualización dentro de Google Data Studio. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MTk2ODM0XX0=
+eyJoaXN0b3J5IjpbLTE2MjE2MDk0OTZdfQ==
 -->
