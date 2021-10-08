@@ -158,9 +158,18 @@ También podemos crear nuestra propia dimensión personalizada y añadir ahí la
 El resultado que podríamos visualizar en Data Studio sería similar al siguiente
 ![enter image description here](https://i.imgur.com/CAqsYMe.png)
 
-Si queremos emular el funnel con métricas independientes o incluso para poder obtener los porcentajes que vamos generando en cada paso, lo podemos hacer de la siguiente manera:
+Si queremos emular el funnel con métricas independientes o incluso para poder obtener los porcentajes que vamos generando en cada paso, lo podemos hacer aplicando filtros sobre las sesiones de la siguiente manera:
 
+![enter image description here](https://i.imgur.com/OQRscUh.png)
+
+En nuestro caso tendríamos que filtrar:
+
+ - PRODUCT_VIEW
+ - ADD_TO_CART
+ - CHECKOUT
+ - PURCHA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzA0MTIyNiwxNDg1OTUzNTldfQ==
+eyJoaXN0b3J5IjpbNzQ1MDk0MDM5LC04MTcwNDEyMjYsMTQ4NT
+k1MzU5XX0=
 -->
