@@ -169,8 +169,8 @@ En nuestro caso tendríamos que crear cuatro métricas que contengan las `sesion
  - CHECKOUT
  - PURCHASE
 
-Por último, pero no menos importante, si queremos
+Por último, pero no menos importante, si queremos poder visualizar el porcentaje de personas que avanzan en nuestro funnel, lo podremos hacer seleccionando dos métricas (por ejemplo, primero la de prod
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTczNjAzMDcsLTgxNzA0MTIyNiwxND
-g1OTUzNTldfQ==
+eyJoaXN0b3J5IjpbLTkxODI4MDAsLTgxNzA0MTIyNiwxNDg1OT
+UzNTldfQ==
 -->
