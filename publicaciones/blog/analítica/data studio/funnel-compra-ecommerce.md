@@ -18,8 +18,8 @@ En este artículo os enseñaré a configurar correctamente el funnel o embudo de
 
 ## Comercio electrónico y Comercio electrónico mejorado
 
-
+Analytics nos permite
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTE5Mjk1NiwtNzkzMDI0MDI4LC0xNj
-IxNjA5NDk2XX0=
+eyJoaXN0b3J5IjpbLTM5Mjc0MjY2NiwyMDE5MTkyOTU2LC03OT
+MwMjQwMjgsLTE2MjE2MDk0OTZdfQ==
 -->
