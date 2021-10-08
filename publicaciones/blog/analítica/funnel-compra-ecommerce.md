@@ -143,18 +143,18 @@ Si accedemos ahora a nuestro informe en Analytics veremos que la información ap
 
 Si queremos trasladar dicha visualización a Google Data Studio bastará con hacer uso de la dimensión `Fase de compra` e importarla en cualquier gráfico de barras para disponer de un gráfico similar al que tenemos en Analytics.
 
-recomiendo crearnos una dimensión personalizada
+También podemos crear nuestra propia dimensión personalizada y añadir ahí las fases del comportamiento de compra que queramos analizar. Esto sería por ejemplo un añadido frente al funnel por defecto de Analytics. Para ello bastaría con tener una agrupación similar a la siguiente:
 
     CASE 
-    WHEN REGEXP_MATCH (Fase de compra, "ALL_VISITS") THEN "1) All Sessions" 
-    WHEN REGEXP_MATCH (Fase de compra, "CHECKOUT_WITH_CART_ADDITION") THEN "4) Sessions with Check-Out" 
-    WHEN REGEXP_MATCH (Fase de compra, "CHECKOUT_WITHOUT_CART_ADDITION") THEN "4) Sessions with Check-Out" 
-    WHEN REGEXP_MATCH (Fase de compra, "ADD_TO_CART_WITHOUT_VIEW") THEN "3) Sessions with Add to Cart" 
+    WHEN REGEXP_MATCH (Fase de compra, "ALL_VISITS") THEN "1) Todas las sesiones" 
+    WHEN REGEXP_MATCH (Fase de compra, "CHECKOUT_WITH_CART_ADDITION") THEN "4) Sesiones con Check-Out" 
+    WHEN REGEXP_MATCH (Fase de compra, "CHECKOUT_WITHOUT_CART_ADDITION") THEN "4) Sesiones sin Check-Out" 
+    WHEN REGEXP_MATCH (Fase de compra, "ADD_TO_CART_WITHOUT_VIEW") THEN "3) Sesiones con carrito" 
     WHEN REGEXP_MATCH (Fase de compra, "ADD_TO_CART_WITH_VIEW") THEN "3) Sessions with Add to Cart" 
     WHEN REGEXP_MATCH (Fase de compra, "TRANSACTION") THEN "5) Sessions with Transactions" 
     WHEN REGEXP_MATCH (Fase de compra, "PRODUCT_VIEW") THEN "2) Sessions with Product Views" 
     END
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTAxNzgxNSwxNDg1OTUzNTldfQ==
+eyJoaXN0b3J5IjpbLTYzNzAwMDY0NywxNDg1OTUzNTldfQ==
 -->
