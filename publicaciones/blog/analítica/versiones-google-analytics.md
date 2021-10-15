@@ -69,8 +69,12 @@ En este punto la medición ya no iba a través de Analytics sino que se realizab
 
 ### La consolidación de la medición
 
-Hasta este punto, si queríamos medir una web y una app teníamos que hacerlo a través de dos propiedades diferentes. GA4 nace con el objetivo de unificar toda la me
+Hasta este punto, si queríamos medir una web y una app teníamos que hacerlo a través de dos propiedades diferentes. GA4 nace con el objetivo de unificar toda la medición bajo una única cuenta.
+
+Para ello cambia la tradicional medición de página vista (`pageview`) a eventos, independientemente de dónde se estén generando (web, app, etc.).
+
+La independencia y libertad que GA4 ofrece es algo  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njg1MjQ5MzQsLTE2NjA0MTgyNzFdfQ
+eyJoaXN0b3J5IjpbLTEyODIxNzg0MDUsLTE2NjA0MTgyNzFdfQ
 ==
 -->
