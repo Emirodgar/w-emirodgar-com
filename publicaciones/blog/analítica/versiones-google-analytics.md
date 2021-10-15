@@ -30,6 +30,9 @@ A partir de ese momento, el código de seguimiento de Urchin ha ido sufriendo ev
 | 2017| Global Site Tag | gtag.js |
 | 2020| Analytics 4 | gtag.js |
 
+Cada versión ha permitido incorporar nuevas funcionalidades y mejorar el rigor en los datos. Aunque la versión más actualizada es la 4 (GA4) Google Analytics funciona y permite recoger y procesar información con cualquier versión asíncrona (2009).
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTYyNzU2N119
+eyJoaXN0b3J5IjpbLTE2OTYzNjY3NjFdfQ==
 -->
