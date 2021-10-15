@@ -32,7 +32,9 @@ A partir de ese momento, el código de seguimiento de Urchin ha ido sufriendo ev
 
 Cada versión ha permitido incorporar nuevas funcionalidades y mejorar el rigor en los datos. Aunque la versión más actualizada es la 4 (GA4) Google Analytics funciona y permite recoger y procesar información con cualquier versión asíncrona (2009).
 
-##
+## Historia de los códigos
+
+La primera versión del código era la de Urchin y aunque
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTYzNjY3NjFdfQ==
+eyJoaXN0b3J5IjpbLTUyMTg5OTkyN119
 -->
