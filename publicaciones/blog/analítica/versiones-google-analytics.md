@@ -38,9 +38,9 @@ La primera versión del código era la de Urchin y aunque Google adaptó dicha l
 
 Este código tenía como característica principal el usar el comando `_gaq.push` para enviar información a Analytics. Este comando también se usó en la versión de Analytics con medición de anuncios (*Analytics with Display Advertising*).
 
-### Primer paso ha
+### Primer paso hacia la personalización de la medición
 
-Google Analytics Universal, una de las versiones más extendidas y utilizadas hasta el momento, trajo consigo cambios y mejoras asociadas a la medición de los usuarios como la medición con segmentos avanzados, métricas y dimensiones personalizadas, medición multidispositivo, etc.
+Google Analytics Universal, una de las versiones más extendidas y utilizadas hasta el momento, trajo consigo cambios y mejoras asociadas a la medición de los usuarios como los segmentos avanzados, métricas y dimensiones personalizadas, medición multidispositivo, etc.
 
 
 
@@ -53,6 +53,9 @@ Google Analytics Universal, una de las versiones más extendidas y utilizadas ha
     ga(‘send’, ‘pageview’); 
     </script>
 
+### Un código para medirlos a todos
+
+Google Marketing Platform iba tomando forma y era necesario un sistema más robusto para registrar y compartir información. Con ese fin nació Global Site Tag, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTczMDExNl19
+eyJoaXN0b3J5IjpbLTE2NjA0MTgyNzFdfQ==
 -->
