@@ -20,10 +20,13 @@ Sus orígenes se remontan a abril de 2005, fecha en la que Google compró Urchin
 
 A partir de ese momento, el código de seguimiento de Urchin ha ido sufriendo evoluciones que han permitido una mejor y más eficiente medición. En la siguiente tabla muestro dichos códigos y los años en los que fueron lanzados.
 
-| Año | Código  | Librería Javascript
+| Año | Versión de Analytics | Librería Javascript
 |--|--|--|
 | 2005 | Urchin Analytics  | urchin.js |
+| 2007 | Analytics Síncrono  | ga.js |
+| 2009 | Analytics Asíncrono  | dc.js |
+| 2012| Analytics con medición de anuncios | urchin.js |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjQ4Mzk4XX0=
+eyJoaXN0b3J5IjpbLTE2OTE1MzMyODZdfQ==
 -->
