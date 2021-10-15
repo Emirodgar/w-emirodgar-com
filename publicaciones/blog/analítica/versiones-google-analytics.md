@@ -58,6 +58,19 @@ Google Analytics Universal, una de las versiones más extendidas y utilizadas ha
 Google Marketing Platform iba tomando forma y era necesario un sistema más robusto para registrar y compartir información. Con ese fin nació Global Site Tag, para poder estandarizar y compartir información entre Analytics, Ads, DoubleClick y cualquier otro servicio de Google susceptible de entrar en su plataforma.
 
 En este punto la medición ya no iba a través de Analytics sino que se realizaba a través de Tag Manager. 
+
+    <script async src=”https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-1″></script>    
+    <script>    
+    window.dataLayer = window.dataLayer || [];    
+    function gtag(){dataLayer.push(arguments);}    
+      gtag(‘js’, new Date());    
+      gtag(‘config’, ‘UA-XXXXXXXXX-1’);    
+    </script>
+
+### La consolidación de la medición
+
+Hasta este punto, si queríamos medir una web y una app teníamos que hacerlo a través de dos propiedades diferentes. GA4 nace con el objetivo de unificar toda la me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTU5ODU3NSwtMTY2MDQxODI3MV19
+eyJoaXN0b3J5IjpbLTE2Njg1MjQ5MzQsLTE2NjA0MTgyNzFdfQ
+==
 -->
