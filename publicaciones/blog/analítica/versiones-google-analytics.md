@@ -24,9 +24,12 @@ A partir de ese momento, el código de seguimiento de Urchin ha ido sufriendo ev
 |--|--|--|
 | 2005 | Urchin Analytics  | urchin.js |
 | 2007 | Analytics Síncrono  | ga.js |
-| 2009 | Analytics Asíncrono  | dc.js |
-| 2012| Analytics con medición de anuncios | urchin.js |
+| 2009 | Analytics Asíncrono  | ga.js |
+| 2012| Analytics con medición de anuncios | dc.js |
+| 2013| Analytics Universal | analytics.js |
+| 2017| Global Site Tag | gtag.js |
+| 2020| Analytics 4 | gtag.js |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE1MzMyODZdfQ==
+eyJoaXN0b3J5IjpbMjEwNTYyNzU2N119
 -->
