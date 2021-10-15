@@ -38,8 +38,9 @@ La primera versión del código era la de Urchin y aunque Google adaptó dicha l
 
 Este código tenía como característica principal el usar el comando `_gaq.push` para enviar información a Analytics. Este comando también se usó en la versión de Analytics con medición de anuncios (*Analytics with Display Advertising*)
 
-Otras versiones posteriores como 
+Google Analytics Universal, una de las versiones más extendidas y utilizadas hasta el momento, trajo consigo cambios y mejoras asociadas a la medición de los usuarios como la medición con segmentos avanzados, métricas y dimensiones personalizadas, medición multidispositivo, etc.
 
+<!—Sample Universal Analytics Code –> <script> (function(i,s,o,g,r,a,m){i[‘GoogleAnalyticsObject’]=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,’script’,’//www.google-analytics.com/analytics.js’,’ga’); ga(‘create’, ‘UA-XXXX-Y’, ‘auto’); ga(‘send’, ‘pageview’); </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTM0NjY1XX0=
+eyJoaXN0b3J5IjpbLTEzODI3MTY2MDBdfQ==
 -->
