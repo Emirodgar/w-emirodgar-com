@@ -34,10 +34,12 @@ Cada versión ha permitido incorporar nuevas funcionalidades y mejorar el rigor 
 
 ## Historia de los códigos
 
-La primera versión del código era la de Urchin y aunque Google adaptó dicha librería, el auge de Analytics no comenzó hasta 2009 con la presentación de su código asíncrono cuyas ventajas frente a versiones pasadas eran un mejor tiempo de carga y rigor en la recogida de información.
+La primera versión del código era la de Urchin y aunque Google adaptó dicha librería, el auge de Analytics no comenzó hasta 2009 con la presentación de su **código asíncrono** cuyas ventajas frente a versiones pasadas eran un mejor tiempo de carga y fiablidad en la recogida de información.
 
-Este código tenía como característica principal el usar el comando _gaq.push para enviar 
+Este código tenía como característica principal el usar el comando `_gaq.push` para enviar información a Analytics. También se usó en versiones 
+
+Otras versiones posteriores como 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NjA0NDBdfQ==
+eyJoaXN0b3J5IjpbMTY3MTIwOTU3MV19
 -->
