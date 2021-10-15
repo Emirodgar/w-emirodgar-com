@@ -73,8 +73,9 @@ Hasta este punto, si queríamos medir una web y una app teníamos que hacerlo a 
 
 Para ello cambia la tradicional medición de página vista (`pageview`) a eventos, independientemente de dónde se estén generando (web, app, etc.).
 
-La independencia y libertad que GA4 ofrece es algo  
+La independencia y libertad de medición que GA4 ofrece es algo único hasta este momento. 
+
+El código es exactamente el mismo que el de Global Site Tag ya que usaremos la librería `gtag.js` pero la diferencia es que el identificar cambia de "UA-XXXXXXX-X" a "G-XXXXXXXXXX"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODIxNzg0MDUsLTE2NjA0MTgyNzFdfQ
-==
+eyJoaXN0b3J5IjpbLTIxMTIzOTgxNSwtMTY2MDQxODI3MV19
 -->
