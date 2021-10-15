@@ -55,7 +55,7 @@ Google Analytics Universal, una de las versiones más extendidas y utilizadas ha
 
 ### Un código para medirlos a todos
 
-Google Marketing Platform iba tomando forma y era necesario un sistema más robusto para registrar y compartir información. Con ese fin nació Global Site Tag, 
+Google Marketing Platform iba tomando forma y era necesario un sistema más robusto para registrar y compartir información. Con ese fin nació Global Site Tag, para poder 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA0MTgyNzFdfQ==
+eyJoaXN0b3J5IjpbLTY0NzYwNjI5OSwtMTY2MDQxODI3MV19
 -->
