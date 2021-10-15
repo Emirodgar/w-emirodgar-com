@@ -1,5 +1,3 @@
-
-
 ---
 title: Versiones de Google Analytics 
 description: 
@@ -77,5 +75,6 @@ La independencia y libertad de medición que GA4 ofrece es algo único hasta est
 
 El código es exactamente el mismo que el de Global Site Tag ya que usaremos la librería `gtag.js` pero la diferencia es que el identificador cambia de "UA-XXXXXXX-X" a "G-XXXXXXXXXX".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjkxMTUxOCwtMTY2MDQxODI3MV19
+eyJoaXN0b3J5IjpbLTE4MDk1MzQyNzQsLTE2NjA0MTgyNzFdfQ
+==
 -->
