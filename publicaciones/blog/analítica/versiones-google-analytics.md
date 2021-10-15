@@ -14,7 +14,7 @@ permalink: versiones-google-analytics
 
 --- 
 
-
+Google Analytics ha ido, como cualquier otra herramienta digital, evolucionando desde sus orígenes hasta la fecha actual. Actualmente, se estima que está presente en un 55% de las páginas gl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM3MTc5NDldfQ==
+eyJoaXN0b3J5IjpbLTUyNjg3MjE2NV19
 -->
