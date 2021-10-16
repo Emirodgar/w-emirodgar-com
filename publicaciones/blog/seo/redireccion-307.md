@@ -18,7 +18,7 @@ Las redirecciones más utilizadas a nivel SEO son la **301** (Redirección fija)
 
 A efectos prácticos, ninguna ya que en ambas situaciones seremos redireccionados de forma temporal; es decir, el robot de búsqueda nunca eliminará la URL de origen y simplemente nos permitirá acceder a la página que le indiquemos mientras tengamos implementada dicha redirección.
 
-La explicación de porqué existen ambas es que tanto la redirección `301` como la `302` se podía ejecutar a partir de peticiones `GET` y `POST` cuando, en teoría, las peticiones HTTP deberían mantener siempre el tipo original (es decir, se podía cambiar de uno a otro). Para evitar este comportamiento que podría llegar a generar problemas en momentos puntuales, se decidió crear dos códigos de estado de redireccionamiento más estrictos, el `307` (temporal) y el `308` (permanente) 
+La explicación de porqué existen ambas es que tanto la redirección `301` como la `302` se podía ejecutar a partir de peticiones `GET` y `POST` cuando, en teoría, las peticiones `HTTP/1.0` deberían mantener siempre el tipo original (es decir, se podía cambiar de uno a otro). Para evitar este comportamiento que podría llegar a generar problemas en momentos puntuales, se decidió crear dos códigos de estado de redireccionamiento más estrictos, el `307` (temporal) y el `308` (permanente); ambos garantizan que el método de lanzamiento (GET o POST). 
 
 Ambos están recogidos en la actualización `HTTP/1.1` y garantizan un redireccionamiento más preciso.
 
@@ -31,6 +31,6 @@ Entrando de lleno en la redirección 307 podemos identificar dos comportamientos
 
 Cuando el navegador identifica un sitio web que utiliza HSTS, intentará acceder desde la versión HTTPS a través de una redirección interna. Los navegadores utilizarán una redirección 307, para **redirigir una página HTTP hacia una página HTTPS**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODAwNDgwLDQwMDc1MTgzNiwzNjcwOD
+eyJoaXN0b3J5IjpbNDU0ODg3NTU3LDQwMDc1MTgzNiwzNjcwOD
 Q2MzJdfQ==
 -->
