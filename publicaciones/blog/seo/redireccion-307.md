@@ -27,10 +27,10 @@ Estos dos nuevos estados están recogidos en la actualización `HTTP/1.1` y gara
 
 ## ¿Por qué sólo veo una redirección 307 en Google Chrome?
 
-Dentro de la redirección 307 existe una variante . No está definido por el estándar HTTP y es sólo una implementación del navegador local.
+Dentro de la redirección 307 existe una variante de **redireccionamiento interno** que no está definida por el estándar HTTP y que es sólo utilizada por el navegador local. Es decir, no se genera en el servidor web que aloja la página que estamos visitando sino que es llevada a cabo por el navegador.
 
-Cuando el navegador identifica un sitio web que utiliza HSTS, intentará acceder desde la versión HTTPS a través de una redirección interna. Los navegadores utilizarán una redirección 307, para **redirigir una página HTTP hacia una página HTTPS**
+Cuando el navegador -en este caso Google Chrome- identifica un sitio web que utiliza HSTS, intentará acceder desde la versión HTTPS a través de una redirección interna. Los navegadores utilizarán una redirección 307, para **redirigir una página HTTP hacia una página HTTPS**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYxMTE3MDgsNDAwNzUxODM2LDM2Nz
-A4NDYzMl19
+eyJoaXN0b3J5IjpbLTkxNzEwMzM1Myw0MDA3NTE4MzYsMzY3MD
+g0NjMyXX0=
 -->
