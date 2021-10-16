@@ -12,7 +12,7 @@ permalink: redireccion-307
 
 --- 
 
-El código de estaodo 307 enviado por un servidor web indica que se trata de una **redirección temporal**. Concretamente, el estado enviado sería: **`307 Temporary Redirect`**.
+El código de estado 307 enviado por un servidor web indica que se trata de una **redirección temporal**. Concretamente, el estado enviado sería: **`307 Temporary Redirect`**.
 
 Las redirecciones más utilizadas a nivel SEO son la **301** (Redirección fija) y **302** (Redirección temporal), entonces, ¿qué diferencia existe entre una redirección 302 y una redirección 307?.
 
@@ -23,14 +23,14 @@ La explicación de porqué existen ambas es que tanto la redirección `301` como
 Estos dos nuevos estados están recogidos en la actualización `HTTP/1.1` y garantizan por tanto un redireccionamiento más preciso que sus predecesores.
 
 
-![Emirodgar](https://emirodgar.com/cdn/images/posts/redireccion-307.jpg){:class="img-responsive"}
-
 ## ¿Por qué sólo veo una redirección 307 en Google Chrome?
 
 Dentro de la redirección 307 existe una variante de **redireccionamiento interno** que no está definida por el estándar HTTP y que es sólo utilizada por el navegador local. Es decir, no se genera en el servidor web que aloja la página que estamos visitando sino que es llevada a cabo por el navegador.
 
-Cuando el navegador -en este caso Google Chrome- identifica un sitio web que utiliza HSTS, intentará acceder desde la versión HTTPS a través de una redirección interna. Los navegadores utilizarán una redirección 307, para **redirigir una página HTTP hacia una página HTTPS**
+![Emirodgar](https://emirodgar.com/cdn/images/posts/redireccion-307.jpg){:class="img-responsive"}
+
+Cuando el navegador -en este caso Google Chrome- identifica un sitio web que utiliza HSTS, intentará acceder desde la versión HTTPS a través de una redirección interna. En este caso utilizará una redirección 307, para **redirigir la página HTTP hacia la versión HTTPS**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzEwMzM1Myw0MDA3NTE4MzYsMzY3MD
-g0NjMyXX0=
+eyJoaXN0b3J5IjpbLTE4NzEyMTc1NTMsNDAwNzUxODM2LDM2Nz
+A4NDYzMl19
 -->
