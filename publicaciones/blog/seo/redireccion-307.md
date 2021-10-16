@@ -18,7 +18,7 @@ Las redirecciones más utilizadas a nivel SEO son la `301` (Redirección fija) y
 
 A efectos prácticos ninguna ya que en ambas situaciones seremos redireccionados de forma temporal; es decir, el [robot de búsqueda](https://emirodgar.com/detectar-googlebot) nunca eliminará la URL de origen y simplemente nos permitirá acceder a la página de destino mientras tengamos implementada dicha redirección.
 
-La explicación de porqué existen ambas es que tanto la redirección `301` como la `302` se podía ejecutar a partir de peticiones `GET` y `POST` cuando, en teoría, las peticiones `HTTP/1.0` **deberían utilizar sólo el método `GET`**. Para evitar este comportamiento que podría llegar a generar problemas en momentos puntuales, se crearon dos códigos de estado de redireccionamiento más estrictos, el `307` (temporal) y el `308` (permanente); **ambos garantizan que el método de lanzamiento es el adecuado**. 
+La explicación de porqué existen ambas es que tanto la redirección `301` como la `302` se podía ejecutar a partir de peticiones `GET` y `POST` cuando, en teoría, las peticiones `HTTP/1.0` deberían utilizar sólo el método `GET`. Para evitar este comportamiento que podría llegar a generar problemas en momentos puntuales, se crearon dos códigos de estado de redireccionamiento más estrictos, el `307` (temporal) y el `308` (permanente); **ambos garantizan que el método de lanzamiento es el adecuado**. 
 
 Estos dos nuevos estados están recogidos en la actualización `HTTP/1.1` y garantizan por tanto un redireccionamiento más preciso que sus predecesores.
 
@@ -31,6 +31,6 @@ Dentro de la redirección 307 existe una variante de **redireccionamiento intern
 
 Cuando el navegador -en este caso Google Chrome- identifica un sitio web que utiliza HSTS, intentará acceder desde la versión HTTPS a través de una redirección interna. En este caso utilizará una redirección 307, para **redirigir la página HTTP hacia la versión HTTPS**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwODY2MDk1LDQwMDc1MTgzNiwzNjcwOD
-Q2MzJdfQ==
+eyJoaXN0b3J5IjpbLTQwODA3ODgwMSw0MDA3NTE4MzYsMzY3MD
+g0NjMyXX0=
 -->
