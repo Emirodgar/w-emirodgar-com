@@ -12,7 +12,7 @@ permalink: redireccion-307
 
 --- 
 
-El código de estado 307 enviado por un servidor web indica que se trata de una **redirección temporal**. Concretamente, el estado enviado es: **`307 Temporary Redirect`**.
+El código de estado 307 (**`307 Temporary Redirect`**) enviado por un servidor web indica que se trata de una **redirección temporal**. 
 
 Las redirecciones más utilizadas a nivel SEO son la `301` (Redirección fija) y `302` (Redirección temporal), entonces, **¿qué diferencia existe entre una redirección 302 y una redirección 307?**.
 
@@ -31,6 +31,6 @@ Dentro de la redirección 307 existe una variante de **redireccionamiento intern
 
 Cuando el navegador -en este caso Google Chrome- identifica un sitio web que utiliza HSTS, intentará acceder desde la versión HTTPS a través de una redirección interna. En este caso utilizará una redirección 307, para **redirigir la página HTTP hacia la versión HTTPS**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDA4Njc2LDQwMDc1MTgzNiwzNjcwOD
-Q2MzJdfQ==
+eyJoaXN0b3J5IjpbMTU1OTI1MjE1NCw0MDA3NTE4MzYsMzY3MD
+g0NjMyXX0=
 -->
