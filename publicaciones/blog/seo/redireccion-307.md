@@ -27,10 +27,10 @@ Estos dos nuevos estados están recogidos en la actualización `HTTP/1.1` y gara
 
 Dentro de la redirección 307 existe una variante de **redireccionamiento interno** que no está definida por el estándar HTTP y que es sólo utilizada por el navegador local. Es decir, no se genera en el servidor web que aloja la página que estamos visitando sino que es llevada a cabo por el navegador.
 
-![Emirodgar](https://emirodgar.com/cdn/images/posts/redireccion-307.jpg){:class="img-responsive"}
+![Emirodgar - redirección 307 temporal interna](https://emirodgar.com/cdn/images/posts/redireccion-307.jpg){:class="img-responsive"}
 
 Cuando el navegador -en este caso Google Chrome- identifica un sitio web que utiliza HSTS, intentará acceder desde la versión HTTPS a través de una redirección interna. En este caso utilizará una redirección 307, para **redirigir la página HTTP hacia la versión HTTPS**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTI1MjE1NCw0MDA3NTE4MzYsMzY3MD
-g0NjMyXX0=
+eyJoaXN0b3J5IjpbNjkwODY2MDk1LDQwMDc1MTgzNiwzNjcwOD
+Q2MzJdfQ==
 -->
