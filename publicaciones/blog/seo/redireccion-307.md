@@ -7,7 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
-folder: analitica
+folder: seo
 permalink: redireccion-307
 
 --- 
@@ -31,6 +31,6 @@ Dentro de la redirección 307 existe una variante de **redireccionamiento intern
 
 Cuando el navegador -en este caso Google Chrome- identifica un sitio web que utiliza HSTS, intentará acceder desde la versión HTTPS a través de una redirección interna. En este caso utilizará una redirección 307, para **redirigir la página HTTP hacia la versión HTTPS**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDIxNDUzOSw0MDA3NTE4MzYsMzY3MD
-g0NjMyXX0=
+eyJoaXN0b3J5IjpbLTQ1NDA4Njc2LDQwMDc1MTgzNiwzNjcwOD
+Q2MzJdfQ==
 -->
