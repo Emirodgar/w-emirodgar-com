@@ -12,7 +12,11 @@ permalink: redireccion-307
 
 --- 
 
+La redireción 307 es una redirección temporal que indica a
 
+
+
+![Emirodgar](https://emirodgar.com/cdn/images/posts/redireccion-307.jpg){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MDg0NjMyXX0=
+eyJoaXN0b3J5IjpbLTE2MTIxMTI2MTQsMzY3MDg0NjMyXX0=
 -->
