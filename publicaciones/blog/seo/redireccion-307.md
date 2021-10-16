@@ -14,11 +14,11 @@ permalink: redireccion-307
 
 El código de estaodo 307 enviado por un servidor web indica que se trata de una **redirección temporal**. Concretamente, el estado enviado sería: **`307 Temporary Redirect`**.
 
-Las redirecciones más utilizadas a nivel SEO son la 301 (Redirección fija) y 302 (Redirección temporal), entonces, ¿qué diferencia existe entre una redirección 302 y una redirección 307?.
+Las redirecciones más utilizadas a nivel SEO son la **301** (Redirección fija) y **302** (Redirección temporal), entonces, ¿qué diferencia existe entre una redirección 302 y una redirección 307?.
 
-A efectos prácticos, ninguna ya que en ambas situaciones seremos redireccionados de forma temporal; es decir, el robot de búsqueda nunca eliminará la URL de origen y simplemente nos permitirá acceder a la página que le indiquemos.
+A efectos prácticos, ninguna ya que en ambas situaciones seremos redireccionados de forma temporal; es decir, el robot de búsqueda nunca eliminará la URL de origen y simplemente nos permitirá acceder a la página que le indiquemos mientras tengamos implementada dicha redirección.
 
-La realidad es que
+¿Entonces or qué se ha creado la redirección 307? haciendo una pequeña introducción técnica, 
 
 
 ![Emirodgar](https://emirodgar.com/cdn/images/posts/redireccion-307.jpg){:class="img-responsive"}
@@ -27,6 +27,6 @@ La realidad es que
 
 Cuando el navegador identifica un sitio web que utiliza HSTS, intentará acceder desde la versión HTTPS a través de una redirección interna. Los navegadores utilizarán una redirección 307, para **redirigir una página HTTP hacia una página HTTPS**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDE5ODg2LDQwMDc1MTgzNiwzNjcwOD
+eyJoaXN0b3J5IjpbNzE2MTczMDMzLDQwMDc1MTgzNiwzNjcwOD
 Q2MzJdfQ==
 -->
