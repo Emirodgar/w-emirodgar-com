@@ -18,7 +18,7 @@ Las redirecciones más utilizadas a nivel SEO son la **301** (Redirección fija)
 
 A efectos prácticos, ninguna ya que en ambas situaciones seremos redireccionados de forma temporal; es decir, el robot de búsqueda nunca eliminará la URL de origen y simplemente nos permitirá acceder a la página que le indiquemos mientras tengamos implementada dicha redirección.
 
-¿Entonces or qué se ha creado la redirección 307? haciendo una pequeña introducción técnica, 
+A nivel técnico lo que ha ocurrido es que la redirección 302 se podía ejecutar a partir de peticiones GET y POST
 
 
 ![Emirodgar](https://emirodgar.com/cdn/images/posts/redireccion-307.jpg){:class="img-responsive"}
@@ -27,6 +27,6 @@ A efectos prácticos, ninguna ya que en ambas situaciones seremos redireccionado
 
 Cuando el navegador identifica un sitio web que utiliza HSTS, intentará acceder desde la versión HTTPS a través de una redirección interna. Los navegadores utilizarán una redirección 307, para **redirigir una página HTTP hacia una página HTTPS**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MTczMDMzLDQwMDc1MTgzNiwzNjcwOD
+eyJoaXN0b3J5IjpbODk4MTQ5OTEyLDQwMDc1MTgzNiwzNjcwOD
 Q2MzJdfQ==
 -->
