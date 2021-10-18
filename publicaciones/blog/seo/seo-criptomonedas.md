@@ -28,8 +28,13 @@ Los servicios SEO que ofrezco que pueden ser pagados a través de criptomonedas 
 
 ## Pagos con criptomonedas
 
-Para poder estimar el precio de cada servicio SEO será necesario conocer y analiza
+Para poder estimar el precio de cada servicio SEO será necesario conocer y analizar previamente la página sobre la que trabajaremos y los objetivos que se quieren conseguir. Esto es debido a que no todas las páginas son iguales (de tamaño) ni eprsiguen los mismos objetivos de negocio.
+
+No obstante, y para dar una estimación, podríamos valorar como media los siguientes precios por servicio:
+
+ - Auditoría SEO: 600€
+ - Migración SEO: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMjM5MzU0LDg4NDI2MDI2Nl19
+eyJoaXN0b3J5IjpbMTM3NzQ3MzI2MCw4ODQyNjAyNjZdfQ==
 -->
