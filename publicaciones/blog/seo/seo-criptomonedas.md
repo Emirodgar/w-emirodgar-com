@@ -19,9 +19,10 @@ Antes de nada, me gustaría incidir en que tengo más de [12 años de experienci
 Los servicios SEO que ofrezco que pueden ser pagados a través de criptomonedas son los siguientes:
 
 - Auditoría SEO: 
-- Migración SEO: 
-- Estrategia SEO: Diseño y seguimiento de una estrategia SEO para alcanzar los objetivos deseados. En este punto -y tras analizar la página web- diseñaré un planteamiento de trabajo basado en acciones y KPIs que nos permita avanzar hasta la consecución de los objetivos deseados. A mayores, validaré cada tarea llevada a cabo para asegurarnos de que se ejecuta de forma correcta y que aporta valor a la estrateg
+- **Migración SEO**: Proceso por el cuál asesoraré y ayudaré a que una página web sea migrada de forma correcta transfiriendo y manteniendo tanto la popularidad como el posicionamiento SEO actuales de forma correcta a la nueva versión.
+
+- **Estrategia SEO**: Diseño y seguimiento de una estrategia SEO para alcanzar los objetivos deseados. En este punto -y tras analizar la página web- diseñaré un planteamiento de trabajo basado en acciones y KPIs que nos permita avanzar hasta la consecución de los objetivos deseados. A mayores, validaré cada tarea llevada a cabo para asegurarnos de que se ejecuta de forma correcta y que aporta valor a la estrategia SEO planteada.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA4MzQ0MTAsODg0MjYwMjY2XX0=
+eyJoaXN0b3J5IjpbLTg1NDE0NzA5NSw4ODQyNjAyNjZdfQ==
 -->
