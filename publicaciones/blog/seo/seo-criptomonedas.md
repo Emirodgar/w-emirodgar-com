@@ -1,5 +1,5 @@
 ---
-title: Pagar servicios SEO con cri
+title: Pagar servicios SEO con criptomonedas (Bitcoin o Ethereum)
 description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
@@ -12,6 +12,7 @@ permalink: seo-criptomonedas
 
 --- 
 
+Llevo años trabajando con criptomonedas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MzY3MzY5XX0=
+eyJoaXN0b3J5IjpbODg0MjYwMjY2XX0=
 -->
