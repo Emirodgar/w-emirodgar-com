@@ -20,7 +20,7 @@ Antes de nada, me gustaría incidir en que tengo más de [12 años de experienci
 
 Los servicios SEO que ofrezco que pueden ser pagados a través de criptomonedas son los siguientes:
 
-- **Auditoría SEO**:  Análisis completo SEO sobre un portal web para identificar debilidades y fortalezas. Cada punto auditado sobre el que tengamos campo de mejora vendrá acompañado de acciones específicas para poder trabajarlo. Cada mejora propuesta vendrá cualificada a nivel de prioridad e impacto en la estrategia SEO. A mayores de la auditoría, haré seguimiento de las tareas implementadas para asegurarnos de que han sido correctamente implementadas.
+- **Auditoría SEO**:  Análisis SEO completo sobre un portal web para identificar debilidades y fortalezas. Cada punto auditado sobre el que tengamos campo de mejora vendrá acompañado de acciones específicas para poder trabajarlo. Cada mejora propuesta vendrá cualificada a nivel de prioridad e impacto en la estrategia SEO. A mayores de la auditoría, haré seguimiento de las tareas implementadas para asegurarnos de que han sido correctamente implementadas.
 
 - **Migración SEO**: Proceso por el cuál asesoraré y ayudaré a que una página web sea migrada de forma correcta transfiriendo y manteniendo tanto la popularidad como el posicionamiento SEO actuales de forma correcta a la nueva versión.
 
@@ -28,7 +28,7 @@ Los servicios SEO que ofrezco que pueden ser pagados a través de criptomonedas 
 
 ## Pagos con criptomonedas
 
-Para poder estimar el precio de cada servicio SEO será necesario conocer y analizar previamente la página sobre la que trabajaremos y los objetivos que se quieren conseguir. Esto es debido a que no todas las páginas son iguales (de tamaño) ni eprsiguen los mismos objetivos de negocio.
+Para poder estimar el precio de cada servicio SEO será necesario conocer y analizar previamente la página sobre la que trabajaremos y los objetivos que se quieren conseguir. Esto es debido a que no todas las páginas son iguales (de tamaño) ni persiguen los mismos objetivos de negocio.
 
 No obstante, y para dar una estimación, podríamos valorar como media los siguientes precios por servicio:
 
@@ -36,8 +36,8 @@ No obstante, y para dar una estimación, podríamos valorar como media los sigui
  - Estrategia SEO: 450€
  - Migración SEO: 350€
 
-El pago de los mismos se puede realizar a través de Bitcoin o de Ethereum
+El pago de los mismos se puede realizar a través de Bitcoin (`BTH`) o de Ethereum (`ETH`)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDQ5NDg2LDg4NDI2MDI2Nl19
+eyJoaXN0b3J5IjpbMTQxMDg1NzEzNyw4ODQyNjAyNjZdfQ==
 -->
