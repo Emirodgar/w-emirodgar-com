@@ -12,7 +12,10 @@ permalink: seo-criptomonedas
 
 --- 
 
-Soy un ferviente defensor del *blockchain* y las criptomonedas y como tal, estoy dispuesto a ofrecer 
+Soy un ferviente defensor del *blockchain* y las criptomonedas y como tal, ofrezco una serie de servicios SEO que pueden ser abonados directamente a través de monedas virtuales.
+
+Antes de nada, 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5OTA5NzMzLDg4NDI2MDI2Nl19
+eyJoaXN0b3J5IjpbLTE0MDI3NjY1MDYsODg0MjYwMjY2XX0=
 -->
