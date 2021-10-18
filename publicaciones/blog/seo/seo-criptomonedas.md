@@ -33,8 +33,11 @@ Para poder estimar el precio de cada servicio SEO será necesario conocer y anal
 No obstante, y para dar una estimación, podríamos valorar como media los siguientes precios por servicio:
 
  - Auditoría SEO: 600€
- - Migración SEO: 
+ - Estrategia SEO: 450€
+ - Migración SEO: 350€
+
+El pago de los mismos se puede realizar a través de Bitcoin o de Ethereum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzQ3MzI2MCw4ODQyNjAyNjZdfQ==
+eyJoaXN0b3J5IjpbLTUyNDQ5NDg2LDg4NDI2MDI2Nl19
 -->
