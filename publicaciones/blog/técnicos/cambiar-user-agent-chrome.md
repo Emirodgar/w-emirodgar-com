@@ -19,7 +19,8 @@ Por todo ello, en ciertas ocasiones necesitaremos navegar como si fuéramos un r
 
 ## Cómo cambiar el user agent desde Chrome
 
-Si navegamos con Google Chrome bastará con seguir los siguientes pasos:
+Si utilizamos Google Chrome haremos uso de la consola DevTools que viene incluída en dicho navegador. Ya hemos hablado varias veces de ella e incluso tenemos una publi
+
 1. Pulsar "F12" para abrir la consola de DevTools.
 2. A la derecha del todo aparecerán tres iconos: rueda dentada, tres puntos y un aspa. Hacemos clic sobre los tres puntos.
 3. Seleccionamos "More Tools".
@@ -34,7 +35,7 @@ En este punto se nos abrirá un panel con varias opciones. Tendremos que ir al b
 Ahora podremos optar por seleccionar un user agent de los que ya vienen predefinidos en el combo o introducir uno específico nuestro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODA0NjgwLDIwMTAxNTY4MSw3NTAzND
-M5ODksLTExNDI1MDA5NTgsLTEwODA5NTg1NDEsLTE0NjU3MzE5
-MDFdfQ==
+eyJoaXN0b3J5IjpbMjA4NDg2NDY0MywtMzE4MDQ2ODAsMjAxMD
+E1NjgxLDc1MDM0Mzk4OSwtMTE0MjUwMDk1OCwtMTA4MDk1ODU0
+MSwtMTQ2NTczMTkwMV19
 -->
