@@ -36,8 +36,9 @@ No obstante, y para dar una estimación, podríamos valorar como media los sigui
  - Estrategia SEO: 450€
  - Migración SEO: 350€
 
-El pago de los mismos se puede realizar a través de Bitcoin (`BTH`) o de Ethereum (`ETH`)
+El pago de los mismos se puede realizar a través de Bitcoin (`BTH`) o de Ethereum (`ETH`).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDg1NzEzNyw4ODQyNjAyNjZdfQ==
+eyJoaXN0b3J5IjpbMTAxNzY1OTc2MSwxNDEwODU3MTM3LDg4ND
+I2MDI2Nl19
 -->
