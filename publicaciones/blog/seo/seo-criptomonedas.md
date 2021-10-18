@@ -12,7 +12,7 @@ permalink: seo-criptomonedas
 
 --- 
 
-Llevo años trabajando con criptomonedas
+Soy un ferviente defensor del *blockchain* y las criptomonedas y como tal, estoy dispuesto a ofrecer 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MjYwMjY2XX0=
+eyJoaXN0b3J5IjpbNjc5OTA5NzMzLDg4NDI2MDI2Nl19
 -->
