@@ -43,6 +43,8 @@ Siempre que vayamos a enviar información relativa al comercio electrónico es r
 
     dataLayer.push({ ecommerce:  null  });
 
+Una ve
+
 ### 2.2 - Enviar información de impresiones
 
 Por ejemplo si queremos que se registre cuando un producto ha sido visto (impresión del producto) tendríamos que hacerlo con el siguiente código. Lógicamente tendríamos que cambiar los valores del producto de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.
@@ -53,15 +55,15 @@ Por ejemplo si queremos que se registre cuando un producto ha sido visto (impres
      dataLayer.push({    
         'ecommerce': {    
         'currencyCode': 'EUR',     
-        '**impressions**': [    
+        'impressions': [    
 	        {    
-	        'name': 'Triblend Android T-Shirt', // Name or ID is required.    
+	        'name': 'Nombre producto',    
 	        'id': '12345',    
-	        'price': '15.25',    
-	        'brand': 'Google',    
-	        'category': 'Apparel',    
-	        'variant': 'Gray',    
-	        'list': 'Search Results',    
+	        'price': '11.00',    
+	        'brand': 'Marca',    
+	        'category': 'Zapatos',    
+	        'variant': 'Gris',    
+	        'list': 'Resultados búsqueda',    
 	        'position': 1    
 	        }
 	      ]    
@@ -69,6 +71,6 @@ Por ejemplo si queremos que se registre cuando un producto ha sido visto (impres
         });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjI5ODQ0OCwxNTkxMzA1OTQwLC0zOT
+eyJoaXN0b3J5IjpbLTU2MDIzMzcwNiwxNTkxMzA1OTQwLC0zOT
 M5MjUzMDEsNzg0Mzg1MTM4XX0=
 -->
