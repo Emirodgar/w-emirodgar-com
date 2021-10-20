@@ -43,7 +43,7 @@ Siempre que vayamos a enviar información relativa al comercio electrónico es r
 
     dataLayer.push({ ecommerce:  null  });
 
-Una ve
+Una vez iniciado dicho objeto, podemos enviar información a través del objeto ecommerce que será recogida y enviada a Google Analytics.
 
 ### 2.2 - Enviar información de impresiones
 
@@ -54,8 +54,8 @@ Por ejemplo si queremos que se registre cuando un producto ha sido visto (impres
      dataLayer.push({ ecommerce:  null  });
      dataLayer.push({    
         'ecommerce': {    
-        'currencyCode': 'EUR',     
-        'impressions': [    
+         'currencyCode': 'EUR',     
+         'impressions': [    
 	        {    
 	        'name': 'Nombre producto',    
 	        'id': '12345',    
@@ -71,6 +71,6 @@ Por ejemplo si queremos que se registre cuando un producto ha sido visto (impres
         });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDIzMzcwNiwxNTkxMzA1OTQwLC0zOT
-M5MjUzMDEsNzg0Mzg1MTM4XX0=
+eyJoaXN0b3J5IjpbOTQ0MDY5MTg2LDE1OTEzMDU5NDAsLTM5Mz
+kyNTMwMSw3ODQzODUxMzhdfQ==
 -->
