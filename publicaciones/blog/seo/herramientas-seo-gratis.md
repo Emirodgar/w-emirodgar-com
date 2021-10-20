@@ -93,6 +93,7 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [Searchvolume](https://searchvolume.io/)
 - [Alsoasked](https://alsoasked.com/)
 - [Mention](https://web.mention.com/)
+- [Namify](https://namify.tech/)
 
 ## <a name="datos-estructurados"></a>Datos estructurados
 
@@ -129,10 +130,10 @@ Un negocio local tendrá un comportamiento ligeramente diferente a otro con un �
 - [Google Business](https://www.google.com/business/)
 - [review checker](https://review-checker.whitespark.ca)
 - [Yext](https://www.yext.com/)
-- [Google review link generator/](https://whitespark.ca/google-review-link-generator/)
-- [Local search results checker/](https://www.brightlocal.com/local-search-results-checker/)
+- [Google review link generator](https://whitespark.ca/google-review-link-generator/)
+- [Local search results checker](https://www.brightlocal.com/local-search-results-checker/)
 - [Moz local search](https://moz.com/local/search)
-- [Google search location/](https://serps.com/tools/google-search-location/)
+- [Google search location](https://serps.com/tools/google-search-location/)
 
 ## <a name="analitica-web"></a>Analítica web / medición resultados
 
@@ -199,7 +200,7 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Orange Data Mining](https://orangedatamining.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTUzNDU3OSwxNzAxMDkwOTY0LC0yMD
+eyJoaXN0b3J5IjpbMTA5NzI3MDgzNCwxNzAxMDkwOTY0LC0yMD
 kzNjM0NzQ4LC0xMjg0NjQ1MjgzLDE5MDg0NDI0OSwtNTQ5NzY4
 NjU3LC0xMjYyNTkwNTAxLDE5ODUxMjczNywtMTI1NTY1NTM5LC
 01OTAwNzE1NDMsLTQxNjk0NTQ5LDMwOTgyOTk0MSwxNDAwNDY4
