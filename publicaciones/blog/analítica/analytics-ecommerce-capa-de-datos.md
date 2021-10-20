@@ -39,19 +39,43 @@ El código anterior inicia (o limpia) el valor del objeto `ecommerce` que será 
 
 Por ejemplo
 
-<script>  
-/**  
- * Call this function when a user clicks on a product link. This function uses the event  
- * callback datalayer variable to handle navigation after the ecommerce data has been sent  
- * to Google Analytics.  
- * @param {Object} productObj An object representing a product.  
- */  
-function(productObj)  { dataLayer.push({ ecommerce:  null  });  // Clear the previous ecommerce object. dataLayer.push({  'event':  'productClick',  'ecommerce':  {  'click':  {  'actionField':  {'list':  'Search Results'},  // Optional list property.  'products':  [{  'name': productObj.name,  // Name or ID is required.  'id': productObj.id,  'price': productObj.price,  'brand': productObj.brand,  'category': productObj.cat,  'variant': productObj.variant,  'position': productObj.position }]  }  },  'eventCallback':  function()  { document.location = productObj.url }  });  
-}  
-</script>
-
+   dataLayer.push({    
+    'ecommerce': {    
+    'currencyCode': 'EUR',     
+    'impressions': [    
+    {    
+    'name': 'Triblend Android T-Shirt', // Name or ID is required.    
+    'id': '12345',    
+    'price': '15.25',    
+    'brand': 'Google',    
+    'category': 'Apparel',    
+    'variant': 'Gray',    
+    'list': 'Search Results',    
+    'position': 1    
+    },    
+    {    
+    'name': 'Donut Friday Scented T-Shirt',    
+    'id': '67890',
+    
+    'price': '33.75',
+    
+    'brand': 'Google',
+    
+    'category': 'Apparel',
+    
+    'variant': 'Black',
+    
+    'list': 'Search Results',
+    
+    'position': 2
+    
+    }]
+    
+    }
+    
+    });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDIxMDQ1MSwtMzkzOTI1MzAxLDc4ND
-M4NTEzOF19
+eyJoaXN0b3J5IjpbLTIwNzU3NjEyMzcsLTM5MzkyNTMwMSw3OD
+QzODUxMzhdfQ==
 -->
