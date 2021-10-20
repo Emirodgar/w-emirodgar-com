@@ -37,7 +37,7 @@ Por defecto, el nombre del objeto utilizado por GTM para trabajar con la capa de
     dataLayer.push({ nombre:  valor  });
 ```
 
-Si queremos cambiar **dataLayer** por otro nombre pero tendremos que indicarlo en el código base de GTM.
+Podemos [cambiar el nombre del objeto dataLayer](https://emirodgar.com/cambiar-nombre-datalayer) por otro que nos guste más o para personalizar nuestra implementación y evitar .
 
 ### 2.1 - Inicializar el valor del objeto ecommerce
 
@@ -145,6 +145,6 @@ Ahora sólo queda ejecutar el siguiente código una vez que el usuario ha añadi
 Como se puede ver, dicho código invoca el evento `eec.addToCart` y además tiene asociada la información del producto que ha sido añadido al carrito por lo que esa información será enviada a Google Analytics en ese mismo momento. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI0NjQ1MDksLTE2NTg1NjA0NDMsMT
-U5MTMwNTk0MCwtMzkzOTI1MzAxLDc4NDM4NTEzOF19
+eyJoaXN0b3J5IjpbMjQxNTcwMTc5LC0xNjU4NTYwNDQzLDE1OT
+EzMDU5NDAsLTM5MzkyNTMwMSw3ODQzODUxMzhdfQ==
 -->
