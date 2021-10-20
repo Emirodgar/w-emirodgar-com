@@ -29,10 +29,23 @@ De esta forma Tag Manager recogerá los datos de ecommerce directamente desde la
 
 ## 2- Configurar la capa de datos
 
-El siguiente paso será lanzar la información de ecommerce a nuestra capa de datos. Para ello debemos hacer uso de la [guía oficial](https://developers.google.com/tag-manager/enhanced-ecommerce?hl=es#data-layer) para determinar qué objetivos y estructurados tenemos que usar.
+El siguiente paso será lanzar la información de ecommerce a nuestra capa de datos. Para ello debemos hacer uso de la [guía oficial](https://developers.google.com/tag-manager/enhanced-ecommerce?hl=es#data-layer) para determinar qué objetivos y estructurados tenemos que usar. Si utilizamos un nombre diferente o la estructura de JavaScript no es la adecuada tendremos problemas para registrar la información en Analytics.
+
+Por ejemplo, para medir
+
+<script>  
+/**  
+ * Call this function when a user clicks on a product link. This function uses the event  
+ * callback datalayer variable to handle navigation after the ecommerce data has been sent  
+ * to Google Analytics.  
+ * @param {Object} productObj An object representing a product.  
+ */  
+function(productObj)  { dataLayer.push({ ecommerce:  null  });  // Clear the previous ecommerce object. dataLayer.push({  'event':  'productClick',  'ecommerce':  {  'click':  {  'actionField':  {'list':  'Search Results'},  // Optional list property.  'products':  [{  'name': productObj.name,  // Name or ID is required.  'id': productObj.id,  'price': productObj.price,  'brand': productObj.brand,  'category': productObj.cat,  'variant': productObj.variant,  'position': productObj.position }]  }  },  'eventCallback':  function()  { document.location = productObj.url }  });  
+}  
+</script>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQxMjgxMzIsLTM5MzkyNTMwMSw3OD
-QzODUxMzhdfQ==
+eyJoaXN0b3J5IjpbLTYyMDk1MzgwMSwtMzkzOTI1MzAxLDc4ND
+M4NTEzOF19
 -->
