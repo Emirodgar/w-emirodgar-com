@@ -35,7 +35,7 @@ Para enviar información a la capa de datos utilizaremos el comando `push` de la
 
     dataLayer.push({ ecommerce:  null  });
 
-> El término
+> El término utilizado por defecto por GTM es **dataLayer** pero si queremos usar otro, lo debemos declarar en el código base de Tag Manager.
 
 El código anterior inicia (o limpia) el valor del objeto `ecommerce` que será el que utilizaremos para enviar la información de comercio electrónico a Analytics.
 
@@ -62,6 +62,6 @@ Por ejemplo si queremos que se registre cuando un producto ha sido visto (impres
         });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjQ2NjQyNSwxNTkxMzA1OTQwLC0zOT
+eyJoaXN0b3J5IjpbMTE2NjUzNDU4OSwxNTkxMzA1OTQwLC0zOT
 M5MjUzMDEsNzg0Mzg1MTM4XX0=
 -->
