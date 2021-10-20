@@ -43,7 +43,17 @@ Siempre que vayamos a enviar información relativa al comercio electrónico es r
 
     dataLayer.push({ ecommerce:  null  });
 
-Una vez iniciado dicho objeto, podemos enviar información a través del objeto ecommerce que será recogida y enviada a Google Analytics.
+Una vez iniciado dicho objeto, podemos enviar información a través del objeto ecommerce que será recogida y enviada a Google Analytics. Las opciones que tenemos son las siguientes:
+
+ - Impresiones de producto
+ - Clics en producto
+ - Impresiones de detalles de producto
+ - Añadir o quitar productos del carrito
+ - Impresiones de promociones
+ - Clics en promociones
+ - Tramitación de la compra
+ - Compras
+ - Reembolsos
 
 ### 2.2 - Enviar información de impresiones
 
@@ -71,6 +81,6 @@ Por ejemplo si queremos que se registre cuando un producto ha sido visto (impres
         });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0MDY5MTg2LDE1OTEzMDU5NDAsLTM5Mz
-kyNTMwMSw3ODQzODUxMzhdfQ==
+eyJoaXN0b3J5IjpbLTE0NjIyMjM3MTUsMTU5MTMwNTk0MCwtMz
+kzOTI1MzAxLDc4NDM4NTEzOF19
 -->
