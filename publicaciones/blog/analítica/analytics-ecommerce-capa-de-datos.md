@@ -37,45 +37,29 @@ Para enviar información a la capa de datos utilizaremos el comando `push` de la
 
 El código anterior inicia (o limpia) el valor del objeto `ecommerce` que será el que utilizaremos para enviar la información de comercio electrónico a Analytics.
 
-Por ejemplo
+Por ejemplo si queremos que se registre cuando un producto ha sido visto (impresión del producto) tendríamos que hacerlo con el siguiente código. Lógicamente tendríamos que cambiar los valores del producto de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.
 
-   dataLayer.push({    
-    'ecommerce': {    
-    'currencyCode': 'EUR',     
-    'impressions': [    
-    {    
-    'name': 'Triblend Android T-Shirt', // Name or ID is required.    
-    'id': '12345',    
-    'price': '15.25',    
-    'brand': 'Google',    
-    'category': 'Apparel',    
-    'variant': 'Gray',    
-    'list': 'Search Results',    
-    'position': 1    
-    },    
-    {    
-    'name': 'Donut Friday Scented T-Shirt',    
-    'id': '67890',
-    
-    'price': '33.75',
-    
-    'brand': 'Google',
-    
-    'category': 'Apparel',
-    
-    'variant': 'Black',
-    
-    'list': 'Search Results',
-    
-    'position': 2
-    
-    }]
-    
-    }
-    
-    });
+  
+
+     dataLayer.push({    
+        'ecommerce': {    
+        'currencyCode': 'EUR',     
+        'impressions': [    
+	        {    
+	        'name': 'Triblend Android T-Shirt', // Name or ID is required.    
+	        'id': '12345',    
+	        'price': '15.25',    
+	        'brand': 'Google',    
+	        'category': 'Apparel',    
+	        'variant': 'Gray',    
+	        'list': 'Search Results',    
+	        'position': 1    
+	        }
+	      ]    
+        }    
+        });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU3NjEyMzcsLTM5MzkyNTMwMSw3OD
-QzODUxMzhdfQ==
+eyJoaXN0b3J5IjpbMTU5MTMwNTk0MCwtMzkzOTI1MzAxLDc4ND
+M4NTEzOF19
 -->
