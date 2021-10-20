@@ -80,7 +80,7 @@ Si en algún caso necesitamos enviar información después de haber inicializado
 
 ### 2.2 - Enviar información de impresiones (página vista)
 
-Si queremos que Analytics registre la visualización de un producto (impresión del producto) podemos hacerlo en el mismo momento en el que la página se carga; tan sólo tendremos que . Lógicamente tendríamos que cambiar los valores de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.  
+Si queremos que Analytics registre la visualización de un producto (impresión del producto) podemos hacerlo en el mismo momento en el que la página se carga; tan sólo tendremos que iniciar la página con el código que exponemos a continuación. Lógicamente tendríamos que cambiar los valores de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.  
 
      dataLayer.push({ ecommerce:  null  });
      dataLayer.push({    
@@ -103,8 +103,9 @@ Si queremos que Analytics registre la visualización de un producto (impresión 
 
 ### 2.3 - Añadir al carrito (evento)
 
-
+En el caso del proceso de añadir o retirar un producto del carrito, es algo que puede ocurrir en cualquier momento durante la estancia del usuario en nuestra web y que no está sujeto a la carga inicial de la página.
+En este caso, el activador de página vista de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTE2NDU3OSwtMTY1ODU2MDQ0MywxNT
-kxMzA1OTQwLC0zOTM5MjUzMDEsNzg0Mzg1MTM4XX0=
+eyJoaXN0b3J5IjpbNjM1MjM3MjMyLC0xNjU4NTYwNDQzLDE1OT
+EzMDU5NDAsLTM5MzkyNTMwMSw3ODQzODUxMzhdfQ==
 -->
