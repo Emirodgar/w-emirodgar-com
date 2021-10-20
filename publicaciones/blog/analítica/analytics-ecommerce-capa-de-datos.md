@@ -76,11 +76,11 @@ El orden es un factor relevante ya que necesitamos que toda la información est�
     })(window,document,'script','dataLayer','GTM-XXXXX');</script>
     <!-- End Google Tag Manager -->
 
-Si en algún caso necesitamos enviar información después de 
+Si en algún caso necesitamos enviar información después de haber inicializado la página web lo podremos hacer a través de eventos ya que el activador de página vista no funcionará. Ahora veremos dos ejemplos.
 
 ### 2.2 - Enviar información de impresiones (página vista)
 
-Si queremos que se registre cuando un producto ha sido visto (impresión del producto) tendríamos que hacerlo con el siguiente código. Lógicamente tendríamos que cambiar los valores de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.  
+Si queremos que Analytics registre la visualización de un producto (impresión del producto) podemos hacerlo en el mismo momento en el que la página se carga; tan sólo tendremos que . Lógicamente tendríamos que cambiar los valores de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.  
 
      dataLayer.push({ ecommerce:  null  });
      dataLayer.push({    
@@ -105,6 +105,6 @@ Si queremos que se registre cuando un producto ha sido visto (impresión del pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDAyNDQxODUsLTE2NTg1NjA0NDMsMT
-U5MTMwNTk0MCwtMzkzOTI1MzAxLDc4NDM4NTEzOF19
+eyJoaXN0b3J5IjpbMTAzOTE2NDU3OSwtMTY1ODU2MDQ0MywxNT
+kxMzA1OTQwLC0zOTM5MjUzMDEsNzg0Mzg1MTM4XX0=
 -->
