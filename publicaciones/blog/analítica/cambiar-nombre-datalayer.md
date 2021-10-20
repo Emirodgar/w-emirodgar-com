@@ -22,7 +22,7 @@ La línea que debemos identificar es la última del código; justo antes de dond
 })(window,document,'script','dataLayer','GTM-XXXX');</script>  
 ```
 
-Si cambiamos ese valor por `capaDatos`, a partir de ese momento será el nombre que deberemos utilizar. El código modificado quedaría de la siguiente manera:
+En este caso voy a cambiar el valor por defecto por  `capaDatos` y el código modificado quedaría de la siguiente manera:
 
 ```
 <!-- Google Tag Manager -->  
@@ -34,12 +34,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 ``` 
 
-Cuando queramos enviar información a la capa de datos deberemos hacerlo de la siguiente manera:
+Cuando queramos enviar información a la capa de datos lo haremos de la siguiente manera:
 
     <script>  
       capaDatos.push({'nombre':'valor'});  
     </script>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDQ2MzIzN119
+eyJoaXN0b3J5IjpbMTY5NjQ4NzE1XX0=
 -->
