@@ -33,7 +33,9 @@ El siguiente paso será lanzar la información de ecommerce a nuestra capa de da
 
 Por defecto, el nombre del objeto utilizado por GTM para trabajar con la capa de datos es **dataLayer**. Para enviar información a la capa de datos utilizaremos el comando `push` de la siguiente manera: 
 
+```js
     dataLayer.push({ nombre:  valor  });
+```
 
 Si queremos cambiar **dataLayer** por otro nombre pero tendremos que indicarlo en el código base de GTM.
 
@@ -41,7 +43,9 @@ Si queremos cambiar **dataLayer** por otro nombre pero tendremos que indicarlo e
 
 Siempre que vayamos a enviar información relativa al comercio electrónico es recomendable vaciar/limpiar el objeto `ecommerce` para asegurarnos que no se mezcla información de peticiones anteriores. Lo haremos asignando el valor `null` a dicho objeto.
 
+```js
     dataLayer.push({ ecommerce:  null  });
+```
 
 Una vez iniciado dicho objeto, podemos enviar información a través del objeto `ecommerce` que será recogida y enviada a Google Analytics. Las opciones que tenemos son las siguientes:
 
@@ -61,6 +65,7 @@ Tan sólo tendremos que hacer uso de los códigos de ejemplo que nos ofrecen en 
 
 El orden es un factor relevante ya que necesitamos que toda la información esté presente en el objeto `dataLayer` antes de que el código de GTM se ejecute. De esta forma garantizamos que sea correctamente recogida y procesada.
 
+```js
     dataLayer.push({ ecommerce:  null  });
     dataLayer.push({    
        'ecommerce': {    
@@ -75,6 +80,7 @@ El orden es un factor relevante ya que necesitamos que toda la información est�
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-XXXXX');</script>
     <!-- End Google Tag Manager -->
+```
 
 Si en algún caso necesitamos enviar información después de haber inicializado la página web lo podremos hacer a través de eventos ya que el activador de página vista no funcionará. Ahora veremos dos ejemplos.
 
@@ -82,6 +88,7 @@ Si en algún caso necesitamos enviar información después de haber inicializado
 
 Si queremos que Analytics registre la visualización de un producto (impresión del producto) podemos hacerlo en el mismo momento en el que la página se carga; tan sólo tendremos que iniciar la página con el código que exponemos a continuación. Lógicamente tendríamos que cambiar los valores de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.  
 
+```js
      dataLayer.push({ ecommerce:  null  });
      dataLayer.push({    
         'ecommerce': {    
@@ -100,6 +107,7 @@ Si queremos que Analytics registre la visualización de un producto (impresión 
 	      ]    
         }    
         });
+```
 
 ### 2.3 - Añadir al carrito (evento)
 
@@ -113,6 +121,7 @@ En la imagen anterior podemos ver el activador de GTM creado y listo para que ej
 
 Ahora sólo queda ejecutar el siguiente código una vez que el usuario ha añadido un objeto a nuestro carrito de la compra:
 
+```js
     dataLayer.push({ ecommerce:  null  });
     dataLayer.push({    
     'event':  'eec.addToCart',    
@@ -131,10 +140,11 @@ Ahora sólo queda ejecutar el siguiente código una vez que el usuario ha añadi
       }    
      }    
     });
+```
 
 Como se puede ver, dicho código invoca el evento `eec.addToCart` y además tiene asociada la información del producto que ha sido añadido al carrito por lo que esa información será enviada a Google Analytics en ese mismo momento. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mjg4NzM4OCwtMTY1ODU2MDQ0MywxNT
-kxMzA1OTQwLC0zOTM5MjUzMDEsNzg0Mzg1MTM4XX0=
+eyJoaXN0b3J5IjpbLTEyMTI0NjQ1MDksLTE2NTg1NjA0NDMsMT
+U5MTMwNTk0MCwtMzkzOTI1MzAxLDc4NDM4NTEzOF19
 -->
