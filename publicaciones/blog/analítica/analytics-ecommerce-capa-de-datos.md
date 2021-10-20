@@ -31,13 +31,17 @@ De esta forma Tag Manager recogerá los datos de ecommerce directamente desde la
 
 El siguiente paso será lanzar la información de ecommerce a nuestra capa de datos. Para ello debemos hacer uso de la [guía oficial](https://developers.google.com/tag-manager/enhanced-ecommerce?hl=es#data-layer) para determinar qué objetos y estructuras tenemos que usar. Si utilizamos un nombre diferente o la estructura de JavaScript no es la adecuada tendremos problemas para registrar la información en Analytics.
 
-Para enviar información a la capa de datos utilizaremos el comando `push` de la siguiente manera. Por defecto, el nutilizado por GTM es **dataLayer** 
+Por defecto, el nombre del objeto utilizado por GTM para trabajar con la capa de datos es **dataLayer**. Para enviar información a la capa de datos utilizaremos el comando `push` de la siguiente manera. 
 
     dataLayer.push({ ecommerce:  null  });
 
-> El término utilizado por defecto por GTM es **dataLayer** pero si queremos usar otro, lo debemos declarar en el código base de Tag Manager.
+> Si queremos podemos cambiar dataLayer por otro nombre pero tendremos que indicarlo en el código base de GTM.
+
+### Inicializar el valor del objeto ecommerce
 
 El código anterior inicia (o limpia) el valor del objeto `ecommerce` que será el que utilizaremos para enviar la información de comercio electrónico a Analytics.
+
+    dataLayer.push({ ecommerce:  null  });
 
 Por ejemplo si queremos que se registre cuando un producto ha sido visto (impresión del producto) tendríamos que hacerlo con el siguiente código. Lógicamente tendríamos que cambiar los valores del producto de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.
 
@@ -62,6 +66,6 @@ Por ejemplo si queremos que se registre cuando un producto ha sido visto (impres
         });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzNzA0NTI2LDE1OTEzMDU5NDAsLTM5Mz
-kyNTMwMSw3ODQzODUxMzhdfQ==
+eyJoaXN0b3J5IjpbLTM3MDA3NzA2NiwxNTkxMzA1OTQwLC0zOT
+M5MjUzMDEsNzg0Mzg1MTM4XX0=
 -->
