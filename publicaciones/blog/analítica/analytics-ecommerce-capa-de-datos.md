@@ -37,20 +37,23 @@ Por defecto, el nombre del objeto utilizado por GTM para trabajar con la capa de
 
 > Si queremos podemos cambiar **dataLayer** por otro nombre pero tendremos que indicarlo en el código base de GTM.
 
-### Inicializar el valor del objeto ecommerce
+### 2.1 - Inicializar el valor del objeto ecommerce
 
-Antes de enviar información relativa al comercio electrónico es recomendable vaciar/limpiar el objeto `ecommerce` para asegurarnos que no se mezcla inform.
+Siempre que vayamos a enviar información relativa al comercio electrónico es recomendable vaciar/limpiar el objeto `ecommerce` para asegurarnos que no se mezcla información de peticiones anteriores. Lo haremos asignando el valor `null` a dicho objeto.
 
     dataLayer.push({ ecommerce:  null  });
+
+### 2.2 - Enviar información de impresiones
 
 Por ejemplo si queremos que se registre cuando un producto ha sido visto (impresión del producto) tendríamos que hacerlo con el siguiente código. Lógicamente tendríamos que cambiar los valores del producto de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.
 
   
 
+     dataLayer.push({ ecommerce:  null  });
      dataLayer.push({    
         'ecommerce': {    
         'currencyCode': 'EUR',     
-        'impressions': [    
+        '**impressions**': [    
 	        {    
 	        'name': 'Triblend Android T-Shirt', // Name or ID is required.    
 	        'id': '12345',    
@@ -66,6 +69,6 @@ Por ejemplo si queremos que se registre cuando un producto ha sido visto (impres
         });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNTE4MTQ1LDE1OTEzMDU5NDAsLTM5Mz
-kyNTMwMSw3ODQzODUxMzhdfQ==
+eyJoaXN0b3J5IjpbMTU0NjI5ODQ0OCwxNTkxMzA1OTQwLC0zOT
+M5MjUzMDEsNzg0Mzg1MTM4XX0=
 -->
