@@ -105,20 +105,20 @@ Si queremos que Analytics registre la visualización de un producto (impresión 
 
 En el caso del proceso de añadir o retirar un producto del carrito, es algo que puede ocurrir en cualquier momento durante la estancia del usuario en nuestra web y que no está sujeto a la carga inicial de la página.
 
-En este caso, el activador de página vista de GTM no será válido.
+En este caso, el activador de **página vista** de GTM no será válido por lo que tendremos que crear un segundo activador.
 
     window.dataLayer.push({    
-    'event':  'addToCart',    
+    'event':  'eec.addToCart',    
     'ecommerce': {    
       'currencyCode':  'EUR',    
       'add': { 
         'products': [{    
 	        'name':  'Nombre producto',    
 		    'id':  '12345',    
-		    'price':  '15.25',    
-		    'brand':  'Google',    
-		    'category':  'Apparel',    
-		    'variant':  'Gray',    
+		    'price':  '11.00',    
+		    'brand':  'Marca',    
+		    'category':  'Zapatos',    
+		    'variant':  'Gris',    
 		    'quantity':  1    
 	    }]    
       }    
@@ -126,6 +126,6 @@ En este caso, el activador de página vista de GTM no será válido.
     });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTIwNDE3OCwtMTY1ODU2MDQ0MywxNT
+eyJoaXN0b3J5IjpbLTkzNTM4MjEwOSwtMTY1ODU2MDQ0MywxNT
 kxMzA1OTQwLC0zOTM5MjUzMDEsNzg0Mzg1MTM4XX0=
 -->
