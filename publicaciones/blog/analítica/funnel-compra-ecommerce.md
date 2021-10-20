@@ -40,7 +40,7 @@ Básicamente lo que veremos serán todas las sesiones en el primer paso del embu
 
 ## Etiquetar cada paso del funnel
 
-Lo que debemos hacer ahora es ir etiquetando de forma manual cada paso o acción del funnel. Para ello seguiremos los siguientes pasos.
+Lo que debemos hacer ahora es ir etiquetando de forma manual cada paso o acción del funnel. Para ello seguiremos los siguientes pasos. En este artículo he optado por utilizar la [versión gtag.js de Google Analytics](https://emirodgar.com/versiones-google-analytics), en el caso
 
 ### Etiquetar sesiones con vistas del producto
 
@@ -168,7 +168,7 @@ Por último, pero no menos importante, si queremos poder visualizar el porcentaj
 
 ![data studio combinar datos](https://emirodgar.com/cdn/images/posts/data-studio-combinar-datos.jpg){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE3MTQ4NjAsNTMzMDkzMjEyLC0xND
-U5ODA1MDMsMTQ0MjI3NTA2MywtODE3MDQxMjI2LDE0ODU5NTM1
-OV19
+eyJoaXN0b3J5IjpbOTczMTEwMjEwLC0xMzUxNzE0ODYwLDUzMz
+A5MzIxMiwtMTQ1OTgwNTAzLDE0NDIyNzUwNjMsLTgxNzA0MTIy
+NiwxNDg1OTUzNTldfQ==
 -->
