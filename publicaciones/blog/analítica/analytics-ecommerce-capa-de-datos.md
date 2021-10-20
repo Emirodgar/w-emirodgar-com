@@ -132,9 +132,9 @@ Ahora sólo queda ejecutar el siguiente código una vez que el usuario ha añadi
      }    
     });
 
-Como se puede ver, dicho código invoca el evento `eec.addToCart` y además tiene asociada la información del prod 
+Como se puede ver, dicho código invoca el evento `eec.addToCart` y además tiene asociada la información del producto que ha sido añadido al carrito por lo que esa información será enviada a Google Analytics en ese mismo momento. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTY4MzMzMiwtMTY1ODU2MDQ0MywxNT
+eyJoaXN0b3J5IjpbLTM5Mjg4NzM4OCwtMTY1ODU2MDQ0MywxNT
 kxMzA1OTQwLC0zOTM5MjUzMDEsNzg0Mzg1MTM4XX0=
 -->
