@@ -59,7 +59,7 @@ Tan sólo tendremos que hacer uso de los códigos de ejemplo que nos ofrecen en 
 
 > Todos los códigos JavaScript que envían información a la capa de datos deben estar presentes **antes del código base de GTM**.
 
-El orden es un factor relevante ya que necesitamos que toda la información esté presente en el objeto 
+El orden es un factor relevante ya que necesitamos que toda la información esté presente en el objeto `dataLayer` antes de que el código de GTM se ejecute. De esta forma garantizamos que sea correctamente recogida y procesada.
 
     dataLayer.push({ ecommerce:  null  });
     dataLayer.push({    
@@ -75,6 +75,8 @@ El orden es un factor relevante ya que necesitamos que toda la información est�
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-XXXXX');</script>
     <!-- End Google Tag Manager -->
+
+Si en algún caso necesitamos enviar información después de 
 
 ### 2.2 - Enviar información de impresiones (página vista)
 
@@ -99,10 +101,10 @@ Si queremos que se registre cuando un producto ha sido visto (impresión del pro
         }    
         });
 
-### 2.3 - Añadir al carrito
+### 2.3 - Añadir al carrito (evento)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDcwOTgxMSwtMTY1ODU2MDQ0MywxNT
-kxMzA1OTQwLC0zOTM5MjUzMDEsNzg0Mzg1MTM4XX0=
+eyJoaXN0b3J5IjpbLTE0NDAyNDQxODUsLTE2NTg1NjA0NDMsMT
+U5MTMwNTk0MCwtMzkzOTI1MzAxLDc4NDM4NTEzOF19
 -->
