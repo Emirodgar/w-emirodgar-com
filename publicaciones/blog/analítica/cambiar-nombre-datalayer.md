@@ -14,7 +14,23 @@ permalink: cambiar-nombre-datalayer
 
 Cuando hacemos implementaciones que hacen uso de la capa de datos, por ejemplo el [Ecommerce Mejorado de Google Analytics](https://emirodgar.com/analytics-ecommerce-capa-de-datos), utilizamos el objeto `dataLayer` para transferir información desde la página web a Google Tag Manager.
 
-Aunque el nombre del objeto viene definido por defecto, podemos personalizarlo y utilizar otro que nos guste más. Para ello tendremos que modificar el código base de Tag Manager y, donde indica dataLayer, pondremos el nombre q 
+Aunque el nombre del objeto viene definido por defecto, podemos personalizarlo y utilizar otro que nos guste más. Para ello tendremos que modificar el código base de Tag Manager y, donde indica dataLayer, pondremos el nombre que queramos utilizar.
+
+La línea que debemos identificar es la última del código, justo antes de donde especificamos el identificador de GTM.
+
+```
+})(window,document,'script','dataLayer','GTM-XXXX');</script>  
+```
+
+```
+<!-- Google Tag Manager -->  
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':  
+new  Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],  
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=  
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);  
+})(window,document,'script','capaDatos','GTM-XXXX');</script>  
+<!-- End Google Tag Manager -->
+``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTMyNDQxNDBdfQ==
+eyJoaXN0b3J5IjpbMTM1MDM5Njg1MF19
 -->
