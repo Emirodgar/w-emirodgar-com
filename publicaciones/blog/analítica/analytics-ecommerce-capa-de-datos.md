@@ -31,15 +31,15 @@ De esta forma Tag Manager recogerá los datos de ecommerce directamente desde la
 
 El siguiente paso será lanzar la información de ecommerce a nuestra capa de datos. Para ello debemos hacer uso de la [guía oficial](https://developers.google.com/tag-manager/enhanced-ecommerce?hl=es#data-layer) para determinar qué objetos y estructuras tenemos que usar. Si utilizamos un nombre diferente o la estructura de JavaScript no es la adecuada tendremos problemas para registrar la información en Analytics.
 
-Por defecto, el nombre del objeto utilizado por GTM para trabajar con la capa de datos es **dataLayer**. Para enviar información a la capa de datos utilizaremos el comando `push` de la siguiente manera. 
+Por defecto, el nombre del objeto utilizado por GTM para trabajar con la capa de datos es **dataLayer**. Para enviar información a la capa de datos utilizaremos el comando `push` de la siguiente manera: 
 
-    dataLayer.push({ ecommerce:  null  });
+    dataLayer.push({ nombre:  valor  });
 
-> Si queremos podemos cambiar dataLayer por otro nombre pero tendremos que indicarlo en el código base de GTM.
+> Si queremos podemos cambiar **dataLayer** por otro nombre pero tendremos que indicarlo en el código base de GTM.
 
 ### Inicializar el valor del objeto ecommerce
 
-El código anterior inicia (o limpia) el valor del objeto `ecommerce` que será el que utilizaremos para enviar la información de comercio electrónico a Analytics.
+Antes de enviar información relativa al comercio electrónico es recomendable vaciar/limpiar el objeto `ecommerce` para asegurarnos que no se mezcla inform.
 
     dataLayer.push({ ecommerce:  null  });
 
@@ -66,6 +66,6 @@ Por ejemplo si queremos que se registre cuando un producto ha sido visto (impres
         });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDA3NzA2NiwxNTkxMzA1OTQwLC0zOT
-M5MjUzMDEsNzg0Mzg1MTM4XX0=
+eyJoaXN0b3J5IjpbOTYxNTE4MTQ1LDE1OTEzMDU5NDAsLTM5Mz
+kyNTMwMSw3ODQzODUxMzhdfQ==
 -->
