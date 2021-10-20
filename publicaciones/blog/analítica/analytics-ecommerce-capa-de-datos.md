@@ -104,8 +104,28 @@ Si queremos que Analytics registre la visualización de un producto (impresión 
 ### 2.3 - Añadir al carrito (evento)
 
 En el caso del proceso de añadir o retirar un producto del carrito, es algo que puede ocurrir en cualquier momento durante la estancia del usuario en nuestra web y que no está sujeto a la carga inicial de la página.
-En este caso, el activador de página vista de 
+
+En este caso, el activador de página vista de GTM no será válido.
+
+    window.dataLayer.push({    
+    'event':  'addToCart',    
+    'ecommerce': {    
+      'currencyCode':  'EUR',    
+      'add': { 
+        'products': [{    
+	        'name':  'Nombre producto',    
+		    'id':  '12345',    
+		    'price':  '15.25',    
+		    'brand':  'Google',    
+		    'category':  'Apparel',    
+		    'variant':  'Gray',    
+		    'quantity':  1    
+	    }]    
+      }    
+     }    
+    });
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MjM3MjMyLC0xNjU4NTYwNDQzLDE1OT
-EzMDU5NDAsLTM5MzkyNTMwMSw3ODQzODUxMzhdfQ==
+eyJoaXN0b3J5IjpbMTA0NTIwNDE3OCwtMTY1ODU2MDQ0MywxNT
+kxMzA1OTQwLC0zOTM5MjUzMDEsNzg0Mzg1MTM4XX0=
 -->
