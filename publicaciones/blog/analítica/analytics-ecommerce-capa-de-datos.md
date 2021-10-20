@@ -1,5 +1,5 @@
 ---
-title: Cómo implementar el ecommerce mejorado de Google Analytics a través de la capa de datos 
+title: Cómo implementar el ecommerce mejorado de Google Analytics a través de la capa de datos y GTM
 description: 
 image: https://emirodgar.com/cdn/images/og/analitica.png
 layout: emirodgar_post
@@ -12,12 +12,12 @@ permalink: analytics-ecommerce-capa-de-datos
 
 --- 
 
-Google Analytics tiene varias formas de utilizar el módulo de **ecommerce mejorado** pero todas ellas requieren siempre que lo activemos a través 
+Google Analytics tiene varias formas de utilizar el módulo de **ecommerce mejorado** pero todas ellas requieren siempre que lo activemos a través del menú de administración > vista > comercio electrónico.
 
 ![Emirodgar](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-opciones.jpg){:class="img-responsive"}
 
 
-
+Una vez activado podremos acceder a los diferentes menús pero no tendrán información hasta que implementemos la recogida de los datos. En este artículo veremos cómo hacerlo a través de la capa de datos usando Google Tag Manager.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc1Njc4MTIsNzg0Mzg1MTM4XX0=
+eyJoaXN0b3J5IjpbLTM5MzkyNTMwMSw3ODQzODUxMzhdfQ==
 -->
