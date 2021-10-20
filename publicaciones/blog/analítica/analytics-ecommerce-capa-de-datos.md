@@ -21,12 +21,14 @@ Una vez activado podremos acceder a los diferentes menús pero no tendrán infor
 
 ## 1- Crear etiqueta en Google Tag Manager
 
-El primer paso será crear una
+El primer paso será crear una etiqueta para [Google Analytics Universal](https://emirodgar.com/versiones-google-analytics) y después una variable "Configuración de Google Analytics". En este punto, además de incluir el ID de seguimiento deberemos activar los ajustes de comercio electrónico tal y como se muestra en la siguiente imagen.
 
 ![Emirodgar](https://i.imgur.com/KXCcIcb.png){:class="img-responsive"}
 
+De esta forma lo que estamos implementado
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDE5NjQ2NDcsLTM5MzkyNTMwMSw3OD
-QzODUxMzhdfQ==
+eyJoaXN0b3J5IjpbLTcyNTA5NDk0MCwtMzkzOTI1MzAxLDc4ND
+M4NTEzOF19
 -->
