@@ -92,6 +92,7 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [seo.danzambonini](http://seo.danzambonini.com/)
 - [Searchvolume](https://searchvolume.io/)
 - [Alsoasked](https://alsoasked.com/)
+- [Mention](https://web.mention.com/)
 
 ## <a name="datos-estructurados"></a>Datos estructurados
 
@@ -198,9 +199,9 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Orange Data Mining](https://orangedatamining.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTA5MDk2NCwtMjA5MzYzNDc0OCwtMT
-I4NDY0NTI4MywxOTA4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5
-MDUwMSwxOTg1MTI3MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC
-00MTY5NDU0OSwzMDk4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3
-MTYxXX0=
+eyJoaXN0b3J5IjpbMjA0NTUzNDU3OSwxNzAxMDkwOTY0LC0yMD
+kzNjM0NzQ4LC0xMjg0NjQ1MjgzLDE5MDg0NDI0OSwtNTQ5NzY4
+NjU3LC0xMjYyNTkwNTAxLDE5ODUxMjczNywtMTI1NTY1NTM5LC
+01OTAwNzE1NDMsLTQxNjk0NTQ5LDMwOTgyOTk0MSwxNDAwNDY4
+NTY3LDEzNDUzODcxNjFdfQ==
 -->
