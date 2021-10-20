@@ -109,9 +109,12 @@ En este caso, el activador de **página vista** de GTM no será válido por lo q
 
 ![Emirodgar](https://i.imgur.com/8g4ZdMa.png){:class="img-responsive"}
 
-En la imagen anterior podemos ver el activador de GTM creado y listo para que ejecute la etiqueta de Google Analytics cuando detecte el evento `ecc.addToCart`. Básicamente lo que hemos hecho ha sido crear un *listener* que estará permanentemente escuchando sobre la capa de datos y que cuando detecte dicho evento, ejecutará la etiqueta de Analytics importante la información existente en el objeto ecommerce en ese mom
+En la imagen anterior podemos ver el activador de GTM creado y listo para que ejecute la etiqueta de Google Analytics cuando detecte el evento `ecc.addToCart`. Básicamente lo que hemos hecho ha sido crear un *listener* que estará permanentemente escuchando sobre la capa de datos y que cuando detecte dicho evento, ejecutará la etiqueta de Analytics importante la información existente en el objeto `ecommerce` en ese momento.
 
-    window.dataLayer.push({    
+Ahora sólo queda ejecutar el siguiente código una vez que el usuario ha añadido un objeto a nuestro carrito de la compra:
+
+    dataLayer.push({ ecommerce:  null  });
+    dataLayer.push({    
     'event':  'eec.addToCart',    
     'ecommerce': {    
       'currencyCode':  'EUR',    
@@ -129,9 +132,9 @@ En la imagen anterior podemos ver el activador de GTM creado y listo para que ej
      }    
     });
 
-
+Como se puede ver, dicho código invoca el evento `eec.addToCart` y además tiene asociada la información del prod 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA5MzEwNjksLTE2NTg1NjA0NDMsMT
-U5MTMwNTk0MCwtMzkzOTI1MzAxLDc4NDM4NTEzOF19
+eyJoaXN0b3J5IjpbMTkwMTY4MzMzMiwtMTY1ODU2MDQ0MywxNT
+kxMzA1OTQwLC0zOTM5MjUzMDEsNzg0Mzg1MTM4XX0=
 -->
