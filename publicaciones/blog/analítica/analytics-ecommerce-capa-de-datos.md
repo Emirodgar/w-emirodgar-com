@@ -18,6 +18,15 @@ Google Analytics tiene varias formas de utilizar el módulo de **ecommerce mejor
 
 
 Una vez activado podremos acceder a los diferentes menús pero no tendrán información hasta que implementemos la recogida de los datos. En este artículo veremos cómo hacerlo a través de la capa de datos usando Google Tag Manager.
+
+## 1- Crear etiqueta en Google Tag Manager
+
+El primer paso será crear una
+
+![Emirodgar](https://i.imgur.com/KXCcIcb.png){:class="img-responsive"}
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzkyNTMwMSw3ODQzODUxMzhdfQ==
+eyJoaXN0b3J5IjpbLTE2MDE5NjQ2NDcsLTM5MzkyNTMwMSw3OD
+QzODUxMzhdfQ==
 -->
