@@ -16,11 +16,13 @@ Cuando hacemos implementaciones que hacen uso de la capa de datos, por ejemplo e
 
 Aunque el nombre del objeto viene definido por defecto, podemos personalizarlo y utilizar otro que nos guste más. Para ello tendremos que modificar el código base de Tag Manager y, donde indica dataLayer, pondremos el nombre que queramos utilizar.
 
-La línea que debemos identificar es la última del código, justo antes de donde especificamos el identificador de GTM.
+La línea que debemos identificar es la última del código; justo antes de donde especificamos el identificador de GTM veremos que aparece "**dataLayer**".
 
 ```
 })(window,document,'script','dataLayer','GTM-XXXX');</script>  
 ```
+
+Si cambiamos ese valor por "**capaDatos**", a partir de ese momento será el nombre que deberemos utilizar.
 
 ```
 <!-- Google Tag Manager -->  
@@ -32,5 +34,5 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 ``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDM5Njg1MF19
+eyJoaXN0b3J5IjpbMTIyNzU3Njc3OV19
 -->
