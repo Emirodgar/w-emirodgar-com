@@ -57,7 +57,56 @@ Una vez iniciado dicho objeto, podemos enviar información a través del objeto 
 
 Tan sólo tendremos que hacer uso de los códigos de ejemplo que nos ofrecen en la [guía oficial](https://developers.google.com/tag-manager/enhanced-ecommerce?hl=es#data-layer) para enviar la información y que aparezca en Google Analytics.
 
-> Todos los códigos JavaScript que envían información a la capa de datos deben estar presentes
+> Todos los códigos JavaScript que envían información a la capa de datos deben estar presentes **antes del código base de GTM**.
+
+El orden es un factor relevante
+
+window.dataLayer.push({
+
+event:  'eec.purchase',
+
+ecommerce: {
+
+currencyCode:  'EUR',
+
+purchase: {
+
+actionField: {
+
+id:  'order_id',
+
+revenue:  '11.00'
+
+},
+
+products: [{
+
+id:  'product_id',
+
+price:  '11.00',
+
+quantity:  1
+
+}]
+
+}
+
+}
+
+});
+
+</script>
+
+  
+
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new  Date().getTime(),event:'gtm.js'});var  f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-XXXXX');</script>
+<!-- End Google Tag Manager -->
 
 ### 2.2 - Enviar información de impresiones
 
@@ -86,6 +135,6 @@ Si queremos que se registre cuando un producto ha sido visto (impresión del pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg1NjA0NDMsMTU5MTMwNTk0MCwtMz
-kzOTI1MzAxLDc4NDM4NTEzOF19
+eyJoaXN0b3J5IjpbNDc5MDc3NDYwLC0xNjU4NTYwNDQzLDE1OT
+EzMDU5NDAsLTM5MzkyNTMwMSw3ODQzODUxMzhdfQ==
 -->
