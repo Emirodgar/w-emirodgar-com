@@ -34,12 +34,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 ``` 
 
-Cuando queramos enviar información a la capa de datos lo haremos de la siguiente manera:
+A partir de ahora cuando queramos enviar información a la capa de datos lo haremos utilizando el objeto `capaDatos` de la siguiente manera:
 
     <script>  
       capaDatos.push({'nombre':'valor'});  
     </script>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NjQ4NzE1XX0=
+eyJoaXN0b3J5IjpbLTY3NTIzNTc0N119
 -->
