@@ -35,7 +35,7 @@ Por defecto, el nombre del objeto utilizado por GTM para trabajar con la capa de
 
     dataLayer.push({ nombre:  valor  });
 
-> Si queremos podemos cambiar **dataLayer** por otro nombre pero tendremos que indicarlo en el código base de GTM.
+> Si queremos cambiar **dataLayer** por otro nombre pero tendremos que indicarlo en el código base de GTM.
 
 ### 2.1 - Inicializar el valor del objeto ecommerce
 
@@ -43,7 +43,7 @@ Siempre que vayamos a enviar información relativa al comercio electrónico es r
 
     dataLayer.push({ ecommerce:  null  });
 
-Una vez iniciado dicho objeto, podemos enviar información a través del objeto ecommerce que será recogida y enviada a Google Analytics. Las opciones que tenemos son las siguientes:
+Una vez iniciado dicho objeto, podemos enviar información a través del objeto `ecommerce` que será recogida y enviada a Google Analytics. Las opciones que tenemos son las siguientes:
 
  - Impresiones de producto
  - Clics en producto
@@ -55,9 +55,11 @@ Una vez iniciado dicho objeto, podemos enviar información a través del objeto 
  - Compras
  - Reembolsos
 
+Tan sólo tendremos que hacer uso de los códigos de ejemplo que nos ofrecen en la [guía oficial](https://developers.google.com/tag-manager/enhanced-ecommerce?hl=es#data-layer) para enviar la información y que aparezca en Google Analytics.
+
 ### 2.2 - Enviar información de impresiones
 
-Por ejemplo si queremos que se registre cuando un producto ha sido visto (impresión del producto) tendríamos que hacerlo con el siguiente código. Lógicamente tendríamos que cambiar los valores del producto de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.
+Si queremos que se registre cuando un producto ha sido visto (impresión del producto) tendríamos que hacerlo con el siguiente código. Lógicamente tendríamos que cambiar los valores del producto de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.
 
   
 
@@ -81,6 +83,6 @@ Por ejemplo si queremos que se registre cuando un producto ha sido visto (impres
         });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIyMjM3MTUsMTU5MTMwNTk0MCwtMz
+eyJoaXN0b3J5IjpbLTE5NTEyNTYwNTgsMTU5MTMwNTk0MCwtMz
 kzOTI1MzAxLDc4NDM4NTEzOF19
 -->
