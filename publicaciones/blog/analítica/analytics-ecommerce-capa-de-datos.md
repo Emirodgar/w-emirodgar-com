@@ -25,10 +25,14 @@ El primer paso será crear una etiqueta para [Google Analytics Universal](https:
 
 ![Emirodgar](https://i.imgur.com/KXCcIcb.png){:class="img-responsive"}
 
-De esta forma lo que estamos implementado
+De esta forma Tag Manager recogerá los datos de ecommerce directamente desde la capa de datos y los enviará -sin procesar- a Google Analytics.
+
+## 2- Configurar la capa de datos
+
+El siguiente paso será lanzar la información de ecommerce a nuestra capa de datos. Para ello debemos hacer uso de la [guía oficial](https://developers.google.com/tag-manager/enhanced-ecommerce?hl=es#data-layer) para determinar qué objetivos y estructurados tenemos que usar.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTA5NDk0MCwtMzkzOTI1MzAxLDc4ND
-M4NTEzOF19
+eyJoaXN0b3J5IjpbLTE1MzQxMjgxMzIsLTM5MzkyNTMwMSw3OD
+QzODUxMzhdfQ==
 -->
