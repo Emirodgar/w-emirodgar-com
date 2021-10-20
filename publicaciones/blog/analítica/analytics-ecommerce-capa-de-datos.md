@@ -59,56 +59,24 @@ Tan sólo tendremos que hacer uso de los códigos de ejemplo que nos ofrecen en 
 
 > Todos los códigos JavaScript que envían información a la capa de datos deben estar presentes **antes del código base de GTM**.
 
-El orden es un factor relevante
+El orden es un factor relevante ya que necesitamos que toda la información esté presente en el objeto 
 
-window.dataLayer.push({
+    dataLayer.push({ ecommerce:  null  });
+    dataLayer.push({    
+       'ecommerce': {    
+       'currencyCode': 'EUR', 
+       ...
+    });
+    
+    <!-- Google Tag Manager -->    
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new  Date().getTime(),event:'gtm.js'});var  f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-XXXXX');</script>
+    <!-- End Google Tag Manager -->
 
-event:  'eec.purchase',
-
-ecommerce: {
-
-currencyCode:  'EUR',
-
-purchase: {
-
-actionField: {
-
-id:  'order_id',
-
-revenue:  '11.00'
-
-},
-
-products: [{
-
-id:  'product_id',
-
-price:  '11.00',
-
-quantity:  1
-
-}]
-
-}
-
-}
-
-});
-
-</script>
-
-  
-
-<!-- Google Tag Manager -->
-
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new  Date().getTime(),event:'gtm.js'});var  f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-XXXXX');</script>
-<!-- End Google Tag Manager -->
-
-### 2.2 - Enviar información de impresiones
+### 2.2 - Enviar información de impresiones (página vista)
 
 Si queremos que se registre cuando un producto ha sido visto (impresión del producto) tendríamos que hacerlo con el siguiente código. Lógicamente tendríamos que cambiar los valores de forma dinámica en función del producto o productos que se hubieran visualizado en el listado.  
 
@@ -135,6 +103,6 @@ Si queremos que se registre cuando un producto ha sido visto (impresión del pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MDc3NDYwLC0xNjU4NTYwNDQzLDE1OT
-EzMDU5NDAsLTM5MzkyNTMwMSw3ODQzODUxMzhdfQ==
+eyJoaXN0b3J5IjpbMTIzMDcwOTgxMSwtMTY1ODU2MDQ0MywxNT
+kxMzA1OTQwLC0zOTM5MjUzMDEsNzg0Mzg1MTM4XX0=
 -->
