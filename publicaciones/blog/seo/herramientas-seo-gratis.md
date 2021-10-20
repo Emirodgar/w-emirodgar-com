@@ -92,6 +92,7 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [seo.danzambonini](http://seo.danzambonini.com/)
 - [Searchvolume](https://searchvolume.io/)
 - [Alsoasked](https://alsoasked.com/)
+- [Text Optimizer](https://textoptimizer.com/)
 - [Mention](https://web.mention.com/)
 - [Namify](https://namify.tech/)
 
@@ -200,9 +201,9 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Orange Data Mining](https://orangedatamining.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzI3MDgzNCwxNzAxMDkwOTY0LC0yMD
-kzNjM0NzQ4LC0xMjg0NjQ1MjgzLDE5MDg0NDI0OSwtNTQ5NzY4
-NjU3LC0xMjYyNTkwNTAxLDE5ODUxMjczNywtMTI1NTY1NTM5LC
-01OTAwNzE1NDMsLTQxNjk0NTQ5LDMwOTgyOTk0MSwxNDAwNDY4
-NTY3LDEzNDUzODcxNjFdfQ==
+eyJoaXN0b3J5IjpbLTE1OTI2NzY2MTksMTcwMTA5MDk2NCwtMj
+A5MzYzNDc0OCwtMTI4NDY0NTI4MywxOTA4NDQyNDksLTU0OTc2
+ODY1NywtMTI2MjU5MDUwMSwxOTg1MTI3MzcsLTEyNTU2NTUzOS
+wtNTkwMDcxNTQzLC00MTY5NDU0OSwzMDk4Mjk5NDEsMTQwMDQ2
+ODU2NywxMzQ1Mzg3MTYxXX0=
 -->
