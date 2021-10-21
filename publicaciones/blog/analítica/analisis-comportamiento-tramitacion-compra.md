@@ -39,8 +39,8 @@ En el siguiente código estamos utilizando el objeto `checkout_option` dentro de
       }  
     });
 
-  Si posteriormente el cliente tiene que dar de alta la dirección donde enviar
+  Si posteriormente el cliente tiene que dar de alta la dirección donde enviar el prod
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDAzNjc4MCwtMTYwNjYxMjk0OSwxMz
-I2NzAwNDY3XX0=
+eyJoaXN0b3J5IjpbLTgwNTYzNDE0OCwxODA0MDM2NzgwLC0xNj
+A2NjEyOTQ5LDEzMjY3MDA0NjddfQ==
 -->
