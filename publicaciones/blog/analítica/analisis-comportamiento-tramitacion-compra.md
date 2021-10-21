@@ -14,7 +14,9 @@ permalink: analisis-comportamiento-tramitacion-compra
 
 Cuando hacemos una implementación de [Google Analytics Ecommerce Mejorado](https://emirodgar.com/analytics-ecommerce-capa-de-datos) tenemos acceso a diversos informes en los que podemos analizar el rendimiento de nuestras ventas.
 
-Uno de los más interesantes es el [funnel de conversión](https://emirodgar.com/funnel-compra-ecommerce) donde podemos
+Uno de los más interesantes es el [funnel de conversión](https://emirodgar.com/funnel-compra-ecommerce) donde podemos analizar cómo los usuarios van avanzando en el proceso de compra.
+
+Dentro de este embudo existen dos pasos (los dos finales) que nos dan información acerca de cuándo se inicia el proceso de pago (sesiones con compras) y cuando se termina (sesiones con transacciones).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MjE4NjA4XX0=
+eyJoaXN0b3J5IjpbLTQ3OTU4NzMyOF19
 -->
