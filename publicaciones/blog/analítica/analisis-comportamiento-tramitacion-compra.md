@@ -27,7 +27,7 @@ Por ejemplo, si el cliente tiene que pasar por 2 ó 3 pasos en los que dejar sus
 
 Para ello bastará con que enviemos la información a la capa de datos (si tenemos esta implementación realizada desde Tag Manager) o que lo enviemos a través del objeto `ga` o `gtag` a Google Analytics dependiendo de la [versión de la plataforma de medición](https://emirodgar.com/versiones-google-analytics) que estemos usando.
 
-En el siguiente código estamos utilizando el objeto `checkout_option` dentro de `ecommerce` para identificar el paso número 1 denominado "métodos de pago".
+En el siguiente código estamos utilizando el objeto `checkout_option` dentro de `ecommerce` para identificar el paso número 1 denominado "métodos de pago" a través del ca.
 
     dataLayer.push({ ecommerce:  null  });   
     dataLayer.push({  
@@ -39,8 +39,21 @@ En el siguiente código estamos utilizando el objeto `checkout_option` dentro de
       }  
     });
 
-  Si posteriormente el cliente tiene que dar de alta la dirección donde enviar el producto.
+  
+Si posteriormente el cliente tiene que dar de alta la dirección donde enviar el producto, lo indicaremos a través del paso 2 con el campo `step`.
+  
+
+    dataLayer.push({ ecommerce:  null  });   
+    dataLayer.push({  
+      'event':  'checkoutOption',  
+      'ecommerce':  {  
+        'checkout_option':  {  
+          'actionField':  {'step': 2,  'option': 'Dirección de entrega'}  
+        }  
+      }  
+    });
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTg4NzM0MSwxODA0MDM2NzgwLC0xNj
-A2NjEyOTQ5LDEzMjY3MDA0NjddfQ==
+eyJoaXN0b3J5IjpbLTMwNjg2NzA1NiwtOTQxODg3MzQxLDE4MD
+QwMzY3ODAsLTE2MDY2MTI5NDksMTMyNjcwMDQ2N119
 -->
