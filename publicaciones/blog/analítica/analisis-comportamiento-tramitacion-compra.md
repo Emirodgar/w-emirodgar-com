@@ -25,18 +25,22 @@ Google Analytics ofrece el informe de **Comportamiento en la tramitación de la 
 
 Por ejemplo, si el cliente tiene que pasar por 2 ó 3 pasos en los que dejar sus datos de pago, los de facturación y la dirección de envío, podemos etiquetarlos para que aparezcan en nuestro informe.
 
-Para ello bastará con que enviemos la información a la capa de datos (si tenemos esta implementación realizada desde Tag Manager) o que lo enviemos a través del objeto ga o gtag a Google Analytics dependiendo de la versión de la plataforma d
+Para ello bastará con que enviemos la información a la capa de datos (si tenemos esta implementación realizada desde Tag Manager) o que lo enviemos a través del objeto `ga` o `gtag` a Google Analytics dependiendo de la [versión de la plataforma de medición](https://emirodgar.com/versiones-google-analytics) que estemos usando.
 
-dataLayer.push({ ecommerce:  null  });   
-  dataLayer.push({  'event':  'checkoutOption',  'ecommerce':  {  'checkout_option':  {  'actionField':  {'step': 1,  'option': 'Métodos de pago'}  }  }  });
+En el siguiente código estamos utilizando el objeto checkout_option dentro de ecommerce
+
+    dataLayer.push({ ecommerce:  null  });   
+    dataLayer.push({  
+      'event':  'checkoutOption',  
+      'ecommerce':  {  
+        'checkout_option':  {  
+          'actionField':  {'step': 1,  'option': 'Métodos de pago'}  
+        }  
+      }  
+    });
 
   
-
-  
-
- dataLayer.push({ ecommerce:  null  });   
-  dataLayer.push({  'event':  'checkoutOption',  'ecommerce':  {  'checkout_option':  {  'actionField':  {'step': 2,  'option': 'Dirección de facturación'}  }  }  });
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTYxNjMwOCwtMTYwNjYxMjk0OSwxMz
+eyJoaXN0b3J5IjpbMTU4OTQyODM0NCwtMTYwNjYxMjk0OSwxMz
 I2NzAwNDY3XX0=
 -->
