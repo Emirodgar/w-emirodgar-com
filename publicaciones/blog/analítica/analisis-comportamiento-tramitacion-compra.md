@@ -19,10 +19,10 @@ Uno de los más interesantes es el [funnel de conversión](https://emirodgar.com
 Dentro de este embudo existen dos pasos (los dos finales) que nos dan información acerca de cuándo se inicia el proceso de pago (sesiones con compras) y cuando se termina (sesiones con transacciones).
 
 Google Analytics ofrece el informe de **Comportamiento en la tramitación de la compra** donde podemos incluir un mayor detalle 
-Análisis del comportamiento en la tramitación de la compra
+
 
 ![Emirodgar](https://i.imgur.com/XAjJXw5.png){:class="img-responsive"}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NDQ1MTIyLDEzMjY3MDA0NjddfQ==
+eyJoaXN0b3J5IjpbLTE2MDY2MTI5NDksMTMyNjcwMDQ2N119
 -->
