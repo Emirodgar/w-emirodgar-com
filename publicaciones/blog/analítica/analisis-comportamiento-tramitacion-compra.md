@@ -53,7 +53,9 @@ Si posteriormente el cliente tiene que dar de alta la dirección donde enviar el
       }  
     });
 
+El último paso será 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY1NTA0MDgsLTk0MTg4NzM0MSwxOD
-A0MDM2NzgwLC0xNjA2NjEyOTQ5LDEzMjY3MDA0NjddfQ==
+eyJoaXN0b3J5IjpbNDc4MzU1OTk2LC0xMDQ2NTUwNDA4LC05ND
+E4ODczNDEsMTgwNDAzNjc4MCwtMTYwNjYxMjk0OSwxMzI2NzAw
+NDY3XX0=
 -->
