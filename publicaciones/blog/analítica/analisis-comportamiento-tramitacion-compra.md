@@ -18,7 +18,7 @@ Uno de los más interesantes es el [funnel de conversión](https://emirodgar.com
 
 Dentro de este embudo existen dos pasos (los dos finales) que nos dan información acerca de cuándo se inicia el proceso de pago (sesiones con compras) y cuando se termina (sesiones con transacciones).
 
-Análisis del comporta
+Análisis del comportamiento en la tramitación de la compra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIzNDgyMDhdfQ==
+eyJoaXN0b3J5IjpbMTMyNjcwMDQ2N119
 -->
