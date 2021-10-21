@@ -18,11 +18,23 @@ Uno de los más interesantes es el [funnel de conversión](https://emirodgar.com
 
 Dentro de este embudo existen dos pasos (los dos finales) que nos dan información acerca de cuándo se inicia el proceso de pago (sesiones con compras) y cuando se termina (sesiones con transacciones).
 
-Google Analytics ofrece el informe de **Comportamiento en la tramitación de la compra** donde podemos incluir un mayor detalle 
+Google Analytics ofrece el informe de **Comportamiento en la tramitación de la compra** donde podemos incluir un mayor detalle dentro del proceso en el que el cliente tiene que dejar sus datos y pagar su pedido. 
 
 
 ![Emirodgar](https://i.imgur.com/XAjJXw5.png){:class="img-responsive"}
 
+Por ejemplo,
+
+dataLayer.push({ ecommerce:  null  });   
+  dataLayer.push({  'event':  'checkoutOption',  'ecommerce':  {  'checkout_option':  {  'actionField':  {'step': 1,  'option': 'Métodos de pago'}  }  }  });
+
+  
+
+  
+
+ dataLayer.push({ ecommerce:  null  });   
+  dataLayer.push({  'event':  'checkoutOption',  'ecommerce':  {  'checkout_option':  {  'actionField':  {'step': 2,  'option': 'Dirección de facturación'}  }  }  });
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY2MTI5NDksMTMyNjcwMDQ2N119
+eyJoaXN0b3J5IjpbMTY2NTQ0Mjk3LC0xNjA2NjEyOTQ5LDEzMj
+Y3MDA0NjddfQ==
 -->
