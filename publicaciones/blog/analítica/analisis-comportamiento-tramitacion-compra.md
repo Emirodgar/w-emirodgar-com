@@ -17,6 +17,8 @@ Cuando hacemos una implementación de [Google Analytics Ecommerce Mejorado](http
 Uno de los más interesantes es el [funnel de conversión](https://emirodgar.com/funnel-compra-ecommerce) donde podemos analizar cómo los usuarios van avanzando en el proceso de compra.
 
 Dentro de este embudo existen dos pasos (los dos finales) que nos dan información acerca de cuándo se inicia el proceso de pago (sesiones con compras) y cuando se termina (sesiones con transacciones).
+
+Análisis del comporta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTU4NzMyOF19
+eyJoaXN0b3J5IjpbLTIwNjIzNDgyMDhdfQ==
 -->
