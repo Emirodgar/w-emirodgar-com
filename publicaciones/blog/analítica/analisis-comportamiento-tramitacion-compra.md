@@ -53,9 +53,13 @@ Si posteriormente el cliente tiene que dar de alta la dirección donde enviar el
       }  
     });
 
-El último paso será 
+El último paso será asignar los nombres dentro del apartado de "Checkout labeling" para cada uno de los pasos que hemos dado de alta a través del código.
+
+![Emirodgar](https://i.imgur.com/BBNXTRV.png){:class="img-responsive"}
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4MzU1OTk2LC0xMDQ2NTUwNDA4LC05ND
-E4ODczNDEsMTgwNDAzNjc4MCwtMTYwNjYxMjk0OSwxMzI2NzAw
-NDY3XX0=
+eyJoaXN0b3J5IjpbLTIwNTI1MzI4OSwtMTA0NjU1MDQwOCwtOT
+QxODg3MzQxLDE4MDQwMzY3ODAsLTE2MDY2MTI5NDksMTMyNjcw
+MDQ2N119
 -->
