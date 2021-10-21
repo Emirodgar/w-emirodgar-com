@@ -12,7 +12,9 @@ permalink: analisis-comportamiento-tramitacion-compra
 
 --- 
 
+Cuando hacemos una implementación de [Google Analytics Ecommerce Mejorado](https://emirodgar.com/analytics-ecommerce-capa-de-datos) tenemos acceso a diversos informes en los que podemos analizar el rendimiento de nuestras ventas.
 
+Uno de los más interesantes es el [funnel de conversión](https://emirodgar.com/funnel-compra-ecommerce) donde podemos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDI5MjIyMl19
+eyJoaXN0b3J5IjpbMzY0MjE4NjA4XX0=
 -->
