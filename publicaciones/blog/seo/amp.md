@@ -21,8 +21,9 @@ Se trata de un uso optimizado de elementos HTML, JavaScript y CSS que facilitan 
 - No permite scripts que bloqueen la renderización
 - Cualquier código JavaScript externo queda fuera de la ruta crítica de ejecución
 - Los códigos CSS están integrados en la página y tienen un tamaño máximo
--  
+-  Optimizado el uso de fuentes web
+- Optimizado el cálculo de hojas de estilo
+- Las animaciones se ejecutan mediante
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY5NzUyODgsLTEzODA3NjI0ODRdfQ
-==
+eyJoaXN0b3J5IjpbLTIwNjIwNzksLTEzODA3NjI0ODRdfQ==
 -->
