@@ -18,8 +18,11 @@ Se trata de un uso optimizado de elementos HTML, JavaScript y CSS que facilitan 
 
 - Ejecución asíncrona del código JavaScript
 - Dimensión estática de todos los recursos (imágenes, anuncios, iframes, etc)
-- No permie extensiones que bloqueen la renderización
-- 
+- No permite scripts que bloqueen la renderización
+- Cualquier código JavaScript externo queda fuera de la ruta crítica de ejecución
+- Los códigos CSS están integrados en la página y tienen un tamaño máximo
+-  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTQ5NTE0NCwtMTM4MDc2MjQ4NF19
+eyJoaXN0b3J5IjpbLTEyOTY5NzUyODgsLTEzODA3NjI0ODRdfQ
+==
 -->
