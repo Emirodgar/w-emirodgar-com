@@ -28,7 +28,11 @@ Se trata de un uso optimizado de elementos HTML, JavaScript y CSS que facilitan 
 
 ## Cómo implementar una página web AMP
 
-Lo primero que tenemos que tener claro es si nuestr
+Lo primero que tenemos que tener claro es si nuestra página va a ser AMP o si vamos a generar una versión AMP de la ya existente. 
+
+Ambas aproximaciones son válidas y la única diferencia es que en el segundo caso tendremos que incluir unas cabeceras para que los buscadores entiendan la relación entre la versión normal de la página y la versión AMP.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NzM1OTkwLC0xMzgwNzYyNDg0XX0=
+eyJoaXN0b3J5IjpbNDg4MTIxODU5LC0xMzgwNzYyNDg0XX0=
 -->
