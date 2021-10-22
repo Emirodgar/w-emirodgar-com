@@ -14,7 +14,7 @@ permalink: amp
 
 El framework **AMP** (Accelerated Mobile Pages) es un proyecto Open Source desarrollo por Google para facilitar la creación de páginas web optimizadas para cargar rápidamente en dispositivos móviles.
 
-Lo que hace es
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA3NjI0ODRdfQ==
+eyJoaXN0b3J5IjpbOTYyODM5MTM5LC0xMzgwNzYyNDg0XX0=
 -->
