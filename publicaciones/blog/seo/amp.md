@@ -21,9 +21,14 @@ Se trata de un uso optimizado de elementos HTML, JavaScript y CSS que facilitan 
 - No permite scripts que bloqueen la renderización
 - Cualquier código JavaScript externo queda fuera de la ruta crítica de ejecución
 - Los códigos CSS están integrados en la página y tienen un tamaño máximo
--  Optimizado el uso de fuentes web
-- Optimizado el cálculo de hojas de estilo
-- Las animaciones se ejecutan mediante
+- Optimizado el uso de fuentes web
+- Reducción de los recálculos de estilo
+- Las animaciones se ejecutan mediante GPU en lugar de navegador
+- Prioriza la carga de recursos
+
+## Cómo implementar una página web AMP
+
+Lo primero que tenemos que tener claro es si nuestr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIwNzksLTEzODA3NjI0ODRdfQ==
+eyJoaXN0b3J5IjpbOTQ5NzM1OTkwLC0xMzgwNzYyNDg0XX0=
 -->
