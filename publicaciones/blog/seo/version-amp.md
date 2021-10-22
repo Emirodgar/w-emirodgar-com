@@ -12,7 +12,7 @@ permalink: google-core-update
 
 --- 
 
-El framework AMP () ha sido desarrollo por Google para ofrecer
+El framework AMP (Accelerated Mobile Pages) es un proyecto Open Source desarrollo por Google para ofrecer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NzkxNzQzXX0=
+eyJoaXN0b3J5IjpbLTExMjE4OTYxNTFdfQ==
 -->
