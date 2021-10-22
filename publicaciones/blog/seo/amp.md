@@ -54,9 +54,13 @@ Lo que necesitamos hacer es identificar nuestra página como contenido AMP y par
     <html amp>
     <script async src="https://cdn.ampproject.org/v0.js"></script>
 
-En el caso de que sea una versión AMP de una página existente en otra tecnología que no es AMP necesitamos incluir la [etiqueta canonical](https://emirodgar.com/etiqueta-canonica).
+En el caso de que sea una versión AMP de una página existente en otra tecnología que no es AMP necesitamos incluir la [etiqueta canonical](https://emirodgar.com/etiqueta-canonica) para que los buscadores sepa cuál es su equivalente. Si todo nuestro sitio es AMP no sería necesario aplicarla.
 
-<link rel="canonical" href="https://paginaoriginal.com/">
+    <link rel="canonical" href="https://paginaoriginal.com/">
+
+En el caso de que tengamos ambas versiones, en la página original deberemos añadir la etiqueta `amphtml` para que los robots de búsqueda puedan identificar la versión AMP de la misma.
+
+<link rel="amphtml" href="[https://www.tribunaavila.com/noticias/los-empresarios-abulenses-reconocen-el-trabajo-de-sus-companeros-en-los-premios-ceoe/1634832398.amp](https://www.tribunaavila.com/noticias/los-empresarios-abulenses-reconocen-el-trabajo-de-sus-companeros-en-los-premios-ceoe/1634832398.amp)">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5NDkyOTk3LC0xMzgwNzYyNDg0XX0=
+eyJoaXN0b3J5IjpbMjMyMjQ0NDExLC0xMzgwNzYyNDg0XX0=
 -->
