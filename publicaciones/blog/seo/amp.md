@@ -49,7 +49,10 @@ Un código básico para generar nuestra primera versión AMP será el siguiente:
       </body>
     </html>
 
-Lo que necesitamos incluir
+Lo que necesitamos hacer es identificar nuestra página como contenido AMP y para ello se utiliza el término amp en la etiqueta html y, además, debemos cargar la librería JavaScript de AMP.
+
+    <html amp>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4OTU4OTc0LC0xMzgwNzYyNDg0XX0=
+eyJoaXN0b3J5IjpbNDk5MDk3MzgsLTEzODA3NjI0ODRdfQ==
 -->
