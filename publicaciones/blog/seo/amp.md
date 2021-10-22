@@ -58,9 +58,9 @@ En el caso de que sea una versión AMP de una página existente en otra tecnolog
 
     <link rel="canonical" href="https://paginaoriginal.com/">
 
-En el caso de que tengamos ambas versiones, en la página original deberemos añadir la etiqueta `amphtml` para que los robots de búsqueda puedan identificar la versión AMP de la misma.
+En el caso de que tengamos ambas versiones, en la página original tendremos que añadir la etiqueta `amphtml` para que los [robots de búsqueda](https://emirodgar.com/detectar-googlebot) puedan identificar la versión AMP de la misma.
 
 <link rel="amphtml" href="[https://www.tribunaavila.com/noticias/los-empresarios-abulenses-reconocen-el-trabajo-de-sus-companeros-en-los-premios-ceoe/1634832398.amp](https://www.tribunaavila.com/noticias/los-empresarios-abulenses-reconocen-el-trabajo-de-sus-companeros-en-los-premios-ceoe/1634832398.amp)">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyMjQ0NDExLC0xMzgwNzYyNDg0XX0=
+eyJoaXN0b3J5IjpbODE0OTUwMjY4LC0xMzgwNzYyNDg0XX0=
 -->
