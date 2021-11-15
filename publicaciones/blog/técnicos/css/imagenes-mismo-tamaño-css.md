@@ -16,7 +16,7 @@ A menudo nos enfrentamos a una serie de imágenes en una página web con tamaño
 
 Es decir, las imágenes seguirían siendo de diferentes tamaños pero estableceríamos una visualización normalizada a través del código CSS.
 
-Lo primero que haremos será establecer el tamaño exacto de cada imagen usando los atributos de width y height
+Lo primero que haremos será establecer el tamaño exacto de cada imagen usando los atributos de `width` (ancho) y `height` (alto).
 
 ```css
 .img-normalizada{
@@ -27,5 +27,5 @@ Lo primero que haremos será establecer el tamaño exacto de cada imagen usando 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzYzNTc2MV19
+eyJoaXN0b3J5IjpbMjAxNjY0NTMzMl19
 -->
