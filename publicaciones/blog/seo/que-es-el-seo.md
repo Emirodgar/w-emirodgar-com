@@ -16,7 +16,7 @@ SEO es el acrónimo de **Search Engine Optimization** que en castellano lo podem
 
 Cuando hablamos de SEO nos referimos al conjunto de acciones y técnicas que se emplean para mejorar el posicionamiento (visibilidad) de una página web dentro de los resultados orgánicos de los motores de búsqueda como Google, Bing o Yahoo.
 
-Cuando hacemos una búsqueda en cualquier motor de los antes expuestos recibiremos un listado de resultados. Estos se clasifican principalmente en dos grandes bloques: de pago y orgánicos. Las acciones y técnicas utilizadas para trabajar el SEO incidirán únicamente en los resultados gratuitos (orgánicos).
+Cuando hacemos una búsqueda en cualquier motor de los antes expuestos recibiremos un listado de resultados clasificados principalmente en dos grandes bloques: de pago y orgánicos. Las acciones y técnicas utilizadas para trabajar el SEO incidirán únicamente en los resultados orgánicos (gratuitos).
 
 En la siguiente imagen podemos ver en dos colores los diferentes resultados: pago en rosa y orgánicos en azul.
 
@@ -27,5 +27,6 @@ Por norma general los resultados de pago vienen precedidos de la palabra "anunci
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTAyNTEwNiwtMTMyNTQyNjk4OF19
+eyJoaXN0b3J5IjpbLTIxNDY3NTIyNDAsMTI5MTAyNTEwNiwtMT
+MyNTQyNjk4OF19
 -->
