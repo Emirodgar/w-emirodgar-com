@@ -20,7 +20,8 @@ El buscador es muy claro con lo que persigue y así lo hace saber en la document
 
 Google quiere que sus usuarios -los que realizan las búsquedas- **obtengan los mejores resultados lo más rápido posible**. Es decir, nos está pidiendo que demos la respuesta adecuada a lo que la gente está buscando y lo hagamos de una forma eficiente.
 
-Para ayudarnos en esta tarea nos ofrece una serie de [directrices y prácticas recomendadas](https://developers.google.com/search/docs/advanced/guidelines/overview?hl=es) para que nuestro sitio web aparezca correctamente en la Búsqueda de Google.
+Para ayudarnos en esta tarea nos ofrece una serie de [directrices y prácticas recomendadas](https://developers.google.com/search/docs/advanced/guidelines/overview?hl=es) a través de su página oficial. Poner en práctica estas acciones no garantizará un buen posicionamiento web pero sí al menos que Google descubra e indexe nuestra página de forma correcta.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTQ4OTU5Miw2MjgyMjYzNzRdfQ==
+eyJoaXN0b3J5IjpbLTIxMDE4ODI1ODQsLTM4NTQ4OTU5Miw2Mj
+gyMjYzNzRdfQ==
 -->
