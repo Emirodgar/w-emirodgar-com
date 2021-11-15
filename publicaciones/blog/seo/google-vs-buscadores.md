@@ -18,7 +18,7 @@ Entonces, **¿por qué hablamos siempre de Google?**. Se trata de una mera cuest
 
 ![Emirodgar - cuota mercado buscadores](https://i.imgur.com/QEQL6Er.png){:class="img-responsive"}
 
-Si nuestro [objetivo SEO](https://emirodgar.com/objetivo-seo) es incrementar el número de tráfico orgánico hacia nuestra página, lógicamente trabajaremos principalmente sobre el buscador que tenga una mayor cuot
+Si nuestro [objetivo SEO](https://emirodgar.com/objetivo-seo) es incrementar el número de tráfico orgánico hacia nuestra página, lógicamente trabajaremos principalmente sobre el buscador que tenga una mayor cuota de mercado, ignorando o relegando a un segundo escenario el resto.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzA0Nzg0Ml19
+eyJoaXN0b3J5IjpbLTg5NzMwMjMwMl19
 -->
