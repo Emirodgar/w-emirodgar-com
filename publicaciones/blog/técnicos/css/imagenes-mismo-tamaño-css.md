@@ -18,7 +18,9 @@ Es decir, las imágenes seguirían siendo de diferentes tamaños pero establecer
 
 Lo primero que haremos será establecer el tamaño exacto de cada imagen usando los atributos de `width` (ancho) y `height` (alto). Después haremos uso de `object-fit` . Esta propiedad nos ayudará a definir cómo se comportará la imagen dentro del objeto `img` de `HTML`.
 
-En nuestro caso estableceremos el valor `cover` por el cuál la imagen se dimensiona manteniendo su relación alto/ancho llenando de forma completa del elemento. Si la imagen es más grande, se recortará parte de la misma después de haberse ajustado y si es más pequeña se redimensionará para alcanzar los valores de alto y ancho que hem.
+En nuestro caso estableceremos el valor `cover` por el cuál la imagen se dimensiona manteniendo su relación alto/ancho llenando de forma completa del elemento. Si la imagen es más grande, se recortará parte de la misma después de haberse ajustado y si es más pequeña se redimensionará para alcanzar los valores de alto y ancho que hemos especificado.
+
+Como siempre, recomiendo crear la clase `img-normalizada` y aplicarla a las imágenes que queremos normalizar.
 
 ```css
 .img-normalizada{
@@ -28,6 +30,12 @@ En nuestro caso estableceremos el valor `cover` por el cuál la imagen se dimens
 }
 ```
 
+Para usarla bastará con incluirla dentro la clase del elemento `img` de la siguiente manera.
+
+```html
+<img src="../imagen.jpg" class="img-normalizada"/>
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTk0ODUzMF19
+eyJoaXN0b3J5IjpbNDk3OTUyMjI0XX0=
 -->
