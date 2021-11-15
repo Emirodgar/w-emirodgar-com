@@ -16,7 +16,9 @@ A menudo nos enfrentamos a una serie de imágenes en una página web con tamaño
 
 Es decir, las imágenes seguirían siendo de diferentes tamaños pero estableceríamos una visualización normalizada a través del código CSS.
 
-Lo primero que haremos será establecer el tamaño exacto de cada imagen usando los atributos de `width` (ancho) y `height` (alto). Después haremos uso de `object-fit` . Esta propiedad nos ayudará a definir cómo se comportará la imagen dentrl del objeto img.
+Lo primero que haremos será establecer el tamaño exacto de cada imagen usando los atributos de `width` (ancho) y `height` (alto). Después haremos uso de `object-fit` . Esta propiedad nos ayudará a definir cómo se comportará la imagen dentro del objeto `img` de `HTML`.
+
+En nuestro caso estableceremos el valor `cover` por el cuál la imagen se dimensiona manteniendo su relación de aspecto mientras llena el cuadro de contenido completo del elemento. Si la relación de aspecto del objeto no coincide con la relación de aspecto de su caja, entonces el objeto se recortará para que se ajuste.
 
 ```css
 .img-normalizada{
@@ -27,5 +29,5 @@ Lo primero que haremos será establecer el tamaño exacto de cada imagen usando 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTUzNTg4N119
+eyJoaXN0b3J5IjpbMTIxNDk5OTM2MV19
 -->
