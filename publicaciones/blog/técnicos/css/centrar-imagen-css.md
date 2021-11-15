@@ -26,9 +26,12 @@ La forma más cómoda de aplicar estos cambios será crear la clase `img-centrad
 }
 ```
 
-Para usarla
+Para usarla bastará con incluirla dentro la clase del elemento `img` de la siguiente manera.
 
-<img src="../imagen.jpg" class="img-centrada"
+```html
+<img src="../imagen.jpg" class="img-centrada"/>
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg3NTE4MTddfQ==
+eyJoaXN0b3J5IjpbMTA2MjUxODczN119
 -->
