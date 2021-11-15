@@ -12,11 +12,11 @@ permalink: centrar-imagen-css
 
 --- 
 
-Para conseguir que una imagen quede centrada en nuestra página web necesitaremos hacer uso de tres propiedades. La primera será definir `display` con el valor `block` ya que de esta forma conseguiremos que la imagen sea independiente del resto de elementos y podamos definir sus atributos sin que otros interfieran.
+Para conseguir que una imagen quede centrada en nuestra página web necesitaremos hacer uso de dos propiedades. La primera será definir `display` con el valor `block` ya que de esta forma conseguiremos que la imagen sea independiente del resto de elementos y podamos definir sus atributos sin que otros interfieran.
 
 Después, bastará con establecer los márgenes derecho e izquierdo con valor `auto` de tal forma que el navegador centre la imagen y divida el espacio restante equitativamente entre derecha e izquierda.
 
-La forma más cómoda de aplicar estos cambios será crear la clase `img-centrada` y aplicarla a aquellas imágenes que queramos centrar en nuestra página web.
+La forma más cómoda de aplicar estos cambios será crear la clase `img-centrada` y usarla en aquellas imágenes que queramos centrar en nuestra página web.
 
 ```css
 .img-centrada {
@@ -33,5 +33,5 @@ Para usarla bastará con incluirla dentro la clase del elemento `img` de la sigu
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjUxODczN119
+eyJoaXN0b3J5IjpbMTk2MzA0MDMyMl19
 -->
