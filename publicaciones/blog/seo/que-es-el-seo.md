@@ -22,10 +22,10 @@ En la siguiente imagen podemos ver en dos colores los diferentes resultados: pag
 
 ![Emirodgar](https://i.imgur.com/ADDD38t.png){:class="img-responsive"}
 
-Por norma general los resultados de pago vienen precedidos de la palabra "anuncio" y suelen estar en la parte superior o e.
+Por norma general los resultados de pago vienen precedidos de la palabra "anuncio" y suelen estar en la parte superior o en la zona de la derecha, donde existe una mayor visualización por parte de los usuarios.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTM0MTUxOSwtMTMyNTQyNjk4OF19
+eyJoaXN0b3J5IjpbMTI5MTAyNTEwNiwtMTMyNTQyNjk4OF19
 -->
