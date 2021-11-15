@@ -18,6 +18,12 @@ Cuando hablamos de SEO nos referimos al conjunto de acciones y técnicas que se 
 
 Cuando hacemos una búsqueda en cualquier motor de los antes expuestos recibiremos un listado de resultados. Estos se clasifican principalmente en dos grandes bloques: de pago y orgánicos. Las acciones y técnicas utilizadas para trabajar el SEO incidirán únicamente en los resultados gratuitos (orgánicos).
 
+En la siguiente imagen podemos ver en dos colores los diferentes resultados: pago en rosa y orgánicos en azul.
+
+![Emirodgar](https://i.imgur.com/ADDD38t.png){:class="img-responsive"}
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTQzMDE0MiwtMTMyNTQyNjk4OF19
+eyJoaXN0b3J5IjpbMTM1NDUwMjA2MSwtMTMyNTQyNjk4OF19
 -->
