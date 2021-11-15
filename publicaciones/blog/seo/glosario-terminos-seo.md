@@ -12,7 +12,11 @@ permalink: glosario-terminos-seo
 
 --- 
 
-A continuación
+A continuación mostramos un listado de los principales términos que utilizamos en las estrategias SEO:
+
+- **SEO**:  acrónimo de **Search Engine Optimization** que en castellano lo podemos traducir como optimización de motores de búsqueda o posicionamiento en buscadores.
+- **Orgánico**: el tráfico gratuito se refiere al tráfico generado a través de estrategias SEO y 
+- **Visibilidad**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzM4OTgwNF19
+eyJoaXN0b3J5IjpbMjkwMjYxNjE3XX0=
 -->
