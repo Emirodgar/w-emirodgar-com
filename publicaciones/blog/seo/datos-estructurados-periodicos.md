@@ -22,7 +22,7 @@ Existen muchos tipos de datos estructurados pero hoy nos centraremos en aquellos
 
 Comenzamos por el dato estructurado más genérico y que aplica para definir a un periódico, radio o cadena de televisión. Es importante utilizar [`NewsMediaOrganization`](https://schema.org/NewsMediaOrganization) para informar a los buscadores del nombre de nuestra organización, la página web y el logo, entre otros elementos.
 
-Este código puede ir sólo en la página principal (home) o insertarlo en todas las páginas si lo integramos directramente en el *template* del sitio.
+Este código puede ir sólo en la página principal (home) o insertado en todas las páginas si lo integramos directramente en el *template* del sitio. De momento Google no lo utiliza para enriquecer ningún resultado pero sí puede apoyarse en él para obtener información acerca de la página o empresa.
 
 ### Artículos
 
@@ -55,6 +55,6 @@ Si vamos a escribir un artículo que proporciona instrucciones para completar un
 En este caso es importante que el artículo también esté etiquetado como `NewsArticle` o `Article`. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MDA4MTQsLTE0MjAyNDQ5MzksNjY1Nz
-kxODUzLDE4NDk5NzMzMTQsLTE3NzIyMTg1MjddfQ==
+eyJoaXN0b3J5IjpbLTEyODA1NDExMzUsLTE0MjAyNDQ5MzksNj
+Y1NzkxODUzLDE4NDk5NzMzMTQsLTE3NzIyMTg1MjddfQ==
 -->
