@@ -26,9 +26,9 @@ Los buscadores utilizan la información recopilada a través de nuestros datos e
 
 ## ¿Cómo generar los datos estructurados?
 
-Google dispone de una guía muy completa sobre los diferentes
+Google dispone de una guía muy completa sobre los [diferentes datos estructurados](https://developers.google.com/search/docs/advanced/structured-data/article?hl=es) que podemos implementar y que podrían generar un resultado enriquecido. Dentro de cada tipo encontraremos explicaciones y ejemplos detallados. Bastará con usar la plantilla de ejemplo actualiza con nuestros datos e insertarla en nuestra página.
 
-Recomiendo hacer uso de la herramienta de [Technical SEO](https://technicalseo.com/tools/schema-markup-generator/) desde la cuál podremos automatizar la creación de datos estructurados de Article, Breadcrumb, Event, FAQ Page, How-to, Job Posting, Local Business, Organization, Person, Product, Recipe, Video y Website schemas. Básicamente todos los tipos soportados por Google y que podrían generar algún tipo de resultado enriquecido.
+Recomiendo hacer uso de la herramienta de [Technical SEO](https://technicalseo.com/tools/schema-markup-generator/) desde la cuál podremos automatizar la creación de datos estructurados de tipo Article, Breadcrumb, Event, FAQ Page, How-to, Job Posting, Local Business, Organization, Person, Product, Recipe, Video y Website schemas. Básicamente todos los tipos soportados por Google y que podrían generar algún tipo de resultado enriquecido.
 
 Una vez generados disponemos de dos [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) para validar los códigos antes de ser incluidos en nuestra página:
 
@@ -38,5 +38,5 @@ Una vez generados disponemos de dos [herramientas SEO](https://emirodgar.com/her
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI3MzM2NzEsLTk3ODU4MDI1N119
+eyJoaXN0b3J5IjpbLTE3ODc0NTkyMTcsLTk3ODU4MDI1N119
 -->
