@@ -18,15 +18,19 @@ Existen muchos tipos de datos estructurados pero hoy nos centraremos en aquellos
 
 ## Qué datos estructurados utilizar para un medio digital
 
+### NewsMediaOrganization
+
+Comenzamos por el dato estructurado más genérico y que aplica para definir a un periódico, radio o cadena de televisión. Es importante utilizar NewsMediaOrganization
+
 ### Article
 
 Los datos estructurados para `Article` nos ayudarán a que páginas de noticias, artículos o blogs sean identificados y presentados de la mejor forma posible en los resultados.
 
 En la [documentación de Google](https://developers.google.com/search/docs/advanced/structured-data/article) encontraremos referencia a tres elementos: [`Article`](https://schema.org/Article), [`NewsArticle`](https://schema.org/NewsArticle) o [`BlogPosting`](https://schema.org/BlogPosting). Cualquiera será válido aunque para nuestro objetivo recomendaremos `NewsArticle` si se trata de noticias de actualidad.
 
-Tendremos que et
+Tendremos que añadir este dato estructurado en todas las publicaciones que realicemos.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjMwMDA2MSwxODQ5OTczMzE0LC0xNz
-cyMjE4NTI3XX0=
+eyJoaXN0b3J5IjpbLTE3MDA5NjQwMzYsMTg0OTk3MzMxNCwtMT
+c3MjIxODUyN119
 -->
