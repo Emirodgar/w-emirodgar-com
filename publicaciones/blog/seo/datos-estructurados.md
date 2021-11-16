@@ -22,11 +22,11 @@ Los datos estructurados se generan en `JSON-LD` (JavaScript Object Notation for 
 
 Los buscadores utilizan la información recopilada a través de nuestros datos estructurados para cualificar y enriquecer nuestros resultados en las búsquedas. Los datos estructurados no son un [factor SEO](https://emirodgar.com/factores-seo) por lo que de forma directa no nos servirán pasa mejorar nuestro posicionamiento, no obstante, sí nos ayudarán a generar mayor visibilidad en los resultados de búsqueda pudiendo resultar en un incremento de captación de tráfico orgánico.
 
-> Disponer de datos estructurados no garantiza que Google generará resultados enriquecidos.
+> Disponer de datos estructurados no garantiza que Google genere resultados enriquecidos.
 
 ## ¿Cómo generar los datos estructurados?
 
--   Recomiendo hacer uso de la herramienta de [Technical SEO](https://technicalseo.com/tools/schema-markup-generator/) desde la cuál podremos automatizar la creación de datos estructurados de Article, Breadcrumb, Event, FAQ Page, How-to, Job Posting, Local Business, Organization, Person, Product, Recipe, Video y Website schemas. Básicamente todos los tipos soportados por Google y que podrían generar algún tipo de resultado enriquecido.
+Recomiendo hacer uso de la herramienta de [Technical SEO](https://technicalseo.com/tools/schema-markup-generator/) desde la cuál podremos automatizar la creación de datos estructurados de Article, Breadcrumb, Event, FAQ Page, How-to, Job Posting, Local Business, Organization, Person, Product, Recipe, Video y Website schemas. Básicamente todos los tipos soportados por Google y que podrían generar algún tipo de resultado enriquecido.
 
 Una vez generados disponemos de dos [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) para validar los códigos antes de ser incluidos en nuestra página:
 
@@ -36,5 +36,5 @@ Una vez generados disponemos de dos [herramientas SEO](https://emirodgar.com/her
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTY3MTYwMywtOTc4NTgwMjU3XX0=
+eyJoaXN0b3J5IjpbLTczMTgyNTgwNywtOTc4NTgwMjU3XX0=
 -->
