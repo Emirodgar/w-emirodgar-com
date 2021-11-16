@@ -43,20 +43,20 @@ Cuando creemos el JSON correspondiente es importante que tanto en la pregunta co
 
 ### Fragmento de reseña
 
-Disponemos de [`Review`](https://developers.google.com/search/docs/advanced/structured-data/review-snippet) como un dato estructurado para poder hacer reseñas sobre diversos productos.
+Disponemos de [`Review`](https://schema.org/Review) como un dato estructurado para poder hacer reseñas sobre diversos productos.
 
 Si hacemos un artículo en el que evaluamos un producto podemos utilizar este dato estructurado para destacar los aspectos más importantes de nuestra crítica como puntuación, autor o información de producto.
 
-De momento, Google sólo soporta los siguientes elementos: libro, curso, evento, instrucciones, empresa local, película, producto, receta o aplicación de software
+De momento, Google [sólo soporta los siguientes elementos](https://developers.google.com/search/docs/advanced/structured-data/review-snippet): libro, curso, evento, instrucciones, empresa local, película, producto, receta o aplicación de software
 
 ## Instrucciones
 
-Si vamos a escribir un artículo que proporciona instrucciones para completar una tarea o lograr un resultado siguiendo una serie de pasos, debemos etiquetarlo como [`HowTo`](https://developers.google.com/search/docs/advanced/structured-data/how-to).
+Si vamos a escribir un artículo que proporciona instrucciones para completar una tarea o lograr un resultado siguiendo una serie de pasos, debemos etiquetarlo como [`HowTo`](https://schema.org/HowTo).
 
-En este caso es importante que el artículo también esté etiquetado como `NewsArticle` o `Article`. 
+En este caso es importante que el artículo también esté etiquetado como `NewsArticle` o `Article`.  Al igual que antes, recomendamos consultar la [documentación de Google](https://developers.google.com/search/docs/advanced/structured-data/how-to) para ajustarlos a los requisitos para disponer de resultados enriquecidos.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA2MTQzNTksLTkyNjk5NDkwOSwtMT
-QyMDI0NDkzOSw2NjU3OTE4NTMsMTg0OTk3MzMxNCwtMTc3MjIx
-ODUyN119
+eyJoaXN0b3J5IjpbMTM5ODAwMzI0NCwtMjA3MDYxNDM1OSwtOT
+I2OTk0OTA5LC0xNDIwMjQ0OTM5LDY2NTc5MTg1MywxODQ5OTcz
+MzE0LC0xNzcyMjE4NTI3XX0=
 -->
