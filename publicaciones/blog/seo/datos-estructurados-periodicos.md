@@ -42,11 +42,13 @@ Cuando creemos el JSON correspondiente es importante que tanto en la pregunta co
 
 ### Fragmento de reseña
 
-Google nos ofrece [`Review`](https://developers.google.com/search/docs/advanced/structured-data/review-snippet) como un dato estructurado para poder hacer reseñas sobre múltiples productos.
+Disponemos de [`Review`](https://developers.google.com/search/docs/advanced/structured-data/review-snippet) como un dato estructurado para poder hacer reseñas sobre múltiples productos.
 
-Si hacemos un artículo en el que evaluamos un producto
+Si hacemos un artículo en el que evaluamos un producto podemos hacer uso de esta dato estructurado para destacar los aspectos más importantes de nuestra crítica como puntuación, autor o información de producto.
+
+De momento, Google sólo soporta los siguientes elementos: libro, curso, evento, instrucciones, empresa local, película, producto, receta o aplicación de software
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODcyMDIxMSwtMTQyMDI0NDkzOSw2Nj
-U3OTE4NTMsMTg0OTk3MzMxNCwtMTc3MjIxODUyN119
+eyJoaXN0b3J5IjpbLTE3OTgwNDYwMjcsLTE0MjAyNDQ5MzksNj
+Y1NzkxODUzLDE4NDk5NzMzMTQsLTE3NzIyMTg1MjddfQ==
 -->
