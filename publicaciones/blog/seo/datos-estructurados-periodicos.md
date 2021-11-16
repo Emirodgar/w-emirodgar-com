@@ -12,7 +12,7 @@ permalink: datos-estructurados-periodico
 
 --- 
 
-Los [datos estructurados](https://emirodgar.com/datos-estructurados) son una ventaja
+Los [datos estructurados](https://emirodgar.com/datos-estructurados) nos ayudan a generar mayor visibilidad en los resultados de búsqueda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIyMTg1MjddfQ==
+eyJoaXN0b3J5IjpbLTEwNDU0MDM5NCwtMTc3MjIxODUyN119
 -->
