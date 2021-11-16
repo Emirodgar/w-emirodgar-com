@@ -30,11 +30,11 @@ Los buscadores utilizan la información recopilada a través de nuestros datos e
 
 Una vez generados disponemos de dos [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) para validar los códigos antes de ser incluidos en nuestra página:
 
-- [Schema Markup Validator](https://validator.schema.org/): herramienta de Schema.onos ayudará a validar si el código es correcto a nivel de  
-- Schema Markup Testing Tool 
+- [Schema Markup Validator](https://validator.schema.org/): herramienta de Schema.org para validar cualquier dato estructurado (independiente de cualquier buscador).  
+- [Prueba de resultados enriquecidos](https://search.google.com/test/rich-results): herramienta de Google que nos indicará si nuestros códigos estructurados pueden generar datos enriquecidos. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODQ5MTA0OCwtOTc4NTgwMjU3XX0=
+eyJoaXN0b3J5IjpbMTI2MTY3MTYwMywtOTc4NTgwMjU3XX0=
 -->
