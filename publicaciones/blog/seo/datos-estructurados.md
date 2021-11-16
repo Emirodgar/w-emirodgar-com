@@ -20,12 +20,12 @@ Los datos estructurados se generan en `JSON-LD` (JavaScript Object Notation for 
 
 ## ¿Por qué utilizar datos estructurados?
 
-Los buscadores utilizan la información recopilada a través de nuestros datos estructurados para cualificar y enriquecer nuestros resutl
+Los buscadores utilizan la información recopilada a través de nuestros datos estructurados para cualificar y enriquecer nuestros resultados en las búsquedas. Los datos estructurados no son un factor SEO por lo que de forma directa no nos servirá pasa
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODEzMjk5NV19
+eyJoaXN0b3J5IjpbLTk3ODU4MDI1N119
 -->
