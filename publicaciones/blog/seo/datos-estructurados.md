@@ -16,6 +16,8 @@ Los **datos estructurados** son una forma estandarizada de proporcionar informac
 
 Prácticamente [todos los buscadores](https://emirodgar.com/google-vs-buscadores) los aceptan y se guían por las directrices establecidades en el portal [schema.org](https://schema.org/).
 
+Los datos estructurados se generan en `JSON-LD` que no es más que un formato de texto para el intercambio de datos, en este c. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2Nzg5NDA4XX0=
+eyJoaXN0b3J5IjpbNzYxNDUwNDY4XX0=
 -->
