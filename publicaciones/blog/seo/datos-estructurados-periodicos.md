@@ -20,8 +20,11 @@ Existen muchos tipos de datos estructurados pero hoy nos centraremos en aquellos
 
 ### Article
 
+Los datos estructurados para `Article` nos ayudarán a que páginas de noticias, artículos o blogs sean identificados y presentados de la mejor forma posible en los resultados.
+
+En la documentación de
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTA5MjA4MywxODQ5OTczMzE0LC0xNz
+eyJoaXN0b3J5IjpbMTA3MTQxODE4NCwxODQ5OTczMzE0LC0xNz
 cyMjE4NTI3XX0=
 -->
