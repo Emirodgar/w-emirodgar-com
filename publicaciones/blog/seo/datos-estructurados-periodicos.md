@@ -36,10 +36,11 @@ Tendremos que añadir este dato estructurado en todas las publicaciones que real
 
 Es común que un periódico digital haga uso de ciertas publicaciones para responder preguntas. En estos casos, especialmente cuando una publicación está orientada a este menester que podamos hacer uso del etiquetado de [`Faqpage`](https://developers.google.com/search/docs/advanced/structured-data/faqpage) para que los buscadores entiendan correctamente la correspondencia entre preguntas y respuestas.
 
-> Google no recomienda utilizar este marcado estructurado sobre respuestas de usuarios o comentarios. Debe ser contenido genuino de la persona que ha creado la página.
+> Google no recomienda utilizar este marcado estructurado sobre respuestas de usuarios, comentarios o foros. Debe ser contenido genuino de la persona que ha creado la página.
 
+Cuando creemos el JSON correspondiente es importante que tanto en la pregunta como en la respuesta aparezca todo el contenido. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzY1MzA0NCw2NjU3OTE4NTMsMTg0OT
-k3MzMxNCwtMTc3MjIxODUyN119
+eyJoaXN0b3J5IjpbLTE0MjAyNDQ5MzksNjY1NzkxODUzLDE4ND
+k5NzMzMTQsLTE3NzIyMTg1MjddfQ==
 -->
