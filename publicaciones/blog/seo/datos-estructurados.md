@@ -16,12 +16,16 @@ Los **datos estructurados** son una forma estandarizada de proporcionar informac
 
 Prácticamente [todos los buscadores](https://emirodgar.com/google-vs-buscadores) los aceptan y se guían por las directrices establecidades en el portal [schema.org](https://schema.org/).
 
-Los datos estructurados se generan en `JSON-LD` (JavaScript Object Notation for Linked Data) que es un formato de texto para el intercambio de datos, en este caso entre buscadores y nuestra página web. La información se establece en un conjunto de pares clave:valor que explicaremos a continuación.
+Los datos estructurados se generan en `JSON-LD` (JavaScript Object Notation for Linked Data) que es un formato de texto para el intercambio de datos, en este caso entre buscadores y nuestra página web. Se trataría por tanto de añadir un pequeño código `JSON` a nuestra página que sólo sería visible en el código fuente y en ningún caso perjudicaría la accesibilidad o visualización de la página.
+
+## ¿Por qué utilizar datos estructurados?
+
+Los buscadores utilizan la información recopilada a través de nuestros datos estructurados para cualificar y enriquecer nuestros resutl
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTQ2MDU0MF19
+eyJoaXN0b3J5IjpbMTQzODEzMjk5NV19
 -->
