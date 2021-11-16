@@ -95,6 +95,7 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [Text Optimizer](https://textoptimizer.com/)
 - [Mention](https://web.mention.com/)
 - [Namify](https://namify.tech/)
+- [Oneu](https://www.oneupapp.io/)
 
 ## <a name="datos-estructurados"></a>Datos estructurados
 
@@ -201,9 +202,10 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Orange Data Mining](https://orangedatamining.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTQxODYyMSwtMTU5MjY3NjYxOSwxNz
-AxMDkwOTY0LC0yMDkzNjM0NzQ4LC0xMjg0NjQ1MjgzLDE5MDg0
-NDI0OSwtNTQ5NzY4NjU3LC0xMjYyNTkwNTAxLDE5ODUxMjczNy
-wtMTI1NTY1NTM5LC01OTAwNzE1NDMsLTQxNjk0NTQ5LDMwOTgy
-OTk0MSwxNDAwNDY4NTY3LDEzNDUzODcxNjFdfQ==
+eyJoaXN0b3J5IjpbLTk5NjIwNzAzNSwxODY5NDE4NjIxLC0xNT
+kyNjc2NjE5LDE3MDEwOTA5NjQsLTIwOTM2MzQ3NDgsLTEyODQ2
+NDUyODMsMTkwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1OTA1MD
+EsMTk4NTEyNzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0MywtNDE2
+OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2MV
+19
 -->
