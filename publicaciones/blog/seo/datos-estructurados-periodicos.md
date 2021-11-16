@@ -18,7 +18,7 @@ Existen muchos tipos de datos estructurados pero hoy nos centraremos en aquellos
 
 ## Qué datos estructurados utilizar para un medio digital
 
-### NewsMediaOrganization
+### Organización
 
 Comenzamos por el dato estructurado más genérico y que aplica para definir a un periódico, radio o cadena de televisión. Es importante utilizar [`NewsMediaOrganization`](https://schema.org/NewsMediaOrganization) para informar a los buscadores del nombre de nuestra organización, la página web y el logo, entre otros elementos.
 
@@ -34,8 +34,10 @@ Tendremos que añadir este dato estructurado en todas las publicaciones que real
 
 ### Preguntas frecuentes
 
+Cualquier medio que se 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzUzODA0Myw2NjU3OTE4NTMsMTg0OT
+eyJoaXN0b3J5IjpbLTcwNjE4MzYwNyw2NjU3OTE4NTMsMTg0OT
 k3MzMxNCwtMTc3MjIxODUyN119
 -->
