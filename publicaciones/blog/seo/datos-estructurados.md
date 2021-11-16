@@ -28,10 +28,13 @@ Los buscadores utilizan la información recopilada a través de nuestros datos e
 
 -   Recomiendo hacer uso de la herramienta de [Technical SEO](https://technicalseo.com/tools/schema-markup-generator/) desde la cuál podremos automatizar la creación de datos estructurados de Article, Breadcrumb, Event, FAQ Page, How-to, Job Posting, Local Business, Organization, Person, Product, Recipe, Video y Website schemas. Básicamente todos los tipos soportados por Google y que podrían generar algún tipo de resultado enriquecido.
 
-Una vez generados disponemos de 
+Una vez generados disponemos de dos [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) para validar los códigos antes de ser incluidos en nuestra página:
+
+- [Schema Markup Validator](https://validator.schema.org/): herramienta de Schema.onos ayudará a validar si el código es correcto a nivel de  
+- Schema Markup Testing Tool 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTk4Nzk1MSwtOTc4NTgwMjU3XX0=
+eyJoaXN0b3J5IjpbLTcwODQ5MTA0OCwtOTc4NTgwMjU3XX0=
 -->
