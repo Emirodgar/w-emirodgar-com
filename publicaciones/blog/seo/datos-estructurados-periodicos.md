@@ -34,10 +34,10 @@ Tendremos que añadir este dato estructurado en todas las publicaciones que real
 
 ### Preguntas frecuentes
 
-Cualquier medio que se 
+Es común que un periódico digital haga uso de ciertas publicaciones para responder preguntas. En estos casos, especialmente cuando una publicación está orientada a este menester que podamos hacer uso del etiquetado de Faqpage para que
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjE4MzYwNyw2NjU3OTE4NTMsMTg0OT
-k3MzMxNCwtMTc3MjIxODUyN119
+eyJoaXN0b3J5IjpbLTE1NjU0MDgzOTAsNjY1NzkxODUzLDE4ND
+k5NzMzMTQsLTE3NzIyMTg1MjddfQ==
 -->
