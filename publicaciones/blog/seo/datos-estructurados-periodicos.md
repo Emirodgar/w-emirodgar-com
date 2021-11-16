@@ -26,11 +26,12 @@ Este código puede ir sólo en la página principal (home) o insertado en todas 
 
 ### Artículos
 
-Los datos estructurados para [`Article`](https://developers.google.com/search/docs/advanced/structured-data/article) nos ayudarán a que páginas de noticias, artículos o blogs sean identificados y presentados de la mejor forma posible en los resultados.
+Usar datos estructurados en cualquier contenido publicado nos ayudará a que páginas de noticias, artículos o blogs sean identificados y presentados de la mejor forma posible en los resultados.
 
 A la hora de etiquetar un contenido podemos hacer uso de tres elementos: [`Article`](https://schema.org/Article), [`NewsArticle`](https://schema.org/NewsArticle) o [`BlogPosting`](https://schema.org/BlogPosting). Usaremos cada elemento en función del tipo de contenido que estemos generando.
 
 Tendremos que añadir este dato estructurado en todas las publicaciones que realicemos dentro del sitio web.
+En la  [documentación de Google](https://developers.google.com/search/docs/advanced/structured-data/article) tenemos varios ejemplos de cómo implementarlo.
 
 ### Preguntas frecuentes
 
@@ -55,6 +56,6 @@ Si vamos a escribir un artículo que proporciona instrucciones para completar un
 En este caso es importante que el artículo también esté etiquetado como `NewsArticle` o `Article`. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA1NDExMzUsLTE0MjAyNDQ5MzksNj
-Y1NzkxODUzLDE4NDk5NzMzMTQsLTE3NzIyMTg1MjddfQ==
+eyJoaXN0b3J5IjpbLTkyNjk5NDkwOSwtMTQyMDI0NDkzOSw2Nj
+U3OTE4NTMsMTg0OTk3MzMxNCwtMTc3MjIxODUyN119
 -->
