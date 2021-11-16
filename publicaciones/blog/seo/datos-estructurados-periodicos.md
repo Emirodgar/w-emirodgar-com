@@ -12,7 +12,7 @@ permalink: datos-estructurados-periodico
 
 --- 
 
-Los [datos estructurados](https://emirodgar.com/datos-estructurados) nos ayudan a generar mayor visibilidad en los resultados de búsqueda
+Los [datos estructurados](https://emirodgar.com/datos-estructurados) nos ayudan a que los robots de los buscadores entiendan mejor de qué trata nuestra página
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU0MDM5NCwtMTc3MjIxODUyN119
+eyJoaXN0b3J5IjpbMTg0OTk3MzMxNCwtMTc3MjIxODUyN119
 -->
