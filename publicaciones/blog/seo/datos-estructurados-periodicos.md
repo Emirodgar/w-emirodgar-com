@@ -35,11 +35,11 @@ En la  [documentación de Google](https://developers.google.com/search/docs/adva
 
 ### Preguntas frecuentes
 
-Es común que un periódico digital haga uso de ciertas publicaciones para responder preguntas. En estos casos, especialmente cuando una publicación está orientada a este menester que podamos hacer uso del etiquetado de [`Faqpage`](https://developers.google.com/search/docs/advanced/structured-data/faqpage) para que los buscadores entiendan correctamente la correspondencia entre preguntas y respuestas.
+Es común que un periódico digital haga uso de ciertas publicaciones para responder preguntas. En estos casos, especialmente cuando una publicación está orientada a este menester, podemos hacer uso del etiquetado de [`Faqpage`](https://schema.org/FAQPage) para que los buscadores entiendan correctamente la correspondencia entre preguntas y respuestas.
 
 > Google no recomienda utilizar este marcado estructurado sobre respuestas de usuarios, comentarios o foros. Debe ser contenido genuino de la persona que ha creado la página.
 
-Cuando creemos el JSON correspondiente es importante que tanto en la pregunta como en la respuesta aparezca todo el contenido. 
+Cuando creemos el JSON correspondiente es importante que tanto en la pregunta como en la respuesta aparezca todo el contenido.  Recomiendo consultar la [documentación de Google](https://developers.google.com/search/docs/advanced/structured-data/faqpage) para disponer de ejemplos. 
 
 ### Fragmento de reseña
 
@@ -56,6 +56,7 @@ Si vamos a escribir un artículo que proporciona instrucciones para completar un
 En este caso es importante que el artículo también esté etiquetado como `NewsArticle` o `Article`. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjk5NDkwOSwtMTQyMDI0NDkzOSw2Nj
-U3OTE4NTMsMTg0OTk3MzMxNCwtMTc3MjIxODUyN119
+eyJoaXN0b3J5IjpbLTIwNzA2MTQzNTksLTkyNjk5NDkwOSwtMT
+QyMDI0NDkzOSw2NjU3OTE4NTMsMTg0OTk3MzMxNCwtMTc3MjIx
+ODUyN119
 -->
