@@ -12,7 +12,8 @@ permalink: datos-estructurados-periodico
 
 --- 
 
-Los [datos estructurados](https://emirodgar.com/datos-estructurados) nos ayudan a que los robots de los buscadores entiendan mejor de qué trata nuestra página
+Los [datos estructurados](https://emirodgar.com/datos-estructurados) nos ayudan a que los robots de los buscadores entiendan mejor de qué trata nuestra página además de enriquecer 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTk3MzMxNCwtMTc3MjIxODUyN119
+eyJoaXN0b3J5IjpbLTM1NTc4OTkwNywxODQ5OTczMzE0LC0xNz
+cyMjE4NTI3XX0=
 -->
