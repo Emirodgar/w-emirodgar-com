@@ -52,7 +52,9 @@ De momento, Google sólo soporta los siguientes elementos: libro, curso, evento,
 
 Si vamos a escribir un artículo que proporciona instrucciones para completar una tarea o lograr un resultado siguiendo una serie de pasos, debemos etiquetarlo como [`HowTo`](https://developers.google.com/search/docs/advanced/structured-data/how-to).
 
+En este caso es importante que el artículo también esté etiquetado como `NewsArticle` o `Article`. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MDY2NjYsLTE0MjAyNDQ5MzksNjY1Nz
+eyJoaXN0b3J5IjpbMzM4MDA4MTQsLTE0MjAyNDQ5MzksNjY1Nz
 kxODUzLDE4NDk5NzMzMTQsLTE3NzIyMTg1MjddfQ==
 -->
