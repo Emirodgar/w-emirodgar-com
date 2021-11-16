@@ -24,15 +24,18 @@ Comenzamos por el dato estructurado más genérico y que aplica para definir a u
 
 Este código puede ir sólo en la página principal (home) o insertarlo en todas las páginas si lo integramos directramente en el *template* del sitio.
 
-### Article
+### Artículos
 
 Los datos estructurados para [`Article`](https://developers.google.com/search/docs/advanced/structured-data/article) nos ayudarán a que páginas de noticias, artículos o blogs sean identificados y presentados de la mejor forma posible en los resultados.
 
-Aunque hacemos mención a Article, ncontraremos referencia a tres elementos: [`Article`](https://schema.org/Article), [`NewsArticle`](https://schema.org/NewsArticle) o [`BlogPosting`](https://schema.org/BlogPosting). Usaremos cada elemento en función del tipo de contenido que estemos generando.
+A la hora de etiquetar un contenido podemos hacer uso de tres elementos: [`Article`](https://schema.org/Article), [`NewsArticle`](https://schema.org/NewsArticle) o [`BlogPosting`](https://schema.org/BlogPosting). Usaremos cada elemento en función del tipo de contenido que estemos generando.
 
-Tendremos que añadir este dato estructurado en todas las publicaciones que realicemos.
+Tendremos que añadir este dato estructurado en todas las publicaciones que realicemos dentro del sitio web.
+
+### Preguntas frecuentes
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzYwMTY4NDIsNjY1NzkxODUzLDE4ND
-k5NzMzMTQsLTE3NzIyMTg1MjddfQ==
+eyJoaXN0b3J5IjpbMTIxNzUzODA0Myw2NjU3OTE4NTMsMTg0OT
+k3MzMxNCwtMTc3MjIxODUyN119
 -->
