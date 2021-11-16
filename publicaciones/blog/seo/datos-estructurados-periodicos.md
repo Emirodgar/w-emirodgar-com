@@ -40,7 +40,13 @@ Es común que un periódico digital haga uso de ciertas publicaciones para respo
 
 Cuando creemos el JSON correspondiente es importante que tanto en la pregunta como en la respuesta aparezca todo el contenido. 
 
+### Fragmento de reseña
+
+Google nos ofrece [`Review`](https://developers.google.com/search/docs/advanced/structured-data/review-snippet) como un dato estructurado para poder hacer reseñas sobre múltiples productos.
+
+Si hacemos un artículo en el que evaluamos un producto
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjAyNDQ5MzksNjY1NzkxODUzLDE4ND
-k5NzMzMTQsLTE3NzIyMTg1MjddfQ==
+eyJoaXN0b3J5IjpbLTUyODcyMDIxMSwtMTQyMDI0NDkzOSw2Nj
+U3OTE4NTMsMTg0OTk3MzMxNCwtMTc3MjIxODUyN119
 -->
