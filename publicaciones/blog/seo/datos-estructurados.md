@@ -22,10 +22,14 @@ Los datos estructurados se generan en `JSON-LD` (JavaScript Object Notation for 
 
 Los buscadores utilizan la información recopilada a través de nuestros datos estructurados para cualificar y enriquecer nuestros resultados en las búsquedas. Los datos estructurados no son un [factor SEO](https://emirodgar.com/factores-seo) por lo que de forma directa no nos servirán pasa mejorar nuestro posicionamiento, no obstante, sí nos ayudarán a generar mayor visibilidad en los resultados de búsqueda pudiendo resultar en un incremento de captación de tráfico orgánico.
 
+> Disponer de datos estructurados no garantiza que Google generará resultados enriquecidos.
 
+## ¿Cómo generar los datos estructurados?
+
+-   If that isn’t possible,  [Technical SEO](https://email.mg2.substack.com/c/eJwtUMmOgzAM_ZrmVhSyFDjkMJf5DZTFhaiQoMS04u_HlLEsW7L19BZvEaZcDrPliuwcIx4bmASfugAiFLZXKGMMRvBWPaToWDAqtL3uWazjswCsNi4Gyw5s290SvcWY0xfRPbjibDZaPoWVnmBODoMVXEnfqUH3UvWD9u4itnuIkDwYeEM5cgK2mBlxqzf5cxO_1Ah-TkSwVMiNz-t5ynmptKufSch9teW1b_cJEhSLudCHRZIuWird9qIVQyMaKbkEDZ1T1nvuQtPHDea3EzfF10k0dXcVrX-dJKwYWGPJYbKF3tNp93sntyPtdU8RjxGSdQuEKwi88vxGM_6LgTBaNO1DdpxzNQgt-eWbklKKd0ILyYg4ZEIl88EnufwDW7qMDQ) has a great schema tool to generate the code for Article, Breadcrumb, Event, FAQ Page, How-to, Job Posting, Local Business, Organization, Person, Product, Recipe, Video, and Website schemas.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI0MDYyNzUsLTk3ODU4MDI1N119
+eyJoaXN0b3J5IjpbMTIzMjM1MDMxNCwtOTc4NTgwMjU3XX0=
 -->
