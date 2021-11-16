@@ -22,9 +22,9 @@ Existen muchos tipos de datos estructurados pero hoy nos centraremos en aquellos
 
 Los datos estructurados para `Article` nos ayudarán a que páginas de noticias, artículos o blogs sean identificados y presentados de la mejor forma posible en los resultados.
 
-En la documentación de
+En la [documentación de Google](https://developers.google.com/search/docs/advanced/structured-data/article) encontraremos referencia a tres elementos: [`Article`](https://schema.org/Article), [`NewsArticle`](https://schema.org/NewsArticle) o [`BlogPosting`](https://schema.org/BlogPosting). Cualquiera será válido aunque para nuestra
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTQxODE4NCwxODQ5OTczMzE0LC0xNz
-cyMjE4NTI3XX0=
+eyJoaXN0b3J5IjpbLTIwMzkzMDIyOTcsMTg0OTk3MzMxNCwtMT
+c3MjIxODUyN119
 -->
