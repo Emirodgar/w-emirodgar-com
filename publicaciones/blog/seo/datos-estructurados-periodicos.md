@@ -50,9 +50,9 @@ De momento, Google sólo soporta los siguientes elementos: libro, curso, evento,
 
 ## Instrucciones
 
-Si vamos a escribir un artículo 
+Si vamos a escribir un artículo con instrucciones sobre cómo 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjYyMTgxMCwtMTQyMDI0NDkzOSw2Nj
+eyJoaXN0b3J5IjpbMTcyMTI1MDg5MiwtMTQyMDI0NDkzOSw2Nj
 U3OTE4NTMsMTg0OTk3MzMxNCwtMTc3MjIxODUyN119
 -->
