@@ -110,12 +110,16 @@ De esta forma se iría rellenando cada paso del embudo con la iformación adecua
 
 ## Crear el embudo de tramitación de compra
 
-El último paso será asignar los nombres dentro del apartado de "Checkout labeling" para cada uno de los pasos que hemos dado de alta a través del código. De esta forma ya podremos analizar el informe de Comportamiento en la tramitación de la compra.
+Independientemente de cómo lo hayamos configurado (capa de datos o eventos) el último paso será asignar los nombres dentro del apartado de "Checkout labeling" para cada uno de los pasos que hemos dado de alta a través del código. De esta forma ya podremos analizar el informe de Comportamiento en la tramitación de la compra.
 
 ![Emirodgar](https://i.imgur.com/BBNXTRV.png){:class="img-responsive"}
+
+Los nombres que especifiquemos corresponderán a los pasos que se visualizarán posteriormente en el embudo de Analytics.
+
+![Emirodgar](https://i.imgur.com/v5oWJMd.png){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY5ODUzNjEsLTEzNDg2ODQ5NzgsMT
-g1NTk4MTU2MywyMDAxNzUxNDk5LC0xMDQ2NTUwNDA4LC05NDE4
-ODczNDEsMTgwNDAzNjc4MCwtMTYwNjYxMjk0OSwxMzI2NzAwND
-Y3XX0=
+eyJoaXN0b3J5IjpbMTg5MzYzMzg2NiwtMTM0ODY4NDk3OCwxOD
+U1OTgxNTYzLDIwMDE3NTE0OTksLTEwNDY1NTA0MDgsLTk0MTg4
+NzM0MSwxODA0MDM2NzgwLC0xNjA2NjEyOTQ5LDEzMjY3MDA0Nj
+ddfQ==
 -->
