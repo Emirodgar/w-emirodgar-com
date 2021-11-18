@@ -65,6 +65,7 @@ La otra opción que tenemos es hacerlo directamente desde la página a Analytics
 
 El primer paso será ejecutar el evento `begin_checkout` para dar comienzo a la medición de la tramitación de la compra. Este evento [no necesita ningún parámetro](https://developers.google.com/gtagjs/reference/event#begin_checkout) aunque se puede enviar el array `items` con los elementos que estamos comprando. 
 
+```js
 gtag('event', 'begin_checkout', {
   "items": [
     {
@@ -77,14 +78,15 @@ gtag('event', 'begin_checkout', {
   ],
   "coupon": ""
 });
+```
 
-Analytics registrará este paso como el primero del funnel por lo que una vez que se ejecute
+Analytics registrará este paso como el primero del funnel por lo que una vez que se ejecute, comenzarán a registrarse datos en el embudo. En el siguiente ejemplo, hemos llamado "Dirección de envío" a este primer paso ya que nada más iniciar el checkout es lo que se le pide al cliente.  
 
-![Emirodgar](https://i.imgur.com/BBNXTRV.png){:class="img-responsive"}
+![Emirodgar](https://i.imgur.com/91NWTAH.png){:class="img-responsive"}
 
-
+A partir de ahora tendremos 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzODU3MDUxLDE4NTU5ODE1NjMsMjAwMT
-c1MTQ5OSwtMTA0NjU1MDQwOCwtOTQxODg3MzQxLDE4MDQwMzY3
-ODAsLTE2MDY2MTI5NDksMTMyNjcwMDQ2N119
+eyJoaXN0b3J5IjpbLTQ3NTE4NTEyNCwxODU1OTgxNTYzLDIwMD
+E3NTE0OTksLTEwNDY1NTA0MDgsLTk0MTg4NzM0MSwxODA0MDM2
+NzgwLC0xNjA2NjEyOTQ5LDEzMjY3MDA0NjddfQ==
 -->
