@@ -85,7 +85,7 @@ Analytics registrará este paso como el primero del funnel por lo que una vez qu
 
 A partir de ahora tendremos que ir definiendo los siguientes pasos con los eventos `checkout_progress` y `set_checkout_option`. Ojo que es muy importante que ambos vayan de la mano en el valor del paso.
 
-Por ejemplo, el paso 2 que corresponde a "método de enví
+Por ejemplo, el paso 2 que corresponde a "método de envío" se registraría de la siguiente manera:
 
 gtag('event', 'checkout_progress', {
   "checkout_step": 2,
@@ -102,11 +102,10 @@ gtag('event', 'checkout_progress', {
 
 gtag('event', 'set_checkout_option', {
   "checkout_step": 2,
-  "checkout_option": "Métodos de envío",
-  "value": 3
+  "checkout_option": "Métodos de envío"
 });
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ1NjA0MjcsMTg1NTk4MTU2MywyMD
+eyJoaXN0b3J5IjpbLTEzNDg2ODQ5NzgsMTg1NTk4MTU2MywyMD
 AxNzUxNDk5LC0xMDQ2NTUwNDA4LC05NDE4ODczNDEsMTgwNDAz
 Njc4MCwtMTYwNjYxMjk0OSwxMzI2NzAwNDY3XX0=
 -->
