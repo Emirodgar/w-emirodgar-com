@@ -25,6 +25,8 @@ Google Analytics ofrece el informe de **Comportamiento en la tramitación de la 
 
 Por ejemplo, si el cliente tiene que pasar por 2 ó 3 pasos en los que dejar sus datos de pago, los de facturación y la dirección de envío, podemos etiquetarlos para que aparezcan en nuestro informe.
 
+## Configurar el embudo a través
+
 Para ello bastará con que enviemos la información a la capa de datos (si tenemos esta implementación realizada desde Tag Manager) o que lo enviemos a través del objeto `ga` o `gtag` a Google Analytics dependiendo de la [versión de la plataforma de medición](https://emirodgar.com/versiones-google-analytics) que estemos usando.
 
 En el siguiente código estamos utilizando el objeto `checkout_option` dentro de `ecommerce` para identificar el paso número 1 denominado "métodos de pago" a través del campo `step`.
@@ -59,7 +61,7 @@ El último paso será asignar los nombres dentro del apartado de "Checkout label
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTc1MTQ5OSwtMTA0NjU1MDQwOCwtOT
-QxODg3MzQxLDE4MDQwMzY3ODAsLTE2MDY2MTI5NDksMTMyNjcw
-MDQ2N119
+eyJoaXN0b3J5IjpbMTEwODkxNTY0NCwyMDAxNzUxNDk5LC0xMD
+Q2NTUwNDA4LC05NDE4ODczNDEsMTgwNDAzNjc4MCwtMTYwNjYx
+Mjk0OSwxMzI2NzAwNDY3XX0=
 -->
