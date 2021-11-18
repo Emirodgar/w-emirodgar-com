@@ -62,8 +62,10 @@ El último paso será asignar los nombres dentro del apartado de "Checkout label
 ## Configurar el embudo a través de gtag o ga
 
 La otra opción que tenemos es hacerlo directamente desde la página a Analytics a través del objeto `gtag` o `ga` (dependiendo de la versión de Analytics que estemos usando).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE1Mjg0NzQsMjAwMTc1MTQ5OSwtMT
+eyJoaXN0b3J5IjpbLTEwMDQ4NzM2NjIsMjAwMTc1MTQ5OSwtMT
 A0NjU1MDQwOCwtOTQxODg3MzQxLDE4MDQwMzY3ODAsLTE2MDY2
 MTI5NDksMTMyNjcwMDQ2N119
 -->
