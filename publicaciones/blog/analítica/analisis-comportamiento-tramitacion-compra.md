@@ -25,7 +25,7 @@ Google Analytics ofrece el informe de **Comportamiento en la tramitación de la 
 
 Por ejemplo, si el cliente tiene que pasar por 2 ó 3 pasos en los que dejar sus datos de pago, los de facturación y la dirección de envío, podemos etiquetarlos para que aparezcan en nuestro informe.
 
-## Configurar el embudo a través
+## Configurar el embudo a través de la capa de datos
 
 Para ello bastará con que enviemos la información a la capa de datos (si tenemos esta implementación realizada desde Tag Manager) o que lo enviemos a través del objeto `ga` o `gtag` a Google Analytics dependiendo de la [versión de la plataforma de medición](https://emirodgar.com/versiones-google-analytics) que estemos usando.
 
@@ -59,9 +59,11 @@ El último paso será asignar los nombres dentro del apartado de "Checkout label
 
 ![Emirodgar](https://i.imgur.com/BBNXTRV.png){:class="img-responsive"}
 
+## Configurar el embudo a través de gtag o ga
 
+La otra opción que tenemos es hacerlo directamente desde la página a Analytics a través del objeto `gtag` o `ga` (dependiendo de la versión de Analytics que estemos usando).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODkxNTY0NCwyMDAxNzUxNDk5LC0xMD
-Q2NTUwNDA4LC05NDE4ODczNDEsMTgwNDAzNjc4MCwtMTYwNjYx
-Mjk0OSwxMzI2NzAwNDY3XX0=
+eyJoaXN0b3J5IjpbLTE0MjE1Mjg0NzQsMjAwMTc1MTQ5OSwtMT
+A0NjU1MDQwOCwtOTQxODg3MzQxLDE4MDQwMzY3ODAsLTE2MDY2
+MTI5NDksMTMyNjcwMDQ2N119
 -->
