@@ -87,25 +87,31 @@ A partir de ahora tendremos que ir definiendo los siguientes pasos con los event
 
 Por ejemplo, el paso 2 que corresponde a "método de envío" se registraría de la siguiente manera:
 
-gtag('event', 'checkout_progress', {
-  "checkout_step": 2,
-  "items": [
-    {
-      "id": "P12345",
-      "name": "...",
-      "list_name": "...",
-      "brand": "...",
-	  ...
-    }
-  ]
-});
+    gtag('event', 'checkout_progress', {
+      "checkout_step": 2,
+      "items": [
+        {
+          "id": "P12345",
+          "name": "...",
+          "list_name": "...",
+          "brand": "...",
+    	  ...
+        }
+      ]
+    });
+    
+    gtag('event', 'set_checkout_option', {
+      "checkout_step": 2,
+      "checkout_option": "Métodos de envío"
+    });
 
-gtag('event', 'set_checkout_option', {
-  "checkout_step": 2,
-  "checkout_option": "Métodos de envío"
-});
+De esta forma se iría rellenando cada paso del embudo con la iformación adecuada.
+
+![Emirodgar](https://i.imgur.com/7myyrsh.png){:class="img-responsive"}
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg2ODQ5NzgsMTg1NTk4MTU2MywyMD
-AxNzUxNDk5LC0xMDQ2NTUwNDA4LC05NDE4ODczNDEsMTgwNDAz
-Njc4MCwtMTYwNjYxMjk0OSwxMzI2NzAwNDY3XX0=
+eyJoaXN0b3J5IjpbLTY2NjI0MDEwNCwtMTM0ODY4NDk3OCwxOD
+U1OTgxNTYzLDIwMDE3NTE0OTksLTEwNDY1NTA0MDgsLTk0MTg4
+NzM0MSwxODA0MDM2NzgwLC0xNjA2NjEyOTQ5LDEzMjY3MDA0Nj
+ddfQ==
 -->
