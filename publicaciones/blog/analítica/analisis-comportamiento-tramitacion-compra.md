@@ -55,9 +55,8 @@ Si posteriormente el cliente tiene que dar de alta la dirección donde enviar el
       }  
     });
 
-El último paso será asignar los nombres dentro del apartado de "Checkout labeling" para cada uno de los pasos que hemos dado de alta a través del código. De esta forma ya podremos analizar el informe de Comportamiento en la tramitación de la compra.
 
-![Emirodgar](https://i.imgur.com/BBNXTRV.png){:class="img-responsive"}
+
 
 ## Configurar el embudo a través de gtag o ga
 
@@ -109,9 +108,14 @@ De esta forma se iría rellenando cada paso del embudo con la iformación adecua
 
 ![Emirodgar](https://i.imgur.com/7myyrsh.png){:class="img-responsive"}
 
+## Crear el embudo de tramitación de compra
+
+El último paso será asignar los nombres dentro del apartado de "Checkout labeling" para cada uno de los pasos que hemos dado de alta a través del código. De esta forma ya podremos analizar el informe de Comportamiento en la tramitación de la compra.
+
+![Emirodgar](https://i.imgur.com/BBNXTRV.png){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjI0MDEwNCwtMTM0ODY4NDk3OCwxOD
-U1OTgxNTYzLDIwMDE3NTE0OTksLTEwNDY1NTA0MDgsLTk0MTg4
-NzM0MSwxODA0MDM2NzgwLC0xNjA2NjEyOTQ5LDEzMjY3MDA0Nj
-ddfQ==
+eyJoaXN0b3J5IjpbLTE3NjY5ODUzNjEsLTEzNDg2ODQ5NzgsMT
+g1NTk4MTU2MywyMDAxNzUxNDk5LC0xMDQ2NTUwNDA4LC05NDE4
+ODczNDEsMTgwNDAzNjc4MCwtMTYwNjYxMjk0OSwxMzI2NzAwND
+Y3XX0=
 -->
