@@ -114,11 +114,11 @@ Independientemente de cómo lo hayamos configurado (capa de datos o eventos) el 
 
 ![Emirodgar](https://i.imgur.com/BBNXTRV.png){:class="img-responsive"}
 
-Los nombres que especifiquemos corresponderán a los pasos que se visualizarán posteriormente en el embudo de Analytics.
+Los nombres que especifiquemos corresponderán a los pasos que se visualizarán posteriormente en el informe de Analytics.
 
 ![Emirodgar](https://i.imgur.com/v5oWJMd.png){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzYzMzg2NiwtMTM0ODY4NDk3OCwxOD
+eyJoaXN0b3J5IjpbMTc3MjU5NTkzOCwtMTM0ODY4NDk3OCwxOD
 U1OTgxNTYzLDIwMDE3NTE0OTksLTEwNDY1NTA0MDgsLTk0MTg4
 NzM0MSwxODA0MDM2NzgwLC0xNjA2NjEyOTQ5LDEzMjY3MDA0Nj
 ddfQ==
