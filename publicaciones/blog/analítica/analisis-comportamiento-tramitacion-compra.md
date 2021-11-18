@@ -80,9 +80,11 @@ gtag('event', 'begin_checkout', {
 
 Analytics registrará este paso como el primero del funnel por lo que una vez que se ejecute
 
+![Emirodgar](https://i.imgur.com/BBNXTRV.png){:class="img-responsive"}
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTk4MTU2MywyMDAxNzUxNDk5LC0xMD
-Q2NTUwNDA4LC05NDE4ODczNDEsMTgwNDAzNjc4MCwtMTYwNjYx
-Mjk0OSwxMzI2NzAwNDY3XX0=
+eyJoaXN0b3J5IjpbMzUzODU3MDUxLDE4NTU5ODE1NjMsMjAwMT
+c1MTQ5OSwtMTA0NjU1MDQwOCwtOTQxODg3MzQxLDE4MDQwMzY3
+ODAsLTE2MDY2MTI5NDksMTMyNjcwMDQ2N119
 -->
