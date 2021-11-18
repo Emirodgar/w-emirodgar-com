@@ -63,9 +63,24 @@ El último paso será asignar los nombres dentro del apartado de "Checkout label
 
 La otra opción que tenemos es hacerlo directamente desde la página a Analytics a través del objeto `gtag` o `ga` (dependiendo de la versión de Analytics que estemos usando).
 
+El primer paso será ejecutar el evento `begin_checkout` para dar comienzo a la medición de la tramitación de la compra. Este evento no necesitará ningún parámetro aunque se puede enviar el array `items` con los elementos que estamos comprando. 
+
+gtag('event', 'begin_checkout', {
+  "items": [
+    {
+      "id": "P12345",
+      "name": "...",
+      "list_name": "...",
+      "brand": "...",
+	  ...
+    }
+  ],
+  "coupon": ""
+});
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ4NzM2NjIsMjAwMTc1MTQ5OSwtMT
-A0NjU1MDQwOCwtOTQxODg3MzQxLDE4MDQwMzY3ODAsLTE2MDY2
-MTI5NDksMTMyNjcwMDQ2N119
+eyJoaXN0b3J5IjpbLTMxMjA2ODc0MCwyMDAxNzUxNDk5LC0xMD
+Q2NTUwNDA4LC05NDE4ODczNDEsMTgwNDAzNjc4MCwtMTYwNjYx
+Mjk0OSwxMzI2NzAwNDY3XX0=
 -->
