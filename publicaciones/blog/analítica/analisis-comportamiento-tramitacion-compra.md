@@ -75,8 +75,7 @@ gtag('event', 'begin_checkout', {
       "brand": "...",
 	  ...
     }
-  ],
-  "coupon": ""
+  ]
 });
 ```
 
@@ -84,9 +83,30 @@ Analytics registrará este paso como el primero del funnel por lo que una vez qu
 
 ![Emirodgar](https://i.imgur.com/91NWTAH.png){:class="img-responsive"}
 
-A partir de ahora tendremos 
+A partir de ahora tendremos que ir definiendo los siguientes pasos con los eventos `checkout_progress` y `set_checkout_option`. Ojo que es muy importante que ambos vayan de la mano en el valor del paso.
+
+Por ejemplo, el paso 2 que corresponde a "método de enví
+
+gtag('event', 'checkout_progress', {
+  "checkout_step": 2,
+  "items": [
+    {
+      "id": "P12345",
+      "name": "...",
+      "list_name": "...",
+      "brand": "...",
+	  ...
+    }
+  ]
+});
+
+gtag('event', 'set_checkout_option', {
+  "checkout_step": 2,
+  "checkout_option": "Métodos de envío",
+  "value": 3
+});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTE4NTEyNCwxODU1OTgxNTYzLDIwMD
-E3NTE0OTksLTEwNDY1NTA0MDgsLTk0MTg4NzM0MSwxODA0MDM2
-NzgwLC0xNjA2NjEyOTQ5LDEzMjY3MDA0NjddfQ==
+eyJoaXN0b3J5IjpbLTE0MzQ1NjA0MjcsMTg1NTk4MTU2MywyMD
+AxNzUxNDk5LC0xMDQ2NTUwNDA4LC05NDE4ODczNDEsMTgwNDAz
+Njc4MCwtMTYwNjYxMjk0OSwxMzI2NzAwNDY3XX0=
 -->
