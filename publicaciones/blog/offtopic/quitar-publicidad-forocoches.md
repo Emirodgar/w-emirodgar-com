@@ -15,7 +15,11 @@ permalink: quitar-publicidad-forocoches
 
 Con cerca de 15 años de experiencia en marketing digital soy un firme defensor de la publicidad digital siempre que sea **comedida** y **aporte cierto valor a los potenciales usuarios**. 
 
-En algunos casos nos enfrentamos a experiencias de navegación desastrosas que afectan a nuestro tiempo en dichas páginas.
+En algunos casos nos enfrentamos a tal sobre exposición de publicidad que afecta negativamente a la experiencia de los usuarios en dichas páginas. Es el caso, en mi opinión, de Forocoches.
+
+## Instalar un bloqueador 
+
+El primer paso será instalar un bloqueador
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODAzMDE4NjldfQ==
+eyJoaXN0b3J5IjpbOTc1MTIxNDY4XX0=
 -->
