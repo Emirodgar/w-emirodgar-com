@@ -37,7 +37,7 @@ Una vez instalado, sin necesidad de hacer nada más, bloqueará todo lo que cons
 
 ¿Qué ocurre si después de instalar un bloqueador sigue apareciendo publicidad o quedan huecos en blanco? será debido a que nuestro bloqueador no lo identifica de forma correcta o no es capaz de ocultar todo pero no pasa nada, podemos hacerlo de forma manual.
 
-Para ello bastará con que hagamos click con el botón derecho en la página, seleccionamos Adblock y Ocultar algo en esta página.
+Para ello bastará con que hagamos click con el botón derecho en la página, seleccionamos Adblock y hacemos clic sobre Ocultar algo en esta página.
 
 ![Emirodgar](https://i.imgur.com/6RSeRbp.png){:class="img-responsive"}
 
@@ -65,11 +65,15 @@ Si seleccionamos el elemento que queremos ocultar, pulsamos sobre Copiar y termi
 
 Por supuesto existen otras alternativas mucho más accesibles como [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) que se instalan como extensiones de nuestro navegador.
 
+## Compartir los filtros dinámicos a ocultar
+
+Si alguien ha hecho ya el trabajo para identificar los elementos
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTUyMDEyNCwtNzkxNTg0MDg5LC0xNj
-A0NTg0OTE2XX0=
+eyJoaXN0b3J5IjpbLTE3MDAwODg5NDEsLTc5MTU4NDA4OSwtMT
+YwNDU4NDkxNl19
 -->
