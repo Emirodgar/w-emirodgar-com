@@ -49,12 +49,12 @@ Si Adblock detecta que estamos ocultando un elemento muy genérico (como es el e
 
 ![Emirodgar](https://i.imgur.com/Gle3xH9.png){:class="img-responsive"}
 
-No hay problema, antes de confirmar, pulsamos sobre el lápiz para editar el elemento que queremos ocultar y 
+No hay problema, antes de confirmar, pulsamos sobre el lápiz para editar el elemento que queremos ocultar y sustituimos el que viene por el correcto.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ1ODQ5MTZdfQ==
+eyJoaXN0b3J5IjpbMjUyNzY2MDQxLC0xNjA0NTg0OTE2XX0=
 -->
