@@ -45,9 +45,10 @@ Una vez hecho, nos indicará el elemento que hemos seleccionado para ocultar. Si
 
 ![Emirodgar](https://i.imgur.com/m3t7xqs.png){:class="img-responsive"}
 
+Si Adblock detecta que estamos ocultando un elemento muy genérico (como es el ejemplo que estoy usando) nos advertirá con un mensaje de alerta. En este caso básicamente estaríamos intentando ocultar
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgwMTUzMjJdfQ==
+eyJoaXN0b3J5IjpbLTc3OTY5NzA3MF19
 -->
