@@ -67,13 +67,13 @@ Por supuesto existen otras alternativas mucho más accesibles como [XPath Helper
 
 ## Compartir los filtros dinámicos a ocultar
 
-Si alguien ha hecho ya el trabajo para identificar los elementos
+Si alguien ha hecho ya el trabajo para identificar los elementos a ocultar de una página, podemos ir directamente a las opciones de configuración de nuestro navegador (el ejemplo que os pongo es Adblock 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDAwODg5NDEsLTc5MTU4NDA4OSwtMT
-YwNDU4NDkxNl19
+eyJoaXN0b3J5IjpbMTcyNDIxODQ0NiwtMTcwMDA4ODk0MSwtNz
+kxNTg0MDg5LC0xNjA0NTg0OTE2XX0=
 -->
