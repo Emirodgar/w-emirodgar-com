@@ -7,7 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
-folder: analitica
+folder: offtopic
 permalink: quitar-publicidad-web
 
 --- 
@@ -84,6 +84,7 @@ Bastará con copiarlos y pegarlos en los filtros de nuestro bloqueador para pode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDk1Njg4MywxMTA3ODQyNjIzLC0xNz
-AwMDg4OTQxLC03OTE1ODQwODksLTE2MDQ1ODQ5MTZdfQ==
+eyJoaXN0b3J5IjpbLTM2ODc3NjE1NywtNTA0OTU2ODgzLDExMD
+c4NDI2MjMsLTE3MDAwODg5NDEsLTc5MTU4NDA4OSwtMTYwNDU4
+NDkxNl19
 -->
