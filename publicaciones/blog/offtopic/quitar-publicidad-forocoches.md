@@ -53,10 +53,12 @@ No hay problema, antes de confirmar, pulsamos sobre el lápiz para editar el ele
 
 **¿Y si no soy capaz de identificar correctamente el elemento a ocultar?** los filtros, tanto en Adblock como Ublock o el resto de bloqueadores se basan en rutas `XPath`.
 
+Tanto en Chrome como en Firefox contamos con una [consola](https://emirodgar.com/consola-devtools-chrome) que se despliega al pulsar F12 y donde podemos ver, entre otras cosas, el código fuente de la misma.
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMzUzMDQzLC0xNjA0NTg0OTE2XX0=
+eyJoaXN0b3J5IjpbMTE1Mjc1OTQ4NSwtMTYwNDU4NDkxNl19
 -->
