@@ -45,10 +45,16 @@ Una vez hecho, nos indicará el elemento que hemos seleccionado para ocultar. Si
 
 ![Emirodgar](https://i.imgur.com/m3t7xqs.png){:class="img-responsive"}
 
-Si Adblock detecta que estamos ocultando un elemento muy genérico (como es el ejemplo que estoy usando) nos advertirá con un mensaje de alerta. En este caso básicamente estaríamos intentando ocultar
+Si Adblock detecta que estamos ocultando un elemento muy genérico (como es el ejemplo que estoy usando) nos advertirá con un mensaje de alerta. En este caso básicamente estaríamos intentando ocultar todos los campos `<td>` de la página, lo que se llevaría por delante elementos relevantes y rompería la visualización de la misma.
+
+![Emirodgar](https://i.imgur.com/Gle3xH9.png){:class="img-responsive"}
+
+No hay problema, antes de confirmar, pulsamos sobre el lápiz para editar el elemento que queremos ocultar y 
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTY5NzA3MF19
+eyJoaXN0b3J5IjpbLTE2MDQ1ODQ5MTZdfQ==
 -->
