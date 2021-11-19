@@ -25,7 +25,7 @@ El primer paso será instalar un bloqueador en nuestro navegador que, de forma a
 
 > Los anuncios aceptables son anuncios que no son intrusivos o molestos. Son respetuosos, no interfieren con el contenido y están claramente etiquetados con la palabra “anuncio” o su equivalente.
 
-Casi todos los navegadores permiten instalar extensiones
+Casi todos los navegadores permiten instalar extensiones por lo que recomendaría optar por [Adblock](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=es) o [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=es). Los enlaces son para 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MTE5MTcyXX0=
+eyJoaXN0b3J5IjpbLTU0NzI4MTA4XX0=
 -->
