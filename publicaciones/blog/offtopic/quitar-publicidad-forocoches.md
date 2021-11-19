@@ -41,9 +41,13 @@ A continuación nos aparecerá una ventana que nos indica que hagamos clic sobre
 
 ![Emirodgar](https://i.imgur.com/MQOfMLv.png){:class="img-responsive"}
 
-Una vez hecho, le damos a "está bien"
+Una vez hecho, nos indicará el elemento que hemos seleccionado para ocultar. Si no fuera el adecuado podemos desplazar la barra (punto rojo) para le damos a "está bien" y pasamos a la siguiente pantalla.
+
+![Emirodgar](https://i.imgur.com/m3t7xqs.png){:class="img-responsive"}
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODEzOTY4OV19
+eyJoaXN0b3J5IjpbMTA1NDg5Njc0XX0=
 -->
