@@ -13,7 +13,9 @@ permalink: quitar-publicidad-forocoches
 
 --- 
 
-Con cerca de 15 años de experiencia en marketing digital soy un firme defensor 
+Con cerca de 15 años de experiencia en marketing digital soy un firme defensor de la publicidad digital siempre que sea **comedida** y **aporte cierto valor a los potenciales usuarios**. 
+
+En algunos casos, como en Forocoches, a ve
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTk1MTc1OF19
+eyJoaXN0b3J5IjpbLTExMTA2OTc1NDRdfQ==
 -->
