@@ -49,12 +49,14 @@ Si Adblock detecta que estamos ocultando un elemento muy genérico (como es el e
 
 ![Emirodgar](https://i.imgur.com/Gle3xH9.png){:class="img-responsive"}
 
-No hay problema, antes de confirmar, pulsamos sobre el lápiz para editar el elemento que queremos ocultar y sustituimos el que viene por el correcto.
+No hay problema, antes de confirmar, pulsamos sobre el lápiz para editar el elemento que queremos ocultar y sustituimos el que viene por el correcto. Una vez hecho pulsamos sobre el check en verde y pulsamos sobre confirmar.
+
+**¿Y si no soy capaz de identificar correctamente el elemento a ocultar?** los filtros, tanto en Adblock como Ublock o el resto de bloqueadores se basan en rutas `XPath`.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyNzY2MDQxLC0xNjA0NTg0OTE2XX0=
+eyJoaXN0b3J5IjpbNDkyMzUzMDQzLC0xNjA0NTg0OTE2XX0=
 -->
