@@ -15,9 +15,11 @@ permalink: quitar-publicidad-web
 
 Con cerca de 15 años de experiencia en marketing digital soy un firme defensor de la publicidad digital siempre que sea **comedida** y **aporte cierto valor a los potenciales usuarios**. 
 
-En algunos casos nos enfrentamos a tal sobreexposición de publicidad que afecta negativamente a la experiencia de los usuarios en dichas páginas. 
+En algunos casos nos enfrentamos a tal sobreexposición de publicidad que afecta negativamente a nuestra experiencia en dicha página.  Esta guía para bloquear publicidad sirve para cualquier página, aunque me centraré en Forocoches ya que es de donde he sacado los ejemplos visuales.
 
-Esta guía para bloquear publicidad sirve para cualquier página, aunque me centraré en Forocoches ya que es de donde he sacado los ejemplos visuales.
+## Navegar de forma segura y sin publicidad
+
+Si lo que queremos es navegar de forma segura y privad
 
 ## Instalar un bloqueador 
 
@@ -66,5 +68,5 @@ Por supuesto existen otras alternativas mucho más accesibles como [XPath Helper
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDM0Mzc4MCwtMTYwNDU4NDkxNl19
+eyJoaXN0b3J5IjpbMTM3MTU4MjA5NywtMTYwNDU4NDkxNl19
 -->
