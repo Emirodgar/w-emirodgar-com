@@ -71,16 +71,20 @@ Si alguien ha hecho ya el trabajo para identificar los elementos a ocultar de un
 
 ![Emirodgar](https://i.imgur.com/rf3odcU.png){:class="img-responsive"}
 
-En el caso de Forocoches, a día de hoy los filtros que funcionan son los siguientes:
+En el caso de Forocoches, a día de hoy los filtros que funcionan son los siguientes (generados por @Maverik84):
 
+    https://www.forocoches.com###fcthread
+    https://www.forocoches.com##table.cajasprin:nth-of-type(2) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1)
+    https://www.forocoches.com###vbnotices > .tborder > tbody:nth-of-type(1) > tr:nth-of-type(1) > .alt1
+    https://www.forocoches.com###vbnotices > .tborder
+    https://www.forocoches.com##.page > div > .cajasprin > tbody > tr > td > div
 
-
-
+Bastará con copiarlos y pegarlos en los filtros de nuestro bloqueador para poder navegar por Forocoches libres de publicidad molesta.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzUxNDU0OTMsLTE3MDAwODg5NDEsLT
-c5MTU4NDA4OSwtMTYwNDU4NDkxNl19
+eyJoaXN0b3J5IjpbMTEwNzg0MjYyMywtMTcwMDA4ODk0MSwtNz
+kxNTg0MDg5LC0xNjA0NTg0OTE2XX0=
 -->
