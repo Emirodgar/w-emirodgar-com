@@ -55,14 +55,16 @@ No hay problema, antes de confirmar, pulsamos sobre el lápiz para editar el ele
 
 Tanto en Chrome como en Firefox contamos con una [consola](https://emirodgar.com/consola-devtools-chrome) que se despliega al pulsar F12 y donde podemos ver, entre otras cosas, el código fuente de la misma.
 
-Si seleccionamos el elemento que queremos ocultar, 
+Si seleccionamos el elemento que queremos ocultar, pulsamos sobre Copiar y terminamos en Copiar XPath completo tendremos el filtro listo para ser usado en nuestro bloqueador.
 
-![Emirodgar](https://i.imgur.com/Gle3xH9.png){:class="img-responsive"}
+![Emirodgar](https://i.imgur.com/YQc8An5.png){:class="img-responsive"}
+
+Por supuesto existen otras alternativas mucho más accesibles como [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) que se instalan como extensiones de nuestro navegador.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzMTQ5OTQxLC0xNjA0NTg0OTE2XX0=
+eyJoaXN0b3J5IjpbLTUwMDM0Mzc4MCwtMTYwNDU4NDkxNl19
 -->
