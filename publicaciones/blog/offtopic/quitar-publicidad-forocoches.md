@@ -37,7 +37,13 @@ Para ello bastará con que hagamos click con el botón derecho en la página sel
 
 ![Emirodgar](https://i.imgur.com/6RSeRbp.png){:class="img-responsive"}
 
-A continuación nos aparecerá una ventana que nos indica que hagamos clic sobre la parte que queremos ocultar. Selecc 
+A continuación nos aparecerá una ventana que nos indica que hagamos clic sobre la parte que queremos ocultar. Seleccionaremos por tanto la publicidad o el hueco en blanco que haya quedado. 
+
+![Emirodgar](https://i.imgur.com/MQOfMLv.png){:class="img-responsive"}
+
+Una vez hecho, le damos a "está bien"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MTk2NzM1XX0=
+eyJoaXN0b3J5IjpbLTk2ODEzOTY4OV19
 -->
