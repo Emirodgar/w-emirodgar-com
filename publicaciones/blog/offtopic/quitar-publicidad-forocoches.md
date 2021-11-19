@@ -67,13 +67,20 @@ Por supuesto existen otras alternativas mucho más accesibles como [XPath Helper
 
 ## Compartir los filtros dinámicos a ocultar
 
-Si alguien ha hecho ya el trabajo para identificar los elementos a ocultar de una página, podemos ir directamente a las opciones de configuración de nuestro navegador (el ejemplo que os pongo es Adblock 
+Si alguien ha hecho ya el trabajo para identificar los elementos a ocultar de una página, podemos ir directamente a las opciones de configuración de nuestro navegador (el ejemplo que os pongo es Adblock pero todos ellos trabajan de la misma forma), editar los filtros y añadir los que tenemos. Lo haremos a través de la opción de "Personalizar" y luego "Editar manualmente tus filtros".
+
+![Emirodgar](https://i.imgur.com/rf3odcU.png){:class="img-responsive"}
+
+En el caso de Forocoches, a día de hoy los filtros que funcionan son los siguientes:
+
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDIxODQ0NiwtMTcwMDA4ODk0MSwtNz
-kxNTg0MDg5LC0xNjA0NTg0OTE2XX0=
+eyJoaXN0b3J5IjpbLTExMzUxNDU0OTMsLTE3MDAwODg5NDEsLT
+c5MTU4NDA4OSwtMTYwNDU4NDkxNl19
 -->
