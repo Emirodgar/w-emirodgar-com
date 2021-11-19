@@ -32,6 +32,9 @@ Una vez instalado, por defecto, bloqueará todo lo que considere que es un anunc
 ## Bloquear publicidad dinámica
 
 ¿Qué ocurre si después de instalar un bloqueador sigue apareciendo publicidad?. Será debido a que nuestro bloqueador por defecto no la identifica pero no pasa nada, podemos ocultarla de forma manual.
+
+![Emirodgar](https://i.imgur.com/XAjJXw5.png){:class="img-responsive"}
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU1NjAxMjRdfQ==
+eyJoaXN0b3J5IjpbMTQ3NDM2MDY5MV19
 -->
