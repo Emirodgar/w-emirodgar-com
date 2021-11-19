@@ -72,11 +72,13 @@ Si alguien ha hecho ya el trabajo para identificar los elementos a ocultar de un
 
 En el caso de Forocoches, a día de hoy los filtros que funcionan son los siguientes (generados por @Maverik84):
 
-    https://www.forocoches.com###fcthread
-    https://www.forocoches.com##table.cajasprin:nth-of-type(2) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1)
-    https://www.forocoches.com###vbnotices > .tborder > tbody:nth-of-type(1) > tr:nth-of-type(1) > .alt1
-    https://www.forocoches.com###vbnotices > .tborder
-    https://www.forocoches.com##.page > div > .cajasprin > tbody > tr > td > div
+    forocoches.com###fcthread  
+    forocoches.com###table3 > tbody > tr > .alt1  
+    forocoches.com###vbnotices  
+    forocoches.com##body > table.cajasprin:nth-of-type(2) > tbody > tr > td  
+    forocoches.com##div:nth-of-type(5) > .page > div > .cajasprin  
+    forocoches.com##div:nth-of-type(6) > .page > div > .cajasprin > tbody > tr > td  
+    forocoches.com##div[id^="navbar_notice_"]
 
 Bastará con copiarlos y pegarlos en los filtros de nuestro bloqueador para poder navegar por Forocoches libres de publicidad molesta.
 
@@ -84,7 +86,7 @@ Bastará con copiarlos y pegarlos en los filtros de nuestro bloqueador para pode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODc3NjE1NywtNTA0OTU2ODgzLDExMD
-c4NDI2MjMsLTE3MDAwODg5NDEsLTc5MTU4NDA4OSwtMTYwNDU4
-NDkxNl19
+eyJoaXN0b3J5IjpbMjEwMDc4MDk4OCwtMzY4Nzc2MTU3LC01MD
+Q5NTY4ODMsMTEwNzg0MjYyMywtMTcwMDA4ODk0MSwtNzkxNTg0
+MDg5LC0xNjA0NTg0OTE2XX0=
 -->
