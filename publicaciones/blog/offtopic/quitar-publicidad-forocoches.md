@@ -19,7 +19,7 @@ En algunos casos nos enfrentamos a tal sobreexposición de publicidad que afecta
 
 ## Navegar de forma segura y sin publicidad
 
-Si lo que queremos es navegar de forma segura, cómoda y privada mi primera recomendación sería optar por un navegador que se preste a ello, por ejemplo [Brave](https://brave.com/es/). Existen otras alternativas como  
+Si lo que queremos es navegar de forma segura, cómoda y privada mi primera recomendación sería optar por un navegador que se preste a ello, por ejemplo [Brave](https://brave.com/es/). Existen otras alternativas como Opera, Vivaldi, Tor, Iceraven o Librewolf pero no todas ellas son multidispositivo o pueden ser complejas de configurar.  
 
 ## Instalar un bloqueador 
 
@@ -68,6 +68,6 @@ Por supuesto existen otras alternativas mucho más accesibles como [XPath Helper
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MzYxNjcsLTc5MTU4NDA4OSwtMTYwND
-U4NDkxNl19
+eyJoaXN0b3J5IjpbMjEzNDY4ODY2LC03OTE1ODQwODksLTE2MD
+Q1ODQ5MTZdfQ==
 -->
