@@ -15,7 +15,7 @@ permalink: quitar-publicidad-forocoches
 
 Con cerca de 15 años de experiencia en marketing digital soy un firme defensor de la publicidad digital siempre que sea **comedida** y **aporte cierto valor a los potenciales usuarios**. 
 
-En algunos casos, como en Forocoches, a ve
+En algunos casos nos enfrentamos a experiencias de navegación desastrosas que afectan a nuestro tiempo en dichas páginas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTA2OTc1NDRdfQ==
+eyJoaXN0b3J5IjpbLTEyODAzMDE4NjldfQ==
 -->
