@@ -19,7 +19,7 @@ En algunos casos nos enfrentamos a tal sobreexposición de publicidad que afecta
 
 ## Navegar de forma segura y sin publicidad
 
-Si lo que queremos es navegar de forma segura y privad
+Si lo que queremos es navegar de forma segura, cómoda y privada mi primera recomendación sería optar por un navegador que se preste a ello, por ejemplo [Brave](https://brave.com/es/) o 
 
 ## Instalar un bloqueador 
 
@@ -68,5 +68,5 @@ Por supuesto existen otras alternativas mucho más accesibles como [XPath Helper
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTU4MjA5NywtMTYwNDU4NDkxNl19
+eyJoaXN0b3J5IjpbLTc5MTU4NDA4OSwtMTYwNDU4NDkxNl19
 -->
