@@ -1,4 +1,3 @@
-
 ---
 title: Cómo eliminar la publicidad en Forocoches
 description: 
@@ -85,6 +84,6 @@ Bastará con copiarlos y pegarlos en los filtros de nuestro bloqueador para pode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzg0MjYyMywtMTcwMDA4ODk0MSwtNz
-kxNTg0MDg5LC0xNjA0NTg0OTE2XX0=
+eyJoaXN0b3J5IjpbLTUwNDk1Njg4MywxMTA3ODQyNjIzLC0xNz
+AwMDg4OTQxLC03OTE1ODQwODksLTE2MDQ1ODQ5MTZdfQ==
 -->
