@@ -21,7 +21,7 @@ En algunos casos nos enfrentamos a tal sobreexposición de publicidad que afecta
 
 Si lo que queremos es navegar de forma segura, cómoda y privada mi primera recomendación sería optar por un navegador que se preste a ello, por ejemplo [Brave](https://brave.com/es/). Existen otras alternativas como Opera, Vivaldi, Tor, Iceraven o Librewolf pero no todas ellas son multidispositivo o pueden ser complejas de configurar.
 
-En el caso de que hagamos uso de Chrome o Firefox, necesitaremos instalar una extensión que nos permita gestionar y anular la publicidad en las páginas por las que navegamos. En el caso de Firefox recomiendo utilizar esta herramienta para generar un perfil de navegación acorde a lo que queremos.  
+En el caso de que hagamos uso de Chrome o Firefox, necesitaremos instalar una extensión que nos permita gestionar y anular la publicidad en las páginas por las que navegamos. En el caso de Firefox recomiendo [utilizar esta herramienta](https://ffprofile.com/) para generar un perfil de navegación acorde a lo que buscamos.  
 
 ## Instalar un bloqueador 
 
@@ -31,13 +31,13 @@ El primer paso será instalar un bloqueador en nuestro navegador que, de forma a
 
 Casi todos los navegadores permiten instalar extensiones por lo que recomendaría optar por [Adblock](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=es) o [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=es). Los enlaces son para Chrome, si navegamos con Firefox los podremos encontrar en su sección de addons ([Adblock](https://addons.mozilla.org/es/firefox/addon/adblock-for-firefox/) / [Ublock](https://addons.mozilla.org/es/firefox/addon/ublock-origin/)).
 
-Una vez instalado, por defecto, bloqueará todo lo que considere que es un anuncio intrusivo.
+Una vez instalado, sin necesidad de hacer nada más, bloqueará todo lo que considere que es un anuncio intrusivo.
 
 ## Bloquear publicidad dinámica
 
-¿Qué ocurre si después de instalar un bloqueador sigue apareciendo publicidad o quedan huecos en blanco?. Será debido a que nuestro bloqueador por defecto no la identifica o no es capaz de ocultar todo pero no pasa nada, podemos ocultarla de forma manual.
+¿Qué ocurre si después de instalar un bloqueador sigue apareciendo publicidad o quedan huecos en blanco? será debido a que nuestro bloqueador no lo identifica de forma correcta o no es capaz de ocultar todo pero no pasa nada, podemos hacerlo de forma manual.
 
-Para ello bastará con que hagamos click con el botón derecho en la página seleccionamos Adblock y Ocultar algo en esta página.
+Para ello bastará con que hagamos click con el botón derecho en la página, seleccionamos Adblock y Ocultar algo en esta página.
 
 ![Emirodgar](https://i.imgur.com/6RSeRbp.png){:class="img-responsive"}
 
@@ -70,6 +70,6 @@ Por supuesto existen otras alternativas mucho más accesibles como [XPath Helper
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTU3MzA0NCwtNzkxNTg0MDg5LC0xNj
+eyJoaXN0b3J5IjpbMTAxNTUyMDEyNCwtNzkxNTg0MDg5LC0xNj
 A0NTg0OTE2XX0=
 -->
