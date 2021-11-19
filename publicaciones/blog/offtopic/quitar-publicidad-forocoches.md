@@ -33,10 +33,11 @@ Una vez instalado, por defecto, bloqueará todo lo que considere que es un anunc
 
 ¿Qué ocurre si después de instalar un bloqueador sigue apareciendo publicidad o quedan huecos en blanco?. Será debido a que nuestro bloqueador por defecto no la identifica o no es capaz de ocultar todo pero no pasa nada, podemos ocultarla de forma manual.
 
-Para ello bastará con que hagamos click con el botón derecho en la página seleccionamos Adblock y 
+Para ello bastará con que hagamos click con el botón derecho en la página seleccionamos Adblock y Ocultar algo en esta página.
 
 ![Emirodgar](https://i.imgur.com/6RSeRbp.png){:class="img-responsive"}
 
+A continuación nos aparecerá una ventana que nos indica que hagamos clic sobre la parte que queremos ocultar. Selecc 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjcwOTQ0MF19
+eyJoaXN0b3J5IjpbNDk0MTk2NzM1XX0=
 -->
