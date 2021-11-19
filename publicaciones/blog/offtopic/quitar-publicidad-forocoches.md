@@ -19,7 +19,9 @@ En algunos casos nos enfrentamos a tal sobre exposición de publicidad que afect
 
 ## Instalar un bloqueador 
 
-El primer paso será instalar un bloqueador
+El primer paso será instalar un bloqueador que, de forma automática, nos permita visualizar anuncios aceptables (no instrusivos o molestos) pero que bloquee el resto, especialmente los que se activan a través de popups.
+
+> Los anuncios aceptables son anuncios que no son intrusivos o molestos. Son respetuosos, no interfieren con el contenido y están claramente etiquetados con la palabra “anuncio” o su equivalente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1MTIxNDY4XX0=
+eyJoaXN0b3J5IjpbMzM0MTQyODEwXX0=
 -->
