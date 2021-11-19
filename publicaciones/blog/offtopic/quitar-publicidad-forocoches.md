@@ -9,7 +9,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: analitica
-permalink: quitar-publicidad-forocoches
+permalink: quitar-publicidad-web
 
 --- 
 
@@ -55,10 +55,14 @@ No hay problema, antes de confirmar, pulsamos sobre el lápiz para editar el ele
 
 Tanto en Chrome como en Firefox contamos con una [consola](https://emirodgar.com/consola-devtools-chrome) que se despliega al pulsar F12 y donde podemos ver, entre otras cosas, el código fuente de la misma.
 
+Si seleccionamos el elemento que queremos ocultar, 
+
+![Emirodgar](https://i.imgur.com/Gle3xH9.png){:class="img-responsive"}
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Mjc1OTQ4NSwtMTYwNDU4NDkxNl19
+eyJoaXN0b3J5IjpbMzgzMTQ5OTQxLC0xNjA0NTg0OTE2XX0=
 -->
