@@ -8,7 +8,6 @@ feed: 1
 folder: seo
 lang: es_ES
 layout: emirodgar_post
-date: 19/05/2021
 permalink: etiqueta-canonica
 
 --- 
@@ -65,7 +64,7 @@ Los factores SEO que nos ayudarán a canonicalizar una URL serán:
 
 Básicamente se trata de ser consistente y ofrecer una visión global que esté alineada con la URL canónica que estamos presentando, si no, Google podría ignorarla completamente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNjc5NzIwLDE0MzE4NzEyMDgsMTMyNT
-E2Nzg2NSwtMTA5ODc3MTQ1NywtMTgzODU0MTA1MywtMjAwMDI5
-MDQ1OCwtNTE3MDI0NTg3LDY2NDg4MDQ3M119
+eyJoaXN0b3J5IjpbMjAzNTU4NDY4NiwxNDMxODcxMjA4LDEzMj
+UxNjc4NjUsLTEwOTg3NzE0NTcsLTE4Mzg1NDEwNTMsLTIwMDAy
+OTA0NTgsLTUxNzAyNDU4Nyw2NjQ4ODA0NzNdfQ==
 -->
