@@ -1,5 +1,5 @@
 ---
-title: Etiqueta canónica
+title: Etiqueta canonical (canónica) para evitar contenido duplicado
 description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 author: Emirodgar
@@ -65,7 +65,7 @@ Los factores SEO que nos ayudarán a canonicalizar una URL serán:
 
 Básicamente se trata de ser consistente y ofrecer una visión global que esté alineada con la URL canónica que estamos presentando, si no, Google podría ignorarla completamente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTg3MTIwOCwxMzI1MTY3ODY1LC0xMD
-k4NzcxNDU3LC0xODM4NTQxMDUzLC0yMDAwMjkwNDU4LC01MTcw
-MjQ1ODcsNjY0ODgwNDczXX0=
+eyJoaXN0b3J5IjpbOTgyNjc5NzIwLDE0MzE4NzEyMDgsMTMyNT
+E2Nzg2NSwtMTA5ODc3MTQ1NywtMTgzODU0MTA1MywtMjAwMDI5
+MDQ1OCwtNTE3MDI0NTg3LDY2NDg4MDQ3M119
 -->
