@@ -50,7 +50,8 @@ El esquema final de trabajo que realiza Googlebot será el siguiente:
 
  1. Googlebot identifica las URLs que quiere rastrear y las almacena en un listado.
  2. Poco a poco va accediendo a las URLs previamente almacenadas haciendo uso del *crawl budget* que tengamos asociado a nuestro dominio. Dependiendo de ese tiempo que tenemos asignado el proceso puede llevar horas o incluso días.
+ 3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM3MDM3MTRdfQ==
+eyJoaXN0b3J5IjpbMTk5NjAwNjg4NywtMTA5MzcwMzcxNF19
 -->
