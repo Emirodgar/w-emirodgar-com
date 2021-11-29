@@ -46,6 +46,11 @@ Google utiliza la siguiente imagen para mostrarnos el proceso seguido para rastr
 
 ![Google proceso rastreo indexación renderizado](https://i.imgur.com/rX52CEk.png){:class="img-responsive"}
 
+El esquema final de trabajo que realiza Googlebot será el siguiente:
+
+ 1. Googlebot identifica las URLs que quiere rastrear y las almacena en un listado
+ 2. Poco a poco va accediendo a las URLs previamente almacenadas
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTQ2NDExOV19
+eyJoaXN0b3J5IjpbMTY5MzUzNzQyOV19
 -->
