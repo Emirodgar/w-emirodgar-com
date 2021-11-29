@@ -16,7 +16,7 @@ El **contenido duplicado** siempre ha sido un problema para el SEO. Disponer de 
 
 Si Google encuentra varias URLs duplicadas, **establecerá una de ellas como canónica** (predeterminada) y será ésta la que rastree con mayor frecuencia. Las demás quedarán en un segundo plano y, aunque es posible que sí las rastree, lo más seguro es que no posicionen.
 
-## ¿Qué es contenido duplicado?
+## ¿Qué es el contenido duplicado?
 
 A menudo se tiende a pensar que **el contendido duplicado lo generan dos páginas idénticas** pero esto no tiene porqué ser así. Aunque exista diferencia entre el contenido, si no es relevante o es pequeña, Google las considerará como duplicadas y por lo tanto **definirá una como canónica** frente al resto.
 
@@ -64,7 +64,7 @@ Los factores SEO que nos ayudarán a canonicalizar una URL serán:
 
 Básicamente se trata de ser consistente y ofrecer una visión global que esté alineada con la URL canónica que estamos presentando, si no, Google podría ignorarla completamente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTU4NDY4NiwxNDMxODcxMjA4LDEzMj
+eyJoaXN0b3J5IjpbMTY2MDk3NTkyNSwxNDMxODcxMjA4LDEzMj
 UxNjc4NjUsLTEwOTg3NzE0NTcsLTE4Mzg1NDEwNTMsLTIwMDAy
 OTA0NTgsLTUxNzAyNDU4Nyw2NjQ4ODA0NzNdfQ==
 -->
