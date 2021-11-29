@@ -52,8 +52,9 @@ El esquema final de trabajo que realiza Googlebot será el siguiente:
  2. Poco a poco va accediendo a las URLs previamente almacenadas en el listado de rastreo haciendo uso del *crawl budget* que tengamos asociado a nuestro dominio. Dependiendo de ese tiempo que tenemos asignado el proceso puede llevar horas o incluso días.
  3. El robot analiza el HTML de cada URL solicitada en busca de nuevos enlaces. Si los encuentra, los añade,a mayores de los que hubiera, en el listado de rastreo.
  4. Aquellas URLs que ya han sido analizadas en el punto anterior son llevadas al **listado de renderizado**.
- 5. 
+ 5. Poco a poco Googlebot irá accediendo a las URLs del listado de renderizado para ejecutar el código JavaScript y obtener así la versión final de cada una de ellas.
+ 6. El resultado final obtenido en el punto anterior será enviado a su íncide para que pueda ser utilizado en las b
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDI2NzE5OCwtMTA5MzcwMzcxNF19
+eyJoaXN0b3J5IjpbLTQ2NDQxMzA1NCwtMTA5MzcwMzcxNF19
 -->
