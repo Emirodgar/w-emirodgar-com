@@ -22,7 +22,11 @@ Si nuestra página utiliza JavaScript para generar su presentación final, lo qu
 
 Este proceso por el cuál la parte final que está accediendo a la web (navegador o robot) ejecuta y renderiza el JavaScript se denomina **Client Side Rendering** CSR o renderizado del lado del cliente.
 
-Bien, existe otro proceso que es al contrario, en lugar de permitir al cliente final realizar el renderizado, éste se realiza en el servidor y luego se envía al cliente final (navegador o robot). De esta forma garantizamos que todos reciben la misma versión (y que está exenta de fallos). Este proceso se denomina Server Side Rendering (SSR).
+Existe otro proceso que es al contrario, en lugar de permitir al cliente final realizar el renderizado, éste se realiza en el servidor y luego se envía al cliente final (navegador o robot). De esta forma garantizamos que todos reciben la misma versión (y que está exenta de fallos). Este proceso se denomina **Server Side Rendering** (SSR) o renderizado del lado del servidor.
+
+## ¿Ventajas o inconvenientes del CSR o SSR?
+
+Lo ideal para asegurar un buen funcionamiento a nivel SEO sería que nuestra página ofr
 
 Si bien Google generalmente puede rastrear e indexar la mayor parte del contenido de JavaScript, todavía recomiendan usar la representación del lado del servidor o la representación previa, en lugar de confiar en un enfoque del lado del cliente, ya que es difícil de procesar JavaScript, y no todos los rastreadores de motores de búsqueda lo son. capaz de procesarlo con éxito o inmediatamente '.
 
@@ -30,5 +34,5 @@ Debido a este crecimiento y los avances en los motores de búsqueda, es esencial
 
 Tradicionalmente, los rastreadores de sitios web tampoco podían rastrear sitios web de JavaScript, hasta que lanzamos la primera funcionalidad de renderizado de JavaScript en nuestro software Screaming Frog SEO Spider.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzU3Mzg2MF19
+eyJoaXN0b3J5IjpbMTk4MTM5NDg5M119
 -->
