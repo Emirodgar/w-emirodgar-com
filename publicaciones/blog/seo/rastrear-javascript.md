@@ -42,10 +42,10 @@ El proceso que seguirá será el siguiente:
  2. **Renderizar**: aquí entra en juego la importancia del SSR (donde no tendrá que hacer nada) o del CSR (donde trendrá que ejecutar el JavaScript de la página para obtener la versión final renderizada de la misma.
  3. **Indexar**: una vez que disponga de la versión final de la página, podrá determinar su indexación y posterior posicionamiento dentro de su índice.
 
-Google utiliza la siguiente imagen para mostrarnos el proceso seguido para rastrear, renderizar
+Google utiliza la siguiente imagen para mostrarnos el proceso seguido para rastrear, renderizar e indexar una URL.
 
 ![Google proceso rastreo indexación renderizado](https://i.imgur.com/rX52CEk.png){:class="img-responsive"}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjA2NjQ5Nl19
+eyJoaXN0b3J5IjpbMTczNTQ2NDExOV19
 -->
