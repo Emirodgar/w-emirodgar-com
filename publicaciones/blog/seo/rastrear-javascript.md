@@ -35,8 +35,8 @@ En algunos casos no es posible utilizar un SSR por lo que se recomienda hacer un
 ## El proceso de Googlebot
 
 
-Como hemos comentado antes, Googlebot es evergreen por lo que siempre dispondrá de la versión más actualizada de Chromium y emulará lo mismo que la versión d
+Como hemos comentado antes, **Googlebot es evergreen** por lo que siempre dispondrá de la versión más actualizada de Chromium y emulará lo mismo que la versión de cualquier navegador que utilice esta tecnología (Chrome, Vivaldi, Iridium, Edge, etc). 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjI0NDExNV19
+eyJoaXN0b3J5IjpbLTQ1MzMwNDM5OF19
 -->
