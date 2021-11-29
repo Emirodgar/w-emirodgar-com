@@ -18,7 +18,11 @@ Sin embargo, con la evolución del desarrollo web y la aparición de tecnología
 
 ## ¿Cómo podemos ayudar a los buscadores a renderizar y rastrear páginas en JavaScript?
 
-Si nuestra página utiliza JavaScript para generar su presentación final, lo que ocurrirá es que en algún punto el navegador que estamos usando tendrá que ejecutar dicho código JavaScript para obtener dicha versión final. Existen muchos navegador y muchos robots de búsqueda por lo que garanti
+Si nuestra página utiliza JavaScript para generar su presentación final, lo que ocurrirá es que en algún punto el navegador que estamos usando tendrá que ejecutar dicho código JavaScript para obtener dicha versión final. Existen muchos navegador y muchos robots de búsqueda por lo que garantizar que el resultado final sea el mismo para todos ellos puede ser ambicioso.
+
+Este proceso por el cuál la parte final que está accediendo a la web (navegador o robot) ejecuta y renderiza el JavaScript se denomina **Client Server Rendering** CSR o renderizado por parte del cliente.
+
+Bien, existe otro proceso que es al contrario, en lugar de permitir al cliente fina
 
 Si bien Google generalmente puede rastrear e indexar la mayor parte del contenido de JavaScript, todavía recomiendan usar la representación del lado del servidor o la representación previa, en lugar de confiar en un enfoque del lado del cliente, ya que es difícil de procesar JavaScript, y no todos los rastreadores de motores de búsqueda lo son. capaz de procesarlo con éxito o inmediatamente '.
 
@@ -26,5 +30,5 @@ Debido a este crecimiento y los avances en los motores de búsqueda, es esencial
 
 Tradicionalmente, los rastreadores de sitios web tampoco podían rastrear sitios web de JavaScript, hasta que lanzamos la primera funcionalidad de renderizado de JavaScript en nuestro software Screaming Frog SEO Spider.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDA2NTYwXX0=
+eyJoaXN0b3J5IjpbMTg5MDY0ODEzMV19
 -->
