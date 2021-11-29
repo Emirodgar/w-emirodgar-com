@@ -38,8 +38,10 @@ Como hemos comentado antes, **Googlebot es evergreen** por lo que siempre dispon
 
 El proceso que seguirá será el siguiente:
 
- 1. **Rastrear**: para identificar todas las URLs de un sitio. Se apoyará en el sitemap XML y el enlazado, tanto interno como ext
+ 1. **Rastrear**: para identificar todas las URLs de un sitio. Se apoyará en el sitemap XML y el enlazado, tanto interno como externo.
+ 2. **Renderizar**: aquí entra en juego la importancia del SSR (donde no tendrá que hacer nada) o del CSR (donde trendrá que ejecutar el JavaScript de la página para obtener la versión final renderizada de la misma.
+ 3. **Indexar**: una vez que disponga de la versión final de la página, podrá determinar su indexación y posterior posicionamiento dentro de su índice.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDE2OTA2N119
+eyJoaXN0b3J5IjpbMjA4NzEyMzc0NV19
 -->
