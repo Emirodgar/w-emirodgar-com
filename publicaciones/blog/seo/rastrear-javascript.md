@@ -53,8 +53,8 @@ El esquema final de trabajo que realiza Googlebot será el siguiente:
  3. El robot analiza el HTML de cada URL solicitada en busca de nuevos enlaces. Si los encuentra, los añade,a mayores de los que hubiera, en el listado de rastreo.
  4. Aquellas URLs que ya han sido analizadas en el punto anterior son llevadas al **listado de renderizado**.
  5. Poco a poco Googlebot irá accediendo a las URLs del listado de renderizado para ejecutar el código JavaScript y obtener así la versión final de cada una de ellas.
- 6. El resultado final obtenido en el punto anterior será enviado a su íncide para que pueda ser utilizado en las b
+ 6. El resultado final obtenido en el punto anterior será enviado a su íncide para que pueda ser indexado posicionado en las futuras búsquedas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDQxMzA1NCwtMTA5MzcwMzcxNF19
+eyJoaXN0b3J5IjpbMTQyMTE5NzQ3LC0xMDkzNzAzNzE0XX0=
 -->
