@@ -26,7 +26,9 @@ Existe otro proceso que es al contrario, en lugar de permitir al cliente final r
 
 ## ¿Ventajas o inconvenientes del CSR o SSR?
 
-Lo ideal para asegurar un buen funcionamiento a nivel SEO sería que nuestra página ofr
+Lo ideal para asegurar un buen funcionamiento a nivel SEO sería que nuestra página ofrezca un SSR (renderizado a nivel de servidor) ya que de esta forma nos aseguramos que todos los robots de búsqueda reciben la misma versión -correcta y funcional- de nuestra página.
+
+**¿Cuál es el problema del SSR?** exije un sobre esfuerzo a nuestro servidor ya que por cada URL/petición necesita tener hecho el renderizado. Un CSR delega ese renderizado en el navegador del cliente por lo que 
 
 Si bien Google generalmente puede rastrear e indexar la mayor parte del contenido de JavaScript, todavía recomiendan usar la representación del lado del servidor o la representación previa, en lugar de confiar en un enfoque del lado del cliente, ya que es difícil de procesar JavaScript, y no todos los rastreadores de motores de búsqueda lo son. capaz de procesarlo con éxito o inmediatamente '.
 
@@ -34,5 +36,5 @@ Debido a este crecimiento y los avances en los motores de búsqueda, es esencial
 
 Tradicionalmente, los rastreadores de sitios web tampoco podían rastrear sitios web de JavaScript, hasta que lanzamos la primera funcionalidad de renderizado de JavaScript en nuestro software Screaming Frog SEO Spider.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTM5NDg5M119
+eyJoaXN0b3J5IjpbOTg1NDIwODZdfQ==
 -->
