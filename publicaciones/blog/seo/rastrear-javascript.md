@@ -48,12 +48,12 @@ Google utiliza la siguiente imagen para mostrarnos el proceso seguido para rastr
 
 El esquema final de trabajo que realiza Googlebot será el siguiente:
 
- 1. Googlebot identifica las URLs que quiere rastrear y las almacena en un listado. Podemos ll
- 2. Poco a poco va accediendo a las URLs previamente almacenadas haciendo uso del *crawl budget* que tengamos asociado a nuestro dominio. Dependiendo de ese tiempo que tenemos asignado el proceso puede llevar horas o incluso días.
- 3. El robot analiza el HTML de cada URL solicitada en busca de nuevos enlaces. Si los encuentra, los añade a la lista del primer punto.
- 4. El siguiente paso es disponer de un segundo listado con URL para realizar un renderizado
+ 1. Googlebot identifica las URLs que quiere rastrear y las almacena en un listado. Podemos llamarlo **listado de rastreo**.
+ 2. Poco a poco va accediendo a las URLs previamente almacenadas en el listado de rastreo haciendo uso del *crawl budget* que tengamos asociado a nuestro dominio. Dependiendo de ese tiempo que tenemos asignado el proceso puede llevar horas o incluso días.
+ 3. El robot analiza el HTML de cada URL solicitada en busca de nuevos enlaces. Si los encuentra, los añade,a mayores de los que hubiera, en el listado de rastreo.
+ 4. Aquellas URLs que ya han sido analizadas en el punto anterior son llevadas al **listado de renderizado**.
+ 5. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcwNTEzNjUsLTEwOTM3MDM3MTRdfQ
-==
+eyJoaXN0b3J5IjpbMTAyMDI2NzE5OCwtMTA5MzcwMzcxNF19
 -->
