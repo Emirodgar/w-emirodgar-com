@@ -34,9 +34,12 @@ En algunos casos no es posible utilizar un SSR por lo que se recomienda hacer un
 
 ## El proceso de Googlebot
 
+Como hemos comentado antes, **Googlebot es evergreen** por lo que siempre dispondrá de la versión más actualizada de Chromium y generará el mismo resultado que la versión de cualquier navegador que utilice esta tecnología (Chrome, Vivaldi, Brave, Opera, Iridium, Edge, etc). 
 
-Como hemos comentado antes, **Googlebot es evergreen** por lo que siempre dispondrá de la versión más actualizada de Chromium y emulará lo mismo que la versión de cualquier navegador que utilice esta tecnología (Chrome, Vivaldi, Iridium, Edge, etc). 
+El proceso que seguirá será el siguiente:
+
+ 1. **Rastrear**: para identificar todas las URLs de un sitio. Se apoyará en el sitemap XML y el enlazado, tanto interno como ext
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzMwNDM5OF19
+eyJoaXN0b3J5IjpbLTM4MDE2OTA2N119
 -->
