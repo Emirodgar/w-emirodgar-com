@@ -30,13 +30,13 @@ Lo ideal para asegurar un buen funcionamiento a nivel [SEO](https://emirodgar.co
 
 **¿Cuál es el problema del SSR?** exije un sobre esfuerzo a nuestro servidor ya que por cada URL/petición necesita generar el renderizado antes de enviárselo al navegador que ha hecho la peticón. Un CSR delega ese renderizado en el navegador del cliente por lo que es una tarea menos que debemos soportar.
 
-En algunos casos no es posible utilizar un SSR por lo que se recomienda hacer un pre renderizado
+En algunos casos no es posible utilizar un SSR por lo que se recomienda hacer un pre-renderizado. Una de las herramientas más conocidas para implementar esta tecnología en nuestro sitio web es https://prerender.io/.
 
-Si bien Google generalmente puede rastrear e indexar la mayor parte del contenido de JavaScript, todavía recomiendan usar la representación del lado del servidor o la representación previa, en lugar de confiar en un enfoque del lado del cliente, ya que es difícil de procesar JavaScript, y no todos los rastreadores de motores de búsqueda lo son. capaz de procesarlo con éxito o inmediatamente '.
+## El proceso de Googlebot
 
-Debido a este crecimiento y los avances en los motores de búsqueda, es esencial poder leer el DOM después de que se haya ejecutado JavaScript para comprender las diferencias con el HTML de respuesta original al evaluar sitios web.
 
-Tradicionalmente, los rastreadores de sitios web tampoco podían rastrear sitios web de JavaScript, hasta que lanzamos la primera funcionalidad de renderizado de JavaScript en nuestro software Screaming Frog SEO Spider.
+Como hemos comentado antes, Googlebot es evergreen por lo que siempre dispondrá de la versión más actualizada de Chromium y emulará lo mismo que la versión d
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODEyMTU3NDldfQ==
+eyJoaXN0b3J5IjpbLTc2MjI0NDExNV19
 -->
