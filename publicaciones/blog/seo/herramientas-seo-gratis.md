@@ -96,6 +96,7 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [Mention](https://web.mention.com/)
 - [Namify](https://namify.tech/)
 - [OneUp](https://www.oneupapp.io/)
+- [Typefully](https://typefully.app/)
 
 ## <a name="datos-estructurados"></a>Datos estructurados
 
@@ -202,10 +203,10 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Orange Data Mining](https://orangedatamining.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMTIwMjc5LDE4Njk0MTg2MjEsLTE1OT
-I2NzY2MTksMTcwMTA5MDk2NCwtMjA5MzYzNDc0OCwtMTI4NDY0
-NTI4MywxOTA4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMS
-wxOTg1MTI3MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5
-NDU0OSwzMDk4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX
-0=
+eyJoaXN0b3J5IjpbLTU4MzM2NjM2MiwxODY5NDE4NjIxLC0xNT
+kyNjc2NjE5LDE3MDEwOTA5NjQsLTIwOTM2MzQ3NDgsLTEyODQ2
+NDUyODMsMTkwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1OTA1MD
+EsMTk4NTEyNzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0MywtNDE2
+OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2MV
+19
 -->
