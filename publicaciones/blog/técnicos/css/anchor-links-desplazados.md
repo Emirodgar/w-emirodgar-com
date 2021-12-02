@@ -39,7 +39,7 @@ Existen varias formas de poder llevar a cabo un desplazamiento tras hacer clic e
 }
 ```
 
-Existen más formas de abordar esta solución a través de CSS por lo que si no os gusta el hecho de tener que usar pseudoelementos os comparto el siguiente artí
+Existen más formas de abordar esta solución a través de CSS por lo que si no os gusta el hecho de tener que usar pseudoelementos [os comparto el siguiente artículo](https://nicolasgallagher.com/jump-links-and-viewport-positioning/demo/) donde explican en detalle otras aproximaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTk1NzI0LC0yOTAzMzU0NjVdfQ==
+eyJoaXN0b3J5IjpbLTE5OTQ3MzY2MjQsLTI5MDMzNTQ2NV19
 -->
