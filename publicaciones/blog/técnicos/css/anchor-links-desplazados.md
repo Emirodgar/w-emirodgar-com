@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
-permalink: anchor-links-desplazados-css
+permalink: anchor-links-desplazado-css
 
 --- 
 
@@ -28,7 +28,7 @@ Hasta aquí todo correcto. De esta forma nos desplazaremos hasta el elemento que
 
 ¿Cómo desplazamos la navegación de un Anchor Link?
 
-Existen varias formas de poder llevar a cabo un desplazamiento tras hacer clic en un anchor link, no obstante, la que más me gusta es hacer uso de `before` a nivel de CSS para especificar un alto en píxeles que nos permita
+Existen varias formas de poder llevar a cabo un desplazamiento tras hacer clic en un anchor link, no obstante, la que más me gusta es hacer uso del [pseudoelemento](https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-elements) `before` a nivel de CSS para especificar un alto en píxeles que nos permita desplazar ese elemento.
 
 ```
  #nosotros:before {    
@@ -37,8 +37,9 @@ Existen varias formas de poder llevar a cabo un desplazamiento tras hacer clic e
   height: 60px;    
   margin: -60px  0  0;    
 }
-    ```
+```
 
+Este caso en concreto  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjU5NDEwOSwtMjkwMzM1NDY1XX0=
+eyJoaXN0b3J5IjpbMjM0NTYwNjMsLTI5MDMzNTQ2NV19
 -->
