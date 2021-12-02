@@ -20,10 +20,11 @@ El primer paso será identificar cada sección dentro de nuestra página a la qu
 
     <div id="contacto"></div>
 
-El siguiente paso será incluir un enlace que nos permita navegar de forma directa hasta este elemento. Lo haremos de la siguiente manera:
+El siguiente paso será incluir un enlace que nos permita navegar de forma directa hasta este elemento. Lo haremos especificando en el atributo `href` el mismo valor que hemos asociado al `id` del elemento pero utilizando el símbolo `#` de la siguiente forma:
 
-    <a href="contacto">Contacto</a>
+    <a href="#contacto">Contacto</a>
 
+Hasta aquí
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0ODc5NzI3XX0=
+eyJoaXN0b3J5IjpbMTE2NjU5ODQ1OF19
 -->
