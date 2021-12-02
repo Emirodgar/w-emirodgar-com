@@ -28,7 +28,7 @@ Hasta aquí todo correcto. De esta forma nos desplazaremos hasta el elemento que
 
 ¿Cómo desplazamos la navegación de un Anchor Link?
 
-Existen varias formas de poder llevar a cabo un desplazamiento tras hacer clic en un anchor link, no obstante, la que más me gusta es hacer uso de before a nivel de CSS para generar un des
+Existen varias formas de poder llevar a cabo un desplazamiento tras hacer clic en un anchor link, no obstante, la que más me gusta es hacer uso de `before` a nivel de CSS para especificar un alto en píxeles que nos permita
 
 ```
  #nosotros:before {    
@@ -40,5 +40,5 @@ Existen varias formas de poder llevar a cabo un desplazamiento tras hacer clic e
     ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0MzE5MTYzLC0yOTAzMzU0NjVdfQ==
+eyJoaXN0b3J5IjpbMTE4MjU5NDEwOSwtMjkwMzM1NDY1XX0=
 -->
