@@ -24,7 +24,9 @@ El siguiente paso será incluir un enlace que nos permita navegar de forma direc
 
     <a href="#contacto">Contacto</a>
 
-Hasta aquí
+Hasta aquí todo correcto. De esta forma nos desplazaremos hasta el elemento que hemos seleccionado, pero ¿qué pasa si disponemos de un menú fijo? pues que parte de este elemento (lo que ocupe dicho menú) quedará oculto lo que podría ocasionar confusión a los usuarios.
+
+¿Cómo desplazamos la navegación de un Anchor Link?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjU5ODQ1OF19
+eyJoaXN0b3J5IjpbLTE1MDIwOTk2MjBdfQ==
 -->
