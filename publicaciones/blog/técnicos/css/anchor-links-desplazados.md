@@ -27,6 +27,18 @@ El siguiente paso será incluir un enlace que nos permita navegar de forma direc
 Hasta aquí todo correcto. De esta forma nos desplazaremos hasta el elemento que hemos seleccionado, pero ¿qué pasa si disponemos de un menú fijo? pues que parte de este elemento (lo que ocupe dicho menú) quedará oculto lo que podría ocasionar confusión a los usuarios.
 
 ¿Cómo desplazamos la navegación de un Anchor Link?
+
+Existen varias formas de poder llevar a cabo un desplazamiento tras hacer clic en un anchor link, no obstante, la que más me gusta es hacer uso de before a nivel de CSS para generar un des
+
+```
+ #nosotros:before {    
+  display: block;    
+  content: "";    
+  height: 60px;    
+  margin: -60px  0  0;    
+}
+    ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDMzNTQ2NV19
+eyJoaXN0b3J5IjpbOTM0MzE5MTYzLC0yOTAzMzU0NjVdfQ==
 -->
