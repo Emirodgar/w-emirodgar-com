@@ -12,7 +12,11 @@ permalink: anchor-links-desplazados-css
 
 --- 
 
-Los Anchor Links son utilizados en las páginas web para desplazarnos de forma interna por la misma. Por ejemplo, si tenemos varios apartados en el menú, haciendo clic en cada enlace podemos navega
+Los Anchor Links son utilizados en las páginas web para desplazarnos de forma interna por la misma. Por ejemplo, si tenemos varios apartados en el menú, haciendo clic en cada enlace podemos navegar -sin cambiar de URL- hasta cada una de las diferentes secciones.
+
+Para hacerlo funcionar no hace falta `JavaScript` sino simplemente `HTML`. 
+
+El primer paso será identificar cada sección dentro de nuestra página a la que posteriormente apuntaremos con los enlaces. Para ello haremos uso del 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjYyNjcyNF19
+eyJoaXN0b3J5IjpbMzYzMDIxNjk0XX0=
 -->
