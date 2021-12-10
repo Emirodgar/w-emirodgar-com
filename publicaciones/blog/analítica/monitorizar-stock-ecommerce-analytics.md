@@ -22,11 +22,14 @@ Para poder monitorizar el stock de nuestros productos lo primero que tendremos q
 
 A la hora de crear una dimensión personalizada tenemos que especificar el nombre (yo recomiendo usar `ecomm_stock` para poder diferenciar que se trata de una dimensión asociada al comercio electrónico) y el ámbito. En este caso, necesitamos especificar el ámbito de `Producto` puesto que esta nueva dimensión se relacionará con ello.
 
+![Analytics dimensión personalizada stock](https://i.imgur.com/6AnrUiJ.png){:class="img-responsive"}
+
+Antes de guardar los cambios aseguraros de que la dimensió
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE3NTcxNF19
+eyJoaXN0b3J5IjpbMTkzMDg4MDgxM119
 -->
