@@ -20,11 +20,13 @@ Para poder monitorizar el stock de nuestros productos lo primero que tendremos q
 
 **¿Por qué lo hacemos como dimensión y no como métrica?** porque posteriormente querremos analizar cuánta gente ha visitado productos sin stock o desde qué campañas/canales se ha originado dicho tráfico.
 
-A la hora de crear una dimensión personalizada tenemos que especificar el nombre (yo recomiendo usar ecomm_stock para poder d
+A la hora de crear una dimensión personalizada tenemos que especificar el nombre (yo recomiendo usar `ecomm_stock` para poder diferenciar que se trata de una dimensión asociada al comercio electrónico) y el ámbito. En este caso, necesitamos especificar el ámbito de `Producto` puesto que esta nueva dimensión se relacionará con ello.
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0OTA2MTY4XX0=
+eyJoaXN0b3J5IjpbLTE5NjE3NTcxNF19
 -->
