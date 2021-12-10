@@ -68,9 +68,29 @@ Para ello nos apoyaremos en el evento [`detail`](https://developers.google.com/t
 
 Ahora, cada vez que se visualice un producto, sabremos si tenía o no stock.
 
-### A través de la capa de datos
+### A través del objeto gtag
 
+La otra forma que tenemos de enviar esta información es directamente con el objeto `gtag` de [Analytics Universal](https://emirodgar.com/versiones-google-analytics).
+
+En este caso usaremos el evento `view_item_list` para enviar la información del array `items` que incluye 
+
+gtag('event', 'view_item_list', {
+  "items": [
+    {
+      "id": "P12345",
+      "name": "Android Warhol T-Shirt",
+      "list_name": "Search Results",
+      "brand": "Google",
+      "category": "Apparel/T-Shirts",
+      "variant": "Black",
+      "list_position": 1,
+      "quantity": 2,
+      "price": '2.0',
+	  "dimension1": 'Sin stock'  
+    }
+  ]
+});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDA0MjMxNSwxNTIzODY3MjM3LDEwNz
-Q4ODIzNTddfQ==
+eyJoaXN0b3J5IjpbNjg3NDcwMjI5LDE1MjM4NjcyMzcsMTA3ND
+g4MjM1N119
 -->
