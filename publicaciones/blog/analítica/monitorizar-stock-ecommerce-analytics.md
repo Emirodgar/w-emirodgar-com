@@ -32,12 +32,29 @@ El siguiente paso requerirá conocimientos técnicos para poder insertar el valo
 
 ### A través de la capa de datos
 
+Cuando hagamos uso del array `products` dentro del evento `ecommerce` podremos especificar nuestra nueva dimensión y su valor asociado.
 
+dataLayer.push({
+  'ecommerce': {
+    'detail': {
+      'actionField': {'list': 'Apparel Gallery'},    
+      'products': [{
+        'name': 'Triblend Android T-Shirt',        
+        'id': '12345',
+        'price': '15.25',
+        'brand': 'Google',
+        'category': 'Apparel',
+        'variant': 'Gray',
+        
+       }]
+     }
+   }
+});
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDg4MjM1N119
+eyJoaXN0b3J5IjpbOTY1NjAxODcsMTA3NDg4MjM1N119
 -->
