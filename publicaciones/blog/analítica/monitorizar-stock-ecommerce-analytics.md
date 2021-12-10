@@ -24,12 +24,16 @@ A la hora de crear una dimensión personalizada tenemos que especificar el nombr
 
 ![Analytics dimensión personalizada stock](https://i.imgur.com/6AnrUiJ.png){:class="img-responsive"}
 
-Antes de guardar los cambios aseguraros de que la dimensió
+Antes de guardar los cambios aseguraros de que la dimensión está activa.
+
+## Asignar el valor de stock
+
+El siguiente paso requerirá conocimientos técnicos para poder insertar el valor de stock o sin stock en la dimensión que hemos creado.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDg4MDgxM119
+eyJoaXN0b3J5IjpbNDUyNDkwNDUwXX0=
 -->
