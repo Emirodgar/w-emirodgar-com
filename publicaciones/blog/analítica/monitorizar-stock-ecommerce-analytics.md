@@ -16,7 +16,9 @@ Google Analytics es una plataforma grande y fiable que nos permite, además de t
 
 ## Crear una dimensión personalizada
 
-Para poder monitorizar el stock de nuestros productos, 
+Para poder monitorizar el stock de nuestros productos lo primero que tendremos que hacer será crear la dimensión personalizada en Analytics. Lo haremos desde el panel de administración; dentro de la fila de propiedad, pulsamos sobre `Definiciones personalizadas` y luego sobre `dimensiones personalizadas`.  
+
+¿Por qué lo hacemos como dimensión y no ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc3MTY1NTNdfQ==
+eyJoaXN0b3J5IjpbLTEyMjMzMjI4OTFdfQ==
 -->
