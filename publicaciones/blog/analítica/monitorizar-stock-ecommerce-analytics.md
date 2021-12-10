@@ -34,10 +34,6 @@ El siguiente paso requerirá conocimientos técnicos para poder insertar el valo
 
 Cuando hagamos uso del array `products` dentro del evento `ecommerce` podremos especificar nuestra nueva dimensión y su valor asociado. Lo único que tenemos que tener en cuenta es que debemos usar `dimension[valor]` donde valor es un valor numérico entre  1 y 20 que corresponde al índice de Analytics. Si es nuestra primera dimensión personalizada, deberemos usar `dimension1`, como en el ejemplo a continuación.
 
-dataLayer.push({
-  'ecommerce': {
-    'detail': {
-      'actionField': {'list': 'Apparel Gallery'},    
       'products': [{
         'name': 'Triblend Android T-Shirt',        
         'id': '12345',
@@ -47,17 +43,34 @@ dataLayer.push({
         'variant': 'Gray',
 		'dimension1':'Stock'
        }]
-     }
-   }
-});
+
 
 En el código anterior ya hemos enviado la información en el array productos pero necesitamos asociar el análisis a un evento o momento dentro del proceso de compra del ecommerce. En nuestro caso, al tratarse de un análisis para saber si hay o no stock, sólo podremos hacerlo al visitar la ficha del producto pero nunca al añadir el carrito o comprar ya que si no hay stock, son acciones que no se pueden llevar a cabo.
 
-Para ello nos apoyaremos en el evento detail del
+Para ello nos apoyaremos en el evento [`detail`](https://developers.google.com/tag-manager/enhanced-ecommerce?hl=es#details) del ecommerce mejorado
 
+    dataLayer.push({
+      'ecommerce': {
+        'detail': {
+          'actionField': {'list': 'Apparel Gallery'},    
+          'products': [{
+            'name': 'Triblend Android T-Shirt',        
+            'id': '12345',
+            'price': '15.25',
+            'brand': 'Google',
+            'category': 'Apparel',
+            'variant': 'Gray',
+    		'dimension1':'Stock'
+           }]
+         }
+       }
+    });
 
+Ahora, cada vez que se visualice un producto, sabremos si tenía o no stock.
+
+### A través de la capa de datos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg5MDQ5MzMsMTUyMzg2NzIzNywxMD
-c0ODgyMzU3XX0=
+eyJoaXN0b3J5IjpbLTg0MDA0MjMxNSwxNTIzODY3MjM3LDEwNz
+Q4ODIzNTddfQ==
 -->
