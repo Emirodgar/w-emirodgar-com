@@ -51,11 +51,13 @@ dataLayer.push({
    }
 });
 
-En el código anterior ya hemos enviado la información en el array productos pero necesitamos asociar el análisis a un evento o momento dentro del proceso de compra del ecommerce. En nuestro caso, al tratarse de un análisis para saber si hay o no stock, 
+En el código anterior ya hemos enviado la información en el array productos pero necesitamos asociar el análisis a un evento o momento dentro del proceso de compra del ecommerce. En nuestro caso, al tratarse de un análisis para saber si hay o no stock, sólo podremos hacerlo al visitar la ficha del producto pero nunca al añadir el carrito o comprar ya que si no hay stock, son acciones que no se pueden llevar a cabo.
+
+Para ello nos apoyaremos en el evento detail del
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDczMzQ4LDE1MjM4NjcyMzcsMTA3ND
-g4MjM1N119
+eyJoaXN0b3J5IjpbLTExNDg5MDQ5MzMsMTUyMzg2NzIzNywxMD
+c0ODgyMzU3XX0=
 -->
