@@ -51,11 +51,11 @@ dataLayer.push({
    }
 });
 
-En el código anterior ya hemos enviado la información en el array productos pero necesitamos asociar el análisis
+En el código anterior ya hemos enviado la información en el array productos pero necesitamos asociar el análisis a un evento o momento dentro del proceso de compra del ecommerce. En nuestro caso, al tratarse de un análisis para saber si hay o no stock, 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDA5NDIzMiwxNTIzODY3MjM3LDEwNz
-Q4ODIzNTddfQ==
+eyJoaXN0b3J5IjpbMTg2MDczMzQ4LDE1MjM4NjcyMzcsMTA3ND
+g4MjM1N119
 -->
