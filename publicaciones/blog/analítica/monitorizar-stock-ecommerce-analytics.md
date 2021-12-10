@@ -41,7 +41,7 @@ Cuando hagamos uso del array `products` dentro del evento `ecommerce` podremos e
         'brand': 'Google',
         'category': 'Apparel',
         'variant': 'Gray',
-		'dimension1':'Stock'
+        'dimension1':'Stock'
        }]
 
 
@@ -60,7 +60,7 @@ Para ello nos apoyaremos en el evento [`detail`](https://developers.google.com/t
             'brand': 'Google',
             'category': 'Apparel',
             'variant': 'Gray',
-    		'dimension1':'Stock'
+            'dimension1':'Stock'
            }]
          }
        }
@@ -97,11 +97,11 @@ Ya tenemos la información en Analytics y llega el momento de visualizarla. Para
 
 ![Analytics dimensión personalizada stock](https://i.imgur.com/jpBnkGS.png){:class="img-responsive"}
 
-Yo lo he llamado `Informe Stock` y el resultado del informe será una tabla con el desglose, por cada producto, de su stock y las veces que ha sido visto. Si identificamos productos sin stock con mucho tráfico, sabemos que tenemos un problema, máximo si parte de est
+Yo lo he llamado `Informe Stock` y el resultado del informe será una tabla con el desglose, por cada producto, de su stock y las veces que ha sido visto. Si identificamos productos sin stock con mucho tráfico, sabemos que tenemos un problema, máximo si parte de este tráfico viene de campañas de pago ya que estaríamos invirtiendo en productos que no podemos vender.
 
 ![Analytics dimensión personalizada stock](https://i.imgur.com/GM6nj4i.png){:class="img-responsive"}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTg3ODI0MCwtMzg1MTIzNzU0LDE1Mj
-M4NjcyMzcsMTA3NDg4MjM1N119
+eyJoaXN0b3J5IjpbLTExMTU3OTA5NTksLTM4NTEyMzc1NCwxNT
+IzODY3MjM3LDEwNzQ4ODIzNTddfQ==
 -->
