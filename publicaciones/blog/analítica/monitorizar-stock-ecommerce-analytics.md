@@ -93,11 +93,13 @@ En este caso usaremos el evento `view_item_list` para enviar la información del
 
 ## Visualizar los resultados
 
-Ya tenemos la información en Analytics y llega el momento de visualizarla. Para ello recomiendo hacer uso de un informe personalizado en el que incluyamos el producto, la dimensión de stock y las visualizaciones.
+Ya tenemos la información en Analytics y llega el momento de visualizarla. Para ello recomiendo hacer uso de un informe personalizado en el que incluyamos el producto, la dimensión de stock y las visualizaciones. A mayores, también podemos usar las unidades añadidas al carrito para conocer productos con stock que no están entrando en el proceso de compra.
 
-![Analytics dimensión personalizada stock](https://i.imgur.com/6AnrUiJ.png){:class="img-responsive"}
+![Analytics dimensión personalizada stock](https://i.imgur.com/jpBnkGS.png){:class="img-responsive"}
+
+Yo lo he llamado `Informe Stock` y en la vista de productos lo tengo de la siguiente manera. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTM3OTM2NCwtMzg1MTIzNzU0LDE1Mj
+eyJoaXN0b3J5IjpbMTk0OTQ5MjY5OCwtMzg1MTIzNzU0LDE1Mj
 M4NjcyMzcsMTA3NDg4MjM1N119
 -->
