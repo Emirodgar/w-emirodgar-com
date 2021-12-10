@@ -12,7 +12,9 @@ permalink: monitorizar-stock-ecommerce-analytics
 
 --- 
 
-Google Analytics es una plataforma grande y fiable que nos permite, además de trabajar con los valores por defecto, añadir dimensiones y métricas personalizadas.
+Google Analytics es una plataforma grande y fiable que nos permite, además de trabajar con los valores por defecto, añadir dimensiones y métricas personalizadas. Esto nos ayuda a cualificar los datos de la plataforma y a disponer de informes personalizados y adaptados a nuestro negocio.
+
+## Crear
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODQ5NzQ1XX0=
+eyJoaXN0b3J5IjpbMTI4NzYxMTAyMF19
 -->
