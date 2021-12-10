@@ -32,7 +32,7 @@ El siguiente paso requerirá conocimientos técnicos para poder insertar el valo
 
 ### A través de la capa de datos
 
-Cuando hagamos uso del array `products` dentro del evento `ecommerce` podremos especificar nuestra nueva dimensión y su valor asociado. Lo único que tenemos que tener en cuenta es que debemos usar dimension[valor] donde valor es un valor numérico que 
+Cuando hagamos uso del array `products` dentro del evento `ecommerce` podremos especificar nuestra nueva dimensión y su valor asociado. Lo único que tenemos que tener en cuenta es que debemos usar dimension[valor] donde valor es un valor numérico entre  
 
 dataLayer.push({
   'ecommerce': {
@@ -56,5 +56,6 @@ dataLayer.push({
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzg2NzIzNywxMDc0ODgyMzU3XX0=
+eyJoaXN0b3J5IjpbLTE3NjgyMzYxNDIsMTUyMzg2NzIzNywxMD
+c0ODgyMzU3XX0=
 -->
