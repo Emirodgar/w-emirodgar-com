@@ -97,9 +97,11 @@ Ya tenemos la información en Analytics y llega el momento de visualizarla. Para
 
 ![Analytics dimensión personalizada stock](https://i.imgur.com/jpBnkGS.png){:class="img-responsive"}
 
-Yo lo he llamado `Informe Stock` y en la vista de productos lo tengo de la siguiente manera. 
+Yo lo he llamado `Informe Stock` y el resultado del informe será una tabla con el desglose, por cada producto, de su stock y las veces que ha sido visto. Si identificamos productos sin stock con mucho tráfico, sabemos que tenemos un problema, máximo si parte de est
+
+![Analytics dimensión personalizada stock](https://i.imgur.com/GM6nj4i.png){:class="img-responsive"}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTQ5MjY5OCwtMzg1MTIzNzU0LDE1Mj
+eyJoaXN0b3J5IjpbLTY3MTg3ODI0MCwtMzg1MTIzNzU0LDE1Mj
 M4NjcyMzcsMTA3NDg4MjM1N119
 -->
