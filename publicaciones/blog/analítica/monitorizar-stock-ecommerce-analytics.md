@@ -28,12 +28,16 @@ Antes de guardar los cambios aseguraros de que la dimensión está activa.
 
 ## Asignar el valor de stock
 
-El siguiente paso requerirá conocimientos técnicos para poder insertar el valor de stock o sin stock en la dimensión que hemos creado.
+El siguiente paso requerirá conocimientos técnicos para poder insertar el valor de `stock` o sin `stock` en la dimensión que hemos creado. Para ello tenemos dos formas.
+
+### A través de la capa de datos
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyNDkwNDUwXX0=
+eyJoaXN0b3J5IjpbMTA3NDg4MjM1N119
 -->
