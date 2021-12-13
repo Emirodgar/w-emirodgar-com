@@ -26,8 +26,16 @@ Debemos asegurarnos que `Ubicación de Consecución de Objetivos` (la primera co
 
 ## Elimina cualquier enlace interno a la página de gracias
 
-Una página de gracias sólo debería poder ser accedida tras una acción por parte del usuario que está convirtiendo (rellenar un formulario
+Una página de gracias sólo debería poder ser accedida tras una acción por parte del usuario que está convirtiendo (rellenar un formulario, descargar un documento, etc).
+
+Podemos hacer uso de ScreamingFrog para emular un rastreo de nuestro sitio y ver si nuestras páginas de gracias aparecen. De hacerlo, a través de la pestaña Inlinks podremos identificar los enlaces internos que apuntan a las mismas y proceder así a su eliminación.
+
+## ¿Las páginas de gracias son puerta de entrada al sitio?
+
+Como hemos explicado antes, una página de gracias sólo
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3ODk2MTMyXX0=
+eyJoaXN0b3J5IjpbLTEzMTUzMTYyOTddfQ==
 -->
