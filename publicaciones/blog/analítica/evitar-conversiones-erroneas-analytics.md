@@ -22,7 +22,12 @@ Vamos a detallar algunos pasos que nos ayudarán a asegurar que los datos tienen
 
 Aquí veremos una tabla con las URLs que han generado una conversión y las tres páginas anteriores del camino seguido por el usuario que ha convertiro.
 
-Debemos asegurarnos que Ubicación de Consecución de Objetivos (la primera columna) contine
+Debemos asegurarnos que `Ubicación de Consecución de Objetivos` (la primera columna de la tabla) contiene únicamente la URL que hemos marcado para página de gracias. De no ser así deberíamos ajustar la expresión del objetivo.
+
+## Elimina cualquier enlace interno a la página de gracias
+
+Una página de gracias sólo debería poder ser accedida tras una acción por parte del usuario que está convirtiendo (rellenar un formulario
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjA0MTgyNl19
+eyJoaXN0b3J5IjpbNTE3ODk2MTMyXX0=
 -->
