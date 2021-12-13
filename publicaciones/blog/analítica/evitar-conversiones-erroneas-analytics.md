@@ -16,7 +16,7 @@ Establecer objetivos y poder medir conversiones en Google Analytics es relativam
 
 Vamos a detallar algunos pasos que nos ayudarán a asegurar que los datos tienen rigor.
 
-## Asegúrate que la conversión sólo ocurre en la página de gracias
+## Asegúrate que la conversión sólo ocurre en la página correcta
 
  Una conversión ocurrirá ante un evento concreto o una página de gracias (thank you page). En este segundo caso, para poder asegurarnos de que la expresión que genera la conversión sólo tiene en cuenta una sola página de gracias, lo podemos hacer a través del menú de `Conversiones` entrando en `Objetivos` y seleccionando `Ruta de objetivo invertida`.
 
@@ -34,10 +34,16 @@ Podemos hacer uso de ScreamingFrog para emular un rastreo de nuestro sitio y ver
 
 Como hemos explicado antes, una página de gracias sólo debe ser accedida tras una acción de un usuario. Si detectamos tráfico directo a la misma implicará que se están registrando conversiones que no son reales.
 
-Para dilucidar si esto está ocurriendo podemos usar el menú de `Comportamiento` de Google Analytics, `Contenido del sitio` y `Páginas de destino`. Si nuestras páginas de gracias aparecen ahí, estamos generando conversiones erróneas. En este caso tendríamos que bloquear el acceso directo a la URL de gracias y sólo permitirlo a través del pr
+Para dilucidar si esto está ocurriendo podemos usar el menú de `Comportamiento` de Google Analytics, `Contenido del sitio` y `Páginas de destino`. Si nuestras páginas de gracias aparecen ahí, estamos generando conversiones erróneas. En este caso tendríamos que bloquear el acceso directo a la URL de gracias y sólo permitirlo a través del proceso de conversión.
+
+## ¿Se han indexado nuestras páginas de gracias?
+
+Un problema bastante común es que las URLs de conversión pueden terminar siendo rastreadas e indexadas por los robots de búsqueda. En este caso podríamos utilizar Google Search Console para conocer si nuestra página está en el índice 
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc5MDc5MzhdfQ==
+eyJoaXN0b3J5IjpbLTM0MTQxNzY0NV19
 -->
