@@ -18,7 +18,11 @@ Vamos a detallar algunos pasos que nos ayudarán a asegurar que los datos tienen
 
 ## Asegúrate que la conversión sólo ocurre en la página de gracias
 
- Una conversión ocurrirá ante un evento concreto o una página de gracias (thank you page). En este segundo caso, para poder asegurarnos de que la expresión que genera la conversión sólo tiene en cuenta una sola página de gracias, lo podemos hacer a través del menú de `Conversiones` entrando `Objetivos` y seleccionando `Ruta de objetivo invertida`
+ Una conversión ocurrirá ante un evento concreto o una página de gracias (thank you page). En este segundo caso, para poder asegurarnos de que la expresión que genera la conversión sólo tiene en cuenta una sola página de gracias, lo podemos hacer a través del menú de `Conversiones` entrando en `Objetivos` y seleccionando `Ruta de objetivo invertida`.
+
+Aquí veremos una tabla con las URLs que han generado una conversión y las tres páginas anteriores del camino seguido por el usuario que ha convertiro.
+
+Debemos asegurarnos que Ubicación de Consecución de Objetivos (la primera columna) contine
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjAwODM0XX0=
+eyJoaXN0b3J5IjpbLTU0MjA0MTgyNl19
 -->
