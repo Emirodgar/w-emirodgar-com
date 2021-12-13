@@ -32,10 +32,12 @@ Podemos hacer uso de ScreamingFrog para emular un rastreo de nuestro sitio y ver
 
 ## ¿Las páginas de gracias son puerta de entrada al sitio?
 
-Como hemos explicado antes, una página de gracias sólo
+Como hemos explicado antes, una página de gracias sólo debe ser accedida tras una acción de un usuario. Si detectamos tráfico directo a la misma implicará que se están registrando conversiones que no son reales.
+
+Para dilucidar si esto está ocurriendo podemos ir al menú de Comportamiento
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUzMTYyOTddfQ==
+eyJoaXN0b3J5IjpbLTc4MTc1MTYxMl19
 -->
