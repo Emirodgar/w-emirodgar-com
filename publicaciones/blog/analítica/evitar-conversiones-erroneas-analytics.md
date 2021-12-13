@@ -38,12 +38,14 @@ Para dilucidar si esto está ocurriendo podemos usar el menú de `Comportamiento
 
 ## ¿Se han indexado nuestras páginas de gracias?
 
-Un problema bastante común es que las URLs de conversión pueden terminar siendo rastreadas e indexadas por los robots de búsqueda. En este caso podríamos utilizar Google Search Console para conocer si nuestra página está en el índice 
+Un problema bastante común es que las URLs de conversión pueden terminar siendo rastreadas e indexadas por los robots de búsqueda. En este caso podríamos utilizar Google Search Console para conocer si nuestra página está en el índice de resultados de Google.
+
+En el caso de que así fuera, tendríamos que solicitar la eliminación de la misma
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTQxNzY0NV19
+eyJoaXN0b3J5IjpbOTkwNjEwNDczXX0=
 -->
