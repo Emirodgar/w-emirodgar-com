@@ -18,7 +18,7 @@ Vamos a detallar algunos pasos que nos ayudarán a asegurar que los datos tienen
 
 ## Asegúrate que la conversión sólo ocurre en la página de gracias
 
- Una conversión ocurrirá ante un evento concreto o una página de gracias (than
+ Una conversión ocurrirá ante un evento concreto o una página de gracias (thank you page). En este segundo caso, para poder asegurarnos de que la expresión que genera la conversión sólo tiene en cuenta una sola página de gracias, lo podemos hacer a través del menú de `Conversiones` entrando `Objetivos` y seleccionando `Ruta de objetivo invertida`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1MDgyNTk0XX0=
+eyJoaXN0b3J5IjpbLTQ4MjAwODM0XX0=
 -->
