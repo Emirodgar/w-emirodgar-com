@@ -18,7 +18,7 @@ Vamos a detallar algunos pasos que nos ayudarán a asegurar que los datos tienen
 
 ## Asegúrate que la conversión sólo ocurre en la página correcta
 
- Una conversión ocurrirá ante un evento concreto o una página de gracias (thank you page). En este segundo caso, para poder asegurarnos de que la expresión que genera la conversión sólo tiene en cuenta una sola página de gracias, lo podemos hacer a través del menú de `Conversiones` entrando en `Objetivos` y seleccionando `Ruta de objetivo invertida`.
+ Una conversión ocurrirá ante un evento concreto o una página de gracias (*Thank You Page*). En este segundo caso, para poder asegurarnos de que la expresión que genera la conversión sólo tiene en cuenta una sola página de gracias, lo podemos hacer a través del menú de `Conversiones` entrando en `Objetivos` y seleccionando `Ruta de objetivo invertida`.
 
 Aquí veremos una tabla con las URLs que han generado una conversión y las tres páginas anteriores del camino seguido por el usuario que ha convertiro.
 
@@ -40,12 +40,12 @@ Para dilucidar si esto está ocurriendo podemos usar el menú de `Comportamiento
 
 Un problema bastante común es que las URLs de conversión pueden terminar siendo rastreadas e indexadas por los robots de búsqueda. En este caso podríamos utilizar Google Search Console para conocer si nuestra página está en el índice de resultados de Google.
 
-En el caso de que así fuera, tendríamos que solicitar la eliminación de la misma
+En el caso de que así fuera, tendríamos que [solicitar la eliminación de la misma](https://emirodgar.com/eliminar-url-google) y asegurarnos, como hemos visto en uno de los puntos anteriores, que no existen enlaces internos que los robots puedan seguir para llegar hasta la TYP (*Thank You Page*).
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwNjEwNDczXX0=
+eyJoaXN0b3J5IjpbOTYzODE0MTA1XX0=
 -->
