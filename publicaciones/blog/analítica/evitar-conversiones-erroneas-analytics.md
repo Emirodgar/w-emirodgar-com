@@ -34,10 +34,10 @@ Podemos hacer uso de ScreamingFrog para emular un rastreo de nuestro sitio y ver
 
 Como hemos explicado antes, una página de gracias sólo debe ser accedida tras una acción de un usuario. Si detectamos tráfico directo a la misma implicará que se están registrando conversiones que no son reales.
 
-Para dilucidar si esto está ocurriendo podemos usar el menú de `Comportamiento` de Google Analytics, `Contenido del sitio` y `Páginas de destino`. Si nuestras páginas de gracias aparecen ahí, estamos generando conversiones erróneas. En este caso tendríamos que bloquear el acceso
+Para dilucidar si esto está ocurriendo podemos usar el menú de `Comportamiento` de Google Analytics, `Contenido del sitio` y `Páginas de destino`. Si nuestras páginas de gracias aparecen ahí, estamos generando conversiones erróneas. En este caso tendríamos que bloquear el acceso directo a la URL de gracias y sólo permitirlo a través del pr
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NTAxOTkyXX0=
+eyJoaXN0b3J5IjpbLTIwOTc5MDc5MzhdfQ==
 -->
