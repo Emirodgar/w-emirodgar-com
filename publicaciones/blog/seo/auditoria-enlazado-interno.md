@@ -16,9 +16,9 @@ Existen múltiples formas de llevar a cabo una estrategia de enlazado interno, n
 
 A continuación mostramos algunos puntos clave para una auditoría de enlazado interno.  Herramientas como Google Search Console, Ahrefs (versión gratuita), Semrush (pago) o ScreamingFrog (versión gratuita) nos pueden ayudar a obtener la información que precisamos.
 
-## 
+## Puntos auditoría enlazado interno
 
-1.  **Auditar enlaces internos rotos o con redirecciones**. No podemos comenzar una auditoría por el tejado por lo que lo primero que haría sería identificar los puntos donde se generan errores por enlazado interno y/o se aplican redirecciones. Solucionar ambos aspectos nos ayudarán a disponer de un interlinking más eficiente. Lo podemos hacer con ScreamingFrog o con Ahrefs.  
+1.  **Identificar enlaces internos rotos o con redirecciones**. No podemos comenzar una auditoría por el tejado por lo que lo primero que haría sería identificar los puntos donde se generan errores por enlazado interno y/o se aplican redirecciones. Solucionar ambos aspectos nos ayudarán a disponer de un interlinking más eficiente. Lo podemos hacer con ScreamingFrog o con Ahrefs.  
       
     
 2.  **Auditar el menú principal y el footer**. Ambos menús son transversales a todo el sitio por lo que los enlaces que se incluyan en los mismos deben apuntar a las páginas más relevantes de nuestro sitio web haciendo uso de anchor text descriptivos.  
@@ -47,5 +47,5 @@ A continuación mostramos algunos puntos clave para una auditoría de enlazado i
     
 10.  **Auditar la profundidad de rastreo de las páginas clave**. Las páginas más relevantes de nuestro sitio web deben poder ser accedidas en un máximo de tres interacciones desde la home.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTY1NDA5MjgsLTcwNDU1NDIwOV19
+eyJoaXN0b3J5IjpbMTEyNzA3MDM2MiwtNzA0NTU0MjA5XX0=
 -->
