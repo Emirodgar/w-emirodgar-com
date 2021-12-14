@@ -14,7 +14,7 @@ permalink: auditoria-enlazado-interno
 
 Existen múltiples formas de llevar a cabo una estrategia de enlazado interno, no obstante, lo primero debería ser siempre comenzar con una auditoría que nos ayude a identificar tanto potenciales problemas a solucionar como URLs clave a potenciar.
 
-A continuación tee 
+A continuación tenemos algunos 
 
 1.  **Auditar enlaces internos rotos o con redirecciones**. No podemos comenzar una auditoría por el tejado por lo que lo primero que haría sería identificar los puntos donde se generan errores por enlazado interno y/o se aplican redirecciones. Solucionar ambos aspectos nos ayudarán a disponer de un interlinking más eficiente. Lo podemos hacer con ScreamingFrog o con Ahrefs.  
       
@@ -45,5 +45,5 @@ A continuación tee
     
 10.  **Auditar la profundidad de rastreo de las páginas clave**. Las páginas más relevantes de nuestro sitio web deben poder ser accedidas en un máximo de tres interacciones desde la home.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMjM1NzI5LC03MDQ1NTQyMDldfQ==
+eyJoaXN0b3J5IjpbMTM4MzQ2Nzg0MywtNzA0NTU0MjA5XX0=
 -->
