@@ -1,5 +1,5 @@
 ---
-title: Cómo evitar conversiones erróneas en Google Analytics
+title: Cómo hacer una 
 description: 
 image: https://emirodgar.com/cdn/images/og/analitica.png
 layout: emirodgar_post
@@ -12,5 +12,5 @@ permalink: auditoria-enlazado-interno
 
 --- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDU1NDIwOV19
+eyJoaXN0b3J5IjpbMTc3OTM0NDMwOCwtNzA0NTU0MjA5XX0=
 -->
