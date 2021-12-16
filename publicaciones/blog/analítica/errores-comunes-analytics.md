@@ -16,7 +16,8 @@ Cualquier estrategia de medición web está expuesta a sufrir errores o fallos q
 
 A continuación vamos a comentar algunos errores comunes que suelen aparecer en implementaciones de Google Analytics para asegurarnos de que, en nuestro caso, nuestra configuración es correcta.
 
-- 
+- ¿El código está presente en todas las URLs del sitio? podemos hacer uso de aplicaciones como ScreamingFrog para validar si nuestro [código de Analytics]() está presente en todas las URLs. Si no fuera el caso, estaríamos dejando de registrar información básica.
+- ¿Todas las páginas usan la misma versión de Google Analytics?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA3OTk1NTBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTg3NDY1MTldfQ==
 -->
