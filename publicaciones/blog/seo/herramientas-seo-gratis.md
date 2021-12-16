@@ -97,6 +97,7 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [Namify](https://namify.tech/)
 - [OneUp](https://www.oneupapp.io/)
 - [Typefully](https://typefully.app/)
+- [Deepl](https://www.deepl.com/translator)
 
 ## <a name="datos-estructurados"></a>Datos estructurados
 
@@ -203,10 +204,10 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Orange Data Mining](https://orangedatamining.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzM2NjM2MiwxODY5NDE4NjIxLC0xNT
-kyNjc2NjE5LDE3MDEwOTA5NjQsLTIwOTM2MzQ3NDgsLTEyODQ2
-NDUyODMsMTkwODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1OTA1MD
-EsMTk4NTEyNzM3LC0xMjU1NjU1MzksLTU5MDA3MTU0MywtNDE2
-OTQ1NDksMzA5ODI5OTQxLDE0MDA0Njg1NjcsMTM0NTM4NzE2MV
-19
+eyJoaXN0b3J5IjpbNjk1NTUxNTI4LC01ODMzNjYzNjIsMTg2OT
+QxODYyMSwtMTU5MjY3NjYxOSwxNzAxMDkwOTY0LC0yMDkzNjM0
+NzQ4LC0xMjg0NjQ1MjgzLDE5MDg0NDI0OSwtNTQ5NzY4NjU3LC
+0xMjYyNTkwNTAxLDE5ODUxMjczNywtMTI1NTY1NTM5LC01OTAw
+NzE1NDMsLTQxNjk0NTQ5LDMwOTgyOTk0MSwxNDAwNDY4NTY3LD
+EzNDUzODcxNjFdfQ==
 -->
