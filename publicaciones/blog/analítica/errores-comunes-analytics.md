@@ -19,7 +19,7 @@ A continuación vamos a comentar algunos errores comunes que suelen aparecer en 
 - ¿El código está presente en todas las URLs del sitio? podemos hacer uso de aplicaciones como ScreamingFrog para validar si nuestro código de Analytics está presente en todas las URLs. Si no fuera el caso, estaríamos dejando de registrar información básica.
 - ¿Todas las páginas usan la misma [versión de Google Analytics](https://emirodgar.com/versiones-google-analytics)? una mezcla de diferentes versiones podría generar fallos en la medición.
 - ¿Utilizamos parámetros UTM en enlaces internos? estos parámetros utilizados para identificar tráfico de una campaña específica deberían sólo ser implementados desde enlaces externos.
-- ¿Has configurado correctamente el timezone en Analytics?
+- ¿Has configurado correctamente la zona horaria en Analytics? Analytics utiliza le media noche (12:00pm) para resetear sesiones y dividir las mediciones por día. Si no tenemos nuestro uso
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODYwMjE2XX0=
+eyJoaXN0b3J5IjpbLTExMTA2MjUwOTZdfQ==
 -->
