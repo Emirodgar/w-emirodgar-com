@@ -23,7 +23,9 @@ A continuación vamos a comentar algunos errores comunes que suelen aparecer en 
 - **¿Tarda mucho en cargar la página?** un tiempo excesivo podría dificultar la ejecución del código de Analytics o incluso que los usuarios abandonen la página.
 - **¿Generamos errores JavaScript?** si hacemos uso de otros códigos que generan errores, esto podría entrar en conflicto y afectar a la medición de Google Analytics.
 
-También puedes echar un vistazo a los 10 trucos de Google Analytics para obtener un mejor rendimiento de la información recogida en esta plataforma.
+A veces puede ocurrir que el servidor web funciona mal y genera errores que afectan, lógicamente, a la medición. Para ubicar dónde se encuentra el problema podemos [registrar los errores a través de GTM y GA](https://emirodgar.com/registrar-errores-web-con-google-analytics-tag-manager).
+
+También puedes echar un vistazo a los [10 trucos de Google Analytics](https://emirodgar.com/trucos-google-analytics) para obtener un mejor rendimiento de la información recogida en esta plataforma.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzEzNDcxNl19
+eyJoaXN0b3J5IjpbMjAxNzcyNTYyNF19
 -->
