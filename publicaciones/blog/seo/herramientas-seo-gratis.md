@@ -14,7 +14,7 @@ permalink: herramientas-seo-gratis
 
 Hace ya tiempo compartí mi listado de [recursos para marketing digital](recursos-marketing-digital/). En él incluía multitud de herramientas, tanto de pago como gratuitas para abordar cualquier problemática dentro de una [estrategia SEO](estrategia-seo).
 
-Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más eficientemente y rápido en nuestras tareas SEO. Antes de comenzar con el listado de categorías y herramientas asociadas a las mismas destacaría https://startpage.com/ para poder disfrutar de una navegación segura y privada.
+Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más eficientemente y rápido en nuestras tareas SEO. Antes de comenzar con el listado de categorías y herramientas asociadas a las mismas destacaría https://startpage.com/ para poder disfrutar de una navegación segura y privada. De la misma forma, si usamos Windows, una aplicación como App Buster o BlackBird nos ayudarán a disfrutar de una experiencia más segura y liviana.
 
 Herramientas clasificadas por categorías:
 
@@ -122,9 +122,9 @@ Antes de ejecutar una estrategia de SEO offpage es conveniente conocer nuestro p
 
 El tráfico móvil es mayor que el del resto de dispositivos, por ello es crucial asegurarnos de que nuestra página web está totalmente optimizada para ofrecer una buena experiencia desde estos dispositivos.
 
-- [zeo mfi](https://zeo.org/seo-tools/mfi/)
-- [mobile serp test/](https://mobilemoxie.com/tools/mobile-serp-test/)
-- [mobile friendly](https://search.google.com/test/mobile-friendly)
+- [Zeo mfi](https://zeo.org/seo-tools/mfi/)
+- [Mobile serp test/](https://mobilemoxie.com/tools/mobile-serp-test/)
+- [Mobile friendly](https://search.google.com/test/mobile-friendly)
 
 
 ## <a name="seo-local"></a>SEO Local
@@ -204,10 +204,10 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Orange Data Mining](https://orangedatamining.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1NTUxNTI4LC01ODMzNjYzNjIsMTg2OT
-QxODYyMSwtMTU5MjY3NjYxOSwxNzAxMDkwOTY0LC0yMDkzNjM0
-NzQ4LC0xMjg0NjQ1MjgzLDE5MDg0NDI0OSwtNTQ5NzY4NjU3LC
-0xMjYyNTkwNTAxLDE5ODUxMjczNywtMTI1NTY1NTM5LC01OTAw
-NzE1NDMsLTQxNjk0NTQ5LDMwOTgyOTk0MSwxNDAwNDY4NTY3LD
-EzNDUzODcxNjFdfQ==
+eyJoaXN0b3J5IjpbMTM4MjE5NjQ4NCw2OTU1NTE1MjgsLTU4Mz
+M2NjM2MiwxODY5NDE4NjIxLC0xNTkyNjc2NjE5LDE3MDEwOTA5
+NjQsLTIwOTM2MzQ3NDgsLTEyODQ2NDUyODMsMTkwODQ0MjQ5LC
+01NDk3Njg2NTcsLTEyNjI1OTA1MDEsMTk4NTEyNzM3LC0xMjU1
+NjU1MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMzA5ODI5OTQxLD
+E0MDA0Njg1NjcsMTM0NTM4NzE2MV19
 -->
