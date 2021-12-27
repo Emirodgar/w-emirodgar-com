@@ -14,7 +14,7 @@ permalink: herramientas-seo-gratis
 
 Hace ya tiempo compartí mi listado de [recursos para marketing digital](recursos-marketing-digital/). En él incluía multitud de herramientas, tanto de pago como gratuitas para abordar cualquier problemática dentro de una [estrategia SEO](estrategia-seo).
 
-Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más eficientemente y rápido en nuestras tareas SEO. Antes de comenzar con el listado de categorías y herramientas asociadas a las mismas destacaría https://startpage.com/ para poder disfrutar de una navegación segura y privada. De la misma forma, si usamos Windows, una aplicación como App Buster o BlackBird nos ayudarán a disfrutar de una experiencia más segura y liviana.
+Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más eficientemente y rápido en nuestras tareas SEO. Antes de comenzar con el listado de categorías y herramientas asociadas a las mismas destacaría https://startpage.com/ para poder disfrutar de una navegación segura y privada. De la misma forma, si usamos Windows, aplicaciones como [App Buster](https://www.oo-software.com/en/ooappbuster) o [BlackBird](https://www.getblackbird.net/) nos ayudarán a disfrutar de una experiencia más segura y liviana.
 
 Herramientas clasificadas por categorías:
 
@@ -204,7 +204,7 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Orange Data Mining](https://orangedatamining.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjE5NjQ4NCw2OTU1NTE1MjgsLTU4Mz
+eyJoaXN0b3J5IjpbMTU1Njc4NTM1MCw2OTU1NTE1MjgsLTU4Mz
 M2NjM2MiwxODY5NDE4NjIxLC0xNTkyNjc2NjE5LDE3MDEwOTA5
 NjQsLTIwOTM2MzQ3NDgsLTEyODQ2NDUyODMsMTkwODQ0MjQ5LC
 01NDk3Njg2NTcsLTEyNjI1OTA1MDEsMTk4NTEyNzM3LC0xMjU1
