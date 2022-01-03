@@ -29,17 +29,15 @@ A modo de *checklist* debemos cumplir lo siguiente:
     
 ## ¿Qué hacer si somos un medio de comunicación?
 
-En el caso de los periódicos online -donde existe una gran frecuencia de publicación- se recomienda, a mayores de lo anterior, cumplir con los siguientes requisitos:
-
-**Para medios**  (con gran frecuencia de publicación) además de todo lo indicado anteriormente,  **añadir los sitemaps.xml**, que deben cumplir varios requisitos:
+En el caso de los periódicos online -donde existe una gran frecuencia de publicación- se recomienda, a mayores de lo anterior, disponer de un sitemap XML específico para esta funcionalidad que disponga de los siguientes requisitos:
 
 -   Tener un máximo de 1000 URLs por sitemap.
 -   Sólo URLs de artículos con un máximo de 48 horas de antigüedad.
 -   Se tienen que actualizar a medida que se crean nuevas noticias.
--   Añadir los campos <news:title> <news:publication> y <news:publication_date>, como mínimo.
--   Es importante que la etiqueta <news:publication> refleje el mismo nombre escrito, exactamente como lo declarado en el Centro de Editores. Es sensible a las mayúsculas.
+-   Añadir los campos `<news:title>`,  `<news:publication>` y `<news:publication_date>`, como mínimo.
+-   Es importante que la etiqueta `<news:publication>` refleje el mismo nombre escrito, exactamente como lo declarado en el Centro de Editores. Es sensible a las mayúsculas.
 
--   No sustituyen a los sitemaps generales.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTcyNzM0MV19
+eyJoaXN0b3J5IjpbNzA0OTkzNTY4XX0=
 -->
