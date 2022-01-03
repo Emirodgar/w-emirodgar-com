@@ -1,6 +1,6 @@
 ---
 title: ¿Cómo aparecer en las Top Stories o noticias destacadas de Google?
-description: ¿Qué es una actualización core del algoritmo de Google y qué implicaciones tiene?
+description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
 author: Emirodgar
@@ -11,6 +11,30 @@ folder: seo
 permalink: top-stories
 
 --- 
+
+Google dispone de un resultado específico para mostrar, de forma destacada, artículos de act que considere relevantes para la búsqueda que el usuario está realizando.
+
+Se trata de un **bloque de artículos** relevantes para la búsqueda del usuario que aparece en la mitad superior de la página de resultados. **No tienen por qué ser solamente noticias de medios de comunicación generalistas** las que aparecen aquí; también son susceptibles de aparecer **artículos de medios especializados y de blogs**:
+
+**Lo básico:**
+
+-   Obviamente, lo primero es contar con una buena frecuencia de publicación de contenidos.
+-   Darnos de alta en el  [Publisher Center](https://publishercenter.google.com/publications) de Google.
+-   Esperar unas dos / tres semanas para que Google nos acepte.
+-   **Crear y subir un Feed RSS**  con los contenidos.
+-   Tener  **versiones AMP**  de todos los contenidos / posts.
+-   Incluir  **dados estruturados** "News Article" / "Article"  
+    
+
+**Para medios**  (con gran frecuencia de publicación) además de todo lo indicado anteriormente,  **añadir los sitemaps.xml**, que deben cumplir varios requisitos:
+
+-   Tener un máximo de 1000 URLs por sitemap.
+-   Sólo URLs de artículos con un máximo de 48 horas de antigüedad.
+-   Se tienen que actualizar a medida que se crean nuevas noticias.
+-   Añadir los campos <news:title> <news:publication> y <news:publication_date>, como mínimo.
+-   Es importante que la etiqueta <news:publication> refleje el mismo nombre escrito, exactamente como lo declarado en el Centro de Editores. Es sensible a las mayúsculas.
+
+-   No sustituyen a los sitemaps generales.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTY0OTM1NF19
+eyJoaXN0b3J5IjpbLTYwMzYxNzg0OF19
 -->
