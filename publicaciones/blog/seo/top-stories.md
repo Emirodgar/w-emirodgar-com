@@ -12,9 +12,9 @@ permalink: top-stories
 
 --- 
 
-Google dispone de un resultado específico para mostrar, de forma destacada, artículos de act que considere relevantes para la búsqueda que el usuario está realizando.
+Google dispone de un resultado específico para mostrar, de forma destacada en la mitad superior de los resultados, artículos de actualidad que considere relevantes para la búsqueda que el usuario está realizando.
 
-Se trata de un **bloque de artículos** relevantes para la búsqueda del usuario que aparece en la mitad superior de la página de resultados. **No tienen por qué ser solamente noticias de medios de comunicación generalistas** las que aparecen aquí; también son susceptibles de aparecer **artículos de medios especializados y de blogs**:
+Se trata de un **bloque de artículos destacados** que no tienen que ser noticias de medios de comunicación que aparece en la mitad superior de la página de resultados. **No tienen por qué ser solamente noticias de medios de comunicación generalistas** las que aparecen aquí; también son susceptibles de aparecer **artículos de medios especializados y de blogs**:
 
 **Lo básico:**
 
@@ -36,5 +36,5 @@ Se trata de un **bloque de artículos** relevantes para la búsqueda del usuario
 
 -   No sustituyen a los sitemaps generales.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzYxNzg0OF19
+eyJoaXN0b3J5IjpbMTE2ODQ0MzA0MV19
 -->
