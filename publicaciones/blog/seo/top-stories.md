@@ -22,12 +22,14 @@ Lo más importante es generar contenidos con una frecuencia estable y que estos 
 A modo de *checklist* debemos cumplir lo siguiente:
 
 -   Buena frecuencia de publicación de contenidos.
--   Darnos de alta en el  [Publisher Center](https://publishercenter.google.com/publications) de Google y esperar un par de sema.
--   Esperar unas dos / tres semanas para que Google nos acepte.
+-   Darnos de alta en el  [Publisher Center](https://publishercenter.google.com/publications) de Google y esperar un par de semanas a que Google nos acepte.
 -   **Crear y subir un Feed RSS**  con los contenidos.
 -   Tener  **versiones AMP**  de todos los contenidos / posts.
 -   Incluir  **dados estruturados** "News Article" / "Article"  
     
+## ¿Qué hacer si somos un medio de comunicación?
+
+En el caso de los periódicos online -donde existe una gran frecuencia de publicación- se recomienda, a mayores de lo anterior, cumplir con los siguientes requisitos:
 
 **Para medios**  (con gran frecuencia de publicación) además de todo lo indicado anteriormente,  **añadir los sitemaps.xml**, que deben cumplir varios requisitos:
 
@@ -39,5 +41,5 @@ A modo de *checklist* debemos cumplir lo siguiente:
 
 -   No sustituyen a los sitemaps generales.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk4ODYwNjhdfQ==
+eyJoaXN0b3J5IjpbMjA4OTcyNzM0MV19
 -->
