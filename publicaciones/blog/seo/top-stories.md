@@ -14,12 +14,15 @@ permalink: top-stories
 
 Google dispone de un resultado específico para mostrar, de forma destacada, artículos de actualidad que considere relevantes para la búsqueda que el usuario está realizando. Aquí no sólo aparecerán noticias de medios de comunicación (periódicos online) sino que también podrán aparecer artículos de páginas especializadas o blogs.
 
-Se trata de un **bloque de artículos** que aparece en la mitad superior de la página de resultados. **No tienen por qué ser solamente noticias de medios de comunicación generalistas** las que aparecen aquí; también son susceptibles de aparecer **artículos de medios especializados y de blogs**:
 
-**Lo básico:**
+## ¿Cómo aparecer en las Top Stories?
 
--   Obviamente, lo primero es contar con una buena frecuencia de publicación de contenidos.
--   Darnos de alta en el  [Publisher Center](https://publishercenter.google.com/publications) de Google.
+Lo más importante es generar contenidos con una frecuencia estable y que estos dispongan de una calidad alta (es decir, que los usuarios que nos visitan desde Google no reboten con frecuencia).
+
+A modo de *checklist* debemos cumplir lo siguiente:
+
+-   Buena frecuencia de publicación de contenidos.
+-   Darnos de alta en el  [Publisher Center](https://publishercenter.google.com/publications) de Google y esperar un par de sema.
 -   Esperar unas dos / tres semanas para que Google nos acepte.
 -   **Crear y subir un Feed RSS**  con los contenidos.
 -   Tener  **versiones AMP**  de todos los contenidos / posts.
@@ -36,5 +39,5 @@ Se trata de un **bloque de artículos** que aparece en la mitad superior de la p
 
 -   No sustituyen a los sitemaps generales.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODgxNTYxNV19
+eyJoaXN0b3J5IjpbLTEzODk4ODYwNjhdfQ==
 -->
