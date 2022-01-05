@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 ¿Quieres **vender más** a través de tu web? ¿quieres ser el **líder digital** de tu sector?  
-Sea cual sea tu necesidad encontraremos una solución SEO que nos permita incrementar la captación de tráfico y ventas.
+Sea cual sea tu necesidad encontraremos una **solución SEO** que nos permita incrementar la captación de tráfico y ventas.
 
 Mi nombre es Emilio Rodríguez y llevo trabajando en SEO desde el año 2007. He sido director en dos agencias internacionales y trabajado en más de un centenar de proyectos digitales para grandes empresas en múltiples mercados.
 
@@ -92,8 +92,8 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkyMDc1NzQsLTkzNjgzNjk2NywxOT
-M1MzU2MzY3LDc4MTk0NjYyMiwyMDE4NTk3MjEsMzA4NDQwNjg4
-LDQ3OTE1NTcxOCwxNDk5NTExNTY5LC0xMDU4NTc5MDgzLC0xMj
-Q3ODQ5OTMwXX0=
+eyJoaXN0b3J5IjpbMTIwODM2NjEyMiwtMjA3OTIwNzU3NCwtOT
+M2ODM2OTY3LDE5MzUzNTYzNjcsNzgxOTQ2NjIyLDIwMTg1OTcy
+MSwzMDg0NDA2ODgsNDc5MTU1NzE4LDE0OTk1MTE1NjksLTEwNT
+g1NzkwODMsLTEyNDc4NDk5MzBdfQ==
 -->
