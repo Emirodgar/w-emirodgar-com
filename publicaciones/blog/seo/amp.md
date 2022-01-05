@@ -52,7 +52,7 @@ Un código básico para generar nuestra primera versión AMP será el siguiente:
       </body>
     </html>
 
-Lo que necesitamos hacer es identificar nuestra página como contenido AMP y para ello se utiliza el término `amp` en la etiqueta `html` y, además, debemos cargar la librería JavaScript de AMP.
+Lo que necesitamos hacer es identificar nuestra página como contenido AMP y para ello se utiliza el término `amp` en la etiqueta `html` y, además, debemos cargar la librería JavaScript de AMP. A través de JavaScript podríamos también [conocer si una URL es AMP o no](https://emirodgar.com/javascript-detectar-amp).
 
     <html amp>
     <script async src="https://cdn.ampproject.org/v0.js"></script>
@@ -66,7 +66,8 @@ En el caso de que tengamos ambas versiones, en la página original tendremos que
     <link rel="amphtml" href="https://ejemplo.com/pagina-amp">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5ODAzODE3LDE3MDMwNjg5NzksNzgwMT
-c0MzM2LC0yNTg1OTYyNDcsLTM2MDAxNTg2MywyNDM2MDk5NTks
-LTE1NjAyODc5NzcsMjEwMjUwNzc2NCwtMTM4MDc2MjQ4NF19
+eyJoaXN0b3J5IjpbLTM0MjQyMzQxMiwxNzAzMDY4OTc5LDc4MD
+E3NDMzNiwtMjU4NTk2MjQ3LC0zNjAwMTU4NjMsMjQzNjA5OTU5
+LC0xNTYwMjg3OTc3LDIxMDI1MDc3NjQsLTEzODA3NjI0ODRdfQ
+==
 -->
