@@ -43,9 +43,9 @@ Un código básico para generar nuestra primera versión AMP será el siguiente:
         <meta charset="utf-8">
         <script async src="https://cdn.ampproject.org/v0.js"></script>
         <title>Mi primera web AMP</title>
-        <link rel="canonical" href="https://ejemplo.com/pagina-original">
+        <link rel="canonical" href="https://www.miweb.com">
         <meta name="viewport" content="width=device-width">
-        <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+        <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
       </head>
       <body>
         <h1>Prueba AMP</h1>
@@ -66,7 +66,8 @@ En el caso de que tengamos ambas versiones, en la página original tendremos que
     <link rel="amphtml" href="https://ejemplo.com/pagina-amp">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MDczMDM1LDE3MDMwNjg5NzksNzgwMT
-c0MzM2LC0yNTg1OTYyNDcsLTM2MDAxNTg2MywyNDM2MDk5NTks
-LTE1NjAyODc5NzcsMjEwMjUwNzc2NCwtMTM4MDc2MjQ4NF19
+eyJoaXN0b3J5IjpbLTY5NTA4NzkyOCwxNzAzMDY4OTc5LDc4MD
+E3NDMzNiwtMjU4NTk2MjQ3LC0zNjAwMTU4NjMsMjQzNjA5OTU5
+LC0xNTYwMjg3OTc3LDIxMDI1MDc3NjQsLTEzODA3NjI0ODRdfQ
+==
 -->
