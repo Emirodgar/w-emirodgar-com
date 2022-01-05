@@ -48,7 +48,7 @@ Estos son algunos de los clientes para los que he trabajado a lo largo de los ú
 
 ## ¿Por qué hacer SEO con nosotros?
 
-Para empezar, porque soy salmantino y desarrollo mis estrategias SEO desde Salamanca. La comunicación del proyecto será mucho más sencilla si todos vivimos en el mismo lugar.
+Para empezar, porque soy salmantino y llevo desarrollando estrategias de posicionamiento web en Salamanca desde hace muchos años. La comunicación del proyecto será mucho más sencilla si todos vivimos en el mismo lugar.
 
 Segundo, porque desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada necesidad, existe una  **solución SEO**  adecuada. La experiencia y profesionalidad son garantía de calidad.
 
@@ -76,7 +76,7 @@ Sé el líder digital de tu sector.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODI2MTQ4LC0xMzA2OTk1MzcwLC04MD
-I5ODk5OTIsLTE5ODAxOTE3MDIsOTY2MDE0OTY3LC0yNDc2MjI4
-NjIsMjA2NzU5ODU4N119
+eyJoaXN0b3J5IjpbMTQ1MDYzMDA4OCwtMTMwNjk5NTM3MCwtOD
+AyOTg5OTkyLC0xOTgwMTkxNzAyLDk2NjAxNDk2NywtMjQ3NjIy
+ODYyLDIwNjc1OTg1ODddfQ==
 -->
