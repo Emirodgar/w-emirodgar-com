@@ -7,7 +7,8 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
-folder: seo2
+folder: seo
+conversion: seo-tecnico
 permalink: amp
 
 --- 
@@ -65,7 +66,7 @@ En el caso de que tengamos ambas versiones, en la página original tendremos que
     <link rel="amphtml" href="https://ejemplo.com/pagina-amp">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODU5NjI0NywtMzYwMDE1ODYzLDI0Mz
-YwOTk1OSwtMTU2MDI4Nzk3NywyMTAyNTA3NzY0LC0xMzgwNzYy
-NDg0XX0=
+eyJoaXN0b3J5IjpbNzgwMTc0MzM2LC0yNTg1OTYyNDcsLTM2MD
+AxNTg2MywyNDM2MDk5NTksLTE1NjAyODc5NzcsMjEwMjUwNzc2
+NCwtMTM4MDc2MjQ4NF19
 -->
