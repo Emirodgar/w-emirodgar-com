@@ -57,7 +57,7 @@ Lo que necesitamos hacer es identificar nuestra página como contenido AMP y par
     <html amp>
     <script async src="https://cdn.ampproject.org/v0.js"></script>
 
-En el caso de que sea una versión AMP de una página existente en otra tecnología que no es AMP necesitamos incluir la [etiqueta canonical](https://emirodgar.com/etiqueta-canonica) para que los buscadores sepan cuál es su equivalente. Si todo nuestro sitio es AMP no sería necesario aplicarla.
+En el caso de que exista una versión no AMP de la página necesitamos incluir la [etiqueta canonical](https://emirodgar.com/etiqueta-canonica) para que los buscadores sepan cuál es su equivalente. Si todo nuestro sitio es AMP no sería necesario aplicarla.
 
     <link rel="canonical" href="https://ejemplo.com/">
 
@@ -66,8 +66,8 @@ En el caso de que tengamos ambas versiones, en la página original tendremos que
     <link rel="amphtml" href="https://ejemplo.com/pagina-amp">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE4NDc5NzYsLTM0MjQyMzQxMiwxNz
-AzMDY4OTc5LDc4MDE3NDMzNiwtMjU4NTk2MjQ3LC0zNjAwMTU4
-NjMsMjQzNjA5OTU5LC0xNTYwMjg3OTc3LDIxMDI1MDc3NjQsLT
-EzODA3NjI0ODRdfQ==
+eyJoaXN0b3J5IjpbOTY3MDczNTYsLTEzNzE4NDc5NzYsLTM0Mj
+QyMzQxMiwxNzAzMDY4OTc5LDc4MDE3NDMzNiwtMjU4NTk2MjQ3
+LC0zNjAwMTU4NjMsMjQzNjA5OTU5LC0xNTYwMjg3OTc3LDIxMD
+I1MDc3NjQsLTEzODA3NjI0ODRdfQ==
 -->
