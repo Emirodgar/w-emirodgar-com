@@ -20,7 +20,7 @@ Se trata de un uso optimizado de elementos HTML, JavaScript y CSS que facilitan 
 Para lograrlo este framework se basa en los siguientes puntos:
 
 - Ejecución asíncrona del código JavaScript
-- Dimensión estática de todos los recursos (imágenes, anuncios, iframes, etc)
+- Versión estática de todos los recursos (imágenes, anuncios, iframes, etc)
 - No permite scripts que bloqueen la renderización
 - Cualquier código JavaScript externo queda fuera de la ruta crítica de ejecución
 - Los códigos CSS están integrados en la página y tienen un tamaño máximo
@@ -66,8 +66,8 @@ En el caso de que tengamos ambas versiones, en la página original tendremos que
     <link rel="amphtml" href="https://ejemplo.com/pagina-amp">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3MDczNTYsLTEzNzE4NDc5NzYsLTM0Mj
-QyMzQxMiwxNzAzMDY4OTc5LDc4MDE3NDMzNiwtMjU4NTk2MjQ3
-LC0zNjAwMTU4NjMsMjQzNjA5OTU5LC0xNTYwMjg3OTc3LDIxMD
-I1MDc3NjQsLTEzODA3NjI0ODRdfQ==
+eyJoaXN0b3J5IjpbLTI2NTM5NDM5MCw5NjcwNzM1NiwtMTM3MT
+g0Nzk3NiwtMzQyNDIzNDEyLDE3MDMwNjg5NzksNzgwMTc0MzM2
+LC0yNTg1OTYyNDcsLTM2MDAxNTg2MywyNDM2MDk5NTksLTE1Nj
+AyODc5NzcsMjEwMjUwNzc2NCwtMTM4MDc2MjQ4NF19
 -->
