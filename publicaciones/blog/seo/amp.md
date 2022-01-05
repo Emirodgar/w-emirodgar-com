@@ -33,7 +33,7 @@ Para lograrlo este framework se basa en los siguientes puntos:
 
 Lo primero que tenemos que tener claro es si nuestra página va a ser AMP o si vamos a generar una versión AMP de la ya existente. 
 
-Ambas aproximaciones son válidas y la única diferencia es que en el segundo caso tendremos que incluir unas cabeceras para que los buscadores entiendan la relación entre la versión normal de la página y la versión AMP.
+Ambas aproximaciones son válidas y la única diferencia es que en el segundo caso tendremos que incluir las cabeceras `canonical` y `amphtml` para que los buscadores entiendan la relación entre la versión normal de la página y la versión AMP.
 
 Un código básico para generar nuestra primera versión AMP será el siguiente:
 
@@ -66,7 +66,7 @@ En el caso de que tengamos ambas versiones, en la página original tendremos que
     <link rel="amphtml" href="https://ejemplo.com/pagina-amp">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwMTc0MzM2LC0yNTg1OTYyNDcsLTM2MD
-AxNTg2MywyNDM2MDk5NTksLTE1NjAyODc5NzcsMjEwMjUwNzc2
-NCwtMTM4MDc2MjQ4NF19
+eyJoaXN0b3J5IjpbMTcwMzA2ODk3OSw3ODAxNzQzMzYsLTI1OD
+U5NjI0NywtMzYwMDE1ODYzLDI0MzYwOTk1OSwtMTU2MDI4Nzk3
+NywyMTAyNTA3NzY0LC0xMzgwNzYyNDg0XX0=
 -->
