@@ -19,7 +19,7 @@ Este comportamiento sólo ocurre en el navegador de cliente por lo que a ojos de
 
 ## Los problemas para indexar AJAX
 
-Con la proliferación de AJAX surgió la necesidad de hacer indexables ciertas aplicaciones/webs que se cargaban únicamente desde una URL (algo similar a lo que hace ahora Angular).
+Con la proliferación de AJAX (*Asynchronous JavaScript and XML*) surgió la necesidad de hacer indexables ciertas aplicaciones/webs que se cargaban únicamente desde una URL (algo similar a lo que hace ahora Angular).
 
 En este escenario y para avanzar con la [indexación de JavaScript](https://developers.google.com/search/docs/advanced/javascript/javascript-seo-basics), Google abrió la puerta a utilizar `#` para poder informar al robot de búsqueda de nuevas "**páginas virtuales**".
 
@@ -39,6 +39,6 @@ Sea como sea, es una herramienta útil que nos puede ayudar a que los buscadores
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4MDE5ODY5LDEwNjA0NjM4OTMsLTEyNz
-E1MTg0NDVdfQ==
+eyJoaXN0b3J5IjpbOTg5NDcwMSw3NjgwMTk4NjksMTA2MDQ2Mz
+g5MywtMTI3MTUxODQ0NV19
 -->
