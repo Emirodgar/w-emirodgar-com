@@ -15,7 +15,7 @@ Según las [recomendaciones de la W3C](https://www.w3.org/Addressing/URL/4_URI_R
 
 Por ejemplo, si queremos enlazar a la página de `/razas-de-perros` y queremos llevar al usuario directamente a la raza Caniche, tendríamos que hacerlo de la siguiente manera: `/razas-de-perros#caniche`.
 
-Este comportamiento sólo ocurre en el navegador de cliente por lo que a ojos del servidor web es irrelevante.En un principio Google se alineó con la W3C y fue claro al indicar que los fragmentos de URLs **no serían tenidos en cuenta en sus rastreos y posteriores análisis** ya que no los consideraba parte de la petición HTTP.
+Este comportamiento sólo ocurre en el navegador de cliente por lo que a ojos del servidor web es irrelevante. En un principio Google se alineó con la W3C y fue claro al indicar que los fragmentos de URLs **no serían tenidos en cuenta en sus rastreos y posteriores análisis** ya que no los consideraba parte de la petición HTTP.
 
 ## Los problemas para indexar AJAX
 
@@ -39,5 +39,6 @@ Sea como sea, es una herramienta útil que nos puede ayudar a que los buscadores
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDQ2Mzg5MywtMTI3MTUxODQ0NV19
+eyJoaXN0b3J5IjpbNzY4MDE5ODY5LDEwNjA0NjM4OTMsLTEyNz
+E1MTg0NDVdfQ==
 -->
