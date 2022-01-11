@@ -27,6 +27,10 @@ Tras más de 15 años en el sector actualmente trabajo como Director SEO en la a
 He participado en el desarrollo de estrategias para grandes empresas como Movistar, Acciona, FNAC, RACE, Vitaldent, Midas, Segundamano, Grupo Parques Reunidos y Hofmann; destaco la experiencia en el sector turismo con Meliá Hoteles, Rumbo y Barceló Hoteles entre otros.
   
 He sido ponente en los eventos Ecommbrunch y SearchCongress y jurado en los Premios Nacionales eCommerce.
+
+## Enlaces
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc4NTQwODddfQ==
+eyJoaXN0b3J5IjpbLTcxNDgyNTQ3NF19
 -->
