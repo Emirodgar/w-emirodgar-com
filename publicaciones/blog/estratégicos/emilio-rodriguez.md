@@ -22,8 +22,11 @@ Al encontrar una gran motivación en el desarrollo de estrategias digitales, alg
   
 ## Experiencia SEO
   
+Tras más de 6 años como [consultor SEO](https://emirodgar.com/consultor-seo) pasé a dirigir el departamento SEO de Internet Advantage.
 
-Tras más de 15 años en el sector actualmente trabajo como Director SEO en la agencia de Marketing Digital, Smartup. Compagino este trabajo dando clases en el programa **Big Data y Business Intelligence** de la Universidad de Deusto, en el **Máster de Marketing Digital** de la Universidad de Salamanca y como asesor homologado de **ICEX España** (Instituto Español de Comercio Exterior).  
+Actualmente, con más de 15 años en el sector, trabajo como Director SEO en la agencia de Marketing Digital, Smartup. 
+
+Compagino este trabajo dando clases en el programa **Big Data y Business Intelligence** de la Universidad de Deusto, en el **Máster de Marketing Digital** de la Universidad de Salamanca y como asesor homologado de **ICEX España** (Instituto Español de Comercio Exterior).  
   
 He participado en el desarrollo de estrategias para grandes empresas como Movistar, Acciona, FNAC, RACE, Vitaldent, Midas, Segundamano, Grupo Parques Reunidos y Hofmann; destaco la experiencia en el sector turismo con Meliá Hoteles, Rumbo y Barceló Hoteles entre otros.
   
@@ -33,5 +36,5 @@ He sido ponente en los eventos Ecommbrunch y SearchCongress y jurado en los Prem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjYyOTE5NSwtNzE0ODI1NDc0XX0=
+eyJoaXN0b3J5IjpbLTEwMjY4OTA3NjMsLTcxNDgyNTQ3NF19
 -->
