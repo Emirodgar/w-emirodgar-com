@@ -33,9 +33,13 @@ Compagino este trabajo dando clases en el programa **Big Data y Business Intelli
   
 He participado en el desarrollo de estrategias para grandes empresas como Movistar, Acciona, FNAC, RACE, Vitaldent, Midas, Segundamano, Grupo Parques Reunidos y Hofmann; destaco la experiencia en el sector turismo con Meliá Hoteles, Rumbo y Barceló Hoteles entre otros.
 
+## Enlaces
+
+Puedes saber más de mí a través de mi perfil de Twitter. También echo una mano en los foros de Webmasters Stack Exchange ayudando 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzQyOTY1LDE3Njk0ODg1NywtODk1OD
-Q0Nzg0LC03MTQ4MjU0NzRdfQ==
+eyJoaXN0b3J5IjpbMTIwMDQ0OTA1OCwxNzY5NDg4NTcsLTg5NT
+g0NDc4NCwtNzE0ODI1NDc0XX0=
 -->
