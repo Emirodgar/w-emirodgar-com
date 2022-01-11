@@ -23,9 +23,9 @@ También he colaborado como profesor en los centros de negocios de C2B (Campus 2
   
 ## Evolución SEO
   
-Tras más de 6 años como [consultor SEO](https://emirodgar.com/consultor-seo) pasé a dirigir el departamento SEO de Internet Advantage.
+Tras más de 6 años como [consultor SEO](https://emirodgar.com/consultor-seo) en Traffic4U pasé a dirigir el departamento SEO de la agencia internacional Internet Advantage.
 
-Actualmente, con más de 15 años en el sector, trabajo como Director SEO en la agencia de Marketing Digital, Smartup. 
+Actualmente, con más de 15 años en el sector, trabajo como Director SEO en la agencia de marketing digital, Smartup posicionando proyectos en España, Portugal, Colombia, Venezuela y México. 
 
 Compagino este trabajo dando clases en el programa **Big Data y Business Intelligence** de la Universidad de Deusto, en el **Máster de Marketing Digital** de la Universidad de Salamanca y como asesor homologado de **ICEX España** (Instituto Español de Comercio Exterior).  
 
@@ -40,6 +40,6 @@ Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDc0MzQ3NiwxNzY5NDg4NTcsLTg5NT
-g0NDc4NCwtNzE0ODI1NDc0XX0=
+eyJoaXN0b3J5IjpbLTY5Nzk5NTI3MCwxNzY0NzQzNDc2LDE3Nj
+k0ODg1NywtODk1ODQ0Nzg0LC03MTQ4MjU0NzRdfQ==
 -->
