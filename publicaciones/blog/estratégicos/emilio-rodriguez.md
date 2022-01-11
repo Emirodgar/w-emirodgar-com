@@ -9,7 +9,6 @@ folder: estrategicos
 layout: emirodgar_post
 permalink: emilio-rodriguez
 
-
 ---
 
 Mi nombre es Emilio Rodríguez y me acerqué al maravilloso mundo del SEO en 2007. Deja que te cuente un poco cómo ha sido el proceso para que puedas conocer mejor quién está detrás de esta página.
@@ -37,6 +36,6 @@ He participado en el desarrollo de estrategias para grandes empresas como Movist
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTQ4ODU3LC04OTU4NDQ3ODQsLTcxND
-gyNTQ3NF19
+eyJoaXN0b3J5IjpbLTc1NzQyOTY1LDE3Njk0ODg1NywtODk1OD
+Q0Nzg0LC03MTQ4MjU0NzRdfQ==
 -->
