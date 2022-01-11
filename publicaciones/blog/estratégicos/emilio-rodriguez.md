@@ -20,8 +20,9 @@ Al mismo tiempo que estudiaba la carrera (**Ingeniería Informática Superior**)
   
 Al encontrar una gran motivación en el desarrollo de estrategias digitales, algo que inicié con mis proyectos personales en 2007, comencé a trabajar como consultor SEO en Traffic4u en el año 2009. Continué mi formación en este sector cursando el **Máster en Desarrollo de Sistemas para el Comercio Electrónico** de la Universidad de Salamanca y obteniendo las certificaciones de **Google Analytics**, **MobileExperts** y **Webtrekk**.  
   
-## Director SEO
+## Experiencia SEO
   
+
 Tras más de 15 años en el sector actualmente trabajo como Director SEO en la agencia de Marketing Digital, Smartup. Compagino este trabajo dando clases en el programa **Big Data y Business Intelligence** de la Universidad de Deusto, en el **Máster de Marketing Digital** de la Universidad de Salamanca y como asesor homologado de **ICEX España** (Instituto Español de Comercio Exterior).  
   
 He participado en el desarrollo de estrategias para grandes empresas como Movistar, Acciona, FNAC, RACE, Vitaldent, Midas, Segundamano, Grupo Parques Reunidos y Hofmann; destaco la experiencia en el sector turismo con Meliá Hoteles, Rumbo y Barceló Hoteles entre otros.
@@ -32,5 +33,5 @@ He sido ponente en los eventos Ecommbrunch y SearchCongress y jurado en los Prem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDgyNTQ3NF19
+eyJoaXN0b3J5IjpbMTMyMjYyOTE5NSwtNzE0ODI1NDc0XX0=
 -->
