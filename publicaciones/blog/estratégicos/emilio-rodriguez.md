@@ -33,7 +33,9 @@ Compagino este trabajo dando clases en el programa **Big Data y Business Intelli
   
 He participado en el desarrollo de estrategias para grandes empresas como Movistar, Acciona, FNAC, RACE, Vitaldent, Midas, Segundamano, Grupo Parques Reunidos y Hofmann; destaco la experiencia en el sector turismo con Meliá Hoteles, Rumbo y Barceló Hoteles entre otros.
 
-## SEO Grow
+## SEO Growth hacker
+
+La tecnología siempre ha sido un pilar fundamenteal en mis estrategias SEO. Durante estos años he desarrollado la extensión SEO para Wordpress Automatic SEO Links (ya no está activa) con cerca de 100.000 descargas,  
 
 ## Enlaces
 
@@ -42,7 +44,7 @@ Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDI3MzIyMCwtNjk3OTk1MjcwLDE3Nj
+eyJoaXN0b3J5IjpbMjA0NDE5MzE3OCwtNjk3OTk1MjcwLDE3Nj
 Q3NDM0NzYsMTc2OTQ4ODU3LC04OTU4NDQ3ODQsLTcxNDgyNTQ3
 NF19
 -->
