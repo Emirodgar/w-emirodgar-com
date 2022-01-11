@@ -35,11 +35,12 @@ He participado en el desarrollo de estrategias para grandes empresas como Movist
 
 ## Enlaces
 
-Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com/emirodgar) o [LinkedIn](https://www.linkedin.com/in/emirodgar/). También echo una mano en los foros de Webmasters Stack Exchange ayudando desinteresadamente en SEO y Analítica; aquí puedes [ver mi perfil](https://webmasters.stackexchange.com/users/86914/emirodgar).
+Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com/emirodgar) o [LinkedIn](https://www.linkedin.com/in/emirodgar/). También echo una mano en los foros de Webmasters Stack Exchange (perfil) y Quora ([perfil](https://es.quora.com/profile/Emilio-Rodr%C3%ADguez-1)) ayudando en SEO y Analítica.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Nzk5NTI3MCwxNzY0NzQzNDc2LDE3Nj
-k0ODg1NywtODk1ODQ0Nzg0LC03MTQ4MjU0NzRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjIxNDk3NzksLTY5Nzk5NTI3MCwxNz
+Y0NzQzNDc2LDE3Njk0ODg1NywtODk1ODQ0Nzg0LC03MTQ4MjU0
+NzRdfQ==
 -->
