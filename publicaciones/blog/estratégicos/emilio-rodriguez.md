@@ -35,7 +35,7 @@ He participado en el desarrollo de estrategias para grandes empresas como Movist
 
 ## SEO Growth hacker
 
-La tecnología siempre ha sido un pilar fundamenteal en mis estrategias SEO. Durante estos años he desarrollado la extensión SEO para Wordpress [Automatic SEO Links](https://wordpress.org/plugins/automatic-seo-links/advanced/) con cerca de 100.000 descargas (ya no está activa),  
+La tecnología siempre ha sido un pilar fundamenteal en mis estrategias SEO. Durante estos años he desarrollado la extensión SEO para Wordpress [Automatic SEO Links](https://wordpress.org/plugins/automatic-seo-links/advanced/) con cerca de 100.000 descargas (ya no está activa), la extensión [Emirodgar SEO](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para Chrome y  
 
 ## Enlaces
 
@@ -44,7 +44,7 @@ Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQzMzg0NjQsLTY5Nzk5NTI3MCwxNz
-Y0NzQzNDc2LDE3Njk0ODg1NywtODk1ODQ0Nzg0LC03MTQ4MjU0
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTQ1OTEwNTY2OSwtMTE2NDMzODQ2NCwtNj
+k3OTk1MjcwLDE3NjQ3NDM0NzYsMTc2OTQ4ODU3LC04OTU4NDQ3
+ODQsLTcxNDgyNTQ3NF19
 -->
