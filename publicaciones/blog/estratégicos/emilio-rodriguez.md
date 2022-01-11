@@ -33,12 +33,10 @@ Compagino este trabajo dando clases en el programa **Big Data y Business Intelli
 ## Experiencia SEO
   
 He participado en el desarrollo de estrategias para grandes empresas como Movistar, Acciona, FNAC, RACE, Vitaldent, Midas, Segundamano, Grupo Parques Reunidos y Hofmann; destaco la experiencia en el sector turismo con Meliá Hoteles, Rumbo y Barceló Hoteles entre otros.
-  
 
-
-## Enlaces
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTg0NDc4NCwtNzE0ODI1NDc0XX0=
+eyJoaXN0b3J5IjpbMTc2OTQ4ODU3LC04OTU4NDQ3ODQsLTcxND
+gyNTQ3NF19
 -->
