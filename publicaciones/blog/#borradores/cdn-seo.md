@@ -23,6 +23,8 @@ El objetivo de estos sistemas es por tanto mejorar el rendimiento y la experienc
 
 El [tiempo de carga de una web](https://emirodgar.com/mejorar-tiempo-carga-web) es un [factor SEO](https://emirodgar.com/factores-seo) por lo que el hecho de que un CDN lo mejore ya es un punto a nuestro favor.
 
+Los tiempos de carga deberían disminuir ya que los servidores están más cerca de sus visitantes geográficamente y emplean el almacenamiento en caché, por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, y como señalábamos antes, eso enviará una señal positiva a Google.
+
 ### Mejor estabilidad
 
 A mayores, los CDN nos ayudan a mantener nuestra página siempre operativa ya que aunque el servidor de origen falle, estos ofrecerán a los usuarios una copia de nuestra web dándonos tiempo para que volvamos a tener el servidor en pie. El hecho de evitar caídas ofrece estabilidad, lo cuál también es apreciado por Google.
@@ -35,15 +37,11 @@ Una última ventaja asociada a utilizar un CDN en nuestro proyecto web será la 
 
 Las CDN sólo cambian la dirección IP de nuestro sitio a través del DNS para que apunte a los servidores del nodo regional, no cambian los nombres de dominio ni las URL, por lo que ni los usuarios ni los motores de búsqueda verán ninguna diferencia. Por ejemplo, podríamos usar un CDN para las imágenes de nuestro sitio bajo el subdominio `img.emirodgar.com`.
 
-Los tiempos de carga deberían disminuir ya que los servidores están más cerca de sus visitantes geográficamente y emplean el almacenamiento en caché, por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, y como señala Emirodgar, eso enviará una señal positiva a Google
-
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
-
 
 ## ¿Qué CDN debo usar?
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODE5MTQyNSwtMjk3Nzc3MTEsLTEwND
-Y4ODMxODVdfQ==
+eyJoaXN0b3J5IjpbLTEzNjIwNDE5NDUsLTI5Nzc3NzExLC0xMD
+Q2ODgzMTg1XX0=
 -->
