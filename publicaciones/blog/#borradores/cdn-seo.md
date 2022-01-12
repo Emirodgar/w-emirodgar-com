@@ -19,7 +19,13 @@ El objetivo de estos sistemas es por tanto mejorar el rendimiento y la experienc
 
 ## ¿Cómo afecta al SEO?
 
-El [tiempo de carga de una web](https://emirodgar.com/mejorar-tiempo-carga-web) es un factor SEO por lo que el hecho de que un CDN lo mejore ya es un punto a nuestro favor.
+El [tiempo de carga de una web](https://emirodgar.com/mejorar-tiempo-carga-web) es un [factor SEO](https://emirodgar.com/factores-seo) por lo que el hecho de que un CDN lo mejore ya es un punto a nuestro favor.
+
+A mayores, los CDN aseguran
+
+## ¿Qué CDN debo usar?
+
+Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjExMTA2LC0xMDQ2ODgzMTg1XX0=
+eyJoaXN0b3J5IjpbMTkyMjM0MTA4MywtMTA0Njg4MzE4NV19
 -->
