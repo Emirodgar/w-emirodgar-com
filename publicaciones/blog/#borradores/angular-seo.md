@@ -17,8 +17,8 @@ Angular Universal
 
 Prerender.io
 
-versión AMP. Si no somos capaces de hacerlo con Angular, hagámoslo a través de un sub 
+versión AMP. Si no somos capaces de hacerlo con Angular, hagámoslo a través de un subdominio 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxOTQ0NTg4XX0=
+eyJoaXN0b3J5IjpbMTM0MjExMjM2OV19
 -->
