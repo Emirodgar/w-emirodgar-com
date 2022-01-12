@@ -34,6 +34,7 @@ Una última ventaja asociada a utilizar un CDN en nuestro proyecto web será la 
 ## ¿Qué pasa si uso un DNS sólo para las imágenes?
 
 Las CDN sólo cambian la dirección IP de nuestro sitio a través del DNS para que apunte a los servidores del nodo regional, no cambian los nombres de dominio ni las URL, por lo que ni los usuarios ni los motores de búsqueda verán ninguna diferencia. Por ejemplo, podríamos usar un CDN para las imágenes de nuestro sitio bajo el subdominio `img.emirodgar.com`.
+
 Los tiempos de carga deberían disminuir ya que los servidores están más cerca de sus visitantes geográficamente y emplean el almacenamiento en caché, por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, y como señala Emirodgar, eso enviará una señal positiva a Google
 
 Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
@@ -43,5 +44,6 @@ Traducción realizada con la versión gratuita del traductor www.DeepL.com/Trans
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Nzc3NzExLC0xMDQ2ODgzMTg1XX0=
+eyJoaXN0b3J5IjpbLTc0ODE5MTQyNSwtMjk3Nzc3MTEsLTEwND
+Y4ODMxODVdfQ==
 -->
