@@ -29,12 +29,18 @@ A mayores, los CDN nos ayudan a mantener nuestra página siempre operativa ya qu
 
 ### Página más segura
 
-Una última ventaja asociada a utilizar un CDN en nuestro proyecto web será la seguridad. Podemos entender el uso de esta red como un cortafuegos que nos ayuda, no sólo frente a los Ataque de denegación de servicio (DdosS) sino también para detectar potenc
+Una última ventaja asociada a utilizar un CDN en nuestro proyecto web será la seguridad. Podemos entender el uso de esta red como un cortafuegos que nos ayuda, no sólo frente a los Ataque de denegación de servicio (DdosS) sino también para detectar potenciales vulnerabilidades que pongan en riesgo nuestra página.
+
+## ¿Qué pasa si uso un DNS sólo para las imágenes?
+
+Las CDN sólo cambian la dirección IP de nuestro sitio a través del DNS para que apunte a los servidores del nodo regional, no cambian los nombres de dominio ni las URL, por lo que ni los usuarios ni los motores de búsqueda verán ninguna diferencia. Los tiempos de carga deberían disminuir ya que los servidores están más cerca de sus visitantes geográficamente y emplean el almacenamiento en caché, por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, y como señala Emirodgar, eso enviará una señal positiva a Google
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
+
 
 ## ¿Qué CDN debo usar?
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODIxNjgwNzUsLTEwNDY4ODMxODVdfQ
-==
+eyJoaXN0b3J5IjpbLTM0MTk0ODU3MywtMTA0Njg4MzE4NV19
 -->
