@@ -29,11 +29,12 @@ A mayores, los CDN nos ayudan a mantener nuestra página siempre operativa ya qu
 
 ### Página más segura
 
-Una última ventaja asociada a 
+Una última ventaja asociada a utilizar un CDN en nuestro proyecto web será la seguridad. Podemos entender el uso de esta red como un cortafuegos que nos ayuda, no sólo frente a los Ataque de denegación de servicio (DdosS) sino también para detectar potenc
 
 ## ¿Qué CDN debo usar?
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTgxODI3NSwtMTA0Njg4MzE4NV19
+eyJoaXN0b3J5IjpbLTIwODIxNjgwNzUsLTEwNDY4ODMxODVdfQ
+==
 -->
