@@ -31,7 +31,7 @@ Si lo queremos más fácil, podemos hacer uso de la herramienta [visitor blocker
 2. Seleccionar la versión de IP (Ipv4 o Ipv6)
 3. Seleccionar el servidor web (para generar el código adaptado al mismo)
 
-El código exportado deberemos añadirlo al final del archivo de configuración; en el caso de Apache será en el fichero .
+El código exportado deberemos añadirlo al final del archivo de configuración; en el caso de Apache será en el fichero `.htaccess`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODAwMjA4LC01NDg1MTM5NDBdfQ==
+eyJoaXN0b3J5IjpbLTE5MTY3Mzc3ODIsLTU0ODUxMzk0MF19
 -->
