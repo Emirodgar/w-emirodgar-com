@@ -7,6 +7,7 @@ sitemap: 1
 feed: 1
 folder: seo
 layout: emirodgar_post
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: cdn-seo
 
 ---
@@ -46,5 +47,5 @@ A efectos de Google, todo estará bajo el dominio `emirodgar.com` y las imágene
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA0NDk5MjZdfQ==
+eyJoaXN0b3J5IjpbMTUyNzM4MzEyOF19
 -->
