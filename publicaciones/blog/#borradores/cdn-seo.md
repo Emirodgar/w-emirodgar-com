@@ -21,9 +21,9 @@ El objetivo de estos sistemas es por tanto mejorar el rendimiento y la experienc
 
 ### Mejor tiempo de carga
 
-Los tiempos de carga deberían disminuir ya que los servidores están más cerca de nuestros visitantes geográficamente y emplean el almacenamiento en caché, por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, y como señalábamos antes, eso enviará una señal positiva a Google.
+Los [tiempos de carga](https://emirodgar.com/mejorar-tiempo-carga-web)  deberían disminuir ya que los servidores están más cerca de nuestros visitantes geográficamente y emplean el almacenamiento en caché (se guarda una copia de la página), por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, especialmente en dispositivos móviles.
 
-El [tiempo de carga de una web](https://emirodgar.com/mejorar-tiempo-carga-web) es un [factor SEO](https://emirodgar.com/factores-seo) por lo que el hecho de que un CDN lo mejore ya es un punto a nuestro favor.
+El tiempo de carga de una web por lo que el hecho de que un CDN lo mejore ya es un punto a nuestro favor.
 
 ### Mejor estabilidad
 
@@ -42,6 +42,6 @@ Las CDN sólo cambian la dirección IP de nuestro sitio a través del DNS para q
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTk4NDIxNywtMTM2MjA0MTk0NSwtMj
+eyJoaXN0b3J5IjpbMjAzOTg2NjkyMiwtMTM2MjA0MTk0NSwtMj
 k3Nzc3MTEsLTEwNDY4ODMxODVdfQ==
 -->
