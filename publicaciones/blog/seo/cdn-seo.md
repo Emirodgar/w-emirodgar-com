@@ -12,7 +12,7 @@ permalink: cdn-seo
 
 ---
 
-CDN corresponde a las siglas en inglés de *Content Delivery Network* que podríamos traducir a castellano como **Red de distribución de contenidos**.  Se trata por tanto de una red de ordenadores que facilitan la distribución de los contenidos de una página o aplicación web utilizando servidores geolocalizados en diversos puntos. 
+CDN corresponde a las siglas en inglés de *Content Delivery Network* que podríamos traducir a castellano como **Red de Distribución de Contenidos**.  Se trata por tanto de una red de ordenadores que facilitan la distribución de los contenidos de una página o aplicación web utilizando servidores geolocalizados en diversos puntos. 
 
 ![Emirodgar](https://i.imgur.com/lzH6nBd.png){:class="img-responsive"}
 
@@ -47,5 +47,5 @@ A efectos de Google, todo estará bajo el dominio `emirodgar.com` y las imágene
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzM4MzEyOF19
+eyJoaXN0b3J5IjpbLTUxMjkwOTg0LDE1MjczODMxMjhdfQ==
 -->
