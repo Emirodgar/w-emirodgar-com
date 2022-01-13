@@ -37,11 +37,13 @@ Una última ventaja asociada a utilizar un CDN en nuestro proyecto web será la 
 
 Los CDN sólo cambian la dirección IP de nuestro sitio a través del DNS para que apunte a los servidores del nodo regional, no cambian los nombres de dominio ni las URL, por lo que ni los usuarios ni los motores de búsqueda verán ninguna diferencia. Por ejemplo, nuestro dominio `www.emirodgar.com` puede estar alojado y funcionando en un servidor local y a mayores podríamos usar el subdominio `img.emirodgar.com` como CDN para las imágenes de nuestro sitio.
 
+A efectos de Google, todo estará bajo el dominio `emirodgar.com` y las imágenes del CDN aportarán valor a la estrategia SEO. 
+
 
 ## ¿Qué CDN debo usar?
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg0Njg0MjcsLTEzNjIwNDE5NDUsLT
-I5Nzc3NzExLC0xMDQ2ODgzMTg1XX0=
+eyJoaXN0b3J5IjpbNjMxMDY1NTY2LC0xMzYyMDQxOTQ1LC0yOT
+c3NzcxMSwtMTA0Njg4MzE4NV19
 -->
