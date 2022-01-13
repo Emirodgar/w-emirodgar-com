@@ -37,7 +37,7 @@ El código exportado deberemos añadirlo al final del archivo de configuración;
 
 Otra opción es extraer la IP del visitante en el momento de acceso a nuestra página web, obtener el país de forma dinámica a través de alguna API ([GeoPlugin](http://www.geoplugin.net), [IP-API](https://ip-api.com/), [IP registry](https://ipregistry.co/), etc) y aplicar una redirección evitando que el usuario pueda interactuar con nuestro sitio.
 
-Este proceso es más costoso a nivel de recursos que el anterior puesto que por cada petición
+Este proceso es más costoso que el anterior a nivel de recursos puesto que por cada petición de acceso tenemos que hacer una validación a través de un script. De la otra forma es el propio servidor quién hace la comprobación y además se ahorra el tiempo de conexión con la API.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTkxODk4NiwtNTQ4NTEzOTQwXX0=
+eyJoaXN0b3J5IjpbMTEzMDE2OTYyNywtNTQ4NTEzOTQwXX0=
 -->
