@@ -31,7 +31,17 @@ Si lo queremos más fácil, podemos hacer uso de la herramienta [visitor blocker
 2. Seleccionar la versión de IP (Ipv4 o Ipv6)
 3. Seleccionar el servidor web (para generar el código adaptado al mismo)
 
-El código exportado deberemos añadirlo al final del archivo de configuración; en el caso de Apache será en el fichero `.htaccess`.
+El código exportado deberemos añadirlo al final del archivo de configuración.
+Aunque dependerá del servidor que hayamos seleccionado, el código resultante será similar al siguiente:
+
+    <RequireAll>
+    Require all granted
+    Require not ip 5.0.1.0/24
+    Require not ip 5.0.2.0/23
+    Require not ip 5.0.8.0/21
+    Require not ip 5.0.32.0/19
+    Require not ip 5.1.0.0/24
+    Require not ip 5.1.2.0/23 
 
 ## Bloquear de forma dinámica
 
@@ -39,5 +49,5 @@ Otra opción es extraer la IP del visitante en el momento de acceso a nuestra p�
 
 Este proceso es más costoso que el anterior a nivel de recursos puesto que por cada petición de acceso tenemos que hacer una validación a través de un script. De la otra forma es el propio servidor quién hace la comprobación y además se ahorra el tiempo de conexión con la API.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDE2OTYyNywtNTQ4NTEzOTQwXX0=
+eyJoaXN0b3J5IjpbMTIxNTEyOTA3MywtNTQ4NTEzOTQwXX0=
 -->
