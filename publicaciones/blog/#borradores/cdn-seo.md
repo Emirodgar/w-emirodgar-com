@@ -25,6 +25,8 @@ Los [tiempos de carga](https://emirodgar.com/mejorar-tiempo-carga-web)  debería
 
 Mejorar la experiencia de los usuarios reduciendo el tiempo de acceso a una web es un [factor SEO](https://emirodgar.com/factores-seo) por lo que el hecho de que un CDN lo mejore ya es un punto a favor de la estrategia SEO.
 
+Esta cuestión a veces entra en conflicto con la geolocalización de una página. Es decir, si uso un CDN y las peticiones se sirven de forma descentralizada desde múltiples nodos geográficos, pierdo el valor SEO de que mi página esté ubicada en el país donde me quiero posicionar. Eso es así, pero como comentó Matt Cutts hace ya unos años en este vídeo, la geoloalización 
+
 ### Mejor estabilidad
 
 A mayores, los CDN nos ayudan a mantener nuestra página siempre operativa ya que aunque el servidor de origen falle, estos ofrecerán a los usuarios una copia de nuestra web (almacenada en caché) dándonos tiempo para que volvamos a tener el servidor en pie. El hecho de evitar caídas ofrece estabilidad, lo cuál también es apreciado por Google.
@@ -44,6 +46,6 @@ A efectos de Google, todo estará bajo el dominio `emirodgar.com` y las imágene
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMDY1NTY2LC0xMzYyMDQxOTQ1LC0yOT
-c3NzcxMSwtMTA0Njg4MzE4NV19
+eyJoaXN0b3J5IjpbNTIwODQxNTQzLDYzMTA2NTU2NiwtMTM2Mj
+A0MTk0NSwtMjk3Nzc3MTEsLTEwNDY4ODMxODVdfQ==
 -->
