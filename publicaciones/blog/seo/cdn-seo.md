@@ -12,7 +12,7 @@ permalink: cdn-seo
 
 ---
 
-CDN corresponde a las siglas en inglés de *Content Delivery Network* que podríamos traducir a castellano como **Red de Distribución de Contenidos**.  Se trata por tanto de una red de ordenadores que facilitan la distribución de los contenidos de una página o aplicación web utilizando servidores geolocalizados en diversos puntos. 
+CDN corresponde a las siglas en inglés de *Content Delivery Network* que podríamos traducir a castellano como **Red de Distribución de Contenidos**.  Se trata por tanto de una red de ordenadores que facilitan la distribución de los contenidos de una página o aplicación web utilizando servidores geolocalizados en diversos puntos del planeta. 
 
 ![Emirodgar](https://i.imgur.com/lzH6nBd.png){:class="img-responsive"}
 
@@ -22,7 +22,7 @@ El objetivo de estos sistemas es por tanto **mejorar el rendimiento y la experie
 
 ### Mejor tiempo de carga
 
-Los [tiempos de carga](https://emirodgar.com/mejorar-tiempo-carga-web)  deberían disminuir ya que los servidores están más cerca de nuestros visitantes geográficamente y emplean el almacenamiento en caché (guardan y sirven una copia de la página), por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, especialmente en dispositivos móviles.
+Los [tiempos de carga](https://emirodgar.com/mejorar-tiempo-carga-web)  deberían disminuir ya que los servidores están más cerca geográficamente de nuestros visitantes y además emplean el almacenamiento en caché (guardan y sirven una copia de la página), por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, especialmente en dispositivos móviles.
 
 **Mejorar la experiencia de los usuarios** reduciendo el tiempo de acceso a una web es un [factor SEO](https://emirodgar.com/factores-seo) por lo que el hecho de que un CDN lo mejore ya es **un punto a favor de la estrategia SEO**.
 
@@ -47,5 +47,5 @@ A efectos de Google, todo estará bajo el dominio `emirodgar.com` y las imágene
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjkwOTg0LDE1MjczODMxMjhdfQ==
+eyJoaXN0b3J5IjpbMTA0MTIxMzkyMSwxNTI3MzgzMTI4XX0=
 -->
