@@ -35,7 +35,7 @@ El código exportado deberemos añadirlo al final del archivo de configuración;
 
 ## Bloquear de forma dinámica
 
-Otra opción es extraer la IP del visitante en el momento de acceso a nuestra página web, obtener el país
+Otra opción es extraer la IP del visitante en el momento de acceso a nuestra página web, obtener el país de forma dinámica a través de alguna API ([geoPlugin](http://www.geoplugin.net), Ip-Api
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3ODMyNjczLC01NDg1MTM5NDBdfQ==
+eyJoaXN0b3J5IjpbMTk0ODc2Nzc0NywtNTQ4NTEzOTQwXX0=
 -->
