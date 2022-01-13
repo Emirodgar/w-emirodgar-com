@@ -21,13 +21,13 @@ El objetivo de estos sistemas es por tanto mejorar el rendimiento y la experienc
 
 ### Mejor tiempo de carga
 
-Los [tiempos de carga](https://emirodgar.com/mejorar-tiempo-carga-web)  deberían disminuir ya que los servidores están más cerca de nuestros visitantes geográficamente y emplean el almacenamiento en caché (se guarda una copia de la página), por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, especialmente en dispositivos móviles.
+Los [tiempos de carga](https://emirodgar.com/mejorar-tiempo-carga-web)  deberían disminuir ya que los servidores están más cerca de nuestros visitantes geográficamente y emplean el almacenamiento en caché (guardan y sirven una copia de la página), por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, especialmente en dispositivos móviles.
 
-El tiempo de carga de una web por lo que el hecho de que un CDN lo mejore ya es un punto a nuestro favor.
+Mejorar la experiencia de los usuarios reduciendo el tiempo de acceso a una web es un [factor SEO](https://emirodgar.com/factores-seo) por lo que el hecho de que un CDN lo mejore ya es un punto a favor de la estrategia SEO.
 
 ### Mejor estabilidad
 
-A mayores, los CDN nos ayudan a mantener nuestra página siempre operativa ya que aunque el servidor de origen falle, estos ofrecerán a los usuarios una copia de nuestra web dándonos tiempo para que volvamos a tener el servidor en pie. El hecho de evitar caídas ofrece estabilidad, lo cuál también es apreciado por Google.
+A mayores, los CDN nos ayudan a mantener nuestra página siempre operativa ya que aunque el servidor de origen falle, estos ofrecerán a los usuarios una copia de nuestra web (almacenada en caché) dándonos tiempo para que volvamos a tener el servidor en pie. El hecho de evitar caídas ofrece estabilidad, lo cuál también es apreciado por Google.
 
 ### Página más segura
 
@@ -42,6 +42,6 @@ Las CDN sólo cambian la dirección IP de nuestro sitio a través del DNS para q
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTg2NjkyMiwtMTM2MjA0MTk0NSwtMj
+eyJoaXN0b3J5IjpbLTk5OTIxOTI5OSwtMTM2MjA0MTk0NSwtMj
 k3Nzc3MTEsLTEwNDY4ODMxODVdfQ==
 -->
