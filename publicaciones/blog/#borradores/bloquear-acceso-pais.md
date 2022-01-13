@@ -17,7 +17,11 @@ Aunque es algo atípico, en ciertos momento podemos requerir limitar o bloquear 
 
 > Esto no se trata de bloquear el rastreo e indexación a Google, sino de bloquear el acceso de usuarios de ciertos países -con conexión lenta- para que no sean contabilizados en las CWV. 
 
-Como he comentado antes, a nivel SEO implementar un bloqueo 
+Como he comentado antes, a nivel SEO implementar un bloqueo por país no es recomendable, no obstante, voy a explicar cómo podríamos llevarlo a cabo ya que el conocimiento no ocupa lugar.
+
+## Bloquear a través de archivo de configuración
+
+Prácticamente todos los servidores web disponen de un archivo de configuración desde el cuál podemos permitir o denegar el acceso por IP. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjYwNTA2NywtNTQ4NTEzOTQwXX0=
+eyJoaXN0b3J5IjpbMTM0NzE1NjczMiwtNTQ4NTEzOTQwXX0=
 -->
