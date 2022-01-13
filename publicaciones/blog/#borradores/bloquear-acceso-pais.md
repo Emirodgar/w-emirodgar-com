@@ -21,7 +21,9 @@ Como he comentado antes, a nivel SEO implementar un bloqueo por país no es reco
 
 ## Bloquear a través de archivo de configuración
 
-Prácticamente todos los servidores web disponen de un archivo de configuración desde el cuál podemos permitir o denegar el acceso por IP. 
+Prácticamente todos los servidores web (Apache, Nginx, CIDR, Web.config, MikroTik, etc) disponen de un archivo de configuración desde el cuál podemos permitir o denegar el acceso por IP. 
+
+Bastará con que sepamos cuál es el código a incluir y el rango de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzE1NjczMiwtNTQ4NTEzOTQwXX0=
+eyJoaXN0b3J5IjpbODc0MjAwNDc4LC01NDg1MTM5NDBdfQ==
 -->
