@@ -11,19 +11,19 @@ permalink: cdn-seo
 
 ---
 
-CDN corresponde a las siglas en inglés de *Content Delivery Network* que podríamos traducir a castellano como **Red de distribución de contenidos**.  Se trata por tanto de una red de ordenadores que facilitan la distribución de los contenidos de una página o aplicación web utilizando. 
+CDN corresponde a las siglas en inglés de *Content Delivery Network* que podríamos traducir a castellano como **Red de distribución de contenidos**.  Se trata por tanto de una red de ordenadores que facilitan la distribución de los contenidos de una página o aplicación web utilizando servidores geolocalizados en diversos puntos. 
 
 ![Emirodgar](https://i.imgur.com/lzH6nBd.png){:class="img-responsive"}
 
-El objetivo de estos sistemas es por tanto mejorar el rendimiento y la experiencia de los usuarios al interactuar con una aplicación o página web evitando que esta tenga que antender y servir todas las peticiones.
+El objetivo de estos sistemas es por tanto mejorar el rendimiento y la experiencia de los usuarios al interactuar con una aplicación o página web evitando que esta tenga que atender y servir todas las peticiones.
 
 ## ¿Cómo afecta al SEO?
 
 ### Mejor tiempo de carga
 
-El [tiempo de carga de una web](https://emirodgar.com/mejorar-tiempo-carga-web) es un [factor SEO](https://emirodgar.com/factores-seo) por lo que el hecho de que un CDN lo mejore ya es un punto a nuestro favor.
+Los tiempos de carga deberían disminuir ya que los servidores están más cerca de nuestros visitantes geográficamente y emplean el almacenamiento en caché, por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, y como señalábamos antes, eso enviará una señal positiva a Google.
 
-Los tiempos de carga deberían disminuir ya que los servidores están más cerca de sus visitantes geográficamente y emplean el almacenamiento en caché, por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, y como señalábamos antes, eso enviará una señal positiva a Google.
+El [tiempo de carga de una web](https://emirodgar.com/mejorar-tiempo-carga-web) es un [factor SEO](https://emirodgar.com/factores-seo) por lo que el hecho de que un CDN lo mejore ya es un punto a nuestro favor.
 
 ### Mejor estabilidad
 
@@ -42,6 +42,6 @@ Las CDN sólo cambian la dirección IP de nuestro sitio a través del DNS para q
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU1Mzk5MTQsLTEzNjIwNDE5NDUsLT
-I5Nzc3NzExLC0xMDQ2ODgzMTg1XX0=
+eyJoaXN0b3J5IjpbLTI3NTk4NDIxNywtMTM2MjA0MTk0NSwtMj
+k3Nzc3MTEsLTEwNDY4ODMxODVdfQ==
 -->
