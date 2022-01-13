@@ -31,17 +31,17 @@ A mayores, los CDN nos ayudan a mantener nuestra página siempre operativa ya qu
 
 ### Página más segura
 
-Una última ventaja asociada a utilizar un CDN en nuestro proyecto web será la seguridad. Podemos entender el uso de esta red como un cortafuegos que nos ayuda, no sólo frente a los Ataque de denegación de servicio (DdosS) sino también para detectar potenciales vulnerabilidades que pongan en riesgo nuestra página.
+Una última ventaja asociada a utilizar un CDN en nuestro proyecto web será la seguridad. Podemos entender el uso de esta red como un cortafuegos que nos ayuda, no sólo frente a los Ataque de denegación de servicio (DdosS), sino también para detectar potenciales vulnerabilidades que pongan en riesgo nuestra página.
 
 ## ¿Qué pasa si uso un DNS sólo para las imágenes?
 
-Las CDN sólo cambian la dirección IP de nuestro sitio a través del DNS para que apunte a los servidores del nodo regional, no cambian los nombres de dominio ni las URL, por lo que ni los usuarios ni los motores de búsqueda verán ninguna diferencia. Por ejemplo, podríamos usar un CDN para las imágenes de nuestro sitio bajo el subdominio `img.emirodgar.com`.
+Los CDN sólo cambian la dirección IP de nuestro sitio a través del DNS para que apunte a los servidores del nodo regional, no cambian los nombres de dominio ni las URL, por lo que ni los usuarios ni los motores de búsqueda verán ninguna diferencia. Por ejemplo, nuestro dominio `www.emirodgar.com` puede estar alojado y funcionando en un servidor local y a mayores podríamos usar el subdominio `img.emirodgar.com` como CDN para las imágenes de nuestro sitio.
 
 
 ## ¿Qué CDN debo usar?
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTIxOTI5OSwtMTM2MjA0MTk0NSwtMj
-k3Nzc3MTEsLTEwNDY4ODMxODVdfQ==
+eyJoaXN0b3J5IjpbLTExNTg0Njg0MjcsLTEzNjIwNDE5NDUsLT
+I5Nzc3NzExLC0xMDQ2ODgzMTg1XX0=
 -->
