@@ -21,7 +21,7 @@ Como he comentado antes, a nivel SEO implementar un bloqueo por país no es reco
 
 ## Bloquear a través de archivo de configuración
 
-Prácticamente todos los servidores web (Apache, Nginx, CIDR, Web.config, MikroTik, etc) disponen de un archivo de configuración desde el cuál podemos permitir o denegar el acceso por IP. 
+Prácticamente todos los servidores web (Apache, Nginx, CIDR, Juniper, Web.config, MikroTik, etc) disponen de un archivo de configuración desde el cuál podemos permitir o denegar el acceso por IP. 
 
 Bastará con que sepamos cuál es el código a incluir y el rango de IPs asociados a un país. 
 
@@ -29,7 +29,9 @@ Si lo queremos más fácil, podemos hacer uso de la herramienta [visitor blocker
 
 1. Seleccionar el país o países a bloquear
 2. Seleccionar la versión de IP (Ipv4 o Ipv6)
-3. Seleccionar el servidor web
+3. Seleccionar el servidor web (para generar el código adaptado al mismo)
+
+El código exportado deberemos añadirlo al final del archivo de configuración; en el caso de Apache será en el fichero .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI4MTkxNzQsLTU0ODUxMzk0MF19
+eyJoaXN0b3J5IjpbMTk1ODAwMjA4LC01NDg1MTM5NDBdfQ==
 -->
