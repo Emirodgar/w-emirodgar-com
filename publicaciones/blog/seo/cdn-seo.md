@@ -24,9 +24,9 @@ El objetivo de estos sistemas es por tanto **mejorar el rendimiento y la experie
 
 Los [tiempos de carga](https://emirodgar.com/mejorar-tiempo-carga-web)  deberían disminuir ya que los servidores están más cerca geográficamente de nuestros visitantes y además emplean el almacenamiento en caché (guardan y sirven una copia de la página), por lo que los usuarios serán menos propensos a rebotar debido a la lentitud de carga de las páginas, especialmente en dispositivos móviles.
 
-**Mejorar la experiencia de los usuarios** reduciendo el tiempo de acceso a una web es un [factor SEO](https://emirodgar.com/factores-seo) por lo que el hecho de que un CDN lo mejore ya es **un punto a favor de la estrategia SEO**.
+**Mejorar la experiencia de los usuarios** reduciendo el tiempo de acceso a una web es un [factor SEO](https://emirodgar.com/factores-seo) por lo que beneficiará la estrategia de posicionamiento.
 
-Esta cuestión a veces entra en conflicto con la geolocalización de una página. Es decir, si uso un CDN y las peticiones se sirven de forma descentralizada desde múltiples nodos geográficos, pierdo el valor SEO de que mi página esté ubicada en el país donde me quiero posicionar. Eso es así, pero [como comentó Matt Cutts hace ya unos años en este vídeo](https://www.youtube.com/watch?v=hXt23AXlJJU), la geolocalización de una página ya dejó de ser un factor relevante o al menos no lo es tanto como la experiencia de los usuarios o tiempo de carga.
+Esta cuestión a veces entra en conflicto con la geolocalización de una página. Es decir, si uso un CDN y las peticiones se sirven de forma descentralizada desde múltiples nodos geográficos, pierdo el valor SEO de que mi página esté ubicada en el país donde me quiero posicionar. Eso es así, pero [como comentó Matt Cutts hace ya unos años en este vídeo](https://www.youtube.com/watch?v=hXt23AXlJJU), la geolocalización de una página ya dejó de ser un factor relevante o al menos no lo es tanto como la experiencia de los usuarios o el tiempo de carga.
 
 ### Mejor estabilidad
 
@@ -47,5 +47,5 @@ A efectos de Google, todo estará bajo el dominio `emirodgar.com` y las imágene
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTIxMzkyMSwxNTI3MzgzMTI4XX0=
+eyJoaXN0b3J5IjpbLTE2ODI5MDM3OCwxNTI3MzgzMTI4XX0=
 -->
