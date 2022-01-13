@@ -19,7 +19,7 @@ Aunque es algo atípico, en ciertos momento podemos requerir limitar o bloquear 
 
 Como he comentado antes, a nivel SEO implementar un bloqueo por país no es recomendable, no obstante, voy a explicar cómo podríamos llevarlo a cabo ya que el conocimiento no ocupa lugar.
 
-## Bloquear a través de archivo de configuración
+## Bloquear a través de archivo de configuración del servidor
 
 Prácticamente todos los servidores web (Apache, Nginx, CIDR, Juniper, Web.config, MikroTik, etc) disponen de un archivo de configuración desde el cuál podemos permitir o denegar el acceso por IP. 
 
@@ -35,7 +35,9 @@ El código exportado deberemos añadirlo al final del archivo de configuración;
 
 ## Bloquear de forma dinámica
 
-Otra opción es extraer la IP del visitante en el momento de acceso a nuestra página web, obtener el país de forma dinámica a través de alguna API ([geoPlugin](http://www.geoplugin.net), Ip-Api
+Otra opción es extraer la IP del visitante en el momento de acceso a nuestra página web, obtener el país de forma dinámica a través de alguna API ([GeoPlugin](http://www.geoplugin.net), [IP-API](https://ip-api.com/), [IP registry](https://ipregistry.co/), etc) y aplicar una redirección evitando que el usuario pueda interactuar con nuestro sitio.
+
+Este proceso es más costoso a nivel de recursos que el anterior puesto que por cada petición
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODc2Nzc0NywtNTQ4NTEzOTQwXX0=
+eyJoaXN0b3J5IjpbMjA4OTkxODk4NiwtNTQ4NTEzOTQwXX0=
 -->
