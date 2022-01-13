@@ -11,9 +11,9 @@ permalink: bloquear-acceso-pais
 
 ---
 
-Dentro de la vertical de turismo es bastante habitual que los visitantes -dependiendo de su geolocalización- sean redireccionados a una versión idiomática y con unos precios establecidos para su mercado, impiendo que puedan cambiar estos valores. En este caso no buscamos una redirección sino más bien un bloqueo. 
+Dentro de la vertical de turismo es bastante habitual que los visitantes -dependiendo de su geolocalización- sean redireccionados a una versión idiomática y con unos **precios establecidos para su mercado**, impiendo que puedan cambiar estos valores. En este caso no buscamos una redirección sino más bien un bloqueo. 
 
-Aunque es algo atípico, en ciertos momento podemos requerir limitar o bloquear el acceso a nuestra página web a visitantes de ciertos países. He visto algunas prácticas -a mi juicio erróneas- a nivel SEO por las que se busca bloquear el acceso a ciertos países donde la experiencia de carga de nuestra web es baja, para que los valores globales de las Core Web Vitals salgan reforzados. Para obtener las CWV, Google hace uso de los datos de campo (*field data*) basados en los accesos reales al sitio; si bloqueas los lentos, mejoras la puntuación global.
+Aunque es algo atípico, en ciertos momento podemos requerir limitar o **bloquear el acceso a nuestra página web a visitantes de ciertos países**. He visto algunas prácticas -a mi juicio erróneas- a nivel SEO por las que se busca bloquear el acceso a ciertos países donde la experiencia de carga de nuestra web es baja, para que los valores globales de las Core Web Vitals salgan reforzados. Para obtener las CWV, Google hace uso de los datos de campo (*field data*) basados en los accesos reales al sitio; si bloqueas los lentos, mejoras la puntuación global.
 
 > Esto no se trata de bloquear el rastreo e indexación a Google, sino de bloquear el acceso de usuarios de ciertos países -con conexión lenta- para que no sean contabilizados en las CWV. 
 
@@ -41,7 +41,8 @@ Aunque dependerá del servidor que hayamos seleccionado, el código resultante s
     Require not ip 5.0.8.0/21
     Require not ip 5.0.32.0/19
     Require not ip 5.1.0.0/24
-    Require not ip 5.1.2.0/23 
+    Require not ip 5.1.2.0/23
+    ... 
 
 ## Bloquear de forma dinámica
 
@@ -49,5 +50,5 @@ Otra opción es extraer la IP del visitante en el momento de acceso a nuestra p�
 
 Este proceso es más costoso que el anterior a nivel de recursos puesto que por cada petición de acceso tenemos que hacer una validación a través de un script. De la otra forma es el propio servidor quién hace la comprobación y además se ahorra el tiempo de conexión con la API.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNzE5NDg4XX0=
+eyJoaXN0b3J5IjpbLTQ2NjE4ODc4Miw3NDM3MTk0ODhdfQ==
 -->
