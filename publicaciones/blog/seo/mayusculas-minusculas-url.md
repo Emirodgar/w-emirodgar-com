@@ -16,6 +16,8 @@ Una de las recomendaciones que suelo dar a la hora de generar [títulos y descri
 
 El proceso es sencillo, usaremos todas las palabras del título y las separaremos con el guión alto `-` para facilitar la lectura e interpretación por parte tanto de usuarios como [robots de búsqueda](https://emirodgar.com/detectar-googlebot). **Todo en minúscula**.
 
+Por ejemplo, el siguiente título `Esto es un ejemplo de título` se traduciría en la siguiente URL `esto-es-un-ejemplo-de-titulo`.
+
 ## ¿Cómo afectan las mayúsculas y minúsculas en una URL?
 
 En numerosas ocasiones, [Google ha dicho](https://www.youtube.com/watch?v=d1xb84T0olI) que para ellos, una URL en mayúsculas y su misma versión en minúsculas serán tratadas como dos páginas diferentes. En este escenario también afecta, por ejemplo, el hecho de que una URL termine o no con una barra `/` al final.
@@ -45,5 +47,6 @@ No, Google lo ha dicho muchas veces: **no hay penalización por contenido duplic
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI3MjIzMjRdfQ==
+eyJoaXN0b3J5IjpbLTE4MDIwODc4NjksLTIwMTI3MjIzMjRdfQ
+==
 -->
