@@ -11,7 +11,7 @@ feed: 1
 folder: seo
 permalink: core-web-vitals-problemas
 
---- 
+---
 
 
 ## ¿Pueden ser los valores de las Core Web Vitals peores en Desktop que en Mobile?
