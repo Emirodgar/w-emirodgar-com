@@ -64,9 +64,9 @@ Por ejemplo, en la siguiente imagen podemos ver cómo la URL `https://emirodgar.
 
 ![Jekyll redirección 301 atributo canonical](https://i.imgur.com/KR3mj5F.png){:class="img-responsive"}
 
-En lugar de disponer de una redirección 301 que el robot de búsqueda entendería sin problema, lo que hace Google es marcar la página como no apta para ser indexada (ya que incluye la etiqueta **noindex**) y luego identifica a través del [atributo canonical](https://emirodgar.com/etiqueta-canonica) la URL adecuada. Digamos que no es un proceso tan directo como la redirección 301 pero al menos
+En lugar de disponer de una redirección 301 que el robot de búsqueda entendería sin problema, lo que hace Google es marcar la página como no apta para ser indexada (ya que incluye la etiqueta **noindex**) y luego identifica a través del [atributo canonical](https://emirodgar.com/etiqueta-canonica) la URL adecuada. Digamos que no es un proceso tan directo ni rápido como la redirección 301 pero al menos sí será efectivo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU1MTQxMTAsLTU5NjgxMDUzNSwtOT
+eyJoaXN0b3J5IjpbLTEyNzM2MjIxNDIsLTU5NjgxMDUzNSwtOT
 Q1MzUxNzkxLDExODAxMzA3NSw2NjIyNzIzNDUsLTE5NjQ4MzY3
 NjRdfQ==
 -->
