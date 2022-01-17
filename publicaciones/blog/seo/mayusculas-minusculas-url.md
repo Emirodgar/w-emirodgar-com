@@ -36,9 +36,14 @@ No, Google lo ha dicho muchas veces: **no hay penalización por contenido duplic
 
 Y si no me penaliza, ¿cómo afecta de forma negativa?
 
+- Google pierde tiempo rastreando e indexando múltiples versiones de una misma URL.
+- Google podría indexar una de las versiones que no es la que nosotros queremos.
+- Si posicionan varias versiones de la URL se hace más difícil analizar los resultados.
+- Si posicionamos para términos competidos por varias URLs, lo haremos de una forma más ineficiente ya que en lugar de aunar recursos y posicionar de forma fuerte 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA0ODYyMzBdfQ==
+eyJoaXN0b3J5IjpbNjg1NTQwMzI4XX0=
 -->
