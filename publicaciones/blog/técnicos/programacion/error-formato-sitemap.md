@@ -41,10 +41,11 @@ Por ejemplo, en el caso de Apache se podría configurar a través del fichero `.
 AddType application/xml .xml
 ```
 
-Si por otro lado se trata de un fichero (php, asp, etc) que crea de forma dinámica el documento xml, entonces tendremos que asegurarnos de que al final de la ejecución envía como cabecera el formato adecuado en el que queremos que sea procesado en el navegador. 
+Si por otro lado se trata de un fichero (php, asp, etc) que crea de forma dinámica el documento xml, entonces tendremos que asegurarnos de que al final de la ejecución envía como cabecera el formato adecuado en el que queremos que sea procesado en el navegador.
+Esto dependerá del lenguaje que estemos usando pero el envío de la cabecera deberá incluir algo como `"application/xml; charset=UTF-8"` lo cuál le dará información al navegador acerca de cómo debe ejecutar dicho documento XML (con formato). 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAwNjUzNjRdfQ==
+eyJoaXN0b3J5IjpbMTUwMDA5NDA1MF19
 -->
