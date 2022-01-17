@@ -33,7 +33,7 @@ El contenido de un sitemap XML es como el que se muestra a continuación:
 
 ## Cómo cambiar el formato para que aparezca bien formado
 
-El primer paso sería analizar cómo se está construyendo ese fNecesitaremos acceso al archivo de configuración y, dependiendo de cuál sea el servidor que estemos usando, hacer el cambio. 
+El primer paso sería analizar cómo se está construyendo ese fichero XML para abordar la solución. En el caso de que sea un fichero previamente creado (estático) y con extensión `xml` necesitaremos acceso al archivo de configuración y, dependiendo de cuál sea el servidor que estemos usando, hacer el ajuste necesario. 
 
 Por ejemplo, en el caso de Apache se podría configurar a través del fichero `.htaccess` añadiendo el siguiente código:
 
@@ -41,8 +41,10 @@ Por ejemplo, en el caso de Apache se podría configurar a través del fichero `.
 AddType application/xml .xml
 ```
 
+Si por otro lado se trata de un fichero (php, asp, etc) que crea de forma dinámica el documento xml, entonces tendremos que asegurarnos de que  
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDY2ODA3XX0=
+eyJoaXN0b3J5IjpbLTIwMjAxOTQyNDldfQ==
 -->
