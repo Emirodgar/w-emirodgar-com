@@ -28,10 +28,21 @@ El contenido de un sitemap XML es como el que se muestra a continuación:
 
 1. Quizá el principal error suele ser que **no hacemos uso de los campos adecuados** que Google necesita para trabajar con el documento. Para solucionarlo bastará con seguir [las indicaciones de la guía oficial](https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap#xml). 
 
-3. Hemos puesto **algún carácter de más**. Para ello podemos hacer uso de cualquier validador online que nos identificará si existe algún error a nivel técnico. Podemos usar [XML validation](https://www.xmlvalidation.com/) o cualquier otro que tengamos a mano.
-4. El sitemap **no se forma correctamente al visualizarlo en el navegador** sino que aparece en texto plano (todo en una misma línea y sin formato). En este caso es un problema de configuración del servidor web ya que en lugar de enviar los ficheros xml como `application/xml` lo está haciendo como `text/html`. Necesitaremos acceso al archivo de configuración y, dependiendo de cuál sea el servidor que estemos usando, hacer el cambio.
+2. Hemos puesto **algún carácter de más**. Para ello podemos hacer uso de cualquier validador online que nos identificará si existe algún error a nivel técnico. Podemos usar [XML validation](https://www.xmlvalidation.com/) o cualquier otro que tengamos a mano.
+3. El sitemap **no se forma correctamente al visualizarlo en el navegador** sino que aparece en texto plano (todo en una misma línea y sin formato). En este caso es un problema de configuración del servidor web ya que en lugar de enviar los ficheros xml como `application/xml` lo está haciendo como `text/html`. 
+
+## Cómo cambiar el formato para que aparezca bien formado
+
+El primer paso sería analizar cómo se está construyendo ese fNecesitaremos acceso al archivo de configuración y, dependiendo de cuál sea el servidor que estemos usando, hacer el cambio. 
+
+Por ejemplo, en el caso de Apache se podría configurar a través del fichero `.htaccess` añadiendo el siguiente código:
+
+```
+AddType application/xml .xml
+```
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzQxMTY4NF19
+eyJoaXN0b3J5IjpbMTAwNDY2ODA3XX0=
 -->
