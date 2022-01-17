@@ -12,9 +12,11 @@ permalink: mayusculas-minusculas-url
 
 ---
 
-Una de las recomendaciones que suelo dar a la hora de generar [títulos y descripciones](https://emirodgar.com/titulos-descripciones-seo) es que lo que hayamos usado como `meta title` (título) de nuestra página sea la URL de la misma.
+Una de las recomendaciones que suelo dar a la hora de generar [títulos y descripciones](https://emirodgar.com/titulos-descripciones-seo) es que lo que hayamos usado como `meta title` (título) de una página sea la URL de la misma.
 
-Es sencillo, usaremos todas las palabras y las separaremos con el 
+El proceso es sencillo, usaremos todas las palabras y las separaremos con el guión alto `-` para facilitar la lectura e interpretación por parte tanto de usuarios como [robots de búsqueda](https://emirodgar.com/detectar-googlebot).
+
+No todo es blanco o negro y en algunos casos 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTcyMTk4Nl19
+eyJoaXN0b3J5IjpbMTM4ODE1ODM5Nl19
 -->
