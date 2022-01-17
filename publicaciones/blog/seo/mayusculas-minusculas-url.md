@@ -22,9 +22,9 @@ En numerosas ocasiones, [Google ha dicho](https://www.youtube.com/watch?v=d1xb84
 
 Es decir, las siguientes tres URLs serán tratadas por Google como páginas diferentes:
 
-- https://emirodgar.com/prueba
-- https://emirodgar.com/PRUEBA
-- https://emirodgar.com/prueba/
+- https://emirodgar.com/**prueba**
+- https://emirodgar.com/**PRUEBA**
+- https://emirodgar.com/prueba**/**
 
 Por defecto -y si no indicamos lo contrario bloqueando el rastreo a través del robots.txt o bloqueando la indexación con la etiqueta noindex- [Googlebot](https://emirodgar.com/detectar-googlebot) tratará de rastrear todas las variaciones de dicha URL que encuentre.
 
@@ -38,12 +38,12 @@ No, Google lo ha dicho muchas veces: **no hay penalización por contenido duplic
 
 - **Google pierde tiempo rastreando e indexando múltiples versiones de una misma URL**. Si esto es algo que ocurre de forma transversal a todo el sitio podría suponer mucho tiempo y que haya ciertas secciones relevantes que no sean rastreadas con la frecuencia que necesitan.
 - **Google podría indexar una de las versiones que no es la que nosotros queremos**. Si rastrea tres versiones pero sólo indexa una, ésta podría mostrar información errónea o seguir una distribución de contenido o estructura diferente a la del resto del sitio causando confusión e incluso una mala experiencia a los usuarios.
-- Si posicionan varias versiones de la URL se hace más difícil analizar los resultados. Para analizar los resultados
-- Si posicionamos para términos competidos por varias URLs, lo haremos de una forma más ineficiente ya que en lugar de aunar recursos y posicionar de forma fuerte y consolidada, lo haremos divididos.
+- **Si posicionan varias versiones de la URL se hace más difícil analizar los resultados**. Para analizar los resultados de la estrategia, si cada página (o sección) está dividida en múltiples versiones, se hará más difícil hacer seguimiento de los resultados.
+- **Si posicionamos para términos competidos por varias URLs, lo haremos de una forma más ineficiente** ya que en lugar de aunar recursos y posicionar de forma fuerte y consolidada, lo haremos divididos.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTM4NDU4NF19
+eyJoaXN0b3J5IjpbLTIwMTI3MjIzMjRdfQ==
 -->
