@@ -26,12 +26,14 @@ Estas son algunas de las razones que podrían explicar un peor rendimiento en es
 
 - **La velocidad de conexión de los usuarios de escritorio**: si los usuarios que acceden desde escritorio lo hacen con ordenadores antiguos y/o conexiones lentas, podría explicar esta situación.
 - **La geolocalización de los usuarios de escritorio**: si el 80% de nuestros usuarios son móviles y el 20% de ordenador principalmente provienen de un país extranjero con mala conexión, explicaría el porqué estamos generando estos errores.
-- La publicidad que se incluye en la versión de escritorio: en muchas ocasiones las versiones de escritorio ofrecen mucha
-- Si disponemos de una versión responsive (misma web para cualquier dispositivo) puede ser que en la versión móvil se eliminen elementos pesados que hacen una versión rápida y cómoda pero que en escritorio, al mantenerlos, repercutan en su tiempo de carga.
+- **La publicidad que se incluye en la versión de escritorio**: en muchas ocasiones las versiones de escritorio ofrecen mucha publicidad y las móviles, para facilitar el uso, reducen el número. Eso explicaría también esta situación.
+- **Si disponemos de una versión responsive** (misma web para cualquier dispositivo) puede ser que en la versión móvil se eliminen elementos pesados que hacen una versión rápida y cómoda pero que en escritorio, al mantenerlos, repercutan en su tiempo de carga.
 
 
-Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y la versión móvil por separado para conocer el desempeño que están teniendo.
+Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y la versión móvil por separado para conocer el desempeño que están teniendo. Podemos hacerlo a través de las aplicaciones https://pagespeed.web.dev/ o https://gtmetrix.com/.
+
+El objetivo será entender si existe un problema de tiempo de carga en escritorio frente a mobile. Después recomiendo usar 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTQzMTQwMl19
+eyJoaXN0b3J5IjpbLTIwNDE5NDI0MDVdfQ==
 -->
