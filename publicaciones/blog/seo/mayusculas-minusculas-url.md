@@ -34,16 +34,16 @@ Esto ocasiona los primeros problemas a nivel SEO ya que no estamos **optimizando
 
 No, Google lo ha dicho muchas veces: **no hay penalización por contenido duplicado**. No obstante, esto no quiere decir que no afecte de forma negativa a la estrategia SEO.
 
-Y si no me penaliza, ¿cómo afecta de forma negativa?
+¿De qué forma afecta de forma negativamente el contenido duplicado al SEO?. A continuación podemos ver algunas de las consecuencias:
 
-- Google pierde tiempo rastreando e indexando múltiples versiones de una misma URL.
-- Google podría indexar una de las versiones que no es la que nosotros queremos.
+- **Google pierde tiempo rastreando e indexando múltiples versiones de una misma URL**. Si esto es algo que ocurre de forma transversal a todo el sitio podría suponer mucho tiempo y que haya ciertas secciones relevantes que no sean rastreadas con la frecuencia que necesitan.
+- Google podría indexar una de las versiones que no es la que nosotros queremos. Si rastrea tres versione
 - Si posicionan varias versiones de la URL se hace más difícil analizar los resultados.
-- Si posicionamos para términos competidos por varias URLs, lo haremos de una forma más ineficiente ya que en lugar de aunar recursos y posicionar de forma fuerte 
+- Si posicionamos para términos competidos por varias URLs, lo haremos de una forma más ineficiente ya que en lugar de aunar recursos y posicionar de forma fuerte y consolidada, lo haremos divididos.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1NTQwMzI4XX0=
+eyJoaXN0b3J5IjpbODIzNDQ5MjI5XX0=
 -->
