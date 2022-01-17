@@ -26,9 +26,11 @@ Es decir, las siguientes tres URLs serán tratadas por Google como páginas dife
 - https://emirodgar.com/PRUEBA
 - https://emirodgar.com/prueba/
 
-Por defecto -y si no indicamos lo contrario bloqueando el acceso a través del robots.txt o bloqueando la indexación con la etiqueta noindex- [Googlebot](https://emirodgar.com/detectar-googlebot) tratará de rastrear todas las variaciones de d
+Por defecto -y si no indicamos lo contrario bloqueando el rastreo a través del robots.txt o bloqueando la indexación con la etiqueta noindex- [Googlebot](https://emirodgar.com/detectar-googlebot) tratará de rastrear todas las variaciones de dicha URL que encuentre.
+
+Esto ocasiona el primer problema a nivel SEO: no estamos optimizando el tiempo que el robot pasa en nuestro sitio y, a mayores, estamos 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NDM2Nzc4XX0=
+eyJoaXN0b3J5IjpbLTI2ODE0Mzc2Nl19
 -->
