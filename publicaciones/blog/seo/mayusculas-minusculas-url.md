@@ -28,9 +28,17 @@ Es decir, las siguientes tres URLs serán tratadas por Google como páginas dife
 
 Por defecto -y si no indicamos lo contrario bloqueando el rastreo a través del robots.txt o bloqueando la indexación con la etiqueta noindex- [Googlebot](https://emirodgar.com/detectar-googlebot) tratará de rastrear todas las variaciones de dicha URL que encuentre.
 
-Esto ocasiona el primer problema a nivel SEO: no estamos optimizando el tiempo que el robot pasa en nuestro sitio y, a mayores, estamos 
+Esto ocasiona los primeros problemas a nivel SEO ya que no estamos **optimizando el tiempo** que el robot pasa en nuestro sitio y, a mayores, estamos generando **contenido duplicado**.
+
+## ¿El contenido duplicado genera penalización?
+
+No, Google lo ha dicho muchas veces: **no hay penalización por contenido duplicado**. No obstante, esto no quiere decir que no afecte de forma negativa a la estrategia SEO.
+
+Y si no me penaliza, ¿cómo afecta de forma negativa?
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODE0Mzc2Nl19
+eyJoaXN0b3J5IjpbLTExNzA0ODYyMzBdfQ==
 -->
