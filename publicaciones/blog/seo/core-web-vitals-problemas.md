@@ -1,17 +1,19 @@
 ---
-title: Core Web Vitals: Problemas y soluciones
-description: 
-image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-layout: emirodgar_post
-date: 19/05/2021
-author: Emirodgar
+title: Core Web Vitals, problemas y soluciones
+description: Dependiendo de la posición que tengamos dentro de los resultados obtendremos mayor o menor tráfico
 lang: es_ES
+author: Emirodgar
 sitemap: 1
 feed: 1
 folder: seo
+layout: emirodgar_post
+date: 19/05/2021
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: core-web-vitals-problemas
 
 ---
+
+
 
 Las Core Web Vitals son una serie de métricas que utiliza Google para garantizar una correcta experiencia de los usuarios en una página web. A mayores, suman como un [factor SEO](https://emirodgar.com/factores-seo) para el posicionamiento web, aunque no son uno de los más relevantes.
 
@@ -40,5 +42,5 @@ Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y
 El objetivo será entender si existe un problema de tiempo de carga en escritorio frente a mobile. Después recomiendo usar el [dashboard de CrUX](https://web.dev/chrome-ux-report-data-studio-dashboard/) para poder analizar la evolución de las Core Web Vitals en el tiempo y entender así si esta situación ha ocurrido de forma repentina (como parece mostrar Google Search Console) o si ha ido avanzando poco a poco. El hecho de ubicar un momento en el tiempo en el que todo cambió nos ayudará a identificar las posibles causas. Si ha sido algo progresivo, entonces sabemos que nuestra página no ha envejecido bien y que tendremos que aplicar cambios y mejoras para mejorar la experiencia que ofrecemos a los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDIwMDgxMCwtMTA0NzA2MTMwM119
+eyJoaXN0b3J5IjpbNTg3MDM4NDcxLC0xMDQ3MDYxMzAzXX0=
 -->
