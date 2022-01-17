@@ -41,10 +41,10 @@ Por ejemplo, en el caso de Apache se podría configurar a través del fichero `.
 AddType application/xml .xml
 ```
 
-Si por otro lado se trata de un fichero (php, asp, etc) que crea de forma dinámica el documento xml, entonces tendremos que asegurarnos de que  
+Si por otro lado se trata de un fichero (php, asp, etc) que crea de forma dinámica el documento xml, entonces tendremos que asegurarnos de que al final de la ejecución envía como cabecera  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjAxOTQyNDldfQ==
+eyJoaXN0b3J5IjpbLTEwNjY2NDAzODBdfQ==
 -->
