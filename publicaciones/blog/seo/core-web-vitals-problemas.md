@@ -1,3 +1,4 @@
+
 ---
 title: Core Web Vitals: Problemas y soluciones
 description: 
@@ -35,5 +36,5 @@ Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y
 El objetivo será entender si existe un problema de tiempo de carga en escritorio frente a mobile. Después recomiendo usar el [dashboard de CrUX](https://web.dev/chrome-ux-report-data-studio-dashboard/) para poder analizar la evolución de las Core Web Vitals en el tiempo y entender así si esta situación ha ocurrido de forma repentina (como parece mostrar Google Search Console) o si ha ido avanzando poco a poco. El hecho de ubicar un momento en el tiempo en el que todo cambió nos ayudará a identificar las posibles causas. Si ha sido algo progresivo, entonces sabemos que nuestra página no ha envejecido bien y que tendremos que aplicar cambios y mejoras para mejorar la experiencia que ofrecemos a los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODk3MTc3MzhdfQ==
+eyJoaXN0b3J5IjpbLTExNTgyODk1OTZdfQ==
 -->
