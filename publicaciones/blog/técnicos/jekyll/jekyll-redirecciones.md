@@ -59,7 +59,12 @@ permalink: /actual/
 También podríamos crear un **fichero .htaccess** bajo Jekyll y gestionar las redirecciones a través del mismo, pero creo que esta forma es más rápida y sencilla.
 
 En realidad, esta migración no equivale a una 301 (o Google puede no entenderlo así) ya que a veces nos da problemas. Por ello es importante que usemos Google Search Console para validar que las URLs enviadas en el Sitemap XML son las correctas (nuevas) y que el robot de búsqueda entiende perfectamente la relación con las antiguas. 
+
+Por ejemplo, en la siguiente imagen podemos ver cómo la URL `https://emirodgar.com/consultor-seo/` que incluye la barra final ha sido redireccionada a la versión sin barra al final `https://emirodgar.com/consultor-seo`. En lugar de 
+
+![Jekyll redirección 301 atributo canonical](https://i.imgur.com/KR3mj5F.png){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjgxMDUzNSwtOTQ1MzUxNzkxLDExOD
-AxMzA3NSw2NjIyNzIzNDUsLTE5NjQ4MzY3NjRdfQ==
+eyJoaXN0b3J5IjpbMTE1Mzc2MDU1OSwtNTk2ODEwNTM1LC05ND
+UzNTE3OTEsMTE4MDEzMDc1LDY2MjI3MjM0NSwtMTk2NDgzNjc2
+NF19
 -->
