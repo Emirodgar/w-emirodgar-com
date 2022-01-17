@@ -1,17 +1,18 @@
-
 ---
 title: Core Web Vitals: Problemas y soluciones
 description: 
-image: https://emirodgar.com/cdn/images/og/auditoria.png
+image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
+date: 19/05/2021
 author: Emirodgar
+lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
-lang: es_ES
 permalink: core-web-vitals-problemas
 
----
+--- 
+
 
 ## ¿Pueden ser los valores de las Core Web Vitals peores en Desktop que en Mobile?
 
@@ -36,5 +37,5 @@ Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y
 El objetivo será entender si existe un problema de tiempo de carga en escritorio frente a mobile. Después recomiendo usar el [dashboard de CrUX](https://web.dev/chrome-ux-report-data-studio-dashboard/) para poder analizar la evolución de las Core Web Vitals en el tiempo y entender así si esta situación ha ocurrido de forma repentina (como parece mostrar Google Search Console) o si ha ido avanzando poco a poco. El hecho de ubicar un momento en el tiempo en el que todo cambió nos ayudará a identificar las posibles causas. Si ha sido algo progresivo, entonces sabemos que nuestra página no ha envejecido bien y que tendremos que aplicar cambios y mejoras para mejorar la experiencia que ofrecemos a los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgyODk1OTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDcwNjEzMDNdfQ==
 -->
