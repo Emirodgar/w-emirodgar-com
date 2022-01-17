@@ -18,9 +18,14 @@ El proceso es sencillo, usaremos todas las palabras del título y las separaremo
 
 ## ¿Cómo afectan las mayúsculas y minúsculas en una URL?
 
-En numerosas ocasiones, [Google ha dicho](https://www.youtube.com/watch?v=d1xb84T0olI) que para ellos, una URL en mayúsculas y una en minúsculas son direrentes:
+En numerosas ocasiones, [Google ha dicho](https://www.youtube.com/watch?v=d1xb84T0olI) que para ellos, una URL en mayúsculas y su misma versión en minúsculas serán tratadas como dos páginas direrentes
+
+> [...] Por definición, las URLs distinguen entre mayúsculas y minúsculas, y
+> también importan cosas como las barras inclinadas al final. Así que,
+> técnicamente, sí - estas cosas importan. Hacen que las URLs sean
+> diferentes [...]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE0MTYyNDhdfQ==
+eyJoaXN0b3J5IjpbMTc2ODU2NTU0Ml19
 -->
