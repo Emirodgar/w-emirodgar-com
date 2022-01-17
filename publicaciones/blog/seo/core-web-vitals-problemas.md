@@ -20,13 +20,15 @@ Como podemos observar en la siguiente imagen, los **datos de campo** en los que 
 
 ![Emirodgar](https://i.imgur.com/5MeNWZy.png){:class="img-responsive"}
 
-**¿Cómo podemos abordar esta situación?**. Lo primero es entender que cada bloque (desktop y mobile) es calculado en base a un subconjunto de usuarios diferentes. Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y la versión móvil para conocer
+**¿Cómo podemos abordar esta situación?**. Lo primero es entender que cada bloque (desktop y mobile) es calculado en base a un subconjunto de usuarios diferentes. Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y la versión móvil por separado para conocer el desempeño que están teniendo.
 
--   Desktop users connection speed
--   Desktop users geolocation
--   Desktop ads banners
+En este caso sabemos que la versión de escritorio tiene problemas para disponer de una buena experiencia de usuario. En este escenario hay múltiples aspectos que pueden estar condicionando este punto: 
+
+-   La velocidad de conexión de los usuarios de escritorio
+-   La geolocalización de los usuarios de escritorio
+-   La publicidad que se incluye en la versión de escritorio
 -   JS/Images on the responsive website (maybe the responsive version for mobile removes certain heavy components and makes it really fast)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU1NDQ1NDVdfQ==
+eyJoaXN0b3J5IjpbMTk1MjA4MDY4Ml19
 -->
