@@ -1,11 +1,6 @@
 # Información de cómo proceder
 
 
-## Templates
-
-- emirodgar_post
-
-
 ## Cabecera
 
 ---
@@ -41,6 +36,11 @@ https://emirodgar.com/cdn/images/og/estrategia-seo.png
 ![Emirodgar](https://emirodgar.com/cdn/images/posts/){:class="img-responsive"}
 ```
 
+
+
+## Templates
+
+- emirodgar_post
 
 ## SmartyPants
 
@@ -92,5 +92,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Nzg3NjgyNl19
+eyJoaXN0b3J5IjpbLTEzOTE0MzU5NDIsMTM1Nzg3NjgyNl19
 -->
