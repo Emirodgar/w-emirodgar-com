@@ -32,8 +32,8 @@ Estas son algunas de las razones que podrían explicar un peor rendimiento en es
 
 Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y la versión móvil por separado para conocer el desempeño que están teniendo. Podemos hacerlo a través de las aplicaciones https://pagespeed.web.dev/ o https://gtmetrix.com/.
 
-El objetivo será entender si existe un problema de tiempo de carga en escritorio frente a mobile. Después recomiendo usar 
+El objetivo será entender si existe un problema de tiempo de carga en escritorio frente a mobile. Después recomiendo usar el [dashboard de CrUX](https://web.dev/chrome-ux-report-data-studio-dashboard/) para poder analizar la evolución de las Core Web Vitals en el tiempo y entender así si esta situación ha sido 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE5NDI0MDVdfQ==
+eyJoaXN0b3J5IjpbLTQ3ODQ4OTA2MV19
 -->
