@@ -11,12 +11,16 @@ permalink: error-formato-sitemap-xml
 
 ---
 
-Un Sitemap es un listado de URLs que queremos que los buscadores rastreen e indexen. Aunque no es un factor SEO ni un componente crítico para una estrategia SEO, sí nos ayuda a que los robots de búsqueda **conozcan mejor nuestra arquitectura** web y nos **facilita los análisis de rastreo e indexación** a través del informe de Cobertura de Google Search Console.
+Un Sitemap es un listado de URLs que queremos que los buscadores rastreen e indexen. Aunque no es un [factor SEO](https://emirodgar.com/factores-seo) ni un componente crítico para una estrategia SEO, sí nos ayuda a que los robots de búsqueda **conozcan mejor nuestra arquitectura** web y nos **facilita los análisis de rastreo e indexación** a través del informe de Cobertura de Google Search Console.
 
-El documento
+El contenido de un sitemap XML es como el que se muestra a continuación:
 
     <?xml version="1.0" encoding="UTF-8"?>  
-    <urlset  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">  <url>  <loc>https://emirodgar.com/foo.html</loc>  <lastmod>2018-06-04</lastmod>  </url>  
+    <urlset  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">  
+     <url>
+      <loc>https://emirodgar.com/consultor-seo</loc>
+      <lastmod>2018-06-04</lastmod>
+     </url>  
     </urlset>
 
 
@@ -29,5 +33,5 @@ El documento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDQzMDU5OV19
+eyJoaXN0b3J5IjpbLTcyMTI4MzIwM119
 -->
