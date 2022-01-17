@@ -17,9 +17,9 @@ Un Sitemap es un listado de URLs que queremos que los buscadores rastreen e inde
 ## Principales errores en los Sitemaps XML
 
 1. Quizá el principal error suele ser que **no hacemos uso de los campos adecuados** que Google necesita para trabajar con el documento. Para solucionarlo bastará con seguir [las indicaciones de la guía oficial](https://developers.google.com/search/docs/advanced/sitemaps/build-sitemap#xml). 
-
-2. Hemos puesto **algún carácter de más**. Para ello podemos hacer uso de cualquier validador online que nos identificará si existe algún error a nivel técnico. Podemos usar [XML validation](https://www.xmlvalidation.com/) o cualquier otro que tengamos a mano.
-3. El sitemap no se forma sino que aparece en texto plano (tod
+2. 
+3. Hemos puesto **algún carácter de más**. Para ello podemos hacer uso de cualquier validador online que nos identificará si existe algún error a nivel técnico. Podemos usar [XML validation](https://www.xmlvalidation.com/) o cualquier otro que tengamos a mano.
+4. El sitemap **no se forma correctamente al visualizarlo en el navegador** sino que aparece en texto plano (todo en una misma línea y sin formato). En este caso es un problema de configuración del servidor web ya que en lugar de enviar los ficheros xml como `application/xml` lo está haciendo como `text/html`.
 
 Unfortunately, whenever I open the sitemap in the browser, it doesn't read the data in a xml format. It shows me like it would be an unstyled website with a simple paragraph.
 
@@ -27,5 +27,5 @@ The output is plain text instead of the regular XML treeview of the browser.
 
 Los Sitemaps XML son 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzIxNzI0XX0=
+eyJoaXN0b3J5IjpbNTYxMTA3MTE4XX0=
 -->
