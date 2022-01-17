@@ -57,7 +57,9 @@ permalink: /actual/
 
 
 También podríamos crear un **fichero .htaccess** bajo Jekyll y gestionar las redirecciones a través del mismo, pero creo que esta forma es más rápida y sencilla.
+
+En realidad, esta migración no equivale a una 301 (o Google puede no entenderlo así) ya que a veces nos da problemas. Por ello es importante que usemos Google Search Console para validar que las URLs enviadas en el Sitemap XML son las correctas y que el robot de búsqueda entiende perfectamente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTM1MTc5MSwxMTgwMTMwNzUsNjYyMj
-cyMzQ1LC0xOTY0ODM2NzY0XX0=
+eyJoaXN0b3J5IjpbLTE3NDc5Njc0OTAsLTk0NTM1MTc5MSwxMT
+gwMTMwNzUsNjYyMjcyMzQ1LC0xOTY0ODM2NzY0XX0=
 -->
