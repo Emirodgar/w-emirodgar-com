@@ -31,9 +31,9 @@ Como podemos observar en la siguiente imagen, los **datos de campo** en los que 
 
 Estas son algunas de las razones que podrían explicar un peor rendimiento en escritorio frente a móvil: 
 
-- **La velocidad de conexión de los usuarios de escritorio**: si los usuarios que acceden desde escritorio lo hacen con ordenadores antiguos y/o conexiones lentas, podría explicar esta situación.
+- **La velocidad de conexión de los usuarios de escritorio**: si los usuarios que acceden desde escritorio lo hacen con ordenadores antiguos y/o conexiones lentas, Google Search Console reflejaría una experiencia mejorable.
 - **La geolocalización de los usuarios de escritorio**: si el 80% de nuestros usuarios son móviles y el 20% de ordenador principalmente provienen de un país extranjero con mala conexión, explicaría el porqué estamos generando estos errores.
-- **La publicidad que se incluye en la versión de escritorio**: en muchas ocasiones las versiones de escritorio ofrecen mucha publicidad y las móviles, para facilitar el uso, reducen el número. Eso explicaría también esta situación.
+- **La publicidad que se incluye en la versión de escritorio**: en muchas ocasiones las versiones de escritorio ofrecen mucha publicidad y las móviles, para facilitar el uso, reducen el número. 
 - **Si disponemos de una versión responsive** (misma web para cualquier dispositivo) puede ser que en la versión móvil se eliminen elementos pesados que hacen una versión rápida y cómoda pero que en escritorio, al mantenerlos, repercutan en su tiempo de carga.
 
 
@@ -42,5 +42,6 @@ Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y
 El objetivo será entender si existe un problema de tiempo de carga en escritorio frente a mobile. Después recomiendo usar el [dashboard de CrUX](https://web.dev/chrome-ux-report-data-studio-dashboard/) para poder analizar la evolución de las Core Web Vitals en el tiempo y entender así si esta situación ha ocurrido de forma repentina (como parece mostrar Google Search Console) o si ha ido avanzando poco a poco. El hecho de ubicar un momento en el tiempo en el que todo cambió nos ayudará a identificar las posibles causas. Si ha sido algo progresivo, entonces sabemos que nuestra página no ha envejecido bien y que tendremos que aplicar cambios y mejoras para mejorar la experiencia que ofrecemos a los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3MDM4NDcxLC0xMDQ3MDYxMzAzXX0=
+eyJoaXN0b3J5IjpbLTQwMTIwMzU1MCw1ODcwMzg0NzEsLTEwND
+cwNjEzMDNdfQ==
 -->
