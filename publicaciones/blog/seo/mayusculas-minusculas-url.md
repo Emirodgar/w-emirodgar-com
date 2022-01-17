@@ -26,13 +26,9 @@ Es decir, las siguientes tres URLs serán tratadas por Google como páginas dife
 - https://emirodgar.com/PRUEBA
 - https://emirodgar.com/prueba/
 
-Por defecto y si no indicamos lo contrario 
-> [...] Por definición, las URLs distinguen entre mayúsculas y minúsculas, y
-> también importan cosas como las barras inclinadas al final. Así que,
-> técnicamente, sí - estas cosas importan. Hacen que las URLs sean
-> diferentes [...]
+Por defecto -y si no indicamos lo contrario bloqueando el acceso a través del robots.txt o bloqueando la indexación con la etiqueta noindex- [Googlebot](https://emirodgar.com/detectar-googlebot) tratará de rastrear todas las variaciones de d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYwNTIyNDFdfQ==
+eyJoaXN0b3J5IjpbODI1NDM2Nzc4XX0=
 -->
