@@ -24,14 +24,14 @@ Como podemos observar en la siguiente imagen, los **datos de campo** en los que 
 
 Estas son algunas de las razones que podrían explicar un peor rendimiento en escritorio frente a móvil: 
 
-- La velocidad de conexión de los usuarios de escritorio.
-- La geolocalización de los usuarios de escritorio.
-- La publicidad que se incluye en la versión de escritorio.
+- **La velocidad de conexión de los usuarios de escritorio**: si los usuarios que acceden desde escritorio lo hacen con ordenadores antiguos y/o conexiones lentas, podría explicar esta situación.
+- **La geolocalización de los usuarios de escritorio**: si el 80% de nuestros usuarios son móviles y el 20% de ordenador principalmente provienen de un país extranjero con mala conexión, explicaría el porqué estamos generando estos errores.
+- La publicidad que se incluye en la versión de escritorio: en muchas ocasiones las versiones de escritorio ofrecen mucha
 - Si disponemos de una versión responsive (misma web para cualquier dispositivo) puede ser que en la versión móvil se eliminen elementos pesados que hacen una versión rápida y cómoda pero que en escritorio, al mantenerlos, repercutan en su tiempo de carga.
 
 
 Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y la versión móvil por separado para conocer el desempeño que están teniendo.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODc0NzkyN119
+eyJoaXN0b3J5IjpbLTU4OTQzMTQwMl19
 -->
