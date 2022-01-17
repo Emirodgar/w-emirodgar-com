@@ -13,7 +13,9 @@ permalink: core-web-vitals-problemas
 
 ---
 
-Las Core Web Vitals son una serie de métricas que utiliza Google para garantizar una correcta experiencia de los usuarios en una pági un [factor SEO](https://emirodgar.com/factores-seo) (aunque no uno de los más relevantes)
+Las Core Web Vitals son una serie de métricas que utiliza Google para garantizar una correcta experiencia de los usuarios en una página web. A mayores, suman como un [factor SEO](https://emirodgar.com/factores-seo) para el posicionamiento web, aunque no son uno de los más relevantes.
+
+A continuación vamos a ver algunos de los problemas a los que nos podemos enfrentar cuando trabajamos la optimización de las mismas.
 
 ## ¿Pueden ser los valores de las Core Web Vitals peores en Desktop que en Mobile?
 
@@ -38,5 +40,5 @@ Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y
 El objetivo será entender si existe un problema de tiempo de carga en escritorio frente a mobile. Después recomiendo usar el [dashboard de CrUX](https://web.dev/chrome-ux-report-data-studio-dashboard/) para poder analizar la evolución de las Core Web Vitals en el tiempo y entender así si esta situación ha ocurrido de forma repentina (como parece mostrar Google Search Console) o si ha ido avanzando poco a poco. El hecho de ubicar un momento en el tiempo en el que todo cambió nos ayudará a identificar las posibles causas. Si ha sido algo progresivo, entonces sabemos que nuestra página no ha envejecido bien y que tendremos que aplicar cambios y mejoras para mejorar la experiencia que ofrecemos a los usuarios.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzQyMjEzOSwtMTA0NzA2MTMwM119
+eyJoaXN0b3J5IjpbMTI2MDIwMDgxMCwtMTA0NzA2MTMwM119
 -->
