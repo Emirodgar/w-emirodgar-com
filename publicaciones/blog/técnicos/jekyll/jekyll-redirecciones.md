@@ -60,11 +60,13 @@ También podríamos crear un **fichero .htaccess** bajo Jekyll y gestionar las r
 
 En realidad, esta migración no equivale a una 301 (o Google puede no entenderlo así) ya que a veces nos da problemas. Por ello es importante que usemos Google Search Console para validar que las URLs enviadas en el Sitemap XML son las correctas (nuevas) y que el robot de búsqueda entiende perfectamente la relación con las antiguas. 
 
-Por ejemplo, en la siguiente imagen podemos ver cómo la URL `https://emirodgar.com/consultor-seo/` que incluye la barra final ha sido redireccionada a la versión sin barra al final `https://emirodgar.com/consultor-seo`. En lugar de 
+Por ejemplo, en la siguiente imagen podemos ver cómo la URL `https://emirodgar.com/consultor-seo/` que incluye la barra final ha sido redireccionada a la versión sin barra al final `https://emirodgar.com/consultor-seo`. 
 
 ![Jekyll redirección 301 atributo canonical](https://i.imgur.com/KR3mj5F.png){:class="img-responsive"}
+
+En lugar de disponer de una redirección 301 que el robot de búsqueda entendería sin problema, lo que hace Google es marcar la página como no apta para ser indexada (ya que incluye la etiqueta **noindex**) y luego identifica a través del [atributo canonical](https://emirodgar.com/etiqueta-canonica) la URL adecuada. Digamos que no es un proceso tan directo como la redirección 301 pero al menos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Mzc2MDU1OSwtNTk2ODEwNTM1LC05ND
-UzNTE3OTEsMTE4MDEzMDc1LDY2MjI3MjM0NSwtMTk2NDgzNjc2
-NF19
+eyJoaXN0b3J5IjpbLTE3OTU1MTQxMTAsLTU5NjgxMDUzNSwtOT
+Q1MzUxNzkxLDExODAxMzA3NSw2NjIyNzIzNDUsLTE5NjQ4MzY3
+NjRdfQ==
 -->
