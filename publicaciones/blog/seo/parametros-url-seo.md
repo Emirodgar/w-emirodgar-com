@@ -17,15 +17,17 @@ Los parámetros son utilizados en las páginas web para pasar información a tra
 Los [robots de búsqueda](https://emirodgar.com/detectar-googlebot) consideran que cualquier cambio sobre una URL, ya sea [mayúsculas o minúsculas](https://emirodgar.com/mayusculas-minusculas-url) o el uso de parámetros, es susceptible de que cambie el contenido de la misma y por ende tienden a rastrearla. Por ejemplo, las siguientes URLs, aunque muestren el mismo contenido, podrán ser consideradas como tres páginas distintas:
 
  - `https://emirodgar.com`
- - `https://emirodgar.com**?parametro=valor**`
+ - `https://emirodgar.com?parametro=valor`
  - `https://emirodgar.com?parametro=valor&parametro2=valor`
 
 
-Podemos concluir que cualquier parámetro que usemos en una URL -incluso los UTM de Google Analytics- podría obligar al motor de búsqueda a rastrearla, así que para evitar que se indexe mucho contenido duplicado, deberíamos dirigir a los motores de búsqueda a la opción que prefiramos como principal.
+Podemos concluir que cualquier parámetro que usemos en una URL -incluso los UTM de Google Analytics- podría obligar al motor de búsqueda a rastrearla, así que para evitar que se genere contenido duplicado, deberíamos ayudar a los buscadores a **identificar la versión principal que queremos que sea indexada**.
 
 > Los parámetros UTM usados en Analytics, aunque son conocidos por Google, también podrían causar este comportamiento de generación de contenido duplicado.
 
 Como dijo John, el proceso de canonización no es sólo usar la etiqueta canónica. Debemos ser coherentes con todas las señales.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Canonicalization uses a number of factors (redirects, rel-canonical, internal/external links, sitemaps, more) -- the more you can get them to align, the more likely your input will be followed.</p>&mdash; 🐄 John 🐄 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1444214929679077377?ref_src=twsrc%5Etfw">October 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 La canonicalización utiliza una serie de factores (redirecciones, rel-canonical, enlaces internos/externos, sitemaps, etc.); cuanto más consigas que se alineen, más probable será que tu entrada sea seguida.
 
@@ -33,6 +35,6 @@ Aunque el contenido duplicado no hace que su sitio sea penalizado, el uso de par
 
 Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzk5NDcwNDcsNjE5NjI3MTYxLC04ND
+eyJoaXN0b3J5IjpbLTEwNzQzMTcyMzIsNjE5NjI3MTYxLC04ND
 EzMzUzNDddfQ==
 -->
