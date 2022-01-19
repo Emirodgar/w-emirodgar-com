@@ -29,13 +29,13 @@ Como dijo John en Twitter, el proceso para que los rastreadores entiendan cuál 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Canonicalization uses a number of factors (redirects, rel-canonical, internal/external links, sitemaps, more) -- the more you can get them to align, the more likely your input will be followed.</p>&mdash; 🐄 John 🐄 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1444214929679077377?ref_src=twsrc%5Etfw">October 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-El punto más relevante para garantizar el éxito y evitar contenido duplicado será usar la [etiqueta `canonical`](https://emirodgar.com/etiqueta-canonica) 
+El punto más relevante para garantizar el éxito y evitar contenido duplicado será usar la [etiqueta `canonical`](https://emirodgar.com/etiqueta-canonica) pero debemos ser consecuentes con ello y apoyar esa misma decisión a través de las redirecciones, enlazado interno, sitemaps 
 
 La canonicalización utiliza una serie de factores (redirecciones, rel-canonical, enlaces internos/externos, sitemaps, etc.); cuanto más consigas que se alineen, más probable será que tu entrada sea seguida.
 
 Aunque el contenido duplicado no hace que su sitio sea penalizado, el uso de parámetros a gran escala podría afectar a sus resultados de SEO.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDQ3NDU0MSwyMTAxMjk3MzA4LDYxOT
+eyJoaXN0b3J5IjpbMTA0OTE5MTMzOSwyMTAxMjk3MzA4LDYxOT
 YyNzE2MSwtODQxMzM1MzQ3XX0=
 -->
