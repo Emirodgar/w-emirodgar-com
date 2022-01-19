@@ -25,16 +25,17 @@ Podemos concluir que cualquier parámetro que usemos en una URL -incluso los UTM
 
 > Los parámetros UTM usados en Analytics, aunque son conocidos por Google, también podrían causar este comportamiento de generación de contenido duplicado.
 
-Como dijo John, el proceso de canonización no es sólo usar la etiqueta canónica. Debemos ser coherentes con todas las señales.
+Como dijo John en Twitter, el proceso para que los rastreadores entiendan cuál es nuestra opción principal para posicionar no depende sólo de una acción sino que debemos ser coherentes con todas las señales para que éstas siempre apunten a la versión correcta que queremos indexar.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Canonicalization uses a number of factors (redirects, rel-canonical, internal/external links, sitemaps, more) -- the more you can get them to align, the more likely your input will be followed.</p>&mdash; 🐄 John 🐄 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1444214929679077377?ref_src=twsrc%5Etfw">October 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+El 
 La canonicalización utiliza una serie de factores (redirecciones, rel-canonical, enlaces internos/externos, sitemaps, etc.); cuanto más consigas que se alineen, más probable será que tu entrada sea seguida.
 
 Aunque el contenido duplicado no hace que su sitio sea penalizado, el uso de parámetros a gran escala podría afectar a sus resultados de SEO.
 
 Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQzMTcyMzIsNjE5NjI3MTYxLC04ND
-EzMzUzNDddfQ==
+eyJoaXN0b3J5IjpbLTMzMTkyNjkzMiw2MTk2MjcxNjEsLTg0MT
+MzNTM0N119
 -->
