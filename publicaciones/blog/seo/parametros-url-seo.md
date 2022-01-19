@@ -12,7 +12,12 @@ permalink: parametros-url-seo
 
 --- 
 
+Los parámetros en la URL se suelen identificar con el símbolo `?` seguido de un nombre del parámetro y el valor `parametro=valor`.
+
 Cuando hacemos uso de parámetros en la URL esto ocasiona que a ojos de los buscadores la URL sea distinta de la original y por lo tanto, susceptible de ser rastreada e indexada. Por ejemplo, las siguientes dos URLs, aunque muestren el mismo contenido, podrán ser consideradas como dos páginas distintas:
+
+ - `https://emirodgar.com`
+ - `https://emirodgar.com?parametro=valor`
 
 
 
@@ -26,5 +31,5 @@ Aunque el contenido duplicado no hace que su sitio sea penalizado, el uso de par
 
 Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODc1Nzg1MDFdfQ==
+eyJoaXN0b3J5IjpbLTg0MTMzNTM0N119
 -->
