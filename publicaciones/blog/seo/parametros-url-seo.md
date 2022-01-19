@@ -12,7 +12,7 @@ permalink: parametros-url-seo
 
 --- 
 
-Los parámetros son utilizados en las páginas web para poder pasar información a través de la URL. Se suelen identificar con el símbolo `?` seguido de un nombre del parámetro y el valor `parametro=valor`.
+Los parámetros son utilizados en las páginas web para pasar información a través de la URL. Se inicia el proceso con el símbolo `?` seguido de un nombre del parámetro y el valor `parametro=valor`. Si se quiere enviar más de un parámetro, estos se concatenan con el carácter 
 
 Cuando hacemos uso de parámetros en la URL esto ocasiona que a ojos de los buscadores la URL sea distinta de la original y por lo tanto, susceptible de ser rastreada e indexada. Por ejemplo, las siguientes dos URLs, aunque muestren el mismo contenido, podrán ser consideradas como dos páginas distintas:
 
@@ -31,5 +31,5 @@ Aunque el contenido duplicado no hace que su sitio sea penalizado, el uso de par
 
 Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTgwMjQ1NSwtODQxMzM1MzQ3XX0=
+eyJoaXN0b3J5IjpbMjA0NzYzMjE5MCwtODQxMzM1MzQ3XX0=
 -->
