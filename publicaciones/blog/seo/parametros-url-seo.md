@@ -17,7 +17,7 @@ Los parámetros son utilizados en las páginas web para pasar información a tra
 Los [robots de búsqueda](https://emirodgar.com/detectar-googlebot) consideran que cualquier cambio sobre una URL, ya sea [mayúsculas o minúsculas](https://emirodgar.com/mayusculas-minusculas-url) o el uso de parámetros, es susceptible de que cambie el contenido de la misma y por ende tienden a rastrearla. Por ejemplo, las siguientes URLs, aunque muestren el mismo contenido, podrán ser consideradas como tres páginas distintas:
 
  - `https://emirodgar.com`
- - `https://emirodgar.com?parametro=valor`
+ - `https://emirodgar.com**?parametro=valor**`
  - `https://emirodgar.com?parametro=valor&parametro2=valor`
 
 
@@ -33,5 +33,6 @@ Aunque el contenido duplicado no hace que su sitio sea penalizado, el uso de par
 
 Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5NjI3MTYxLC04NDEzMzUzNDddfQ==
+eyJoaXN0b3J5IjpbLTExNzk5NDcwNDcsNjE5NjI3MTYxLC04ND
+EzMzUzNDddfQ==
 -->
