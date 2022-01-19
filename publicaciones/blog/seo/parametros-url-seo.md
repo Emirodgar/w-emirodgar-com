@@ -21,7 +21,7 @@ Los [robots de búsqueda](https://emirodgar.com/detectar-googlebot) consideran q
  - `https://emirodgar.com?parametro=valor&parametro2=valor`
 
 
-Podemos concluir que cualquier parámetro que usemos en una URL -incluso los UTM de Google Analytics- podría obligar al motor de búsqueda a rastrearla, así que para evitar que se genere contenido duplicado, deberíamos ayudar a los buscadores a **identificar la versión principal que queremos que sea indexada**.
+Podemos concluir que cualquier parámetro que usemos en una URL -incluso los UTM de Google Analytics- podría [obligar al motor de búsqueda a rastrearla](https://emirodgar.com/google-rastreo), así que para evitar que se genere contenido duplicado, deberíamos ayudar a los buscadores a **identificar la versión principal que queremos que sea indexada**.
 
 > Los parámetros UTM usados en Analytics, aunque son conocidos por Google, también podrían causar este comportamiento de generación de contenido duplicado.
 
@@ -35,8 +35,7 @@ La canonicalización utiliza una serie de factores (redirecciones, rel-canonical
 
 Aunque el contenido duplicado no hace que su sitio sea penalizado, el uso de parámetros a gran escala podría afectar a sus resultados de SEO.
 
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTI5NzMwOCw2MTk2MjcxNjEsLTg0MT
-MzNTM0N119
+eyJoaXN0b3J5IjpbLTgyMDQ3NDU0MSwyMTAxMjk3MzA4LDYxOT
+YyNzE2MSwtODQxMzM1MzQ3XX0=
 -->
