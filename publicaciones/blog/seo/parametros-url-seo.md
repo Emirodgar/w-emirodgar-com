@@ -21,8 +21,7 @@ Los [robots de búsqueda](https://emirodgar.com/detectar-googlebot) consideran q
  - `https://emirodgar.com?parametro=valor&parametro2=valor`
 
 
-
-Cualquier parámetro que usemos en una URL -incluso los UTM de Google Analytics- podría obligar al motor de búsqueda a rastrearla, así que para evitar que se indexe mucho contenido duplicado, deberíamos dirigir a los motores de búsqueda a la opción que prefiramos como principal.
+Podemos concluir que cualquier parámetro que usemos en una URL -incluso los UTM de Google Analytics- podría obligar al motor de búsqueda a rastrearla, así que para evitar que se indexe mucho contenido duplicado, deberíamos dirigir a los motores de búsqueda a la opción que prefiramos como principal.
 
 > Los parámetros UTM usados en Analytics, aunque son conocidos por Google, también podrían causar este comportamiento de generación de contenido duplicado.
 
@@ -34,5 +33,5 @@ Aunque el contenido duplicado no hace que su sitio sea penalizado, el uso de par
 
 Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MTY0Njg2LC04NDEzMzUzNDddfQ==
+eyJoaXN0b3J5IjpbNjE5NjI3MTYxLC04NDEzMzUzNDddfQ==
 -->
