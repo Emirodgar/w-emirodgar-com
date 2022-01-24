@@ -204,11 +204,18 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 
 - [Orange Data Mining](https://orangedatamining.com/)
 
+## Otros
+
+Aunque esta categoría puede no ser exlusiva de SEO o marketing, sí tiene aceptación en el mundo digital.
+
+- [Tutanota](https://tutanota.com/): para enviar emails cifrados y con dominio personalizado (plan de pago)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTQ1MTYzMywxNTU2Nzg1MzUwLDY5NT
-U1MTUyOCwtNTgzMzY2MzYyLDE4Njk0MTg2MjEsLTE1OTI2NzY2
-MTksMTcwMTA5MDk2NCwtMjA5MzYzNDc0OCwtMTI4NDY0NTI4My
-wxOTA4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOTg1
-MTI3MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00MTY5NDU0OS
-wzMDk4Mjk5NDEsMTQwMDQ2ODU2NywxMzQ1Mzg3MTYxXX0=
+eyJoaXN0b3J5IjpbMTgyMDI1Mzk0MSwxNDk5NDUxNjMzLDE1NT
+Y3ODUzNTAsNjk1NTUxNTI4LC01ODMzNjYzNjIsMTg2OTQxODYy
+MSwtMTU5MjY3NjYxOSwxNzAxMDkwOTY0LC0yMDkzNjM0NzQ4LC
+0xMjg0NjQ1MjgzLDE5MDg0NDI0OSwtNTQ5NzY4NjU3LC0xMjYy
+NTkwNTAxLDE5ODUxMjczNywtMTI1NTY1NTM5LC01OTAwNzE1ND
+MsLTQxNjk0NTQ5LDMwOTgyOTk0MSwxNDAwNDY4NTY3LDEzNDUz
+ODcxNjFdfQ==
 -->
