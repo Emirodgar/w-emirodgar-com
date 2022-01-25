@@ -12,9 +12,11 @@ permalink: obtener-ua-analytics-javascript
 
 --- 
 
-Como hemos visto en otras publicaciones, la consola 
+Como hemos visto en otras publicaciones, la [consola de Google Chrome es muy útil](https://emirodgar.com/consola-devtools-chrome) para poder acceder a cierta información así como validar -en directo- implementaciones.
 
-Esto lógicamente dependerá de la versión de Google A
+En este caso vamos a ver cómo podemos obtener el 
+
+Esto lógicamente dependerá de la [versión de Google Analytics](https://emirodgar.com/versiones-google-analytics) que estemos usando.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzIxNzk2XX0=
+eyJoaXN0b3J5IjpbMTA0Nzg2NDU1NF19
 -->
