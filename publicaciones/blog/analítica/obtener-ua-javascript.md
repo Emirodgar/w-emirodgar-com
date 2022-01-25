@@ -26,7 +26,13 @@ Bastará con escribirlo (o copiarlo y pegarlo) en la consola y pulsar la tecla `
 
 Si nos aparece el error "*Uncaught ReferenceError: ga is not defined*" implica que el objeto `ga` no ha podido ser accedido y seguramente sea porque no existe. O bien esa página no está usando Google Analytics o utiliza otra versión (por ejemplo con el objeto `gtag`).
 
-En el caso de que quisiéramos establecer una función 
+En el caso de que quisiéramos establecer una función JavaScript para ser usada fuera de la consola, la aproximación correcta sería la siguiente:
+
+    ga(function(tracker) {
+      var clientId = tracker.get('clientId'); 
+      myInternalMeasurementProtocolSetter(clientId);  
+    });
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTgwNTA0NiwtMTE3MTA5MjAyMl19
+eyJoaXN0b3J5IjpbMTU2NTI4NTc5NCwtMTE3MTA5MjAyMl19
 -->
