@@ -22,7 +22,9 @@ En el caso de que el objeto que se esté utilizando sea `ga`, entonces podremos 
 
     ga.getAll()[0].get('clientId');
 
-Bastará con 
+Bastará con escribirlo (o copiarlo y pegarlo) en la consola y pulsar la tecla `Enter`. Automáticamente en la siguiente línea nos aparecerá el UA.
+
+Si nos aparece el error "*Uncaught ReferenceError: ga is not defined*" implica que el objeto ga no ha podido ser accedido y seguramente sea porque 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTgwOTgzMiwtMTE3MTA5MjAyMl19
+eyJoaXN0b3J5IjpbLTc5NTg4MDg1MCwtMTE3MTA5MjAyMl19
 -->
