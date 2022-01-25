@@ -17,6 +17,13 @@ Como hemos visto en otras publicaciones, la [consola de Google Chrome es muy út
 En este caso vamos a ver cómo podemos obtener el UA (identificador) de una cuenta de Google Analytics utilizando JavaScript a través de la consola de DevTools, a la cuál accederemos desde nuestro navegador pulsando la tecla `F12`.
 
 Esto lógicamente dependerá de la [versión de Google Analytics](https://emirodgar.com/versiones-google-analytics) que estemos usando.
+
+En el caso de que el objeto que se esté utilizando sea ga, entonces podremos obtener el identificador de la cuenta a través del siguiente comando:
+
+    ga.getAll()[0].get('clientId');
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzEwOTIwMjJdfQ==
+eyJoaXN0b3J5IjpbLTIwNTY3NDgwMDAsLTExNzEwOTIwMjJdfQ
+==
 -->
