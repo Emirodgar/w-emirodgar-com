@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: datos-estructurados
 
@@ -38,5 +39,6 @@ Una vez generados disponemos de dos [herramientas SEO](https://emirodgar.com/her
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc0NTkyMTcsLTk3ODU4MDI1N119
+eyJoaXN0b3J5IjpbLTEzNDcxODQxNjksLTE3ODc0NTkyMTcsLT
+k3ODU4MDI1N119
 -->
