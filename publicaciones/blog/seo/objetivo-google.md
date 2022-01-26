@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: objetivo-google
 
@@ -22,6 +23,6 @@ Google quiere que sus usuarios -los que realizan las búsquedas- **obtengan los 
 
 Para ayudarnos en esta tarea nos ofrece una serie de [directrices y prácticas recomendadas](https://developers.google.com/search/docs/advanced/guidelines/overview?hl=es) a través de su página oficial. Trabajar estos puntos no garantizará un buen [posicionamiento web](https://emirodgar.com/que-es-el-seo) pero sí al menos que Google descubra e indexe nuestra página de forma correcta. Es decir, avanzar con el primer paso de una estrategia SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjgzMjUzLC0xMzU1MjczMzU0LC0zOD
-U0ODk1OTIsNjI4MjI2Mzc0XX0=
+eyJoaXN0b3J5IjpbLTY3Njk5NjU3MywtMjM2ODMyNTMsLTEzNT
+UyNzMzNTQsLTM4NTQ4OTU5Miw2MjgyMjYzNzRdfQ==
 -->
