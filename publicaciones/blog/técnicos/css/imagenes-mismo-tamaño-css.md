@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: imagenes-tamano-css
 
@@ -39,5 +40,5 @@ Para usarla bastará con incluirla dentro la clase del elemento `img` de la sigu
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzgzNjMxM119
+eyJoaXN0b3J5IjpbMjgzNDYyMzk5LC00Njc4MzYzMTNdfQ==
 -->
