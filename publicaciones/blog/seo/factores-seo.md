@@ -13,7 +13,7 @@ permalink: factores-seo
 ---
 
 
-## Factores SEO 2021
+## Factores SEO 2022
 
 Como cada año me gusta hacer un repaso de los factores SEO que más impacto están teniendo. Dentro de una [estrategia de posicionamiento web](https://emirodgar.com/estrategia-seo) es importante estar atento a los [cambios de algoritmo](https://emirodgar.com/cambio-algoritmo-google) de los buscadores ya que estos darán mayor o menor peso a ciertos factores clave.
 
@@ -102,7 +102,7 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTAyODI0MzIsLTEyMjQ3MjkzMCwzMD
-M4NjQ1MTAsLTEyNjI4NjU0NDUsNTc5NjYxMzM0LDEwNjE0MjQw
-MTgsMTkyNDM4NzU0MiwxNzc1NzY5ODI5XX0=
+eyJoaXN0b3J5IjpbNTExMDAwNDE1LC0xMjI0NzI5MzAsMzAzOD
+Y0NTEwLC0xMjYyODY1NDQ1LDU3OTY2MTMzNCwxMDYxNDI0MDE4
+LDE5MjQzODc1NDIsMTc3NTc2OTgyOV19
 -->
