@@ -5,6 +5,7 @@ lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: programacion
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
@@ -49,6 +50,6 @@ Cada cuál es libre de utilizar el lenguaje de programación que más le guste y
 - Funciona en múltiples entornos
 - Automatiza tareas manuales 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTk2NDE5Miw0NzMxNzU4NTAsLTIwOD
-MzNzA5MDJdfQ==
+eyJoaXN0b3J5IjpbMTA4MTIxNjU2LDQ3MzE3NTg1MCwtMjA4Mz
+M3MDkwMl19
 -->
