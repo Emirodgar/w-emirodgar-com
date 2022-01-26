@@ -3,8 +3,9 @@ title: Consultor SEO
 description: Experto SEO con más de 10 años de experiencia en múltiples agencias, países y proyectos. Hablemos, es gratis.
 lang: es_ES
 author: emirodgar
-sitemap: 0
-feed: 0
+sitemap: 1
+feed: 1
+date: 27/01/2022
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -92,8 +93,9 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU5OTA3ODAsMTIwODM2NjEyMiwtMj
-A3OTIwNzU3NCwtOTM2ODM2OTY3LDE5MzUzNTYzNjcsNzgxOTQ2
-NjIyLDIwMTg1OTcyMSwzMDg0NDA2ODgsNDc5MTU1NzE4LDE0OT
-k1MTE1NjksLTEwNTg1NzkwODMsLTEyNDc4NDk5MzBdfQ==
+eyJoaXN0b3J5IjpbLTE3NTY5NDUwMjgsLTE5MTU5OTA3ODAsMT
+IwODM2NjEyMiwtMjA3OTIwNzU3NCwtOTM2ODM2OTY3LDE5MzUz
+NTYzNjcsNzgxOTQ2NjIyLDIwMTg1OTcyMSwzMDg0NDA2ODgsND
+c5MTU1NzE4LDE0OTk1MTE1NjksLTEwNTg1NzkwODMsLTEyNDc4
+NDk5MzBdfQ==
 -->
