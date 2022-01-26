@@ -12,11 +12,10 @@ $(document).ready(function(){
 
 	$('#side-panel-content').load('https://emirodgar.com/cdn/html/sidebar.html');
 	
-	/*$("#footer").load("https://emirodgar.com/cdn/html/footer.html", function() {
-		$("#anno").html(getDate());
-	});*/
 	$("#anno").html(getDate());
+	$("#anno_experience").html(getExperience());
 	
+	/*
 	$(".erg_protfolio").load('https://emirodgar.com/cdn/html/portfolio.html');
 	$("#section-services-seo").load('https://emirodgar.com/cdn/html/services.html');
 	
@@ -31,6 +30,6 @@ $(document).ready(function(){
 	$('#section-about-me').load('https://emirodgar.com/cdn/html/about.html');
 	$('#section-reasons-seo').load('https://emirodgar.com/cdn/html/reasons-seo.html');
 	
-	
+	*/
 
 });

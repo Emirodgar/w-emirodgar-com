@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="es"> 
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Emilio Rodríguez - Emirodgar">    
+    <link rel="shortcut icon" href="assets/images/hash.png">
+		<meta content="https://emirodgar.com/cdn/images/og/emirodgar.png" property="og:image">
+     
+    <style>
+
+body {
+	 font-family: "Century Gothic", 'Lato', sans-serif;
+}
+ a {
+	 text-decoration: none;
+}
+ .et-hero-tabs, .et-slide {
+	 display: flex;
+	 flex-direction: column;
+	 justify-content: center;
+	 align-items: center;
+	 height: 100vh;
+	 position: relative;
+	 background: #eee;
+	 text-align: center;
+	 padding: 0 2em;
+}
+ .et-hero-tabs h1, .et-slide h1 {
+	 font-size: 2rem;
+	 margin: 0;
+	 letter-spacing: 1rem;
+}
+ .et-hero-tabs h3, .et-slide h3 {
+	 font-size: 1rem;
+	 letter-spacing: 0.3rem;
+	 opacity: 0.6;
+}
+ .et-hero-tabs-container {
+	 display: flex;
+	 flex-direction: row;
+	 position: absolute;
+	 bottom: 0;
+	 width: 100%;
+	 height: 70px;
+	 box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+	 background: #fff;
+	 z-index: 10;
+}
+ .et-hero-tabs-container--top {
+	 position: fixed;
+	 top: 0;
+}
+ .et-hero-tab {
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 flex: 1;
+	 color: #000;
+	 /*letter-spacing: 0.1rem;*/
+   font-family: sans-serif;
+	 transition: all 0.5s ease;
+	 font-size: 0.8rem;
+}
+ .et-hero-tab:hover {
+	 color: white;
+	 background: #999;
+	 transition: all 0.5s ease;
+}
+ .et-hero-tab-slider {
+	 position: absolute;
+	 bottom: 0;
+	 width: 0;
+	 height: 6px;
+	 background: black;
+	 transition: left 0.3s ease;
+}
+
+.et-cta {
+  display: inline;
+    border: 2px solid #999;
+    border-radius: 0.375rem;
+    margin-top: 0.9375rem;
+    text-decoration: none;
+    color: #333;
+    padding: 10px;
+}
+.et-blackcta {
+  background: #333;
+    color: #fff;
+    font-size: 1rem;
+    padding: 1rem;
+    font-weight: bold;
+    position: relative;
+}
+ @media (min-width: 800px) {
+	 .et-hero-tabs h1, .et-slide h1 {
+		 font-size: 3rem;
+	}
+	 .et-hero-tabs h3, .et-slide h3 {
+		 font-size: 1rem;
+	}
+	 .et-hero-tab {
+		 font-size: 1rem;
+	}
+}
+ 
+
+      </style>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+ <script>
+
+  class StickyNavigation {
+	
+    constructor() {
+      this.currentId = null;
+      this.currentTab = null;
+      this.tabContainerHeight = 70;
+      let self = this;
+      $('.et-hero-tab').click(function() { 
+        self.onTabClick(event, $(this)); 
+      });
+      $(window).scroll(() => { this.onScroll(); });
+      $(window).resize(() => { this.onResize(); });
+    }
+    
+    onTabClick(event, element) {
+      event.preventDefault();
+      let scrollTop = $(element.attr('href')).offset().top - this.tabContainerHeight + 1;
+      $('html, body').animate({ scrollTop: scrollTop }, 600);
+    }
+    
+    onScroll() {
+      this.checkTabContainerPosition();
+      this.findCurrentTabSelector();
+    }
+    
+    onResize() {
+      if(this.currentId) {
+        this.setSliderCss();
+      }
+    }
+    
+    checkTabContainerPosition() {
+      let offset = $('.et-hero-tabs').offset().top + $('.et-hero-tabs').height() - this.tabContainerHeight;
+      if($(window).scrollTop() > offset) {
+        $('.et-hero-tabs-container').addClass('et-hero-tabs-container--top');
+      } 
+      else {
+        $('.et-hero-tabs-container').removeClass('et-hero-tabs-container--top');
+      }
+    }
+    
+    findCurrentTabSelector(element) {
+      let newCurrentId;
+      let newCurrentTab;
+      let self = this;
+      $('.et-hero-tab').each(function() {
+        let id = $(this).attr('href');
+        let offsetTop = $(id).offset().top - self.tabContainerHeight;
+        let offsetBottom = $(id).offset().top + $(id).height() - self.tabContainerHeight;
+        if($(window).scrollTop() > offsetTop && $(window).scrollTop() < offsetBottom) {
+          newCurrentId = id;
+          newCurrentTab = $(this);
+        }
+      });
+      if(this.currentId != newCurrentId || this.currentId === null) {
+        this.currentId = newCurrentId;
+        this.currentTab = newCurrentTab;
+        this.setSliderCss();
+      }
+    }
+    
+    setSliderCss() {
+      let width = 0;
+      let left = 0;
+      if(this.currentTab) {
+        width = this.currentTab.css('width');
+        left = this.currentTab.offset().left;
+      }
+      $('.et-hero-tab-slider').css('width', width);
+      $('.et-hero-tab-slider').css('left', left);
+    }
+    
+  }
+  
+  new StickyNavigation();
+
+ </script>
+
+</head> 
+
+<body>
+     <!-- Hero -->
+  <section class="et-hero-tabs">
+    <h1>CONSULTOR SEO</h1>
+    <h3 class="et-cta"><a href="">¿Quieres vender más?</a></h3>
+    <div class="et-hero-tabs-container">
+      <a class="et-hero-tab" href="#tab-es6">Auditoría SEO</a>
+      <a class="et-hero-tab" href="#tab-flexbox">Estrategia SEO</a>
+      <a class="et-hero-tab" href="#tab-react">Formación</a>
+      <a class="et-hero-tab" href="#tab-angular">Recursos</a>
+      <a class="et-hero-tab" href="#tab-other">Contacto</a>
+      <span class="et-hero-tab-slider"></span>
+    </div>
+  </section>
+
+  <!-- Main -->
+  <main class="et-main">
+    <section class="et-slide" id="tab-es6">
+      <h1>Auditoría SEO</h1>
+      <h3>Garantiza la mejor base SEO</h3>
+      <p>La auditoría cuenta con ksdfksdjfsdjk</p>
+      <a class="et-blackcta"href="">Me interesa</a>
+    </section>
+    <section class="et-slide" id="tab-flexbox">
+      <h1>Estrategia SEO</h1>
+      <h3>te ayudo a definir el camino para lograr tus objetivos</h3>
+      <p>Definir las acciones que más impacto tendrán en los resultados no es tarea fácil.</p>
+    </section>
+    <section class="et-slide" id="tab-react">
+      <h1>Formación</h1>
+      <h3>prepara a tus equipos en SEO y analítica web</h3>
+      <p>Formar adecuadamente a un equipo te ayudará a avanzar kajsdlkasjdlk</p>
+    </section>
+    <section class="et-slide" id="tab-angular">
+      <h1>Recursos</h1>
+      <h3>te ofrezco</h3>
+      <p>He preparado una recopilación de las mejores herramientas para trabajar una estrategia digital. También te ofrezco mi extensión SEO para Chrome y mis templates de Data Studio.</p>
+      <a class="et-cta" href="">Extensión SEO</a> <a class="et-cta" href="">Plantillas SEO Excel</a> <a class="et-cta" href="">Dashboard SEO</a> <a class="et-cta" href="">Publicaciones SEO</a>
+    </section>
+    <section class="et-slide" id="tab-other">
+      <h1>Emilio Rodríguez</h1>
+      <h3>más de 15 años como consultor SEO</h3>
+      <p>Desde el 2005 participo en el diseño y ejecución de estrategias digitales. He trabajado como consultor, analista, director de departamento y jefe de proyecto.</p>
+      <p>Estoy homologado por ICEX España para ayudar a las empresas a internacionalizar sus productos.</p>
+      <p>Compagino mi trabajo dando clases en universidades y centros de negocio y también como ponente y jurado en diversos eventos del sector.</p>
+    </section>
+  </main>
+
+
+</body>
+</html> 
+
