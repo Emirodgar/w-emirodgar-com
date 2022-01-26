@@ -7,6 +7,7 @@ sitemap: 1
 feed: 1
 folder: programacion
 layout: emirodgar_post
+date: 27/01/2022
 permalink: bloquear-acceso-pais
 
 ---
@@ -50,5 +51,6 @@ Otra opción es extraer la IP del visitante en el momento de acceso a nuestra p�
 
 Este proceso es más costoso que el anterior a nivel de recursos puesto que por cada petición de acceso tenemos que hacer una validación a través de un script. De la otra forma es el propio servidor quién hace la comprobación y además se ahorra el tiempo de conexión con la API.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjE4ODc4Miw3NDM3MTk0ODhdfQ==
+eyJoaXN0b3J5IjpbMTcxNjgyNDkwLC00NjYxODg3ODIsNzQzNz
+E5NDg4XX0=
 -->
