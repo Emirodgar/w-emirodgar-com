@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: relacion-titulo-h1
 
@@ -48,7 +49,7 @@ En este caso el término por el que queremos posicionar representa una pequeña 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTA0NTMzMywxODIzMjM2MjA0LC0xNj
-k0ODkzOTEyLC05Mjc0OTAzMzksLTExMDc2MjM1NTksMTgwMjg4
-MDgyNF19
+eyJoaXN0b3J5IjpbLTE3NzYzMTczOTUsMTgyMzIzNjIwNCwtMT
+Y5NDg5MzkxMiwtOTI3NDkwMzM5LC0xMTA3NjIzNTU5LDE4MDI4
+ODA4MjRdfQ==
 -->
