@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: parametros-url-seo
 
@@ -34,6 +35,6 @@ El punto más relevante para garantizar el éxito y evitar contenido duplicado s
 Aunque **el contenido duplicado no genera una penalización**, el uso de parámetros a gran escala podría afectar a los resultados de la estrategia SEO, por ello siempre es recomendable gestionar los parámetros de forma correcta.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mzc1MTIzNSwyMTAxMjk3MzA4LDYxOT
-YyNzE2MSwtODQxMzM1MzQ3XX0=
+eyJoaXN0b3J5IjpbLTIwMzI4Nzk3ODEsMTI2Mzc1MTIzNSwyMT
+AxMjk3MzA4LDYxOTYyNzE2MSwtODQxMzM1MzQ3XX0=
 -->
