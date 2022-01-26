@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: centrar-imagen-css
 
@@ -33,5 +34,5 @@ Para usarla bastará con incluirla dentro la clase del elemento `img` de la sigu
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzA0MDMyMl19
+eyJoaXN0b3J5IjpbLTE4Mjk4MjM2MzgsMTk2MzA0MDMyMl19
 -->
