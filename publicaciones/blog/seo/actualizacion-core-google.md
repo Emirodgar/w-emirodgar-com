@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
+date: 27/01/2022
 permalink: google-core-update
 
 --- 
@@ -78,9 +79,9 @@ Todas las preguntas anteriores nos ayudarán a discernir si nuestro contenido es
 
 Si estuviéramos en el último caso, deberíamos trabajar una **estrategia de optimización de contenidos** que nos ayude a cualificar las páginas de nuestro sitio web.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1NTMwMzgxLDIxMzkyNjMzODMsLTM5MD
-AyOTAwNiwxODU0NjYwMDgwLC0xMzczNDY0ODQ4LC0xMjk2NDc2
-MDY1LC0xNTk0NDQyNTg3LDE2MDA0Njg3OTEsLTE1MTIzODc3ND
-EsLTUwNjc5MDc5NSwzNjUxOTU5MDUsMjA3ODU3NTY0Niw3NDQ4
-OTgzODFdfQ==
+eyJoaXN0b3J5IjpbMjE4MzY2ODIxLDcyNTUzMDM4MSwyMTM5Mj
+YzMzgzLC0zOTAwMjkwMDYsMTg1NDY2MDA4MCwtMTM3MzQ2NDg0
+OCwtMTI5NjQ3NjA2NSwtMTU5NDQ0MjU4NywxNjAwNDY4NzkxLC
+0xNTEyMzg3NzQxLC01MDY3OTA3OTUsMzY1MTk1OTA1LDIwNzg1
+NzU2NDYsNzQ0ODk4MzgxXX0=
 -->
