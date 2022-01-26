@@ -7,6 +7,7 @@ sitemap: 1
 feed: 1
 folder: seo
 author: Emirodgar
+date: 27/01/2022
 permalink: regex-robots-txt
 
 ---
@@ -34,5 +35,6 @@ Es importante recordar que las reglas que transmitimos a través del robots.txt 
 
 Por último, si [bloqueamos el rastreo de ficheros clave](https://emirodgar.com/bloquear-indexacion-js-css) para nuestra visualización mobile, podría afectar a nuestro posicionamiento, por lo que hay que ser muy cautos con los ficheros y páginas que queremos evitar que sean rastreados por los robots de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMTk0NjgsMTY4MDg5NjM3N119
+eyJoaXN0b3J5IjpbMTEwOTY2MjAwNCw3NDIxOTQ2OCwxNjgwOD
+k2Mzc3XX0=
 -->
