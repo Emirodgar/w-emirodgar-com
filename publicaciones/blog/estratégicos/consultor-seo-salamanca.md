@@ -5,6 +5,7 @@ lang: es_ES
 author: emirodgar
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -76,7 +77,7 @@ Sé el líder digital de tu sector.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDYzMDA4OCwtMTMwNjk5NTM3MCwtOD
-AyOTg5OTkyLC0xOTgwMTkxNzAyLDk2NjAxNDk2NywtMjQ3NjIy
-ODYyLDIwNjc1OTg1ODddfQ==
+eyJoaXN0b3J5IjpbLTExNTc5NDc2MDAsMTQ1MDYzMDA4OCwtMT
+MwNjk5NTM3MCwtODAyOTg5OTkyLC0xOTgwMTkxNzAyLDk2NjAx
+NDk2NywtMjQ3NjIyODYyLDIwNjc1OTg1ODddfQ==
 -->
