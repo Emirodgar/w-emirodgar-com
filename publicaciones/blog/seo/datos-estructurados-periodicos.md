@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: datos-estructurados-periodico
 
@@ -56,7 +57,7 @@ Si vamos a escribir un artículo que proporciona instrucciones para completar un
 En este caso es importante que el artículo también esté etiquetado como `NewsArticle` o `Article`.  Al igual que antes, recomendamos consultar la [documentación de Google](https://developers.google.com/search/docs/advanced/structured-data/how-to) para ajustarlos a los requisitos para disponer de resultados enriquecidos.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODAwMzI0NCwtMjA3MDYxNDM1OSwtOT
-I2OTk0OTA5LC0xNDIwMjQ0OTM5LDY2NTc5MTg1MywxODQ5OTcz
-MzE0LC0xNzcyMjE4NTI3XX0=
+eyJoaXN0b3J5IjpbLTc0NzQ0MTA2OCwxMzk4MDAzMjQ0LC0yMD
+cwNjE0MzU5LC05MjY5OTQ5MDksLTE0MjAyNDQ5MzksNjY1Nzkx
+ODUzLDE4NDk5NzMzMTQsLTE3NzIyMTg1MjddfQ==
 -->
