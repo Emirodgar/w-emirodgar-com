@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: objetivo-seo
 
@@ -16,5 +17,5 @@ Dentro de una estrategia SEO podemos tener múltiples objetivos pero el principa
 
 Es importante incidir en la **calidad del tráfico orgánico** ya que no serviría de nada mejorar posicionamiento y captación de tráfico si éste no se basa en nuestro público objetivo y termina saliendo de la página sin interactuar o convertir.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Nzk5MjI5NV19
+eyJoaXN0b3J5IjpbNDcyMTMwODc5LDEwNDc5OTIyOTVdfQ==
 -->
