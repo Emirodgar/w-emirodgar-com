@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
+date: 27/01/2022
 permalink: glosario-terminos-seo
 
 --- 
@@ -19,5 +20,5 @@ A continuación mostramos un listado de los principales términos que utilizamos
 - **Visibilidad**: se utiliza para referirse al posicionamiento web de una página en un buscador. Por ejemplo, ha perdido visibilidad orgánica equivaldría a decir que una página ha perdido tráfico SEO.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODY2MzQ5OSwtNzkxNDcxNTIzXX0=
+eyJoaXN0b3J5IjpbLTU4ODE1MjIwNSwtNzkxNDcxNTIzXX0=
 -->
