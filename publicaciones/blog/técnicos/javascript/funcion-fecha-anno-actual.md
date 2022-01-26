@@ -13,7 +13,7 @@ permalink: funcion-fecha-ano-javascript
 
 ---
 
-En JavaScript tenemos el objeto `Date` que nos permite trabajar de forma cómoda con las fechas. Para poder iniciar dicho objeto usaremos el siguiente comando `new` de la siguiente manera:
+En JavaScript contamos con el objeto `Date` que nos permite trabajar de forma cómoda con las fechas. Para poder iniciar dicho objeto usaremos el siguiente comando `new` de la siguiente manera:
 
     var ano = new Date();
 
@@ -37,5 +37,6 @@ Si lo queremos en una función, podemos utilizarlo de la siguiente manera:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTU5OTI4OSwtMTEwNTYxMDQ1OF19
+eyJoaXN0b3J5IjpbLTEzOTU4OTAwMiwtNDExNTk5Mjg5LC0xMT
+A1NjEwNDU4XX0=
 -->
