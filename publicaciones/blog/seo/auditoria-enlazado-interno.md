@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: analitica
 permalink: auditoria-enlazado-interno
 
@@ -47,5 +48,6 @@ A continuación mostramos algunos puntos clave para una auditoría de enlazado i
     
 10.  **Auditar la profundidad de rastreo de las páginas clave**. Las páginas más relevantes de nuestro sitio web deben poder ser accedidas en un máximo de tres interacciones desde la home.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzA3MDM2MiwtNzA0NTU0MjA5XX0=
+eyJoaXN0b3J5IjpbLTIxMTc3MDQ0NjIsMTEyNzA3MDM2MiwtNz
+A0NTU0MjA5XX0=
 -->
