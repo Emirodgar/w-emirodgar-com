@@ -6,7 +6,7 @@ sitemap: 1
 feed: 1
 folder: seo
 layout: emirodgar_post
-date: 19/05/2021
+date: 27/01/2022
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: factores-seo
 
@@ -102,7 +102,7 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ3MjkzMCwzMDM4NjQ1MTAsLTEyNj
-I4NjU0NDUsNTc5NjYxMzM0LDEwNjE0MjQwMTgsMTkyNDM4NzU0
-MiwxNzc1NzY5ODI5XX0=
+eyJoaXN0b3J5IjpbLTEwNTAyODI0MzIsLTEyMjQ3MjkzMCwzMD
+M4NjQ1MTAsLTEyNjI4NjU0NDUsNTc5NjYxMzM0LDEwNjE0MjQw
+MTgsMTkyNDM4NzU0MiwxNzc1NzY5ODI5XX0=
 -->
