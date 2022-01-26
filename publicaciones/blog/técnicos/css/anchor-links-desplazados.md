@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: anchor-links-desplazado-css
 
@@ -41,5 +42,6 @@ Existen varias formas de poder llevar a cabo un desplazamiento tras hacer clic e
 
 Existen más formas de abordar esta solución a través de CSS por lo que si no os gusta el hecho de tener que usar pseudoelementos [os comparto el siguiente artículo](https://nicolasgallagher.com/jump-links-and-viewport-positioning/demo/) donde explican en detalle otras aproximaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQ3MzY2MjQsLTI5MDMzNTQ2NV19
+eyJoaXN0b3J5IjpbLTE3Mzc1MjEwOTYsLTE5OTQ3MzY2MjQsLT
+I5MDMzNTQ2NV19
 -->
