@@ -9,7 +9,7 @@ folder: programacion
 date: 26/01/2022
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
-permalink: funcion-fecha-anno-javascript
+permalink: funcion-fecha-ano-javascript
 
 ---
 
@@ -21,6 +21,9 @@ Para poder obtener el año actual a través de JavaScript podemos hacer uso del 
       return  n;
     }
 
+En la función anterior
+
+new Date().getFullYear();
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA0NDM4MTVdfQ==
+eyJoaXN0b3J5IjpbLTQ2NjI3NTM4MF19
 -->
