@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: bloquear-indexacion-contenido
 
@@ -40,6 +41,6 @@ Como alternativas podemos cargar el contenido que queremos ocultar a los buscado
 
 Ojo con [bloquear los ficheros JS o CSS](https://emirodgar.com/bloquear-indexacion-js-css) ya que podríamos provocar conflictos en la indexación y visualización de la página por parte de los buscadores.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDY5Nzc4OSwtMTA3ODY0NTYxMywyMD
-IzNDY0NzQ1LDQ2Mjg4MzUyOV19
+eyJoaXN0b3J5IjpbLTE2MTkwNTcxMTUsMjA0MDY5Nzc4OSwtMT
+A3ODY0NTYxMywyMDIzNDY0NzQ1LDQ2Mjg4MzUyOV19
 -->
