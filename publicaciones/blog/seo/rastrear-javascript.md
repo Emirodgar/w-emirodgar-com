@@ -6,6 +6,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: seo
+date: 27/01/2022
 lang: es_ES
 layout: emirodgar_post
 permalink: rastrear-javascript
@@ -56,5 +57,6 @@ El esquema final de trabajo que realiza Googlebot será el siguiente:
  6. El resultado final obtenido en el punto anterior será enviado a su íncide para que pueda ser indexado posicionado en las futuras búsquedas.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTE5NzQ3LC0xMDkzNzAzNzE0XX0=
+eyJoaXN0b3J5IjpbMzIzNTMyODQzLDE0MjExOTc0NywtMTA5Mz
+cwMzcxNF19
 -->
