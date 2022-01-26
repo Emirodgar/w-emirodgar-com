@@ -7,6 +7,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: seo
+date: 27/01/2022
 lang: es_ES
 permalink: mayusculas-minusculas-url
 
@@ -47,6 +48,6 @@ No, Google lo ha dicho muchas veces: **no hay penalización por contenido duplic
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDIwODc4NjksLTIwMTI3MjIzMjRdfQ
-==
+eyJoaXN0b3J5IjpbMzgxMzA4NDU5LC0xODAyMDg3ODY5LC0yMD
+EyNzIyMzI0XX0=
 -->
