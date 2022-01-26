@@ -13,7 +13,7 @@ permalink: funcion-fecha-anno-javascript
 
 ---
 
-
+Para poder obtener 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDYxNjk5MF19
+eyJoaXN0b3J5IjpbNDU2NDU0ODc1XX0=
 -->
