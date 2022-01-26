@@ -5,6 +5,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
+date: 27/01/2022
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: cambiar-user-agent-chrome
@@ -37,7 +38,7 @@ En este punto se nos abrirá un panel con varias opciones. Tendremos que ir al b
 Ahora podremos optar por seleccionar un user agent de los que ya vienen predefinidos en el combo o introducir uno específico nuestro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4ODgwMzEzLC0zMTgwNDY4MCwyMDEwMT
-U2ODEsNzUwMzQzOTg5LC0xMTQyNTAwOTU4LC0xMDgwOTU4NTQx
-LC0xNDY1NzMxOTAxXX0=
+eyJoaXN0b3J5IjpbLTEyNjQzNDcyMzEsOTA4ODgwMzEzLC0zMT
+gwNDY4MCwyMDEwMTU2ODEsNzUwMzQzOTg5LC0xMTQyNTAwOTU4
+LC0xMDgwOTU4NTQxLC0xNDY1NzMxOTAxXX0=
 -->
