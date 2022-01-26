@@ -6,6 +6,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: jekyll
+date: 27/01/2022
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: colorear-codigo-jekyll
@@ -37,5 +38,6 @@ Si queremos modificar los colores predeterminados lo podemos hacer creando un c�
 
 En este último caso bastará con que seleccionemos el que más nos guste e incorporemos su código en nuestra página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDc4NTUzMiwtOTM0MjcyOTEwXX0=
+eyJoaXN0b3J5IjpbOTk3NjYxMTY0LC0zMzA3ODU1MzIsLTkzND
+I3MjkxMF19
 -->
