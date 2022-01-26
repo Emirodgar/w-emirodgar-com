@@ -7,6 +7,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: seo
+date: 27/01/2022
 lang: es_ES
 permalink: shopify-seo
 
@@ -96,8 +97,8 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjYxNzY1MiwtMTYwMjczNDU0NywtNj
-c4Njc1Mjg5LDk4NTMyOTQ2NywtMTcyNzA1NTkzMiwtMTA0OTQ5
-ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMjI1NTEyNjg0LD
-QxMDUwNDYwOSw1NzI4OTg3NTddfQ==
+eyJoaXN0b3J5IjpbNzkyNDQ2NDQsLTc5MjYxNzY1MiwtMTYwMj
+czNDU0NywtNjc4Njc1Mjg5LDk4NTMyOTQ2NywtMTcyNzA1NTkz
+MiwtMTA0OTQ5ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMj
+I1NTEyNjg0LDQxMDUwNDYwOSw1NzI4OTg3NTddfQ==
 -->
