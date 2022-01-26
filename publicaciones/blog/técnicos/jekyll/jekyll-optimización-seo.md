@@ -6,6 +6,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: jekyll
+date: 27/01/2022
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: optimizacion-seo-jekyll
@@ -70,6 +71,6 @@ De esta forma nos aseguramos que cualquier URL cuenta con la información mínim
 
 > Los datos estructurados de Jekyll están bastante limitados por lo que recomiendo [este artículo](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html)  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4MDk3ODQsLTE1MzgyMDg3NTIsMjAyNT
-g3NjU2Nl19
+eyJoaXN0b3J5IjpbMzgwOTk1NzQ0LC0xNTM4MjA4NzUyLDIwMj
+U4NzY1NjZdfQ==
 -->
