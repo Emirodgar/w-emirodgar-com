@@ -5,6 +5,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
+date: 27/01/2022
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-ecommerce
@@ -71,7 +72,7 @@ Aunque no es SEO, sí puede ser un buen complemento a nuestra estrategia y ayuda
 
 A nivel de Google tenemos Google Ads (que son los anuncios pagados que aparecen antes de los resultados SEO) y también Google Merchant Center, donde podremos publicar directamente nuestros productos en la pestaña de Shopping / Compras de los resultados de búsqueda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2NzI2MjY5LDE4MTQxODQzNzAsMTg3MD
-gyNzczNSwtMTAzNjI5MzI0NiwtMTE3ODgyNzYyMCw2NDQyNjk1
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTcwODgyNjI4Myw3MzY3MjYyNjksMTgxND
+E4NDM3MCwxODcwODI3NzM1LC0xMDM2MjkzMjQ2LC0xMTc4ODI3
+NjIwLDY0NDI2OTU5NF19
 -->
