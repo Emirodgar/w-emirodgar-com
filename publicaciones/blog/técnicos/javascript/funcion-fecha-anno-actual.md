@@ -13,7 +13,14 @@ permalink: funcion-fecha-anno-javascript
 
 ---
 
-Para poder obtener 
+Para poder obtener el año actual a través de JavaScript podemos hacer uso del método getFullYear
+
+    function  getDate() {
+      var  d = new  Date();
+      var  n = d.getFullYear();
+      return  n;
+    }
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NDU0ODc1XX0=
+eyJoaXN0b3J5IjpbLTk4MjIyNzA3N119
 -->
