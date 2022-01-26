@@ -5,6 +5,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
+date: 27/01/2022
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-videos-youtube
@@ -187,7 +188,7 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDM2MDE0OSwtMTkwNjY3MTkyLDIwOT
-AxOTI1OTMsLTE2NDYyOTU4NTgsOTc1OTA2Nzg1LDE1NDY5NTYy
-ODFdfQ==
+eyJoaXN0b3J5IjpbLTQ3NjgwNDAzLDEwMDAzNjAxNDksLTE5MD
+Y2NzE5MiwyMDkwMTkyNTkzLC0xNjQ2Mjk1ODU4LDk3NTkwNjc4
+NSwxNTQ2OTU2MjgxXX0=
 -->
