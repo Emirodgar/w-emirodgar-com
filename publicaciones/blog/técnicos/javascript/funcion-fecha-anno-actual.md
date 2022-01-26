@@ -6,7 +6,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 folder: programacion
-date: 26/01/2022
+date: 25/01/2022
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: funcion-fecha-ano-javascript
@@ -37,5 +37,5 @@ Si lo queremos en una función, podemos utilizarlo de la siguiente manera:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU2MTA0NThdfQ==
+eyJoaXN0b3J5IjpbLTQxMTU5OTI4OSwtMTEwNTYxMDQ1OF19
 -->
