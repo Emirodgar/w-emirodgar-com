@@ -7,6 +7,7 @@ sitemap: 1
 feed: 1
 folder: seo
 author: Emirodgar
+date: 27/01/2022
 permalink: url-almohadilla-seo
 
 ---
@@ -39,6 +40,6 @@ Sea como sea, es una herramienta útil que nos puede ayudar a que los buscadores
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5NDcwMSw3NjgwMTk4NjksMTA2MDQ2Mz
-g5MywtMTI3MTUxODQ0NV19
+eyJoaXN0b3J5IjpbLTgyNDI1NTQwMyw5ODk0NzAxLDc2ODAxOT
+g2OSwxMDYwNDYzODkzLC0xMjcxNTE4NDQ1XX0=
 -->
