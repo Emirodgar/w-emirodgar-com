@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: seo-criptomonedas
 
@@ -39,6 +40,6 @@ No obstante, y para dar una estimación, podríamos valorar como media los sigui
 El pago de los mismos se puede realizar a través de Bitcoin (`BTH`), Ethereum (`ETH`), Dogecoin (`DOGE`) o Cardano (`ADA`).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0MzI2MjgxLDEwMTc2NTk3NjEsMTQxMD
-g1NzEzNyw4ODQyNjAyNjZdfQ==
+eyJoaXN0b3J5IjpbNjQxNTY1NzkzLDY5NDMyNjI4MSwxMDE3Nj
+U5NzYxLDE0MTA4NTcxMzcsODg0MjYwMjY2XX0=
 -->
