@@ -24,7 +24,7 @@ Para poder obtener el año actual a través de JavaScript utilizaremos el métod
 
 El comando anterior nos devolverá el año en curso, ideal para tener siempre actualizado el año en los footers de las páginas web.
 
-Si lo queremos en una fun
+Si lo queremos en una función, podemos utilizarlo de la siguiente manera:
 
 
     function  obtenerAno() {
@@ -33,9 +33,9 @@ Si lo queremos en una fun
       return  n;
     }
 
-En la función anterior
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDM3NTM1Nl19
+eyJoaXN0b3J5IjpbLTExMDU2MTA0NThdfQ==
 -->
