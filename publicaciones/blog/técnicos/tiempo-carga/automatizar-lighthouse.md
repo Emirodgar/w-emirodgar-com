@@ -5,6 +5,7 @@ lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: programacion
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -124,6 +125,6 @@ https://docs.google.com/spreadsheets/d/[ID]/edit#gid=0
 
 A partir de este momento podremos utilizar dicha URL como fuente de origen de los datos en lugar de los ficheros JSON que habíamos subido inicialmente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDA4MjIyLC04MzE5NTc2ODgsLTc3Nz
-Y1MzA1MV19
+eyJoaXN0b3J5IjpbLTk3MjMyOTk5MCwtODMxOTU3Njg4LC03Nz
+c2NTMwNTFdfQ==
 -->
