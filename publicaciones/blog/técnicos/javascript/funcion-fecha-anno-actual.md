@@ -13,9 +13,14 @@ permalink: funcion-fecha-ano-javascript
 
 ---
 
+En JavaScript tenemos el objeto `Date` que nos permite trabajar de forma cómoda con las fechas. Para poder iniciar dicho objeto usaremos el siguiente comando:
+
+    var  d = new  Date();
+
+
 Para poder obtener el año actual a través de JavaScript podemos hacer uso del método `getFullYear` del objeto `Date`. 
 
-    function  getDate() {
+    function  obtenerAno() {
       var  d = new  Date();
       var  n = d.getFullYear();
       return  n;
@@ -25,5 +30,5 @@ En la función anterior
 
 new Date().getFullYear();
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjI3NTM4MF19
+eyJoaXN0b3J5IjpbMTYyNTgzMjE0NF19
 -->
