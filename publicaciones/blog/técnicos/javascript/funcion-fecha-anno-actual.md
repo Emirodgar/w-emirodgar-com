@@ -13,7 +13,7 @@ permalink: funcion-fecha-anno-javascript
 
 ---
 
-Para poder obtener el año actual a través de JavaScript podemos hacer uso del método getFullYear
+Para poder obtener el año actual a través de JavaScript podemos hacer uso del método `getFullYear` del objeto `Date`. 
 
     function  getDate() {
       var  d = new  Date();
@@ -22,5 +22,5 @@ Para poder obtener el año actual a través de JavaScript podemos hacer uso del 
     }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjIyNzA3N119
+eyJoaXN0b3J5IjpbLTE5NDA0NDM4MTVdfQ==
 -->
