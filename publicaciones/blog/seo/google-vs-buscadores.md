@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: google-vs-buscadores
 
@@ -20,5 +21,5 @@ Entonces, **¿por qué hablamos siempre de Google?**. Se trata de una mera cuest
 
 Si nuestro [objetivo SEO](https://emirodgar.com/objetivo-seo) es incrementar el número de tráfico orgánico hacia nuestra página, lógicamente trabajaremos principalmente sobre el buscador que tenga una mayor cuota de mercado, ignorando o relegando a un segundo escenario el resto.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzMwMjMwMl19
+eyJoaXN0b3J5IjpbLTE0NzYyOTczNTAsLTg5NzMwMjMwMl19
 -->
