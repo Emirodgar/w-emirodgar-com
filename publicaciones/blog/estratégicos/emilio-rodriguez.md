@@ -5,6 +5,7 @@ lang: es_ES
 author: emirodgar
 sitemap: 0
 feed: 0
+date: 24/01/2022
 folder: estrategicos
 layout: emirodgar_post
 permalink: emilio-rodriguez
@@ -44,7 +45,7 @@ Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTExNDgyNTksMjA1MDIyMDEwNywtMT
-E2NDMzODQ2NCwtNjk3OTk1MjcwLDE3NjQ3NDM0NzYsMTc2OTQ4
-ODU3LC04OTU4NDQ3ODQsLTcxNDgyNTQ3NF19
+eyJoaXN0b3J5IjpbMTc4NzI5NDA4MiwyMDUwMjIwMTA3LC0xMT
+Y0MzM4NDY0LC02OTc5OTUyNzAsMTc2NDc0MzQ3NiwxNzY5NDg4
+NTcsLTg5NTg0NDc4NCwtNzE0ODI1NDc0XX0=
 -->
