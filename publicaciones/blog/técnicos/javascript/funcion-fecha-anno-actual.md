@@ -1,5 +1,5 @@
 ---
-title: Función JavaScript para sacar el año actual
+title: Función JavaScript para obtener el año actual
 description: 
 lang: es_ES
 author: Emirodgar
@@ -13,12 +13,14 @@ permalink: funcion-fecha-ano-javascript
 
 ---
 
-En JavaScript tenemos el objeto `Date` que nos permite trabajar de forma cómoda con las fechas. Para poder iniciar dicho objeto usaremos el siguiente comando:
+En JavaScript tenemos el objeto `Date` que nos permite trabajar de forma cómoda con las fechas. Para poder iniciar dicho objeto usaremos el siguiente comando `new` de la siguiente manera:
 
-    var  d = new  Date();
+    var d = new Date();
 
 
-Para poder obtener el año actual a través de JavaScript podemos hacer uso del método `getFullYear` del objeto `Date`. 
+Para poder obtener el año actual a través de JavaScript utilizaremos el método `getFullYear` del objeto `Date`. 
+
+new Date().getFullYear();
 
     function  obtenerAno() {
       var  d = new  Date();
@@ -28,7 +30,7 @@ Para poder obtener el año actual a través de JavaScript podemos hacer uso del 
 
 En la función anterior
 
-new Date().getFullYear();
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTgzMjE0NF19
+eyJoaXN0b3J5IjpbLTE5NDgxODQ5MTNdfQ==
 -->
