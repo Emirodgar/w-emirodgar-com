@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 27/01/2022
 folder: seo
 permalink: que-es-el-seo
 
@@ -27,6 +28,6 @@ Por norma general los resultados de pago vienen precedidos de la palabra "anunci
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY3NTIyNDAsMTI5MTAyNTEwNiwtMT
-MyNTQyNjk4OF19
+eyJoaXN0b3J5IjpbMTgxMDI0MTUyOCwxMjkxMDI1MTA2LC0xMz
+I1NDI2OTg4XX0=
 -->
