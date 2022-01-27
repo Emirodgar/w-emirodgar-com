@@ -1,6 +1,6 @@
 ---
 title: Google rastrea mi página con mucha frecuencia
-description: Además de nofollow ahora contamos con sponsored y ugc
+description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
 date: 19/05/2021
@@ -44,6 +44,6 @@ Hay varias formas de que Googlebot identifique y rastree las páginas de nuestro
  - Se envía a través de Google Search Console
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE1NzA1OTIsMTkzNDQ0NzE0NywtMz
-QxMzc1ODc3LDE4NDQzMTQwOTBdfQ==
+eyJoaXN0b3J5IjpbLTUzODk1NTg4MCwxOTM0NDQ3MTQ3LC0zND
+EzNzU4NzcsMTg0NDMxNDA5MF19
 -->
