@@ -12,11 +12,11 @@ permalink: mapa-web
 
 Toda página web que se precie debe tener un **mapa web** para poder organizar los contenidos y facilitar la navegación de sus usuarios.
 
-En la [página principal](https://emirodgar.com) encontrarás información genérica sobre mi experiencia en SEO, clientes con los que he trabajado, servicios SEO que ofrezco y [casos de éxito](https://emirodgar.com/casos-exito-seo).
+En la [página principal](https://emirodgar.com) encontrarás información genérica sobre mi [experiencia en SEO](https://emirodgar.com/experiencia-seo), clientes con los que he trabajado, servicios SEO que ofrezco y [casos de éxito](https://emirodgar.com/casos-exito-seo).
 
-Si quieres profundizar algo más, pu
+Me llamo [Emilio Rodríguez](https://emirodgar.com/emilio-rodriguez), y . 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDkzMTI4NiwxNzUwOTQwMjAyXX0=
+eyJoaXN0b3J5IjpbLTE5NTY2MzE2NzMsMTc1MDk0MDIwMl19
 -->
