@@ -3,7 +3,7 @@ title: Bloquear indexación de Javascript y CSS en estrategia SEO
 description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
-date: 15/05/2021
+date: 15/05/2022
 author: Emirodgar
 lang: es_ES
 sitemap: 1
@@ -45,7 +45,7 @@ Por último, podemos bloquear los archivos CSS ya que esta medida no afectará a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTY1NDE0NSwtMTE1MjY0OTg4OCwtMT
+eyJoaXN0b3J5IjpbLTkwOTUwMzcxMiwtMTE1MjY0OTg4OCwtMT
 UyNjQ4MTE4OCwtNzM4MDg4NzIsLTc5ODQ1NzQsNzY4NDg0NDhd
 fQ==
 -->
