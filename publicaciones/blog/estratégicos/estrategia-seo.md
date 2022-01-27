@@ -119,7 +119,6 @@ El siguiente paso que he dado en la estrategia ha sido abrir un mayor número de
 - Páginas relacionadas con **consultor SEO**
   -   [Carrera profesional](https://emirodgar.com/carrera-profesional/)
   -  [Asesor SEO](https://emirodgar.com/asesor-seo/)
-  -  Consultor SEO en [Salamanca](https://emirodgar.com/consultor-seo/salamanca), [Argentina](https://emirodgar.com/consultor-seo/argentina)  y [México](https://emirodgar.com/consultor-seo/mexico)
   - [Casos de éxito de SEO](/casos-exito-seo)
  - Páginas para mejorar el **enlazado interno**
     -   [Mapa web](https://emirodgar.com/mapa-web)
@@ -217,8 +216,8 @@ Tengo muchas ideas y ganas de seguir ejecutando acciones SEO en emirodgar.com pu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODQxMjU2NywxOTg0NzkzODYxLC0xOD
-EwMTE1NDQsOTUwMDQwOTI4LC0xNzI3NDAwMjI4LDUwOTEwMjc0
-LC04NTkzNTc1ODQsODg5ODg0MzAxLC03MTM3OTgxODQsMjAwOT
-g3NDE5NCwxMTA0MDI2NDA2XX0=
+eyJoaXN0b3J5IjpbLTc5ODk4OTE5NCwtNjU4NDEyNTY3LDE5OD
+Q3OTM4NjEsLTE4MTAxMTU0NCw5NTAwNDA5MjgsLTE3Mjc0MDAy
+MjgsNTA5MTAyNzQsLTg1OTM1NzU4NCw4ODk4ODQzMDEsLTcxMz
+c5ODE4NCwyMDA5ODc0MTk0LDExMDQwMjY0MDZdfQ==
 -->
