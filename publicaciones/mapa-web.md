@@ -16,11 +16,11 @@ Me llamo [Emilio Rodríguez](https://emirodgar.com/emilio-rodriguez), y trabajo 
 
 En la [página principal](https://emirodgar.com) encontrarás información genérica sobre mi [experiencia en SEO](https://emirodgar.com/experiencia-seo), clientes con los que he trabajado, servicios SEO que ofrezco y [casos de éxito](https://emirodgar.com/casos-exito-seo).
 
-Me gusta escribir sobre tecnología y marketing digital; puedes encontrar toda
+Me gusta escribir sobre tecnología y marketing digital; puedes encontrar todos los artículos en la sección de [publicaciones](https://emirodgar.com/publicaciones).
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTkxMzAyNSwxNzUwOTQwMjAyXX0=
+eyJoaXN0b3J5IjpbLTU1MTEwNzg5MywxNzUwOTQwMjAyXX0=
 -->
