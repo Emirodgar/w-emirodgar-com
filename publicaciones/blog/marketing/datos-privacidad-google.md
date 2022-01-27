@@ -1,6 +1,6 @@
 ---
 title: ¿Qué datos almacena Google y porqué lo hace?
-description: Bloquear estos archivos podría afectar a la estrategia SEO. Aprende cómo hacerlo de forma correcta
+description:
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 layout: emirodgar_post
 date: 19/05/2021
@@ -42,6 +42,6 @@ Google te permite las siguientes acciones en relación a tu privacidad y los dat
 -  [Establecer qué datos quieres que se midan y cuáles no](https://myaccount.google.com/data-and-personalization)
 - [Comprobar los niveles de privacidad de tu cuenta](https://myaccount.google.com/privacycheckup/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc5NDI3MSwtMTIyNDUyNzcwMiwtOT
+eyJoaXN0b3J5IjpbMTg1OTQ5MDA1MiwtMTIyNDUyNzcwMiwtOT
 UwMDA3NTg3XX0=
 -->
