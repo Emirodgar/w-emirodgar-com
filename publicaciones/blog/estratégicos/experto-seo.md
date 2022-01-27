@@ -1,6 +1,6 @@
 ---
 title: Cómo convertirse en un Experto en SEO
-description: Aprende todas las vertientes SEO (técnico, contenidos y linking) y domínalas como un experto
+description: 
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -103,5 +103,6 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzgzMzY5Myw5NTQ2OTI4NzNdfQ==
+eyJoaXN0b3J5IjpbMjA3OTE0NjAzNywtMzY3ODMzNjkzLDk1ND
+Y5Mjg3M119
 -->
