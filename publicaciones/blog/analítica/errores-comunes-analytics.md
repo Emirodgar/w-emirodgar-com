@@ -1,6 +1,6 @@
 ---
 title: Errores comunes en Google Analytics 
-description: Conoce la historia y evolución de los diferentes códigos de Google Analytics
+description: 
 image: https://emirodgar.com/cdn/images/og/analitica.png
 layout: emirodgar_post
 author: Emirodgar
@@ -27,5 +27,5 @@ A veces puede ocurrir que el servidor web funciona mal y genera errores 4XX o 5X
 
 También puedes echar un vistazo a los [10 trucos de Google Analytics](https://emirodgar.com/trucos-google-analytics) para obtener un mejor rendimiento de la información recogida en esta plataforma.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODkzMTMzNl19
+eyJoaXN0b3J5IjpbLTU0NDAwMDc3MCwtMzA4OTMxMzM2XX0=
 -->
