@@ -1,6 +1,6 @@
 ---
 title: Trucos para usar la consola de Google Chrome
-description: Optimiza tu tiempo y automatiza el rendimiento de múltiples URLs dentro de tu sitio web
+description: 
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -88,8 +88,8 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDQ2NDU0OCwtMjAxNDE2NDI0OCwtMT
-A2ODk1NzI0LDMxNjM0ODQwMCw0Mjc4MDM5NDgsLTEwMTA2NjIx
-MywtNTExNjQxMzM2LDU2NzQ0NDMxMywxODIxNTg5MzE4LC02OT
-E5OTQyODMsLTg2NjAzMzEyMV19
+eyJoaXN0b3J5IjpbLTMyMTkwNDU5NCwtOTAwNDY0NTQ4LC0yMD
+E0MTY0MjQ4LC0xMDY4OTU3MjQsMzE2MzQ4NDAwLDQyNzgwMzk0
+OCwtMTAxMDY2MjEzLC01MTE2NDEzMzYsNTY3NDQ0MzEzLDE4Mj
+E1ODkzMTgsLTY5MTk5NDI4MywtODY2MDMzMTIxXX0=
 -->
