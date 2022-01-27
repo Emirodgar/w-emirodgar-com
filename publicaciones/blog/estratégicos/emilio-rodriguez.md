@@ -1,6 +1,6 @@
 ---
 title: ¿Quién soy?
-description: Experto SEO con más de 10 años de experiencia en múltiples agencias, países y proyectos. Hablemos, es gratis.
+description: Experto SEO con más de 10 años de experiencia en múltiples agencias, países y proyectos
 lang: es_ES
 author: emirodgar
 sitemap: 0
@@ -45,7 +45,7 @@ Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzI5NDA4MiwyMDUwMjIwMTA3LC0xMT
+eyJoaXN0b3J5IjpbLTUwNTIzMjg1MywyMDUwMjIwMTA3LC0xMT
 Y0MzM4NDY0LC02OTc5OTUyNzAsMTc2NDc0MzQ3NiwxNzY5NDg4
 NTcsLTg5NTg0NDc4NCwtNzE0ODI1NDc0XX0=
 -->
