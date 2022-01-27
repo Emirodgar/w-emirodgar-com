@@ -1,6 +1,6 @@
 ---
 title: Script en Python para hacer unfollow de aquellos que no nos siguen
-description: Guía de instalación para comenzar a trabajar con Python
+description: Código para dejar de seguir automáticamente a los que no te siguen
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -64,6 +64,6 @@ print(str(total_unfollowed) + ' unfollowed')
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAxNjQ1NTgsLTExNTU1ODkwLDY3Nj
-gxNTg4MywxNTI4MTA2MDUzLC00MjAwNDEyNDRdfQ==
+eyJoaXN0b3J5IjpbMjEzODU1MjY4MCwtMTE1NTU4OTAsNjc2OD
+E1ODgzLDE1MjgxMDYwNTMsLTQyMDA0MTI0NF19
 -->
