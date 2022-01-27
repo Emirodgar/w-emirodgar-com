@@ -1,6 +1,6 @@
 ---
 title: Cómo detectar a Googlebot
-description: Además de nofollow ahora contamos con sponsored y ugc
+description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
 date: 19/05/2021
@@ -48,5 +48,6 @@ Por ejemplo, el `User-Agent` para el robot de búsqueda sería el siguiente:
 
 Tan sólo tendríamos que comparar para saber si es Googlebot o no. Rápido y sencillo. La única pega es que alguien podría suplantar a Googlebot usando el mismo valor por lo que la única opción fiable sería la primera.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczMDc1NzM0LDE5MjM1MDU4Nl19
+eyJoaXN0b3J5IjpbMTI1NTM4MDE0MCw3NzMwNzU3MzQsMTkyMz
+UwNTg2XX0=
 -->
