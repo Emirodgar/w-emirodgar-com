@@ -1,6 +1,6 @@
 ---
 title: Google Local Guide Salamanca
-description: Aprende todas las vertientes SEO (técnico, contenidos y linking) y domínalas como un experto
+description: 
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -28,5 +28,6 @@ Intento siempre ofrecer un punto de vista imparcial y, en los últimos años, me
 
 El objetivo es claro, que tengan suficiente información como para poder elegir dónde quieren ir y qué quieren hacer con **ciertas garantías de que no se llevarán ninguna sorpresa**. Lo que cualquier querría si viajara a un sitio que no conoce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE0ODk5OCwtMjYzMjExODE4XX0=
+eyJoaXN0b3J5IjpbLTkxNjg5NDA0MCwtMTQ0MTQ4OTk4LC0yNj
+MyMTE4MThdfQ==
 -->
