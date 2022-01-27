@@ -1,6 +1,6 @@
 ---
 title: Los tres pilares SEO
-description: Estrategia paso a paso para posicionar por Consultor SEO con herramientas gratuitas.
+description: 
 lang: es_ES
 sitemap: 1
 feed: 1
@@ -56,5 +56,6 @@ Para ello debemos conseguir enlaces de calidad que aporten valor y contexto a nu
 
 Es recomendable -aunque no obligatorio- tener presente los [nuevos atributos de enlazado](https://emirodgar.com/atributos-enlaces-google) que ha propuesto Google. Cuanto mejor entienda la naturaleza de cada uno de ellos, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMjcyMjkyLC0xNDc2MjAxNDBdfQ==
+eyJoaXN0b3J5IjpbLTE3NjUxOTI0MTMsNTIwMjcyMjkyLC0xND
+c2MjAxNDBdfQ==
 -->
