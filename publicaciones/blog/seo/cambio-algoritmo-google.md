@@ -1,6 +1,6 @@
 ---
 title: El SEO y los cambios de algoritmo de Google
-description: No es un factor SEO directo pero sí puede afectar a nuestra estrategia de posicionamiento web
+description: 
 image: https://emirodgar.com/cdn/images/og/auditoria.png
 layout: emirodgar_post
 date: 19/05/2021
@@ -76,6 +76,6 @@ Para saber el impacto que ha tenido el cambio de algoritmo en nuestra página po
 En el caso de que hagamos uso de Google Analytics recomiendo las extensiones de navegador [Anotaciones de Google Analytics](https://chrome.google.com/webstore/detail/enhanced-google-analytics/damoaceajjhenadgpppcccgmanobikjh?hl=es) o [Zeo Tools](https://chrome.google.com/webstore/detail/zeo-tools-seo-tool-for-se/klllcoehegdaomenjgcpnbdcnhbjaocl).  Nos ayudarán a cruzar nuestros datos con los diversos cambios de algoritmo conocidos facilitando el análisis del impacto.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTQ4NDY0MCwxOTUwMzQzNTUyLDIxND
-QzMTU5MjJdfQ==
+eyJoaXN0b3J5IjpbLTQ5NDYyODE5NywtODAxNDg0NjQwLDE5NT
+AzNDM1NTIsMjE0NDMxNTkyMl19
 -->
