@@ -1,6 +1,6 @@
 ---
 title: Tráfico y CTR en los resultados de Google
-description: Dependiendo de la posición que tengamos dentro de los resultados obtendremos mayor o menor tráfico
+description: 
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -78,7 +78,7 @@ Aquí van algunas recomendaciones interesantes extraídas del análisis de estos
 Tiene sentido orientar los títulos a preguntas puesto que cuando alguien realiza una búsqueda, [está principalmente buscando respuestas](https://www.blog.google/products/search/providing-more-comprehensive-results-your-questions-search/). Incluir una pregunta en el título implícitamente está diciendo que tenemos la respuesta en el contenido.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkxMTg2OTAsMTk4OTY3Mjg5MSwxNT
-k0ODcyMTA3LDI1MjA5NzU3MywtNDk0NjIwNDU0LDEwNTI2MzM0
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTU5MTk3NDI2MywxOTg5NjcyODkxLDE1OT
+Q4NzIxMDcsMjUyMDk3NTczLC00OTQ2MjA0NTQsMTA1MjYzMzQ3
+M119
 -->
