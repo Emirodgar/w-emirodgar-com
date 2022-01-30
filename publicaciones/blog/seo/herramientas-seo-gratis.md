@@ -6,7 +6,7 @@ layout: emirodgar_post
 author: Emirodgar
 sitemap: 1
 feed: 1
-date: 27/01/2022
+date: 31/01/2022
 folder: seo
 lang: es_ES
 permalink: herramientas-seo-gratis
@@ -212,14 +212,14 @@ Aunque esta categoría puede no ser exlusiva de SEO o marketing, sí tiene acept
 - [Tutanota](https://tutanota.com/): para enviar emails cifrados y con dominio personalizado (plan de pago)
 - [DevToys](https://devtoys.app/): herramienta para desarrolladores que nos ahorra tiempo con diversas funcionalidades
 - [Canva](https://www.canva.com/es_es/): para crear diseños como imágenes, infografías, gráficos, etc.
-- [Webflow](https://webflow.com/): 
+- [Webflow](https://webflow.com/): editor para páginas web
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NTc2MzE4LDExNzk5MTczNDcsMTgyMD
-I1Mzk0MSwxNDk5NDUxNjMzLDE1NTY3ODUzNTAsNjk1NTUxNTI4
-LC01ODMzNjYzNjIsMTg2OTQxODYyMSwtMTU5MjY3NjYxOSwxNz
-AxMDkwOTY0LC0yMDkzNjM0NzQ4LC0xMjg0NjQ1MjgzLDE5MDg0
-NDI0OSwtNTQ5NzY4NjU3LC0xMjYyNTkwNTAxLDE5ODUxMjczNy
-wtMTI1NTY1NTM5LC01OTAwNzE1NDMsLTQxNjk0NTQ5LDMwOTgy
-OTk0MV19
+eyJoaXN0b3J5IjpbLTE4NDEzMjcxNDUsMTE3OTkxNzM0NywxOD
+IwMjUzOTQxLDE0OTk0NTE2MzMsMTU1Njc4NTM1MCw2OTU1NTE1
+MjgsLTU4MzM2NjM2MiwxODY5NDE4NjIxLC0xNTkyNjc2NjE5LD
+E3MDEwOTA5NjQsLTIwOTM2MzQ3NDgsLTEyODQ2NDUyODMsMTkw
+ODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1OTA1MDEsMTk4NTEyNz
+M3LC0xMjU1NjU1MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMzA5
+ODI5OTQxXX0=
 -->
