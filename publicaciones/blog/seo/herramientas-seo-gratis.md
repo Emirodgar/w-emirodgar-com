@@ -211,9 +211,10 @@ Aunque esta categoría puede no ser exlusiva de SEO o marketing, sí tiene acept
 
 - [Tutanota](https://tutanota.com/): para enviar emails cifrados y con dominio personalizado (plan de pago)
 - [DevToys](https://devtoys.app/): herramienta para desarrolladores que nos ahorra tiempo con diversas funcionalidades
+- [Canva](https://www.canva.com/es_es/): para crear diseños como imágenes, infografías, gráficos, etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDMyMDg5NiwxODIwMjUzOTQxLDE0OT
+eyJoaXN0b3J5IjpbMTE3OTkxNzM0NywxODIwMjUzOTQxLDE0OT
 k0NTE2MzMsMTU1Njc4NTM1MCw2OTU1NTE1MjgsLTU4MzM2NjM2
 MiwxODY5NDE4NjIxLC0xNTkyNjc2NjE5LDE3MDEwOTA5NjQsLT
 IwOTM2MzQ3NDgsLTEyODQ2NDUyODMsMTkwODQ0MjQ5LC01NDk3
