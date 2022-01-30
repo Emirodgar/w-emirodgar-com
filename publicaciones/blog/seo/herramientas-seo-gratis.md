@@ -210,9 +210,10 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 Aunque esta categoría puede no ser exlusiva de SEO o marketing, sí tiene aceptación en el mundo digital.
 
 - [Tutanota](https://tutanota.com/): para enviar emails cifrados y con dominio personalizado (plan de pago)
+- [DevToys](https://devtoys.app/): herramienta para desarrolladores que nos ahorra tiempo con diversas funcionalidades
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjc0NDA5OSwxODIwMjUzOTQxLDE0OT
+eyJoaXN0b3J5IjpbMTc1MDMyMDg5NiwxODIwMjUzOTQxLDE0OT
 k0NTE2MzMsMTU1Njc4NTM1MCw2OTU1NTE1MjgsLTU4MzM2NjM2
 MiwxODY5NDE4NjIxLC0xNTkyNjc2NjE5LDE3MDEwOTA5NjQsLT
 IwOTM2MzQ3NDgsLTEyODQ2NDUyODMsMTkwODQ0MjQ5LC01NDk3
