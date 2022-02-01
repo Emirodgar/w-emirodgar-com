@@ -195,6 +195,7 @@ Estas extensiones -la mayoría para el navegador Chrome- nos facilitarán el tra
 - [Checkbot (analizar tiempos de carga)](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 - [Panguin (penalizaciones Google)](https://barracuda.digital/panguin-seo-tool/)
 - [Structured data testing tool](https://chrome.google.com/webstore/detail/structured-data-testing-t/kfdjeigpgagildmolfanniafmplnplpl)
+- [Language Tool (corrector ortográfico)](https://chrome.google.com/webstore/detail/grammar-spell-checker-%E2%80%94-l/oldceeleldhonbafppcapldpdifcinji/related?hl=es)
 
 
 ## <a name="scripts-gsheets"></a>Scripts para Google Sheets
@@ -213,6 +214,7 @@ Aunque esta categoría puede no ser exlusiva de SEO o marketing, sí tiene acept
 - [DevToys](https://devtoys.app/): herramienta para desarrolladores que nos ahorra tiempo con diversas funcionalidades
 - [Canva](https://www.canva.com/es_es/): para crear diseños como imágenes, infografías, gráficos, etc.
 - [Webflow](https://webflow.com/): editor para páginas web
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=es): extensión de Chrome para facilitar la lectura convirtiendo las páginas web a modo oscuro
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NDEzMjcxNDUsMTE3OTkxNzM0NywxOD
