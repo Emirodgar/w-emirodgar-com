@@ -7,7 +7,7 @@ sitemap: 1
 feed: 1
 folder: programacion
 layout: emirodgar_post
-date: 15/05/2021
+date: 03/02/2022
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: consola-devtools-chrome
 
@@ -27,7 +27,7 @@ Aparecerá una ventana con "Ejecutar > Comando" donde podremos escribir directam
 
 ![Consola Google Chrome - hacer captura de pantalla - screenshot](https://i.imgur.com/SrVkxkq.png){:class="img-responsive"}
 
-
+En el caso de que queramos una captura de toda la pantalla, seleccionaremos la opción de "Hacer captura de pantalla de tamaño completo".
 
 ## Obtener listado de variables y objetos creados
 
@@ -100,9 +100,9 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5OTI2MzYwLC04OTE1NjM4ODYsLTMyMT
-kwNDU5NCwtOTAwNDY0NTQ4LC0yMDE0MTY0MjQ4LC0xMDY4OTU3
-MjQsMzE2MzQ4NDAwLDQyNzgwMzk0OCwtMTAxMDY2MjEzLC01MT
-E2NDEzMzYsNTY3NDQ0MzEzLDE4MjE1ODkzMTgsLTY5MTk5NDI4
-MywtODY2MDMzMTIxXX0=
+eyJoaXN0b3J5IjpbLTEyNjQ0ODgxNjMsLTg5MTU2Mzg4NiwtMz
+IxOTA0NTk0LC05MDA0NjQ1NDgsLTIwMTQxNjQyNDgsLTEwNjg5
+NTcyNCwzMTYzNDg0MDAsNDI3ODAzOTQ4LC0xMDEwNjYyMTMsLT
+UxMTY0MTMzNiw1Njc0NDQzMTMsMTgyMTU4OTMxOCwtNjkxOTk0
+MjgzLC04NjYwMzMxMjFdfQ==
 -->
