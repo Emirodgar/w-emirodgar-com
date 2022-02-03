@@ -29,9 +29,11 @@ Aparecerá una ventana con "Ejecutar > Comando" donde podremos escribir directam
 
 En el caso de que queramos una captura de toda la pantalla, seleccionaremos la opción de "Hacer captura de pantalla de tamaño completo".
 
-## Cambiar el user-agent y simular ser Googlebot
+## Simular el acceso como Googlebot
 
-En ciertas ocasiones
+En ciertas ocasiones, por ejemplo cuando queremos validar un prerenderizado para un robot de búsqueda, necesitamos cambiar el user-agent . Desde la consola podemos hacer estos ajustes de forma sencilla.
+
+
 
 ## Obtener listado de variables y objetos creados
 
@@ -104,9 +106,9 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzNjA4MjI0LC04OTE1NjM4ODYsLTMyMT
-kwNDU5NCwtOTAwNDY0NTQ4LC0yMDE0MTY0MjQ4LC0xMDY4OTU3
-MjQsMzE2MzQ4NDAwLDQyNzgwMzk0OCwtMTAxMDY2MjEzLC01MT
-E2NDEzMzYsNTY3NDQ0MzEzLDE4MjE1ODkzMTgsLTY5MTk5NDI4
-MywtODY2MDMzMTIxXX0=
+eyJoaXN0b3J5IjpbLTExOTcxODQxMjksLTg5MTU2Mzg4NiwtMz
+IxOTA0NTk0LC05MDA0NjQ1NDgsLTIwMTQxNjQyNDgsLTEwNjg5
+NTcyNCwzMTYzNDg0MDAsNDI3ODAzOTQ4LC0xMDEwNjYyMTMsLT
+UxMTY0MTMzNiw1Njc0NDQzMTMsMTgyMTU4OTMxOCwtNjkxOTk0
+MjgzLC04NjYwMzMxMjFdfQ==
 -->
