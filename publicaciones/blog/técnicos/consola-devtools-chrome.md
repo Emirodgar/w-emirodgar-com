@@ -31,9 +31,11 @@ En el caso de que queramos una captura de toda la pantalla, seleccionaremos la o
 
 ## Simular el acceso como Googlebot
 
-En ciertas ocasiones, por ejemplo cuando queremos validar un prerenderizado para un robot de búsqueda, necesitamos [cambiar el user-agent](https://emirodgar.com/cambiar-user-agent-chrome) con el que estamos accediendo. Desde la consola podemos hacer estos ajustes de forma sencilla.
+En ciertas ocasiones, por ejemplo cuando queremos validar un pre renderizado para un robot de búsqueda, necesitamos [cambiar el user-agent](https://emirodgar.com/cambiar-user-agent-chrome) con el que estamos accediendo. Desde la consola podemos hacer estos ajustes de forma sencilla. Bastará con seleccionar los tres puntos situados en el extremo superior derecha > Más herramientas y Condiciones de red.
 
 ![Consola Google Chrome - hacer captura de pantalla - screenshot](https://i.imgur.com/8PNIJuX.png){:class="img-responsive"}
+
+Debajo se desplegará el menú de Condiciones de red donde debemos desactivar el check sobre Usar predeterminado del navegador. Ahora tendremos dos opciones, podemos desplegar el combo con 
 
 
 ## Obtener listado de variables y objetos creados
@@ -107,9 +109,9 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5MDM5MDU3LC04OTE1NjM4ODYsLTMyMT
-kwNDU5NCwtOTAwNDY0NTQ4LC0yMDE0MTY0MjQ4LC0xMDY4OTU3
-MjQsMzE2MzQ4NDAwLDQyNzgwMzk0OCwtMTAxMDY2MjEzLC01MT
-E2NDEzMzYsNTY3NDQ0MzEzLDE4MjE1ODkzMTgsLTY5MTk5NDI4
-MywtODY2MDMzMTIxXX0=
+eyJoaXN0b3J5IjpbMTU0NDg2Mjc5NywtODkxNTYzODg2LC0zMj
+E5MDQ1OTQsLTkwMDQ2NDU0OCwtMjAxNDE2NDI0OCwtMTA2ODk1
+NzI0LDMxNjM0ODQwMCw0Mjc4MDM5NDgsLTEwMTA2NjIxMywtNT
+ExNjQxMzM2LDU2NzQ0NDMxMywxODIxNTg5MzE4LC02OTE5OTQy
+ODMsLTg2NjAzMzEyMV19
 -->
