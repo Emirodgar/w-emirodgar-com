@@ -17,6 +17,10 @@ En cualquier navegador Google Chrome podemos pulsar la tecla `F12` y automática
 
 Veamos algunas de las funcionalidades de las que podemos hacer uso. 
 
+## Hacer una captura de la pantalla
+
+Solemos recurrir a extensiones para hacer una captura parcial o total de la pantalla que estamos visualizando, no obstante, el navegador nos ofrece una opción para hacerlo a trav
+
 ## Obtener listado de variables y objetos creados
 
 Si queremos conocer qué variables están disponibles tanto en el entorno del navegador como los asociados a la página o aplicación web, podemos usar los siguientes comandos:
@@ -88,8 +92,9 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTkwNDU5NCwtOTAwNDY0NTQ4LC0yMD
-E0MTY0MjQ4LC0xMDY4OTU3MjQsMzE2MzQ4NDAwLDQyNzgwMzk0
-OCwtMTAxMDY2MjEzLC01MTE2NDEzMzYsNTY3NDQ0MzEzLDE4Mj
-E1ODkzMTgsLTY5MTk5NDI4MywtODY2MDMzMTIxXX0=
+eyJoaXN0b3J5IjpbLTQwMDE5NDIzNiwtMzIxOTA0NTk0LC05MD
+A0NjQ1NDgsLTIwMTQxNjQyNDgsLTEwNjg5NTcyNCwzMTYzNDg0
+MDAsNDI3ODAzOTQ4LC0xMDEwNjYyMTMsLTUxMTY0MTMzNiw1Nj
+c0NDQzMTMsMTgyMTU4OTMxOCwtNjkxOTk0MjgzLC04NjYwMzMx
+MjFdfQ==
 -->
