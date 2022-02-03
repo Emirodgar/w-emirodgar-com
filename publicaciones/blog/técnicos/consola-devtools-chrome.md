@@ -29,7 +29,7 @@ Aparecerá una ventana con "Ejecutar > Comando" donde podremos escribir directam
 
 En el caso de que queramos una captura de toda la pantalla, seleccionaremos la opción de "Hacer captura de pantalla de tamaño completo".
 
-## Simular el acceso como Googlebot
+## Simular el acceso como un buscador o con un navegador y dispositivo diferente
 
 En ciertas ocasiones, por ejemplo cuando queremos validar un pre renderizado para un robot de búsqueda, necesitamos [cambiar el user-agent](https://emirodgar.com/cambiar-user-agent-chrome) con el que estamos accediendo. Desde la consola podemos hacer estos ajustes de forma sencilla. Bastará con seleccionar los tres puntos situados en el extremo superior derecha > Más herramientas y Condiciones de red.
 
@@ -109,9 +109,9 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2OTY1MjcyLC04OTE1NjM4ODYsLTMyMT
-kwNDU5NCwtOTAwNDY0NTQ4LC0yMDE0MTY0MjQ4LC0xMDY4OTU3
-MjQsMzE2MzQ4NDAwLDQyNzgwMzk0OCwtMTAxMDY2MjEzLC01MT
-E2NDEzMzYsNTY3NDQ0MzEzLDE4MjE1ODkzMTgsLTY5MTk5NDI4
-MywtODY2MDMzMTIxXX0=
+eyJoaXN0b3J5IjpbODU2MzU0MTY1LDI2Njk2NTI3MiwtODkxNT
+YzODg2LC0zMjE5MDQ1OTQsLTkwMDQ2NDU0OCwtMjAxNDE2NDI0
+OCwtMTA2ODk1NzI0LDMxNjM0ODQwMCw0Mjc4MDM5NDgsLTEwMT
+A2NjIxMywtNTExNjQxMzM2LDU2NzQ0NDMxMywxODIxNTg5MzE4
+LC02OTE5OTQyODMsLTg2NjAzMzEyMV19
 -->
