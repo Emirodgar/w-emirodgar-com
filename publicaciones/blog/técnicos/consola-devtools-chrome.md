@@ -23,6 +23,8 @@ Solemos recurrir a extensiones para hacer una captura parcial o total de la pant
 
 Para ello, una vez que tengamos la consola abierta tras haber pulsado `F12` abriremos el menú de comandos pulsando `Control` + `Shift`  + `P`.
 
+Aparecerá un popup con "Ejecutar > Comando" donde podremos escribir directamente acciones. En nuestro caso debemos teclear `screenshot` y pulsar `enter`.
+
 ## Obtener listado de variables y objetos creados
 
 Si queremos conocer qué variables están disponibles tanto en el entorno del navegador como los asociados a la página o aplicación web, podemos usar los siguientes comandos:
@@ -94,9 +96,9 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQzMDU4NDksLTMyMTkwNDU5NCwtOT
-AwNDY0NTQ4LC0yMDE0MTY0MjQ4LC0xMDY4OTU3MjQsMzE2MzQ4
-NDAwLDQyNzgwMzk0OCwtMTAxMDY2MjEzLC01MTE2NDEzMzYsNT
-Y3NDQ0MzEzLDE4MjE1ODkzMTgsLTY5MTk5NDI4MywtODY2MDMz
-MTIxXX0=
+eyJoaXN0b3J5IjpbLTg5MTU2Mzg4NiwtMzIxOTA0NTk0LC05MD
+A0NjQ1NDgsLTIwMTQxNjQyNDgsLTEwNjg5NTcyNCwzMTYzNDg0
+MDAsNDI3ODAzOTQ4LC0xMDEwNjYyMTMsLTUxMTY0MTMzNiw1Nj
+c0NDQzMTMsMTgyMTU4OTMxOCwtNjkxOTk0MjgzLC04NjYwMzMx
+MjFdfQ==
 -->
