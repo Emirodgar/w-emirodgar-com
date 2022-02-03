@@ -33,7 +33,7 @@ En el caso de que queramos una captura de toda la pantalla, seleccionaremos la o
 
 En ciertas ocasiones, por ejemplo cuando queremos validar un pre renderizado para un robot de búsqueda, necesitamos [cambiar el user-agent](https://emirodgar.com/cambiar-user-agent-chrome) con el que estamos accediendo. Desde la consola podemos hacer estos ajustes de forma sencilla. Bastará con seleccionar los tres puntos situados en el extremo superior derecha > Más herramientas y Condiciones de red.
 
-![Consola Google Chrome - hacer captura de pantalla - screenshot](https://i.imgur.com/8PNIJuX.png){:class="img-responsive"}
+![Consola Google Chrome - cambiar user agent googlebot](https://i.imgur.com/8PNIJuX.png){:class="img-responsive"}
 
 Debajo se desplegará el menú de Condiciones de red donde debemos desactivar la opción de "Usar predeterminado del navegador". Ahora tendremos dos opciones, podemos desplegar el combo y seleccionar uno de los `user-agent` que viene por defecto o podemos usar la caja de abajo para introducir el que nosotros queramos. 
 
@@ -109,7 +109,7 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyMjA2NzI1LC04OTE1NjM4ODYsLTMyMT
+eyJoaXN0b3J5IjpbMjY2OTY1MjcyLC04OTE1NjM4ODYsLTMyMT
 kwNDU5NCwtOTAwNDY0NTQ4LC0yMDE0MTY0MjQ4LC0xMDY4OTU3
 MjQsMzE2MzQ4NDAwLDQyNzgwMzk0OCwtMTAxMDY2MjEzLC01MT
 E2NDEzMzYsNTY3NDQ0MzEzLDE4MjE1ODkzMTgsLTY5MTk5NDI4
