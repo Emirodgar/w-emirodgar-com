@@ -19,7 +19,9 @@ Veamos algunas de las funcionalidades de las que podemos hacer uso.
 
 ## Hacer una captura de la pantalla
 
-Solemos recurrir a extensiones para hacer una captura parcial o total de la pantalla que estamos visualizando, no obstante, el navegador nos ofrece una opción para hacerlo a trav
+Solemos recurrir a extensiones para hacer una captura parcial o total de la pantalla que estamos visualizando, no obstante, el navegador nos ofrece una opción para hacerlo a través de la consola.
+
+Para ello, una vez que tengamos la consola abierta tras haber pulsado `F12` abriremos el menú de comandos pulsando `Control` + `Shift`  + `P`.
 
 ## Obtener listado de variables y objetos creados
 
@@ -92,9 +94,9 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDE5NDIzNiwtMzIxOTA0NTk0LC05MD
-A0NjQ1NDgsLTIwMTQxNjQyNDgsLTEwNjg5NTcyNCwzMTYzNDg0
-MDAsNDI3ODAzOTQ4LC0xMDEwNjYyMTMsLTUxMTY0MTMzNiw1Nj
-c0NDQzMTMsMTgyMTU4OTMxOCwtNjkxOTk0MjgzLC04NjYwMzMx
-MjFdfQ==
+eyJoaXN0b3J5IjpbLTEzODQzMDU4NDksLTMyMTkwNDU5NCwtOT
+AwNDY0NTQ4LC0yMDE0MTY0MjQ4LC0xMDY4OTU3MjQsMzE2MzQ4
+NDAwLDQyNzgwMzk0OCwtMTAxMDY2MjEzLC01MTE2NDEzMzYsNT
+Y3NDQ0MzEzLDE4MjE1ODkzMTgsLTY5MTk5NDI4MywtODY2MDMz
+MTIxXX0=
 -->
