@@ -23,7 +23,9 @@ Solemos recurrir a extensiones para hacer una captura parcial o total de la pant
 
 Para ello, una vez que tengamos la consola abierta tras haber pulsado `F12` abriremos el menú de comandos pulsando `Control` + `Shift`  + `P`.
 
-Aparecerá un popup con "Ejecutar > Comando" donde podremos escribir directamente acciones. En nuestro caso debemos teclear `screenshot` y pulsar `enter`.
+Aparecerá una ventana con "Ejecutar > Comando" donde podremos escribir directamente acciones. En nuestro caso debemos teclear `screenshot` y pulsar `enter`.
+
+![Emirodgar](https://emirodgar.com/cdn/images/posts/){:class="img-responsive"}
 
 ## Obtener listado de variables y objetos creados
 
@@ -96,9 +98,9 @@ Una vez incluido la variable development=1 en la URL recibiremos un valor adicio
     AMP validation successful.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTU2Mzg4NiwtMzIxOTA0NTk0LC05MD
-A0NjQ1NDgsLTIwMTQxNjQyNDgsLTEwNjg5NTcyNCwzMTYzNDg0
-MDAsNDI3ODAzOTQ4LC0xMDEwNjYyMTMsLTUxMTY0MTMzNiw1Nj
-c0NDQzMTMsMTgyMTU4OTMxOCwtNjkxOTk0MjgzLC04NjYwMzMx
-MjFdfQ==
+eyJoaXN0b3J5IjpbNDQyNjg4MTQxLC04OTE1NjM4ODYsLTMyMT
+kwNDU5NCwtOTAwNDY0NTQ4LC0yMDE0MTY0MjQ4LC0xMDY4OTU3
+MjQsMzE2MzQ4NDAwLDQyNzgwMzk0OCwtMTAxMDY2MjEzLC01MT
+E2NDEzMzYsNTY3NDQ0MzEzLDE4MjE1ODkzMTgsLTY5MTk5NDI4
+MywtODY2MDMzMTIxXX0=
 -->
