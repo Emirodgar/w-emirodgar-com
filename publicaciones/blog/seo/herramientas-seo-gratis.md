@@ -217,14 +217,14 @@ Aunque esta categoría puede no ser exlusiva de SEO o marketing, sí tiene acept
 - [Streamlit](https://streamlit.io/): para hacer un deploy rápido de una aplicación en la nube
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=es): extensión de Chrome para facilitar la lectura convirtiendo las páginas web a modo oscuro
 - [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip): extensión para Chrome que nos permite gestionar las tareas y las pestañas que tenemos abiertas de forma eficiente evitando una saturación del navegador.
-- [Gestionar extensiones](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem?hl=es): esta extensión permite activar/desactivar extensiones de forma rápida evitando una sobre carga del naveg
+- [Gestionar extensiones](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem?hl=es): esta extensión para Chrome permite activar/desactivar extensiones de forma rápida evitando una sobre carga del navegador.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyNTM2NTA1LC0xNzc5NDE1MTI1LC0xOD
-QxMzI3MTQ1LDExNzk5MTczNDcsMTgyMDI1Mzk0MSwxNDk5NDUx
-NjMzLDE1NTY3ODUzNTAsNjk1NTUxNTI4LC01ODMzNjYzNjIsMT
-g2OTQxODYyMSwtMTU5MjY3NjYxOSwxNzAxMDkwOTY0LC0yMDkz
-NjM0NzQ4LC0xMjg0NjQ1MjgzLDE5MDg0NDI0OSwtNTQ5NzY4Nj
-U3LC0xMjYyNTkwNTAxLDE5ODUxMjczNywtMTI1NTY1NTM5LC01
-OTAwNzE1NDNdfQ==
+eyJoaXN0b3J5IjpbMTU0MzEwNzE3NywtMTc3OTQxNTEyNSwtMT
+g0MTMyNzE0NSwxMTc5OTE3MzQ3LDE4MjAyNTM5NDEsMTQ5OTQ1
+MTYzMywxNTU2Nzg1MzUwLDY5NTU1MTUyOCwtNTgzMzY2MzYyLD
+E4Njk0MTg2MjEsLTE1OTI2NzY2MTksMTcwMTA5MDk2NCwtMjA5
+MzYzNDc0OCwtMTI4NDY0NTI4MywxOTA4NDQyNDksLTU0OTc2OD
+Y1NywtMTI2MjU5MDUwMSwxOTg1MTI3MzcsLTEyNTU2NTUzOSwt
+NTkwMDcxNTQzXX0=
 -->
