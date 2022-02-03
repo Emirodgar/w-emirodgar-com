@@ -215,13 +215,14 @@ Aunque esta categoría puede no ser exlusiva de SEO o marketing, sí tiene acept
 - [Canva](https://www.canva.com/es_es/): para crear diseños como imágenes, infografías, gráficos, etc.
 - [Webflow](https://webflow.com/): editor para páginas web
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=es): extensión de Chrome para facilitar la lectura convirtiendo las páginas web a modo oscuro
+- [Streamlit](https://streamlit.io/): para hacer un deploy rápido de una aplicación en la nube
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDEzMjcxNDUsMTE3OTkxNzM0NywxOD
-IwMjUzOTQxLDE0OTk0NTE2MzMsMTU1Njc4NTM1MCw2OTU1NTE1
-MjgsLTU4MzM2NjM2MiwxODY5NDE4NjIxLC0xNTkyNjc2NjE5LD
-E3MDEwOTA5NjQsLTIwOTM2MzQ3NDgsLTEyODQ2NDUyODMsMTkw
-ODQ0MjQ5LC01NDk3Njg2NTcsLTEyNjI1OTA1MDEsMTk4NTEyNz
-M3LC0xMjU1NjU1MzksLTU5MDA3MTU0MywtNDE2OTQ1NDksMzA5
-ODI5OTQxXX0=
+eyJoaXN0b3J5IjpbMjExMjU1MTAxNSwtMTg0MTMyNzE0NSwxMT
+c5OTE3MzQ3LDE4MjAyNTM5NDEsMTQ5OTQ1MTYzMywxNTU2Nzg1
+MzUwLDY5NTU1MTUyOCwtNTgzMzY2MzYyLDE4Njk0MTg2MjEsLT
+E1OTI2NzY2MTksMTcwMTA5MDk2NCwtMjA5MzYzNDc0OCwtMTI4
+NDY0NTI4MywxOTA4NDQyNDksLTU0OTc2ODY1NywtMTI2MjU5MD
+UwMSwxOTg1MTI3MzcsLTEyNTU2NTUzOSwtNTkwMDcxNTQzLC00
+MTY5NDU0OV19
 -->
