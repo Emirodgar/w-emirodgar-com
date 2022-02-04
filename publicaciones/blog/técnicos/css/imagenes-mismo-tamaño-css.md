@@ -8,14 +8,14 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 27/01/2022
-folder: seo
+folder: css
 permalink: imagenes-tamano-css
 
 --- 
 
 A menudo nos enfrentamos a una serie de imágenes en una página web con tamaños distintos. La solución más sensata suele ser trabajar dichas imágenes para disponer de un tamaño estándar en todas ellas, pero ¿qué pasa si se trata de cientos o incluso miles?. Una posible solución sería ajustar el tamaño de forma dinámica con CSS.
 
-Es decir, las imágenes seguirían siendo de diferentes tamaños pero estableceríamos una visualización normalizada a través del código CSS.
+Es decir, las imágenes seguirían siendo de diferentes tamaños, pero estableceríamos una visualización normalizada a través del código CSS.
 
 Lo primero que haremos será establecer el tamaño exacto de cada imagen usando los atributos de `width` (ancho) y `height` (alto). Después haremos uso de `object-fit` . Esta propiedad nos ayudará a definir cómo se comportará la imagen dentro del objeto `img` de `HTML`.
 
@@ -40,5 +40,5 @@ Para usarla bastará con incluirla dentro la clase del elemento `img` de la sigu
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNDYyMzk5LC00Njc4MzYzMTNdfQ==
+eyJoaXN0b3J5IjpbMTU5MTE3ODQ5LC00Njc4MzYzMTNdfQ==
 -->
