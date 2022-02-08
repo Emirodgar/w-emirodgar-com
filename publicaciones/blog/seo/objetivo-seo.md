@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 27/01/2022
+date_modified: 08/02/2022
 folder: seo
 permalink: objetivo-seo
 
@@ -23,7 +24,9 @@ El objetivo del SEO debe ser independiente de otros canales. Aunque está estrec
 
 ## Tipos de objetivos
 
-- Objetivos de marca y visibilidad orgánica: simplemente queremos darnos a conocer y que nuestra marca aparezca en las búsq
+- **Objetivos de marca y visibilidad orgánica**: simplemente queremos darnos a conocer y que nuestra marca aparezca en las búsquedas de nuestros potenciales usuarios. Ideal cuando comenzamos un proyecto nuevo o la empresa no ha invertido en marca hasta el momento.
+- **Objetivo de posicionamiento**: podemos definir una serie de palabras clave por las que queremos posicionar de forma adecuada. Dependiendo de nuestro punto de partida y complejidad del sector, puede ser llevarlas al TOP3, TOP5 o entrar simplemente en el TOP10.
+- Objetivo de tráfico: relacionado con el tráfico que deb
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxNTI2NzgwLDEwNDc5OTIyOTVdfQ==
+eyJoaXN0b3J5IjpbLTE1MjkxNTYxMzgsMTA0Nzk5MjI5NV19
 -->
