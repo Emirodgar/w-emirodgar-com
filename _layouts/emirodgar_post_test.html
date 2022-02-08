@@ -68,9 +68,15 @@
 						{% else %}
 						  {{ words | divided_by:180 }} minutos de lectura
 						{% endif %}</span>
+
 						{% if page.folder == "seo" %}
 						<span><a href="{{ site.url }}/publicaciones-seo">SEO</a></span>
 					  	{% endif %}
+
+						  {% if page.folder == "analitica" %}
+						  <span><a href="{{ site.url }}/publicaciones-analitica">Analítica</a></span>
+							{% endif %}
+
 					</div>
 					{% endif %}
 			    </header>
