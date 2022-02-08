@@ -18,9 +18,11 @@ Google Analytics nos permite incorporar tanto dimensiones como métricas persona
 
 Para poder crear la métrica o dimensión personalizada, lo tendremos que hacer a través del panel de administración. Dentro de la fila de `propiedades` vamos a `Definiciones personalizadas` y luego sobre `Métricas personalizadas` 
 
-Aquí tendremos que definir el nombre, el ámbito y el tipo de formato. Quizá lo más relevante en el caso de las métricas personalizadas s
+Aquí tendremos que definir el nombre, el ámbito y el tipo de formato. Quizá lo más relevante en el caso de las métricas personalizadas sea el ámbito, donde podemos elegir entre `producto` o `hit`.
+
+## Enviar la información a A
 https://emirodgar.com/versiones-google-analytics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU5OTQ5MTEsLTEwOTQ0ODY4OTUsLT
-I3MDYxOTM1NF19
+eyJoaXN0b3J5IjpbODUyNDU4OTY2LC0xMDk0NDg2ODk1LC0yNz
+A2MTkzNTRdfQ==
 -->
