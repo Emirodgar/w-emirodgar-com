@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 27/01/2022
-folder: css
+folder: programacion
 permalink: centrar-imagen-css
 
 --- 
@@ -34,5 +34,5 @@ Para usarla bastará con incluirla dentro la clase del elemento `img` de la sigu
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDU1MTgwNCwxOTYzMDQwMzIyXX0=
+eyJoaXN0b3J5IjpbNDEzMTI3NTEsMTk2MzA0MDMyMl19
 -->
