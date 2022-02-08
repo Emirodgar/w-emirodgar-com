@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
-folder: jekyll
+folder: programacion
 date: 27/01/2022
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -67,7 +67,7 @@ Por ejemplo, en la siguiente imagen podemos ver cómo la URL `https://emirodgar.
 
 En lugar de disponer de una redirección 301 que el robot de búsqueda entendería sin problema, lo que hace Google es marcar la página como no apta para ser indexada (ya que incluye la etiqueta **noindex**) y luego identifica a través del [atributo canonical](https://emirodgar.com/etiqueta-canonica) la URL adecuada. Digamos que no es un proceso tan directo ni rápido como la redirección 301 pero al menos sí será efectivo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDMwMjc1OCwtNTk2ODEwNTM1LC05ND
+eyJoaXN0b3J5IjpbMTIwNTg2MjIwOSwtNTk2ODEwNTM1LC05ND
 UzNTE3OTEsMTE4MDEzMDc1LDY2MjI3MjM0NSwtMTk2NDgzNjc2
 NF19
 -->
