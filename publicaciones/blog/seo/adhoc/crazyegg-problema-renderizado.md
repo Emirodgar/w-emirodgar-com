@@ -27,7 +27,7 @@ Para solucionar esta situación necesitamos convertir el renderizado de `CSR` a 
 
 Hay múltiples maneras de realizar SSR, aunque quizá una de las más rápidas y sencillas sea delegar la responsabilidad en un servicio externo como [prerender.io](https://prerender.io).
 
-Sólo necesitamos identificar correctamente el acceso del robot de CrazyEgg para mostrarle la versión renderizada de la página que previamente hemos hecho (`SSR`). El resto de visitantes seguirá recibiendo la versión estática que deben renderizar (`CRS`) por lo que para ellos no habrá ninguna diferencia.
+Sólo necesitamos identificar correctamente el acceso del robot de CrazyEgg para mostrarle la versión renderizada de la página que previamente hemos hecho (`SSR`). El resto de visitantes seguirá recibiendo la versión estática que deben renderizar (`CSR`) por lo que para ellos no habrá ninguna diferencia.
 
 ### Identificar el robot de CrazyEgg
 
@@ -37,6 +37,6 @@ Para identificar el robot que usa CrazyEgg podemos analizar el log de acceso par
 
 Desde prerender habilitaremos para este `user-agent` la versión SSR que previamente hemos renderzado. Esto nos ayudará a que los análisis que se hagan en CrazyEgg muestren una realidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzU5OTY3NCw3OTQxMzYzOTQsMTM0ND
-g3MzU0MywtMTE5NjYyMTc1MF19
+eyJoaXN0b3J5IjpbLTE5ODAwOTQ1MDQsMjA5NzU5OTY3NCw3OT
+QxMzYzOTQsMTM0NDg3MzU0MywtMTE5NjYyMTc1MF19
 -->
