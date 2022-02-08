@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 08/02/2022
 folder: analitica
 permalink: versiones-google-analytics
 
@@ -75,5 +76,6 @@ La independencia y libertad de medición que GA4 ofrece es algo único hasta est
 
 El código es exactamente el mismo que el de Global Site Tag ya que usaremos la librería `gtag.js` pero la diferencia es que el identificador cambia de "UA-XXXXXXX-X" a "G-XXXXXXXXXX".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzQzODAwLC0xNjYwNDE4MjcxXX0=
+eyJoaXN0b3J5IjpbLTIxMzk3MTEzNTgsMTY3MzQzODAwLC0xNj
+YwNDE4MjcxXX0=
 -->
