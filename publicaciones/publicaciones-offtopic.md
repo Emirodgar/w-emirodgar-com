@@ -5,7 +5,7 @@ lang: es_ES
 layout: emirodgar_post_test
 author: Emirodgar
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
-permalink: publicaciones-seo
+permalink: publicaciones-offtopic
 
 ---
 
@@ -21,5 +21,5 @@ Listado de publicaciones sin ningún tema en común y que no tienen cabida en al
 {% endfor %}
 </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTAyMTU0NV19
+eyJoaXN0b3J5IjpbLTQxNDU1NTI2NiwxNTMxMDIxNTQ1XX0=
 -->
