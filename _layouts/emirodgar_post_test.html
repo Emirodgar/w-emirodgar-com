@@ -61,16 +61,18 @@
 		    <div class="container">
 			    <header class="blog-post-header">
 				    <h1 class="title mb-2">{{ page.title }}</h1>
-				    <div class="meta mb-3"><span class="date">Publicado el {{ page.date |  date: ' %d/%m/%Y' }}</span><span class="time">{% assign words = content | number_of_words %}
+				    {% if page.folder %}
+					<div class="meta mb-3"><span class="date">Publicado el {{ page.date |  date: ' %d/%m/%Y' }}</span><span class="time">{% assign words = content | number_of_words %}
 						{% if words < 360 %}
 						  1 minuto de lectura
 						{% else %}
 						  {{ words | divided_by:180 }} minutos de lectura
 						{% endif %}</span>
-						{% if page.folder== "seo" %}
+						{% if page.folder == "seo" %}
 						<span><a href="{{ site.url }}/publicaciones-seo">SEO</a></span>
 					  	{% endif %}
 					</div>
+					{% endif %}
 			    </header>
 			    
 			    <div class="blog-post-body">
@@ -81,7 +83,7 @@
 				  <a class="nav-link-prev nav-item nav-link rounded-left" href="https://emirodgar.com/contacto">¿HABLAMOS?</a>
 				</nav>
 				
-				{% if page.folder== "seo-tecnico" %}
+				{% if page.folder == "seo-tecnico" %}
 				<div id="blog-conversion" class="section-container capability-card">
 					<h2>Auditoría SEO</h2>
 					<p>Como expertos en SEO técnico, auditamos tu página web para asegurarnos que dispone de la mejor base SEO posible y todo funciona correctamente.</p>
