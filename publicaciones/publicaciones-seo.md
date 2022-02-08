@@ -9,10 +9,6 @@ permalink: publicaciones-seo
 
 ---
 
-Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de otras áreas relacionadas con el Marketing Digital.
-
-## <a name="seo"></a> Publicaciones SEO
-
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
@@ -23,5 +19,5 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 {% endfor %}
 </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTIyMjM0OV19
+eyJoaXN0b3J5IjpbNDY1Njc0MTYxLC0xOTkyMjIzNDldfQ==
 -->
