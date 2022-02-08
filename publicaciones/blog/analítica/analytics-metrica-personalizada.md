@@ -12,7 +12,9 @@ permalink: analytics-metrica-personalizada
 
 --- 
 
-Google Analytics nos permite incorporar tanto dimensiones como métricas personalizadas para ampliar el
+Google Analytics nos permite incorporar tanto dimensiones como métricas personalizadas para ampliar las que trae por defecto. Esto nos permitirá adaptar la plataforma de medición a nuestra realidad y aportar información relevante para nuestra empresa.
+
+Para poder crear la mé
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTY0MTAwN119
+eyJoaXN0b3J5IjpbNjMzNjY5NjExXX0=
 -->
