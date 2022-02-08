@@ -9,6 +9,8 @@ permalink: publicaciones-seo
 
 ---
 
+
+
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
@@ -19,6 +21,6 @@ permalink: publicaciones-seo
 {% endfor %}
 </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NzY5MzE2LDQ2NTY3NDE2MSwtMTk5Mj
+eyJoaXN0b3J5IjpbMjM2OTg5NzY4LDQ2NTY3NDE2MSwtMTk5Mj
 IyMzQ5XX0=
 -->
