@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 08/02/2022
 folder: analitica
 permalink: analytics-ecommerce-capa-de-datos
 
@@ -145,6 +146,7 @@ Ahora sólo queda ejecutar el siguiente código una vez que el usuario ha añadi
 Como se puede ver, dicho código invoca el evento `eec.addToCart` y además tiene asociada la información del producto que ha sido añadido al carrito por lo que esa información será enviada a Google Analytics en ese mismo momento. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTQyMzM3NiwtMTY1ODU2MDQ0MywxNT
-kxMzA1OTQwLC0zOTM5MjUzMDEsNzg0Mzg1MTM4XX0=
+eyJoaXN0b3J5IjpbMTE1MTY2NDM0NiwxNzI1NDIzMzc2LC0xNj
+U4NTYwNDQzLDE1OTEzMDU5NDAsLTM5MzkyNTMwMSw3ODQzODUx
+MzhdfQ==
 -->
