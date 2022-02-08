@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 27/01/2022
-folder: css
+folder: programacion
 permalink: imagenes-tamano-css
 
 --- 
@@ -40,5 +40,6 @@ Para usarla bastará con incluirla dentro la clase del elemento `img` de la sigu
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTE3ODQ5LC00Njc4MzYzMTNdfQ==
+eyJoaXN0b3J5IjpbLTIwNTY3MzU2ODIsMTU5MTE3ODQ5LC00Nj
+c4MzYzMTNdfQ==
 -->
