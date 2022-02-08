@@ -1,6 +1,6 @@
 ---
 title: Publicaciones sobre tecnología
-description: Listado de publicaciones sobre SEO
+description: Listado de publicaciones sobre tecnología
 lang: es_ES
 layout: emirodgar_post_test
 author: Emirodgar
@@ -9,17 +9,17 @@ permalink: publicaciones-tecnologia
 
 ---
 
-Listado de publicaciones relacionadas con el SEO y el Posicionamiento Web.
+Listado de publicaciones relacionadas con la tecnología
 
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
-	{% if page.folder== "seo" %}
+	{% if page.folder== "tecnologia" %}
 	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 	{% endif %}
 {% endif %}
 {% endfor %}
 </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjgxMzc3NF19
+eyJoaXN0b3J5IjpbNDkyOTk5NjM1XX0=
 -->
