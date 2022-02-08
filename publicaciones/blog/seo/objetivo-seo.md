@@ -30,7 +30,12 @@ Los objetivos que definamos para nuestro proyecto SEO dependerán en gran medida
 - **Objetivo de posicionamiento**: podemos definir una serie de palabras clave por las que queremos posicionar de forma adecuada. Dependiendo de nuestro punto de partida y complejidad del sector, puede ser llevarlas al TOP3, TOP5 o entrar simplemente en el TOP10.
 - **Objetivo de tráfico**: relacionado con el tráfico orgánico que debemos hacer llegar a nuestra página. Es importante cualificarlo con el porcentaje de rebote y tiempo en el sitio para asegurarnos de que el tráfico que captamos es de calidad.
 - **Objetivo de conversión**: nos fijaremos únicamente en las conversiones (leads, registros, ventas, etc.) que se han realizado desde tráfico orgánico.
+
+
+## Cuantificar los objetivos
+
+A partir de aquí debemos establecer qué porcentaje 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk5ODA4MzUsMzA5MTMxMTc2LC0xNz
+eyJoaXN0b3J5IjpbLTE2ODY2NzI2MjQsMzA5MTMxMTc2LC0xNz
 I3NjMyODc0LDEwNDc5OTIyOTVdfQ==
 -->
