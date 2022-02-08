@@ -1,5 +1,5 @@
 ---
-title: ¿Qué datos almacena Google y porqué lo hace?
+title: ¿Qué datos almacena Google y por qué lo hace?
 description:
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 layout: emirodgar_post
@@ -42,6 +42,6 @@ Google te permite las siguientes acciones en relación a tu privacidad y los dat
 -  [Establecer qué datos quieres que se midan y cuáles no](https://myaccount.google.com/data-and-personalization)
 - [Comprobar los niveles de privacidad de tu cuenta](https://myaccount.google.com/privacycheckup/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTQ5MDA1MiwtMTIyNDUyNzcwMiwtOT
+eyJoaXN0b3J5IjpbLTE3Nzg4ODg1OCwtMTIyNDUyNzcwMiwtOT
 UwMDA3NTg3XX0=
 -->
