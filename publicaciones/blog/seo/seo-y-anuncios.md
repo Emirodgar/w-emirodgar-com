@@ -19,8 +19,11 @@ No obstante, un gran volumen de páginas utilizan esta estrategia de monetizaci�
 
 ## Evitar el cloacking
 
-Seguro que nuestra primera tentación será eliminar los anuncios para los robots de búsqueda, no obstante, mucho cuidado con eso ya que podríamos incurrir en cloacking y ser penalizados por el
-> El _cloaking_ es una técnica de SEO que se basa en mostrar diferentes contenidos a los usuarios de una web y a los robots de rastreo
+Seguro que nuestra primera tentación será eliminar los anuncios para los robots de búsqueda, no obstante, mucho cuidado con eso ya que podríamos incurrir en *cloacking* y ser penalizados por ello.
+
+> El _cloaking_ es una técnica de SEO que se basa en mostrar diferentes contenidos a los usuarios de una web y a los robots de rastreo.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjEwODM4NV19
+eyJoaXN0b3J5IjpbLTk3MTE0ODM1NF19
 -->
