@@ -14,7 +14,7 @@ permalink: objetivo-seo
 
 --- 
 
-Dentro de una estrategia SEO podemos tener múltiples objetivos, pero el principal siempre será **aumentar la cantidad y calidad del tráfico** de un sitio web a través de resultados orgánicos (tráfico no pagado que proviene de los distintos motores de búsqueda).
+Dentro de una [estrategia SEO](https://emirodgar.com/estrategia-seo) podemos tener múltiples objetivos, pero el principal siempre será **aumentar la cantidad y calidad del tráfico** de un sitio web a través de resultados orgánicos (tráfico no pagado que proviene de los distintos motores de búsqueda).
 
 Es importante incidir en la **calidad del tráfico orgánico**, puesto que no serviría de nada mejorar posicionamiento y captación de tráfico si este no impacta en nuestro público objetivo, ya que en esta situación, si captamos a las personas incorrectas, al llegar a nuestro sitio saldrán sin interactuar o convertir.
 
@@ -31,6 +31,6 @@ Los objetivos que definamos para nuestro proyecto SEO dependerán en gran medida
 - **Objetivo de tráfico**: relacionado con el tráfico orgánico que debemos hacer llegar a nuestra página. Es importante cualificarlo con el porcentaje de rebote y tiempo en el sitio para asegurarnos de que el tráfico que captamos es de calidad.
 - **Objetivo de conversión**: nos fijaremos únicamente en las conversiones (leads, registros, ventas, etc.) que se han realizado desde tráfico orgánico.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5MTMxMTc2LC0xNzI3NjMyODc0LDEwND
-c5OTIyOTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MDk5ODA4MzUsMzA5MTMxMTc2LC0xNz
+I3NjMyODc0LDEwNDc5OTIyOTVdfQ==
 -->
