@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 08/02/2022
 folder: analitica
 permalink: cambiar-nombre-datalayer
 
@@ -41,5 +42,5 @@ A partir de ahora cuando queramos enviar información a la capa de datos lo hare
     </script>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTIzNTc0N119
+eyJoaXN0b3J5IjpbNzY2OTYyOTUsLTY3NTIzNTc0N119
 -->
