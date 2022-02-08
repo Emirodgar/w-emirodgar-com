@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 08/02/2022
 folder: analitica
 permalink: evitar-conversiones-erroneas-analytics
 
@@ -47,5 +48,5 @@ En el caso de que así fuera, tendríamos que [solicitar la eliminación de la m
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzODE0MTA1XX0=
+eyJoaXN0b3J5IjpbLTEyMTEzOTIyMjEsOTYzODE0MTA1XX0=
 -->
