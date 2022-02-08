@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
-folder: jekyll
+folder: programacion
 date: 27/01/2022
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -38,6 +38,6 @@ Si queremos modificar los colores predeterminados lo podemos hacer creando un c�
 
 En este último caso bastará con que seleccionemos el que más nos guste e incorporemos su código en nuestra página.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3NjYxMTY0LC0zMzA3ODU1MzIsLTkzND
-I3MjkxMF19
+eyJoaXN0b3J5IjpbLTE4OTQ1NjMxNjMsLTMzMDc4NTUzMiwtOT
+M0MjcyOTEwXX0=
 -->
