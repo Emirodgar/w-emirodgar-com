@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 08/02/2022
 folder: analitica
 permalink: funnel-compra-ecommerce
 
@@ -168,7 +169,8 @@ Por último, pero no menos importante, si queremos poder visualizar el porcentaj
 
 ![data studio combinar datos](https://emirodgar.com/cdn/images/posts/data-studio-combinar-datos.jpg){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NjEzOTk4LDI4MjQ5NjgwOSw5NzMxMT
-AyMTAsLTEzNTE3MTQ4NjAsNTMzMDkzMjEyLC0xNDU5ODA1MDMs
-MTQ0MjI3NTA2MywtODE3MDQxMjI2LDE0ODU5NTM1OV19
+eyJoaXN0b3J5IjpbLTE0NzQ4NjI3MjgsMjY4NjEzOTk4LDI4Mj
+Q5NjgwOSw5NzMxMTAyMTAsLTEzNTE3MTQ4NjAsNTMzMDkzMjEy
+LC0xNDU5ODA1MDMsMTQ0MjI3NTA2MywtODE3MDQxMjI2LDE0OD
+U5NTM1OV19
 -->
