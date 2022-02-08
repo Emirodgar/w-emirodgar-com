@@ -31,11 +31,12 @@ Sólo necesitamos identificar correctamente el acceso del robot de CrazyEgg para
 
 ### Identificar el robot de CrazyEgg
 
-Para identificar el robot que usa CrazyEgg podemos analizar el log de acceso para identificar el `user-agent` que ha utilizado. En mi caso es el siguiente
+Para identificar el robot que usa CrazyEgg podemos analizar el log de acceso para identificar el `user-agent` que ha utilizado. En mi caso es el siguiente:
 
     Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1.4) Gecko/20091016 (CrazyEgg 2 screenshot agent) Firefox/3.5.4
 
+Desde prerender 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0MTM2Mzk0LDEzNDQ4NzM1NDMsLTExOT
-Y2MjE3NTBdfQ==
+eyJoaXN0b3J5IjpbLTYwMjg1ODk4MCw3OTQxMzYzOTQsMTM0ND
+g3MzU0MywtMTE5NjYyMTc1MF19
 -->
