@@ -35,8 +35,8 @@ Para identificar el robot que usa CrazyEgg podemos analizar el log de acceso par
 
     Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1.4) Gecko/20091016 (CrazyEgg 2 screenshot agent) Firefox/3.5.4
 
-Desde prerender 
+Desde prerender habilitaremos para este `user-agent` la versión SSR que previamente hemos renderzado. Esto nos ayudará a que los análisis que se hagan en CrazyEgg muestren una realidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjg1ODk4MCw3OTQxMzYzOTQsMTM0ND
+eyJoaXN0b3J5IjpbMjA5NzU5OTY3NCw3OTQxMzYzOTQsMTM0ND
 g3MzU0MywtMTE5NjYyMTc1MF19
 -->
