@@ -7,6 +7,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 date: 03/02/2022
+date_modified: 08/02/2022
 folder: seo
 lang: es_ES
 permalink: herramientas-seo-gratis
@@ -218,9 +219,11 @@ Aunque esta categoría puede no ser exlusiva de SEO o marketing, sí tiene acept
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=es): extensión de Chrome para facilitar la lectura convirtiendo las páginas web a modo oscuro
 - [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip): extensión para Chrome que nos permite gestionar las tareas y las pestañas que tenemos abiertas de forma eficiente evitando una saturación del navegador.
 - [Gestionar extensiones](https://chrome.google.com/webstore/detail/one-click-extensions-mana/pbgjpgbpljobkekbhnnmlikbbfhbhmem?hl=es): esta extensión para Chrome permite activar/desactivar extensiones de forma rápida evitando una sobre carga del navegador.
+- [Built With](https://builtwith.com/emirodgar.com): para obtener información acerca de la tecnología usada en un dominio
+- [WMTips](https://www.wmtips.com/tools/info/emirodgar.com): para obtener información sobre un dominio
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzEwNzE3NywtMTc3OTQxNTEyNSwtMT
+eyJoaXN0b3J5IjpbMTIwNzk0OTM2MSwtMTc3OTQxNTEyNSwtMT
 g0MTMyNzE0NSwxMTc5OTE3MzQ3LDE4MjAyNTM5NDEsMTQ5OTQ1
 MTYzMywxNTU2Nzg1MzUwLDY5NTU1MTUyOCwtNTgzMzY2MzYyLD
 E4Njk0MTg2MjEsLTE1OTI2NzY2MTksMTcwMTA5MDk2NCwtMjA5
