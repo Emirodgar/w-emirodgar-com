@@ -24,12 +24,13 @@ El objetivo del SEO debe ser independiente de otros canales. Aunque está estrec
 
 ## Tipos de objetivos
 
-Los objetivos que definamos para nuestro proyecto SEO dependerán en gran medida de lo que queramos conseguir. A continuación mostramos algunos ejemplos:
+Los objetivos que definamos para nuestro proyecto SEO dependerán en gran medida de lo que queramos conseguir. A continuación mostramos algunos ejemplos que serían válidos en cualquier estrategia:
 
 - **Objetivos de marca y visibilidad orgánica**: simplemente queremos darnos a conocer y que nuestra marca aparezca en las búsquedas de nuestros potenciales usuarios. Ideal cuando comenzamos un proyecto nuevo o la empresa no ha invertido en marca hasta el momento.
 - **Objetivo de posicionamiento**: podemos definir una serie de palabras clave por las que queremos posicionar de forma adecuada. Dependiendo de nuestro punto de partida y complejidad del sector, puede ser llevarlas al TOP3, TOP5 o entrar simplemente en el TOP10.
 - **Objetivo de tráfico**: relacionado con el tráfico orgánico que debemos hacer llegar a nuestra página. Es importante cualificarlo con el porcentaje de rebote y tiempo en el sitio para asegurarnos de que el tráfico que captamos es de calidad.
 - **Objetivo de conversión**: nos fijaremos únicamente en las conversiones (leads, registros, ventas, etc.) que se han realizado desde tráfico orgánico.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc2MzI4NzQsMTA0Nzk5MjI5NV19
+eyJoaXN0b3J5IjpbMzA5MTMxMTc2LC0xNzI3NjMyODc0LDEwND
+c5OTIyOTVdfQ==
 -->
