@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 08/02/2022
 folder: analitica
 permalink: analisis-comportamiento-tramitacion-compra
 
@@ -118,8 +119,8 @@ Los nombres que especifiquemos corresponderán a los pasos que se visualizarán 
 
 ![Emirodgar](https://i.imgur.com/v5oWJMd.png){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjU5NTkzOCwtMTM0ODY4NDk3OCwxOD
-U1OTgxNTYzLDIwMDE3NTE0OTksLTEwNDY1NTA0MDgsLTk0MTg4
-NzM0MSwxODA0MDM2NzgwLC0xNjA2NjEyOTQ5LDEzMjY3MDA0Nj
-ddfQ==
+eyJoaXN0b3J5IjpbLTIwMDc3OTEyNTIsMTc3MjU5NTkzOCwtMT
+M0ODY4NDk3OCwxODU1OTgxNTYzLDIwMDE3NTE0OTksLTEwNDY1
+NTA0MDgsLTk0MTg4NzM0MSwxODA0MDM2NzgwLC0xNjA2NjEyOT
+Q5LDEzMjY3MDA0NjddfQ==
 -->
