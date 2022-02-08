@@ -14,12 +14,13 @@ permalink: analytics-metrica-personalizada
 
 Google Analytics nos permite incorporar tanto dimensiones como métricas personalizadas para ampliar las que trae por defecto. Esto nos permitirá adaptar la plataforma de medición a nuestra realidad y aportar información relevante para nuestra empresa.
 
-Dar de alta la métrica o dimensión
+## Dar de alta la métrica o dimensión
 
 Para poder crear la métrica o dimensión personalizada, lo tendremos que hacer a través del panel de administración. Dentro de la fila de `propiedades` vamos a `Definiciones personalizadas` y luego sobre `Métricas personalizadas` 
 
-Aquí tendremos que definir el nombre, 
+Aquí tendremos que definir el nombre, el ámbito y el tipo de formato. Quizá lo más relevante en el caso de las métricas personalizadas s
 https://emirodgar.com/versiones-google-analytics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ0ODY4OTUsLTI3MDYxOTM1NF19
+eyJoaXN0b3J5IjpbLTE0MjU5OTQ5MTEsLTEwOTQ0ODY4OTUsLT
+I3MDYxOTM1NF19
 -->
