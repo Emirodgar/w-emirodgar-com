@@ -5,7 +5,7 @@ lang: es_ES
 layout: emirodgar_post_test
 author: Emirodgar
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
-permalink: publicaciones-estrategicos
+permalink: publicaciones-estrategicas
 
 ---
 
@@ -21,5 +21,5 @@ En esta p√°gina se muestra el listado de las publicaciones que considero estrat√
 {% endfor %}
 </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTY5OTIyM119
+eyJoaXN0b3J5IjpbNzYxMzUwNDldfQ==
 -->
