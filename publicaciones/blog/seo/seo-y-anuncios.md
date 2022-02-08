@@ -25,7 +25,9 @@ Seguro que nuestra primera tentación será eliminar los anuncios para los robot
 
 ## Ralentizar la carga de anuncios
 
-Quizá la mejor aproximación que podemos hacer es cargar los anuncios fuera de la primera carga crítica de la web, de esta forma nos aseguramos que no penaliza la experiencia de los usuarios y que los valores SEO que supervisarán los buscadores -basados en las Core Web Vitals- son correctos.
+Quizá la mejor aproximación que podemos hacer es cargar los anuncios fuera de la primera carga crítica de la web, de esta manera nos aseguramos que no penaliza la experiencia de los usuarios y que los valores SEO que supervisarán los buscadores -basados en las Core Web Vitals- son correctos.
+
+Esto no entra en conflicto con 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTg1NzMzN119
+eyJoaXN0b3J5IjpbLTI1NDUxNTY3NiwxNjE1ODU3MzM3XX0=
 -->
