@@ -22,9 +22,11 @@ Aquí tendremos que definir el nombre, el ámbito y el tipo de formato. Quizá l
 
 ## Enviar la información a Analytics
 
-Este punto dependerá de la [versión de Google Analytics](https://emirodgar.com/versiones-google-analytics) que estemos usando. Para el caso de GA4 o Global Site Tag  ambos usan `gtag.js`- seguiremos los siguientes pasos:
+Este punto dependerá de la [versión de Google Analytics](https://emirodgar.com/versiones-google-analytics) que estemos usando. Para el caso de GA4 o Global Site Tag (ambos usan `gtag.js`) podemos hacerlo de dos formas.
+
+### Enviarlo como 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjA0MzY0NzQsLTExNzgyMTQyNjEsLT
-EwOTQ0ODY4OTUsLTI3MDYxOTM1NF19
+eyJoaXN0b3J5IjpbMTYxNTQ1NTMzNCwtMTE3ODIxNDI2MSwtMT
+A5NDQ4Njg5NSwtMjcwNjE5MzU0XX0=
 -->
