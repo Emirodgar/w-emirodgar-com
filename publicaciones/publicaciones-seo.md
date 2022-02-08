@@ -2,7 +2,7 @@
 title: Publicaciones SEO
 description: Listado de publicaciones sobre SEO
 lang: es_ES
-layout: emirodgar_post
+layout: emirodgar_post_test
 author: Emirodgar
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: publicaciones-seo
@@ -19,5 +19,6 @@ permalink: publicaciones-seo
 {% endfor %}
 </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1Njc0MTYxLC0xOTkyMjIzNDldfQ==
+eyJoaXN0b3J5IjpbOTE4NzY5MzE2LDQ2NTY3NDE2MSwtMTk5Mj
+IyMzQ5XX0=
 -->
