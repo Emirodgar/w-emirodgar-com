@@ -2,7 +2,7 @@
 title: Objetivo del SEO
 description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-layout: emirodgar_post_test
+layout: emirodgar_post
 author: Emirodgar
 lang: es_ES
 sitemap: 1
@@ -40,6 +40,6 @@ A partir de aquí debemos establecer qué porcentaje o valores queremos aspirar 
 
 Existen diversas técnicas para ayudarnos a cualificar los objetivos, es decir, asegurarnos de que los que hemos seleccionado con adecuados y realistas. Una de las más conocidas es la técnica S.M.A.R.T. que son las siglas en inglés de los criterios que recomiendan asociar a cada objetivo: específicos, mensurables, alcanzables, relevantes y temporales.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzAwMzIzMSwxNjM5MzU2MDk2LDMwOT
+eyJoaXN0b3J5IjpbLTk5NTI4ODY4MiwxNjM5MzU2MDk2LDMwOT
 EzMTE3NiwtMTcyNzYzMjg3NCwxMDQ3OTkyMjk1XX0=
 -->
