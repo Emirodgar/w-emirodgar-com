@@ -24,9 +24,21 @@ Aquí tendremos que definir el nombre, el ámbito y el tipo de formato. Quizá l
 
 Este punto dependerá de la [versión de Google Analytics](https://emirodgar.com/versiones-google-analytics) que estemos usando. Para el caso de GA4 o Global Site Tag (ambos usan `gtag.js`) podemos hacerlo de dos formas.
 
-### Enviarlo como 
+### Enviarlo asociado a la configuración
+
+Imaginemos que vamos a usar la métrica número 1 que se identifica en Analytics como `metrica1`.
+
+    gtag('config',  'GA_MEASUREMENT_ID',  
+     {  'custom_map':  {'metrica1':  'valor'}  
+    });  
+
+  
+### Enviarlo como evento
+  
+En el caso de que queramos enviarlo asociado a un evento, 
+gtag('event',  'any_event_name',  {'dimension_name': dimension_value});
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTQ1NTMzNCwtMTE3ODIxNDI2MSwtMT
+eyJoaXN0b3J5IjpbLTc1NDI3MjEzNSwtMTE3ODIxNDI2MSwtMT
 A5NDQ4Njg5NSwtMjcwNjE5MzU0XX0=
 -->
