@@ -13,7 +13,7 @@ permalink: velocidad-sitio-analytics
 
 ---
 
-Para páginas pequeñas suele ser común que la métrica relacionada con la velocidad del sitio aparezca a cero. Eso no significa que dicha página tenga algún problema, simplemente que la muestra que ha analizado no es suficiente.
+Para páginas pequeñas suele ser común que la métrica relacionada con la velocidad del sitio aparezca a cero. Eso no significa que dicha página tenga algún problema, simplemente que la muestra que ha analizado no es suficiente ni relevante.
 
 En la [documentación oficial](https://support.google.com/analytics/answer/1205784?topic=1120718&hl=es) se especifica que la muestra usada para calcular estos valores es de tan sólo el 1%.
 
@@ -29,5 +29,5 @@ Para ello bastará con establecer el parámetro [siteSpeedSampleRate](https://de
 ga('create',  'UA-XXXX-Y',  {'siteSpeedSampleRate':  10});
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MDA1NTI0XX0=
+eyJoaXN0b3J5IjpbLTExMzkxMjQ4NjldfQ==
 -->
