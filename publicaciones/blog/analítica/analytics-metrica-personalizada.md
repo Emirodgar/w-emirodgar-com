@@ -16,9 +16,10 @@ Google Analytics nos permite incorporar tanto dimensiones como métricas persona
 
 Dar de alta la métrica o dimensión
 
-Para poder crear la métrica o dimensión personalizada, lo tendremos que hacer a través del panel de administración 
+Para poder crear la métrica o dimensión personalizada, lo tendremos que hacer a través del panel de administración. Dentro de la fila de `propiedades` vamos a `Definiciones personalizadas` y luego sobre `Métricas personalizadas` 
 
+Aquí tendremos que definir el nombre, 
 https://emirodgar.com/versiones-google-analytics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDYxOTM1NF19
+eyJoaXN0b3J5IjpbLTEwOTQ0ODY4OTUsLTI3MDYxOTM1NF19
 -->
