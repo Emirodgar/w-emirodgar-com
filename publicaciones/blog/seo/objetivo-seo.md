@@ -35,7 +35,11 @@ Los objetivos que definamos para nuestro proyecto SEO dependerán en gran medida
 ## Cuantificar los objetivos
 
 A partir de aquí debemos establecer qué porcentaje o valores queremos aspirar a conseguir. Cuantificar un objetivo (establecer valores concretos) es complejo por lo que la mejor aproximación que podemos hacer es cuantificarlo de manera realista y alcanzable, aunque sea más bajo de lo que nos gustaría. Un objetivo demasiado ambicioso será complicado de conseguir.
+
+## Cualificar los objetivos
+
+Existen diversas técnicas para ayudarnos a cualificar los objetivos, es decir, asegurarnos de que los que hemos seleccionados con adecuados y realistas. Una de las más conocidas es la técnica S.M.A.R.T. que 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTM1NjA5NiwzMDkxMzExNzYsLTE3Mj
-c2MzI4NzQsMTA0Nzk5MjI5NV19
+eyJoaXN0b3J5IjpbMTEyMzYwMTEzMywxNjM5MzU2MDk2LDMwOT
+EzMTE3NiwtMTcyNzYzMjg3NCwxMDQ3OTkyMjk1XX0=
 -->
