@@ -73,9 +73,13 @@
 						<span><a href="{{ site.url }}/publicaciones-seo">SEO</a></span>
 					  	{% endif %}
 
-						  {% if page.folder == "analitica" %}
-						  <span><a href="{{ site.url }}/publicaciones-analitica">Analítica</a></span>
-							{% endif %}
+						{% if page.folder == "analitica" %}
+						<span><a href="{{ site.url }}/publicaciones-analitica">Analítica</a></span>
+						{% endif %}
+
+						{% if page.folder == "marketing" %}
+						<span><a href="{{ site.url }}/publicaciones-marketing">Marketing</a></span>
+						{% endif %}
 
 					</div>
 					{% endif %}
