@@ -39,8 +39,8 @@ En el caso de que queramos enviarlo asociado a un evento, el código que debemos
 
     gtag('event',  'nombre_evento',  {'metrica1': 'valor'});
 
-En este artículo hemos visto cómo utilizar métricas personalizadas de manera simple. En el caso de que queremos crear dimensiones y asociarlas, por ejemplo, con ecommerce
+En este artículo hemos visto cómo utilizar métricas personalizadas de manera simple. Podemos avanzar hacia escenarios más complejos como por ejemplo [analizar el stock de cada producto](https://emirodgar.com/monitorizar-stock-ecommerce-analytics) dentro de un ecommerce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTc5MjY3MCwtMTE3ODIxNDI2MSwtMT
+eyJoaXN0b3J5IjpbLTY5NzE2NzkzOCwtMTE3ODIxNDI2MSwtMT
 A5NDQ4Njg5NSwtMjcwNjE5MzU0XX0=
 -->
