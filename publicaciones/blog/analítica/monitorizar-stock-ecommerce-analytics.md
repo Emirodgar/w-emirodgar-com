@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 folder: analitica
+date: 08/02/2022
 permalink: monitorizar-stock-ecommerce-analytics
 
 --- 
@@ -102,6 +103,6 @@ Yo lo he llamado `Informe Stock` y el resultado del informe será una tabla con 
 ![Analytics dimensión personalizada stock](https://i.imgur.com/GM6nj4i.png){:class="img-responsive"}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTU3OTA5NTksLTM4NTEyMzc1NCwxNT
-IzODY3MjM3LDEwNzQ4ODIzNTddfQ==
+eyJoaXN0b3J5IjpbLTExMDE0MzYxMzMsLTExMTU3OTA5NTksLT
+M4NTEyMzc1NCwxNTIzODY3MjM3LDEwNzQ4ODIzNTddfQ==
 -->
