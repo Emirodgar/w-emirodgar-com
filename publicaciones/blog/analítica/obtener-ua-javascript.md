@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 08/02/2022
 folder: analitica
 permalink: obtener-ua-analytics-javascript
 
@@ -34,6 +35,6 @@ En el caso de que quisiéramos establecer una función JavaScript para ser usada
     });
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1OTA0MTQxLDE1NjUyODU3OTQsLTExNz
-EwOTIwMjJdfQ==
+eyJoaXN0b3J5IjpbMTE0NDE4OTc2Myw4NDU5MDQxNDEsMTU2NT
+I4NTc5NCwtMTE3MTA5MjAyMl19
 -->
