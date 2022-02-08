@@ -9,7 +9,7 @@ permalink: publicaciones-seo
 
 ---
 
-
+Listado de publicaciones relacionadas con el SEO y el posicionamiento web.
 
 <ul>
 {% for page in site.pages %}
@@ -21,6 +21,6 @@ permalink: publicaciones-seo
 {% endfor %}
 </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2OTg5NzY4LDQ2NTY3NDE2MSwtMTk5Mj
-IyMzQ5XX0=
+eyJoaXN0b3J5IjpbLTIxODUwNTA0NSw0NjU2NzQxNjEsLTE5OT
+IyMjM0OV19
 -->
