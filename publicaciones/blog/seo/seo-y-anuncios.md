@@ -31,7 +31,7 @@ Esto no entra en conflicto con las directrices SEO de los buscadores, puesto que
 
 ## Carga diferida de anuncios
 
-Para mí es la aproximación más acertada. Se trataría de aplicar una carga diferida (lazy loa
+Para mí es la aproximación más acertada. Se trataría de aplicar una carga diferida (*lazy load*) sobre los anuncios de tal manera que sólo se mostrarían cuando el usuario haga *scroll* y avance sobre los mismos. Si en la primera ventana de la página no hay anuncios y un usuario no hace *scroll*, nunca tendría que soportar la carga de los mismos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzE4MTQ1OCwxNjE1ODU3MzM3XX0=
+eyJoaXN0b3J5IjpbLTE4OTA4MDk5NDEsMTYxNTg1NzMzN119
 -->
