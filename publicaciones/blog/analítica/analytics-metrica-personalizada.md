@@ -35,10 +35,12 @@ Imaginemos que vamos a usar la métrica número 1 que se identifica en Analytics
   
 ### Enviarlo como evento
   
-En el caso de que queramos enviarlo asociado a un evento, 
-gtag('event',  'any_event_name',  {'dimension_name': dimension_value});
+En el caso de que queramos enviarlo asociado a un evento, el código que debemos usar será el siguiente:
 
+    gtag('event',  'nombre_evento',  {'metrica1': 'valor'});
+
+En este artículo hemos visto cómo utilizar métricas personalizadas de manera simple. En el caso de que queremos crear dimensiones y asociarlas, por ejemplo, con ecommerce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDI3MjEzNSwtMTE3ODIxNDI2MSwtMT
+eyJoaXN0b3J5IjpbLTI3OTc5MjY3MCwtMTE3ODIxNDI2MSwtMT
 A5NDQ4Njg5NSwtMjcwNjE5MzU0XX0=
 -->
