@@ -7,6 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
+date: 08/02/2022
 folder: analitica
 permalink: errores-comunes-analytics
 
@@ -27,5 +28,5 @@ A veces puede ocurrir que el servidor web funciona mal y genera errores 4XX o 5X
 
 También puedes echar un vistazo a los [10 trucos de Google Analytics](https://emirodgar.com/trucos-google-analytics) para obtener un mejor rendimiento de la información recogida en esta plataforma.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDAwMDc3MCwtMzA4OTMxMzM2XX0=
+eyJoaXN0b3J5IjpbMTEwODg2MTI1NiwtMzA4OTMxMzM2XX0=
 -->
