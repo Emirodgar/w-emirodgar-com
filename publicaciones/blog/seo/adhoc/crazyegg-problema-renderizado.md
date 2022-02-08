@@ -23,7 +23,8 @@ Para solucionar esta situación necesitamos convertir el renderizado de `CSR` a 
 
 Hay múltiples formas de realizar SSR, aunque quizá una de las más rápidas y sencillas sea delegar la responsabilidad en un servicio externo como [prerender.io](https://prerender.io).
 
-Sólo necesitamos identificar correctamente el acceso del robot de CrazyEgg y mostrarle la versión renderizada de la página que previamente hemos realizado (`SSR`). El resto de visitantes seguirá
+Sólo necesitamos identificar correctamente el acceso del robot de CrazyEgg para mostrarle la versión renderizada de la página que previamente hemos realizado (`SSR`). El resto de visitantes seguirá recibiendo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTA2NTYyMiwtMTE5NjYyMTc1MF19
+eyJoaXN0b3J5IjpbLTE0NTk3NzUxOTcsLTExOTY2MjE3NTBdfQ
+==
 -->
