@@ -21,7 +21,7 @@ Esto puede ocurrir debido a que el robot de CrazyEgg o bien no ejecuta `JavaScri
 
 Para solucionar esta situación necesitamos convertir el renderizado de `CSR` a `SSR` (Server Side Rendering) es decir, en lugar de delegar la responsabilidad en el cliente, que seamos nosotros quienes rendericemos dicha página y le enviemos la versión final a CrazyEgg. De esa manera siempre verá una versión operativa de la misma.
 
-Para ello podemos 
+Hay múl 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY2MjE3NTBdfQ==
+eyJoaXN0b3J5IjpbMjExNTkwNzM0MiwtMTE5NjYyMTc1MF19
 -->
