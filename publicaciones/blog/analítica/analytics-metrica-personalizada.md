@@ -6,6 +6,7 @@ layout: emirodgar_post
 author: Emirodgar
 lang: es_ES
 sitemap: 1
+date: 08/02/2022
 feed: 1
 folder: analitica
 permalink: analytics-metrica-personalizada
@@ -41,6 +42,6 @@ En el caso de que queramos enviarlo asociado a un evento, el código que debemos
 
 En este artículo hemos visto cómo utilizar métricas personalizadas de manera simple. Podemos avanzar hacia escenarios más complejos como por ejemplo [analizar el stock de cada producto](https://emirodgar.com/monitorizar-stock-ecommerce-analytics) dentro de un ecommerce.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzE2NzkzOCwtMTE3ODIxNDI2MSwtMT
+eyJoaXN0b3J5IjpbLTMwNzMzMDIzMiwtMTE3ODIxNDI2MSwtMT
 A5NDQ4Njg5NSwtMjcwNjE5MzU0XX0=
 -->
