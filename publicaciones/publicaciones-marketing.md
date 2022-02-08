@@ -9,7 +9,7 @@ permalink: publicaciones-marketing
 
 ---
 
-Listado de publicaciones relacionadas con Analítica web
+Listado de publicaciones relacionadas con el marketing digital.
 
 <ul>
 {% for page in site.pages %}
@@ -21,5 +21,5 @@ Listado de publicaciones relacionadas con Analítica web
 {% endfor %}
 </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjAwNzgwM119
+eyJoaXN0b3J5IjpbLTE1MjIwNDgyMTBdfQ==
 -->
