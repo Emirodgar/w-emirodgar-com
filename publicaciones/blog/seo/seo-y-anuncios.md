@@ -13,7 +13,9 @@ permalink: impacto-anuncios-en-seo
 
 --- 
 
-Por norma general, el usar anuncios en una página suele ralentizar la carga además de la experiencia de usuario de la misma por lo que en términos valorados por los buscadore
+Por norma general, el usar anuncios en una página suele **ralentizar la carga** además de empeorar la **experiencia de los usuarios** por lo que en términos valorados por los buscadores (Core Web Vitals) el impacto será negativo.
+
+No obstante, un gran volumen de páginas hacen uso de esta estrategia de monetización por lo que hay formas de adecuar los anuncios para que el impacto en la experiencia de nuestros visitantes y en las señales SEO sea mínimo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTUyNjU2NV19
+eyJoaXN0b3J5IjpbMjY2MDAxMzMyXX0=
 -->
