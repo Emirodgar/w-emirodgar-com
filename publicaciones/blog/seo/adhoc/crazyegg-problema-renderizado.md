@@ -31,7 +31,8 @@ Sólo necesitamos identificar correctamente el acceso del robot de CrazyEgg para
 
 ### Identificar el robot de CrazyEgg
 
-Para 
+Para identificar el robot de usa CrazyEgg podemos hacer uso del log de acceso para identifcar el user-agent que ha utilizado. En mi caso 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDg3MzU0MywtMTE5NjYyMTc1MF19
+eyJoaXN0b3J5IjpbLTEyNDY3OTk2MTgsMTM0NDg3MzU0MywtMT
+E5NjYyMTc1MF19
 -->
