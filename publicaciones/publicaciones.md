@@ -1,5 +1,5 @@
 ---
-title: Publicaciones SEO
+title: Publicaciones
 description: Listado de publicaciones sobre SEO, Marketing Digital y Growth Hacking
 lang: es_ES
 layout: emirodgar_post
@@ -89,6 +89,6 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTAzODU0MywyMDgzNzcxNzU3LDExND
-kxOTgzMSwtNjQzMTc5MTE4XX0=
+eyJoaXN0b3J5IjpbMjA1MzgxMDQ3OCwtMjk1MDM4NTQzLDIwOD
+M3NzE3NTcsMTE0OTE5ODMxLC02NDMxNzkxMThdfQ==
 -->
