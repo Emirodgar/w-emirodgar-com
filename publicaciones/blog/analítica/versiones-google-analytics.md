@@ -29,17 +29,17 @@ A partir de ese momento, el código de seguimiento de Urchin ha ido sufriendo ev
 | 2017| Global Site Tag | gtag.js |
 | 2020| Analytics 4 | gtag.js |
 
-Cada versión ha permitido incorporar nuevas funcionalidades y mejorar el rigor en los datos. Aunque la versión más actualizada es la 4 (GA4) Google Analytics funciona y permite recoger y procesar información con cualquier versión asíncrona (2009).
+Cada versión ha permitido incorporar nuevas funcionalidades y mejorar el rigor en los datos. Aunque la versión más actualizada es la 4 (GA4), Google Analytics funciona y permite recoger y procesar información con cualquier versión asíncrona (2009).
 
 ## Historia de los códigos
 
-La primera versión del código era la de Urchin y aunque Google adaptó dicha librería, el auge de Analytics no comenzó hasta 2009 con la presentación de su **código asíncrono** cuyas ventajas frente a versiones pasadas eran un mejor tiempo de carga y fiablidad en la recogida de información.
+La primera versión del código era la de Urchin y aunque Google adaptó dicha librería, el auge de Analytics no comenzó hasta 2009 con la presentación de su **código asíncrono** cuyas ventajas frente a versiones pasadas eran un mejor tiempo de carga y fiabilidad en la recogida de información.
 
 Este código tenía como característica principal el usar el comando `_gaq.push` para enviar información a Analytics. Este comando también se usó en la versión de Analytics con medición de anuncios (*Analytics with Display Advertising*).
 
 ### Primer paso hacia la personalización de la medición
 
-Google Analytics Universal, una de las versiones más extendidas y utilizadas hasta el momento, trajo consigo cambios y mejoras asociadas a la medición de los usuarios como los segmentos avanzados, métricas y dimensiones personalizadas, medición multidispositivo, etc.
+Google Analytics Universal, una de las versiones más extendidas y utilizadas hasta el momento, trajo consigo cambios y mejoras asociadas a la medición de los usuarios como los segmentos avanzados, métricas y dimensiones personalizadas, medición multi dispositivo, etc.
 
 
 
@@ -56,7 +56,7 @@ Google Analytics Universal, una de las versiones más extendidas y utilizadas ha
 
 Google Marketing Platform iba tomando forma y era necesario un sistema más robusto para registrar y compartir información. Con ese fin nació Global Site Tag, para poder estandarizar y compartir información entre Analytics, Ads, DoubleClick y cualquier otro servicio de Google susceptible de entrar en su plataforma.
 
-En este punto la medición ya no iba a través de Analytics sino que se realizaba a través de Tag Manager. 
+En este punto la medición ya no iba a través de Analytics, sino que se realizaba a través de Tag Manager. 
 
     <script async src=”https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-1″></script>    
     <script>    
@@ -74,8 +74,8 @@ Para ello cambia la tradicional medición de página vista (`pageview`) a evento
 
 La independencia y libertad de medición que GA4 ofrece es algo único hasta este momento. 
 
-El código es exactamente el mismo que el de Global Site Tag ya que usaremos la librería `gtag.js` pero la diferencia es que el identificador cambia de "UA-XXXXXXX-X" a "G-XXXXXXXXXX".
+El código es exactamente el mismo que el de Global Site Tag ya que usaremos la librería `gtag.js`, pero la diferencia es que el identificador cambia de "UA-XXXXXXX-X" a "G-XXXXXXXXXX".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk3MTEzNTgsMTY3MzQzODAwLC0xNj
-YwNDE4MjcxXX0=
+eyJoaXN0b3J5IjpbLTQwNTk4MzQ2OSwxNjczNDM4MDAsLTE2Nj
+A0MTgyNzFdfQ==
 -->
