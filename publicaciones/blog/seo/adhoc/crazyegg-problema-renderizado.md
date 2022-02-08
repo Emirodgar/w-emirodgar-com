@@ -13,7 +13,9 @@ permalink: crazyegg-problema-renderizado
 
 --- 
 
-Es bastante común que cuando disponemos 
+Es bastante común que cuando disponemos de un renderizado a nivel de cliente (CSR - Client Side Rendering) algunos servicios como CrazyEgg no puedan acceder al contenido generado de forma dinámica.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNDg3XX0=
+eyJoaXN0b3J5IjpbLTY4MTIxNTMzNl19
 -->
