@@ -9,7 +9,7 @@ permalink: publicaciones-analitica
 
 ---
 
-
+Listado de publicaciones relacionadas con Analítica web
 
 <ul>
 {% for page in site.pages %}
@@ -21,5 +21,5 @@ permalink: publicaciones-analitica
 {% endfor %}
 </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjkzMTcxOF19
+eyJoaXN0b3J5IjpbLTEwOTY3NjYzNjJdfQ==
 -->
