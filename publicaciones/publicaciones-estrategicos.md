@@ -1,6 +1,6 @@
 ---
-title: Publicaciones Estra
-description: Listado de publicaciones sobre SEO
+title: Publicaciones Estratégicas
+description: Listado de publicaciones estratégicas
 lang: es_ES
 layout: emirodgar_post_test
 author: Emirodgar
@@ -9,17 +9,17 @@ permalink: publicaciones-estrategicos
 
 ---
 
-Listado de publicaciones relacionadas con el SEO y el Posicionamiento Web.
+En esta página se muestra el listado de las publicaciones que considero estratégicas, bien por su contenido a nivel de SEO o porque no tienen cabida en otras categorías.
 
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
-	{% if page.folder== "seo" %}
+	{% if page.folder== "estrategicos" %}
 	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 	{% endif %}
 {% endif %}
 {% endfor %}
 </ul>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzUwMTM3M119
+eyJoaXN0b3J5IjpbMjEwOTY5OTIyM119
 -->
