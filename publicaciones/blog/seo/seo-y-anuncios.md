@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo impactan los anuncios al SEO de una página?
+title: ¿Cómo impactan los anuncios al SEO de una página y cómo solucionarlo?
 description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
@@ -23,6 +23,8 @@ Seguro que nuestra primera tentación será eliminar los anuncios para los robot
 
 > El _cloaking_ es una técnica de SEO que se basa en mostrar diferentes contenidos a los usuarios de una web y a los robots de rastreo.
 
+Los anuncios forman parte de nuestra página y el objetivo no es eliminarnos, tan sólo gestionarlos de un modo eficiente para alinearnos con una buena experiencia de los usuarios.
+
 ## Ralentizar la carga de anuncios
 
 Quizá la mejor aproximación que podemos hacer es cargar los anuncios fuera de la primera carga crítica de la web, de esta manera nos aseguramos que no penaliza la experiencia de los usuarios y que los valores SEO que supervisarán los buscadores -basados en las Core Web Vitals- son correctos.
@@ -33,5 +35,5 @@ Esto no entra en conflicto con las directrices SEO de los buscadores, puesto que
 
 Para mí es la aproximación más acertada. Se trataría de aplicar una carga diferida (*lazy load*) sobre los anuncios de tal manera que sólo se mostrarían cuando el usuario haga *scroll* y avance sobre los mismos. Si en la primera ventana de la página no hay anuncios y un usuario no hace *scroll*, nunca tendría que soportar la carga de los mismos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA4MDk5NDEsMTYxNTg1NzMzN119
+eyJoaXN0b3J5IjpbMzc4Mzg3NzY5LDE2MTU4NTczMzddfQ==
 -->
