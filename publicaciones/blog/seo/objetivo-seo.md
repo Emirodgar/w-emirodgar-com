@@ -38,8 +38,8 @@ A partir de aquí debemos establecer qué porcentaje o valores queremos aspirar 
 
 ## Cualificar los objetivos
 
-Existen diversas técnicas para ayudarnos a cualificar los objetivos, es decir, asegurarnos de que los que hemos seleccionados con adecuados y realistas. Una de las más conocidas es la técnica S.M.A.R.T. que 
+Existen diversas técnicas para ayudarnos a cualificar los objetivos, es decir, asegurarnos de que los que hemos seleccionado con adecuados y realistas. Una de las más conocidas es la técnica S.M.A.R.T. que son las siglas en inglés de los criterios que recomiendan asociar a cada objetivo: específicos, mensurables, alcanzables, relevantes y temporales.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzYwMTEzMywxNjM5MzU2MDk2LDMwOT
+eyJoaXN0b3J5IjpbLTg2NzAwMzIzMSwxNjM5MzU2MDk2LDMwOT
 EzMTE3NiwtMTcyNzYzMjg3NCwxMDQ3OTkyMjk1XX0=
 -->
