@@ -5,7 +5,7 @@ lang: es_ES
 author: emirodgar
 sitemap: 0
 feed: 0
-folder: estrategicos
+folder: servicios
 layout: emirodgar_post
 permalink: auditoria-seo
 
@@ -20,6 +20,6 @@ Estrategias de SEO altamente estratégicas y efectivas para empresas de nivel em
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTY5MjE2Myw4OTkxMDMxMDYsMjYxMz
-k3MjM1XX0=
+eyJoaXN0b3J5IjpbLTEwMzY4Mjk3NzUsLTg1NTY5MjE2Myw4OT
+kxMDMxMDYsMjYxMzk3MjM1XX0=
 -->
