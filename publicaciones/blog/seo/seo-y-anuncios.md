@@ -27,7 +27,11 @@ Seguro que nuestra primera tentación será eliminar los anuncios para los robot
 
 Quizá la mejor aproximación que podemos hacer es cargar los anuncios fuera de la primera carga crítica de la web, de esta manera nos aseguramos que no penaliza la experiencia de los usuarios y que los valores SEO que supervisarán los buscadores -basados en las Core Web Vitals- son correctos.
 
-Esto no entra en conflicto con 
+Esto no entra en conflicto con las directrices SEO de los buscadores, puesto que los robots de búsqueda interactuarán con la página en todo momento hasta que la carga finalice (siempre y cuando lo haga dentro de un tiempo prudencial). Por ello 
+
+## Carga diferida de anuncios
+
+Para mí es la aproximación más acertada. Se trataría de aplicar una carga diferida (lazy loa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDUxNTY3NiwxNjE1ODU3MzM3XX0=
+eyJoaXN0b3J5IjpbLTM1MzE4MTQ1OCwxNjE1ODU3MzM3XX0=
 -->
