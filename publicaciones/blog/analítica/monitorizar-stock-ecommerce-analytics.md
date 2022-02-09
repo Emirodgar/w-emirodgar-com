@@ -106,10 +106,12 @@ Yo lo he llamado `Informe Stock` y el resultado del informe será una tabla con 
 
 ## Dimensión personalizada ajena al ecommerce
 
-La implementación que hemos realizado en este artículo está ligada al módulo de e-commerce de Google Analytics, no obstante, si queremos procesar la información y realizar análisis bassados
+La implementación que hemos realizado en este artículo está ligada al módulo de e-commerce de Google Analytics, no obstante, si queremos procesar la información y realizar análisis basados en páginas vistas de productos, podemos hacerlo directamente con una dimensión personalizada cuyo ámbito sea `hit` de la siguiente manera.
 
 gtag('event', 'event_stock', {'dimension1': 'Sin Stock'});
+
+En este caso estaremos asociando a cada página vista de producto, la dimensión personalizada `dimension1` con los valores S(ojo, cada implementación
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjc0Mzk2MjcsLTExMTU3OTA5NTksLT
-M4NTEyMzc1NCwxNTIzODY3MjM3LDEwNzQ4ODIzNTddfQ==
+eyJoaXN0b3J5IjpbNjkyMzQ0OTcwLC0xMTE1NzkwOTU5LC0zOD
+UxMjM3NTQsMTUyMzg2NzIzNywxMDc0ODgyMzU3XX0=
 -->
