@@ -19,8 +19,8 @@ Aunque la cuota de mercado está clara -[Google obtiene más un 90% de las búsq
 
 A continuación detallo algunos de los buscadores que considero eficientes a la par que seguros:
 
-- Startpage: una gran alternativa a Google donde, aunque veamos anuncios, 
+- [Startpage](https://www.startpage.com/es/): una gran alternativa a Google que, aunque veamos anuncios, ofrece una interfaz y unos resultados prácticamente idénticos a los del gigante estadounidense. Dispone de una extensión en diversos navegadores para integrarse fácilmente 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0MzYxNDUwXX0=
+eyJoaXN0b3J5IjpbLTE5MTMyNjY1NzRdfQ==
 -->
