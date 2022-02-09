@@ -108,10 +108,10 @@ Yo lo he llamado `Informe Stock` y el resultado del informe será una tabla con 
 
 La implementación que hemos realizado en este artículo está ligada al módulo de e-commerce de Google Analytics, no obstante, si queremos procesar la información y realizar análisis basados en páginas vistas de productos, podemos hacerlo directamente con una dimensión personalizada cuyo ámbito sea `hit` de la siguiente manera.
 
-gtag('event', 'event_stock', {'dimension1': 'Sin Stock'});
+    gtag('event', 'event_stock', {'dimension1': 'Sin Stock'});
 
 En este caso estaremos asociando a cada página vista de producto, la dimensión personalizada `dimension1` con los valores `Stock` o `Sin stock`. En este caso uso `dimension1`, pero en cada implementación debemos revisar cuál es el *slot* al que se nos ha asignado nuestra dimensión personalizada.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAxNDE2NDYsLTExMTU3OTA5NTksLT
+eyJoaXN0b3J5IjpbLTE5NTIwODgwMTQsLTExMTU3OTA5NTksLT
 M4NTEyMzc1NCwxNTIzODY3MjM3LDEwNzQ4ODIzNTddfQ==
 -->
