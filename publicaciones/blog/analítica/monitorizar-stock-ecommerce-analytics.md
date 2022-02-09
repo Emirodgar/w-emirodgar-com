@@ -104,7 +104,7 @@ Yo lo he llamado `Informe Stock` y el resultado del informe será una tabla con 
 ![Analytics dimensión personalizada stock](https://i.imgur.com/GM6nj4i.png){:class="img-responsive"}
 
 
-## Dimensión personalizada ajena al ecommerce
+## Dimensión personalizada ajena al e-commerce
 
 La implementación que hemos realizado en este artículo está ligada al módulo de e-commerce de Google Analytics, no obstante, si queremos procesar la información y realizar análisis basados en páginas vistas de productos, podemos hacerlo directamente con una dimensión personalizada cuyo ámbito sea `hit` de la siguiente manera.
 
@@ -112,8 +112,8 @@ La implementación que hemos realizado en este artículo está ligada al módulo
 
 Usaremos el método `event` del objeto `gtag` para enviar el valor de la dimensión personalizada que hemos creado previamente en el panel de administración de Google Analytics.
 
-En este caso estaremos asociando a cada página vista de producto, la dimensión personalizada `dimension1` con los valores `Stock` o `Sin stock`. En este caso uso `dimension1`, pero en cada implementación debemos revisar cuál es el *slot* al que se nos ha asignado nuestra dimensión personalizada.
+En este caso estaremos asociando a cada página vista de producto, la dimensión personalizada `dimension1` con los valores `Stock` o `Sin stock`. En este caso utilizo `dimension1`, pero en cada implementación debemos revisar cuál es el *slot* al que se nos ha asignado nuestra dimensión personalizada.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTEzMzUxNzEsLTExMTU3OTA5NTksLT
+eyJoaXN0b3J5IjpbLTExMzM3OTUyMjksLTExMTU3OTA5NTksLT
 M4NTEyMzc1NCwxNTIzODY3MjM3LDEwNzQ4ODIzNTddfQ==
 -->
