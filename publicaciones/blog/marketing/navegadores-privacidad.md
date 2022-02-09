@@ -21,8 +21,8 @@ A continuación detallo algunos de los buscadores que considero eficientes a la 
 
 - [Startpage](https://www.startpage.com/es/): una gran alternativa a Google que, aunque veamos anuncios, ofrece una interfaz y unos resultados prácticamente idénticos a los del gigante estadounidense. Dispone de una extensión en diversos navegadores para integrarse fácilmente en las búsquedas realizadas desde la barra de navegación así como bloquear cookies de forma automática.
 - [Brave](https://brave.com/es/): esto va más allá de un simple buscador, puesto que se trata de toda una suite de navegador que garantiza una privacidad online en todos los ámbitos.
-- [Tor](https://www.torproject.org/download/): esta alternativa es quizá la más antigua 
+- [Tor](https://www.torproject.org/download/): esta alternativa es quizá la más antigua y la más compleja de configurar, no obstante es una gran alternativa para navegar seguros y sin ser monitorizados
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ3MDk1MDddfQ==
+eyJoaXN0b3J5IjpbNTI5NTQ5MjA5LC0xNjM0NzA5NTA3XX0=
 -->
