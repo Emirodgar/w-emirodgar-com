@@ -9,6 +9,7 @@ sitemap: 1
 feed: 1
 folder: analitica
 date: 08/02/2022
+date_modified: 09/02/2022
 permalink: monitorizar-stock-ecommerce-analytics
 
 --- 
@@ -94,15 +95,21 @@ En este caso usaremos el evento `view_item_list` para enviar la información del
 
 ## Visualizar los resultados
 
-Ya tenemos la información en Analytics y llega el momento de visualizarla. Para ello recomiendo hacer uso de un informe personalizado en el que incluyamos el producto, la dimensión de stock y las visualizaciones. A mayores, también podemos usar las unidades añadidas al carrito para conocer productos con stock que no están entrando en el proceso de compra.
+Ya tenemos la información en Analytics y llega el momento de visualizarla. Para ello recomiendo hacer uso de un informe personalizado en el que incluyamos el producto, la dimensión de stock y las visualizaciones. A mayores, también podemos utilizar las unidades añadidas al carrito para conocer productos con stock que no están entrando en el proceso de compra.
 
 ![Analytics dimensión personalizada stock](https://i.imgur.com/jpBnkGS.png){:class="img-responsive"}
 
-Yo lo he llamado `Informe Stock` y el resultado del informe será una tabla con el desglose, por cada producto, de su stock y las veces que ha sido visto. Si identificamos productos sin stock con mucho tráfico, sabemos que tenemos un problema, máximo si parte de este tráfico viene de campañas de pago ya que estaríamos invirtiendo en productos que no podemos vender.
+Yo lo he llamado `Informe Stock` y el resultado del informe será una tabla con el desglose, por cada producto, de su stock y las veces que ha sido visto. Si identificamos productos sin stock con mucho tráfico, sabemos que tenemos un problema, máximo si parte de este tráfico viene de campañas de pago, ya que estaríamos invirtiendo en productos que no podemos vender.
 
 ![Analytics dimensión personalizada stock](https://i.imgur.com/GM6nj4i.png){:class="img-responsive"}
 
+
+## Dimensión personalizada ajena al ecommerce
+
+La implementación que hemos realizado en este artículo está ligada al módulo de e-commerce de Google Analytics, no obstante, si queremos procesar la información y realizar análisis bassados
+
+gtag('event', 'event_stock', {'dimension1': 'Sin Stock'});
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDc5OTY4NiwtMTExNTc5MDk1OSwtMz
-g1MTIzNzU0LDE1MjM4NjcyMzcsMTA3NDg4MjM1N119
+eyJoaXN0b3J5IjpbLTE1Mjc0Mzk2MjcsLTExMTU3OTA5NTksLT
+M4NTEyMzc1NCwxNTIzODY3MjM3LDEwNzQ4ODIzNTddfQ==
 -->
