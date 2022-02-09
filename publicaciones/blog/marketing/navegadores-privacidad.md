@@ -1,5 +1,5 @@
 ---
-title: Busque garantizan la privacidad de sus usuarios
+title: Buscadores que garantizan la privacidad de sus usuarios
 description:
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 layout: emirodgar_post
@@ -13,7 +13,7 @@ permalink: buscadores-privacidad
 
 ---
 
-Los navegadores han evolucionado de manera constante durante los últimos años aunque una de las características que siempre ha predominado su desarrollo ha sido
+Los buscadores han evolucionado de manera constante durante los últimos años gracias a los [cambios y ajustes de sus algoritmos](https://emirodgar.com/cambio-algoritmo-google) aunque una de las características que siempre ha predominado su desarrollo ha sido la recopilación de datos y análisis de comportamiento de sus usuarios. Lo que realmente vale dinero.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDg5MjA4Nl19
+eyJoaXN0b3J5IjpbMTY3MzE5NDM1Ml19
 -->
