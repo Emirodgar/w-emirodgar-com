@@ -23,7 +23,8 @@ A continuación detallo algunos de los buscadores que considero eficientes a la 
 - [Brave](https://brave.com/es/): esto va más allá de un simple buscador, puesto que se trata de toda una suite de navegador que garantiza una privacidad online en todos los ámbitos.
 - [Tor](https://www.torproject.org/download/): esta alternativa es quizá la más antigua y la más compleja de configurar, no obstante es una gran alternativa para navegar seguros y sin ser monitorizados
 
-A nivel de sistema operativo siempre me gusta recomendar [backbird](https://emirodgar.com/controla-la-privacidad-en-windows-con-blackbird) ya que 
+Con respecto al sistema operativo siempre me gusta recomendar [backbird](https://emirodgar.com/controla-la-privacidad-en-windows-con-blackbird) ya que de esa forma garantizamos todos los niveles posibles de privacidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzYyMzAxMiwtMTYzNDcwOTUwN119
+eyJoaXN0b3J5IjpbMTg0NDc1NDAwOSwtNzc3NjIzMDEyLC0xNj
+M0NzA5NTA3XX0=
 -->
