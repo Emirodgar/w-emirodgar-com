@@ -110,8 +110,8 @@ La implementación que hemos realizado en este artículo está ligada al módulo
 
 gtag('event', 'event_stock', {'dimension1': 'Sin Stock'});
 
-En este caso estaremos asociando a cada página vista de producto, la dimensión personalizada `dimension1` con los valores S(ojo, cada implementación
+En este caso estaremos asociando a cada página vista de producto, la dimensión personalizada `dimension1` con los valores `Stock` o `Sin stock`. En este caso uso `dimension1`, pero en cada implementación debemos revisar cuál es el *slot* al que se nos ha asignado nuestra dimensión personalizada.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMzQ0OTcwLC0xMTE1NzkwOTU5LC0zOD
-UxMjM3NTQsMTUyMzg2NzIzNywxMDc0ODgyMzU3XX0=
+eyJoaXN0b3J5IjpbLTEyMDAxNDE2NDYsLTExMTU3OTA5NTksLT
+M4NTEyMzc1NCwxNTIzODY3MjM3LDEwNzQ4ODIzNTddfQ==
 -->
