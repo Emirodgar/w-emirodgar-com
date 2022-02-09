@@ -19,8 +19,10 @@ Aunque la cuota de mercado está clara -[Google obtiene más un 90% de las búsq
 
 A continuación detallo algunos de los buscadores que considero eficientes a la par que seguros:
 
-- [Startpage](https://www.startpage.com/es/): una gran alternativa a Google que, aunque veamos anuncios, ofrece una interfaz y unos resultados prácticamente idénticos a los del gigante estadounidense. Dispone de una extensión en diversos navegadores para integrarse fácilmente 
+- [Startpage](https://www.startpage.com/es/): una gran alternativa a Google que, aunque veamos anuncios, ofrece una interfaz y unos resultados prácticamente idénticos a los del gigante estadounidense. Dispone de una extensión en diversos navegadores para integrarse fácilmente en las búsquedas realizadas desde la barra de navegación así como bloquear cookies de forma automática.
+- [Brave](https://brave.com/es/): esto va más allá de un simple buscador, puesto que se trata de toda una suite de navegador que garantiza una privacidad online en todos los ámbitos.
+- Tor: esta alternativa
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTMyNjY1NzRdfQ==
+eyJoaXN0b3J5IjpbNTI2Njc0MDAzXX0=
 -->
