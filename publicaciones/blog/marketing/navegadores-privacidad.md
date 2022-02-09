@@ -19,12 +19,12 @@ Aunque la cuota de mercado está clara -[Google obtiene más un 90% de las búsq
 
 A continuación detallo algunos de los buscadores que considero eficientes a la par que seguros:
 
-- [Startpage](https://www.startpage.com/es/): una gran alternativa a Google que, aunque veamos anuncios, ofrece una interfaz y unos resultados prácticamente idénticos a los del gigante estadounidense. Dispone de una extensión en diversos navegadores para integrarse fácilmente en las búsquedas realizadas desde la barra de navegación así como bloquear cookies de forma automática.
+- [Startpage](https://www.startpage.com/es/): una gran alternativa a Google que, aunque veamos anuncios, ofrece una interfaz y unos resultados prácticamente idénticos a los del gigante estadounidense. Dispone de una extensión en diversos navegadores para integrarse fácilmente en las búsquedas realizadas desde la barra de navegación así como bloquear cookies de modo automático.
 - [Brave](https://brave.com/es/): esto va más allá de un simple buscador, puesto que se trata de toda una suite de navegador que garantiza una privacidad online en todos los ámbitos.
 - [Tor](https://www.torproject.org/download/): esta alternativa es quizá la más antigua y la más compleja de configurar, no obstante es una gran alternativa para navegar seguros y sin ser monitorizados
 
-Con respecto al sistema operativo siempre me gusta recomendar [backbird](https://emirodgar.com/controla-la-privacidad-en-windows-con-blackbird) ya que de esa forma garantizamos todos los niveles posibles de privacidad.
+Con respecto al sistema operativo siempre me gusta recomendar [backbird](https://emirodgar.com/controla-la-privacidad-en-windows-con-blackbird), ya que de esa manera garantizamos todos los niveles posibles de privacidad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDc1NDAwOSwtNzc3NjIzMDEyLC0xNj
-M0NzA5NTA3XX0=
+eyJoaXN0b3J5IjpbMTMzODE5Njk4NCwxODQ0NzU0MDA5LC03Nz
+c2MjMwMTIsLTE2MzQ3MDk1MDddfQ==
 -->
