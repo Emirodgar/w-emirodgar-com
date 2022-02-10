@@ -28,8 +28,12 @@ Para poder hacer una estimación realista (sabiendo que esto es sumamente compli
 
 ## ¿Cómo realizar una estimación de crecimiento SEO?
 
-Al final todo se reduce a analizar nuestra evolución en los meses pasados (hasta un mínimo de 6 para que se considere una muestra relevante) y predecir matemá
+Al final todo se reduce a analizar nuestra evolución en los meses pasados (hasta un mínimo de 6 para que se considere una muestra relevante) y predecir matemáticamente varios escenarios (bueno, normal y malo) sobre los que podríamos evolucionar.
+
+Algunas herramientas que nos pueden ayudar con esta predicción, son las siguientes:
+
+- [Prophet](https://facebook.github.io/prophet/) is an open-source
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MzQxMTMyXX0=
+eyJoaXN0b3J5IjpbLTU3NzkyNTU5Nl19
 -->
