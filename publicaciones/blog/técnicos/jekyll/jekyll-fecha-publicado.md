@@ -19,9 +19,12 @@ Esto se hará en la cabecera de la página de Jekyll de la siguiente manera:
 
     date: 27/01/2022
 
-A partir de ahí, en nuestro *template* de Jekyll podremos acceder a dicha información a través del comando
+A partir de ahí, en nuestro *template* de Jekyll podremos acceder a dicha información a través de la variable `page` y la opción `date`. 
 
-Publicado el {{ page.date | date: ' %d/%m/%Y' }}
+    Publicado el {{ page.date | date: ' %d/%m/%Y' }}
+    // el resultado sería: Publicado el 27/01/2022 
+
+Los buscadore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjQ1NjQwNV19
+eyJoaXN0b3J5IjpbLTE0NjMzOTExMzhdfQ==
 -->
