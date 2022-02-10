@@ -7,7 +7,7 @@ sitemap: 1
 feed: 1
 folder: programacion
 date: 27/01/2022
-layout: emirodgar_post
+layout: emirodgar_post_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: fecha-publicacion-jekyll
 
@@ -28,7 +28,7 @@ Los buscadores -especialmente Google- nos piden que si un contenido ha sido actu
 
 Ahora podemos hacer dos cosas, en nuestro *template* podemos poner ambos valores o sólo el de actualización, ya que siempre será mayor que el de la fecha de publicación.
 
-En mi caso, si no hay actualización muestro sólo la fecha de publicación y si no, la de actualización. Lo hago de 
+En mi caso, si no hay actualización muestro sólo la fecha de publicación y si no, la de actualización. Lo hago de la siguiente manera:
 
     {% if page.date_modified == null %}
      Publicado el {{ page.date | date: ' %d/%m/%Y' }}
@@ -37,5 +37,5 @@ En mi caso, si no hay actualización muestro sólo la fecha de publicación y si
     {% endif %}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODk3Mzg2MSw2MDE4Nzk4NF19
+eyJoaXN0b3J5IjpbLTE2NzM4NDE1NTAsNjAxODc5ODRdfQ==
 -->
