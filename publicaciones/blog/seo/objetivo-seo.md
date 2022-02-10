@@ -2,7 +2,7 @@
 title: Objetivo del SEO
 description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-layout: emirodgar_post
+layout: emirodgar_post_test
 author: Emirodgar
 lang: es_ES
 sitemap: 1
@@ -42,7 +42,7 @@ Existen diversas técnicas para ayudarnos a cualificar los objetivos, es decir, 
 
 ![Objetivos smart](https://i.imgur.com/k0PxLrG.png){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDY4NDQxNCwtOTk1Mjg4NjgyLDE2Mz
-kzNTYwOTYsMzA5MTMxMTc2LC0xNzI3NjMyODc0LDEwNDc5OTIy
-OTVdfQ==
+eyJoaXN0b3J5IjpbLTE1MzUyODkzOTksLTk5NTI4ODY4MiwxNj
+M5MzU2MDk2LDMwOTEzMTE3NiwtMTcyNzYzMjg3NCwxMDQ3OTky
+Mjk1XX0=
 -->
