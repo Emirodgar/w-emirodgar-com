@@ -22,8 +22,9 @@ Basándose en ello podemos hacer estimaciones para entender, desde el principio,
 Para poder hacer una estimación realista (sabiendo que esto es sumamente complicado) necesitamos aterrizar algunos puntos:
 
  1. **El punto de medición actual tiene que estar normalizado**. Es decir, debe llevar al menos un mes sin crecimientos ni caídas fuertes (independientemente de la causa) y no podemos avanzar hacia un evento que cambie el panorama SEO significativamente, como por ejemplo un cambio de plantilla web, una migración, etc. 
- 2. Tenemos que consensuar plataforma de medición y KPIs (métricas). 
+ 2. **Tenemos que consensuar plataforma de medición y seguimiento**. Hay múltiples opciones para definir una plataforma de medición SEO, por ejemplo Google Search Console, Google Analytics, Semrush, Ahrefs, Moz, etc. Es crucial que se defina una de ellas como principal, aunque nos apoyemos en otras y que se concrete 
+ 3. Hay que conocer todas las acciones que se llevarán a cabo sobre la web y ya no sólo los recursos, tar
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyOTg4NDcxXX0=
+eyJoaXN0b3J5IjpbNTMyMDI3MTc1XX0=
 -->
