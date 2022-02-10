@@ -39,7 +39,10 @@ A partir de aquí debemos establecer qué porcentaje o valores queremos aspirar 
 ## Cualificar los objetivos
 
 Existen diversas técnicas para ayudarnos a cualificar los objetivos, es decir, asegurarnos de que los que hemos seleccionado con adecuados y realistas. Una de las más conocidas es la técnica S.M.A.R.T. que son las siglas en inglés de los criterios que recomiendan asociar a cada objetivo: específicos, mensurables, alcanzables, relevantes y temporales.
+
+![Objetivos smart](https://i.imgur.com/k0PxLrG.png){:class="img-responsive"}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTI4ODY4MiwxNjM5MzU2MDk2LDMwOT
-EzMTE3NiwtMTcyNzYzMjg3NCwxMDQ3OTkyMjk1XX0=
+eyJoaXN0b3J5IjpbMTM0NDY4NDQxNCwtOTk1Mjg4NjgyLDE2Mz
+kzNTYwOTYsMzA5MTMxMTc2LC0xNzI3NjMyODc0LDEwNDc5OTIy
+OTVdfQ==
 -->
