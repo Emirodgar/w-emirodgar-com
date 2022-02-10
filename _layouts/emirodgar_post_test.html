@@ -61,12 +61,55 @@
 		    <div class="container">
 			    <header class="blog-post-header">
 				    <h1 class="title mb-2">{{ page.title }}</h1>
-				    <div class="meta mb-3"><span class="date">Publicado el {{ page.date |  date: ' %d/%m/%Y' }}</span><span class="time">{% assign words = content | number_of_words %}
+				    {% if page.folder %}
+					<div class="meta mb-3">
+						
+						<span class="date">
+							{% if page.date_modified == null %}
+							 Publicado el {{ page.date |  date: ' %d/%m/%Y' }}
+							 {% else %}
+							 Actualizado el {{ page.date_modified |  date: ' %d/%m/%Y' }}
+							{% endif %}
+						</span>
+							
+						
+						<span class="time">{% assign words = content | number_of_words %}
 						{% if words < 360 %}
 						  1 minuto de lectura
 						{% else %}
 						  {{ words | divided_by:180 }} minutos de lectura
-						{% endif %}</span></div>
+						{% endif %}</span>
+
+						{% if page.folder == "seo" %}
+						<span><a href="{{ site.url }}/publicaciones-seo">SEO</a></span>
+					  	{% endif %}
+
+						{% if page.folder == "analitica" %}
+						<span><a href="{{ site.url }}/publicaciones-analitica">Analítica</a></span>
+						{% endif %}
+
+						{% if page.folder == "marketing" %}
+						<span><a href="{{ site.url }}/publicaciones-marketing">Marketing</a></span>
+						{% endif %}
+
+						{% if page.folder == "programacion" %}
+						<span><a href="{{ site.url }}/publicaciones-programacion">Programación</a></span>
+						{% endif %}
+
+						{% if page.folder == "estrategicos" %}
+						<span><a href="{{ site.url }}/publicaciones-estrategicas">Estratégicos</a></span>
+						{% endif %}
+
+						{% if page.folder == "tecnologia" %}
+						<span><a href="{{ site.url }}/publicaciones-tecnologia">Tecnología</a></span>
+						{% endif %}
+
+						{% if page.folder == "offtopic" %}
+						<span><a href="{{ site.url }}/publicaciones-offtopic">Offtopic</a></span>
+						{% endif %}
+
+					</div>
+					{% endif %}
 			    </header>
 			    
 			    <div class="blog-post-body">
@@ -77,7 +120,7 @@
 				  <a class="nav-link-prev nav-item nav-link rounded-left" href="https://emirodgar.com/contacto">¿HABLAMOS?</a>
 				</nav>
 				
-				{% if page.folder== "seo-tecnico" %}
+				{% if page.folder == "seo-tecnico" %}
 				<div id="blog-conversion" class="section-container capability-card">
 					<h2>Auditoría SEO</h2>
 					<p>Como expertos en SEO técnico, auditamos tu página web para asegurarnos que dispone de la mejor base SEO posible y todo funciona correctamente.</p>
@@ -105,9 +148,6 @@
     <script src="assets/plugins/jquery-3.4.1.min.js"></script>
     <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script> 
     
-    <!-- Page Specific JS 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.14.2/highlight.min.js"></script>-->   
-
 </body>
 </html> 
 

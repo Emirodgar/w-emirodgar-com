@@ -1,6 +1,6 @@
 # ¿Quieres que hablemos? https://www.linkedin.com/in/emirodgar/
 
-Sitemap: https://emirodgar.com/sitemap.xml
+Sitemap: https://emirodgar.com/sitemap-posts.xml
 
 User-agent: Applebot
 Disallow:/
