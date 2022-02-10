@@ -32,8 +32,9 @@ Al final todo se reduce a analizar nuestra evolución en los meses pasados (hast
 
 Algunas herramientas que nos pueden ayudar con esta predicción, son las siguientes:
 
-- [Prophet](https://facebook.github.io/prophet/) is an open-source
+- [Prophet](https://facebook.github.io/prophet/) proyecto open-source desarrollado por Facebook para predecir evoluciones basadas en series de datos.
+- [Templates en Data Studio](https://www.searchenginejournal.com/forecast-seo-data-studio/311579/) están preparados para cargar información de múltiples herramientas externas y vis
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzkyNTU5Nl19
+eyJoaXN0b3J5IjpbMjA5NjIyODA1Ml19
 -->
