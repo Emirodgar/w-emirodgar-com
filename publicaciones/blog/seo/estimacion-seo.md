@@ -13,7 +13,9 @@ permalink: estimacion-crecimiento-seo
 
 --- 
 
-Cuando trabajamos una estrategia SEO es prioriza
+Cuando trabajamos una estrategia SEO es prioritario establecer unos [objetivos](https://emirodgar.com/objetivo-seo) que nos permitan cualificar los resultados que obtenemos y saber si avanzamos en la línea adecuada.
+
+Basándose en ello también podemos hacer estimaciones para entender, desde el principio, los múltiples escenarios en los que podremos encontrarnos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzI1NDIyM119
+eyJoaXN0b3J5IjpbNjk4NTc3NjIxXX0=
 -->
