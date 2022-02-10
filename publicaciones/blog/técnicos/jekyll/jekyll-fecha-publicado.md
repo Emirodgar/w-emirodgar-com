@@ -24,7 +24,9 @@ A partir de ahí, en nuestro *template* de Jekyll podremos acceder a dicha infor
     Publicado el {{ page.date | date: ' %d/%m/%Y' }}
     // el resultado sería: Publicado el 27/01/2022 
 
-Los buscadore
+Los buscadores -especialmente Google- nos piden que si un contenido ha sido actualizado significativamente (que los cambios sean suficientemente grandes como para avisar) incluyamos una fecha de actualización. En este caso lo haríamos con la variable `date_modified` y especificando la fecha en la que hemos actualizado el contenido.
+
+Ahora podemos hacer dos cosas, en nuestro *template* podemos poner ambos valores o sólo el de actualización, ya que siempre será mayor que el de la fecha de publicación.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjMzOTExMzhdfQ==
+eyJoaXN0b3J5IjpbNjAxODc5ODRdfQ==
 -->
