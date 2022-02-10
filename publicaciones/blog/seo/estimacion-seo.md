@@ -33,9 +33,9 @@ Al final todo se reduce a analizar nuestra evolución en los meses pasados (hast
 Algunas herramientas que nos pueden ayudar con esta predicción, son las siguientes:
 
 - [Prophet](https://facebook.github.io/prophet/) proyecto open-source desarrollado por Facebook para predecir evoluciones basadas en series de datos.
-- [Templates en Data Studio](https://www.searchenginejournal.com/forecast-seo-data-studio/311579/) están preparados para cargar información de múltiples herramientas externas y visualizar fácilmente las predicciones.
-- [Plantillas en Google Sheets](https://moz.com/blog/seo-forecasting-in-google-sheets) descar
+- [Plantillas en Data Studio](https://www.searchenginejournal.com/forecast-seo-data-studio/311579/) están preparados para cargar información de múltiples herramientas externas y visualizar fácilmente las predicciones.
+- [Plantillas en Google Sheets](https://moz.com/blog/seo-forecasting-in-google-sheets) descargamos los datos de ciertas herramientas como Semrush o Ahrefs y visualizamos la predicción de forma rápida.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDk0Mjg5Ml19
+eyJoaXN0b3J5IjpbLTQ2NDM5MzA1M119
 -->
