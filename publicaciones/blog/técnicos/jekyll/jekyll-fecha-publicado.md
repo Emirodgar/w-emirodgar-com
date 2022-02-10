@@ -27,6 +27,15 @@ A partir de ahí, en nuestro *template* de Jekyll podremos acceder a dicha infor
 Los buscadores -especialmente Google- nos piden que si un contenido ha sido actualizado significativamente (que los cambios sean suficientemente grandes como para avisar) incluyamos una fecha de actualización. En este caso lo haríamos con la variable `date_modified` y especificando la fecha en la que hemos actualizado el contenido.
 
 Ahora podemos hacer dos cosas, en nuestro *template* podemos poner ambos valores o sólo el de actualización, ya que siempre será mayor que el de la fecha de publicación.
+
+En mi caso, si no hay actualización muestro sólo la fecha de publicación y si no, la de actualización. Lo hago de 
+
+    {% if page.date_modified == null %}
+     Publicado el {{ page.date | date: ' %d/%m/%Y' }}
+    {% else %}
+     Actualizado el {{ page.date_modified | date: ' %d/%m/%Y' }}
+    {% endif %}
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxODc5ODRdfQ==
+eyJoaXN0b3J5IjpbMTMwODk3Mzg2MSw2MDE4Nzk4NF19
 -->
