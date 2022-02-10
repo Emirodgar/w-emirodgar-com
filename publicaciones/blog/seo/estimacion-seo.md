@@ -19,7 +19,11 @@ Basándose en ello podemos hacer estimaciones para entender, desde el principio,
 
 ## Pasos previos antes de estimar un crecimiento SEO
 
-Para poder hacer una estimación realista (sabiendo que esto es sumamente comp
+Para poder hacer una estimación realista (sabiendo que esto es sumamente complicado) necesitamos aterrizar algunos puntos:
+
+ 1. **El punto de medición actual tiene que estar normalizado**. Es decir, debe llevar al menos un mes sin crecimientos ni caídas fuertes (independientemente de la causa) y no podemos avanzar hacia un evento que cambie el panorama SEO significativamente, como por ejemplo un cambio de plantilla web, una migración, etc. 
+ 2. Tenemos que consensuar plataforma de medición y KPIs (métricas). 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM4MDgwMzBdfQ==
+eyJoaXN0b3J5IjpbMjYyOTg4NDcxXX0=
 -->
