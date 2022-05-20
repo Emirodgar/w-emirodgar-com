@@ -107,7 +107,7 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 
 Nos permitirán facilitar a los buscadores la extracción de información relevante. De momento no afectan de forma directa al SEO pero sí nos ayudan a generar mayor visibilidad por lo que podríamos aumentar y mejorar la captación de tráfico relevante.
 
-- [Rrich results](https://search.google.com/test/rich-results)
+- [Rich results](https://search.google.com/test/rich-results)
 - [Structured data testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
 
 ## <a name="enlaces"></a>Enlaces / Linkbuilding
@@ -224,11 +224,11 @@ Aunque esta categoría puede no ser exlusiva de SEO o marketing, sí tiene acept
 - [WMTips](https://www.wmtips.com/tools/info/emirodgar.com): para obtener información sobre un dominio
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODU2MTMwMSwxMjA3OTQ5MzYxLC0xNz
-c5NDE1MTI1LC0xODQxMzI3MTQ1LDExNzk5MTczNDcsMTgyMDI1
-Mzk0MSwxNDk5NDUxNjMzLDE1NTY3ODUzNTAsNjk1NTUxNTI4LC
-01ODMzNjYzNjIsMTg2OTQxODYyMSwtMTU5MjY3NjYxOSwxNzAx
-MDkwOTY0LC0yMDkzNjM0NzQ4LC0xMjg0NjQ1MjgzLDE5MDg0ND
-I0OSwtNTQ5NzY4NjU3LC0xMjYyNTkwNTAxLDE5ODUxMjczNywt
-MTI1NTY1NTM5XX0=
+eyJoaXN0b3J5IjpbLTEwNjQ0MDYxMDMsMTIwNzk0OTM2MSwtMT
+c3OTQxNTEyNSwtMTg0MTMyNzE0NSwxMTc5OTE3MzQ3LDE4MjAy
+NTM5NDEsMTQ5OTQ1MTYzMywxNTU2Nzg1MzUwLDY5NTU1MTUyOC
+wtNTgzMzY2MzYyLDE4Njk0MTg2MjEsLTE1OTI2NzY2MTksMTcw
+MTA5MDk2NCwtMjA5MzYzNDc0OCwtMTI4NDY0NTI4MywxOTA4ND
+QyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOTg1MTI3Mzcs
+LTEyNTU2NTUzOV19
 -->
