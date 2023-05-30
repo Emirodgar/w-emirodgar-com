@@ -7,7 +7,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 date: 03/02/2022
-date_modified: 08/02/2022
+date_modified: 20/05/2022
 folder: seo
 lang: es_ES
 permalink: herramientas-seo-gratis
@@ -101,12 +101,13 @@ Necesarias antes de llevar a cabo cualquier plan editorial
 - [Typefully](https://typefully.app/)
 - [Deepl](https://www.deepl.com/translator)
 - [NewsFlashBoard](https://newsflashboard.com/)
+- [Missing Topics](https://missingtopics.com/)
 
 ## <a name="datos-estructurados"></a>Datos estructurados
 
 Nos permitirán facilitar a los buscadores la extracción de información relevante. De momento no afectan de forma directa al SEO pero sí nos ayudan a generar mayor visibilidad por lo que podríamos aumentar y mejorar la captación de tráfico relevante.
 
-- [Rrich results](https://search.google.com/test/rich-results)
+- [Rich results](https://search.google.com/test/rich-results)
 - [Structured data testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
 
 ## <a name="enlaces"></a>Enlaces / Linkbuilding
@@ -223,11 +224,11 @@ Aunque esta categoría puede no ser exlusiva de SEO o marketing, sí tiene acept
 - [WMTips](https://www.wmtips.com/tools/info/emirodgar.com): para obtener información sobre un dominio
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzk0OTM2MSwtMTc3OTQxNTEyNSwtMT
-g0MTMyNzE0NSwxMTc5OTE3MzQ3LDE4MjAyNTM5NDEsMTQ5OTQ1
-MTYzMywxNTU2Nzg1MzUwLDY5NTU1MTUyOCwtNTgzMzY2MzYyLD
-E4Njk0MTg2MjEsLTE1OTI2NzY2MTksMTcwMTA5MDk2NCwtMjA5
-MzYzNDc0OCwtMTI4NDY0NTI4MywxOTA4NDQyNDksLTU0OTc2OD
-Y1NywtMTI2MjU5MDUwMSwxOTg1MTI3MzcsLTEyNTU2NTUzOSwt
-NTkwMDcxNTQzXX0=
+eyJoaXN0b3J5IjpbLTEwNjQ0MDYxMDMsMTIwNzk0OTM2MSwtMT
+c3OTQxNTEyNSwtMTg0MTMyNzE0NSwxMTc5OTE3MzQ3LDE4MjAy
+NTM5NDEsMTQ5OTQ1MTYzMywxNTU2Nzg1MzUwLDY5NTU1MTUyOC
+wtNTgzMzY2MzYyLDE4Njk0MTg2MjEsLTE1OTI2NzY2MTksMTcw
+MTA5MDk2NCwtMjA5MzYzNDc0OCwtMTI4NDY0NTI4MywxOTA4ND
+QyNDksLTU0OTc2ODY1NywtMTI2MjU5MDUwMSwxOTg1MTI3Mzcs
+LTEyNTU2NTUzOV19
 -->

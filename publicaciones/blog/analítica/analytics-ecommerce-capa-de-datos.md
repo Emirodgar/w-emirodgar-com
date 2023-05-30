@@ -13,7 +13,7 @@ permalink: analytics-ecommerce-capa-de-datos
 
 --- 
 
-Google Analytics tiene varias formas de utilizar el módulo de **ecommerce mejorado** pero todas ellas requieren siempre que lo activemos a través del menú de administración > vista > comercio electrónico.
+Google Analytics tiene varias formas de utilizar el módulo de **ecommerce mejorado,** pero todas ellas requieren siempre que lo activemos a través del menú de administración > vista > comercio electrónico.
 
 ![Emirodgar](https://emirodgar.com/cdn/images/posts/analytics-ecommerce-opciones.jpg){:class="img-responsive"}
 
@@ -146,7 +146,7 @@ Ahora sólo queda ejecutar el siguiente código una vez que el usuario ha añadi
 Como se puede ver, dicho código invoca el evento `eec.addToCart` y además tiene asociada la información del producto que ha sido añadido al carrito por lo que esa información será enviada a Google Analytics en ese mismo momento. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTY2NDM0NiwxNzI1NDIzMzc2LC0xNj
-U4NTYwNDQzLDE1OTEzMDU5NDAsLTM5MzkyNTMwMSw3ODQzODUx
-MzhdfQ==
+eyJoaXN0b3J5IjpbLTk3MjUwMDA3NiwxMTUxNjY0MzQ2LDE3Mj
+U0MjMzNzYsLTE2NTg1NjA0NDMsMTU5MTMwNTk0MCwtMzkzOTI1
+MzAxLDc4NDM4NTEzOF19
 -->
