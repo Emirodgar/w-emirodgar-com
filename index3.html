@@ -12,6 +12,7 @@
 
 body {
 	 font-family: "Century Gothic", 'Lato', sans-serif;
+   background-color: #1b1b1b;
 }
  a {
 	 text-decoration: none;
@@ -23,7 +24,7 @@ body {
 	 align-items: center;
 	 height: 100vh;
 	 position: relative;
-	 background: #eee;
+   background: #1b1b1b;
 	 text-align: center;
 	 padding: 0 2em;
 }
@@ -104,6 +105,53 @@ body {
 	 .et-hero-tab {
 		 font-size: 1rem;
 	}
+}
+
+.emirodgar {
+  display: inline-block;
+    font-size: 5vw;
+    color: #efefef;
+    width: 100%;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    animation: byBottom 1s ease both;
+    font-weight: 600;
+    letter-spacing: 0.25vw;
+}
+
+section .title {
+    max-width: 60%;
+    width: 100%;
+    align-self: center;
+     /*transform: translateY(-50px);*/
+    margin: 0 auto;
+     /*overflow: hidden;*/
+    padding-bottom: 10px;
+}
+
+section .title span {
+    display: inline-block;
+    font-size: 5vw;
+    color: #efefef;
+    width: 100%;
+    text-transform: uppercase;
+    /*transform: translateX(-100%);*/
+    animation: byBottom 1s ease both;
+    font-weight: 600;
+    letter-spacing: 0.25vw;
+}
+
+section .title span:last-child {
+    font-size: 1rem;
+    animation: byBottom 1s 0.25s ease both;
+}
+
+section .title span a {
+    position: relative;
+    display: inline-block;
+    margin-left: 0.5rem;
+    text-decoration: none;
+    color: #f7ca18;
 }
  
 
@@ -194,8 +242,9 @@ body {
 <body>
      <!-- Hero -->
   <section class="et-hero-tabs">
-    <h1>CONSULTOR SEO</h1>
-    <h3 class="et-cta"><a href="">¿Quieres vender más?</a></h3>
+    <div class="title"><span>Emirodgar</span><span>para ganar, apuesta por una<a target="_blanck" href="salfia.com">estrategia SEO</a></span></div>
+    <!--<h1 class="emirodgar">Emirodgar</h1>
+    <h3 class="et-cta"><a href="">¿Quieres vender más?</a></h3>-->
     <div class="et-hero-tabs-container">
       <a class="et-hero-tab" href="#tab-es6">Auditoría SEO</a>
       <a class="et-hero-tab" href="#tab-flexbox">Estrategia SEO</a>
