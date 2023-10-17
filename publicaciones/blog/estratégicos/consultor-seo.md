@@ -10,8 +10,6 @@ folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: consultor-seo
-redirect_from: 
-  - consultor-seo/
 
 
 ---
