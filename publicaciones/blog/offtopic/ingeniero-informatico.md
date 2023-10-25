@@ -3,6 +3,7 @@ title: Ingeniero Informático - Emilio Rodríguez García
 description: 
 lang: es_ES
 author: Emirodgar
+date: 25/10/2023
 sitemap: 1
 feed: 1
 folder: offtopic
@@ -12,6 +13,7 @@ permalink: ingeniero-informatico
 
 ---
 
+# Ingeniero Informático
 
 ## ¿Por qué decidiste estudiar Ingeniería Informática?
 
