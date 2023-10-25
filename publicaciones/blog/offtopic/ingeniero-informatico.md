@@ -1,5 +1,5 @@
 ---
-title: Ingeniero Informático - Emilio Rodríguez García
+title: Ingeniero Informático
 description: 
 lang: es_ES
 author: Emirodgar
@@ -12,8 +12,6 @@ image: https://emirodgar.com/cdn/images/og/emirodgar.png
 permalink: ingeniero-informatico
 
 ---
-
-# Ingeniero Informático
 
 ## ¿Por qué decidiste estudiar Ingeniería Informática?
 
