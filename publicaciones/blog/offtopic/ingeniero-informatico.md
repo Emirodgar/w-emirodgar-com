@@ -17,7 +17,10 @@ permalink: ingeniero-informatico
 
 Desde pequeño siempre me ha gustado la tecnología y cómo funciona. Me encantaba desarmar cosas para ver cómo estaban hechas y luego volverlas a armar. Mi primer acercamiento a la programación fue con el IRC (Internet Relay Chat), el famoso chat que inundaba los ordenadores en los 90. 
 
-Por aquel entonces utilizaba mIRC y IRCap para conectarme y chatear, los cuáles permitían scripts para automatizar tareas. Ahí es donde me enamoré de la programación y fue determinante para estudiar la carrera de Informática. 
+Por aquel entonces utilizaba mIRC y las aplicaciones de Phanatic Script o IRCap para conectarme y chatear, los cuáles permitían scripts y addons para mejorar el programa original así como automatizar tareas. Ahí es donde me enamoré de la programación y fue determinante para, unos años después, estudiar la carrera de Informática. Qué tiempos aquellos, con el módem conectando, la Encarta o el Age Of Empires en pleno apogeo.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/42b90c5e-df68-40f0-b32f-32c60d2d8a91)
+
 
 En el 2002, año en el que comencé la carrera, Informática se dividía en dos ramas: gestión y sistemas. Yo opté por la segunda, por considerarla más técnico y por ende más relacionada con lo que yo buscaba.
 
