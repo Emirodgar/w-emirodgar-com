@@ -1,10 +1,10 @@
 ---
-title: Casos de éxito SEO (Posicionamiento web) - 2020
+title: Casos de éxito SEO (Posicionamiento web) - 2023
 description: Os cuento las estrategias SEO de las que estoy más orgulloso. Los mejores resultados en más de diez años de trabajo.
 lang: es_ES
 sitemap: 1
 feed: 1
-date: 13/05/2021
+date: 26/10/2023
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -19,6 +19,7 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
  - [2015 - Recuperar tráfico perdido en periódico digital](#periodico)
  - [2016 - Migración Ecommerce Internacional](#ecommerce)
  - [2019 - Ecommerce con pérdida de tráfico](#ecommerce-local)
+ - [2023 - Recuperación penalización algoritmo core de Google](#recuperacion-core)
 
 ## <a name="periodico"></a> 2015 - Periódico digital (España) / Recuperar tráfico perdido
 
@@ -147,11 +148,35 @@ En un ecommerce, por norma general, la competencia es grande. Con este cliente p
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Me dijeron que lo habíamos conseguido, que ya estábamos los primeros (línea verde / sector ecommerce) pero no me importó. Siempre se puede ir más allá. En el último mes hemos marcado la diferencia a nivel <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a> <a href="https://t.co/lpegr5ZJBb">pic.twitter.com/lpegr5ZJBb</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1195263005287755783?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+## <a name="recuperacion-core"></a> 2023 - Universidad internacional (5 países) / Recuperación penalización actualización core de Google
+
+Se trata de una Universidad Internacional con sede física en España pero con presencia en todo el mundo. En este proyecto se identificó un impacto negativo tras el despliegue de la actualización core de Google del 15 de marzo de 2023.
+La actualización core no penaliza como tal, dado que se trata de una reordenación de los resultados de búsqueda. No obstante, podemos salir mal parados, como fue el caso.
+
+En la siguiente imagen se aprecia claramente que a raíz de esta actualización, el tráfico que teníamos normalizado, comenzó a descender.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/7583d9b0-8898-451c-ac5f-d1ad23dca3eb){:class="img-responsive"}
+
+El primer paso fue entender que Google no apreciaba el suficiente valor en nuestros contenidos como para ofrecerlos a los usuarios en los resultados de búsqueda o, que pensaba que nuestra competencia estaba más alineada con la intención de búsqueda de los potenciales visitantes.
+Con ello en mente, diseñamos un plan de trabajo para optimizar y alinear nuestros contenidos de la siguiente manera:
+
+1- Identificar las principales puertas de captación SEO que habían perdido posición, impresiones y clics.
+2- Analizar la experiencia de usuario de dichas landings de captación. Con lo identificado, se propusieron test A/B y recomendaciones técnicas para mejorar core web vitals.
+3- Identificar mejoras en los contenidos. Con ello se inició un proceso de content curator para alinearnos con la intención de búsqueda de los usuarios.
+4- Descubrimos ciertas partes de la página que generaban canibalización interna. Por ello se propuso la implementación de la etiqueta canonical y se reforzó con enlazado interno.
+
+Durante meses se trabajó en esta estrategia de recuperación de visibilidad. Aunque Google ha confirmado recientemente que se puede recuperar tráfico entre medias, en nuestro caso sólo ocurrió cuando llegó la siguiente actualización core del 22 de agosto de 2023. 
+En la siguiente imagen se puede ver claramente el impacto inicial, la pérdida constante de tráfico así como la recuperación al llegar la siguiente core.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/ee180b9b-27b4-4a93-b53b-1875aa825539){:class="img-responsive"}
+
+En las impresiones también se ve claramente la misma tendencia.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/62e81973-a7cb-4460-bc5b-7c0e8ef582dc){:class="img-responsive"}
+
+Lo más destacable, además de esa recuperación que llevó meses, es que la posterior actualización core del 5 de octubre de 2023 no nos impactó negativamente. Conseguimos recuperar y alinearnos con las directrices de Google en cuanto a la experiencia de usuario e intención de búsqueda. 
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/a7c2a949-c731-4c52-b697-7889c08c2b66){:class="img-responsive"}
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ3NTAzNjgsLTg4NjU4MDQ0OCwtMj
-A4NjAxMzQ4Nyw0MTg3NDgyMzIsMTg5NjI5MDUwNyw5MzMyMDkz
-NDcsMjAwOTg0NzAzOSw2NzcyNjk1OTIsOTAzMjQ3MTc5LC02MT
-AzOTUwNzAsLTE5NDQwNzk4NTFdfQ==
--->
+
