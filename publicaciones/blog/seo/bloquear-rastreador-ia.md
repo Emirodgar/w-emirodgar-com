@@ -59,6 +59,7 @@ Además de los dos antes expuestos, podemos seguir las mismas instrucciones para
 
 - CCBot
 - Anthoropic IA
+- Cohere-ai
 
 ## Bloquear el acceso a SGE (búsqueda generativa de Google)
 
