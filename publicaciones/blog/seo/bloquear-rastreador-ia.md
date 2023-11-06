@@ -16,7 +16,11 @@ Los chatbots actuales, como ChatGPT y Google Bard, son capaces de generar texto,
 Sin embargo, también pueden ser utilizados para fines maliciosos, como la difusión de información falsa o la recopilación de datos personales.
 
 Para protegernos de estos riesgos, es importante **bloquear el rastreo a los robots de búsqueda de los chatbots**.
-Esto se puede hacer, a día de hoy, bloqueando su acceso a través del fichero `robots.txt`.
+Esto se puede hacer, a día de hoy, bloqueando el acceso de sus rastreadores a través del fichero `robots.txt`.
+
+## ¿Qué es un rastreador?
+
+Un rastreador web, también conocido como araña web o bot web, es un programa informático que navega sistemáticamente por Internet, visitando páginas web y recopilando (extrayendo) datos de ellas. Los rastreadores web se utilizan principalmente para indexar el contenido web para los motores de búsqueda y para recopilar datos para el entrenamiento de IA.
 
 > La realidad es que en muchos casos los chatbots ignoran esta directiva y acceden a nuestros contenidos, aún así, es la única medida propuesta por los desarrolladores a día de hoy.
 
