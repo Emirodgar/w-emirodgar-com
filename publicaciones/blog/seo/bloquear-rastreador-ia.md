@@ -67,3 +67,11 @@ Por desgracia esta respuesta se basa en el rastreo e indexación del robot princ
 
 Además de bloquear a los rastreadores de chatbots e inteligencias artificiales, existen [listados de robots spam](https://emirodgar.com/listado-robots-bloquear) que consumen nuestros recursos ni aportarnos ningún valor. Os recomiendo bloquearlos.
 
+## Seguimiento de medios digitales que han bloqueado a los chatbots existentes
+
+El proyecto [News Websites Blocking LLM Dataset Bots - Research Data](https://docs.google.com/spreadsheets/d/122X_gX8e7xYfiDO4_zPx1aqh3CgpXUr4X2ijiOh9x88/edit#gid=1611081988) está haciendo seguimiento de la postura de los grandes medios digitales frente a los rastreadores de IA. Actualmente, en España sólo un medio bloquea a los rastreadores frente al 50% de los medios en EEUU.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/63ff136b-baee-4a8c-aec7-6b92a10f3a11)
+
+
+
