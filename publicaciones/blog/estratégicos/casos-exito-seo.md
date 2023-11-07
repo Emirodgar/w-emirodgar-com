@@ -4,7 +4,8 @@ description: Os cuento las estrategias SEO de las que estoy más orgulloso. Los 
 lang: es_ES
 sitemap: 1
 feed: 1
-date: 7/11/2023
+date: 26/10/2021
+date_modified: 7/11/2023
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
