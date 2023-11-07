@@ -19,6 +19,7 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
  - [2015 - Recuperar tráfico perdido en periódico digital](#periodico)
  - [2016 - Migración Ecommerce Internacional](#ecommerce)
  - [2019 - Ecommerce con pérdida de tráfico](#ecommerce-local)
+ - [2022 - Lanzamiento de periódico digital basado en Angular](#periodico-angular)
  - [2023 - Recuperación penalización algoritmo core de Google](#recuperacion-core)
 
 ## <a name="periodico"></a> 2015 - Periódico digital (España) / Recuperar tráfico perdido
@@ -146,6 +147,53 @@ La captación SEO se disparó con algunos picos que duplicaban el tráfico medio
 En un ecommerce, por norma general, la competencia es grande. Con este cliente partíamos los primeros frente a competidores locales, aún así, la evolución que experimentamos fue tal que nos hicimos líderes indiscutibles del sector.
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Me dijeron que lo habíamos conseguido, que ya estábamos los primeros (línea verde / sector ecommerce) pero no me importó. Siempre se puede ir más allá. En el último mes hemos marcado la diferencia a nivel <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a> <a href="https://t.co/lpegr5ZJBb">pic.twitter.com/lpegr5ZJBb</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1195263005287755783?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## <a name="periodico-angular"></a> 2022 - Lanzamiento de periódico digital basado en Angular 
+
+Este ha sido un reto muy bonito y que me ha supuesto un aprendizaje técnico muy grande. A mediados del año 2022 se definía la creación de un nuevo medio digital en España. El proyecto ya estaba avanzado cuando me incorporé y se había decidido utilizar la tecnología `Angular`.
+
+
+> Angular es un framework de JavaScript de código abierto desarrollado por Google para crear aplicaciones web de una sola página. Es decir, en lugar de generarse cada URL de manera independiente, se crea una plantilla y ésta se rellena en función de lo que el usuario ha seleccionado. El hecho de no tener que recargar cada URL, hace que sea mucho más rápido.
+
+Con la false creencia de que al tratarse de una tecnología desarrollada por Google tendría ciertas ventajas (o menos problemas) para posicionar, se optó por este framework. La realidad es que es una tecnología muy potente para la experiencia de los usuarios pero
+nefasta (por aquel 2021) para el posicionamiento SEO.
+
+### Una versión adecuada para Google
+
+Mi primera medida fue instalar el módulo de [Angular Universal](https://angular.io/guide/universal) para disponer de un renderizado a nivel de servidor `SSR` en lugar del que se realiza del lado del cliente `CSR`, pero pronto me di cuenta de que esta medida no era suficiente. Aunque Google rastrea y ejecuta `Javascript`, suele hacerlo con cierto retraso respecto a un rastreo que no requiere de renderizado (ejecutar `Javascript` y pintar el código `HTML` final). Ese retraso es fatal para un medio digital, donde competimos por minutos para ser los primeros en lanzar una noticia.
+
+Fue necesario desarrollar y trabajar los siguientes aspectos para conseguir que Google rastreara, renderizara y posicionara nuestras noticias a la misma velocidad que el resto de competidores.
+
+1. EL renderizado SSR completamente estático. Teníamos el handicap de la publicidad y otras partes dinámicas que no éramos capaces de pintar en el código HTML final.
+2. API de Indexación.
+3. Enlazado interno sobre últimas noticias.
+4. Sitemap XML de noticias. 
+
+### Trabajando la experiencia de los usuarios
+
+Otro punto que nos lastró durante el comienzo del proyecto fue la experiencia de usuario y las core web vitals. Aunque Angular ofrece una experiencia inmejorable, los criterios a analizar por parte de las herramientas no están bien alineados con esta tecnología de una sola página y la publicidad, además de otros códigos necesarios para el día a día del periódico, nos generaban unos valores realmente bajos.
+
+Mi propuesta, en contra de todas las directrices de aquel momento, fue lanzar una versión `AMP` de las noticias. Yo lo veía como un parche, dado que la tendencia actual (que se empezaba a notar por aquel entonces) era dejar de usar AMP para centrarse en una única versión. No obstante, Google reflejaba 0% de URLs con buena experiencia tanto en escritorio como en móvil, lo que nos estaba costando tráfico y el acceso a diversas plataformas como Discover.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/d9dbae4a-a9e4-445c-a44a-9b4e7df6f607){:class="img-responsive"}
+
+Poco a poco conseguimos que Google valorara positivamente la experiencia de la página en móvil, lo que nos permitió crecer en tráfico orgánico. A día de hoy, tenemos el 97% de URLs móviles y 0% en escritorio.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/531a30c0-ac98-47f0-8ef5-384cd9bdded4){:class="img-responsive"}
+
+Además de lo anterior, gracias a la versión `AMP` de las noticias, pudimos comenzar a generar tráfico a través de diversas aplicaciones, como Google News o Google Discover. A medio plazo, se han convertido en la fuente de captación principal de tráfico orgánico. Fijaros que hay días en los que se han llegado a generar más de 300k clics orgánicos.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/838f187d-0cb4-41ac-a1b2-103105c2bb4c){:class="img-responsive"}
+
+
+### Resultados y caso de éxito
+
+Este proyecto ha sido un gran reto, primero por comenzar un periódico digital en el 2021/2022, con un mercado altamente competido y segundo por utilizar Angular como tecnología. Al ser un framework Javascript ha supuesto un gran esfuerzo conseguir una interacción adecuada con los buscadores, en especial con Google.
+
+En la siguiente imagen podemos ver el crecimiento acumulado durante 2023. Aunque el proyecto se inició en 2022, el desarrollo final ocurrió a finales de año, casi comienzos de 2023. A partir de ahí enfrentamos los diversos retos antes expuestos y hemos ido creciendo día a día. Las últimas actualizaciones de Google han sido positivas, dado que hemos salido reforzados de las mismas.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/25e462d7-57b2-4413-87f1-b94ef9443fc4)
+
 
 
 ## <a name="recuperacion-core"></a> 2023 - Universidad internacional (5 países) / Recuperación penalización actualización core de Google
