@@ -192,7 +192,7 @@ Este proyecto ha sido un gran reto, primero por comenzar un periódico digital e
 
 En la siguiente imagen podemos ver el crecimiento acumulado durante 2023. Aunque el proyecto se inició en 2022, el desarrollo final ocurrió a finales de año, casi comienzos de 2023. A partir de ahí enfrentamos los diversos retos antes expuestos y hemos ido creciendo día a día. Las últimas actualizaciones de Google han sido positivas, dado que hemos salido reforzados de las mismas.
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/25e462d7-57b2-4413-87f1-b94ef9443fc4)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/25e462d7-57b2-4413-87f1-b94ef9443fc4){:class="img-responsive"}
 
 
 
