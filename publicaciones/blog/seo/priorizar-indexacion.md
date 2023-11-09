@@ -1,5 +1,5 @@
 ---
-title: SGE: Prioriza la indexación de tus páginas
+title: SGE - Prioriza la indexación de tus páginas
 description: Hay demasiada información. Necesitamos separar lo útil de lo menos relevante.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
@@ -11,7 +11,7 @@ folder: seo
 date: 09/11/2023
 permalink: priorizar-indexacion
 
---- 
+---
 
 Hay demasiada información en Internet. Los buscadores invierten mucho tiempo y dinero en rastrear sitios web y se han dado cuenta que gran parte del contenido existente no aporta valor.
 La realidad en SEO es que a día de hoy es muy difícil, para páginas grandes, **indexar todas las URLs que conforman el sitio**.
