@@ -15,15 +15,18 @@ permalink: coches-electricos-combustion
 
 Es el debate del momento. No hay día en el que no salga alguna conversación relacionada con el futuro de la electrificación de los coches o discusiones entre los que abogan por una u otra opción.
 
-Yo, informático apasionado de la tecnología, **no soy tan optimista**. El coche eléctrico nunca me ha parecido una solución sostenible ni revolucionaria, al menos no como nos lo han vendido.
+Yo, [informático](https://emirodgar.com/ingeniero-informatico) apasionado de la tecnología, **no soy tan optimista**. El coche eléctrico nunca me ha parecido una solución sostenible ni revolucionaria, al menos no como nos lo han vendido.
+
+## ¿Es el momento del coche eléctrico?
+
 Nos lo han intentado meter con cuchara, pero esa no es la solución. Al final, la realidad se abre paso. 
-Considero que el coche eléctrico tiene un nicho de mercado muy importante, como es el de la ciudad (desplazamientos cortos y repetitivos), sector movilidad (taxi, uber, camiones de reparto, etc.) o incluso servicios (policía, ambulancia, etc.). Pero sigo pensando que nuestra sociedad actual no está diseñada para cubrir todos los ámbitos (llegar a toda la población). Nos enfrentamos a problemas similares que con los coches autónomos.
+Considero que el coche eléctrico **tiene un nicho de mercado muy importante**, como es el de **la ciudad** (desplazamientos cortos y repetitivos), **sector movilidad** (taxi, uber, camiones de reparto, etc.) o incluso **servicios** (policía, ambulancia, etc.). Pero sigo pensando que nuestra sociedad actual no está diseñada para cubrir todos los ámbitos (llegar a toda la población). Nos enfrentamos a problemas similares que con los coches autónomos.
 
-Ya os hablé en su momento del bulo del coche eléctrico y de cómo el primer motor libre de combustión data de 1837. Si lleva tanto tiempo, ¿por qué la única relevancia que ha tenido en los últimos 160 años es la que han tenido que dar gobiernos y empresas a golpe de reducciones fiscales?. No han demostrado que el coche eléctrico sea mejor, tan sólo lo han bonificado y, en el camino, demonizado al de combustión. Amigos, como siempre, nos manipulan en pos de sus intereses.
+Ya os hablé en su momento del bulo del coche eléctrico y de que **el primer motor libre de combustión data de 1837**. Si lleva tanto tiempo, ¿por qué la única relevancia que ha tenido en los últimos 160 años es la que han tenido que dar gobiernos y empresas a golpe de reducciones fiscales?. 
 
-Pero hay un interés más grande al que no pueden hacer frente: la realidad.
+> No han demostrado que el coche eléctrico sea mejor, tan sólo lo han bonificado y, en el camino, demonizado al de combustión. 
 
-Cuando leía noticias de que varias empresas dejarían de fabricar coches de combustión y centrarían sus líneas de producción únicamente en modelos eléctricos a medio plazo, me llevaba las manos a la cabeza. General Motors lo tenía muy claro, a partir de 2035 sólo fabricarían coches eléctricos. ¿De verdad el presidente (CEO) de esta empresa es capaz de hipotecar el futuro de su compañía basándose en promesas electorales y de agenda 2030 en lugar de usar los datos de mercados y asesores expertos?. Pues sí, y ahora resulta que se están dando cuenta de que no era el camino adecuado.
+Cuando leía noticias de que varias empresas dejarían de fabricar coches de combustión y centrarían sus líneas de producción **únicamente en modelos eléctricos** a medio plazo, me llevaba las manos a la cabeza. General Motors lo tenía muy claro, a partir de 2035 sólo fabricarían coches eléctricos. ¿De verdad el presidente (CEO) de esta empresa es capaz de hipotecar el futuro de su compañía basándose en promesas electorales y de agenda 2030 en lugar de usar los datos de mercados y asesores expertos?. Pues sí, y ahora resulta que se están dando cuenta de que no era el camino adecuado.
 
 No son pocos, pero intentaré listarlos:
 
@@ -51,9 +54,9 @@ Según la Agencia de Energía de EEUU, en un paper publicado en 11 de octubre de
 
 Desconozco la situación en otro países, pero en España choca de lleno con tres aspectos básicos de nuestra sociedad: 
 
-El coste: bastante superior a un combustión de similares características. Ahora están vendiendo algunos modelos por debajo de coste para darle salida, pero eso no es una solución a largo plazo. En algún momento volverán a subir.
+- **El coste**: bastante superior a un combustión de similares características. Ahora están vendiendo algunos modelos por debajo de coste para darle salida, pero eso no es una solución a largo plazo. En algún momento volverán a subir.
 
-Los problemas de infraestructura: Salvo que vivas en un chalet, te enfrentarás a retos innecesarios y dependiendo de la comunidad de vecinos en la que residas, serán más o menos manejables. Y ya no hablemos de las placas solares. Si tienes 50/60 años valora si quieres pasarte lo que te resta de vida peleando con las eléctricas para que te paguen el kw/h a algo razonable o apretando el culo por si se estropea la batería de tu coche o hay que cambiar las placas. Porque todo es muy bonito mientras funciona, pero ¿cuando falla, qué?.
-Las barreras del estilo de vida para adoptarlo: He sido un negacionista del coche eléctrico porque para mí el coche es libertad y el eléctrico actual no me lo asegura. Quizá dentro de unos años puedan igualar a los de combustión, pero mientras tanto viajaré tranquilo y haciendo lo que me dé la gana en cada momento.
+- **Los problemas de infraestructura**: Salvo que vivas en un chalet, te enfrentarás a retos innecesarios y dependiendo de la comunidad de vecinos en la que residas, serán más o menos manejables. Y ya no hablemos de las placas solares. Si tienes 50/60 años valora si quieres pasarte lo que te resta de vida peleando con las eléctricas para que te paguen el kw/h a algo razonable o apretando el culo por si se estropea la batería de tu coche o hay que cambiar las placas. Porque todo es muy bonito mientras funciona, pero ¿cuando falla, qué?.
+- **Las barreras del estilo de vida para adoptarlo**: He sido un negacionista del coche eléctrico porque para mí el coche es libertad y el eléctrico actual no me lo asegura. Quizá dentro de unos años puedan igualar a los de combustión, pero mientras tanto viajaré tranquilo y haciendo lo que me dé la gana en cada momento.
 
 
