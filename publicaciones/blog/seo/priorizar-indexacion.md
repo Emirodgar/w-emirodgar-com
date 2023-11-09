@@ -1,4 +1,3 @@
-
 ---
 title: SGE: Prioriza la indexación de tus páginas
 description: Hay demasiada información. Necesitamos separar lo útil de lo menos relevante.
