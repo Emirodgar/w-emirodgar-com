@@ -1,5 +1,5 @@
 ---
-title: Problemas al rastrear con robots.txt y noindex
+title: Problemas al rastrear e indexar con robots.txt y noindex
 description: Ambas directivas pueden ser excluyentes y generar problemas de indexación de nuestras páginas.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
@@ -47,7 +47,7 @@ Como indiqué antes, la directiva `disallow` puede ser ignorada por los rastread
 La única manera efectiva para evitar que una página sea indexada es utilizar la directiva `noindex`.
 
 ```
-
+<meta name="robots" content="noindex">
 ```
 
 ## Cuidado al usar ambas directrices a la vez
