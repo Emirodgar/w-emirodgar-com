@@ -25,20 +25,21 @@ Una newsletter SEO es un boletín informativo que se envía por correo electrón
 
 ## Las 10 mejores newsletter SEO en español
 
-A continuación, se presenta un listado de las 20 mejores newsletter SEO en español, según las opiniones de expertos y profesionales del sector:
+Os dejo un listado de las 10 mejores newsletter SEO en español, según mi criterio personal así como opiniones de expertos y profesionales del sector.
+La primera, [Chuleta SEO](https://newsletter.chuletaseo.com) es mía. Comencé a escribir en 2022. El resto de las que recomiendo, soy suscriptor de las mismas, por lo que hablo con conocimiento de causa:
 
-| Posición | Autor | Frecuencia | Contenido | Descripción | Nombre |
-|---|---|---|---|---|---|
-| 1 | Aleyda Solís | Semanal | Noticias, artículos, guías, tutoriales y reflexiones sobre SEO | Está dirigida a profesionales de la industria | **SEOMOFO** |
-| 2 | Emilio Rodríguez García | Semanal | Noticias, artículos, guías, tutoriales, herramientas, eventos y ofertas de trabajo | Ofrece un resumen de las últimas novedades en el mundo del posicionamiento web | **ChuletaSEO** |
-| 3 | Juan González Villa | Semanal | Noticias, artículos, herramientas, hilos de Twitter y otros contenidos de interés | Recopila los 10 enlaces más interesantes de la semana | **10 Links Azules** |
-| 4 | Esteve Castells | Mensual | Noticias, artículos, guías, tutoriales y reflexiones sobre SEO | Ofrece un análisis en profundidad de las últimas novedades en el mundo del posicionamiento web | **SEOpatía** |
-| 5 | Jakub Motyka | Bisemanal | Noticias, artículos, guías, tutoriales y reflexiones sobre SEO | Ofrece un análisis en profundidad de las últimas novedades en el mundo del posicionamiento web | **La newsletter de Jakub Motyka** |
-| 6 | David Carrasco | Semanal | Noticias, artículos, guías, tutoriales, herramientas, eventos y ofertas de trabajo | Ofrece un resumen de las últimas novedades en el mundo del posicionamiento web | **La newsletter de Unancor** |
-| 7 | Álex Serrano | Semanal | Noticias, artículos, consejos y trucos sobre SEO | Ofrece un resumen de las últimas novedades en el mundo del posicionamiento web | **300Segundos** |
-| 8 | Sergio Simarro | Semanal | Noticias, artículos, consejos y trucos sobre SEO | Ofrece un resumen de las últimas novedades en el mundo del posicionamiento web | **MagnifiCRO** |
-| 9 | Luis Villanueva | Mensual | Guías, tutoriales y conceptos básicos sobre SEO | Ofrece una introducción al mundo del posicionamiento web | **El SEO de la A a la Z** |
-| 10 | Matías Romero | Mensual | Noticias, artículos, consejos y trucos sobre SEO local | Ofrece un resumen de las últimas novedades en el mundo del posicionamiento web local | **SEO local** |
+| Nombre | Autor | Frecuencia | Contenido | Descripción |
+|---|---|---|---|---|
+| **Chuleta SEO** | Emilio Rodríguez García | Semanal | Noticias, artículos, guías, tutoriales, herramientas, eventos y ofertas de trabajo | Ofrece un resumen de las últimas novedades en el mundo del posicionamiento web |
+| **Newsletter de Oriol Farré** | Aleyda Solís | Semanal | Cubre temáticas como UX, CRO, analítica y, obviamente, el SEO | Nos ayuda a tener una visión global |
+| **10 Links Azules** | Juan González Villa | Semanal | Noticias, artículos, herramientas, hilos de Twitter y otros contenidos de interés | Recopila los 10 enlaces más interesantes de la semana |
+| **SEOpatía** | Esteve Castells | Mensual | Noticias, artículos, guías, tutoriales y reflexiones sobre SEO | Recopilación de las últimas novedades en el mundo del posicionamiento web |
+| **La newsletter SEO** | Jakub Motyka | Bisemanal | Noticias, artículos, guías, tutoriales y reflexiones sobre SEO | Ofrece un análisis en profundidad de las últimas novedades en el mundo del posicionamiento web |
+| **La newsletter de Unancor** | David Carrasco | Semanal | Noticias, artículos, guías, tutoriales, herramientas, eventos y ofertas de trabajo | Ofrece un resumen de las últimas novedades en el mundo del posicionamiento web |
+| **300Segundos** | Álex Serrano | Semanal | Video consejo (videotip) | Orientado a profesionales del SEO que puedan poner en práctica estos consejos |
+| **NichoSEO** | Sebastián Cardozo | Semanal | Visión personal sobre negocios y proyectos de éxito | Muy orientado hacia los nichos y la explotación rápida de páginas |
+| **Radar SEO** | Emilio Miguel López | Mensual | Últimas tendencias, actualidades y recomendaciones |
+| **SEO local** | Matías Romero | Bimensual | Noticias, artículos, consejos y trucos sobre SEO local | Ofrece un resumen de las últimas novedades en el mundo del posicionamiento web local |
 
 
 Las newsletters SEO ofrecen una gran variedad de contenidos. Algunos de los temas más comunes que se tratan en las newsletters SEO son:
