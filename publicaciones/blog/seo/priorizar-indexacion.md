@@ -1,3 +1,4 @@
+
 ---
 title: SGE: Prioriza la indexación de tus páginas
 description: Hay demasiada información. Necesitamos separar lo útil de lo menos relevante.
@@ -38,9 +39,29 @@ Tenemos varias herramientas que nos ayudarán a priorizar el contenido de valor 
 La tendencia que llevamos tiempo notando es la de **reducción de peticiones** (línea azul de la siguiente imagen) por parte de [Googlebot](https://emirodgar.com/detectar-googlebot).
 En la siguiente imagen podemos ver que, aunque el tiempo medio se mantiene estable (línea naranja), las peticiones del robot de Google se reducen.
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/5e6ca395-ef28-415b-971f-547fc33eb5e4)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/5e6ca395-ef28-415b-971f-547fc33eb5e4){:class="img-responsive"}
 
-Curiosamente, esta situación no está afectando a la indexación del sitio, que se mantiene normalizado. **Google es más eficiente en su rastreo y en la cualificación de las páginas relevantes para el SEO**.
+Curiosamente, esta situación no está afectando a la indexación del sitio, que se mantiene normalizado. **Google es más eficiente en su rastreo y en la cualificación de las páginas relevantes para el SEO**, por lo que debemos alinearnos con ello y potenciar eso.
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/7fae73f3-a854-408d-881f-9ccfbc40b3d7)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/7fae73f3-a854-408d-881f-9ccfbc40b3d7){:class="img-responsive"}
+
+## ¿Qué ocurrirá con las páginas con una base mala de rastreo?
+
+Pues que habrá que trabajar el SEO técnico de manera inmediata. No es fácil, pero tampoco imposible.
+Os dejo este ejemplo de un cliente con más de **300 millones de URLs rastreadas pero no indexadas**. Optimizar el *crawl budget* ha sido un gran reto, pero se ha conseguido poner orden y experimentar un crecimiento SEO.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/23df71d6-c9ab-41ee-bcd9-557f78616ce5){:class="img-responsive"}
+
+Como siempre digo, cada acción SEO que realizamos debería tener asociado un `KPI` (métrica) que nos permita analizar el impacto -positivo o negativo- de lo que hemos conseguido.
+En el caso del rastreo e indexación, debe ser el número de páginas indexadas y las impresiones/clics generados.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/a155f319-b2c9-4ac1-80af-16255d47abac){:class="img-responsive"}
+
+¿Recordáis la fábula de los hermanos que querían arrancar la cola del caballo?. Lo consiguió aquél que fue pelo a pelo. Esta táctica no será rápida, pero si hemos trabajado bien el aspecto técnico, conseguiremos buenos resultados.
+
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/7c5d3b4a-da96-4653-8976-c81d66837b9c){:class="img-responsive"}
+
+
+
 
