@@ -61,3 +61,4 @@ Aquí tienes algunos consejos para elegir la mejor newsletter SEO:
 - Lee reseñas y opiniones de otras personas. Esto te ayudará a saber qué dicen otros usuarios sobre la newsletter.
 - Prueba diferentes newsletters. No te limites a suscribirte a una sola newsletter. Prueba diferentes newsletters para ver cuál te gusta más.
 
+  En esta publicación he querido poner el foco en las newsletter SEO en español o castellano, pero también hay otras, principalmente en inglés, muy recomendables. En este artículo se han recopilado bastantes [newsletters SEO y de marketing digital](https://chuletaseo.com/newsletter-seo).
