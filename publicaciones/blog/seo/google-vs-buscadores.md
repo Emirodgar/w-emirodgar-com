@@ -24,7 +24,7 @@ Si nuestro [objetivo SEO](https://emirodgar.com/objetivo-seo) es incrementar el 
 
 ## ¿Cuál es el impacto de la inteligencia artificial en el tráfico de buscadores?
 
-En los últimos 2 años, con la irrupción de la inteligencia artificial, y la integración en Bing de su chatbot para ayudar en las búsquedas, **Google ha perdido tan sólo un 1% de *market share* **. Sigue siendo el principal buscador, salvo en mercados como China (Baidu) o Rusia (Yandex).
+En los últimos 2 años, con la irrupción de la inteligencia artificial, y la integración en Bing de su chatbot para ayudar en las búsquedas, **Google ha perdido tan sólo un 1% de market share**. Sigue siendo el principal buscador, salvo en mercados como China (Baidu) o Rusia (Yandex).
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/80df5d4e-a299-4f42-959f-9774c238183e){:class="img-responsive"}
 
@@ -56,7 +56,7 @@ Puede que los resultados en Google sean mejores, pero la experiencia en el busca
 
 - **Sesgo hacia las marcas**. Si las búsquedas de los usuarios tienden hacia una dirección, el buscador las imitará pensando que se trata del interés general (algo que no tiene por qué ser). Esto refuerza la ley de los grandes números: el grande se hace más grande y el pequeño se mantiene pequeño.
 
-- ** Falta de exclusividad**. Cualquier página se puede posicionar por el contenido que quiera, más allá de su sector o nicho. Esto genera redundancias y contenidos de escaso valor. Google está intentando poner freno a esta práctica con las últimas actualizaciones, pero ahora es difícil hacer la criba.
+- **Falta de exclusividad**. Cualquier página se puede posicionar por el contenido que quiera, más allá de su sector o nicho. Esto genera redundancias y contenidos de escaso valor. Google está intentando poner freno a esta práctica con las últimas actualizaciones, pero ahora es difícil hacer la criba.
 
 ## ¿Cuál es la tendencia a medio y largo plazo?
 
