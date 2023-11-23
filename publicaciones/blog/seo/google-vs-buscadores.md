@@ -60,11 +60,9 @@ Puede que los resultados en Google sean mejores, pero la experiencia en el busca
 
 ## ¿Cuál es la tendencia a medio y largo plazo?
 
-Aunque son especulaciones, mi apuesta de cómo consumiremos contenidos se apoyaría en el concepto de **Bosque Oscuro**. La primera vez que oí este término voy en "El problema de los tres cuerpos", es una novela de ciencia ficción del escritor chino Liu Cixin. La teoría del bosque oscuro es una hipótesis que propone que la razón por la que no hemos encontrado evidencia de vida extraterrestre inteligente es porque las civilizaciones extraterrestres inteligentes se aniquilan a sí mismas o a otras civilizaciones tan pronto como se descubren. De ahí que se intenten esconder y pasar desapercibidas.
+Aunque son especulaciones, mi apuesta de cómo consumiremos contenidos se apoyaría en el concepto de **[Bosque Oscuro](https://emirodgar.com/bosque-oscuro)**. La primera vez que leí sobre este término fue en "El problema de los tres cuerpos", es una novela de ciencia ficción del escritor chino Liu Cixin. La teoría del bosque oscuro es una hipótesis que propone que la razón por la que no hemos encontrado evidencia de vida extraterrestre inteligente es porque las civilizaciones extraterrestres inteligentes se aniquilan a sí mismas o a otras civilizaciones tan pronto como se descubren. De ahí que se intenten esconder y pasar desapercibidas.
 
-El concepto de "Bosque Oscuro" [en internet](https://newsletter.jmswebs.com/i/138911374/bosque-oscuro), popularizado por Yancey Strickler y Maggie Appleton, describe la *tendencia de las personas a alejarse de las grandes plataformas hacia entornos más privados y selectos*, como newsletters, podcasts, chats, foros, grupos de texto, etc. Esta tendencia se ha visto reflejada en el crecimiento de plataformas como Substack, Slack o Discord, donde los usuarios buscan una experiencia más auténtica y menos saturada de contenido genérico.
-
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/5d5f040e-15cb-4957-8e83-509c808192b8){:class="img-responsive"}
+El concepto de "Bosque Oscuro" [en internet](https://newsletter.jmswebs.com/i/138911374/bosque-oscuro), describe la *tendencia de las personas a alejarse de las grandes plataformas hacia entornos más privados y selectos*, como newsletters, podcasts, chats, foros, grupos de texto, etc. Esta tendencia se ha visto reflejada en el crecimiento de plataformas como Substack, Slack o Discord, donde los usuarios buscan una experiencia más auténtica y menos saturada de contenido genérico.
 
 Google tiene demasiada información y el que mucho abarca, poco aprieta. Crear nuestra masa crítica unida alineada con un interés común será la clave para sobrevivir a lo que viene.
 
