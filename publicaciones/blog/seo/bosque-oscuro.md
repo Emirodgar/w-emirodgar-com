@@ -19,7 +19,7 @@ Estos entornos ofrecen una experiencia más auténtica y menos saturada de conte
 El auge de los chatbots y de plataformas como Reddit, Discord, Slack o Substack constata la migración de usuarios desde los buscadores tradicionales (contenido genérico) hacia estos portales más específicos donde se ofrece a los usuarios la posibilidad de crear y compartir contenido de una manera más personalizada y controlada..
 La imagen de "Dark Forest" de "Maggie Appleton" ejemplifica muy bien los diferentes estratos de la experiencia de los usuarios según sus intereses.
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/1b8b656f-dc4d-4d37-b96c-1eb2ecc86124)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/1b8b656f-dc4d-4d37-b96c-1eb2ecc86124){:class="img-responsive"}
 
 La teoría del bosque oscuro fue popularizada por Yancey Strickler y Maggie Appleton en su libro *The Dark Forest: A New Way to Think About Innovation*. Strickler y Appleton argumentan que la tendencia al bosque oscuro es una reacción a los problemas inherentes a las grandes plataformas de comunicación. 
 Estos problemas incluyen:
