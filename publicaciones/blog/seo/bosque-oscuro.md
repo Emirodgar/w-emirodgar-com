@@ -16,8 +16,7 @@ permalink: bosque-oscuro
 La teoría del bosque oscuro es una teoría de la comunicación que describe la **tendencia de las personas a alejarse de las grandes plataformas de comunicación hacia entornos más privados y selectos**. 
 Estos entornos ofrecen una experiencia más auténtica y menos saturada de contenido genérico.
 
-El auge de los chatbots y de plataformas como Reddit, Discord, Slack o Substack constata la migración de usuarios desde los buscadores tradicionales (contenido genérico) hacia estos portales más específicos donde se ofrece a los usuarios la posibilidad de crear y compartir contenido de una manera más personalizada y controlada..
-La imagen de "Dark Forest" de "Maggie Appleton" ejemplifica muy bien los diferentes estratos de la experiencia de los usuarios según sus intereses.
+El auge de los chatbots y de plataformas como Reddit, Discord, Slack o Substack constata **la migración de usuarios desde los buscadores tradicionales (contenido genérico) hacia estos portales más específicos** donde se ofrece a los usuarios la posibilidad de crear y compartir contenido de una manera más personalizada y controlada. La imagen de *Dark Forest* de Maggie Appleton ejemplifica muy bien los diferentes estratos de la experiencia de los usuarios según sus intereses.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/1b8b656f-dc4d-4d37-b96c-1eb2ecc86124){:class="img-responsive"}
 
