@@ -12,7 +12,10 @@ permalink: pilares-seo
 
 ---
 
-Antes de comenzar a diseñar una [estrategia SEO](/estrategia-seo) debemos tener presente los **tres pilares SEO** que nos ayudarán a asegurar unos buenos resultados digitales.
+Antes de comenzar a diseñar una [estrategia SEO](/estrategia-seo) debemos tener presente los **tres pilares SEO** que nos ayudarán a asegurar unos buenos resultados digitales: **Indexación**, **contenido** y **popularidad**.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/0057ee9e-2688-405b-a4aa-ad2405ef3954){:class="img-responsive"}
+
 
 ## 1 - Indexación
 
