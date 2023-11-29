@@ -23,13 +23,17 @@ Y el principal criterio que usan para ello, es **la calidad de dicho contenido**
 
 > Nuestras estrategias deben contar con una [indexación selectiva](https://emirodgar.com/indexacion-selectiva) para discernir lo prioritario para los buscadores de lo que no lo es.
 
-Si nuestra página **no aporta valor diferencial** frente a lo que ya existe o **no está alineado con nuestro público objetivo**, será casi imposible que podamos aparecer en los resultados de búsqueda.
+## La era de la calidad en el SEO
 
-## Antes de crear algo nuevo, plantéate la siguiente reflexión
+No me canso de repetirlo: **las estrategias SEO deben centrarse en la calidad del contenido**. Si una página no aporta valor diferencial o no está alineado con el público objetivo, será difícil que aparezca en los resultados de búsqueda.
 
-La página o contenido que voy a crear, **¿es realmente un aporte de valor para Internet?**. 
-En caso afirmativo, pasamos al siguiente paso: ¿tengo una audiencia que busque este contenido?, ¿será un resultado útil para ellos?.
+Para crear contenido de calidad, debemos plantearnos las siguientes preguntas:
 
-Si se trata de un aporte de valor, pero no tenemos una audiencia, debemos trabajar en la generación de contenido que construya una base de conocimiento útil para demostrar autoridad y valor y que la gente empiece a buscarnos. 
+- ¿Es este contenido realmente un aporte de valor para Internet?
+- ¿Tengo una audiencia que busque este contenido?
+- ¿Será un resultado útil para ellos?
 
-Si la respuesta a estas preguntas es no, entonces **puede ser difícil posicionarse en las búsquedas de Google actuales**.
+Si la respuesta a estas preguntas es sí, entonces estamos en el camino correcto. Sin embargo, si la respuesta es no, debemos trabajar en mejorar el contenido o en crear contenido que sea más relevante para nuestro público objetivo.
+
+
+
