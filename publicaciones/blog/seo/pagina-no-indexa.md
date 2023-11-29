@@ -16,7 +16,7 @@ permalink: pagina-no-indexa
 En el capítulo de [En qué aspectos de mi sitio web debo centrarme](https://search-off-the-record.libsyn.com/which-aspect-of-my-site-should-i-focus-on) del Podcast **Search Off The Record**, Gary Illes expone una realidad que llevo tiempo diciendo:
 **antes de crear una página debemos tener claro el objetivo y el aporte de valor**.
 
-##Estamos en la era de la calidad, no de la cantidad
+## Estamos en la era de la calidad, no de la cantidad
 
 Los motores de búsqueda no pueden rastrear e indexar todo el contenido que se genera a diario en la red, por lo que tienen que [priorizar](https://emirodgar.com/priorizar-indexacion).
 Y el principal criterio que usan para ello, es **la calidad de dicho contenido**.
