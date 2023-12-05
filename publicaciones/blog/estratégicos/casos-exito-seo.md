@@ -1,10 +1,11 @@
 ---
-title: Casos de éxito SEO (Posicionamiento web) - 2020
+title: Casos de éxito SEO (Posicionamiento web) - 2023
 description: Os cuento las estrategias SEO de las que estoy más orgulloso. Los mejores resultados en más de diez años de trabajo.
 lang: es_ES
 sitemap: 1
 feed: 1
-date: 13/05/2021
+date: 26/10/2021
+date_modified: 7/11/2023
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -19,6 +20,8 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
  - [2015 - Recuperar tráfico perdido en periódico digital](#periodico)
  - [2016 - Migración Ecommerce Internacional](#ecommerce)
  - [2019 - Ecommerce con pérdida de tráfico](#ecommerce-local)
+ - [2022 - Lanzamiento de periódico digital basado en Angular](#periodico-angular)
+ - [2023 - Recuperación penalización algoritmo core de Google](#recuperacion-core)
 
 ## <a name="periodico"></a> 2015 - Periódico digital (España) / Recuperar tráfico perdido
 
@@ -146,12 +149,83 @@ En un ecommerce, por norma general, la competencia es grande. Con este cliente p
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Me dijeron que lo habíamos conseguido, que ya estábamos los primeros (línea verde / sector ecommerce) pero no me importó. Siempre se puede ir más allá. En el último mes hemos marcado la diferencia a nivel <a href="https://twitter.com/hashtag/SEO?src=hash&amp;ref_src=twsrc%5Etfw">#SEO</a> <a href="https://t.co/lpegr5ZJBb">pic.twitter.com/lpegr5ZJBb</a></p>&mdash; Emirodgar (@Emirodgar) <a href="https://twitter.com/Emirodgar/status/1195263005287755783?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## <a name="periodico-angular"></a> 2022 - Lanzamiento de periódico digital basado en Angular 
+
+Este ha sido un reto muy bonito y que me ha supuesto un aprendizaje técnico muy grande. A mediados del año 2022 se definía la creación de un nuevo medio digital en España. El proyecto ya estaba avanzado cuando me incorporé y se había decidido utilizar la tecnología `Angular`.
+
+
+> Angular es un framework de JavaScript de código abierto desarrollado por Google para crear aplicaciones web de una sola página. Es decir, en lugar de generarse cada URL de manera independiente, se crea una plantilla y ésta se rellena en función de lo que el usuario ha seleccionado. El hecho de no tener que recargar cada URL, hace que sea mucho más rápido.
+
+Con la false creencia de que al tratarse de una tecnología desarrollada por Google tendría ciertas ventajas (o menos problemas) para posicionar, se optó por este framework. La realidad es que es una tecnología muy potente para la experiencia de los usuarios pero
+nefasta (por aquel 2021) para el posicionamiento SEO.
+
+### Una versión adecuada para Google
+
+Mi primera medida fue instalar el módulo de [Angular Universal](https://angular.io/guide/universal) para disponer de un renderizado a nivel de servidor `SSR` en lugar del que se realiza del lado del cliente `CSR`, pero pronto me di cuenta de que esta medida no era suficiente. Aunque Google rastrea y ejecuta `Javascript`, suele hacerlo con cierto retraso respecto a un rastreo que no requiere de renderizado (ejecutar `Javascript` y pintar el código `HTML` final). Ese retraso es fatal para un medio digital, donde competimos por minutos para ser los primeros en lanzar una noticia.
+
+Fue necesario desarrollar y trabajar los siguientes aspectos para conseguir que Google rastreara, renderizara y posicionara nuestras noticias a la misma velocidad que el resto de competidores.
+
+1. EL renderizado SSR completamente estático. Teníamos el handicap de la publicidad y otras partes dinámicas que no éramos capaces de pintar en el código HTML final.
+2. API de Indexación.
+3. Enlazado interno sobre últimas noticias.
+4. Sitemap XML de noticias. 
+
+### Trabajando la experiencia de los usuarios
+
+Otro punto que nos lastró durante el comienzo del proyecto fue la experiencia de usuario y las core web vitals. Aunque Angular ofrece una experiencia inmejorable, los criterios a analizar por parte de las herramientas no están bien alineados con esta tecnología de una sola página y la publicidad, además de otros códigos necesarios para el día a día del periódico, nos generaban unos valores realmente bajos.
+
+Mi propuesta, en contra de todas las directrices de aquel momento, fue lanzar una versión `AMP` de las noticias. Yo lo veía como un parche, dado que la tendencia actual (que se empezaba a notar por aquel entonces) era dejar de usar AMP para centrarse en una única versión. No obstante, Google reflejaba 0% de URLs con buena experiencia tanto en escritorio como en móvil, lo que nos estaba costando tráfico y el acceso a diversas plataformas como Discover.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/d9dbae4a-a9e4-445c-a44a-9b4e7df6f607){:class="img-responsive"}
+
+Poco a poco conseguimos que Google valorara positivamente la experiencia de la página en móvil, lo que nos permitió crecer en tráfico orgánico. A día de hoy, tenemos el 97% de URLs móviles y 0% en escritorio.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/531a30c0-ac98-47f0-8ef5-384cd9bdded4){:class="img-responsive"}
+
+Además de lo anterior, gracias a la versión `AMP` de las noticias, pudimos comenzar a generar tráfico a través de diversas aplicaciones, como Google News o Google Discover. A medio plazo, se han convertido en la fuente de captación principal de tráfico orgánico. Fijaros que hay días en los que se han llegado a generar más de 300k clics orgánicos.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/838f187d-0cb4-41ac-a1b2-103105c2bb4c){:class="img-responsive"}
+
+
+### Resultados y caso de éxito
+
+Este proyecto ha sido un gran reto, primero por comenzar un periódico digital en el 2021/2022, con un mercado altamente competido y segundo por utilizar Angular como tecnología. Al ser un framework Javascript ha supuesto un gran esfuerzo conseguir una interacción adecuada con los buscadores, en especial con Google.
+
+En la siguiente imagen podemos ver el crecimiento acumulado durante 2023. Aunque el proyecto se inició en 2022, el desarrollo final ocurrió a finales de año, casi comienzos de 2023. A partir de ahí enfrentamos los diversos retos antes expuestos y hemos ido creciendo día a día. Las últimas actualizaciones de Google han sido positivas, dado que hemos salido reforzados de las mismas.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/25e462d7-57b2-4413-87f1-b94ef9443fc4){:class="img-responsive"}
 
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ3NTAzNjgsLTg4NjU4MDQ0OCwtMj
-A4NjAxMzQ4Nyw0MTg3NDgyMzIsMTg5NjI5MDUwNyw5MzMyMDkz
-NDcsMjAwOTg0NzAzOSw2NzcyNjk1OTIsOTAzMjQ3MTc5LC02MT
-AzOTUwNzAsLTE5NDQwNzk4NTFdfQ==
--->
+## <a name="recuperacion-core"></a> 2023 - Universidad internacional (5 países) / Recuperación penalización actualización core de Google
+
+Se trata de una Universidad Internacional con sede física en España pero con presencia en todo el mundo. En este proyecto se identificó un impacto negativo tras el despliegue de la actualización core de Google del 15 de marzo de 2023.
+La actualización core no penaliza como tal, dado que se trata de una reordenación de los resultados de búsqueda. No obstante, podemos salir mal parados, como fue el caso.
+
+En la siguiente imagen se aprecia claramente que a raíz de esta actualización, el tráfico que teníamos normalizado, comenzó a descender.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/7583d9b0-8898-451c-ac5f-d1ad23dca3eb){:class="img-responsive"}
+
+El primer paso fue entender que Google no apreciaba el suficiente valor en nuestros contenidos como para ofrecerlos a los usuarios en los resultados de búsqueda o, que pensaba que nuestra competencia estaba más alineada con la intención de búsqueda de los potenciales visitantes.
+Con ello en mente, diseñamos un plan de trabajo para optimizar y alinear nuestros contenidos de la siguiente manera:
+
+1- Identificar las principales puertas de captación SEO que habían perdido posición, impresiones y clics.
+2- Analizar la experiencia de usuario de dichas landings de captación. Con lo identificado, se propusieron test A/B y recomendaciones técnicas para mejorar core web vitals.
+3- Identificar mejoras en los contenidos. Con ello se inició un proceso de content curator para alinearnos con la intención de búsqueda de los usuarios.
+4- Descubrimos ciertas partes de la página que generaban canibalización interna. Por ello se propuso la implementación de la etiqueta canonical y se reforzó con enlazado interno.
+
+Durante meses se trabajó en esta estrategia de recuperación de visibilidad. Aunque Google ha confirmado recientemente que se puede recuperar tráfico entre medias, en nuestro caso sólo ocurrió cuando llegó la siguiente actualización core del 22 de agosto de 2023. 
+En la siguiente imagen se puede ver claramente el impacto inicial, la pérdida constante de tráfico así como la recuperación al llegar la siguiente core.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/ee180b9b-27b4-4a93-b53b-1875aa825539){:class="img-responsive"}
+
+En las impresiones también se ve claramente la misma tendencia.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/62e81973-a7cb-4460-bc5b-7c0e8ef582dc){:class="img-responsive"}
+
+Lo más destacable, además de esa recuperación que llevó meses, es que la posterior actualización core del 5 de octubre de 2023 no nos impactó negativamente. Conseguimos recuperar y alinearnos con las directrices de Google en cuanto a la experiencia de usuario e intención de búsqueda. 
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/a7c2a949-c731-4c52-b697-7889c08c2b66){:class="img-responsive"}
+
+
+
