@@ -94,9 +94,8 @@ Con ello podemos constatar que el enlace de "Leyendas" no aparece en el código 
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/7e404168-4bf2-4084-bb56-33e666a1d836){:class="img-responsive"}
 
-A mayores, y por no extenderme mucho más, también he visto que los títulos de múltiples páginas son idénticos, dado que en el renderizado de la página es un componente que no se actualiza con cada petición de URL. Sin un `meta title` único y optimizado, será muy difícil que recuperen el posicionamiento perdido.
+A mayores, y por no extenderme mucho más, también he visto que los títulos de múltiples páginas son idénticos, dado que en el renderizado de la página es un componente que no se actualiza con cada petición de URL. Sin un `meta title` único y optimizado, será muy difícil que recuperen el posicionamiento perdido. Creo que aún **se puede optimizar un poco más el renderizado a nivel de servidor que se le envía a los buscadores**.
 
-ScreamingFrog mismo título
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/67a48584-0368-4381-8ede-43b04573f48d){:class="img-responsive"}
 
 
