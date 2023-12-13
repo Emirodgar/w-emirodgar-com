@@ -35,28 +35,30 @@ Como ya habíamos definido el marco temporal, debemos ajustarlo en la plataforma
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/aac7da75-37ba-42af-ac19-f506f32f01e5){:class="img-responsive"}
 
-Ya podemos ver las primeras conclusiones. Múltiples términos, asociados principalmente a exjugadores del Real Madrid, que posicionaban en las primeras posiciones de Google España, han desaparecido de los rankings.
+Ya podemos ver las primeras conclusiones. Múltiples términos, asociados principalmente a exjugadores del Real Madrid que posicionaban en las primeras posiciones de Google España, **han desaparecido de los rankings**.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/91c813a8-1119-423e-8456-e4977cb2be1b){:class="img-responsive"}
 
-Si nos fijamos en las URL por las que posicionaban, veremos que gran parte lo hacen sobre la subcarpeta `/sobre-el-real-madrid/el-club/` y `/futbol/plantilla`
+Si nos fijamos en las URL por las que posicionaban, veremos que gran parte lo hacen sobre las subcarpetas `/sobre-el-real-madrid/el-club/` y `/futbol/plantilla`
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/fa053062-8e3c-4f06-9c5a-f5b692f872d4){:class="img-responsive"}
 
-Parece que vamos acotando por dónde ha venido el problema. Para entenderlo mejor debemos visitar esas secciones. Al hacerlo, veremos que somos redireccionados a páginas genéricas, es decir, las páginas de las fichas de los jugadores que antes existían, han sido eliminadas o mal redireccionadas (aún es pronto para saberlo), lo que cuadra con la caída en visibilidad que muestra Sistrix.
+Parece que vamos acotando por dónde ha venido el problema. Para entenderlo mejor debemos visitar esas secciones. Al hacerlo, veremos que somos redireccionados a páginas genéricas, es decir, las páginas de las fichas de los jugadores que antes existían, **han sido eliminadas o mal redireccionadas** (aún es pronto para saberlo), lo que cuadra con la caída en visibilidad que muestra Sistrix.
 
-- La URL de Sergio Ramos (www.realmadrid.com/sobre-el-real-madrid/el-club/historia/jugadores-de-leyenda-futbol/sergio-ramos-garcia) redirecciona a https://www.realmadrid.com/es-ES/el-club.
-- La URL de Luka Modric (www.realmadrid.com/futbol/plantilla/luka-modric) redirecciona a https://www.realmadrid.com/es-ES/futbol/primer-equipo-masculino/plantilla
+os pongo dos ejemplos:
+
+- La URL de Sergio Ramos (`www.realmadrid.com/sobre-el-real-madrid/el-club/historia/jugadores-de-leyenda-futbol/sergio-ramos-garcia`) redirecciona a `https://www.realmadrid.com/es-ES/el-club`.
+- La URL de Luka Modric (`www.realmadrid.com/futbol/plantilla/luka-modric`) redirecciona a `https://www.realmadrid.com/es-ES/futbol/primer-equipo-masculino/plantilla`
 
 ## ¿Se ha realizado una mala migración?
 
-Cuando migramos una página o hacemos un cambio de URL es prioritario que cada página antigua sea redireccionada con una `301` a su versión más nueva. De no existir, como parece ser el caso, deberíamos llevarlo a una genérica lo más parecida posible.
+Cuando migramos una página o hacemos un cambio de URL es prioritario que cada página antigua sea redireccionada con un código `301` a su versión más nueva. De no existir, como parece ser el caso, deberíamos llevarlo a una genérica lo más parecida posible.
 Sinceramente, me parecía muy extraño que el Real Madrid eliminara una sección tan relevante como es la de los jugadores, por lo que navegando por el menú `Club` > `Leyendas del fútbol` llegué a la ficha de mi querido Sergio Ramos y ahí es cuando aprecié que se había añadido una subcarpeta idiomática a la URL, además de otros cambios.
 
-- La página anterior: https://www.realmadrid.com/sobre-el-real-madrid/el-club/historia/jugadores-de-leyenda-futbol/sergio-ramos-garcia
-- La página nueva: https://www.realmadrid.com/es-ES/el-club/historia/leyendas-futbol/sergio-ramos-garcia
+- La página anterior: `https://www.realmadrid.com/sobre-el-real-madrid/el-club/historia/jugadores-de-leyenda-futbol/sergio-ramos-garcia`
+- La página nueva: `https://www.realmadrid.com/es-ES/el-club/historia/leyendas-futbol/sergio-ramos-garcia`
 
-El Real Madrid no ha eliminado la sección, ha cambiado la arquitectura de la web pero **no ha realizado una migración adecuada**.
+El Real Madrid no ha eliminado la sección, ha cambiado la arquitectura de la web (cambiando la URL a algunas secciones y añadiendo una subcarpeta idiomática) pero **no ha realizado una migración adecuada**.
 Esto es mi opinión y, sin conocer las razones, no podemos saber si es un fallo o si se ha realizado con conocimiento de causa. Lo único seguro es que están perdiendo tráfico orgánico a través de Google España.
 
 Quizá en la siguiente gráfica se entienda mejor la situación.
