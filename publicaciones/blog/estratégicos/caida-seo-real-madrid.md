@@ -13,7 +13,7 @@ author: emirodgar
 
 ---
 
-El otro día, realizando una búsqueda en Internet sobre Sergio Ramos, terminé en la página oficial del Real Madrid, pero curiosamente, en lugar de llegar a la ficha del jugador, fui redireccionado a una genérica del club. Esto me llamó la atención y decidí investigar un poco para entender qué cambios se habían realizado sobre la web. El [Carlos Ortega](https://twitter.com/carlos_darko/status/1734591915499110881) había indagado sobre el posible problema en X, pero quise profundizar más.
+El otro día, realizando una búsqueda en Internet sobre Sergio Ramos, terminé en la página oficial del Real Madrid, pero curiosamente, en lugar de llegar a la ficha del jugador, fui redireccionado a una genérica del club. Esto me llamó la atención y decidí investigar un poco para entender qué cambios se habían realizado sobre la web. [Carlos Ortega](https://twitter.com/carlos_darko/status/1734591915499110881) había indagado sobre el posible problema en X, pero quise profundizar más.
 
 ## Pérdida de visibilidad SEO
 
