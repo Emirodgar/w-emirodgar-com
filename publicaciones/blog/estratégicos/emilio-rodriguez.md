@@ -1,6 +1,6 @@
 ---
-title: ¿Quién soy?
-description: Experto SEO con más de 10 años de experiencia en múltiples agencias, países y proyectos
+title: Emilio Rodríguez García
+description: Experto SEO con experiencia en múltiples agencias, países y proyectos. Profesor Invitado.
 lang: es_ES
 author: emirodgar
 sitemap: 0
@@ -12,7 +12,7 @@ permalink: emilio-rodriguez
 
 ---
 
-Mi nombre es Emilio Rodríguez y me acerqué al maravilloso mundo del SEO en 2007. Deja que te cuente un poco cómo ha sido el proceso para que puedas conocer mejor quién está detrás de esta página.
+Mi nombre es Emilio Rodríguez García y me acerqué al maravilloso mundo del SEO en 2007. Deja que te cuente un poco cómo ha sido el proceso para que puedas conocer mejor quién está detrás de esta página.
 
 ## ¿Cómo empezó todo?
 
@@ -28,7 +28,7 @@ Tras más de 6 años como [consultor SEO](https://emirodgar.com/consultor-seo) e
 
 Actualmente, con más de 15 años en el sector, trabajo como Director SEO en la agencia de marketing digital, Smartup, posicionando proyectos en España, Portugal, Colombia, Venezuela y México. 
 
-Compagino este trabajo dando clases en el programa **Big Data y Business Intelligence** de la Universidad de Deusto, en el **Máster de Marketing Digital** de la Universidad de Salamanca y como asesor homologado de **ICEX España** (Instituto Español de Comercio Exterior).  
+Compagino este trabajo dando clases en el programa **Big Data y Business Intelligence** de la Universidad de Deusto, en el **Máster de Marketing Digital** de la Universidad de Salamanca, en el **Máster Universitario en Marketing Digital** de UNIR  y como asesor homologado de **ICEX España** (Instituto Español de Comercio Exterior).  
 
 ## Experiencia SEO
   
@@ -43,9 +43,45 @@ La tecnología siempre ha sido un pilar fundamenteal en mis estrategias SEO. Dur
 Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com/emirodgar) o [LinkedIn](https://www.linkedin.com/in/emirodgar/). También echo una mano en los foros de Webmasters Stack Exchange ([perfil](https://webmasters.stackexchange.com/users/86914/emirodgar)) y Quora ([perfil](https://es.quora.com/profile/Emilio-Rodr%C3%ADguez-1)) ayudando en SEO y Analítica.
 
 
+## Certificaciones
+A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos son algunas de las certificaciones y formaciones que he cursado.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTIzMjg1MywyMDUwMjIwMTA3LC0xMT
-Y0MzM4NDY0LC02OTc5OTUyNzAsMTc2NDc0MzQ3NiwxNzY5NDg4
-NTcsLTg5NTg0NDc4NCwtNzE0ODI1NDc0XX0=
--->
+- `2023` - Certificación SCRUM Manager ([ver credencial](https://www.scrummanager.com/website/c/profile/member.php?id=42726))
+- `2015` - `2019` - `2021` - `2022` - Certificación de Google Analytics ([ver credencial](https://skillshop.exceedlms.com/student/award/Wf2svvBMnjGoFAMXTkMPDzVq))
+- `2016`- `2019`- Certificación de Inbound Marketing de Hubspot
+- `2018` - Certificación Woorank Expert ([ver credencial](https://experts.woorank.com/en/experts/emilio-rodriguez-garcia))
+- `2014` - Asesor SEO homologado por ICEX España
+- `2011` - Certificación de Webtrekk
+- `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
+
+## Trayectoria profesional
+
+- Desde el `2018` - Director SEO y analítica web en **Smartup**  / +90 empleados
+- `2015` - Director SEO en **Internet Advantage**  / +50 empleados
+- `2012` - Consultor SEO en **Internet Advantage**  / +50 empleados
+- `2011` - Consultor SEO homologado por **ICEX España**
+- `2009` - Consultor SEO en **Traffic4U**  / +100 empleados
+
+## Ponencias y clases
+
+- `Enero 2024` - Smartup - Webinar / [El futuro del SEO en la era de la Inteligencia Artificial](https://info.smartupdigital.com/grabacion-webinar-futuro-seo-ia) 
+- `Mayo 2022` - Smartup - Webinar / [Google Analytics 4](https://es.slideshare.net/emirodgar/google-analytics-4-webinar-smartup)
+- `Abril 2021` - Universidad de Salamanca (USAL) - Masterclass / [Analítica web - el valor de los datos](https://es.slideshare.net/emirodgar/usal-masterclass-analtica-web-2021)
+- `Marzo 2021` - Siteimprove - Webinar / [Core Web Vitals](https://hello.siteimprove.com/es-es/on-demand-webinar/seo-2021-core-web-vitals/download)
+- `Noviembre 2019` - Universidad Pontificia de Salamanca (UPSA) - Masterclass / [Big Data + Marketing Digital](https://es.slideshare.net/emirodgar/big-data-marketing-digital)
+- `Octubre 2019` - Smartup - Webinar / [¿Cómo será el SEO en 2020?](https://es.slideshare.net/emirodgar/webinar-smartup-cmo-ser-el-seo-en-2020)
+- `Febrero 2019` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Técnicas de análisis de datos](https://es.slideshare.net/emirodgar/tcnicas-de-anlisis-de-datos)
+- `Noviembre 2018` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Capa de negocios tecnológicos](https://es.slideshare.net/emirodgar/capa-de-negocios-tecnolgicos-modelos-de-negocios-iv)
+- `Febrero 2018` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Bases de datos NoSQL en entornos Big Data](https://es.slideshare.net/emirodgar/bases-de-datos-nosql-en-entornos-big-data)
+- `Mayo 2017` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Business Intelligence](https://es.slideshare.net/emirodgar/business-intelligence-76291067) 
+- `Noviembre 2016` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Plan de marketing digital](https://es.slideshare.net/emirodgar/plan-de-marketing-digital-76290876)
+- `Abril 2016` - Foro Economía Digital - [Exprimiendo Google Analytics](https://es.slideshare.net/emirodgar/exprimiendo-google-analytics)
+
+## En medios
+
+- `Febrero 2023` - Tribuna Salamanca / [ChatGPT: ¿Terminará la inteligencia artificial con nuestros trabajos?](https://www.tribunasalamanca.com/noticias/321335/chat-gpt-terminara-la-inteligencia-artificial-con-nuestros-trabajos)
+- `Noviembre 2022` - Tribuna Valladolid /  [La extinción de los humnanos en internet](https://www.tribunavalladolid.com/noticias/311970/la-extincion-de-los-humanos-en-internet)
+- `Noviembre 2022` - Tribuna Valladolid /  [Metaverso: descenso a los infiernos](https://www.tribunavalladolid.com/noticias/310453/metaverso-el-descenso-a-los-infiernos)
+- `Octubre 2022` - Tribuna Valladolid / [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
+- `Septiembre 2022` - Tribuna Valladolid / [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
+
