@@ -5,7 +5,7 @@ image: https://emirodgar.com/cdn/images/og/auditoria.png
 layout: emirodgar_post
 sitemap: 1
 feed: 1
-folder: seo
+folder: ia
 author: Emirodgar
 date: 20/02/2024
 permalink: peligro-desinformacion-ia
