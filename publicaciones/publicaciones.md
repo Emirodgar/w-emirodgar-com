@@ -48,6 +48,18 @@ Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de 
 {% endfor %}
 </ul>
 
+## <a name="marketing"></a> Publicaciones de Inteligencia artificial
+
+<ul>
+{% for page in site.pages %}
+{% if page.title != null  %}
+	{% if page.folder== "ia" %}
+	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+	{% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
 
 ## <a name="programacion"></a> Publicaciones de Programación
 
