@@ -11,9 +11,7 @@ date: 20/02/2024
 permalink: peligro-desinformacion-ia
 
 ---
-
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/143a68a1-6b92-4d6d-b540-813441b3dfbf){:class="img-responsive"}
-
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/7b6354c1-8d53-4728-a11c-69cbac240e19){:class="img-responsive"}
 
 Desde que me zambullí en el mundo de la inteligencia artificial (allá por mediados de 2022), una sombra ha rondado siempre mis pensamientos: **el peligro de la desinformación**.
 
