@@ -12,14 +12,14 @@ permalink: buen-seo
 
 ---
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/b500749b-ff6a-42de-aa64-762f0043cd1f){:class="img-responsive"}
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/eb11ec6c-1bfc-4221-8a31-3d98f4a0bb39){:class="img-responsive"}
 
 
 Puede haber tantos puntos de vista como SEO existen en el mundo, pero bajo mi humilde opinión, un buen SEO es aquel que **ha entendido el negocio y está alineado con los objetivos que persigue**. No lo llevo tanto al tema de acciones o procesos, que sin duda tienen gran trascendencia en el éxito de una estrategia, sino más al **entendimiento de la responsabilidad de lo que debe hacer**; es decir, **a un plano estratégico**. Para mí se trata de un trabajo en equipo, con otros SEO, generadores de contenido, consultores de campañas de performance, equipos de desarrollo y cualquier persona que participe en la estrategia digital. 
 
 Es preciso saber trabajar en equipo y hacer entender a los responsables del proyecto la responsabilidad del SEO en el crecimiento del negocio. Si no pones en valor tu trabajo, será difícil mantenerlo. 
 
-> **El SEO es un proceso continuo que no se completa con una simple auditoría o declaración de éxito**. Debemos diseñar un plan que permita generar un crecimiento escalable a medio y largo plazo. **Y demostrar sus resultados**.
+> **El SEO es un proceso continuo que no se completa con una simple auditoría o declaración de éxito**. Debemos diseñar un plan que permita generar un crecimiento escalable a medio y largo plazo. **Y demostrar sus resultados** para luego hacer [casos de éxito](https://emirodgar.com/casos-exito-seo).
 
 **El verdadero valor del SEO yace en su capacidad para mejorar la experiencia del usuario**, al hacer que los sitios web sean más accesibles, rápidos e intuitivos. Su objetivo es enriquecer los resultados de búsqueda en los motores como Google, beneficiando tanto a usuarios como a propietarios de sitios web. En contraste, las prácticas de SEO deficientes se identifican fácilmente por el uso excesivo de acciones inconexas y con escaso valor para el proyecto así como tácticas que carecen de relevancia estratégica o que se enfocan únicamente en manipular los rankings de búsqueda sin aportar valor real. 
 
