@@ -30,3 +30,48 @@ Otro punto importante a considerar es el papel de los profesionales de la IA en 
 
 En última instancia, la inteligencia artificial es una herramienta poderosa que puede mejorar significativamente nuestra capacidad para crear contenido, pero no debemos perder de vista el valor intrínseco del esfuerzo humano y la creatividad en este proceso. Es necesario encontrar un equilibrio entre el uso de la IA y el mantenimiento de la calidad y la autenticidad en nuestro contenido, siempre con un enfoque en satisfacer las necesidades y expectativas de nuestra audiencia.
 
+
+Content creation has been the most impact area so far.
+
+There is nothing wrong in drafting pages with AI if it saves you time.
+
+It's bad to use AI to write a good portion of your articles and complain it doesn't rank.
+
+The hype of AI didn't stop people from creating a myriad of new tools.
+
+From text generation to internal linking, you have a LOT of new options.
+
+That's good... until it isn't.
+
+Companies spend money on AI solutions without having a data culture or the right people to work with them.
+
+Buying a tool doesn't mean you will be able to fit it into your processes.
+
+This is often the case in Enterprise SEO:
+
+Company A buys an enterprise tool
+
+The staff is too busy working on other projects
+
+No one implements the recommendations
+
+Why should I even use YOUR tool if my workflows don't support it?
+
+Hot but legit take: we should listen to actual AI professionals and not marketers.​IT systems aren't toys to play with.
+
+Being ashamed of sharing your content is a strong indicator of the effort you put into it.
+
+AI is a blessing, now more people will be forced to put effort into content.​Do you think great content is mainstream?​Think again, quality content is a rarity.
+
+There is no need for complex solutions if you are a small business. Think about growing first!
+
+Donde sí pone el foco:
+
+Classifying pages
+
+Summarizing websites
+
+Internal Linking
+
+Extracting entities from text
+
