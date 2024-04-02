@@ -19,6 +19,10 @@ body {
   margin: 0 auto;
 }
 
+img {
+    filter: grayscale(100%);
+}
+
 a {
   color: #33bfd0;
   text-decoration: none;
