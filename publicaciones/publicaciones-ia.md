@@ -1,20 +1,20 @@
 ---
 title: Publicaciones Analítica web
-description: Listado de publicaciones sobre analítica web
+description: Listado de publicaciones sobre Inteligencia Artificial
 lang: es_ES
 layout: emirodgar_post_test
 author: Emirodgar
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
-permalink: publicaciones-analitica
+permalink: publicaciones-ia
 
 ---
 
-Listado de publicaciones relacionadas con Analítica web
+Listado de publicaciones relacionadas con Inteligencia Artificial
 
 <ul>
 {% for page in site.pages %}
 {% if page.title != null  %}
-	{% if page.folder== "analitica" %}
+	{% if page.folder== "ia" %}
 	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 	{% endif %}
 {% endif %}
