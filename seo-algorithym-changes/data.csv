@@ -1,11 +1,5 @@
 "country","continent","lifeExp","pop","gdpPercap"
-"Afghanistan","Asia",43.828,31889923,974.5803384
-"Albania","Europe",76.423,3600523,5937.029526
-"Algeria","Africa",72.301,33333216,6223.367465
-"Angola","Africa",42.731,12420476,4797.231267
-"Argentina","Americas",75.32,40301927,12779.37964
-"Australia","Oceania",81.235,20434176,34435.36744
-"Austria","Europe",79.829,8199783,36126.4927
-"Yemen, Rep.","Asia",62.698,22211743,2280.769906
-"Zambia","Africa",42.384,11746035,1271.211593
-"Zimbabwe","Africa",43.487,12311143,469.7092981
+"spam","Asia",14,2021,974.5803384
+"spam","Europe",16,2022,5937.029526
+"core","Africa",34,2023,6223.367465
+"reviews","Africa",42.731,2020,4797.231267
