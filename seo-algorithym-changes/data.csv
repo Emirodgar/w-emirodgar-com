@@ -1,5 +1,5 @@
 "country","continent","lifeExp","pop","gdpPercap"
-"spam 1","Asia",14,202106,14000000000
-"spam 2","Europe",16,202206,25000000000
-"core 1","Africa",34,202307,13000000000
-"reviews 1","Africa",42.731,202312,45000000000
+"spam 1","Asia",14,202106,1400
+"spam 2","Europe",16,202206,2500
+"core 1","Africa",34,202307,1300
+"reviews 1","Africa",42.731,202312,450
