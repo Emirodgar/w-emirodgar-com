@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SEO Algorithym updates</title>
+<!-- Importar D3.js -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+
+const data = [
+	{ Name: "March 2024 spam update", Date: "2024-03-05", Duration: 14, Type: "spam" },
+    { Name: "March 2024 core update", Date: "2024-03-05", Duration: 0, Type: "core" },
+    { Name: "November 2023 reviews update", Date: "2023-11-08", Duration: 29, Type: "reviews" },
+    { Name: "November 2023 core update", Date: "2023-11-02", Duration: 25, Type: "core" },
+    { Name: "October 2023 core update", Date: "2023-10-05", Duration: 13, Type: "core" },
+    { Name: "Ranking is experiencing an ongoing issue", Date: "2023-10-05", Duration: 26, Type: "error" },
+    { Name: "October 2023 spam update", Date: "2023-10-04", Duration: 15, Type: "spam" },
+    { Name: "September 2023 helpful content update", Date: "2023-09-14", Duration: 13, Type: "HCU" },
+    { Name: "August 2023 core update", Date: "2023-08-22", Duration: 16, Type: "core" },
+    { Name: "April 2023 reviews update", Date: "2023-04-12", Duration: 13, Type: "reviews" },
+    { Name: "March 2023 core update", Date: "2023-03-15", Duration: 13, Type: "core" },
+    { Name: "February 2023 product reviews update", Date: "2023-02-21", Duration: 14, Type: "product reviews" },
+    { Name: "December 2022 link spam update", Date: "2022-12-14", Duration: 29, Type: "spam" },
+    { Name: "December 2022 helpful content update", Date: "2022-12-05", Duration: 38, Type: "HCU" },
+    { Name: "October 2022 spam update", Date: "2022-10-19", Duration: 2, Type: "spam" },
+    { Name: "September 2022 product reviews update", Date: "2022-09-20", Duration: 6, Type: "product reviews" },
+    { Name: "September 2022 core update", Date: "2022-09-12", Duration: 14, Type: "core" },
+    { Name: "August 2022 helpful content update", Date: "2022-08-25", Duration: 15, Type: "HCU" },
+    { Name: "July 2022 product reviews update", Date: "2022-07-27", Duration: 6, Type: "product reviews" },
+    { Name: "May 2022 core update", Date: "2022-05-25", Duration: 15, Type: "core" },
+    { Name: "March 2022 product reviews update", Date: "2022-03-23", Duration: 14, Type: "product reviews" },
+    { Name: "Page experience update for desktop", Date: "2022-02-22", Duration: 9, Type: "spam" },
+    { Name: "December 2021 product reviews update", Date: "2021-12-01", Duration: 20, Type: "product reviews" },
+    { Name: "November 2021 core update", Date: "2021-11-17", Duration: 13, Type: "core" },
+    { Name: "November 2021 spam update", Date: "2021-11-03", Duration: 8, Type: "spam" },
+    { Name: "July 2021 link spam update", Date: "2021-07-26", Duration: 29, Type: "spam" },
+    { Name: "July 2021 core update", Date: "2021-07-01", Duration: 11, Type: "core" },
+    { Name: "June 2021 spam update", Date: "2021-06-28", Duration: 1, Type: "spam" },
+    { Name: "June 2021 spam update", Date: "2021-06-23", Duration: 1, Type: "spam" },
+    { Name: "Page experience update for mobile", Date: "2021-06-15", Duration: 79, Type: "Page experience" },
+    { Name: "June 2021 core update", Date: "2021-06-02", Duration: 10, Type: "core" },
+    { Name: "April 2021 product reviews update", Date: "2021-04-08", Duration: 14, Type: "product reviews" },
+    { Name: "December 2020 core update", Date: "2020-12-03", Duration: 13, Type: "core" },
+    { Name: "May 2020 core update", Date: "2020-05-04", Duration: 14, Type: "core" },
+    { Name: "January 2020 core update", Date: "2020-01-13", Duration: 3, Type: "core" },
+    
+        // Agrega el resto de los datos aquí
+    ];
+
+function generarHTML(data) {
+  // Inicializamos una cadena vacía para almacenar el HTML generado
+  let html = '';
+
+  // Recorremos cada objeto en el array de datos
+  data.forEach(item => {
+    // Generamos el código HTML para cada elemento
+    html += `
+      <div class="c-row">
+        <div class="c-row__title">
+          <h3>${item.Name}</h3>
+        </div>
+        <div class="c-row__stats">
+          <ul class="list">
+            <li class="c-row__stat"> <span class="c-row__statMeta">${item.Date}</span></li>
+            <li class="c-row__stat"> <span class="c-row__statMeta">${item.Type}</span></li>
+            <li class="c-row__stat"> <span class="c-row__statMeta">${item.Duration} Days</span></li>
+          </ul>
+        </div>
+      </div>
+    `;
+  });
+
+  return html;
+}
+
+</script>
+
+<style>
+    .bubble {
+        opacity: 0.7;
+    }
+
+    .list li {
+  width: 150px; /* Ajusta el valor según tu preferencia */
+  text-align: center;
+}
+
+    :root {
+  --yellow: #FFC800;
+  --red: #CE3900;
+  --green: #178360;
+  --reddish: #BB422A;
+  --slate: #3D5E6A;
+  --bkg: #f7f7f7;
+  --borderColor: color(var(--slate) alpha(50%));
+  --bkgDarker: linear-gradient(-180deg, #EAEAEA 0%, #DFDFDF 100%);
+  --text: #222;
+  --default: -apple-system, BlinkMacSystemFont,Avenir, Avenir Next, sans-serif;
+}
+
+* { margin: 0; padding: 0; }
+*, *:before, *:after { box-sizing: inherit; }
+
+html {
+  box-sizing: border-box;
+  font: 400 100%/1.6 var(--default);
+  background: var(--bkg);
+}
+
+h3 { font-size: 16px;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 100;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: .5;
+}
+
+.list {
+  list-style: none inside;
+}
+
+.c-row {
+  display: flex;
+  align-items: center;
+  border-left: 12px solid;
+  background: var(--bkgDarker);
+  color: var(--text);
+  padding: 1rem;
+}
+
+.c-row:nth-of-type(1n+0) { border-color: var(--slate); }
+.c-row:nth-of-type(2n+1) { border-color: var(--yellow); }
+.c-row:nth-of-type(3n+1) { border-color: var(--red); }
+
+
+.c-row:not(:last-of-type) { border-bottom: 1px solid var(--borderColor); }
+
+.c-row__title {
+  flex: 3;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding-right: 1rem;
+}
+
+
+.c-row__stats {
+  flex: 7;
+  border-left: 1px solid var(--yellow);
+  padding-left: 1rem
+}
+
+.c-row__stat {
+  display: inline-block;
+}
+
+
+.c-row__stat:not(:last-of-type) {
+  margin-right: 3rem;
+}
+
+.c-row__statNumber {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-right: .375rem;
+  display: inline-block;
+  vertical-align: middle;
+  width: 3.25rem;
+}
+
+
+.c-row__statMeta {
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: 100;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  opacity: .5;
+}
+
+
+.c-search {
+  padding: 2rem .5rem;
+  margin-bottom: 2rem;
+}
+
+.c-search__container {
+  margin: 0 auto;
+  max-width: 48rem;
+  border: 1px solid var(--borderColor);
+  border-radius: .25rem;
+  padding: .375rem;
+  position: relative;
+}
+
+.c-search__label {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+.c-search__input {
+  width: 100%;
+  display: block;
+  border-radius: .25rem;
+  appearance: none !important;
+  box-sizing: border-box !important;
+  border: 0;
+  font-size: 1.25rem;
+  padding: .25rem;
+  background: none;
+  font-family: inherit;
+}
+
+.c-search__btn {
+ position: absolute;
+ margin: auto;
+ top: 0; bottom: 0; right: .5rem;
+ appearance: none;
+ text-transform: uppercase;
+ letter-spacing: 3px;
+ background: none;
+ border: 0;
+ color: var(--slate);
+}
+
+.c-header {
+  text-align: center;
+  max-width: 30rem;
+  margin: 0 auto 2rem;
+  padding: 1.5rem 1rem 2rem 1rem;
+  color: var(--slate);
+  border-bottom: 2px solid;
+}
+
+.c-header__hl {
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.bubble-label{
+    background-color: #000;
+    border-radius: 5px;
+    padding: 10px;
+    color: "white";
+}
+
+
+
+#contenedor-grafico {
+  width: 100%; /* Ajusta el ancho según tus necesidades */
+  height: 80%; /* Ajusta la altura según tus necesidades */
+  text-align: center;
+}
+
+
+</style>
+</head>
+<body>
+
+    <header class="c-header">
+        <h1 class="c-header__hl">Google updates</h1>
+      </header>
+
+
+      <!-- Aquí es donde se dibujará el gráfico de burbujas -->
+      <div id="contenedor-grafico">
+
+<svg id="bubble-chart" width="1000" height="600"></svg>
+</div>
+
+<!--
+      <div>
+        <form class="c-search">
+          <div class="c-search__container">
+            <label for="search" class="c-search__label">Search</label>
+            <input id="search" name="search" type="search" class="c-search__input" />
+            <input type="submit" class="c-search__btn" value="Search" />
+          </div>
+        </form>
+      </div>-->
+
+      <br/><br/>
+      <div id="contenedor"></div>
+
+      <script>
+        const htmlGenerado = generarHTML(data);
+        document.getElementById("contenedor").innerHTML = htmlGenerado;
+      </script>
+
+<script>
+    // Datos de ejemplo (aquí deberías incluir tus propios datos)
+    
+/*
+    // Carga los datos desde el archivo CSV
+d3.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSupe4BZp-3tr9T0KpvnmCXvTjuLz54uv7yRDw3un-zpYkTRQxbhFOqooXM-Ufqaxa4NkS7u_sLydhj/pub?gid=339738665&single=true&output=csv").then(function(data) {
+  // Tu código de visualización de datos con D3 va aquí
+  // `data` contendrá los datos cargados desde el archivo CSV
+  // Puedes acceder a los campos de tus datos como data[i].Name, data[i].Date, etc.
+  // Por ejemplo, puedes hacer un bucle para recorrer los datos y crear elementos SVG basados en los mismos
+}).catch(function(error) {
+  // Manejo de errores si la carga de datos falla
+  console.error("Error al cargar los datos:", error);
+});
+
+*/
+
+        // Define la altura del SVG
+    const height = 600;
+
+    // Crear el SVG
+    const svg = d3.select("#bubble-chart");
+
+    // Escalador para el tamaño de las burbujas
+    const bubbleSizeScale = d3.scaleLinear()
+        .domain([0, d3.max(data, d => d.Duration)])
+        .range([5, 50]); // Rango de tamaño de las burbujas
+
+    // Escaladores para el eje X e Y (para ajustar los datos a las dimensiones del SVG)
+    const xScale = d3.scaleUtc()
+        .domain(d3.extent(data, d => new Date(d.Date)))
+        .range([50, 750]); // Margen de 50 píxeles a cada lado
+
+    const yScale = d3.scaleLinear()
+        .domain([0, d3.max(data, d => d.Duration + 10)])
+        .range([550, 50]); // Margen de 50 píxeles arriba y abajo
+
+    // Escala de color para los tipos
+    const colorScale = d3.scaleOrdinal(d3.schemeCategory10)
+        .domain(data.map(d => d.Type)); // Mapear los valores únicos de "Type" para asignar un color único a cada uno
+    
+
+    // Crear los ejes X e Y
+    const xAxis = d3.axisBottom(xScale);
+    const yAxis = d3.axisLeft(yScale);
+
+    // Agregar ejes al SVG
+    svg.append("g")
+        .attr("transform", "translate(0," + (height - 50) + ")")
+        .call(xAxis);
+
+    svg.append("g")
+        .attr("transform", "translate(50,0)")
+        .call(yAxis);
+
+    // Crear las burbujas
+    svg.selectAll(".bubble")
+        .data(data)
+        .enter()
+        .append("circle")
+        .attr("class", "bubble")
+        .attr("cx", d => xScale(new Date(d.Date)))
+        .attr("cy", d => yScale(d.Duration))
+        .attr("r", d => bubbleSizeScale(d.Duration)) // Escalar el radio según la duración (ajusta este factor según tu preferencia)
+        .attr("fill", d => colorScale(d.Type)) // Asignar color según el tipo
+        .on("mouseover", function (event, d) {
+            // Mostrar el nombre encima de la burbuja
+            svg.append("text")
+                .attr("class", "bubble-label")
+                .attr("x", xScale(new Date(d.Date)))
+                .attr("y", yScale(d.Duration) - bubbleSizeScale(d.Duration) - 5) // Posición justo encima de la burbuja
+                .attr("text-anchor", "middle")
+                .text(d.Name);
+        })
+        .on("mouseout", function () {
+            // Eliminar el nombre al retirar el ratón
+            svg.selectAll(".bubble-label").remove();
+        });
+
+</script>
+
+</body>
+</html>
