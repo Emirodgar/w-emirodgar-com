@@ -1,3 +1,4 @@
+---
 title: El declive de las redes sociales: ¿Estamos pasando de conexiones sociales a redes de entretenimiento?
 description: La tendencia de uso de redes sociales está a la baja
 lang: es_ES
@@ -8,6 +9,7 @@ date: 21/05/2024
 folder: estrategicos
 layout: emirodgar_post
 permalink: menos-uso-rrss
+---
 
 Todo tiene un principio y un fin. Las redes sociales iniciaron su andadura permitiéndonos conectar con nuestros círculos más cercanos. De ahí el concepto de social.
 Pero lo que en un principio se basaba en una **extrapolación de nuestras relaciones físicas**, pronto tornó en algo muy distinto.
