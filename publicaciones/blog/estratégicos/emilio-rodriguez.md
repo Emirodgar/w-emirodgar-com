@@ -3,8 +3,8 @@ title: Emilio Rodríguez García
 description: Experto SEO con experiencia en múltiples agencias, países y proyectos. Profesor Invitado.
 lang: es_ES
 author: emirodgar
-sitemap: 0
-feed: 0
+sitemap: 1
+feed: 1
 date: 24/01/2022
 folder: estrategicos
 layout: emirodgar_post
