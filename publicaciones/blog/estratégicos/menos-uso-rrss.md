@@ -19,9 +19,9 @@ Pero lo que en un principio se basaba en una **extrapolación de nuestras relaci
 
 Las grandes plataformas siempre han buscado mantener al usuario el máximo tiempo posible. Para lograrlo, han convertido las relaciones sociales en algoritmos que atrapan al usuario. Ya no entras para saber qué han hecho tus amigos, sino para descubrir vídeos, imágenes y noticias seleccionadas para disparar tu dopamina y mantenerte conectado el máximo tiempo posible.
 
-## EL fin de una era: caída del Uso en Estados Unidos
+## El fin de una era: caída del uso en Estados Unidos
 
-En la siguiente imagen podemos ver cómo ha disminuido el uso de redes sociales en Estados Unidos, siendo X la plataforma que lidera esta caída.
+En la siguiente imagen podemos ver cómo ha disminuido el uso de redes sociales en Estados Unidos, siendo X la plataforma que lidera esta caída. Elon, ¿qué estás haciendo?.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/1f606e8f-07fb-4c67-b26a-c3c37b9729bf)
 
