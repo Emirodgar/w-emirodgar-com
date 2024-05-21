@@ -23,7 +23,7 @@ Las grandes plataformas siempre han buscado mantener al usuario el máximo tiemp
 
 En la siguiente imagen podemos ver cómo ha disminuido el uso de redes sociales en Estados Unidos, siendo X la plataforma que lidera esta caída. Elon, ¿qué estás haciendo?.
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/1f606e8f-07fb-4c67-b26a-c3c37b9729bf)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/1f606e8f-07fb-4c67-b26a-c3c37b9729bf){:class="img-responsive"}
 
 
 ## Cambios en el Comportamiento del Usuario
