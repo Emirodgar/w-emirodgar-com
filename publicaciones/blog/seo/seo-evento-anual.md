@@ -1,5 +1,5 @@
 ---
-title: Guía SEO: Cómo posicionar tu sitio para un evento anual
+title: Guía SEO - Cómo posicionar tu sitio para un evento anual
 description: Aprende cómo posicionar tu sitio web para un evento anual con estrategias SEO efectivas. Aumenta tu visibilidad y atrae más tráfico.
 lang: es_ES
 author: emirodgar
