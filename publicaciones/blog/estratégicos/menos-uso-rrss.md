@@ -1,14 +1,14 @@
 ---
-title: Los tres pilares SEO
-description: 
+title: El declive de las redes sociales ¿Estamos pasando de conexiones sociales a redes de entretenimiento?
+description: La tendencia de uso de redes sociales está a la baja
 lang: es_ES
+author: emirodgar
 sitemap: 1
 feed: 1
-layout: emirodgar_post
+date: 21/05/2024
 folder: estrategicos
-date: 19/05/2021
-image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-permalink: pilares-seo
+layout: emirodgar_post
+permalink: menos-uso-rrss
 
 ---
 
