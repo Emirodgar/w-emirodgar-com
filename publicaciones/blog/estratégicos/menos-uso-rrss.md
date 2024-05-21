@@ -9,6 +9,7 @@ date: 21/05/2024
 folder: estrategicos
 layout: emirodgar_post
 permalink: menos-uso-rrss
+
 ---
 
 Todo tiene un principio y un fin. Las redes sociales iniciaron su andadura permitiéndonos conectar con nuestros círculos más cercanos. De ahí el concepto de social.
