@@ -26,7 +26,7 @@ Esta última parte es vital para poder alinearnos con la intención de búsqueda
 En la siguiente imagen podemos ver la frecuencia de búsqueda de dicho término durante los últimos 5 años. Tenemos visibilidad de cuándo ocurren las búsqueda y si la tendencia crece o decrece.
 En este caso, vemos que año a año, se realizan [menos búsquedas asociadas al Buen Fin](https://trends.google.es/trends/explore?date=today%205-y&q=%2Fm%2F0ndhrch&hl=es).
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/1347272a-ce52-45af-b864-82ee02bc2c93)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/1347272a-ce52-45af-b864-82ee02bc2c93){:class="img-responsive"}
 
 Antes de realizar el análisis debemos asegurarnos de que seleccionamos `Tema` dentro del concepto a analizar, de esta manera los datos arrojados por Trends serán más precisos.
 
