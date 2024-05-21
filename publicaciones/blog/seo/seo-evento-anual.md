@@ -30,23 +30,23 @@ En este caso, vemos que año a año, se realizan [menos búsquedas asociadas al 
 
 Antes de realizar el análisis debemos asegurarnos de que seleccionamos `Tema` dentro del concepto a analizar, de esta manera los datos arrojados por Trends serán más precisos.
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/fe0b366a-7fb9-4a24-a93e-25d4a3d34b2c)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/fe0b366a-7fb9-4a24-a93e-25d4a3d34b2c){:class="img-responsive"}
 
 Gracias a los filtros con los que contamos, podremos acotar nuestro análisis a una zona geográfica concreta, un periodo de tiempo, categoría o incluso las búsquedas asociadas a web, imágenes, noticias o vídeos.
 Dependiendo del enfoque que busquemos, deberemos ajustar adecuadamente los filtros.
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/4e1ee2b8-7603-4612-a435-1ffd53c4f466)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/4e1ee2b8-7603-4612-a435-1ffd53c4f466){:class="img-responsive"}
 
 Aunque puede haber interés de búsqueda en varias zonas, debemos poner el foco en aquella donde predomina. Para el caso de El Buen Fin, sería México.
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/5334c904-511c-47ac-80b3-bdc01e812ad0)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/5334c904-511c-47ac-80b3-bdc01e812ad0){:class="img-responsive"}
 
 Nuestro análisis debe orientarse a las secciones de `temas relacionados` y `consultas relacionadas`. Estos bloque muestran la información de dos maneras:
 
 - **Principales**: es un listado de búsquedas relacionadas a lo largo del tiempo con el término que estamos analizando. Importante para cubrir de manera global durante todo el año.
 - **En aumento**: son aquellos términos que pueden variar en las últimas semanas. Importantes para tenerlo en cuenta en estrategias complementarias, como blogs, redes sociales, etc. y así poder alinearnos con lo que la gente está buscando en ese momento.
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/2ed7d5dd-1324-47b9-a558-4682dbca150a)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/2ed7d5dd-1324-47b9-a558-4682dbca150a){:class="img-responsive"}
 
 A mayores de esta herramienta, recomiendo usar herramientas como Google Keyword Planner, SEMrush, Answer the public o Ahrefs para encontrar palabras clave relevantes que complementen nuestro análisis. Investiga las tendencias de búsqueda del año anterior para predecir comportamientos futuros.
 
