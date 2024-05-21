@@ -64,7 +64,9 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 
 ## Ponencias y clases
 
-- `Enero 2024` - Smartup - Webinar / [El futuro del SEO en la era de la Inteligencia Artificial](https://info.smartupdigital.com/grabacion-webinar-futuro-seo-ia) 
+- `Mayo 2024` - UNIR - Curso Avanzado Universitario de SEO / [SEO técnico: rastreo e indexación](https://www.unir.net/marketing-comunicacion/revista/hazte-experto-mundo-seo-areas-mas-demandadas-mercado-laboral/) 
+- `Enero 2024` - Smartup - Webinar / [El futuro del SEO en la era de la Inteligencia Artificial](https://info.smartupdigital.com/grabacion-webinar-futuro-seo-ia)
+- `Noviembre 2023` - UNIR - Curso Avanzado Universitario de SEO / [Introducción al SEO](https://www.unir.net/marketing-comunicacion/revista/hazte-experto-mundo-seo-areas-mas-demandadas-mercado-laboral/) 
 - `Mayo 2022` - Smartup - Webinar / [Google Analytics 4](https://es.slideshare.net/emirodgar/google-analytics-4-webinar-smartup)
 - `Abril 2021` - Universidad de Salamanca (USAL) - Masterclass / [Analítica web - el valor de los datos](https://es.slideshare.net/emirodgar/usal-masterclass-analtica-web-2021)
 - `Marzo 2021` - Siteimprove - Webinar / [Core Web Vitals](https://hello.siteimprove.com/es-es/on-demand-webinar/seo-2021-core-web-vitals/download)
