@@ -129,6 +129,10 @@ Esta etiqueta debe dispararse cuando ocurra cualquier evento relacionado con el 
 
 ## Etiqueta add_to_cart
 
+Con esta etiqueta registraremos cuándo un producto es añadido al carrito.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/e7b4ce3c-47dd-4330-90c0-d10a915d37c7){:class="img-responsive"}
+
 - Nombre de etiqueta: `GA4 - EC - HTML - add_to_cart`
 - Tipo de etiqueta: `HTML personalizado`
 - Contenido de etiqueta:
@@ -182,11 +186,6 @@ Esta etiqueta debe dispararse cuando ocurra cualquier evento relacionado con el 
     }</script>
 
   ```
-
-Nuestra etiqueta quedaría de la siguiente manera:
-
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/e7b4ce3c-47dd-4330-90c0-d10a915d37c7){:class="img-responsive"}
-
 
 El disparador para esta etiqueta debe tener los siguientes valores:
 
