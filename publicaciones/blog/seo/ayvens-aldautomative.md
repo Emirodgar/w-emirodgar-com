@@ -31,19 +31,20 @@ Curiosamente, su posicionamiento SEO mayoritario es bajo la subcarpeta idiomáti
 Profundizando en los idiomas, me ha parecido interesante la cantidad de países/lenguajes con los que trabajan. Algunos están dentro del dominio de ayvens.com pero otros están bajo leaseplan, como por ejemplo `https://www.leaseplan.com/en-be/`.
 Aquí me pica la curiosidad por saber si todo se gestionará bajo un sólo dominio o si será una estrategia para ciertos mercados.
 
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/9388c843-1d08-42e1-abed-f46d66680334){:class="img-responsive"}
+
 De momento, la presencia de este dominio es mayoritaria en Italia y Portugal, seguido de otros países europeos. 
 Curioso ver que en Portugal, con muchas menos keywords, la estimación del tráfico y el valor del mismo es superior a otros países. Sin duda es un mercado oportunidad.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/045f0be6-9a4b-4907-b114-f5daee5f1e9f){:class="img-responsive"}
 
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/9388c843-1d08-42e1-abed-f46d66680334){:class="img-responsive"}
-
-
 ## Migración de dominio
 
 Me gusta hacer seguimiento de la evolución de la visibilidad SEO de un dominio con la herramienta de Sistrix.
-En este caso, he decidido hacerlo sobre los tres dominios que he identificado hasta ahora: `ayvens.com`, `aldautomotive.es` y `leaseplan.com`
+En este caso, he decidido hacerlo sobre los tres dominios que he identificado hasta ahora: `ayvens.com`, `aldautomotive.es` y `leaseplan.com`.
+
+Para mí, como reto, sería no perder la tendencia ascendente que han seguido durante los últimos 12 meses en `aldautomotive.es`, ganando cada vez más visibilidad orgánica.
 
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/4991d813-0c2c-4ddc-af5a-5c56acc77b44){:class="img-responsive"}
