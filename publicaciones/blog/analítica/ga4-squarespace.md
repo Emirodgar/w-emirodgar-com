@@ -1,6 +1,6 @@
 ---
 title: Configurar Google Analytics 4 Ecommerce en Squarespace 
-description: Experto SEO o.
+description: Códigos para configurar desde GTM los eventos de view_item, add_to_cart y purchase
 lang: es_ES
 author: emirodgar
 sitemap: 1
@@ -14,7 +14,7 @@ permalink: ga4-squarespace
 
 Squarespace es una plataforma de creación y gestión de sitios web todo-en-uno que permite a los usuarios diseñar, construir y mantener sus propios sitios web sin necesidad de conocimientos técnicos avanzados. Es similar a Wix. Aunque trae su propio módulo de analítica, ofrece menos información y visibilidad que Google Analytics, por lo que suele ser recomendable implementar `GA4` para obtener un mayor análisis de nuestras ventas.
 
-> Si en tu módulo de ecommerce aparece todo bien salvo el importa de las ventas, que sale siempre a cero, tendrás que revisar con soporte qué es lo que puede estar ocurriendo.
+> Para este tutorial se ha realizado una implementación a través de Google Tag Manager, insertando los códigos asociados a cada evento.
 
 La implementación que he realizado en mi cliente ha salido del [siguiente tutorial](https://github.com/martintaylorj/GA4-Ecommerce_Squarespace/tree/main), por lo que aquí me limitaré a explicar lo más básico (`view_item`, `add_to_cart` y `purchase`). Para abordar una implementación completa, seguid los pasos completos del tutorial expuesto y hacer extensible las explicaciones que he dado para estos tres eventos del módulo de comercio electrónico de GA4. 
 
@@ -288,6 +288,12 @@ Para registrar la compra, deberemos crear lo siguiente:
 </script>
 
 ```
+
+## Visualizando los resultados
+
+Una vez realizamos los cambios, podremos validar cómo en el módulo de comercio electrónico de GA4 comienzan a aparecer los datos asociados a ventas.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/a7da000b-173e-415b-a63a-e7d93821bf0a){:class="img-responsive"}
 
 
 
