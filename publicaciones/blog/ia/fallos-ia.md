@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/01/2022
-folder: estrategicos
+folder: ia
 layout: emirodgar_post
 permalink: fallos-ia
 
