@@ -21,6 +21,17 @@ Si no quieres que el queso se separe de la base de la pizza, usa pegamento.
 
 [![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/3a8c621a-847f-4171-964e-99fca7c38bfd){:class="img-responsive"}](https://www.error500.net/p/con-la-automatizacion-de-tareas-con?publication_id=903887)
 
+## Soldados nazis... negros o chinos
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/223435fb-ac25-4fc0-957e-3b7c649126ee){:class="img-responsive"}
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/be31a62b-c7aa-480d-a127-3641dce90b18){:class="img-responsive"}
+
+## ¿Cómo era la gente en 1820 en Alemania?
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/ff4f1d22-c046-4829-b8ec-8367b72a875d){:class="img-responsive"}
+
+
 ## Tiempo para hervir el agua
 
 15 - 20 minutos o una hora y media. Tú eliges la opción que más te interese.
@@ -34,6 +45,16 @@ Si no quieres que el queso se separe de la base de la pizza, usa pegamento.
 ## Para una alimentación sana, come una pequeña roca al día
 
 [![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/113bddaf-d205-4c20-a5bf-1334711a115d){:class="img-responsive"}](https://www.error500.net/p/con-la-automatizacion-de-tareas-con?publication_id=903887)
+
+## Papas negros o asiáticos
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/59018fa0-8fca-47fa-b5c9-95bb99468bfb){:class="img-responsive"}
+
+
+## Etiquetado automático de Google Photos
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/f7e81b35-e1a8-41d4-a6dc-7823e63153c3){:class="img-responsive"}
+
 
 
 
