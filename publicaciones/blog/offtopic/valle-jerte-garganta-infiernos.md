@@ -22,7 +22,7 @@ El puerto es bonito, pero si los niños se marean en el coche, quizá no te inte
 ## Ruta de garganta de los infiernos
 
 Además de poder disfrutar, si vas en temporada, de los cerezos en flor, quizá el reclamo turístico por excelencia de esta zona sea hacer la **ruta de la garganta de los infiernos**.
-Es una ruta circular de 18 kilómetros, aunque si vas con niños o no quieres meterte mucha paliza, la más cortita y que se disfruta un montón, es la de Los Pilones.
+Es una ruta circular de 18 kilómetros, aunque si vas con niños o no quieres meterte mucha paliza, la más cortita y que se disfruta un montón, es la de Los Pilones (6 km en total).
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/fb388e00-0474-4a99-a657-18d7e81783a3){:class="img-responsive"}
 
@@ -42,6 +42,8 @@ A medio camino verás un cartel en el que se unifican varios caminos, el normal 
 Os dejo una imagen de esta maravillosa zona, donde los más osados disfrutan de un baño en el agua helada.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/c7c28e58-c3d4-43af-8be9-ba71196e12a4){:class="img-responsive"}
+
+A vuestro regreso, podréis cambiar el camino (normal o pista forestal) y así hacéis los últimos 2,5km por otro sitio. Llegaréis al mismo punto de salida.
 
 ## Comer en el valle del Jerte
 
