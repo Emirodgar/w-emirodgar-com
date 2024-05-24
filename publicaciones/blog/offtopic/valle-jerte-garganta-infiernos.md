@@ -21,7 +21,7 @@ El puerto es bonito, pero si los niños se marean en el coche, quizá no te inte
 
 ## Ruta de garganta de los infiernos
 
-Además de poder disfrutar, si vas en temporada, de los cerezos en flor, quizá el reclamo turístico por excelencia de esta zona, te recomiendo hacer la ruta de la garganta de los infiernos.
+Además de poder disfrutar, si vas en temporada, de los cerezos en flor, quizá el reclamo turístico por excelencia de esta zona sea hacer la **ruta de la garganta de los infiernos**.
 Es una ruta circular de 18 kilómetros, aunque si vas con niños o no quieres meterte mucha paliza, la más cortita y que se disfruta un montón, es la de Los Pilones.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/fb388e00-0474-4a99-a657-18d7e81783a3){:class="img-responsive"}
@@ -55,7 +55,24 @@ Como curiosidad, la carne la traen de Salamanca (charra), unos deliciosos chulet
 Pasando Navaconcejo, dirección Plasencia, encontramos la subida al pueblo de Valdastillas. Al final del mismo sale un camino de tierra que nos lleva a la [Garganta de Marta](https://www.google.com/maps/place/Garganta+de+Marta/@40.1270086,-5.8843978,15.87z/data=!4m10!1m2!2m1!1scascada+y+lagar+marta!3m6!1s0xd3e379a2632e77d:0x6b455ff8709b8098!8m2!3d40.1271288!4d-5.8830651!15sChVjYXNjYWRhIHkgbGFnYXIgbWFydGFaFyIVY2FzY2FkYSB5IGxhZ2FyIG1hcnRhkgEPbmF0dXJlX3ByZXNlcnZlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU50YUhRM2RISm5SUkFC4AEA!16s%2Fg%2F11cmzmcc4z?entry=ttu), un maravilloso rincón que temrina en un mirador sobre la cascada.
 Os recomiendo mucho ir. La ruta andando son escasos 10 minutos por lo que es más tiempo en coche que caminando.
 
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/d4651f11-bb61-4d3c-bb83-3d3160868003){:class="img-responsive"}
+
+
 Para los más osados, podéis seguir subiendo la montaña hasta Piornal, el pueblo más alto de Extremadura, aunque las vistas desde allí arriba dejan mucho que desear. Personalmente no me mereció la pena. A medio camino entre ambos pueblos está el mirador de [El balcón del Valle](https://www.google.com/maps/place/Garganta+de+Marta/@40.1270086,-5.8843978,15.87z/data=!4m10!1m2!2m1!1scascada+y+lagar+marta!3m6!1s0xd3e379a2632e77d:0x6b455ff8709b8098!8m2!3d40.1271288!4d-5.8830651!15sChVjYXNjYWRhIHkgbGFnYXIgbWFydGFaFyIVY2FzY2FkYSB5IGxhZ2FyIG1hcnRhkgEPbmF0dXJlX3ByZXNlcnZlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU50YUhRM2RISm5SUkFC4AEA!16s%2Fg%2F11cmzmcc4z?entry=ttu) aunque en nuestro caso el parking estaba lleno y no pudimos meternos.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/5ea46054-c43c-48b5-acd0-f3d655d7a316){:class="img-responsive"}
+
+
 No os olvidéis de comprar cerezas en vestro viaje al Jerte.
+
+## Comer en el viaje de regreo
+
+Si sales por Tornavacas, pasarás en tu regreso por Barco de Ávila. Os recomiendo dos lugares donde para a comer: El fogón del barco o Avenida.
+La carne de calidad está asegurada en ambos sitios. Os dejo una foto de otro chuletón que nos comimos.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/bc41164f-acb6-42be-b75a-2037b5a01bb3)
+
+Y si paras en Barco de Ávila, puedes dar una vuelta por el castillo. Tienes un parking de tierra justo al lado donde puedes aparcar sin problema.
+
 
 
