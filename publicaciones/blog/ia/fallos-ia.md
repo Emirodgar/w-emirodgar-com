@@ -1,5 +1,5 @@
 ---
-title: Fallos IA - Memas de Inteligencia Artificial
+title: Fallos IA - Memes de Inteligencia Artificial
 description: Recopilaciones de fallos de la Inteligencia Artificial
 lang: es_ES
 author: emirodgar
