@@ -6,25 +6,37 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/05/2024
-folder: estrategicos
+folder: seo
 layout: emirodgar_post
 permalink: ayvens-ald-seo
 
 ---
 
 Como fan incondicional de los coches, casi a diario reviso los vehículos que durante muchos años la empresa ALD ha rentado. 
-Cuál ha sido mi sorpresa al descubir un cambio de marca (y de portfolio de coches también).
+Cuál ha sido mi sorpresa al descubir un cambio de marca. Cuando he entrado en `aldautomotive.es` he sido redireccionado a `ayvens.com`.
 
-Y como SEO curioso, me he puesto a investigar.
+Según informan en la [página oficial](https://www.societegenerale.com/en/news/all-news/ald-automotive-i-leaseplan-unveils-new-global-mobility-brand), se trata de una integración de las dos marcas (ALD Automotive & LeasePlan) en una nueva marca global: Ayvens.
+Ambas empresas, con origen en Holanda y Francia respectivamente, se unieron en 2022 para formar un gran grupo.
+
+Y como SEO curioso, me he puesto a investigar cómo lo están haciendo. 
 
 ## Dominio ayvens.com
 
 Al parecer el dominio se registró a finales de 2022 y comenzó a generar posicionamiento en octubre del 2023.
 Es de reciente creación y aunque posiciona, la estimación de su tráfico es muy baja.
+Tanto, que Sistrix en lugar de mostrar el índice de visibilidad SEO, muestra sólo las palabras clave por las que posiciona.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/74111aff-4a2a-4203-ac73-02a12ee5c502){:class="img-responsive"}
 
-Curiosamente, su posicionamiento SEO mayoritario es bajo la subcarpeta idiomática de Portugal.
+El 27 de mayo, Sistrix comienza a registrar su crecimiento en visibilidad orgánica.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/ce24d494-d7fb-4991-ab75-12e95d090023){:class="img-responsive"}
+
+Sin saber la estrategia SEO que han planteado, el reto será migrar adecuadamente el posicionamiento y popularidad de cada mercado de los dominios antiguos, a la nueva marca. 
+
+## Cómo posicionar para múltiples idiomas y mercados
+
+Ahora mismo, su posicionamiento SEO mayoritario es bajo la subcarpeta idiomática de Portugal, aunque al tratarse de una migración que está comenzando, es posible que hayan transferido primero los mercados pequeños para asegurarse de que no hay problemas y de que todo funciona bien.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/b2f356c3-64dc-47ed-8ef4-c99c8c2d7a18){:class="img-responsive"}
 
@@ -48,5 +60,11 @@ Para mí, como reto, sería no perder la tendencia ascendente que han seguido du
 
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/4991d813-0c2c-4ddc-af5a-5c56acc77b44){:class="img-responsive"}
+
+### Actualización 28/05/2024
+
+Se aprecia el crecimiento de Ayvens pero sin que de momento haya afectación a los otros dominios, en especial ALD Automtive.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/af6346c1-b33a-4486-bbbf-595429c197c7){:class="img-responsive"}
 
 
