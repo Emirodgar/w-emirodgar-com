@@ -24,14 +24,38 @@ Y como SEO curioso, me he puesto a investigar cómo lo están haciendo.
 ## Dominio ayvens.com
 
 Al parecer el dominio se registró a finales de 2022 y comenzó a generar posicionamiento en octubre del 2023.
-Es de reciente creación y aunque posiciona, la estimación de su tráfico es muy baja.
+Es de reciente creación y aunque posiciona, la estimación de su tráfico para España es aún muy baja.
 Tanto, que Sistrix en lugar de mostrar el índice de visibilidad SEO, muestra sólo las palabras clave por las que posiciona.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/74111aff-4a2a-4203-ac73-02a12ee5c502){:class="img-responsive"}
 
-El 27 de mayo, Sistrix comienza a registrar su crecimiento en visibilidad orgánica.
+El 27 de mayo, Sistrix comienza a registrar su crecimiento en visibilidad orgánica, por lo que parece que la migración se inició con otros dominios y mercados.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/ce24d494-d7fb-4991-ab75-12e95d090023){:class="img-responsive"}
+
+### Migración de leaseplan a Ayvens
+
+Si analizamos desde Semrush la evolución de los dominios del grupo, podemos ver que a comienzos de abril comenzó el traspaso SEO desde `leaseplan.com` hacia la nueva marca.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/8b5822b0-8d43-4a34-aea1-185d7cdfb7ae){:class="img-responsive"}
+
+
+### Migración de ALD Automative a Ayvens
+
+En este caso no se disponía de un único dominio para migrar, sino que cada mercado tenía el suyo propio. Aún así, se puede ver cómo se han ido redireccionando cada uno de ellos y cómo la nueva marca va ganando peso a nivel SEO.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/7e1a80a3-c641-4b24-aa91-8aaabc130d84)
+
+El dominio de Italia (línea morada) era el que más fuerte estaba en SEO y su migración se inició a principios de abril. España, en segundo lugar de visibilidad SEO, comenzó a migrarse a finales de mayo y otros mercados como Colombia y Francia, a principios de mayo.
+Se trata por tanto de una migración controlada dominio a dominio. Comenzaron con el que mayor visibilidad SEO tenía (Italia) y luego han avanzado con el resto.
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/b325cfc1-55e3-4965-a52c-6fbf9ed33b3e){:class="img-responsive"}
+
+
+
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/6ac9941c-d073-4f6e-bf37-f4980f3b136f)
+
+
 
 Sin saber la estrategia SEO que han planteado, el reto será migrar adecuadamente el posicionamiento y popularidad de cada mercado de los dominios antiguos, a la nueva marca. 
 
