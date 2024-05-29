@@ -53,45 +53,45 @@ Se trata por tanto de una migración controlada dominio a dominio. Comenzaron co
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/b325cfc1-55e3-4965-a52c-6fbf9ed33b3e){:class="img-responsive"}
 
 Como era de esperar, el nuevo dominio está adquiriendo gran popularidad y las métricas que muestra Semrush lo avalan.
-Muy bien hecho el apostar por publicidad, así se avanza más rápido en la tarea de potenciar la marca y darle visibilidad y asociación con las que se están migrando.
+Muy bien hecho el apostar por publicidad, así se avanza más rápido en la tarea de potenciar la marca y darle visibilidad además de asegurar la asociación con las marcas antiguas que se están migrando.
 
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/6ac9941c-d073-4f6e-bf37-f4980f3b136f)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/6ac9941c-d073-4f6e-bf37-f4980f3b136f){:class="img-responsive"}
 
+Sin saber la estrategia SEO que han planteado, el reto será migrar adecuadamente el posicionamiento y popularidad de cada mercado de los dominios antiguos, a la nueva marca. Algo que parece que se está consiguiendo.
 
+## El reto de cómo posicionar para múltiples idiomas y mercados
 
-Sin saber la estrategia SEO que han planteado, el reto será migrar adecuadamente el posicionamiento y popularidad de cada mercado de los dominios antiguos, a la nueva marca. 
+Hubiera sido un placer estar en la reunión donde se decidió **cómo se gestionaría a nivel técnico el alcance de la página para dar servicio a los diferente mercados e idiomas**. Lo asemejo a cómo lo he realizado en proyectos como Barceló o Melía, cadenas hoteleras donde es necesario hacer una especificación de mercado e idioma, para explicar bien las condiciones pero también para asegurarnos de que cada usuario opera con la moneda y los descuentos asociados a su ubicación.
 
-## Cómo posicionar para múltiples idiomas y mercados
-
-Ahora mismo, su posicionamiento SEO mayoritario es bajo la subcarpeta idiomática de Portugal, aunque al tratarse de una migración que está comenzando, es posible que hayan transferido primero los mercados pequeños para asegurarse de que no hay problemas y de que todo funciona bien.
+Ahora mismo, su posicionamiento SEO mayoritario es bajo la subcarpeta idiomática de Portugal, aunque al tratarse de una migración que está comenzando, es posible que hayan transferido primero los mercados pequeños para asegurarse de que no hay problemas y de que todo funciona bien. Al no tener el listado completo de todos los dominios migrados, es mi suposición. 
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/b2f356c3-64dc-47ed-8ef4-c99c8c2d7a18){:class="img-responsive"}
 
-Profundizando en los idiomas, me ha parecido interesante la cantidad de países/lenguajes con los que trabajan. Algunos están dentro del dominio de ayvens.com pero otros están bajo leaseplan, como por ejemplo `https://www.leaseplan.com/en-be/`.
-Aquí me pica la curiosidad por saber si todo se gestionará bajo un sólo dominio o si será una estrategia para ciertos mercados.
+Profundizando en los idiomas, me ha parecido interesante la cantidad de países/lenguajes con los que trabajan. Imagino que lo que habrán hecho ha sido clonar el subdirectorio idiomático que tenían en `leaseplan.com`, por ejemplo: `https://www.leaseplan.com/en-be/`.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/9388c843-1d08-42e1-abed-f46d66680334){:class="img-responsive"}
 
 De momento, la presencia de este dominio es mayoritaria en Italia y Portugal, seguido de otros países europeos. 
-Curioso ver que en Portugal, con muchas menos keywords, la estimación del tráfico y el valor del mismo es superior a otros países. Sin duda es un mercado oportunidad.
+Curioso ver que en Portugal, con muchas menos keywords, la estimación del tráfico y el valor del mismo es superior a otros países. Sin duda es **un mercado oportunidad**.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/045f0be6-9a4b-4907-b114-f5daee5f1e9f){:class="img-responsive"}
 
 
-## Migración de dominio
+## Seguimiento de migración de dominio en España
 
 Me gusta hacer seguimiento de la evolución de la visibilidad SEO de un dominio con la herramienta de Sistrix.
 En este caso, he decidido hacerlo sobre los tres dominios que he identificado hasta ahora: `ayvens.com`, `aldautomotive.es` y `leaseplan.com`.
 
-Para mí, como reto, sería no perder la tendencia ascendente que han seguido durante los últimos 12 meses en `aldautomotive.es`, ganando cada vez más visibilidad orgánica.
+> Sistrix me permite extraer sólo la visibilidad orgánica de los dominios .com para el mercado de España, por lo que mi intención es revisar si lo que se ha transferido de `aldautomotive.es` se integra adecuadamente en `ayvens.com`
 
+Para mí, como reto de este proyecto de migración, sería no perder la tendencia ascendente que han seguido durante los últimos 12 meses en `aldautomotive.es`, ganando cada vez más visibilidad orgánica.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/4991d813-0c2c-4ddc-af5a-5c56acc77b44){:class="img-responsive"}
 
 ### Actualización 28/05/2024
 
-Se aprecia el crecimiento de Ayvens pero sin que de momento haya afectación a los otros dominios, en especial ALD Automtive.
+Se aprecia el crecimiento de Ayvens (línea roja) pero sin que de momento haya afectación a los otros dominios, en especial ALD Automotive (línea azul).
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/af6346c1-b33a-4486-bbbf-595429c197c7){:class="img-responsive"}
 
