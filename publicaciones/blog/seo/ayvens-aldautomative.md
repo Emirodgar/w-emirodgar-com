@@ -16,14 +16,14 @@ permalink: ayvens-ald-seo
 Como fan incondicional de los coches, casi a diario reviso los vehículos que durante muchos años la empresa ALD ha rentado. 
 Cuál ha sido mi sorpresa al descubir un cambio de marca. Cuando he entrado en `aldautomotive.es` he sido redireccionado a `ayvens.com`.
 
+## Nueva marca: Ayvens 
+
 Según informan en la [página oficial](https://www.societegenerale.com/en/news/all-news/ald-automotive-i-leaseplan-unveils-new-global-mobility-brand), se trata de una integración de las dos marcas (ALD Automotive & LeasePlan) en una nueva marca global: Ayvens.
 Ambas empresas, con origen en Holanda y Francia respectivamente, se unieron en 2022 para formar un gran grupo.
 
 Y como SEO curioso, me he puesto a investigar cómo lo están haciendo. 
 
-## Dominio ayvens.com
-
-Al parecer el dominio se registró a finales de 2022 y comenzó a generar posicionamiento en octubre del 2023.
+Al parecer el dominio `ayvens.com` se registró a finales de 2022 y comenzó a generar posicionamiento en octubre del 2023.
 Es de reciente creación y aunque posiciona, la estimación de su tráfico para España es aún muy baja.
 Tanto, que Sistrix en lugar de mostrar el índice de visibilidad SEO, muestra sólo las palabras clave por las que posiciona.
 
@@ -42,15 +42,18 @@ Si analizamos desde Semrush la evolución de los dominios del grupo, podemos ver
 
 ### Migración de ALD Automative a Ayvens
 
-En este caso no se disponía de un único dominio para migrar, sino que cada mercado tenía el suyo propio. Aún así, se puede ver cómo se han ido redireccionando cada uno de ellos y cómo la nueva marca va ganando peso a nivel SEO.
+En este caso no se disponía de un único dominio para migrar, sino que cada mercado tenía el suyo propio. Aún así, se puede ver de qué manera se han ido redireccionando cada uno de ellos y cómo la nueva marca va ganando peso a nivel SEO.
+ALD cuenta con presencia en más de 40 mercados, así que muy posiblemente tenga esos o más dominios que migrar. En la siguiente imagen sólo he incluido a modo de ejemplo, 5, entre los que destaco Italia, España, Francia y Colombia.
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/7e1a80a3-c641-4b24-aa91-8aaabc130d84)
+![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/7e1a80a3-c641-4b24-aa91-8aaabc130d84){:class="img-responsive"}
 
-El dominio de Italia (línea morada) era el que más fuerte estaba en SEO y su migración se inició a principios de abril. España, en segundo lugar de visibilidad SEO, comenzó a migrarse a finales de mayo y otros mercados como Colombia y Francia, a principios de mayo.
-Se trata por tanto de una migración controlada dominio a dominio. Comenzaron con el que mayor visibilidad SEO tenía (Italia) y luego han avanzado con el resto.
+El dominio de Italia (línea morada) es, de la muestra que he analizado, el que más fuerte estaba en SEO y su migración se inició a principios de abril. España, en segundo lugar de visibilidad SEO, comenzó a migrarse a finales de mayo y otros mercados como Colombia y Francia, a principios de mayo.
+Se trata por tanto de una migración controlada dominio a dominio. Comenzaron con el que mayor visibilidad SEO tenía (Italia) y luego han avanzado con el resto. Me gustaría conocer el plan de migración, aún así, parece que se ha ejecutado de manera adecuada.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/b325cfc1-55e3-4965-a52c-6fbf9ed33b3e){:class="img-responsive"}
 
+Como era de esperar, el nuevo dominio está adquiriendo gran popularidad y las métricas que muestra Semrush lo avalan.
+Muy bien hecho el apostar por publicidad, así se avanza más rápido en la tarea de potenciar la marca y darle visibilidad y asociación con las que se están migrando.
 
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/6ac9941c-d073-4f6e-bf37-f4980f3b136f)
