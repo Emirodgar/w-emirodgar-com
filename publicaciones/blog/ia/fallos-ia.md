@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/05/2024
-date_updated: 29/05/2024
+date_modified: 29/05/2024
 folder: ia
 layout: emirodgar_post
 permalink: fallos-ia
