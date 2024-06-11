@@ -24,6 +24,8 @@ Google enseña la patita en esa línea presentando lo que será muy posiblemente
 
 > La misión de Google es organizar la información del mundo y hacerla accesible de manera universal. No se menciona enviar tráfico a los creadores de la información del mundo.
 
+## Perplexity, ¿el futuro de la búsqueda?
+
 Y aquí entra en juego [Perplexity](https://www.perplexity.ai/), que en palabras de su creador: "Es el buscador en el que Google quería convertirse hace 20 años".
 Sinceramente, después de haberlo probado, coincido con ello. 
 
@@ -31,5 +33,7 @@ Sinceramente, después de haberlo probado, coincido con ello.
 
 Si Google busca evolucionar para ofrecer respuestas basadas en IA, Perplexity ya le ha ganado el terreno y, a mi juicio, de una manera más acertada. 
 Google sigue teniendo la masa crítica de usuarios, pero va con cierto retraso frente a soluciones de IA como ChatGPT o de búsqueda como Perplexity. Y no lo digo por los [fallos de AI overviews que han generado cientos de memes](https://emirodgar.com/fallos-ia), sino porque se han subido tarde al carro y tienen que pivotar un modelo de negocio que lleva funcionando más de 25 años; el resto de empresas han empezado desde cero, sin cargas ni muertos en el armario, lo que les permite avanzar más rápido. Y de nuevo, la tería del [bosque oscuro](https://emirodgar.com/bosque-oscuro) se fortalece.
+
+> Perplexity avanza hacia las búsquedas orgánicas permitiendo que sus páginas de resultados [se puedan indexar](https://www.perplexity.ai/hub/blog/perplexity-pages).
 
 Ahora mismo, las respuestas generadas por IA en Google afectan sólo al 14% del total de búsquedas. El resto siguen siendo las respuestas sin IA de siempre, pero será cuestión de tiempo que la situación se revierta en detrimento de nuestro querido tráfico orgánico.
