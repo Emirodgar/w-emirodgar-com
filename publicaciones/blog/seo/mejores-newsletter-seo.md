@@ -32,6 +32,7 @@ Os dejo un listado de las que considero **las mejores newsletter SEO en español
 
 ## Mi recomendación de newsletter SEO para el año 2024
 
+
 | Nombre | Autor | Frecuencia | Enlace |
 |---|---|---|---|---|
 | **Chuleta SEO** | Emilio Rodríguez García | Semanal | [suscripción](https://newsletter.chuletaseo.com) |
@@ -40,7 +41,7 @@ Os dejo un listado de las que considero **las mejores newsletter SEO en español
 | **La newsletter de Unancor** | David Carrasco | Semanal | [suscripción](https://www.unancor.com/newsletter-seo/) |
 | **300Segundos** | Álex Serrano | Semanal | [suscripción](https://alexserrano.es/300segundos/) |
 
-##
+-----
 
 He elegido estas newsletter porque me parecen que incluyen aspectos clave para el desarrollo de estrategias SEO como los siguientes: 
 
