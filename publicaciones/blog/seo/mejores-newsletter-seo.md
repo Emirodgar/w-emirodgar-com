@@ -1,5 +1,5 @@
 ---
-title: Las 10 mejores newsletter SEO en español
+title: Las 10 mejores newsletter SEO en español - 2024
 description: Disfruta de información actualizada y de gran valor.
 image: https://emirodgar.com/cdn/images/og/auditoria.png
 layout: emirodgar_post
@@ -8,6 +8,7 @@ feed: 1
 folder: seo
 author: Emirodgar
 date: 09/11/2023
+date_modified: 03/09/2024
 permalink: mejores-newsletter-seo
 
 ---
@@ -30,7 +31,7 @@ La primera que refleja en el listado, [Chuleta SEO](https://newsletter.chuletase
 
 | Nombre | Autor | Frecuencia | Descripción |
 |---|---|---|---|---|
-| **Chuleta SEO** | Emilio Rodríguez García | Semanal | Noticias, artículos, guías, tutoriales, herramientas, eventos y ofertas de trabajo |
+| **Chuleta SEO** | Emilio Rodríguez García | Semanal | [enlace](https://newsletter.chuletaseo.com) |
 | **Newsletter de Oriol Farré** | Oriol Farré | Semanal | Cubre temáticas como UX, CRO, analítica y, obviamente, el SEO |
 | **10 Links Azules** | Juan González Villa | Semanal | Recopila los 10 enlaces más interesantes de la semana |
 | **SEOpatía** | Esteve Castells | (abandonada) | Recopilación de las últimas novedades en el mundo del posicionamiento web |
@@ -42,7 +43,7 @@ La primera que refleja en el listado, [Chuleta SEO](https://newsletter.chuletase
 | **SEO local** | Matías Romero | Bimensual | Ofrece un resumen de las últimas novedades en el mundo del posicionamiento web local |
 
 
-He elegiro estas newsletter porque me parecen que incluyen aspectos clave para el desarrollo de estrategias SEO como los siguientes: 
+He elegido estas newsletter porque me parecen que incluyen aspectos clave para el desarrollo de estrategias SEO como los siguientes: 
 
 - Novedades y tendencias en SEO
 - Consejos prácticos para mejorar el posicionamiento web
@@ -62,3 +63,8 @@ Aquí tienes algunos consejos para elegir la mejor newsletter SEO:
 - Prueba diferentes newsletters. No te limites a suscribirte a una sola newsletter. Prueba diferentes newsletters para ver cuál te gusta más.
 
   En esta publicación he querido poner el foco en las newsletter SEO en español o castellano, pero también hay otras, principalmente en inglés, muy recomendables. En este artículo se han recopilado bastantes [newsletters SEO y de marketing digital](https://chuletaseo.com/newsletter-seo).
+
+## ¿Cómo están posicionadas?
+
+El valor de una newsletter viene dado por el número de suscriptores y no por su posicionamiento, aún así me ha parecido interesante hacer una simple comparativa utilizando Semrush para conocer de qué manera están expuestas (no todas las newsletters tienen en abierto sus publicaciones) y cómo están posicionando.
+
