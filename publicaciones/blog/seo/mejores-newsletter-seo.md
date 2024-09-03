@@ -1,5 +1,5 @@
 ---
-title: Las 10 mejores newsletter SEO en español - 2024
+title: Las mejores newsletter SEO en español - 2024
 description: Disfruta de información actualizada y de gran valor.
 image: https://emirodgar.com/cdn/images/og/auditoria.png
 layout: emirodgar_post
@@ -24,23 +24,19 @@ En el mundo del SEO, es importante mantenerse al día de las últimas novedades 
 - Obtener consejos prácticos para mejorar el posicionamiento web.
 - Estar al tanto de los cambios en los algoritmos de los buscadores.
 
-## Las 10 mejores newsletter SEO en español
+## Las mejores newsletter SEO en español
 
-Os dejo un listado de las que considero **las 10 mejores newsletter SEO en español**, según mi criterio personal así como por opiniones de expertos y profesionales del sector.
-La primera que refleja en el listado, [Chuleta SEO](https://newsletter.chuletaseo.com) es mía. Comencé a escribir en 2022. El resto de las que recomiendo, soy suscriptor de las mismas, por lo que hablo con conocimiento de causa:
+Os dejo un listado de las que considero **las mejores newsletter SEO en español**, según mi criterio personal así como por opiniones de expertos y profesionales del sector. El listado inicial contenía un mínimo de 10 newsletter pero con el tiempo algunas de ellas han dejado de publicadas y han quedado abandonadas por lo que mantengo en el listado sólo aquellas que **siguen funcionando y que aportan un valor real**.
 
-| Nombre | Autor | Frecuencia | Descripción |
+> La primera que reflejo en el listado, [Chuleta SEO](https://newsletter.chuletaseo.com) es mía. Comencé a escribir en 2022. El resto de las que recomiendo, soy suscriptor de las mismas, por lo que hablo con conocimiento de causa:
+
+| Nombre | Autor | Frecuencia | Enlace |
 |---|---|---|---|---|
-| **Chuleta SEO** | Emilio Rodríguez García | Semanal | [enlace](https://newsletter.chuletaseo.com) |
-| **Newsletter de Oriol Farré** | Oriol Farré | Semanal | Cubre temáticas como UX, CRO, analítica y, obviamente, el SEO |
-| **10 Links Azules** | Juan González Villa | Semanal | Recopila los 10 enlaces más interesantes de la semana |
-| **SEOpatía** | Esteve Castells | (abandonada) | Recopilación de las últimas novedades en el mundo del posicionamiento web |
-| **La newsletter SEO** | Jakub Motyka | Bisemanal | Ofrece un análisis en profundidad de las últimas novedades en el mundo del posicionamiento web |
-| **La newsletter de Unancor** | David Carrasco | Semanal | Ofrece un resumen de las últimas novedades desde una perspectiva más técnica |
-| **300Segundos** | Álex Serrano | Semanal | Orientado a profesionales del SEO que puedan poner en práctica los video consejos que ofrece |
-| **NichoSEO** | Sebastián Cardozo | Semanal | Visión personal sobre negocios y proyectos de éxito |
-| **Radar SEO** | Emilio Miguel López | Mensual | Últimas tendencias, actualidades y recomendaciones |
-| **SEO local** | Matías Romero | Bimensual | Ofrece un resumen de las últimas novedades en el mundo del posicionamiento web local |
+| **Chuleta SEO** | Emilio Rodríguez García | Semanal | [suscripción](https://newsletter.chuletaseo.com) |
+| **10 Links Azules** | Juan González Villa | Semanal | [suscripción](https://useo.es/newsletter-seo/) |
+| **La newsletter SEO** | Jakub Motyka | Semanal | [suscripción](https://newsletterseo.com/) |
+| **La newsletter de Unancor** | David Carrasco | Semanal [suscripción](https://www.unancor.com/newsletter-seo/) |
+| **300Segundos** | Álex Serrano | Semanal [suscripción](https://alexserrano.es/300segundos/) |
 
 
 He elegido estas newsletter porque me parecen que incluyen aspectos clave para el desarrollo de estrategias SEO como los siguientes: 
@@ -67,4 +63,15 @@ Aquí tienes algunos consejos para elegir la mejor newsletter SEO:
 ## ¿Cómo están posicionadas?
 
 El valor de una newsletter viene dado por el número de suscriptores y no por su posicionamiento, aún así me ha parecido interesante hacer una simple comparativa utilizando Semrush para conocer de qué manera están expuestas (no todas las newsletters tienen en abierto sus publicaciones) y cómo están posicionando.
+
+En este análisis rápido sólo he tenido en consideración los dominios completos asociados a las newsletters, no las subcarpetas. Además he querido incluir la newsletter de Aleyda Solís, SEOfomo, por ser un referente y para ayudarme a entender en qué punto estamos los demás.
+Lo que vemos es que USEO es el líder indiscutible. No sólo lleva más tiempo publicando, sino que su presencia orgánica está muy por delante de los demás.
+
+![image](https://github.com/user-attachments/assets/13f7af56-8c47-4be5-af79-eca2cc5818f1){:class="img-responsive"}
+
+Si analizamos el mercado potencial de cada dominio, me quedo bastante satisfecho sabiendo que estoy rondando el 3% con un proyecto personal que arranqué hará año y medio. 
+
+![image](https://github.com/user-attachments/assets/49456406-f336-490b-8b62-af995396b4f9){:class="img-responsive"}
+
+
 
