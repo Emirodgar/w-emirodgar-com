@@ -35,8 +35,8 @@ Os dejo un listado de las que considero **las mejores newsletter SEO en español
 | **Chuleta SEO** | Emilio Rodríguez García | Semanal | [suscripción](https://newsletter.chuletaseo.com) |
 | **10 Links Azules** | Juan González Villa | Semanal | [suscripción](https://useo.es/newsletter-seo/) |
 | **La newsletter SEO** | Jakub Motyka | Semanal | [suscripción](https://newsletterseo.com/) |
-| **La newsletter de Unancor** | David Carrasco | Semanal [suscripción](https://www.unancor.com/newsletter-seo/) |
-| **300Segundos** | Álex Serrano | Semanal [suscripción](https://alexserrano.es/300segundos/) |
+| **La newsletter de Unancor** | David Carrasco | Semanal | [suscripción](https://www.unancor.com/newsletter-seo/) |
+| **300Segundos** | Álex Serrano | Semanal | [suscripción](https://alexserrano.es/300segundos/) |
 
 
 He elegido estas newsletter porque me parecen que incluyen aspectos clave para el desarrollo de estrategias SEO como los siguientes: 
@@ -60,12 +60,26 @@ Aquí tienes algunos consejos para elegir la mejor newsletter SEO:
 
   En esta publicación he querido poner el foco en las newsletter SEO en español o castellano, pero también hay otras, principalmente en inglés, muy recomendables. En este artículo se han recopilado bastantes [newsletters SEO y de marketing digital](https://chuletaseo.com/newsletter-seo).
 
+## ¿Quién posiciona en el TOP10 para "newsletter SEO"?
+
+Me ha parecido curioso que mi newsletter aparezca en primera posición.
+
+![image](https://github.com/user-attachments/assets/5524670d-ac17-4780-98f1-cba1edd138b2){:class="img-responsive"}
+
+Si os soy sincero es un término que monitorizaba al principio, pero al haber tanta volatibilidad, lo dejé de hacer. Os dejo la gráfica de posición media para dicho término. COmo veréis, ahora mismo sí estoy en primera posición para este término pero es un posicionamiento que cambia de manera constante.
+
+![image](https://github.com/user-attachments/assets/e0c923c4-ad0d-421a-bb78-fcfa036106f4){:class="img-responsive"}
+
+
+
 ## ¿Cómo están posicionadas?
 
 El valor de una newsletter viene dado por el número de suscriptores y no por su posicionamiento, aún así me ha parecido interesante hacer una simple comparativa utilizando Semrush para conocer de qué manera están expuestas (no todas las newsletters tienen en abierto sus publicaciones) y cómo están posicionando.
 
-En este análisis rápido sólo he tenido en consideración los dominios completos asociados a las newsletters, no las subcarpetas. Además he querido incluir la newsletter de Aleyda Solís, SEOfomo, por ser un referente y para ayudarme a entender en qué punto estamos los demás.
+En este análisis rápido sólo he tenido en consideración los dominios completos asociados a las newsletters, no las subcarpetas. Además he querido incluir la newsletter en inglés de Aleyda Solís, SEOfomo, por ser un referente en el sector y para ayudarme a entender en qué punto estamos los demás.
 Lo que vemos es que USEO es el líder indiscutible. No sólo lleva más tiempo publicando, sino que su presencia orgánica está muy por delante de los demás.
+
+> Debemos tener en cuenta que SEOfomo sólo permite el rastreo e indexación del foro, por lo que su visibilidad para este análisis está más reducida.
 
 ![image](https://github.com/user-attachments/assets/13f7af56-8c47-4be5-af79-eca2cc5818f1){:class="img-responsive"}
 
