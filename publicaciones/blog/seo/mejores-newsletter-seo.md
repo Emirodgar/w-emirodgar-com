@@ -30,6 +30,8 @@ Os dejo un listado de las que considero **las mejores newsletter SEO en español
 
 > La primera que reflejo en el listado, [Chuleta SEO](https://newsletter.chuletaseo.com) es mía. Comencé a escribir en 2022. El resto de las que recomiendo, soy suscriptor de las mismas, por lo que hablo con conocimiento de causa:
 
+## Mi recomendación de newsletter SEO para el año 2024
+
 | Nombre | Autor | Frecuencia | Enlace |
 |---|---|---|---|---|
 | **Chuleta SEO** | Emilio Rodríguez García | Semanal | [suscripción](https://newsletter.chuletaseo.com) |
@@ -38,6 +40,7 @@ Os dejo un listado de las que considero **las mejores newsletter SEO en español
 | **La newsletter de Unancor** | David Carrasco | Semanal | [suscripción](https://www.unancor.com/newsletter-seo/) |
 | **300Segundos** | Álex Serrano | Semanal | [suscripción](https://alexserrano.es/300segundos/) |
 
+##
 
 He elegido estas newsletter porque me parecen que incluyen aspectos clave para el desarrollo de estrategias SEO como los siguientes: 
 
@@ -62,30 +65,29 @@ Aquí tienes algunos consejos para elegir la mejor newsletter SEO:
 
 ## ¿Quién posiciona en el TOP10 para "newsletter SEO"?
 
-Me ha parecido curioso que mi newsletter aparezca en primera posición.
+Me ha parecido curioso que mi newsletter ([ChuletaSEO](https://newsletter.chuletaseo.com)) aparezca en primera posición en el análisis de Semrush.
 
 ![image](https://github.com/user-attachments/assets/5524670d-ac17-4780-98f1-cba1edd138b2){:class="img-responsive"}
 
-Si os soy sincero es un término que monitorizaba al principio, pero al haber tanta volatibilidad, lo dejé de hacer. Os dejo la gráfica de posición media para dicho término. COmo veréis, ahora mismo sí estoy en primera posición para este término pero es un posicionamiento que cambia de manera constante.
+Si os soy sincero es un término que monitorizaba al principio, pero al haber tanta volatibilidad, lo dejé de hacer. Os dejo la gráfica de posición media de Google Search Console como prueba. Como se puede ver, ahora mismo sí estoy en primera posición para `newsletter SEO` pero es un posicionamiento que cambia de manera constante. Veremos si a corto plazo soy capaz de estabilizarlo, no obstante tenemos que tener en cuenta que compito contra grandes del sector y con marcas mucho más desarrolladas que la mía, por lo que no será tarea fácil.
 
 ![image](https://github.com/user-attachments/assets/e0c923c4-ad0d-421a-bb78-fcfa036106f4){:class="img-responsive"}
 
 
+## ¿Cómo están posicionadas las newsletter SEO en español?
 
-## ¿Cómo están posicionadas?
-
-El valor de una newsletter viene dado por el número de suscriptores y no por su posicionamiento, aún así me ha parecido interesante hacer una simple comparativa utilizando Semrush para conocer de qué manera están expuestas (no todas las newsletters tienen en abierto sus publicaciones) y cómo están posicionando.
+El valor de una newsletter viene dado **por el número de suscriptores** y no por su posicionamiento, aún así me ha parecido interesante hacer una simple comparativa utilizando Semrush para conocer de qué manera están expuestas (no todas las newsletters tienen en abierto sus publicaciones) y cómo están posicionando.
 
 En este análisis rápido sólo he tenido en consideración los dominios completos asociados a las newsletters, no las subcarpetas. Además he querido incluir la newsletter en inglés de Aleyda Solís, SEOfomo, por ser un referente en el sector y para ayudarme a entender en qué punto estamos los demás.
-Lo que vemos es que USEO es el líder indiscutible. No sólo lleva más tiempo publicando, sino que su presencia orgánica está muy por delante de los demás.
+Lo que vemos es que USEO es el líder indiscutible. No sólo lleva más tiempo publicando, sino que su presencia orgánica está muy por delante de los demás. Una magnífica estrategia sostenida en el tiempo por parte de Juan.
 
 > Debemos tener en cuenta que SEOfomo sólo permite el rastreo e indexación del foro, por lo que su visibilidad para este análisis está más reducida.
 
 ![image](https://github.com/user-attachments/assets/13f7af56-8c47-4be5-af79-eca2cc5818f1){:class="img-responsive"}
 
-Si analizamos el mercado potencial de cada dominio, me quedo bastante satisfecho sabiendo que estoy rondando el 3% con un proyecto personal que arranqué hará año y medio. 
-
-![image](https://github.com/user-attachments/assets/49456406-f336-490b-8b62-af995396b4f9){:class="img-responsive"}
+Los demás tenemos mucho margen de mejora, aunque como os decía al principio, lo más importante de una newsletter son sus sucritos.
+A día de hoy, en ChuletaSEO contamos con cerca de **4.500 lectores** a los que semanalmente les hago llegar las mejores noticias SEO.
+Espero seguir manteniendo este proyecto con la misma ilusión durante mucho tiempo.
 
 
 
