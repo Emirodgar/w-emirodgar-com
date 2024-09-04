@@ -1,14 +1,14 @@
 ---
 title: Las mejores newsletter SEO en español - 2024
 description: Disfruta de información actualizada y de gran valor.
-image: https://emirodgar.com/cdn/images/og/auditoria.png
+image: https://emirodgar.com/cdn/images/og/seo.png
 layout: emirodgar_post
 sitemap: 1
 feed: 1
 folder: seo
 author: Emirodgar
 date: 09/11/2023
-date_modified: 03/09/2024
+date_modified: 04/09/2024
 permalink: mejores-newsletter-seo
 
 ---
@@ -40,6 +40,8 @@ Os dejo un listado de las que considero **las mejores newsletter SEO en español
 | **La newsletter SEO** | Jakub Motyka | Semanal | [suscripción](https://newsletterseo.com/) |
 | **La newsletter de Unancor** | David Carrasco | Semanal | [suscripción](https://www.unancor.com/newsletter-seo/) |
 | **300Segundos** | Álex Serrano | Semanal | [suscripción](https://alexserrano.es/300segundos/) |
+| **Newsletter SEO / IA** | Jose Manuel Sánchez | Semanal | [suscripción](https://newsletter.jmswebs.com/) |
+
 
 -----
 
@@ -66,20 +68,20 @@ Aquí tienes algunos consejos para elegir la mejor newsletter SEO:
 
 ## ¿Quién posiciona en el TOP10 para "newsletter SEO"?
 
-Me ha parecido curioso que mi newsletter ([ChuletaSEO](https://newsletter.chuletaseo.com)) aparezca en primera posición en el análisis de Semrush.
+Me ha parecido curioso que mi newsletter ([ChuletaSEO](https://newsletter.chuletaseo.com)) aparezca a día de hoy en primera posición para la búsqueda de `newsletter SEO` en España. La imagen es de Semrush.
 
 ![image](https://github.com/user-attachments/assets/5524670d-ac17-4780-98f1-cba1edd138b2){:class="img-responsive"}
 
-Si os soy sincero es un término que monitorizaba al principio, pero al haber tanta volatibilidad, lo dejé de hacer. Os dejo la gráfica de posición media de Google Search Console como prueba. Como se puede ver, ahora mismo sí estoy en primera posición para `newsletter SEO` pero es un posicionamiento que cambia de manera constante. Veremos si a corto plazo soy capaz de estabilizarlo, no obstante tenemos que tener en cuenta que compito contra grandes del sector y con marcas mucho más desarrolladas que la mía, por lo que no será tarea fácil.
+Comencé este proyecto a principios de 2022 aunque hasta mediados de 2023 no encontré el enfoque que realmente quería y que ha definido ChuletaSEO. Desde entonces comencé a trabajar en la marca y en el posicionamiento para `newsletter SEO` y `newsletters SEO` en español. 
 
-![image](https://github.com/user-attachments/assets/e0c923c4-ad0d-421a-bb78-fcfa036106f4){:class="img-responsive"}
+![image](https://github.com/user-attachments/assets/7a9a15de-1421-49dc-9178-7c9cf90ef8b3){:class="img-responsive"}
 
 
 ## ¿Cómo están posicionadas las newsletter SEO en español?
 
 El valor de una newsletter viene dado **por el número de suscriptores** y no por su posicionamiento, aún así me ha parecido interesante hacer una simple comparativa utilizando Semrush para conocer de qué manera están expuestas (no todas las newsletters tienen en abierto sus publicaciones) y cómo están posicionando.
 
-En este análisis rápido sólo he tenido en consideración los dominios completos asociados a las newsletters, no las subcarpetas. Además he querido incluir la newsletter en inglés de Aleyda Solís, SEOfomo, por ser un referente en el sector y para ayudarme a entender en qué punto estamos los demás.
+En este análisis rápido sólo he tenido en consideración los dominios completos asociados a las newsletters, no las subcarpetas. Además, he querido incluir la newsletter en inglés de Aleyda Solís, SEOfomo, por ser un referente en el sector y para ayudarme a entender en qué punto estamos los demás.
 Lo que vemos es que USEO es el líder indiscutible. No sólo lleva más tiempo publicando, sino que su presencia orgánica está muy por delante de los demás. Una magnífica estrategia sostenida en el tiempo por parte de Juan.
 
 > Debemos tener en cuenta que SEOfomo sólo permite el rastreo e indexación del foro, por lo que su visibilidad para este análisis está más reducida.
