@@ -72,7 +72,8 @@ Me ha parecido curioso que mi newsletter ([ChuletaSEO](https://newsletter.chulet
 
 ![image](https://github.com/user-attachments/assets/5524670d-ac17-4780-98f1-cba1edd138b2){:class="img-responsive"}
 
-Comencé este proyecto a principios de 2022 aunque hasta mediados de 2023 no encontré el enfoque que realmente quería y que ha definido ChuletaSEO. Desde entonces comencé a trabajar en la marca y en el posicionamiento para `newsletter SEO` y `newsletters SEO` en español. 
+Comencé este proyecto a principios de 2022 aunque hasta mediados de 2023 no encontré el enfoque que realmente quería y que ha definido ChuletaSEO. Desde entonces comencé a trabajar en la marca y en el posicionamiento para `newsletter SEO` y `newsletters SEO en español`.
+Os dejo la imagen de Google Search Console con la evolución de la posición media para la búsqueda `newsletter SEO` en España de los últimos 16 meses. Ha sido un camino duro, pero con paciencia, generando buenos contenidos y el apoyo de la comunidad de inscritos, se ha alcanzado uno de los objetivos que me había planteado.
 
 ![image](https://github.com/user-attachments/assets/7a9a15de-1421-49dc-9178-7c9cf90ef8b3){:class="img-responsive"}
 
