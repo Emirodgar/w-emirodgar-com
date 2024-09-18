@@ -13,9 +13,9 @@ permalink: wayback-machine-seo
 
 --- 
 
-A raíz de la inclusión de enlaces desde las páginas de resultados de Google hacia el portal de [WayBack Machine](https://web.archive.org/), donde podemos conocer cómo ha evolucionado un dominio, se ha puesto de moda esta plataforma que lleva ya muchos años con nosotros. A nivel SEO es una herramienta de gran utilidad, dado que nos permite conocer cómo ha evolucionado un dominio (a nivel de diseño, técnico y de elementos) en el tiempo.
+A raíz de la inclusión de enlaces desde las páginas de resultados de Google hacia el portal de [WayBack Machine](https://web.archive.org/), donde podemos conocer cómo ha evolucionado un dominio, se ha puesto de moda esta plataforma que lleva ya muchos años con nosotros. A nivel SEO es una herramienta de gran utilidad, dado que nos permite conocer cómo ha evolucionado un dominio (a nivel de diseño, técnico y de otros aspectos como subcarpetsa o ficheros) en el tiempo.
 
-Por ejemplo, para `emirodgar.com` vemos que ha registrado 54 momentos entre el año 2011 y el 2024. Es decir, podemos conocer cómo era la primera página que se creó en 2011 y compararla con la actual.
+Por ejemplo, para mi dominio `emirodgar.com` vemos que ha registrado 54 "momentos" entre el año 2011 y el 2024. Gracias a ello, podemos conocer cómo era la primera página que se creó en 2011 y compararla con la actual.
 
 ![image](https://github.com/user-attachments/assets/8baf384d-41b1-4efb-81b8-6eb03f7c1b88){:class="img-responsive"}
 
