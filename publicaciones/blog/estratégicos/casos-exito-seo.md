@@ -1,5 +1,5 @@
 ---
-title: Casos de éxito SEO (Posicionamiento web) - 2023
+title: Casos de éxito SEO (Posicionamiento web) - 2024
 description: Os cuento las estrategias SEO de las que estoy más orgulloso. Los mejores resultados en más de diez años de trabajo.
 lang: es_ES
 sitemap: 1
