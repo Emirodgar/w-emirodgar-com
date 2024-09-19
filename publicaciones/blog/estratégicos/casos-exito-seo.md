@@ -22,7 +22,7 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
  - [2019 - Ecommerce con pérdida de tráfico](#ecommerce-local)
  - [2022 - Lanzamiento de periódico digital basado en Angular](#periodico-angular)
  - [2023 - Recuperación penalización algoritmo core de Google](#recuperacion-core)
- - [2024 - Recuperación penalización algoritmo core de Google](#recuperacion-periodico-core)
+ - [2024 - Recuperación penalización algoritmo helpful content (HCU) de Google](#recuperacion-periodico-hcu)
 
 ## <a name="periodico"></a> 2015 - Periódico digital (España) / Recuperar tráfico perdido
 
@@ -228,7 +228,7 @@ Lo más destacable, además de esa recuperación que llevó meses, es que la pos
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/a7c2a949-c731-4c52-b697-7889c08c2b66){:class="img-responsive"}
 
-## <a name="recuperacion-periodico-core"></a> 2024 - Medio didigtal / Recuperación penalización actualización core de Google
+## <a name="recuperacion-periodico-hcu"></a> 2024 - Medio didigtal / Recuperación penalización actualización core de Google
 
 Se trata de un periódico digital en un nicho muy concreto: el mundo del motor. Cuando llega a nosotros a principios de enero de 2024, al igual que muchos otros periódicos digitales, llevan sufriendo una caída de tráfico constante durante los últimos meses.
 Un rápido análisis con el [dashboard de análisis de impacto de algoritmos](https://lookerstudio.google.com/u/0/reporting/54c1f350-7fcc-4a13-9d2f-e0799abc3a45/page/p_1lbftg058c) desvela que ha sido impactado por la actualización de contenido útil (`HCU`) del 14 de septiembre del 2023.
