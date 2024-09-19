@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/05/2024
-date_modified: 29/05/2024
+date_modified: 19/09/2024
 folder: seo
 layout: emirodgar_post
 permalink: ayvens-ald-seo
@@ -94,5 +94,15 @@ Para mí, como reto de este proyecto de migración, sería no perder la tendenci
 Se aprecia el crecimiento de Ayvens (línea roja) pero sin que de momento haya afectación a los otros dominios, en especial ALD Automotive (línea azul).
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/af6346c1-b33a-4486-bbbf-595429c197c7){:class="img-responsive"}
+
+### Actualización 19/09/2024
+
+Después de haber dejado algunos meses para que la migración siguiera su curso, lo que vemos es que se ha perdido bastante visibilidad del dominio `aldautomotive.es` que no ha sido trasladada a `ayvens.com`.
+No podemos hablar a la ligera de un fracaso en la migración web, dado que no sabemos cuál era el objetivo ni siquiera si se ha mantenido la estructura de la web en el nuevo dominio.
+
+Lo que sí es una lástima es haber cedido ese posicionamiento. Esperemos que sigan creciendo y, con el tiempo, lleguen a los niveles de visibilidad orgánica que tuvieron.
+
+![image](https://github.com/user-attachments/assets/cce35caf-abd9-41f4-8d09-66e25e4ae99c){:class="img-responsive"}
+
 
 
