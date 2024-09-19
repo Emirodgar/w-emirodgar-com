@@ -273,9 +273,14 @@ La desesperación sufrida durante tantos meses llegó a su fin. Ahora a diseñar
 
 ![image](https://github.com/user-attachments/assets/d63badeb-edea-4e60-94a3-0c18cb6cad4a){:class="img-responsive"}
 
-En Sistrix también se refleja el crecimiento. La línea vertical señala la fecha en la que comenzamos a trabajar el proyecto; se aprecia que venía ya en caída libre. 
+En Sistrix también se refleja el crecimiento. La línea vertical señala la fecha en la que comenzamos a trabajar el proyecto; se aprecia que venía ya en caída libre y aunque aún estamos lejos de los niveles que tuvo en el pasado, será una nuestra [estrategia SEO](https://emirodgar.com/estrategia-seo) la que nos ayude a avanzar en esa línea.
 
 ![image](https://github.com/user-attachments/assets/5cd0dc54-17bc-44d7-9a99-a8c7b07e5590){:class="img-responsive"}
+
+De momento ya hemos logrado igualar las impresiones que tenían en noviembre del 2023, dos meses antes de comenzar a trabajar este proyecto. Seguiremos empujando.
+
+![image](https://github.com/user-attachments/assets/4a48756e-7ef8-4314-a968-03e54c5bb246){:class="img-responsive"}
+
 
 
 
