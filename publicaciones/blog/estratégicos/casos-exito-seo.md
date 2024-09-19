@@ -5,7 +5,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 26/10/2021
-date_modified: 7/11/2023
+date_modified: 19/09/2024
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -22,7 +22,7 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
  - [2019 - Ecommerce con pérdida de tráfico](#ecommerce-local)
  - [2022 - Lanzamiento de periódico digital basado en Angular](#periodico-angular)
  - [2023 - Recuperación penalización algoritmo core de Google](#recuperacion-core)
- - [2024 - Recuperación penalización algoritmo core de Google](#recuperacion-core2)
+ - [2024 - Recuperación penalización algoritmo core de Google](#recuperacion-periodico-core)
 
 ## <a name="periodico"></a> 2015 - Periódico digital (España) / Recuperar tráfico perdido
 
@@ -228,22 +228,28 @@ Lo más destacable, además de esa recuperación que llevó meses, es que la pos
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/a7c2a949-c731-4c52-b697-7889c08c2b66){:class="img-responsive"}
 
-## <a name="recuperacion-core2"></a> 2024 - Medio didigtal / Recuperación penalización actualización core de Google
+## <a name="recuperacion-periodico-core"></a> 2024 - Medio didigtal / Recuperación penalización actualización core de Google
 
 Se trata de un periódico digital en un nicho muy concreto: el mundo del motor. Cuando llega a nosotros a principios de enero de 2024, al igual que muchos otros periódicos digitales, llevan sufriendo una caída de tráfico constante durante los últimos meses.
 Un rápido análisis con el [dashboard de análisis de impacto de algoritmos](https://lookerstudio.google.com/u/0/reporting/54c1f350-7fcc-4a13-9d2f-e0799abc3a45/page/p_1lbftg058c) desvela que ha sido impactado por la actualización de contenido útil (`HCU`) del 14 de septiembre del 2023.
 
 Podemos ver en la siguiente imagen que nada más desplegarse este algoritmo, el tráfico orgánico cae bruscamente.
 
-![image](https://github.com/user-attachments/assets/df3e23c1-7d3a-4108-91fe-f2aa7c43cd56){:class="img-responsive"}
+![image](https://github.com/user-attachments/assets/6ccb311e-1349-45f5-a4eb-b3ac0e24e8d7){:class="img-responsive"}
+
+En impresiones también vemos la misma caída en el mismo momento. Se trata de un impacto claro por el nuevo algoritmo.
+
+![image](https://github.com/user-attachments/assets/54380370-91a4-4ea2-81c3-f42738abcb5f){:class="img-responsive"}
 
 Curiosamente, mantiene cierto tráfico en Google Discover, aunque llegado el mes de mayo, desaparece completamente de este servicio de Google.
 
-![image](https://github.com/user-attachments/assets/3019d85a-c969-4040-88c2-f7ebe36adfe0){:class="img-responsive"}
+![image](https://github.com/user-attachments/assets/ac79159c-5c81-48a0-b304-c426b835f755){:class="img-responsive"}
 
-Y ocurre algo similar con Google News. Aunque no desaparece del todo, el tráfico generado pasa a ser residual
+Y ocurre algo similar con Google News. Aunque no desaparece del todo, el tráfico generado pasa a ser residual.
 
-![image](https://github.com/user-attachments/assets/1130ac6c-d5f0-45fd-a35f-e0ca3a5da8a8){:class="img-responsive"}
+![image](https://github.com/user-attachments/assets/df071ec4-8523-4374-b3fa-210f16b0a5fd){:class="img-responsive"}
+
+## Estrategia para salir de una penalización por la HCU
 
 Lo primero que hacemos es analizar por qué Google considera que el contenido de este medio, que es único, propio y de calidad, es considerado poco útil para los usuarios. Sabiendo que el problema no está en el contenido en sí, pasamos a la siguiente fase: mejorar el rastreo e indexación de los contenidos más relevantes y mejorar la experiencia de los usuarios en el sitio. 
 
@@ -258,7 +264,6 @@ Durante meses se trabaja en aspectos técnicos para hacer que la página sea má
 La alegría llegó con la actualización principal (`core`) del 15 de agosto. Después de 7 meses de duro trabajo, mano a mano con una gran equipo técnico que siempre hizo una gran labor con las implementaciones y que mantuvo la confianza en nuestro trabajo, volvimos a experimentar un crecimiento en todos los canales. 
 
 > Mantener la calma y la confianza es algo que, para ser sinceros, no pasa siempre. Por eso tiendo a decir que cuando hay confianza entre proveedor y cliente, es más fácil llegar a los objetivos propuestos.
->
 
 En la siguiente imagen de Google Search Console podemos comprobar el crecimiento tanto en las búsquedas de Google como en Discover, donde hemos vuelto a aparecer con una frecuencia normalizada.
 
