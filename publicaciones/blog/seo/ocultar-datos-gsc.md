@@ -61,7 +61,7 @@ const totals = document.querySelectorAll('.nnLLaf');
 totals.forEach(total => {
   total.style.cssText = `
     filter: blur(5px);
-    user-select: none; /* Opcional: Deshabilitar selección */
+    user-select: none; 
   `;
 });
 
@@ -81,18 +81,18 @@ const totals = document.querySelectorAll('.V67aGc');
 totals.forEach(total => {
   total.style.cssText = `
     filter: blur(5px);
-    user-select: none; /* Opcional: Deshabilitar selección */
+    user-select: none; 
   `;
 });
 
 ```
 
-Al usar ambos, toda la información cualitativa del gráfico se ocultará
+Al usar ambos, toda la información cualitativa del gráfico se ocultará.
 
 ![image](https://github.com/user-attachments/assets/ceebefde-d3c6-46a7-bf51-b50235c582f2){:class="img-responsive"}
 
 
-### 3. Preparar capturas de pantalla editadas
+### 4. Preparar capturas de pantalla editadas
 
 Si sabes de antemano qué información vas a compartir:
 
