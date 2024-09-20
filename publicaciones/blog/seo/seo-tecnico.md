@@ -1,5 +1,5 @@
 ---
-title: SEO Técnico: Los puntos más relevantes
+title: SEO Técnico - Checklist
 description: Descubre los elementos clave del SEO técnico y cómo pueden impulsar tu posicionamiento web. Una guía completa para optimizar tu sitio desde sus cimientos.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
