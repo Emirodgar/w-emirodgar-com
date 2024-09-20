@@ -47,15 +47,7 @@ Existen aplicaciones que te permiten dibujar o colocar formas sobre tu pantalla 
 
 Estas herramientas te permiten cubrir datos sensibles con rectángulos o desenfoque mientras compartes tu pantalla.
 
-### 3. Preparar capturas de pantalla editadas
-
-Si sabes de antemano qué información vas a compartir:
-
-1. Toma capturas de pantalla de los informes relevantes
-2. Edita estas imágenes para ocultar datos sensibles
-3. Comparte las imágenes editadas en lugar de tu pantalla en vivo
-
-4. Utiliza código Javascript
+### 3. Utiliza código Javascript
 
 La mayoría de los navegadores nos permiten ejecutar código directamente en la consola. 
 
@@ -76,9 +68,37 @@ totals.forEach(total => {
 ```
 
 A continuación veremos cómo los datos del informe de rendimiento de Search Console se vuelven borrosos, ocultando su información.
+Este código sirve para cualquier informe de GSC.
 
 ![image](https://github.com/user-attachments/assets/02c938c8-777e-4f8f-a521-41e3b7a592f7){:class="img-responsive"}
 
+Si queremos también ocultar los ejes de los gráficos para no dar información, podemos usar este código:
+
+```javascript
+
+const totals = document.querySelectorAll('.V67aGc');
+
+totals.forEach(total => {
+  total.style.cssText = `
+    filter: blur(5px);
+    user-select: none; /* Opcional: Deshabilitar selección */
+  `;
+});
+
+```
+
+Al usar ambos, toda la información cualitativa del gráfico se ocultará
+
+![image](https://github.com/user-attachments/assets/ceebefde-d3c6-46a7-bf51-b50235c582f2){:class="img-responsive"}
+
+
+### 3. Preparar capturas de pantalla editadas
+
+Si sabes de antemano qué información vas a compartir:
+
+1. Toma capturas de pantalla de los informes relevantes
+2. Edita estas imágenes para ocultar datos sensibles
+3. Comparte las imágenes editadas en lugar de tu pantalla en vivo
 
 Mejores prácticas al compartir informes de Search Console
 
