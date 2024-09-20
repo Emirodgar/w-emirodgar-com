@@ -13,9 +13,7 @@ permalink: seo-tecnico
 
 ---
 
-# SEO Técnico
-
-El **SEO técnico** es el pilar fundamental sobre el que se construye una estrategia de posicionamiento web exitosa. Como [consultor SEO](https://emirodgar.com/consultor-seo), he visto cómo una correcta implementación de estos elementos puede marcar la diferencia entre el éxito y el fracaso de un sitio web. En este artículo, hablaremos de los aspectos clave del SEO técnico que todo profesional del marketing digital debe conocer.
+El **SEO técnico** es el pilar fundamental sobre el que se construye una estrategia de posicionamiento web. Como [consultor SEO](https://emirodgar.com/consultor-seo), he visto cómo una correcta implementación de estos elementos puede marcar la diferencia entre el éxito y el fracaso de un sitio web. En este artículo, hablaremos de los aspectos clave del SEO técnico que todo profesional del marketing digital debe conocer.
 
 ## Elementos esenciales del SEO Técnico
 
