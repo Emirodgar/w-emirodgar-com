@@ -33,10 +33,10 @@ Compartir esta información indiscriminadamente podría poner en riesgo tu estra
 
 Si estás utilizando Windows 10 o superior, puedes aprovechar el "Modo de enfoque" para ocultar partes específicas de tu pantalla:
 
-1 - Presiona Win + Tab para abrir la vista de tareas
-2 - Selecciona "Nueva área de trabajo"
-3 - Abre Google Search Console en esta nueva área
-4 - Usa Win + Ctrl + D para alternar entre áreas de trabajo rápidamente
+1. Presiona Win + Tab para abrir la vista de tareas
+2. Selecciona "Nueva área de trabajo"
+3. Abre Google Search Console en esta nueva área
+4. Usa Win + Ctrl + D para alternar entre áreas de trabajo rápidamente
 
 ### 2. Herramientas de edición en tiempo real
 
@@ -51,9 +51,9 @@ Estas herramientas te permiten cubrir datos sensibles con rectángulos o desenfo
 
 Si sabes de antemano qué información vas a compartir:
 
-1- Toma capturas de pantalla de los informes relevantes
-2- Edita estas imágenes para ocultar datos sensibles
-3- Comparte las imágenes editadas en lugar de tu pantalla en vivo
+1. Toma capturas de pantalla de los informes relevantes
+2. Edita estas imágenes para ocultar datos sensibles
+3. Comparte las imágenes editadas en lugar de tu pantalla en vivo
 
 4. Utiliza código Javascript
 
@@ -77,7 +77,7 @@ totals.forEach(total => {
 
 A continuación veremos cómo los datos del informe de rendimiento de Search Console se vuelven borrosos, ocultando su información.
 
-![image](https://github.com/user-attachments/assets/02c938c8-777e-4f8f-a521-41e3b7a592f7)
+![image](https://github.com/user-attachments/assets/02c938c8-777e-4f8f-a521-41e3b7a592f7){:class="img-responsive"}
 
 
 Mejores prácticas al compartir informes de Search Console
