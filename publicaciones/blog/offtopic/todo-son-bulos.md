@@ -13,6 +13,7 @@ permalink: todo-son-bulos
 
 ---
 
+![image](https://github.com/user-attachments/assets/3a51432e-1d65-4061-853c-b968d5b064b5){:class="img-responsive"}
 
 
 El café es un regalo que me hago cada día. Me levanto, voy al baño, entro en la cocina y me digo: "toma, disfruta de esta taza de café negro recién hecho. Es para que tu día comience de la mejor manera, así que no lo estropees". En un par de ocasiones se me ha caído la taza antes de llegar incluso a salir de la cocina, pero son excepciones.
@@ -22,9 +23,6 @@ Para los más puristas del lenguaje, discúlpenme por recalcar que el café es n
 Y es que cada día necesito más café, algo que no me sorprende dado el panorama actual. No sé si será por la vorágine de noticias lamentables que inundan los informativos, por las peleas entre políticos que buscan antes el rédito que ser útiles, el fango en el que se han metido de lleno los medios de comunicación o la ya tan manida respuesta de "esto es un bulo".
 
 Lo he tratado de resumir en unas pocas líneas, pero el panorama es desolador. Cada día hay un gran momento que nos hace olvidar el anterior. Y si no existe, se crea. Lo importante es que nosotros, los burros, sigamos la zanahoria sin preguntarnos dónde está atada ni cuándo llegaremos a ella.
-
-![image](https://github.com/user-attachments/assets/fcd4c013-c90a-4adb-9135-fe44f74c5468)
-
 
 Ya no contamos con los extintos mentideros públicos o sus sustitutos actuales, los bares. Esos maravillosos espacios que cierran a decenas cada día en este país. Lugares que cada vez cuentan con menos feligreses para intercambiar opiniones, actualizar información y estar a la última de una manera relativamente sana. Ahora, en los pocos que quedan, cada cual está absorto en su pantalla. A veces una lágrima resbala por mi mejilla cuando alguien me pregunta si he terminado con el periódico.
 
