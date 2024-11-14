@@ -1,3 +1,4 @@
+---
 title: Todo son bulos
 description: Si no puedes demostrar que es mentira, di que es un bulo
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -9,6 +10,8 @@ feed: 1
 date: 20-09-2024
 folder: offtopic
 permalink: todo-son-bulos
+
+---
 
 
 
