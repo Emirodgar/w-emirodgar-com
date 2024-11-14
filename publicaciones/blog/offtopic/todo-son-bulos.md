@@ -12,13 +12,11 @@ folder: offtopic
 permalink: todo-son-bulos
 
 ---
-
-![image](https://github.com/user-attachments/assets/3a51432e-1d65-4061-853c-b968d5b064b5){:class="img-responsive"}
-
-
 El café es un regalo que me hago cada día. Me levanto, voy al baño, entro en la cocina y me digo: "toma, disfruta de esta taza de café negro recién hecho. Es para que tu día comience de la mejor manera, así que no lo estropees". En un par de ocasiones se me ha caído la taza antes de llegar incluso a salir de la cocina, pero son excepciones.
 
 Para los más puristas del lenguaje, discúlpenme por recalcar que el café es negro, quería dejar claro que no es con leche ni ningún otro sucedáneo con más azúcar que cafeína.
+
+![image](https://github.com/user-attachments/assets/3a51432e-1d65-4061-853c-b968d5b064b5){:class="img-responsive"}
 
 Y es que cada día necesito más café, algo que no me sorprende dado el panorama actual. No sé si será por la vorágine de noticias lamentables que inundan los informativos, por las peleas entre políticos que buscan antes el rédito que ser útiles, el fango en el que se han metido de lleno los medios de comunicación o la ya tan manida respuesta de "esto es un bulo".
 
