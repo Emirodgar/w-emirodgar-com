@@ -23,6 +23,7 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
  - [2022 - Lanzamiento de periódico digital basado en Angular](#periodico-angular)
  - [2023 - Recuperación penalización algoritmo Core de Google](#recuperacion-core)
  - [2024 - Recuperación penalización algoritmo Helpful Content (HCU) de Google](#recuperacion-periodico-hcu)
+ - [2024 - Recuperación medio digital malas prácticas SEO técnico](#recuperacion-medio-digital)
 
 ## <a name="periodico"></a> 2015 - Periódico digital (España) / Recuperar tráfico perdido
 
@@ -280,6 +281,119 @@ En Sistrix también se refleja el crecimiento. La línea vertical señala la fec
 De momento ya hemos logrado igualar las impresiones que tenían en noviembre del 2023, dos meses antes de comenzar a trabajar este proyecto. Seguiremos empujando.
 
 ![image](https://github.com/user-attachments/assets/4a48756e-7ef8-4314-a968-03e54c5bb246){:class="img-responsive"}
+
+
+
+
+## <a name="recuperacion-medio-digital"></a> 2024 - Recuperación medio digital malas prácticas SEO técnico
+
+Comienzo este proyecto en diciembre del 2023. Llega a mí un medio digital que lleva meses perdiendo tráfico orgánico.
+Desde septiembre, su visibilidad orgánica ha ido descendiendo, pasando de los 40 - 50 millones de impresiones mensuales a poco más de 20 millones. Un descenso claro y fuerte.
+
+![image](https://github.com/user-attachments/assets/7476443d-8314-4f92-b950-39599d3bea92){:class="img-responsive"}
+
+Curiosamente, el número de palabras clave por las que posicionan y generan impresiones y clics, es superior al de meses anteriores. No obstante, la visibilidad y tráfico están casi a la mitad.
+
+![image](https://github.com/user-attachments/assets/ca77dd8c-eb41-41f8-a37e-541a006aacde){:class="img-responsive"}
+
+En uno de los primeros análisis, identificamos que términos potenciales que siempre había estado entre los cinco primeros resultados, comienzan a perder posicionamiento a partir de julio y septiembre.
+En la siguiente gráfica vemos reflejada la posición media para los 10 términos con mayor captación. Se aprecia claramente cómo a partir de julio, algunos de ellos se desnormalizan y salen incluso del TOP10.
+
+![image](https://github.com/user-attachments/assets/b39088b6-9beb-4029-9e9c-8c760949ea5f){:class="img-responsive"}
+
+Durante las primeras semanas de trabajo, constatamos cómo seguimos perdiendo posicionamientode manera genérica y incluso perdiendo términos de valor que salen del TOP100.
+
+![image](https://github.com/user-attachments/assets/08e1c6c8-4e69-4ee2-a6b0-c31c5aefa6fc)
+
+Ante esta situación, y habiendo determinado que existen problemas, tanto técnicos como de reputación a ojos de Google, decidimos poner en marcha una batería de acciones que nos ayuden a alcanzar los siguientes objetivos:
+
+1- Mejorar el rastreo e indexación del sitio
+2- Mejorar el EEAT de la página
+3- Ofrecer una gran experiencia a los usuarios
+
+Lo primero que constatamos es que la frecuencia en el rastreo era errática. Aunque lo enviado en los sitemaps XML, especialmente el de noticias, se indexaba al 100%, el acceso de Googlebot al periódico no era adecuado. Había demasidos errores y redirecciones que afectan a su paso por el sitio.
+Al parecer, en el pasado se habían realizado algunos cambios técnicos en subdominios y subcarpetas, además de migraciones de la parte de AMP. La situación no era la idónea, por lo que una de nuestras primeras acciones fue enfocarnos en disponer de una versión mobile (sin AMP) perfecta, y eliminar este formato para quedarnos con un conjunto de URLs a trabajar mucho más reducido. Pensad en un periódico digital que ha podido generar millones de noticias. Permitir que Googlebot rastree publicaciones de hace años o tenga que actualizar estados de páginas que ya no existen, entra en conflicto con el proceso de rastreo e indexación de noticias de valor.
+
+Las acciones propuestas, por orden de prioridad, fueron las siguientes:
+
+- Optimizar versión mobile
+- Eliminar peticiones de redirección (enlaces internos con redirecciones `301/302` y errores `4XX`)
+- Eliminar versión AMP. Primero de la sección salud y luego, escalar al resto
+- Trabajar el concepto EEAT
+- Optimizar las categorías de YMYL
+- Optimizar contenido evergreen y el resto, a la hemeroteca
+
+A continuación os doy visibilidad de algunos de los puntos 
+
+### Problemas con la versión mobile
+
+Algunos de los cambios técnicos realizados en el pasado no funcionaron bien. No se habían resuelto y seguíamos sufriendo ese lastre.
+La versión AMP no rendía como debería y consumía muchos recursos de rastreo. Demasiados.
+
+![image](https://github.com/user-attachments/assets/71a71dfd-8250-4d03-ada4-ddb882de0181){:class="img-responsive"}
+
+Nuestro primer objetivo fue diseñar un template adecuado para móvil y que pudiera ofrecer el acceso a la información de manera rápida y accesible.
+Fijaros en la siguiente gráfica. La caída corresponde a la desaparición de las versiones AMP del sitio y la consolidación de una URL óptima, y sin errores, alineada con las core web vitals.
+
+![image](https://github.com/user-attachments/assets/44f8d39e-f75f-4fbd-b63e-5e6a7032596f){:class="img-responsive"}
+
+Uno de los puntos que trabajamos durante varios meses, fue la optimización del servidor para lograr un equilibrio entre el apartado visual, la publicidad y una buena experiencia de usuario.
+Nos costó bastante tiempo, pero al final logramos un tiempo medio de descarga idóneo para un medio digital.
+
+![image](https://github.com/user-attachments/assets/b9bd99d7-d52d-4ab5-8b15-2ab083944409)
+
+
+
+
+### Eliminación de versión AMP
+
+Con esta medida onseguimos detener la tendencia bajista y comenzamos a crecer. 
+
+![image](https://github.com/user-attachments/assets/d5da0d60-81ff-4444-a57a-2325999d9941){:class="img-responsive"}
+
+Al poco tiempo, ya podemos ver un cambio de tendencia en las impresiones y visibilidad SEO de la sección de salud.
+Con ello, tomamos la decisión de exportar la eliminación de la versión AMP al resto de categorías del sitio.
+
+![image](https://github.com/user-attachments/assets/e347a5c4-cd0d-4f20-8a16-617e992ea74c){:class="img-responsive"}
+
+
+## Trabajar el concepto de EEAT
+
+Desde un principio fuimos conscientes de que aunque había un problema técnico transversal a todo el sitio, teníamos limitaciones para ciertas categorías, especialmente las `YMYL` (*Your Money or Your Life*)
+Con esto en mente, diseñamos un plan de trabajo para reforzar las BIOs de los periodistas y de los especialistas en las temáticas de salud y finanzas.
+
+Gracias a ello logramos que algunas temáticas volvieran a aparecer en servicios como Google News o Discover.
+
+![image](https://github.com/user-attachments/assets/62d7e7c1-5181-4f63-9604-d45767c4f3b2){:class="img-responsive"}
+
+En la siguiente imagen de Sistrix, podemos ver cómo hemos logrado controlar el descenso de algunas categorías y de qué manera, otras han comenzado a generar visibilidad, cuando llevaban meses sin apenas posicionar.
+
+![image](https://github.com/user-attachments/assets/09f5fba6-efe6-4d41-ade8-242a369ca9e1){:class="img-responsive"}
+
+
+## Optimización de contenido
+
+Otra de nuestras conclusiones fue que había demasiado *thin content*, es decir, contenidos de poco valor y que, eventualmente Google posicionaba con otra URL.
+No teníamos claramente definida nuestro ecosistema de contenidos. No había una estructura bien consolidada.
+
+En la siguiente imagen podemos ver que para un mismo término hemos posicionado hasta por 10 noticias.
+Y, curiosamente, a partir de julio, la tendencia se desnormaliza y posicionamos cada vez mucho más atrás.
+
+![image](https://github.com/user-attachments/assets/ccf0651f-19d2-43aa-a727-721d088a5dc2){:class="img-responsive"}
+
+Diseñar y desarrollar un correcto sistema de portadas, categorías, tags y enlazado interno nos ayudó a unificar el posicionamiento para términos clave en páginas de valor.
+Además, trabajamos una optimización de contenido evergreen para priorizar las páginas que el robot de búsqueda debería rastrear.
+
+
+## Recuperación con la actualización core
+
+Aunque habíamos detenido la caída y conseguimos una cierta estabilidad, no crecíamos.
+El éxito de este proyecto llegó con la actualización core del 11 de septiembre de 2024, donde pudimos comprobar que todo lo que habíamos hecho durante los 11 meses previos había sido bien valorado por Google y, nuestro tráfico, tanto el de búsqueda como el de servicios de Discover y News, se dispararon hasta 5 veces más que el que teníamos hasta entonces.
+
+![image](https://github.com/user-attachments/assets/7c5ac6d8-bd56-4592-94aa-743b90a9ed29){:class="img-responsive"}
+
+
+
 
 
 
