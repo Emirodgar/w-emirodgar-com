@@ -49,11 +49,12 @@ Esto nos ayuda a tener un mayor control sobre nuestra identidad digital.
 **Paso 1: Registro**
 Puedes acceder a Bluesky a través de su aplicación móvil (iOS y Android) o desde la dirección web: `bsky.app`.
 
-![image](https://github.com/user-attachments/assets/32bffe23-f8d5-47d0-85aa-304d145a6e9b){:class="img-responsive"}
-
 
 **Paso 2: Configura tu perfil**
 Para maximizar tu presencia ene sta nueva red social, sube una foto de perfil profesional, escribe una bio relevante para tu sector y enlaza tu web o portfolio.
+
+![image](https://github.com/user-attachments/assets/38c8a269-8b47-4132-ba28-723d8d25cd3a){:class="img-responsive"}
+
 
 **Paso 3: Conecta con la comunidad SEO**
 
@@ -64,7 +65,7 @@ Dentro del sector del posicionamiento web, tenemos algunos profresionales que ll
 - [Aleyda Solis](https://bsky.app/profile/aleyda.bsky.social)
 - [Lily Ray](https://bsky.app/profile/lilyray.nyc)
 
-Para que seamos conscientes del alcance y visibilidad de esta nueva red, algunos de los perfiles antes mencionados tienen en X más de 100k seguidores, pero en Blusky apenas unos 2k. Sin duda, una gran oportunidad para afainzar nuestra relación con ellos.
+Para que seamos conscientes del alcance y visibilidad de esta nueva red, algunos de los perfiles antes mencionados tienen en X más de 100k seguidores, pero en Blusky apenas unos 2k. Sin duda, una gran oportunidad para afianzar nuestra relación con ellos.
 ![image](https://github.com/user-attachments/assets/6459e782-c9e0-4063-9ed9-b8ca2504c754){:class="img-responsive"}
 
 
