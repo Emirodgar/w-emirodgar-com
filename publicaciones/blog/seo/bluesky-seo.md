@@ -1,7 +1,6 @@
-
 ---
 title: Bluesky para expertos en SEO
-description: Descubre cómo los profesionales del [estrategia seo] pueden aprovechar Bluesky como nueva plataforma social
+description: Descubre cómo los profesionales del SEO pueden aprovechar Bluesky como nueva plataforma social
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
 author: Emirodgar
