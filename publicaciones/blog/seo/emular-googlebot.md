@@ -1,5 +1,5 @@
 ---
-title: Cómo auditar tu sitio web amulando a Googlebot
+title: Cómo auditar tu sitio web emulando a Googlebot
 description: Descubre cómo emular Googlebot para identificar problemas de renderización y optimizar el SEO técnico de tu sitio web.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
