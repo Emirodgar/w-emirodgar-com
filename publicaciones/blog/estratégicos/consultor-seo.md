@@ -1,6 +1,6 @@
 ---
-title: Consultor SEO - – Posicionamiento Web Profesional
-description: Experto SEO con más de 10 años de experiencia en múltiples agencias, países y proyectos. Hablemos, es gratis.
+title: Consultor SEO - Posicionamiento Web Profesional
+description: Aumenta la visibilidad de tu negocio con un consultor SEO especializado. Estrategias efectivas para mejorar tu posicionamiento en Google. Solicita una auditoría gratuitas.
 lang: es_ES
 author: emirodgar
 sitemap: 1
@@ -18,20 +18,22 @@ permalink: consultor-seo
 ¿Quieres **vender más** a través de tu web? ¿quieres ser el **líder digital** de tu sector?  
 Sea cual sea tu necesidad encontraremos una **solución SEO** que nos permita incrementar la captación de tráfico y ventas.
 
-##Consultor SEO: Impulsa tu negocio en Google
+## Consultor SEO: Impulsa tu negocio en Google
+
 Si tu web no aparece en los primeros resultados de Google, estás perdiendo oportunidades. Como consultor SEO, mi trabajo es mejorar la visibilidad de tu negocio en los buscadores para que más clientes potenciales te encuentren. A través de estrategias probadas y personalizadas, optimizo tu sitio web para que posicione mejor en Google y aumente su tráfico orgánico.
 
-Mi nombre es Emilio Rodríguez y llevo trabajando en SEO desde el año 2007. He sido director en dos agencias internacionales y trabajado en más de un centenar de proyectos digitales para grandes empresas en múltiples mercados.
+Mi nombre es [Emilio Rodríguez](https://emirodgar.com/emilio-rodriguez) y llevo trabajando en SEO desde el año 2007. He sido director en dos agencias internacionales y trabajado en más de un centenar de proyectos digitales para grandes empresas en múltiples mercados.
 
-##¿Qué hace un consultor SEO?
+## ¿Qué hace un consultor SEO?
+
 Un consultor SEO analiza, optimiza y desarrolla estrategias para mejorar el posicionamiento de una web en buscadores como Google. Mi metodología incluye:
 
-✔ Auditoría SEO: Analizo tu web para detectar errores y oportunidades de mejora.
-✔ Optimización on-page: Ajusto títulos, meta descripciones, estructura de URLs y contenido para que Google entienda mejor tu web.
-✔ SEO técnico: Mejoro la velocidad de carga, la experiencia de usuario y la indexación del sitio.
-✔ Link building: Aumento la autoridad de tu web mediante enlaces de calidad.
-✔ SEO de contenidos: Desarrollo una estrategia basada en palabras clave relevantes para tu negocio.
-✔ SEO local: Optimizamos tu presencia en Google Maps y búsquedas locales.
+- Auditoría SEO: Analizo tu web para detectar errores y oportunidades de mejora.
+- Optimización on-page: Ajusto títulos, meta descripciones, estructura de URLs y contenido para que Google entienda mejor tu web.
+- SEO técnico: Mejoro la velocidad de carga, la experiencia de usuario y la indexación del sitio.
+- Link building: Aumento la autoridad de tu web mediante enlaces de calidad.
+- SEO de contenidos: Desarrollo una estrategia basada en palabras clave relevantes para tu negocio.
+- SEO local: Optimizamos tu presencia en Google Maps y búsquedas locales.
 
 ## ¿Por qué hacer SEO?
 
