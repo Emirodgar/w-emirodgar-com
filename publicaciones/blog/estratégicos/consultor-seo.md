@@ -28,54 +28,44 @@ Mi nombre es [Emilio Rodríguez](https://emirodgar.com/emilio-rodriguez) y llevo
 
 Un consultor SEO analiza, optimiza y desarrolla estrategias para mejorar el posicionamiento de una web en buscadores como Google. Mi metodología incluye:
 
-- Auditoría SEO: Analizo tu web para detectar errores y oportunidades de mejora.
-- Optimización on-page: Ajusto títulos, meta descripciones, estructura de URLs y contenido para que Google entienda mejor tu web.
-- SEO técnico: Mejoro la velocidad de carga, la experiencia de usuario y la indexación del sitio.
-- Link building: Aumento la autoridad de tu web mediante enlaces de calidad.
-- SEO de contenidos: Desarrollo una estrategia basada en palabras clave relevantes para tu negocio.
-- SEO local: Optimizamos tu presencia en Google Maps y búsquedas locales.
+- **Auditoría SEO**: Analizo tu web para detectar errores y oportunidades de mejora.
+- **Optimización on-page**: Ajusto títulos, meta descripciones, estructura de URLs y contenido para que Google entienda mejor tu web.
+- **SEO técnico**: Mejoro la velocidad de carga, la experiencia de usuario y la indexación del sitio.
+- **Link building**: Aumento la autoridad de tu web mediante enlaces de calidad.
+- **SEO de contenidos**: Desarrollo una estrategia basada en palabras clave relevantes para tu negocio.
+- **SEO local**: Optimizamos tu presencia en Google Maps y búsquedas locales.
 
-## ¿Por qué hacer SEO?
+## Beneficios de trabajar con un consultor SEO: ¿Por qué hacer SEO?
 
 **Inversión a largo plazo**  
-El SEO funcionará durante mucho tiempo gracias a un pequeño mantenimiento.  
+Un crecimiento sostenible a largo plazo.
 
 **Alto porcentaje de conversión**  
-Los resultados orgánicos suelen estar mejor valorados por los usuarios.  
+ Captación de clientes potenciales sin pagar por publicidad.
 
 **Mejorar la experiencia de usuario**  
 Nos ayudará a que la experiencia de los usuarios en nuestra web sea óptima.  
 
-**Vigila a tu competencia**  
-Es importante saber qué está haciendo la competencia y actuar en consecuencia.
-
-
-## Beneficios de trabajar con un consultor SEO
-
-Al invertir en SEO, obtendrás:
-
-🔹 Más visibilidad en Google y aumento del tráfico orgánico.
-🔹 Captación de clientes potenciales sin pagar por publicidad.
-🔹 Mejor experiencia de usuario en tu web.
-🔹 Un crecimiento sostenible a largo plazo.
+**Resultados de tráfico y ventas**  
+Más visibilidad en Google y aumento del tráfico orgánico de calidad.
 
 
 ## Casos de éxito y testimonios
 
-Puedes ver también mis [casos de éxito SEO](https://emirodgar.com/casos-exito-seo) para conocer mi forma de trabajar el posicionamiento SEO y los resultados que he obtenido en algunos proyectos. 
+Puedes ver los [casos de éxito SEO](https://emirodgar.com/casos-exito-seo) para conocer mi forma de trabajar el posicionamiento SEO y los resultados que he obtenido en algunos proyectos. 
 Algunos de los más destacados, son:
 
-📢 Recuperación penalización algoritmo Core de Google
+📢 **Recuperación penalización algoritmo Core de Google**
 Una Universidad perdió visibilidad tras una actualización principal y definimos una estrategia para recuperar posicionamiento y tráfico.
 
-📢 Recuperación penalización algoritmo Helpful Content (HCU) de Google
+📢 **Recuperación penalización algoritmo Helpful Content (HCU) de Google**
 Logramos recuperar la visibilidad de un Medio digital impactado y volver a aparecer en Google Discover, con un crecimiento de más del 40% de su tráfico orgánico
 
-📢 Testimonios
+📢 **Testimonios**
 
-💬 "*Emilio es uno de los profesionales SEO y analista web más activos del panorama Español. Lo conocí gracias a su newsletter sobre SEO, de las más completas del sector junto a todos los recursos que comparte.*" – Pablo Segade
+💬 "*Emilio es uno de los profesionales SEO y analista web más activos del panorama Español. Lo conocí gracias a su newsletter sobre SEO, de las más completas del sector junto a todos los recursos que comparte.*" – **Pablo Segade**
 
-💬 "*Gran consultor SEO. Sus años de experiencia y resultados le avalan como uno de los grandes. Además, ofrece solución a todas las propuestas de marketing digital que se le presentan. Un profesional a tener en cuenta si deseais emprender y posicionaros*." – Alfonso Sánchez
+💬 "*Gran consultor SEO. Sus años de experiencia y resultados le avalan como uno de los grandes. Además, ofrece solución a todas las propuestas de marketing digital que se le presentan. Un profesional a tener en cuenta si deseais emprender y posicionaros*." – **Alfonso Sánchez**
 
 ## Cartera de clientes
 
@@ -138,13 +128,13 @@ Desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada nece
 
 El precio de una consultoría SEO depende de la complejidad del proyecto. Ofrezco opciones flexibles:
 
-🔹 Auditoría SEO básica: desde 500€
-🔹 Consultoría mensual: desde 400€/mes
-🔹 SEO para ecommerce o empresas: presupuesto personalizado
+- **Auditoría SEO básica**: desde 500€
+- **Consultoría mensual**: desde 400€/mes
+- **SEO para ecommerce o empresas**: presupuesto personalizado
 
 Si quieres conocer el coste exacto para tu negocio, contáctame sin compromiso.
 
 📩 Reserva tu consultoría gratuita y descubre cómo mejorar el SEO de tu web.
 
-📞 Teléfono: (+34) 923 015 199
-📧 Email: hola@emirodgar.com
+📞 **Teléfono**: (+34) 923 015 199
+📧 **Email**: hola@emirodgar.com
