@@ -303,13 +303,13 @@ En la siguiente gráfica vemos reflejada la posición media para los 10 término
 
 Durante las primeras semanas de trabajo, constatamos cómo seguimos perdiendo posicionamientode manera genérica y incluso perdiendo términos de valor que salen del TOP100.
 
-![image](https://github.com/user-attachments/assets/08e1c6c8-4e69-4ee2-a6b0-c31c5aefa6fc)
+![image](https://github.com/user-attachments/assets/08e1c6c8-4e69-4ee2-a6b0-c31c5aefa6fc){:class="img-responsive"}
 
 Ante esta situación, y habiendo determinado que existen problemas, tanto técnicos como de reputación a ojos de Google, decidimos poner en marcha una batería de acciones que nos ayuden a alcanzar los siguientes objetivos:
 
-1- Mejorar el rastreo e indexación del sitio
-2- Mejorar el EEAT de la página
-3- Ofrecer una gran experiencia a los usuarios
+1. Mejorar el rastreo e indexación del sitio
+2. Mejorar el EEAT de la página
+3. Ofrecer una gran experiencia a los usuarios
 
 Lo primero que constatamos es que la frecuencia en el rastreo era errática. Aunque lo enviado en los sitemaps XML, especialmente el de noticias, se indexaba al 100%, el acceso de Googlebot al periódico no era adecuado. Había demasidos errores y redirecciones que afectan a su paso por el sitio.
 Al parecer, en el pasado se habían realizado algunos cambios técnicos en subdominios y subcarpetas, además de migraciones de la parte de AMP. La situación no era la idónea, por lo que una de nuestras primeras acciones fue enfocarnos en disponer de una versión mobile (sin AMP) perfecta, y eliminar este formato para quedarnos con un conjunto de URLs a trabajar mucho más reducido. Pensad en un periódico digital que ha podido generar millones de noticias. Permitir que Googlebot rastree publicaciones de hace años o tenga que actualizar estados de páginas que ya no existen, entra en conflicto con el proceso de rastreo e indexación de noticias de valor.
@@ -340,49 +340,7 @@ Fijaros en la siguiente gráfica. La caída corresponde a la desaparición de la
 Uno de los puntos que trabajamos durante varios meses, fue la optimización del servidor para lograr un equilibrio entre el apartado visual, la publicidad y una buena experiencia de usuario.
 Nos costó bastante tiempo, pero al final logramos un tiempo medio de descarga idóneo para un medio digital.
 
-![image](https://github.com/user-attachments/assets/b9bd99d7-d52d-4ab5-8b15-2ab083944409)
-
-
-
-
-### Eliminación de versión AMP
-
-Con esta medida onseguimos detener la tendencia bajista y comenzamos a crecer. 
-
-![image](https://github.com/user-attachments/assets/d5da0d60-81ff-4444-a57a-2325999d9941){:class="img-responsive"}
-
-Al poco tiempo, ya podemos ver un cambio de tendencia en las impresiones y visibilidad SEO de la sección de salud.
-Con ello, tomamos la decisión de exportar la eliminación de la versión AMP al resto de categorías del sitio.
-
-![image](https://github.com/user-attachments/assets/e347a5c4-cd0d-4f20-8a16-617e992ea74c){:class="img-responsive"}
-
-
-## Trabajar el concepto de EEAT
-
-Desde un principio fuimos conscientes de que aunque había un problema técnico transversal a todo el sitio, teníamos limitaciones para ciertas categorías, especialmente las `YMYL` (*Your Money or Your Life*)
-Con esto en mente, diseñamos un plan de trabajo para reforzar las BIOs de los periodistas y de los especialistas en las temáticas de salud y finanzas.
-
-Gracias a ello logramos que algunas temáticas volvieran a aparecer en servicios como Google News o Discover.
-
-![image](https://github.com/user-attachments/assets/62d7e7c1-5181-4f63-9604-d45767c4f3b2){:class="img-responsive"}
-
-En la siguiente imagen de Sistrix, podemos ver cómo hemos logrado controlar el descenso de algunas categorías y de qué manera, otras han comenzado a generar visibilidad, cuando llevaban meses sin apenas posicionar.
-
-![image](https://github.com/user-attachments/assets/09f5fba6-efe6-4d41-ade8-242a369ca9e1){:class="img-responsive"}
-
-
-## Optimización de contenido
-
-Otra de nuestras conclusiones fue que había demasiado *thin content*, es decir, contenidos de poco valor y que, eventualmente Google posicionaba con otra URL.
-No teníamos claramente definida nuestro ecosistema de contenidos. No había una estructura bien consolidada.
-
-En la siguiente imagen podemos ver que para un mismo término hemos posicionado hasta por 10 noticias.
-Y, curiosamente, a partir de julio, la tendencia se desnormaliza y posicionamos cada vez mucho más atrás.
-
-![image](https://github.com/user-attachments/assets/ccf0651f-19d2-43aa-a727-721d088a5dc2){:class="img-responsive"}
-
-Diseñar y desarrollar un correcto sistema de portadas, categorías, tags y enlazado interno nos ayudó a unificar el posicionamiento para términos clave en páginas de valor.
-Además, trabajamos una optimización de contenido evergreen para priorizar las páginas que el robot de búsqueda debería rastrear.
+![image](https://github.com/user-attachments/assets/b9bd99d7-d52d-4ab5-8b15-2ab083944409){:class="img-responsive"}
 
 
 ## Recuperación con la actualización core
