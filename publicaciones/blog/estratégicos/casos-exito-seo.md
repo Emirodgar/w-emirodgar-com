@@ -1,11 +1,11 @@
 ---
-title: Casos de éxito SEO (Posicionamiento web) - 2024
+title: Casos de éxito SEO (Posicionamiento web) - 2025
 description: Os cuento las estrategias SEO de las que estoy más orgulloso. Los mejores resultados en más de diez años de trabajo.
 lang: es_ES
 sitemap: 1
 feed: 1
 date: 26/10/2021
-date_modified: 19/09/2024
+date_modified: 28/02/2025
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
