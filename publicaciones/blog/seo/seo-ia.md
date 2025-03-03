@@ -16,20 +16,24 @@ permalink: seo-inteligencia-artificial
 
 El tráfico que llega desde las plataformas de inteligencia artificial (basadas en modelos de lenguaje - LLMs) está creciendo mes a mes y, además, es de **buena calidad**, dado que los usuarios de estos sistemas han realizado un proceso de búsqueda más profundo.
 
-![image](https://github.com/user-attachments/assets/43b11f4c-9029-432a-9b48-047143f3c04b){:class="img-responsive"}
+
+![image](https://github.com/user-attachments/assets/e1ef74bd-2eca-41a5-a2de-4da855084745){:class="img-responsive"}
+
 
 
 ## ¿Cómo funciona el SEO para IA?
 
-Para aparecer en las respuestas generadas por IA en las AI Overviews (AIO) o en herramientas como Perplexiy o Claude, hay que entender cómo realizan estos modelos la búsqueda de información y presentan sus resultados. Al igual que los buscadores tradicionales, hacen uso de un sistema de rastreo por lo que estructurar el contenido de forma clara, facilitar su acceso y tener una marca reconocida y fiable, son **aspectos clave para la indexación y aparición en plataformas de IA**. 
+Para aparecer en las respuestas generadas por IA en las **AI Overviews** (AIO) de Google o en herramientas como Perplexiy o Claude, hay que entender cómo realizan estos modelos la búsqueda de información y presentan sus resultados. Al igual que los buscadores tradicionales, hacen uso de un sistema de rastreo por lo que estructurar el contenido de forma clara, facilitar su acceso y tener una marca reconocida y fiable, son **aspectos clave para la indexación y aparición en plataformas de IA**. 
+
+![image](https://github.com/user-attachments/assets/3fe321b3-6652-4363-b443-05f8a8c82447){:class="img-responsive"}
 
 Algunos aspectos clave que debemos trabajar:
 
- - Facilitar el rastreo a nuestro sitio, de la misma manera que siempre lo hemos hecho para los rastreadores de los buscadores tradicionales. Recomiendo revisar el proyecto [llms.txt](https://llmstxt.org/) que ayudará a las plataformas de IA a entender cómo se estructura nuestro sitio.
- - Asegurarnos de que el contenido es accesible y no está generado por JavaScript. Los rastreadores de IA no pueden (de momento) renderizar JavaScript.
- - Generar contenidos simples y fáciles de entender. Esto es clave para aparecer en los resultados de los LLMs.
- - Utilizar marcado de datos estructurados para ayudar a contextualizar nuestro contenido. Esto es de gran valor para el proceso de los LLMs de *retrieval-augmented generation* (RAG).
- - Trabajar nuestra marca y, en especial, las menciones y enlaces que podamos conseguir desde fuentes relevantes.
+ - **Facilitar el rastreo a nuestro sitio**, de la misma manera que siempre lo hemos hecho para los rastreadores de los buscadores tradicionales. Recomiendo revisar el proyecto [llms.txt](https://llmstxt.org/) que ayudará a las plataformas de IA a entender cómo se estructura nuestro sitio.
+ - **Asegurarnos de que el contenido es accesible** y no está generado por JavaScript. Los rastreadores de IA no pueden (de momento) renderizar JavaScript.
+ - **Generar contenidos simples y fáciles de entender**. Esto es clave para aparecer en los resultados de los LLMs.
+ - **Utilizar marcado de datos estructurados** para ayudar a contextualizar nuestro contenido. Esto es de gran valor para el proceso de los LLMs de *retrieval-augmented generation* (RAG).
+ - **Trabajar nuestra marca** y, en especial, las menciones y enlaces que podamos conseguir desde fuentes relevantes.
 
 ## ¿Cómo ser parte del conocimiento de los LLMs?
 
@@ -38,12 +42,14 @@ Aún es pronto para tener toda la información, pero trabajando los puntos antes
 Para ello es importante [saber medir el tráfico que nos llega desde las diferentes plataformas de inteligencia artificial](https://newsletter.chuletaseo.com/p/analizar-el-trafico-de-ia-que-llega).
 Para ello recomiendo utilizar el [dashboard gratuito de Looker Studio](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c).
 
-![image](https://github.com/user-attachments/assets/3f83b944-fd8d-4729-ab1d-9619db6ec047){:class="img-responsive"}
+![image](https://github.com/user-attachments/assets/43b11f4c-9029-432a-9b48-047143f3c04b){:class="img-responsive"}
+
+
 
 
 ## ¿Por qué el tráfico de IA convierte mejor?
 
-Los usuarios que llegan desde modelos de lenguaje suelen estar más avanzados en su proceso de compra. Han realizado preguntas específicas y han obtenido respuestas directas, evitando el proceso tradicional de buscar múltiples resultados, comparar opciones y analizar distintas fuentes.
+Los usuarios que llegan desde modelos de lenguaje suelen estar más avanzados en su proceso de búsqueda y análisis. Han realizado preguntas y han obtenido respuestas directas. Este proceso es distinto a la tradicional búsquedad, donde hay que revisar múltiples páginas y comparar sus contenidos.
 
 Esto los convierte en visitantes más cualificados, con una intención de conversión más clara. Además, las consultas que llegan desde IA suelen ser más largas y complejas, lo que indica un interés más definido.
 
