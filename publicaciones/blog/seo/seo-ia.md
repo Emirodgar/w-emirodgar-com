@@ -7,7 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
-folder: seo
+folder: ia
 date: 28/11/2023
 date_modified: 03/03/2025
 permalink: seo-inteligencia-artificial
