@@ -17,7 +17,7 @@ permalink: seo-tecnico
 El **SEO técnico** es el pilar fundamental sobre el que se construye una estrategia de posicionamiento web. Como [consultor SEO](https://emirodgar.com/consultor-seo), he visto cómo una correcta implementación de estos elementos puede marcar la diferencia entre el éxito y el fracaso de un sitio web. En este artículo, hablaremos de los aspectos clave del SEO técnico que todo profesional del marketing digital debe conocer.
 
 
-# SEO Técnico: Mucho Más Que Rastreo, Renderizado e Indexación
+# Rastreo, Renderizado e Indexación... y mucho más
 
 Si trabajas en SEO, es importante ir más allá de los **conceptos básicos de rastreo, renderizado e indexación**. Para optimizar realmente un sitio web, debes comprender y aplicar una serie de estrategias clave. 
 Aquí tienes una guía práctica a modo de _checklist_ para mejorar tu conocimiento en SEO técnico.
@@ -54,7 +54,15 @@ El renderizado afecta directamente la capacidad de rastreo e indexación. Un asp
 - **Pre-renderizado**
 - **Hydration y resumability**
 
-El DOM (Document Object Model) juega un papel crucial en este proceso, por lo que es importante optimizar su carga para mejorar la experiencia del usuario y el rendimiento en los motores de búsqueda.
+El DOM (_Document Object Model_) juega un papel crucial en este proceso, por lo que es importante optimizar su carga para mejorar la experiencia del usuario y el rendimiento en los motores de búsqueda.
+
+Personalmente me gusta mucho el SSR, dado que no hay dudas de cómo lo verán los rastreadores, no obstante, si decidimos trabajar con un CSR, hay algunoas cosas relevantes que debemos tener en cuenta:
+
+- Los archivos usados para renderizar (JS y CSS) deben ser rastreables
+- El canonical debe referencia a sí mismo (_self-refering_)
+- No poner la etiqueta canonical antes del componente de JavaScript que renderizará la página
+- La web no debe tardar más de 5 segundos en cargar
+- El Script JS debe cargar siempre después de los elementos que queremos modificar
 
 ---
 
@@ -81,14 +89,12 @@ No basta con atraer tráfico; también hay que optimizar la conversión. Algunas
 - Implementa datos estructurados con Schema utilizando JSON-LD.
 - Supervisa consultas, clics e impresiones para entender la intención de búsqueda.
 
-_(No te lamentes demasiado por los resultados sin clic… aunque a veces es frustrante.)_
-
 ---
 
 ## ⚡ Rendimiento Web (Web Performance)
 El rendimiento del sitio afecta directamente a la experiencia del usuario y al posicionamiento. Para optimizarlo:
 
-- Mejora los Core Web Vitals y usa herramientas de Real User Monitoring (RUM).
+- Mejora los Core Web Vitals y usa herramientas de _Real User Monitoring_ (RUM).
 - Optimiza el CSS para evitar bloqueos en el renderizado y la carga.
 - Prioriza el contenido visible en la parte superior para acelerar la carga inicial.
 - Usa una red de distribución de contenido (CDN) con los mejores puntos de presencia (PoPs).
@@ -100,10 +106,7 @@ El rendimiento del sitio afecta directamente a la experiencia del usuario y al p
 
 ---
 
-## Conclusión
-El SEO técnico no es solo rastreo, renderizado e indexación. Comprender estos aspectos te ayudará a mejorar el rendimiento, la indexación y la conversión de tu sitio web. Si trabajas en SEO, es fundamental mantenerse actualizado y seguir optimizando cada detalle.
-
-
+Además del _checklist_ de SEO técnico, me gustaría ofrecer un poco de contexto sobre algunos aspectos clave para mejorar el rastreo e indexación de nustras páginas.
 
 
 ## Elementos esenciales del SEO Técnico
