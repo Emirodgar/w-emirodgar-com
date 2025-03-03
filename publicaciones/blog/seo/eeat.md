@@ -1,5 +1,4 @@
 --
-
 title: Qué es E-E-A-T y por qué es clave para el SEO
 description: Google evalúa la calidad de un sitio web basándose en E-E-A-T. Descubre cómo mejorar estos aspectos para posicionarte mejor en los resultados de búsqueda.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
