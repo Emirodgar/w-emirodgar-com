@@ -17,10 +17,6 @@ permalink: seo-inteligencia-artificial
 El tráfico que llega desde las plataformas de inteligencia artificial (basadas en modelos de lenguaje - LLMs) está creciendo mes a mes y, además, es de **buena calidad**, dado que los usuarios de estos sistemas han realizado un proceso de búsqueda más profundo.
 
 
-![image](https://github.com/user-attachments/assets/e1ef74bd-2eca-41a5-a2de-4da855084745){:class="img-responsive"}
-
-
-
 ## ¿Cómo funciona el SEO para IA?
 
 Para aparecer en las respuestas generadas por IA en las **AI Overviews** (AIO) de Google o en herramientas como Perplexiy o Claude, hay que entender cómo realizan estos modelos la búsqueda de información y presentan sus resultados. Al igual que los buscadores tradicionales, hacen uso de un sistema de rastreo por lo que estructurar el contenido de forma clara, facilitar su acceso y tener una marca reconocida y fiable, son **aspectos clave para la indexación y aparición en plataformas de IA**. 
@@ -45,13 +41,11 @@ Para ello recomiendo utilizar el [dashboard gratuito de Looker Studio](https://l
 ![image](https://github.com/user-attachments/assets/43b11f4c-9029-432a-9b48-047143f3c04b){:class="img-responsive"}
 
 
-
-
 ## ¿Por qué el tráfico de IA convierte mejor?
 
-Los usuarios que llegan desde modelos de lenguaje suelen estar más avanzados en su proceso de búsqueda y análisis. Han realizado preguntas y han obtenido respuestas directas. Este proceso es distinto a la tradicional búsquedad, donde hay que revisar múltiples páginas y comparar sus contenidos.
+Los usuarios que llegan desde modelos de lenguaje han recibido una **respuesta unificada a sus preguntas**. En lugar de la tradicional búsqueda en la que tenemos que analizar y comparar múltiples resultados, han confiado en la respuesta generada y han decidido navegar hacia nuestro sitio. 
 
-Esto los convierte en visitantes más cualificados, con una intención de conversión más clara. Además, las consultas que llegan desde IA suelen ser más largas y complejas, lo que indica un interés más definido.
+![image](https://github.com/user-attachments/assets/e1ef74bd-2eca-41a5-a2de-4da855084745){:class="img-responsive"}
 
 Si no implicas al usuario, estarás perdiendo el tiempo. Hay demasiada información en Internet y si quieremos prosperar, además de trabajar una [indexación selectiva](https://emirodgar.com/indexacion-selectiva), necesitamos aliearnos con nuestros usuarios. Entender qué están buscando y qué necesitan, será clave para poder posicionar de manera eficiente.
 
