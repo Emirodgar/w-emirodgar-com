@@ -1,5 +1,5 @@
 ---
-title: Cómo trabajar una estrategia SEO con Inteligencia artificial
+title: El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje
 description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
@@ -9,9 +9,43 @@ sitemap: 1
 feed: 1
 folder: seo
 date: 28/11/2023
+date_modified: 03/03/2025
 permalink: seo-inteligencia-artificial
 
 --- 
+
+El tráfico que llega desde las plataformas de inteligencia artificial (basadas en modelos de lenguaje - LLMs) está creciendo mes a mes y, además, es de **buena calidad**, dado que los usuarios de estos sistemas han realizado un proceso de búsqueda más profundo.
+
+![image](https://github.com/user-attachments/assets/43b11f4c-9029-432a-9b48-047143f3c04b){:class="img-responsive"}
+
+
+## ¿Cómo funciona el SEO para IA?
+
+Para aparecer en las respuestas generadas por IA en las AI Overviews (AIO) o en herramientas como Perplexiy o Claude, hay que entender cómo realizan estos modelos la búsqueda de información y presentan sus resultados. Al igual que los buscadores tradicionales, hacen uso de un sistema de rastreo por lo que estructurar el contenido de forma clara, facilitar su acceso y tener una marca reconocida y fiable, son **aspectos clave para la indexación y aparición en plataformas de IA**. 
+
+Algunos aspectos clave que debemos trabajar:
+
+ - Facilitar el rastreo a nuestro sitio, de la misma manera que siempre lo hemos hecho para los rastreadores de los buscadores tradicionales. Recomiendo revisar el proyecto [llms.txt](https://llmstxt.org/) que ayudará a las plataformas de IA a entender cómo se estructura nuestro sitio.
+ - Asegurarnos de que el contenido es accesible y no está generado por JavaScript. Los rastreadores de IA no pueden (de momento) renderizar JavaScript.
+ - Generar contenidos simples y fáciles de entender. Esto es clave para aparecer en los resultados de los LLMs.
+ - Utilizar marcado de datos estructurados para ayudar a contextualizar nuestro contenido. Esto es de gran valor para el proceso de los LLMs de *retrieval-augmented generation* (RAG).
+ - Trabajar nuestra marca y, en especial, las menciones y enlaces que podamos conseguir desde fuentes relevantes.
+
+## ¿Cómo ser parte del conocimiento de los LLMs?
+
+Aún es pronto para tener toda la información, pero trabajando los puntos antes mencionados y realizando una monitorización exhaustiva de nuestra presencia en diferentes plataformas podremos ir aprendiendo de lo que funciona y potenciándolo en nuestras estrategias SEO.
+
+Para ello es importante [saber medir el tráfico que nos llega desde las diferentes plataformas de inteligencia artificial](https://newsletter.chuletaseo.com/p/analizar-el-trafico-de-ia-que-llega).
+Para ello recomiendo utilizar el [dashboard gratuito de Looker Studio](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c).
+
+![image](https://github.com/user-attachments/assets/3f83b944-fd8d-4729-ab1d-9619db6ec047){:class="img-responsive"}
+
+
+## ¿Por qué el tráfico de IA convierte mejor?
+
+Los usuarios que llegan desde modelos de lenguaje suelen estar más avanzados en su proceso de compra. Han realizado preguntas específicas y han obtenido respuestas directas, evitando el proceso tradicional de buscar múltiples resultados, comparar opciones y analizar distintas fuentes.
+
+Esto los convierte en visitantes más cualificados, con una intención de conversión más clara. Además, las consultas que llegan desde IA suelen ser más largas y complejas, lo que indica un interés más definido.
 
 Si no implicas al usuario, estarás perdiendo el tiempo. Hay demasiada información en Internet y si quieremos prosperar, además de trabajar una [indexación selectiva](https://emirodgar.com/indexacion-selectiva), necesitamos aliearnos con nuestros usuarios. Entender qué están buscando y qué necesitan, será clave para poder posicionar de manera eficiente.
 
