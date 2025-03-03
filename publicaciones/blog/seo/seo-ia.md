@@ -14,14 +14,14 @@ permalink: seo-inteligencia-artificial
 
 --- 
 
-El tráfico que llega desde las plataformas de inteligencia artificial (basadas en modelos de lenguaje - LLMs) está creciendo mes a mes y, además, es de **buena calidad**, dado que los usuarios de estos sistemas han realizado un proceso de búsqueda más profundo.
+El tráfico que llega desde las plataformas de inteligencia artificial (basadas en modelos de lenguaje conocidos por las siglas LLMs) está creciendo mes a mes y, además, es de **buena calidad**, dado que los usuarios han realizado una búsqueda más enriquecida.
 
 
 ## ¿Cómo funciona el SEO para IA?
 
 Para aparecer en las respuestas generadas por IA en las **AI Overviews** (AIO) de Google o en herramientas como Perplexiy o Claude, hay que entender cómo realizan estos modelos la búsqueda de información y presentan sus resultados. Al igual que los buscadores tradicionales, hacen uso de un sistema de rastreo por lo que estructurar el contenido de forma clara, facilitar su acceso y tener una marca reconocida y fiable, son **aspectos clave para la indexación y aparición en plataformas de IA**. 
 
-![image](https://github.com/user-attachments/assets/3fe321b3-6652-4363-b443-05f8a8c82447){:class="img-responsive"}
+[![image](https://github.com/user-attachments/assets/3fe321b3-6652-4363-b443-05f8a8c82447){:class="img-responsive"}](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c)
 
 Algunos aspectos clave que debemos trabajar:
 
@@ -38,14 +38,14 @@ Aún es pronto para tener toda la información, pero trabajando los puntos antes
 Para ello es importante [saber medir el tráfico que nos llega desde las diferentes plataformas de inteligencia artificial](https://newsletter.chuletaseo.com/p/analizar-el-trafico-de-ia-que-llega).
 Para ello recomiendo utilizar el [dashboard gratuito de Looker Studio](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c).
 
-![image](https://github.com/user-attachments/assets/43b11f4c-9029-432a-9b48-047143f3c04b){:class="img-responsive"}
+[![image](https://github.com/user-attachments/assets/e67a2efd-54dd-46b0-8423-0b172c87b52f){:class="img-responsive"}](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c)
 
 
 ## ¿Por qué el tráfico de IA convierte mejor?
 
 Los usuarios que llegan desde modelos de lenguaje han recibido una **respuesta unificada a sus preguntas**. En lugar de la tradicional búsqueda en la que tenemos que analizar y comparar múltiples resultados, han confiado en la respuesta generada y han decidido navegar hacia nuestro sitio. 
 
-![image](https://github.com/user-attachments/assets/e1ef74bd-2eca-41a5-a2de-4da855084745){:class="img-responsive"}
+[![image](https://github.com/user-attachments/assets/e1ef74bd-2eca-41a5-a2de-4da855084745){:class="img-responsive"}](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c)
 
 Si no implicas al usuario, estarás perdiendo el tiempo. Hay demasiada información en Internet y si quieremos prosperar, además de trabajar una [indexación selectiva](https://emirodgar.com/indexacion-selectiva), necesitamos aliearnos con nuestros usuarios. Entender qué están buscando y qué necesitan, será clave para poder posicionar de manera eficiente.
 
