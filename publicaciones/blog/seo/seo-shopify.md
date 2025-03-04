@@ -126,13 +126,13 @@ Instala una extensión como `EZFY Theme File Search` o `Liquify Shopify Code Sea
 Busca el siguiente código dentro de los archivos `collection.liquid` o `product.liquid` (dependiendo del tema):
 
 ```
-{{ product.url | within: collection }}
+ product.url | within: collection 
 ```
 
 Sustituye ese fragmento por:
 
 ```
-{{ product.url }}
+ product.url 
 
 ```
 Guarda los cambios.
