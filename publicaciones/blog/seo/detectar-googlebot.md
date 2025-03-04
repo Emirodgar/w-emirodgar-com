@@ -53,4 +53,5 @@ Tan sólo tendríamos que comparar para saber si es Googlebot o no. Rápido y se
 
 Google actualiza sus rangos de IPs con poca frecuencia, pero cuando ocurre debemos estar atentos si utilizamos CDNs o firewalls para asegurarnos de que entienden que se trata de `Googlebot` y no bloquean su acceso. En el caso de que nuestro sistema de seguridad bloquee al rastreador de Google por equivocación, suele generar caída en los rastreos (línea azul) y aumento del tiempo medio de respuesta (línea naranja). En la siguiente imagen podemos ver un ejemplo real en el que el CDN Akamai no actulizó rápidamente el listado de IPs, lo que provocó un problema al rastreo del sitio.
 
-![image](https://github.com/user-attachments/assets/9a23ed67-dfe9-4cc6-83e3-4e40799753b9){:class="img-responsive"}
+![image](https://github.com/user-attachments/assets/bbb836f8-5575-4aa4-bfdd-6dce6573096a){:class="img-responsive"}
+
