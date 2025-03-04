@@ -8,6 +8,7 @@ sitemap: 1
 feed: 1
 folder: seo
 date: 27/01/2022
+date_modified: 04/03/2025
 lang: es_ES
 permalink: shopify-seo
 
@@ -96,9 +97,49 @@ Otras acciones que podemos llevar a cabo para garantizar un buen tiempo de carga
 - Evitar los carruseles
 
  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNDQ2NDQsLTc5MjYxNzY1MiwtMTYwMj
-czNDU0NywtNjc4Njc1Mjg5LDk4NTMyOTQ2NywtMTcyNzA1NTkz
-MiwtMTA0OTQ5ODE4MSwxNzkzNzUzNzEyLDcwMzAzNTgyNiwtMj
-I1NTEyNjg0LDQxMDUwNDYwOSw1NzI4OTg3NTddfQ==
--->
+## Cómo solucionar la estructura de URLs por defecto de productos en Shopify
+
+La estructura de URLs que Shopify genera por defecto para los productos no es precisamente la mejor opción desde el punto de vista del SEO. Cada vez que se añade un producto a una colección, Shopify genera una nueva ruta para ese producto basada en la colección a la que pertenece. Por ejemplo, un mismo producto podría tener estas URLs:
+
+```
+/collections/t-shirts/products/example-t-shirt
+
+/collections/clothing/products/example-t-shirt
+
+/collections/mens/products/example-t-shirt
+
+/collections/all/products/example-t-shirt
+
+/products/example-t-shirt
+```
+
+Si tienes una tienda con miles de productos y cientos de colecciones, la web puede acabar con un volumen enorme de URLs duplicadas que solo añaden ruido para los motores de búsqueda.
+
+Shopify intenta solucionar esto añadiendo etiquetas `canonical` que indican a Google cuál es la URL principal, pero confiar únicamente en este método no es lo ideal. Google puede ignorar las etiquetas canonical si lo considera oportuno, así que lo mejor es darle directamente una única ruta para cada producto.
+
+La buena noticia es que esta solución es bastante sencilla.
+
+### Cómo arreglarlo
+
+Instala una extensión como `EZFY Theme File Search` o `Liquify Shopify Code Search` para buscar dentro del código de tu tema.
+
+Busca el siguiente código dentro de los archivos `collection.liquid` o `product.liquid` (dependiendo del tema):
+
+```
+{{ product.url | within: collection }}
+```
+
+Sustituye ese fragmento por:
+
+```
+{{ product.url }}
+
+```
+Guarda los cambios.
+
+Es posible que este código aparezca en varios lugares, así que asegúrate de cambiarlo en todos los archivos donde lo encuentres.
+
+### Comprobar visualmente el resultado
+
+Si quieres demostrarle a tu cliente lo importante que es este cambio, puedes hacer un rastreo de la web con Screaming Frog antes y después de aplicar la solución. Genera un gráfico 3D para mostrar visualmente cómo la estructura de URLs ha pasado de ser un caos a una versión mucho más limpia y eficiente.
+
