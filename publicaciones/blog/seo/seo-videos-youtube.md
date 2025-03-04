@@ -6,6 +6,7 @@ sitemap: 1
 feed: 1
 folder: seo
 date: 27/01/2022
+date_modified: 04/03/2025
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-videos-youtube
@@ -187,8 +188,14 @@ Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por
  2. Incluye enlaces a tus vídeos en plataformas de preguntas y respuestas cuando éstos contribuyan a solucionar una problemática. Por ejemplo, Quora o Stackoverflow.
  3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjgwNDAzLDEwMDAzNjAxNDksLTE5MD
-Y2NzE5MiwyMDkwMTkyNTkzLC0xNjQ2Mjk1ODU4LDk3NTkwNjc4
-NSwxNTQ2OTU2MjgxXX0=
--->
+## Aprendizajes de analizar más de 1.6 millones de vídeos en Youtube
+
+Dentro de nuestra teoría del [bosque oscuro](https://emirodgar.com/bosque-oscuro) tenemos la oportunidad de explorar diferentes canales más allá de Google. Youtube, el segundo buscador más grande del mundo, es un ejemplo de ello. Este [macro estudio](https://adilo.com/blog/youtube-seo-study/) que ha analizado más de 1.6 millones de vídeos, nos ha dejado algunas conclusiones interesantes. Me gustaría destacar tres de ellas para potenciar y mejorar nuestra visibilidad SEO en dicho portal.
+
+🔥 En YouTube, la canibalización de palabras clave no es un problema. El 19% de los canales tienen múltiples vídeos en el TOP 3 para la mismo keyword. Prueba a publicar más de un vídeo por tema. 
+
+
+⏳ Los vídeos más cortos en YouTube suelen posicionar mejor. ¿Por qué? Nuestra capacidad de atención está en crisis. Adapta tu estrategia. 
+
+
+📜 El 94% de los vídeos en el TOP 3 de YouTube tienen transcripción. No te obsesiones con el título, trabaja bien los subtítulos y descripciones. 
