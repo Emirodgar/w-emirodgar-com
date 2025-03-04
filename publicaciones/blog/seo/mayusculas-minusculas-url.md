@@ -25,9 +25,11 @@ En numerosas ocasiones, [Google ha dicho](https://www.youtube.com/watch?v=d1xb84
 
 Es decir, las siguientes tres URLs serán tratadas por Google como páginas diferentes:
 
+```
 - https://emirodgar.com/**prueba**
 - https://emirodgar.com/**PRUEBA**
 - https://emirodgar.com/prueba**/**
+```
 
 Por defecto -y si no indicamos lo contrario bloqueando el rastreo a través del robots.txt o bloqueando la indexación con la etiqueta noindex- [Googlebot](https://emirodgar.com/detectar-googlebot) tratará de rastrear todas las variaciones de dicha URL que encuentre.
 
