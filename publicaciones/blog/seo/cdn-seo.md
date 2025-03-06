@@ -7,6 +7,7 @@ sitemap: 1
 feed: 1
 folder: seo
 date: 27/01/2022
+date_modified: 06/03/2025
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: cdn-seo
@@ -47,7 +48,16 @@ A efectos de Google, todo estará bajo el dominio `emirodgar.com` y las imágene
 ## ¿Qué CDN debo usar?
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjU5MTk4NiwtMTY4MjkwMzc4LDE1Mj
-czODMxMjhdfQ==
--->
+
+## Análisis para evitar problemas de rastre e indxación con un CND
+
+Cuando detectamos problemas de rastreo e indexación en nuestro sitio, además de buscar otras causas, es conveniente revisar si el problema podía estar en Cloudflare o el CDN que estemos utilizando. Para ello, os comparto un proceso paso a paso para diagnosticar si Cloudflare, o cualquier otra configuración, puede estar bloqueando la indexación.
+
+1. Comparar el Live Test con la página rastreada en Google Search Console (GSC). Esto permite ver si Google está obteniendo una versión desactualizada de la página.
+2. Revisar las reglas de transformación, las cabeceras de respuesta y los Workers en Cloudflare. Estas configuraciones pueden modificar cómo Google ve el contenido.
+3. Usar cURL con el user-agent de Googlebot y la instrucción "Cache-Control: no-cache". Esto ayuda a comprobar qué respuesta devuelve el servidor sin interferencias de la caché.
+4. Si la web está en WordPress, desactivar los plugins de SEO temporalmente. Algunos pueden generar cabeceras dinámicas que afecten la indexación.
+5. Registrar las solicitudes de Googlebot en el servidor y revisar si aparece la etiqueta X-Robots-Tag. Esto puede revelar si se están enviando señales no deseadas a los motores de búsqueda.
+6. Si todo lo anterior falla, desactivar Cloudflare temporalmente. Para ello, se puede apuntar el DNS directamente al servidor y hacer una nueva prueba.
+
+Siguiendo estos pasos, es posible detectar si Cloudflare está impidiendo que Google indexe una página y tomar las medidas necesarias para solucionarlo.
