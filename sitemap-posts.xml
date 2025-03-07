@@ -12,8 +12,8 @@ sitemap:
 
       {% assign age = site.time | date: "%s" | minus: post.date | date: "%s" | divided_by: 86400 %}
       <lastmod>
-        {% if post.sitemap.lastmod %}
-          {{ post.sitemap.lastmod | date: "%Y-%m-%d" }}
+        {% if post.sitemap.date_modified %}
+          {{ post.sitemap.date_modified | date: "%Y-%m-%d" }}
         {% elsif post.date %}
           {{ post.date | date_to_xmlschema }}
         {% else %}
