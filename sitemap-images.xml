@@ -4,15 +4,53 @@ sitemap:
   exclude: 'yes'
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  {% for post in site.posts %}
-    {% if post.image %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for post in site.posts reversed %}
+    {% unless post.published == false or post.url contains '/noticias-seo/' %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
-      <image:image>
-        <image:loc>{{ site.url }}{{ post.image }}</image:loc>
-      </image:image>
+
+      {% assign age = site.time | date: "%s" | minus: post.date | date: "%s" | divided_by: 86400 %}
+      <lastmod>
+        {% if post.sitemap.lastmod %}
+          {{ post.sitemap.lastmod | date: "%Y-%m-%d" }}
+        {% elsif post.date %}
+          {{ post.date | date_to_xmlschema }}
+        {% else %}
+          {{ site.time | date_to_xmlschema }}
+        {% endif %}
+      </lastmod>
+
+      <changefreq>{% if age < 30 %}daily{% elsif age < 180 %}weekly{% else %}monthly{% endif %}</changefreq>
+
+      <priority>
+        {% if age < 30 %}
+          0.8
+        {% elsif age < 180 %}
+          0.6
+        {% else %}
+          0.3
+        {% endif %}
+      </priority>
+    </url>
+    {% endunless %}
+  {% endfor %}
+  
+  {% for page in site.pages %}
+    {% if page.sitemap == 1 %}
+    <url>
+      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+      <lastmod>
+        {% if page.sitemap.lastmod %}
+          {{ page.sitemap.lastmod | date: "%Y-%m-%d" }}
+        {% elsif page.date %}
+          {{ page.date | date_to_xmlschema }}
+        {% else %}
+          {{ site.time | date_to_xmlschema }}
+        {% endif %}
+      </lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
     </url>
     {% endif %}
   {% endfor %}
