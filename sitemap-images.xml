@@ -1,0 +1,19 @@
+---
+layout: null
+sitemap:
+  exclude: 'yes'
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  {% for post in site.posts %}
+    {% if post.image %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      <image:image>
+        <image:loc>{{ site.url }}{{ post.image }}</image:loc>
+      </image:image>
+    </url>
+    {% endif %}
+  {% endfor %}
+</urlset>
