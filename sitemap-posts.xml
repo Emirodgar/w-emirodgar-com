@@ -3,10 +3,11 @@ layout: null
 sitemap:
   exclude: 'yes'
 ---
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for post in site.posts %}
-    {% unless post.published == false %}
+  {% for post in site.posts reversed %}
+    {% unless post.published == false or post.url contains '/noticias-seo/' %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.sitemap.lastmod %}
@@ -51,6 +52,6 @@ sitemap:
         <priority>0.3</priority>
       {% endif %}
     </url>
-	{% endif %}
+    {% endif %}
   {% endfor %}
 </urlset>
