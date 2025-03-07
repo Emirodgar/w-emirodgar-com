@@ -5,21 +5,17 @@ sitemap:
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for post in site.posts reversed %}
-    {% unless post.published == false or post.url contains '/noticias-seo/' %}
+  {% assign filtered_posts = site.posts | sort: "date" | reverse %}
+
+  {% for post in filtered_posts %}
+    {% if post.published != false and post.url contains '/noticias-seo/' == false %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
 
-      {% assign age = site.time | date: "%s" | minus: post.date | date: "%s" | divided_by: 86400 %}
-      <lastmod>
-        {% if post.sitemap.lastmod %}
-          {{ post.sitemap.lastmod | date: "%Y-%m-%d" }}
-        {% elsif post.date %}
-          {{ post.date | date_to_xmlschema }}
-        {% else %}
-          {{ site.time | date_to_xmlschema }}
-        {% endif %}
-      </lastmod>
+      {% assign lastmod_date = post.date_modified | default: post.date %}
+      {% assign age = site.time | date: "%s" | minus: lastmod_date | date: "%s" | divided_by: 86400 %}
+
+      <lastmod>{{ lastmod_date | date_to_xmlschema }}</lastmod>
 
       <changefreq>{% if age < 30 %}daily{% elsif age < 180 %}weekly{% else %}monthly{% endif %}</changefreq>
 
@@ -32,25 +28,6 @@ sitemap:
           0.3
         {% endif %}
       </priority>
-    </url>
-    {% endunless %}
-  {% endfor %}
-  
-  {% for page in site.pages %}
-    {% if page.sitemap == 1 %}
-    <url>
-      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-      <lastmod>
-        {% if page.sitemap.lastmod %}
-          {{ page.sitemap.lastmod | date: "%Y-%m-%d" }}
-        {% elsif page.date %}
-          {{ page.date | date_to_xmlschema }}
-        {% else %}
-          {{ site.time | date_to_xmlschema }}
-        {% endif %}
-      </lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
     </url>
     {% endif %}
   {% endfor %}
