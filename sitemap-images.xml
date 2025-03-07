@@ -5,7 +5,7 @@ sitemap:
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% assign filtered_posts = site.posts | sort: "date_modified" | reverse %}
+  {% assign filtered_posts = site.posts | sort: "date" | reverse %}
 
   {% for post in filtered_posts %}
     {% if post.published != false and post.url contains 'noticias-seo/' == false %}
