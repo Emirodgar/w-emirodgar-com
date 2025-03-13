@@ -1,5 +1,5 @@
 ---
-title: Los retos del SEO en 2024
+title: Los retos del SEO en 2025
 description: 
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
@@ -8,14 +8,50 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 19/09/2024
+date_modified: 13/03/2025
 folder: seo
 permalink: retos-seo
 
 --- 
 
+Si llevas un tiempo en el mundo del SEO, seguro que has notado que ya no es tan sencillo ni tan rentable como antes. Pero aquí está la paradoja: aunque el SEO ha cambiado y los resultados son más difíciles de conseguir, sigue siendo uno de los canales de marketing más efectivos. ¿Cómo es posible?
+
 En el siempre cambiante mundo del SEO, este año ha traído una serie de desafíos que los profesionales del marketing digital debemos enfrentar. Como [consultor SEO](https://emirodgar.com/consultor-seo), es crucial mantenerse al día con estas tendencias para **garantizar el éxito de nuestras estrategias SEO**, si es que existe futuro para el posicionamiento web tal como lo conocemos. No estoy diciendo que el **SEO esté muerto**, pero sí que **tendrá que evolucionar y adaptarse**.
 
 ![image](https://github.com/user-attachments/assets/0a95e1d7-71f3-494a-a04b-079971cf894c){:class="img-responsive"}
+
+
+## Un panorama diferente: la IA y Google están cambiando el juego
+
+Las páginas de resultados de Google (SERPs) están saturadas de contenido generado por inteligencia artificial, los algoritmos parecen favorecer a grandes marcas como Reddit y las AI Overviews están quitando clics a los creadores de contenido. Además, Google ya no es la única fuente de información: cada vez más usuarios recurren a modelos de lenguaje como ChatGPT o Gemini para resolver sus dudas.
+
+Aquí podemos ver un ejemplo del [tráfico generado desde plataformas de inteligencia artificial](https://newsletter.chuletaseo.com/p/analizar-el-trafico-de-ia-que-llega).
+
+![image](https://github.com/user-attachments/assets/84d57484-8f6b-4708-8e8a-2f9c7d8077b4){:class="img-responsive"}
+
+
+Para muchos propietarios de sitios web, esto se traduce en una **caída del 20-40% en su tráfico orgánico**. No es solo un rumor: firmas como Gartner también han señalado este descenso. Ante este panorama, algunos se preguntan si aún merece la pena invertir en SEO. **La respuesta es sí**, pero con matices.
+
+## El SEO ya no es "fácil", pero sigue siendo una apuesta ganadora
+
+Hubo un tiempo en que el SEO era casi mágico: podías predecir el crecimiento del tráfico con bastante precisión, los resultados mejoraban con el tiempo y con poca inversión podías lograr grandes beneficios. Esto llevó a que muchas empresas apostaran por el SEO como su principal estrategia de crecimiento.
+
+Hoy la realidad es distinta. Crear contenido optimizado es más fácil que nunca gracias a la IA, pero conseguir tráfico de calidad es más difícil. Google ofrece respuestas directas en sus resultados y la competencia ha aumentado. Sin embargo, las ventajas del SEO siguen existiendo:
+
+- **Sigue siendo predecible**, aunque las expectativas deben ajustarse.
+- **Sigue generando valor a largo plazo**, aunque de forma más lenta.
+- **Sigue permitiendo llegar a la audiencia correcta**, aunque con más competencia.
+- **Sigue teniendo una barrera de entrada baja**, pero requiere más inversión y conocimientos para destacar.
+
+## ¿Cómo afrontar el nuevo SEO?
+
+El SEO no ha muerto, pero ha dejado de ser un canal de crecimiento "fácil". Para seguir sacándole partido, hay que adaptarse:
+
+- **Optimiza para usuarios y no solo para Google**. La IA está cambiando el comportamiento de búsqueda. Asegúrate de que tu contenido aporta verdadero valor.
+- **Invierte en calidad, no en cantidad**. Ya no se trata de publicar cientos de artículos, sino de diferenciarte con contenido realmente útil y original.
+- **Diversifica tus fuentes de tráfico**. No dependas solo del SEO. Explora otros canales como redes sociales, email marketing o incluso tráfico de LLMs.
+- **No ignores el SEO técnico**. Google sigue premiando sitios rápidos, bien estructurados y optimizados para la experiencia del usuario.
+
 
 A continuación detallo algunos de los que considero que serán los retos más interesantes a abordar durante los próximos meses así como posibles acciones y tácticas que podemos ejecutar para minimizar su impacto.
 
