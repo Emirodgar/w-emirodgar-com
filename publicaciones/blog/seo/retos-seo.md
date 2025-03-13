@@ -23,7 +23,7 @@ En el siempre cambiante mundo del SEO, este año ha traído una serie de desafí
 
 ## Un panorama diferente: la IA y Google están cambiando el juego
 
-Las páginas de resultados de Google (SERPs) están saturadas de contenido generado por inteligencia artificial, los algoritmos parecen favorecer a grandes marcas como Reddit y las AI Overviews están quitando clics a los creadores de contenido. Además, Google ya no es la única fuente de información: cada vez más usuarios recurren a modelos de lenguaje como ChatGPT o Gemini para resolver sus dudas.
+Las páginas de resultados de Google (SERPs) están **saturadas de contenido generado por inteligencia artificial**, los algoritmos parecen favorecer a grandes marcas como Reddit y las AI Overviews están quitando clics a los creadores de contenido. Además, Google ya no es la única fuente de información: cada vez más usuarios recurren a modelos de lenguaje como ChatGPT o Gemini para resolver sus dudas. Hacer [SEO sobre plataformas de inteligencia artificial](https://emirodgar.com/seo-inteligencia-artificial) y buscar [nichos donde esté nuestro público objetivo](https://emirodgar.com/bosque-oscuro) será clave para el éxito.
 
 Aquí podemos ver un ejemplo del [tráfico generado desde plataformas de inteligencia artificial](https://newsletter.chuletaseo.com/p/analizar-el-trafico-de-ia-que-llega).
 
