@@ -9,7 +9,7 @@ sitemap: 1
 feed: 1
 folder: ia
 date: 28/11/2023
-date_modified: 03/03/2025
+date_modified: 26/03/2025
 permalink: seo-inteligencia-artificial
 
 --- 
@@ -40,7 +40,6 @@ Para ello recomiendo utilizar el [dashboard gratuito de Looker Studio](https://l
 
 [![image](https://github.com/user-attachments/assets/e67a2efd-54dd-46b0-8423-0b172c87b52f){:class="img-responsive"}](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c)
 
-
 ## ¿Por qué el tráfico de IA convierte mejor?
 
 Los usuarios que llegan desde modelos de lenguaje han recibido una **respuesta unificada a sus preguntas**. En lugar de la tradicional búsqueda en la que tenemos que analizar y comparar múltiples resultados, han confiado en la respuesta generada y han decidido navegar hacia nuestro sitio. 
@@ -48,6 +47,12 @@ Los usuarios que llegan desde modelos de lenguaje han recibido una **respuesta u
 [![image](https://github.com/user-attachments/assets/e1ef74bd-2eca-41a5-a2de-4da855084745){:class="img-responsive"}](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c)
 
 Si no implicas al usuario, estarás perdiendo el tiempo. Hay demasiada información en Internet y si quieremos prosperar, además de trabajar una [indexación selectiva](https://emirodgar.com/indexacion-selectiva), necesitamos aliearnos con nuestros usuarios. Entender qué están buscando y qué necesitan, será clave para poder posicionar de manera eficiente.
+
+
+## Las plataformas de IA y el marcado de datos estructurados
+
+Los modelos de lenguaje (`LLMs`), como los de Bing y Microsoft, no utilizan esquemas de datos estructurados de la forma en que se piensa comúnmente. Aunque se menciona que los LLMs valoran contenido fresco y utilizan esquemas durante su proceso de validación para comprobar si la información en sus modelos es correcta, esto no significa que ingieran esquemas durante su entrenamiento. Tampoco utilizan datos estructurados como lo haría una máquina para etiquetar explícitamente elementos y sus relaciones. En lugar de eso, los LLMs funcionan como grandes redes estadísticas de conocimiento del lenguaje, sin construir modelos detallados de entidades. Entonces, aunque sí se recomienda seguir usando el marcado de datos estructurados, éste no será consumido ni utilizado por las plataformas de IA de la misma manera en que lo usan los robots de los buscadores actuales.
+
 
 ## ¿Qué páginas están usando la inteligencia artificial en sus estrategias SEO?
 
