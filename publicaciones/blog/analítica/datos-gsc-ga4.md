@@ -18,7 +18,7 @@ Estas herramientas son fundamentales para cualquier estrategia de [SEO](https://
 
 ## Diferencias clave entre GA4 y Search Console
 
-Ambas herramientas ofrecen información valiosa, pero sus enfoques son distintos:
+Ambas herramientas ofrecen información de valor, pero sus enfoques son distintos:
 
 | **Característica**      | **GA4** | **GSC** |
 |------------------------|--------|--------|
@@ -30,6 +30,7 @@ Ambas herramientas ofrecen información valiosa, pero sus enfoques son distintos
 
 ## Razones por las que los datos nunca coinciden
 
+Google incluye en su [documentación oficial](https://support.google.com/analytics/answer/1308626?hl=en#discrepancies&zippy=%2Cin-this-article) ejemplos de por qué pueden existir desviaciones entre los datos. 
 Estas son algunas de las principales razones de las discrepancias entre ambas plataformas:
 
 1. **Alcance de la medición**  
@@ -57,7 +58,7 @@ Estas son algunas de las principales razones de las discrepancias entre ambas pl
 En lugar de ver las diferencias como errores, es mejor entender que GA4 y GSC **se complementan**. Algunas recomendaciones:
 
 - Usa **GA4** para analizar el comportamiento del usuario, conversiones y tráfico general.  
-- Usa **GSC** para monitorear el rendimiento en Google, detectar oportunidades de optimización y analizar palabras clave.  
+- Usa **GSC** para monitorizar el rendimiento en Google, detectar oportunidades de optimización y analizar palabras clave.  
 - No compares números absolutos, sino **tendencias y patrones** en ambas herramientas.  
 - Filtra los datos en GA4 para aislar solo el tráfico orgánico y hacerlo más comparable con GSC.  
 
