@@ -12,8 +12,6 @@ folder: seo
 permalink: perfiles-google-business
 ---
 
-# Cómo optimizar tus perfiles de Google Business y sacarles todo el partido
-
 Si tienes un negocio con presencia local, seguro que ya sabes lo importante que es aparecer bien posicionado en Google. Y una de las herramientas clave para lograrlo son los perfiles de Google Business.
 
 En este artículo te explico el procedimiento de trabajo que recomiendo seguir para analizar, optimizar y sacar el máximo partido a tus perfiles de Google Business. No importa si tienes una o varias ubicaciones, si estás en retail, servicios, educación o cualquier otro sector. Esta guía te servirá igual porque es transversal a cualquier tipo de negocio.
@@ -51,6 +49,10 @@ Una vez analizados todos los perfiles, es buena idea dejarlo por escrito en un d
 ## Fase 2: Estrategia de publicación de contenidos
 
 Una vez tenemos los perfiles bien configurados, toca mantenerlos activos. Google valora mucho que actualices la información con frecuencia. Además, las publicaciones pueden ayudarte a atraer más clics, llamadas y visitas a tu web.
+Yo suelo trabajar con un documento de este estilo, que me permite unificar y entender qué porceentaje de perfil tiene cada una de las carencias que he detectado.
+
+![image](https://github.com/user-attachments/assets/0db12049-34c3-440c-8a8f-a7cdd6446c3d){:class="img-responsive"}
+
 
 ### Recomendaciones generales
 
@@ -63,6 +65,9 @@ Una vez tenemos los perfiles bien configurados, toca mantenerlos activos. Google
 - Si es relevante, **añade enlaces** a páginas de tu web, como fichas de producto, promociones o formularios de contacto.
 
 ### Tipos de contenido que puedes publicar
+
+![image](https://github.com/user-attachments/assets/266be229-77ed-47f0-aa09-3eb5ee3c319c){:class="img-responsive"}
+
 
 - **Promociones y descuentos**: incluye detalles claros, fechas y condiciones. Aumentan los clics y el tiempo que la gente pasa en tu perfil.
 - **Eventos y noticias locales**: conecta con tu comunidad y mejora la visibilidad.
