@@ -9,7 +9,7 @@ sitemap: 1
 feed: 1
 date: 08-04-2025
 folder: seo
-permalink: como-optimizar-tus-perfiles-de-google-business
+permalink: perfiles-google-business
 ---
 
 # Cómo optimizar tus perfiles de Google Business y sacarles todo el partido
