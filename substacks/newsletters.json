@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Innovación en acción",
+    "url": "https://substack.com/innovacion-en-accion",
+    "categoria": "Tecnología",
+    "seguidores": 1200
+  },
+  {
+    "nombre": "Ideas para crecer",
+    "url": "https://substack.com/ideas-para-crecer",
+    "categoria": "Negocios",
+    "seguidores": 850
+  },
+  {
+    "nombre": "Café y datos",
+    "url": "https://substack.com/cafe-y-datos",
+    "categoria": "Data Science",
+    "seguidores": 500
+  }
+]
