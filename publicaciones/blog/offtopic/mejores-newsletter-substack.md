@@ -12,9 +12,11 @@ date_modified: 27/06/2025
 permalink: mejores-newsletter-substack
 
 ---
-# Las mejores newsletters en Substack que deberías leer en 2025
 
 En los últimos años, las newsletters han vuelto con fuerza. Lejos de los boletines promocionales del pasado, ahora ofrecen análisis profundo, historias bien contadas y voces independientes que informan, educan y entretienen. Y si hay una plataforma que lidera esta revolución, esa es **Substack**.
+
+## Las mejores newsletters en Substack que deberías leer en 2025
+
 
 En este artículo encontrarás una selección curada de las mejores newsletters de Substack para 2025, tanto en español como en inglés, clasificadas por temática. Ya sea que te interese la tecnología, la política, los negocios o simplemente descubrir nuevas ideas, aquí encontrarás algo valioso.
 
@@ -131,7 +133,37 @@ En este artículo encontrarás una selección curada de las mejores newsletters 
 💡 Una de las newsletters tech más sólidas en español.  
 ✅ Perfecta para fundadores, makers y curiosos del futuro.
 
-### **[La Brújula Verde](h)**
+### **[La Brújula Verde](https://labrujulaverde.com/)**  
+📍 *Guillermo Carvajal*  
+💬 Historia, ciencia, exploración  
+🗓️ Diaria  
+💡 Curaduría excelente sobre temas poco comunes.  
+✅ Si te interesa la cultura, el conocimiento y el viaje.
+
+### **[Hilos Mentales](https://hilosmentales.substack.com/)**  
+📍 *Valeria Castro*  
+💬 Psicología, sociedad y cultura pop  
+🗓️ Semanal  
+💡 Mezcla análisis social con experiencias personales.  
+✅ Para quienes buscan reflexión con mirada crítica.
+
+---
+
+## 🆕 Cómo descubrir newsletters nuevas en Substack
+
+Substack ofrece varias formas para encontrar contenido interesante:
+
+- **Buscador interno**: podés buscar por temas como *AI*, *sociedad*, *finanzas*, etc.  
+- **Recomendaciones cruzadas**: muchos autores recomiendan otras newsletters al final de sus ediciones.  
+- **Listas curatoriales**: en plataformas como Twitter/X, Reddit o incluso en IA como ChatGPT.  
+- **Explorar por categorías**: desde [substack.com/explore](https://substack.com/explore)
+
+---
+
+## 📬 ¿Y tú, qué estás leyendo?
+
+¿Conoces alguna newsletter que debería estar en esta lista? Escríbeme por redes. También puedes suscribirte a mi propia newsletter donde hablo de innovación, datos y el impacto de la tecnología en la sociedad.
+
 
 
 
