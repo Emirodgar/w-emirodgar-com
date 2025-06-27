@@ -19,12 +19,15 @@ En los últimos años, las newsletters han vuelto con fuerza. Lejos de los bolet
 
 ## El boom de Substack: Más de 50 newsletters superan los 500.000$ anuales
 
-En el ecosistema digital actual, donde el contenido es rey y la monetización un reto constante, una plataforma destaca con fuerza: Substack. Un reciente informe de Press Gazette ha puesto de manifiesto un dato asombroso: el número de newsletters en Substack que generan ingresos por suscripciones superiores a los 500.000 dólares anuales se ha duplicado en los últimos dos años, alcanzando ya la cifra de 52 publicaciones. Esto no solo refleja un crecimiento exponencial de la plataforma, sino que también subraya el enorme potencial del contenido de pago y la creación de comunidades fieles.
+El contenido sigue siendo el rey, pero la monetización es un reto constante. Tal vez por eso, **Substack** se está consolidando como una plataforma clave en el panorama actual. En lo personal, se ha convertido en uno de mis lugares preferidos para informarme. A día de hoy, todavía es un espacio donde se puede conectar con personas reales y evitar —al menos en parte— la saturación de contenidos generados por inteligencia artificial.
 
-Este auge no es casualidad. Periodistas de primer nivel y creadores de contenido especializados están migrando a Substack, atraídos por la autonomía y la posibilidad de monetizar directamente a su audiencia. La plataforma ha experimentado un incremento del 40% en visitas y un 139% en el uso de su app en el último año, lo que la posiciona como un "Ganador Digital" en el panorama mediático. La capacidad de Substack para generar un "efecto red" (recomendaciones entre newsletters) es un factor clave en esta expansión, permitiendo a los creadores alcanzar nuevas audiencias de forma orgánica.
+Un informe reciente de [Press Gazette](https://pressgazette.co.uk/newsletters/biggest-substack-newsletters-2025/) aporta un dato que me ha parecido especialmente interesante: el número de newsletters en Substack que superan los **500.000 dólares anuales en ingresos por suscripciones** se ha duplicado en los últimos dos años. Ya hay al menos 52 publicaciones que han cruzado ese umbral.
 
-Aunque la mayoría de los ingresos provienen de géneros como la política estadounidense, las finanzas o la tecnología –donde las suscripciones anuales pueden ser muy elevadas–, este fenómeno generalizado indica una tendencia clara: los usuarios están cada vez más dispuestos a pagar por información y análisis de valor. Para profesionales del SEO y el marketing digital, esto abre una vía fascinante para explorar modelos de negocio basados en la suscripción y la creación de contenido especializado. La clave reside en identificar un nicho, ofrecer una voz única y construir una relación sólida con una audiencia dispuesta a invertir en lo que realmente les interesa.
+Este crecimiento no solo refleja el momento dulce de la plataforma, sino también el **enorme potencial del contenido de pago y de las comunidades fieles**. En un mundo cada vez más dominado por lo automático y lo superficial, tener una audiencia dispuesta a pagar por lo que escribes —y leerte cada semana— es, sin duda, un activo valiosísimo. Y quizás, en esta nueva era dominada por la IA, pueda ser justo lo que necesitamos para mantenernos a flote.
 
+Como parte de la recopilación que estoy haciendo con las **mejores newsletters de Substack**, me ha parecido útil empezar por las que más facturan. No porque el dinero lo sea todo, sino porque es un buen indicador de impacto, comunidad y valor percibido.
+
+### Top 20 newsletters de Substack por ingresos estimados
 
 | #  | Substack                          | Author                    |
 |----|-----------------------------------|---------------------------|
@@ -48,8 +51,6 @@ Aunque la mayoría de los ingresos provienen de géneros como la política estad
 | 18 | Zeteo                             | Mehdi Hasan               |
 | 19 | The Contrarian                    | The Contrarian            |
 | 20 | Racket News                       | Matt Taibbi               |
-| 21 | The Warning with Steve Schmidt    | Steve Schmidt             |
-
 
 
 
