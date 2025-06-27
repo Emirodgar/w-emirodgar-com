@@ -22,6 +22,40 @@ En este artículo encontrarás una selección curada de las mejores newsletters 
 
 ---
 
+## Las 20 newsletter que más dinero generan
+
+A continunación os comparto el listado de las TOP20 newsletter de Substack.
+
+
+| #  | Substack                          | Author                    |
+|----|-----------------------------------|---------------------------|
+| 1  | Letters from an American          | Heather Cox Richardson    |
+| 2  | The Pragmatic Engineer            | Gergely Orosz             |
+| 3  | Lenny's Newsletter                | Lenny Rachitsky           |
+| 4  | Citrini Research                  | Citrini                   |
+| 5  | The Bulwark*                      | The Bulwark               |
+| 6  | Noahpinion                        | Noah Smith                |
+| 7  | Silver Bulletin                   | Nate Silver               |
+| 8  | Meidas+                           | MeidasTouch Network       |
+| 9  | Public                            | Michael Shellenberger     |
+| 10 | Chamath Palihapitiya              | Chamath Palihapitiya      |
+| 11 | Slow Boring                       | Matthew Yglesias          |
+| 12 | The Preamble                      | Sharon McMahon            |
+| 13 | Thinking About...                 | Timothy Snyder            |
+| 14 | The Forgotten Side of Medicine    | A Midwestern Doctor       |
+| 15 | Whitepaper.mx                     | Rene Lankenau             |
+| 16 | Tipping Point Prophecy Update     | Jimmy Evans               |
+| 17 | Vale Tutto - di Selvaggia Lucarelli | Selvaggia Lucarelli      |
+| 18 | Zeteo                             | Mehdi Hasan               |
+| 19 | The Contrarian                    | The Contrarian            |
+| 20 | Racket News                       | Matt Taibbi               |
+| 21 | The Warning with Steve Schmidt    | Steve Schmidt             |
+
+
+
+
+---
+
 ## 🧭 Índice de contenido
 
 - [🧠 Tecnología y startups](#tecnología-y-startups)  
