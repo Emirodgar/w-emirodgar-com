@@ -15,16 +15,15 @@ permalink: mejores-newsletter-substack
 
 En los últimos años, las newsletters han vuelto con fuerza. Lejos de los boletines promocionales del pasado, ahora ofrecen análisis profundo, historias bien contadas y voces independientes que informan, educan y entretienen. Y si hay una plataforma que lidera esta revolución, esa es **Substack**.
 
-## Las mejores newsletters en Substack que deberías leer en 2025
-
-
-En este artículo encontrarás una selección curada de las mejores newsletters de Substack para 2025, tanto en español como en inglés, clasificadas por temática. Ya sea que te interese la tecnología, la política, los negocios o simplemente descubrir nuevas ideas, aquí encontrarás algo valioso.
-
 ---
 
-## Las 20 newsletter que más dinero generan
+## El boom de Substack: Más de 50 newsletters superan los 500.000$ anuales
 
-A continunación os comparto el listado de las TOP20 newsletter de Substack.
+En el ecosistema digital actual, donde el contenido es rey y la monetización un reto constante, una plataforma destaca con fuerza: Substack. Un reciente informe de Press Gazette ha puesto de manifiesto un dato asombroso: el número de newsletters en Substack que generan ingresos por suscripciones superiores a los 500.000 dólares anuales se ha duplicado en los últimos dos años, alcanzando ya la cifra de 52 publicaciones. Esto no solo refleja un crecimiento exponencial de la plataforma, sino que también subraya el enorme potencial del contenido de pago y la creación de comunidades fieles.
+
+Este auge no es casualidad. Periodistas de primer nivel y creadores de contenido especializados están migrando a Substack, atraídos por la autonomía y la posibilidad de monetizar directamente a su audiencia. La plataforma ha experimentado un incremento del 40% en visitas y un 139% en el uso de su app en el último año, lo que la posiciona como un "Ganador Digital" en el panorama mediático. La capacidad de Substack para generar un "efecto red" (recomendaciones entre newsletters) es un factor clave en esta expansión, permitiendo a los creadores alcanzar nuevas audiencias de forma orgánica.
+
+Aunque la mayoría de los ingresos provienen de géneros como la política estadounidense, las finanzas o la tecnología –donde las suscripciones anuales pueden ser muy elevadas–, este fenómeno generalizado indica una tendencia clara: los usuarios están cada vez más dispuestos a pagar por información y análisis de valor. Para profesionales del SEO y el marketing digital, esto abre una vía fascinante para explorar modelos de negocio basados en la suscripción y la creación de contenido especializado. La clave reside en identificar un nicho, ofrecer una voz única y construir una relación sólida con una audiencia dispuesta a invertir en lo que realmente les interesa.
 
 
 | #  | Substack                          | Author                    |
@@ -56,7 +55,13 @@ A continunación os comparto el listado de las TOP20 newsletter de Substack.
 
 ---
 
-## 🧭 Índice de contenido
+
+## Las mejores newsletters en Substack que deberías leer en 2025
+
+En este artículo encontrarás una selección curada de las mejores newsletters de Substack para 2025, tanto en español como en inglés, clasificadas por temática. Ya sea que te interese la tecnología, la política, los negocios o simplemente descubrir nuevas ideas, aquí encontrarás algo valioso.
+
+
+## 🧭 Clasificación por categorías
 
 - [🧠 Tecnología y startups](#tecnología-y-startups)  
 - [📰 Actualidad y política](#actualidad-y-política)  
