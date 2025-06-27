@@ -1,5 +1,5 @@
 ---
-title: Las mejores newsletter SEO en español - 2024
+title: Las mejores newsletter SEO en español - 2025
 description: Disfruta de información actualizada y de gran valor.
 image: https://emirodgar.com/cdn/images/og/seo.png
 layout: emirodgar_post
@@ -8,7 +8,7 @@ feed: 1
 folder: seo
 author: Emirodgar
 date: 09/11/2023
-date_modified: 04/09/2024
+date_modified: 27/06/2025
 permalink: mejores-newsletter-seo
 
 ---
@@ -41,6 +41,8 @@ Os dejo un listado de las que considero **las mejores newsletter SEO en español
 | **La newsletter de Unancor** | David Carrasco | Semanal | [suscripción](https://www.unancor.com/newsletter-seo/) |
 | **300Segundos** | Álex Serrano | Semanal | [suscripción](https://alexserrano.es/300segundos/) |
 | **Newsletter SEO / IA** | Jose Manuel Sánchez | Semanal | [suscripción](https://newsletter.jmswebs.com/) |
+| **Notas de SEO** | Javier Flores | Semanal | [suscripción]([https://newsletter.jmswebs.com/](https://notasdeseo.com/)) |
+| **Tráfico avanzado** | Servando Silva | Semanal | [suscripción]([https://traficoavanzado.com/])) |
 
 
 -----
