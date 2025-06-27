@@ -41,8 +41,10 @@ Os dejo un listado de las que considero **las mejores newsletter SEO en español
 | **La newsletter de Unancor** | David Carrasco | Semanal | [suscripción](https://www.unancor.com/newsletter-seo/) |
 | **300Segundos** | Álex Serrano | Semanal | [suscripción](https://alexserrano.es/300segundos/) |
 | **Newsletter SEO / IA** | Jose Manuel Sánchez | Semanal | [suscripción](https://newsletter.jmswebs.com/) |
-| **Notas de SEO** | Javier Flores | Semanal | [suscripción]([https://notasdeseo.com/) |
-| **Tráfico avanzado** | Servando Silva | Semanal | [suscripción]([https://traficoavanzado.com/]) |
+| **Notas de SEO** | Javier Flores | Semanal | [suscripción](https://notasdeseo.com/) |
+| **Tráfico avanzado** | Servando Silva | Semanal | [suscripción](https://traficoavanzado.com/) |
+| **Aprendiz de SEO** | Victor | Semanal | [suscripción](https://aprendizdeseo.substack.com/) |
+| **Algoritmo transparente** | Saul Gordillo | Semanal | [suscripción](https://saulgordillo.substack.com/) |
 
 
 -----
