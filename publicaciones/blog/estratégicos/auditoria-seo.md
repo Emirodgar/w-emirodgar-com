@@ -15,23 +15,31 @@ author: emirodgar
 
 ---
 
-# Auditorías SEO que generan resultados  
+## Auditorías SEO que generan resultados  
+
 **Descubre todo lo que necesitas saber sobre el rendimiento orgánico de tu web.**  
 ¿Por qué no estás posicionando como deberías? ¿Está tu agencia o equipo interno haciendo un buen trabajo? ¿Qué frena realmente a tu web?  
 
 Mis auditorías son la fuente definitiva para entender el estado de tu SEO y convertir la información en **acciones concretas y efectivas**.
 
-<img width="903" height="781" alt="image" src="https://github.com/user-attachments/assets/a9c733da-f78d-418b-b172-3f21c2833277" />
+<img width="903" height="781" class="img-responsive" alt="image" src="https://github.com/user-attachments/assets/a9c733da-f78d-418b-b172-3f21c2833277" />
 
 ## Mucho más que una auditoría SEO  
 La mayoría de auditorías se limitan a revisar etiquetas, títulos, enlaces rotos o velocidad de carga.  
 **Eso no es suficiente.**  
 
 Un auditoría bien implementada no puede pasar por alto la información clave que realmente explica por qué tu web no está posicionando.  
-Mis auditorías profundizan en **todos los factores que influyen en el ranking en Google**, ofreciendo una visión clara y accionable.  
+Mis auditorías profundizan en **todos los factores que influyen en el ranking en Google**, ofreciendo una visión clara y accionable.
+
+<img width="804" height="409" class="img-responsive"  alt="oportunidades palabras clave - auditoría SEO" src="https://github.com/user-attachments/assets/19710dfb-af0d-495d-bd31-539d54d4a857" />
+
 
 ## Auditorías impulsadas por datos reales, no por herramientas  
 No hago auditorías estándar con SEMrush, Ahrefs o Screaming Frog para repetirte lo que ya sabes (o lo que puedes ver con estas herramientas).  
+
+<img width="573" height="294" class="img-responsive"  alt="image" src="https://github.com/user-attachments/assets/a0873507-83b7-4a01-b58d-73f22d1535c2" />
+
+
 Trabajo con **Google Search Console + BigQuery**, lo que me permite analizar datos reales de tu web y diagnosticar:  
 
 - Pérdidas de tráfico orgánico a lo largo del tiempo.  
@@ -44,7 +52,10 @@ No hay dos iguales.
 
 ## Una inversión que ahorra dinero  
 Invertir en PPC es rápido, pero caro.  
-Invertir en SEO es más sostenible, pero solo si sabes dónde y cómo hacerlo.  
+Invertir en SEO es más sostenible, pero solo si sabes dónde y cómo hacerlo.
+
+<img width="551" height="292" alt="image" class="img-responsive" src="https://github.com/user-attachments/assets/5b784c09-5032-4f7f-88d9-8b2ce1c499c5" />
+
 
 👉 Mis auditorías te ayudan a **entender si tu inversión actual en SEO tiene sentido**:  
 - ¿Estás gastando en lo correcto?  
