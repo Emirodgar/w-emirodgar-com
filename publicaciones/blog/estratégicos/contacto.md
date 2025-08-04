@@ -18,7 +18,7 @@ permalink: contacto
 ## ¿Estás listo para vender más con tu negocio?
 
 Gracias por interesarte en mis servicios. No te voy a defraudar.
-Si quieres contactar conmigo lo puedes hacer de varias formas:
+Para contactar conmigo lo puedes hacer de varias formas:
 
  - Enviando un email a [emirodgar@gmail.com](mailto:emirodgar@gmail.com)
  - A través de mi [perfil de LinkedIn](https://es.linkedin.com/in/emirodgar)
