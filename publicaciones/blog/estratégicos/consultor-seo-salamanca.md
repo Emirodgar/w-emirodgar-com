@@ -16,68 +16,102 @@ redirect_from:
 
 ---
 
-Mi nombre es Emilio Rodríguez y llevo trabajando el **SEO en Salamanca** desde el año 2007. He sido director SEO en dos agencias internacionales (Internet Advantage y Smartup) y he trabajado en más de un centenar de proyectos digitales para grandes empresas.
+## Consultor SEO en Salamanca con experiencia local e internacional
 
-He tenido la suerte de haber participado en estrategias de **posicionamiento SEO** para varias empresas salmantinas como la Universidad Pontificia de Salamanca, La Gaceta de Salamanca, Grupo Tribuna, Oyrsa o un clásico de Salamanca como es el café bar Novelty.
+Soy **Emilio Rodríguez**, consultor SEO con más de **18 años de experiencia** trabajando en Salamanca y para proyectos nacionales e internacionales.  
+He sido director SEO en dos agencias de referencia (Internet Advantage y Smartup) y he gestionado más de un centenar de proyectos para empresas de diferentes sectores.
 
-## Ponente en las Universidades Salmantinas
+En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas como la **Universidad Pontificia de Salamanca**, **La Gaceta de Salamanca**, **Grupo Tribuna**, **Oyrsa** o el histórico café bar **Novelty**.
 
-He participado en ponencias como **experto de marketing digital** tanto en la Universidad Pontificia de Salamanca como en el Máster de Marketing Digital de la Universidad de Salamanca. Fuera de Salamanca también colaboro como docente con la Universidad de Deusto, Foro Economía Digital, C2B o la Escuela Europea de Negocios. 
+---
 
-También estoy **certificado como SEO** por ICEX España (Instituto Español de Comercio Exterior) para ayudar a las empresas españolas a externalizar sus productos en mercados internacionales a través de estrategias de posicionamiento web.
+## Experiencia como ponente y formador
 
-## ¿Por qué hacer SEO?
+He impartido ponencias y formaciones como experto en marketing digital en la **Universidad Pontificia de Salamanca** y en el **Máster de Marketing Digital de la Universidad de Salamanca**.  
+Fuera del ámbito local, colaboro como docente con la **Universidad de Deusto**, **Foro Economía Digital**, **C2B** o la **Escuela Europea de Negocios**.
 
-**Inversión a largo plazo**  
-El SEO funcionará durante mucho tiempo gracias a un pequeño mantenimiento.  
+También cuento con certificación del **ICEX España** como especialista SEO para ayudar a empresas a expandir sus productos en mercados internacionales mediante estrategias de posicionamiento web.
 
-**Alto porcentaje de conversión**  
-Los resultados orgánicos suelen estar mejor valorados por los usuarios.  
+---
 
-**Mejorar la experiencia de usuario**  
-Nos ayudará a que la experiencia de los usuarios en nuestra web sea óptima.  
+## ¿Por qué invertir en SEO para tu empresa en Salamanca?
 
-**Vigila a tu competencia**  
-Es importante saber qué está haciendo la competencia y actuar en consecuencia.
+El SEO es una inversión estratégica que aporta beneficios sostenibles:
 
-## Cartera de clientes
+- **Inversión a largo plazo**: Resultados duraderos con un mantenimiento eficiente.  
+- **Alto porcentaje de conversión**: Los resultados orgánicos generan mayor confianza.  
+- **Mejora de la experiencia de usuario**: Una web optimizada es más útil y navegable.  
+- **Ventaja competitiva**: Conocer y adelantarse a la competencia.
 
-Estos son algunos de los clientes para los que he trabajado a lo largo de los últimos años. Puedes ver también mis [casos de éxito SEO](https://emirodgar.com/casos-exito-seo) para conocer mi forma de trabajar el posicionamiento SEO y los resultados que he obtenido en algunos proyectos. 
+### Beneficios específicos del SEO local en Salamanca
 
-![Cartera de clientes SEo - Emirodgar](https://emirodgar.com/cdn/images/clients/erg-com-clientes.jpg){:class="img-responsive"}
+- **Mayor visibilidad en búsquedas locales**: Optimización para términos como *"servicios en Salamanca"* o búsquedas por barrios y zonas.  
+- **Tráfico cualificado**: Visitantes realmente interesados en tus productos o servicios.  
+- **Ventaja sostenible**: Una vez posicionado, es difícil que tu competencia te desplace.  
+- **ROI demostrado**: Casos documentados con retornos superiores al 500%.
 
+---
 
-## ¿Por qué hacer SEO con nosotros?
+## Cartera de clientes y casos de éxito
 
-Para empezar, porque soy salmantino y llevo desarrollando estrategias de posicionamiento web en Salamanca desde hace muchos años. La comunicación del proyecto será mucho más sencilla si todos vivimos en el mismo lugar.
+A lo largo de los años he trabajado para empresas de todo tipo, ayudándolas a mejorar su presencia en Google.  
+Puedes ver ejemplos en mis [casos de éxito SEO](https://emirodgar.com/casos-exito-seo).
 
-Segundo, porque desarrollo y ejecuto  **estrategias SEO personalizadas** dado que para cada necesidad, existe una  **solución SEO**  adecuada. La experiencia y profesionalidad son garantía de calidad.
+![Cartera de clientes SEO - Emirodgar](https://emirodgar.com/cdn/images/clients/erg-com-clientes.jpg){:class="img-responsive"}
 
-- Entrego todo el material generado
+---
 
-- Resuelvo el 100% de las dudas
+## ¿Por qué trabajar conmigo?
 
-- Trabajo con total transparencia
+- Experiencia local y conocimiento del mercado salmantino.  
+- Estrategias SEO 100% personalizadas según tus objetivos.  
+- Transparencia total: acceso a herramientas y datos del proyecto.  
+- Entrega de todo el material y resolución de dudas en cada fase.
 
-## Beneficios del SEO
+---
 
-Si aún no tienes claro qué aporte puede realizar el SEO a tu proyecto web, te dejo algunos de los objetivos que solemos perseguir cuando llevamos a cabo estrategias de posicionamiento web.
+## Beneficios directos de mi consultoría SEO
 
-**Aumenta el tráfico**  
-Mayor captación de tráfico de calidad.
+- **Aumento del tráfico**: Más visitas relevantes.  
+- **Incremento de ventas**: Conversión del tráfico en clientes.  
+- **Fortalecimiento de la marca**: Mayor reconocimiento y autoridad.  
+- **Ventaja competitiva**: Supera a la competencia en el entorno digital.
 
-**Aumenta las ventas**  
-Más ingresos de tráfico orgánico.
+Mi objetivo: diseñar una estrategia SEO que posicione tu negocio en **búsquedas locales** de Salamanca y provincia, optimizando Google My Business, citaciones locales y contenido geolocalizado.
 
-**Imagen de marca**  
-Haz que la gente te conozca.
+---
 
-**Supera a tu competencia**  
-Sé el líder digital de tu sector.
+## Metodología de trabajo
 
+1. **Análisis inicial**: Evaluación de situación actual, competencia y oportunidades.  
+2. **Estrategia personalizada**: Plan adaptado a objetivos, presupuesto y plazos.  
+3. **Implementación técnica**: Optimización on-page, contenido y off-page.  
+4. **Monitorización y reporting**: Informes claros sobre posiciones, tráfico y conversiones.  
+5. **Optimización continua**: Ajustes basados en datos y cambios de algoritmo.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc5NDc2MDAsMTQ1MDYzMDA4OCwtMT
-MwNjk5NTM3MCwtODAyOTg5OTkyLC0xOTgwMTkxNzAyLDk2NjAx
-NDk2NywtMjQ3NjIyODYyLDIwNjc1OTg1ODddfQ==
--->
+---
+
+## Resultados en Salamanca
+
+- **+459% en conversiones** para una empresa de servicios profesionales (#1 en 15 keywords principales).  
+- **150x keywords posicionadas** para un e-commerce local (de 20 a más de 3.000 en top 10).  
+- **+532% en tráfico orgánico** para una clínica dental (+40 pacientes mensuales).
+
+---
+
+## Motivos para elegir mi consultoría SEO
+
+### Experiencia local contrastada
+18 años trabajando con empresas de Salamanca, con conocimiento profundo del mercado y su competencia.
+
+### Resultados medibles
+Objetivos claros, métricas transparentes y reporting constante.
+
+### Estrategia a medida
+Cada negocio recibe un plan SEO adaptado a su sector y recursos.
+
+### Formación y actualización constante
+Certificado por Google, HubSpot y SEMrush. Ponente en universidades y escuelas de negocio.
+
+### Transparencia total
+Acceso a datos, reuniones periódicas y documentación detallada de todas las acciones.
