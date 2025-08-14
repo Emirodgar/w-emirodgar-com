@@ -14,7 +14,7 @@ permalink: /analisis-chatgpt-seo
 
 Hace muy poco, un pequeño fallo de indexación en Google dejó al descubierto algo fascinante: **conversaciones reales de usuarios con ChatGPT**. Un pequeño tesoro para los que nos dedicamos a entender cómo busca la gente en internet.
 
-Aunque el error se corrigió rápidamente por motivos obvios de privacidad, un analista, Metehan Yeşilyurt -del que ya hemos hablado en varias ocasiones- aprovechó la oportunidad para estudiar más de 1.800 de esas conversaciones (o *prompts*).
+Aunque el error se corrigió rápidamente por motivos obvios de privacidad, un analista, Metehan Yeşilyurt -del que ya hemos hablado en varias ocasiones- aprovechó la oportunidad para [estudiar más de 1.800](https://metehan.ai/blog/i-analyzed-1827-real-user-prompts-from-chatgpt-here-what-ive-found-agentic-search/) de esas conversaciones (o *prompts*).
 
 Y lo que encontró no es solo una anécdota curiosa, es una ventana al futuro de las búsquedas y, por supuesto, del SEO.
 
