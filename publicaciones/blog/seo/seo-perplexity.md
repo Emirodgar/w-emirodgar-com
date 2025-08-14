@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 12-08-2025
-folder: is
+folder: ia
 permalink: seo-perplexity
 ---
 
