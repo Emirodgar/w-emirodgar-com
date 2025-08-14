@@ -37,7 +37,7 @@ He participado en el desarrollo de estrategias para grandes empresas como Movist
 
 ## SEO Growth hacker
 
-La tecnología siempre ha sido un pilar fundamenteal en mis estrategias SEO. Durante estos años he desarrollado la extensión SEO para Wordpress [Automatic SEO Links](https://wordpress.org/plugins/automatic-seo-links/advanced/) con cerca de 100.000 descargas (ya no está activa), la extensión [Emirodgar SEO](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para Chrome o mi [propia plataforma de marketing digital](https://www.linkedin.com/pulse/c%C3%B3mo-la-transformaci%C3%B3n-digital-me-ayud%C3%B3-pagar-de-mi-rodr%C3%ADguez-garc%C3%ADa/) desde la que gestionar todos mis proyectos SEO así como perfiles sociales. 
+La tecnología siempre ha sido un pilar fundamenteal en mis estrategias SEO. Durante estos años he desarrollado la extensión SEO para Wordpress [Automatic SEO Links](https://wordpress.org/plugins/automatic-seo-links/advanced/) con cerca de 100.000 descargas (ya no está activa), la extensión [Emirodgar SEO](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para Chrome (la he hecho privada, por lo que ya no está disponible) o mi [propia plataforma de marketing digital](https://www.linkedin.com/pulse/c%C3%B3mo-la-transformaci%C3%B3n-digital-me-ayud%C3%B3-pagar-de-mi-rodr%C3%ADguez-garc%C3%ADa/) desde la que gestionar todos mis proyectos SEO así como perfiles sociales.
 
 ## Enlaces
 
@@ -83,6 +83,9 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 
 ## En medios
 
+- `Junio 2025` - Tribuna Salamanca / [La IA anestesia la mente](https://www.tribunasalamanca.com/blogs/conectados/posts/407199/la-ia-anestesia-la-mente)
+- `Mayo 2025` - Club de Marketing de Castilla y León / [Entrevista a Emilio Rodríguez](https://open.spotify.com/episode/0RtgsLDmNWbfqufM7XvW9C)
+- `Marzo 2025` - Tribuna Valladolid / [La guerra moderna no destruye, desconecta](https://www.tribunavalladolid.com/blogs/conectados/posts/403472/la-guerra-moderna-no-destruye-desconecta)
 - `Septiembre 2024` - Tribuna Salamanca / [Educación contra la desinformación](https://www.tribunasalamanca.com/blogs/conectados/posts/379494/educacion-contra-la-desinformacion)
 - `Mayo 2023` - Indexando Marketing / [Entrevista a Emilio Rodríguez](https://www.indexandomarketing.com/experto-seo-emilio-rodriguez/)
 - `Febrero 2023` - Tribuna Salamanca / [ChatGPT: ¿Terminará la inteligencia artificial con nuestros trabajos?](https://www.tribunasalamanca.com/noticias/321335/chat-gpt-terminara-la-inteligencia-artificial-con-nuestros-trabajos)
