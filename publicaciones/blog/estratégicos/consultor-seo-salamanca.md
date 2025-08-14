@@ -6,6 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 27/01/2022
+date_modified: 14/08/2025
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
