@@ -1,0 +1,306 @@
+/* --- RESET Y CONFIGURACIÓN GENERAL --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    background-color: #FFFFFF;
+    color: #111111;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* --- CONTENEDOR Y SECCIONES --- */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.section {
+    padding: 80px 0;
+    border-bottom: 1px solid #EAEAEA;
+}
+
+/* --- TIPOGRAFÍA --- */
+h1, h2, h3 {
+    line-height: 1.2;
+    font-weight: 900;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+p {
+    margin-bottom: 1rem;
+    max-width: 65ch; /* Mejora la legibilidad */
+}
+
+a {
+    color: #111111;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+strong {
+    font-weight: 700;
+}
+
+
+/* --- ENCABEZADO (HERO) --- */
+.hero {
+    text-align: center;
+    padding: 100px 0;
+    border-bottom: 1px solid #EAEAEA;
+}
+
+.hero p {
+    font-size: 1.1rem;
+    max-width: 60ch;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+}
+
+/* --- BOTÓN DE LLAMADA A LA ACCIÓN (CTA) --- */
+.cta-button {
+    display: inline-block;
+    background-color: #111111;
+    color: #FFFFFF;
+    padding: 15px 30px;
+    font-weight: 700;
+    border: 2px solid #111111;
+    transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: #FFFFFF;
+    color: #111111;
+}
+
+/* --- SERVICIOS --- */
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+}
+
+.service-card {
+    border: 1px solid #EAEAEA;
+    padding: 30px;
+}
+
+/* --- METODOLOGÍA --- */
+.process-steps {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.step {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.step-number {
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: #111;
+    background-color: #f0f0f0;
+    border-radius: 50%;
+    min-width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.step h3 {
+    margin-bottom: 0.2rem;
+}
+.step p {
+    margin: 0;
+}
+
+/* --- FAQ (PREGUNTAS FRECUENTES) --- */
+.faq-item {
+    border-bottom: 1px solid #EAEAEA;
+}
+.faq-item:last-child {
+    border-bottom: none;
+}
+
+.faq-question {
+    width: 100%;
+    background: none;
+    border: none;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-align: left;
+    font-family: inherit;
+}
+
+.faq-icon {
+    font-size: 1.5rem;
+    font-weight: 400;
+    transition: transform 0.3s ease;
+}
+
+.faq-question.active .faq-icon {
+    transform: rotate(45deg);
+}
+
+.faq-answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+.faq-answer p {
+    padding: 0 0 20px 0;
+}
+
+/* --- CONTACTO --- */
+.contact-section {
+    background-color: #FAFAFA;
+    text-align: center;
+}
+.contact-section p {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 600px;
+    margin: 2rem auto 0;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #CCCCCC;
+    font-family: inherit;
+    font-size: 1rem;
+}
+.contact-form input:focus,
+.contact-form textarea:focus {
+    outline: 2px solid #111111;
+    border-color: #111111;
+}
+.contact-form button {
+    width: 100%;
+}
+
+
+/* --- FOOTER --- */
+footer {
+    padding: 30px 0;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #777777;
+}
+
+/* --- MEDIA QUERIES PARA RESPONSIVE --- */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+    h2 {
+        font-size: 1.8rem;
+    }
+    .section {
+        padding: 60px 0;
+    }
+    .hero {
+        padding: 80px 0;
+    }
+}
+
+/* --- CSS A AÑADIR --- */
+
+/* --- TESTIMONIOS --- */
+#testimonios {
+    background-color: #FAFAFA; /* Un gris muy claro para diferenciar la sección */
+}
+
+.testimonial-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.testimonial-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+}
+
+.testimonial-card img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%; /* Hace la imagen redonda */
+    object-fit: cover; /* Asegura que la imagen no se deforme */
+    filter: grayscale(100%); /* Pone la imagen en blanco y negro */
+}
+
+.testimonial-content blockquote {
+    font-size: 1.1rem;
+    font-style: italic;
+    border: none;
+    padding: 0;
+    margin: 0 0 1rem 0;
+}
+
+.testimonial-content cite {
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* --- Adaptación para pantallas más grandes --- */
+@media (min-width: 768px) {
+    .testimonial-card {
+        flex-direction: row; /* Imagen al lado del texto */
+        text-align: left;
+        gap: 30px;
+    }
+    
+    .testimonial-card img {
+        flex-shrink: 0; /* Evita que la imagen se encoja */
+    }
+}
+
+/* --- FIN DEL CSS A AÑADIR --- */
