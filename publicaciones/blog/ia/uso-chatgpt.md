@@ -1,4 +1,4 @@
---
+---
 title: Para que usamos realmente ChatGPT
 description: Un estudio a gran escala revela que más del 70% del uso de ChatGPT es para ocio y no para trabajar. Descubre los datos reales, los temas más populares y cómo ha cambiado el perfil del usuario.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -11,7 +11,7 @@ date: 19-09-2025
 folder: ia
 permalink: estudio-usos-chatgpt
 
---
+---
 
 Todos hablamos de ChatGPT y de cómo está cambiando el mundo, sobre todo en el trabajo. Pero, ¿sabemos de verdad para qué lo utiliza la gente en su día a día? Este [estudio reciente](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf) a gran escala ha analizado miles de millones de mensajes para darnos una respuesta, y la verdad es que los resultados son bastante sorprendentes. Estas conclusiones, que veremos a continuación, se suman a las que ya analizamos hace algunos meses gracias a la [indexación en Google de miles de conversaciones](https://emirodgar.com/analisis-chatgpt-seo).
 
