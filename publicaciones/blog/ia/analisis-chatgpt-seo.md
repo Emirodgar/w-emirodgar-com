@@ -9,7 +9,7 @@ sitemap: 1
 feed: 1
 date: 14-08-2025
 folder: seo
-permalink: /analisis-chatgpt-seo
+permalink: analisis-chatgpt-seo
 ---
 
 Hace muy poco, un pequeño fallo de indexación en Google dejó al descubierto algo fascinante: **conversaciones reales de usuarios con ChatGPT**. Un pequeño tesoro para los que nos dedicamos a entender cómo busca la gente en internet.
