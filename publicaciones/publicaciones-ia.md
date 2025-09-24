@@ -1,5 +1,5 @@
 ---
-title: Publicaciones Analítica web
+title: Publicaciones sobre Inteligencia Aritificial
 description: Listado de publicaciones sobre Inteligencia Artificial
 lang: es_ES
 layout: emirodgar_post_test
