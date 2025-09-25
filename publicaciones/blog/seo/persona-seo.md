@@ -13,8 +13,6 @@ permalink: por-que-las-personas-son-clave-en-el-seo-con-ia
 
 ---
 
-# Por qué las personas son clave en el SEO con IA
-
 La llegada de la inteligencia artificial ha cambiado por completo cómo entendemos la búsqueda online. Ya no basta con optimizar para palabras clave: ahora los buscadores y asistentes conversacionales interpretan **quién está detrás de la consulta**, sus necesidades, limitaciones y hasta el formato de información que prefieren.  
 
 En este nuevo escenario, trabajar con **personas de usuario** no es un lujo, sino una necesidad para cualquier [estrategia SEO](https://emirodgar.com/estrategia-seo).
