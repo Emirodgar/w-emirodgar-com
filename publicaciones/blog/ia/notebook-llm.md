@@ -1,4 +1,4 @@
---
+---
 
 title: Notebook LM la IA de Google para organizar tu caos de información
 description: Google Notebook LM es una herramienta de IA que te ayuda a procesar y entender tus fuentes de información (PDFs, vídeos, notas). Te explico cómo funciona.
@@ -12,7 +12,7 @@ date: 25-09-2025
 folder: ia
 permalink: notebook-lm-google-ia-investigacion
 
---
+---
 
 # Notebook LM: la IA de Google para poner orden en tu caos de información
 
