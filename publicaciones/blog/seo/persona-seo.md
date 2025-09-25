@@ -1,4 +1,4 @@
---
+---
 title: Por qué las personas son clave en el SEO con IA
 description: Descubre cómo crear personas de usuario útiles para tu estrategia SEO aprovechando los datos que ya tienes en tu empresa y adaptándote a la era de la búsqueda con inteligencia artificial.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -11,7 +11,7 @@ date: 25-09-2025
 folder: ia
 permalink: por-que-las-personas-son-clave-en-el-seo-con-ia
 
---
+---
 
 # Por qué las personas son clave en el SEO con IA
 
