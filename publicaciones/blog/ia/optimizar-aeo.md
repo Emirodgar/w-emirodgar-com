@@ -1,4 +1,4 @@
---
+---
 title: Cómo optimizar para AEO y aparecer en respuestas de ChatGPT
 description: Descubre qué es el AEO, por qué puede ser más rentable que el SEO tradicional y qué estrategias aplicar para que tu producto aparezca en respuestas de ChatGPT y otros modelos de IA.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -11,7 +11,7 @@ date: 25-09-2025
 folder: ia
 permalink: como-optimizar-para-aeo-y-aparecer-en-chatgpt
 
---
+---
 
 # Cómo optimizar para AEO y aparecer en respuestas de ChatGPT
 
