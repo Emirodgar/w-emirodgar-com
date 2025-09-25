@@ -1,4 +1,4 @@
---
+---
 title: Riesgos de conectar tus herramientas a ChatGPT y otros agentes de IA
 description: Conectar tus cuentas de correo, calendario o archivos a ChatGPT puede ser una mala idea. Descubre por qué estos agentes son un riesgo y cómo proteger tus datos.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -7,11 +7,11 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
-date: 24-09-2025
+date: 22-09-2025
 folder: ia
 permalink: riesgos-conectar-herramientas-chatgpt
 
---
+---
 
 # Riesgos de conectar tus herramientas a ChatGPT y otros agentes de IA  
 
