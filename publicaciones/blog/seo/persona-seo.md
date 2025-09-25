@@ -10,6 +10,7 @@ feed: 1
 date: 25-09-2025
 folder: ia
 permalink: por-que-las-personas-son-clave-en-el-seo-con-ia
+
 --
 
 # Por qué las personas son clave en el SEO con IA
