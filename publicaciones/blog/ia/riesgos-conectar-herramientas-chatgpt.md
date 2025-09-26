@@ -13,8 +13,6 @@ permalink: riesgos-conectar-herramientas-chatgpt
 
 ---
 
-# Riesgos de conectar tus herramientas a ChatGPT y otros agentes de IA  
-
 Leía [este post](https://www.linkedin.com/posts/natzir_deja-de-conectar-herramientas-a-llms-como-activity-7376566546959163393-95En/) de Natzir en LinkedIn y me daba cuenta de los peligros a los que nos exponemos con los automatismos relacionados con [agentes de la IA](/agentes-ia).
 **Conectar tu correo, calendario o archivos a un agente de IA puede ser más peligroso de lo que parece.** Dos incidentes recientes han demostrado lo fácil que resulta manipular a estos sistemas y conseguir que filtren información sensible sin que el usuario lo note.  
 
