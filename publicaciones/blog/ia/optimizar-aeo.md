@@ -13,8 +13,6 @@ permalink: como-optimizar-para-aeo-y-aparecer-en-chatgpt
 
 ---
 
-# Cómo optimizar para AEO y aparecer en respuestas de ChatGPT
-
 En los últimos meses se habla cada vez más de **AEO (Answer Engine Optimization)**, un concepto que podría cambiar por completo la forma en la que pensamos el SEO. Si antes el objetivo era aparecer en Google, ahora la batalla se libra también en **ChatGPT, Claude, Gemini o Perplexity**, donde los usuarios buscan respuestas rápidas y directas.
 
 Ethan Smith, CEO de Graphite y referente en el mundo del crecimiento digital, lo explicaba en una conversación con Lenny Rachitsky: **el tráfico desde ChatGPT convierte hasta seis veces mejor que el tráfico desde Google**. Y no es un detalle menor, porque significa que los usuarios que llegan a través de IA no solo buscan información, sino que están mucho más cerca de tomar una decisión.
