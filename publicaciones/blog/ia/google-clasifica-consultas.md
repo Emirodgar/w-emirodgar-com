@@ -13,7 +13,6 @@ permalink: como-clasifica-google-las-consultas-en-8-categorias-distintas
 
 ---
 
-# Cómo clasifica Google las consultas en 8 categorías distintas
 
 Google no solo indexa páginas y muestra resultados. También **clasifica las consultas de los usuarios en función de su intención**. Gracias a una vulnerabilidad descubierta hace poco en un endpoint interno de Google (por la que incluso pagaron a los investigadores que la encontraron), hemos podido saber que casi todas las búsquedas se asignan a una de **8 categorías principales**.
 
