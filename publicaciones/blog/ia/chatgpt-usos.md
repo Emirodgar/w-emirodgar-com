@@ -9,7 +9,7 @@ sitemap: 1
 feed: 1
 date: 29-09-2025
 folder: ia
-permalink: como-sacar-mas-partido-a-chatgpt-con-ingenieria-de-prompts/
+permalink: como-sacar-mas-partido-a-chatgpt-con-ingenieria-de-prompts
 ---
 
 ## ¿Qué es la ingeniería de prompts?
