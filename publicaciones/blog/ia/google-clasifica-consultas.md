@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 29-09-2025
-folder: ia
+folder: seo
 permalink: como-clasifica-google-las-consultas-en-8-categorias-distintas
 
 ---
