@@ -13,7 +13,6 @@ permalink: como-cambia-el-proceso-de-compra-en-la-era-de-la-inteligencia-artific
 
 ---
 
-# Cómo cambia el proceso de compra en la era de la inteligencia artificial
 
 El **proceso de compra de los clientes está cambiando de forma radical**. Antes, la mayoría de usuarios buscaban información en Google, leían blogs, comparaban en foros o veían vídeos en YouTube antes de decidirse. Hoy, cada vez más, ese mismo recorrido lo hacen dentro de **“cajas negras” como los chats de inteligencia artificial** (ChatGPT, Perplexity, etc.).  
 
