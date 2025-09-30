@@ -12,8 +12,6 @@ folder: ia
 permalink: geo-empieza-a-probar
 ---
 
-# GEO deja de adivinar y empieza a probar
-
 La búsqueda está cambiando: la IA captura gran parte de la investigación del usuario antes de que llegue a tu web. Con GEO (Generative Engine Optimization) la solución no es adivinar, sino probar. Nadie tiene a día de hoy la certeza de cómo va a cambiar el ecosistema actual de búsqueda, por lo que ser proactivo y diseñar estrsategias de prueba y error será vital para el éxito de nuestras estrategias.
 
 La búsqueda tal y como la conocíamos está en transformación. Lo que antes eran resultados en una lista de enlaces ahora puede ser una respuesta generada por un modelo de IA que ya ha hecho buena parte del trabajo de investigación por el usuario. Para grandes ecommerce esto significa incertidumbre: **¿cómo influyes una ruta de compra que no ves?** La respuesta corta: deja de predecir y empieza a experimentar.
