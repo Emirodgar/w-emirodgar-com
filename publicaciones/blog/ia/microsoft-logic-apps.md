@@ -12,8 +12,6 @@ folder: ia
 permalink: /microsoft-conecta-ia-logic-apps  
 ---  
 
-# Microsoft conecta la IA con el mundo real gracias a Logic Apps  
-
 La automatización y la inteligencia artificial se acaban de dar la mano. **Microsoft ha lanzado una nueva función que permite a las IA conectarse con miles de aplicaciones sin necesidad de programar**, algo que hasta ahora requería conocimientos técnicos avanzados.  
 
 ## ¿Qué ha presentado exactamente Microsoft?  
