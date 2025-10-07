@@ -47,7 +47,7 @@ Y para los profesionales que trabajan con datos, marketing o desarrollo, se abre
 
 En cierto modo, Microsoft está democratizando el acceso a la automatización. Cualquier persona podrá conectar una IA con su entorno digital y hacerla realmente útil.  
 
-## Conclusión: la IA empieza a mover el mundo real  
+## La IA empieza a mover el mundo real  
 
 Este lanzamiento marca un punto de inflexión. **La IA ya no solo responde: actúa.**  
 Y eso cambia por completo la manera en que la integraremos en nuestro día a día.  
