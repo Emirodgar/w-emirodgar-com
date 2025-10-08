@@ -22,6 +22,8 @@ Ya no basta con que una IA mencione tu marca (dado que eso apenas nos dará un t
 El ecosistema de la IA está evolucionando hacia un modelo donde las empresas pueden integrarse en diferentes niveles dentro de plataformas como ChatGPT.
 Este cambio no es una simple actualización tecnológica; implica una **transformación en cómo las marcas se “presentan” ante las inteligencias artificiales**.
 
+Aquí ya hemos hablado en alguna ocasión de cómo podemos [hacer AEO para posicionarnos en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt). Hoy, el enfoque que quiero explicar es algo más técnico, pero necesario para entender adecuadamente cómo evolucionarán todos estos sistemas. El SEO no muere, pero evoluciona y si no adaptamos nuestras estrategias -y nuestras mentes- perderemos competitividad.
+
 > Podríamos decir que estamos pasando de “ser encontrados” a “ser entendidos y utilizados” por la IA.
 
 ## ¿Cuáles son los tres niveles de integración con la IA?
