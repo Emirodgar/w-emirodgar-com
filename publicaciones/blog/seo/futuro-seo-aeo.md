@@ -12,7 +12,6 @@ permalink: el-futuro-del-posicionamiento-digital-del-seo-al-aeo
 
 ---
 
-# El futuro del posicionamiento digital: del SEO al AEO
 
 La **inteligencia artificial** está transformando la forma en que las marcas se conectan con los usuarios. Hasta ahora, optimizar la visibilidad en buscadores era el gran objetivo del marketing digital. Pero con la llegada de sistemas como **ChatGPT**, el juego está cambiando.
 Ya no basta con que una IA mencione tu marca (dado que eso apenas nos dará un tráfico significativo); ahora puede **interactuar directamente con ella**. Esto abre una nueva etapa del posicionamiento digital: el **AEO (Artificial Engine Optimization)**.
