@@ -1,5 +1,4 @@
 ---
-
 title: El futuro del posicionamiento digital del SEO al AEO
 description: El SEO evoluciona hacia un nuevo escenario donde las inteligencias artificiales no solo recomiendan marcas, sino que interactúan con ellas directamente.
 image: [https://emirodgar.com/cdn/images/og/estrategia-seo.png](https://emirodgar.com/cdn/images/og/estrategia-seo.png)
