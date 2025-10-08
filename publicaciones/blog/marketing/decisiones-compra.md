@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2025
-folder: ia
+folder: marketing
 permalink: por-que-las-decisiones-de-compra-no-siempre-siguen-la-logica
 
 ---
