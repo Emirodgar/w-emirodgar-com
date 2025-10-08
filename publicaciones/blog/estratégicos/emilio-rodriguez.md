@@ -66,6 +66,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 
 ## Ponencias y clases
 
+- `Octubre 2025` - Smartup - Webinar / [El nuevo SEO en la era de la IA](https://es.slideshare.net/slideshow/el-nuevo-seo-en-la-era-de-la-ia-smartup-webinar/283698671)
 - `Abril 2025` - Brain & Code - Programa de IA Generativa para Marketing Digital / [El futuro de los buscadores y las redes sociales en la era de la IA](https://es.slideshare.net/slideshow/piamd-us2-el-futuro-de-los-buscadores-y-las-redes-sociales-en-la-era-de-la-ia/282429595)
 - `Febrero 2025` - Brain & Code - Programa de IA Generativa para Marketing Digital / [Las novedades del algoritmo de Google](https://es.slideshare.net/slideshow/brain-code-las-novedades-del-algoritmo-de-google-pptx/282429546)
 - `Mayo 2024` - UNIR - Curso Avanzado Universitario de SEO / [SEO técnico: rastreo e indexación](https://www.unir.net/marketing-comunicacion/revista/hazte-experto-mundo-seo-areas-mas-demandadas-mercado-laboral/) 
