@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1  
 feed: 1  
 date: 14-10-2025  
-folder: ia  
+folder: seo  
 permalink: regex-google-search-console  
 ---  
 
