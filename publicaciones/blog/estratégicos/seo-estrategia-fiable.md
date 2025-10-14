@@ -13,8 +13,6 @@ permalink: caso-exito-seo-estrategia
 
 ---
 
-# Estrategia SEO fiable
-
 Hoy quiero contaros la historia de dos proyectos y de cómo su evolución ha sido completamente distinta con el paso del tiempo.
 
 Los profesionales del SEO no tenemos una varita mágica para saber qué funciona hoy o qué lo hará en el futuro. Lo que sí tenemos es experiencia y trabajo diario, que nos permiten definir acciones, medir sus resultados y trazar estrategias a medio y largo plazo.
