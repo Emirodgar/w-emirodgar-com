@@ -51,12 +51,12 @@ Es quizá la alternativa más directa a Docker para desarrollo local. Usa práct
 
 Si al instalarlo os sale el error que se ve en la imagen (o algo relacionado con WSL), seguid los siguientes pasos:
 
-``
+```
 wsl --install
 wsl --update (si ya lo teníamos instalado pero no era la última versión)
 wsl --set-default-version 2
 
-``
+```
 
 WSL, o Subsistema de Windows para Linux, es una característica de Windows que te permite ejecutar un entorno de Linux real directamente en tu PC, sin necesidad de crear una máquina virtual tradicional o de reiniciar el ordenador con otro sistema operativo.
 
