@@ -109,6 +109,19 @@ El obstáculo mayor no es técnico, sino mental: cambiar algo que ya conoces y c
 - **Resistencia del equipo**: implica formación mínima, pero es manejable si demuestras beneficios.  
 - **Compatibilidad**: en algunos casos habrá que ajustar scripts o Dockerfiles peculiares — pero muchas herramientas actuales ya contemplan compatibilidad OCI o cuentan con puentes (alias, wrappers, etc.). ([sanj.dev](https://sanj.dev/post/docker-vs-podman-comparison?utm_source=chatgpt.com))
 
+
+## ¿Podemos enriquecer este sistema para ser más eficientes?
+
+Por supuesto que sí. Hay infinidad de programas y servicios que podemos instalar en nuestro servidor para mejorar la eficiencia o disponer de un sistema más robusto.
+
+- **Monitorización**: Con Prometheus y Grafana para observar el rendimiento del sistema en tiempo real.
+- **Gestión del tráfico**: Con NGINX Ingress para dirigir las peticiones de los usuarios.
+- **Bases de datos**: Con PostgreSQL y Redis para almacenar datos de forma persistente y eficiente.
+- **Automatización (GitOps)**: Con ArgoCD para que los cambios en el código se desplieguen automáticamente.
+- **Acceso global**: Usando Cloudflare Tunnel para poder mostrar tu proyecto en internet de forma segura, directamente desde tu ordenador.
+
+La gran ventaja de este enfoque es que te enfrentas a problemas reales que surgen en un entorno de producción (configuración de redes, persistencia de datos, monitorización de fallos). Esto te proporciona la experiencia práctica necesaria para superar entrevistas de trabajo.
+
 Docker marcó un antes y un después en el mundo del desarrollo y los contenedores. Pero en 2025, ya no es la mejor opción para todos. 
 Podman, containerd, imágenes distroless, servicios gestionados y WASM son opciones que están demostrando su valor en escenarios reales. Y lo bueno: no es necesario reinventar todo de golpe; puedes migrar paso a paso, evaluando qué herramienta aporta más en cada contexto.
 
