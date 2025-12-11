@@ -47,6 +47,7 @@ Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com
 ## Certificaciones
 A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos son algunas de las certificaciones y formaciones que he cursado.
 
+- `2025` - Digital Growth Hacking / The Valley ([ver credencial](https://lms.thevalley.es/certificaciones/hash-e9f4dc1504d620bb0938c3901eb0d04c))
 - `2025` - Programa de IA Generativa para Marketing Digital ([ver credencial](https://eu.badgr.com/public/assertions/unwgh3pBS_6VzFPPOgHthw))
 - `2023` - Certificación SCRUM Manager ([ver credencial](https://www.scrummanager.com/website/c/profile/member.php?id=42726))
 - `2015` - `2019` - `2021` - `2022` - `2023` - Certificación de Google Analytics ([ver credencial](https://skillshop.exceedlms.com/student/award/u2PraBhQfWWhDpes6j8tzLug))
