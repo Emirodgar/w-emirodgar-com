@@ -24,7 +24,6 @@ He sido director SEO en dos agencias de referencia (Internet Advantage y Smartup
 
 En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas como la **Universidad Pontificia de Salamanca**, **La Gaceta de Salamanca**, **Grupo Tribuna**, **Oyrsa** o el histórico café bar **Novelty**.
 
----
 
 ## Experiencia como ponente y formador
 
@@ -33,7 +32,6 @@ Fuera del ámbito local, colaboro como docente con la **Universidad de Deusto**,
 
 También cuento con certificación del **ICEX España** como especialista SEO para ayudar a empresas a expandir sus productos en mercados internacionales mediante estrategias de posicionamiento web.
 
----
 
 ## ¿Por qué invertir en SEO para tu empresa en Salamanca?
 
@@ -51,7 +49,6 @@ El SEO es una inversión estratégica que aporta beneficios sostenibles:
 - **Ventaja sostenible**: Una vez posicionado, es difícil que tu competencia te desplace.  
 - **ROI demostrado**: Casos documentados con retornos superiores al 500%.
 
----
 
 ## Cartera de clientes y casos de éxito
 
@@ -69,7 +66,6 @@ Puedes ver ejemplos en mis [casos de éxito SEO](https://emirodgar.com/casos-exi
 - Transparencia total: acceso a herramientas y datos del proyecto.  
 - Entrega de todo el material y resolución de dudas en cada fase.
 
----
 
 ## Beneficios directos de mi consultoría SEO
 
@@ -80,7 +76,6 @@ Puedes ver ejemplos en mis [casos de éxito SEO](https://emirodgar.com/casos-exi
 
 Mi objetivo: diseñar una estrategia SEO que posicione tu negocio en **búsquedas locales** de Salamanca y provincia, optimizando Google My Business, citaciones locales y contenido geolocalizado.
 
----
 
 ## Metodología de trabajo
 
@@ -90,7 +85,6 @@ Mi objetivo: diseñar una estrategia SEO que posicione tu negocio en **búsqueda
 4. **Monitorización y reporting**: Informes claros sobre posiciones, tráfico y conversiones.  
 5. **Optimización continua**: Ajustes basados en datos y cambios de algoritmo.
 
----
 
 ## Resultados en Salamanca
 
@@ -98,7 +92,6 @@ Mi objetivo: diseñar una estrategia SEO que posicione tu negocio en **búsqueda
 - **150x keywords posicionadas** para un e-commerce local (de 20 a más de 3.000 en top 10).  
 - **+532% en tráfico orgánico** para una clínica dental (+40 pacientes mensuales).
 
----
 
 ## Motivos para elegir mi consultoría SEO
 
@@ -116,3 +109,11 @@ Certificado por Google, HubSpot y SEMrush. Ponente en universidades y escuelas d
 
 ### Transparencia total
 Acceso a datos, reuniones periódicas y documentación detallada de todas las acciones.
+
+
+## Formas de contacto
+
+- Teléfono de contacto: 923 21 28 69
+- Dirección: C. Segunda, 43, 37188 Carbajosa de la Sagrada, Salamanca
+- Email: hola@emirodgar.com
+- Perfiles sociales: [LinkedIn](https://www.linkedin.com/in/emirodgar/) / [X](https://x.com/emirodgar/)
