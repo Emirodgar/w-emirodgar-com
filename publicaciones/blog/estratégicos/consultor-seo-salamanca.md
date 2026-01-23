@@ -25,7 +25,7 @@ He sido director SEO en dos agencias de referencia (Internet Advantage y Smartup
 En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas como la **Universidad Pontificia de Salamanca**, **La Gaceta de Salamanca**, **Grupo Tribuna**, **Oyrsa** o el histórico café bar **Novelty**.
 
 
-{% highlight json %}
+{% raw %}
 <script type="application/ld+json">
 [{
   "@context": "https://schema.org",
@@ -96,7 +96,7 @@ En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas
   }]
 }]
 </script>
-{% endhighlight %}
+{% endraw %}
 
 
 ## Experiencia como ponente y formador
