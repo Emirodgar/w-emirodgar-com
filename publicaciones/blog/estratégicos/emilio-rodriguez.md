@@ -13,11 +13,108 @@ permalink: emilio-rodriguez
 
 ---
 
-Mi nombre es Emilio Rodríguez García y me acerqué al maravilloso mundo del SEO en 2007. Deja que te cuente un poco cómo ha sido el proceso para que puedas conocer mejor quién está detrás de esta página.
+{% raw %}
 
-## ¿Cómo empezó todo?
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://emirodgar.com/#person",
+      "name": "Emilio Rodríguez García",
+      "alternateName": "Emirodgar",
+      "jobTitle": "Director SEO y Analítica Web",
+      "description": "Especialista SEO técnico con más de 15 años de experiencia. Director SEO en Smartup y profesor en USAL, Deusto y UNIR.",
+      "url": "https://emirodgar.com/emilio-rodriguez",
+      "image": "https://emirodgar.com/assets/images/emirodgar.jpg",
+      "sameAs": [
+        "https://twitter.com/emirodgar",
+        "https://www.linkedin.com/in/emirodgar/",
+        "https://es.quora.com/profile/Emilio-Rodríguez-1",
+        "https://webmasters.stackexchange.com/users/86914/emirodgar",
+        "https://github.com/emirodgar"
+      ],
+      "knowsAbout": [
+        "Search Engine Optimization",
+        "Web Analytics",
+        "Big Data",
+        "Growth Hacking",
+        "Generative AI",
+        "Google Analytics 4"
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Digital Growth Hacking",
+          "recognizedBy": { "@type": "Organization", "name": "The Valley Digital Business School" }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Programa de IA Generativa para Marketing Digital",
+          "recognizedBy": { "@type": "Organization", "name": "Brain & Code" }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Certificación SCRUM Manager",
+          "recognizedBy": { "@type": "Organization", "name": "Scrum Manager" }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Asesor SEO homologado",
+          "recognizedBy": { "@type": "Organization", "name": "ICEX España Exportación e Inversiones" }
+        }
+      ]
+    },
+    {
+      "@type": "Occupation",
+      "@id": "https://emirodgar.com/#occupation",
+      "name": "Consultor SEO",
+      "mainEntityOfPage": { "@id": "https://emirodgar.com/emilio-rodriguez" },
+      "experienceRequirements": "Más de 15 años en el sector",
+      "occupationLocation": {
+        "@type": "City",
+        "name": "Salamanca"
+      }
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "https://emirodgar.com/emilio-rodriguez",
+      "mainEntity": { "@id": "https://emirodgar.com/#person" },
+      "lastReviewed": "2025-08-14",
+      "significantLink": [
+        "https://emirodgar.com/casos-exito-seo",
+        "https://emirodgar.com/publicaciones"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "name": "Certificaciones y Formación",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Digital Growth Hacking (2025)"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "IA Generativa para Marketing (2025)"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Máster en Comercio Electrónico - USAL"
+        }
+      ]
+    }
+  ]
+}
 
-Al mismo tiempo que estudiaba la carrera (**Ingeniería Informática Superior**) obtuve dos becas de la Universidad Pontificia de Salamanca y la fundación Caja Duero para desarrollar aplicaciones I+D sobre tecnología móvil. Tras esto, trabajé como analista web en RENFE.
+{% endraw %}
+
+Mi nombre es Emilio Rodríguez García y me acerqué al maravilloso mundo del SEO en 2008. 
+
+Al mismo tiempo que estudiaba la carrera (**[Ingeniería Informática Superior](https://emirodgar.com/ingeniero-informatico)**) obtuve dos becas de la Universidad Pontificia de Salamanca y la fundación Caja Duero para desarrollar aplicaciones I+D sobre tecnología móvil. Tras esto, trabajé como analista web en RENFE.
   
 Al encontrar una gran motivación en el desarrollo de estrategias digitales, algo que inicié con mis proyectos personales en 2007, comencé a trabajar como consultor SEO en Traffic4u en el año 2009. Continué mi formación en este sector cursando el **Máster en Desarrollo de Sistemas para el Comercio Electrónico** de la Universidad de Salamanca y obteniendo las certificaciones de **Google Analytics**, **MobileExperts** y **Webtrekk**.  
 
@@ -26,7 +123,6 @@ También he colaborado como profesor en los centros de negocios de C2B (Campus 2
 ## Evolución SEO
   
 Tras más de 6 años como [consultor SEO](https://emirodgar.com/consultor-seo) en Traffic4U pasé a dirigir el departamento SEO de la agencia internacional Internet Advantage, con sede en España y Holanda.
-
 Actualmente, con más de 15 años en el sector, trabajo como Director SEO en la agencia de marketing digital, Smartup, posicionando proyectos en España, Portugal, Colombia, Venezuela y México. 
 
 Compagino este trabajo dando clases en el programa **Big Data y Business Intelligence** de la Universidad de Deusto, en el **Máster de Marketing Digital** de la Universidad de Salamanca, en el **Máster Universitario en Marketing Digital** de UNIR  y como asesor homologado de **ICEX España** (Instituto Español de Comercio Exterior).  
@@ -38,11 +134,6 @@ He participado en el desarrollo de estrategias para grandes empresas como Movist
 ## SEO Growth hacker
 
 La tecnología siempre ha sido un pilar fundamenteal en mis estrategias SEO. Durante estos años he desarrollado la extensión SEO para Wordpress [Automatic SEO Links](https://wordpress.org/plugins/automatic-seo-links/advanced/) con cerca de 100.000 descargas (ya no está activa), la extensión [Emirodgar SEO](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para Chrome (la he hecho privada, por lo que ya no está disponible) o mi [propia plataforma de marketing digital](https://www.linkedin.com/pulse/c%C3%B3mo-la-transformaci%C3%B3n-digital-me-ayud%C3%B3-pagar-de-mi-rodr%C3%ADguez-garc%C3%ADa/) desde la que gestionar todos mis proyectos SEO así como perfiles sociales.
-
-## Enlaces
-
-Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com/emirodgar) o [LinkedIn](https://www.linkedin.com/in/emirodgar/). También echo una mano en los foros de Webmasters Stack Exchange ([perfil](https://webmasters.stackexchange.com/users/86914/emirodgar)) y Quora ([perfil](https://es.quora.com/profile/Emilio-Rodr%C3%ADguez-1)) ayudando en SEO y Analítica.
-
 
 ## Certificaciones
 A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos son algunas de las certificaciones y formaciones que he cursado.
@@ -102,4 +193,8 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Noviembre 2022` - Tribuna Valladolid /  [Metaverso: descenso a los infiernos](https://www.tribunavalladolid.com/noticias/310453/metaverso-el-descenso-a-los-infiernos)
 - `Octubre 2022` - Tribuna Valladolid / [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - Tribuna Valladolid / [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
+
+## Enlaces
+
+Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com/emirodgar) o [LinkedIn](https://www.linkedin.com/in/emirodgar/). También echo una mano en los foros de Webmasters Stack Exchange ([perfil](https://webmasters.stackexchange.com/users/86914/emirodgar)) y Quora ([perfil](https://es.quora.com/profile/Emilio-Rodr%C3%ADguez-1)) ayudando en SEO y Analítica.
 
