@@ -25,7 +25,7 @@ He sido director SEO en dos agencias de referencia (Internet Advantage y Smartup
 En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas como la **Universidad Pontificia de Salamanca**, **La Gaceta de Salamanca**, **Grupo Tribuna**, **Oyrsa** o el histórico café bar **Novelty**.
 
 
-```json
+{% highlight json %}
 <script type="application/ld+json">
 [{
   "@context": "https://schema.org",
@@ -96,7 +96,7 @@ En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas
   }]
 }]
 </script>
-```
+{% endhighlight %}
 
 
 ## Experiencia como ponente y formador
@@ -124,9 +124,35 @@ El SEO es una inversión estratégica que aporta beneficios sostenibles:
 - **ROI demostrado**: Casos documentados con retornos superiores al 500%.
 
 
-## Cartera de clientes y casos de éxito
+## Casos de éxito: Posicionamiento Web en Salamanca con resultados reales
 
-A lo largo de los años he trabajado para empresas de todo tipo, ayudándolas a mejorar su presencia en Google.  
+No todos los proyectos son iguales. Mi experiencia como **consultor SEO en Salamanca** me ha permitido trabajar con diversos sectores, desde instituciones educativas de prestigio hasta negocios con solera en la Plaza Mayor. 
+
+A continuación, algunos ejemplos de cómo hemos transformado la visibilidad en negocio:
+
+| Cliente / Entidad | Sector | Impacto de la Estrategia |
+| :--- | :--- | :--- |
+| **Universidad Pontificia** | Educación Superior | Optimización de arquitectura para captación de alumnos a nivel nacional e internacional. |
+| **La Gaceta de Salamanca** | Medios de Comunicación | Mejora en la indexación de contenidos en tiempo real y aumento de tráfico vía Google Discover. |
+| **Grupo Tribuna** | Prensa Digital | Estrategia técnica para mejorar el rendimiento (Core Web Vitals) y visibilidad local. |
+| **Café Novelty** | Hostelería Histórica | SEO Local estratégico para dominar búsquedas turísticas en el centro de Salamanca. |
+| **Oyrsa** | Industria/Servicios | Posicionamiento de servicios especializados B2B superando a competidores nacionales. |
+
+### Cómo logramos que estos negocios destaquen en Google
+Para ser el **mejor consultor SEO en Salamanca** para estos clientes, no aplicamos una receta estándar. El éxito se basó en tres pilares que también aplicaré en tu proyecto:
+
+1.  **Entendimiento del mercado local:** Conocemos cómo busca el salmantino y qué términos tienen mayor intención de compra en la provincia.
+2.  **Autoridad Técnica:** Al usar tecnologías eficientes (como Jekyll), garantizamos que la web sea más rápida que cualquier WordPress de la competencia.
+3.  **Linkbuilding de proximidad:** Conseguimos menciones en medios y directorios que Google asocia directamente con Castilla y León.
+
+> "La inversión en SEO técnico es lo que marca la diferencia entre aparecer en Google y realmente dominar las SERPs de Salamanca". — **Emilio Rodríguez García**.
+
+---
+
+### ¿Quieres ser el próximo caso de éxito?
+Si buscas un **experto SEO en Salamanca** que se involucre en tus KPIs y no solo te envíe reportes de posiciones, hablemos. Analizaré tu web y te diré honestamente si puedo ayudarte a escalar.
+
+[Quiero una Auditoría Gratuita](https://emirodgar.com/contacto)
 Puedes ver ejemplos en mis [casos de éxito SEO](https://emirodgar.com/casos-exito-seo).
 
 ![Cartera de clientes SEO - Emirodgar](https://emirodgar.com/cdn/images/clients/erg-com-clientes.jpg){:class="img-responsive"}
