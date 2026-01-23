@@ -17,12 +17,10 @@ redirect_from:
 
 ---
 
-## Consultor SEO en Salamanca con experiencia local e internacional
-
-Soy **Emilio Rodríguez**, consultor SEO con más de **18 años de experiencia** trabajando en Salamanca y para proyectos nacionales e internacionales.  
+Soy **Emilio Rodríguez**, consultor SEO con más de **18 años de experiencia** trabajando en Salamanca para proyectos nacionales e internacionales.  
 He sido director SEO en dos agencias de referencia (Internet Advantage y Smartup) y he gestionado más de un centenar de proyectos para empresas de diferentes sectores.
 
-En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas como la **Universidad Pontificia de Salamanca**, **La Gaceta de Salamanca**, **Grupo Tribuna**, **Oyrsa** o el histórico café bar **Novelty**.
+En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas como la **Universidad Pontificia de Salamanca**, **La Gaceta de Salamanca**, **Grupo Tribuna**, **Oyrsa**, **Opal Vidrieras** o el histórico café bar **Novelty**.
 
 
 {% raw %}
@@ -99,14 +97,6 @@ En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas
 {% endraw %}
 
 
-## Experiencia como ponente y formador
-
-He impartido ponencias y formaciones como experto en marketing digital en la **Universidad Pontificia de Salamanca** y en el **Máster de Marketing Digital de la Universidad de Salamanca**.  
-Fuera del ámbito local, colaboro como docente con la **Universidad de Deusto**, **Foro Economía Digital**, **C2B** o la **Escuela Europea de Negocios**.
-
-También cuento con certificación del **ICEX España** como especialista SEO para ayudar a empresas a expandir sus productos en mercados internacionales mediante estrategias de posicionamiento web.
-
-
 ## ¿Por qué invertir en SEO para tu empresa en Salamanca?
 
 El SEO es una inversión estratégica que aporta beneficios sostenibles:
@@ -126,7 +116,7 @@ El SEO es una inversión estratégica que aporta beneficios sostenibles:
 
 ## Casos de éxito: Posicionamiento Web en Salamanca con resultados reales
 
-No todos los proyectos son iguales. Mi experiencia como **consultor SEO en Salamanca** me ha permitido trabajar con diversos sectores, desde instituciones educativas de prestigio hasta negocios con solera en la Plaza Mayor. 
+No todos los proyectos son iguales. Mi experiencia como **consultor SEO de empresas en Salamanca** me ha permitido trabajar con diversos sectores, desde instituciones educativas de prestigio hasta negocios con solera en la Plaza Mayor. 
 
 A continuación, algunos ejemplos de cómo hemos transformado la visibilidad en negocio:
 
@@ -139,7 +129,7 @@ A continuación, algunos ejemplos de cómo hemos transformado la visibilidad en 
 | **Oyrsa** | Industria/Servicios | Posicionamiento de servicios especializados B2B superando a competidores nacionales. |
 
 ### Cómo logramos que estos negocios destaquen en Google
-Para ser el **mejor consultor SEO en Salamanca** para estos clientes, no aplicamos una receta estándar. El éxito se basó en tres pilares que también aplicaré en tu proyecto:
+Para ser los **mejores consultores SEO en Salamanca** para estos clientes, no aplicamos una receta estándar. El éxito se basó en tres pilares que también aplicaré en tu proyecto:
 
 1.  **Entendimiento del mercado local:** Conocemos cómo busca el salmantino y qué términos tienen mayor intención de compra en la provincia.
 2.  **Autoridad Técnica:** Al usar tecnologías eficientes (como Jekyll), garantizamos que la web sea más rápida que cualquier WordPress de la competencia.
@@ -150,7 +140,7 @@ Para ser el **mejor consultor SEO en Salamanca** para estos clientes, no aplicam
 ---
 
 ### ¿Quieres ser el próximo caso de éxito?
-Si buscas un **experto SEO en Salamanca** que se involucre en tus KPIs y no solo te envíe reportes de posiciones, hablemos. Analizaré tu web y te diré honestamente si puedo ayudarte a escalar.
+Si buscas un **experto SEO en Salamanca** que se involucre en tus resultados y no solo te envíe reportes de posiciones, hablemos. Analizaré tu web y te diré honestamente si puedo ayudarte a escalar.
 
 [Quiero una Auditoría Gratuita](https://emirodgar.com/contacto)
 Puedes ver ejemplos en mis [casos de éxito SEO](https://emirodgar.com/casos-exito-seo).
@@ -199,39 +189,13 @@ Absolutamente. El 46% de las búsquedas en Google tienen intención local. Optim
 
 Mi objetivo: diseñar una estrategia SEO que posicione tu negocio en **búsquedas locales** de Salamanca y provincia, optimizando Google My Business, citaciones locales y contenido geolocalizado.
 
+## Experiencia como ponente y formador
 
-## Metodología de trabajo
+He impartido ponencias y formaciones como experto en marketing digital en la **Universidad Pontificia de Salamanca** y en el **Máster de Marketing Digital de la Universidad de Salamanca**.  
+Fuera del ámbito local, colaboro como docente con la **Universidad de Deusto**, **Foro Economía Digital**, **C2B** o la **Escuela Europea de Negocios**.
 
-1. **Análisis inicial**: Evaluación de situación actual, competencia y oportunidades.  
-2. **Estrategia personalizada**: Plan adaptado a objetivos, presupuesto y plazos.  
-3. **Implementación técnica**: Optimización on-page, contenido y off-page.  
-4. **Monitorización y reporting**: Informes claros sobre posiciones, tráfico y conversiones.  
-5. **Optimización continua**: Ajustes basados en datos y cambios de algoritmo.
+También cuento con certificación del **ICEX España** como especialista SEO para ayudar a empresas a expandir sus productos en mercados internacionales mediante estrategias de posicionamiento web.
 
-
-## Resultados en Salamanca
-
-- **+459% en conversiones** para una empresa de servicios profesionales (#1 en 15 keywords principales).  
-- **150x keywords posicionadas** para un e-commerce local (de 20 a más de 3.000 en top 10).  
-- **+532% en tráfico orgánico** para una clínica dental (+40 pacientes mensuales).
-
-
-## Motivos para elegir mi consultoría SEO
-
-### Experiencia local contrastada
-18 años trabajando con empresas de Salamanca, con conocimiento profundo del mercado y su competencia.
-
-### Resultados medibles
-Objetivos claros, métricas transparentes y reporting constante.
-
-### Estrategia a medida
-Cada negocio recibe un plan SEO adaptado a su sector y recursos.
-
-### Formación y actualización constante
-Certificado por Google, HubSpot y SEMrush. Ponente en universidades y escuelas de negocio.
-
-### Transparencia total
-Acceso a datos, reuniones periódicas y documentación detallada de todas las acciones.
 
 
 ## Formas de contacto
