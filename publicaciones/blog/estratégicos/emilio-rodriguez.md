@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/01/2022
-date_modified: 14/08/2025
+date_modified: 23/01/2026
 folder: estrategicos
 layout: emirodgar_post
 permalink: emilio-rodriguez
