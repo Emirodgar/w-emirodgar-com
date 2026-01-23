@@ -11,3 +11,54 @@
     margin-top: 0.9375rem;
     text-align: center;
 }
+/* Estilos globales para todas las tablas <table> */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-family: inherit;
+  font-size: 0.95rem;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  overflow: hidden; /* Para que el radio del borde se vea en las esquinas */
+}
+
+/* Encabezado */
+table thead tr {
+  background-color: #007bff; /* Color azul estándar, cámbialo por el de tu marca */
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+/* Celdas (encabezado y cuerpo) */
+table th,
+table td {
+  padding: 12px 15px;
+  border: 1px solid #eeeeee;
+}
+
+/* Filas alternas (cebreadas) para mejorar la lectura */
+table tbody tr:nth-of-type(even) {
+  background-color: #f9f9f9;
+}
+
+/* Efecto al pasar el ratón */
+table tbody tr:hover {
+  background-color: #f1f1f1;
+  transition: background-color 0.2s ease;
+}
+
+/* Última fila */
+table tbody tr:last-of-type {
+  border-bottom: 2px solid #007bff;
+}
+
+/* Adaptabilidad para móviles */
+@media (max-width: 768px) {
+  table {
+    display: block;
+    overflow-x: auto; /* Permite scroll horizontal si la tabla es muy ancha */
+    -webkit-overflow-scrolling: touch;
+  }
+}
