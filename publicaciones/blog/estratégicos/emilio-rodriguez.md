@@ -13,6 +13,8 @@ permalink: emilio-rodriguez
 
 ---
 
+Mi nombre es Emilio Rodríguez García y me acerqué al maravilloso mundo del SEO en 2008. 
+
 {% raw %}
 <script type="application/ld+json">
 [{
@@ -114,8 +116,6 @@ permalink: emilio-rodriguez
 </script>
 
 {% endraw %}
-
-Mi nombre es Emilio Rodríguez García y me acerqué al maravilloso mundo del SEO en 2008. 
 
 Al mismo tiempo que estudiaba la carrera (**[Ingeniería Informática Superior](https://emirodgar.com/ingeniero-informatico)**) obtuve dos becas de la Universidad Pontificia de Salamanca y la fundación Caja Duero para desarrollar aplicaciones I+D sobre tecnología móvil. Tras esto, trabajé como analista web en RENFE.
   
