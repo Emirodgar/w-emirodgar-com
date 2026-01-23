@@ -22,6 +22,8 @@ He sido director SEO en dos agencias de referencia (Internet Advantage y Smartup
 
 En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas como la **Universidad Pontificia de Salamanca**, **La Gaceta de Salamanca**, **Grupo Tribuna**, **Oyrsa**, **Opal Vidrieras** o el histórico café bar **Novelty**.
 
+<img width="392" class="img-responsive" alt="reseñas positivas para consultor SEO en Salamanca" src="https://github.com/user-attachments/assets/7ea4413d-99fc-4c5f-b477-835a42324b36" />
+
 
 {% raw %}
 <script type="application/ld+json">
@@ -127,6 +129,11 @@ A continuación, algunos ejemplos de cómo hemos transformado la visibilidad en 
 | **Grupo Tribuna** | Prensa Digital | Estrategia técnica para mejorar el rendimiento (Core Web Vitals) y visibilidad local. |
 | **Café Novelty** | Hostelería Histórica | SEO Local estratégico para dominar búsquedas turísticas en el centro de Salamanca. |
 | **Oyrsa** | Industria/Servicios | Posicionamiento de servicios especializados B2B superando a competidores nacionales. |
+
+Verifica lo que la gente habla de nosotros.
+
+[<img width="208" class="img-responsive" alt="Comentarios positivos SEO Salamanca en Google" src="https://github.com/user-attachments/assets/2c168287-0379-43ab-97a1-791e3ce99757" />](https://www.google.com/search?sa=X&sca_esv=09a4dc9e07e27686&rlz=1C1ASUM_esES1159ES1159&sxsrf=ANbL-n4VJ0ZFq3hj0IthPKTlI3twqZxjZQ:1769169883425&q=Emirodgar+Rese%C3%B1as&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxIxtDAwNDEztjAytTQyNrY0MTcyNtvAyPiKUcg1N7MoPyU9sUghKLU49fDGxOJFrFgEAXBW0LxFAAAA&rldimm=18014638259233947236&tbm=lcl&hl=es-ES&ved=2ahUKEwj4tsuzz6GSAxXBU0EAHWQWE44Q9fQKegQIXBAG&biw=1194&bih=911&dpr=1&aic=0#lkt=LocalPoiReviews)
+
 
 ### Cómo logramos que estos negocios destaquen en Google
 Para ser los **mejores consultores SEO en Salamanca** para estos clientes, no aplicamos una receta estándar. El éxito se basó en tres pilares que también aplicaré en tu proyecto:
