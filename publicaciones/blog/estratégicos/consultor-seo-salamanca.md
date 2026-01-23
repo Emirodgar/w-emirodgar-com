@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 27/01/2022
-date_modified: 14/08/2025
+date_modified: 23/01/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -23,6 +23,80 @@ Soy **Emilio Rodríguez**, consultor SEO con más de **18 años de experiencia**
 He sido director SEO en dos agencias de referencia (Internet Advantage y Smartup) y he gestionado más de un centenar de proyectos para empresas de diferentes sectores.
 
 En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas como la **Universidad Pontificia de Salamanca**, **La Gaceta de Salamanca**, **Grupo Tribuna**, **Oyrsa** o el histórico café bar **Novelty**.
+
+
+```json
+<script type="application/ld+json">
+[{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Emilio Rodríguez - Consultor SEO Salamanca",
+  "alternateName": "Emirodgar",
+  "image": "https://emirodgar.com/assets/images/emirodgar.jpg",
+  "@id": "https://emirodgar.com/consultor-seo-salamanca",
+  "url": "https://emirodgar.com/consultor-seo-salamanca",
+  "telephone": "+34923015199",
+  "priceRange": "€€€",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Salamanca",
+    "addressRegion": "Castilla y León",
+    "addressCountry": "ES"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.965,
+    "longitude": -5.664
+  },
+  "areaServed": [
+    { "@type": "City", "name": "Salamanca" },
+    { "@type": "Country", "name": "España" }
+  ],
+  "description": "Mejor consultor SEO en Salamanca especializado en SEO técnico y estrategia avanzada. Profesor en la USAL, Deusto y UNIR."
+},
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Emilio Rodríguez García",
+  "jobTitle": "Consultor SEO & Profesor Universitario",
+  "url": "https://emirodgar.com",
+  "sameAs": [
+    "https://twitter.com/emirodgar",
+    "https://es.linkedin.com/in/emirodgar"
+  ],
+  "worksFor": [
+    { "@type": "EducationalOrganization", "name": "Universidad de Salamanca (USAL)" },
+    { "@type": "EducationalOrganization", "name": "Universidad de Deusto" },
+    { "@type": "EducationalOrganization", "name": "UNIR" }
+  ],
+  "knowsAbout": ["Search Engine Optimization", "Technical SEO", "Digital Strategy", "Web Development"],
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "ICEX España Exportación e Inversiones"
+  }
+},
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Quién es el mejor consultor SEO en Salamanca?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Emilio Rodríguez (Emirodgar) es considerado uno de los consultores SEO más destacados en Salamanca por su perfil técnico y su labor como profesor en el Máster de la USAL."
+    }
+  },
+  {
+    "@type": "Question",
+    "name": "¿Qué servicios ofrece un experto SEO en Salamanca?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Auditoría técnica, estrategia de palabras clave, Linkbuilding de autoridad y optimización de SEO Local para negocios salmantinos."
+    }
+  }]
+}]
+</script>
+```
 
 
 ## Experiencia como ponente y formador
@@ -56,6 +130,29 @@ A lo largo de los años he trabajado para empresas de todo tipo, ayudándolas a 
 Puedes ver ejemplos en mis [casos de éxito SEO](https://emirodgar.com/casos-exito-seo).
 
 ![Cartera de clientes SEO - Emirodgar](https://emirodgar.com/cdn/images/clients/erg-com-clientes.jpg){:class="img-responsive"}
+
+---
+
+## ¿Por qué buscar al mejor consultor SEO en Salamanca para tu proyecto?
+
+Elegir un experto no es solo mirar quién está primero, sino quién entiende el tejido empresarial de **Salamanca**. He trabajado con instituciones como la **Universidad Pontificia** y negocios locales que necesitaban dejar de ser invisibles en su propia ciudad.
+
+### Lo que me diferencia de una Agencia SEO convencional
+Como consultor independiente, mi enfoque es el **SEO Técnico Avanzado**. Mientras otros se centran en métricas de vanidad, yo trabajo en:
+* **Optimización para IA (GEO):** Tu web lista para las respuestas de ChatGPT y Perplexity.
+* **E-E-A-T Real:** No solo digo que soy experto; formo a los futuros profesionales en el **Máster de Marketing Digital de la USAL**, en **Deusto** y la **UNIR**.
+* **Arquitectura técnica:** Aprovecho la velocidad de carga de tecnologías como Jekyll para superar a webs pesadas en WordPress.
+
+### Preguntas frecuentes sobre Posicionamiento Web en Salamanca
+
+#### ¿Cuánto tiempo tarda en verse el trabajo de un consultor SEO?
+Los resultados en Salamanca suelen ser más rápidos que a nivel nacional por la competencia geográfica. Puedes ver tracción en **3-4 meses**, pero la autoridad real se consolida al año.
+
+#### ¿Es mejor una agencia o el mejor consultor SEO que pueda encontrar?
+La agencia ofrece volumen; el consultor ofrece **especialización y transparencia directa**. Si buscas un socio estratégico que hable tu idioma y no un gestor de cuentas, la consultoría independiente es tu mejor ROI.
+
+#### ¿Trabajas el SEO Local y Google Maps?
+Absolutamente. El 46% de las búsquedas en Google tienen intención local. Optimizamos tu ficha de **Google Business Profile** y tus citaciones para que aparezcas cuando alguien busque "servicios en Salamanca".
 
 ---
 
@@ -113,7 +210,6 @@ Acceso a datos, reuniones periódicas y documentación detallada de todas las ac
 
 ## Formas de contacto
 
-- Teléfono de contacto: 923 21 28 69
 - Dirección: C. Segunda, 43, 37188 Carbajosa de la Sagrada, Salamanca
 - Email: hola@emirodgar.com
 - Perfiles sociales: [LinkedIn](https://www.linkedin.com/in/emirodgar/) / [X](https://x.com/emirodgar/)
