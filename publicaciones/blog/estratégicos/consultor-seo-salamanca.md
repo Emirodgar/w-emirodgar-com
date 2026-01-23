@@ -21,8 +21,6 @@ Soy **Emilio Rodríguez**, consultor SEO con más de **18 años de experiencia**
 
 En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas como la **Universidad Pontificia de Salamanca**, **La Gaceta de Salamanca**, **Grupo Tribuna**, **Oyrsa**, **Opal Vidrieras** o el histórico café bar **Novelty**.
 
-[<img width="503" class="img-responsive" alt="reseñas positivas para consultor SEO en Salamanca" src="https://github.com/user-attachments/assets/fca1bb3f-737e-4e14-8343-98fe866b78ae" />](https://www.google.com/search?sa=X&sca_esv=09a4dc9e07e27686&rlz=1C1ASUM_esES1159ES1159&sxsrf=ANbL-n4VJ0ZFq3hj0IthPKTlI3twqZxjZQ:1769169883425&q=Emirodgar+Rese%C3%B1as&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxIxtDAwNDEztjAytTQyNrY0MTcyNtvAyPiKUcg1N7MoPyU9sUghKLU49fDGxOJFrFgEAXBW0LxFAAAA&rldimm=18014638259233947236&tbm=lcl&hl=es-ES&ved=2ahUKEwj4tsuzz6GSAxXBU0EAHWQWE44Q9fQKegQIXBAG&biw=1194&bih=911&dpr=1&aic=0#lkt=LocalPoiReviews)
-
 
 {% raw %}
 <script type="application/ld+json">
@@ -98,6 +96,7 @@ En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas
 {% endraw %}
 
 
+
 ## ¿Por qué invertir en SEO para tu empresa en Salamanca?
 
 El SEO es una inversión estratégica que aporta beneficios sostenibles:
@@ -107,12 +106,8 @@ El SEO es una inversión estratégica que aporta beneficios sostenibles:
 - **Mejora de la experiencia de usuario**: Una web optimizada es más útil y navegable.  
 - **Ventaja competitiva**: Conocer y adelantarse a la competencia.
 
-### Beneficios específicos del SEO local en Salamanca
+[<img width="503" class="img-responsive" alt="reseñas positivas para consultor SEO en Salamanca" src="https://github.com/user-attachments/assets/fca1bb3f-737e-4e14-8343-98fe866b78ae" />](https://www.google.com/search?sa=X&sca_esv=09a4dc9e07e27686&rlz=1C1ASUM_esES1159ES1159&sxsrf=ANbL-n4VJ0ZFq3hj0IthPKTlI3twqZxjZQ:1769169883425&q=Emirodgar+Rese%C3%B1as&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxIxtDAwNDEztjAytTQyNrY0MTcyNtvAyPiKUcg1N7MoPyU9sUghKLU49fDGxOJFrFgEAXBW0LxFAAAA&rldimm=18014638259233947236&tbm=lcl&hl=es-ES&ved=2ahUKEwj4tsuzz6GSAxXBU0EAHWQWE44Q9fQKegQIXBAG&biw=1194&bih=911&dpr=1&aic=0#lkt=LocalPoiReviews)
 
-- **Mayor visibilidad en búsquedas locales**: Optimización para términos como *"servicios en Salamanca"* o búsquedas por barrios y zonas.  
-- **Tráfico cualificado**: Visitantes realmente interesados en tus productos o servicios.  
-- **Ventaja sostenible**: Una vez posicionado, es difícil que tu competencia te desplace.  
-- **ROI demostrado**: Casos documentados con retornos superiores al 500%.
 
 
 ## Casos de éxito: Posicionamiento Web en Salamanca con resultados reales
@@ -128,10 +123,6 @@ A continuación, algunos ejemplos de cómo hemos transformado la visibilidad en 
 | **Grupo Tribuna** | Prensa Digital | Estrategia técnica para mejorar el rendimiento (Core Web Vitals) y visibilidad local. |
 | **Café Novelty** | Hostelería Histórica | SEO Local estratégico para dominar búsquedas turísticas en el centro de Salamanca. |
 | **Oyrsa** | Industria/Servicios | Posicionamiento de servicios especializados B2B superando a competidores nacionales. |
-
-Verifica lo que la gente habla de nosotros.
-
-[<img width="208" class="img-responsive" alt="Comentarios positivos SEO Salamanca en Google" src="https://github.com/user-attachments/assets/2c168287-0379-43ab-97a1-791e3ce99757" />](https://www.google.com/search?sa=X&sca_esv=09a4dc9e07e27686&rlz=1C1ASUM_esES1159ES1159&sxsrf=ANbL-n4VJ0ZFq3hj0IthPKTlI3twqZxjZQ:1769169883425&q=Emirodgar+Rese%C3%B1as&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxIxtDAwNDEztjAytTQyNrY0MTcyNtvAyPiKUcg1N7MoPyU9sUghKLU49fDGxOJFrFgEAXBW0LxFAAAA&rldimm=18014638259233947236&tbm=lcl&hl=es-ES&ved=2ahUKEwj4tsuzz6GSAxXBU0EAHWQWE44Q9fQKegQIXBAG&biw=1194&bih=911&dpr=1&aic=0#lkt=LocalPoiReviews)
 
 
 ### Cómo logramos que estos negocios destaquen en Google
@@ -170,6 +161,15 @@ La agencia ofrece volumen; el consultor ofrece **especialización y transparenci
 
 ### ¿Trabajas el SEO Local y Google Maps?
 Absolutamente. El 46% de las búsquedas en Google tienen intención local. Optimizamos tu ficha de **Google Business Profile** y tus citaciones para que aparezcas cuando alguien busque "servicios en Salamanca".
+
+---
+
+### Beneficios específicos del SEO local en Salamanca
+
+- **Mayor visibilidad en búsquedas locales**: Optimización para términos como *"servicios en Salamanca"* o búsquedas por barrios y zonas.  
+- **Tráfico cualificado**: Visitantes realmente interesados en tus productos o servicios.  
+- **Ventaja sostenible**: Una vez posicionado, es difícil que tu competencia te desplace.  
+- **ROI demostrado**: Casos documentados con retornos superiores al 500%.
 
 ---
 
