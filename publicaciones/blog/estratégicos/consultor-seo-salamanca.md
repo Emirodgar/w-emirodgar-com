@@ -17,7 +17,7 @@ redirect_from:
 
 ---
 
-Soy **Emilio Rodríguez**, consultor SEO con más de **18 años de experiencia** trabajando en Salamanca para proyectos nacionales e internacionales.  
+Soy **Emilio Rodríguez**, consultor SEO trabajando en Salamanca desde el 2008 para proyectos nacionales e internacionales.  
 
 En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas como la **Universidad Pontificia de Salamanca**, **La Gaceta de Salamanca**, **Grupo Tribuna**, **Oyrsa**, **Opal Vidrieras** o el histórico café bar **Novelty**.
 
