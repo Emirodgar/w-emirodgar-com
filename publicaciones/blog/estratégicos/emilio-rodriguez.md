@@ -185,6 +185,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 
 ## En medios
 
+- `Enero 2026` - Participación como experto / [Estudio Sector SEO 2026](https://estudio.soycarlosgonzalez.com/#/experts/emilio-rodriguez-garcia)
 - `Noviembre 2025` - SEO Office Hours en Español / [SOH Español: Natzir Turrado, Josep M Felip y Emilio Rodríguez García](https://www.youtube.com/live/2zjdeoHraok)
 - `Junio 2025` - Tribuna Salamanca / [La IA anestesia la mente](https://www.tribunasalamanca.com/blogs/conectados/posts/407199/la-ia-anestesia-la-mente)
 - `Mayo 2025` - Club de Marketing de Castilla y León / [Entrevista a Emilio Rodríguez](https://open.spotify.com/episode/0RtgsLDmNWbfqufM7XvW9C)
