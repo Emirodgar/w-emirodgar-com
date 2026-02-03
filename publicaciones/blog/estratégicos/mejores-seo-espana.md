@@ -12,13 +12,13 @@ permalink: mejores-consultores-seo-espana
 
 ---
 
-# Ranking curado de los mejores consultores SEO en España
-
 > Metodología propia basada en: trayectoria demostrable, especialización técnica, impacto real en proyectos, generación de conocimiento, independencia profesional y reputación dentro del sector.
 
 Hacer un ranking de los mejores profesionales SEO nunca es sencillo. Al final, todos miramos la profesión desde nuestro propio filtro: con quién hemos trabajado, qué contenidos seguimos, si nos gusta su forma de explicar las cosas o los recursos que comparten. Todo eso pesa, y mucho.
 
 Por eso es importante dejar claro desde el principio que este tipo de listados siempre tienen un componente subjetivo. Aun así, he intentado ser lo más práctico posible y centrarme en profesionales que, por su trayectoria, su visibilidad o su forma de aportar valor, considero especialmente relevantes dentro del SEO en España.
+
+## Ranking curado de los mejores consultores SEO en España
 
 Este no es un ranking ordenado ni pretende establecer quién es mejor que quién. Es simplemente una selección de diez profesionales que, a día de hoy, destacan en nuestra industria o que, de una forma u otra, me han ayudado a mejorar como profesional a lo largo del tiempo. La idea no es sentar cátedra, sino compartir referencias que pueden ser útiles para cualquiera que quiera aprender, inspirarse o seguir creciendo en SEO.
 
