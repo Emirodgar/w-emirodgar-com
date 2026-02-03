@@ -1,5 +1,5 @@
 ---
-title: Las mejores newsletter SEO en español - 2025
+title: Las mejores newsletter SEO en español - 2026
 description: Disfruta de información actualizada y de gran valor.
 image: https://emirodgar.com/cdn/images/og/seo.png
 layout: emirodgar_post
