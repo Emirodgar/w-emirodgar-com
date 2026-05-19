@@ -12,7 +12,6 @@ folder: ia
 permalink: como-crear-hubs-de-recomendacion-ai-ready
 ---
 
-# Cómo crear hubs de recomendación AI-Ready 
 
 ## ¿Qué es un hub de recomendación AI-Ready y por qué lo necesitas?
 
