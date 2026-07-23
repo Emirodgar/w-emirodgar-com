@@ -21,7 +21,7 @@ Listado de publicaciones sobre SEO, IA aplicada y transformación digital
     <li><a href="https://emirodgar.com/publicaciones-geo">GEO &amp; Transformación Digital</a></li>
     <li><a href="https://emirodgar.com/publicaciones-programacion">Recursos Técnicos</a></li>
 	  <li><a href="https://emirodgar.com/publicaciones-marketing">Marketing</a></li>
-	  <li><a href="https://emirodgar.com/publicaciones-estrategicos">Estratégicos</a></li>
+	  <li><a href="https://emirodgar.com/publicaciones-estrategicas">Estratégicos</a></li>
 	  <li><a href="https://emirodgar.com/publicaciones-offtopic">Offtopic</a></li>
   </ul>
 </nav>
