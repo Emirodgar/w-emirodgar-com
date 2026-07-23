@@ -11,6 +11,18 @@ permalink: publicaciones
 
 Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de otras áreas relacionadas con el Marketing Digital.
 
+
+<nav class="pub-categorias" aria-label="Categorías de publicaciones">
+  <span class="pub-categorias__label">Explora por tema:</span>
+  <ul class="pub-categorias__lista">
+    <li><a href="https://emirodgar.com/publicaciones-seo">SEO Técnico</a></li>
+    <li><a href="https://emirodgar.com/publicaciones-analitica">Analítica &amp; Datos</a></li>
+    <li><a href="https://emirodgar.com/publicaciones-ia-agentes">IA &amp; Agentes</a></li>
+    <li><a href="https://emirodgar.com/publicaciones-geo">GEO &amp; Transformación Digital</a></li>
+    <li><a href="https://emirodgar.com/publicaciones-programacion">Recursos Técnicos</a></li>
+  </ul>
+</nav>
+
 ## <a name="seo"></a> Publicaciones SEO
 
 <ul>
