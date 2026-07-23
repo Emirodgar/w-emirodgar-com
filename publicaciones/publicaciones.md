@@ -1,6 +1,6 @@
 ---
 title: Publicaciones
-description: Listado de publicaciones sobre SEO, Marketing Digital y Growth Hacking
+description: Listado de publicaciones sobre SEO, IA aplicada y transformación digital
 lang: es_ES
 layout: emirodgar_post
 author: Emirodgar
@@ -9,17 +9,20 @@ permalink: publicaciones
 
 ---
 
-Listado de publicaciones sobre SEO, aunque de vez en cuando también incluyo de otras áreas relacionadas con el Marketing Digital.
+Listado de publicaciones sobre SEO, IA aplicada y transformación digital
 
 
 <nav class="pub-categorias" aria-label="Categorías de publicaciones">
-  <span class="pub-categorias__label">Explora por tema:</span>
+  <span class="pub-categorias__label"><b>Explora por tema</b>:</span>
   <ul class="pub-categorias__lista">
     <li><a href="https://emirodgar.com/publicaciones-seo">SEO Técnico</a></li>
     <li><a href="https://emirodgar.com/publicaciones-analitica">Analítica &amp; Datos</a></li>
-    <li><a href="https://emirodgar.com/publicaciones-ia-agentes">IA &amp; Agentes</a></li>
+    <li><a href="https://emirodgar.com/publicaciones-ia">IA &amp; Agentes</a></li>
     <li><a href="https://emirodgar.com/publicaciones-geo">GEO &amp; Transformación Digital</a></li>
     <li><a href="https://emirodgar.com/publicaciones-programacion">Recursos Técnicos</a></li>
+	  <li><a href="https://emirodgar.com/publicaciones-marketing">Marketing</a></li>
+	  <li><a href="https://emirodgar.com/publicaciones-estrategicos">Estratégicos</a></li>
+	  <li><a href="https://emirodgar.com/publicaciones-offtopic">Offtopic</a></li>
   </ul>
 </nav>
 
