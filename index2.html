@@ -29,107 +29,61 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 	
 	<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "LocalBusiness",
-      "@id": "https://emirodgar.com/#business",
-      "name": "Emirodgar",
-      "image": "https://emirodgar.com/cdn/images/author/emirodgar.jpg",
-      "url": "https://emirodgar.com",
-      "telephone": "+34923212869",
-      "priceRange": "200-600",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "C/ Segunda, 43 (oficina 130)",
-        "addressLocality": "Carbajosa De La Sagrada, Salamanca",
-        "postalCode": "37188",
-        "addressCountry": "ES"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 40.9390524,
-        "longitude": -5.6609311
-      },
-      "founder": { "@id": "https://emirodgar.com/#person" },
-      "makesOffer": [
-        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Auditoría SEO" } },
-        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Estrategia SEO" } },
-        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Diseño Web SEO" } },
-        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Formación de equipos" } },
-        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "SEO / GEO sobre LLM" } },
-        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Agentes de IA y Automatización" } }
-      ]
-    },
-    {
-      "@type": "Person",
-      "@id": "https://emirodgar.com/#person",
-      "name": "Emilio Rodríguez García",
-      "url": "https://emirodgar.com",
-      "image": "https://emirodgar.com/cdn/images/author/emirodgar.jpg",
-      "jobTitle": "Consultor SEO y especialista en IA aplicada",
-      "worksFor": { "@id": "https://emirodgar.com/#business" },
-      "knowsAbout": [
-        "SEO técnico",
-        "GEO (Generative Engine Optimization)",
-        "AEO (Answer Engine Optimization)",
-        "Agentes de IA",
-        "Transformación digital",
-        "Analítica web"
-      ],
-      "sameAs": [
-        "https://es.linkedin.com/in/emirodgar",
-        "https://twitter.com/emirodgar",
-        "https://es.slideshare.net/emirodgar",
-        "https://emirodgar.es"
-      ]
-    }
-  ]
-}
-
-{
-  "@type": "FAQPage",
-  "@id": "https://emirodgar.com/#faq",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Qué diferencia hay entre el SEO tradicional y el GEO/AEO?",
-      "acceptedAnswer": { "@type": "Answer", "text": "El SEO tradicional optimiza para aparecer en los resultados de Google. El GEO y el AEO optimizan para que tu marca aparezca citada en respuestas generadas por IA, como ChatGPT, Perplexity o Google AI Overviews." }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cuánto tiempo se tarda en ver resultados de una estrategia SEO?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Los primeros movimientos suelen verse entre 2 y 4 meses, dependiendo del punto de partida del dominio y la competencia del sector." }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Trabajas con empresas fuera de España?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Sí, tengo experiencia en estrategias SEO internacionales y trabajo en remoto con equipos de cualquier país." }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Qué es un agente de IA y cómo puede ayudar a mi empresa?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Un agente de IA es un sistema que ejecuta tareas de forma autónoma, como auditorías recurrentes o generación de informes, sin intervención manual en cada paso." }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cómo funciona el precio de una consultoría?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Depende del alcance: una auditoría puntual tiene un coste cerrado, mientras que el acompañamiento continuo se cotiza por horas o por proyecto mensual." }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Haces solo auditorías o también implementas los cambios?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Ambas cosas: entrego el diagnóstico y las recomendaciones, o acompaño la implementación completa, incluida la formación del equipo interno." }
-    }
-  ]
-}
-
-
+	{
+		  "@context": "https://schema.org",
+		  "@graph": [
+			{
+			  "@type": "LocalBusiness",
+			  "@id": "https://emirodgar.com/#business",
+			  "name": "Emirodgar",
+			  "image": "https://emirodgar.com/cdn/images/author/emirodgar.jpg",
+			  "url": "https://emirodgar.com",
+			  "telephone": "+34923212869",
+			  "priceRange": "200-600",
+			  "address": {
+				"@type": "PostalAddress",
+				"streetAddress": "C/ Segunda, 43 (oficina 130)",
+				"addressLocality": "Carbajosa De La Sagrada, Salamanca",
+				"postalCode": "37188",
+				"addressCountry": "ES"
+			  },
+			  "geo": { "@type": "GeoCoordinates", "latitude": 40.9390524, "longitude": -5.6609311 },
+			  "founder": { "@id": "https://emirodgar.com/#person" },
+			  "makesOffer": [
+				{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Auditoría SEO" } },
+				{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Estrategia SEO" } },
+				{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Diseño Web SEO" } },
+				{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Formación de equipos" } },
+				{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "SEO / GEO sobre LLM" } },
+				{ "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Agentes de IA y Automatización" } }
+			  ]
+			},
+			{
+			  "@type": "Person",
+			  "@id": "https://emirodgar.com/#person",
+			  "name": "Emilio Rodríguez García",
+			  "url": "https://emirodgar.com",
+			  "image": "https://emirodgar.com/cdn/images/author/emirodgar.jpg",
+			  "jobTitle": "Consultor SEO y especialista en IA aplicada",
+			  "worksFor": { "@id": "https://emirodgar.com/#business" },
+			  "knowsAbout": ["SEO técnico", "GEO (Generative Engine Optimization)", "AEO (Answer Engine Optimization)", "Agentes de IA", "Transformación digital", "Analítica web"],
+			  "sameAs": ["https://es.linkedin.com/in/emirodgar", "https://twitter.com/emirodgar", "https://es.slideshare.net/emirodgar", "https://emirodgar.es"]
+			},
+			{
+			  "@type": "FAQPage",
+			  "@id": "https://emirodgar.com/#faq",
+			  "mainEntity": [
+				{ "@type": "Question", "name": "¿Qué diferencia hay entre el SEO tradicional y el GEO/AEO?", "acceptedAnswer": { "@type": "Answer", "text": "El SEO tradicional optimiza para aparecer en los resultados de Google. El GEO y el AEO optimizan para que tu marca aparezca citada en respuestas generadas por IA, como ChatGPT, Perplexity o Google AI Overviews." } },
+				{ "@type": "Question", "name": "¿Cuánto tiempo se tarda en ver resultados de una estrategia SEO?", "acceptedAnswer": { "@type": "Answer", "text": "Los primeros movimientos suelen verse entre 2 y 4 meses, dependiendo del punto de partida del dominio y la competencia del sector." } },
+				{ "@type": "Question", "name": "¿Trabajas con empresas fuera de España?", "acceptedAnswer": { "@type": "Answer", "text": "Sí, tengo experiencia en estrategias SEO internacionales y trabajo en remoto con equipos de cualquier país." } },
+				{ "@type": "Question", "name": "¿Qué es un agente de IA y cómo puede ayudar a mi empresa?", "acceptedAnswer": { "@type": "Answer", "text": "Un agente de IA es un sistema que ejecuta tareas de forma autónoma, como auditorías recurrentes o generación de informes, sin intervención manual en cada paso." } },
+				{ "@type": "Question", "name": "¿Cómo funciona el precio de una consultoría?", "acceptedAnswer": { "@type": "Answer", "text": "Depende del alcance: una auditoría puntual tiene un coste cerrado, mientras que el acompañamiento continuo se cotiza por horas o por proyecto mensual." } },
+				{ "@type": "Question", "name": "¿Haces solo auditorías o también implementas los cambios?", "acceptedAnswer": { "@type": "Answer", "text": "Ambas cosas: entrego el diagnóstico y las recomendaciones, o acompaño la implementación completa, incluida la formación del equipo interno." } }
+			  ]
+			}
+		  ]
+		}
 </script>
-
-
-
 
 </head>
 
@@ -438,8 +392,12 @@ Cada vez más consultas se resuelven con agentes de IA que deciden por el usuari
                     </div>
                 </div>
 				
-				<div id="section-testimonials" class="page-section notoppadding">
-  <div class="section nomargin">
+
+
+
+
+<div id="section-testimonials" class="page-section notoppadding">
+    <div class="section nomargin">
     <div class="container clearfix">
       <div class="divcenter center" style="max-width: 900px;">
         <h2 class="nobottommargin t300 ls1">Lo que dicen de mí <b>los clientes</b></h2>
@@ -450,10 +408,6 @@ Cada vez más consultas se resuelven con agentes de IA que deciden por el usuari
     <div class="testi-header">
       <p class="testi-intro">Conoce de primera mano los testimonios de quienes han trabajado conmigo. Puedes ver más en mi <a href="https://es.linkedin.com/in/emirodgar" target="_blank" rel="noopener">LinkedIn</a> y pedir referencias sin compromiso.</p>
     </div>
-
-
-<div id="section-testimonials" class="page-section notoppadding">
-  <div class="container clearfix">
 
 
     <div class="testi-carousel">
@@ -496,12 +450,8 @@ Cada vez más consultas se resuelven con agentes de IA que deciden por el usuari
 
     <div class="testi-dots" id="testiDots"></div>
   </div>
-</div>
   
-    <div id="section-faq" class="page-section notoppadding">
-
-</div>
-  
+  <div id="section-faq" class="page-section notoppadding">
     <div class="section nomargin">
     <div class="container clearfix">
       <div class="divcenter center" style="max-width: 900px;">
@@ -544,7 +494,9 @@ Cada vez más consultas se resuelven con agentes de IA que deciden por el usuari
 
   </div>
   
-      <div id="" class="page-section notoppadding">
+  </div>
+  
+      <div class="page-section notoppadding">
 
 </div>
   
@@ -552,7 +504,6 @@ Cada vez más consultas se resuelven con agentes de IA que deciden por el usuari
   
 </div>
 				
-            </div>
         </section>
         <footer id="footer" class="dark noborder">
 			<div class="container center">
