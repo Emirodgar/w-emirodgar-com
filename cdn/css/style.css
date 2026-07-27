@@ -216,8 +216,6 @@ body{margin:0}article,footer,header,nav,section{display:block}a{background-color
   font-weight: 700;
 }
 
-}
-
 /* Proyectos - tarjetas */
 .proj-header {
   max-width: 900px;
@@ -406,7 +404,7 @@ body{margin:0}article,footer,header,nav,section{display:block}a{background-color
   gap: 6px;
   font-family: Roboto, sans-serif;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 700;
   color: #555555;
   text-decoration: none;
   margin-bottom: 32px;

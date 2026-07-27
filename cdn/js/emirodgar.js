@@ -11,6 +11,9 @@ function getExperience() {
 
 (function () {
   function initTestimonials() {
+    const section = document.getElementById('section-testimonials');
+    if (section && getComputedStyle(section).display === 'none') return;
+
     const track = document.getElementById('testiTrack');
     const dotsWrap = document.getElementById('testiDots');
     const prevBtn = document.querySelector('.testi-arrow-prev');
