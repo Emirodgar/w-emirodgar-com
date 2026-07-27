@@ -85,12 +85,28 @@ function getExperience() {
     });
   }
 
+  function initNowSection() {
+    const list = document.getElementById('nowList') || document.querySelector('.now-list');
+    if (!list) return;
+
+    list.querySelectorAll('.now-readmore').forEach((link) => {
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        const item = link.closest('.now-item');
+        item.classList.add('expanded');
+        link.remove();
+      });
+    });
+  }
+
   // Si el DOM ya está listo (p.ej. porque Rocket Loader difirió este script), inicializa ya.
   // Si no, espera al evento — cubre ambos casos sin depender de cuándo se ejecute realmente.
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initTestimonials);
+    document.addEventListener('DOMContentLoaded', initNowSection);
   } else {
     initTestimonials();
+    initNowSection();
   }
 })();
 
