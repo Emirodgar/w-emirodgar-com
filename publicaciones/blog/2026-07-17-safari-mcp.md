@@ -22,6 +22,8 @@ El **servidor MCP** es una implementación de protocolo que permite que navegado
 
 Lo más interesante es que **no tienes que cambiar de navegador ni instalar extensiones adicionales**. Safari nativa incorpora esta funcionalidad, lo que significa que los desarrolladores y especialistas SEO pueden trabajar más rápidamente desde su entorno habitual.
 
+<img width="600" class="img-responsive" alt="Safari images" src="https://github.com/user-attachments/assets/ac72c7e3-814b-4de7-8e45-48e163ea1ef7" />
+
 ## ¿Cómo ayuda a optimizar los Core Web Vitals?
 
 Los **Core Web Vitals** (LCP, FID y CLS) miden la experiencia del usuario en tu sitio. Safari, al integrar el servidor MCP, permite que la IA analice automáticamente:
