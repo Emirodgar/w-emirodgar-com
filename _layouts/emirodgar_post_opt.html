@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="es"> 
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Emilio Rodríguez - Emirodgar">    
+    <link rel="shortcut icon" href="assets/images/hash.png">
+	{% seo %}
+	{% if page.image== null %}
+		<meta content="https://emirodgar.com/cdn/images/og/emirodgar.png" property="og:image">
+	{% endif %} 
+     
+    <link id="theme-style" rel="stylesheet" href="https://emirodgar.com/assets/css/thememin.css">
+    
+</head> 
+
+<body>
+    
+    <header class="header text-center">	    
+	    <h2 class="blog-name pt-lg-4 mb-0"><a href="https://emirodgar.com">Emirodgar</a></h2>
+        
+	    <nav class="navbar navbar-expand-lg navbar-dark" >
+           
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div id="navigation" class="collapse navbar-collapse flex-column" >
+				<div class="profile-section pt-3 pt-lg-0">
+				    <img class="profile-image mb-3 rounded-circle mx-auto" src="assets/images/emirodgar.jpg" alt="image" >			
+					
+					<div class="bio mb-3">Especialista SEO técnico.  Convierto tu visibilidad en clientes.</div><!--//bio-->
+					<div class="my-2 my-md-3">
+						<a class="btn btn-primary " href="https://emirodgar.com/contacto" target="_blank">Quiero vender más</a>
+					</div>
+			        <hr> 
+				</div>
+				
+				<ul class="navbar-nav flex-column text-left">
+					<li class="nav-item">
+					    <a class="nav-link" href="https://emirodgar.com/publicaciones">Publicaciones</a>
+					</li>
+					<li class="nav-item">
+					    <a class="nav-link" href="https://emirodgar.com/casos-exito-seo">Casos de éxito</a>
+					</li>
+					<li class="nav-item">
+					    <a class="nav-link" href="https://emirodgar.com/emilio-rodriguez">Quién soy</a>
+					</li>
+					<li class="nav-item">
+					    <a class="nav-link" target="_blank" href="https://newsletter.chuletaseo.com">Newsletter</a>
+					</li>
+				</ul>
+				
+				<div class="my-2 my-md-3">
+				</div>
+			</div>
+		</nav>
+    </header>
+    
+    <div class="main-wrapper">
+	    
+	    <article class="blog-post px-3 py-5 p-md-5">
+		    <div class="container">
+			    <header class="blog-post-header">
+				    <h1 class="title mb-2">{{ page.title }}</h1>
+				    {% if page.folder %}
+					<div class="meta mb-3">
+						
+						<span class="date">
+							{% if page.date_modified == null %}
+							 Publicado el {{ page.date |  date: ' %d/%m/%Y' }}
+							 {% else %}
+							 Actualizado el {{ page.date_modified |  date: ' %d/%m/%Y' }}
+							{% endif %}
+						</span>
+							
+						
+						<span class="time">{% assign words = content | number_of_words %}
+						{% if words < 360 %}
+						  1 minuto de lectura
+						{% else %}
+						  {{ words | divided_by:180 }} minutos de lectura
+						{% endif %}</span>
+
+						{% if page.folder == "seo" %}
+						<span><a href="{{ site.url }}/publicaciones-seo">SEO</a></span>
+					  	{% endif %}
+
+						{% if page.folder == "analitica" %}
+						<span><a href="{{ site.url }}/publicaciones-analitica">Analítica</a></span>
+						{% endif %}
+
+						{% if page.folder == "marketing" %}
+						<span><a href="{{ site.url }}/publicaciones-marketing">Marketing</a></span>
+						{% endif %}
+
+						{% if page.folder == "programacion" %}
+						<span><a href="{{ site.url }}/publicaciones-programacion">Programación</a></span>
+						{% endif %}
+
+						{% if page.folder == "ia" %}
+						<span><a href="{{ site.url }}/publicaciones-ia">Inteligencia Artificial</a></span>
+						{% endif %}
+
+						{% if page.folder == "estrategicos" %}
+						<span><a href="{{ site.url }}/publicaciones-estrategicas">Estratégicos</a></span>
+						{% endif %}
+
+						{% if page.folder == "tecnologia" %}
+						<span><a href="{{ site.url }}/publicaciones-tecnologia">Tecnología</a></span>
+						{% endif %}
+
+						{% if page.folder == "offtopic" %}
+						<span><a href="{{ site.url }}/publicaciones-offtopic">Offtopic</a></span>
+						{% endif %}
+
+					</div>
+					{% endif %}
+			    </header>
+			    
+			    <div class="blog-post-body">
+					{{ content }}				   
+			    </div>
+				    
+			    <!--<nav class="blog-nav nav nav-justified my-5">
+				  <a class="nav-link-prev nav-item nav-link rounded-left" href="https://emirodgar.com/contacto">¿HABLAMOS?</a>
+				</nav>-->
+				<nav class="blog-nav nav nav-justified my-5">
+					<!--<a class="nav-link-prev nav-item nav-link rounded-left" href="https://newsletter.chuletaseo.com">SUSCRÍBETE A MI NEWSLETTER GRATUITA SOBRE SEO</a>-->
+					<a class="nav-link-prev nav-item nav-link rounded-left" href="https://emirodgar.com/contacto">QUIERO VENDER MÁS</a>
+				  </nav>
+				
+				{% if page.folder == "seo-tecnico" %}
+				<div id="blog-conversion" class="section-container capability-card">
+					<h2>Auditoría SEO</h2>
+					<p>Como expertos en SEO técnico, auditamos tu página web para asegurarnos que dispone de la mejor base SEO posible y todo funciona correctamente.</p>
+					<a href="https://emirodgar.com/contacto" class="btn">Me interesa</a>
+				<div >
+				{% endif %}
+
+				
+		    </div><!--//container-->
+	    </article>
+	    
+	    <section id="blog-footer" class="promo-section theme-bg-light py-5 text-center">
+		    <div class="container">
+			    <h2 class="title">Emilio Rodríguez García</h2>
+			    <p>+<span id="anno_experience"></span> años trabajando como <a href="https://emirodgar.com/consultor-seo">consultor SEO</a> desde <a href="https://emirodgar.com/consultor-seo-salamanca">Salamanca</a>. Colaboro como profesor en las Universidades de Salamanca, Deusto y UNIR. Homologado por ICEX España para proyectos internacionales.
+				</p><br/>
+				<p><a target="_blank" href="https://twitter.com/emirodgar">twitter</a> / <a target="_blank" href="https://es.linkedin.com/in/emirodgar">linkedin</a> / <a target="_blank" href="https://emirodgar.com/contacto">contacto</a> / <a target="_blank" href="https://newsletter.chuletaseo.com">newsletter</a>  </p>
+		    	<br/>
+				<p> C/ Segunda, 43 - 132, 37188, Carbajosa, Salamanca / (+34) 923 015 199 / hola@emirodgar.com </p>
+			</div>
+	    </section>
+    
+    </div>
+    
+               
+    <script src="assets/plugins/jquery-3.4.1.min.js"></script>
+    <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script> 
+	<script>
+	
+	
+	$(document).ready(function(){
+		$("#anno_experience").html(new Date().getFullYear() - 2007);
+
+	});
+		
+	</script>
+    
+</body>
+</html> 
+
