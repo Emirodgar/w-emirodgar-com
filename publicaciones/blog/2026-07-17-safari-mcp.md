@@ -2,7 +2,7 @@
 title: Safari implementa un servidor MCP para optimizar SEO y las Core Web Vitals
 description: Descubre cómo el nuevo servidor MCP de Safari revoluciona el debugging de SEO y Core Web Vitals
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-layout: emirodgar_post
+layout: emirodgar_post_opt
 author: Emirodgar
 lang: es_ES
 sitemap: 1
