@@ -47,6 +47,9 @@
 					<li class="nav-item">
 					    <a class="nav-link" href="https://emirodgar.com/emilio-rodriguez">Quién soy</a>
 					</li>
+					<li class="nav-item">
+					    <a class="nav-link" target="_blank" href="https://newsletter.chuletaseo.com">Newsletter</a>
+					</li>
 				</ul>
 				
 				<div class="my-2 my-md-3">
@@ -143,7 +146,7 @@
 	    <section id="blog-footer" class="promo-section theme-bg-light py-5 text-center">
 		    <div class="container">
 			    <h2 class="title">Emilio Rodríguez García</h2>
-			    <p>+15 años trabajando como <a href="https://emirodgar.com/consultor-seo">consultor SEO</a> desde <a href="https://emirodgar.com/consultor-seo-salamanca">Salamanca</a>. Colaboro como profesor en las Universidades de Salamanca, Deusto y UNIR. Homologado por ICEX España para proyectos internacionales.
+			    <p>+<span id="anno_experience"></span> años trabajando como <a href="https://emirodgar.com/consultor-seo">consultor SEO</a> desde <a href="https://emirodgar.com/consultor-seo-salamanca">Salamanca</a>. Colaboro como profesor en las Universidades de Salamanca, Deusto y UNIR. Homologado por ICEX España para proyectos internacionales.
 				</p><br/>
 				<p><a target="_blank" href="https://twitter.com/emirodgar">twitter</a> / <a target="_blank" href="https://es.linkedin.com/in/emirodgar">linkedin</a> / <a target="_blank" href="https://emirodgar.com/contacto">contacto</a> / <a target="_blank" href="https://newsletter.chuletaseo.com">newsletter</a>  </p>
 		    	<br/>
@@ -157,6 +160,15 @@
     <!-- Javascript -->          
     <script src="assets/plugins/jquery-3.4.1.min.js"></script>
     <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script> 
+	<script>
+	
+	
+$(document).ready(function(){
+	$("#anno_experience").html(new Date().getFullYear() - 2007);
+
+});
+	
+	</script>
     
 </body>
 </html> 
