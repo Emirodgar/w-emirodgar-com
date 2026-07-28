@@ -1,6 +1,6 @@
 ---
 title: FireHTML
-description: Los buscadores IA envían poco tráfico, pero altamente comprometido. Descubre cómo sacar partido a esta oportunidad
+description: FireHTML es una herramienta y metodología ideada para crear páginas web de manera ágil. Emilio Rodríguez la ha utilizado principalmente como parte de un proyecto solidario para diseñar y regalar sitios web con el fin de ayudar a niños enfermos, apoyando causas benéficas y asociaciones.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_work
 author: Emirodgar
@@ -54,7 +54,7 @@ permalink: /proyectos/firehtml
 <h2 class="pd-section-title">Filosofía</h2>
 <ul class="pd-list">
 <li>De 2011 a 2015 la utilicé para mis propios proyectos y clientes. Me ayudaba a ir más rápido y escalar mejor los proyectos</li>
-<li>En el 2016 la hice pública y accesible a todo el mundo. Incluí un botón de donaciones y doné el 50% de todo lo recibido. Comparto el <a href="https://www.linkedin.com/pulse/regalo-p%C3%A1ginas-web-para-ayudar-ni%C3%B1os-enfermos-emilio-rodr%C3%ADguez-garc%C3%ADa/" target="_blank" >enlace a la publicación original en LinkedIn.</a>  </li>
+<li>En el 2016 la hice pública y accesible a todo el mundo de manera gratuita con el objetivo de donar el 50% de todo lo recibido a la creación de pelucas infantiles. Comparto el <a href="https://www.linkedin.com/pulse/regalo-p%C3%A1ginas-web-para-ayudar-ni%C3%B1os-enfermos-emilio-rodr%C3%ADguez-garc%C3%ADa/" target="_blank" >enlace a la publicación original en LinkedIn.</a>  </li>
 <li>[Principio o criterio 2]</li>
 </ul>
 </div>
