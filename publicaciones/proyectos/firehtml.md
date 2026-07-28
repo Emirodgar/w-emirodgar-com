@@ -8,7 +8,7 @@ lang: es_ES
 tag: desarrollo
 sitemap: 1
 feed: 1
-date: 28-07-2019
+date: 28-07-2016
 folder: seo
 permalink: /proyectos/firehtml
 ---
@@ -53,7 +53,8 @@ permalink: /proyectos/firehtml
 <div class="pd-section">
 <h2 class="pd-section-title">Filosofía</h2>
 <ul class="pd-list">
-<li>[Principio o criterio que guió las decisiones del proyecto 1]</li>
+<li>De 2011 a 2015 la utilicé para mis propios proyectos y clientes. Me ayudaba a ir más rápido y escalar mejor los proyectos</li>
+<li>En el 2016 la hice pública y accesible a todo el mundo. Incluí un botón de donaciones y doné el 50% de todo lo recibido. Comparto el <a href="https://www.linkedin.com/pulse/regalo-p%C3%A1ginas-web-para-ayudar-ni%C3%B1os-enfermos-emilio-rodr%C3%ADguez-garc%C3%ADa/" target="_blank" >enlace a la publicación original en LinkedIn.</a>  </li>
 <li>[Principio o criterio 2]</li>
 </ul>
 </div>
