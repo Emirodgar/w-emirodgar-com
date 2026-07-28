@@ -25,34 +25,34 @@ permalink: /proyectos/firehtml
 
 <ul class="pd-list">
 <li>Genera páginas web en minutos</li>
-<li><a href="#">Funcionalidad o característica clave 2</a></li>
-<li><a href="#">Funcionalidad o característica clave 3</a></li>
-<li><a href="#">Funcionalidad o característica clave 4</a></li>
+<li>[Funcionalidad o característica clave 2]</li>
+<li>[Funcionalidad o característica clave 3]</li>
+<li>[Funcionalidad o característica clave 4]</li>
 </ul>
 </div>
 
-	<div class="pd-section">
-		<h2 class="pd-section-title">Por qué importa</h2>
-		<ul class="pd-list">
-			<li>[Impacto o valor 1: a quién ayuda y en qué]</li>
-			<li>[Impacto o valor 2]</li>
-			<li>[Impacto o valor 3]</li>
-		</ul>
-	</div>
+<div class="pd-section">
+<h2 class="pd-section-title">Por qué importa</h2>
+<ul class="pd-list">
+<li>[Impacto o valor 1: a quién ayuda y en qué]</li>
+<li>[Impacto o valor 2]</li>
+<li>[Impacto o valor 3]</li>
+</ul>
+</div>
 
-	<div class="pd-section">
-		<h2 class="pd-section-title">Arquitectura</h2>
-		<ul class="pd-list">
-			<li>[Decisión técnica o de infraestructura 1]</li>
-			<li>[Decisión técnica o de infraestructura 2]</li>
-			<li>[Decisión técnica o de infraestructura 3]</li>
-		</ul>
-	</div>
+<div class="pd-section">
+<h2 class="pd-section-title">Arquitectura</h2>
+<ul class="pd-list">
+<li>[Decisión técnica o de infraestructura 1]</li>
+<li>[Decisión técnica o de infraestructura 2]</li>
+<li>[Decisión técnica o de infraestructura 3]</li>
+</ul>
+</div>
 
-	<div class="pd-section">
-		<h2 class="pd-section-title">Filosofía</h2>
-		<ul class="pd-list">
-			<li>[Principio o criterio que guió las decisiones del proyecto 1]</li>
-			<li>[Principio o criterio 2]</li>
-		</ul>
-	</div>
+<div class="pd-section">
+<h2 class="pd-section-title">Filosofía</h2>
+<ul class="pd-list">
+<li>[Principio o criterio que guió las decisiones del proyecto 1]</li>
+<li>[Principio o criterio 2]</li>
+</ul>
+</div>
