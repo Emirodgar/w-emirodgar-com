@@ -24,7 +24,7 @@ permalink: /proyectos/firehtml
 		<h2 class="pd-section-title">Qué hace</h2>
 			
 		<ul class="pd-list">
-			<li>[Funcionalidad o característica clave 1]</li>
+			<li>Genera páginas web en minutos</li>
 			<li>[Funcionalidad o característica clave 2]</li>
 			<li>[Funcionalidad o característica clave 3]</li>
 			<li>[Funcionalidad o característica clave 4]</li>
