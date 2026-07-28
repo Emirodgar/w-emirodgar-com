@@ -14,22 +14,22 @@ permalink: /proyectos/firehtml
 
 
 <span class="pd-stack-label">Stack</span>
-	<div class="pd-stack">
-		<span class="pd-stack-tag">HTML</span>
-		<span class="pd-stack-tag">JavaScript</span>
-		<span class="pd-stack-tag">PHP</span>
-	</div>
+<div class="pd-stack">
+<span class="pd-stack-tag">HTML</span>
+<span class="pd-stack-tag">JavaScript</span>
+<span class="pd-stack-tag">PHP</span>
+</div>
 
-	<div class="pd-section">
-		<h2 class="pd-section-title">Qué hace</h2>
-			
-		<ul class="pd-list">
-			<li>Genera páginas web en minutos</li>
-			<li>[Funcionalidad o característica clave 2]</li>
-			<li>[Funcionalidad o característica clave 3]</li>
-			<li>[Funcionalidad o característica clave 4]</li>
-		</ul>
-	</div>
+<div class="pd-section">
+<h2 class="pd-section-title">Qué hace</h2>
+
+<ul class="pd-list">
+<li>Genera páginas web en minutos</li>
+<li><a href="#">Funcionalidad o característica clave 2</a></li>
+<li><a href="#">Funcionalidad o característica clave 3</a></li>
+<li><a href="#">Funcionalidad o característica clave 4</a></li>
+</ul>
+</div>
 
 	<div class="pd-section">
 		<h2 class="pd-section-title">Por qué importa</h2>
