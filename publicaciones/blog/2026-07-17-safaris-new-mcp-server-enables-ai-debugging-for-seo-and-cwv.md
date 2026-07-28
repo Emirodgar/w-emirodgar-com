@@ -14,6 +14,9 @@ permalink: /safari-servidor-mcp-seo-cwv
 
 Safari acaba de lanzar una función que nos ayudará a ser más eficientes en la forma en que **depuramos y optimizamos los aspectos técnicos de nuestros sitios web**. Se trata de un **servidor [MCP](https://emirodgar.com/que-es-mcp)** (Model Context Protocol) integrado que permite usar herramientas de IA para identificar y resolver problemas de SEO y Core Web Vitals de manera más eficiente.
 
+<img width="600" class="img-responsive" alt="Safari images" src="https://github.com/user-attachments/assets/ac72c7e3-814b-4de7-8e45-48e163ea1ef7" />
+
+
 Como profesional del SEO, sé que la **optimización técnica** es fundamental para el posicionamiento en buscadores. Los [Core Web Vitals](https://emirodgar.com/factores-seo) se han convertido en uno de los principales **factores SEO** que Google evalúa, y cualquier herramienta que nos ayude a identificar y corregir problemas es bienvenida.
 
 ## ¿Qué es este servidor MCP de Safari y por qué importa?
