@@ -2,7 +2,7 @@
 title: FireHTML
 description: Los buscadores IA envían poco tráfico, pero altamente comprometido. Descubre cómo sacar partido a esta oportunidad
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
-layout: emirodgar_post
+layout: emirodgar_work
 author: Emirodgar
 lang: es_ES
 sitemap: 1
