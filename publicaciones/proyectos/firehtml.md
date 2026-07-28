@@ -5,6 +5,7 @@ image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_work
 author: Emirodgar
 lang: es_ES
+tag: desarrollo
 sitemap: 1
 feed: 1
 date: 28-07-2019
