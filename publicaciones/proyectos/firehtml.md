@@ -21,16 +21,6 @@ permalink: /proyectos/firehtml
 <span class="pd-stack-tag">PHP</span>
 </div>
 
-<div class="pd-section">
-<h2 class="pd-section-title">Qué hace</h2>
-
-<ul class="pd-list">
-<li>Genera páginas web en minutos</li>
-<li>[Funcionalidad o característica clave 2]</li>
-<li>[Funcionalidad o característica clave 3]</li>
-<li>[Funcionalidad o característica clave 4]</li>
-</ul>
-</div>
 
 <span class="pd-gallery-label">Capturas</span>
 <div class="pd-gallery">
@@ -61,6 +51,19 @@ permalink: /proyectos/firehtml
 
 </div>
 
+<div class="pd-section">
+<h2 class="pd-section-title">Qué hace</h2>
+
+<ul class="pd-list">
+<li>Genera páginas web en minutos</li>
+<li>Todos los desarrollos son adaptativos (Responsive)</li>
+<li>Permite exportar e importar proyectos</li>
+<li>Elimina la posibilidad de generar errores en código</li>
+<li>Ofrece código optimizado y sin errores</li>
+</ul>
+</div>
+
+
 <button class="pd-gallery-arrow pd-gallery-arrow-next" aria-label="Siguiente imagen">&#10095;</button>
 </div>
 
@@ -73,17 +76,9 @@ permalink: /proyectos/firehtml
 <p class="pd-video-caption">Explicación de funcionalidades básicas para poder operar con la plataforma y crear, de manera rápida y sin errores, diferentes páginas.</p>
 
 
-<div class="pd-section">
-<h2 class="pd-section-title">Arquitectura</h2>
-<ul class="pd-list">
-<li>[Decisión técnica o de infraestructura 1]</li>
-<li>[Decisión técnica o de infraestructura 2]</li>
-<li>[Decisión técnica o de infraestructura 3]</li>
-</ul>
-</div>
 
 <div class="pd-section">
-<h2 class="pd-section-title">Filosofía</h2>
+<h2 class="pd-section-title">Evolución y enfoque</h2>
 <ul class="pd-list">
 <li>De 2011 a 2015 la utilicé para mis propios proyectos y clientes. Me ayudaba a ir más rápido y escalar mejor los proyectos</li>
 <li>En el 2016 la hice pública y accesible a todo el mundo de manera gratuita con el objetivo de donar el 50% de todo lo recibido a la creación de pelucas infantiles. Comparto el <a href="https://www.linkedin.com/pulse/regalo-p%C3%A1ginas-web-para-ayudar-ni%C3%B1os-enfermos-emilio-rodr%C3%ADguez-garc%C3%ADa/" target="_blank" >enlace a la publicación original en LinkedIn.</a>  </li>
