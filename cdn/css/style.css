@@ -513,9 +513,165 @@ body{margin:0}article,footer,header,nav,section{display:block}a{background-color
   background-color: #333333;
 }
 
-.pd-cta { margin-top: 8px; }
+.pd-cta { margin-top: 8px; margin-bottom: 60px; }
 
 @media (max-width: 600px) {
   .pd-title { font-size: 30px; }
+}
+
+/* Ficha de proyecto - galería de imágenes */
+.pd-gallery-label {
+  display: block;
+  font-family: Roboto, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: #999999;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 12px;
+}
+
+.pd-gallery {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.pd-gallery-track {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  padding: 4px 4px 12px;
+  cursor: grab;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.pd-gallery-track::-webkit-scrollbar { display: none; }
+
+.pd-gallery-track.dragging {
+  cursor: grabbing;
+  scroll-snap-type: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+.pd-gallery-slide {
+  flex: 0 0 320px;
+  scroll-snap-align: start;
+  margin: 0;
+}
+
+.pd-gallery-frame {
+  width: 320px;
+  height: 210px;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: #F5F5F5;
+  border: 1px solid #e0e0e0;
+}
+
+.pd-gallery-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.pd-gallery-frame:hover .pd-gallery-img {
+  filter: grayscale(0%);
+  transform: scale(1.03);
+}
+
+.pd-gallery-caption {
+  margin: 10px 0 0;
+  font-family: Roboto, sans-serif;
+  font-size: 13px;
+  color: #777777;
+  text-align: center;
+}
+
+.pd-gallery-arrow {
+  flex: 0 0 auto;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid #444444;
+  background: transparent;
+  color: #444444;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.pd-gallery-arrow:hover {
+  background-color: #444444;
+  color: #ffffff;
+}
+
+.pd-gallery-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.pd-gallery-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #d5d5d5;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.pd-gallery-dot.active { background-color: #444444; width: 24px; border-radius: 5px; transition: width 0.2s ease; }
+
+@media (max-width: 600px) {
+  .pd-gallery-slide { flex: 0 0 82%; }
+  .pd-gallery-frame { width: 100%; height: 200px; }
+  .pd-gallery-arrow { display: none; }
+}
+
+/* Ficha de proyecto - vídeo embebido */
+.pd-video-label {
+  display: block;
+  font-family: Roboto, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: #999999;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 12px;
+}
+
+.pd-video-frame {
+  max-width: 760px;
+  aspect-ratio: 16 / 9;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: #F5F5F5;
+  border: 1px solid #e0e0e0;
+}
+
+.pd-video-frame iframe {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border: 0;
+}
+
+.pd-video-caption {
+  max-width: 760px;
+  margin: 10px 0 0;
+  font-family: Roboto, sans-serif;
+  font-size: 13px;
+  color: #777777;
 }
 

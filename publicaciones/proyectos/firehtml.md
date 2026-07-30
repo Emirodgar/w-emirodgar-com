@@ -32,14 +32,46 @@ permalink: /proyectos/firehtml
 </ul>
 </div>
 
-<div class="pd-section">
-<h2 class="pd-section-title">Por qué importa</h2>
-<ul class="pd-list">
-<li>[Impacto o valor 1: a quién ayuda y en qué]</li>
-<li>[Impacto o valor 2]</li>
-<li>[Impacto o valor 3]</li>
-</ul>
+<span class="pd-gallery-label">Capturas</span>
+<div class="pd-gallery">
+<button class="pd-gallery-arrow pd-gallery-arrow-prev" aria-label="Imagen anterior">&#10094;</button>
+
+<div class="pd-gallery-track" id="pdGalleryTrack">
+
+<figure class="pd-gallery-slide">
+<div class="pd-gallery-frame">
+<img class="pd-gallery-img" src="https://emirodgar.com/cdn/images/company/emirodgar.webp" alt="[Descripción de la imagen 1]" loading="lazy">
 </div>
+<figcaption class="pd-gallery-caption">[Pie de la imagen 1]</figcaption>
+</figure>
+
+<figure class="pd-gallery-slide">
+<div class="pd-gallery-frame">
+<img class="pd-gallery-img" src="https://emirodgar.com/cdn/images/company/emirodgar.webp" alt="[Descripción de la imagen 2]" loading="lazy">
+</div>
+<figcaption class="pd-gallery-caption">[Pie de la imagen 2]</figcaption>
+</figure>
+
+<figure class="pd-gallery-slide">
+<div class="pd-gallery-frame">
+<img class="pd-gallery-img" src="https://emirodgar.com/cdn/images/company/emirodgar.webp" alt="[Descripción de la imagen 3]" loading="lazy">
+</div>
+<figcaption class="pd-gallery-caption">[Pie de la imagen 3]</figcaption>
+</figure>
+
+</div>
+
+<button class="pd-gallery-arrow pd-gallery-arrow-next" aria-label="Siguiente imagen">&#10095;</button>
+</div>
+
+<div class="pd-gallery-dots" id="pdGalleryDots"></div>
+
+<span class="pd-video-label">Vídeo</span>
+<div class="pd-video-frame">
+<iframe src="https://www.youtube-nocookie.com/embed/tBJrAbh2TTs" title="Funcionamiento básico de FireHTML" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<p class="pd-video-caption">Explicación de funcionalidades básicas para poder operar con la plataforma y crear, de manera rápida y sin errores, diferentes páginas.</p>
+
 
 <div class="pd-section">
 <h2 class="pd-section-title">Arquitectura</h2>
