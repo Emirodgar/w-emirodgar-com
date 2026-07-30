@@ -77,7 +77,7 @@ permalink: /proyectos/plataforma-inbound-marketing
 
 
 <span class="pd-video-label">Vídeo</span>
-<div class="pd-video-frame"><iframe src="https://www.youtube-nocookie.com/embed/RngBM_452ac title="Vídeo promocional para vender la aplicación" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="pd-video-frame"><iframe src="https://www.youtube-nocookie.com/embed/RngBM_452ac" title="Vídeo promocional para vender la aplicación" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <p class="pd-video-caption">Vídeo resumen de las características principales de la aplicación para promover su venta.</p>
 
 
