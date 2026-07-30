@@ -74,6 +74,7 @@ permalink: /proyectos/firehtml
 <iframe src="https://www.youtube-nocookie.com/embed/tBJrAbh2TTs" title="Funcionamiento básico de FireHTML" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p class="pd-video-caption">Explicación de funcionalidades básicas para poder operar con la plataforma y crear, de manera rápida y sin errores, diferentes páginas.</p>
+<br/><br/>
 
 
 
