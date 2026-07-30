@@ -16,9 +16,9 @@ permalink: /proyectos/firehtml
 
 <span class="pd-stack-label">Stack</span>
 <div class="pd-stack">
-<span class="pd-stack-tag">HTML</span>
-<span class="pd-stack-tag">JavaScript</span>
-<span class="pd-stack-tag">PHP</span>
+	<span class="pd-stack-tag">HTML</span>
+	<span class="pd-stack-tag">JavaScript</span>
+	<span class="pd-stack-tag">PHP</span>
 </div>
 
 
@@ -51,6 +51,12 @@ permalink: /proyectos/firehtml
 
 </div>
 
+<button class="pd-gallery-arrow pd-gallery-arrow-next" aria-label="Siguiente imagen">&#10095;</button>
+</div>
+
+<div class="pd-gallery-dots" id="pdGalleryDots"></div>
+
+
 <div class="pd-section">
 <h2 class="pd-section-title">Qué hace</h2>
 
@@ -62,12 +68,6 @@ permalink: /proyectos/firehtml
 <li>Ofrece código optimizado y sin errores</li>
 </ul>
 </div>
-
-
-<button class="pd-gallery-arrow pd-gallery-arrow-next" aria-label="Siguiente imagen">&#10095;</button>
-</div>
-
-<div class="pd-gallery-dots" id="pdGalleryDots"></div>
 
 <span class="pd-video-label">Vídeo</span>
 <div class="pd-video-frame">
