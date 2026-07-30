@@ -1,5 +1,5 @@
 ---
-title: Extensión Emirodgar SEO para Chrome
+title: Extensión "Emirodgar SEO" para Chrome
 description: Extensión de navegador para Google Chrome desarrollada por Emilio Rodríguez en 2019. Creada como herramienta de trabajo diario para auditar y agilizar validaciones SEO on-page, enlaces y metadatos en tiempo real.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_work
@@ -8,7 +8,7 @@ lang: es_ES
 tag: desarrollo
 sitemap: 1
 feed: 1
-date: 10-03-2019
+date: 10-03-2017
 folder: seo
 permalink: /proyectos/extension-emirodgar-seo
 ---
@@ -75,8 +75,8 @@ permalink: /proyectos/extension-emirodgar-seo
 <div class="pd-section">
 <h2 class="pd-section-title">Evolución y enfoque</h2>
 <ul class="pd-list">
-<li>En 2019 la desarrollé como una herramienta de uso interno para optimizar y agilizar mis propias tareas diarias de análisis SEO técnico.</li>
-<li>En 2021 la publiqué de forma abierta en la Chrome Web Store para ponerla a disposición de la comunidad de consultores y profesionales SEO.</li>
+<li>En 2017 la desarrollé como una herramienta de uso interno para optimizar y agilizar mis propias tareas diarias de análisis SEO técnico.</li>
+<li>En 2019 la publiqué de forma abierta en la Chrome Web Store para ponerla a disposición de la comunidad de consultores y profesionales SEO.</li>
 <li>En 2023, tras los cambios en las políticas de extensiones de Google (Manifest V3) que limitaban ciertas funcionalidades técnicas, la descontinué del directorio público y la mantengo como herramienta privada.</li>
 </ul>
 </div>
