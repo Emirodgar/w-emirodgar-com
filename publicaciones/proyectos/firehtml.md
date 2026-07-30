@@ -8,7 +8,7 @@ lang: es_ES
 tag: desarrollo
 sitemap: 1
 feed: 1
-date: 28-07-2016
+date: 28-07-2014
 folder: seo
 permalink: /proyectos/firehtml
 ---
@@ -73,14 +73,14 @@ permalink: /proyectos/firehtml
 <span class="pd-video-label">Vídeo</span>
 
 <div class="pd-video-frame">
-<iframe src="https://www.youtube-nocookie.com/embed/06joJwBIAMk" title="Importar y exportar templates y módulos" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/06joJwBIAMk" title="Importar y exportar templates y módulos" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p class="pd-video-caption">En este vídeo podemos ver la funcionalidad de importar y exportar templates para una rápida gestión de múltiples proyectos. Además, se muestra el funcionamiento de los módulos, mediante un sistema de soltar y arrastrar (drag&drop) podemos definir la estructura de la página web.</p>
 
 <br/>
 
 <div class="pd-video-frame">
-<iframe src="https://www.youtube-nocookie.com/embed/tBJrAbh2TTs" title="Funcionamiento básico de FireHTML" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/tBJrAbh2TTs" title="Funcionamiento básico de FireHTML" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p class="pd-video-caption">Explicación de funcionalidades básicas para poder operar con la plataforma y crear, de manera rápida y sin errores, diferentes páginas.</p>
 
