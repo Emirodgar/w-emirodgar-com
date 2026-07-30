@@ -8,7 +8,7 @@ lang: es_ES
 tag: desarrollo
 sitemap: 1
 feed: 1
-date: 28-07-2014
+date: 28-07-2011
 folder: seo
 permalink: /proyectos/firehtml
 ---
@@ -73,14 +73,14 @@ permalink: /proyectos/firehtml
 <span class="pd-video-label">Vídeo</span>
 
 <div class="pd-video-frame">
-<iframe src="https://www.youtube-nocookie.com/embed/06joJwBIAMk" title="Importar y exportar templates y módulos" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/06joJwBIAMk" title="Importar y exportar templates y módulos" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p class="pd-video-caption">En este vídeo podemos ver la funcionalidad de importar y exportar templates para una rápida gestión de múltiples proyectos. Además, se muestra el funcionamiento de los módulos, mediante un sistema de soltar y arrastrar (drag&drop) podemos definir la estructura de la página web.</p>
 
 <br/>
 
 <div class="pd-video-frame">
-<iframe src="https://www.youtube-nocookie.com/embed/tBJrAbh2TTs" title="Funcionamiento básico de FireHTML" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/tBJrAbh2TTs" title="Funcionamiento básico de FireHTML" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p class="pd-video-caption">Explicación de funcionalidades básicas para poder operar con la plataforma y crear, de manera rápida y sin errores, diferentes páginas.</p>
 
@@ -89,8 +89,8 @@ permalink: /proyectos/firehtml
 <div class="pd-section">
 <h2 class="pd-section-title">Evolución y enfoque</h2>
 <ul class="pd-list">
-<li>De 2011 a 2015 la utilicé para mis propios proyectos y clientes. Me ayudaba a ir más rápido y escalar mejor los proyectos</li>
-<li>En el 2016 la hice pública y accesible a todo el mundo de manera gratuita con el objetivo de donar el 50% de todo lo recibido a la creación de pelucas infantiles. Comparto el <a rel="noopener noreferrer" href="https://www.linkedin.com/pulse/regalo-p%C3%A1ginas-web-para-ayudar-ni%C3%B1os-enfermos-emilio-rodr%C3%ADguez-garc%C3%ADa/" target="_blank" >enlace a la publicación original en LinkedIn.</a>  </li>
-<li>[Principio o criterio 2]</li>
+<li>De 2011 a 2015 la utilicé para mis propios proyectos y para los de mis clientes. Me ayudaba a ir más rápido en la creación y mantenimiento de sitios web, por lo que me permitió crecer en el portfolio de clientes.</li>
+<li>En 2015 comencé un proyecto más ambicioso donde integré la funcionalidad de FireHTML para darme agilidad en la creación y distribución de páginas web. Descontinué este proyecto dado que sería parte de mi plataforma de Inbound Marketing.</li>
+<li>En el 2016 hice pública y accesible FireHTML a todo el mundo de manera gratuita con el objetivo de donar el 50% de todo lo recibido a la creación de pelucas infantiles. Comparto el <a rel="noopener noreferrer" href="https://www.linkedin.com/pulse/regalo-p%C3%A1ginas-web-para-ayudar-ni%C3%B1os-enfermos-emilio-rodr%C3%ADguez-garc%C3%ADa/" target="_blank" >enlace a la publicación original en LinkedIn.</a>  </li>
 </ul>
 </div>
