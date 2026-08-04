@@ -88,6 +88,30 @@ function getExperience() {
     });
   }
 
+  function initTestimonialFilters() {
+    const bar = document.querySelector('.testi-filter');
+    if (!bar) return;
+
+    const buttons = bar.querySelectorAll('.testi-filter-btn');
+    const cards = document.querySelectorAll('#section-testimonials-peers .peer-card');
+
+    function applyFilter(filter) {
+      cards.forEach((card) => {
+        const show = filter === 'todas' || card.classList.contains(filter);
+        card.style.display = show ? '' : 'none';
+      });
+      buttons.forEach((b) => {
+        const isActive = b.dataset.filter === filter;
+        b.classList.toggle('active', isActive);
+        b.setAttribute('aria-pressed', String(isActive));
+      });
+    }
+
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => applyFilter(btn.dataset.filter));
+    });
+  }
+
   function initNowSection() {
     const list = document.getElementById('nowList') || document.querySelector('.now-list');
     if (!list) return;
@@ -180,10 +204,12 @@ function getExperience() {
   // Si no, espera al evento — cubre ambos casos sin depender de cuándo se ejecute realmente.
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initTestimonials);
+    document.addEventListener('DOMContentLoaded', initTestimonialFilters);
     document.addEventListener('DOMContentLoaded', initNowSection);
     document.addEventListener('DOMContentLoaded', initProjectGallery);
   } else {
     initTestimonials();
+    initTestimonialFilters();
     initNowSection();
     initProjectGallery();
   }
