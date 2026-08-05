@@ -233,6 +233,7 @@ body{margin:0}article,footer,header,nav,section{display:block}a{background-color
   padding: 26px 24px;
   display: flex;
   flex-direction: column;
+  min-width: 0;
 }
 
 .peer-card-featured {
