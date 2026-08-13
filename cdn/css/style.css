@@ -328,7 +328,8 @@ body{margin:0}article,footer,header,nav,section{display:block}a{background-color
 }
 
 .icon-x svg,
-.icon-instagram svg {
+.icon-instagram svg,
+.icon-web svg {
   display: inline-block;
   vertical-align: middle;
 }
@@ -336,8 +337,6 @@ body{margin:0}article,footer,header,nav,section{display:block}a{background-color
 .si-x:hover { background-color: #000000 !important; }
 
 .grayscale { filter: grayscale(100%); }
-
-.icon-globe:before { content: "\ea44"; }
 
 .peer-card-teaser { position: relative; }
 
