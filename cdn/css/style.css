@@ -337,6 +337,31 @@ body{margin:0}article,footer,header,nav,section{display:block}a{background-color
 
 .grayscale { filter: grayscale(100%); }
 
+.icon-globe:before { content: "\ea44"; }
+
+.peer-card-teaser { position: relative; }
+
+.peer-card-teaser::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 65%;
+  background: linear-gradient(to bottom, rgba(245, 245, 245, 0) 0%, #F5F5F5 85%);
+  border-radius: 0 0 6px 6px;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+
+.peer-grid.show-all .peer-card-teaser::after { opacity: 0; }
+
+.peer-card-hidden { display: none; }
+
+.peer-grid.show-all .peer-card-hidden { display: flex; }
+
+.peer-more-wrap { text-align: center; margin-top: 25px; }
+
 .section-hidden { display: none; }
 
 .testi-filter {

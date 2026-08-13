@@ -88,6 +88,17 @@ function getExperience() {
     });
   }
 
+  const PEER_SHOW_MORE_LABEL = 'Ver más testimonios';
+  const PEER_SHOW_LESS_LABEL = 'Ver menos testimonios';
+
+  function expandPeerGrid() {
+    const grid = document.getElementById('peerGrid');
+    const btn = document.getElementById('peerShowMoreBtn');
+    if (!grid) return;
+    grid.classList.add('show-all');
+    if (btn) btn.textContent = PEER_SHOW_LESS_LABEL;
+  }
+
   function initTestimonialFilters() {
     const bar = document.querySelector('.testi-filter');
     if (!bar) return;
@@ -105,10 +116,23 @@ function getExperience() {
         b.classList.toggle('active', isActive);
         b.setAttribute('aria-pressed', String(isActive));
       });
+      expandPeerGrid();
     }
 
     buttons.forEach((btn) => {
       btn.addEventListener('click', () => applyFilter(btn.dataset.filter));
+    });
+  }
+
+  function initPeerShowMore() {
+    const grid = document.getElementById('peerGrid');
+    const wrap = document.getElementById('peerMoreWrap');
+    const btn = document.getElementById('peerShowMoreBtn');
+    if (!grid || !wrap || !btn) return;
+
+    btn.addEventListener('click', () => {
+      const showAll = grid.classList.toggle('show-all');
+      btn.textContent = showAll ? PEER_SHOW_LESS_LABEL : PEER_SHOW_MORE_LABEL;
     });
   }
 
@@ -205,11 +229,13 @@ function getExperience() {
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initTestimonials);
     document.addEventListener('DOMContentLoaded', initTestimonialFilters);
+    document.addEventListener('DOMContentLoaded', initPeerShowMore);
     document.addEventListener('DOMContentLoaded', initNowSection);
     document.addEventListener('DOMContentLoaded', initProjectGallery);
   } else {
     initTestimonials();
     initTestimonialFilters();
+    initPeerShowMore();
     initNowSection();
     initProjectGallery();
   }
