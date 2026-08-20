@@ -2,7 +2,7 @@
 title: Publicaciones sobre Inteligencia Aritificial y Agentes
 description: Listado de publicaciones sobre Inteligencia Artificial
 lang: es_ES
-layout: emirodgar_post_test
+layout: emirodgar_post
 author: Emirodgar
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: publicaciones-ia
