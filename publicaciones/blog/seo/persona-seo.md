@@ -77,4 +77,6 @@ No se trata de crear un documento y olvidarlo. Para que las personas sean útile
 
 ## ¿Merece la pena invertir en personas para SEO?
 
-Definitivamente sí. Crear personas de usuario no es un ejercicio de marketing bonito, es una forma de **adaptar tu**
+Definitivamente sí. Crear personas de usuario no es un ejercicio de marketing bonito, es una forma de **adaptar tu contenido a cómo buscan realmente las personas, no a cómo nos gustaría que buscaran**.
+
+Cuanto más concreta sea esa persona —rol, restricciones, señales de confianza que necesita— más fácil le resultará a un buscador o a un asistente de IA usar tu contenido como respuesta. Y cuanto mejor definida esté, menos tendrás que adivinar cada vez que te sientes a escribir.

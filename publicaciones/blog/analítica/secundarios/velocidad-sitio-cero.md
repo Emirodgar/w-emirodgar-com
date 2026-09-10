@@ -28,7 +28,14 @@ Para ello bastará con establecer el parámetro [siteSpeedSampleRate](https://de
 ```js
 ga('create',  'UA-XXXX-Y',  {'siteSpeedSampleRate':  10});
 ```
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5OTU2MzA3LDQxNDEwOTg5MCwtMTEzOT
-EyNDg2OV19
--->
+
+## ¿Y en Google Analytics 4?
+
+Este ajuste es exclusivo de Universal Analytics. GA4 no tiene un informe de "velocidad del sitio" ni un parámetro de muestreo equivalente, así que si has migrado, esta solución ya no aplica.
+
+Para medir el rendimiento real de tus páginas en GA4 tienes dos caminos:
+
+- **Datos de campo reales**: usa el informe de [Core Web Vitals](https://emirodgar.com/core-web-vitals-problemas) de Search Console o [PageSpeed Insights](https://pagespeed.web.dev/), que se basan en el Chrome UX Report y no en un muestreo de Analytics.
+- **Tus propias métricas dentro de GA4**: puedes enviar LCP, INP y CLS como eventos personalizados con la librería [web-vitals](https://github.com/GoogleChrome/web-vitals) de Google, y así cruzarlas con tus conversiones dentro de GA4.
+
+La pregunta ya no es cómo ajustar el muestreo, sino qué herramienta usar para medir de verdad la velocidad de tu web.

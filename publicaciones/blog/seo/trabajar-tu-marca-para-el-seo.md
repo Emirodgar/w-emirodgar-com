@@ -64,4 +64,4 @@ Tu marca no es solo un logo o un nombre, es un **activo estratégico** que puede
 Trabajarla es invertir en visibilidad, confianza y resultados a medio y largo plazo.  
 En la era de la IA, **la marca es la mejor palanca para asegurar que tu negocio no solo aparezca en las búsquedas, sino que sea elegido como la respuesta de confianza**.
 
-Esa confianza también se juega en cómo produces tu contenido: si usas IA para generarlo, [cuida cómo lo haces para no perder la confianza de tu público](https://emirodgar.com/contenido-con-ia-como-usarlo-sin-perder-la-confianza-del-publico).
+Esa confianza también se juega en cómo produces tu contenido: si usas IA para generarlo, [cuida cómo lo haces para no perder la confianza de tu público](https://emirodgar.com/contenido-con-ia-como-usarlo-sin-perder-la-confianza-del-publico). Y no te olvides de la otra cara de la moneda: [trabajar con personas de usuario bien definidas](https://emirodgar.com/por-que-las-personas-son-clave-en-el-seo-con-ia) es lo que conecta tu marca con quien de verdad la busca.

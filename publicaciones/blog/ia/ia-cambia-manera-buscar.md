@@ -45,4 +45,4 @@ Al final, la herramienta que logre **convertirse en el nuevo hábito cotidiano**
 Los hábitos de búsqueda, tan estables durante años, están empezando a cambiar gracias a la inteligencia artificial. Aunque Google sigue siendo la puerta de entrada por defecto, **los chatbots y los resúmenes generados por IA ya están moldeando la experiencia de los usuarios**.  
 El futuro dependerá de qué herramienta consiga algo más que dar buenas respuestas: **convertirse en la costumbre diaria de millones de personas**.
 
-Para editores y medios, la buena noticia es que aunque este tráfico sea menor, [se puede monetizar la visibilidad en IA](https://emirodgar.com/monetizar-visibilidad-ia) porque suele ser un tráfico más cualificado.
+Para editores y medios, la buena noticia es que aunque este tráfico sea menor, [se puede monetizar la visibilidad en IA](https://emirodgar.com/monetizar-visibilidad-ia) porque suele ser un tráfico más cualificado. Y si quieres aprovechar mejor las búsquedas tradicionales que aún convives con la IA, aquí tienes [cómo enriquecerlas con datos de persona y contexto](https://emirodgar.com/enriquecer-busquedas-tradicionales-ia).

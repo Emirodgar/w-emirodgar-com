@@ -21,7 +21,7 @@ A continuación vamos a comentar algunos errores comunes que suelen aparecer en 
 - **¿Todas las páginas usan la misma [versión de Google Analytics](https://emirodgar.com/versiones-google-analytics)?** una mezcla de diferentes versiones podría generar fallos en la medición.
 - **¿Utilizamos parámetros UTM en enlaces internos?** estos parámetros utilizados para identificar tráfico de una campaña específica deberían sólo ser implementados desde enlaces externos.
 - **¿Has configurado correctamente la zona horaria en Analytics?** Analytics utiliza le media noche (12:00pm) para resetear sesiones y dividir las mediciones por día. Si no tenemos nuestro huso horario, no contabilizaremos las sesiones de forma correcta.
-- **¿Tarda mucho en cargar la página?** un tiempo excesivo podría dificultar la ejecución del código de Analytics o incluso que los usuarios abandonen la página.
+- **¿Tarda mucho en cargar la página?** un tiempo excesivo podría dificultar la ejecución del código de Analytics o incluso que los usuarios abandonen la página. Si trabajas con GA4, olvídate de ajustar el muestreo como se hacía antes: [así es como se mide realmente la velocidad ahora](https://emirodgar.com/velocidad-sitio-analytics).
 - **¿Generamos errores JavaScript?** si hacemos uso de otros códigos que generan errores, esto podría entrar en conflicto y afectar a la medición de Google Analytics.
 - **¿Tienes picos de tráfico que no tienen sentido?** revisa si se trata de [tráfico SPAM o generado por robots](https://emirodgar.com/eliminar-trafico-spam-robots), una de las causas más habituales de datos distorsionados.
 
