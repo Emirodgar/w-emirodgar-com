@@ -1,21 +1,22 @@
 ---
-title: Factores SEO 2021
-description: Estos son los factores SEO que mayor impacto tendrán durante el año 2019
+title: Factores SEO
+description: Repaso de los factores SEO que más impacto tienen en el posicionamiento orgánico, revisado y actualizado periódicamente.
 lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
 layout: emirodgar_post
 date: 27/01/2022
+date_modified: 11/09/2026
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: factores-seo
 
 ---
 
 
-## Factores SEO 2022
+## Los factores SEO que más impacto tienen
 
-Como cada año me gusta hacer un repaso de los factores SEO que más impacto están teniendo. Dentro de una [estrategia de posicionamiento web](https://emirodgar.com/estrategia-seo) es importante estar atento a los [cambios de algoritmo](https://emirodgar.com/cambio-algoritmo-google) de los buscadores ya que estos darán mayor o menor peso a ciertos factores clave.
+Reviso periódicamente los factores SEO que más impacto están teniendo. Dentro de una [estrategia de posicionamiento web](https://emirodgar.com/estrategia-seo) es importante estar atento a los [cambios de algoritmo](https://emirodgar.com/cambio-algoritmo-google) de los buscadores ya que estos darán mayor o menor peso a ciertos factores clave.
 
 Por orden de importancia, en la siguiente tabla muestro de mayor a menor impacto, los 10 factores que considero relevantes:
 
@@ -30,19 +31,17 @@ Por orden de importancia, en la siguiente tabla muestro de mayor a menor impacto
 | 7-  | Perfil de enlazado |
 | 8-  | Tiempo de carga de la página |
 | 9-  | Seguridad de la página |
-| 10-  | [EAT](https://emirodgar.com/eeat-seo) |
+| 10-  | [E-E-A-T](https://emirodgar.com/eeat-seo) |
 
 
 
-## Lo más importante para el SEO en 2020
+## Otros factores que siguen marcando la diferencia
 
-Pequeño resumen del impacto que han tenido los factores SEO más relevantes durante el año 2020. Este desglose se hace a año vencido para que tengamos la visión de cómo ha evolucionado todo.
+Desarrollo aquí con más detalle algunos de los factores de la tabla anterior.
 
 ### RankBrain y factores UX
 
-Aunque pueda parecer raro, destaco como crucial el  [ofrecer una buena experiencia al usuario](https://searchengineland.com/seo-ux-success-286638)  como **factor SEO relevante**. Google ha avanzando mucho durante 2018 en este aspecto y prueba de ello son el lanzamiento de [Lighthouse](https://developers.google.com/web/tools/lighthouse/?hl=es) y de su herramienta [web.dev](https://web.dev/) . 
-
-Tenemos a nuestra disposición un [informe en Data Studio](https://developers.google.com/web/updates/2018/08/chrome-ux-report-dashboard) para monitorizar la evolución de nuestro rendimiento e incluso el de la competencia.
+Aunque pueda parecer raro, destaco como crucial el  [ofrecer una buena experiencia al usuario](https://searchengineland.com/seo-ux-success-286638)  como **factor SEO relevante**. Herramientas como [Lighthouse](https://developers.google.com/web/tools/lighthouse/?hl=es) o [PageSpeed Insights](https://pagespeed.web.dev/) siguen siendo la referencia para medir esta experiencia a través de las [Core Web Vitals](https://emirodgar.com/core-web-vitals-problemas).
 
 ### Rebote y CTR
 
@@ -62,28 +61,21 @@ Aunque existen multitud de etiquetados que podemos realizar (ver [schema.org](ht
 
 Toda la estrategia debe ser apoyada por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles. Hoy en día existe tal cantidad de información que si seguimos la estela de otros jamás conseguiremos posicionar por delante. Debemos ser creativos y **aportar valor real** a nuestros visitantes; no os olvidéis de hacer uso de material multimedia, [en especial imágenes](https://support.google.com/webmasters/answer/114016).
 
-En el caso de páginas grandes con una elevada volatilidad de contenidos, quizá sea interesante echar un vistazo a la [API de Indexación de Google](https://developers.google.com/search/apis/indexing-api/v3/quickstart); de momento sólo funciona para ofertas de trabajo pero seguro que a lo largo del año la van ampliando.
+En el caso de páginas grandes con una elevada volatilidad de contenidos, quizá sea interesante echar un vistazo a la [API de Indexación de Google](https://developers.google.com/search/apis/indexing-api/v3/quickstart), aunque su uso sigue limitado a tipos de contenido muy concretos.
 
-### Optimización para Google Mobile First Index
+### Optimización mobile-first
 
-Este es un punto que heredo del 2018 y que durante este año seguirá teniendo una gran importancia debido a que aún hay muchas páginas que no están preparadas, ni técnicamente ni estratégicamente para este nuevo algoritmo.
+Google rastrea e indexa prácticamente todo bajo el criterio *mobile-first* desde hace años, pero sigo encontrando páginas que no están preparadas, ni técnicamente ni estratégicamente, para ese enfoque.
 
->El nuevo campo de batalla es mobile y quién no lo sepa está perdiendo mucho tráfico. 
+Por ello debemos tener especial atención al tiempo de carga (relacionado con las Core Web Vitals que comentaba en el primer punto) y a la correcta visualización de nuestra web en diferentes dispositivos.
 
-Por ello debemos tener especial atención al tiempo de carga (relacionado con las métricas de usabilidad SEO que comentaba en el primer punto) y a la correcta visualización de nuestra web en diferentes dispositivos.
+Presta atención a si tu web sigue usando [AMP](https://emirodgar.com/amp): la tecnología ha perdido buena parte de su relevancia frente a un buen rendimiento nativo.
 
-Prestemos atención a [AMP](https://emirodgar.com/amp) ([o no](https://www.polemicdigital.com/google-amp-go-to-hell/)) pero en especial a [PWA](https://developers.google.com/web/progressive-web-apps/) ya que [el fin de las apps móviles está cerca](https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8).
+### De la búsqueda por voz a la búsqueda conversacional
 
-### Optimización para búsqueda por voz
+La irrupción de asistentes de voz como Alexa, Siri o Google abrió la puerta a un nuevo comportamiento en las búsquedas, pero lo que ha terminado consolidándose es algo más amplio: la **búsqueda conversacional con IA**. Herramientas como ChatGPT o Perplexity heredan esa misma lógica de preguntas largas y en lenguaje natural.
 
-Al igual que ha ocurrido una revolución en el cambio de tráfico *desktop* a tráfico *mobile*, la irrupción de asistentes de voz como Alexa, Siri o Google ha abierto la puerta a un nuevo comportamiento en las búsquedas.
-
-A día de hoy la búsqueda tradicional sigue teniendo gran peso pero ya podemos ver que la tendencia de búsqueda por voz [está al alza y seguirá aumentando durante 2019](https://www.brightlocal.com/learn/voice-search-for-local-business-study/). El mayor impacto lo encontramos a nivel local por lo que las empresas con sede física serán las que más se puedan beneficiar de estas búsquedas. Algunos datos interesantes:
-
-- 58% han buscado información de una empresa local en el último año
-- 46% de los usuarios que usan este servicio de voz lo hacen de forma diaria
-- 27% visitaron un negocio local tras una búsqueda por voz  
-- 76% de los dueños de un asistente virtual buscan información de negocios locales al menos una vez por semana
+Esto no sustituye al SEO tradicional, lo amplía. Si quieres profundizar en ello, tengo [todo un bloque dedicado a GEO y AEO](https://emirodgar.com/publicaciones-geo) donde desarrollo cómo adaptar la estrategia a este nuevo escenario.
 
 Por supuesto, no podemos perder de vista el resto de  **factores SEO**  y, sobre todo, estar al día de cualquier  **novedad y avance en marketing digital**; esto es crucial para poder ser competitivos en nuestro sector.
 
