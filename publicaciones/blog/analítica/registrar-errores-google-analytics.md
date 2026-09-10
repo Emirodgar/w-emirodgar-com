@@ -42,6 +42,8 @@ ga('set', 'dimension1', '200');
 ga('send', 'pageview');
 ```
 
+> **En GA4** este código con el objeto `ga` y los *slots* `dimension1`, `dimension2`... ya no aplica. El equivalente sin Tag Manager sería enviar el estado como parámetro del propio evento `page_view`: `gtag('event', 'page_view', {'estado_http': '200'})`, y registrar `estado_http` como dimensión personalizada por su nombre en el panel de GA4, no por un índice.
+
 Para que esto funcione debemos tener un **template personalizado para cada estado de la página**. En el template principal -del que se nutre todo el sitio- envíaríamos el valor 200. En el template de error página no encontrada, enviaríamos el valor 404 y así con el resto de estados que queramos medir.
 
 En el caso de que utilicemos Tag Manager, debemos **enviar a la capa de datos la información del estado de la página**. Para ello utilizamos el [comando push](https://developers.google.com/tag-manager/devguide#adding-data-layer-variables-to-a-page). El siguiente código es el que se insertaría en el template de la página de error 404. 

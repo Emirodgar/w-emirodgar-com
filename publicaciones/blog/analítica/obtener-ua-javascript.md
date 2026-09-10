@@ -34,6 +34,16 @@ En el caso de que quisiéramos establecer una función JavaScript para ser usada
       myInternalMeasurementProtocolSetter(clientId);  
     });
 
+## ¿Y en Google Analytics 4?
+
+El objeto global `ga` no existe en GA4, así que ninguno de los comandos anteriores funcionará. La forma equivalente de obtener el `client_id` es a través del propio objeto `gtag`:
+
+    gtag('get', 'G-XXXXXXXXXX', 'client_id', (clientId) => {
+      console.log(clientId);
+    });
+
+Sustituye `G-XXXXXXXXXX` por tu ID de medición de GA4. También puedes leer el valor directamente de la cookie `_ga` del navegador, aunque tendrás que parsear su formato para extraer solo el identificador.
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTE0NDE4OTc2Myw4NDU5MDQxNDEsMTU2NT
 I4NTc5NCwtMTE3MTA5MjAyMl19

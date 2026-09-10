@@ -53,6 +53,8 @@ Ahora debemos recuperar el ID de usuario en GTM para lo cual necesitaremos crear
 En la etiqueta de Universal Analytics debemos abrir el panel de "Más opciones > Campos para configurar".
 
 Aquí debemos añadir un nuevo "nombre del campo" que sea userId y cuyo valor referencia a la variable que hemos creado "erg_userID".
+
+> **En GA4** el proceso es más directo: en la etiqueta de configuración de GA4 en GTM, dentro de "Campos para configurar", añades el campo `user_id` con el valor de tu variable de capa de datos. No hace falta ningún paso adicional para asociarlo, GA4 lo trata como un parámetro más de la configuración.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQxMzUzNjMxNSwtMTMwODk1MTEwMCwtMj
 MxNDU1NzUyLDM4MzgwMzE4NCwyMDUwMzEzNjk0LDE2Njk2NzA5

@@ -87,6 +87,8 @@ También podemos interactuar directamente con el objeto de Google Analytics para
 
 En la [documentación oficial de Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/ga-object-methods-reference) nos explican con mayor detalle cómo interactuar con este objeto.
 
+> Este comando es de Universal Analytics. En GA4 no existe el objeto `ga`; para [obtener el client ID equivalente desde la consola](https://emirodgar.com/obtener-ua-analytics-javascript) usarás `gtag('get', 'G-XXXXXXXXXX', 'client_id', console.log)`.
+
 ## Trabajar con la capa de datos
 
 También podemos interactuar de forma directa con la capa de datos. Por ejemplo, el siguiente código lanzará un evento directamente en la página. Si tenemos un listener asociado al mismo podría ver en tiempo real si éste funciona.

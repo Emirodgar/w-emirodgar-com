@@ -72,7 +72,7 @@ Ahora, cada vez que se visualice un producto, sabremos si tenía o no stock.
 
 ### A través del objeto gtag
 
-La otra forma que tenemos de enviar esta información es directamente con el objeto `gtag` de [Analytics Universal](https://emirodgar.com/versiones-google-analytics).
+La otra forma que tenemos de enviar esta información es directamente con el objeto `gtag`, la librería que comparten [Global Site Tag y GA4](https://emirodgar.com/versiones-google-analytics).
 
 En este caso usaremos el evento `view_item_list` para enviar la información del array `items` que incluye nuestra dimensión personalizada.
 
@@ -113,6 +113,8 @@ La implementación que hemos realizado en este artículo está ligada al módulo
 Usaremos el método `event` del objeto `gtag` para enviar el valor de la dimensión personalizada que hemos creado previamente en el panel de administración de Google Analytics.
 
 En este caso estaremos asociando a cada página vista de producto, la dimensión personalizada `dimension1` con los valores `Stock` o `Sin stock`. En este caso utilizo `dimension1`, pero en cada implementación debemos revisar cuál es el *slot* al que se nos ha asignado nuestra dimensión personalizada.
+
+> **En GA4** este sistema de *slots* numerados (`dimension1`, `dimension2`...) ya no existe. Envías el parámetro con el nombre que quieras (por ejemplo `stock_status`) directamente en el evento, y luego lo registras como dimensión personalizada en el panel de administración de GA4 usando ese mismo nombre, sin necesidad de asignarle un índice.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExMzM3OTUyMjksLTExMTU3OTA5NTksLT
 M4NTEyMzc1NCwxNTIzODY3MjM3LDEwNzQ4ODIzNTddfQ==

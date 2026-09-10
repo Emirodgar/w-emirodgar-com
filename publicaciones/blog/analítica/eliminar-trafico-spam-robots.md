@@ -34,6 +34,8 @@ Ojo, por sí solo esto no es indicativo de que se trate de robots, por lo que te
 
 En el caso de Google Analytics Universal, disponemos de una  opción dentro de nuestro panel de administración  `Configuración de la vista` > `Filtrado de robots`  para bloquear el tráfico generado por robots de búsqueda conocidos. Bastará con hacer clic sobre la opción de `Excluir todos los hits de robots y de arañas conocidos`.  Una vez activado, nuestra herramienta excluirá todo el tráfico que "entienda" que no está generado por personas.
 
+> **En GA4** esta opción manual ha desaparecido: el filtrado del tráfico de bots y arañas conocidos (según la lista de IAB/ABC) se aplica de forma automática, sin necesidad de activar nada. Eso sí, el tráfico SPAM que no es un bot identificado como tal sigue requiriendo las medidas del punto 2.2.
+
 ![Emirodgar - excluir Analytics tráfico generado por robots](https://emirodgar.com/cdn/images/posts/analytics-filtrado-robots.jpg){:class="img-responsive"}
 
 ### 2.2 - Bloquear tráfico SPAM
