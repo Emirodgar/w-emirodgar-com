@@ -14,34 +14,6 @@ tag: SEO competitivo
 permalink: /analisis-seo/upsa-usal
 ---
 
-<style>
-.as-updated{display:inline-block;font-family:Roboto,sans-serif;font-size:12px;font-weight:700;color:#777;text-transform:uppercase;letter-spacing:.06em;border:1px solid #ccc;border-radius:20px;padding:4px 12px;margin:0 0 24px}
-.as-lead{max-width:760px;font-family:Roboto,sans-serif;font-size:17px;color:#555;line-height:1.7;margin:0 0 40px}
-.as-table-wrap{max-width:900px;overflow-x:auto;margin:0 0 48px}
-.as-table{width:100%;border-collapse:collapse;font-family:Roboto,sans-serif;font-size:14px;min-width:560px}
-.as-table caption{text-align:left;font-size:12px;color:#999;margin-bottom:8px}
-.as-table th,.as-table td{padding:12px 16px;text-align:left;border-bottom:1px solid #e0e0e0}
-.as-table thead th{background:#333;color:#fff;font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.04em}
-.as-table tbody th{font-weight:700;color:#333;white-space:nowrap}
-.as-table td.num{text-align:right;font-variant-numeric:tabular-nums}
-.as-winner{font-weight:700;color:#111}
-.as-winner::after{content:" ✓";font-size:12px}
-.as-trend-down{color:#b23b3b;font-weight:700}
-.as-trend-up{color:#2f8f4e;font-weight:700}
-.as-chart{max-width:900px;margin:0 0 12px}
-.as-chart svg{width:100%;height:auto;display:block}
-.as-caption{max-width:760px;font-family:Roboto,sans-serif;font-size:13px;color:#777;line-height:1.6;margin:0 0 48px}
-.as-legend{display:flex;gap:20px;margin-bottom:10px;font-family:Roboto,sans-serif;font-size:13px;color:#555}
-.as-legend span{display:inline-flex;align-items:center;gap:6px}
-.as-dot{width:10px;height:10px;border-radius:50%;display:inline-block}
-.as-dot.upsa{background:#111}
-.as-dot.usal{background:#999}
-.as-callout{max-width:760px;border-left:3px solid #111;background:#FAFAFA;padding:18px 22px;margin:0 0 40px;font-family:Roboto,sans-serif;font-size:14px;color:#555;line-height:1.7}
-.as-callout b{color:#333}
-.as-kwlist{columns:2;column-gap:32px;max-width:760px;font-family:Roboto,sans-serif;font-size:14px;color:#555;line-height:1.8}
-@media (max-width:600px){.as-kwlist{columns:1}}
-</style>
-
 <span class="pd-stack-label">Dominios comparados</span>
 <div class="pd-stack">
 	<span class="pd-stack-tag">upsa.es</span>
@@ -75,7 +47,7 @@ permalink: /analisis-seo/upsa-usal
 
 <div class="pd-section">
 <h2 class="pd-section-title">Evolución del tráfico orgánico</h2>
-<div class="as-legend"><span><i class="as-dot upsa"></i> upsa.es</span><span><i class="as-dot usal"></i> usal.es</span></div>
+<div class="as-legend"><span><i class="as-dot c1"></i> upsa.es</span><span><i class="as-dot c2"></i> usal.es</span></div>
 <div class="as-chart">
 <svg viewBox="0 0 720 250" xmlns="http://www.w3.org/2000/svg">
 <line x1="40" y1="20" x2="40" y2="220" stroke="#e0e0e0"/>
@@ -96,7 +68,7 @@ permalink: /analisis-seo/upsa-usal
 
 <div class="pd-section">
 <h2 class="pd-section-title">Evolución del Top 10 (posiciones 1-3 + 4-10)</h2>
-<div class="as-legend"><span><i class="as-dot upsa"></i> upsa.es</span><span><i class="as-dot usal"></i> usal.es</span></div>
+<div class="as-legend"><span><i class="as-dot c1"></i> upsa.es</span><span><i class="as-dot c2"></i> usal.es</span></div>
 <div class="as-chart">
 <svg viewBox="0 0 720 250" xmlns="http://www.w3.org/2000/svg">
 <line x1="40" y1="20" x2="40" y2="220" stroke="#e0e0e0"/>
@@ -118,7 +90,7 @@ permalink: /analisis-seo/upsa-usal
 
 <div class="pd-section">
 <h2 class="pd-section-title">Evolución del nº de keywords orgánicas totales</h2>
-<div class="as-legend"><span><i class="as-dot upsa"></i> upsa.es</span><span><i class="as-dot usal"></i> usal.es</span></div>
+<div class="as-legend"><span><i class="as-dot c1"></i> upsa.es</span><span><i class="as-dot c2"></i> usal.es</span></div>
 <div class="as-chart">
 <svg viewBox="0 0 720 250" xmlns="http://www.w3.org/2000/svg">
 <line x1="40" y1="20" x2="40" y2="220" stroke="#e0e0e0"/>
@@ -137,7 +109,7 @@ permalink: /analisis-seo/upsa-usal
 
 <div class="pd-section">
 <h2 class="pd-section-title">Evolución de backlinks</h2>
-<div class="as-legend"><span><i class="as-dot upsa"></i> upsa.es</span><span><i class="as-dot usal"></i> usal.es</span></div>
+<div class="as-legend"><span><i class="as-dot c1"></i> upsa.es</span><span><i class="as-dot c2"></i> usal.es</span></div>
 <div class="as-chart">
 <svg viewBox="0 0 720 250" xmlns="http://www.w3.org/2000/svg">
 <line x1="40" y1="220" x2="680" y2="220" stroke="#e0e0e0"/>
