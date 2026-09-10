@@ -19,7 +19,7 @@ permalink: coronavirus-salamanca
 - [Síntomas y recomendaciones](#recomendaciones)
 - [Prohibiciones y cancelaciones](#prohibiciones)
 - [Compras recomendadas](#compras)
-- [Bulos](#bulos)
+- [Bulos](#bulos): sobre este tema, tengo [algunas reflexiones más generales](https://emirodgar.com/todo-son-bulos)
 
 ## <a name="telefonos"></a> Teléfonos e información
 
@@ -160,7 +160,11 @@ A continuación se detallan una serie de productos que pueden ser útiles si ten
 - Carbón
 - Bolsas de basura
 - Papel albal
-- Mascarillas 
+- Mascarillas
+
+---
+
+Si buscas planes para cuando puedas volver a salir, aquí van dos recomendaciones muy distintas sobre Salamanca y alrededores: [hacer deporte en condiciones](https://emirodgar.com/crossfit-salamanca) o [una escapada de naturaleza al Valle del Jerte](https://emirodgar.com/valle-del-jerte). 
 - Guantes desechables
 
 ## <a name="bulos"></a> Bulos

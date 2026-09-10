@@ -143,7 +143,7 @@ Si buscas un **experto SEO en Salamanca** que se involucre en tus resultados y n
 
 ## ¿Por qué buscar al mejor consultor SEO en Salamanca para tu proyecto?
 
-Elegir un experto no es solo mirar quién está primero, sino quién entiende el tejido empresarial de **Salamanca**. He trabajado con instituciones como la **Universidad Pontificia** y negocios locales que necesitaban dejar de ser invisibles en su propia ciudad.
+Elegir un experto no es solo mirar quién está primero, sino quién entiende el tejido empresarial de **Salamanca**. He trabajado con instituciones como la **Universidad Pontificia** y negocios locales que necesitaban dejar de ser invisibles en su propia ciudad. Conozco bien la ciudad, hasta el punto de ser [Google Local Guide de nivel 6](https://emirodgar.com/google-local-guide-salamanca) con cerca de 200 reseñas sobre comercios y servicios de la zona.
 
 ### Lo que me diferencia de una Agencia SEO convencional
 Como consultor independiente, mi enfoque es el **SEO Técnico Avanzado**. Mientras otros se centran en métricas de vanidad, yo trabajo en:

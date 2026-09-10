@@ -26,7 +26,7 @@ Una estrategia de Growth Hacking se basa por tanto en los siguientes pilares fun
 
 ## Growth Hacker
 
-Un Growth Hacker debe por tanto saber cómo establecer prioridades de crecimiento, identificar canales para la adquisición de nuevos clientes, medir el rendimiento de las acciones llevadas a cabo y seguir aportando medidas para escalar el crecimiento.
+Un Growth Hacker debe por tanto saber cómo establecer prioridades de crecimiento, identificar canales para la adquisición de nuevos clientes, medir el rendimiento de las acciones llevadas a cabo y seguir aportando medidas para escalar el crecimiento. Es uno más de esos roles digitales de nombre confuso, como pasa con la [diferencia entre Chief Data Officer y Chief Digital Officer](https://emirodgar.com/diferencia-chief-data-officer-chief-digital-officer).
 
 ## Estrategias Growth Hacking 
 
@@ -46,6 +46,8 @@ La mejor forma de interiorizar algo es poniendo ejemplos. Estas son algunas de l
 - **Facebook**: Al importar tus contactos, si en algún momento se les mencionaba o etiquetaba, les enviaba un email para incitarles a registrarse y poder compartir ese momento.
 - **Gmail**: en el momento de su lanzamiento se hizo a través de invitaciones, lo cuál despertó tal interés por parecer un servicio "exclusivo" que fue un gran éxito.
 - **Hotmail**: añadía una línea a todos los emails enviados desde dicha plataforma con el mensaje "consigue tu cuenta Hotmail gratuita". Consiguieron 12 millones de usuarios en apenas 1 año.
+
+El Growth Hacking se centra en tácticas rápidas y virales, pero para que el crecimiento se sostenga en el tiempo conviene combinarlo con una estrategia más estructurada como el [Inbound Marketing](https://emirodgar.com/inbound-marketing).
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTkyNjY1OTA0LDQ4MDE3MDA3MiwzOTc2MT
 gwMTcsMzQ4OTAwODA4XX0=

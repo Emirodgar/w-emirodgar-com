@@ -19,6 +19,8 @@ Llevo con ellos más de 3 años y desde entonces he podido ver de primera mano t
 
 Reconozco que al principio era un poco escéptico; venía de haber jugado al fúbol profesional y también tenía experiencia en múltiples gimnasios de Salamanca pero lo que encontré terminó enganchándome como ningún otro ejercicio físico había hecho antes.
 
+Si además de deporte en la ciudad te apetece naturaleza, no muy lejos de aquí tienes [el Valle del Jerte](https://emirodgar.com/valle-del-jerte).
+
 ## Primera clase gratuita
 
 

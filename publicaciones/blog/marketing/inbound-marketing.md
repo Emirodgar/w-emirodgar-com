@@ -39,7 +39,7 @@ Los dos pilares fundamentales en los que se basa esta estrategia son:
    - Decisión: está dispuesto a comprar
    - Fidelización: ha comprado y está dispuesto a repetir
 
-Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevarán a cabo acciones específicas para avanzar dentro del proceso de compra.
+Dependiendo del tipo de persona y de la fase en la que se encuentre, se llevarán a cabo acciones específicas para avanzar dentro del proceso de compra. Y estas decisiones, [no siempre siguen la lógica](https://emirodgar.com/por-que-las-decisiones-de-compra-no-siempre-siguen-la-logica): entender la psicología detrás de cada fase es tan importante como la propia metodología.
 
 **¿Por qué se consiguen buenos resultados?** actuamos sobre un segmento de usuarios -con un comportamiento común- a través de acciones específicas para ellos. Esto siempre será más eficiente que aplicar acciones genéricas sobre todos nuestros visitantes.
 

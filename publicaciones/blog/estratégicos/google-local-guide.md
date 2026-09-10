@@ -27,6 +27,8 @@ De entre todos los servicios que utilizo destaco el de Google Local Guide, un si
 Intento siempre ofrecer un punto de vista imparcial y, en los últimos años, me he centrado en valorar los comercios y el turismo de Salamanca para ayudar a que los visitantes disfruten de una buena experiencia en la ciudad.
 
 El objetivo es claro, que tengan suficiente información como para poder elegir dónde quieren ir y qué quieren hacer con **ciertas garantías de que no se llevarán ninguna sorpresa**. Lo que cualquier querría si viajara a un sitio que no conoce.
+
+Este mismo conocimiento del terreno lo aplico también en mi trabajo como [consultor SEO en Salamanca](https://emirodgar.com/consultor-seo-salamanca), donde entender cómo busca y qué valora el público local marca la diferencia.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTkxNjg5NDA0MCwtMTQ0MTQ4OTk4LC0yNj
 MyMTE4MThdfQ==

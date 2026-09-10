@@ -204,6 +204,8 @@ Substack ofrece varias formas para encontrar contenido interesante:
 
 ¿Conoces alguna newsletter que debería estar en esta lista? Escríbeme por redes. También puedes suscribirte a mi propia newsletter donde hablo de innovación, datos y el impacto de la tecnología en la sociedad.
 
+Si lo que buscas es contenido más específico de SEO, tengo también una recopilación de las [mejores newsletters SEO en español](https://emirodgar.com/mejores-newsletter-seo). Y si prefieres el formato libro, aquí van [algunas recomendaciones de lectura](https://emirodgar.com/libros-recomendados).
+
 
 
 

@@ -22,7 +22,7 @@ Yo, [informático](https://emirodgar.com/ingeniero-informatico) apasionado de la
 Nos lo han intentado meter con cuchara, pero esa no es la solución. Al final, la realidad se abre paso. 
 Considero que el coche eléctrico **tiene un nicho de mercado muy importante**, como es el de **la ciudad** (desplazamientos cortos y repetitivos), **sector movilidad** (taxi, uber, camiones de reparto, etc.) o incluso **servicios** (policía, ambulancia, etc.). Pero sigo pensando que nuestra sociedad actual no está diseñada para cubrir todos los ámbitos (llegar a toda la población). Nos enfrentamos a problemas similares que con los coches autónomos.
 
-Ya os hablé en su momento del bulo del coche eléctrico y de que **el primer motor libre de combustión data de 1837**. Si lleva tanto tiempo, ¿por qué la única relevancia que ha tenido en los últimos 160 años es la que han tenido que dar gobiernos y empresas a golpe de reducciones fiscales?. 
+Ya os hablé [en su momento del bulo del coche eléctrico](https://emirodgar.com/todo-son-bulos) y de que **el primer motor libre de combustión data de 1837**. Si lleva tanto tiempo, ¿por qué la única relevancia que ha tenido en los últimos 160 años es la que han tenido que dar gobiernos y empresas a golpe de reducciones fiscales?. 
 
 > No han demostrado que el coche eléctrico sea mejor, tan sólo lo han bonificado y, en el camino, demonizado al de combustión. 
 

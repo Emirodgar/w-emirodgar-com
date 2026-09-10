@@ -26,6 +26,10 @@ En este artículo os enseñaré cómo podemos **automatizar** el proceso de aná
 
 Un buen tiempo de carga es un  [factor SEO](https://emirodgar.com/factores-seo)  relevante que nos ayudará a **mejorar posicionamiento web** y favorecer la experiencia de nuestros visitantes, especialmente a aquellos que lo hacen a través de dispositivos móviles.
 
+Lighthouse también es la herramienta que recomiendo para validar y optimizar una [Progressive Web App](https://emirodgar.com/como-crear-una-progressive-web-app). Eso sí, cuidado con usar estos datos para [bloquear el acceso a países con mala conexión](https://emirodgar.com/bloquear-acceso-pais) solo para maquillar la puntuación media de Core Web Vitals: es una práctica que no recomiendo.
+
+Entre las mejoras técnicas que más impactan en tu puntuación de Lighthouse están [descomprimir el CSS](https://emirodgar.com/descomprimir-css-comprimido) para poder editarlo y aplicar [Lazy Load en tus imágenes](https://emirodgar.com/lazy-load-carga-bajo-demanda-imagenes) para no cargar de más.
+
 
 ## 1- <a name="instalacion"></a> Instalamos Lighthouse en nuestro ordenador
 

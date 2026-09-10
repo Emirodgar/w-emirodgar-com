@@ -51,6 +51,8 @@ body.dark .post .post-content p {color :white;}
 ```
 
 Los estilos CSS dependerán de cada página web. Los que he puesto antes son los que corresponde a mi blog.
+
+Si te gusta ajustar detalles visuales con CSS, aquí tienes cómo [centrar una imagen](https://emirodgar.com/centrar-imagen-css) de forma sencilla.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MzMxMzcxODMsMTAxNDI4Mzc4OCwtMT
 Y4NDA5OTAzOCwtMTc2MDA5Nzg1MF19

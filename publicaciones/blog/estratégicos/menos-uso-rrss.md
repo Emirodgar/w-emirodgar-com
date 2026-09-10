@@ -30,6 +30,6 @@ En la siguiente imagen podemos ver cómo ha disminuido el uso de redes sociales 
 
 Esta estrategia de las plataformas ha funcionado muy bien durante los últimos años, pero todo tiene un tiempo de vida, y el de las redes sociales como las conocemos parece estar llegando a su fin. Visto lo visto, quizá deberíamos llamarlas "**redes de entretenimiento**" y no sociales, dado que el concepto de social, asociado a nuestras relaciones digitales, cada vez es más escaso.
 
-La teoría del [bosque oscuro](https://emirodgar.com/bosque-oscuro) sigue tomando forma.
+La teoría del [bosque oscuro](https://emirodgar.com/bosque-oscuro) sigue tomando forma. Es la misma dinámica que está llevando a Google a competir con [Perplexity y las respuestas generadas por IA](https://emirodgar.com/google-vs-perplexity): retener al usuario dentro de la plataforma el máximo tiempo posible.
 
 

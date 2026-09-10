@@ -16,7 +16,7 @@ permalink: herramientas-seo-gratis
 
 Hace ya tiempo compartí mi listado de [recursos para marketing digital](recursos-marketing-digital/). En él incluía multitud de herramientas, tanto de pago como gratuitas para abordar cualquier problemática dentro de una [estrategia SEO](estrategia-seo).
 
-Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más eficientemente y rápido en nuestras tareas SEO. Antes de comenzar con el listado de categorías y herramientas asociadas a las mismas destacaría https://startpage.com/ para poder disfrutar de una navegación segura y privada. De la misma forma, si usamos Windows, aplicaciones como [App Buster](https://www.oo-software.com/en/ooappbuster) o [BlackBird](https://www.getblackbird.net/) nos ayudarán a disfrutar de una experiencia más segura y liviana.
+Basándome en [mi experiencia](experiencia-seo), he confeccionado este listado de **herramientas SEO gratuitas** que nos ayudarán a avanzar más eficientemente y rápido en nuestras tareas SEO (si además quieres ver todo el [software que uso en mi día a día](https://emirodgar.com/software-recomendado-seo), no solo el gratuito, aquí tienes el listado completo). Antes de comenzar con el listado de categorías y herramientas asociadas a las mismas destacaría https://startpage.com/ para poder disfrutar de una navegación segura y privada. De la misma forma, si usamos Windows, aplicaciones como [App Buster](https://www.oo-software.com/en/ooappbuster) o [BlackBird](https://www.getblackbird.net/) nos ayudarán a disfrutar de una experiencia más segura y liviana.
 
 Herramientas clasificadas por categorías:
 

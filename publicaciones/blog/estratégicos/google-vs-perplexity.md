@@ -14,7 +14,7 @@ permalink: google-vs-perplexity
 
 Desde el lanzamiento de AI Overviews la comunidad SEO está en alerta. Como cabría esperar, al igual que todos los grandes, Google está evolucionando hacia un **modelo de negocio que atrapa al usuario**, evitando que salga hacia otras páginas.
 
-Meta, LinkedIn o X ya lo hacen. **Dan prioridad y mayor visibilidad a las publicaciones que no contienen enlaces externos** evitando así que los usuarios abandonen sus plataformas. Es el conocido cambio de enfoque desde **redes sociales**, donde predominaban las publicaciones de nuestros amigos y gente con la que estábamos conectados a **redes de entretenimiento**, donde recibimos lo que el algoritmo de turno considera que nos va a interesar más.
+Meta, LinkedIn o X ya lo hacen. **Dan prioridad y mayor visibilidad a las publicaciones que no contienen enlaces externos** evitando así que los usuarios abandonen sus plataformas. Es el conocido [cambio de enfoque desde redes sociales a redes de entretenimiento](https://emirodgar.com/menos-uso-rrss), donde predominaban las publicaciones de nuestros amigos y gente con la que estábamos conectados a algoritmos que deciden qué nos va a interesar más.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/3e8010b0-4314-4705-ba28-e5f437380019){:class="img-responsive"}
 

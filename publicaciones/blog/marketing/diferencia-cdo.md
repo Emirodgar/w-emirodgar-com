@@ -16,7 +16,7 @@ La transformación digital sigue su curso y cada vez más rápido. Surgen nuevos
 
 > CDO son las siglas tanto para **Chief Data Officer** como para **Chief Digital Officer**.
 
-El origen de estos términos se remonta al año 2004 aunque [como podemos ver en Google Trends](https://trends.google.es/trends/explore?date=all&q=chief%20data%20officer,chief%20digital%20officer), es a finales de 2013 cuando comienza su auge. 
+El origen de estos términos se remonta al año 2004 aunque [como podemos ver en Google Trends](https://trends.google.es/trends/explore?date=all&q=chief%20data%20officer,chief%20digital%20officer), es a finales de 2013 cuando comienza su auge. Es un fenómeno parecido al que vivió el [Growth Hacking](https://emirodgar.com/growth-hacking): un término que se pone de moda porque describe una necesidad real de las empresas en un momento concreto.
 
 ## Chief Digital Officer
 

@@ -41,6 +41,8 @@ Google te permite las siguientes acciones en relación a tu privacidad y los dat
 -  [Descargar todos tus datos](https://support.google.com/accounts/answer/3024190?hl=es)
 -  [Establecer qué datos quieres que se midan y cuáles no](https://myaccount.google.com/data-and-personalization)
 - [Comprobar los niveles de privacidad de tu cuenta](https://myaccount.google.com/privacycheckup/)
+
+Si prefieres directamente minimizar la cantidad de datos que generas, existen [buscadores que garantizan tu privacidad](https://emirodgar.com/buscadores-privacidad) sin renunciar a una buena experiencia de búsqueda.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3Nzg4ODg1OCwtMTIyNDUyNzcwMiwtOT
 UwMDA3NTg3XX0=

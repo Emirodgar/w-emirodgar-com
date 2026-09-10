@@ -33,6 +33,8 @@ Para usarla bastará con incluirla dentro la clase del elemento `img` de la sigu
 <img src="../imagen.jpg" class="img-centrada"/>
 ```
 
+Si además quieres que todas tus imágenes tengan un tamaño uniforme, te dejo [otro truco de CSS para normalizarlas](https://emirodgar.com/imagenes-tamano-css).
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDEzMTI3NTEsMTk2MzA0MDMyMl19
 -->

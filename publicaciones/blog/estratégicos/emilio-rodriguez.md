@@ -136,7 +136,7 @@ He participado en el desarrollo de estrategias para grandes empresas como Movist
 
 ## SEO Growth hacker
 
-La tecnología siempre ha sido un pilar fundamenteal en mis estrategias SEO. Durante estos años he desarrollado la extensión SEO para Wordpress [Automatic SEO Links](https://wordpress.org/plugins/automatic-seo-links/advanced/) con cerca de 100.000 descargas (ya no está activa), la extensión [Emirodgar SEO](https://chrome.google.com/webstore/detail/emirodgar-seo/nlelfnhiohbflhkhomefbekimmbeahng?hl=es) para Chrome (la he hecho privada, por lo que ya no está disponible) o mi [propia plataforma de marketing digital](https://www.linkedin.com/pulse/c%C3%B3mo-la-transformaci%C3%B3n-digital-me-ayud%C3%B3-pagar-de-mi-rodr%C3%ADguez-garc%C3%ADa/) desde la que gestionar todos mis proyectos SEO así como perfiles sociales.
+La tecnología siempre ha sido un pilar fundamenteal en mis estrategias SEO. Durante estos años he desarrollado la extensión SEO para Wordpress [Automatic SEO Links](https://wordpress.org/plugins/automatic-seo-links/advanced/) con cerca de 100.000 descargas (ya no está activa), la [extensión Emirodgar SEO para Chrome](https://emirodgar.com/extension-seo) (la he hecho privada, por lo que ya no está disponible) o mi [propia plataforma de marketing digital](https://www.linkedin.com/pulse/c%C3%B3mo-la-transformaci%C3%B3n-digital-me-ayud%C3%B3-pagar-de-mi-rodr%C3%ADguez-garc%C3%ADa/) desde la que gestionar todos mis proyectos SEO así como perfiles sociales.
 
 ## Certificaciones
 A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos son algunas de las certificaciones y formaciones que he cursado.
@@ -200,5 +200,5 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 
 ## Enlaces
 
-Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com/emirodgar) o [LinkedIn](https://www.linkedin.com/in/emirodgar/). También echo una mano en los foros de Webmasters Stack Exchange ([perfil](https://webmasters.stackexchange.com/users/86914/emirodgar)) y Quora ([perfil](https://es.quora.com/profile/Emilio-Rodr%C3%ADguez-1)) ayudando en SEO y Analítica.
+Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com/emirodgar) o [LinkedIn](https://www.linkedin.com/in/emirodgar/), donde [comparto también mi actividad](https://emirodgar.com/influencer-seo). También echo una mano en los foros de Webmasters Stack Exchange ([perfil](https://webmasters.stackexchange.com/users/86914/emirodgar)) y Quora ([perfil](https://es.quora.com/profile/Emilio-Rodr%C3%ADguez-1)) ayudando en SEO y Analítica.
 

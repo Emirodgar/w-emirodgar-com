@@ -77,3 +77,5 @@ Aunque la idea de un asistente personal es muy potente, esta tecnología tiene a
 Organizar y acceder a grandes volúmenes de información de forma eficiente es fundamental para definir una buena [**estrategia SEO**](https://emirodgar.com/estrategia-seo). De hecho, la estructuración de estos sistemas tiene mucho que ver con la optimización de la arquitectura de la información, un pilar del [**SEO técnico**](https://emirodgar.com/seo-tecnico).
 
 En resumen, construir un asistente con RAG ya no es ciencia ficción. Es una forma accesible y potentísima de **convertir un montón de información desorganizada en conocimiento activo** y útil. El poder ya no está en tener los datos, sino en la capacidad de conversar con ellos.
+
+En esta misma línea de IA aplicada al desarrollo, te puede interesar [Kiro, el IDE de Amazon centrado en objetivos](https://emirodgar.com/kiro-ide-amazon-revolucion-programacion) en lugar de solo autocompletar código.

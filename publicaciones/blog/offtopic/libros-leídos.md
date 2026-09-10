@@ -14,7 +14,7 @@ permalink: libros-recomendados
 
 Tras la adquisición de un Kindle por mi cumpleaños el verano de 2019 me propuse recuperar una de mis grandes aficiones que tenía abandonada: **la lectura**.
 
-A continuación detallo los libros que recomiendo leer.
+A continuación detallo los libros que recomiendo leer. Si prefieres un formato más corto y actual, también tengo una recopilación de [las mejores newsletters de Substack](https://emirodgar.com/mejores-newsletter-substack).
 
 | Libro | Autor |
 |--|--|

@@ -59,7 +59,7 @@ permalink: /actual/
 
 También podríamos crear un **fichero .htaccess** bajo Jekyll y gestionar las redirecciones a través del mismo, pero creo que esta forma es más rápida y sencilla.
 
-En realidad, esta migración no equivale a una 301 (o Google puede no entenderlo así) ya que a veces nos da problemas. Por ello es importante que usemos Google Search Console para validar que las URLs enviadas en el Sitemap XML son las correctas (nuevas) y que el robot de búsqueda entiende perfectamente la relación con las antiguas. 
+En realidad, esta migración no equivale a una 301 (o Google puede no entenderlo así) ya que a veces nos da problemas. Por ello es importante que usemos Google Search Console para validar que las URLs enviadas en el [Sitemap XML](https://emirodgar.com/error-formato-sitemap-xml) son las correctas (nuevas) y que el robot de búsqueda entiende perfectamente la relación con las antiguas. 
 
 Por ejemplo, en la siguiente imagen podemos ver cómo la URL `https://emirodgar.com/consultor-seo/` que incluye la barra final ha sido redireccionada a la versión sin barra al final `https://emirodgar.com/consultor-seo`. 
 

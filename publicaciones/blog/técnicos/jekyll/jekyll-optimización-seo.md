@@ -70,6 +70,8 @@ Para no repetir una y otra vez la información que es común a todas las página
 De esta forma nos aseguramos que cualquier URL cuenta con la información mínima necesaria para que Google indexe y posicione de forma correcta.
 
 > Los datos estructurados de Jekyll están bastante limitados por lo que recomiendo [este artículo](http://aramzs.github.io/jekyll/schema-dot-org/2018/04/27/how-to-make-your-jekyll-site-structured.html)  para poder profundizar en esta línea y conseguir un marcado semántico mucho más consolidado.
+
+Otros aspectos de Jekyll que conviene cuidar de cara al SEO: [mostrar la fecha de publicación y actualización](https://emirodgar.com/fecha-publicacion-jekyll), [colorear correctamente los bloques de código](https://emirodgar.com/colorear-codigo-jekyll) y [aplicar redirecciones cuando cambies una URL](https://emirodgar.com/redirecciones-seo-jekyll).
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExMzI3NDA4NywtMTUzODIwODc1MiwyMD
 I1ODc2NTY2XX0=

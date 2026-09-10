@@ -15,7 +15,7 @@ permalink: encontrar-trabajo
 
 En la red existen múltiples sitios donde poder encontrar trabajos, especialmente relacionados con el mundo digital aunque no son la excepción.
 
-A continuación os dejo una serie de portales especializados en trabajos donde podremos encontrar grandes ofertas. Los listados suelen estar actualizados y ofrecen un gran detalle.
+A continuación os dejo una serie de portales especializados en trabajos donde podremos encontrar grandes ofertas. Los listados suelen estar actualizados y ofrecen un gran detalle. Si lo que buscas es precisamente un puesto en remoto, te interesará ver también las [ventajas y desventajas de trabajar desde casa](https://emirodgar.com/trabajar-desde-casa).
 
  - [LinkedIn](https://www.linkedin.com/): Con más de 500 millones de usuarios registrados es el lugar ideal para relacionarse con tu sector y buscar grandes oportunidades. Cada día se publican cientos de ofertas relacionadas con tu perfil e incluso puedes enviar directamente tu solicitud a través de esta plataforma. Muchas empresas la utilizan como lugar de captación y hacen todo el proceso dentro de LinkedIn.
  - [Simplyhired](https://www.simplyhired.es/): Diseñada para facilitar a las empresas la contratación de nuevos empleados. Podemos buscar trabajos por zona geográfica o por similitud con nuestras aptitudes.

@@ -13,7 +13,7 @@ permalink: trabajar-desde-casa
 ---
 
 
-**Trabaja para vivir, no vivas para trabajar**. Con esta célebre frase podríamos resumir el objetivo principal de un teletrabajo o trabajo en remoto.
+**Trabaja para vivir, no vivas para trabajar**. Con esta célebre frase podríamos resumir el objetivo principal de un teletrabajo o trabajo en remoto. Si aún no tienes ese trabajo remoto, aquí tienes [algunas alternativas para encontrarlo a través de Internet](https://emirodgar.com/encontrar-trabajo).
 
 El principal beneficio -entre otros muchos- es el poder **conciliar tu vida profesional con tu vida personal**. Una persona equilibrada, profesional y con fuerza de voluntad aprovechará al máximo esta posibilidad para sacar el mayor rendimiento a ambas facetas.
 

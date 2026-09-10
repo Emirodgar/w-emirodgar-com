@@ -29,6 +29,8 @@ Analytics nos permite activar para cada vista el informe de comercio electrónic
 
 Con el mejorado activaremos una serie de informes más especializados como [Comportamiento de compra](https://emirodgar.com/analisis-comportamiento-tramitacion-compra), rentabilidad económica, rendimiento de campañas o atribución de productos. Son más detallados pero también requieren de una configuración o etiquetado adicional dentro de nuestro sitio.
 
+Si tu ecommerce está en Squarespace, tienes [una implementación específica de estos eventos vía GTM](https://emirodgar.com/ga4-squarespace) adaptada a esa plataforma.
+
 ## Analizar el comportamiento de compra
 
 Esta opción se habrá activado al habilitar el ecommerce mejorado y aparecerá en nuestro menú bajo las opciones de Conversiones > Comercio electrónico > Comportamiento de compra.

@@ -96,6 +96,12 @@ También podemos interactuar de forma directa con la capa de datos. Por ejemplo,
     'event': 'erg_contacto'  
     })
 
+## Inspeccionar cookies
+
+Desde la pestaña `Application` también puedes inspeccionar las cookies que está generando la página, incluido el valor de su atributo [SameSite](https://emirodgar.com/cookies-samesite), muy útil para depurar problemas de terceros o de sesión.
+
+Y si lo que quieres es navegar sin publicidad molesta, [aquí tienes cómo bloquearla](https://emirodgar.com/quitar-publicidad-web) usando también la propia consola para identificar los elementos a ocultar.
+
 ## Validar páginas AMP
 
 También podemos usar la consola de Chrome para validar páginas AMP. Para ello bastará con que a la URL le añadamos `#development=1` y recarguemos de nuevo la página.

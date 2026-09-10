@@ -39,6 +39,8 @@ Para usarla bastará con incluirla dentro la clase del elemento `img` de la sigu
 <img src="../imagen.jpg" class="img-normalizada"/>
 ```
 
+Otro pequeño ajuste de navegación que suele venir bien es [desplazar correctamente un anchor link con CSS](https://emirodgar.com/anchor-links-desplazado-css) cuando tienes un menú fijo.
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwNTY3MzU2ODIsMTU5MTE3ODQ5LC00Nj
 c4MzYzMTNdfQ==

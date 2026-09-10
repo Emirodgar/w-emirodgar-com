@@ -77,6 +77,8 @@ Con un sistema de medición bien definido:
 - Uso más eficiente de los recursos y presupuesto.  
 - Capacidad de respuesta rápida ante cambios en el mercado o algoritmos.
 
+Te cuento [un caso real de dos proyectos con estrategias muy distintas](https://emirodgar.com/caso-exito-seo-estrategia) y cómo les fue con el tiempo: la diferencia entre una estrategia sólida y una que solo busca el atajo.
+
 ---
 
 📌 **Una buena estrategia SEO no es un documento, es un proceso vivo que evoluciona contigo y tu mercado.**

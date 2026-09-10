@@ -52,7 +52,7 @@ Puedes darle una idea general y la herramienta es capaz de desglosarla en un pla
 
 Si Kiro cumple lo que promete, el cambio podría ser enorme. Los desarrolladores podrían dejar de centrarse tanto en el "cómo" (la escritura de código repetitivo) para enfocarse en el "qué" (los objetivos y la lógica del negocio).
 
-Esto se parece mucho a una buena [**estrategia SEO**](https://emirodgar.com/estrategia-seo), donde lo más importante no son las acciones aisladas, sino el plan global que les da sentido. La IA se encargaría de la implementación técnica, mientras que el profesional se dedica a la parte estratégica.
+Esto se parece mucho a una buena [**estrategia SEO**](https://emirodgar.com/estrategia-seo), donde lo más importante no son las acciones aisladas, sino el plan global que les da sentido. Es la misma filosofía que hay detrás de herramientas como RAG para [crear tu propio asistente de conocimiento con IA](https://emirodgar.com/crear-asistente-conocimiento-ia-rag): partir de un objetivo claro antes de picar código. La IA se encargaría de la implementación técnica, mientras que el profesional se dedica a la parte estratégica.
 
 Esto no solo **aumentaría la productividad y reduciría el tiempo** necesario para lanzar productos, sino que también permitiría a los equipos probar e iterar ideas mucho más rápido. Y en el mundo tecnológico, la velocidad es un factor decisivo.
 

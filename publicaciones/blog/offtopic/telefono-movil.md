@@ -93,7 +93,7 @@ Después de menos de dos años con el Google PixelXL -que lo mejor que tenía er
 
 Viendo que con niños en casa es muy probable que se sigan cayendo los teléfonos he optado por un teléfono de gama media pero a un precio razonable. Por ello voy a lanzarme a los brazos de **Xiaomi Mi 9T** que me ha costado **269€**.
 
-Os iré contando qué tal me va con este teléfono.
+Os iré contando qué tal me va con este teléfono... spoiler: [tuvo sus más y sus menos](https://emirodgar.com/xiaomi-mi-9t-problemas).
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzUyOTAzODE4LC0xMzMxNzUwOTI3LDYyNj

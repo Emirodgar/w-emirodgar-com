@@ -51,6 +51,8 @@ El siguiente paso será instalar el plugin de ESLint en Sublime. Podemos hacerlo
 
 Una vez instalado, debemos ir al archivo de configuración `Settings-Default` y rellenar los tres campos que aparecen.
 
+Si buscas ejemplos sencillos de funciones ya validadas para tus proyectos, tengo publicadas algunas sueltas: [obtener el año actual](https://emirodgar.com/funcion-fecha-ano-javascript), [pasar una cadena a minúsculas con la primera letra en mayúscula](https://emirodgar.com/funcion-javascript-cadena-minusculas) o [validar el formato de una fecha](https://emirodgar.com/funcion-javascript-para-validar-fechas).
+
 ```json
 {
   "node_path": "C:/Program Files/nodejs",

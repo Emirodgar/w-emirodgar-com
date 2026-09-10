@@ -127,6 +127,8 @@ Para proteger la reputación y la facturación de tu negocio, evalúa siempre lo
 
 > **Advertencia de Seguridad:** Desconfía de cualquier profesional o agencia que **garantice la primera posición en Google**, prometa resultados inmediatos en menos de 30 días o utilice técnicas automatizadas desactualizadas (*Black Hat SEO*). El SEO es un proceso progresivo que requiere validación técnica y adaptación continua a los algoritmos.
 
+Si quieres comparar opciones antes de decidir, aquí tienes mi [ranking de los mejores consultores SEO en España](https://emirodgar.com/mejores-consultores-seo-espana).
+
 ---
 
 ## ¿Hablamos de tu Proyecto?

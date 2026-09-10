@@ -13,7 +13,7 @@ permalink: funcion-javascript-para-validar-fechas
 
 ---
 
-Esta función en JavaScript nos permitirá de una forma rápida validar una fecha. Devolverá ```true``` o ```false``` dependiendo de si el formato es correcto o no. Para que sea más reutilizable la fecha se pasará como parámetro.  
+Esta función en JavaScript nos permitirá de una forma rápida validar una fecha. Si buscas algo más completo, aquí tienes una comparativa de [validadores de JavaScript](https://emirodgar.com/validadores-javascript) para proyectos más grandes. Devolverá ```true``` o ```false``` dependiendo de si el formato es correcto o no. Para que sea más reutilizable la fecha se pasará como parámetro.  
 
 ## Validaciones
 

@@ -15,7 +15,7 @@ author: emirodgar
 
 ---
 
-Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la oportunidad de trabajar en múltiples proyectos. Os cuento los **casos de éxito SEO** más importantes que he conseguido.
+Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la oportunidad de trabajar en múltiples proyectos. Os cuento los **casos de éxito SEO** más importantes que he conseguido (para ver el otro lado de la moneda, también he analizado [una migración que salió mal, como la de realmadrid.com](https://emirodgar.com/caida-seo-real-madrid)).
 
  - [2015 - Recuperar tráfico perdido en periódico digital](#periodico)
  - [2016 - Migración Ecommerce Internacional](#ecommerce)

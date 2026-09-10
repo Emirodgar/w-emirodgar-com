@@ -48,7 +48,9 @@ Cada cuál es libre de utilizar el lenguaje de programación que más le guste y
 - Es open source
 - Más potente que R
 - Funciona en múltiples entornos
-- Automatiza tareas manuales 
+- Automatiza tareas manuales
+
+Una vez instalado, un buen primer script para practicar es [automatizar el unfollow en Twitter de quien no te sigue de vuelta](https://emirodgar.com/script-python-twitter-unfollow). 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA4MTIxNjU2LDQ3MzE3NTg1MCwtMjA4Mz
 M3MDkwMl19
