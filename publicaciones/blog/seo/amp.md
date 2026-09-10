@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 22/01/2022
-folder: seo-tecnico
+folder: seo
 category: seo
 permalink: amp
 

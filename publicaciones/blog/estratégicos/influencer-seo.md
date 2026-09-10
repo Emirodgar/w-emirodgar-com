@@ -10,8 +10,8 @@ folder: estrategicos
 date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: influencer-seo
- 
- ---
+
+---
 
 Desde que descrubrí el mundo del SEO siempre me ha gustado compartir debates e información con amigos y profesionales del sector. 
 

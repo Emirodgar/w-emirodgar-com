@@ -1,4 +1,4 @@
---
+---
 title: Por qué la posición media en Search Console no es un buen indicador de rendimiento
 description: La posición media de Google Search Console puede llevar a interpretaciones erróneas si se analiza de forma aislada. Te cuento por qué y cómo deberías usarla correctamente.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -11,7 +11,7 @@ date: 24-09-2025
 folder: seo
 permalink: posicion-media-search-console-kpi
 
---
+---
 
 # Por qué la posición media en Search Console no es un buen indicador de rendimiento
 

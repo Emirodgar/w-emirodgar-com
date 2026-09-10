@@ -1,5 +1,4 @@
---
-
+---
 title: Cómo crear tu propio asistente de conocimiento con IA y RAG
 description: Te explico qué es la tecnología RAG y cómo puedes usarla para construir un asistente personal con IA que entienda todos tus documentos, notas e imágenes.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -12,7 +11,7 @@ date: 25-09-2025
 folder: programacion
 permalink: /crear-asistente-conocimiento-ia-rag/
 
---
+---
 
 # Cómo crear tu propio asistente de conocimiento con IA (y por qué deberías)
 

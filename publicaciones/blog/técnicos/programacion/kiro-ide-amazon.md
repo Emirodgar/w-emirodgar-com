@@ -1,5 +1,4 @@
---
-
+---
 title: Kiro el IDE de Amazon que quiere revolucionar la programación
 description: Amazon ha lanzado Kiro, un nuevo IDE con IA que no se centra en completar código, sino en entender y ejecutar objetivos de desarrollo completos. ¿Cambiará las reglas del juego?
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -12,7 +11,7 @@ date: 25-09-2025
 folder: programacion
 permalink: kiro-ide-amazon-revolucion-programacion
 
---
+---
 
 # Kiro: el IDE de Amazon que quiere revolucionar la programación con IA
 

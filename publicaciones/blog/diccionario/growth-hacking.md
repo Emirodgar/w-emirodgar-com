@@ -6,7 +6,7 @@ layout: emirodgar_post
 author: Emirodgar
 sitemap: 1
 feed: 1
-folder: diccionario
+folder: marketing
 category: marketing
 date: 13/05/2021
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png

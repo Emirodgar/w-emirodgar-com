@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 sitemap: 1
 feed: 1
-folder: seo, google
+folder: seo
 layout: emirodgar_post
 date: 19/05/2021
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
