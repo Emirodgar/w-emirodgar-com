@@ -15,7 +15,7 @@ permalink: eliminar-trafico-spam-robots
 
 En ocasiones los sistemas de analítica web reflejan picos de tráfico de referencia de dominios que nunca nos han enlazado y tráfico desde países que no tiene sentido. Se trata de  **tráfico SPAM**  y/o  **generado por robots**. Más allá de que pueden consumir una parte de los recursos de nuestro servidor, el verdadero problema reside en que  **nuestra analítica se distorsiona**  y terminamos analizando un tráfico que no aporta ningún valor.
 
-A continuación detallo algunos pasos para prevenir y minimizar el impacto de este tráfico malo en nuestra estrategia digital.
+Es uno de los [errores más comunes en implementaciones de Google Analytics](https://emirodgar.com/errores-comunes-analytics) y, si no se corrige, distorsiona cualquier análisis posterior. A continuación detallo algunos pasos para prevenir y minimizar el impacto de este tráfico malo en nuestra estrategia digital.
 
 ## 1- Identificar el tráfico de baja calidad
 

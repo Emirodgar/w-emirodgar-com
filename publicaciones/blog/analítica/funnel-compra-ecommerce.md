@@ -27,7 +27,7 @@ Analytics nos permite activar para cada vista el informe de comercio electrónic
 ### Diferencia entre Comercio electrónico y Comercio electrónico mejorado
 
 
-Con el mejorado activaremos una serie de informes más especializados como Comportamiento de compra, rentabilidad económica, rendimiento de campañas o atribución de productos. Son más detallados pero también requieren de una configuración o etiquetado adicional dentro de nuestro sitio.
+Con el mejorado activaremos una serie de informes más especializados como [Comportamiento de compra](https://emirodgar.com/analisis-comportamiento-tramitacion-compra), rentabilidad económica, rendimiento de campañas o atribución de productos. Son más detallados pero también requieren de una configuración o etiquetado adicional dentro de nuestro sitio.
 
 ## Analizar el comportamiento de compra
 

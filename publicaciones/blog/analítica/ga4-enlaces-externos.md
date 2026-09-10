@@ -15,6 +15,8 @@ permalink: ga4-enlaces-externos
 
 De manera nativa, Google Analytics 4 nos permite registrar los clics realizados a enlaces externos a nuestra página web. El problema suele venir que cuando queremos analizarlos, esa información no es muy accesible.
 
+Este dato es un buen complemento a una [auditoría de enlazado interno](https://emirodgar.com/auditoria-enlazado-interno): mientras esta última te dice cómo enlazas hacia dentro, saber a qué enlaces externos hace clic tu audiencia te dice qué recursos de fuera valoran de verdad.
+
 ## Habilita el seguimiento de enlaces externos
 
 El primer paso que tenemos que hacer es asegurarnos que tenemos habilitada esta opción. Para ello debemos ir a `Administrar`, `Flujos de datos` y hacemos clic sobre el flujo de datos web.
@@ -47,6 +49,8 @@ GA4 no incluye esta información de manera automática en los informes, dado que
 Para poder acceder a toda esta información, necesitamos crear una dimensión personalizada que incluya este valor.
 
 ### Crear dimensión personalizada
+
+Si es la primera vez que creas una, te recomiendo antes leer [cómo funcionan las métricas y dimensiones personalizadas en Analytics](https://emirodgar.com/analytics-metrica-personalizada) para entender bien los conceptos de ámbito y formato.
 
 Vamos a `Administrar`, seleccionamos `Definiciones personalizadas` y pulsamos sobre el botón de `Crear dimensión personalizada`.
 En el nombre de la dimensión podemos utilizar el que nosotros queramos, eso sí, utilizar algo descriptivo. 

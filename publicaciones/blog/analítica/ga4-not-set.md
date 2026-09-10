@@ -45,3 +45,5 @@ Dentro de este nuevo menú, hacemos clic sobre `Mostrar más` y finalmente sobre
 
 En algunos casos, y esto es problema de cómo está implementado GA4, llega antes el parámetro el evento de `user_engagement` que el de `page_view`, lo que genera que el valor registrado para la sesión asociado a la página sea `not set`.
 Aquí no podemos hacer nada, dado que así es como funciona la aplicación. La única manera sería una implementación en local de ga4 (`server-side`) donde quitaríamos el evento `user_engagement` para asegurarnos de que `page_view` siempre es el mismo.
+
+Este tipo de comportamientos "raros" de GA4 son bastante habituales; si además te ha sorprendido que [sus datos no coinciden con los de Search Console](https://emirodgar.com/datos-gsc-ga4), no es casualidad: ambas herramientas miden cosas distintas.

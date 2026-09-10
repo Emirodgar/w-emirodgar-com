@@ -40,7 +40,7 @@ En el caso de que queramos enviarlo asociado a un evento, el código que debemos
 
     gtag('event',  'nombre_evento',  {'metrica1': 'valor'});
 
-En este artículo hemos visto cómo utilizar métricas personalizadas de manera simple. Podemos avanzar hacia escenarios más complejos como por ejemplo [analizar el stock de cada producto](https://emirodgar.com/monitorizar-stock-ecommerce-analytics) dentro de un ecommerce.
+En este artículo hemos visto cómo utilizar métricas personalizadas de manera simple. Podemos avanzar hacia escenarios más complejos como por ejemplo [analizar el stock de cada producto](https://emirodgar.com/monitorizar-stock-ecommerce-analytics) dentro de un ecommerce, o [crear una dimensión personalizada para registrar los clics en enlaces externos](https://emirodgar.com/ga4-enlaces-externos) en GA4.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTMwNzMzMDIzMiwtMTE3ODIxNDI2MSwtMT
 A5NDQ4Njg5NSwtMjcwNjE5MzU0XX0=

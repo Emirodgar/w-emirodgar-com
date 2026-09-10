@@ -73,7 +73,7 @@ Dentro de las múltiples cosas que podemos hacer dentro de Analytics, recomiendo
 
  1. Crear una vista RAW con todos los datos en bruto (no filtramos nada).
  2. Crear una vista que excluya nuestro tráfico interno (así medimos únicamente el tráfico de nuestros usuarios)
- 3. Dar de alta objetivos.
+ 3. Dar de alta objetivos, asegurándote de que [las conversiones que registras son correctas](https://emirodgar.com/evitar-conversiones-erroneas-analytics) y no falsos positivos.
  4. Personalizar y adaptar (si fuera necesario) la agrupación de canales por defecto.
  5. Si tienes buscador interno en la página, darlo de alta en Analytics para registrar las búsquedas de los usuarios.
  6. Crear informes personalizados con nuestras metas principales y sus KPIs asociados. Así ahorramos tiempo a la hora de realizar consultas. Podemos incluso programarlos.

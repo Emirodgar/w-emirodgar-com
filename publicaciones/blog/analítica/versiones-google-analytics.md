@@ -75,6 +75,8 @@ Para ello cambia la tradicional medición de página vista (`pageview`) a evento
 La independencia y libertad de medición que GA4 ofrece es algo único hasta este momento. 
 
 El código es exactamente el mismo que el de Global Site Tag ya que usaremos la librería `gtag.js`, pero la diferencia es que el identificador cambia de "UA-XXXXXXX-X" a "G-XXXXXXXXXX".
+
+Si ya has dado el salto a GA4, es fácil toparte con un par de quebraderos de cabeza habituales: valores extraños como el [`(not set)` en el informe de páginas de destino](https://emirodgar.com/ga4-not-set), o notar que [sus datos nunca cuadran del todo con los de Search Console](https://emirodgar.com/datos-gsc-ga4).
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQwNTk4MzQ2OSwxNjczNDM4MDAsLTE2Nj
 A0MTgyNzFdfQ==
