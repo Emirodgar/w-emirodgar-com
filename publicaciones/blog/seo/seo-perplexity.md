@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 12-08-2025
-folder: ia
+folder: geo
 permalink: seo-perplexity
 ---
 
@@ -51,7 +51,7 @@ Perplexity no solo se fija en el contenido en sí, sino en cómo los usuarios in
 
 ### 7. Múltiples fuentes de datos
 
-Perplexity no usa una sola fuente para rastrear la web, sino varias. Tiene índices especializados para diferentes tipos de búsquedas. Por ejemplo, uno para noticias de última hora y otro para preguntas más generales. Esto significa que debemos pensar en diferentes tipos de contenidos y formatos para poder aparecer en las respuestas de la IA.
+Perplexity no usa una sola fuente para rastrear la web, sino varias. Tiene índices especializados para diferentes tipos de búsquedas. Por ejemplo, uno para noticias de última hora y otro para preguntas más generales. Esto significa que debemos pensar en diferentes tipos de contenidos y formatos para poder aparecer en las respuestas de la IA (te cuento con más detalle [qué leen exactamente los bots de la IA](https://emirodgar.com/que-leen-los-bots-de-la-ia)).
 
 ---
 

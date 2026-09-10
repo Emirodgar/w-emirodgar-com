@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 30-09-2025
-folder: ia
+folder: geo
 permalink: como-la-ia-esta-cambiando-la-forma-en-que-buscamos-en-internet
 ---
 
@@ -23,7 +23,7 @@ Este valor añadido está modificando cómo los usuarios buscan respuestas. En l
 
 ## ¿Qué papel juegan los resúmenes en Google?
 
-Un cambio evidente ya ocurre en Google: los **resúmenes automáticos generados con IA** que aparecen al inicio de los resultados.  
+Un cambio evidente ya ocurre en Google: las **[AI Overviews](https://emirodgar.com/ai-overviews-google-publishers)**, resúmenes automáticos generados con IA que aparecen al inicio de los resultados.  
 
 En muchas ocasiones, esa información rápida es suficiente para el usuario, lo que significa que **ya no hace falta visitar otras páginas**. Esta tendencia está impactando de lleno en el **tráfico de muchos sitios web**, especialmente los que dependían de búsquedas informativas básicas.
 

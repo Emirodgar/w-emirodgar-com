@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 30-09-2025
-folder: ia
+folder: geo
 permalink: seo-tecnico-en-la-era-de-la-inteligencia-artificial
 
 ---
@@ -35,7 +35,7 @@ En la práctica, si tu información importante depende de JavaScript (por ejempl
 
 ## ¿Siguen siendo útiles los datos estructurados?
 
-Sí, pero con matices.  
+Sí, pero con matices (te lo explico en detalle en [datos estructurados y la IA, ¿ignora Google tu schema?](https://emirodgar.com/datos-estructurados-seo-llm)).  
 Para Google, los **datos estructurados (Schema)** siguen siendo clave, sobre todo en sus propias respuestas con IA. Sin embargo, otros modelos no dependen tanto de ellos y prefieren **extraer la información directamente del texto**.  
 
 La conclusión es que los datos estructurados siguen siendo **una buena práctica**, pero no son garantía de visibilidad en todos los sistemas.

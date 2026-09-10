@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 19-09-2025
-folder: ia
+folder: geo
 permalink: datos-estructurados-seo-llm
 ---
 
@@ -63,7 +63,7 @@ Sabiendo todo esto, la conclusión es bastante clara: **los datos estructurados 
 
 * **Aportas claridad en un entorno caótico**: Los datos estructurados eliminan la ambigüedad. Le dices a las máquinas, ya sea al clásico **[Googlebot](https://emirodgar.com/detectar-googlebot)** o a los nuevos sistemas de IA, exactamente qué es cada cosa en tu página. Esta claridad es fundamental para que te interpreten correctamente.
 * **Facilitas el trabajo a los intermediarios**: Como hemos visto, un buen marcado de schema puede ser la diferencia entre que el sistema que alimenta a la IA entienda tu contenido a la perfección o que solo se haga una idea vaga. Estás dándole la mejor materia prima posible.
-* **Refuerza tu SEO técnico**: Implementar un `schema` robusto es una señal de un buen **[SEO técnico](https://emirodgar.com/seo-tecnico)**. Demuestra que tu web está bien organizada y construida para ser entendida tanto por humanos como por máquinas, lo cual es una base sólida para cualquier **[estrategia SEO](https://emirodgar.com/estrategia-seo)**.
+* **Refuerza tu SEO técnico**: Implementar un `schema` robusto es una señal de un buen **[SEO técnico](https://emirodgar.com/seo-tecnico)**. Demuestra que tu web está bien organizada y construida para ser entendida tanto por humanos como por máquinas, lo cual es una base sólida para cualquier **[estrategia SEO](https://emirodgar.com/estrategia-seo)**. Si quieres ver cómo se aplica esto a un caso concreto, te enseño cómo estructurar [hubs de recomendación AI-Ready](https://emirodgar.com/como-crear-hubs-de-recomendacion-ai-ready) con schema de producto y de review.
 
 No te obsesiones con si el LLM final ve o no tu código `schema`. Preocúpate de que tu web esté tan bien estructurada que **cualquier sistema, actual o futuro, pueda entenderla sin el más mínimo esfuerzo**.
 

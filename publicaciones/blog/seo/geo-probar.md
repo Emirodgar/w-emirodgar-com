@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 30-09-2025
-folder: ia
+folder: geo
 permalink: geo-empieza-a-probar
 ---
 
@@ -46,7 +46,7 @@ Podemos actuar sobre cuatro palancas principales:
 3. **Forma de aparecer en los resultados devueltos a la IA**: cómo se ve tu página en los snippets o listados que consume la IA.  
 4. **Calidad de la página cuando la IA la lee**: hacer que la información sea clara y priorizada para que, si la IA accede, la use en su salida.
 
-Ten en cuenta que no todos los modelos se comportan igual: algunos (p. ej. integraciones con Google/Gemini) consumirán contenido de forma diferente a otras IAs que visitan la página directamente y **no ejecutan JavaScript**.
+Ten en cuenta que no todos los modelos se comportan igual: algunos (p. ej. integraciones con Google/Gemini) consumirán contenido de forma diferente a otras IAs que visitan la página directamente y **no ejecutan JavaScript** (te explico las implicaciones en [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial)).
 
 ## ¿Qué tipos de tests GEO puedes poner en marcha hoy?
 
@@ -88,7 +88,7 @@ Esto convierte decisiones basadas en intuición en decisiones basadas en datos.
 ## ¿Qué limitaciones existen hoy?
 
 - **Opacidad de los modelos:** no sabemos exactamente cómo la IA decide priorizar fuentes.  
-- **Modelos con diferente comportamiento:** algunos modelos usan índices propios, otros visitan páginas y muchos no ejecutan JavaScript.  
+- **Modelos con diferente comportamiento:** algunos modelos usan índices propios (como [Perplexity](https://emirodgar.com/seo-perplexity)), otros visitan páginas y muchos no ejecutan JavaScript.  
 - **Feedback lento en modelo entrenado:** cambios en el cuerpo “aprendido” de un LLM son raros y no se miden fácilmente; por eso GEO se centra en lo que la IA recupera en tiempo real (RAG).
 
 ## ¿Qué pasos seguir ya mismo?

@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 18-09-2025
-folder: ia
+folder: geo
 permalink: /que-leen-los-bots-de-la-ia
 ---
 
@@ -41,11 +41,11 @@ La respuesta es simple: **pon el foco en la calidad y la autenticidad**. Si el S
 
 * **Prioriza el contenido orgánico:** Los datos demuestran que las fuentes orgánicas son las preferidas por los bots de IA. Dedica más tiempo y recursos a la creación de contenido de alta calidad, ya sea a través de tu blog, tus redes sociales o colaboraciones con influencers y periodistas.
 * **Construye tu autoridad:** La IA busca fuentes expertas y fiables. Trabaja en construir tu marca personal o la de tu negocio como una referencia en tu sector. Un buen ejemplo es la trayectoria de un [consultor SEO](https://emirodgar.com/consultor-seo) que se ha ganado la confianza de sus clientes y lectores a lo largo del tiempo.
-* **Crea para las personas, no para los bots:** Aunque parezca contradictorio, este es el mejor consejo. Los bots de IA están diseñados para entender el lenguaje natural y reconocer el contenido que realmente aporta valor. Si creas contenido útil y genuino para tu audiencia, los bots lo detectarán y lo utilizarán como fuente.
+* **Crea para las personas, no para los bots:** Aunque parezca contradictorio, este es el mejor consejo. Los bots de IA están diseñados para entender el lenguaje natural y reconocer el contenido que realmente aporta valor. Si creas contenido útil y genuino para tu audiencia, los bots lo detectarán y lo utilizarán como fuente (los datos reales sobre [cómo usa la gente ChatGPT](https://emirodgar.com/analisis-chatgpt-seo) van en esta misma dirección).
 
 
 ### El futuro del posicionamiento es la reputación y la calidad
 
 La inteligencia artificial no ha llegado para sustituir al SEO, sino para redefinir sus reglas. Este nuevo ecosistema nos recuerda que el verdadero valor del contenido reside en su **experiencia, pericia y fiabilidad**.
 
-Si quieres destacar, la clave es generar un contenido tan bueno que no solo interese a los buscadores tradicionales, sino que también sea una **fuente de referencia para la inteligencia artificial**. Ya no se trata de engañar al algoritmo, sino de demostrar que somos la mejor fuente de información. Y eso, amigo, es la base de cualquier estrategia exitosa.
+Si quieres destacar, la clave es generar un contenido tan bueno que no solo interese a los buscadores tradicionales, sino que también sea una **fuente de referencia para la inteligencia artificial**. Ya no se trata de engañar al algoritmo, sino de demostrar que somos la mejor fuente de información. Y eso, amigo, es la base de cualquier estrategia exitosa, sobre todo ahora que las [AI Overviews de Google](https://emirodgar.com/ai-overviews-google-publishers) se quedan con buena parte del tráfico que antes llegaba a tu web.

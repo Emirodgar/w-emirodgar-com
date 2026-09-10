@@ -1,6 +1,6 @@
 ---
-title: Publicaciones sobre 	GEO / Transformación Digital
-description: Listado de publicaciones sobre 	GEO / Transformación Digital
+title: Publicaciones sobre GEO / Transformación Digital
+description: Listado de publicaciones sobre GEO / Transformación Digital
 lang: es_ES
 layout: emirodgar_post_test
 author: Emirodgar
@@ -9,7 +9,7 @@ permalink: publicaciones-geo
 
 ---
 
-Listado de publicaciones relacionadas con Inteligencia Artificial
+Listado de publicaciones sobre GEO (Generative Engine Optimization), AEO y cómo optimizar tu contenido para aparecer en las respuestas de ChatGPT, Perplexity y otras IA generativas.
 
 <ul>
 {% for page in site.pages %}

@@ -7,7 +7,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2025
-folder: ia
+folder: geo
 permalink: el-futuro-del-posicionamiento-digital-del-seo-al-aeo
 
 ---
@@ -50,7 +50,7 @@ Esto no solo mejora la experiencia de usuario, sino que redefine por completo el
 ## ¿Qué papel juega la capa semántica?
 
 Para que todo esto funcione, las empresas necesitan algo más que una buena web: **una capa semántica bien estructurada**.
-Se trata de un **lenguaje estandarizado** que permite a la inteligencia artificial **entender y utilizar los datos de una marca**, no solo “verlos”.
+Se trata de un **lenguaje estandarizado** que permite a la inteligencia artificial **entender y utilizar los datos de una marca**, no solo “verlos”. Aquí es donde entran en juego los [datos estructurados](https://emirodgar.com/datos-estructurados-seo-llm), la base técnica de esa capa semántica.
 
 En este nuevo entorno, el reto no es tanto aparecer en Google, sino lograr que la IA **comprenda y maneje la información de la empresa**:
 catálogos, precios, disponibilidad, procesos de compra…
