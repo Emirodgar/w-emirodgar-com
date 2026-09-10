@@ -72,6 +72,12 @@
                             <h1 class="pd-title">{{ page.title }}</h1>
                             <p class="pd-desc">{{ page.description }}</p>
 
+                            {% if page.site %}
+                            <div class="pd-site-cta">
+                                <a href="{{ page.site }}" target="_blank" rel="noopener noreferrer" class="button button-border t500 button-circle">Visitar {{ page.site | remove_first: 'https://' | remove_first: 'http://' | remove_first: 'www.' }} ↗</a>
+                            </div>
+                            {% endif %}
+
                             {{ content }}
 							
 							
