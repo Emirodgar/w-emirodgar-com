@@ -66,3 +66,7 @@ La IA es una herramienta muy potente para automatizar procesos, pero no sustituy
 3. **Publicar siempre con un filtro de calidad**, cuidando el estilo y la conexión emocional con el lector.  
 
 **La combinación es lo que funciona**: dejar que la IA acelere el trabajo, pero añadir ese toque humano que genera confianza y credibilidad.
+
+Esto conecta directamente con algo más amplio: [trabajar tu marca de cara al SEO y a la IA](https://emirodgar.com/trabajar-tu-marca-para-el-seo), porque la confianza que transmite tu contenido es, en el fondo, una extensión de la confianza que transmite tu marca.
+
+Si buscas ideas concretas de cómo aplicar la IA sin perder calidad, aquí tienes una [guía práctica para generar contenido con inteligencia artificial](https://emirodgar.com/guia-contenidos-ia).

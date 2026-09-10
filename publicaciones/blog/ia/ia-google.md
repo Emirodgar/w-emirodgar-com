@@ -41,3 +41,5 @@ Como [consultor SEO](https://emirodgar.com/consultor-seo), mi recomendación es 
 Primero, **obsesiónate con la consistencia de tus datos**. Asegúrate de que el nombre de tu marca, tus servicios y tu información clave sean idénticos en todas las plataformas. Esto no garantiza nada, pero minimiza el que la IA se confunda.
 
 Segundo, entiende que la "frescura" como uno de los [factores SEO](https://emirodgar.com/factores-seo) clásicos podría no funcionar igual para la IA que para la búsqueda tradicional. Esto tiene que formar parte de tu [estrategia SEO](https://emirodgar.com/estrategia-seo) desde ya, porque el reto no es solo posicionar, sino asegurarse de que la IA utiliza la versión correcta y actualizada de tu realidad.
+
+Parte de este problema tiene que ver con [quién y cómo entrena realmente estos modelos](https://emirodgar.com/entrenamiento-google-gemini): la calidad final depende tanto de los datos como de las personas que los evalúan.

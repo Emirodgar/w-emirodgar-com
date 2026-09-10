@@ -49,9 +49,11 @@ Por ejemplo, el `User-Agent` para el robot de búsqueda sería el siguiente:
 
 Tan sólo tendríamos que comparar para saber si es Googlebot o no. Rápido y sencillo. La única pega es que alguien podría suplantar a Googlebot usando el mismo valor por lo que la única opción fiable sería la primera.
 
+Si lo que buscas es lo contrario, hacerte pasar tú por Googlebot para auditar tu web, te explico [cómo emular su acceso](https://emirodgar.com/emular-googlebot).
+
 ## Problemas al bloquear a Googlebot
 
-Google actualiza sus rangos de IPs con poca frecuencia, pero cuando ocurre debemos estar atentos si utilizamos CDNs o firewalls para asegurarnos de que entienden que se trata de `Googlebot` y no bloquean su acceso. En el caso de que nuestro sistema de seguridad bloquee al rastreador de Google por equivocación, suele generar caída en los rastreos (línea azul) y aumento del tiempo medio de respuesta (línea naranja). En la siguiente imagen podemos ver un ejemplo real en el que el CDN Akamai no actulizó rápidamente el listado de IPs, lo que provocó un problema al rastreo del sitio.
+Google actualiza sus rangos de IPs con poca frecuencia, pero cuando ocurre debemos estar atentos si utilizamos CDNs o firewalls (por ejemplo si [bloqueas el acceso a ciertos países](https://emirodgar.com/bloquear-acceso-pais)) para asegurarnos de que entienden que se trata de `Googlebot` y no bloquean su acceso. En el caso de que nuestro sistema de seguridad bloquee al rastreador de Google por equivocación, suele generar caída en los rastreos (línea azul) y aumento del tiempo medio de respuesta (línea naranja). En la siguiente imagen podemos ver un ejemplo real en el que el CDN Akamai no actulizó rápidamente el listado de IPs, lo que provocó un problema al rastreo del sitio.
 
 ![image](https://github.com/user-attachments/assets/bbb836f8-5575-4aa4-bfdd-6dce6573096a){:class="img-responsive"}
 

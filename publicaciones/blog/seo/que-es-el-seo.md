@@ -25,6 +25,8 @@ En la siguiente imagen podemos ver en dos colores los diferentes resultados: pag
 
 Por norma general los resultados de pago vienen precedidos de la palabra "anuncio" y suelen estar en la parte superior o en la zona de la derecha, donde existe una mayor visualización por parte de los usuarios.
 
+Si te manejas mejor con definiciones cortas, aquí tienes un [glosario de términos SEO](https://emirodgar.com/glosario-terminos-seo) básicos. Y si te preguntas por qué merece la pena invertir en ello, aquí tienes [las razones para hacer SEO](https://emirodgar.com/razones-hacer-seo).
+
 
 
 <!--stackedit_data:

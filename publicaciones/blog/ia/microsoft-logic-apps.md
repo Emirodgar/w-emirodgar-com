@@ -54,4 +54,6 @@ Y eso cambia por completo la manera en que la integraremos en nuestro día a dí
 
 Desde publicar en redes hasta gestionar tareas internas, las posibilidades son casi infinitas. Lo interesante será ver **cómo las empresas y los usuarios aprovechan este nuevo poder** y cómo evoluciona el equilibrio entre automatización, control y creatividad humana.  
 
-En definitiva, Microsoft no solo ha lanzado una función: ha dado un paso más hacia una **IA verdaderamente conectada con el mundo real**.
+En definitiva, Microsoft no solo ha lanzado una función: ha dado un paso más hacia una **IA verdaderamente conectada con el mundo real**. Es la misma dirección que apunta [el protocolo AP2 de Google para pagos entre agentes de IA](https://emirodgar.com/google-ap2-protocolo-compras-online-ia): dejar que la IA actúe, no solo que hable.
+
+Ahora bien, dar a una IA la capacidad de actuar sobre tus sistemas reales no está exento de riesgos: conviene leer también [los peligros de conectar tus herramientas a agentes de IA](https://emirodgar.com/riesgos-conectar-herramientas-chatgpt) antes de lanzarte.

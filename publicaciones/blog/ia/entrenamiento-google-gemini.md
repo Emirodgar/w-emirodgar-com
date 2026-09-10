@@ -61,3 +61,5 @@ La conclusión es tan simple como preocupante. La inteligencia artificial que mu
 La mayor paradoja es que muchos de estos trabajadores, las personas que mejor conocen las tripas del sistema, **han perdido la confianza en la tecnología que ayudan a construir**. La mayoría afirma que evita usar las herramientas de IA en su vida personal y desaconseja su uso a familiares y amigos.
 
 Como dijo una de las trabajadoras, Rachael Sawyer: "Solo quiero que la gente sepa que la IA se vende como magia tecnológica. Pero no lo es. **Está construida sobre las espaldas de seres humanos mal pagados y con exceso de trabajo**."
+
+Esta precariedad en el entrenamiento explica en parte [por qué la IA de Google todavía comete errores básicos](https://emirodgar.com/ia-google) con datos desactualizados o inconsistentes.

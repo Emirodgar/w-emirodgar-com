@@ -14,7 +14,7 @@ permalink: razones-hacer-seo
 --- 
 
 
-Después de más de una década [trabajando en SEO](/experiencia-seo) he tenido que responder decenas de veces a la pregunta del millón: **¿Por qué debería trabajar el SEO?**.
+Después de más de una década [trabajando en SEO](/experiencia-seo) he tenido que responder decenas de veces a la pregunta del millón: **¿Por qué debería trabajar el SEO?**. Aunque las razones de fondo se mantienen, [los retos a los que se enfrenta el SEO](https://emirodgar.com/retos-seo) cambian cada año.
 
 El SEO es algo vivo y cuyo aporte va variando a lo largo de los años por lo que la mejor forma de responder a esta pregunta es con datos actuales.
 

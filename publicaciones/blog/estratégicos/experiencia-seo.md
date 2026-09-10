@@ -37,6 +37,8 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 
  Estos son mis aprendizajes  como consultor, director de departamento y jefe de proyecto que me han ayudado a ser un mejor profesional: 10 años, tres agencias y millones de experiencias con clientes, proyectos y compañeros..
 
+Parte de ese aprendizaje viene también de los libros: aquí tienes los [mejores libros de SEO](https://emirodgar.com/mejores-libros-seo) que recomiendo. Y si buscas formas alternativas de pago para contratar mis servicios, [también acepto criptomonedas](https://emirodgar.com/seo-criptomonedas).
+
 ![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png){:class="img-responsive"}
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzM3NDc4NzAwLC0yMzUyNzYzMjgsLTQwNj

@@ -37,6 +37,8 @@ Si hacemos clic sobre la imagen de fragmento destacada iremos a una versión amp
 
 En cierta medida esto tiene sentido. Puede que tu imagen ayude a complementar el contenido de otra página pero por sí misma no suele aportar valor por lo que generar tráfico a una web únicamente a través de la imagen no sería conveniente. Se trata, por tanto, de una **combinación de contenido más imagen**.
 
+Las filtraciones del Content Warehouse han confirmado además [muchos más factores de los que sospechábamos sobre cómo Google clasifica las imágenes](https://emirodgar.com/como-google-clasifica-imagenes), desde la detección de la fuente original hasta la calidad visual.
+
 
 ## Las imágenes y AMP
 

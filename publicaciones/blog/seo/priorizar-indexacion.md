@@ -16,7 +16,7 @@ permalink: priorizar-indexacion
 Hay demasiada información en Internet. Los buscadores invierten mucho tiempo y dinero en rastrear sitios web y se han dado cuenta que gran parte del contenido existente no aporta valor.
 La realidad en SEO es que a día de hoy es muy difícil, para páginas grandes, **indexar todas las URLs que conforman el sitio**.
 
-Nuestro objetivo debe ser **priorizar el contenido útil y de gran valor**, frente al resto. Lo siento, ya no puedes ir con todo. 
+Nuestro objetivo debe ser **priorizar el contenido útil y de gran valor**, frente al resto. Lo siento, ya no puedes ir con todo. Y si [tu página no acaba de indexarse](https://emirodgar.com/pagina-no-indexa), casi seguro que el motivo tiene que ver con esta misma falta de prioridad. 
 
 La búsqueda generativa basada en inteligencia artificial de Google (SGE) se basa en este principio: **calidad antes que cantidad**. No es que sea mejor para el usuario, es que el modelo de rastrear e indexar todo lo conocido ya no es soportable a nivel económico ni escalable en los años venideros.
 

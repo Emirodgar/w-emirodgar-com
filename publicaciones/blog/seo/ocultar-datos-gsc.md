@@ -14,7 +14,7 @@ permalink: ocultar-datos-gsc
 ---
 
 
-Como consultores SEO, es común que tengamos que compartir informes y datos de Google Search Console con clientes o colegas. Sin embargo, estos informes a menudo contienen información sensible que no queremos que sea visible para todos. En este artículo, te mostraré cómo puedes ocultar datos confidenciales al compartir tu pantalla durante presentaciones o videollamadas.
+Como consultores SEO, es común que tengamos que compartir informes y datos de Google Search Console con clientes o colegas (o [filtrarlos con regex para encontrar oportunidades ocultas](https://emirodgar.com/regex-google-search-console)). Sin embargo, estos informes a menudo contienen información sensible que no queremos que sea visible para todos. En este artículo, te mostraré cómo puedes ocultar datos confidenciales al compartir tu pantalla durante presentaciones o videollamadas.
 
 ## Por qué es importante proteger tus datos
 

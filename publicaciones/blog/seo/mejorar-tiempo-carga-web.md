@@ -39,7 +39,7 @@ Tanto imágenes como vídeos pueden provocar que nuestra página sea más lenta 
 
 > También es importante [optimizar las imágenes ](https://emirodgar.com/optimizacion-imagenes-seo) para que aporten valor a la estrategia SEO.
 
-Por último, podemos hacer uso de una r**ed de distribución de contenidos** (CDN) como Cloudflare que nos permitirá cachear y servir los ficheros estáticos de forma más rápida y eficiente, mejorando sustancialmente la carga de nuestro web
+Por último, podemos hacer uso de una **[red de distribución de contenidos](https://emirodgar.com/cdn-seo)** (CDN) como Cloudflare que nos permitirá cachear y servir los ficheros estáticos de forma más rápida y eficiente, mejorando sustancialmente la carga de nuestro web
 
 ## 3. Comprimir los recursos
 

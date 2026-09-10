@@ -63,7 +63,7 @@ Los agentes de IA, en teoría, son modelos de lenguaje diseñados para completar
 
 ## Construir tu primer Agente de IA
 
-Si estás convencido y quieres avanzar, te recomiendo la lectura de [What Are AI Agents? A Short Intro And A Step-by-Step Guide to Build Your Own](https://medium.com/codex/what-are-ai-agents-your-step-by-step-guide-to-build-your-own-df54193e2de3) donde detallan, paso a paso, cómo crear tu primer agente.
+Si estás convencido y quieres avanzar, te recomiendo la lectura de [What Are AI Agents? A Short Intro And A Step-by-Step Guide to Build Your Own](https://medium.com/codex/what-are-ai-agents-your-step-by-step-guide-to-build-your-own-df54193e2de3) donde detallan, paso a paso, cómo crear tu primer agente. Y si quieres ver hasta dónde llega hoy el rendimiento de estos modelos frente a expertos humanos, [aquí tienes los datos del benchmark GDPval](https://emirodgar.com/la-ia-se-acerca-al-rendimiento-humano-en-tareas-complejas).
 
 ![image](https://github.com/user-attachments/assets/bab186e7-1f66-4c9b-b6e3-2d0a0c608570){:class="img-responsive"}
 

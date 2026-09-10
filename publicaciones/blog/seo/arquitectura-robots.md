@@ -48,7 +48,8 @@ Las "trampas para arañas" son bucles o conjuntos de URLs (a menudo infinitos) q
 
 Para evitar esto, en lugar de recurrir al `robots.txt` como primera opción, considera alternativas mucho más limpias:
 
-* **Usa la etiqueta `meta robots noindex, follow`:** Le dices a Google que no indexe la página, pero que sí siga los enlaces que contiene. Es ideal para páginas de filtros o resultados de búsqueda internos.
+* **Usa la etiqueta `meta robots noindex, follow`:** Le dices a Google que no indexe la página, pero que sí siga los enlaces que contiene. Es ideal para páginas de filtros o resultados de búsqueda internos ([aquí tienes más matices sobre bloquear la indexación de contenido](https://emirodgar.com/bloquear-indexacion-contenido)).
+* **Si necesitas patrones más avanzados en tu robots.txt:** recuerda que [solo se admiten dos comodines, `*` y `$`](https://emirodgar.com/regex-robots-txt), no expresiones regulares completas.
 * **Implementa etiquetas canónicas:** Indican cuál es la versión "original" de una página, consolidando la autoridad en una sola URL y evitando el contenido duplicado.
 * **Planifica la navegación por facetas:** Diseña el sistema de filtros para que no genere URLs rastreables por defecto, por ejemplo, usando tecnologías como AJAX para cargar los resultados sin cambiar de URL.
 

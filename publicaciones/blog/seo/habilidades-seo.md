@@ -61,6 +61,8 @@ Las reglas de juego pueden cambiar muy rápido, bien por cambios en los algoritm
 Sea como sea, debemos disponer de una capacidad para adaptarnos, entender la nueva situación y proponer acciones para la consecución de nuestros objetivos.
 
 Si no disponemos de esta capacidad, un giro inesperado podría terminar con nuestras aspiraciones SEO.
+
+Todas estas habilidades son, en el fondo, la base de [lo que define a un buen SEO](https://emirodgar.com/buen-seo): no son las acciones aisladas, sino el criterio para saber cuándo y cómo aplicarlas.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjUxODcxMDgwLC04NzEwODc5NjcsLTIyMD
 g4Mjc4NiwxMDg2MzI4ODFdfQ==

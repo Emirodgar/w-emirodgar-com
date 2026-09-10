@@ -27,7 +27,7 @@ El Javascript es utilizado para **dotar a una página web de funcionalidad** pue
 
 Googlebot hace uso de Chromium para rastrear, navegar e indexar las páginas web. Con [cada cambio de algoritmo](https://emirodgar.com/cambio-algoritmo-google) va mejorando su capacidad para renderizar Javascript. Si en nuestra web utilizamos esta tecnología para mostrar contenido, el hecho de bloquear el acceso a este tipo de ficheros provocará que no pueda ejecutarlo y por tanto acceder al mismo.
 
-> Si bloqueamos Javascript nos exponemos a que Googlebot no pueda acceder a parte de nuestro contenido
+> Si bloqueamos Javascript nos exponemos a que Googlebot no pueda acceder a parte de nuestro contenido. Te explico con más detalle [cómo rastrea e indexa Google las páginas con JavaScript](https://emirodgar.com/rastrear-javascript).
 
 Para saber si estamos en este caso podemos hacer uso de [Google Search Console](https://search.google.com/search-console) (Inspeccionar URL) o la [prueba de optimización para móviles](https://search.google.com/test/mobile-friendly).  En el caso de que estemos bloqueando algún fichero, nos lo dirá y podremos **comprobar cómo ve Googlebot nuestra web**. 
 
@@ -42,6 +42,8 @@ Comenzaremos por [bloquear el acceso a robots SPAM](https://emirodgar.com/listad
 Por otro lado recomiendo hacer uso de servicios CDN (Content Delivery Network) como Cloudflare que nos ayudarán a cachear y optimizar la entrega de recursos estáticos.
 
 Por último, podemos bloquear los archivos CSS ya que esta medida no afectará a la indexación ni futuro posicionamiento de la página web.
+
+Un caso particular de bloqueo de contenido es el de los muros de pago: te explico [cómo trabajar el SEO de contenidos de pago](https://emirodgar.com/contenidos-pago-google) sin caer en cloaking.
 
 
 <!--stackedit_data:

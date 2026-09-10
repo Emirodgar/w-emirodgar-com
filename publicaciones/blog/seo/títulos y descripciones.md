@@ -15,7 +15,7 @@ permalink: titulos-descripciones-seo
 
 Una parte fundamental de los [factores SEO](/factores-seo) que afectan a nuestras estrategias digitales son aquellos que determinan de forma directa si **el usuario hará clic o no en nuestro resultados** de búsqueda.
 
-Para ello debemos trabajar dos aspectos fundamentales: títulos (meta title) y descripctión (meta description).
+Para ello debemos trabajar dos aspectos fundamentales: títulos (meta title) y descripctión (meta description). Un buen título debe además guardar [relación con el H1 de la página](https://emirodgar.com/relacion-titulo-h1), y puedes reforzarlo con [emojis para destacar en las SERPs](https://emirodgar.com/emojis-titulo).
 
 - [Optimizar los títulos](#meta-title)
 - [Optimizar las descripciones](#meta-description)

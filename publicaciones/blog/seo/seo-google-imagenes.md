@@ -100,3 +100,5 @@ Si quieres mejorar el SEO de tus imágenes, céntrate en estos puntos:
 
 El SEO de imágenes ya no es solo poner un “alt” correcto. Es entender cómo **Google analiza la calidad, la intención y la utilidad de cada imagen**.  
 Y cuanto antes empieces a aplicarlo, antes notarás la diferencia.
+
+Si en tu estrategia también hay vídeo, no te olvides del [SEO en YouTube](https://emirodgar.com/seo-videos-youtube), el segundo buscador más usado del mundo.

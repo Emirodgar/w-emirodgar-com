@@ -50,6 +50,7 @@ En este punto, Google nos da una [serie de recomendaciones](https://developers.g
 -   ¿Ofrecemos una perspectiva útil y diferente del tema que estamos tratando?
 -   Si citamos otras fuentes, ¿aportamos un valor adicional al contenido que estas ofrecen o nos limitamos a copiarlo?
 -   ¿El título del contenido o de la página es útil y descriptivo?. Aprende cómo [optimizar un título](https://emirodgar.com/titulos-descripciones-seo) para SEO.
+-   Si eres un medio y publicas con frecuencia, ¿cumples los requisitos para aparecer en [Top Stories](https://emirodgar.com/top-stories)?
 -   ¿Repetimos ciertos términos o expresiones de forma constante dificultando la lectura y compresión del contenido?
 -   ¿Consideras que es una página que aporta valor al usuario final que la visite?
 

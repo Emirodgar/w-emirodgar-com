@@ -59,3 +59,5 @@ Este enfoque permite no solo **mejorar la precisión del marketing**, sino tambi
 La forma en la que los usuarios investigan y deciden está cambiando con la inteligencia artificial. Las empresas que quieran seguir siendo competitivas deben **aprender a moverse entre lo que creen que va a ocurrir y lo que realmente sucede**.  
 
 En este nuevo escenario, los datos de laboratorio ofrecen el mapa y los datos de campo la brújula. Y como en cualquier viaje, **necesitas ambos para llegar a buen puerto**.
+
+Este cambio va más allá de la investigación: con protocolos como [Google AP2](https://emirodgar.com/google-ap2-protocolo-compras-online-ia), la propia compra podría acabar ejecutándola un agente de IA en tu nombre.

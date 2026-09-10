@@ -33,7 +33,7 @@ El rastreo es el primer paso para que los buscadores descubran y analicen tu sit
 - Utiliza crawlers independientes para auditar el sitio y detectar problemas de rastreo.
 - Mejora el enlazado interno para facilitar el acceso de los bots a las páginas clave.
 - Corrige códigos de estado HTTP problemáticos (403, 404, etc.).
-- Gestiona adecuadamente los parámetros de URL para evitar contenido duplicado.
+- Gestiona adecuadamente [los parámetros de URL](https://emirodgar.com/parametros-url-seo) para evitar contenido duplicado.
 - Asegura el uso correcto de la paginación (`rel="next"` y `rel="prev"`).
 - Configura y mantiene correctamente los atributos `canonical`.
 - Identifica y soluciona cadenas de redirecciones que puedan causar errores o tiempos de espera excesivos.
@@ -71,7 +71,7 @@ Para garantizar que las páginas importantes se indexen correctamente, sigue est
 
 - Supervisa los datos de rastreo e indexación con Google Search Console.
 - Usa `noindex` en páginas o subdominios que no deban aparecer en los resultados de búsqueda.
-- Implementa y mantén redirecciones adecuadas (301, 302, 410).
+- Implementa y mantén redirecciones adecuadas (301, 302, 410) y evita las [redirecciones 307](https://emirodgar.com/redireccion-307) mal utilizadas.
 - Realiza análisis de la competencia para detectar oportunidades de contenido.
 - Entiende el impacto de las actualizaciones del algoritmo de Google.
 - Corrige problemas de navegación facetada para evitar contenido duplicado.

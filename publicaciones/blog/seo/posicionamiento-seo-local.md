@@ -12,7 +12,7 @@ permalink: posicionamiento-seo-local
 
 ---
 
-Para poder trabajar el SEO local y aumentar las ventas de clientes presenciales en nuestro negocio es imprescindible tener un perfil en [Google My Business](https://www.google.com/intl/es_es/business/) (GMB).
+Para poder trabajar el SEO local y aumentar las ventas de clientes presenciales en nuestro negocio es imprescindible tener un perfil en [Google My Business](https://www.google.com/intl/es_es/business/) (GMB). Te dejo [una guía completa para optimizar y sacarle todo el partido](https://emirodgar.com/perfiles-google-business).
 
 > Se trata de un servicio gratuito de Google que nos ayudará a generar visibilidad dentro de nuestra ciudad y poder atraer futuros clientes.
 

@@ -15,7 +15,7 @@ permalink: parametros-url-seo
 
 Los parámetros son utilizados en las páginas web para pasar información a través de la URL. Se inicia el proceso con el símbolo `?` seguido de un nombre del parámetro y el valor `parametro=valor`. Si se quiere enviar más de un parámetro, estos se concatenan con el carácter `&`.
 
-Los [robots de búsqueda](https://emirodgar.com/detectar-googlebot) consideran que cualquier cambio sobre una URL, ya sea [mayúsculas o minúsculas](https://emirodgar.com/mayusculas-minusculas-url) o el uso de parámetros, es susceptible de que cambie el contenido de la misma y por ende tienden a rastrearla. Por ejemplo, las siguientes URLs, aunque muestren el mismo contenido, podrán ser consideradas como tres páginas distintas:
+Los [robots de búsqueda](https://emirodgar.com/detectar-googlebot) consideran que cualquier cambio sobre una URL, ya sea [mayúsculas o minúsculas](https://emirodgar.com/mayusculas-minusculas-url), el uso de parámetros o incluso [una almohadilla](https://emirodgar.com/url-almohadilla-seo), es susceptible de que cambie el contenido de la misma y por ende tienden a rastrearla. Por ejemplo, las siguientes URLs, aunque muestren el mismo contenido, podrán ser consideradas como tres páginas distintas:
 
  - `https://emirodgar.com`
  - `https://emirodgar.com?parametro=valor`

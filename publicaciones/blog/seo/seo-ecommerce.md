@@ -59,6 +59,8 @@ Las imágenes juegan un papel fundamental a la hora de conseguir vender nuestros
 
 Gracias a esto un potencial comprador podría hacer una búsqueda inversa (a través de una imagen que tiene del producto que quiere comprar) y terminar llegando a nuestro ecommerce.
 
+Si tu ecommerce está en Shopify, tengo una [guía específica con recomendaciones para esta plataforma](https://emirodgar.com/shopify-seo).
+
 ## Google My Business
 
 Tener presencia en Google Maps y a nivel de empresa dentro de los resultados de búsqueda de Google sólo será posible a través de un perfil de My Business.

@@ -78,4 +78,6 @@ Organizar y acceder a grandes volúmenes de información de forma eficiente es f
 
 En resumen, construir un asistente con RAG ya no es ciencia ficción. Es una forma accesible y potentísima de **convertir un montón de información desorganizada en conocimiento activo** y útil. El poder ya no está en tener los datos, sino en la capacidad de conversar con ellos.
 
-En esta misma línea de IA aplicada al desarrollo, te puede interesar [Kiro, el IDE de Amazon centrado en objetivos](https://emirodgar.com/kiro-ide-amazon-revolucion-programacion) en lugar de solo autocompletar código.
+En esta misma línea de IA aplicada al desarrollo, te puede interesar [Kiro, el IDE de Amazon centrado en objetivos](https://emirodgar.com/kiro-ide-amazon-revolucion-programacion) en lugar de solo autocompletar código, o [Notebook LM](https://emirodgar.com/notebook-lm-google-ia-investigacion) si lo que buscas es una herramienta ya lista para usar sin programar nada.
+
+Y si vas a desplegar tu propio asistente en un servidor, quizá te interese revisar antes las [alternativas a Docker](https://emirodgar.com/alternativas-docker) para contenerizarlo.

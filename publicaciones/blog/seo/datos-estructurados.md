@@ -25,6 +25,8 @@ Los buscadores utilizan la información recopilada a través de nuestros datos e
 
 > Disponer de datos estructurados no garantiza que Google genere resultados enriquecidos.
 
+Si trabajas con un medio digital, tienes un caso de uso específico: [qué datos estructurados priorizar para un periódico](https://emirodgar.com/datos-estructurados-periodico).
+
 ## ¿Cómo generar los datos estructurados?
 
 Google dispone de una guía muy completa sobre los [diferentes datos estructurados](https://developers.google.com/search/docs/advanced/structured-data/article?hl=es) que podemos implementar y que podrían generar un resultado enriquecido. Dentro de cada tipo encontraremos explicaciones y ejemplos detallados. Bastará con usar la plantilla de ejemplo actualiza con nuestros datos e insertarla en nuestra página.

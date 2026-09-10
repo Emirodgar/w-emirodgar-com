@@ -16,7 +16,7 @@ permalink: shopify-seo
 
 Actualmente cerca del 4,5% de los principales ecommerces del mundo hacen uso de Shopify como plataforma de comercio electrónico. 
 
-En esta guía quiero trasladar las principales recomendaciones SEO que he trabajado en portales Shopify. Algunas serán comunes a otros portales, otras son específicas de esta plataforma.
+En esta guía quiero trasladar las principales recomendaciones SEO que he trabajado en portales Shopify. Algunas serán comunes a otros portales (te dejo también la [guía general de SEO para ecommerce](https://emirodgar.com/seo-ecommerce)), otras son específicas de esta plataforma.
 
 ## Evitar contenido duplicado debido a la arquitectura y enlazado interno
 

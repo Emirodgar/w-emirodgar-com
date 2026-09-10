@@ -126,3 +126,5 @@ Si quieres plantillas específicas para trabajar contenido o auditorías rápida
 - [ ] ¿He pedido primero esquema/datos cuando el tema es complejo?
 
 ¡Listo! Empieza por una plantilla simple, prueba y afina. Con unos pocos ajustes verás cómo mejoran las respuestas de ChatGPT.
+
+Si tienes curiosidad por saber [para qué usa realmente la gente ChatGPT](https://emirodgar.com/estudio-usos-chatgpt) más allá de estas técnicas, los datos de un estudio a gran escala te van a sorprender.

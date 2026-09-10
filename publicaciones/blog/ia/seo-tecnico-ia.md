@@ -62,6 +62,6 @@ En otras palabras, tu contenido debe ser:
 - **Claro y accesible desde arriba.**  
 
 
-La inteligencia artificial está cambiando cómo los usuarios encuentran y consumen información. Si quieres que tu web siga teniendo presencia en este nuevo escenario, debes **adaptar tu SEO técnico a dos mundos diferentes**: el complejo de Google y el más simple de los LLMs.  
+La inteligencia artificial está cambiando cómo los usuarios encuentran y consumen información. Si quieres que tu web siga teniendo presencia en este nuevo escenario, debes **adaptar tu SEO técnico a dos mundos diferentes**: el complejo de Google y el más simple de los LLMs. Safari, por ejemplo, ya integra [un servidor MCP para depurar SEO técnico y Core Web Vitals con IA](https://emirodgar.com/safari-servidor-mcp-seo-cwv) directamente desde el navegador.  
 
 En este equilibrio está la clave: hacer tu contenido **comprensible para todos**, humanos, buscadores y ahora también inteligencias artificiales.

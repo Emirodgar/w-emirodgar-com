@@ -40,6 +40,8 @@ A partir de aquí debemos establecer qué porcentaje o valores queremos aspirar 
 
 Existen diversas técnicas para ayudarnos a cualificar los objetivos, es decir, asegurarnos de que los que hemos seleccionado son adecuados y realistas. Una de las más conocidas es la técnica **S.M.A.R.T.** que son las siglas en inglés de los criterios que recomiendan asociar a cada objetivo: específicos, medibles, alcanzables, realistas y en tiempo.
 
+Una vez que tienes claros los objetivos, el siguiente paso natural es [hacer una estimación de crecimiento SEO](https://emirodgar.com/estimacion-crecimiento-seo) realista sobre ellos.
+
 ![Objetivos smart](https://i.imgur.com/k0PxLrG.png){:class="img-responsive"}
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwMDU2MTM3MDAsMTE4MjQxMjMzLC0xNT

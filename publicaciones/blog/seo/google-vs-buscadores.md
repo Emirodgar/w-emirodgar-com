@@ -20,7 +20,7 @@ Entonces, **¿por qué hablamos siempre de Google?**. Se trata de una mera cuest
 
 ![Emirodgar - cuota mercado buscadores](https://i.imgur.com/QEQL6Er.png){:class="img-responsive"}
 
-Si nuestro [objetivo SEO](https://emirodgar.com/objetivo-seo) es incrementar el número de tráfico orgánico hacia nuestra página, lógicamente trabajaremos principalmente sobre el buscador que tenga una mayor cuota de mercado, ignorando o relegando a un segundo escenario el resto.
+Si nuestro [objetivo SEO](https://emirodgar.com/objetivo-seo) es incrementar el número de tráfico orgánico hacia nuestra página, lógicamente trabajaremos principalmente sobre el buscador que tenga una mayor cuota de mercado, ignorando o relegando a un segundo escenario el resto. Y ese objetivo pasa siempre por entender [qué es lo que Google realmente busca](https://emirodgar.com/objetivo-google) al mostrar sus resultados.
 
 ## ¿Cuál es el impacto de la inteligencia artificial en el tráfico de buscadores?
 

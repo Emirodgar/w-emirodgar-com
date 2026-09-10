@@ -15,7 +15,7 @@ permalink: ctr-resultados-google
 
 Todos queremos salir en las primeras posiciones de las búsquedas Google, es entendible; sabemos que así tendremos mayor visibilidad SEO y captaremos más tráfico pero ¿sabemos cómo se reparte realmente el tráfico y qué CTR tiene cada uno de los resultados?
 
-A lo largo del tiempo se han realizado múltiples estudios pero quizá uno de los más recientes y completos sea el de [Advanced Web Ranking](https://www.advancedwebranking.com/ctrstudy/).
+A lo largo del tiempo se han realizado múltiples estudios pero quizá uno de los más recientes y completos sea el de [Advanced Web Ranking](https://www.advancedwebranking.com/ctrstudy/). Eso sí, no analices el CTR de forma aislada: combínalo siempre con la posición, porque [la posición media por sí sola puede llevarte a conclusiones erróneas](https://emirodgar.com/posicion-media-search-console-kpi).
 
 ## El primer resultado se lleva  más del 30% de las búsquedas
 

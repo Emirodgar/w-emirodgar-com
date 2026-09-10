@@ -70,3 +70,5 @@ El estudio también revela datos demográficos muy interesantes que muestran có
 Este análisis nos deja una idea muy clara: ChatGPT es mucho más que una herramienta para potenciar la productividad en la oficina. Se ha integrado en nuestra vida cotidiana como un asistente versátil al que acudimos para resolver dudas prácticas, buscar información de una forma más natural y, por supuesto, para que nos eche una mano con la escritura.
 
 Los datos demuestran que su uso es cada vez más diverso y global, y que los estereotipos del programador o del usuario solitario no representan a la gran mayoría. Entender cómo usamos realmente estas tecnologías es el primer paso para poder sacarles el máximo partido, tanto dentro como fuera del trabajo.
+
+Si quieres pasar de usuario ocasional a sacarle todo el jugo, aquí tienes [técnicas de ingeniería de prompts](https://emirodgar.com/como-sacar-mas-partido-a-chatgpt-con-ingenieria-de-prompts) que marcan la diferencia.

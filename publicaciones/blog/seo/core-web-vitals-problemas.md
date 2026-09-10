@@ -16,7 +16,7 @@ permalink: core-web-vitals-problemas
 
 
 
-Las Core Web Vitals son una serie de métricas que utiliza Google para garantizar una correcta experiencia de los usuarios en una página web. A mayores, suman como un [factor SEO](https://emirodgar.com/factores-seo) para el posicionamiento web, aunque no son uno de los más relevantes.
+Las Core Web Vitals son una serie de métricas que utiliza Google para garantizar una correcta experiencia de los usuarios en una página web. A mayores, suman como un [factor SEO](https://emirodgar.com/factores-seo) para el posicionamiento web, aunque no son uno de los más relevantes. Chrome incluso llegó a plantear [una etiqueta visual para identificar páginas rápidas](https://emirodgar.com/etiqueta-pagina-rapida) basada en estas métricas. Uno de los mayores culpables de un mal CWV suelen ser [los anuncios](https://emirodgar.com/impacto-anuncios-en-seo), así que conviene cargarlos con cuidado.
 
 A continuación vamos a ver algunos de los problemas a los que nos podemos enfrentar cuando trabajamos la optimización de las mismas.
 

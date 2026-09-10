@@ -30,7 +30,7 @@ Por orden de importancia, en la siguiente tabla muestro de mayor a menor impacto
 | 7-  | Perfil de enlazado |
 | 8-  | Tiempo de carga de la página |
 | 9-  | Seguridad de la página |
-| 10-  | EAT |
+| 10-  | [EAT](https://emirodgar.com/eeat-seo) |
 
 
 
@@ -72,7 +72,7 @@ Este es un punto que heredo del 2018 y que durante este año seguirá teniendo u
 
 Por ello debemos tener especial atención al tiempo de carga (relacionado con las métricas de usabilidad SEO que comentaba en el primer punto) y a la correcta visualización de nuestra web en diferentes dispositivos.
 
-Prestemos atención a [AMP](https://www.ampproject.org/es/) ([o no](https://www.polemicdigital.com/google-amp-go-to-hell/)) pero en especial a [PWA](https://developers.google.com/web/progressive-web-apps/) ya que [el fin de las apps móviles está cerca](https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8).
+Prestemos atención a [AMP](https://emirodgar.com/amp) ([o no](https://www.polemicdigital.com/google-amp-go-to-hell/)) pero en especial a [PWA](https://developers.google.com/web/progressive-web-apps/) ya que [el fin de las apps móviles está cerca](https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8).
 
 ### Optimización para búsqueda por voz
 
@@ -97,8 +97,8 @@ Siempre hay una serie de aspectos que debemos trabajar en cualquier estrategia S
  - Uso de imágenes únicas y relevantes.
  - Factores de tiempo de carga y accesibilidad web.
  - La palabra clave aparece en el dominio.
- - Edad y confianza del dominio principal.
-  - Las URLs son amigables.
+ - Edad y confianza del dominio principal ([la elección del TLD también influye](https://emirodgar.com/afecta-la-eleccion-del-dominio-de-nivel-superior-tld-al-seo)).
+  - Las URLs son amigables ([cuidado con el exceso de parámetros](https://emirodgar.com/parametros-url-seo)).
  - Calidad de enlaces entrantes.
 
 <!--stackedit_data:

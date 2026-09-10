@@ -53,3 +53,5 @@ En resumen: **que la IA se invente información no es inevitable**, sino una con
 La inteligencia artificial no miente porque quiera, sino porque el sistema actual le recompensa más por adivinar que por callar.  
 
 La clave está en **diseñar evaluaciones que premien la honestidad del “no lo sé”**. Así, en lugar de un chatbot que suena convincente pero poco fiable, tendremos herramientas más útiles, transparentes y seguras para todos.
+
+Y no es el único reto de fiabilidad: el caso de [Grok y su (falta de) neutralidad](https://emirodgar.com/grok-ia-neutralidad-elon-musk) demuestra que las respuestas de un LLM también pueden estar moldeadas por decisiones humanas, no solo por errores de entrenamiento.

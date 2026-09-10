@@ -19,7 +19,7 @@ Todo gracias a las **expresiones regulares (regex)**.
 
 ## ¿Qué son las expresiones regulares y por qué deberías usarlas?
 
-Las expresiones regulares, o **regex**, son patrones de búsqueda que permiten **filtrar datos de forma avanzada**. En el caso de Search Console, te ayudan a encontrar **consultas específicas** que comparten una intención común: informacional, comparativa, transaccional, etc.
+Las expresiones regulares, o **regex**, son patrones de búsqueda que permiten **filtrar datos de forma avanzada**. En el caso de Search Console, te ayudan a encontrar **consultas específicas** que comparten una intención común: informacional, comparativa, transaccional, etc. Google, de hecho, [ya clasifica internamente las consultas en 8 categorías de intención](https://emirodgar.com/como-clasifica-google-las-consultas-en-8-categorias-distintas), así que no vas del todo desencaminado si intentas replicar esa lógica con tus propios filtros.
 
 En otras palabras, con regex puedes transformar tus datos de consultas en **insights accionables** que mejoren tu [estrategia SEO](https://emirodgar.com/estrategia-seo).
 
@@ -122,4 +122,6 @@ Una vez tengas los resultados, analiza:
 Si no quieres copiar y pegar cada regex, puedes usar la extensión “GSC Helper” de Stephan Czysch, que incluye filtros preconfigurados. Te ahorrará tiempo y te permitirá experimentar con distintos tipos de consultas.
 
 Eso sí, ten en cuenta que al aplicar filtros regex, Search Console suma las métricas de todas las páginas, por lo que los datos (como impresiones) pueden inflarse. Es un pequeño detalle técnico que conviene tener presente.
+
+Y si lo que necesitas es compartir esos informes sin exponer datos sensibles, aquí tienes [cómo ocultarlos al compartir pantalla](https://emirodgar.com/ocultar-datos-gsc).
 

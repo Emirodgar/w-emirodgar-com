@@ -59,4 +59,6 @@ El estudio señala dos caminos principales para **exprimir al máximo estos mode
 
 Los modelos de **IA de última generación están cada vez más cerca del nivel humano** en tareas con valor económico real. Su rendimiento mejora de forma constante y, con las instrucciones adecuadas, pueden ser todavía más precisos.  
 
-La clave no está en elegir entre humanos o máquinas, sino en **aprender a combinar lo mejor de ambos mundos**. La IA aporta velocidad y reducción de costes; los profesionales, criterio y fiabilidad. Y esa mezcla es la que está redefiniendo el futuro del trabajo.  
+La clave no está en elegir entre humanos o máquinas, sino en **aprender a combinar lo mejor de ambos mundos**. La IA aporta velocidad y reducción de costes; los profesionales, criterio y fiabilidad. Y esa mezcla es la que está redefiniendo el futuro del trabajo.
+
+Ojo, que rendimiento en un benchmark no es lo mismo que autonomía real: los [agentes de IA](https://emirodgar.com/agentes-ia) que encadenan varias de estas tareas siguen arrastrando errores acumulativos que no siempre se ven en pruebas aisladas.  

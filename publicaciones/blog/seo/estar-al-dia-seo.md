@@ -39,7 +39,9 @@ Respecto a problemáticas interesantes, me gusta mucho la [sección para webmast
 
 ## Recursos actualizados 
 
-Por último, es importante estar al tanto de las herramientas del sector y de sus novedades. Para ello recomiendo mi [listado de recursos para marketing digital](https://emirodgar.com/recursos-marketing-digital/) que actualizo de forma constante. A través del mismo podremos concocer múltiples herramientas para cada problemática digital a la que nos enfrentemos y no perderemos tiempo realizando búsquedas en la red. 
+Por último, es importante estar al tanto de las herramientas del sector y de sus novedades. Para ello recomiendo mi [listado de recursos para marketing digital](https://emirodgar.com/recursos-marketing-digital/) que actualizo de forma constante. A través del mismo podremos concocer múltiples herramientas para cada problemática digital a la que nos enfrentemos y no perderemos tiempo realizando búsquedas en la red.
+
+Estar al día también significa estar donde está la conversación: te cuento [qué le puede aportar Bluesky a un profesional del SEO](https://emirodgar.com/bluesky-para-seo), y si trabajas con contenido estacional, aquí tienes cómo [posicionar tu web para un evento anual](https://emirodgar.com/seo-evento-anual).
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQ5OTk1OTMwMiwxMzkzMzYyMjc2LC00Mj

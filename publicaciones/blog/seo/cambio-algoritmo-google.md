@@ -32,7 +32,7 @@ Nadie sabe con certeza cómo funciona puesto que exponerlo supondría que todos 
 
 >El objetivo del algoritmo es ofrecer a sus usuarios la mejor respuesta lo más rápido posible.
 
-Trabajamos con la idea de que hace uso de unos 200 [factores SEO](/factores-seo) pero cómo se interpretan y qué valor tiene cada uno queda a cargo del algoritmo. 
+Trabajamos con la idea de que hace uso de unos 200 [factores SEO](/factores-seo) pero cómo se interpretan y qué valor tiene cada uno queda a cargo del algoritmo. Dentro de estos cambios, las [actualizaciones Core](https://emirodgar.com/google-core-update) son las que más suelen impactar en la visibilidad de una web. 
 
 
 ## <a name="cambios-algoritmo"></a>¿Cuándo ocurren los cambios en el algoritmo?

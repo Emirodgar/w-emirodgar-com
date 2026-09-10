@@ -8,11 +8,11 @@ lang: es_ES
 sitemap: 1  
 feed: 1  
 date: 21-10-2025  
-folder: ia  
+folder: seo  
 permalink: que-hay-realmente-detras-del-e-e-a-t-de-google  
 ---  
 
-Durante años se ha hablado del **E-E-A-T** (Experiencia, Pericia, Autoridad y Fiabilidad) como uno de los pilares más importantes del SEO moderno. Sin embargo, una duda ha acompañado siempre a esta idea: ¿cómo mide Google realmente algo tan abstracto?  
+Durante años se ha hablado del **[E-E-A-T](https://emirodgar.com/eeat-seo)** (Experiencia, Pericia, Autoridad y Fiabilidad) como uno de los pilares más importantes del SEO moderno. Sin embargo, una duda ha acompañado siempre a esta idea: ¿cómo mide Google realmente algo tan abstracto?  
 
 Un reciente artículo de Shaun Anderson, basado en las **filtraciones del API de Google**, ha puesto algo de luz sobre esta cuestión. Y lo cierto es que los hallazgos son, cuanto menos, reveladores.  
 
