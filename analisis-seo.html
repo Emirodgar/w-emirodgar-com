@@ -2,31 +2,32 @@
 <html dir="ltr" lang="es">
 <head>
    <meta charset="utf-8" />
-    <title>{{ page.title }} | Proyectos | Emirodgar</title>
+    <title>Análisis SEO | Comparativas de visibilidad | Emirodgar</title>
     <meta name="author" content="Emirodgar" />
-    <meta name="description" content="{{ page.description }}" />
+    <meta name="description" content="Comparativas de visibilidad SEO entre dominios que compiten por los mismos términos, con datos de Semrush y actualización periódica: quién gana, por qué y qué está cambiando." />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <link rel="icon" href="../cdn/images/hash.png" />
+    <link rel="icon" href="cdn/images/hash.png" />
+    <link rel="canonical" href="https://emirodgar.com/analisis-seo" />
 
     <!-- Open Graph / Facebook -->
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="og:title" content="Análisis SEO - Comparativas de visibilidad - Emirodgar" />
+    <meta property="og:description" content="Comparativas de visibilidad SEO entre dominios que compiten por los mismos términos, con datos de Semrush y actualización periódica." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://emirodgar.com/proyectos/[slug-del-proyecto]" />
+    <meta property="og:url" content="https://emirodgar.com/analisis-seo" />
     <meta property="og:image" content="https://emirodgar.com/cdn/images/og/emirodgar.png" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:url" content="https://emirodgar.com/proyectos/[slug-del-proyecto]" />
-    <meta name="twitter:title" content="{{ page.title }}" />
-    <meta name="twitter:description" content="{{ page.description }}" />
+    <meta name="twitter:url" content="https://emirodgar.com/analisis-seo" />
+    <meta name="twitter:title" content="Análisis SEO - Comparativas de visibilidad - Emirodgar" />
+    <meta name="twitter:description" content="Comparativas de visibilidad SEO entre dominios que compiten por los mismos términos, con datos de Semrush y actualización periódica." />
     <meta name="twitter:image" content="https://emirodgar.com/cdn/images/og/emirodgar.png" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:300,400,500,700&display=swap" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="../cdn/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="cdn/css/style.css" type="text/css" />
 
 </head>
 
@@ -40,22 +41,32 @@
                     <nav id="primary-menu">
                         <ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1250" data-offset="65">
                             <li>
-                                <a href="https://emirodgar.com">
+                                <a href="index2.html">
+                                    <div>Inicio</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="index2.html#section-about">
                                     <div>Sobre mí</div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://newsletter.chuletaseo.com">
-                                    <div>Newsletter</div>
-                                </a>
-                            </li>
-                            <li class="current">
-                                <a href="https://emirodgar.com/proyectos">
-                                    <div>Proyectos</div>
+                                <a href="index2.html#section-works">
+                                    <div>Clientes</div>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://emirodgar.com/analisis-seo">
+                                <a href="index2.html#section-services">
+                                    <div>Servicios</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="proyectos.html">
+                                    <div>Proyectos</div>
+                                </a>
+                            </li>
+                            <li class="current">
+                                <a href="analisis-seo.html">
                                     <div>Análisis SEO</div>
                                 </a>
                             </li>
@@ -67,30 +78,23 @@
         </header>
         <section id="content">
             <div class="content-wrap nopadding">
-                <div id="section-project-detail" class="page-section">
+                <div id="section-analisis" class="page-section">
                     <div class="section nomargin" style="padding:60px 0 0 0">
                         <div class="container clearfix">
-
-                            <a href="https://emirodgar.com/proyectos" class="pd-back">← Volver a proyectos</a>
-
-                            <span class="pd-eyebrow">{{ page.date |  date: ' %Y' }} · {{ page.folder }} · {{ page.tag }}</span>
-                            <h1 class="pd-title">{{ page.title }}</h1>
-                            <p class="pd-desc">{{ page.description }}</p>
-
-                            {% if page.site %}
-                            <div class="pd-site-cta">
-                                <a href="{{ page.site }}" target="_blank" rel="noopener noreferrer" class="button button-border t500 button-circle">Visitar {{ page.site | remove_first: 'https://' | remove_first: 'http://' | remove_first: 'www.' }} ↗</a>
-                            </div>
-                            {% endif %}
-
-                            {{ content }}
-							
-							
-
-                            <div class="pd-cta">
-                                <a href="https://emirodgar.com/proyectos" class="button button-border t500 button-circle">Ver todos los proyectos</a>
+                            <div class="divcenter center proj-header">
+                                <h1 class="nobottommargin t300 ls1 proj-page-title">Análisis SEO</h1>
+                                <p class="proj-intro divcenter center">Comparativas de visibilidad orgánica entre dominios que compiten por los mismos términos de búsqueda. No son artículos puntuales: los reviso y actualizo de forma periódica, con datos de Semrush y mi propia lectura de qué está cambiando y por qué.</p>
                             </div>
 
+                            <div class="proj-grid">
+
+                                <a class="proj-card" href="/analisis-seo/upsa-usal">
+                                    <span class="proj-eyebrow"><span class="proj-date">Educación superior</span> · Actualizado sep. 2026</span>
+                                    <h3 class="proj-title">UPSA vs USAL</h3>
+                                    <p class="proj-desc">Comparativa de visibilidad SEO entre la Universidad Pontificia de Salamanca y la Universidad de Salamanca: tráfico, keywords, autoridad de enlaces y quién gana la carrera de fondo.</p>
+                                </a>
+
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -149,10 +153,10 @@
 		</div>
 	</div>
     <div id="gotoTop" class="icon-angle-up"></div>
-	<script src="../cdn/js/jquery.js"></script>
-	<script src="../cdn/js/plugins.js"></script>
-	<script src="../cdn/js/functions.js"></script>
-	<script src="../cdn/js/emirodgar.js"></script>
+	<script src="cdn/js/jquery.js"></script>
+	<script src="cdn/js/plugins.js"></script>
+	<script src="cdn/js/functions.js"></script>
+	<script src="cdn/js/emirodgar.js"></script>
 </body>
 
 </html>

@@ -2,31 +2,38 @@
 <html dir="ltr" lang="es">
 <head>
    <meta charset="utf-8" />
-    <title>{{ page.title }} | Proyectos | Emirodgar</title>
+    <title>{{ page.title }} | Análisis SEO | Emirodgar</title>
     <meta name="author" content="Emirodgar" />
     <meta name="description" content="{{ page.description }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <link rel="icon" href="../cdn/images/hash.png" />
+    <link rel="icon" href="/cdn/images/hash.png" />
+    <link rel="canonical" href="https://emirodgar.com{{ page.permalink }}" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="{{ page.description }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://emirodgar.com/proyectos/[slug-del-proyecto]" />
-    <meta property="og:image" content="https://emirodgar.com/cdn/images/og/emirodgar.png" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://emirodgar.com{{ page.permalink }}" />
+    <meta property="og:image" content="{{ page.image | default: 'https://emirodgar.com/cdn/images/og/emirodgar.png' }}" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:url" content="https://emirodgar.com/proyectos/[slug-del-proyecto]" />
+    <meta name="twitter:url" content="https://emirodgar.com{{ page.permalink }}" />
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{{ page.description }}" />
-    <meta name="twitter:image" content="https://emirodgar.com/cdn/images/og/emirodgar.png" />
+    <meta name="twitter:image" content="{{ page.image | default: 'https://emirodgar.com/cdn/images/og/emirodgar.png' }}" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:300,400,500,700&display=swap" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="../cdn/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="/cdn/css/style.css" type="text/css" />
+
+    {% if page.jsonld_faq %}
+    <script type="application/ld+json">
+    {{ page.jsonld_faq }}
+    </script>
+    {% endif %}
 
 </head>
 
@@ -45,16 +52,11 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://newsletter.chuletaseo.com">
-                                    <div>Newsletter</div>
-                                </a>
-                            </li>
-                            <li class="current">
                                 <a href="https://emirodgar.com/proyectos">
                                     <div>Proyectos</div>
                                 </a>
                             </li>
-                            <li>
+                            <li class="current">
                                 <a href="https://emirodgar.com/analisis-seo">
                                     <div>Análisis SEO</div>
                                 </a>
@@ -67,28 +69,22 @@
         </header>
         <section id="content">
             <div class="content-wrap nopadding">
-                <div id="section-project-detail" class="page-section">
+                <div id="section-analisis-detail" class="page-section">
                     <div class="section nomargin" style="padding:60px 0 0 0">
                         <div class="container clearfix">
 
-                            <a href="https://emirodgar.com/proyectos" class="pd-back">← Volver a proyectos</a>
+                            <a href="https://emirodgar.com/analisis-seo" class="pd-back">← Volver a análisis SEO</a>
 
-                            <span class="pd-eyebrow">{{ page.date |  date: ' %Y' }} · {{ page.folder }} · {{ page.tag }}</span>
+                            <span class="pd-eyebrow">{{ page.folder }} · {{ page.tag }}</span>
                             <h1 class="pd-title">{{ page.title }}</h1>
+                            {% if page.last_update %}<span class="as-updated">Última actualización: {{ page.last_update }}</span>{% endif %}
                             <p class="pd-desc">{{ page.description }}</p>
 
-                            {% if page.site %}
-                            <div class="pd-site-cta">
-                                <a href="{{ page.site }}" target="_blank" rel="noopener noreferrer" class="button button-border t500 button-circle">Visitar {{ page.site | remove_first: 'https://' | remove_first: 'http://' | remove_first: 'www.' }} ↗</a>
-                            </div>
-                            {% endif %}
-
                             {{ content }}
-							
-							
 
                             <div class="pd-cta">
-                                <a href="https://emirodgar.com/proyectos" class="button button-border t500 button-circle">Ver todos los proyectos</a>
+                                <a href="https://emirodgar.com/analisis-seo" class="button button-border t500 button-circle">Ver todos los análisis</a>
+                                <a href="https://emirodgar.com/contacto" class="button button-border t500 button-circle">Pedir una auditoría así de tu web</a>
                             </div>
 
                         </div>
@@ -149,10 +145,10 @@
 		</div>
 	</div>
     <div id="gotoTop" class="icon-angle-up"></div>
-	<script src="../cdn/js/jquery.js"></script>
-	<script src="../cdn/js/plugins.js"></script>
-	<script src="../cdn/js/functions.js"></script>
-	<script src="../cdn/js/emirodgar.js"></script>
+	<script src="/cdn/js/jquery.js"></script>
+	<script src="/cdn/js/plugins.js"></script>
+	<script src="/cdn/js/functions.js"></script>
+	<script src="/cdn/js/emirodgar.js"></script>
 </body>
 
 </html>

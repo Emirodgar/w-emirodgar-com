@@ -23,6 +23,8 @@ Mis auditorías SEO te ofrecen la respuesta clara y basada en datos para entende
 
 Obtendrás un análisis profundo y accionable que transforma datos en **decisiones estratégicas** para mejorar tu rendimiento orgánico.
 
+¿Quieres ver mi metodología aplicada a un caso real antes de contratarla? Echa un vistazo a mis [análisis SEO comparativos](https://emirodgar.com/analisis-seo), donde audito y actualizo periódicamente la visibilidad de dominios que compiten entre sí.
+
 ---
 
 ## Mucho más que una auditoría SEO básica
