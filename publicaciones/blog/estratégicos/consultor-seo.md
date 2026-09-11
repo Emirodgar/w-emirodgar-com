@@ -166,6 +166,21 @@ Aumentamos la popularidad y credibilidad de tu dominio en internet de forma segu
 
 ---
 
+## SEO Técnico: Mi Especialización Principal
+
+Antes de tocar contenido o enlaces, un proyecto necesita una base técnica sólida. El **SEO técnico** es, de todas las disciplinas del posicionamiento, la que más domino, y donde se explican la mayoría de los problemas de visibilidad que no se resuelven con más contenido:
+
+* **Rastreo e indexación:** gestión de *crawl budget*, directivas de robots.txt, canonical tags y sitemaps XML, especialmente en sitios grandes donde Google no rastrea todo lo que debería.
+* **Rendimiento web (Core Web Vitals):** optimización de INP, LCP y CLS, que afectan tanto al ranking como a la conversión.
+* **Renderizado JavaScript:** diagnóstico de problemas de indexación en sitios construidos con frameworks (React, Vue, Angular) donde el HTML que ve Google no coincide con lo que ve un usuario.
+* **Migraciones sin pérdida de tráfico:** cambios de dominio, de CMS o rediseños completos con mapeo de redirecciones 301 y seguimiento posterior.
+* **Datos estructurados (Schema.org):** implementación de JSON-LD para *rich snippets*, FAQ, productos o servicios.
+* **Diagnóstico con datos propios:** en vez de depender solo de SEMrush, Ahrefs o Screaming Frog, cruzo datos reales de **Google Search Console y BigQuery** para detectar caídas de tráfico y problemas que las herramientas genéricas no muestran — el mismo enfoque que aplico en cada [auditoría SEO](https://emirodgar.com/auditoria-seo).
+
+Si tu web ya tiene una estrategia de contenidos pero no despega en Google, el problema suele estar aquí antes que en cualquier otro sitio.
+
+---
+
 ## Precios y Tarifas de Consultoría SEO en 2026
 
 La inversión requerida varía según la complejidad del sitio web, el estado técnico de partida y el nivel de competencia en tu sector.
@@ -185,6 +200,7 @@ Según el tipo de proyecto, puede interesarte profundizar en alguno de estos enf
 
 * **[Consultor SEO Freelance](https://emirodgar.com/consultor-seo-freelance):** cómo trabajo sin la estructura ni los sobrecostes de una agencia, con trato directo de principio a fin.
 * **[Consultor SEO Internacional](https://emirodgar.com/consultor-seo-internacional):** estrategias de posicionamiento multi-país para empresas que se expanden a México, Colombia, Argentina o Chile, con homologación ICEX Next.
+* **[Consultor SEO para Ecommerce](https://emirodgar.com/consultor-seo-ecommerce):** optimización técnica de catálogos grandes, navegación por facetas, datos estructurados de producto y migraciones sin pérdida de tráfico.
 
 ---
 
