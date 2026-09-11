@@ -305,4 +305,5 @@ permalink: /analisis-seo/agencia-seo-salamanca
 <li>La dificultad de este clúster (KD 6-11) es de las más bajas que he analizado en esta sección — hay hueco real para entrar en el top 10 sin necesitar una autoridad de dominio enorme, como demuestra el propio caso de pw-salamanca.com.</li>
 <li>Próxima actualización: el indicador a vigilar en mi propio caso es el Top 10 (hoy en su mínimo histórico de la serie) — si no repunta, la autocrítica de este análisis se queda en diagnóstico y no en mejora.</li>
 </ul>
+<div class="as-callout">Actualización: tras este análisis, he publicado una <a href="https://emirodgar.com/agencia-seo-salamanca">página específica para "agencia SEO Salamanca"</a> con el argumento que se apunta arriba — que la mayoría de competidores de este clúster no son especialistas locales. Es el primer movimiento de contenido dirigido a cerrar la brecha que describe este autoanálisis.</div>
 </div>

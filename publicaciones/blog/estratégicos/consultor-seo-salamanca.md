@@ -130,6 +130,8 @@ Como consultor independiente, mi enfoque es el **SEO Técnico Avanzado**. Mientr
 * **E-E-A-T Real:** No solo digo que soy experto; formo a los futuros profesionales en el **Máster de Marketing Digital de la USAL**, en **Deusto** y la **UNIR**.
 * **Arquitectura técnica:** Aprovecho la velocidad de carga de tecnologías como Jekyll para superar a webs pesadas en WordPress.
 
+Si lo que tenías en mente era contratar una agencia, [aquí te explico por qué la mayoría de las que aparecen para "agencia SEO Salamanca" no tienen sede real en la ciudad](https://emirodgar.com/agencia-seo-salamanca), y qué obtienes trabajando conmigo en su lugar.
+
 ## Preguntas frecuentes sobre Posicionamiento Web en Salamanca
 
 ### ¿Cuánto tiempo tarda en verse el trabajo de un consultor SEO?
