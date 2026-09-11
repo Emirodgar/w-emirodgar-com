@@ -1,6 +1,6 @@
 ---
 title: Cómo convertirse en un Experto en SEO
-description: 
+description: Qué conocimientos, habilidades y experiencia distinguen a un experto SEO real, y cómo evaluarlos antes de contratar uno.
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -8,6 +8,7 @@ feed: 1
 layout: emirodgar_post
 folder: estrategicos
 date: 19/05/2021
+date_modified: 11/09/2026
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-experto
 
@@ -101,6 +102,10 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
  4. Correlacion no significa causalidad. Investiga siempre todo en profundidad y no te quedes en la superficie. 
  6. Ten claro el punto de partida de cualquier proyecto. Es el espejo al que mirarás para poner en valor lo realizado.
  7. No trabajes un proyecto sin objetivos claros y fácilmente medibles.
+
+## ¿Prefieres contar con un experto SEO en vez de formarte tú mismo?
+
+Si en lugar de aplicar todo esto internamente prefieres que lo haga alguien con más de 15 años de experiencia, puedo ayudarte como [consultor SEO](https://emirodgar.com/consultor-seo) o con una [auditoría SEO](https://emirodgar.com/auditoria-seo) que te diga exactamente qué está frenando tu visibilidad.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjA3OTE0NjAzNywtMzY3ODMzNjkzLDk1ND

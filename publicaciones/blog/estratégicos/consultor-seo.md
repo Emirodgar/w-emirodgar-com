@@ -6,12 +6,13 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 27/01/2022
-date_modified: 03/08/2026
+date_modified: 11/09/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: consultor-seo
-
+redirect_from:
+  - asesor-seo
 
 ---
 
@@ -23,6 +24,71 @@ Hola, soy **Emilio Rodríguez García** y trabajo como profesional del posiciona
 Mi trayectoria incluye la adaptación y superación de los grandes cambios de algoritmo de Google —desde *Panda* y *Penguin* hasta las actualizaciones de contenido útil (*Helpful Content Updates*) y la llegada del **GEO (Generative Engine Optimization)**—. Además, soy **asesor SEO homologado por ICEX España** para la internacionalización de negocios digitales.
 
 Si buscas un **consultor SEO** que combine solvencia técnica, visión de negocio y ejecución directa sin intermediarios, a continuación te explico cómo trabajo y cómo podemos escalar la visibilidad y facturación de tu proyecto.
+
+{% raw %}
+<script type="application/ld+json">
+[{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Emilio Rodríguez - Consultor SEO",
+  "alternateName": "Emirodgar",
+  "image": "https://emirodgar.com/assets/images/emirodgar.jpg",
+  "@id": "https://emirodgar.com/consultor-seo",
+  "url": "https://emirodgar.com/consultor-seo",
+  "telephone": "+34923015199",
+  "priceRange": "€€€",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Salamanca",
+    "addressCountry": "ES"
+  },
+  "areaServed": [
+    { "@type": "Country", "name": "España" },
+    { "@type": "Country", "name": "México" },
+    { "@type": "Country", "name": "Colombia" },
+    { "@type": "Country", "name": "Argentina" },
+    { "@type": "Country", "name": "Chile" }
+  ],
+  "description": "Consultor SEO independiente desde 2007. Auditoría técnica, estrategia de contenidos, GEO para IA y link building para empresas en España y Latinoamérica."
+},
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Emilio Rodríguez García",
+  "jobTitle": "Consultor SEO",
+  "url": "https://emirodgar.com",
+  "sameAs": [
+    "https://x.com/emirodgar",
+    "https://es.linkedin.com/in/emirodgar"
+  ],
+  "knowsAbout": ["Search Engine Optimization", "Technical SEO", "Generative Engine Optimization", "Digital Strategy"],
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "ICEX España Exportación e Inversiones"
+  }
+},
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "¿Qué es un consultor SEO y en qué se diferencia de una agencia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Un consultor SEO es un especialista independiente que audita, diseña y ejecuta la estrategia de posicionamiento sin intermediarios ni account managers, a diferencia de una agencia donde estas funciones suelen repartirse entre varias personas."
+    }
+  },
+  {
+    "@type": "Question",
+    "name": "¿Cuánto cuesta contratar un consultor SEO?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Una auditoría SEO puntual suele costar entre 600€ y 2.500€, mientras que una consultoría mensual (retainer) oscila entre 500€ y 2.000€/mes según la complejidad del proyecto."
+    }
+  }]
+}]
+</script>
+{% endraw %}
 
 ---
 
@@ -63,15 +129,11 @@ A diferencia de una agencia tradicional, trabajar con un consultor senior garant
 
 El SEO se mide en impacto sobre el negocio: incremento de tráfico orgánico, captura de palabras clave estratégicas y aumento de conversiones. 
 
-He trabajado con proyectos en sectores altamente competitivos (e-commerce B2C, plataformas SaaS, B2B e internacionalización de empresas en mercados hispanoparlantes).
+He trabajado con proyectos en sectores altamente competitivos (e-commerce B2C, plataformas SaaS, B2B e internacionalización de empresas en mercados hispanoparlantes), liderando departamentos SEO para marcas como **Telefónica, Acciona, FNAC, Hoteles Barceló, Hoteles Meliá, Radio Cope y Cadena 100**.
 
 👉 **[Descubre mis casos de éxito SEO documentados](https://emirodgar.com/casos-exito-seo)** para conocer métricas, metodologías aplicadas y evoluciones de tráfico reales.
 
 ---
-
-## Mi Metodología de Trabajo como Consultor SEO
-
-El posicionamiento orgánico sólido no se logra con trucos ni atajos; requiere un proceso enfocado en tres pilares: **Infraestructura Técnica, Relevancia de Contenido y Autoridad de Dominio**.
 
 ## Mi Metodología de Trabajo como Consultor SEO
 

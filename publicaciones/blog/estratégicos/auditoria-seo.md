@@ -5,7 +5,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 04/08/2025
-date_modified: 14/08/2025
+date_modified: 11/09/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -22,6 +22,32 @@ author: emirodgar
 Mis auditorías SEO te ofrecen la respuesta clara y basada en datos para entender qué frena tu visibilidad y cómo revertirlo.
 
 Obtendrás un análisis profundo y accionable que transforma datos en **decisiones estratégicas** para mejorar tu rendimiento orgánico.
+
+{% raw %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Auditoría SEO",
+  "provider": {
+    "@type": "Person",
+    "name": "Emilio Rodríguez García",
+    "url": "https://emirodgar.com"
+  },
+  "areaServed": [
+    { "@type": "Country", "name": "España" },
+    { "@type": "Country", "name": "México" },
+    { "@type": "Country", "name": "Argentina" }
+  ],
+  "description": "Auditoría SEO independiente basada en datos reales de Google Search Console y BigQuery: diagnóstico técnico, de contenido y de enlaces con hoja de ruta priorizada.",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "EUR",
+    "priceRange": "600€-2500€"
+  }
+}
+</script>
+{% endraw %}
 
 ¿Quieres ver mi metodología aplicada a un caso real antes de contratarla? Echa un vistazo a mis [análisis SEO comparativos](https://emirodgar.com/analisis-seo), donde audito y actualizo periódicamente la visibilidad de dominios que compiten entre sí.
 

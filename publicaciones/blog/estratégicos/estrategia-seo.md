@@ -5,7 +5,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 15/01/2019
-date_modified: 13/08/2025
+date_modified: 11/09/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -19,6 +19,29 @@ Un buen posicionamiento en Google no se logra solo con optimizaciones puntuales.
 Requiere una **estrategia SEO clara, medible y adaptable** que marque el camino hacia tus objetivos de negocio.
 
 Diseñar una estrategia significa saber **dónde estás**, **a dónde quieres llegar** y **cómo medir si lo estás consiguiendo**.
+
+Este servicio está pensado para negocios que ya tienen una base SEO trabajada y necesitan un plan de crecimiento a medio plazo con objetivos y KPIs propios — si estás empezando desde cero o quieres primero un diagnóstico, es mejor arrancar con una [auditoría SEO](https://emirodgar.com/auditoria-seo) o conocer el servicio de [consultoría SEO](https://emirodgar.com/consultor-seo) en su conjunto.
+
+{% raw %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Estrategia SEO",
+  "provider": {
+    "@type": "Person",
+    "name": "Emilio Rodríguez García",
+    "url": "https://emirodgar.com"
+  },
+  "areaServed": [
+    { "@type": "Country", "name": "España" },
+    { "@type": "Country", "name": "México" },
+    { "@type": "Country", "name": "Argentina" }
+  ],
+  "description": "Diseño de estrategias SEO a medio plazo: diagnóstico, objetivos medibles, plan de acción priorizado y seguimiento continuo de KPIs."
+}
+</script>
+{% endraw %}
 
 ---
 
@@ -77,7 +100,7 @@ Con un sistema de medición bien definido:
 - Uso más eficiente de los recursos y presupuesto.  
 - Capacidad de respuesta rápida ante cambios en el mercado o algoritmos.
 
-Te cuento [un caso real de dos proyectos con estrategias muy distintas](https://emirodgar.com/caso-exito-seo-estrategia) y cómo les fue con el tiempo: la diferencia entre una estrategia sólida y una que solo busca el atajo.
+Te cuento [casos reales de proyectos con estrategias muy distintas](https://emirodgar.com/casos-exito-seo) y cómo les fue con el tiempo: la diferencia entre una estrategia sólida y una que solo busca el atajo.
 
 ---
 

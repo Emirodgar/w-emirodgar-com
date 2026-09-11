@@ -2,7 +2,7 @@
 title: Publicaciones Estratégicas
 description: Listado de publicaciones estratégicas
 lang: es_ES
-layout: emirodgar_post_test
+layout: emirodgar_post
 author: Emirodgar
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 permalink: publicaciones-estrategicas
