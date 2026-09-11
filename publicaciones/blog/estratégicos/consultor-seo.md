@@ -179,6 +179,15 @@ La inversión requerida varía según la complejidad del sitio web, el estado t�
 
 ---
 
+## Especializaciones dentro de mi servicio de consultoría
+
+Según el tipo de proyecto, puede interesarte profundizar en alguno de estos enfoques concretos:
+
+* **[Consultor SEO Freelance](https://emirodgar.com/consultor-seo-freelance):** cómo trabajo sin la estructura ni los sobrecostes de una agencia, con trato directo de principio a fin.
+* **[Consultor SEO Internacional](https://emirodgar.com/consultor-seo-internacional):** estrategias de posicionamiento multi-país para empresas que se expanden a México, Colombia, Argentina o Chile, con homologación ICEX Next.
+
+---
+
 ## Factores Clave para Elegir un Profesional SEO
 
 Para proteger la reputación y la facturación de tu negocio, evalúa siempre los siguientes aspectos antes de contratar un servicio SEO:
