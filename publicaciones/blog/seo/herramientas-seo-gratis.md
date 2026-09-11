@@ -11,6 +11,8 @@ date_modified: 20/05/2022
 folder: seo
 lang: es_ES
 permalink: herramientas-seo-gratis
+redirect_from:
+  - posicionamiento-web-gratis
 
 ---
 
