@@ -9,7 +9,9 @@ permalink: publicaciones-estrategicas
 
 ---
 
-En esta página se muestra el listado de las publicaciones que considero estratégicas, bien por su contenido a nivel de SEO o porque no tienen cabida en otras categorías.
+Aquí reúno mis páginas de servicios y contenido estratégico: cómo trabajo como [consultor SEO](https://emirodgar.com/consultor-seo) (también en su versión [freelance](https://emirodgar.com/consultor-seo-freelance), [internacional](https://emirodgar.com/consultor-seo-internacional) y para [ecommerce](https://emirodgar.com/consultor-seo-ecommerce)), mis servicios de [auditoría](https://emirodgar.com/auditoria-seo) y [estrategia SEO](https://emirodgar.com/estrategia-seo), y artículos de fondo sobre metodología y resultados que no encajan en una categoría más técnica.
+
+Listado completo:
 
 <ul>
 {% for page in site.pages %}
