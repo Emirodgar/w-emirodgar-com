@@ -166,9 +166,9 @@ Aumentamos la popularidad y credibilidad de tu dominio en internet de forma segu
 
 ---
 
-## SEO Técnico: Mi Especialización Principal
+## Mi enfoque de SEO técnico como consultor
 
-Antes de tocar contenido o enlaces, un proyecto necesita una base técnica sólida. El **SEO técnico** es, de todas las disciplinas del posicionamiento, la que más domino, y donde se explican la mayoría de los problemas de visibilidad que no se resuelven con más contenido:
+Antes de tocar contenido o enlaces, un proyecto necesita una base técnica sólida. De todas las disciplinas del posicionamiento, el **SEO técnico** es la que más domino, y donde se explican la mayoría de los problemas de visibilidad que no se resuelven con más contenido. Si quieres un checklist completo y autodidacta, tengo [una guía de SEO técnico](https://emirodgar.com/seo-tecnico) aparte; aquí te cuento qué reviso concretamente cuando lo trabajo como consultor:
 
 * **Rastreo e indexación:** gestión de *crawl budget*, directivas de robots.txt, canonical tags y sitemaps XML, especialmente en sitios grandes donde Google no rastrea todo lo que debería.
 * **Rendimiento web (Core Web Vitals):** optimización de INP, LCP y CLS, que afectan tanto al ranking como a la conversión.
