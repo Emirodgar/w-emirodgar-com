@@ -54,22 +54,6 @@ Si buscas un **consultor SEO** que combine solvencia técnica, visión de negoci
 },
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Emilio Rodríguez García",
-  "jobTitle": "Consultor SEO",
-  "url": "https://emirodgar.com",
-  "sameAs": [
-    "https://x.com/emirodgar",
-    "https://es.linkedin.com/in/emirodgar"
-  ],
-  "knowsAbout": ["Search Engine Optimization", "Technical SEO", "Generative Engine Optimization", "Digital Strategy"],
-  "alumniOf": {
-    "@type": "Organization",
-    "name": "ICEX España Exportación e Inversiones"
-  }
-},
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{
     "@type": "Question",

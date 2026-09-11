@@ -9,11 +9,39 @@
 	{% seo %}
 	{% if page.image== null %}
 		<meta content="https://emirodgar.com/cdn/images/og/emirodgar.png" property="og:image">
-	{% endif %} 
-     
+	{% endif %}
+
     <link id="theme-style" rel="stylesheet" href="https://emirodgar.com/assets/css/theme.css">
-    
-</head> 
+
+    {% raw %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Emilio Rodríguez García",
+      "alternateName": "Emirodgar",
+      "url": "https://emirodgar.com",
+      "image": "https://emirodgar.com/assets/images/emirodgar.jpg",
+      "jobTitle": "Consultor SEO",
+      "sameAs": [
+        "https://x.com/emirodgar",
+        "https://es.linkedin.com/in/emirodgar"
+      ],
+      "knowsAbout": ["Search Engine Optimization", "Technical SEO", "Generative Engine Optimization", "Digital Strategy"],
+      "alumniOf": {
+        "@type": "Organization",
+        "name": "ICEX España Exportación e Inversiones"
+      },
+      "worksFor": [
+        { "@type": "EducationalOrganization", "name": "Universidad de Salamanca (USAL)" },
+        { "@type": "EducationalOrganization", "name": "Universidad de Deusto" },
+        { "@type": "EducationalOrganization", "name": "UNIR" }
+      ]
+    }
+    </script>
+    {% endraw %}
+
+</head>
 
 <body>
     

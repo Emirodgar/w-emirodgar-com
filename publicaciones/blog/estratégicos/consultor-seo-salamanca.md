@@ -53,27 +53,6 @@ En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas
 },
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Emilio Rodríguez García",
-  "jobTitle": "Consultor SEO & Profesor Universitario",
-  "url": "https://emirodgar.com",
-  "sameAs": [
-    "https://x.com/emirodgar",
-    "https://es.linkedin.com/in/emirodgar"
-  ],
-  "worksFor": [
-    { "@type": "EducationalOrganization", "name": "Universidad de Salamanca (USAL)" },
-    { "@type": "EducationalOrganization", "name": "Universidad de Deusto" },
-    { "@type": "EducationalOrganization", "name": "UNIR" }
-  ],
-  "knowsAbout": ["Search Engine Optimization", "Technical SEO", "Digital Strategy", "Web Development"],
-  "alumniOf": {
-    "@type": "Organization",
-    "name": "ICEX España Exportación e Inversiones"
-  }
-},
-{
-  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{
     "@type": "Question",
