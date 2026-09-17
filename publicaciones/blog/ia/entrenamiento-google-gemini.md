@@ -1,6 +1,6 @@
 ---
 title: El secreto de Google Gemini y los humanos que entrenan a la IA
-description: Descubre la historia de los miles de 'raters' humanos, a menudo sobrecargados y mal pagados, que trabajan en la sombra para entrenar y moderar la IA de Google.
+description: Descubre la historia de los miles de 'raters' humanos, a menudo sobrecargados y mal pagados, que trabajan en la sombra para entrenar y moderar la IA de Google. Además, lo que su propio arquitecto admite sobre cómo se diseñó realmente el modelo.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
 author: Emirodgar
@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 19-09-2025
+date_modified: 17/09/2026
 folder: ia
 permalink: entrenamiento-google-gemini
 ---
@@ -54,12 +55,34 @@ Un ejemplo flagrante es el tratamiento de los discursos de odio. Antes, la IA te
 
 Este cambio, por sutil que parezca, es un paso atrás enorme en la promesa de una IA segura y ética. Como afirma un investigador, "la promesa de seguridad de la IA se derrumba en el momento en que la seguridad amenaza el beneficio".
 
+## ¿Y qué dice el hombre que diseñó Gemini?
+
+Frente al relato de los 'raters' desde dentro, resulta revelador escuchar la otra cara de la moneda: la de quien decidió cómo debía ser Gemini desde el principio. Jeff Dean, uno de los ingenieros más veteranos de Google y actual científico jefe de Google DeepMind, ha explicado recientemente en una entrevista recogida por [Search Engine Journal](https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/) cómo se gestó realmente el modelo. Y su relato desmonta, otra vez, la idea de que Gemini nació de un plan maestro.
+
+Según Dean, el proyecto surgió de **fusionar varios equipos** que, de forma paralela dentro de Google Brain y DeepMind, ya perseguían objetivos muy parecidos, y que acabaron uniendo fuerzas bajo un mismo nombre en lugar de competir entre sí.
+
+### La apuesta por ser multimodal desde el primer día
+
+Uno de los puntos que más destaca Dean es que Gemini nunca se planteó como un modelo "de texto" al que después se le añadieron otras capacidades. Se construyó desde el origen para entender texto, imágenes, audio y vídeo a la vez. En sus propias palabras, "queríamos que el modelo fuera bueno en muchas cosas", incluso cuando eso significó renunciar a resultados más pulidos en tareas concretas a corto plazo, como ocurrió al principio con la programación.
+
+### Un efecto secundario que nadie esperaba
+
+Aquí llega el dato más interesante para cualquiera que siga de cerca la evolución de estos modelos: al centrar buena parte de los esfuerzos de ingeniería en mejorar la capacidad de programación de Gemini, el equipo descubrió que esa mejora se "contagiaba" también al razonamiento general del modelo. Dean lo resume así: enfocarse en la programación termina generando "un sistema capaz de razonar y de hacer bien otro tipo de tareas".
+
+Es decir, ni siquiera dentro de Google tenían controlado de antemano qué capacidades se reforzarían entre sí. Buena parte del avance ha sido, literalmente, un hallazgo por el camino, no una hoja de ruta cerrada.
+
+### "Es mejor hojear 10 papers que leer uno a fondo"
+
+Preguntado por cómo distingue una tecnología con futuro de una simple moda pasajera, Dean fue igual de honesto: no existe una fórmula mágica. Su método consiste en **leer en diagonal** la mayor cantidad posible de investigación (prefiere hojear diez artículos que estudiar uno a fondo) para detectar conexiones entre ideas que, por separado, parecen menores, y aceptar que muchas de esas apuestas simplemente no funcionarán.
+
+Dicho de otro modo: detrás de la marca "Gemini" hay un proceso de prueba, error y fusión de equipos bastante más parecido al de cualquier proyecto de ingeniería complejo que a la narrativa de innovación infalible que suele acompañar a estos lanzamientos.
+
 ## La paradoja de la IA
 
-La conclusión es tan simple como preocupante. La inteligencia artificial que muchos ven como el futuro se está construyendo sobre un presente de condiciones laborales precarias.
+La conclusión es tan simple como preocupante. La inteligencia artificial que muchos ven como el futuro se está construyendo sobre un presente de condiciones laborales precarias, y ni siquiera sus propios creadores siguieron un guion tan cerrado como parece desde fuera.
 
 La mayor paradoja es que muchos de estos trabajadores, las personas que mejor conocen las tripas del sistema, **han perdido la confianza en la tecnología que ayudan a construir**. La mayoría afirma que evita usar las herramientas de IA en su vida personal y desaconseja su uso a familiares y amigos.
 
 Como dijo una de las trabajadoras, Rachael Sawyer: "Solo quiero que la gente sepa que la IA se vende como magia tecnológica. Pero no lo es. **Está construida sobre las espaldas de seres humanos mal pagados y con exceso de trabajo**."
 
-Esta precariedad en el entrenamiento explica en parte [por qué la IA de Google todavía comete errores básicos](https://emirodgar.com/ia-google) con datos desactualizados o inconsistentes.
+Esta precariedad en el entrenamiento explica en parte [por qué la IA de Google todavía comete errores básicos](https://emirodgar.com/ia-google) con datos desactualizados o inconsistentes. Y ahora sabemos, por boca de quien ayudó a diseñarlo, que la precariedad humana no es el único ingrediente improvisado: tampoco las capacidades técnicas del modelo siguieron un guion cerrado desde el principio.

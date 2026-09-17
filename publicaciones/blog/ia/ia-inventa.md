@@ -54,4 +54,4 @@ La inteligencia artificial no miente porque quiera, sino porque el sistema actua
 
 La clave está en **diseñar evaluaciones que premien la honestidad del “no lo sé”**. Así, en lugar de un chatbot que suena convincente pero poco fiable, tendremos herramientas más útiles, transparentes y seguras para todos.
 
-Y no es el único reto de fiabilidad: el caso de [Grok y su (falta de) neutralidad](https://emirodgar.com/grok-ia-neutralidad-elon-musk) demuestra que las respuestas de un LLM también pueden estar moldeadas por decisiones humanas, no solo por errores de entrenamiento.
+Y no es el único reto de fiabilidad: el caso de [Grok y su (falta de) neutralidad](https://emirodgar.com/grok-ia-neutralidad-elon-musk) demuestra que las respuestas de un LLM también pueden estar moldeadas por decisiones humanas, no solo por errores de entrenamiento. De hecho, [quién y cómo entrena realmente a Gemini](https://emirodgar.com/entrenamiento-google-gemini) —desde los 'raters' que lo evalúan hasta las decisiones de diseño de sus propios ingenieros— explica buena parte de por qué estos modelos aciertan o fallan como lo hacen.
