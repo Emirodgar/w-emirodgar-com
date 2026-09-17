@@ -1,7 +1,7 @@
 ---
 
-title: Notebook LM la IA de Google para organizar tu caos de información
-description: Google Notebook LM es una herramienta de IA que te ayuda a procesar y entender tus fuentes de información (PDFs, vídeos, notas). Te explico cómo funciona.
+title: Notebook LM (ahora Gemini Notebook), la IA de Google para organizar tu caos de información
+description: Google Notebook LM, ahora renombrada Gemini Notebook, es una herramienta de IA que te ayuda a procesar y entender tus fuentes de información (PDFs, vídeos, notas). Te explico cómo funciona y qué ha cambiado en 2026.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
 author: Emirodgar
@@ -9,6 +9,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 25-09-2025
+date_modified: 17-09-2026
 folder: ia
 permalink: notebook-lm-google-ia-investigacion
 
@@ -25,6 +26,8 @@ No necesitamos más información. Necesitamos una forma de **entenderla y ponerl
 ¿Y si pudieras meter todo ese caos en un único lugar y pedirle a una inteligencia artificial que lo resuma, lo compare, lo visualice o incluso lo convierta en el plan para un nuevo producto?
 
 Eso es exactamente lo que hace **Notebook LM**, la herramienta de investigación de Google. Y una vez que le pillas el truco, es como tener un socio incansable que solo trabaja con las fuentes en las que tú confías.
+
+> **Actualización (septiembre 2026)**: Google ha renombrado la herramienta a **[Gemini Notebook](https://workspaceupdates.googleblog.com/2026/07/notebooklm-now-gemini-notebook.html)**. El cambio, que arrancó el 16 de julio de 2026, es solo de marca: no hay cambios funcionales asociados, los enlaces y notebooks que ya tuvieras siguen funcionando con redirección automática, y sigue siendo un producto independiente. Mantengo "Notebook LM" en este artículo porque es como la sigue buscando la mayoría, pero a partir de ahora la verás con el nuevo nombre en la interfaz.
 
 <img width="1038" class="img-responsive" alt="Google NotebookLLM" src="https://github.com/user-attachments/assets/5882b7a5-13da-4898-8e50-d403a45853c6" />
 
@@ -54,6 +57,29 @@ La magia de Notebook LM no está en trucos de IA rebuscados, sino en un flujo de
 4.  **Guarda, refina y repite**: Si una respuesta te parece útil, la guardas en tus "Notas". Y aquí viene lo potente: puedes convertir esas notas en una *nueva fuente* y volver a preguntarle cosas, creando un bucle de análisis cada vez más profundo.
 
 Este ciclo es lo que lo convierte en un motor de conocimiento, no en un simple chatbot. Un proceso bien definido es la base de cualquier buena [**estrategia SEO**](https://emirodgar.com/estrategia-seo), y esta herramienta aplica esa misma lógica a la gestión de la información.
+
+
+## ¿Qué ha cambiado en 2026?
+
+Desde que escribí este artículo, Google ha metido mano al motor por dentro. Estas son las novedades que de verdad cambian cómo se usa:
+
+### Ya no hace falta subir tus fuentes primero
+
+Hasta ahora, el primer paso obligatorio era alimentar la herramienta con tus documentos. Desde junio de 2026, puedes arrancar directamente con una pregunta o un tema en un chat, y es la propia herramienta la que busca y sugiere fuentes relevantes (apoyándose en Google Search) para construir tu base de conocimiento. El flujo de trabajo que te contaba arriba —fuentes primero, preguntas después— ahora también puede ir al revés.
+
+### Corre sobre Gemini 3.5
+
+El modelo que hay debajo ha pasado a ser Gemini 3.5, con capacidades de razonamiento (Antigravity) que ayudan sobre todo en tareas de investigación más largas y en la generación de contenido en distintos formatos. En la práctica, notarás respuestas más precisas y más visibilidad de cómo ha llegado la IA a una conclusión.
+
+### Auto-etiquetado y flashcards
+
+Si tu notebook pasa de 5 fuentes, la herramienta las etiqueta automáticamente para que no tengas que organizarlas a mano. También puede generar flashcards de estudio directamente a partir de tus documentos, ancladas a esas mismas fuentes (nada de preguntas inventadas).
+
+### Aterriza en el buscador
+
+Desde el 19 de agosto de 2026, los notebooks se están integrando dentro del Modo IA de la Búsqueda de Google, sincronizándose con la app de Gemini. La línea entre "buscar" e "investigar con tus propias fuentes" cada vez es más fina.
+
+**Un matiz importante**: estas novedades han empezado a desplegarse primero para usuarios de Google AI Ultra y clientes de Workspace con acceso ampliado a IA, no para todo el mundo desde el primer día. Google ya ha confirmado que las llevará también a la versión Pro, pero si no te aparece todavía, no es que hagas algo mal.
 
 
 ## ¿Qué puedes crear en el "Studio" para dar vida a tu investigación?
