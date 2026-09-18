@@ -13,7 +13,7 @@ permalink: predicciones-seo-2027
 
 ---
 
-[Duane Forrester](https://www.searchenginejournal.com/3-predictions-for-2027-and-why-you-wont-be-able-to-check-them/589263/) —veterano del sector, con paso por Bing y Microsoft— acaba de publicar en Search Engine Journal tres predicciones sobre hacia dónde va el negocio de las búsquedas en 2027. Las predicciones en sí son interesantes, pero lo que de verdad me ha hecho parar a pensar es su argumento de fondo: **cada vez va a ser más difícil comprobar si algo de esto es cierto**.
+[Duane Forrester](https://www.searchenginejournal.com/3-predictions-for-2027-and-why-you-wont-be-able-to-check-them/589263/) —casi una década en Bing/Microsoft y hoy al frente de UnboundAnswers, su propia consultora sobre búsqueda e IA— acaba de publicar en Search Engine Journal tres predicciones sobre hacia dónde va el negocio de las búsquedas en 2027. Las predicciones en sí son interesantes, pero lo que de verdad me ha hecho parar a pensar es su argumento de fondo: **cada vez va a ser más difícil comprobar si algo de esto es cierto**.
 
 ## Predicción 1: el dinero se aleja de quien envía tráfico
 
@@ -37,7 +37,7 @@ Nada nuevo bajo el sol si sigues este blog: es la misma tensión de fondo que ya
 
 Esta es, para mí, la parte más importante del artículo. Forrester advierte de que la industria va a depender cada vez más de **datos inferidos** (extrapolados a partir de muestras) en lugar de **datos contados** (observados de verdad), y que ambos se van a presentar exactamente igual en los dashboards, sin ninguna etiqueta que te diga de dónde sale cada cifra.
 
-Pone un ejemplo muy concreto: Google Analytics mostró tráfico cero durante un día entero sin ninguna explicación, mientras los datos reales se seguían recogiendo con normalidad por debajo. Y menciona otro caso todavía más revelador: Google corrigió en una semana un atributo `_noreferrer` mal implementado en AI Mode, pero un año después seguía circulando la afirmación de que ese comportamiento era "diseño deliberado". Una afirmación sin verificar que se ha ido heredando como si fuera un hecho.
+Pone un ejemplo muy concreto: Google Analytics mostró tráfico cero durante un día entero sin ninguna explicación, mientras los datos reales se seguían recogiendo con normalidad por debajo. Y menciona otro caso todavía más revelador: Google corrigió en una semana un atributo `_noreferrer` mal implementado en AI Mode, pero un año después seguía circulando entre proveedores del sector la idea de que aquello había sido diseño deliberado desde el principio. Una afirmación sin verificar que se ha ido heredando como si fuera un hecho.
 
 ## Mi lectura como consultor
 
