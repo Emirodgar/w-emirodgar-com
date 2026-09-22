@@ -48,13 +48,24 @@ Busca por título o categoría, o consulta la lista completa ordenada por tema y
   <thead>
     <tr><th>Categoría</th><th>Título</th><th>Fecha</th></tr>
   </thead>
-{% assign pubs = site.pages | where_exp: "p", "p.title and p.date" %}
-{% assign pubs = pubs | where_exp: "p", "p.folder == 'seo' or p.folder == 'analitica' or p.folder == 'ia' or p.folder == 'geo' or p.folder == 'programacion' or p.folder == 'marketing' or p.folder == 'estrategicos' or p.folder == 'offtopic'" %}
-{% assign cat_slugs = "seo,analitica,ia,geo,programacion,marketing,estrategicos,offtopic" | split: "," %}
-{% assign cat_names = "SEO,Analítica,IA,GEO,Programación,Marketing,Estratégicos,Offtopic" | split: "," %}
   <tbody id="pl-table-body">
-{% for slug in cat_slugs %}{% assign idx = forloop.index0 %}{% assign cat_name = cat_names[idx] %}{% assign cat_pubs = pubs | where_exp: "p", "p.folder == slug" %}{% for p in cat_pubs %}    <tr data-cat="{{ cat_name }}" data-date="{{ p.date }}" data-modified="{{ p.date_modified }}"><td class="pl-col-cat"><span class="pl-badge-cat">{{ cat_name }}</span></td><td class="pl-col-title"><a href="{{ p.url }}">{{ p.title }}</a></td><td class="pl-col-date">{{ p.date }}</td></tr>
-{% endfor %}{% endfor %}  </tbody>
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "seo" %}    <tr data-cat="SEO" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}"><td class="pl-col-cat"><span class="pl-badge-cat">SEO</span></td><td class="pl-col-title"><a href="{{ page.url }}">{{ page.title }}</a></td><td class="pl-col-date">{{ page.date }}</td></tr>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "analitica" %}    <tr data-cat="Analítica" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}"><td class="pl-col-cat"><span class="pl-badge-cat">Analítica</span></td><td class="pl-col-title"><a href="{{ page.url }}">{{ page.title }}</a></td><td class="pl-col-date">{{ page.date }}</td></tr>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "ia" %}    <tr data-cat="IA" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}"><td class="pl-col-cat"><span class="pl-badge-cat">IA</span></td><td class="pl-col-title"><a href="{{ page.url }}">{{ page.title }}</a></td><td class="pl-col-date">{{ page.date }}</td></tr>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "geo" %}    <tr data-cat="GEO" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}"><td class="pl-col-cat"><span class="pl-badge-cat">GEO</span></td><td class="pl-col-title"><a href="{{ page.url }}">{{ page.title }}</a></td><td class="pl-col-date">{{ page.date }}</td></tr>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "programacion" %}    <tr data-cat="Programación" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}"><td class="pl-col-cat"><span class="pl-badge-cat">Programación</span></td><td class="pl-col-title"><a href="{{ page.url }}">{{ page.title }}</a></td><td class="pl-col-date">{{ page.date }}</td></tr>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "marketing" %}    <tr data-cat="Marketing" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}"><td class="pl-col-cat"><span class="pl-badge-cat">Marketing</span></td><td class="pl-col-title"><a href="{{ page.url }}">{{ page.title }}</a></td><td class="pl-col-date">{{ page.date }}</td></tr>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "estrategicos" %}    <tr data-cat="Estratégicos" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}"><td class="pl-col-cat"><span class="pl-badge-cat">Estratégicos</span></td><td class="pl-col-title"><a href="{{ page.url }}">{{ page.title }}</a></td><td class="pl-col-date">{{ page.date }}</td></tr>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "offtopic" %}    <tr data-cat="Offtopic" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}"><td class="pl-col-cat"><span class="pl-badge-cat">Offtopic</span></td><td class="pl-col-title"><a href="{{ page.url }}">{{ page.title }}</a></td><td class="pl-col-date">{{ page.date }}</td></tr>
+{% endif %}{% endfor %}
+  </tbody>
 </table>
 </div>
 
