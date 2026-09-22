@@ -13,8 +13,6 @@ permalink: kiro-ide-amazon-revolucion-programacion
 
 ---
 
-# Kiro: el IDE de Amazon que quiere revolucionar la programación con IA
-
 **Olvídate de los asistentes que solo completan código. La nueva herramienta de Amazon se centra en objetivos, requisitos y en entender el "porqué" de cada proyecto.**
 
 El mundo de la inteligencia artificial avanza a un ritmo que asusta, y uno de los campos donde más está impactando es en el desarrollo de software. Ya nos habíamos acostumbrado a herramientas como Copilot, que nos sugieren líneas de código, pero Amazon parece querer ir un paso más allá con Kiro, su nuevo IDE (Entorno de Desarrollo Integrado).

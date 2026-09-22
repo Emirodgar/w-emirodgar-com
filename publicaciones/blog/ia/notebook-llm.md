@@ -15,8 +15,6 @@ permalink: notebook-lm-google-ia-investigacion
 
 ---
 
-# Notebook LM: la IA de Google para poner orden en tu caos de información
-
 **Deja de ahogarte en PDFs, vídeos y notas. Te explico cómo usar esta herramienta gratuita para convertir tus fuentes en ideas claras y accionables.**
 
 El problema ya no es encontrar información, es sobrevivir a ella. Todos lo hemos vivido: tienes el ordenador a reventar de PDFs, informes, transcripciones de YouTube, hilos de Reddit y veinte pestañas del navegador abiertas que te miran con desprecio.

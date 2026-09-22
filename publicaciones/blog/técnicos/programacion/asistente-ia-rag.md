@@ -13,8 +13,6 @@ permalink: /crear-asistente-conocimiento-ia-rag/
 
 ---
 
-# Cómo crear tu propio asistente de conocimiento con IA (y por qué deberías)
-
 **Descubre qué es la tecnología RAG y cómo te permite construir un "cerebro digital" que lee, entiende y responde preguntas sobre todos tus documentos.**
 
 Seguro que te suena: acumulas cientos de PDFs, artículos, capturas de pantalla y notas sueltas con la esperanza de leerlos "más tarde". Al final, el 99 % de esa información se queda en el olvido. ¿Y si pudieras tener un asistente personal que no solo lo hubiera leído todo, sino que además lo recordara y te diera respuestas exactas al momento?

@@ -13,8 +13,6 @@ permalink: seo-tecnico-en-la-era-de-la-inteligencia-artificial
 
 ---
 
-# SEO técnico en la era de la inteligencia artificial
-
 El **[SEO técnico](https://emirodgar.com/seo-tecnico)** ya no se trata solo de optimizar tu web para Google. Hoy también tienes que pensar en una nueva generación de “visitantes”: **los modelos de inteligencia artificial** como ChatGPT, Gemini o Perplexity. Estos sistemas rastrean la web para generar sus respuestas, pero no funcionan igual que Google.  
 
 Si quieres que tu contenido esté presente en estas plataformas, necesitas conocer sus particularidades y adaptar tu estrategia.

@@ -13,8 +13,6 @@ permalink: enriquecer-busquedas-tradicionales-ia
 
 ---
 
-# Cómo enriquecer las búsquedas tradicionales para sacarles partido en la era de la IA
-
 El auge de la **búsqueda con inteligencia artificial** está cambiando por completo la forma en la que los usuarios interactúan con la información. Lo que antes era una consulta rápida en Google, ahora se convierte en una conversación mucho más rica y personalizada.  
 
 La buena noticia es que las **búsquedas tradicionales aún pueden ser útiles en este nuevo escenario**, siempre que sepamos cómo enriquecerlas con datos de persona y contexto.

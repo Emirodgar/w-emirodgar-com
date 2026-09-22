@@ -13,8 +13,6 @@ permalink: afecta-la-eleccion-del-dominio-de-nivel-superior-tld-al-seo
 
 ---
 
-# ¿Afecta la elección del dominio de nivel superior (TLD) al SEO?
-
 Elegir un buen nombre de dominio no solo consiste en que sea fácil de recordar o que represente bien a tu proyecto. **La extensión del dominio, conocida como TLD (Top Level Domain), también puede tener un impacto en SEO**. Y aunque muchas veces se pasa por alto, es un detalle que conviene tener en cuenta desde el principio.
 
 ## ¿Qué es un TLD y por qué importa en SEO?

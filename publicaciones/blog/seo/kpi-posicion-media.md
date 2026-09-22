@@ -13,8 +13,6 @@ permalink: posicion-media-search-console-kpi
 
 ---
 
-# Por qué la posición media en Search Console no es un buen indicador de rendimiento
-
 La **posición media** en Google Search Console es uno de esos datos que, a primera vista, parecen muy útiles. Sin embargo, confiar en ella como si fuera una métrica de rendimiento es un error bastante común.  
 
 En este artículo voy a contarte **por qué la posición media puede engañarte** y cómo deberías interpretarla de manera correcta para no sacar conclusiones equivocadas.

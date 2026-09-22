@@ -26,14 +26,6 @@ Listado de publicaciones sobre SEO, IA aplicada y transformación digital
   </ul>
 </nav>
 
-## Últimas publicaciones
-
-Las 10 publicaciones más recientes, incluyendo tanto artículos nuevos como los últimos actualizados.
-
-<div id="pl-latest-list" class="pl-latest-list">
-<noscript>Activa JavaScript para ver aquí las publicaciones más recientes. Mientras tanto, puedes consultar <a href="#todas-las-publicaciones">todas las publicaciones</a> en la tabla de abajo.</noscript>
-</div>
-
 <h2 id="todas-las-publicaciones">Todas las publicaciones</h2>
 
 Busca por título o categoría, o consulta la lista completa ordenada por tema y fecha.
@@ -78,12 +70,6 @@ Busca por título o categoría, o consulta la lista completa ordenada por tema y
 .pub-categorias__lista li { margin: 0; }
 .pub-categorias__lista a { display: inline-block; padding: 8px 16px; border-radius: 999px; background: #f0f0f0; border: 1px solid #e0e0e0; color: #333; text-decoration: none; font-family: Roboto, sans-serif; font-size: 14px; font-weight: 600; transition: background-color .2s ease, color .2s ease, border-color .2s ease; }
 .pub-categorias__lista a:hover { background: #333; border-color: #333; color: #fff; text-decoration: none; }
-
-.pl-latest-list { display: flex; flex-direction: column; margin: 12px 0 32px; border-top: 1px solid #e6e6e6; }
-.pl-latest-item { display: block; padding: 14px 0; border-bottom: 1px solid #e6e6e6; }
-.pl-latest-eyebrow { display: block; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: #888; margin-bottom: 4px; }
-.pl-latest-title { display: block; font-size: 16px; font-weight: 600; color: #333; line-height: 1.4; text-decoration: none; }
-.pl-latest-title:hover { color: #36a749; text-decoration: underline; }
 
 .pl-search-wrap { position: sticky; top: 0; background: #fff; padding: 14px 0 10px; z-index: 5; border-bottom: 1px solid #eee; margin-bottom: 4px; }
 .pl-search-input { width: 100%; box-sizing: border-box; padding: 12px 16px; font-size: 16px; border: 1px solid #ccc; border-radius: 6px; font-family: Roboto, sans-serif; }
@@ -167,31 +153,6 @@ Busca por título o categoría, o consulta la lista completa ordenada por tema y
     it.tr.querySelector('.pl-col-date').textContent = formatDate(it.latestDate) + (it.updated ? ' (act.)' : '');
     tbody.appendChild(it.tr);
   });
-
-  // Últimas 10 publicaciones (nuevas o actualizadas)
-  var latest = items.slice().sort(function (a, b) { return b.latestDate - a.latestDate; }).slice(0, 10);
-  var latestWrap = document.getElementById('pl-latest-list');
-  if (latestWrap) {
-    latestWrap.innerHTML = '';
-    latest.forEach(function (it) {
-      var link = it.tr.querySelector('a');
-      var item = document.createElement('div');
-      item.className = 'pl-latest-item';
-
-      var eyebrow = document.createElement('span');
-      eyebrow.className = 'pl-latest-eyebrow';
-      eyebrow.textContent = it.cat + ' · ' + (it.updated ? 'Actualizado' : 'Publicado') + ' el ' + formatDate(it.latestDate);
-
-      var title = document.createElement('a');
-      title.className = 'pl-latest-title';
-      title.href = link.getAttribute('href');
-      title.textContent = link.textContent;
-
-      item.appendChild(eyebrow);
-      item.appendChild(title);
-      latestWrap.appendChild(item);
-    });
-  }
 
   // Buscador en vivo
   var input = document.getElementById('pl-search-input');
