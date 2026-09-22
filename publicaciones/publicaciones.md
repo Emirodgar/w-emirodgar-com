@@ -72,11 +72,18 @@ Busca por título o categoría, o consulta la lista completa ordenada por tema y
 <p id="pl-no-results" class="pl-no-results" style="display:none;">No se han encontrado publicaciones con ese criterio de búsqueda.</p>
 
 <style>
+.pub-categorias { margin: 18px 0 28px; }
+.pub-categorias__label { display: block; margin-bottom: 10px; font-family: Roboto, sans-serif; font-size: 14px; color: #555; }
+.pub-categorias__lista { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.pub-categorias__lista li { margin: 0; }
+.pub-categorias__lista a { display: inline-block; padding: 8px 16px; border-radius: 999px; background: #f0f0f0; border: 1px solid #e0e0e0; color: #333; text-decoration: none; font-family: Roboto, sans-serif; font-size: 14px; font-weight: 600; transition: background-color .2s ease, color .2s ease, border-color .2s ease; }
+.pub-categorias__lista a:hover { background: #333; border-color: #333; color: #fff; text-decoration: none; }
+
 .pl-latest-list { display: flex; flex-direction: column; margin: 12px 0 32px; border-top: 1px solid #e6e6e6; }
-.pl-latest-item { display: block; padding: 14px 0; border-bottom: 1px solid #e6e6e6; text-decoration: none; color: inherit; }
-.pl-latest-item:hover .pl-latest-title { color: #36a749; text-decoration: underline; }
+.pl-latest-item { display: block; padding: 14px 0; border-bottom: 1px solid #e6e6e6; }
 .pl-latest-eyebrow { display: block; font-family: Roboto, sans-serif; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: #888; margin-bottom: 4px; }
-.pl-latest-title { display: block; font-size: 16px; font-weight: 600; color: #333; line-height: 1.4; }
+.pl-latest-title { display: block; font-size: 16px; font-weight: 600; color: #333; line-height: 1.4; text-decoration: none; }
+.pl-latest-title:hover { color: #36a749; text-decoration: underline; }
 
 .pl-search-wrap { position: sticky; top: 0; background: #fff; padding: 14px 0 10px; z-index: 5; border-bottom: 1px solid #eee; margin-bottom: 4px; }
 .pl-search-input { width: 100%; box-sizing: border-box; padding: 12px 16px; font-size: 16px; border: 1px solid #ccc; border-radius: 6px; font-family: Roboto, sans-serif; }
@@ -85,12 +92,12 @@ Busca por título o categoría, o consulta la lista completa ordenada por tema y
 
 .pl-table-wrap { margin-top: 8px; }
 .pl-table { width: 100%; border-collapse: collapse; font-family: Roboto, sans-serif; font-size: 15px; }
-.pl-table thead th { text-align: left; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: #888; padding: 8px 10px; border-bottom: 2px solid #ddd; }
+.pl-table thead th { text-align: left; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; background: #f2f2f2; color: #333; padding: 10px; border-bottom: 2px solid #ccc; border-top: 1px solid #ccc; }
 .pl-table tbody td { padding: 10px; border-bottom: 1px solid #eee; vertical-align: top; }
 .pl-table tbody tr:hover { background: #fafafa; }
 .pl-col-date { white-space: nowrap; color: #777; font-size: 13px; text-align: right; width: 140px; }
 .pl-col-cat { width: 110px; }
-.pl-col-title a { color: #333; text-decoration: none; font-weight: 600; }
+.pl-col-title a { color: #333; text-decoration: none; font-weight: 400; }
 .pl-col-title a:hover { color: #36a749; text-decoration: underline; }
 
 .pl-badge-cat { display: inline-block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; padding: 3px 8px; border-radius: 4px; background: #eef5ef; color: #2e8b3d; white-space: nowrap; }
@@ -168,21 +175,21 @@ Busca por título o categoría, o consulta la lista completa ordenada por tema y
     latestWrap.innerHTML = '';
     latest.forEach(function (it) {
       var link = it.tr.querySelector('a');
-      var a = document.createElement('a');
-      a.href = link.getAttribute('href');
-      a.className = 'pl-latest-item';
+      var item = document.createElement('div');
+      item.className = 'pl-latest-item';
 
       var eyebrow = document.createElement('span');
       eyebrow.className = 'pl-latest-eyebrow';
       eyebrow.textContent = it.cat + ' · ' + (it.updated ? 'Actualizado' : 'Publicado') + ' el ' + formatDate(it.latestDate);
 
-      var title = document.createElement('span');
+      var title = document.createElement('a');
       title.className = 'pl-latest-title';
+      title.href = link.getAttribute('href');
       title.textContent = link.textContent;
 
-      a.appendChild(eyebrow);
-      a.appendChild(title);
-      latestWrap.appendChild(a);
+      item.appendChild(eyebrow);
+      item.appendChild(title);
+      latestWrap.appendChild(item);
     });
   }
 
