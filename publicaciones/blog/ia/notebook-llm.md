@@ -9,7 +9,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 25-09-2025
-date_modified: 17-09-2026
+date_modified: 22-09-2026
 folder: ia
 permalink: notebook-lm-google-ia-investigacion
 
@@ -80,6 +80,19 @@ Si tu notebook pasa de 5 fuentes, la herramienta las etiqueta automáticamente p
 Desde el 19 de agosto de 2026, los notebooks se están integrando dentro del Modo IA de la Búsqueda de Google, sincronizándose con la app de Gemini. La línea entre "buscar" e "investigar con tus propias fuentes" cada vez es más fina.
 
 **Un matiz importante**: estas novedades han empezado a desplegarse primero para usuarios de Google AI Ultra y clientes de Workspace con acceso ampliado a IA, no para todo el mundo desde el primer día. Google ya ha confirmado que las llevará también a la versión Pro, pero si no te aparece todavía, no es que hagas algo mal.
+
+### Nuevas herramientas de estudio (septiembre 2026)
+
+A mediados de septiembre de 2026, Google ha añadido una tanda de funciones pensadas específicamente para estudiantes y para quien usa la herramienta como método de estudio, no solo de investigación:
+
+* **Conversaciones de voz en tiempo real**: desde la app móvil puedes hablar con tus notas en casi 100 idiomas. Cada respuesta sigue ancladas a tus fuentes, puedes pedir explicaciones paso a paso, hacer preguntas de seguimiento e interrumpir en cualquier momento simplemente hablando, como en una conversación real.
+* **Grabador de audio integrado**: permite capturar conferencias o grabar tus propios pensamientos desde el móvil. Esas grabaciones se convierten automáticamente en una fuente más, citable y editable como cualquier otro documento.
+* **Resúmenes interactivos con más formatos de cuestionario**: además de los resúmenes de aprendizaje con flashcards e infografías que ya existían, ahora se suman preguntas de respuesta corta, selección múltiple y rellenar espacios en blanco.
+* **Vídeos educativos cortos**: genera vídeos de aproximadamente 60 segundos en más de 80 idiomas, combinando narración con animaciones pensadas para explicar temas complejos de un vistazo.
+
+El despliegue es escalonado: las conversaciones de voz llegan primero a Google AI Ultra (con otros planes "próximamente"), el grabador de audio se activa en días, y los resúmenes interactivos se extienden a todos los usuarios en las semanas siguientes.
+
+Además, Google ha lanzado una oferta específica para estudiantes: en Estados Unidos, los universitarios pueden acceder a un año gratis de **Google AI Pro** (valorado en 19,99 $/mes) con límites de uso 4 veces superiores a los normales. En más de 140 mercados internacionales, la oferta es Google AI Plus gratis con el doble de límites. Ambas promociones están disponibles hasta el 31 de diciembre de 2026.
 
 
 ## ¿Qué puedes crear en el "Studio" para dar vida a tu investigación?
