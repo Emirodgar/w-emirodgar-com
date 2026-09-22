@@ -76,6 +76,19 @@ Listado de publicaciones sobre SEO, IA aplicada y transformación digital
 </ul>
 
 
+## <a name="geo"></a> Publicaciones de GEO / Transformación Digital
+
+<ul>
+{% for page in site.pages %}
+{% if page.title != null  %}
+	{% if page.folder== "geo" %}
+	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+	{% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+
 ## <a name="programacion"></a> Publicaciones de Programación
 
 <ul>
