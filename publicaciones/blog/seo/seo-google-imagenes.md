@@ -88,6 +88,14 @@ Además de todo lo anterior, Google también valora aspectos como:
 
 Todo esto forma parte de una visión mucho más sofisticada del **[SEO técnico](https://emirodgar.com/seo-tecnico)** aplicado a imágenes.
 
+## ¿Cómo mido ahora el rendimiento real de mis imágenes?
+
+Hasta hace poco, todo lo anterior era terreno de suposición razonada: sabíamos qué señales valoraba Google, pero no teníamos forma de ver cuánto tráfico te llegaba realmente desde búsqueda visual. Eso acaba de cambiar. Google ha lanzado en Search Console el informe **"Búsqueda multimodal en la Web"**, que añade un filtro de tipo de búsqueda "multimodal" a tus informes de rendimiento.
+
+Con él puedes aislar las impresiones y clics que llegan específicamente desde **Google Lens, Circle to Search en Android, subida de imágenes o la función "Buscar con esta imagen" de Chrome**, tanto en resultados de búsqueda normales como en funciones de IA generativa. Si además gestionas perfiles de plataforma (YouTube, Instagram, TikTok), estas mismas métricas también están disponibles ahí.
+
+Si tienes una web con mucho contenido visual, este filtro es el primer dato real —no una suposición— de si tu trabajo de SEO de imágenes se está traduciendo en tráfico. Y si en tu equipo llevan tiempo sin priorizar hacer las imágenes más cuidadas e indexables, esta es la comprobación que necesitabas para justificarlo con datos.
+
 ## ¿Qué puedes hacer tú?
 
 Si quieres mejorar el SEO de tus imágenes, céntrate en estos puntos:

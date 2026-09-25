@@ -39,6 +39,11 @@ En cierta medida esto tiene sentido. Puede que tu imagen ayude a complementar el
 
 Las filtraciones del Content Warehouse han confirmado además [muchos más factores de los que sospechábamos sobre cómo Google clasifica las imágenes](https://emirodgar.com/como-google-clasifica-imagenes), desde la detección de la fuente original hasta la calidad visual.
 
+## Cómo medir el tráfico que te llega por búsqueda visual
+
+Todo este artículo habla de cómo generar tráfico desde búsqueda de imágenes, pero hasta ahora era difícil aislar cuánto de ese tráfico venía realmente de ahí. Google acaba de resolver ese problema: Search Console tiene ya un informe de **búsqueda multimodal en la Web**, con un filtro de tipo de búsqueda "multimodal" en tus informes de rendimiento.
+
+Con él ves las impresiones y clics que llegan específicamente desde Google Lens, Circle to Search en Android, subida de imágenes o "Buscar con esta imagen" de Chrome, tanto en resultados de búsqueda normales como en funciones de IA generativa (y también para perfiles de YouTube, Instagram o TikTok, si los gestionas). Te lo cuento con más detalle, junto a otros factores de clasificación de imágenes, en [cómo clasifica Google las imágenes en sus resultados](https://emirodgar.com/como-google-clasifica-imagenes).
 
 ## Las imágenes y AMP
 
