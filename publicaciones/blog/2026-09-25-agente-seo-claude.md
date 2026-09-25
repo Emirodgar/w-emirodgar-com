@@ -35,6 +35,8 @@ Aquí es donde el proceso se vuelve realmente potente. Conectando distintas fuen
 
 Entre las opciones disponibles: Semrush MCP, Ahrefs, Google Analytics, Search Console, DataForSEO y varias más. Si no tienes claro qué es exactamente el MCP o cómo funciona por debajo, lo expliqué con detalle en [qué es el Protocolo de Contexto de Modelo (MCP)](https://emirodgar.com/que-es-mcp): en resumen, es el estándar que permite que Claude "hable" con esas herramientas externas sin que tengas que copiar y pegar datos entre pestañas.
 
+Y si tu agente no va a usar un conector, sino que va a leer páginas directamente (por ejemplo, para analizar competencia), ten en cuenta que Claude ya no procesa esa página tal cual: primero pasa por un modelo intermedio que filtra qué es relevante. Lo cuento con detalle en [Claude ya no lee tu web directamente, primero la resume un modelo pequeño](https://emirodgar.com/claude-lee-tu-web-modelo-pequeno), y es algo a tener en cuenta al diseñar los prompts de tu Skill: cuanto más claro dejes qué necesitas extraer de cada página, menos depende el resultado de ese filtro intermedio.
+
 ## 4. Usa Skills en vez de repetir instrucciones
 
 En un proceso agéntico vas a dar las mismas instrucciones una y otra vez. En lugar de escribirlas a mano cada vez, se usan las **Skills**: básicamente un procedimiento (un "SOP") que el agente sigue cada vez que lo invocas. Se crean desde "Personalizar" > "Skills" > "Añadir" > "Crear una Skill".
