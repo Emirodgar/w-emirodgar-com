@@ -74,6 +74,24 @@ El foco de GEO es **tráfico cualificado y efecto en ventas**. No pierdas tiempo
 
 La analítica tradicional sirve —solo que ahora la interpretas desde la óptica de que el usuario ya ha sido “influido” antes de llegar.
 
+## ¿Por qué desconfío de la industria del "AI tracking"?
+
+Antes de que te vendan una herramienta de "visibilidad de marca en IA", quiero dejar claro por qué yo desconfío de casi todo lo que promete medir en este terreno. Son cinco razones muy concretas:
+
+1. **Las IAs no dan la misma respuesta dos veces.** Marca distinta, orden distinto, sentimiento distinto, nivel de recomendación distinto. Necesitarías preguntar lo mismo a ChatGPT más de 1.000 veces para obtener dos respuestas con la misma lista de marcas en el mismo orden (y decenas de miles para que coincida también el sentimiento sobre cada una).
+
+2. **No existe una fuente de verdad sobre el volumen de prompts.** Los paneles de clickstream son lo más parecido que tenemos, pero solo ven el primer prompt, no ven qué pasa dentro de una app, no ven las peticiones que llegan por API, y no ven nada de lo que ocurre dentro de muchas cuentas de pago o con sesión iniciada (por ejemplo, detrás de un firewall corporativo). Y las empresas de AI tracking ni siquiera dicen de qué proveedores compran esos datos; no me sorprendería que alguna esté mintiendo directamente sobre si usa paneles de clickstream o no.
+
+3. **Cada interacción previa cambia la respuesta que da la IA.** Incluso los experimentos que demuestran que se puede sacar un "% de visibilidad de marca" no pueden tener en cuenta el grado de personalización que hay detrás de cada respuesta.
+
+4. **Cualquiera que diga que mide influencia a partir de citaciones de URLs tiene que demostrar que el modelo usa esas citas para construir la respuesta, y no como justificación a posteriori.** Que yo sepa, ningún estudio lo ha confirmado, y varios apuntan a que va de "confuso" a "directamente falso".
+
+5. **No hay rastro de auditoría.** No hay forma de probar que un prompt concreto recomendó una marca. No hay forma de probar que, si lo hizo, generó una venta incremental. No hay forma de saber qué impacto tuvo una conversación concreta en una venta concreta. Incluso la correlación entre encuestas de "¿cómo nos conociste?" o la subida de un % de visibilidad en un informe y las ventas por tráfico "directo" es, en el mejor de los casos, muy débil. Si estas son las métricas en las que confías, ¿por qué no aceptas esa misma lógica difusa para otros canales? ¿Por qué RRPP, eventos, comunicación, contenido o el SEO orgánico tienen que demostrarlo todo a prueba de balas y la IA se libra?
+
+**Cómo lo juego yo:** invierto y mido menciones, vigilo el lift incremental, e ignoro el resto.
+
+*P.D. Nunca he visto un estudio serio y controlado que muestre la subida de un % de visibilidad de marca en una herramienta de IA —con una marca que apague el resto de canales para evitar contaminación— correlacionado con la subida de ventas. Y eso que recuerdo la cantidad de estudios de ese tipo que tuvieron que publicarse entre 2004 y 2014 para que el SEO se ganase la inversión que tiene hoy. Es para volverse loco.*
+
 ## ¿Cómo pasar de reaccionar a controlar (react mode → control mode)?
 
 Sin una metodología de tests, todo es conjetura. Un programa GEO bien diseñado te lleva a:
