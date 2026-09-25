@@ -28,7 +28,7 @@ Listado de publicaciones sobre SEO, IA aplicada y transformación digital
 
 <h2 id="todas-las-publicaciones">Todas las publicaciones</h2>
 
-Busca por título o categoría, o consulta la lista completa ordenada por tema y fecha.
+Busca por título o categoría, o consulta la lista completa ordenada por fecha, de más reciente a más antigua.
 
 <div class="pl-search-wrap">
   <input type="search" id="pl-search-input" class="pl-search-input" placeholder="Buscar por título o categoría..." aria-label="Buscar publicaciones" autocomplete="off">
@@ -138,17 +138,8 @@ Busca por título o categoría, o consulta la lista completa ordenada por tema y
     };
   }).filter(function (it) { return it.published; });
 
-  // Reordena las filas ya renderizadas: categoría (orden de aparición) + fecha descendente
-  var byCat = {}, catOrder = [];
-  items.forEach(function (it) {
-    if (!byCat[it.cat]) { byCat[it.cat] = []; catOrder.push(it.cat); }
-    byCat[it.cat].push(it);
-  });
-  catOrder.forEach(function (cat) {
-    byCat[cat].sort(function (a, b) { return b.latestDate - a.latestDate; });
-  });
-  var ordered = [];
-  catOrder.forEach(function (cat) { ordered = ordered.concat(byCat[cat]); });
+  // Reordena las filas ya renderizadas por fecha descendente (última publicación o modificación primero)
+  var ordered = items.slice().sort(function (a, b) { return b.latestDate - a.latestDate; });
   ordered.forEach(function (it) {
     it.tr.querySelector('.pl-col-date').textContent = formatDate(it.latestDate) + (it.updated ? ' (act.)' : '');
     tbody.appendChild(it.tr);
