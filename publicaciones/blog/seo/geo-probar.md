@@ -105,7 +105,7 @@ Esto convierte decisiones basadas en intuición en decisiones basadas en datos.
 
 ## ¿Qué limitaciones existen hoy?
 
-- **Opacidad de los modelos:** no sabemos exactamente cómo la IA decide priorizar fuentes.  
+- **Opacidad de los modelos:** no sabemos exactamente cómo la IA decide priorizar fuentes. En el caso de Claude, una filtración reciente ha dado alguna pista: [ya no lee tu web directamente, primero la resume un modelo pequeño](https://emirodgar.com/claude-lee-tu-web-modelo-pequeno) que decide qué es relevante antes de que el modelo grande vea nada.  
 - **Modelos con diferente comportamiento:** algunos modelos usan índices propios (como [Perplexity](https://emirodgar.com/seo-perplexity)), otros visitan páginas y muchos no ejecutan JavaScript.  
 - **Feedback lento en modelo entrenado:** cambios en el cuerpo “aprendido” de un LLM son raros y no se miden fácilmente; por eso GEO se centra en lo que la IA recupera en tiempo real (RAG).
 

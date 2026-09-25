@@ -28,6 +28,8 @@ Recolectan datos para entrenar modelos o alimentar búsquedas generativas. Bloqu
 
 Si no tenéis una estrategia activa de GEO que necesite que os citen en respuestas de IA, podéis mantener esta categoría bloqueada sin ningún riesgo para el SEO tradicional.
 
+Ojo, que ClaudeBot es el rastreador que entrena el modelo offline, distinto de WebFetch, la herramienta que Claude usa en tiempo real cuando alguien le pide que lea una URL durante una conversación. Sobre cómo ha cambiado ese segundo mecanismo, tienes más detalle en [Claude ya no lee tu web directamente, primero la resume un modelo pequeño](https://emirodgar.com/claude-lee-tu-web-modelo-pequeno).
+
 ## 2. Herramientas SEO: ¿desbloquear o dejar fuera?
 
 Rastrean la web para construir bases de datos de backlinks, keywords o auditorías. No afectan a las búsquedas de los usuarios finales; bloquearlas solo impide que herramientas externas —o la competencia— os analicen.

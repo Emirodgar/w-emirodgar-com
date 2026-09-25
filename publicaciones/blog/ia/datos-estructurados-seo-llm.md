@@ -53,6 +53,8 @@ Imagina dos escenarios:
 
 El LLM nunca vio el `schema`, pero **el texto que recibió fue infinitamente mejor gracias a que el sistema intermedio sí lo utilizó**.
 
+Tenemos ya un ejemplo concreto de este "sistema intermedio" en la práctica: según una filtración reciente del system prompt de Claude Opus 5.5, ahora es literalmente **un modelo pequeño el que lee tu página y decide qué contarle al modelo grande**, que nunca llega a ver tu web directamente. Lo cuento con detalle en [Claude ya no lee tu web directamente, primero la resume un modelo pequeño](https://emirodgar.com/claude-lee-tu-web-modelo-pequeno).
+
 ***
 
 ## ¿Cómo afecta esto a mi estrategia SEO?

@@ -27,6 +27,8 @@ El informe de Muck Rack, que analizó más de un millón de interacciones con bo
 
 Esto es un cambio fundamental. La IA parece priorizar la información que considera de mayor calidad, más natural y, sobre todo, proveniente de **fuentes orgánicas y fiables**. Esto nos obliga a replantearnos la forma en que pensamos sobre el contenido y su distribución. Ya no se trata solo de optimizar para Google, sino de crear un contenido tan valioso que sea digno de ser referenciado por una IA.
 
+Y "leer" tu página cada vez significa algo más indirecto de lo que parece: una filtración reciente del system prompt de Claude Opus 5.5 muestra que, al menos en su caso, [ya no procesa tu web directamente, sino un resumen que filtra un modelo pequeño intermedio](https://emirodgar.com/claude-lee-tu-web-modelo-pequeno) antes de que el modelo grande vea nada.
+
 
 ### ¿Por qué es tan importante para mi marca o negocio?
 

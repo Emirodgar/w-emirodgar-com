@@ -23,6 +23,8 @@ Google lleva años afinando cómo procesa las webs, incluso ejecutando JavaScrip
 
 Esto significa que **lo que no sea visible en el código de la página puede no existir para ellos**. Y si tu contenido clave se pierde, difícilmente aparecerá en las respuestas que generan.
 
+Y en el caso de Claude, ese rastreo básico ya no es el único filtro: según una filtración reciente del system prompt de Opus 5.5, el markdown de tu página pasa antes por un modelo pequeño que decide qué es relevante, y el modelo grande solo ve esa respuesta filtrada, nunca la página completa. Te lo explico con detalle en [Claude ya no lee tu web directamente, primero la resume un modelo pequeño](https://emirodgar.com/claude-lee-tu-web-modelo-pequeno).
+
 ## ¿Cómo manejan las IAs el contenido en JavaScript?
 
 Aquí está una de las mayores diferencias:  
