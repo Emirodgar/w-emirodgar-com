@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html dir="ltr" lang="es">
 <head>
@@ -638,32 +640,85 @@ Cada vez más consultas se resuelven con agentes de IA que deciden por el usuari
 
     <div class="pub-latest-band">
       <div class="container clearfix">
-        <div class="pub-latest-grid">
-
-          <a href="https://emirodgar.com/google-paga-editores-ia" class="pub-latest-card">
-            <span class="pub-latest-eyebrow">GEO · 22 sep 2026</span>
-            <h3 class="pub-latest-title">Google empieza a pagar a los editores por su contenido en IA (y no todos están contentos)</h3>
-          </a>
-
-          <a href="https://emirodgar.com/segmentar-bloqueo-bots" class="pub-latest-card">
-            <span class="pub-latest-eyebrow">SEO · 22 sep 2026</span>
-            <h3 class="pub-latest-title">Bloquear bots sin criterio puede salirte más caro que dejarlos pasar</h3>
-          </a>
-
-          <a href="https://emirodgar.com/copy-pagina-producto-ia" class="pub-latest-card">
-            <span class="pub-latest-eyebrow">GEO · 18 sep 2026</span>
-            <h3 class="pub-latest-title">¿Sigue importando el copy de tus páginas de producto si los agentes de IA leen feeds y schema?</h3>
-          </a>
-
-          <a href="https://emirodgar.com/predicciones-seo-2027" class="pub-latest-card">
-            <span class="pub-latest-eyebrow">GEO · 18 sep 2026</span>
-            <h3 class="pub-latest-title">3 predicciones para el SEO en 2027 (y por qué no vas a poder comprobarlas)</h3>
-          </a>
-
-        </div>
+        <div class="pub-latest-grid" id="pub-latest-grid"></div>
         <div class="topmargin center"><a href="https://emirodgar.com/publicaciones" class="button button-border button-circle fw-semibold">Ver todas las publicaciones</a></div>
       </div>
     </div>
+
+    <div id="pub-latest-source" style="display:none" aria-hidden="true">
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "seo" %}<span data-cat="SEO" data-url="{{ page.url }}" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}" data-title="{{ page.title | escape }}"></span>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "analitica" %}<span data-cat="Analítica" data-url="{{ page.url }}" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}" data-title="{{ page.title | escape }}"></span>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "ia" %}<span data-cat="IA" data-url="{{ page.url }}" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}" data-title="{{ page.title | escape }}"></span>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "geo" %}<span data-cat="GEO" data-url="{{ page.url }}" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}" data-title="{{ page.title | escape }}"></span>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "programacion" %}<span data-cat="Programación" data-url="{{ page.url }}" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}" data-title="{{ page.title | escape }}"></span>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "marketing" %}<span data-cat="Marketing" data-url="{{ page.url }}" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}" data-title="{{ page.title | escape }}"></span>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "estrategicos" %}<span data-cat="Estratégicos" data-url="{{ page.url }}" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}" data-title="{{ page.title | escape }}"></span>
+{% endif %}{% endfor %}
+{% for page in site.pages %}{% if page.title != null and page.date != null and page.folder == "offtopic" %}<span data-cat="Offtopic" data-url="{{ page.url }}" data-date="{{ page.date }}" data-modified="{{ page.date_modified }}" data-title="{{ page.title | escape }}"></span>
+{% endif %}{% endfor %}
+    </div>
+
+    <script>
+    (function () {
+      var MESES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'];
+
+      function parseDate(str) {
+        if (!str) { return null; }
+        var parts = str.split(/[-\/]/);
+        if (parts.length !== 3) { return null; }
+        var d = parseInt(parts[0], 10), m = parseInt(parts[1], 10), y = parseInt(parts[2], 10);
+        if (!d || !m || !y) { return null; }
+        var date = new Date(y, m - 1, d);
+        return isNaN(date.getTime()) ? null : date;
+      }
+
+      function formatDate(date) {
+        return date.getDate() + ' ' + MESES[date.getMonth()] + ' ' + date.getFullYear();
+      }
+
+      var source = document.getElementById('pub-latest-source');
+      var grid = document.getElementById('pub-latest-grid');
+      if (!source || !grid) { return; }
+
+      var items = Array.prototype.slice.call(source.querySelectorAll('span')).map(function (el) {
+        var published = parseDate(el.getAttribute('data-date'));
+        var modified = parseDate(el.getAttribute('data-modified'));
+        var latestDate = (modified && published && modified.getTime() > published.getTime()) ? modified : published;
+        return {
+          url: el.getAttribute('data-url'),
+          cat: el.getAttribute('data-cat'),
+          title: el.getAttribute('data-title'),
+          latestDate: latestDate
+        };
+      }).filter(function (it) { return it.latestDate && it.url && it.title; });
+
+      items.sort(function (a, b) { return b.latestDate - a.latestDate; });
+
+      items.slice(0, 4).forEach(function (it) {
+        var a = document.createElement('a');
+        a.href = it.url;
+        a.className = 'pub-latest-card';
+
+        var eyebrow = document.createElement('span');
+        eyebrow.className = 'pub-latest-eyebrow';
+        eyebrow.textContent = it.cat + ' · ' + formatDate(it.latestDate);
+
+        var title = document.createElement('h3');
+        title.className = 'pub-latest-title';
+        title.textContent = it.title;
+
+        a.appendChild(eyebrow);
+        a.appendChild(title);
+        grid.appendChild(a);
+      });
+    })();
+    </script>
   </div>
 
 </div>
