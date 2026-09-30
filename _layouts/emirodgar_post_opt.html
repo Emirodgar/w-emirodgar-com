@@ -6,7 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Emilio Rodríguez - Emirodgar">    
     <link rel="shortcut icon" href="assets/images/hash.png">
-	{% seo %}
+	{% capture seo_tags %}{% seo %}{% endcapture %}
+	{% if page.date_modified %}
+		{% capture seo_dm_old %}"dateModified":"{{ page.date | date_to_xmlschema }}"{% endcapture %}
+		{% capture seo_dm_new %}"dateModified":"{{ page.date_modified | date_to_xmlschema }}"{% endcapture %}
+		{{ seo_tags | replace: seo_dm_old, seo_dm_new }}
+	{% else %}
+		{{ seo_tags }}
+	{% endif %}
 	{% if page.image== null %}
 		<meta content="https://emirodgar.com/cdn/images/og/emirodgar.png" property="og:image">
 	{% endif %} 
