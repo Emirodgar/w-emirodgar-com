@@ -15,7 +15,7 @@ permalink: google-discover-visibilidad
 
 Discover es ese feed de contenidos que aparece en la app de Google del móvil y en la página de inicio de Chrome, sin que nadie haya escrito nada. Para muchos medios y blogs es una fuente de visitas enorme, y a la vez la más caprichosa: un día entra un pico de tráfico y a la semana siguiente desaparece sin explicación aparente.
 
-He leído varias guías sobre el tema y las he contrastado con la documentación de Google. Esto es lo que me parece aplicable, y también lo que conviene tomar con cuidado.
+Para escribir este post he leído varias guías sobre el tema y las he contrastado con la documentación de Google. Pero no me he quedado ahí: también me baso en mi experiencia trabajando con medios digitales, donde Discover puede ser una de las fuentes de tráfico más grandes. Esto es lo que me parece aplicable, y también lo que conviene tomar con cuidado.
 
 ## Qué tiene de distinto Discover
 
@@ -97,7 +97,25 @@ Aquí las fuentes se contradicen un poco, así que prefiero ser prudente.
 
 Parece razonable que ayude tener una temática coherente, de modo que Google entienda de qué eres referente. Pero la propia documentación aclara que la experiencia se evalúa tema a tema, y que no hay que ser un sitio ultra especializado para aparecer. Mi lectura es que conviene cubrir con constancia los temas en los que tienes algo que decir, sin obsesionarse con un nicho cerrado.
 
-Lo de la actualidad es más claro. Discover premia mucho lo que está de moda ahora, así que si tu sector tiene temas de tendencia, publicar pronto sobre ellos aumenta las opciones. Los contenidos más atemporales también pueden entrar, pero en mi experiencia lo hacen de forma más puntual. Si trabajas en un medio, mira también cómo [AI Overviews está cambiando el tráfico de editores y marcas](https://emirodgar.com/ai-overviews-google-publishers).
+Lo de la actualidad es más claro. Discover premia mucho lo que está de moda ahora, así que si tu sector tiene temas de tendencia, publicar pronto sobre ellos aumenta las opciones. Los contenidos más atemporales también pueden entrar, pero lo habitual es que sea el contenido de actualidad el que más se beneficie. Si trabajas en un medio, mira también cómo [AI Overviews está cambiando el tráfico de editores y marcas](https://emirodgar.com/ai-overviews-google-publishers).
+
+## Lo que he visto en medios digitales
+
+He trabajado SEO en varios periódicos y medios digitales, y hay dos casos de los que recojo en mis [casos de éxito SEO](https://emirodgar.com/casos-exito-seo) que ilustran bien cómo se comporta Discover.
+
+**Un periódico nuevo basado en Angular.** En [el lanzamiento de un periódico digital con Angular](https://emirodgar.com/casos-exito-seo#periodico-angular), Google marcaba un 0 % de URLs con buena experiencia en escritorio y móvil, y eso nos costaba tráfico y acceso a plataformas como Discover. Al conseguir que Google valorase bien la experiencia en móvil, y con una versión AMP de las noticias en ese momento, empezamos a recibir tráfico de Google News y Discover. A medio plazo se convirtieron en la principal fuente de captación orgánica, con días de más de 300.000 clics orgánicos.
+
+**Un medio del motor tras la HCU.** En [el caso de un medio digital afectado por la actualización de contenido útil](https://emirodgar.com/casos-exito-seo#recuperacion-periodico-hcu), el tráfico en Discover se mantuvo un tiempo y desapareció del todo en mayo. Tras meses trabajando rastreo, indexación, contenidos y experiencia de usuario, volvió con la actualización core de agosto y con una frecuencia normalizada, a la vez que se recuperaba la búsqueda.
+
+En [otro medio digital con problemas de SEO técnico](https://emirodgar.com/casos-exito-seo#recuperacion-medio-digital), después de 11 meses de trabajo en la versión móvil, las redirecciones y el EEAT, el tráfico de búsqueda, Discover y News se disparó hasta 5 veces más con la actualización core de septiembre de 2024.
+
+Lo que me llevo de estos casos:
+
+- **Discover y la calidad técnica van de la mano.** La experiencia de usuario y la accesibilidad condicionan que Google te muestre en el feed.
+- **Cuando Google cambia de opinión sobre tu sitio, cambia en todos los canales.** Búsqueda, Discover y News suelen subir o bajar juntos.
+- **Las recuperaciones llevan meses.** En los casos anteriores, el efecto llegó con una actualización core, no de un día para otro.
+
+Son casos concretos de medios con características muy distintas, así que no los tomes como una receta que se cumpla siempre.
 
 ## Cómo medirlo
 
