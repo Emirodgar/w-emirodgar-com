@@ -103,6 +103,16 @@ Discover tiene su propio informe en Google Search Console, con impresiones, clic
 
 Una de las guías fija el CTR habitual entre un 4 y un 6 % y el alto rendimiento entre un 8 y un 12 %. No he podido contrastar esas cifras con datos de Google, así que úsalas, como mucho, de orientación. Compara mejor tu CTR con el de tus propias páginas.
 
+## Discover no sustituye a la base SEO
+
+Un error habitual es tratar Discover como un canal aparte. Los picos de Discover suelen venir acompañados de más visibilidad en el resto de Google, y a la inversa: un sitio con buena base SEO tiene más facilidad para que Google lo entienda, lo rastree y lo considere fiable.
+
+Lo he visto en el rendimiento de Search Console de un proyecto: cuando sube Discover, los resultados de búsqueda suben también, y la gráfica de ambos tiene prácticamente la misma forma.
+
+![Rendimiento en Search Console con subida simultánea de Discover y resultados de búsqueda](https://emirodgar.com/cdn/images/posts/search-console-rendimiento-discover-busqueda.png){:class="img-responsive"}
+
+No digo que una cosa cause la otra, y un pico concreto puede ser puntual. Lo que saco en claro es que no tiene sentido elegir. Además de subir en Discover, tenemos que trabajar para que nuestra base SEO también mejore y poder crecer en todos los ámbitos: indexación limpia, contenido útil, enlazado interno, rendimiento técnico y autoridad. Eso es lo que sostiene el tráfico cuando Discover baja, que baja.
+
 ## Qué no creerse
 
 Un apunte sobre afirmaciones que circulan mucho:
