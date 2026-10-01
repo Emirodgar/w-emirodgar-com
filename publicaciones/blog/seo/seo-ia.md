@@ -36,7 +36,7 @@ Algunos aspectos clave que debemos trabajar:
 Aún es pronto para tener toda la información, pero trabajando los puntos antes mencionados y realizando una monitorización exhaustiva de nuestra presencia en diferentes plataformas podremos ir aprendiendo de lo que funciona y potenciándolo en nuestras estrategias SEO.
 
 Para ello es importante [saber medir el tráfico que nos llega desde las diferentes plataformas de inteligencia artificial](https://newsletter.chuletaseo.com/p/analizar-el-trafico-de-ia-que-llega).
-Para ello recomiendo utilizar el [dashboard gratuito de Looker Studio](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c).
+Para ello recomiendo utilizar el [dashboard gratuito de Looker Studio](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c). Y para ir más allá del tráfico, mira [cómo cruzar el informe de IA generativa de Search Console con datos de negocio](https://emirodgar.com/informe-ia-generativa-search-console).
 
 [![image](https://github.com/user-attachments/assets/e67a2efd-54dd-46b0-8423-0b172c87b52f){:class="img-responsive"}](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c)
 

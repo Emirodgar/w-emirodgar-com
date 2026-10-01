@@ -52,7 +52,7 @@ No me atrevo a hablar de 2027, porque con la rapidez que cambia todo esto sólo 
 - **Diversificar el tráfico**: no depender únicamente de búsqueda orgánica. Email, redes sociales, afiliación y otras fuentes son ahora críticas
 - **Mejorar la experiencia en página**: si alguien llega desde una AI Overview, necesita encontrar valor adicional. Si no lo hay, no vuelve
 - **Usar [datos estructurados](https://emirodgar.com/datos-estructurados-seo-llm)**: ayuda a Google a entender mejor tu contenido y puede mejorar tu posición incluso en síntesis de IA
-- **Monitorizar tu presencia**: saber cuándo y en qué consultas apareces en AI Overviews es fundamental para ajustar la [estrategia SEO](https://emirodgar.com/estrategia-seo)
+- **Monitorizar tu presencia**: saber cuándo y en qué consultas apareces en AI Overviews es fundamental para ajustar la [estrategia SEO](https://emirodgar.com/estrategia-seo). Search Console ya tiene un informe de IA generativa y [te cuento cómo sacarle partido cruzándolo con negocio](https://emirodgar.com/informe-ia-generativa-search-console)
 
 Por desgracia para muchos, las **AI Overviews no desaparecerán**. Google las seguirá expandiendo porque mejoran la experiencia del usuario. Y esto teniendo en cuenta que desde su lanzamiento han sido comedidos y han ido reduciendo progresivamente su aparición, debido principalmente a errores y sentencias judiciales. Tu trabajo como editor o marca es dejar de luchar y aprender a prosperar en este entorno. Intentar sacar ventaja dentro de una situación que de por sí es bastante difícil.
 
