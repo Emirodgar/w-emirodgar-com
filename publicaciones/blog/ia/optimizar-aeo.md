@@ -37,7 +37,7 @@ Las tácticas que mejor funcionan son claras:
 
 - **Landing pages específicas** con información bien estructurada.  
 - **Vídeos en YouTube**, que los modelos de IA consultan cada vez más.  
-- **Participación auténtica en comunidades como Reddit**, evitando el spam y aportando valor real.  
+- **Participación auténtica en comunidades como Reddit**, evitando el spam y aportando valor real. Reddit, junto con Wikipedia y los podcasts, es una de las [fuentes que más citan las IA](https://emirodgar.com/wikipedia-podcasts-reddit-citas-ia).  
 
 Además, un tipo de contenido que suele pasar desapercibido se convierte en oro: **las páginas de ayuda o centros de soporte**. Esas FAQ que muchas veces parecen secundarias ahora pueden ser el contenido con mayor retorno.
 

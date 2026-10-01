@@ -25,7 +25,7 @@ Korobka identifica varios riesgos que van más allá del típico "alguien ha dic
 - **Información desactualizada o directamente falsa**: el modelo repite datos que ya no son ciertos (precios, fundadores, ubicación, política de devoluciones...) porque los aprendió así en algún momento.
 - **Suplantación**: webs, apps o perfiles falsos que se hacen pasar por ti.
 - **Robo de demanda de marca**: un competidor intercepta el tráfico de gente que busca tu marca, vía anuncios o resultados orgánicos.
-- **Fragmentación de contexto**: terceros definen quién eres (directorios, foros, comparativas) sin que tu información oficial pese lo suficiente, y la IA construye su respuesta a partir de esa mezcla.
+- **Fragmentación de contexto**: terceros definen quién eres (directorios, foros, comparativas) sin que tu información oficial pese lo suficiente, y la IA construye su respuesta a partir de esa mezcla. Esos terceros suelen ser [Wikipedia, podcasts y Reddit](https://emirodgar.com/wikipedia-podcasts-reddit-citas-ia), fuentes que conviene trabajar junto con el equipo de comunicación.
 
 El ejemplo que más me ha llamado la atención es el del **"slopsquatting"**: paquetes de software maliciosos registrados con nombres que las IA suelen "alucinar" al generar código. El problema ya no es solo una web falsa, es una vulnerabilidad real en la cadena de suministro de software.
 
