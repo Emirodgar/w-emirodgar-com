@@ -76,6 +76,7 @@ Posicionar una web en varios países no es traducir el contenido y esperar resul
 - **Adaptación cultural del contenido:** modismos, unidades de medida, divisa, referencias legales y de producto propias de cada mercado.
 - **Traducción y localización:** la IA ya compite con la traducción profesional en muchos tipos de contenido, pero el resultado varía mucho según el modelo y el tipo de texto. Un [benchmark reciente de localización inglés-chino](https://emirodgar.com/la-ia-se-acerca-al-rendimiento-humano-en-tareas-complejas) muestra que conviene probar con tu propio contenido y mantener un glosario de términos antes de decidir qué flujo usar.
 - **Link building y autoridad local:** medios, directorios y sitios de referencia son distintos en cada país; una estrategia de enlaces pensada solo para España no construye autoridad en LatAm.
+- **Buscadores distintos de Google:** en mercados como China, el buscador dominante es Baidu, que da más peso que Google a señales de sitio completo (antigüedad del dominio, registro ICP y ubicación del hosting) que a la calidad del idioma de cada página. Un servidor fuera del continente es más lento y Baidu penaliza los sitios lentos. Por eso, antes de invertir en una traducción profesional, conviene resolver el ICP y el hosting en China continental u Hong Kong, que pueden aportar más visibilidad que la diferencia entre una traducción buena y una excelente.
 
 ## Mercados donde trabajo
 
