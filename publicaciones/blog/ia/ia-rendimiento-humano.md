@@ -55,6 +55,22 @@ El estudio señala dos caminos principales para **exprimir al máximo estos mode
 1. **Incrementar el esfuerzo de razonamiento**: dar más margen de procesamiento a los modelos mejora sus resultados en tareas complejas.  
 2. **Optimizar el prompting**: la calidad de las instrucciones es determinante. Un buen prompt puede reducir errores graves. De hecho, con mejores instrucciones, GPT-5 consiguió **eliminar artefactos en PDFs y reducir fallos de formato en un 22%**.
 
+## ¿Y en un caso concreto como la traducción?
+
+En septiembre de 2026 Marcus Pentzek publicó en Search Engine Journal un benchmark de localización de inglés a chino con 774 textos evaluados a ciegas por localizadores nativos. Lo interesante es que el resultado depende mucho del tipo de contenido:
+
+- **Los humanos ganaron en contenido informativo y SEO**, donde mandan la precisión y la terminología. Aun así, en SEO solo superaron en 2,8 puntos al mejor flujo con IA (Qwen o Doubao con posedición humana), una diferencia pequeña.
+- **En marketing, interfaces, contenido técnico y redes sociales quedaron fuera del top 5.** En marketing fueron décimos de 15, a 22,2 puntos del mejor flujo. Los autores creen que el traductor tiende a pulir el texto hacia un registro demasiado formal.
+- **Elegir bien el modelo importó más que la posedición.** Dentro de los modelos chinos, la diferencia entre el mejor y el peor llegó a 22,3 puntos en contenido técnico, mientras que la posedición mejoró la calidad una media de 5,6 puntos. En algunos casos (ChatGPT y Kimi en marketing) la revisión humana incluso empeoró el resultado.
+
+Hay que leerlo con cuidado: el estudio lo hacen dos empresas que venden servicios de localización, mide calidad lingüística y no posicionamiento, y usa versiones de los modelos de diciembre de 2025, que ya se han quedado antiguas. Aun así, refuerza lo que decía antes: no hay un ganador absoluto, depende de la tarea. Y refuerza otra idea, que es probar con tu propio contenido antes de decidir.
+
+## ¿Se nota ya esa productividad en las empresas?
+
+Un benchmark mide qué puede hacer la IA, no lo que consigue una empresa al usarla. Greg Jarboe recoge en Search Engine Journal una encuesta citada por MIT Technology Review a unos 6.000 directivos de cuatro países: alrededor del 90 % decía no haber visto mejoras de productividad por la IA en tres años. Otros datos que cita apuntan en la misma dirección: según Workday, por cada 10 horas que ahorra la IA se pierden unas cuatro corrigiendo resultados flojos, y un estudio de BetterUp Labs y Stanford encontró que el 41 % de los trabajadores había recibido en el último mes contenido de IA de baja calidad (*workslop*) que costaba casi dos horas arreglar.
+
+Esto encaja con el esquema que mostraba GDPval: la IA primero y el experto después solo ahorra tiempo si la primera respuesta es lo bastante buena. Si no, el ahorro desaparece en la revisión. Por eso conviene apuntar las horas a ambos lados: las que se ahorran y las que se dedican a revisar y corregir.
+
 ## ¿Qué podemos concluir?
 
 Los modelos de **IA de última generación están cada vez más cerca del nivel humano** en tareas con valor económico real. Su rendimiento mejora de forma constante y, con las instrucciones adecuadas, pueden ser todavía más precisos.  

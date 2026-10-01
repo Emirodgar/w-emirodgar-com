@@ -74,6 +74,7 @@ Posicionar una web en varios países no es traducir el contenido y esperar resul
 - **Hreflang y señalización a Google:** indicar correctamente qué versión de una página corresponde a qué país e idioma, evitando contenido duplicado entre mercados.
 - **Keyword research por país:** los mismos productos o servicios se buscan con términos distintos en España, México, Colombia o Argentina — un keyword research genérico en español pierde matices locales importantes.
 - **Adaptación cultural del contenido:** modismos, unidades de medida, divisa, referencias legales y de producto propias de cada mercado.
+- **Traducción y localización:** la IA ya compite con la traducción profesional en muchos tipos de contenido, pero el resultado varía mucho según el modelo y el tipo de texto. Un [benchmark reciente de localización inglés-chino](https://emirodgar.com/la-ia-se-acerca-al-rendimiento-humano-en-tareas-complejas) muestra que conviene probar con tu propio contenido y mantener un glosario de términos antes de decidir qué flujo usar.
 - **Link building y autoridad local:** medios, directorios y sitios de referencia son distintos en cada país; una estrategia de enlaces pensada solo para España no construye autoridad en LatAm.
 
 ## Mercados donde trabajo
