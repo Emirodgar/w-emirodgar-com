@@ -59,7 +59,7 @@ Aparte de lo que pide Google, recomiendo:
 - Usar la proporción 16:9 para evitar recortes extraños.
 - Preferir fotos o gráficos propios a imágenes de banco genéricas. Sale mejor en el feed y refuerza que el contenido es original.
 - No meter texto pequeño dentro de la imagen, porque en el móvil no se lee.
-- Declarar la imagen principal con `og:image` y con datos estructurados, que ayudan a que Google elija la correcta.
+- Declarar la imagen principal con `og:image` y con datos estructurados, que ayudan a que Google elija la correcta. Sobre qué hace Google con el schema, tienes [datos estructurados y la IA](https://emirodgar.com/datos-estructurados-seo-llm).
 
 ## Titulares: claros, concretos y sin trampa
 
@@ -97,14 +97,14 @@ Aquí las fuentes se contradicen un poco, así que prefiero ser prudente.
 
 Parece razonable que ayude tener una temática coherente, de modo que Google entienda de qué eres referente. Pero la propia documentación aclara que la experiencia se evalúa tema a tema, y que no hay que ser un sitio ultra especializado para aparecer. Mi lectura es que conviene cubrir con constancia los temas en los que tienes algo que decir, sin obsesionarse con un nicho cerrado.
 
-Lo de la actualidad es más claro. Discover premia mucho lo que está de moda ahora, así que si tu sector tiene temas de tendencia, publicar pronto sobre ellos aumenta las opciones. Los contenidos más atemporales también pueden entrar, pero en mi experiencia lo hacen de forma más puntual.
+Lo de la actualidad es más claro. Discover premia mucho lo que está de moda ahora, así que si tu sector tiene temas de tendencia, publicar pronto sobre ellos aumenta las opciones. Los contenidos más atemporales también pueden entrar, pero en mi experiencia lo hacen de forma más puntual. Si trabajas en un medio, mira también cómo [AI Overviews está cambiando el tráfico de editores y marcas](https://emirodgar.com/ai-overviews-google-publishers).
 
 ## Cómo medirlo
 
 Discover tiene su propio informe en Google Search Console, con impresiones, clics, CTR y las páginas que más rendimiento tienen. Ten en cuenta tres cosas:
 
 - El informe **solo aparece cuando tu sitio supera un mínimo de impresiones**. Si no lo ves, aún no hay suficiente volumen.
-- En Google Analytics este tráfico suele caer en "Directo" o "No asignado", porque llega desde una app. Para aislarlo, Search Console es la referencia.
+- En Google Analytics este tráfico suele caer en "Directo" o "No asignado", porque llega desde una app. Para aislarlo, Search Console es la referencia. Si ves que los datos no cuadran entre ambas herramientas, es normal, y expliqué [por qué GA4 y Search Console nunca coinciden](https://emirodgar.com/datos-gsc-ga4).
 - Los picos se explican mal. Mira qué contenidos entraron, con qué titular e imagen, y busca patrones en lugar de buscar una causa única.
 
 Una de las guías fija el CTR habitual entre un 4 y un 6 % y el alto rendimiento entre un 8 y un 12 %. No he podido contrastar esas cifras con datos de Google, así que úsalas, como mucho, de orientación. Compara mejor tu CTR con el de tus propias páginas.
@@ -121,7 +121,7 @@ No es un caso aislado. En otro sitio ocurre lo mismo: las dos líneas crecen de 
 
 ![Resultados de búsqueda y Discover creciendo a la vez en Search Console](https://emirodgar.com/cdn/images/posts/search-console-discover-busqueda-crecen-a-la-vez.png){:class="img-responsive"}
 
-No digo que una cosa cause la otra, y un pico concreto puede ser puntual. Lo que saco en claro es que no tiene sentido elegir. Además de subir en Discover, tenemos que trabajar para que nuestra base SEO también mejore y poder crecer en todos los ámbitos: indexación limpia, contenido útil, enlazado interno, rendimiento técnico y autoridad. Eso es lo que sostiene el tráfico cuando Discover baja, que baja.
+No digo que una cosa cause la otra, y un pico concreto puede ser puntual. Lo que saco en claro es que no tiene sentido elegir. Además de subir en Discover, tenemos que trabajar para que nuestra base SEO también mejore y poder crecer en todos los ámbitos: indexación limpia, contenido útil, enlazado interno, rendimiento técnico y autoridad. Si quieres ordenarlo, empieza por [los tres pilares del SEO](https://emirodgar.com/pilares-seo) y, si necesitas un diagnóstico, por una [auditoría SEO](https://emirodgar.com/auditoria-seo). Eso es lo que sostiene el tráfico cuando Discover baja, que baja.
 
 ## Qué no creerse
 
