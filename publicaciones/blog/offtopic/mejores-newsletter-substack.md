@@ -1,6 +1,6 @@
 ---
-title: Las mejores newsletters en Substack - 2025
-description: Disfruta de información actualizada y de gran valor en esta plataforma.
+title: Las mejores newsletters en Substack
+description: Selección de las mejores newsletters de Substack por temática, las que más ingresan y una mención a Chuleta SEO, mi newsletter sobre SEO e IA.
 image: https://emirodgar.com/cdn/images/og/seo.png
 layout: emirodgar_post
 sitemap: 1
@@ -8,7 +8,7 @@ feed: 1
 folder: offtopic
 author: Emirodgar
 date: 26/06/2025
-date_modified: 27/06/2025
+date_modified: 01/10/2026
 permalink: mejores-newsletter-substack
 
 ---
@@ -29,7 +29,7 @@ Como parte de la recopilación que estoy haciendo con las **mejores newsletters 
 
 ### Top 20 newsletters de Substack por ingresos estimados
 
-| #  | Substack                          | Author                    |
+| #  | Substack                          | Autor                     |
 |----|-----------------------------------|---------------------------|
 | 1  | Letters from an American          | Heather Cox Richardson    |
 | 2  | The Pragmatic Engineer            | Gergely Orosz             |
@@ -57,9 +57,9 @@ Como parte de la recopilación que estoy haciendo con las **mejores newsletters 
 ---
 
 
-## Las mejores newsletters en Substack que deberías leer en 2025
+## Las mejores newsletters en Substack que deberías leer
 
-En este artículo encontrarás una selección curada de las mejores newsletters de Substack para 2025, tanto en español como en inglés, clasificadas por temática. Ya sea que te interese la tecnología, la política, los negocios o simplemente descubrir nuevas ideas, aquí encontrarás algo valioso.
+En este artículo encontrarás una selección curada de las mejores newsletters de Substack, tanto en español como en inglés, clasificadas por temática. Ya sea que te interese la tecnología, la política, los negocios o simplemente descubrir nuevas ideas, aquí encontrarás algo valioso.
 
 
 ## 🧭 Clasificación por categorías
@@ -68,8 +68,8 @@ En este artículo encontrarás una selección curada de las mejores newsletters 
 - [📰 Actualidad y política](#actualidad-y-política)  
 - [📈 Negocios y economía](#negocios-y-economía)  
 - [✍️ Opinión y ensayo](#opinión-y-ensayo)  
-- [🌍 Internacionales imprescindibles](#internacionales-imprescindibles)  
-- [🇪🇸 En español: joyas ocultas](#en-español-joyas-ocultas)  
+- [🇪🇸 En español: SEO y marketing](#en-español-seo-y-marketing)  
+- [⭐ Mención especial: Chuleta SEO](#mención-especial-chuleta-seo)  
 - [🆕 Cómo descubrir newsletters nuevas en Substack](#cómo-descubrir-newsletters-nuevas-en-substack)  
 
 ---
@@ -119,23 +119,9 @@ En este artículo encontrarás una selección curada de las mejores newsletters 
 💡 Reflexiones agudas sobre cómo operan las empresas hoy.  
 ✅ Para ti si te interesa el lado menos obvio del negocio tech.
 
-### **[Stratechery](https://stratechery.com/)** *(via Substack ahora)*  
-📍 *Ben Thompson*  
-💬 Negocios tecnológicos, estrategia corporativa  
-🗓️ Cuatro veces por semana  
-💡 Casi imprescindible si trabajas en producto, estrategia o medios digitales.  
-✅ Muy citada por ejecutivos y analistas.
-
 ---
 
 ## ✍️ Opinión y ensayo
-
-### **[The Browser](https://thebrowser.com/)**  
-📍 *Robert Cottrell*  
-💬 Ensayos, artículos y descubrimientos  
-🗓️ Diario  
-💡 Curaduría exquisita de lo mejor que se publica cada día.  
-✅ Ideal si te gusta leer cosas que expanden tu mente.
 
 ### **[Noahpinion](https://www.noahpinion.blog/)**  
 📍 *Noah Smith*  
@@ -146,46 +132,34 @@ En este artículo encontrarás una selección curada de las mejores newsletters 
 
 ---
 
-## 🌍 Internacionales imprescindibles
+## 🇪🇸 En español: SEO y marketing
 
-### **[Big Think](https://bigthink.com/newsletter/)**  
-📍 *Varios autores*  
-💬 Ideas disruptivas, ciencia, filosofía  
+### **[Aprendiz de SEO](https://aprendizdeseo.substack.com/)**  
+📍 *Victor*  
+💬 SEO  
 🗓️ Semanal  
-💡 Una newsletter para pensar en grande.  
-✅ Perfecta para mentes curiosas.
+💡 Aprendizaje de SEO contado de forma cercana y práctica.  
+✅ Ideal si estás empezando o quieres reforzar bases.
 
-### **[Today In Tabs](https://todayintabs.com/)**  
-📍 *Rusty Foster*  
-💬 Cultura de internet y medios  
-🗓️ Diaria  
-💡 Un resumen irónico y agudo de lo que pasa online.  
-✅ Si te gusta el caos informativo con estilo.
+### **[Algoritmo transparente](https://saulgordillo.substack.com/)**  
+📍 *Saul Gordillo*  
+💬 SEO y búsqueda  
+🗓️ Semanal  
+💡 Análisis sobre cómo funcionan los buscadores.  
+✅ Para quienes quieren entender el porqué de los cambios.
 
 ---
 
-## 🇪🇸 En español: joyas ocultas
+## ⭐ Mención especial: Chuleta SEO
 
-### **[Suma Positiva](https://sumapositiva.substack.com/)**  
-📍 *Samuel Gil*  
-💬 Tecnología, mentalidad, startups  
-🗓️ Semanal  
-💡 Una de las newsletters tech más sólidas en español.  
-✅ Perfecta para fundadores, makers y curiosos del futuro.
+No podía cerrar esta selección sin hablar de la mía. **[Chuleta SEO](https://newsletter.chuletaseo.com)** es mi newsletter en Substack sobre búsqueda, SEO, inteligencia artificial y tecnología: cómo está cambiando la forma en la que encontramos información y qué implica para quienes trabajamos en ello.
 
-### **[La Brújula Verde](https://labrujulaverde.com/)**  
-📍 *Guillermo Carvajal*  
-💬 Historia, ciencia, exploración  
-🗓️ Diaria  
-💡 Curaduría excelente sobre temas poco comunes.  
-✅ Si te interesa la cultura, el conocimiento y el viaje.
+📍 *Emilio Rodríguez García*  
+💬 SEO, IA y búsqueda  
+💡 Noticias, tendencias y recursos explicados sin ruido.  
+✅ Ideal si quieres estar al día del SEO sin pasar horas filtrando información.
 
-### **[Hilos Mentales](https://hilosmentales.substack.com/)**  
-📍 *Valeria Castro*  
-💬 Psicología, sociedad y cultura pop  
-🗓️ Semanal  
-💡 Mezcla análisis social con experiencias personales.  
-✅ Para quienes buscan reflexión con mirada crítica.
+👉 [Suscríbete a Chuleta SEO](https://newsletter.chuletaseo.com)
 
 ---
 
@@ -193,7 +167,7 @@ En este artículo encontrarás una selección curada de las mejores newsletters 
 
 Substack ofrece varias formas para encontrar contenido interesante:
 
-- **Buscador interno**: podés buscar por temas como *AI*, *sociedad*, *finanzas*, etc.  
+- **Buscador interno**: puedes buscar por temas como *AI*, *sociedad*, *finanzas*, etc.  
 - **Recomendaciones cruzadas**: muchos autores recomiendan otras newsletters al final de sus ediciones.  
 - **Listas curatoriales**: en plataformas como Twitter/X, Reddit o incluso en IA como ChatGPT.  
 - **Explorar por categorías**: desde [substack.com/explore](https://substack.com/explore)
@@ -202,7 +176,7 @@ Substack ofrece varias formas para encontrar contenido interesante:
 
 ## 📬 ¿Y tú, qué estás leyendo?
 
-¿Conoces alguna newsletter que debería estar en esta lista? Escríbeme por redes. También puedes suscribirte a mi propia newsletter donde hablo de innovación, datos y el impacto de la tecnología en la sociedad.
+¿Conoces alguna newsletter que debería estar en esta lista? Escríbeme por redes. También puedes suscribirte a mi propia newsletter, [Chuleta SEO](https://newsletter.chuletaseo.com).
 
 Si lo que buscas es contenido más específico de SEO, tengo también una recopilación de las [mejores newsletters SEO en español](https://emirodgar.com/mejores-newsletter-seo). Y si prefieres el formato libro, aquí van [algunas recomendaciones de lectura](https://emirodgar.com/libros-recomendados).
 
