@@ -72,7 +72,7 @@ El foco de GEO es **tráfico cualificado y efecto en ventas**. No pierdas tiempo
 - conversiones y revenue por sesión  
 - tasa de rebote y engagement en páginas testadas
 
-La analítica tradicional sirve —solo que ahora la interpretas desde la óptica de que el usuario ya ha sido “influido” antes de llegar.
+La analítica tradicional sirve —solo que ahora la interpretas desde la óptica de que el usuario ya ha sido “influido” antes de llegar. Si quieres además una referencia de cuánta exposición tiene cada sección de tu web a la IA de Google, te cuento [cómo sacar partido al informe de IA generativa de Search Console](https://emirodgar.com/informe-ia-generativa-search-console).
 
 ## ¿Por qué desconfío de la industria del "AI tracking"?
 
@@ -89,6 +89,15 @@ Antes de que te vendan una herramienta de "visibilidad de marca en IA", quiero d
 5. **No hay rastro de auditoría.** No hay forma de probar que un prompt concreto recomendó una marca. No hay forma de probar que, si lo hizo, generó una venta incremental. No hay forma de saber qué impacto tuvo una conversación concreta en una venta concreta. Incluso la correlación entre encuestas de "¿cómo nos conociste?" o la subida de un % de visibilidad en un informe y las ventas por tráfico "directo" es, en el mejor de los casos, muy débil. Si estas son las métricas en las que confías, ¿por qué no aceptas esa misma lógica difusa para otros canales? ¿Por qué RRPP, eventos, comunicación, contenido o el SEO orgánico tienen que demostrarlo todo a prueba de balas y la IA se libra?
 
 **Cómo lo juego yo:** invierto y mido menciones, vigilo el lift incremental, e ignoro el resto.
+
+Si aun así vas a usar una herramienta de seguimiento, Mateusz Makosiewicz (Ahrefs) explica cómo evitar la parálisis de datos con su flujo de trabajo, y varias de sus ideas encajan con esta cautela. Ten en cuenta que Ahrefs vende la herramienta con la que lo hace, así que léelo como método y no como prueba de que funciona:
+
+- **Etiqueta los prompts por pregunta de negocio** (comparativas, recomendaciones, casos de uso, datos de producto) y analiza cada grupo por separado. Una marca puede verse fuerte en general y casi invisible en un caso de uso importante, y la media lo esconde.
+- **Usa prompts cortos**, de unas seis palabras o menos, centrados en una necesidad real. Son sondas estables, no conversaciones.
+- **Haz una línea base antes de tocar nada.** Lanza los prompts importantes a diario durante al menos una semana, porque una sola medición puede verse mucho mejor o peor de lo normal.
+- **Mira patrones, no el dato de un día.** Promedia varios días, pero no demasiados, porque una media larga puede esconder un cambio reciente.
+
+Es compatible con lo que decía antes: no es medir un porcentaje de visibilidad para presumir, sino detectar dónde estás débil y decidir qué probar. Y esos cambios, como siempre, se validan con [métricas de negocio](https://emirodgar.com/informe-ia-generativa-search-console) y no solo con la herramienta.
 
 *P.D. Nunca he visto un estudio serio y controlado que muestre la subida de un % de visibilidad de marca en una herramienta de IA —con una marca que apague el resto de canales para evitar contaminación— correlacionado con la subida de ventas. Y eso que recuerdo la cantidad de estudios de ese tipo que tuvieron que publicarse entre 2004 y 2014 para que el SEO se ganase la inversión que tiene hoy. Es para volverse loco.*
 

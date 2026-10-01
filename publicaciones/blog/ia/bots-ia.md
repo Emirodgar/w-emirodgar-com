@@ -30,6 +30,8 @@ Esto es un cambio fundamental. La IA parece priorizar la información que consid
 Y "leer" tu página cada vez significa algo más indirecto de lo que parece: una filtración reciente del system prompt de Claude Opus 5.5 muestra que, al menos en su caso, [ya no procesa tu web directamente, sino un resumen que filtra un modelo pequeño intermedio](https://emirodgar.com/claude-lee-tu-web-modelo-pequeno) antes de que el modelo grande vea nada.
 
 
+Si quieres saber qué rastreadores de IA piden realmente tu contenido, los logs del servidor lo muestran, y [aquí explico cómo cruzarlos con Search Console y con el valor de cada sección](https://emirodgar.com/informe-ia-generativa-search-console).
+
 ### ¿Por qué es tan importante para mi marca o negocio?
 
 En un mundo donde la IA se utiliza cada vez más para responder preguntas directas de los usuarios, la forma en que tu marca aparece en estas respuestas es crucial. **Un buen posicionamiento en la IA puede significar la diferencia entre ser visible y ser irrelevante**. Tu capacidad para atraer clientes, inversores o incluso talento podría depender de la calidad de la información que la IA tiene sobre ti.

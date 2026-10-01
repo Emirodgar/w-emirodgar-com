@@ -131,7 +131,7 @@ Una de las guías fija el CTR habitual entre un 4 y un 6 % y el alto rendimiento
 
 Un error habitual es tratar Discover como un canal aparte. Los picos de Discover suelen venir acompañados de más visibilidad en el resto de Google, y a la inversa: un sitio con buena base SEO tiene más facilidad para que Google lo entienda, lo rastree y lo considere fiable.
 
-Lo he visto en el rendimiento de Search Console de un proyecto: cuando sube Discover, los resultados de búsqueda suben también, y la gráfica de ambos tiene prácticamente la misma forma.
+Lo he visto en el rendimiento de Search Console de un proyecto: cuando sube Discover, los resultados de búsqueda suben también, y la gráfica de ambos tiene prácticamente la misma forma. Si quieres ver qué secciones de tu sitio dependen más de Google y cuáles están más expuestas a la IA, tienes [un método para calcularlo con el informe de IA generativa](https://emirodgar.com/informe-ia-generativa-search-console).
 
 ![Rendimiento en Search Console con subida simultánea de Discover y resultados de búsqueda](https://emirodgar.com/cdn/images/posts/search-console-rendimiento-discover-busqueda.png){:class="img-responsive"}
 

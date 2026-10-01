@@ -42,6 +42,8 @@ Esta honestidad y claridad no solo mejora la experiencia de usuario, sino que re
 ### 3. ¿Cómo redactar conclusiones directas y accionables?
 La conclusión debe responder a la pregunta del millón: **¿para quién es este producto?** Evita los resúmenes genéricos. Apuesta por un veredicto directo: *"Recomendamos este accesorio de coche para conductores que buscan seguridad en viajes largos de invierno, pero no para uso diario en ciudad"*. 
 
+Un matiz sobre cuándo merece la pena. Según el flujo de trabajo de Ahrefs, si tu visibilidad es débil en toda una categoría y no solo en una pregunta, conviene construir un conjunto de páginas sobre el tema: una página general y una detallada por subtema, enlazadas entre sí. Cada una es una fuente concreta que la IA puede citar para una pregunta específica. En cambio, publicar muchos artículos hechos con IA sin revisar no aumenta por sí solo la influencia en las respuestas.
+
 ## ¿Qué papel juega el seo técnico en toda esta optimización?
 
 Estructurar bien el texto de forma visual es solo la mitad del trabajo. Para que tu contenido sea una máquina perfecta de captar tráfico, el [seo técnico](https://emirodgar.com/seo-tecnico) debe acompañar. 

@@ -43,13 +43,16 @@ Antes de actuar, conviene saber con exactitud qué está pasando. Lo que hago:
 2. Repetir cada consulta en sesiones limpias y varias veces, porque la respuesta cambia.
 3. Guardar capturas con fecha y, sobre todo, anotar las fuentes que cita cada respuesta.
 
+Si quieres ordenar esto, ayuda tener una lista corta de hechos aprobados (precios, funciones, datos de la empresa) con su fuente, y comparar contra ella lo que dice la IA. Cuando algo no cuadre, lo añades a una lista de revisión manual, porque no todas las diferencias de redacción son un error real. Es una de las ideas del flujo de trabajo de Ahrefs que mejor me parecen. Igual de útil es fijarse en las críticas negativas que aparecen solas en comparativas y recomendaciones: no hace falta eliminarlas todas, algunas serán justas, pero las que se repiten mucho merecen atención.
+
 Esto último es lo más útil. La mayoría de estos motores enseñan sus enlaces, y esos enlaces son tu lista de trabajo. Tengo un post más general sobre [cómo auditar y proteger tu marca en las respuestas de la IA](https://emirodgar.com/proteccion-marca-ia) por si queréis la metodología completa.
 
 ## Paso 2: atacar la fuente, no el síntoma
 
 No puedes editar la respuesta de la IA, pero sí influir en lo que lee. Mi orden de prioridades:
 
-- **Contactar con el medio o la web que publica el dato erróneo** y pedir una corrección o un derecho de réplica con documentación. Si se corrige en origen, la respuesta de la IA cambia cuando se vuelva a rastrear.
+- **Contactar con el medio o la web que publica el dato erróneo** y pedir una corrección o un derecho de réplica con documentación. Si se corrige en origen, la respuesta de la IA cambia cuando se vuelva a rastrear. Ahrefs cuenta una experiencia que apunta en esa línea: contactaron con más de 20 editores para pedirles que actualizaran cifras y datos desactualizados, sin pedirles que cambiaran su opinión. Algunos aceptaron y esos cambios acabaron reflejándose en las respuestas de la IA. Es un caso de una empresa, no una garantía, pero ilustra algo útil: se pide corregir un hecho comprobable, aportando una fuente que puedan verificar, como tu página de precios o tu historial de cambios.
+- **Revisar tus propias páginas.** Al auditar, Ahrefs detectó también datos desactualizados en su contenido. Comprueba que lo que la IA repite no viene de una página tuya antigua.
 - **Ir por la vía legal si hay difamación o datos manifiestamente falsos.** Ahí ya no es asunto de SEO, es de un abogado. Y conviene tener las capturas del paso anterior.
 - **Reportar la respuesta desde el propio producto.** ChatGPT, Gemini y Perplexity tienen botones de valoración y formularios de feedback, y Google tiene formularios para solicitar retiradas de contenido por motivos legales. Es lento y no hay garantía, pero deja constancia.
 

@@ -55,7 +55,7 @@ Smith propone un **playbook en 7 pasos**, pero si tuviera que resumirlo en una v
 2. **Crea contenido claro y accionable** que dé respuesta a esas preguntas.  
 3. **Diversifica formatos**: texto, vídeo, foros y FAQ.  
 4. **Cuida la autenticidad**: evita el “contenido sobreoptimizado” y apuesta por aportar valor real.  
-5. **Mide tu presencia en respuestas de IA** igual que lo haces con tu visibilidad en Google, con una metodología de test como la que planteamos en [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar).  
+5. **Mide tu presencia en respuestas de IA** igual que lo haces con tu visibilidad en Google, con una metodología de test como la que planteamos en [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar). Deja pasar al menos una semana de mediciones antes de sacar conclusiones, porque las respuestas varían de un día a otro. Si apareces en preguntas generales pero casi nunca en un caso de uso concreto, ese es el hueco que merece contenido propio o una mención en las páginas que la IA ya cita.  
 
 ## ¿Hacia dónde se dirige el SEO con la llegada del AEO?
 

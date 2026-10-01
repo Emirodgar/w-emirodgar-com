@@ -67,6 +67,7 @@ Y si además metéis un rate limit en el buscador interno —5 peticiones por se
 
 - **Google Search Console** (Ajustes > Informe de estadísticas de rastreo): comprobar que no hay picos de errores 429 o 5xx desde que se aplicó el bloqueo.
 - **Logs del CDN o del WAF**: revisar si hay IPs legítimas de usuarios —o de Googlebot— alcanzando el umbral de peticiones en alguna ruta compartida. Los mismos logs sirven para ver qué rastreadores de IA piden qué secciones, y [cruzarlo con el informe de IA generativa y el valor de cada sección](https://emirodgar.com/informe-ia-generativa-search-console) ayuda a decidir qué bloquear.
+- **Los rastreadores de IA que sí quieres**: si no ves ninguna petición de GPTBot, PerplexityBot o ClaudeBot, revisa robots.txt, el CDN, el firewall y la protección anti-bots, porque una regla pensada para bots abusivos puede estar bloqueándolos por error. Conviene mirar también las peticiones de bots de IA que acaban en 404, 499 o 5xx, que indican páginas que intentaron leer y no pudieron. Ojo con los bots que suplantan a uno real: en un caso que muestra Ahrefs, solo aparecían falsos ClaudeBot y ninguno auténtico.
 - **Una prueba manual**: compartir una URL interna en WhatsApp o Facebook para confirmar que la tarjeta OpenGraph sigue cargando y que los bots de previsualización no se han quedado atrapados en el bloqueo por error.
 
 ## Conclusiones

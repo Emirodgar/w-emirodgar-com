@@ -41,6 +41,6 @@ Pone un ejemplo muy concreto: Google Analytics mostró tráfico cero durante un 
 
 ## Mi lectura como consultor
 
-Llevo años [insistiendo en trabajar con datos propios](https://emirodgar.com/auditoria-seo) —Search Console cruzado con BigQuery, no solo el dashboard que te entrega la herramienta de turno— precisamente por este motivo. Cuando no puedes inspeccionar cómo se ha calculado una cifra, lo único que te queda es preguntar directamente a quien te la ofrece: qué mide exactamente, sobre qué muestra, y desde cuándo.
+Llevo años [insistiendo en trabajar con datos propios](https://emirodgar.com/auditoria-seo) —Search Console cruzado con BigQuery, no solo el dashboard que te entrega la herramienta de turno— precisamente por este motivo. Cuando no puedes inspeccionar cómo se ha calculado una cifra, lo único que te queda es preguntar directamente a quien te la ofrece: qué mide exactamente, sobre qué muestra, y desde cuándo. El informe de IA generativa de Search Console es un buen ejemplo: solo da impresiones, y [hay que cruzarlo con datos propios](https://emirodgar.com/informe-ia-generativa-search-console) para que diga algo útil para el negocio.
 
 No hace falta estar de acuerdo con las tres predicciones para quedarte con la idea central del artículo: en 2027 el reto no va a ser solo adaptarse a cómo cambian Google y la IA, sino aprender a distinguir un dato real de una extrapolación con muy buena presentación.

@@ -66,6 +66,8 @@ Dos matices importantes. El estudio sobre B2B lo ha elaborado la propia Reddit, 
 
 Aun así, la tendencia encaja con lo que ya comentaba en [los retos del SEO](https://emirodgar.com/retos-seo) sobre el peso de los grandes foros en los resultados, y con lo que se recomienda en [cómo optimizar para AEO](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt): participar de forma auténtica en comunidades, sin spam.
 
+Si decides responder en hilos de Reddit, foros o reseñas que la IA ya cita, el criterio que propone Ahrefs en su flujo de trabajo me parece el correcto: ayudar de verdad (resolver una duda técnica, corregir un error), decir para quién trabajas y no hacer ventas. Quien mejor puede hacerlo es alguien que conoce el producto, normalmente soporte o comunidad.
+
 También tiene una cara menos amable. Reddit alimenta respuestas de IA con todo lo que hay en sus hilos, y eso incluye bromas e información errónea, como te conté en [cuando la IA se inventa cosas sobre tu marca](https://emirodgar.com/ia-informacion-erronea-marca).
 
 ## Por qué esto es terreno de PR

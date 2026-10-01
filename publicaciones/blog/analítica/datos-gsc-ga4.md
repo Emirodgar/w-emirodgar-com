@@ -88,5 +88,7 @@ Estas discrepancias surgen por dos razones principales:
 
 A pesar de estas limitaciones, Search Console sigue siendo una fuente fiable porque los datos provienen directamente de Google. Tan sólo debes tener en cuenta que al filtrar, no se tendrá en cuenta toda la información.
 
+Esa limitación pesa especialmente en el informe de IA generativa, donde la exportación de páginas se corta en 1.000 filas. Cuento [cómo cruzarlo con GA4 y datos de negocio](https://emirodgar.com/informe-ia-generativa-search-console) para sacarle partido.
+
 
 ¿Tienes dudas sobre cómo interpretar estos datos? ¡Déjalas en los comentarios o contacta conmigo en [Emirodgar.com](https://emirodgar.com)! 🚀
