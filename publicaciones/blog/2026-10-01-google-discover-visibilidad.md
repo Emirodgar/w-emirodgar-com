@@ -27,6 +27,12 @@ En una búsqueda, el usuario expresa una intención y tú compites por responder
 
 Una consecuencia práctica: no puedes planificarlo como planificas un artículo para una keyword. Lo que sí puedes es aumentar las probabilidades.
 
+Para que se entienda lo que implica, esto es lo que puede pasar en Search Console. Durante meses, el tráfico del sitio es plano y, de repente, un contenido entra en el feed y los clics se disparan:
+
+![Pico de clics en Discover en Search Console tras meses de tráfico estable](https://emirodgar.com/cdn/images/posts/search-console-pico-discover.png){:class="img-responsive"}
+
+Un salto así no se consigue con ninguna técnica concreta, y tampoco suele durar. Puede bajar igual de rápido que subió, por eso conviene aprovecharlo y no construir una estrategia que dependa solo de ello.
+
 ## Lo mínimo para ser elegible
 
 Según Google, un contenido puede aparecer en Discover automáticamente si está indexado y cumple sus políticas de contenido. No hay etiquetas ni marcado específicos que activar. Eso deja una lista corta de comprobaciones:
@@ -110,6 +116,10 @@ Un error habitual es tratar Discover como un canal aparte. Los picos de Discover
 Lo he visto en el rendimiento de Search Console de un proyecto: cuando sube Discover, los resultados de búsqueda suben también, y la gráfica de ambos tiene prácticamente la misma forma.
 
 ![Rendimiento en Search Console con subida simultánea de Discover y resultados de búsqueda](https://emirodgar.com/cdn/images/posts/search-console-rendimiento-discover-busqueda.png){:class="img-responsive"}
+
+No es un caso aislado. En otro sitio ocurre lo mismo: las dos líneas crecen de forma simultánea, aunque en este caso Discover aporta la mayor parte de los clics (en torno al 86 %) y la búsqueda el resto.
+
+![Resultados de búsqueda y Discover creciendo a la vez en Search Console](https://emirodgar.com/cdn/images/posts/search-console-discover-busqueda-crecen-a-la-vez.png){:class="img-responsive"}
 
 No digo que una cosa cause la otra, y un pico concreto puede ser puntual. Lo que saco en claro es que no tiene sentido elegir. Además de subir en Discover, tenemos que trabajar para que nuestra base SEO también mejore y poder crecer en todos los ámbitos: indexación limpia, contenido útil, enlazado interno, rendimiento técnico y autoridad. Eso es lo que sostiene el tráfico cuando Discover baja, que baja.
 
