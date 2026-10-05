@@ -54,6 +54,10 @@ No me atrevo a hablar de 2027, porque con la rapidez que cambia todo esto sólo 
 - **Usar [datos estructurados](https://emirodgar.com/datos-estructurados-seo-llm)**: ayuda a Google a entender mejor tu contenido y puede mejorar tu posición incluso en síntesis de IA
 - **Monitorizar tu presencia**: saber cuándo y en qué consultas apareces en AI Overviews es fundamental para ajustar la [estrategia SEO](https://emirodgar.com/estrategia-seo). Search Console ya tiene un informe de IA generativa y [te cuento cómo sacarle partido cruzándolo con negocio](https://emirodgar.com/informe-ia-generativa-search-console)
 
+Conviene mirarlo con regularidad, no solo cuando algo parece ir mal. Una caída de impresiones en ese informe, como la que ves aquí, puede deberse a un cambio en tu web o en cómo Google muestra la IA, y solo la detectas a tiempo si revisas tus datos cada cierto tiempo:
+
+![Caída brusca de impresiones en el informe de IA generativa de Search Console en los últimos días del gráfico](https://emirodgar.com/cdn/images/posts/search-console-caida-informe-ia-generativa.png){:class="img-responsive"}
+
 Por desgracia para muchos, las **AI Overviews no desaparecerán**. Google las seguirá expandiendo porque mejoran la experiencia del usuario. Y esto teniendo en cuenta que desde su lanzamiento han sido comedidos y han ido reduciendo progresivamente su aparición, debido principalmente a errores y sentencias judiciales. Tu trabajo como editor o marca es dejar de luchar y aprender a prosperar en este entorno. Intentar sacar ventaja dentro de una situación que de por sí es bastante difícil.
 
 Lo que me gustaría que quedase muy claro es que el `robots.txt` no es tu salvaguarda. Para sobrevivir a esta odisea, adapta tu contenido, tu modelo de tráfico y tu mentalidad SEO a una realidad donde la IA sintetiza respuestas a escala. Quienes lo hagan rápido, ganarán. Quienes esperen, seguirán perdiendo tráfico e ingresos sin entender por qué.

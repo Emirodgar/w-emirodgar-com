@@ -29,6 +29,12 @@ Lo que no tienes:
 
 Aun así, para el autor es útil porque es dato de primera mano de la interfaz de IA más usada del mundo. Eso sí, hay que cruzarlo con más cosas.
 
+Y hay otra razón para abrirlo con cierta frecuencia. Como el informe solo te da impresiones, una caída es casi la única señal de que algo ha cambiado: puede ser algo de tu web, del rastreo o de cómo Google muestra la IA, y el informe no te dirá cuál. Así se ve una caída de impresiones en el informe de IA generativa:
+
+![Caída brusca de impresiones en el informe de IA generativa de Search Console en los últimos días del gráfico](https://emirodgar.com/cdn/images/posts/search-console-caida-informe-ia-generativa.png){:class="img-responsive"}
+
+Si no revisas tus datos cada cierto tiempo, te enteras tarde de problemas que han podido ocurrir sin que lo supieras. Revisarlo de forma periódica, por ejemplo cada semana, te permite empezar a investigar cuando la caída tiene días y no meses.
+
 ## El método: de la visibilidad a la exposición comercial
 
 La idea es calcular una puntuación de 0 a 100 por cada sección de la web (subcarpeta) combinando cuatro datos:

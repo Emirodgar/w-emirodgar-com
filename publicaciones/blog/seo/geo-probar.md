@@ -72,7 +72,9 @@ El foco de GEO es **tráfico cualificado y efecto en ventas**. No pierdas tiempo
 - conversiones y revenue por sesión  
 - tasa de rebote y engagement en páginas testadas
 
-La analítica tradicional sirve —solo que ahora la interpretas desde la óptica de que el usuario ya ha sido “influido” antes de llegar. Si quieres además una referencia de cuánta exposición tiene cada sección de tu web a la IA de Google, te cuento [cómo sacar partido al informe de IA generativa de Search Console](https://emirodgar.com/informe-ia-generativa-search-console).
+La analítica tradicional sirve —solo que ahora la interpretas desde la óptica de que el usuario ya ha sido “influido” antes de llegar. Si quieres además una referencia de cuánta exposición tiene cada sección de tu web a la IA de Google, te cuento [cómo sacar partido al informe de IA generativa de Search Console](https://emirodgar.com/informe-ia-generativa-search-console). Ojo también con las caídas, que no avisan: sin revisar tus datos cada cierto tiempo, un descenso como este en el informe pasa desapercibido hasta que ya es tarde.
+
+![Caída brusca de impresiones en el informe de IA generativa de Search Console en los últimos días del gráfico](https://emirodgar.com/cdn/images/posts/search-console-caida-informe-ia-generativa.png){:class="img-responsive"}
 
 ## ¿Por qué desconfío de la industria del "AI tracking"?
 
