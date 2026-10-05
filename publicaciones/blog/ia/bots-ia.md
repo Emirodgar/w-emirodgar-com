@@ -46,6 +46,7 @@ La respuesta es simple: **pon el foco en la calidad y la autenticidad**. Si el S
 * **Prioriza el contenido orgánico:** Los datos demuestran que las fuentes orgánicas son las preferidas por los bots de IA. Dedica más tiempo y recursos a la creación de contenido de alta calidad, ya sea a través de tu blog, tus redes sociales o colaboraciones con influencers y periodistas.
 * **Construye tu autoridad:** La IA busca fuentes expertas y fiables. Trabaja en construir tu marca personal o la de tu negocio como una referencia en tu sector. Un buen ejemplo es la trayectoria de un [consultor SEO](https://emirodgar.com/consultor-seo) que se ha ganado la confianza de sus clientes y lectores a lo largo del tiempo.
 * **Crea para las personas, no para los bots:** Aunque parezca contradictorio, este es el mejor consejo. Los bots de IA están diseñados para entender el lenguaje natural y reconocer el contenido que realmente aporta valor. Si creas contenido útil y genuino para tu audiencia, los bots lo detectarán y lo utilizarán como fuente (los datos reales sobre [cómo usa la gente ChatGPT](https://emirodgar.com/analisis-chatgpt-seo) van en esta misma dirección).
+* **Asegura que los bots puedan leer tu contenido:** la mayoría de rastreadores de IA no ejecutan JavaScript, así que si tu web depende de él pueden ver una página vacía. Con renderizado en servidor todos reciben lo mismo; lo explico en [CSR vs SSR: qué rastreadores ven tu JavaScript](https://emirodgar.com/csr-vs-ssr-rastreadores-javascript).
 
 
 ### El futuro del posicionamiento es la reputación y la calidad

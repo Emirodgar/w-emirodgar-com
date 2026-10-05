@@ -33,6 +33,8 @@ Lo ideal para asegurar un buen funcionamiento a nivel [SEO](https://emirodgar.co
 
 En algunos casos no es posible utilizar un SSR por lo que se recomienda hacer un pre-renderizado. Una de las herramientas más conocidas para implementar esta tecnología en nuestro sitio web es https://prerender.io/.
 
+Esto es especialmente relevante ahora que la mayoría de rastreadores de IA (GPTBot, ClaudeBot, PerplexityBot) no ejecutan JavaScript: te cuento qué bots lo renderizan y cuáles no en [CSR vs SSR: qué rastreadores ven tu JavaScript](https://emirodgar.com/csr-vs-ssr-rastreadores-javascript).
+
 ## El proceso de Googlebot
 
 Como hemos comentado antes, **Googlebot es evergreen** por lo que siempre dispondrá de la versión más actualizada de Chromium y generará el mismo resultado que la versión de cualquier navegador que utilice esta tecnología (Chrome, Vivaldi, Brave, Opera, Iridium, Edge, etc). 
