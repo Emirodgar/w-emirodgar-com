@@ -95,7 +95,7 @@ El scroll infinito es cómodo, pero un bot no hace scroll ni pulsa botones. La s
 - Los enlaces a esas URLs existen en el HTML, aunque el usuario no los use.
 - Al hacer scroll, la URL de la barra se actualiza con la API History (`pushState`) a la página que se está viendo.
 
-Es lo que recomienda Google en su [guía de scroll infinito](https://developers.google.com/search/docs/specialty/ecommerce/pagination-and-incremental-page-loading).
+Google explica en su [guía de paginación y carga incremental](https://developers.google.com/search/docs/specialty/ecommerce/pagination-and-incremental-page-loading) que estos patrones dependen de JavaScript y que "cargar más" no sirve para listados muy grandes. La actualización de la URL con `pushState` es una práctica habitual, no algo que esa guía detalle.
 
 ### 10. Sobre las páginas "ver todo"
 
