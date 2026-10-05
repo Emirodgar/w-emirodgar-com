@@ -1,5 +1,5 @@
 ---
-title: CSR vs SSR: qué rastreadores ven tu JavaScript y cuáles no
+title: "CSR vs SSR: qué rastreadores ven tu JavaScript y cuáles no"
 description: Googlebot renderiza JavaScript, pero la mayoría de rastreadores de IA no. Te explico la diferencia entre CSR y SSR, qué bots ejecutan JS y cómo validar con Search Console y otras pruebas que todos ven lo mismo.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post

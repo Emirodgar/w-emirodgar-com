@@ -1,6 +1,6 @@
 ---
 title: Trucos para usar la consola de Google Chrome
-description: Trucos para la consola y DevTools de Chrome: capturas, user-agent, utilidades como $0 o copy(), live expressions, datos de GA4 y la nueva ayuda con IA de Gemini.
+description: "Trucos para la consola y DevTools de Chrome: capturas, user-agent, utilidades como $0 o copy(), live expressions, datos de GA4 y la nueva ayuda con IA de Gemini."
 lang: es_ES
 author: Emirodgar
 sitemap: 1
