@@ -119,5 +119,8 @@ Si la frase aparece, el contenido está en el HTML. Si no, ese bot no lo está v
 - CSR deja la decisión de ver tu contenido en manos de cada bot. SSR (o pre-renderizado, o generación estática) pone el contenido en el HTML inicial y asegura que todos ven lo mismo.
 - Search Console te confirma lo que ve Google, pero no si usas SSR: para eso hay que mirar el código fuente sin renderizar o simular un bot de IA con `curl`.
 - Revisa estas pruebas tras cualquier migración o cambio de framework. Es de esos errores que no dan la cara en Search Console y te cuestan visibilidad en la IA sin que te enteres.
+- Y revisa tus datos cada cierto tiempo. Un cambio técnico puede romper el rastreo o el renderizado sin que nadie lo note, y la única señal es una caída como esta en Search Console. Mejor verla en una semana que en un mes:
+
+![Caída brusca de clics e impresiones en Search Console en los últimos días del gráfico](https://emirodgar.com/cdn/images/posts/search-console-caida-clics-impresiones.png){:class="img-responsive"}
 
 Si tu web está en CSR y todavía no sabes qué ven los bots de IA, esta es la prueba más rápida que puedes hacer hoy: abre el código fuente y busca tu contenido.

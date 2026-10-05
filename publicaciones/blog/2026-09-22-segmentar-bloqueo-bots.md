@@ -70,6 +70,12 @@ Y si además metéis un rate limit en el buscador interno —5 peticiones por se
 - **Los rastreadores de IA que sí quieres**: si no ves ninguna petición de GPTBot, PerplexityBot o ClaudeBot, revisa robots.txt, el CDN, el firewall y la protección anti-bots, porque una regla pensada para bots abusivos puede estar bloqueándolos por error. Conviene mirar también las peticiones de bots de IA que acaban en 404, 499 o 5xx, que indican páginas que intentaron leer y no pudieron. Ojo con los bots que suplantan a uno real: en un caso que muestra Ahrefs, solo aparecían falsos ClaudeBot y ninguno auténtico.
 - **Una prueba manual**: compartir una URL interna en WhatsApp o Facebook para confirmar que la tarjeta OpenGraph sigue cargando y que los bots de previsualización no se han quedado atrapados en el bloqueo por error.
 
+Y no os fiéis de mirarlo una vez y olvidarlo. Un bloqueo mal ajustado, una regla del firewall o un cambio en el CDN pueden hacer que el tráfico orgánico se hunda en cuestión de días, y si no revisáis vuestros datos cada cierto tiempo os enteraréis tarde. Así se veía en Search Console una caída de este tipo, sin que nadie hubiera avisado:
+
+![Caída brusca de clics e impresiones en Search Console en los últimos días del gráfico](https://emirodgar.com/cdn/images/posts/search-console-caida-clics-impresiones.png){:class="img-responsive"}
+
+Revisar Search Console con una frecuencia fija (semanal, por ejemplo) y no solo cuando algo parece ir mal es lo que evita el susto. La caída ya habrá ocurrido, pero la detectáis en días y no en semanas.
+
 ## Conclusiones
 
 Bloquear bots no es un acto de todo o nada. Un archivo genérico de "bad bots" os ahorra el trabajo de pensar, pero os cuesta funcionalidad real: tarjetas que no cargan, alertas de caída falsas, herramientas de auditoría que dejan de responder. La única categoría que no admite debate es la de escáneres y descargadores masivos; todo lo demás depende de qué uséis y de qué os importe que vea la competencia. Segmentar cuesta una tarde. Arreglar un OpenGraph roto en producción, mucho más.

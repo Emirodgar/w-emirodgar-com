@@ -51,6 +51,10 @@ Un buen hosting debería garantizar un 99% de uptime. Migraciones, actualizacion
 
 Servicios como [Uptimerobot](https://uptimerobot.com/) nos ayudarán a monitorizar el uptime y downtime de nuestra página.
 
+Pero ninguna herramienta sustituye a revisar cada cierto tiempo nuestros datos en Search Console. Hay problemas (una caída del servidor, una migración, un bloqueo mal configurado) que pueden ocurrir sin nuestro conocimiento y que se traducen en una caída de clics e impresiones como la de la imagen. Cuanto antes la veamos, menos nos costará.
+
+![Caída brusca de clics e impresiones en Search Console en los últimos días del gráfico](https://emirodgar.com/cdn/images/posts/search-console-caida-clics-impresiones.png){:class="img-responsive"}
+
 ## <a name="malos-vecinos"></a>4- Malos vecinos
 
 Dependiendo del tipo de hosting que contratemos, tendremos una IP para nosotros solos o será compartida por otras páginas alojadas físicamente junto a la nuestra.
