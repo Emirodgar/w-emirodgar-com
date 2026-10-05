@@ -13,7 +13,7 @@ permalink: paginacion-listados-buenas-practicas-seo
 
 ---
 
-La paginación parece un tema menor hasta que revisas un ecommerce, un blog o un portal de noticias con miles de URLs y ves que **los productos o artículos de la página 4 en adelante no se rastrean, no se indexan o aparecen duplicados**. Casi siempre el origen es una paginación mal planteada.
+La paginación parece un tema menor hasta que revisas un ecommerce, un blog o un portal de noticias con miles de URLs y ves que **los productos o artículos de la página 4 en adelante no se rastrean, no se indexan o aparecen duplicados**. Muchas veces el origen es una paginación mal planteada.
 
 En este post te cuento cómo plantearla para que funcione bien para el usuario y para los rastreadores, y qué errores veo con más frecuencia.
 
@@ -21,7 +21,7 @@ En este post te cuento cómo plantearla para que funcione bien para el usuario y
 
 Durante años se recomendó marcar la secuencia con `rel="prev"` y `rel="next"`. Google anunció en 2019 que llevaba tiempo sin usarlos. Puedes mantenerlos (otros buscadores pueden aprovecharlos y no hacen daño), pero **no son lo que hace que tu paginación funcione**.
 
-Lo que Google trata es cada página paginada como una página más, y las descubre por los enlaces. De ahí salen casi todas las buenas prácticas.
+Google trata cada página paginada como una página más y la descubre por los enlaces. De ahí salen casi todas las buenas prácticas.
 
 ## Buenas prácticas
 
@@ -33,7 +33,7 @@ Evita paginar con fragmentos (`/categoria#page=2`): Google ignora lo que va detr
 
 ### 2. Enlaces reales con `<a href>`
 
-Es el punto donde más se falla en sitios con JavaScript. Google sigue enlaces, no clics.
+Es un fallo frecuente en sitios con JavaScript. Google sigue enlaces, no clics.
 
 ```html
 <!-- Correcto -->
@@ -99,7 +99,7 @@ Es lo que recomienda Google en su [guía de scroll infinito](https://developers.
 
 ### 10. Sobre las páginas "ver todo"
 
-Una página única con todos los elementos puede funcionar si es pequeña y carga rápido. Si tiene cientos de productos, es más pesada, empeora los Core Web Vitals y el usuario no la usa. En ese caso, pagina.
+Una página única con todos los elementos puede funcionar si es pequeña y carga rápido. Si tiene cientos de productos, es más pesada, puede empeorar los Core Web Vitals y rara vez compensa. En ese caso, pagina.
 
 ## Errores frecuentes, resumidos
 
@@ -117,7 +117,7 @@ Una página única con todos los elementos puede funcionar si es pequeña y carg
 
 1. **Rastrea la categoría con Screaming Frog**, con y sin renderizado de JavaScript, y comprueba si encuentra las mismas páginas paginadas. Si con "Solo texto" faltan páginas, el paginador depende de JS.
 2. **Revisa el canonical y la indexabilidad** de las páginas 2, 3 y siguientes en el propio rastreo.
-3. **Mira la profundidad de clics** de tus productos o artículos. Los que están a más de 4 o 5 niveles suelen rastrearse peor.
+3. **Mira la profundidad de clics** de tus productos o artículos. Cuanto más profundos, peor suelen rastrearse.
 4. **Inspecciona una URL paginada en Search Console** y comprueba que está indexada y que la canónica elegida por Google es la tuya.
 5. **Prueba una página fuera de rango** y comprueba que devuelve un 404.
 
@@ -125,8 +125,8 @@ Una página única con todos los elementos puede funcionar si es pequeña y carg
 
 - Google ya no usa `rel="prev"` y `rel="next"`: trata cada página paginada como una URL normal y la descubre por los enlaces.
 - Cada página: URL propia, enlaces `<a href>` reales, canonical autorreferenciado e indexable.
-- No canonices todo a la página 1 ni pongas `noindex` a las siguientes. Es la forma más habitual de dejar contenido fuera del índice sin darse cuenta.
+- No canonices todo a la página 1 ni pongas `noindex` a las siguientes. Son dos formas de dejar contenido fuera del índice sin darse cuenta.
 - Si usas scroll infinito o "cargar más", mantén por debajo una paginación con URLs reales.
-- Revisa la profundidad de clics: si un producto solo se llega desde la página 40, ayúdalo con enlaces desde otros sitios.
+- Si un producto solo se llega desde la página 40, enlázalo también desde otros sitios.
 
 Si tienes un listado grande, empieza por una prueba sencilla: rastréalo sin JavaScript y mira hasta qué página llega el rastreador.
