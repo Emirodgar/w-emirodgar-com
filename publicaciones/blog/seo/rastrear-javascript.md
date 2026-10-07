@@ -60,6 +60,8 @@ El esquema final de trabajo que realiza Googlebot será el siguiente:
  5. Poco a poco Googlebot irá accediendo a las URLs del listado de renderizado para ejecutar el código JavaScript y obtener así la versión final de cada una de ellas.
  6. El resultado final obtenido en el punto anterior será enviado a su íncide para que pueda ser indexado posicionado en las futuras búsquedas.
 
+El punto 3 tiene una consecuencia práctica: Googlebot descubre las URLs nuevas por los enlaces `<a href>` del HTML. Si una [paginación](https://emirodgar.com/paginacion-listados-buenas-practicas-seo) o un menú depende de eventos JavaScript en lugar de enlaces reales, esas páginas no entran en el listado de rastreo.
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzIzNTMyODQzLDE0MjExOTc0NywtMTA5Mz
 cwMzcxNF19

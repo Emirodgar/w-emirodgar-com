@@ -72,7 +72,7 @@ Es decir, tu web puede estar perfectamente indexada en Google y ser invisible pa
 
 El objetivo es que todos reciban la misma versión del contenido, sin depender de las capacidades de cada bot. Con SSR:
 
-- El contenido principal, los enlaces internos, los títulos, la meta description, el canonical y los datos estructurados están en el HTML inicial.
+- El contenido principal, los enlaces internos (también los de una [paginación](https://emirodgar.com/paginacion-listados-buenas-practicas-seo)), los títulos, la meta description, el canonical y los datos estructurados están en el HTML inicial.
 - No hay que esperar a la cola de renderizado de Google.
 - Los bots de IA, los rastreadores sociales y cualquier herramienta sencilla leen lo mismo que Googlebot.
 
