@@ -34,7 +34,7 @@ El rastreo es el primer paso para que los buscadores descubran y analicen tu sit
 - Mejora el enlazado interno para facilitar el acceso de los bots a las páginas clave.
 - Corrige códigos de estado HTTP problemáticos (403, 404, etc.).
 - Gestiona adecuadamente [los parámetros de URL](https://emirodgar.com/parametros-url-seo) para evitar contenido duplicado.
-- Asegura el uso correcto de la paginación (`rel="next"` y `rel="prev"`).
+- Asegura el uso correcto de la [paginación](https://emirodgar.com/paginacion-listados-buenas-practicas-seo) (`rel="next"` y `rel="prev"`).
 - Configura y mantiene correctamente los atributos `canonical`.
 - Identifica y soluciona cadenas de redirecciones que puedan causar errores o tiempos de espera excesivos.
 - Supervisa y corrige errores de rastreo en Google Search Console.

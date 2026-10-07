@@ -71,7 +71,7 @@ Trabajo como **consultor SEO especializado en ecommerce** desde 2007, con proyec
 * **Navegación por facetas y filtros:** cada combinación de talla, color o precio puede generar una URL nueva, creando miles de páginas casi duplicadas que diluyen la autoridad del dominio y desperdician *crawl budget*.
 * **Productos sin stock o descatalogados:** decidir si se devuelven a 404, se redirigen o se mantienen indexados con una alternativa clara, en vez de dejar que se acumulen errores.
 * **Contenido de categoría pobre:** páginas de categoría que solo listan productos, sin texto que ayude a posicionar por las búsquedas más genéricas del sector.
-* **Paginación mal gestionada:** listados de producto divididos en páginas que compiten entre sí por las mismas palabras clave.
+* **[Paginación mal gestionada](https://emirodgar.com/paginacion-listados-buenas-practicas-seo):** listados de producto divididos en páginas que compiten entre sí por las mismas palabras clave.
 * **Velocidad de carga con catálogos grandes:** imágenes de producto, scripts de terceros (chat, recomendadores, reviews) y plantillas pesadas que penalizan los Core Web Vitals.
 * **Datos estructurados de producto incompletos:** sin marcado `Product`, `Offer` y `AggregateRating` correcto, se pierden las estrellas de valoración y el precio en los resultados de Google.
 

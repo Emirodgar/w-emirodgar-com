@@ -34,7 +34,7 @@ A continuación mostramos algunos puntos clave para una auditoría de enlazado i
 5.  **Auditar los anchor texts**. Debemos asegurarnos de que utilizamos términos relevantes y que aportan valor cuando enlazamos al resto de páginas de nuestro dominio.  
       
     
-6.  **Identificar enlaces internos que no deben de ser indexados**. Por ejemplo, es importante conocer los enlaces de paginación y, aunque permitamos su rastreo (follow) asegurarnos que se bloquea su indexación. Ocurriría  
+6.  **Identificar enlaces internos que no deben de ser indexados**. Por ejemplo, es importante conocer los [enlaces de paginación](https://emirodgar.com/paginacion-listados-buenas-practicas-seo) y, aunque permitamos su rastreo (follow) asegurarnos que se bloquea su indexación. Ocurriría  
       
     
 7.  **Identificar páginas huérfanas**. Son páginas que no tienen ningún enlace interno (o pocos y de baja calidad). En el caso de que se trate de páginas relevantes, necesitaremos potenciar el enlazado interno. Podemos usar Semrush, Ahrefs o ScreamingFrog.  
