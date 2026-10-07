@@ -1,6 +1,6 @@
 ---
 title: Core Web Vitals, problemas y soluciones
-description: 
+description: Qué son las Core Web Vitals (LCP, INP y CLS), por qué los datos de escritorio pueden ser peores que los de móvil y por qué Search Console, con su ventana de 28 días, no basta para medirlas.
 lang: es_ES
 author: Emirodgar
 sitemap: 1
@@ -8,7 +8,7 @@ feed: 1
 folder: seo
 layout: emirodgar_post
 date: 19/05/2021
-date_modified: 04/03/2025
+date_modified: 07/10/2026
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: core-web-vitals-problemas
 
@@ -18,13 +18,23 @@ permalink: core-web-vitals-problemas
 
 Las Core Web Vitals son una serie de métricas que utiliza Google para garantizar una correcta experiencia de los usuarios en una página web. A mayores, suman como un [factor SEO](https://emirodgar.com/factores-seo) para el posicionamiento web, aunque no son uno de los más relevantes. Chrome incluso llegó a plantear [una etiqueta visual para identificar páginas rápidas](https://emirodgar.com/etiqueta-pagina-rapida) basada en estas métricas. Uno de los mayores culpables de un mal CWV suelen ser [los anuncios](https://emirodgar.com/impacto-anuncios-en-seo), así que conviene cargarlos con cuidado.
 
+## Las tres métricas y sus umbrales
+
+Hoy son tres, y para considerarlas buenas Google fija estos valores:
+
+- **LCP (Largest Contentful Paint)**: carga del contenido principal, 2,5 segundos o menos.
+- **INP (Interaction to Next Paint)**: capacidad de respuesta ante las interacciones, 200 milisegundos o menos.
+- **CLS (Cumulative Layout Shift)**: estabilidad visual, 0,1 o menos.
+
+INP sustituyó a FID (First Input Delay) en marzo de 2024. Si encuentras guías o informes que todavía hablan de FID, están desactualizados.
+
 A continuación vamos a ver algunos de los problemas a los que nos podemos enfrentar cuando trabajamos la optimización de las mismas.
 
 ## ¿Pueden ser los valores de las Core Web Vitals peores en Desktop que en Mobile?
 
 Aunque por norma general los resultados de tiempo de carga y experiencia de usuario en dispositivos móviles suelen ser peores que en escritorio, a veces ocurre que no es así. 
 
-Como podemos observar en la siguiente imagen, los **datos de campo** en los que se basa este informe de Google Search Console muestras una mayoría de URLs correctas para la versión móvil pero un gran bloque de URLs que necesitan mejorar para la versión de escritorio.
+Como podemos observar en la siguiente imagen, los **datos de campo** en los que se basa este informe de Google Search Console muestran una mayoría de URLs correctas para la versión móvil pero un gran bloque de URLs que necesitan mejorar para la versión de escritorio.
 
 ![Emirodgar](https://i.imgur.com/5MeNWZy.png){:class="img-responsive"}
 
@@ -40,7 +50,7 @@ Estas son algunas de las razones que podrían explicar un peor rendimiento en es
 
 Por tanto, nuestra primera acción debe ser analizar la versión de escritorio y la versión móvil por separado para conocer el desempeño que están teniendo. Podemos hacerlo a través de las aplicaciones [https://pagespeed.web.dev/](https://pagespeed.web.dev/) o [https://gtmetrix.com/](https://gtmetrix.com/).
 
-El objetivo será entender si existe un problema de tiempo de carga en escritorio frente a mobile. Después recomiendo usar el [dashboard de CrUX](https://web.dev/chrome-ux-report-data-studio-dashboard/) para poder analizar la evolución de las Core Web Vitals en el tiempo y entender así si esta situación ha ocurrido de forma repentina (como parece mostrar Google Search Console) o si ha ido avanzando poco a poco. El hecho de ubicar un momento en el tiempo en el que todo cambió nos ayudará a identificar las posibles causas. Si ha sido algo progresivo, entonces sabemos que nuestra página no ha envejecido bien y que tendremos que aplicar cambios y mejoras para mejorar la experiencia que ofrecemos a los usuarios.
+El objetivo será entender si existe un problema de tiempo de carga en escritorio frente a mobile. Después recomiendo usar el [CrUX Vis](https://cruxvis.withgoogle.com/#/) (el antiguo dashboard de CrUX en Looker Studio está deprecado) para poder analizar la evolución de las Core Web Vitals en el tiempo y entender así si esta situación ha ocurrido de forma repentina (como parece mostrar Google Search Console) o si ha ido avanzando poco a poco. El hecho de ubicar un momento en el tiempo en el que todo cambió nos ayudará a identificar las posibles causas. Si ha sido algo progresivo, entonces sabemos que nuestra página no ha envejecido bien y que tendremos que aplicar cambios y mejoras para mejorar la experiencia que ofrecemos a los usuarios.
 
 ## Diferencias en la medición de Core Web Vitals: GSC vs. Marfeel
 
@@ -50,7 +60,7 @@ Ya que hemos entrado en este interesante debate, quiero compartir una reflexión
 
 ### Diferencia en los datos de Core Web Vitals
 
-Las Core Web Vitals (CWV) que vemos en GSC se obtienen de usuarios reales que navegan con Chrome y están logueados en su cuenta de Google. Es decir, los datos provienen de experiencias reales de navegación.
+Las Core Web Vitals (CWV) que vemos en GSC se obtienen del Chrome UX Report (CrUX), es decir, de usuarios reales de Chrome que tienen activado el envío de estadísticas de uso, sincronizan su historial y no tienen una frase de contraseña de sincronización. Quedan fuera, por ejemplo, Chrome en iOS, los WebView de Android y otros navegadores basados en Chromium. Son datos de experiencias reales de navegación, pero de un subconjunto concreto de usuarios.
 
 Por otro lado, Marfeel no utiliza estos datos directamente, sino que emplea la API de Google para emular su propio análisis en tiempo real. Aunque ambas plataformas se basan en la misma fuente de medición, en realidad no trabajan con el mismo conjunto de datos, lo que puede generar diferencias en los valores reportados.
 
@@ -70,7 +80,7 @@ Por eso es tan importante contar con un segundo sistema de medición, como Marfe
 
 ### El problema de la ventana de 28 días
 
-Google utiliza una ventana de 28 días para agrupar todo lo ocurrido en ese período. Esto puede generar discrepancias importantes, ya que los cambios en el rendimiento web pueden tardar semanas en reflejarse en GSC.
+Google utiliza una ventana de 28 días para agrupar todo lo ocurrido en ese período. Esto puede generar discrepancias importantes, ya que los cambios en el rendimiento web pueden tardar semanas en reflejarse en GSC. CrUX Vis, basado en la CrUX History API, se actualiza cada semana, lo que ayuda a ver la evolución con más frecuencia que el dashboard mensual anterior.
 
 Marfeel, en cambio, delimita con mayor precisión cuándo se han producido las desviaciones y las refleja de forma más clara en sus gráficas. Esto permite detectar problemas y medir mejoras con mayor rapidez y precisión.
 
