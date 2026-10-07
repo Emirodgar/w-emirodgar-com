@@ -57,7 +57,7 @@ Cuando detectamos problemas de rastreo e indexación en nuestro sitio, además d
 2. Revisar las reglas de transformación, las cabeceras de respuesta y los Workers en Cloudflare. Estas configuraciones pueden modificar cómo Google ve el contenido.
 3. Usar cURL con el user-agent de Googlebot y la instrucción "Cache-Control: no-cache". Esto ayuda a comprobar qué respuesta devuelve el servidor sin interferencias de la caché.
 4. Si la web está en WordPress, desactivar los plugins de SEO temporalmente. Algunos pueden generar cabeceras dinámicas que afecten la indexación.
-5. Registrar las solicitudes de Googlebot en el servidor y revisar si aparece la etiqueta X-Robots-Tag. Esto puede revelar si se están enviando señales no deseadas a los motores de búsqueda.
+5. Registrar las solicitudes de Googlebot en el servidor y revisar si aparece la etiqueta X-Robots-Tag. Esto puede revelar si se están enviando señales no deseadas a los motores de búsqueda. Recuerda [verificar que esas peticiones son realmente de Googlebot](https://emirodgar.com/detectar-googlebot) (DNS inversa o rangos de IP oficiales) y no de un robot que suplanta su `User-Agent`.
 6. Si todo lo anterior falla, desactivar Cloudflare temporalmente. Para ello, se puede apuntar el DNS directamente al servidor y hacer una nueva prueba.
 
 Siguiendo estos pasos, es posible detectar si Cloudflare está impidiendo que Google indexe una página y tomar las medidas necesarias para solucionarlo.

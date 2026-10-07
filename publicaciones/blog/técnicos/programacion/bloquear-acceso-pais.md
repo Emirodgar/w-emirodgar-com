@@ -18,7 +18,7 @@ Aunque es algo atípico, en ciertos momento podemos requerir limitar o **bloquea
 
 > Esto no se trata de bloquear el rastreo e indexación a Google, sino de bloquear el acceso de usuarios de ciertos países -con conexión lenta- para que no sean contabilizados en las CWV. 
 
-Como he comentado antes, a nivel SEO implementar un bloqueo por país no es recomendable, no obstante, voy a explicar cómo podríamos llevarlo a cabo ya que el conocimiento no ocupa lugar.
+Como he comentado antes, a nivel SEO implementar un bloqueo por país no es recomendable. Además, si bloqueas rangos de IP sin cuidado puedes dejar fuera a Googlebot, que rastrea principalmente desde IPs de Estados Unidos, así que conviene [verificar y permitir sus IPs](https://emirodgar.com/detectar-googlebot). No obstante, voy a explicar cómo podríamos llevarlo a cabo ya que el conocimiento no ocupa lugar.
 
 ## Bloquear a través de archivo de configuración del servidor
 
