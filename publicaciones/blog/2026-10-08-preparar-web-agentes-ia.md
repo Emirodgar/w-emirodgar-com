@@ -74,6 +74,7 @@ Tu interfaz ya es una interfaz de software para los agentes, aunque nadie la hay
 
 ## Más sobre este tema
 
+- [GEO para ecommerce, cómo aparecer en las compras con IA](https://emirodgar.com/geo-ecommerce)
 - [Qué es el Protocolo de Contexto de Modelo (MCP)](https://emirodgar.com/que-es-mcp)
 - [Cómo montar tu primer agente de IA para SEO con Claude (paso a paso)](https://emirodgar.com/agente-seo-claude)
 - [Agentes IA](https://emirodgar.com/agentes-ia)
