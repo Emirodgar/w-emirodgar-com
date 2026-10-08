@@ -176,6 +176,7 @@ Porque la IA ha convertido muchas búsquedas en conversaciones y la única forma
 
 ## Más sobre este tema
 
+- [Cómo medir tu visibilidad en la IA sin engañarte](https://emirodgar.com/medir-visibilidad-ia)
 - [3 predicciones para el SEO en 2027 (y por qué no vas a poder comprobarlas)](https://emirodgar.com/predicciones-seo-2027)
 - [8 tendencias de marketing con IA que confirman los datos de búsqueda (Ahrefs)](https://emirodgar.com/tendencias-marketing-ia)
 - [Los retos del SEO en 2025](https://emirodgar.com/retos-seo)
