@@ -74,3 +74,5 @@ Las inteligencias artificiales ya no son solo herramientas de búsqueda o asiste
 
 Las marcas que entiendan esta transformación y trabajen en **estructurar sus datos y servicios** para ser comprendidos por la IA, serán las que dominen el futuro del **posicionamiento digital**.
 Porque en esta nueva etapa, **no se trata de aparecer, sino de ser utilizados**.
+
+*Este artículo forma parte de la guía [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar).*

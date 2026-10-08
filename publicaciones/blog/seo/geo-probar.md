@@ -172,3 +172,14 @@ Porque la IA ha convertido muchas búsquedas en conversaciones y la única forma
 
 **Como he dicho muchas veces:** El GEO no sustituye al SEO; lo amplía. Si quieres influir en cómo te ven las IAs —y cómo te eligen los usuarios al final del funnel—, deja de adivinar y empieza a probar con rigor.
 
+*Esta guía forma parte de [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*
+
+## Más sobre este tema
+
+- [3 predicciones para el SEO en 2027 (y por qué no vas a poder comprobarlas)](https://emirodgar.com/predicciones-seo-2027)
+- [8 tendencias de marketing con IA que confirman los datos de búsqueda (Ahrefs)](https://emirodgar.com/tendencias-marketing-ia)
+- [Los retos del SEO en 2025](https://emirodgar.com/retos-seo)
+- [El futuro del posicionamiento digital del SEO al AEO](https://emirodgar.com/el-futuro-del-posicionamiento-digital-del-seo-al-aeo)
+- [Cómo la IA está cambiando la forma en que buscamos en internet](https://emirodgar.com/como-la-ia-esta-cambiando-la-forma-en-que-buscamos-en-internet)
+- [Cómo enriquecer las búsquedas tradicionales para sacarles partido en la era de la IA](https://emirodgar.com/enriquecer-busquedas-tradicionales-ia)
+- [Google vs Perplexity, el buscador del futuro](https://emirodgar.com/google-vs-perplexity)

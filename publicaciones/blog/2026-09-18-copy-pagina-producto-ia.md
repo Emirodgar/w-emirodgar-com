@@ -48,3 +48,5 @@ Un matiz que me parece muy acertado: cuando un creador de contenido o un afiliad
 Riemer reconoce algo importante: la IA todavía está en una fase temprana y no puede sostener un negocio por sí sola a día de hoy, y es perfectamente posible que en algún momento un agente decida no mostrarte a ti. Cuando eso pase, todos los demás canales —búsqueda orgánica tradicional, redes, afiliados, email— siguen ahí, y sobre esos canales el copy de producto nunca ha dejado de importar.
 
 La conclusión práctica que me llevo, y que aplico con mis clientes de ecommerce, es que no hay que elegir entre optimizar para agentes de IA o para personas. Cuidar el copy de tus páginas de producto beneficia a la vez al SEO tradicional, a la experiencia de usuario y a la calidad de lo que un sistema de IA puede encontrar sobre ti, sin sacrificar ninguno de los tres frentes.
+
+*Este artículo forma parte de la guía [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt).*

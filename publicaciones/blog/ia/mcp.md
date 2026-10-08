@@ -73,5 +73,6 @@ En resumen, **la IA no solo contesta, actúa**. Y eso cambia por completo la for
 
 El **Protocolo de Contexto de Modelo (MCP)** simplifica y potencia la conexión entre la inteligencia artificial y el mundo real. Gracias a él, los asistentes pasan de ser un apoyo en la conversación a convertirse en **herramientas prácticas para automatizar procesos y ahorrar tiempo**.  
 
-Estamos ante un estándar que, si se consolida, **puede transformar la relación entre las personas y la tecnología**: menos clics, menos complicaciones y más productividad.  
+Estamos ante un estándar que, si se consolida, **puede transformar la relación entre las personas y la tecnología**: menos clics, menos complicaciones y más productividad.
 
+*Este artículo forma parte de la guía [Cómo preparar tu web para agentes de IA](https://emirodgar.com/preparar-web-agentes-ia).*

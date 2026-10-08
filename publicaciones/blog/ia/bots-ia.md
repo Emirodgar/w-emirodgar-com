@@ -54,3 +54,5 @@ La respuesta es simple: **pon el foco en la calidad y la autenticidad**. Si el S
 La inteligencia artificial no ha llegado para sustituir al SEO, sino para redefinir sus reglas. Este nuevo ecosistema nos recuerda que el verdadero valor del contenido reside en su **experiencia, pericia y fiabilidad**.
 
 Si quieres destacar, la clave es generar un contenido tan bueno que no solo interese a los buscadores tradicionales, sino que también sea una **fuente de referencia para la inteligencia artificial**. Ya no se trata de engañar al algoritmo, sino de demostrar que somos la mejor fuente de información. Y eso, amigo, es la base de cualquier estrategia exitosa, sobre todo ahora que las [AI Overviews de Google](https://emirodgar.com/ai-overviews-google-publishers) se quedan con buena parte del tráfico que antes llegaba a tu web.
+
+*Este artículo forma parte de la guía [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial).*

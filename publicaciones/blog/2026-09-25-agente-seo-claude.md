@@ -58,3 +58,5 @@ Esto es, en el fondo, la misma lógica de iteración que defiendo en [GEO deja d
 ## Mi conclusión
 
 Lo que más valoro de este enfoque es que no requiere saber programar. Con Conectores y Skills, montar un agente de SEO se parece más a documentar bien un proceso que ya sabes hacer que a desarrollar software. Si trabajas con clientes o llevas varios proyectos a la vez, esta es exactamente el tipo de tarea repetible —briefings, minería de consultas, reporting— donde un agente bien acotado te devuelve horas a la semana sin que tengas que ceder el criterio final, porque sigues siendo tú quien revisa y aprueba lo que sale.
+
+*Este artículo forma parte de la guía [Cómo preparar tu web para agentes de IA](https://emirodgar.com/preparar-web-agentes-ia).*

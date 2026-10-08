@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 05-10-2026
-folder: seo
+folder: geo
 permalink: csr-vs-ssr-rastreadores-javascript
 
 ---
@@ -134,3 +134,5 @@ Estas pruebas valen más si se ejecutan antes de que el cambio llegue a producci
 ![Caída brusca de clics e impresiones en Search Console en los últimos días del gráfico](https://emirodgar.com/cdn/images/posts/search-console-caida-clics-impresiones.png){:class="img-responsive"}
 
 Si tu web está en CSR y todavía no sabes qué ven los bots de IA, esta es la prueba más rápida que puedes hacer hoy: abre el código fuente y busca tu contenido.
+
+*Este artículo forma parte de la guía [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial).*

@@ -65,3 +65,5 @@ Estos descubrimientos nos dan pistas muy claras sobre cómo la inteligencia arti
 * **Fomentar la interacción de los usuarios** con tu web, ya que es una señal de que el contenido es valioso.
 
 Los factores SEO de toda la vida, como la autoridad y la relevancia, se refuerzan aún más en el entorno de la inteligencia artificial. Adaptar tu forma de trabajar a estas nuevas reglas será clave para seguir posicionando tu web con éxito.
+
+*Este artículo forma parte de la guía [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt).*

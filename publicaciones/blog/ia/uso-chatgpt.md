@@ -72,3 +72,5 @@ Este análisis nos deja una idea muy clara: ChatGPT es mucho más que una herram
 Los datos demuestran que su uso es cada vez más diverso y global, y que los estereotipos del programador o del usuario solitario no representan a la gran mayoría. Entender cómo usamos realmente estas tecnologías es el primer paso para poder sacarles el máximo partido, tanto dentro como fuera del trabajo.
 
 Si quieres pasar de usuario ocasional a sacarle todo el jugo, aquí tienes [técnicas de ingeniería de prompts](https://emirodgar.com/como-sacar-mas-partido-a-chatgpt-con-ingenieria-de-prompts) que marcan la diferencia.
+
+*Este artículo forma parte de la guía [Guía para generar contenido con Inteligencia Artificial](https://emirodgar.com/guia-contenidos-ia).*

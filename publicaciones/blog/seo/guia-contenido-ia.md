@@ -7,7 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
-folder: seo
+folder: geo
 date: 26/03/2024
 date_modified: 05/03/2025
 permalink: guia-contenidos-ia
@@ -95,5 +95,11 @@ La calidad del contenido no solo depende de las herramientas utilizadas para cre
 
 Para las pequeñas empresas, es crucial enfocarse en **estrategias escalables** y considerar su capacidad de crecimiento antes de invertir en soluciones complejas. Las herramientas avanzadas pueden ser innecesarias si los fundamentos empresariales aún no están establecidos. Siempre digo que para trabajar cualquier estrategia SEO lo podemos hacer con un stack tecnológico gratuito. Hay soluciones sin necesidad de pagar que nos pueden ayudar a iniciarlos en los primeros pasos.
 
+*Esta guía forma parte de [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*
 
+## Más sobre este tema
 
+- [Contenido con IA cómo usarlo sin perder la confianza del público](https://emirodgar.com/contenido-con-ia-como-usarlo-sin-perder-la-confianza-del-publico)
+- [5 técnicas de prompting que Anthropic recomienda para sacar más partido a Claude](https://emirodgar.com/prompts-claude-anthropic)
+- [Cómo sacar más partido a ChatGPT con ingeniería de prompts](https://emirodgar.com/como-sacar-mas-partido-a-chatgpt-con-ingenieria-de-prompts)
+- [Para que usamos realmente ChatGPT](https://emirodgar.com/estudio-usos-chatgpt)

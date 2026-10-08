@@ -56,3 +56,5 @@ Pero si esta compensación se queda en un gesto simbólico y no evoluciona hacia
 ## La pregunta de fondo
 
 Google lleva construyendo desde hace años el relato de que la IA generativa y el ecosistema editorial pueden convivir. Este programa es un paso concreto en esa dirección, pero con una cifra de pago que, por ahora, no compensa lo que muchos medios han perdido en tráfico e ingresos publicitarios desde que las AI Overviews son la norma. Un [experimento aleatorizado](https://emirodgar.com/ai-overviews-google-publishers) con 1.100 usuarios acaba de cuantificarlo: forzar AI Mode redujo en 18,8 puntos las búsquedas que acaban en una web externa. Que sea el inicio real de un "mercado de datos de inferencia" o simplemente un gesto de relaciones públicas con forma de producto, dependerá de si Google se anima a hacer públicos los criterios de cálculo y a escalar las cifras. Mientras eso no pase, yo lo trataría como lo que es hoy: un ingreso complementario, no una estrategia.
+
+*Este artículo forma parte de la guía [AI Overviews en Google qué significa para editores y marcas en 2026](https://emirodgar.com/ai-overviews-google-publishers).*

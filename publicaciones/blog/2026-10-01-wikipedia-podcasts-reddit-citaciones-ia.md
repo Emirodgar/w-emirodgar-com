@@ -104,3 +104,5 @@ Si ya mides tu visibilidad en IA, como proponía en [GEO: deja de adivinar y emp
 Hay una advertencia que conviene hacer: el artículo es una columna de opinión que resume una charla, y varios de los datos proceden de estudios de herramientas y plataformas con interés en el tema. Sirven para ver la tendencia, no para tomarlos como cifras exactas.
 
 Aun así, la idea de fondo me parece sólida y práctica: la IA cita lo que otros dicen de ti, así que el SEO ya no puede quedarse en la propia web. Si no tienes relación con la persona de comunicación de tu empresa, este es un buen momento para pedirle un café.
+
+*Este artículo forma parte de la guía [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt).*

@@ -102,3 +102,5 @@ Las frecuentes actualizaciones del algoritmo de Google, especialmente aquellas c
 - Diversificar las fuentes de tráfico para reducir la dependencia de Google. Esto, aunque me duele, es la gran realidad.
 
 Espero que estos retos nos ayuden a salir reforzados y que nos conviertan en mejores profesionales del SEO.
+
+*Este artículo forma parte de la guía [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar).*

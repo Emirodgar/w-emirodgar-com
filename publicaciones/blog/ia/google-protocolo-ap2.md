@@ -64,3 +64,5 @@ Esto transformará la experiencia de usuario y obligará a las tiendas online a 
 En definitiva, el AP2 no es solo un nuevo protocolo de pago. Es una pieza fundamental en la construcción de una web más inteligente y automatizada, donde la interacción con la tecnología será cada vez más conversacional y menos manual. Habrá que estar muy atentos a cómo evoluciona, porque sin duda va a dar mucho que hablar.
 
 Es otra pieza más de [cómo está cambiando el proceso de compra en la era de la IA](https://emirodgar.com/como-cambia-el-proceso-de-compra-en-la-era-de-la-inteligencia-artificial), y de cómo herramientas como [Logic Apps de Microsoft](https://emirodgar.com/microsoft-conecta-ia-logic-apps) permiten que la IA no solo recomiende, sino que también actúe.
+
+*Este artículo forma parte de la guía [Cómo preparar tu web para agentes de IA](https://emirodgar.com/preparar-web-agentes-ia).*

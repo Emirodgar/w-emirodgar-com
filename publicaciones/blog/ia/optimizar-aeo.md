@@ -83,3 +83,13 @@ En lugar de pensar solo en cómo aparecer en Google, conviene empezar a diseñar
 El AEO no es una moda pasajera: **es probablemente el mayor cambio en la búsqueda desde Panda de Google**. Y lo mejor es que no solo beneficia a grandes empresas, sino que abre la puerta a que proyectos pequeños o en fases iniciales puedan competir en igualdad de condiciones.
 
 Si quieres adelantarte, empieza hoy: analiza qué preguntas resuelves mejor que nadie, crea contenido útil y asegúrate de que los motores de IA puedan encontrarte. El momento de aprovechar el AEO es ahora.
+
+*Esta guía forma parte de [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*
+
+## Más sobre este tema
+
+- [Wikipedia, podcasts y Reddit, las fuentes que alimentan las citas de la IA](https://emirodgar.com/wikipedia-podcasts-reddit-citas-ia)
+- [Las claves para posicionar tu web en Perplexity](https://emirodgar.com/seo-perplexity)
+- [Cómo crear hubs de recomendación AI-Ready para nuestro contenido](https://emirodgar.com/como-crear-hubs-de-recomendacion-ai-ready)
+- [Cómo usamos ChatGPT de verdad y por qué cambiará tu estrategia SEO](https://emirodgar.com/analisis-chatgpt-seo)
+- [¿Sigue importando el copy de tus páginas de producto si los agentes de IA leen feeds y schema?](https://emirodgar.com/copy-pagina-producto-ia)

@@ -87,3 +87,5 @@ Cierra con un bloque de conclusión ultra-directo. La IA debe ser capaz de extra
 3. Mantén una jerarquía de encabezados clara (H2 y H3) para que el HTML resultante sea fácilmente escaneable por los bots de búsqueda.
 4. Si el usuario te da un texto desorganizado o una URL con información, extrae los datos y amóldalos a este formato.
 ```
+
+*Este artículo forma parte de la guía [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt).*

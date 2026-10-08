@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 16-07-2026
-folder: ia
+folder: geo
 permalink: /safari-servidor-mcp-seo-cwv
 ---
 
@@ -69,3 +69,5 @@ La implementación del servidor MCP en Safari representa un **paso importante ha
 La IA se está integrando cada vez más en las herramientas que usamos diariamente, y esta actualización de Safari es un claro ejemplo de cómo la tecnología simplifica tareas complejas. **La optimización de Core Web Vitals y SEO técnico está a punto de volverse mucho más accesible para todos**.
 
 Si gestionas un sitio web, es momento de explorar esta nueva funcionalidad y aprovecharla para mejorar tu posicionamiento en buscadores.
+
+*Este artículo forma parte de la guía [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial).*

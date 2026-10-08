@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 24-09-2025
-folder: ia
+folder: geo
 permalink: enriquecer-busquedas-tradicionales-ia
 
 ---
@@ -48,3 +48,5 @@ Herramientas como **AlsoAsked** ayudan a identificar estas conexiones entre preg
 Estos tres ejemplos muestran que la búsqueda tradicional no desaparece, se enriquece: memoria de persona, consultas más largas y contextuales, y una conversación que continúa más allá de la primera respuesta.
 
 Para quienes creamos contenido, la lección es concreta: dejar de pensar en una keyword suelta y empezar a pensar en el perfil completo que hay detrás —quién es, qué necesita después, qué le preocupa— porque eso es exactamente lo que la IA ya está usando para decidir qué mostrarle.
+
+*Este artículo forma parte de la guía [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar).*

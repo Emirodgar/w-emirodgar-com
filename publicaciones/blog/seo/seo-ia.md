@@ -7,7 +7,7 @@ author: Emirodgar
 lang: es_ES
 sitemap: 1
 feed: 1
-folder: ia
+folder: geo
 date: 28/11/2023
 date_modified: 08/10/2026
 permalink: seo-inteligencia-artificial
@@ -144,4 +144,12 @@ Está claro que **el peso de marca y autoridad tienen gran influencia**, posible
 
 - **Autoridad de marca**: tener autoridad en nuestro sector será fundamental para que nuestros futuros contenidos (generados con o sin IA) tengan una buena aceptación.
 
+## Guías de este bloque
 
+- **Estrategia, medición y tendencias**: [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar)
+- **Visibilidad y citación en IA**: [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt)
+- **SEO técnico para IA**: [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial)
+- **Google y sus superficies de IA**: [AI Overviews en Google qué significa para editores y marcas en 2026](https://emirodgar.com/ai-overviews-google-publishers)
+- **Marca y reputación en IA**: [Cómo auditar y proteger tu marca en las respuestas de la IA](https://emirodgar.com/proteccion-marca-ia)
+- **Agentes y comercio con IA**: [Cómo preparar tu web para agentes de IA](https://emirodgar.com/preparar-web-agentes-ia)
+- **Contenido y prompts con IA**: [Guía para generar contenido con Inteligencia Artificial](https://emirodgar.com/guia-contenidos-ia)

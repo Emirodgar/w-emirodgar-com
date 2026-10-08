@@ -169,3 +169,5 @@ Un apunte sobre afirmaciones que circulan mucho:
 - Mide con el informe de Search Console y compara contra tus propios datos, no contra cifras genéricas.
 
 Discover es un canal que no controlas, y por eso no conviene depender de él. Pero preparar bien el contenido para que pueda entrar es barato, y casi todo lo que hay que hacer sirve también para el resto de tu SEO.
+
+*Este artículo forma parte de la guía [AI Overviews en Google qué significa para editores y marcas en 2026](https://emirodgar.com/ai-overviews-google-publishers).*

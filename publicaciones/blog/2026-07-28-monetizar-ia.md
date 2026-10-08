@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 28-07-2026
-folder: seo
+folder: geo
 permalink: /monetizar-visibilidad-ia
 ---
 
@@ -84,3 +84,5 @@ La realidad es que **la visibilidad en IA no reemplazará a Google en el corto p
 - Aprovechan esos usuarios cualificados para construir relaciones duraderas
 
 **La pregunta no es si deberías ocuparte de la visibilidad en IA, sino cómo lo harás hoy para no quedarte atrás mañana**.
+
+*Este artículo forma parte de la guía [AI Overviews en Google qué significa para editores y marcas en 2026](https://emirodgar.com/ai-overviews-google-publishers).*

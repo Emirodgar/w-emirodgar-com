@@ -85,3 +85,5 @@ Y un matiz de comunicación: responder a una campaña tiene su riesgo, porque pu
 - Consigue que terceros fiables la confirmen. Tu web sola pesa poco frente a una campaña repetida.
 
 Con la IA pasa lo mismo que con el SEO de toda la vida: si no cuentas tu versión, la cuenta otro.
+
+*Este artículo forma parte de la guía [Cómo auditar y proteger tu marca en las respuestas de la IA](https://emirodgar.com/proteccion-marca-ia).*

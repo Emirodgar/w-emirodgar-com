@@ -44,3 +44,5 @@ Y una suposición mía, sin respaldo en el experimento: si una marca inventada e
 Nada radical. Producto bueno, presencia donde está tu audiencia y una lista de correo propia. Y no apostar todo a un canal: Reddit dominaba las citas en muchas respuestas y de pronto cayó, sin avisar.
 
 El SEO que mide una posición dejó de ser suficiente. El que construye marca, no.
+
+*Este artículo forma parte de la guía [AI Overviews en Google qué significa para editores y marcas en 2026](https://emirodgar.com/ai-overviews-google-publishers).*

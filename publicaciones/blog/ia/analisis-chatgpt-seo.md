@@ -46,3 +46,5 @@ Las personas ya no solo buscan información, buscan ejecución.
 Si te dedicas al marketing de contenidos, al B2B, al SEO o al mundo de la inteligencia artificial, es el momento de replantearlo todo. Como [consultor SEO](https://emirodgar.com/consultor-seo), mi consejo es claro: empieza a pensar en "resultados" y no solo en "palabras clave".
 
 El juego está cambiando, y los que no ajusten su estrategia se van a encontrar hablando solos.
+
+*Este artículo forma parte de la guía [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt).*

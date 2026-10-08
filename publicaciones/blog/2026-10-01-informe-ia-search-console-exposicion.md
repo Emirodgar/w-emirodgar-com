@@ -101,3 +101,5 @@ Con el método hay que ser prudente:
 Dicho esto, creo que la idea de fondo es acertada. Un informe de visibilidad no sirve para tomar decisiones hasta que lo cruzas con negocio, y casi nadie lo hace. Es la misma lógica de [medir con datos propios](https://emirodgar.com/predicciones-seo-2027) y de [probar con hipótesis](https://emirodgar.com/geo-empieza-a-probar), no de fiarse del número que te da la herramienta de turno.
 
 Si lo pruebas, empieza por lo simple: exporta las páginas, agrúpalas por sección, añade una sola métrica de negocio y compara. Con eso ya sabes qué parte de tu web merece que le dediques más tiempo.
+
+*Este artículo forma parte de la guía [AI Overviews en Google qué significa para editores y marcas en 2026](https://emirodgar.com/ai-overviews-google-publishers).*

@@ -59,3 +59,5 @@ También cambia un poco cómo pienso el bloqueo de bots: si te preocupa que un r
 ## Mi conclusión
 
 Como toda filtración, esto hay que cogerlo con la cautela correspondiente: no es un anuncio oficial de Anthropic, es la lectura de alguien que lleva tiempo siguiendo estos leaks con criterio. Pero si se confirma, es un cambio de fondo, no de forma: pasamos de "¿me lee la IA?" a "¿supero el filtro del modelo que decide qué le cuenta a la IA?". Y esa es una pregunta bastante distinta a la que la mayoría nos estábamos haciendo hasta ahora.
+
+*Este artículo forma parte de la guía [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial).*

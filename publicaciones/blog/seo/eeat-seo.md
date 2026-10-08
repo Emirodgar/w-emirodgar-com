@@ -9,7 +9,7 @@ sitemap: 1
 feed: 1  
 date: 21-10-2025  
 date_modified: 08-10-2026  
-folder: seo  
+folder: seo
 permalink: que-hay-realmente-detras-del-e-e-a-t-de-google  
 ---  
 

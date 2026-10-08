@@ -69,3 +69,14 @@ Si das ese paso, dos cautelas que también señala Merj: pon límites a las acci
 Primero que el contenido esté en el HTML inicial. Después, los controles reales y el ARIA veraz, que ayudan a todos. Después, medir con tareas reales. El catálogo ARD y WebMCP dependen de si tu sitio ofrece algo que un agente pueda usar, y todavía es pronto para apostar fuerte por ellos.
 
 Tu interfaz ya es una interfaz de software para los agentes, aunque nadie la haya documentado ni testeado. Mejor probarla tú antes que enterarte por una venta perdida.
+
+*Esta guía forma parte de [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*
+
+## Más sobre este tema
+
+- [Qué es el Protocolo de Contexto de Modelo (MCP)](https://emirodgar.com/que-es-mcp)
+- [Cómo montar tu primer agente de IA para SEO con Claude (paso a paso)](https://emirodgar.com/agente-seo-claude)
+- [Agentes IA](https://emirodgar.com/agentes-ia)
+- [Google AP2 el protocolo que cambiará las compras online con IA](https://emirodgar.com/google-ap2-protocolo-compras-online-ia)
+- [Cómo cambia el proceso de compra en la era de la inteligencia artificial](https://emirodgar.com/como-cambia-el-proceso-de-compra-en-la-era-de-la-inteligencia-artificial)
+- [Riesgos de conectar tus herramientas a ChatGPT y otros agentes de IA](https://emirodgar.com/riesgos-conectar-herramientas-chatgpt)

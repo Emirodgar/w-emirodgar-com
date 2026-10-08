@@ -78,3 +78,11 @@ Por eso el sentimiento de marca toca a redes sociales, email, relaciones públic
 Korobka lo resume bien: la prevención mediante activos de marca sólidos rinde más que perseguir el abuso activo una vez ya ha pasado. Registrar tus dominios y usuarios en redes y espacios como npm antes de que lo haga otro, activar doble factor en tus registradores, y tener una página propia que liste todos tus canales oficiales verificados, evita que muchos de estos problemas lleguen siquiera a producirse.
 
 Es la misma lógica que aplico cuando hablo de [trabajar tu marca de cara al SEO y a la IA](https://emirodgar.com/trabajar-tu-marca-para-el-seo): cuanto más sólida y consistente sea tu presencia oficial, menos espacio le dejas a la IA para inventarse o confundir quién eres realmente.
+
+*Esta guía forma parte de [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*
+
+## Más sobre este tema
+
+- [Qué hacer cuando la IA repite información falsa sobre tu marca](https://emirodgar.com/ia-informacion-erronea-marca)
+- [Trabajar tu marca para el SEO con inteligencia artificial](https://emirodgar.com/trabajar-tu-marca-para-el-seo)
+- [Por qué las personas son clave en el SEO con IA](https://emirodgar.com/por-que-las-personas-son-clave-en-el-seo-con-ia)

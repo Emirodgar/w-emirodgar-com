@@ -64,3 +64,5 @@ El cierre del artículo es, para mí, el más aplicable a cualquier empresa medi
 ## Mi lectura como consultor
 
 Lo que más valoro de este análisis es que no vende una revolución total: confirma con datos que la transición ya está en marcha, no que vaya a llegar. Si tuviera que quedarme con una sola idea para trasladar a un cliente, sería la del punto 2: la IA no es el problema ni la solución, es una herramienta más de producción, y lo que sigue decidiendo si algo funciona es exactamente lo mismo que decidía antes de que existiera ChatGPT: si aporta valor real a quien lo consume, sea una persona o un agente.
+
+*Este artículo forma parte de la guía [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar).*

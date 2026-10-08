@@ -37,3 +37,5 @@ Google sigue teniendo la masa crítica de usuarios, pero va con cierto retraso f
 > Perplexity avanza hacia las búsquedas orgánicas permitiendo que sus páginas de resultados [se puedan indexar](https://www.perplexity.ai/hub/blog/perplexity-pages).
 
 Ahora mismo, las respuestas generadas por IA en Google afectan sólo al 14% del total de búsquedas. El resto siguen siendo las respuestas sin IA de siempre, pero será cuestión de tiempo que la situación se revierta en detrimento de nuestro querido tráfico orgánico.
+
+*Este artículo forma parte de la guía [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar).*

@@ -71,3 +71,13 @@ Conviene mirarlo con regularidad, no solo cuando algo parece ir mal. Una caída 
 Por desgracia para muchos, las **AI Overviews no desaparecerán**. Google las seguirá expandiendo, aunque el experimento anterior no encuentre que mejoren la satisfacción de los usuarios. Y esto teniendo en cuenta que desde su lanzamiento han sido comedidos y han ido reduciendo progresivamente su aparición, debido principalmente a errores y sentencias judiciales. Tu trabajo como editor o marca es dejar de luchar y aprender a prosperar en este entorno. Intentar sacar ventaja dentro de una situación que de por sí es bastante difícil.
 
 Lo que me gustaría que quedase muy claro es que el `robots.txt` no es tu salvaguarda. Para sobrevivir a esta odisea, adapta tu contenido, tu modelo de tráfico y tu mentalidad SEO a una realidad donde la IA sintetiza respuestas a escala. Quienes lo hagan rápido, ganarán. Quienes esperen, seguirán perdiendo tráfico e ingresos sin entender por qué.
+
+*Esta guía forma parte de [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*
+
+## Más sobre este tema
+
+- [Cómo sacar partido al informe de IA generativa de Search Console](https://emirodgar.com/informe-ia-generativa-search-console)
+- [Google empieza a pagar a los editores por su contenido en IA (y no todos están contentos)](https://emirodgar.com/google-paga-editores-ia)
+- [Cómo monetizar la visibilidad de tu contenido en IA](https://emirodgar.com/monetizar-visibilidad-ia)
+- [Cómo conseguir visibilidad en Google Discover](https://emirodgar.com/google-discover-visibilidad)
+- [Cuando AI Mode lee el correo del usuario, el SEO ya no tiene una única respuesta](https://emirodgar.com/google-personal-intelligence-seo)

@@ -54,4 +54,6 @@ Algunas recomendaciones básicas serían:
 ## Conclusión  
 La IA es una herramienta potente, pero no infalible. **Conectar tus datos sensibles sin restricciones a un agente como ChatGPT es abrir la puerta a riesgos innecesarios.**  
 
-No se trata de desconfiar de la tecnología, sino de recordar que **la seguridad empieza por cómo la usamos nosotros**. La próxima vez que pienses en enlazar tu correo, calendario o Drive a un agente de IA, pregúntate primero si realmente merece la pena.  
+No se trata de desconfiar de la tecnología, sino de recordar que **la seguridad empieza por cómo la usamos nosotros**. La próxima vez que pienses en enlazar tu correo, calendario o Drive a un agente de IA, pregúntate primero si realmente merece la pena.
+
+*Este artículo forma parte de la guía [Cómo preparar tu web para agentes de IA](https://emirodgar.com/preparar-web-agentes-ia).*

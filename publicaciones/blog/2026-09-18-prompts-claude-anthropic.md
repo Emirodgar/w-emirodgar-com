@@ -54,3 +54,5 @@ Anthropic afirma que, en el nivel de esfuerzo más bajo (el más barato y rápid
 ## Mi conclusión
 
 No hace falta ser desarrollador para sacar partido a esto. Lo interesante de que estas recomendaciones vengan directamente de quien construye el modelo es que no son trucos de foro, son el propio fabricante diciéndote qué comportamientos por defecto puedes ajustar y cómo. Si usas Claude a diario para investigar, redactar o analizar datos de SEO, prueba estas cinco instrucciones antes de asumir que "así responde la IA y ya está": casi siempre hay un ajuste de prompt detrás de la respuesta que no te convence.
+
+*Este artículo forma parte de la guía [Guía para generar contenido con Inteligencia Artificial](https://emirodgar.com/guia-contenidos-ia).*

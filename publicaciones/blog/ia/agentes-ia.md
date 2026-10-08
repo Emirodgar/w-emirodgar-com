@@ -67,5 +67,4 @@ Si estás convencido y quieres avanzar, te recomiendo la lectura de [What Are AI
 
 ![image](https://github.com/user-attachments/assets/bab186e7-1f66-4c9b-b6e3-2d0a0c608570){:class="img-responsive"}
 
-
-
+*Este artículo forma parte de la guía [Cómo preparar tu web para agentes de IA](https://emirodgar.com/preparar-web-agentes-ia).*

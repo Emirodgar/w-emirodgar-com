@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 25-09-2025
-folder: ia
+folder: geo
 permalink: por-que-las-personas-son-clave-en-el-seo-con-ia
 
 ---
@@ -80,3 +80,5 @@ No se trata de crear un documento y olvidarlo. Para que las personas sean útile
 Definitivamente sí. Crear personas de usuario no es un ejercicio de marketing bonito, es una forma de **adaptar tu contenido a cómo buscan realmente las personas, no a cómo nos gustaría que buscaran**.
 
 Cuanto más concreta sea esa persona —rol, restricciones, señales de confianza que necesita— más fácil le resultará a un buscador o a un asistente de IA usar tu contenido como respuesta. Y cuanto mejor definida esté, menos tendrás que adivinar cada vez que te sientes a escribir.
+
+*Este artículo forma parte de la guía [Cómo auditar y proteger tu marca en las respuestas de la IA](https://emirodgar.com/proteccion-marca-ia).*

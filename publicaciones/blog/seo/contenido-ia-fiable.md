@@ -70,3 +70,5 @@ La IA es una herramienta muy potente para automatizar procesos, pero no sustituy
 Esto conecta directamente con algo más amplio: [trabajar tu marca de cara al SEO y a la IA](https://emirodgar.com/trabajar-tu-marca-para-el-seo), porque la confianza que transmite tu contenido es, en el fondo, una extensión de la confianza que transmite tu marca.
 
 Si buscas ideas concretas de cómo aplicar la IA sin perder calidad, aquí tienes una [guía práctica para generar contenido con inteligencia artificial](https://emirodgar.com/guia-contenidos-ia).
+
+*Este artículo forma parte de la guía [Guía para generar contenido con Inteligencia Artificial](https://emirodgar.com/guia-contenidos-ia).*

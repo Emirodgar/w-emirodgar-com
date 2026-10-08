@@ -5,7 +5,7 @@ image: https://emirodgar.com/cdn/images/og/auditoria.png
 layout: emirodgar_post
 sitemap: 1
 feed: 1
-folder: seo
+folder: geo
 author: Emirodgar
 date: 06/11/2023
 permalink: bloquear-rastreador-ia
@@ -74,5 +74,4 @@ El proyecto [News Websites Blocking LLM Dataset Bots - Research Data](https://do
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/63ff136b-baee-4a8c-aec7-6b92a10f3a11){:class="img-responsive"}
 
-
-
+*Este artículo forma parte de la guía [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial).*

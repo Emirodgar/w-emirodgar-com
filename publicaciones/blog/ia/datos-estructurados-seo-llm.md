@@ -70,3 +70,5 @@ Sabiendo todo esto, la conclusión es bastante clara: **los datos estructurados 
 No te obsesiones con si el LLM final ve o no tu código `schema`. Preocúpate de que tu web esté tan bien estructurada que **cualquier sistema, actual o futuro, pueda entenderla sin el más mínimo esfuerzo**.
 
 Así que la próxima vez que alguien te diga que el `schema` ya no importa por la IA, sabrás que la historia es mucho más profunda. Los datos estructurados no han muerto; simplemente, han evolucionado para convertirse en la base silenciosa que alimenta a las nuevas inteligencias.
+
+*Este artículo forma parte de la guía [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial).*

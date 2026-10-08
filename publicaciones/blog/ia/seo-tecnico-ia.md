@@ -65,3 +65,15 @@ En otras palabras, tu contenido debe ser:
 La inteligencia artificial está cambiando cómo los usuarios encuentran y consumen información. Si quieres que tu web siga teniendo presencia en este nuevo escenario, debes **adaptar tu SEO técnico a dos mundos diferentes**: el complejo de Google y el más simple de los LLMs. Safari, por ejemplo, ya integra [un servidor MCP para depurar SEO técnico y Core Web Vitals con IA](https://emirodgar.com/safari-servidor-mcp-seo-cwv) directamente desde el navegador.  
 
 En este equilibrio está la clave: hacer tu contenido **comprensible para todos**, humanos, buscadores y ahora también inteligencias artificiales.
+
+*Esta guía forma parte de [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*
+
+## Más sobre este tema
+
+- [Datos estructurados y la IA ¿ignora Google tu schema?](https://emirodgar.com/datos-estructurados-seo-llm)
+- [CSR vs SSR, qué rastreadores ven tu JavaScript y cuáles no](https://emirodgar.com/csr-vs-ssr-rastreadores-javascript)
+- [Cómo bloquear el rastreador de las inteligencias artificiales](https://emirodgar.com/bloquear-rastreador-ia)
+- [Bloquear bots sin criterio puede salirte más caro que dejarlos pasar](https://emirodgar.com/segmentar-bloqueo-bots)
+- [Filtración sobre Claude, que ya no lee tu web directamente y primero la resume un modelo pequeño](https://emirodgar.com/claude-lee-tu-web-modelo-pequeno)
+- [¿Qué leen los bots de la IA? Fuentes y su impacto en el posicionamiento](https://emirodgar.com/que-leen-los-bots-de-la-ia)
+- [Safari implementa un servidor MCP para optimizar SEO y las Core Web Vitals](https://emirodgar.com/safari-servidor-mcp-seo-cwv)

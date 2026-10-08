@@ -61,3 +61,5 @@ La forma en la que los usuarios investigan y deciden está cambiando con la inte
 En este nuevo escenario, los datos de laboratorio ofrecen el mapa y los datos de campo la brújula. Y como en cualquier viaje, **necesitas ambos para llegar a buen puerto**.
 
 Este cambio va más allá de la investigación: con protocolos como [Google AP2](https://emirodgar.com/google-ap2-protocolo-compras-online-ia), la propia compra podría acabar ejecutándola un agente de IA en tu nombre.
+
+*Este artículo forma parte de la guía [Cómo preparar tu web para agentes de IA](https://emirodgar.com/preparar-web-agentes-ia).*

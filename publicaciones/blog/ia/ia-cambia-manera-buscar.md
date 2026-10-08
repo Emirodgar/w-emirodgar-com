@@ -46,3 +46,5 @@ Los hábitos de búsqueda, tan estables durante años, están empezando a cambia
 El futuro dependerá de qué herramienta consiga algo más que dar buenas respuestas: **convertirse en la costumbre diaria de millones de personas**.
 
 Para editores y medios, la buena noticia es que aunque este tráfico sea menor, [se puede monetizar la visibilidad en IA](https://emirodgar.com/monetizar-visibilidad-ia) porque suele ser un tráfico más cualificado. Y si quieres aprovechar mejor las búsquedas tradicionales que aún convives con la IA, aquí tienes [cómo enriquecerlas con datos de persona y contexto](https://emirodgar.com/enriquecer-busquedas-tradicionales-ia).
+
+*Este artículo forma parte de la guía [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar).*

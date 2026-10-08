@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1  
 feed: 1  
 date: 06-10-2025  
-folder: ia  
+folder: ia
 permalink: /microsoft-conecta-ia-logic-apps  
 ---  
 
