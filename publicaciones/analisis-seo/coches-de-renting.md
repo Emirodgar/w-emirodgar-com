@@ -295,67 +295,74 @@ permalink: /analisis-seo/coches-de-renting
 
 <h3 class="pd-section-title" style="font-size:19px">Exclusivas de arval.es</h3>
 <ul class="as-kwlist">
-<li>arval (marca) — 27.100</li>
-<li>jeep renegade (ocasión) — 18.100</li>
-<li>arval renting — 14.800</li>
-<li>arval ocasión (coches segunda mano) — 8.100</li>
+<li>arval (marca) — 33.100</li>
+<li>arval renting — 18.100</li>
+<li>arval ocasion (coches segunda mano) — 8.100</li>
 <li>renting furgonetas — 4.400</li>
 <li>renting arval — 2.400</li>
 <li>arval talleres / atención al cliente — 1.900 / 1.300</li>
+<li>arval motor trade / my arval / arval renting españa — 1.600 cada una</li>
 </ul>
-<p class="as-caption">Único del grupo con huella real fuera del embudo de compra: talleres, atención al cliente y coches de ocasión — perfil de operador establecido, no solo de landing comercial.</p>
+<p class="as-caption">Único del grupo con huella real fuera del embudo de compra: talleres, atención al cliente, área privada de clientes (my arval), motor trade y coches de ocasión — perfil de operador establecido, no solo de landing comercial. "Jeep Renegade", que figuraba en la medición anterior, ya no está entre sus principales keywords.</p>
 
 <h3 class="pd-section-title" style="font-size:19px">Exclusivas de bbvaautorenting.com</h3>
 <ul class="as-kwlist">
+<li>renting coche — 5.400 (posición 1)</li>
+<li>coche renting — 3.600 (posición 1)</li>
 <li>bbva renting — 2.900</li>
 <li>renting bbva — 1.900</li>
-<li>renting híbrido enchufable — 880</li>
 <li>bbva autorenting — 1.000</li>
-<li>bbva renting particulares — 480</li>
+<li>renting híbrido enchufable — 880</li>
+<li>bbva coches renting / renting bbva coches — 720 / 590</li>
 </ul>
-<p class="as-caption">Fuerte en marca propia y con una página dedicada a híbridos/enchufables que ningún otro del grupo tiene entre sus términos destacados.</p>
+<p class="as-caption">Fuerte en marca propia y con una página dedicada a híbridos/enchufables que ningún otro del grupo tiene entre sus términos destacados. Novedad respecto a la medición anterior: ocupa la posición 1 en "renting coche" y "coche renting", variantes genéricas de volumen medio (en la primera, coches.net solo llega al 7º puesto).</p>
 
 <h3 class="pd-section-title" style="font-size:19px">Exclusivas de ofertas-renting.ayvens.es</h3>
 <ul class="as-kwlist">
-<li>ayvens (marca nueva) — 14.800</li>
 <li>ald renting / ald automotive renting (marca antigua) — 880 / 390</li>
-<li>renting bmw — 3.600</li>
-<li>renault renting — 1.900</li>
-<li>renting automotive — 1.000</li>
+<li>ayvens renting empresas — 140</li>
+<li>ayvens ofertas / ayvens teléfono atención al cliente — 90 / 90</li>
+<li>renting vehicular — 390</li>
+<li>golf renting — 480</li>
+<li>renting bmw x3 — 720</li>
 </ul>
-<p class="as-caption">El único que todavía rankea tanto por su marca nueva ("ayvens") como por la antigua ("ald"/"ald automotive") — huella visible de la transición de marca, y páginas por fabricante (BMW, Renault) que ningún otro del grupo tiene destacadas.</p>
+<p class="as-caption">Sigue siendo el único que rankea por la marca antigua ("ald"/"ald automotive") — huella visible de la <a href="/ayvens-ald-seo">transición de marca</a> —, y mantiene páginas por modelo (Golf, BMW X3) que ningún otro del grupo tiene destacadas. Dato relevante: el término de marca "ayvens" (14.800 búsquedas/mes), que aparecía como su principal keyword exclusiva en la medición anterior, ya no figura entre sus palabras clave de este subdominio. En el SERP en vivo el subdominio ocupa el 2º puesto, por detrás de ayvens.com/es-es/, lo que podría explicar parte de la caída de tráfico de septiembre (hipótesis a validar con Search Console); su lista de keywords se ha vuelto casi toda de cola larga y marca antigua.</p>
 
 <h3 class="pd-section-title" style="font-size:19px">Exclusivas de driverevel.com/es/es/coches</h3>
 <ul class="as-kwlist">
-<li>revel renting (marca) — 14.800</li>
-<li>revel coches (marca) — 3.600</li>
+<li>revel renting (marca) — 22.200</li>
 <li>revel renting de coches — 1.900</li>
-<li>renting revel / revel renting particulares — 720 / 720</li>
+<li>renting revel — 880</li>
+<li>revel renting particulares — 720</li>
+<li>driverevel coches / coche revel — 260 / 260</li>
 </ul>
-<p class="as-caption">Casi toda su lista exclusiva es su propia marca ("revel"/"driverevel"). Dato clave: "revel renting" aporta el 22,95% de su tráfico total — más que la propia keyword "coches de renting" (1,38%). Buena parte de su rápido ascenso puede ser demanda de marca ya cautiva, no conquista de demanda genérica nueva.</p>
+<p class="as-caption">Casi toda su lista exclusiva es su propia marca ("revel"/"driverevel"). Dato clave: "revel renting" aporta el 36,4% de su tráfico total (17.760 de 48.776 visitas) — mucho más que la propia keyword "coches de renting" (0,9%), y más que en la medición anterior (22,95%). Buena parte de su ascenso es demanda de marca ya cautiva, no conquista de demanda genérica nueva.</p>
 
 <h3 class="pd-section-title" style="font-size:19px">Exclusivas de coches.net/renting</h3>
 <ul class="as-kwlist">
-<li>volvo ex30 renting / renting volvo ex30 — 590 / 590</li>
-<li>renting mercedes sin entrada — 590</li>
-<li>car renting (inglés) — 1.600</li>
-<li>furgonetas renting — 1.000</li>
+<li>car renting (inglés) — 1.600 (posición 1)</li>
+<li>coches net renting / renting coches net — 480 / 260</li>
+<li>renting coche por 100 euros al mes — 1.300</li>
+<li>coches por 200 euros al mes sin entrada renting — 1.000</li>
+<li>renting por meses / renting 6 meses — 1.600 / 880</li>
+<li>precio renting coches / coches de renting precios — 320 / 320</li>
 </ul>
-<p class="as-caption">El patrón típico de un marketplace: páginas long-tail por marca y modelo concreto (Volvo EX30, Mercedes), en vez de páginas de marca propia como el resto.</p>
+<p class="as-caption">El patrón típico de un marketplace: además de su propia marca (coches.net), rankea por cuotas concretas ("por 100 euros al mes", "por 200 euros al mes sin entrada"), duración ("por meses") y precio — consultas muy cercanas a la decisión. Las páginas long-tail por modelo (Volvo EX30, Mercedes) que destacaban en la medición anterior ya no están entre sus principales keywords.</p>
 
 <h3 class="pd-section-title" style="font-size:19px">Exclusivas de yomovo.es/renting</h3>
 <ul class="as-kwlist">
-<li>renting byd — 1.600</li>
-<li>renting ebro s400 — 390</li>
-<li>rent a car nissan qashqai — 720</li>
 <li>coche renting barato — 1.300</li>
+<li>renting coches sin entrada / coches de renting sin entrada — 720 / 1.000</li>
+<li>renting barato coches / renting de coches baratos — 390 / 720</li>
+<li>yomovo renting (marca) — 110</li>
+<li>renting mas barato de españa — 390</li>
 </ul>
-<p class="as-caption">Único del grupo con presencia destacada en marcas emergentes (BYD, Ebro) — un ángulo de diferenciación real frente a un mercado ya maduro.</p>
+<p class="as-caption">Su posicionamiento se concentra en el ángulo "barato" y "sin entrada", casi siempre en posiciones 4-6. Las marcas emergentes (BYD, Ebro) que lo diferenciaban en la medición anterior ya no aparecen entre sus principales keywords, lo cual encaja con el desplome de su tráfico: su ventaja se ha ido diluyendo.</p>
 </div>
 
 <div class="pd-section">
 <h2 class="pd-section-title">Nota metodológica</h2>
-<div class="as-callout">Los datos proceden de Semrush (base de datos España / Google.es), consultados el 8 de octubre de 2026 (último dato mensual: 15 de septiembre de 2026; SERP en vivo y backlinks de la fecha de consulta). Los listados de keywords exclusivas de cada dominio se mantienen de la medición del 11 de septiembre de 2026. El ámbito de medición <b>no es homogéneo</b> entre los seis: arval.es y bbvaautorenting.com se miden a nivel de dominio completo porque su negocio es 100% renting; ofertas-renting.ayvens.es se mide a nivel de subdominio (el dominio raíz ayvens.es es la web corporativa global del grupo); driverevel.com/es/es/coches, coches.net/renting y yomovo.es/renting se miden a nivel de URL/sección específica porque sus dominios raíz cubren negocios más amplios (coches.net es un marketplace generalista; driverevel.com y yomovo.es incluyen otras líneas fuera de España o fuera del renting). El histórico de backlinks solo está disponible a nivel de dominio raíz en Semrush, por lo que el gráfico de evolución de enlaces se limita a los dos casos donde dominio raíz y negocio de renting coinciden (arval.es, bbvaautorenting.com); para los otros cuatro se ofrece solo la foto actual. Las posiciones de una misma keyword pueden variar en un puesto entre el snapshot de "SERP en vivo" (phrase_organic) y la base de datos propia de cada dominio, por tratarse de rastreos en fechas ligeramente distintas — normal y no un error.</div>
+<div class="as-callout">Los datos proceden de Semrush (base de datos España / Google.es), consultados el 8 de octubre de 2026 (último dato mensual: 15 de septiembre de 2026; SERP en vivo y backlinks de la fecha de consulta). Los listados de keywords exclusivas se han obtenido de las 30 principales keywords por tráfico de cada URL en esa fecha, descartando los términos genéricos que comparten varios dominios. El ámbito de medición <b>no es homogéneo</b> entre los seis: arval.es y bbvaautorenting.com se miden a nivel de dominio completo porque su negocio es 100% renting; ofertas-renting.ayvens.es se mide a nivel de subdominio (el dominio raíz ayvens.es es la web corporativa global del grupo); driverevel.com/es/es/coches, coches.net/renting y yomovo.es/renting se miden a nivel de URL/sección específica porque sus dominios raíz cubren negocios más amplios (coches.net es un marketplace generalista; driverevel.com y yomovo.es incluyen otras líneas fuera de España o fuera del renting). El histórico de backlinks solo está disponible a nivel de dominio raíz en Semrush, por lo que el gráfico de evolución de enlaces se limita a los dos casos donde dominio raíz y negocio de renting coinciden (arval.es, bbvaautorenting.com); para los otros cuatro se ofrece solo la foto actual. Las posiciones de una misma keyword pueden variar en un puesto entre el snapshot de "SERP en vivo" (phrase_organic) y la base de datos propia de cada dominio, por tratarse de rastreos en fechas ligeramente distintas — normal y no un error.</div>
 </div>
 
 <div class="pd-section">
