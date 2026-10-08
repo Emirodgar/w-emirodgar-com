@@ -83,6 +83,7 @@ Es la misma lógica que aplico cuando hablo de [trabajar tu marca de cara al SEO
 
 ## Más sobre este tema
 
+- [Menciones de marca y digital PR para aparecer en la IA](https://emirodgar.com/menciones-marca-digital-pr-ia)
 - [Qué hacer cuando la IA repite información falsa sobre tu marca](https://emirodgar.com/ia-informacion-erronea-marca)
 - [Trabajar tu marca para el SEO con inteligencia artificial](https://emirodgar.com/trabajar-tu-marca-para-el-seo)
 - [Por qué las personas son clave en el SEO con IA](https://emirodgar.com/por-que-las-personas-son-clave-en-el-seo-con-ia)
