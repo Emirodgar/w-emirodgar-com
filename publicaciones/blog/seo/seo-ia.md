@@ -146,6 +146,7 @@ Está claro que **el peso de marca y autoridad tienen gran influencia**, posible
 
 ## Guías de este bloque
 
+- **Empieza aquí**: [Qué es GEO y en qué se diferencia del SEO y del AEO](https://emirodgar.com/que-es-geo)
 - **Estrategia, medición y tendencias**: [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar)
 - **Visibilidad y citación en IA**: [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt)
 - **SEO técnico para IA**: [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial)
