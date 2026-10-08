@@ -9,7 +9,7 @@ sitemap: 1
 feed: 1
 folder: ia
 date: 28/11/2023
-date_modified: 26/03/2025
+date_modified: 08/10/2026
 permalink: seo-inteligencia-artificial
 
 --- 
@@ -30,6 +30,21 @@ Algunos aspectos clave que debemos trabajar:
  - **Generar contenidos simples y fáciles de entender**. Esto es clave para aparecer en los resultados de los LLMs.
  - **Utilizar marcado de datos estructurados** para ayudar a contextualizar nuestro contenido. Esto es de gran valor para el proceso de los LLMs de *retrieval-augmented generation* (RAG).
  - **Trabajar nuestra marca** y, en especial, las menciones y enlaces que podamos conseguir desde fuentes relevantes.
+
+## Cómo comprobar que los agentes de IA descubren tus recursos
+
+Además de ser citados, cada vez más agentes de IA necesitan **descubrir qué herramientas y servicios ofrece un sitio** (una API, un servidor [MCP](https://emirodgar.com/que-es-mcp), un buscador interno...). Google ya lo mide: **Lighthouse 13.5** incluye la auditoría **Agentic Resource Discovery (ARD)**, que valida que el sitio publique un catálogo de recursos conforme a la especificación ARD, todavía en versión de borrador (v0.91).
+
+Lighthouse busca ese catálogo, por este orden, en:
+
+1. La directiva `Agentmap` de `robots.txt`.
+2. Una etiqueta `<link>` con `rel="ai-catalog"`.
+3. Una cabecera HTTP `Link` con la misma relación.
+4. La ruta por defecto `/.well-known/ai-catalog.json` (la especificación propone `/.well-known/ard.json`, y `ai-catalog.json` se mantiene por compatibilidad).
+
+Si no encuentra nada, la auditoría aparece como **"No aplicable"**: no penaliza, simplemente indica que el sitio no es descubrible. Se agrupa en la categoría **Agent Discoverability**, junto a la auditoría de `llms.txt`, y llegará a DevTools con Chrome 156 y a PageSpeed Insights poco después.
+
+Mi lectura: **es una señal de hacia dónde va Google**, pero un estándar en borrador. Si tu sitio no expone herramientas para agentes, no tienes nada que hacer; si lo hace, merece la pena publicar el catálogo y vigilar cómo evoluciona la especificación. Para validarlo puedes [automatizar los análisis de Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse).
 
 ## ¿Cómo ser parte del conocimiento de los LLMs?
 

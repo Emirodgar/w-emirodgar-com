@@ -31,6 +31,8 @@ Lighthouse también es la herramienta que recomiendo para validar y optimizar un
 Entre las mejoras técnicas que más impactan en tu puntuación de Lighthouse están [descomprimir el CSS](https://emirodgar.com/descomprimir-css-comprimido) para poder editarlo y aplicar [Lazy Load en tus imágenes](https://emirodgar.com/lazy-load-carga-bajo-demanda-imagenes) para no cargar de más.
 
 
+> Lighthouse ya no solo mide rendimiento: la versión 13.5 añade la auditoría **Agentic Resource Discovery**, que comprueba si tu sitio publica un catálogo de recursos para agentes de IA. Te lo explico en [SEO en la era de la IA](https://emirodgar.com/seo-inteligencia-artificial).
+
 ## 1- <a name="instalacion"></a> Instalamos Lighthouse en nuestro ordenador
 
 El primer paso será instalar en nuestro ordenador Nodej.js, npm y Lighthouse. Para los dos primeros,  [seguiremos estas instrucciones](https://www.npmjs.com/get-npm).

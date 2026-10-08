@@ -51,6 +51,10 @@ Las ventajas principales son claras:
 - **Mayor productividad**: tareas que antes requerían varios pasos se resuelven en uno solo.  
 - **Escalabilidad**: un mismo asistente puede trabajar con múltiples servicios al mismo tiempo.  
 
+### ¿Y cómo descubre un agente qué servidores ofrece un sitio?
+
+Es la pieza que faltaba y ya se está estandarizando. La especificación **ARD (Agentic Resource Discovery)** propone que cada sitio publique un catálogo de sus recursos (APIs, servidores MCP...) en una ruta conocida como `/.well-known/ard.json`. **Lighthouse 13.5** ya incluye una auditoría para validarlo; te cuento cómo funciona en [el SEO en la era de la IA](https://emirodgar.com/seo-inteligencia-artificial).
+
 ## ¿Qué impacto puede tener en el futuro cercano?
 
 El MCP apunta a convertirse en una pieza clave en la evolución de los asistentes de IA. Pensemos en escenarios como:  
