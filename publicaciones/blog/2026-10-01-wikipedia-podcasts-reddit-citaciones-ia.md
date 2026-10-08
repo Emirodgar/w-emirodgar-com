@@ -70,6 +70,19 @@ Si decides responder en hilos de Reddit, foros o reseñas que la IA ya cita, el 
 
 También tiene una cara menos amable. Reddit alimenta respuestas de IA con todo lo que hay en sus hilos, y eso incluye bromas e información errónea, como te conté en [cuando la IA se inventa cosas sobre tu marca](https://emirodgar.com/ia-informacion-erronea-marca).
 
+## Otro dato: los listados de terceros dominan las búsquedas "mejor X"
+
+Un análisis de Prosperity Media sobre Australia (467 prompts, más de 122.000 citas y 12 marcas de cinco sectores) añade un cuarto canal a los tres anteriores: los **listados tipo "las mejores X"** (*listicles*).
+
+- Aparecen en el 90 % de los prompts y suponen el 26,9 % de todas las citas. Entre los prompts del tipo "best/top", casi la mitad de las citas (49,3 %) van a listados.
+- Pesan mucho más en unos sectores que en otros. En retail, el 39,3 % de las citas son listados y solo el 1,1 % son del propio sitio de la marca. En software B2B, el 33,3 % de las citas son del sitio propio.
+- Los listados citados son recientes: edad mediana de 97 días, y casi la mitad (48,8 %) lleva el año 2026 en el título.
+- **La autoridad de dominio apenas importa.** La correlación con las citas fue de 0,09, y el 32 % de las citas fue a dominios con Domain Rating inferior a 40. Sí mejoraban el resultado un título localizado (con "Australia" o ".com.au") y un texto fácil de leer (Flesch de 60 o más).
+
+Para el trabajo de PR, la lectura es práctica: aparecer en los listados de terceros que la IA ya cita es una vía directa de visibilidad, sobre todo en retail. Para el propio sitio, la receta del informe es crear páginas "mejor X en [país] (año)" extensas y **refrescarlas de verdad** cada 90 días, no cambiar solo el año del título (el estudio dice que el 93 % de los títulos con 2026 tenían actualizaciones verificables).
+
+Tres cautelas. Es un solo mercado y una muestra pequeña de marcas. No distingue por motor de IA, porque la exportación agrupa las citas. Y lo firma una agencia que es, además, el segundo dominio más citado de su propio estudio. Es una pista, no una regla.
+
 ## Por qué esto es terreno de PR
 
 La conclusión de Jarboe es que los modelos de IA necesitan fuentes en las que confiar, y que esas fuentes son externas a la marca: medios, enciclopedias, conversaciones de comunidad. El trabajo de PR consiste desde siempre en generar esas señales de confianza.

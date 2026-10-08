@@ -68,6 +68,8 @@ Chris Long (Nectiv) ha actualizado a la era de la IA aquel clásico de la "pági
 5. **Preguntas frecuentes** con las preguntas reales de ventas y soporte, tal y como las formulan tus clientes.
 6. **Cobertura del *fan-out***: un motor de respuestas divide cada consulta en varias subconsultas; averigua cuáles genera tu página y cubre las preguntas básicas que buscaría la IA (lo trato en [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar)).
 
+La frescura la apoya un análisis de Prosperity Media sobre citas de LLM en Australia: la edad mediana de los listados citados era de 97 días, y refrescarlos cada 90 días concentraba el 54 % de las citas. Cuidado con cambiar solo el año del título: el valor está en la actualización real. Lo cuento con sus matices en [las fuentes que alimentan las citas de la IA](https://emirodgar.com/wikipedia-podcasts-reddit-citas-ia).
+
 Para una lista más amplia, Aleyda Solís mantiene una [checklist de optimización para búsqueda con IA](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/).
 
 ## ¿Hacia dónde se dirige el SEO con la llegada del AEO?

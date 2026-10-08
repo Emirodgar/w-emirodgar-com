@@ -76,6 +76,19 @@ La analítica tradicional sirve —solo que ahora la interpretas desde la óptic
 
 ![Caída brusca de impresiones en el informe de IA generativa de Search Console en los últimos días del gráfico](https://emirodgar.com/cdn/images/posts/search-console-caida-informe-ia-generativa.png){:class="img-responsive"}
 
+### Qué KPIs elegir (y cuáles no)
+
+No existe una lista estándar de KPIs para búsqueda con IA. Francine Monahan, de iPullRank, parte de esa idea y de otra que comparto: que sean más de precisión que de exactitud, útiles por consistentes y no por perfectos. Su método es más de proceso que de métricas:
+
+1. **Parte de tus objetivos de negocio**, no de lo que sea fácil de medir. Pregúntate qué pasaría si recibieras la mitad de los leads pero los convirtieras al doble de ritmo.
+2. **Identifica tu canal más eficaz y cuánto cuesta.** La publicidad de pago es más un alquiler que una inversión; el orgánico tarda más y es más difícil de atribuir, pero construye marca.
+3. **Fija una línea base** y vuelve a ella cada cierto tiempo.
+4. **Elige pocas métricas.** Cita un estudio de McKinsey de 2023, con 18 empresas, según el cual los líderes usaban solo el 29 % de los KPIs que definían a la hora de decidir.
+
+Como punto de partida cita las categorías de Adobe: presencia de marca en IA, citaciones, cuota de voz, sentimiento y exactitud de las respuestas, tráfico de referencia y calidad de la interacción, e impacto en ingresos. Unas te servirán y otras no. Lo importante, dice, es saber qué **citaciones comerciales** mueven tu negocio, no que el nombre de la marca salga en cualquier parte.
+
+Hay otra idea que me gusta: si tienes departamentos que llevan pago, social o vídeo por separado, la mejora que consigas al coordinarlos es en sí misma un KPI. Y ninguna métrica de marketing arreglará que ventas no sepa convertir los leads que le llegan.
+
 ## ¿Por qué desconfío de la industria del "AI tracking"?
 
 Antes de que te vendan una herramienta de "visibilidad de marca en IA", quiero dejar claro por qué yo desconfío de casi todo lo que promete medir en este terreno. Son cinco razones muy concretas:
