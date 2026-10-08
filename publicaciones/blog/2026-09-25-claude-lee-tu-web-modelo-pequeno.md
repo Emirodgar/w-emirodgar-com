@@ -1,5 +1,5 @@
 ---
-title: "Filtración: Claude ya no lee tu web directamente, primero la resume un modelo pequeño"
+title: Filtración sobre Claude, que ya no lee tu web directamente y primero la resume un modelo pequeño
 description: Un análisis no oficial de Natzir Turrado sobre el leak del system prompt de Opus 5.5 revela que Claude ya no recibe tu página en su contexto, sino la respuesta de un modelo intermedio. Te explico qué cambia y qué implica para tu SEO y GEO.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post

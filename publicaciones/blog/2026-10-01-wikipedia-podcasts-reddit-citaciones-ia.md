@@ -1,5 +1,5 @@
 ---
-title: "Wikipedia, podcasts y Reddit: las fuentes que alimentan las citas de la IA"
+title: Wikipedia, podcasts y Reddit, las fuentes que alimentan las citas de la IA
 description: Wikipedia, los podcasts y Reddit se han convertido en fuentes habituales de las respuestas de IA. Te cuento qué dicen los datos, por qué es terreno de Relaciones Públicas y qué puede hacer un equipo SEO.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
