@@ -22,7 +22,7 @@ Ya expliqué en [cómo rastrear e indexar páginas con JavaScript](https://emiro
 - **CSR (Client Side Rendering)**: el servidor envía un HTML casi vacío (un `<div id="app"></div>` y unos scripts) y es el navegador, o el rastreador, quien ejecuta el JavaScript para pintar el contenido.
 - **SSR (Server Side Rendering)**: el servidor ejecuta el JavaScript, genera el HTML completo y lo envía ya montado. El navegador o el bot recibe el contenido en la primera respuesta.
 
-Hay variantes que cumplen el mismo objetivo: generación estática (SSG), que crea el HTML en el momento del despliegue, y el pre-renderizado, que sirve una versión ya renderizada (por ejemplo con [Prerender.io](https://prerender.io/)) cuando no se puede hacer SSR. Lo importante en todos los casos es lo mismo: **el contenido está en el HTML inicial**.
+Hay variantes que cumplen el mismo objetivo: generación estática (SSG), que crea el HTML en el momento del despliegue, y el pre-renderizado, que sirve una versión ya renderizada (por ejemplo con [Prerender.io](https://prerender.io/)) cuando no se puede hacer SSR. Lo importante en todos los casos es lo mismo: **el contenido está en el HTML inicial**. Ojo con una variante concreta, el *dynamic rendering* (servir HTML prerenderizado solo a los bots y la versión normal a los usuarios): la guía de Sitebulb lo da por obsoleto y recuerda que Google recomienda SSR, generación estática o hidratación.
 
 | | CSR | SSR |
 |---|---|---|
@@ -78,6 +78,12 @@ El objetivo es que todos reciban la misma versión del contenido, sin depender d
 
 Si no puedes migrar a SSR, prioriza el pre-renderizado o la generación estática para las páginas que más importan. Y si hay partes que sí pueden cargarse por JS (un widget de comentarios, un carrusel), que sean contenido secundario, no el que quieres posicionar.
 
+### En un ecommerce no hace falta renderizarlo todo en servidor
+
+Según la guía de Sitebulb, la pregunta no es "¿CSR o SSR?" sino **qué partes necesitan tener el contenido antes de ejecutar JavaScript**. Para las páginas con intención orgánica (home, categorías, productos), el contenido, los enlaces internos y los metadatos deben llegar en el HTML inicial. El JavaScript puede encargarse de filtros, personalización y animaciones. Para lo que no queremos posicionar (checkout, cuenta de usuario, listas de deseos), CSR es perfectamente válido. Es un enfoque híbrido.
+
+Como dato, la guía cita el caso de StreetStyle24: tras mover el contenido crítico al HTML base, el número de palabras clave posicionadas en el top 3 subió un 28 %. Es un caso aislado, así que tómalo como ejemplo y no como promesa.
+
 ## Cómo validarlo con Search Console
 
 La herramienta **Inspección de URLs** de Google Search Console te dice cómo ve Google una página concreta. Con la prueba en vivo puedes comprobar que se renderiza bien:
@@ -112,6 +118,10 @@ curl -s -A "GPTBot" https://tudominio.com/pagina | grep -i "frase de tu contenid
 ```
 
 Si la frase aparece, el contenido está en el HTML. Si no, ese bot no lo está viendo. Puedes repetirlo cambiando el user agent por `ClaudeBot` o `PerplexityBot`. Si quieres replicar el entorno con más detalle, tienes la guía de [cómo auditar tu sitio emulando a Googlebot](https://emirodgar.com/emular-googlebot), y también puedes hacerlo en bloque con un rastreador como Screaming Frog configurando el renderizado en "Solo texto" y comparándolo con "JavaScript".
+
+### Automatiza la comprobación antes de publicar
+
+Estas pruebas valen más si se ejecutan antes de que el cambio llegue a producción. En una charla sobre tiendas Shopify, Estela Franco propone automatizar esos controles en el proceso de despliegue (CI): un rastreo simulando a Googlebot móvil (con su user agent y un viewport de 412x732) sobre el entorno de staging, que valida cada plantilla (home, producto, colección) contra un "contrato SEO" en JSON, con severidad de advertencia o bloqueante. Detecta, entre otros, canonicals y meta robots rotos, títulos y descripciones ausentes, datos estructurados defectuosos, contenido que no se renderiza y enlaces que solo existen en JavaScript. Su argumento es que la mayoría del testing SEO ocurre aún en producción, con más de 30 días para recuperar posiciones. Si tu equipo despliega a menudo, merece la pena preguntarse cuántos de esos fallos podrían haberse parado antes.
 
 ## Conclusiones
 

@@ -55,6 +55,10 @@ Las ventajas principales son claras:
 
 Es la pieza que faltaba y ya se está estandarizando. La especificación **ARD (Agentic Resource Discovery)** propone que cada sitio publique un catálogo de sus recursos (APIs, servidores MCP...) en una ruta conocida como `/.well-known/ard.json`. **Lighthouse 13.5** ya incluye una auditoría para validarlo; te cuento cómo funciona en [el SEO en la era de la IA](https://emirodgar.com/seo-inteligencia-artificial).
 
+### WebMCP: el carril rápido para que un agente use tu web
+
+Hay una variante pensada para sitios web, **WebMCP**, que permite que una página exponga acciones estructuradas directamente a los agentes, sin que tengan que interpretar la interfaz. Sigue siendo una propuesta (en prueba de origen en Chrome 149, con soporte experimental en Vercel y Edge). Según Merj, en el benchmark WindTunnel completó las 49 tareas, entre 2,5 y 7,5 veces más rápido y con un coste por tarea entre 3 y 47 veces menor que los métodos basados en capturas de pantalla o DOM. Ten en cuenta que es un dato de un solo benchmark. Dejo [el resto de lo que descubrieron sobre cómo usan los agentes tu web](https://emirodgar.com/seo-inteligencia-artificial) en el post de SEO para IA.
+
 ## ¿Qué impacto puede tener en el futuro cercano?
 
 El MCP apunta a convertirse en una pieza clave en la evolución de los asistentes de IA. Pensemos en escenarios como:  

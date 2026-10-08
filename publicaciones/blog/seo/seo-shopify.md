@@ -58,6 +58,10 @@ El robots.txt debería ser usado únciamente para evitar el acceso a las siguien
 -   Carro de la compra
 -   Búsquedas internas
 
+## Detectar regresiones SEO antes de publicar cambios en el tema
+
+Cada cambio en el tema o en una app puede romper canonicals, meta robots, títulos, datos estructurados o el renderizado, y lo habitual es enterarse en producción, cuando ya hay pérdida de posiciones. Estela Franco propone llevar estas comprobaciones al proceso de despliegue: un rastreo automático del entorno de preview que simule a Googlebot móvil y valide cada plantilla (home, producto, colección) contra reglas definidas, marcando como bloqueantes los fallos graves. Lo explico con más detalle, junto con cómo comprobar el renderizado, en [CSR vs SSR: qué rastreadores ven tu JavaScript](https://emirodgar.com/csr-vs-ssr-rastreadores-javascript).
+
 ## Redireccionar páginas eliminadas
 
 A medida que pasa el tiempo vamos actualizando, eliminando y creando nuevas URLs. Cuando dejamos atrás una página o queremos consolidar varias para evitar contenido duplicado, debemos hacerlo a través de una **redirección 301** para asegurarnos que la popularidad SEO asociada a las mismas no se pierde. 

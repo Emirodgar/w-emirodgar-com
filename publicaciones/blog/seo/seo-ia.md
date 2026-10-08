@@ -48,11 +48,20 @@ Mi lectura: **es una señal de hacia dónde va Google**, pero un estándar en bo
 
 Otra opción es [Is Agentic](https://is-agentic.com/), una herramienta de Vercel que puntúa lo preparado que está tu sitio público para los agentes de IA: contenido renderizado en servidor, códigos HTTP correctos, estructura clara, canonical, idioma declarado y Open Graph como comprobaciones esenciales. Las recomendadas (APIs, OAuth, GraphQL, servidores MCP, comercio electrónico) solo cuentan si tu web las ofrece, y no penaliza por omitir lo que no proporcionas. Lo útil es que te da evidencia y recomendaciones concretas, aunque sigue siendo una puntuación orientativa.
 
+Merj lo deja claro tras probar agentes reales (ChatGPT Agent en Atlas, Computer Use de Claude, Comet de Perplexity y otros): las herramientas de puntuación miden prerrequisitos, no resultados, y ninguna sustituye medir si un agente completa tus recorridos críticos. Lo que vieron:
+
+- **Los agentes ejecutan JavaScript y aceptan cookies**, pero fallan con superposiciones transparentes que absorben clics, diálogos nativos como `window.confirm()` y campos deshabilitados. No es el mismo caso que los rastreadores de IA, que sí [suelen quedarse en el HTML](https://emirodgar.com/csr-vs-ssr-rastreadores-javascript).
+- **Una etiqueta ARIA incorrecta es peor que no tenerla.** En una prueba con etiquetas engañosas, ChatGPT Agent pulsó "Cancelar" primero en 25 de 25 ejecuciones cuando la tarea era guardar.
+- **Parecen usuarios** en tus analíticas, con reintentos y navegación mecánica, así que conviene poder excluirlos de embudos y RUM.
+- **Su rendimiento cae fuera del inglés**: en el estudio que citan, entre 9 y 18 puntos según el modelo.
+
+Su orden de trabajo es razonable: usar `<button>` reales en lugar de `<div>`, auditar que el ARIA diga la verdad, quitar overlays invisibles, hacer persistentes los mensajes de error y éxito, y añadir pruebas de interacción al despliegue. En su banco de pruebas, el éxito medio pasó de un 30 % a un 60 % entre noviembre de 2025 y marzo de 2026, así que esto mejora rápido.
+
 ## ¿Cómo ser parte del conocimiento de los LLMs?
 
 Aún es pronto para tener toda la información, pero trabajando los puntos antes mencionados y realizando una monitorización exhaustiva de nuestra presencia en diferentes plataformas podremos ir aprendiendo de lo que funciona y potenciándolo en nuestras estrategias SEO.
 
-Para ello es importante [saber medir el tráfico que nos llega desde las diferentes plataformas de inteligencia artificial](https://newsletter.chuletaseo.com/p/analizar-el-trafico-de-ia-que-llega).
+Para ello es importante [saber medir el tráfico que nos llega desde las diferentes plataformas de inteligencia artificial](https://newsletter.chuletaseo.com/p/analizar-el-trafico-de-ia-que-llega). Parte de ese tráfico acaba en "directo" en GA4 cuando no llega referrer ni UTM. Desde octubre de 2026 Google Gemini añade parámetros UTM a sus enlaces (ChatGPT ya lo hacía en las respuestas basadas en fuentes web), con lo que podrás segmentar mejor estas visitas y compararlas con la búsqueda tradicional. Aún no está documentado, así que no sabemos en qué casos se aplica; mientras tanto, revisa también los logs del servidor, donde el UTM sí queda registrado.
 Para ello recomiendo utilizar el [dashboard gratuito de Looker Studio](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c). Y para ir más allá del tráfico, mira [cómo cruzar el informe de IA generativa de Search Console con datos de negocio](https://emirodgar.com/informe-ia-generativa-search-console).
 
 [![image](https://github.com/user-attachments/assets/e67a2efd-54dd-46b0-8423-0b172c87b52f){:class="img-responsive"}](https://lookerstudio.google.com/u/0/reporting/f3d67536-554f-40ef-a958-f08f7d45f568/page/p_3l3ng3jr6c)

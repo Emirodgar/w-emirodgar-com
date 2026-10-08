@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1  
 feed: 1  
 date: 21-10-2025  
+date_modified: 08-10-2026  
 folder: seo  
 permalink: que-hay-realmente-detras-del-e-e-a-t-de-google  
 ---  
@@ -75,6 +76,19 @@ Cada vez que optimizas tu contenido, cuidas tu autoría o mejoras la experiencia
 
 No se trata de “hacer E-E-A-T”, sino de **alinear tu web con lo que Google ya está midiendo**: esfuerzo, originalidad, relevancia temática, autoridad y confianza.
 
+
+## Actualización de octubre de 2026: Google pone nombre a lo que valoran los evaluadores
+
+El 2 de octubre de 2026 Google actualizó su guía de contenido útil con dos secciones nuevas. La primera define el **contenido principal** como cualquier parte de la página que ayuda directamente a cumplir su propósito: texto y medios, herramientas interactivas como calculadoras, aportaciones de usuarios (reseñas, comentarios), secciones desplegables como las especificaciones de producto, y los títulos y encabezados.
+
+La segunda introduce cuatro atributos con los que los evaluadores de calidad juzgan ese contenido principal (EOT/SA en la documentación):
+
+- **Esfuerzo**: trabajo humano invertido frente a contenido generado automáticamente.
+- **Originalidad**: información única que no está en otros sitios.
+- **Talento o destreza**: la pericia necesaria para satisfacer al usuario, como una redacción clara o un vídeo profesional.
+- **Precisión**: exactitud de los datos, especialmente en temas YMYL.
+
+Esfuerzo y originalidad se parecen mucho a *contentEffort* y *originalContentScore*, las métricas que comentaba arriba a partir de las filtraciones. No digo que sean lo mismo: los evaluadores no puntúan directamente el ranking. Pero es un indicio de hacia dónde mira Google al medir la calidad. Y con la misma lógica, su guía de IA dice ahora que es crítico verificar manualmente todo lo generado.
 
 ## El concepto de E-E-A-T no es magia, es matemática
 

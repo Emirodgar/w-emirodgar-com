@@ -29,6 +29,8 @@ Este es, para mí, el punto más importante de todo el análisis. Ahrefs analiz�
 
 Esto coincide con algo que llevo tiempo defendiendo con mis clientes: el debate de "¿puedo usar IA para esto?" está mal planteado. La pregunta correcta es si el resultado aporta valor real, tenga el origen que tenga.
 
+Google lo ha reforzado el 1 de octubre de 2026 al actualizar su guía sobre contenido generado con IA, donde ahora dice que "es crítico verificar manualmente todo el contenido generado por IA", porque los modelos predicen secuencias probables de palabras y pueden alucinar. Según la propia compañía, el cambio sincroniza la documentación con sus presentaciones en eventos. Usar IA no es el problema; publicar sin revisar, sí.
+
 ## 3. La visibilidad en IA se convierte en un canal con nombre propio
 
 Los términos "generative engine optimization" (+84% interanual) y "ai visibility tools" (+266% interanual) están disparados. El dato de fondo es el que de verdad importa: la gente ya investiga y compra a través de ChatGPT y las AI Overviews, no solo a través de Google tradicional.
@@ -39,7 +41,7 @@ Es exactamente la lógica detrás de por qué separé mis publicaciones sobre [G
 
 La búsqueda de "agentic ai" crece un 37% interanual. La idea de fondo es que cada vez más agentes de IA van a poder investigar y completar una compra sin que haya una persona mirando cada paso intermedio. Law plantea algo que a mí me parece el reto real de los próximos años: no solo hay que persuadir a la persona, hay que persuadir al agente que decide en su nombre.
 
-Esto conecta directamente con lo que comenté al hablar de [si el copy de tus páginas de producto sigue importando cuando los agentes leen feeds y schema](https://emirodgar.com/copy-pagina-producto-ia): un agente no sustituye a un feed bien hecho, y un feed bien hecho no sustituye a una página completa.
+Esto conecta directamente con lo que comenté al hablar de [si el copy de tus páginas de producto sigue importando cuando los agentes leen feeds y schema](https://emirodgar.com/copy-pagina-producto-ia): un agente no sustituye a un feed bien hecho, y un feed bien hecho no sustituye a una página completa. Merj ha probado agentes reales y concluye que tu interfaz funciona ya como una interfaz de software para ellos, aunque nadie la haya documentado ni testeado. Etiquetas ARIA erróneas, overlays invisibles o botones que no son botones bastan para que un agente falle una compra. Los detalles los resumo en [SEO en la era de la IA](https://emirodgar.com/seo-inteligencia-artificial).
 
 ## 5. Construir tus propias herramientas ya es viable, no solo para grandes empresas
 
@@ -49,7 +51,7 @@ Términos como "claude code" (508K búsquedas/mes) o "vibe coding" (86K búsqued
 
 Aquí Ahrefs aporta datos que a cualquier analista le deberían preocupar: las AI Overviews reducen los clics al primer resultado orgánico en un 58%, y sobre unos 75.000 sitios analizados, el porcentaje de tráfico que llega desde Google como referral ha caído del 35% al 24%. Mientras tanto, ChatGPT como fuente de tráfico directo sigue siendo minúsculo (0,32%), a pesar de todo el ruido mediático a su alrededor.
 
-La recomendación práctica es no fiarte solo del dashboard de atribución de turno, sino cruzar tus datos de analítica con un filtro específico para tráfico de LLM. Es la misma idea que trato en profundidad al hablar de [cómo monetizar la visibilidad de tu contenido en IA](https://emirodgar.com/monetizar-visibilidad-ia): el tráfico visible cada vez cuenta una parte más pequeña de la historia real.
+La recomendación práctica es no fiarte solo del dashboard de atribución de turno, sino cruzar tus datos de analítica con un filtro específico para tráfico de LLM. Ayuda que Gemini haya empezado a añadir parámetros UTM a sus enlaces: antes parte de esas visitas caía en "directo", y [te cuento cómo medirlo](https://emirodgar.com/seo-inteligencia-artificial). Es la misma idea que trato en profundidad al hablar de [cómo monetizar la visibilidad de tu contenido en IA](https://emirodgar.com/monetizar-visibilidad-ia): el tráfico visible cada vez cuenta una parte más pequeña de la historia real.
 
 ## 7. Las tácticas nativas de IA ya no son experimentales
 
