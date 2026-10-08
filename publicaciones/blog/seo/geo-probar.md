@@ -103,6 +103,30 @@ Es compatible con lo que decía antes: no es medir un porcentaje de visibilidad 
 
 *P.D. Nunca he visto un estudio serio y controlado que muestre la subida de un % de visibilidad de marca en una herramienta de IA —con una marca que apague el resto de canales para evitar contaminación— correlacionado con la subida de ventas. Y eso que recuerdo la cantidad de estudios de ese tipo que tuvieron que publicarse entre 2004 y 2014 para que el SEO se ganase la inversión que tiene hoy. Es para volverse loco.*
 
+### La personalización añade otra capa de ruido
+
+Un experimento de iPullRank con Google Personal Intelligence (función opcional que permite a AI Mode y Gemini usar Gmail, YouTube, Fotos y Calendar) muestra hasta dónde llega. Con tres cuentas durante cuatro semanas, comprobaron qué pasaba al enviar por email recomendaciones de marcas que no aparecían en las respuestas:
+
+- La visibilidad de esas marcas subió **un 40 %**. Los correos pesaron mucho más que las fotos.
+- Incluso **marcas inventadas** aparecieron en AI Mode, con las mismas palabras del email.
+- Una newsletter **sin abrir** llegó a citarse en una respuesta.
+- Los *query fan-out* también se personalizan: una pregunta genérica sobre plataformas de streaming acabó buscando listados "para familias" porque el sistema sabía que el usuario tenía hijos.
+
+Es un único experimento y, como advierte el propio Sussman, cualquier resultado sobre LLMs es probabilístico y puede cambiar mañana. Lo relevante para nosotros es que no existe "la respuesta" que ve el usuario, y que si tu marca llega por email, newsletters o recomendaciones de conocidos, puede influir en lo que le sale a esa persona. Su consejo de fondo coincide con lo que defiendo aquí: no apuestes todo a un canal (el caso de Reddit y sus citaciones lo demuestra), mejora el producto y estáte donde está tu audiencia.
+
+### Precisión, no exactitud: cómo leer una herramienta de seguimiento
+
+Mike King (iPullRank) lo resume bien: en búsqueda con IA **no existe un valor "verdadero" de visibilidad**, solo una distribución de respuestas de la que tomas muestras. Por eso, si dos herramientas te dicen 41 % y 23 %, ninguna es "la exacta": miden cosas distintas. Lo único que puedes pedirles es **precisión** (que den lecturas parecidas en condiciones idénticas). Lo mismo que Search Console y Analytics, que nunca coinciden en tráfico orgánico.
+
+Qué conviene preguntar antes de fiarte de un número:
+
+- **API o interfaz**: no son el mismo sistema. Google no tiene API de AI Mode ni de AI Overviews; si un proveedor dice medirlo por API, no es AI Mode.
+- **Con sesión o sin ella, y con memoria o sin ella**: una cuenta que lanza miles de prompts se contamina a sí misma. Sin sesión es una referencia neutra; las cuentas con perfil construido sirven para simular un segmento concreto.
+- **Cuántas repeticiones por prompt**: una sola medición convierte una tirada de dados en un hecho. Con una probabilidad real de aparición del 50 %, cinco ejecuciones dan un intervalo de confianza de unos ±44 puntos; veinte, ±22; cien, ±10. En un experimento citado por King, ChatGPT mencionó unas 44 marcas distintas en 100 ejecuciones de un mismo prompt, y en categorías competitivas el 72 % de las marcas aparecía en menos de una de cada cinco respuestas.
+- **Modo, geografía, dispositivo y definición de "mención"**: modo Instant frente a Thinking de ChatGPT apenas comparten una cuarta parte de dominios citados, y cambiar la redacción del prompt puede reducir a la mitad la visibilidad.
+
+Reglas prácticas: usa siempre el mismo método para que la tendencia signifique algo (cambiar de herramienta o de configuración rompe la serie), pide rangos y no porcentajes sueltos, guarda las respuestas en bruto y contrástalo con tus datos reales: tráfico de referencia desde IA, logs de rastreadores y conversiones. Si el seguimiento sube y esos datos no se mueven, el indicador no está conectado con tu negocio.
+
 ## ¿Cómo pasar de reaccionar a controlar (react mode → control mode)?
 
 Sin una metodología de tests, todo es conjetura. Un programa GEO bien diseñado te lleva a:

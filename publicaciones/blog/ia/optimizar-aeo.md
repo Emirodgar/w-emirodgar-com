@@ -57,6 +57,19 @@ Smith propone un **playbook en 7 pasos**, pero si tuviera que resumirlo en una v
 4. **Cuida la autenticidad**: evita el “contenido sobreoptimizado” y apuesta por aportar valor real.  
 5. **Mide tu presencia en respuestas de IA** igual que lo haces con tu visibilidad en Google, con una metodología de test como la que planteamos en [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar). Deja pasar al menos una semana de mediciones antes de sacar conclusiones, porque las respuestas varían de un día a otro. Si apareces en preguntas generales pero casi nunca en un caso de uso concreto, ese es el hueco que merece contenido propio o una mención en las páginas que la IA ya cita.  
 
+## ¿Cómo es una página optimizada para AEO?
+
+Chris Long (Nectiv) ha actualizado a la era de la IA aquel clásico de la "página perfectamente optimizada para SEO" de Rand Fishkin. Estos son sus seis elementos, con la fuente en la que se apoya cada uno (son datos de terceros, tómalos como orientación):
+
+1. **Accesibilidad para la IA**: permite GPTBot, ClaudeBot, PerplexityBot y OAI-SearchBot en robots.txt y sirve el contenido renderizado en servidor, porque la mayoría de rastreadores de IA no ejecutan JavaScript (Cyrus Shepard). Si dudas de cómo está tu web, te explico [qué rastreadores ven tu JavaScript](https://emirodgar.com/csr-vs-ssr-rastreadores-javascript).
+2. **Ideas clave arriba**: según Kevin Indig, la IA cita sobre todo el 30 % superior de la página. Resume en cuatro a seis frases que respondan la consulta y que se entiendan aunque se extraigan sueltas.
+3. **Jerarquía clara con tablas, listas y viñetas**: H2 que apoyan al H1 y H3 hijos de los H2. Nectiv detectó que las citaciones de ChatGPT incluyen una tabla 2,3 veces más que las de Google.
+4. **Frescura**: según AirOps, los sistemas de IA citan 3 veces más las páginas con menos de tres meses. Muestra la fecha de última actualización, respáldala con `dateModified` y fecha tus cifras: un dato caduco es la forma más rápida de perder una citación.
+5. **Preguntas frecuentes** con las preguntas reales de ventas y soporte, tal y como las formulan tus clientes.
+6. **Cobertura del *fan-out***: un motor de respuestas divide cada consulta en varias subconsultas; averigua cuáles genera tu página y cubre las preguntas básicas que buscaría la IA (lo trato en [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar)).
+
+Para una lista más amplia, Aleyda Solís mantiene una [checklist de optimización para búsqueda con IA](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/).
+
 ## ¿Hacia dónde se dirige el SEO con la llegada del AEO?
 
 El futuro del SEO no desaparece, pero se transforma. Google seguirá siendo clave, pero cada vez más tráfico se moverá hacia respuestas generadas por IA. El reto para empresas y creadores es **no quedarse fuera de esta nueva forma de búsqueda**.

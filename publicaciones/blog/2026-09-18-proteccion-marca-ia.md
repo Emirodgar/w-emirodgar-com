@@ -64,6 +64,15 @@ El dato que más me ha convencido de que esto merece tiempo y presupuesto: un es
 
 Esto conecta directamente con algo que ya he comentado en este blog sobre [por qué la IA de Google todavía comete errores con datos desactualizados](https://emirodgar.com/ia-google): si tu información oficial no es la más accesible, consistente y reciente que hay ahí fuera, la IA rellenará el hueco con lo que encuentre, sea correcto o no.
 
+## El sentimiento de marca también depende de tu huella digital completa
+
+Garrett Sussman (iPullRank) lo explicaba en una conversación con Gianluca Fiorelli: ya no hay diez enlaces azules entre los que elegir, sino una síntesis de todo lo que existe sobre tu marca en internet. Dos consecuencias prácticas:
+
+- **Lo enterrado no desaparece.** La gestión de reputación clásica consistía en empujar lo malo a la segunda página; un modelo con capacidad de descubrimiento puede volver a ponerlo en primer plano.
+- **Cambiar la narrativa es más lento.** Si te reposicionas, cambias de producto o sales de una crisis, la IA arrastra "capas y capas" de contenido anterior. No basta con anunciar el cambio en tu web.
+
+Por eso el sentimiento de marca toca a redes sociales, email, relaciones públicas y alianzas, no solo al equipo SEO, y conviene que lo hables con marketing. Y, si en la web dices una cosa y en TikTok o Instagram proyectas otra marca, los modelos tienen más difícil reconocerte y pueden recomendar a otro. Para el equipo SEO, es el momento de coordinarse con los demás departamentos.
+
 ## Mi conclusión: mejor prevenir que perseguir
 
 Korobka lo resume bien: la prevención mediante activos de marca sólidos rinde más que perseguir el abuso activo una vez ya ha pasado. Registrar tus dominios y usuarios en redes y espacios como npm antes de que lo haga otro, activar doble factor en tus registradores, y tener una página propia que liste todos tus canales oficiales verificados, evita que muchos de estos problemas lleguen siquiera a producirse.

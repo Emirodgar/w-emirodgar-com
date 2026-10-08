@@ -46,6 +46,8 @@ Si no encuentra nada, la auditoría aparece como **"No aplicable"**: no penaliza
 
 Mi lectura: **es una señal de hacia dónde va Google**, pero un estándar en borrador. Si tu sitio no expone herramientas para agentes, no tienes nada que hacer; si lo hace, merece la pena publicar el catálogo y vigilar cómo evoluciona la especificación. Para validarlo puedes [automatizar los análisis de Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse).
 
+Otra opción es [Is Agentic](https://is-agentic.com/), una herramienta de Vercel que puntúa lo preparado que está tu sitio público para los agentes de IA: contenido renderizado en servidor, códigos HTTP correctos, estructura clara, canonical, idioma declarado y Open Graph como comprobaciones esenciales. Las recomendadas (APIs, OAuth, GraphQL, servidores MCP, comercio electrónico) solo cuentan si tu web las ofrece, y no penaliza por omitir lo que no proporcionas. Lo útil es que te da evidencia y recomendaciones concretas, aunque sigue siendo una puntuación orientativa.
+
 ## ¿Cómo ser parte del conocimiento de los LLMs?
 
 Aún es pronto para tener toda la información, pero trabajando los puntos antes mencionados y realizando una monitorización exhaustiva de nuestra presencia en diferentes plataformas podremos ir aprendiendo de lo que funciona y potenciándolo en nuestras estrategias SEO.
