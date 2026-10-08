@@ -76,6 +76,7 @@ Lo que me gustaría que quedase muy claro es que el `robots.txt` no es tu salvag
 
 ## Más sobre este tema
 
+- [Google AI Mode, qué es y qué puedes hacer como SEO](https://emirodgar.com/google-ai-mode-seo)
 - [Cómo sacar partido al informe de IA generativa de Search Console](https://emirodgar.com/informe-ia-generativa-search-console)
 - [Google empieza a pagar a los editores por su contenido en IA (y no todos están contentos)](https://emirodgar.com/google-paga-editores-ia)
 - [Cómo monetizar la visibilidad de tu contenido en IA](https://emirodgar.com/monetizar-visibilidad-ia)
