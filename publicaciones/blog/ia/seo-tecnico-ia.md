@@ -70,6 +70,7 @@ En este equilibrio está la clave: hacer tu contenido **comprensible para todos*
 
 ## Más sobre este tema
 
+- [llms.txt para qué sirve y si merece la pena en tu web](https://emirodgar.com/llms-txt)
 - [Datos estructurados y la IA ¿ignora Google tu schema?](https://emirodgar.com/datos-estructurados-seo-llm)
 - [CSR vs SSR, qué rastreadores ven tu JavaScript y cuáles no](https://emirodgar.com/csr-vs-ssr-rastreadores-javascript)
 - [Cómo bloquear el rastreador de las inteligencias artificiales](https://emirodgar.com/bloquear-rastreador-ia)
