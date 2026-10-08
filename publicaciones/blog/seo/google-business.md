@@ -16,7 +16,7 @@ Si tienes un negocio con presencia local, seguro que ya sabes lo importante que 
 
 En este artículo te explico el procedimiento de trabajo que recomiendo seguir para analizar, optimizar y sacar el máximo partido a tus perfiles de Google Business. No importa si tienes una o varias ubicaciones, si estás en retail, servicios, educación o cualquier otro sector. Esta guía te servirá igual porque es transversal a cualquier tipo de negocio.
 
-Como [consultor SEO](https://emirodgar.com/consultor-seo), siempre propongo dividir el trabajo en dos fases. La primera consiste en dejar todos los perfiles bien configurados y optimizados. Y la segunda, en mantenerlos activos mediante un plan de publicaciones.
+Como [consultor SEO](https://emirodgar.com/consultor-seo), siempre propongo dividir el trabajo en dos fases. La primera consiste en dejar todos los perfiles bien configurados y optimizados. Y la segunda, en mantenerlos activos mediante un plan de publicaciones. Si tienes varias ubicaciones, añado una tercera fase: medirlas por separado.
 
 ## Fase 1: Optimización de perfiles
 
@@ -75,6 +75,18 @@ Yo suelo trabajar con un documento de este estilo, que me permite unificar y ent
 - **Testimonios y casos de éxito**: muestra reseñas o experiencias reales. Refuerza la confianza y mejora el CTR.
 - **Contenidos estacionales**: adapta tus publicaciones a eventos como verano, Navidad, Black Friday, etc.
 - **Hashtags locales**: alinearte con los hashtags más usados puede darte un empujón extra en visibilidad.
+
+## Fase 3: Medir por ubicación, no solo en global
+
+Si gestionas varias ubicaciones, el dato total puede esconder lo que pasa en cada mercado: unas pocas tiendas pueden tirar del resultado mientras otras caen o se estancan. Estas son las segmentaciones que más uso:
+
+- **Por geografía**: agrupa por provincia, región, área metropolitana o ciudad e identifica los valores atípicos, por arriba y por abajo. Te ayuda a saber si una caída es puntual o general, y a comparar con criterio (una ciudad pequeña no tiene la demanda ni la competencia de una capital). Si tienes varias ubicaciones en la misma ciudad, comprueba que no compiten entre sí por las mismas palabras clave y plantéate diferenciarlas con términos de barrio.
+- **Vista comparable año contra año ("TrueView")**: excluye las ubicaciones abiertas después del periodo anterior y las cerradas. Si no, una apertura infla el tráfico y una clausura lo hunde, y no sabrás si el crecimiento viene del SEO o de haber abierto más locales. Conviene enseñar siempre las dos vistas, la total y la comparable.
+- **Ubicaciones nuevas aparte**: una vista propia para las aperturas permite seguir su indexación, visibilidad, interacciones y reseñas desde el lanzamiento, y fijar expectativas realistas.
+- **Marca y no marca**: las búsquedas de marca indican notoriedad; las genéricas ("dentista cerca de mí", servicio + ciudad) muestran cómo te descubren.
+- **Ficha de Google Business frente a SEO orgánico**: añade [parámetros UTM](https://support.google.com/analytics/answer/10917952) a los enlaces web de cada ficha y revisa ese tráfico por separado en GA4 frente al orgánico tradicional. Para ver qué páginas de ubicación reciben clics y con qué consultas, usa Search Console y sus [filtros con regex](https://emirodgar.com/regex-google-search-console); comprueba siempre que el filtro devuelve lo que esperas antes de sacar conclusiones.
+
+Dentro de la propia ficha, mira vistas en Búsqueda y Maps, llamadas, clics a la web y solicitudes de ruta, y cruza esos datos con el volumen, la frecuencia y la nota media de las reseñas. Y ante una caída, determina primero si baja el tráfico o si el tráfico se mantiene y bajan las acciones. En el primer caso, revisa si cambió el ranking o la SERP; en el segundo, la ruta de conversión y las reseñas.
 
 ---
 

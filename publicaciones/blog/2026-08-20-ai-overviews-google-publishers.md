@@ -24,6 +24,16 @@ Para editores y *publishers*, esto supone un cambio importante en la **estrategi
 
 > Un detalle importante: **Google no pide permiso ni respeta robots.txt** para incluir tu contenido. Muchos *newsrooms* lo descubrieron demasiado tarde.
 
+### Lo que dice el primer experimento aleatorizado
+
+Hasta ahora casi todo eran estimaciones. Un [estudio publicado en septiembre de 2026](https://arxiv.org/abs/2608.18352) con 1.100 usuarios de Chrome en EE. UU. ha medido el efecto de forma experimental durante siete días:
+
+- **AI Mode**: al forzar las búsquedas a este modo, el porcentaje de búsquedas que acababan en una web externa cayó **18,8 puntos porcentuales**. Los clics a medios bajaron 12,5 puntos, a Reddit 21,2 y a Wikipedia 9,9.
+- **Sin AI Overviews**: al ocultarlas, el CTR hacia webs externas subió unos **8,8 puntos**. Ojo, porque Google cambió el HTML durante el experimento y solo se ocultó el 51 % de las AI Overviews, así que es una estimación ajustada estadísticamente.
+- **Satisfacción**: los usuarios de AI Mode declararon menos satisfacción, utilidad y control, y confiaron menos en Google. Además, el porcentaje de participantes que usó Bing, DuckDuckGo o Yahoo subió **11,2 puntos**.
+
+Hay matices importantes: la muestra era joven, con estudios altos y de siete días, y casi el 95 % de las búsquedas pasaron por AI Mode porque se forzó, algo distinto a que cada usuario decida si lo usa (antes del experimento solo suponía el 0,6 %). Aun así, es la mejor evidencia hasta ahora de que un Google "IA primero" reduce el tráfico a las webs, y de que ese cambio no tiene por qué ser mejor para el usuario.
+
 ## El mito de robots.txt como barrera de protección
 
 Existe una creencia generalizada entre editores de que configurar `robots.txt` correctamente evita que Google incluya tu contenido en AI Overviews. Es un error colosal.
@@ -58,6 +68,6 @@ Conviene mirarlo con regularidad, no solo cuando algo parece ir mal. Una caída 
 
 ![Caída brusca de impresiones en el informe de IA generativa de Search Console en los últimos días del gráfico](https://emirodgar.com/cdn/images/posts/search-console-caida-informe-ia-generativa.png){:class="img-responsive"}
 
-Por desgracia para muchos, las **AI Overviews no desaparecerán**. Google las seguirá expandiendo porque mejoran la experiencia del usuario. Y esto teniendo en cuenta que desde su lanzamiento han sido comedidos y han ido reduciendo progresivamente su aparición, debido principalmente a errores y sentencias judiciales. Tu trabajo como editor o marca es dejar de luchar y aprender a prosperar en este entorno. Intentar sacar ventaja dentro de una situación que de por sí es bastante difícil.
+Por desgracia para muchos, las **AI Overviews no desaparecerán**. Google las seguirá expandiendo, aunque el experimento anterior no encuentre que mejoren la satisfacción de los usuarios. Y esto teniendo en cuenta que desde su lanzamiento han sido comedidos y han ido reduciendo progresivamente su aparición, debido principalmente a errores y sentencias judiciales. Tu trabajo como editor o marca es dejar de luchar y aprender a prosperar en este entorno. Intentar sacar ventaja dentro de una situación que de por sí es bastante difícil.
 
 Lo que me gustaría que quedase muy claro es que el `robots.txt` no es tu salvaguarda. Para sobrevivir a esta odisea, adapta tu contenido, tu modelo de tráfico y tu mentalidad SEO a una realidad donde la IA sintetiza respuestas a escala. Quienes lo hagan rápido, ganarán. Quienes esperen, seguirán perdiendo tráfico e ingresos sin entender por qué.

@@ -30,7 +30,7 @@ Esto es un cambio fundamental. La IA parece priorizar la información que consid
 Y "leer" tu página cada vez significa algo más indirecto de lo que parece: una filtración reciente del system prompt de Claude Opus 5.5 muestra que, al menos en su caso, [ya no procesa tu web directamente, sino un resumen que filtra un modelo pequeño intermedio](https://emirodgar.com/claude-lee-tu-web-modelo-pequeno) antes de que el modelo grande vea nada.
 
 
-Si quieres saber qué rastreadores de IA piden realmente tu contenido, los logs del servidor lo muestran, y [aquí explico cómo cruzarlos con Search Console y con el valor de cada sección](https://emirodgar.com/informe-ia-generativa-search-console).
+Si quieres saber qué rastreadores de IA piden realmente tu contenido, los logs del servidor lo muestran, y [aquí explico cómo cruzarlos con Search Console y con el valor de cada sección](https://emirodgar.com/informe-ia-generativa-search-console). Si no tienes acceso a los logs, el dashboard Bot Activity de Microsoft Clarity ofrece una alternativa gratuita y, con su nueva clasificación de páginas, permite ver qué tipos de página (producto, blog...) visitan más los bots; te cuento cómo usarlo en [segmentar el bloqueo de bots](https://emirodgar.com/segmentar-bloqueo-bots).
 
 ### ¿Por qué es tan importante para mi marca o negocio?
 
