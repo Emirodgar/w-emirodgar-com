@@ -88,6 +88,7 @@ Si quieres adelantarte, empieza hoy: analiza qué preguntas resuelves mejor que 
 
 ## Más sobre este tema
 
+- [Cómo escribir contenido que la IA pueda citar y cubrir el query fan-out](https://emirodgar.com/contenido-citable-query-fan-out)
 - [Wikipedia, podcasts y Reddit, las fuentes que alimentan las citas de la IA](https://emirodgar.com/wikipedia-podcasts-reddit-citas-ia)
 - [Las claves para posicionar tu web en Perplexity](https://emirodgar.com/seo-perplexity)
 - [Cómo crear hubs de recomendación AI-Ready para nuestro contenido](https://emirodgar.com/como-crear-hubs-de-recomendacion-ai-ready)
