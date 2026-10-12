@@ -37,6 +37,42 @@ En este punto se nos abrirá un panel con varias opciones. Tendremos que ir al b
 
 Ahora podremos optar por seleccionar un user agent de los que ya vienen predefinidos en el combo o introducir uno específico nuestro.
 
+## Atajo con el menú de comandos
+
+Si lo haces a menudo, hay una forma más rápida de llegar al mismo panel:
+
+1. Abre DevTools con "F12" (o "Ctrl + Shift + I").
+2. Pulsa "Ctrl + Shift + P" para abrir el **Command Menu**.
+3. Escribe "Network conditions" y selecciona "Show Network conditions".
+
+También puedes llegar desde la pestaña "Network" con el botón "More network conditions".
+
+## Cosas que debes tener en cuenta
+
+- El cambio **solo se aplica mientras DevTools está abierto** y únicamente en esa pestaña. Si cierras la consola, Chrome vuelve a usar su user agent habitual.
+- Tras cambiarlo, **recarga la página** para que el servidor reciba el nuevo user agent.
+- Cambiar el user agent solo modifica lo que se envía al servidor. No cambia cómo funciona Chrome por dentro, así que el JavaScript de la página se seguirá ejecutando con el motor de Chrome.
+- Chrome también envía las cabeceras **User-Agent Client Hints** (`Sec-CH-UA`), una alternativa moderna al user agent clásico. Algunas webs las usan para detectar dispositivo y sistema operativo, así que si una web sigue comportándose distinto a lo esperado, puede ser por esto.
+- **Simular a Googlebot no te convierte en Googlebot.** Muchos servidores y CDN verifican que la IP pertenezca realmente a Google, por lo que podrías ver una respuesta distinta a la que recibe el robot de verdad. Para una validación fiable usa la herramienta de inspección de URL de Search Console.
+
+## User agents más habituales para SEO
+
+Puedes pegar cualquiera de estos en el campo personalizado. Los números de versión de Chrome (`W.X.Y.Z`) van cambiando.
+
+- **Googlebot Smartphone**: `Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)`
+- **Googlebot Desktop**: `Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)`
+
+Puedes consultar el listado oficial y actualizado en la [documentación de rastreadores de Google](https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers).
+
+## Otras formas de cambiar el user agent
+
+- **Modo dispositivo de DevTools** ("Ctrl + Shift + M"): al elegir un móvil o tablet del desplegable, Chrome ajusta también el user agent además del tamaño de pantalla.
+- **Extensiones** de Chrome para cambiar el user agent de forma permanente o por sitio web, útiles si no quieres tener DevTools abierto.
+- **Herramientas de rastreo** como Screaming Frog, que permiten configurar el user agent con el que se rastrea el sitio.
+- **Desde código**, por ejemplo con Puppeteer o Playwright, para automatizar pruebas con distintos user agents.
+
+Para más información, consulta la [documentación oficial de Chrome DevTools](https://developer.chrome.com/docs/devtools/device-mode/override-user-agent).
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyNjQzNDcyMzEsOTA4ODgwMzEzLC0zMT
 gwNDY4MCwyMDEwMTU2ODEsNzUwMzQzOTg5LC0xMTQyNTAwOTU4
