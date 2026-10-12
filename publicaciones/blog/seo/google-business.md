@@ -31,7 +31,7 @@ Aquí se trata de asegurarse de que la base está bien construida. No sirve de m
 ### Reseñas y valoraciones
 
 - Revisa las **reseñas existentes** y responde a todas, especialmente si son negativas. Una buena gestión transmite profesionalidad.
-- Si te faltan reseñas, plantea una estrategia para conseguir más. A veces basta con pedirlo amablemente a los clientes satisfechos.
+- Si te faltan reseñas, plantea una estrategia para conseguir más. A veces basta con pedirlo amablemente a los clientes satisfechos. No todas pesan igual: aquí tienes [qué reseñas tienen más valor](https://emirodgar.com/resenas-google-business-profile-mayor-valor).
 - Utiliza las respuestas para incluir, cuando sea posible, palabras clave relacionadas con tus servicios. Es un pequeño empujón al [SEO local](https://emirodgar.com/seo-tecnico).
 
 ### Imágenes y publicaciones

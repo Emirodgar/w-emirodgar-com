@@ -32,7 +32,7 @@ Una vez tengamos control sobre el mismo, debemos rellenar toda la información q
 
 Una vez que tengamos le perfil podrá ser cualificado; cualquier persona que haya interactuado con nuestro negocio podrá valorar el servicio que ha recibido a través de un cometario e incluso acompañado de una imagen.
 
-Debemos asesorar a los clientes -especialmente a los satisfechos- para que valoren positivamente el servicio recibido. Si es posible, que detallen lo que más les ha gustado (contenido útil para futuros clientes) y lo acompañen con alguna imagen.
+Debemos asesorar a los clientes -especialmente a los satisfechos- para que valoren positivamente el servicio recibido. Si es posible, que detallen lo que más les ha gustado (contenido útil para futuros clientes) y lo acompañen con alguna imagen. Te cuento por qué en [qué reseñas de Google Business Profile tienen más valor](https://emirodgar.com/resenas-google-business-profile-mayor-valor).
 
 ## 3- Contesta rápido a las preguntas
 
