@@ -49,7 +49,23 @@ A efectos de Google, todo estará bajo el dominio `emirodgar.com` y las imágene
 
 Existen muchas alternativas en el mercado. Mi experiencia mayoritaria se ha centrado en Akamai y Cloudflare. No obstante, cualquier CDN que aporte mejora en el tiempo de carga, estabilidad a una web y seguridad, será beneficioso para una estrategia SEO.
 
-## Análisis para evitar problemas de rastre e indxación con un CND
+## Cuando el CDN falla y nadie lo revisa
+
+Un CDN aporta estabilidad, pero también es un punto más que puede romperse sin que se note. Y cuando se rompe, el impacto en SEO puede ser enorme. Un ejemplo real de un proyecto en el que trabajo: un problema con el CDN que el equipo técnico no llegó a revisar provocó este desplome en Google Search Console.
+
+![Caída de clics e impresiones en Google Search Console por un problema con el CDN](/cdn/images/posts/caida-trafico-search-console-problema-cdn.png){:class="img-responsive"}
+
+Durante meses el sitio se movía en una banda estable, con unos 8.000 clics diarios y picos cercanos a los 12.000. A finales de septiembre la curva se hunde y los clics caen por debajo de los 2.000 diarios en cuestión de pocos días. Las impresiones se desploman a la vez, lo que indica que Google dejó de mostrar el sitio y no que los usuarios dejaran de hacer clic.
+
+Por suerte me di cuenta y pude minimizar el daño, aunque por desgracia fue unos días después de que empezara el problema. Esos días de diferencia son tráfico perdido que ya no se recupera. La curva vuelve a subir, pero a la fecha de la captura todavía no ha recuperado el nivel previo.
+
+La lección es que **un CDN necesita monitorización**. Estas son las medidas que recomiendo:
+
+- Revisar Search Console con frecuencia y no solo cuando hay quejas. Una caída simultánea de clics e impresiones es la señal de que algo técnico ha fallado.
+- Configurar alertas de disponibilidad y de códigos de respuesta para que el equipo técnico se entere antes que nadie.
+- Comprobar qué recibe Googlebot realmente con el proceso que describo a continuación.
+
+## Análisis para evitar problemas de rastreo e indexación con un CDN
 
 Cuando detectamos problemas de rastreo e indexación en nuestro sitio, además de buscar otras causas, es conveniente revisar si el problema podía estar en Cloudflare o el CDN que estemos utilizando. Para ello, os comparto un proceso paso a paso para diagnosticar si Cloudflare, o cualquier otra configuración, puede estar bloqueando la indexación.
 
