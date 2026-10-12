@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 0
 date: 11/09/2026
-last_update: 8 de octubre de 2026
+last_update: 12 de octubre de 2026
 folder: Automoción / Movilidad
 tag: SEO competitivo
 permalink: /analisis-seo/coches-de-renting
@@ -361,6 +361,21 @@ permalink: /analisis-seo/coches-de-renting
 </div>
 
 <div class="pd-section">
+<h2 class="pd-section-title">La migración de ALD Automotive a Ayvens, años después</h2>
+<p class="as-lead">La <a href="/ayvens-ald-seo">migración de ALD Automotive a Ayvens</a> lleva años en marcha y <code>aldautomotive.es</code> está redirigido con una 301. Aun así, Google sigue mostrando el resultado antiguo junto al nuevo cuando se busca por la marca anterior. Dos señales lo demuestran.</p>
+
+<h3 class="pd-section-title" style="font-size:19px">1. La marca antigua sigue en el SERP y la nueva ni siquiera está entre las tres primeras</h3>
+<div class="as-img"><img src="/cdn/images/posts/ald-ayvens-serp-ofertas-renting-ald-automotive.png" alt="Resultados de Google para la búsqueda ofertas renting ald automotive: primero el subdominio antiguo de aldautomotive.es, después Swipcar y Renting Finders, y en cuarto lugar ayvens.es" width="1018" height="639" loading="lazy"></div>
+<p class="as-caption">Búsqueda "ofertas renting ald automotive" en Google.es. En primer lugar sigue apareciendo una URL de <code>aldautomotive.es</code> (sin descripción: "No hay información disponible sobre esta página"). Después, dos intermediarios (Swipcar y Renting Finders) que sí han construido contenido sobre "Ald Automotive". <code>ayvens.es</code>, la marca actual, queda en cuarta posición.</p>
+<p class="as-lead">El resultado antiguo ocupa el primer puesto sin contenido que lo respalde, y la web actual llega por detrás de dos terceros que rankean con la marca de ALD. Una 301 transfiere señales, pero no sustituye al contenido: si nadie en la web nueva responde a la búsqueda "ALD Automotive", Google rellena ese hueco con quien sí lo haga. Habría bastado un pequeño contenido en la página actual, por ejemplo "ALD Automotive es ahora Ayvens", para posicionar de forma eficiente por la marca antigua y no ceder esas búsquedas a agregadores.</p>
+
+<h3 class="pd-section-title" style="font-size:19px">2. Un subdominio de pruebas indexado durante mucho tiempo</h3>
+<div class="as-img"><img src="/cdn/images/posts/ald-ayvens-subdominio-test-indexado.png" alt="Informe de palabras clave de Semrush donde varias keywords de ALD posicionan con URLs del subdominio ofertas-renting-test.aldautomotive.es" width="880" height="310" loading="lazy"></div>
+<p class="as-caption">Keywords de ALD en Semrush con la URL que posiciona. Varias lo hacen con <code>ofertas-renting-test.aldautomotive.es</code> (resaltado), un entorno de pruebas: "a l d renting" en posición 3, "ald renting particulares" en la 9, "ald coches" en la 14 y "offerte ald" en la 1. Otras URLs que aparecen son <code>entregas.aldautomotive.es</code> y <code>pre-static.aldautomotive.es</code>.</p>
+<p class="as-lead">El subdominio <code>ofertas-renting-test.aldautomotive.es</code> estuvo habilitado e indexado durante bastante tiempo y hoy devuelve un error 502. Un entorno de pruebas que Google puede rastrear y mostrar compite con la web de producción, divide las señales de la marca y deja resultados rotos en el SERP. Para el renting, esto ha restado posicionamiento a ALD y, por extensión, a Ayvens. La solución estándar es proteger los entornos de pruebas con autenticación, <code>noindex</code> y bloqueo en el servidor, y retirarlos del índice con redirecciones o la herramienta de eliminación de URLs de Search Console cuando se apagan.</p>
+</div>
+
+<div class="pd-section">
 <h2 class="pd-section-title">Nota metodológica</h2>
 <div class="as-callout">Los datos proceden de Semrush (base de datos España / Google.es), consultados el 8 de octubre de 2026 (último dato mensual: 15 de septiembre de 2026; SERP en vivo y backlinks de la fecha de consulta). Los listados de keywords exclusivas se han obtenido de las 30 principales keywords por tráfico de cada URL en esa fecha, descartando los términos genéricos que comparten varios dominios. El ámbito de medición <b>no es homogéneo</b> entre los seis: arval.es y bbvaautorenting.com se miden a nivel de dominio completo porque su negocio es 100% renting; ofertas-renting.ayvens.es se mide a nivel de subdominio (el dominio raíz ayvens.es es la web corporativa global del grupo); driverevel.com/es/es/coches, coches.net/renting y yomovo.es/renting se miden a nivel de URL/sección específica porque sus dominios raíz cubren negocios más amplios (coches.net es un marketplace generalista; driverevel.com y yomovo.es incluyen otras líneas fuera de España o fuera del renting). El histórico de backlinks solo está disponible a nivel de dominio raíz en Semrush, por lo que el gráfico de evolución de enlaces se limita a los dos casos donde dominio raíz y negocio de renting coinciden (arval.es, bbvaautorenting.com); para los otros cuatro se ofrece solo la foto actual. Las posiciones de una misma keyword pueden variar en un puesto entre el snapshot de "SERP en vivo" (phrase_organic) y la base de datos propia de cada dominio, por tratarse de rastreos en fechas ligeramente distintas — normal y no un error.</div>
 </div>
@@ -373,5 +388,7 @@ permalink: /analisis-seo/coches-de-renting
 <li>Dos de los seis (driverevel, yomovo) pasaron de no existir en este ranking a competir en el top 6 del SERP en menos de 8 meses, pero solo driverevel ha consolidado el tráfico: yomovo ha perdido el 88% desde su pico de julio. El hueco de entrada sigue abierto en 2026, aunque mantenerlo es otra cosa.</li>
 <li>Vigilar de cerca cuánto del tráfico de driverevel.com es marca propia ("revel") frente a demanda genérica: si esa proporción no baja en la próxima actualización, su ranking de hoy sobreestima su fuerza real frente a la competencia genérica.</li>
 <li>ofertas-renting.ayvens.es es el caso a seguir el próximo mes: si el dato de septiembre (3.065, desde 21.645) se confirma, la <a href="/ayvens-ald-seo">migración de marca</a> acumula casi dos años sin estabilizar el tráfico. Si en octubre vuelve a 15.000-20.000, se tratará de oscilación de la medición. Contrastar con Search Console antes de sacar conclusiones.</li>
+<li>A pesar de años de redirección 301, buscar por la marca antigua ("ofertas renting ald automotive") sigue devolviendo en primer lugar un resultado de <code>aldautomotive.es</code>, y <code>ayvens.es</code> no entra ni en el top 3, por detrás de dos intermediarios. Una redirección no basta: hacía falta un pequeño contenido en la web actual que explicara el cambio de marca y respondiera a esa búsqueda.</li>
+<li>Un subdominio de pruebas (<code>ofertas-renting-test.aldautomotive.es</code>) estuvo indexado y posicionando durante mucho tiempo y hoy da un 502. Ese tipo de entornos hay que blindarlos desde el primer día, porque restan posicionamiento a la marca principal en una categoría tan competida como el renting.</li>
 </ul>
 </div>

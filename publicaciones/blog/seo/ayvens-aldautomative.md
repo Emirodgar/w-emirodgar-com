@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/05/2024
-date_modified: 19/09/2024
+date_modified: 12/10/2026
 folder: seo
 layout: emirodgar_post
 permalink: ayvens-ald-seo
@@ -103,6 +103,20 @@ No podemos hablar a la ligera de un fracaso en la migración web, dado que no sa
 Lo que sí es una lástima es haber cedido ese posicionamiento. Esperemos que sigan creciendo y, con el tiempo, lleguen a los niveles de visibilidad orgánica que tuvieron.
 
 ![image](https://github.com/user-attachments/assets/cce35caf-abd9-41f4-8d09-66e25e4ae99c){:class="img-responsive"}
+
+### Actualización 12/10/2026
+
+Dos años después, `aldautomotive.es` sigue redirigido con una 301 y, aun así, el posicionamiento por la marca antigua no se ha trasladado del todo. Al buscar "ofertas renting ald automotive" en Google, el primer resultado sigue siendo una URL de `aldautomotive.es` (sin descripción) y `ayvens.es` ni siquiera está entre los tres primeros: delante tiene a dos intermediarios, Swipcar y Renting Finders, que sí han publicado contenido sobre "Ald Automotive".
+
+![Resultados de Google para ofertas renting ald automotive](/cdn/images/posts/ald-ayvens-serp-ofertas-renting-ald-automotive.png){:class="img-responsive"}
+
+Una redirección 301 transfiere señales, pero no sustituye al contenido. Con un pequeño texto en la web actual que explicara que ALD Automotive es ahora Ayvens, habrían podido posicionar de forma eficiente por la marca antigua y no cederla a terceros.
+
+Además, durante bastante tiempo estuvo habilitado e indexado un subdominio de pruebas, `https://ofertas-renting-test.aldautomotive.es/`, que ahora devuelve un error 502. En Semrush se ve cómo keywords de ALD como "a l d renting" (posición 3), "ald renting particulares" (9) u "offerte ald" (1) posicionaban con esa URL de test. Un entorno de pruebas indexado compite con la web real y reparte las señales de la marca, lo que ha perjudicado el posicionamiento para renting de ALD y, por tanto, de Ayvens.
+
+![Palabras clave de ALD posicionando con el subdominio de pruebas](/cdn/images/posts/ald-ayvens-subdominio-test-indexado.png){:class="img-responsive"}
+
+Puedes ver el contexto actual del sector en el [análisis de visibilidad SEO de coches de renting](/analisis-seo/coches-de-renting).
 
 
 
