@@ -22,9 +22,10 @@ Busca en el código fuente de tu web o en tu gestor de etiquetas cualquier scrip
 ## Pasos para comprobar (o completar) la migración
 
 1. **Confirma que tu propiedad es GA4**. En el panel de administración de Analytics, el identificador debe empezar por `G-`, no por `UA-`.
-2. **Revisa que el etiquetado esté completo**. Los eventos de conversión, el comercio electrónico o cualquier medición personalizada que tuvieras en Universal Analytics no se migran solos: hay que volver a configurarlos en GA4.
-3. **Elimina el código antiguo**. Si todavía queda algún snippet de Universal Analytics en tu web o en Google Tag Manager, retíralo.
-4. **Busca etiquetas huérfanas en Tag Manager** que sigan apuntando a un `UA-` que ya no existe.
+2. **Comprueba que GA4 envía datos**: abre la pestaña Network de DevTools, filtra por `collect` y busca un `tid` que empiece por `G-`. Lo explico en [cómo comprobar GA4 desde la consola](https://emirodgar.com/comprobar-ga4-instalado-consola).
+3. **Revisa que el etiquetado esté completo**. Los eventos de conversión, el comercio electrónico o cualquier medición personalizada que tuvieras en Universal Analytics no se migran solos: hay que volver a configurarlos en GA4.
+4. **Elimina el código antiguo**. Si todavía queda algún snippet de Universal Analytics en tu web o en Google Tag Manager, retíralo.
+5. **Busca etiquetas huérfanas en Tag Manager** que sigan apuntando a un `UA-` que ya no existe.
 
 ## Conclusiones
 

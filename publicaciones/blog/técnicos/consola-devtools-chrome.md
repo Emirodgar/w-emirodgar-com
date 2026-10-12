@@ -163,7 +163,7 @@ Si trabajas con agentes de código, Google también ha lanzado **DevTools para a
 
 Universal Analytics dejó de procesar datos en julio de 2023, así que el antiguo objeto `ga` y la extensión Google Analytics Debugger ya no sirven para las propiedades actuales. Con GA4 tenemos otras vías.
 
-Para ver qué se envía a Google Analytics, abre la pestaña **Network** y filtra por `collect`. Cada petición a `google-analytics.com/g/collect` es un evento, con sus parámetros en la pestaña Payload.
+Para ver qué se envía a Google Analytics, abre la pestaña **Network** y filtra por `collect`. Cada petición a `google-analytics.com/g/collect` es un evento, con sus parámetros en la pestaña Payload. Tienes el paso a paso en [cómo comprobar que GA4 está instalado desde la consola](https://emirodgar.com/comprobar-ga4-instalado-consola).
 
 Para validar la implementación en tiempo real, lo más cómodo es **DebugView** dentro de GA4 (Administrar > DebugView), que muestra los eventos de tu navegador en cuanto activas el modo de depuración, por ejemplo con [Tag Assistant](https://tagassistant.google.com/) o con el parámetro `debug_mode`.
 

@@ -35,6 +35,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 ``` 
 
+Para validar después que la web sigue enviando datos a GA4, puedes [comprobarlo desde la pestaña Network de la consola](https://emirodgar.com/comprobar-ga4-instalado-consola).
+
 A partir de ahora cuando queramos enviar información a la capa de datos lo haremos utilizando el objeto `capaDatos` de la siguiente manera:
 
     <script>  

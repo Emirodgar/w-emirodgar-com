@@ -36,6 +36,8 @@ En el caso de que quisiéramos establecer una función JavaScript para ser usada
 
 ## ¿Y en Google Analytics 4?
 
+Si lo que quieres es solo comprobar que GA4 está instalado y enviando datos, tienes [otra forma más sencilla desde la pestaña Network](https://emirodgar.com/comprobar-ga4-instalado-consola).
+
 El objeto global `ga` no existe en GA4, así que ninguno de los comandos anteriores funcionará. La forma equivalente de obtener el `client_id` es a través del propio objeto `gtag`:
 
     gtag('get', 'G-XXXXXXXXXX', 'client_id', (clientId) => {
