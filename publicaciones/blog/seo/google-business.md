@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-04-2025
+date_modified: 12/10/2026
 folder: seo
 permalink: perfiles-google-business
 ---
