@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 13-10-2026
+date_modified: 14/10/2026
 folder: seo
 permalink: migracion-seo
 
@@ -89,7 +90,8 @@ Reserva el día entero y reparte las tareas por adelantado entre SEO, desarrolla
 - Actualizar el DNS a la nueva IP y bajar temporalmente el TTL para que se refresque más rápido, revirtiéndolo unas horas después.
 - Quitar los bloqueos: contraseña, `noindex` y el `robots.txt` del entorno de pruebas.
 - Implementar todas las redirecciones, incluidos los 410.
-- Dar de alta las propiedades de Search Console y Bing Webmaster Tools con sus sitemaps y enviar el cambio de dirección en Search Console (requiere ser propietario).
+- Dar de alta las propiedades de Search Console y Bing Webmaster Tools con sus sitemaps y enviar el cambio de dirección en Search Console (requiere ser propietario). Si el dominio tiene versión con www y sin www, **configura el cambio de dirección en las dos**. Es un matiz que Google ha añadido a su documentación y que John Mueller recomendó este mismo mes para que la migración se procese entera.
+- Actualizar el sitemap XML para que solo liste URLs del dominio nuevo. Si sigue enviando las del antiguo, mandas señales de canonicalización contradictorias.
 
 **Cliente:**
 - Actualizar redes sociales, enlaces de Google Business Profile, directorios y URLs de destino de anuncios.
@@ -104,6 +106,9 @@ Cuando la web está en marcha, el trabajo pasa a ser vigilar y corregir pronto.
 - Haz un informe comparado con tus referencias previas. Taylor usa Looker Studio con una fuente de datos que mezcla las propiedades antigua y nueva de Search Console, para ver el cruce en una sola vista, desglosado por dispositivo, país y tipo de contenido.
 - Vigila la indexación. Divide el sitemap por secciones (productos, blog, categorías) y compara URLs enviadas e indexadas en cada una: así sabes qué sección se atasca. Si algo no se indexa, mira el lado técnico (canonicales, `noindex`, `robots.txt`) y el de calidad (contenido fino, duplicado o soft 404).
 - Si el tráfico no se recupera, revisa por este orden: redirecciones (cadenas y bucles), indexación (errores 4xx y 5xx), renderizado de JavaScript y velocidad, y cambios en contenido, navegación y jerarquía de URLs.
+- No des la migración por cerrada cuando el tráfico se recupere. Un propietario de una web contó en Reddit que, tras recuperar todo el tráfico en abril de 2026 con un cambio de dominio, cuatro meses después Google volvió a mostrar el dominio antiguo: las más de 5.000 páginas del nuevo pasaron a "Rastreada, actualmente no indexada" y sus impresiones cayeron de unas 5.000 diarias a 20 por semana. John Mueller respondió que a veces estos procesos tardan especialmente mucho, y que conviene tener el cambio de dirección en www y sin www. Roger Montti, en Search Engine Journal, recuerda que ante algo así conviene tratarlo como un problema de canonicalización: Google elige qué dominio indexa, y los enlaces externos que apuntan al antiguo pueden inclinar la balanza.
+
+Para reducir ese riesgo, antes de migrar rastrea el dominio antiguo para detectar enlaces internos con URL absoluta que sigan apuntando a él (menús, footer o enlaces dentro del contenido). Y comprueba cómo se hace la redirección: una redirección a nivel de registrador puede no conservar la ruta de cada URL, y el reenvío HTTPS falla si el dominio antiguo no tiene certificado SSL.
 
 Para los resultados, en su caso había previsto una caída del 30 % de tráfico los tres primeros meses. A los 60 días recuperaba el 75 % de los clics anteriores, y el 86 % si se compara con el mismo periodo del año pasado, que elimina el efecto de las campañas de temporada. Es un solo caso, de un ecommerce grande, pero sirve para tener en mente que **una caída temporal es normal y conviene pactarla con el cliente antes**.
 

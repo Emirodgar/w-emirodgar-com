@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 01-10-2026
+date_modified: 14/10/2026
 folder: seo
 permalink: google-discover-visibilidad
 
@@ -140,6 +141,19 @@ No es un caso aislado. En otro sitio ocurre lo mismo: las dos líneas crecen de 
 ![Resultados de búsqueda y Discover creciendo a la vez en Search Console](https://emirodgar.com/cdn/images/posts/search-console-discover-busqueda-crecen-a-la-vez.png){:class="img-responsive"}
 
 No digo que una cosa cause la otra, y un pico concreto puede ser puntual. Lo que saco en claro es que no tiene sentido elegir. Además de subir en Discover, tenemos que trabajar para que nuestra base SEO también mejore y poder crecer en todos los ámbitos: indexación limpia, contenido útil, enlazado interno, rendimiento técnico y autoridad. Si quieres ordenarlo, empieza por [los tres pilares del SEO](https://emirodgar.com/pilares-seo) y, si necesitas un diagnóstico, por una [auditoría SEO](https://emirodgar.com/auditoria-seo). Eso es lo que sostiene el tráfico cuando Discover baja, que baja.
+
+## Hacia dónde puede ir Discover
+
+Una oferta de empleo de Google para un Principal UX Lead de Discover, que Roger Montti comenta en Search Engine Journal, apunta a un cambio de fondo. No es un anuncio oficial, así que conviene leerlo como una pista y no como un hecho. Pero el texto es bastante explícito: habla de transformar Discover en una experiencia de "concierge" proactiva e hiperpersonalizada que ayude a los usuarios a avanzar en sus objetivos, "de la inspiración a la acción".
+
+Si se confirma, Discover dejaría de limitarse a recomendar artículos sobre un tema. Podría detectar un interés o una meta en curso y sugerir información, productos, servicios y siguientes pasos. Encaja con la visión de Sundar Pichai de una búsqueda más agéntica, orientada a completar tareas. Del mismo texto salen otras pistas:
+
+- **Más interactivo y con IA**, con nuevos formatos de feed y formas de explorar con ayuda de la IA.
+- **Más integrado con el resto de Google**, con colaboración con YouTube, Shopping, Chrome y Android.
+- **Más enfocado a público joven**, para competir con los feeds de redes sociales.
+- **Más peso a las voces humanas**: la oferta habla de "elevar las voces y perspectivas humanas" en el feed, lo que sería una buena noticia para creadores y editores.
+
+Lo que no sabemos es el efecto sobre el tráfico. Un Discover que ayuda a completar la tarea dentro de Google puede enviar menos visitas a las webs, el mismo riesgo que ya vemos con AI Overviews. Mi recomendación es práctica: no depender de Discover (otra razón para cuidar la base SEO), apostar por contenido con autor, criterio y aportación propia, que es lo que Google dice querer destacar, y vigilar el informe de Discover en Search Console por si cambian los patrones.
 
 ## Qué no creerse
 
