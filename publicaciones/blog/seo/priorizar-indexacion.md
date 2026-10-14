@@ -65,6 +65,19 @@ Y las páginas indexadas sí fluctúan, entre unos 2 y casi 4 millones, sin que 
 
 ![Evolución de las 3,08 millones de páginas indexadas en Search Console junto a las impresiones, que se mantienen estables](https://emirodgar.com/cdn/images/posts/search-console-paginas-indexadas-impresiones.png){:class="img-responsive"}
 
+¿Y por qué no están indexadas? Search Console lo desglosa en el informe «¿Por qué hay páginas que no se indexan?». Estos son los principales motivos de este mismo sitio:
+
+![Motivos de páginas no indexadas en Search Console: 103.863.211 alternativas con canónica adecuada, 12.426.140 con redirección, 5.721.844 con 404, 627.683 bloqueadas por robots.txt, 497.049 con 403 y 322.458 con noindex](https://emirodgar.com/cdn/images/posts/search-console-motivos-paginas-no-indexadas.png){:class="img-responsive"}
+
+Lo llamativo es que casi todo es intencionado o inocuo:
+
+- **Página alternativa con etiqueta canónica adecuada (103,9 millones):** URLs que apuntan a otra versión como la principal, como variantes o parámetros. Es el funcionamiento esperado de la [etiqueta canónica](https://emirodgar.com/etiqueta-canonica).
+- **Página con redirección (12,4 millones):** URLs que redirigen a otra, por lo que no se indexan.
+- **No se ha encontrado, 404 (5,7 millones):** páginas que ya no existen. Conviene revisarlas por si alguna debería redirigir, pero muchas no tienen que hacer nada.
+- **Bloqueadas por robots.txt (627.683), 403 (497.049) y noindex (322.458):** decisiones tomadas a propósito para [controlar qué se rastrea y qué se indexa](https://emirodgar.com/bloqueo-robotstxt-noindex).
+
+Solo con los tres primeros motivos ya se explican unos 122 de los 126 millones. Por eso no miro el total de páginas sin indexar, sino el motivo: lo que me importa es saber si hay alguna URL valiosa escondida entre ellas, y no que la cifra baje.
+
 La lectura que hago: la calidad siempre importa, y por eso conviene que lo que sí indexa Google sea lo que de verdad merece estar. Pero tener millones de URLs rastreadas y sin indexar no es, por sí solo, un problema, siempre que las páginas que te dan el tráfico estén dentro. Lo que hay que vigilar es que **las impresiones y los clics no se vean afectados**, no que el número de páginas sin indexar sea cero. En sitios grandes, perseguir el rastreo perfecto es un esfuerzo que rara vez compensa.
 
 ## ¿Qué ocurrirá con las páginas con una base mala de rastreo?

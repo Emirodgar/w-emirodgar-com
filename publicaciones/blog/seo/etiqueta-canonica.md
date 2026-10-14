@@ -8,6 +8,7 @@ feed: 1
 folder: seo
 lang: es_ES
 date: 27/01/2022
+date_modified: 14/10/2026
 layout: emirodgar_post
 permalink: etiqueta-canonica
 
@@ -33,6 +34,12 @@ Es la forma que tenemos de indicarle a Google cuál será la página canónica q
 - Unificamos enlaces y popularidad en una única URL que mejorará por tanto su posicionamiento web.
 - Para facilitar los análisis en plataformas como Google Search Console
 - Para ahorrar tiempo de rastreo del robot de búsqueda en páginas duplicadas o con poco valor.
+
+En Search Console verás el efecto en el informe de páginas no indexadas, bajo el motivo «Página alternativa con etiqueta canónica adecuada». En este sitio grande es, con diferencia, el motivo principal, con más de 103 millones de URLs:
+
+![Motivos de páginas no indexadas en Search Console, con 103.863.211 páginas alternativas con etiqueta canónica adecuada como principal motivo](https://emirodgar.com/cdn/images/posts/search-console-motivos-paginas-no-indexadas.png){:class="img-responsive"}
+
+No es un error: significa que Google ha entendido cuál es la versión principal y no indexa las alternativas. Si ves esta cifra alta, no la trates como un problema salvo que una URL que sí quieres posicionar aparezca ahí. Más contexto en [cómo priorizar el rastreo y la indexación](https://emirodgar.com/priorizar-indexacion).
 
 ## Cómo implementar la etiqueta canonical
 
