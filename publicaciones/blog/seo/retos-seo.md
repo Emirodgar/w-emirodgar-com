@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 19/09/2024
-date_modified: 13/03/2025
+date_modified: 14/10/2026
 folder: seo
 permalink: retos-seo
 
@@ -42,6 +42,12 @@ Hoy la realidad es distinta. Crear contenido optimizado es más fácil que nunca
 - **Sigue generando valor a largo plazo**, aunque de forma más lenta.
 - **Sigue permitiendo llegar a la audiencia correcta**, aunque con más competencia.
 - **Sigue teniendo una barrera de entrada baja**, pero requiere más inversión y conocimientos para destacar.
+
+Y se puede crecer incluso en pleno auge de la IA. Este es el rendimiento de un sitio en Search Console entre el 12 de julio y el 11 de octubre de 2026, con 9.008.645 clics en la búsqueda web y una tendencia claramente al alza:
+
+![Clics diarios de la búsqueda web en Search Console entre julio y octubre de 2026, con 9.008.645 clics en total y una tendencia al alza](https://emirodgar.com/cdn/images/posts/search-console-clics-crecimiento-auge-ia.png){:class="img-responsive"}
+
+Pasó de unos 85.000 clics diarios en julio a más de 120.000 en octubre. No es la norma ni una garantía, pero demuestra que un momento difícil para el sector no tiene por qué serlo para tu web.
 
 ## ¿Cómo afrontar el nuevo SEO?
 

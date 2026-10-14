@@ -9,6 +9,7 @@ sitemap: 1
 feed: 1
 folder: seo
 date: 09/11/2023
+date_modified: 14/10/2026
 permalink: priorizar-indexacion
 
 ---
@@ -33,6 +34,10 @@ Tenemos varias herramientas que nos ayudarán a priorizar el contenido de valor 
 
 > Cuidado con [bloquear recursos como Javascrit o CSS](https://emirodgar.com/bloquear-indexacion-js-css), podrían afectar al renderizado de la página y, por ende, a nuestro posicionamiento.
 
+## Por qué Google filtra cada vez más
+
+En Search Central Live Barcelona (octubre de 2026), Google explicó una de las razones: el índice crece sin parar y cada tema acumula más candidatos. Mostraron un ejemplo con la búsqueda «naranja», con unos 20.000 resultados en 2025 por cada uno que había en el año 2000. Es un dato que solo se ha visto en las diapositivas, sin fuente pública, así que tómalo como lo que Google enseñó en la sala. La consecuencia es lógica: si hay muchos más candidatos, el listón para entrar sube, y Google filtra más antes incluso de posicionar. Cada URL llega al ranking con su calidad ya calculada, igual que su idioma o su país, como cuenta Nacho Mascort.
+
 ## Google cada vez rastrea con menos frecuencia
 
 La tendencia que llevamos tiempo notando es la de **reducción de peticiones** (línea azul de la siguiente imagen) por parte de [Googlebot](https://emirodgar.com/detectar-googlebot).
@@ -43,6 +48,24 @@ En la siguiente imagen podemos ver que, aunque el tiempo medio se mantiene estab
 Curiosamente, esta situación no está afectando a la indexación del sitio, que se mantiene normalizado. **Google es más eficiente en su rastreo y en la cualificación de las páginas relevantes para el SEO**, por lo que debemos alinearnos con ello y potenciar eso.
 
 ![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/7fae73f3-a854-408d-881f-9ccfbc40b3d7){:class="img-responsive"}
+
+## Millones de páginas sin indexar y las impresiones intactas
+
+Para no obsesionarnos con tener el rastreo y la indexación perfectos, un ejemplo real. Este es el informe de indexación de Search Console de un sitio grande entre mediados de julio y el 8 de octubre de 2026, con las páginas (barras) y las impresiones (línea azul):
+
+![Informe de indexación de Search Console con 126 millones de páginas sin indexar, 3,08 millones indexadas y las impresiones estables entre julio y octubre de 2026](https://emirodgar.com/cdn/images/posts/search-console-indexacion-total-impresiones.png){:class="img-responsive"}
+
+Hay **126 millones de páginas sin indexar**, por 13 motivos distintos, frente a **3,08 millones indexadas**. Es decir, una inmensa mayoría de las URLs que Google conoce no están en el índice. Y aun así, las impresiones se mantienen estables durante todo el periodo, en torno a los 4-5 millones diarios.
+
+Si separamos las dos series se ve mejor. Las páginas sin indexar bajan algo, de unos 155 millones a unos 126, pero se mueven poco:
+
+![Evolución de las 126 millones de páginas sin indexar en Search Console junto a las impresiones, que se mantienen estables](https://emirodgar.com/cdn/images/posts/search-console-paginas-sin-indexar-impresiones.png){:class="img-responsive"}
+
+Y las páginas indexadas sí fluctúan, entre unos 2 y casi 4 millones, sin que las impresiones lo noten:
+
+![Evolución de las 3,08 millones de páginas indexadas en Search Console junto a las impresiones, que se mantienen estables](https://emirodgar.com/cdn/images/posts/search-console-paginas-indexadas-impresiones.png){:class="img-responsive"}
+
+La lectura que hago: la calidad siempre importa, y por eso conviene que lo que sí indexa Google sea lo que de verdad merece estar. Pero tener millones de URLs rastreadas y sin indexar no es, por sí solo, un problema, siempre que las páginas que te dan el tráfico estén dentro. Lo que hay que vigilar es que **las impresiones y los clics no se vean afectados**, no que el número de páginas sin indexar sea cero. En sitios grandes, perseguir el rastreo perfecto es un esfuerzo que rara vez compensa.
 
 ## ¿Qué ocurrirá con las páginas con una base mala de rastreo?
 

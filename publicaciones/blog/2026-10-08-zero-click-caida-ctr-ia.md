@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
+date_modified: 14/10/2026
 folder: geo
 permalink: zero-click-caida-ctr-ia
 
@@ -42,6 +43,16 @@ Tres fuentes que conviene conocer, con sus límites:
 
 Lo que sí sostienen los tres estudios es la dirección: cuando hay respuesta de IA, se hace menos clic en las webs.
 
+Pero que el promedio baje no quiere decir que todas las webs bajen. Este es el rendimiento de un sitio en Search Console entre el 12 de julio y el 11 de octubre de 2026, en pleno auge de las respuestas de IA:
+
+![Clics diarios de la búsqueda web en Search Console entre julio y octubre de 2026, con 9.008.645 clics en total y una tendencia al alza](https://emirodgar.com/cdn/images/posts/search-console-clics-crecimiento-auge-ia.png){:class="img-responsive"}
+
+Se pasa de unos 85.000 clics diarios en julio a superar los 120.000 en octubre, con picos cercanos a 150.000, hasta sumar 9.008.645 clics en el periodo. Es un solo caso y no demuestra que a ti no te vaya a pasar, pero sí que crecer en este contexto es posible. Lo que cambia es que ya no basta con la tendencia general: hay que mirar qué consultas y qué secciones crecen y por qué.
+
+Hay un dato más general. Según SparkToro y Similarweb, citados por Kevin Indig en Growth Memo (octubre de 2026), las búsquedas sin clic pasaron del 60,45 % de las búsquedas en Google en EE. UU. en 2024 al 68,01 % a principios de 2026. SparkToro estima además que solo alrededor de un tercio de las búsquedas de 2026 genera algún clic. Es de nuevo Estados Unidos, así que no lo traslades sin más a España.
+
+Y una pista para no dar por perdida esa visita: SparkToro y Similarweb siguieron durante siete días el comportamiento de usuarios tras recibir una recomendación de marca de una IA, y las visitas **directas** a esas marcas subieron. Es decir, parte de la influencia de la IA puede estar apareciendo en la columna de tráfico directo, no en la de IA ni en la de búsqueda. Es un estudio concreto y habría que ver si se repite en tu mercado, pero sirve para no leer el tráfico directo como ruido.
+
 ## Cómo comprobar si te está pasando a ti
 
 Antes de culpar a la IA, descarta lo demás. Mi orden de trabajo en Search Console:
@@ -61,7 +72,7 @@ Con todo eso tendrás una hipótesis defendible. No una certeza.
 Si el clic baja, el CTR deja de ser el mejor termómetro. Lo que yo pondría al lado:
 
 - **Conversiones e ingresos por página de destino**, no solo sesiones.
-- **Tráfico y búsquedas de marca**, que es demanda propia y no depende de una respuesta de IA.
+- **Tráfico y búsquedas de marca**, que es demanda propia y no depende de una respuesta de IA. Junto a las visitas directas, es donde antes puede notarse la influencia de la IA.
 - **Exposición**, es decir, cuántas veces apareces, aunque no te pulsen. La [posición media por sí sola engaña](https://emirodgar.com/posicion-media-search-console-kpi), igual que el CTR aislado.
 - **Valor por sección** de la web, para saber qué parte del tráfico perdido te importaba de verdad. El método está en el post del informe de IA generativa.
 

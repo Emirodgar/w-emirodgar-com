@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
+date_modified: 14/10/2026
 folder: geo
 permalink: menciones-marca-digital-pr-ia
 
@@ -74,7 +75,11 @@ Es la señal más correlacionada del estudio. Una mención en YouTube es cualqui
 - **Cuidar los textos asociados**: título, descripción y transcripción de lo que publiques tú, con el nombre de la marca y la categoría bien dichos.
 - **Reutilizar el contenido que ya tienes**: un webinar o un podcast se convierte en varias piezas.
 
-Con la cautela de siempre: que una correlación sea alta no prueba que abrir un canal te haga aparecer. Pero para una marca pequeña es de los pocos sitios donde el esfuerzo se puede medir.
+Con la cautela de siempre: que una correlación sea alta no prueba que abrir un canal te haga aparecer. Pero para una marca pequeña es de los pocos sitios donde el esfuerzo se puede medir. Por ejemplo, Search Console te enseña los clics que recibe tu contenido de YouTube desde Google, como en este perfil, con 1,84 mil clics en 28 días:
+
+![Informe de Search Console de un perfil de YouTube con 1,84 mil clics desde la Búsqueda de Google en 28 días](https://emirodgar.com/cdn/images/posts/search-console-youtube-clics-busqueda-google.png){:class="img-responsive"}
+
+Es tráfico de Google, no una medida de menciones en IA, pero te dice si ese contenido se está encontrando.
 
 ## Digital PR con datos propios
 
@@ -94,6 +99,19 @@ Si la respuesta es no a las tres, es contenido, pero no digital PR.
 - **Forzar textos ancla de marca.** Si llegan, que lleguen de forma natural.
 - **Editar tu propia ficha de Wikipedia.** Como explico en el post de las fuentes, lo sensato es hablarlo con comunicación y que lo lleve quien conozca las reglas.
 - **Perseguir una cifra de menciones.** Importa dónde, quién y en qué contexto.
+
+## Cuándo una mención se nota que es artificial
+
+Dan Petrovic (DEJAN) lo plantea como el equivalente de los enlaces de pago: las menciones forzadas dejan las mismas huellas. Describe cuatro señales (son criterios suyos, no una lista de Google):
+
+- **Colocación forzada:** la mención no tiene justificación editorial y no ayuda al lector.
+- **Escalada de estatus:** una marca poco conocida se pone al lado de las líderes, a menudo concediéndose el primer puesto.
+- **Tono promocional:** superlativos, eslóganes o una llamada a la acción copiada de la propia web de la marca.
+- **Beneficio comercial:** la mención sirve al negocio nombrado y no aporta nada a quien lee.
+
+Pone de ejemplo el listado autopromocional de "las mejores empresas de X", donde quien lo publica se pone el primero y rellena el resto con competidores reconocidos, repitiendo la fórmula en decenas de ciudades. Su argumento es que ese patrón lo detecta un script sencillo y que, además, **refuerza a los líderes que aparecen debajo**: cada listado repite sus nombres, y a un sistema de recuperación le queda un consenso en torno a ellos y el autor como ruido.
+
+Su previsión es que los buscadores y la IA no lo castigarán de forma visible, sino que **dejarán de contar la mención**, sin avisar a nadie, igual que Google hizo con los enlaces tras Penguin 4.0. Es una previsión de su autor, no algo confirmado, pero coincide con lo que digo arriba: el dinero en menciones fabricadas es el que menos garantías tiene. Para integrar bien un enlace o una mención, mi [guía de link building](https://emirodgar.com/guia-link-building) recoge sus criterios editoriales.
 
 ## Cómo saber si funciona
 

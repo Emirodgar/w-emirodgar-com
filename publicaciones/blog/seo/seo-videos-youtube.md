@@ -6,7 +6,7 @@ sitemap: 1
 feed: 1
 folder: seo
 date: 27/01/2022
-date_modified: 04/03/2025
+date_modified: 14/10/2026
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-videos-youtube
@@ -41,6 +41,14 @@ La mayoría de las métricas de interacción se pueden medir en el informe de an
 - Likes / dislikes
 - Comentarios
 - CTR (veces que aparecemos / veces que ven el vídeo)
+
+### Tráfico de tus vídeos desde Google
+
+YouTube Studio mide lo que pasa dentro de la plataforma, pero tus vídeos también aparecen en el buscador de Google. Si tienes el canal asociado a Search Console, puedes ver cuántos clics reciben desde ahí. Este es el ejemplo de un perfil de YouTube: 1,84 mil clics en 28 días (del 14 de septiembre al 11 de octubre), con un desglose por tipo de búsqueda.
+
+![Informe de Search Console de un perfil de YouTube con 1,84 mil clics desde la Búsqueda de Google en 28 días, 1,49 mil de búsqueda web y 334 de búsqueda de vídeos](https://emirodgar.com/cdn/images/posts/search-console-youtube-clics-busqueda-google.png){:class="img-responsive"}
+
+Casi todo el tráfico, 1,49 mil clics, llega de la búsqueda web, es decir, de los vídeos que salen en los resultados normales de Google. Después van la búsqueda de vídeos (334 clics), la de imágenes (10) y la multimodal (2). Te sirve para saber qué parte de tu audiencia llega desde Google y no desde la propia plataforma, y para comprobar si el trabajo de títulos, descripciones y miniaturas se nota fuera de YouTube.
 
 
 ## Análisis de la calidad SEO de nuestros vídeos
