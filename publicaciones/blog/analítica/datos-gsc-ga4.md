@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 26-03-2025
+date_modified: 13/10/2026
 folder: analitica
 permalink: datos-gsc-ga4
 ---
@@ -87,6 +88,15 @@ Estas discrepancias surgen por dos razones principales:
    - Aplicar o eliminar filtros puede hacer que los datos aumenten o disminuyan inesperadamente.  
 
 A pesar de estas limitaciones, Search Console sigue siendo una fuente fiable porque los datos provienen directamente de Google. Tan sólo debes tener en cuenta que al filtrar, no se tendrá en cuenta toda la información.
+
+### Filtro de países con selección múltiple
+
+Desde octubre de 2026, el filtro de país de los informes de rendimiento permite marcar **varios países a la vez**. Antes solo podías analizar uno cada vez, así que para saber cómo iba un mercado formado por varios países (por ejemplo, España y México, o toda tu zona de venta) tenías que sumar los datos a mano o exportarlos.
+
+Ahora seleccionas los países, pulsas en actualizar y ves sus clics, impresiones, CTR y posición media combinados. Dos cosas a tener en cuenta:
+
+- Es una agrupación de datos de Search Console, así que sigue sujeta a las limitaciones de arriba (filas máximas, anonimización de consultas y retraso de datos).
+- Al compararlo con GA4, ten en cuenta que el país de GA4 se basa en la ubicación del usuario en la visita y el de Search Console en el país desde el que se hace la búsqueda. Para comparar mercados con criterio, filtra el mismo grupo de países en ambas herramientas.
 
 Esa limitación pesa especialmente en el informe de IA generativa, donde la exportación de páginas se corta en 1.000 filas. Cuento [cómo cruzarlo con GA4 y datos de negocio](https://emirodgar.com/informe-ia-generativa-search-console) para sacarle partido.
 

@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 30-09-2025
+date_modified: 13/10/2026
 folder: seo
 permalink: afecta-la-eleccion-del-dominio-de-nivel-superior-tld-al-seo
 
@@ -41,6 +42,16 @@ Aquí van algunas recomendaciones prácticas:
 - **Adapta el TLD al mercado**: para un negocio local, un ccTLD (.es, .fr, .mx…) transmite cercanía y confianza.  
 - **Evita los TLD con mala reputación**: aunque sean baratos y llamativos, pueden complicarte la indexación.  
 - **Piensa a largo plazo**: cambiar de dominio en el futuro implica redirecciones y pérdida de señales SEO.  
+
+## ¿Y para las citas de la IA?
+
+Un ccTLD también aparece en las respuestas de IA. Aleyda Solis analizó las citas de ChatGPT, Gemini y AI Mode para las mismas consultas localizadas en EE. UU., Reino Unido, España y Brasil, usando los ccTLD como indicador de orientación local (octubre de 2026):
+
+- Los dominios locales fueron el **24,0 % de las citas en España**, el 38,3 % en Reino Unido y el 41,4 % en Brasil. La mayoría sigue viniendo de dominios genéricos.
+- En España, ChatGPT citó más dominios `.es` (24,8 %) que AI Mode (22,6 %) y Gemini (16,6 %).
+- Depende mucho del tema. En España, los dominios locales fueron el 59,4 % de las citas en finanzas personales y el 52,9 % en hogar y bricolaje, pero apenas el 2,8 % en salud y el 10,5 % en software B2B.
+
+La propia autora advierte de que es una aproximación: hay dominios `.com` o `.org` que también se dirigen a un país concreto, y un dominio genérico puede publicar contenido local. No quiere decir que el ccTLD sea la única vía, sino que **ignorar lo local por completo deja fuera una parte de las citas**. Si trabajas varios mercados, revisa qué fuentes cita cada plataforma para tus consultas en cada país antes de decidir la estructura.
 
 ## Conclusión
 

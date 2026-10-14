@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/05/2024
-date_modified: 12/10/2026
+date_modified: 13/10/2026
 folder: seo
 layout: emirodgar_post
 permalink: ayvens-ald-seo
@@ -115,6 +115,8 @@ Una redirección 301 transfiere señales, pero no sustituye al contenido. Con un
 Además, durante bastante tiempo estuvo habilitado e indexado un subdominio de pruebas, `https://ofertas-renting-test.aldautomotive.es/`, que ahora devuelve un error 502. En Semrush se ve cómo keywords de ALD como "a l d renting" (posición 3), "ald renting particulares" (9) u "offerte ald" (1) posicionaban con esa URL de test. Un entorno de pruebas indexado compite con la web real y reparte las señales de la marca, lo que ha perjudicado el posicionamiento para renting de ALD y, por tanto, de Ayvens.
 
 ![Palabras clave de ALD posicionando con el subdominio de pruebas](/cdn/images/posts/ald-ayvens-subdominio-test-indexado.png){:class="img-responsive"}
+
+Si quieres ver cómo planificar una migración para evitar estos problemas, tienes una [guía de migración SEO](https://emirodgar.com/migracion-seo) con el plan, el mapa de redirecciones y la revisión del día del lanzamiento.
 
 Puedes ver el contexto actual del sector en el [análisis de visibilidad SEO de coches de renting](/analisis-seo/coches-de-renting).
 

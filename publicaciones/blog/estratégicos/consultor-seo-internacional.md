@@ -6,6 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 11/09/2026
+date_modified: 13/10/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -76,6 +77,7 @@ Posicionar una web en varios países no es traducir el contenido y esperar resul
 - **Adaptación cultural del contenido:** modismos, unidades de medida, divisa, referencias legales y de producto propias de cada mercado.
 - **Traducción y localización:** la IA ya compite con la traducción profesional en muchos tipos de contenido, pero el resultado varía mucho según el modelo y el tipo de texto. Un [benchmark reciente de localización inglés-chino](https://emirodgar.com/la-ia-se-acerca-al-rendimiento-humano-en-tareas-complejas) muestra que conviene probar con tu propio contenido y mantener un glosario de términos antes de decidir qué flujo usar.
 - **Link building y autoridad local:** medios, directorios y sitios de referencia son distintos en cada país; una estrategia de enlaces pensada solo para España no construye autoridad en LatAm.
+- **Citas de IA por mercado:** ChatGPT, Gemini y AI Mode no citan las mismas fuentes en cada país. En un análisis de Aleyda Solis (octubre de 2026), los dominios locales (.es) fueron el 24 % de las citas en España, frente al 38,3 % en Reino Unido y el 41,4 % en Brasil. Por eso reviso por separado qué fuentes se citan en cada mercado antes de asumir que lo que funciona en uno sirve en otro.
 - **Buscadores distintos de Google:** en mercados como China, el buscador dominante es Baidu, que da más peso que Google a señales de sitio completo (antigüedad del dominio, registro ICP y ubicación del hosting) que a la calidad del idioma de cada página. Un servidor fuera del continente es más lento y Baidu penaliza los sitios lentos. Por eso, antes de invertir en una traducción profesional, conviene resolver el ICP y el hosting en China continental u Hong Kong, que pueden aportar más visibilidad que la diferencia entre una traducción buena y una excelente.
 
 ## Mercados donde trabajo
@@ -94,7 +96,7 @@ Posicionar una web en varios países no es traducir el contenido y esperar resul
 2. **Keyword research diferenciado por país:** identifico variaciones de búsqueda entre mercados antes de definir la estrategia de contenidos.
 3. **Implementación técnica:** hreflang, sitemaps segmentados y estructura de URLs coherente para cada mercado.
 4. **Autoridad y enlaces locales:** identificación de medios y directorios relevantes en cada país objetivo.
-5. **Medición diferenciada:** seguimiento de posiciones y tráfico separado por mercado, no como una cifra agregada que puede ocultar el rendimiento real en un país concreto.
+5. **Medición diferenciada:** seguimiento de posiciones y tráfico separado por mercado, no como una cifra agregada que puede ocultar el rendimiento real en un país concreto. Search Console ya permite [seleccionar varios países a la vez en el filtro de rendimiento](https://emirodgar.com/datos-gsc-ga4), lo que facilita ver también el conjunto de un bloque de mercados (por ejemplo, LatAm) sin perder el detalle de cada país.
 
 ## Por qué la homologación ICEX Next importa
 

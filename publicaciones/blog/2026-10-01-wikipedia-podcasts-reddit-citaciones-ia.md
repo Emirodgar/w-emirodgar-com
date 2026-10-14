@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 01-10-2026
+date_modified: 13/10/2026
 folder: geo
 permalink: wikipedia-podcasts-reddit-citas-ia
 
@@ -69,6 +70,18 @@ Aun así, la tendencia encaja con lo que ya comentaba en [los retos del SEO](htt
 Si decides responder en hilos de Reddit, foros o reseñas que la IA ya cita, el criterio que propone Ahrefs en su flujo de trabajo me parece el correcto: ayudar de verdad (resolver una duda técnica, corregir un error), decir para quién trabajas y no hacer ventas. Quien mejor puede hacerlo es alguien que conoce el producto, normalmente soporte o comunidad.
 
 También tiene una cara menos amable. Reddit alimenta respuestas de IA con todo lo que hay en sus hilos, y eso incluye bromas e información errónea, como te conté en [cuando la IA se inventa cosas sobre tu marca](https://emirodgar.com/ia-informacion-erronea-marca).
+
+### Google abre un canal directo para el contenido de usuarios
+
+El 8 de octubre de 2026 Google documentó el **UGC Fresh Data Program**, un programa para que plataformas con mucho contenido generado por usuarios (redes sociales, foros) envíen ese contenido y sus señales de interacción por una vía propia, y así aparezca fresco en las funciones de Search. No es la Indexing API y no garantiza que el contenido salga en Google. Las condiciones son exigentes:
+
+- La plataforma debe alojar sobre todo contenido de usuarios, en páginas propias con URL estable (no en perfiles ni feeds), públicas y con autor atribuible a un perfil público.
+- Tiene que tener un volumen alto de contenido y una audiencia significativa.
+- Necesita autenticación OAuth 2.0, cargas JSON-LD validadas y marcado schema.org como `SocialMediaPosting` o `DiscussionForumPosting` con `interactionStatistic`.
+- Debe contar con moderación activa y un mecanismo de denuncia.
+- El contenido debe enviarse en minutos, y los contadores de interacción actualizarse en las primeras 72 horas.
+
+Se solicita con un formulario y Google responde en 6-8 semanas. Google no dice quién participa; Barry Schwartz supone que plataformas como Reddit ya lo están. Es una suposición, no un dato. Lo que sí deja claro es que Google quiere ese contenido de usuarios fresco, y por eso tiene sentido que aparezca tanto en las respuestas de IA. Para casi cualquier otra web no aplica, pero conviene saberlo si gestionas una comunidad o un foro propio.
 
 ## Otro dato: los listados de terceros dominan las búsquedas "mejor X"
 

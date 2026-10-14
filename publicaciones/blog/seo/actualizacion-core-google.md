@@ -9,6 +9,7 @@ sitemap: 1
 feed: 1
 folder: seo
 date: 27/01/2022
+date_modified: 13/10/2026
 permalink: google-core-update
 
 --- 
@@ -36,6 +37,27 @@ Esto lo podemos hacer con Google Search Console comparando periodos para conocer
 ### Validar que no hay problemas que afecten al rastreo e indexación
 
 El siguiente paso será comprobar que nuestra web no dispone de barreras que pudieran estar complicando el rastreo e indexación de páginas. Lo podemos hacer a través del **informe de Cobertura de Search Console** validando que no haya errores ni se estén excluyendo páginas con valor SEO. A mayores, también sería recomendable revisar que no existan problemas con los múltiples [factores SEO](https://emirodgar.com/factores-seo) que Google tiene en cuenta para posicionar una página, especialmente el [tiempo de carga](https://emirodgar.com/mejorar-tiempo-carga-web) que está relacionado con la **experiencia de los usuarios**.
+
+### ¿Cuánto tarda en notarse una recuperación?
+
+En el Search Central Live de Barcelona (octubre de 2026), Google compartió tiempos orientativos extraídos de análisis internos, según cuenta Nacho Mascort:
+
+| **Qué cambia** | **Tiempo habitual** | **Caso más lento** |
+|---|---|---|
+| Recuperación tras una core update | 3-6 meses | De 6 meses a 1 año (hasta la siguiente core) |
+| Despliegue de una core update | 2-4 semanas | |
+| Spam update | 1-2 semanas | Meses |
+| Retirada de una acción manual | 1-2 semanas | 4-6 semanas o más |
+
+Es decir, lo que corrijas hoy puede no verse hasta la siguiente actualización. La documentación oficial dice lo mismo: puede llevar varios meses. Por eso conviene medir la mejora en meses y no en semanas.
+
+### ¿Evalúa Google la página o el sitio?
+
+Según explicó Gary Illyes en el mismo evento, las core updates funcionan a nivel de página y no de dominio, por eso en un mismo sitio unas páginas suben y otras bajan. Pero la calidad de una página no se calcula aislada de su sitio: cada URL hereda en parte la reputación del conjunto. Mil páginas pobres pueden arrastrar a las doscientas buenas, y por eso a veces la solución pasa por mejorar, fusionar o eliminar lo que no aporta.
+
+### El contenido «commodity»
+
+Google habla de contenido *commodity* para referirse a lo que cualquiera podría haber escrito porque se basa en conocimiento común, como «7 consejos para comprar tu primera casa». Frente a él, el contenido no commodity aporta algo que no está en otros sitios: un análisis propio, un dato, una experiencia concreta. Una prueba rápida: si puedes cambiar tu marca por la de un competidor y la página sigue valiendo lo mismo, es commodity. En sitios grandes no suele ser un artículo suelto sino un tipo de página entero, como las fichas con la descripción del fabricante o las landings de ciudad que solo cambian el nombre. Los cuatro criterios con los que Google define la calidad (esfuerzo, originalidad, talento y precisión) los tienes explicados en [qué hay realmente detrás del E-E-A-T](https://emirodgar.com/que-hay-realmente-detras-del-e-e-a-t-de-google).
 
 ## ¿Cómo recuperar tráfico SEO tras una actualización Core?
 

@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 18-09-2026
+date_modified: 13/10/2026
 folder: geo
 permalink: predicciones-seo-2027
 
@@ -44,5 +45,15 @@ Pone un ejemplo muy concreto: Google Analytics mostró tráfico cero durante un 
 Llevo años [insistiendo en trabajar con datos propios](https://emirodgar.com/auditoria-seo) —Search Console cruzado con BigQuery, no solo el dashboard que te entrega la herramienta de turno— precisamente por este motivo. Cuando no puedes inspeccionar cómo se ha calculado una cifra, lo único que te queda es preguntar directamente a quien te la ofrece: qué mide exactamente, sobre qué muestra, y desde cuándo. El informe de IA generativa de Search Console es un buen ejemplo: solo da impresiones, y [hay que cruzarlo con datos propios](https://emirodgar.com/informe-ia-generativa-search-console) para que diga algo útil para el negocio.
 
 No hace falta estar de acuerdo con las tres predicciones para quedarte con la idea central del artículo: en 2027 el reto no va a ser solo adaptarse a cómo cambian Google y la IA, sino aprender a distinguir un dato real de una extrapolación con muy buena presentación.
+
+## Cómo llevarlo al presupuesto de 2027
+
+Con las reuniones de presupuesto cerca, Kevin Indig y Amanda Johnson proponen en Growth Memo (5 de octubre de 2026) dejar de partir de un objetivo de tráfico. Su razonamiento enlaza con lo anterior: si cerca de dos de cada tres búsquedas terminan sin visita, una base de tráfico se va a encoger y va a infravalorar tu visibilidad antes de que empiece 2027. Su propuesta es pedir el presupuesto como una cartera con tres tipos de trabajo, cada uno con sus reglas:
+
+- **Trabajo probado, con capacidad completa:** SEO técnico, refresco de contenidos y las relaciones públicas digitales que ya consiguen citas.
+- **Trabajo de aprendizaje, con tope, un responsable y una fecha de cierre:** pilotos de automatización con IA y nuevas superficies de búsqueda que aún no has probado.
+- **Apuestas no medibles, financiadas por criterio:** comunidad, eventos y marca. Citan al responsable de Ramp, George Bonaci, que decía que la atribución por sí sola les habría llevado a cancelar la marca, los eventos y el correo directo.
+
+Y recomiendan revisar el reparto cada trimestre, con la misma medición por capas que comento en [cómo medir tu visibilidad en la IA](https://emirodgar.com/medir-visibilidad-ia). Lo que más me interesa es el aviso de fondo: lo que no se pueda atribuir limpiamente es lo primero que se recorta, aunque sea lo que funciona. Si vas a defender la inversión ante dirección, esa es la conversación que conviene tener antes del último día, y [aquí explico cómo plantearla](https://emirodgar.com/zero-click-caida-ctr-ia).
 
 *Este artículo forma parte de la guía [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar).*

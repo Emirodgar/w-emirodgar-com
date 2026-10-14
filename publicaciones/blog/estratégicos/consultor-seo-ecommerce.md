@@ -6,6 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 11/09/2026
+date_modified: 13/10/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -81,7 +82,7 @@ Trabajo como **consultor SEO especializado en ecommerce** desde 2007, con proyec
 2. **Arquitectura de categorías:** definición de qué combinaciones de filtros deben indexarse y cuáles no, y cómo enlazar internamente categorías y productos para repartir autoridad.
 3. **Optimización de fichas de producto:** títulos, descripciones únicas y datos estructurados `Product`/`Offer` para ganar visibilidad en resultados enriquecidos.
 4. **Estrategia de contenido de categoría:** textos que capturan búsquedas genéricas del sector sin perjudicar la experiencia de compra.
-5. **Migraciones de plataforma:** acompañamiento completo en cambios de Shopify, PrestaShop, WooCommerce o Magento, con mapeo de redirecciones 301 y verificación de indexación posterior — cubierto dentro de mis [proyectos complejos de consultoría](https://emirodgar.com/consultor-seo).
+5. **Migraciones de plataforma:** acompañamiento completo en cambios de Shopify, PrestaShop, WooCommerce o Magento, con mapeo de redirecciones 301 y verificación de indexación posterior (te cuento el método en mi [guía de migración SEO](https://emirodgar.com/migracion-seo)) — cubierto dentro de mis [proyectos complejos de consultoría](https://emirodgar.com/consultor-seo).
 
 ## Para qué tipo de ecommerce tiene sentido este servicio
 

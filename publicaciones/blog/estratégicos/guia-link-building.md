@@ -8,7 +8,7 @@ feed: 1
 layout: emirodgar_post
 folder: estrategicos
 date: 19/05/2021
-date_modified: 11/09/2026
+date_modified: 13/10/2026
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: guia-link-building
 
@@ -209,6 +209,19 @@ Para identificar enlaces rotos dentro de una página podemos hacer uso de divers
  - [Xenu broken links](http://home.snafu.de/tilman/xenulink.html)
  - [ScreamingFrog](https://www.screamingfrog.co.uk/seo-spider/)
  - Extensiones para Chrome como LinkMiner o Check My Links
+
+### f) Que el enlace parezca editorial
+
+Dan Petrovic (DEJAN) sostiene, en un artículo del 6 de octubre de 2026, que lo que más delata un enlace de outreach no es la métrica del dominio, sino la **incongruencia**: un enlace puesto donde ningún lector lo esperaba. Un escritor con experiencia coloca los enlaces por intuición y con patrones muy parecidos, y según su análisis un modelo entrenado con esos patrones puede predecir dónde irían. Su conclusión es que, si el algoritmo puede detectar el enlace, Google también, y que muchos enlaces conseguidos así se ignoran o cuentan como una señal levemente negativa. Es su estimación, no una confirmación de Google, pero encaja con la idea de que importa más la integración que el número de DA.
+
+Estas son las ideas que más me sirven:
+
+- **Prueba de fuego:** pregunta a otro SEO "¿quién quería el enlace en esta página?". Si lo adivina, la integración no es suficientemente buena.
+- **Enlaza de forma liberal.** El contenido orgánico suele tener 10-20 enlaces por página, también a dominios en los que no tienes interés, mientras que las redes de blogs se quedan en 2-3. La fórmula "un enlace comercial más un par de autoridad para que parezca natural" hace justo lo contrario de lo que busca.
+- **Todo enlace tiene un propósito:** atribuir, referenciar, definir, ampliar, identificar, ejemplificar, actuar, relacionar, probar o promocionar. Un enlace comercial está bien si pasa la misma prueba que los demás.
+- **Apunta a la mejor página posible** para ese texto. Si hay una más útil para el ancla, el enlace está mal puesto.
+- **Ancla natural:** que describa la fuente o la acción, sin palabra clave objetivo, y que encaje con cómo enlaza el propio sitio.
+- **Primero el contenido.** Si no hay nada que merezca un enlace, ninguna técnica lo arregla. Cuanto mejor es el contenido, menos esfuerzo de outreach necesita. Y cuando el enlace pasa a ser el objetivo principal, el contenido pasa a un segundo plano.
 
 ## <a name="penalizacion"></a> Evitar penalizaciones
 
