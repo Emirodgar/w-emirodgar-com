@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
+date_modified: 14/10/2026
 folder: geo
 permalink: contenido-citable-query-fan-out
 
@@ -24,6 +25,20 @@ Cuando haces una pregunta a un motor de respuestas, no lanza solo esa búsqueda.
 Hay otros ejemplos. En el leak del system prompt de Opus 5.5 que analizó Natzir Turrado, la skill de Deep Research descompone la pregunta en subtemas y lanza subagentes en paralelo. Su ejemplo: una comparativa de CRMs se divide en **precio, funcionalidades, integraciones y opiniones de usuarios**, y cada parte se investiga por separado. Lo conté en [la filtración sobre Claude y el modelo pequeño](https://emirodgar.com/claude-lee-tu-web-modelo-pequeno), con la cautela de que no es información oficial.
 
 Y el fan-out se **personaliza**. En el experimento de iPullRank con Google Personal Intelligence, una pregunta genérica sobre plataformas de streaming acabó buscando listados "para familias" sin que nadie lo pidiera. Está en [cuando AI Mode lee el correo del usuario](https://emirodgar.com/google-personal-intelligence-seo).
+
+## Qué hace ChatGPT en la práctica, según Ahrefs
+
+Ahrefs ha publicado un estudio con 66,6 millones de respuestas de la versión gratuita de ChatGPT (sin sesión iniciada, GPT-5.6 Luna) y 15 millones de consultas de fan-out de agosto y septiembre de 2026. Es una muestra de un modelo en un momento concreto, y ellos mismos avisan de que OpenAI cambia la recuperación constantemente. Pero deja datos útiles:
+
+- **Solo el 14,4 % de las respuestas necesitó buscar en la web.** Cuando buscó, hizo una media de 1,6 consultas. Por tanto, en muchas preguntas, que te mencione depende de lo que ChatGPT ya sabe de tu marca, no de lo que pueda encontrar. Los modelos gratuitos tienden a apoyarse más en lo entrenado para ahorrar costes.
+- **El 6,8 % de las consultas usó el operador `site:`** para buscar dentro de una sola web, repartidas en unos 116.000 dominios. Entre los sitios más buscados, tres de cada cuatro eran webs de marca, y 8 de los 10 dominios más consultados eran marcas de consumo. Los minoristas sumaban un 11,9 %, y Reddit y Facebook un 1,9 %.
+- **Las consultas se parecen cada vez más a "precio", "oficial" y "reseñas".** "Official" subió del 10,1 % al 13,1 % de las consultas en inglés entre agosto y septiembre, y "price" del 6,0 % al 8,9 % (un 47 % más en términos relativos). "Meaning" y "definition" bajaron en torno a una quinta parte.
+- **El tipo de pregunta cambia las fuentes.** En una prueba aparte con 20.000 prompts de EE. UU., las preguntas factuales (precios, características, datos de empresa) citaban una fuente oficial el 84,4 % de las veces, y las comparativas ("A vs B") el 68,3 %. En las comparativas, la mayoría de citas iban a otros sitios.
+- **Las fuentes originales ganan a las que resumen.** Con datos de citas de marzo a septiembre, PubMed pasó del puesto 64 al 4 entre los dominios más citados y la FDA entró en el 8, mientras caían páginas de salud que resumen esa investigación, como WebMD. Reddit, Wikipedia y YouTube perdieron cuota.
+
+Lo que me llevo es doble. Para los datos factuales (precios, especificaciones, soporte), tu propia web tiene que responder en texto plano y en una página que se pueda encontrar, porque es donde ChatGPT irá con `site:`. Y para las comparativas, el hueco está en reseñas y páginas que comparan, no solo en la ficha de producto. En su ejemplo de zapatillas de running, las consultas eran sobre todo "best", "2026", "review" y "vs", y "official" aparecía poco. El fan-out de tu sector puede ser muy distinto del global, y por eso conviene mirarlo con datos de tu categoría.
+
+Un apunte: estas cifras son de consultas amplias en inglés, y el propio estudio reconoce que otros trabajos, con prompts comerciales del tipo "mejor X", encontraron más búsquedas y más `site:` por prompt.
 
 ## Qué cambia para quien escribe contenido
 
@@ -43,6 +58,8 @@ No existe una herramienta que te dé el fan-out exacto de cada motor. Lo que yo 
 2. **Pregunta a los asistentes** y revisa qué búsquedas o pasos muestran mientras investigan, si el tuyo lo enseña. Son una pista, no la verdad.
 3. **Mira qué cubren los resultados que ya se citan** para esa consulta. Si todos responden a una subpregunta que tú no tocas, ahí tienes un hueco.
 4. **Cruza con tus propios datos:** preguntas de ventas y de soporte, buscador interno, consultas de Search Console. Son preguntas reales formuladas como las hacen tus clientes.
+
+5. **Analiza el fan-out real de tu sector** si tienes herramienta para ello. En Ahrefs Brand Radar, el informe de respuestas de IA permite filtrar ChatGPT y tu mercado, ver la columna de consultas de fan-out y filtrar por palabras como "price", "review", "best" o `site:`. Repetirlo cada mes te dice qué tipos de consulta crecen.
 
 Aviso: esto es un método de trabajo mío, no una técnica validada. El fan-out cambia según el motor, el usuario y el momento, así que trátalo como una lista que se revisa.
 

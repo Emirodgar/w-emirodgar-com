@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 01-10-2026
-date_modified: 13/10/2026
+date_modified: 14/10/2026
 folder: geo
 permalink: wikipedia-podcasts-reddit-citas-ia
 
@@ -64,6 +64,8 @@ Aquí los números son los más llamativos. Esto es lo que recoge el artículo:
 - En B2B, una investigación de Comscore con Reddit y SurveyMonkey indica que Reddit llega al 59 % de los decisores de negocio de EE. UU., más que LinkedIn, y que el 38 % de su audiencia de empresa no está en LinkedIn.
 
 Dos matices importantes. El estudio sobre B2B lo ha elaborado la propia Reddit, así que conviene leerlo con cautela. Y estas cifras son de Estados Unidos, no tienen por qué trasladarse tal cual al mercado español.
+
+Y un tercero, más reciente: la tendencia puede estar cambiando en ChatGPT. Según el análisis de Ahrefs Brand Radar sobre las citas de ChatGPT en EE. UU., en marzo de 2026 en torno a una de cada cinco respuestas citaba Reddit, y a finales de septiembre una de cada 43. Wikipedia pasó de una de cada siete a una de cada 35, y YouTube de una de cada 370 a una de cada 500. Siguen entre los dominios más citados, pero su cuota se ha encogido rápido. Snippet Digital y Aleyda Solís habían detectado ya una caída similar en agosto. Lo que han ganado son organismos de investigación, reguladores, marcas y quienes prueban productos de primera mano. Si parte de tu visibilidad en IA depende de estos sitios, conviene vigilar cuánto te citan para tus temas, y no darla por estable.
 
 Aun así, la tendencia encaja con lo que ya comentaba en [los retos del SEO](https://emirodgar.com/retos-seo) sobre el peso de los grandes foros en los resultados, y con lo que se recomienda en [cómo optimizar para AEO](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt): participar de forma auténtica en comunidades, sin spam.
 
