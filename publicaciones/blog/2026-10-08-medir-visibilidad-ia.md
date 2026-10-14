@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
+date_modified: 13/10/2026
 folder: geo
 permalink: medir-visibilidad-ia
 
@@ -31,7 +32,11 @@ Qué ven realmente estos bots es otro tema, y lo tienes en [qué leen los bots d
 
 ## 2. Exposición en Google
 
-Para las AI Overviews y el AI Mode, Search Console tiene ya un informe de IA generativa. Solo da **impresiones**: ni clics, ni consultas, ni valor de negocio. Aun así es dato de primera mano, y una caída brusca es casi la única señal de que algo ha cambiado.
+Para las AI Overviews y el AI Mode, Search Console tiene ya un informe de IA generativa. Solo da **impresiones**: ni clics, ni consultas, ni valor de negocio. Aun así es dato de primera mano, y una caída brusca es casi la única señal de que algo ha cambiado. Así se ve la evolución diaria de impresiones durante unos tres meses:
+
+![Evolución diaria de impresiones en el informe de IA generativa de Search Console entre julio y octubre de 2026, con 1,28 millones de impresiones en total](https://emirodgar.com/cdn/images/posts/search-console-impresiones-informe-ia-generativa.png){:class="img-responsive"}
+
+Fíjate en que hay un vaivén semanal y una tendencia al alza. Con ese patrón, una bajada de un solo día no significa nada; lo que hay que vigilar es que la tendencia se rompa durante varios días seguidos.
 
 Mi recomendación es abrirlo con una periodicidad fija, por ejemplo semanal, y cruzarlo con tráfico y valor comercial por sección de la web. El método completo está en [cómo sacar partido al informe de IA generativa de Search Console](https://emirodgar.com/informe-ia-generativa-search-console).
 
@@ -53,6 +58,7 @@ Esta es la capa donde más gente se engaña. Medir si te citan es posible, pero 
 
 - **Línea base antes de tocar nada.** Define un grupo de prompts, lánzalos a diario durante al menos una semana y mira patrones, no el dato de un día. Una sola medición puede verse mucho mejor o peor de lo normal.
 - **Prompts cortos y etiquetados por pregunta de negocio**, que salgan de las subpreguntas de tu tema (el [query fan-out](https://emirodgar.com/contenido-citable-query-fan-out)): comparativas, recomendaciones, casos de uso, datos de producto. Una marca puede ser fuerte en general y casi invisible en el caso de uso que más te importa, y la media lo esconde.
+- **Hazlo por mercado.** Si vendes en varios países, lanza los prompts localizados en cada uno. En un análisis de Aleyda Solis, el peso de los dominios locales en las citas variaba mucho entre países (24 % en España, 38,3 % en Reino Unido, 41,4 % en Brasil) y entre plataformas, así que una media global esconde lo que pasa en cada mercado.
 - **Revisa qué fuentes se citan.** No solo si sales tú, sino quién sale: listados de terceros, Wikipedia, Reddit, podcasts. Eso te dice dónde trabajar fuera de tu web. Lo cuento en [las fuentes que alimentan las citas de la IA](https://emirodgar.com/wikipedia-podcasts-reddit-citas-ia).
 - **Vigila la exactitud, no solo la presencia.** Que te nombren mal es peor que no salir. Para eso tienes [cómo auditar y proteger tu marca](https://emirodgar.com/proteccion-marca-ia).
 
@@ -76,6 +82,23 @@ Todo lo anterior es un medio. Lo que decide si sigues invirtiendo es el impacto:
 - **Pregunta a los clientes.** El "¿cómo nos conociste?" en formularios es burdo y poco fiable, pero junto con el tráfico "directo" es una señal más.
 
 No te fíes de la correlación entre un porcentaje de visibilidad en una herramienta y las ventas. Yo nunca he visto un estudio serio y controlado que la demuestre.
+
+### Mide las señales como un conjunto
+
+Si ninguna métrica prueba por sí sola que la IA te ha influido, la salida es cruzar varias con puntos ciegos distintos. Kevin Indig y Amanda Natividad (SparkToro) lo plantean en Growth Memo (5 de octubre de 2026) en tres capas, que conviene mirar en la misma página cada mes:
+
+1. **Exposición:** cuota de voz, menciones, citaciones, impresiones.
+2. **Comportamiento:** búsquedas de marca, visitas directas, o cómo dicen los clientes que te conocieron.
+3. **Resultado de negocio:** conversiones e ingresos.
+
+Lo útil está en leerlas juntas, porque cada combinación apunta a un arreglo distinto:
+
+- **Sube la exposición, pero las búsquedas de marca no se mueven.** Las menciones no llegan a los compradores. Es un problema de distribución: mueve contenido y participación a las comunidades y canales de tu audiencia.
+- **Suben las búsquedas de marca, pero no la facturación.** Te buscan y no convierten. Es un problema de conversión: revisa las páginas de destino, la oferta o el paso a ventas.
+- **Suben marca y visitas directas, y las citas en IA no.** Algo fuera de tu web está funcionando (un podcast, un evento, un socio, el boca a boca) y la IA aún no lo refleja. Localiza la fuente y repítela.
+- **Bajan exposición y marca a la vez.** Otro se está llevando las menciones. Audita a quién recomienda la IA en tu categoría y qué fuentes cita.
+
+Dos cautelas sobre las cifras que acompañan a este planteamiento. Graphite estima que la IA puede estar infraatribuida hasta 10 veces, pero es una estimación, no una medición. Y según un análisis recogido en el mismo artículo, el 91 % de las citas aparece en solo uno de los tres motores (ChatGPT, Perplexity o AI Overviews), así que tu presencia en uno no te dice nada de los otros: hay que medirla por superficie.
 
 ## Un cuadro de mando mínimo
 

@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 01-10-2026
+date_modified: 13/10/2026
 folder: geo
 permalink: informe-ia-generativa-search-console
 
@@ -34,6 +35,14 @@ Y hay otra razón para abrirlo con cierta frecuencia. Como el informe solo te da
 ![Caída brusca de impresiones en el informe de IA generativa de Search Console en los últimos días del gráfico](https://emirodgar.com/cdn/images/posts/search-console-caida-informe-ia-generativa.png){:class="img-responsive"}
 
 Si no revisas tus datos cada cierto tiempo, te enteras tarde de problemas que han podido ocurrir sin que lo supieras. Revisarlo de forma periódica, por ejemplo cada semana, te permite empezar a investigar cuando la caída tiene días y no meses.
+
+También conviene saber cómo es una evolución normal para no dar la voz de alarma por un simple vaivén. Este es otro gráfico del mismo informe, con datos de unos tres meses (del 12 de julio al 10 de octubre de 2026):
+
+![Evolución diaria de impresiones en el informe de IA generativa de Search Console entre julio y octubre de 2026, con 1,28 millones de impresiones en total](https://emirodgar.com/cdn/images/posts/search-console-impresiones-informe-ia-generativa.png){:class="img-responsive"}
+
+Se ven dos cosas. La primera, una tendencia al alza: se pasa de unas 12.000 impresiones diarias a mediados de julio a rondar las 15.000-20.000 en octubre, hasta sumar 1,28 millones en el periodo. La segunda, un patrón semanal muy marcado, con valles y picos que se repiten cada pocos días, y algún pico puntual aislado como el de principios de agosto. Por eso una bajada de un día no significa nada, y lo que hay que vigilar es que la tendencia se rompa durante varios días seguidos.
+
+Si operas en varios mercados, te interesa saber que los informes de rendimiento de Search Console ya permiten [seleccionar varios países a la vez en el filtro de país](https://emirodgar.com/datos-gsc-ga4). Así puedes agrupar, por ejemplo, España y México y ver su rendimiento combinado en lugar de ir país por país. De momento lo que sigue faltando, como se quejaba Barry Schwartz en Search Engine Roundtable, son los clics en el informe de IA.
 
 ## El método: de la visibilidad a la exposición comercial
 
