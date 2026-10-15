@@ -1,21 +1,21 @@
 ---
-title: Cómo hacer SEO en Youtube
-description: Youtube es el segundo buscador más utilizado en el mundo, ¿a qué esperas para potenciar el SEO de tus vídeos?
+title: Cómo hacer SEO en YouTube y posicionar tus vídeos
+description: Guía práctica para posicionar vídeos en YouTube y en Google: palabras clave, título, subtítulos, miniatura y métricas, con datos de 1,6 millones de vídeos.
 lang: es_ES
 sitemap: 1
 feed: 1
 folder: seo
 date: 27/01/2022
-date_modified: 14/10/2026
+date_modified: 15/10/2026
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-videos-youtube
 
 ---
 
-¿Por qué hablamos de Youtube y no de otros portales de vídeos? Youtube [representa el 77% del mercado de vídeos digitales](https://www.datanyze.com/market-share/online-video/youtube-market-share); el siguiente es Vimeo con una cuota cercana al 16%.
+¿Por qué hablamos de YouTube y no de otros portales de vídeo? Porque es la plataforma de vídeo dominante: según [Datanyze](https://www.datanyze.com/market-share/online-video/youtube-market-share) concentraba el 77 % del mercado cuando escribí este artículo, con Vimeo en torno al 16 %. Es un dato de hace tiempo, así que tómalo como orden de magnitud. Además, YouTube es el segundo buscador más usado del mundo y sus vídeos aparecen en los resultados de Google, y cada vez más en las respuestas de la IA.
 
-**¿Cómo hacemos SEO en Youtube?** la idea es establecer un proceso de optimización de los videos, listas de reproducción y canal para mejorar el posicionamiento en los resultados de búsqueda orgánicos de YouTube cuando se realice una consulta relacionada con nuestra temática.
+**¿Cómo hacemos SEO en YouTube?** La idea es optimizar los vídeos, las listas de reproducción y el canal para posicionar en los resultados de YouTube y también en Google cuando alguien busque algo relacionado con nuestra temática.
 
 Los pasos que debemos seguir son los siguientes:
 
@@ -23,8 +23,10 @@ Los pasos que debemos seguir son los siguientes:
  2. [Optimizar los vídeos](#optimizar)
  3. [Trucos para crear vídeos de calidad](#calidad)
  4. [Promocionar los vídeos](#promocion)
+ 5. [Aprendizajes de un estudio de 1,6 millones de vídeos](#estudio)
+ 6. [YouTube y la IA](#ia)
 
-## ¿Cómo funciona el algoritmo de Youtube?
+## ¿Cómo funciona el algoritmo de YouTube?
 
 Google explicó en [este artículo](https://creatoracademy.youtube.com/page/lesson/discovery) su funcionamiento. A modo de resumen, nos dice lo siguiente:
 
@@ -32,15 +34,15 @@ Google explicó en [este artículo](https://creatoracademy.youtube.com/page/less
 
 Como era de esperar, la palabra clave o término utilizado en la búsqueda es importante pero también lo son las **métricas de interacción con dicho vídeo**.
 
-Su objetivo es claro, quieren mantener a los usuarios en Youtube, al igual que hacen Facebook, Twitter o Instagram. Cada vez el tráfico que recibimos desde estos portales es menor.
+Su objetivo es claro: quieren mantener a los usuarios en YouTube, al igual que hacen otras redes sociales. Cada vez el tráfico que recibimos desde estos portales es menor.
 
 ### Métricas de interacción
 
 La mayoría de las métricas de interacción se pueden medir en el informe de análisis de [YouTube Studio](https://studio.youtube.com). Las más conocidas son: 
 
-- Likes / dislikes
-- Comentarios
-- CTR (veces que aparecemos / veces que ven el vídeo)
+- Me gusta y comentarios. Ten en cuenta que YouTube ya no muestra públicamente el número de "no me gusta", aunque el creador sigue viendo la valoración global.
+- CTR de las impresiones: las veces que se hace clic en el vídeo entre las veces que se muestra su miniatura.
+- Retención de audiencia y tiempo de visualización.
 
 ### Tráfico de tus vídeos desde Google
 
@@ -57,10 +59,10 @@ A nivel SEO podemos agrupar las métricas en los bloques de captación, calidad,
 
 -   **Captación**  
      -   Aparición en listados de resultados
-     -    CTR (veces que aparecemos / veces que ven el vídeo)  
+     -    CTR de las impresiones (clics / veces que se muestra el vídeo)  
 
 -   **Calidad**  
-     -   Likes / dislikes
+     -   Me gusta
      -   Comentarios
      - Retención de audiencia (%)
      - Tiempo promedio de visualización 
@@ -80,31 +82,31 @@ Podemos discernir dos escenarios: **cómo estamos posicionados** y **cómo inter
 
 Para poder **conseguir más visualizaciones en nuestros vídeos** podemos seguir el siguiente esquema de trabajo.
 
-## <a name="palabras-clave"></a> 1- Identificar y utiliza las palabras clave adecuadas
+## <a name="palabras-clave"></a> 1- Identificar y utilizar las palabras clave adecuadas
 
-Podemos utilizar [Google Trends](https://trends.google.es/trends/) o cualquier [herramienta SEO gratuita](herramientas-seo-gratis) de **análisis de palabras clave** para determinar aquellas relacionadas con nuestro sector y que cuentan con un mayor volumen de tráfico.
+Podemos utilizar [Google Trends](https://trends.google.es/trends/) o cualquier [herramienta SEO gratuita](https://emirodgar.com/herramientas-seo-gratis) de **análisis de palabras clave** para determinar aquellas relacionadas con nuestro sector y que cuentan con un mayor volumen de tráfico. Google Trends permite además filtrar por "Búsqueda en YouTube", lo que ayuda a ver qué se busca en la propia plataforma.
 
-Hay que tener en cuenta que el comportamiento dentro de Youtube podría ser ligeramente diferente al de las búsquedas de Google por lo que recomiendo validar nuestas palabras clave con aplicaciones específicas, por ejemplo:
+Hay que tener en cuenta que el comportamiento dentro de YouTube puede ser distinto al de las búsquedas de Google, por lo que recomiendo validar las palabras clave con aplicaciones específicas, por ejemplo:
 
 - [https://keywordtool.io/es/youtube](https://keywordtool.io/es/youtube)
 - [https://keywordseverywhere.com/](https://keywordseverywhere.com/)
 
-A mayores, podemos realizar búsquedas a mano y fijarnos qué vídeos destaca Google en la primera página de resultados. De aparecer ahí podemos estar seguros de que serán vídeos relevantes a nivel de **palabras clave e interacciones**.
+Además, podemos realizar búsquedas a mano y fijarnos en qué vídeos destaca Google en la primera página de resultados. Si aparecen ahí, es una buena señal de que son relevantes a nivel de **palabras clave e interacciones**. Te sirve también para saber si, para esa consulta, Google muestra vídeo o no: si no lo muestra, quizá no compense el esfuerzo de grabar uno.
 
 
 ![Búsqueda google receta pollo vídeos youtube](https://i.imgur.com/4TrrOMW.png){:class="img-responsive"}
 
 
 
-De forma complementaria podemos hacer una búsqueda en Google directamente sobre vídeos de Youtube para analizar el TOP10 de resultados. Para ello bastará con usar el siguiente comando actualizando el último valor "local seo" por la palabra clave que queramos buscar.
+De forma complementaria podemos hacer una búsqueda en Google directamente sobre vídeos de YouTube para analizar el TOP10 de resultados. Para ello bastará con usar el siguiente comando, cambiando el último valor "local seo" por la palabra clave que queramos buscar.
 
 ```
 site:youtube.com inurl:watch title:local seo
 ```
  
-Otra opción puede ser fijarnos en los **competidores directos de nuestro canal** que tengan un tamaño similar pero que estén por encima. Analizando sus vídeos seguro que podemos identificar palabras clave relevantes que les estén funcionando bien.
+Otra opción puede ser fijarnos en los **competidores directos de nuestro canal** que tengan un tamaño similar pero que estén por encima. Analizando sus vídeos podemos identificar palabras clave relevantes que les estén funcionando bien.
 
-Por último, herramientas como [Buzzsumo](https://buzzsumo.com/) nos ayudarán a identificar **tendencias** y publicaciones con buena acogida por parte de los usuarios por lo que tamibén servirán como fuente de inspiración y para detectar términos relevantes en *engagement*.
+Por último, herramientas como [Buzzsumo](https://buzzsumo.com/) nos ayudarán a identificar **tendencias** y publicaciones con buena acogida por parte de los usuarios, por lo que también servirán como fuente de inspiración y para detectar términos relevantes en *engagement*.
 
 
 ![Buzzsumo tendencias de publicación e interacción](https://i.imgur.com/ylS0ueg.png){:class="img-responsive"}
@@ -113,7 +115,7 @@ En la imagen anterior podemos ver la evolución de las publicaciones de una tem�
 
 ## <a name="optimizar"></a> 2- Optimizar los vídeos
 
-A mayores de estas dos herramientas de análisis de palabras clave existen soluciones más completas para gestionar y optimizar nuestros vídeos, listas y canales de forma sencilla. Estas dos extensiones son las más conocidas:
+Además de estas herramientas de palabras clave, existen soluciones más completas para gestionar y optimizar vídeos, listas y canales. Estas dos extensiones son las más conocidas:
 
 - [https://vidiq.com/](https://vidiq.com/)
 - [https://www.tubebuddy.com/](https://www.tubebuddy.com/)
@@ -124,86 +126,101 @@ Algunas de las funcionalidades extra que aportan son:
 - **Herramientas de visualización y moderación de comentarios**: nos facilita la gestión de los comentarios, ideal para poder enriquecer el contenido y generar debate asociado a un vídeo.
 - **Recomendaciones sobre vídeos**: esta herramienta proporciona un panel lateral sobre nuestros vídeos con sugerencias de optimización para incrementar visualizaciones y *engagement*. 
 - **Análisis de competidores**: nos permitirá analizar qué es lo que hacen nuestros principales competidores y trabajar en una línea que nos permita reducir las distancias con ellos.
-- **Palabras clave (tags)**: por defecto Youtube no muestra los tags utilizados por un vídeo. Para poder ver las palabras clave que están usando tendríamos que ir al código fuente y buscar "*keywords*". Esta extensión nos ayuda a identificarlas de forma sencilla.
+- **Palabras clave (tags)**: por defecto YouTube no muestra los tags utilizados por un vídeo. Estas extensiones permiten verlos de forma sencilla, sin tener que ir al código fuente.
 
-Los aspectos más relevantes de nuestros vídeos y que siempre debemos tener bien optimizados son:  Título, Descripción, Tags (etiquetas) y  Thumbnail (imagen por defecto del vídeo). A continuación damos unas recomendaciones sobre cada uno de ellos.
+Los aspectos más relevantes de nuestros vídeos y que siempre debemos tener bien optimizados son: título, descripción, subtítulos, capítulos, miniatura (thumbnail) y, de forma secundaria, las etiquetas. A continuación damos recomendaciones sobre cada uno de ellos.
 
-### 2.1- Redactar títulos de calidad para Youtube
+### 2.1- Redactar títulos de calidad para YouTube
 
 Nuestros títulos deben contener siempre la palabra clave por la que queremos aparecer en las búsquedas y ésta debe estar lo más a la izquierda que nos sea posible.
 
-No debemos superar los 60 caracteres y debemos apostar por títulos con gancho: que capten rápidamente la atención o despierten la curiosidad de los usuarios.
+No debemos superar los 60 caracteres aproximadamente, para que no se corten, y debemos apostar por títulos con gancho: que capten rápidamente la atención o despierten la curiosidad de los usuarios. Eso sí, que cumplan lo que prometen: un título engañoso genera clics pero también abandonos, y eso perjudica la retención.
 
 ###  2.2- Genera una descripción válida para buscadores
 
 Aunque el objetivo principal es aportar valor a los usuarios que quieren ver nuestro vídeo, si basamos la descripción en un listado de enlaces o un resumen demasiado corto, estaremos perdiendo la oportunidad de aparecer en más búsquedas.
 
-La palabra principal debe ser incluida en el título pero debemos utilizar la descripción para tratar de aparecer en búsquedas de palabras clave secundarias o complementarias a la principal. De esta forma podremos captar un mayor tráfico hacia nuestros vídeos.
+La palabra principal debe ser incluida en el título, pero podemos utilizar la descripción para aparecer en búsquedas de palabras clave secundarias o complementarias. Algunas pautas:
 
-Una buena práctica suele ser transcribir el audio del vídeo en la descripción. De esta forma conseguimos abarcar un gran número de búsquedas directamente relacionadas. 
+- Las primeras líneas son las que se ven sin desplegar, así que ponlas lo más claras posible, con la palabra clave y lo que va a encontrar el usuario.
+- Escribe un resumen en lenguaje natural, de varios párrafos, no una lista de palabras clave. Rellenar de términos es una práctica que YouTube considera spam.
+- Añade enlaces útiles (tu web, otros vídeos y recursos mencionados).
 
-### 2.3- Youtube tags
+Antes recomendaba pegar la transcripción completa en la descripción. Hoy prefiero otra vía: sube la transcripción como **subtítulos**, que es el sitio pensado para ello, y deja la descripción para el resumen.
 
-Aquí debemos añadir tanto la keyword pricipal como las secundarias. De esta forma le indicamos a Youtube con qué terminos estará relacionado nuestro vídeo.
+### 2.3- Subtítulos y capítulos
 
-### 2.4- Thumbnail
+- **Subtítulos:** además de mejorar la accesibilidad y reducir los abandonos cuando el usuario ve el vídeo sin sonido, aportan texto que YouTube puede leer. Revisa los autogenerados, porque suelen fallar con nombres propios y términos técnicos.
+- **Capítulos:** añade marcas de tiempo en la descripción, la primera en 0:00, con títulos descriptivos. Ayudan al espectador a moverse por el vídeo y Google puede mostrarlos como momentos clave en los resultados.
 
-Será la parte más visual de nuestro vídeo y probablemente la que determine, junto con el título, que un usuario haga clic o no en nuestros resultados. Por ello debemos asegurarnos de utilizar una imagen llamativa y relacionada con la temática que trataremos en el vídeo. Podemos probar varios e ir analizando el CTR que generamos.
+### 2.4- Etiquetas (tags)
+
+Añade la keyword principal y las secundarias, pero no esperes demasiado de ellas. YouTube indica que las etiquetas tienen un papel mínimo en el descubrimiento y que sirven sobre todo para casos como un nombre mal escrito frecuente. Es mejor dedicar el tiempo al título, la miniatura y el contenido.
+
+### 2.5- Miniatura (thumbnail)
+
+Será la parte más visual de nuestro vídeo y probablemente la que determine, junto con el título, que un usuario haga clic o no en nuestros resultados. Por ello debemos asegurarnos de utilizar una imagen llamativa y relacionada con la temática que trataremos en el vídeo, con poco texto y legible en móvil. Podemos probar varias e ir analizando el CTR que generamos; YouTube Studio ofrece la función de probar y comparar miniaturas en algunos canales.
 
 ## <a name="calidad"></a> 3- Trucos para crear vídeos de calidad
 
-Youtube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson/discovery):
+YouTube tiene un [doble objetivo](https://creatoracademy.youtube.com/page/lesson/discovery):
 
 - Ayudar a los espectadores a encontrar los vídeos que les interesan
 - Maximizar sus interacciones y su satisfacción a largo plazo
 
 >Básicamente lo que tenemos que hacer es crear vídeos que interesen a nuestra audiencia y con los que interactúen. Fácil decirlo pero difícil llevarlo a cabo.
 
-Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nuestras publicaciones en Youtube.
+Estas son algunas recomendaciones que nos ayudarán a mejorar la calidad de nuestras publicaciones en YouTube.
 
- 1. Planifica el vídeo con tiempo. Ten claro lo que quieres hacer y cómo lo llevarás a cabo. No tengas prisa.
- 2. Los 10-15 primeros segundos son cruciales. Tienes que convencer al usuario de que merece la pena ver el vídeo por lo que comienza con lo más interesante o atractivo.
+ 1. Planifica el vídeo con tiempo. Ten claro lo que quieres hacer y cómo lo llevarás a cabo.
+ 2. Los primeros segundos son cruciales. Tienes que convencer al usuario de que merece la pena ver el vídeo, así que comienza con lo más interesante o atractivo. Revisa la curva de retención en YouTube Studio para ver en qué momento se va la gente.
  3. Pide interacción a los usuarios:
     - Que comenten dudas para que se las podamos resolver
     - Que indiquen que les gusta el vídeo si les ha ayudado
     - Que se suscriban al canal para ver más vídeos relacionados
  4. Invierte tiempo en editar los vídeos. La imagen inicial, la descripción o los colores utilizados son elementos importantes. 
- 5. Evita paradas. Revisa cada segundo del vídeo y asegúrate que su visualización no se ve entorpecida por momentos de transicción que no aportan valor.
- 6. Añade subtítulos al vídeos. En el caso de que el audio no se escuche bien o un usuario no tenga altavoces a mano, evitaremos fugas durante la visualización.
- 7. Facilita al usuario el seguimiento del vídeo con una buena resolución y resaltando aquellas partes de las que hablas. Si muestras una imagen y estás haciendo referencia a una parte de la misma, destácala frente al resto.
- 8. Pide feedback a tantas personas como te sea posible. Debemos aprender de las críticas constructivas para mejorar nuestro producto. 
- 9. Termina los vídeos con una pantalla de fin común a todos ellos. Se trata de generar un patrón fácilmente reconocible por los usuarios. 
- 11. Responde siempre a los comentarios con buenas palabras y siendo lo más descriptivo que sea posible.
-  
+ 5. Evita paradas. Revisa cada segundo del vídeo y asegúrate de que no hay transiciones que no aportan valor.
+ 6. Añade subtítulos al vídeo, como vimos antes.
+ 7. Facilita al usuario el seguimiento del vídeo con una buena resolución y resaltando aquellas partes de las que hablas. Si muestras una imagen y haces referencia a una parte de ella, destácala frente al resto.
+ 8. Pide feedback a tantas personas como te sea posible y aprende de las críticas constructivas.
+ 9. Termina los vídeos con una pantalla final común a todos ellos, para generar un patrón fácilmente reconocible.
+ 10. Responde siempre a los comentarios con buenas palabras y siendo lo más descriptivo posible.
 
-### 3.1- Utiliza las tarjetas de Youtube
+### 3.1- Utiliza las tarjetas de YouTube
 
 Las [tarjetas de YouTube](https://support.google.com/youtube/answer/6140493?co=GENIE.Platform%3DDesktop&hl=es) son una función interactiva que anima a los espectadores a realizar una de las cinco acciones siguientes:
 
  - Ver otro video o lista de reproducción 
- - Descubre otro canal de YouTube. 
- - Dona a una organización sin fines de lucro 
+ - Descubrir otro canal de YouTube
+ - Donar a una organización sin ánimo de lucro 
  - Responder una encuesta 
- - Visita un enlace externo
+ - Visitar un enlace externo
 
-Nos ayudarán a mejorar la interacción de los usuarios con nuestros vídeos y la posibilidad de relacionarlos entre sí consiguiendo visualizaciones cruzadas.
+Nos ayudarán a mejorar la interacción de los usuarios con nuestros vídeos y a relacionarlos entre sí, consiguiendo visualizaciones cruzadas.
 
 ## <a name="promocion"></a> 4- Promocionar los vídeos
 
 Cuando comenzamos un canal es posible que no tengamos muchas interacciones y por lo tanto aparezcamos en pocas búsquedas. Por ello, podemos llevar a cabo las siguientes acciones para promocionar nuestros primeros vídeos.
 
  1. Utiliza tus redes sociales. Aprovecha tendencias que puedan estar relacionadas.
- 2. Incluye enlaces a tus vídeos en plataformas de preguntas y respuestas cuando éstos contribuyan a solucionar una problemática. Por ejemplo, Quora o Stackoverflow.
- 3. Campaña de pago de Youtube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios de Youtube.
+ 2. **Inserta el vídeo en tu propia web**, dentro de un artículo que lo contextualice. Es una de las mejores formas de darle visitas y, si lo acompañas de [datos estructurados](https://emirodgar.com/datos-estructurados), ayuda a que Google lo entienda.
+ 3. Incluye enlaces a tus vídeos en plataformas de preguntas y respuestas cuando contribuyan a resolver una duda. Por ejemplo, Quora o Stack Overflow, sin hacer spam.
+ 4. Campaña de pago de YouTube Ads. Si no tenemos una audiencia inicial, la podemos generar a través de los anuncios.
 
-## Aprendizajes de analizar más de 1.6 millones de vídeos en Youtube
+## <a name="estudio"></a> Aprendizajes de analizar más de 1,6 millones de vídeos en YouTube
 
-Dentro de nuestra teoría del [bosque oscuro](https://emirodgar.com/bosque-oscuro) tenemos la oportunidad de explorar diferentes canales más allá de Google. Youtube, el segundo buscador más grande del mundo, es un ejemplo de ello. Este [macro estudio](https://adilo.com/blog/youtube-seo-study/) que ha analizado más de 1.6 millones de vídeos, nos ha dejado algunas conclusiones interesantes. Me gustaría destacar tres de ellas para potenciar y mejorar nuestra visibilidad SEO en dicho portal.
+Dentro de nuestra teoría del [bosque oscuro](https://emirodgar.com/bosque-oscuro) tenemos la oportunidad de explorar diferentes canales más allá de Google. YouTube, el segundo buscador más grande del mundo, es un ejemplo de ello. Este [macro estudio](https://adilo.com/blog/youtube-seo-study/) que ha analizado más de 1,6 millones de vídeos nos ha dejado algunas conclusiones interesantes. Destaco tres de ellas, con la cautela de que es un estudio de un tercero, sobre correlaciones, no una prueba de causa y efecto.
 
-🔥 En YouTube, la canibalización de palabras clave no es un problema. El 19% de los canales tienen múltiples vídeos en el TOP 3 para la mismo keyword. Prueba a publicar más de un vídeo por tema. 
+🔥 **La canibalización de palabras clave no parece un problema en YouTube.** El 19 % de los canales tienen varios vídeos en el TOP 3 para la misma keyword. Prueba a publicar más de un vídeo por tema, con enfoques distintos.
 
+⏳ **Los vídeos más cortos suelen posicionar mejor.** Una explicación posible es que la atención del espectador es limitada. Adáptalo al tema: un vídeo corto no es siempre mejor si el asunto necesita desarrollo.
 
-⏳ Los vídeos más cortos en YouTube suelen posicionar mejor. ¿Por qué? Nuestra capacidad de atención está en crisis. Adapta tu estrategia. 
+📜 **El 94 % de los vídeos del TOP 3 tienen transcripción.** No te obsesiones con el título; trabaja bien los subtítulos y las descripciones.
 
+## <a name="ia"></a> YouTube y la IA
 
-📜 El 94% de los vídeos en el TOP 3 de YouTube tienen transcripción. No te obsesiones con el título, trabaja bien los subtítulos y descripciones. 
+YouTube también es una fuente que citan los asistentes de IA. Contently sitúa a YouTube como el tercer dominio más citado entre los principales motores de IA, y Ahrefs encontró una fuerte correlación entre las menciones de marca en YouTube y la visibilidad general en IA, como conté en [las fuentes que alimentan las citas de la IA](https://emirodgar.com/wikipedia-podcasts-reddit-citas-ia).
+
+Pero conviene matizarlo: según el análisis de Ahrefs Brand Radar sobre las citas de ChatGPT en EE. UU., YouTube pasó de aparecer en una de cada 370 respuestas en marzo de 2026 a una de cada 500 en septiembre. Sigue entre los dominios más citados, pero con menos cuota. Mi recomendación es que no hagas vídeo solo por la IA. Hazlo si tu audiencia lo consume, y cuida los subtítulos y las descripciones, que son el texto que los sistemas pueden leer.
+
+Para saber qué parte de tu tráfico llega desde Google y qué parte desde la propia plataforma, mira el informe de Search Console que vimos antes, y recuerda que [los datos de Search Console y GA4 nunca coinciden](https://emirodgar.com/datos-gsc-ga4).
