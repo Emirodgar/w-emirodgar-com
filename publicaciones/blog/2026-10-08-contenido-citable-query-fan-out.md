@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 14/10/2026
+date_modified: 15/10/2026
 folder: geo
 permalink: contenido-citable-query-fan-out
 
@@ -37,6 +37,8 @@ Ahrefs ha publicado un estudio con 66,6 millones de respuestas de la versión gr
 - **Las fuentes originales ganan a las que resumen.** Con datos de citas de marzo a septiembre, PubMed pasó del puesto 64 al 4 entre los dominios más citados y la FDA entró en el 8, mientras caían páginas de salud que resumen esa investigación, como WebMD. Reddit, Wikipedia y YouTube perdieron cuota.
 
 Lo que me llevo es doble. Para los datos factuales (precios, especificaciones, soporte), tu propia web tiene que responder en texto plano y en una página que se pueda encontrar, porque es donde ChatGPT irá con `site:`. Y para las comparativas, el hueco está en reseñas y páginas que comparan, no solo en la ficha de producto. En su ejemplo de zapatillas de running, las consultas eran sobre todo "best", "2026", "review" y "vs", y "official" aparecía poco. El fan-out de tu sector puede ser muy distinto del global, y por eso conviene mirarlo con datos de tu categoría.
+
+Wil Reynolds (Seer Interactive) saca una consecuencia de esto: ha visto fan-outs que pasan de "GEO news" a una búsqueda con `site:` sobre un medio concreto, o de un tema a ese tema más el nombre de un experto concreto. Si la IA ya sabe a qué dominios ir, es difícil que te cite si no eres uno de ellos. Su ejemplo es el de una tienda que sale en el top 10 de Google para "ethical jeans" y casi nunca en la respuesta de ChatGPT, porque este ya llevaba en mente las marcas que iba a nombrar antes de buscar. Es una observación de un caso, no un estudio, pero apunta en la misma dirección que el dato del 14,4 %: en muchas consultas pesa más el reconocimiento previo de tu marca que la página que publiques.
 
 Un apunte: estas cifras son de consultas amplias en inglés, y el propio estudio reconoce que otros trabajos, con prompts comerciales del tipo "mejor X", encontraron más búsquedas y más `site:` por prompt.
 

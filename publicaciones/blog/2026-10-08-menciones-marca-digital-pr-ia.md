@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 14/10/2026
+date_modified: 15/10/2026
 folder: geo
 permalink: menciones-marca-digital-pr-ia
 
@@ -53,6 +53,18 @@ No todas pesan igual. Esto es opinión mía, no un dato del estudio:
 - Una mención **en un contexto relevante** (tu categoría, tu ciudad, tu caso de uso) vale más que cien sin relación.
 - Una mención **consistente** ayuda: si cada fuente te describe de una forma distinta, es más fácil que el modelo se confunda. Tiene que ver con lo que cuento en [cómo proteger tu marca en las respuestas de la IA](https://emirodgar.com/proteccion-marca-ia).
 - Una mención **en una fuente que la IA ya cita** pesa más que en una que nadie lee. Por eso conviene mirar primero qué fuentes aparecen en las respuestas de tu sector.
+
+## Las marcas "grabadas" en el modelo
+
+Wil Reynolds (Seer Interactive) lo llama *hardwiring*: igual que, si te piden una marca de hoteles de lujo, ya tienes una en la cabeza sin buscarla, la IA tiene marcas y personas ya asociadas a cada tema. Cuando el fan-out incluye `site:` sobre un medio o el nombre de un experto, el contenido de quien no está ahí ni entra a competir. Su conclusión es que, para entrar, hay que lograr menciones de quienes ya son referencia: medios del sector, que seleccionan lo que publican, y personas influyentes que comparten con criterio. Es una hipótesis suya basada en lo que observa en fan-outs, no un resultado medido, pero explica por qué las menciones pesan más que los enlaces del estudio de Ahrefs.
+
+Para saber si avanzas, propone tres comprobaciones:
+
+- **Menciones y tráfico desde medios de referencia.** Si uno de ellos sale en el fan-out de tu tema, ¿te menciona? ¿Crece o baja? Se puede seguir con alertas de menciones y con los referrers de GA4.
+- **Menciones de influyentes.** Él raspa las publicaciones de LinkedIn de las personas relevantes de su sector y usa IA para buscar su nombre, sus marcas registradas o a gente de su empresa. Si quieres llegar a ser uno de esos nombres, primero tienes que estar en su radar.
+- **Contenido que comparten las personas.** Un contenido hecho en masa y barato rara vez convence a periodistas ni a prescriptores.
+
+Y un caso práctico que plantea: un producto nuevo que no sale. En vez de decir "aún no hemos posicionado", compara qué dicen de ti tu web, la prensa, los medios del sector y comentarios de Reddit. Si todo te describe como "empresa grande" y alguien pregunta por "pequeña empresa", **no tienes aún las pruebas para competir** ahí, y el trabajo es acortar esa distancia entre lo que lanzas y el tema por el que te conocen.
 
 ## Un canal concreto: los listados de terceros
 

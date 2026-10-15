@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 13/10/2026
+date_modified: 15/10/2026
 folder: geo
 permalink: medir-visibilidad-ia
 
@@ -58,6 +58,7 @@ Esta es la capa donde más gente se engaña. Medir si te citan es posible, pero 
 
 - **Línea base antes de tocar nada.** Define un grupo de prompts, lánzalos a diario durante al menos una semana y mira patrones, no el dato de un día. Una sola medición puede verse mucho mejor o peor de lo normal.
 - **Prompts cortos y etiquetados por pregunta de negocio**, que salgan de las subpreguntas de tu tema (el [query fan-out](https://emirodgar.com/contenido-citable-query-fan-out)): comparativas, recomendaciones, casos de uso, datos de producto. Una marca puede ser fuerte en general y casi invisible en el caso de uso que más te importa, y la media lo esconde.
+- **Repite cada prompt muchas veces y mide el avance como "distancia de golpeo".** Wil Reynolds (Seer Interactive) propone coger los 10 prompts que más le importan a dirección y lanzarlos entre 10 y 30 veces al mes cada uno. En SEO veías pasar de la posición 90 a la 42 y a la 10; en IA, si lanzas un prompt una o dos veces y no sales, concluyes "no somos visibles", y quizá en 50 ejecuciones salías 3. Esa frecuencia de aparición es una métrica de **impulso** (¿voy por buen camino?), no un KPI final para el cuadro de mando de dirección. Cuesta dinero, y él mismo lo reconoce.
 - **Hazlo por mercado.** Si vendes en varios países, lanza los prompts localizados en cada uno. En un análisis de Aleyda Solis, el peso de los dominios locales en las citas variaba mucho entre países (24 % en España, 38,3 % en Reino Unido, 41,4 % en Brasil) y entre plataformas, así que una media global esconde lo que pasa en cada mercado.
 - **Revisa qué fuentes se citan.** No solo si sales tú, sino quién sale: listados de terceros, Wikipedia, Reddit, podcasts. Eso te dice dónde trabajar fuera de tu web. Lo cuento en [las fuentes que alimentan las citas de la IA](https://emirodgar.com/wikipedia-podcasts-reddit-citas-ia).
 - **Vigila la exactitud, no solo la presencia.** Que te nombren mal es peor que no salir. Para eso tienes [cómo auditar y proteger tu marca](https://emirodgar.com/proteccion-marca-ia).
@@ -72,6 +73,12 @@ Y aquí van mis motivos para la prudencia con las herramientas de "AI tracking",
 
 Si aun así usas una herramienta, úsala para detectar dónde estás débil y qué probar, no para presumir de un porcentaje de visibilidad.
 
+### Salir no es lo mismo que ser recomendado
+
+Wil Reynolds añade un matiz que casa con la vigilancia de la exactitud: en buscadores, aparecer en la primera página se interpretaba como "este sitio es bueno o creíble". En IA puedes **aparecer y ser antirrecomendado**. Su ejemplo: ChatGPT sugirió mirar "más allá de Airbnb y VRBO", de modo que ambas marcas eran visibles en la respuesta y ninguna era recomendada. Un porcentaje de visibilidad sin una lectura de cómo se te menciona (recomendada, citada de pasada o desaconsejada) puede darte una falsa sensación de éxito. Por eso, al revisar las respuestas de tu panel de prompts, anota también el **tono** de la mención y no solo si sales.
+
+Otra idea suya, que conviene tratar como hipótesis de trabajo y no como regla, es la de la credibilidad previa: la IA, igual que las personas, tiene marcas "grabadas" de antemano. Si le pides una marca de relojes de lujo, ya tiene nombres en la cabeza antes de buscar. Su ejemplo es Banana Republic, que según él sale en el top 10 de Google para "ethical jeans" y casi nunca en la respuesta de la IA, que ya trae sus propias marcas antes de lanzar ninguna búsqueda. Es una observación suya, no un estudio, pero encaja con lo que mide Ahrefs sobre la poca frecuencia con la que ChatGPT busca en la web, que cuento en [el post del query fan-out](https://emirodgar.com/contenido-citable-query-fan-out).
+
 ## 5. Negocio: la única capa que paga las facturas
 
 Todo lo anterior es un medio. Lo que decide si sigues invirtiendo es el impacto:
@@ -82,6 +89,14 @@ Todo lo anterior es un medio. Lo que decide si sigues invirtiendo es el impacto:
 - **Pregunta a los clientes.** El "¿cómo nos conociste?" en formularios es burdo y poco fiable, pero junto con el tráfico "directo" es una señal más.
 
 No te fíes de la correlación entre un porcentaje de visibilidad en una herramienta y las ventas. Yo nunca he visto un estudio serio y controlado que la demuestre.
+
+### Indicadores de credibilidad a largo plazo
+
+Reynolds propone, además, algunos indicadores que miran a medio plazo y que a mí me parecen razonables como complemento (son su propuesta, no una métrica validada):
+
+- **Contenido que las personas comparten.** Qué porcentaje de tu contenido recibe tráfico significativo de personas que lo comparten con otras (LinkedIn, newsletters, blogs de calidad) frente al que solo llega por algoritmos. Si es bajo, es una señal de que el contenido hecho en masa no convence a periodistas ni a prescriptores.
+- **Menciones y tráfico desde publicaciones del sector.** Si un medio de referencia aparece en el fan-out de tu tema, ¿te menciona? ¿Esa cifra crece o baja con el tiempo? Puedes seguirlo con una alerta de menciones y con los referrers de GA4.
+- **Menciones de personas influyentes.** Rastrear qué dicen de ti (o de tu equipo) quienes marcan la conversación en tu sector, como cuento en [menciones de marca y digital PR](https://emirodgar.com/menciones-marca-digital-pr-ia).
 
 ### Mide las señales como un conjunto
 
