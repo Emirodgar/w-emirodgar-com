@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 13-10-2026
-date_modified: 14/10/2026
+date_modified: 15/10/2026
 folder: seo
 permalink: migracion-seo
 
@@ -111,6 +111,24 @@ Cuando la web está en marcha, el trabajo pasa a ser vigilar y corregir pronto.
 Para reducir ese riesgo, antes de migrar rastrea el dominio antiguo para detectar enlaces internos con URL absoluta que sigan apuntando a él (menús, footer o enlaces dentro del contenido). Y comprueba cómo se hace la redirección: una redirección a nivel de registrador puede no conservar la ruta de cada URL, y el reenvío HTTPS falla si el dominio antiguo no tiene certificado SSL.
 
 Para los resultados, en su caso había previsto una caída del 30 % de tráfico los tres primeros meses. A los 60 días recuperaba el 75 % de los clics anteriores, y el 86 % si se compara con el mismo periodo del año pasado, que elimina el efecto de las campañas de temporada. Es un solo caso, de un ecommerce grande, pero sirve para tener en mente que **una caída temporal es normal y conviene pactarla con el cliente antes**.
+
+## Cuando la migración suma más de lo esperado
+
+Hasta aquí hemos hablado de migrar sin perder tráfico, pero una migración también puede ser la solución a un problema. Te cuento un caso propio.
+
+Un cliente llegó a nosotros a principios de 2025 con una caída severa de tráfico. Tenía dos dominios independientes, el principal y uno secundario, y estuvimos meses peleando el repunte, incluida una recaída en marzo. Decidimos cortar por lo sano: **unificar el dominio secundario dentro del principal**. La migración se ejecutó en mayo de 2026.
+
+![Gráfico de Sistrix con el índice de visibilidad de dos dominios de un mismo cliente: tras fusionar el secundario en el principal en mayo de 2026, el principal alcanza máximos históricos y el secundario cae a cero](https://emirodgar.com/cdn/images/posts/sistrix-fusion-dominios-visibilidad.png){:class="img-responsive"}
+
+En el gráfico de Sistrix, la línea roja es el dominio principal y la azul el secundario. Tras la fusión, la azul cae a cero, como es lógico, y la roja sube hasta niveles de visibilidad que no se veían desde el máximo de principios de 2024. No fue 1+1=2: el principal superó lo que habían conseguido los dos dominios por separado.
+
+Tres matices para leerlo con cabeza:
+
+- **Es un solo caso y una correlación.** El principal ya venía subiendo antes de la migración, así que parte de la mejora es fruto del trabajo previo y de la evolución de Google. La fusión parece haber acelerado y consolidado esa subida, pero no puedo aislar su efecto.
+- **No es una receta.** Que dos dominios compitan o se resten autoridad entre sí es una hipótesis, no una norma. Fusionar solo tiene sentido si hay motivos de negocio y SEO para hacerlo.
+- **Se hizo con el método de este artículo:** referencias previas, mapa de redirecciones 301 y seguimiento posterior. Sin eso, la misma decisión habría podido salir mal.
+
+La moraleja es que el SEO no es una ciencia exacta de manual. A veces conviene salirse de lo convencional, tener ideas creativas y atreverse a testear, siempre con un plan de vuelta atrás.
 
 ## Lo que añado
 

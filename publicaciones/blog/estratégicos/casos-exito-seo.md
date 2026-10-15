@@ -5,7 +5,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 26/10/2021
-date_modified: 28/02/2025
+date_modified: 15/10/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -24,6 +24,7 @@ Tras más de una década de [experiencia SEO](experiencia-seo) he tenido la opor
  - [2023 - Recuperación penalización algoritmo Core de Google](#recuperacion-core)
  - [2024 - Recuperación penalización algoritmo Helpful Content (HCU) de Google](#recuperacion-periodico-hcu)
  - [2024 - Recuperación medio digital malas prácticas SEO técnico](#recuperacion-medio-digital)
+ - [2026 - Fusión de dos dominios de un mismo cliente](#fusion-dominios)
 
 ## <a name="periodico"></a> 2015 - Periódico digital (España) / Recuperar tráfico perdido
 
@@ -351,15 +352,12 @@ El éxito de este proyecto llegó con la actualización core del 11 de septiembr
 ![image](https://github.com/user-attachments/assets/7c5ac6d8-bd56-4592-94aa-743b90a9ed29){:class="img-responsive"}
 
 
+## <a name="fusion-dominios"></a> 2026 - Fusión de dos dominios de un mismo cliente
 
+A principios de 2025 llegó a nosotros un cliente con una caída severa de tráfico y dos dominios independientes: uno principal y otro secundario. Tras meses peleando el repunte, y después de encajar una recaída en marzo, decidimos unificar el dominio secundario dentro del principal.
 
+La migración se ejecutó en mayo de 2026. En el gráfico de Sistrix, la línea roja es el dominio principal y la azul el secundario.
 
+![Gráfico de Sistrix con el índice de visibilidad de dos dominios de un mismo cliente: tras fusionar el secundario en el principal en mayo de 2026, el principal alcanza máximos históricos y el secundario cae a cero](https://emirodgar.com/cdn/images/posts/sistrix-fusion-dominios-visibilidad.png){:class="img-responsive"}
 
-
-
-
-
-
-
-
-
+El secundario desaparece del gráfico, como era de esperar, y el principal alcanza niveles de visibilidad que ninguno de los dos dominios había visto por separado. Lo cuento con cautela: el principal ya venía mejorando antes de la fusión, así que es un caso que sugiere que consolidar autoridad puede ayudar, no una prueba de causa y efecto. Tienes el método completo en el artículo sobre [cómo planificar, ejecutar y evaluar una migración SEO](https://emirodgar.com/migracion-seo).
