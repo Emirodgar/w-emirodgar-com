@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 15/10/2026
+date_modified: 16/10/2026
 folder: geo
 permalink: medir-visibilidad-ia
 
@@ -46,6 +46,7 @@ Aquí está lo medible en GA4, con una limitación: parte del tráfico de IA aca
 
 - **Crea un segmento o un grupo de canales de IA** con las fuentes de los asistentes (ChatGPT, Perplexity, Gemini, Copilot, Claude). Los dominios de origen cambian con el tiempo, así que revisa las fuentes reales que aparecen en tu propia propiedad en lugar de copiar una lista.
 - **Aprovecha los UTM.** ChatGPT los añade en las respuestas basadas en fuentes web, y desde octubre de 2026 Google Gemini añade parámetros UTM a sus enlaces. Aún no está documentado en qué casos se aplica, así que contrasta con los logs del servidor, donde el UTM sí queda registrado.
+- **No des por estable el etiquetado.** Hacia el 9 de octubre de 2026, con el lanzamiento de GPT-6, ChatGPT dejó de añadir `utm_source=chatgpt.com` a sus enlaces. Según Cedric Huesler (Adobe), abría los enlaces con `noopener,noreferrer`, de modo que sin etiqueta ni referrer las visitas caían en "directo". En unas 500 páginas con al menos un 5 % de visitas desde ChatGPT, las visitas de ChatGPT bajaron unas 31.000 al día y el tráfico directo subió unas 26.000, mientras la búsqueda cayó un 7 %. El 15 de octubre Huesler indicó que fue un error y que ChatGPT vuelve a etiquetar. Lo útil para tu analítica: marca ese periodo en tus informes y no interpretes la bajada de ChatGPT ni la subida de directo como un cambio real de demanda. Los visitantes "directos" nuevos se comportaban como los de ChatGPT (por ejemplo, la proporción que veía el aviso de consentimiento en móvil pasó del 36 % al 44 %, frente al 55 % de ChatGPT), un indicio, no una confirmación.
 - **Compáralo con la búsqueda tradicional**, no lo mires aislado. Ahrefs observó sobre unos 75.000 sitios que ChatGPT como fuente de tráfico directo sigue siendo minúsculo (un 0,32 %). Es un dato de una muestra concreta, pero sirve para no esperar un volumen que quizá no tengas.
 
 La calidad es otra historia. Ethan Smith, de Graphite, afirmaba que el tráfico desde ChatGPT convierte hasta seis veces mejor que el de Google. Yo lo tomaría como hipótesis a comprobar en tu web y no como regla, porque depende del sector y de la intención.
@@ -89,6 +90,17 @@ Todo lo anterior es un medio. Lo que decide si sigues invirtiendo es el impacto:
 - **Pregunta a los clientes.** El "¿cómo nos conociste?" en formularios es burdo y poco fiable, pero junto con el tráfico "directo" es una señal más.
 
 No te fíes de la correlación entre un porcentaje de visibilidad en una herramienta y las ventas. Yo nunca he visto un estudio serio y controlado que la demuestre.
+
+### Calcular el ROI sin inventarte la precisión
+
+Si te piden una cifra de retorno, Ahrefs propone una fórmula sencilla: **ROI = (ingresos por IA − coste de IA) ÷ coste de IA × 100**. Lo delicado está en qué metes en cada lado:
+
+- **Costes:** reparte solo la parte dedicada a IA. En su ejemplo trimestral (27.000 $) cuentan entera la herramienta de seguimiento y la agencia especializada, y un tercio del equipo de contenido y de la suite SEO.
+- **Ingresos rastreados:** las conversiones con origen en IA que ves en analítica. Con 40 conversiones a 900 $ de media son 36.000 $ y un ROI del 33 %. Si usas el dato real del CRM en lugar de la media, las mismas 40 conversiones sumaron 42.000 $.
+- **Ingresos autorreportados:** si el 10 % de los clientes nuevos dice que te conoció por IA y esos clientes generaron 400.000 $, estimas 40.000 $ de ingresos de IA. Es una estimación, no una medición.
+- **Valor equivalente en publicidad:** impresiones estimadas multiplicadas por un CPM de 25 a 45 $. Es hipotético, y Ahrefs avisa de que los datos de su índice se rastrean con menos frecuencia, así que son menos fiables.
+
+La conclusión que comparto es la de que **la atribución perfecta no es posible** (la respuesta puede no generar visita, el referrer se pierde y no todos declaran la fuente), y probablemente tanto lo rastreado como lo autorreportado se quedan cortos. Mejor una estimación que uses igual cada trimestre, para comparar tendencias, que una cifra exacta que no puedes defender. Y recuerda que parte del valor está antes del clic: la IA influye en qué marca recuerda el usuario y en su lista de opciones.
 
 ### Indicadores de credibilidad a largo plazo
 

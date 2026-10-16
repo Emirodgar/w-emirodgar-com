@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 13-10-2026
-date_modified: 15/10/2026
+date_modified: 16/10/2026
 folder: seo
 permalink: migracion-seo
 
@@ -107,6 +107,8 @@ Cuando la web está en marcha, el trabajo pasa a ser vigilar y corregir pronto.
 - Vigila la indexación. Divide el sitemap por secciones (productos, blog, categorías) y compara URLs enviadas e indexadas en cada una: así sabes qué sección se atasca. Si algo no se indexa, mira el lado técnico (canonicales, `noindex`, `robots.txt`) y el de calidad (contenido fino, duplicado o soft 404).
 - Si el tráfico no se recupera, revisa por este orden: redirecciones (cadenas y bucles), indexación (errores 4xx y 5xx), renderizado de JavaScript y velocidad, y cambios en contenido, navegación y jerarquía de URLs.
 - No des la migración por cerrada cuando el tráfico se recupere. Un propietario de una web contó en Reddit que, tras recuperar todo el tráfico en abril de 2026 con un cambio de dominio, cuatro meses después Google volvió a mostrar el dominio antiguo: las más de 5.000 páginas del nuevo pasaron a "Rastreada, actualmente no indexada" y sus impresiones cayeron de unas 5.000 diarias a 20 por semana. John Mueller respondió que a veces estos procesos tardan especialmente mucho, y que conviene tener el cambio de dirección en www y sin www. Roger Montti, en Search Engine Journal, recuerda que ante algo así conviene tratarlo como un problema de canonicalización: Google elige qué dominio indexa, y los enlaces externos que apuntan al antiguo pueden inclinar la balanza.
+
+Otro caso que conviene tener presente es el que cuenta Marie Haynes: un blog migró a un dominio nuevo con todas las buenas prácticas (cambio de dirección, redirecciones, enlaces internos y sitemap) y cerca del 98 % de las URLs figuraban como no indexadas. Ni siquiera las que el informe daba por indexadas lo estaban al inspeccionarlas, y no había acción manual ni contenido duplicado. Google apuntaba a que la calidad de página debía ser suficiente para justificar la indexación, y el contenido, aunque correcto y completo, apenas aportaba nada original frente a otros sitios. Tras cuatro meses solo estaba indexada la página de inicio. Haynes aclara que no puede demostrarlo: su hipótesis es que la migración pudo disparar una evaluación de calidad más exigente que en el dominio antiguo. Si el problema no es técnico, su consejo es crear un grupo pequeño de contenidos realmente originales, con experiencia propia, y reescribir las páginas de mejor rendimiento con información que no exista en otro sitio. Es una teoría de un solo caso, pero añade una pregunta al diagnóstico: antes de culpar a las redirecciones, ¿merece este contenido ser indexado?
 
 Para reducir ese riesgo, antes de migrar rastrea el dominio antiguo para detectar enlaces internos con URL absoluta que sigan apuntando a él (menús, footer o enlaces dentro del contenido). Y comprueba cómo se hace la redirección: una redirección a nivel de registrador puede no conservar la ruta de cada URL, y el reenvío HTTPS falla si el dominio antiguo no tiene certificado SSL.
 
