@@ -1,6 +1,6 @@
 ---
-title: Agencia SEO Salamanca — comparativa de visibilidad SEO
-description: Comparativa de visibilidad orgánica para "agencia SEO Salamanca" entre Oorganika, Saúl Sánchez Agency, Coco Solution, Morgan Media, Posicionamiento-web-salamanca.com y emirodgar.com — incluyendo un autoanálisis honesto de mi propio sitio, con datos de Semrush.
+title: Comparativa de visibilidad SEO en Salamanca, agencias (datos Semrush)
+description: Estudio con datos de Semrush sobre quién domina el SERP de agencias SEO en Salamanca. Compara a Oorganika, Saúl Sánchez Agency, Coco Solution, Morgan Media, Posicionamiento-web-salamanca.com y emirodgar.com, con un autoanálisis honesto de mi propio sitio.
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 layout: emirodgar_analisis
 author: Emirodgar
@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 0
 date: 11/09/2026
+date_modified: 16/10/2026
 last_update: 11 de septiembre de 2026
 folder: SEO / Marketing digital
 tag: SEO competitivo · autoanálisis

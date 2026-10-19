@@ -1,6 +1,6 @@
 ---
-title: Consultor SEO Salamanca — comparativa de visibilidad SEO
-description: Comparativa de visibilidad orgánica para "consultor SEO Salamanca" entre Saúl Sánchez Agency, Jesús López SEO, Erwin Salas, Morgan Media, ExpertoSEO y emirodgar.com — con datos de Semrush.
+title: Comparativa de visibilidad SEO en Salamanca, perfiles individuales (datos Semrush)
+description: Estudio con datos de Semrush sobre quién domina el SERP de consultoría SEO en Salamanca. Compara a Saúl Sánchez Agency, Jesús López SEO, Erwin Salas, Morgan Media, ExpertoSEO y emirodgar.com.
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 layout: emirodgar_analisis
 author: Emirodgar
@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 0
 date: 11/09/2026
+date_modified: 16/10/2026
 last_update: 8 de octubre de 2026
 folder: SEO / Marketing digital
 tag: SEO competitivo · autoanálisis
@@ -286,4 +287,5 @@ permalink: /analisis-seo/consultor-seo-salamanca
 <li>Con KD 6-10, este clúster sigue siendo de los más accesibles: erwinsalas.com entró en el top 3 en menos de dos años desde cero, aunque su tráfico lleva medio año estancado.</li>
 <li>El SERP de "consultor seo salamanca" no ha cambiado de orden: los mismos siete dominios en las mismas posiciones. La próxima actualización dirá si los movimientos de saulsanchez.agency y jesuslopezseo.com llegan a alterarlo.</li>
 </ul>
+<div class="as-callout">Si lo que buscas es contratar, esta es mi página de servicio como <a href="https://emirodgar.com/consultor-seo-salamanca">consultor SEO en Salamanca</a>.</div>
 </div>

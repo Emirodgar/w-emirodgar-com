@@ -6,6 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 11/09/2026
+date_modified: 16/10/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -82,14 +83,9 @@ Cuando analicé quién ocupa hoy el top 10 de Google para "agencia SEO Salamanca
 
 Eso no las hace peores agencias — pero si lo que buscas es a alguien que entienda el tejido empresarial local, hable con negocios de la Plaza Mayor o conozca qué funciona en búsquedas locales de la provincia, un especialista que trabaja *desde aquí* parte con ventaja.
 
-## Casos de empresas de Salamanca con las que he trabajado
+## Casos de empresas de Salamanca
 
-- **Universidad Pontificia de Salamanca** — optimización de arquitectura para captación de alumnado nacional e internacional.
-- **La Gaceta de Salamanca** y **Grupo Tribuna** — mejora de indexación y visibilidad en Google Discover.
-- **Café Novelty** — SEO local para dominar búsquedas turísticas en el centro de Salamanca.
-- **Oyrsa** — posicionamiento de servicios B2B especializados frente a competidores nacionales.
-
-[Ver el detalle completo de estos casos](https://emirodgar.com/consultor-seo-salamanca).
+He trabajado con la Universidad Pontificia de Salamanca, La Gaceta de Salamanca, Grupo Tribuna, Café Novelty y Oyrsa. Lo cuento con detalle en la página de [consultor SEO en Salamanca](https://emirodgar.com/consultor-seo-salamanca).
 
 ## ¿Qué obtienes trabajando conmigo?
 
