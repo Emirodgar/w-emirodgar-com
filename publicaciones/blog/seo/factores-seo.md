@@ -7,7 +7,7 @@ feed: 1
 folder: seo
 layout: emirodgar_post
 date: 27/01/2022
-date_modified: 11/09/2026
+date_modified: 21/10/2026
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: factores-seo
 
@@ -61,7 +61,9 @@ Aunque existen multitud de etiquetados que podemos realizar (ver [schema.org](ht
 
 Toda la estrategia debe ser apoyada por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles. Hoy en día existe tal cantidad de información que si seguimos la estela de otros jamás conseguiremos posicionar por delante. Debemos ser creativos y **aportar valor real** a nuestros visitantes; no os olvidéis de hacer uso de material multimedia, [en especial imágenes](https://support.google.com/webmasters/answer/114016).
 
-En el caso de páginas grandes con una elevada volatilidad de contenidos, quizá sea interesante echar un vistazo a la [API de Indexación de Google](https://developers.google.com/search/apis/indexing-api/v3/quickstart), aunque su uso sigue limitado a tipos de contenido muy concretos.
+En el caso de páginas grandes con una elevada volatilidad de contenidos, quizá sea interesante echar un vistazo a la [API de Indexación de Google](https://developers.google.com/search/apis/indexing-api/v3/quickstart), aunque su uso sigue limitado a tipos de contenido muy concretos: páginas con datos estructurados de `JobPosting` o de `BroadcastEvent` dentro de un `VideoObject`. El cupo por defecto es de 200 peticiones de publicación al día por proyecto, y el límite diario se reinicia a medianoche, hora del Pacífico.
+
+El 16 de octubre de 2026 Google retiró de su documentación el formulario de aprobación y los pasos para pedir más cuota. No ha dicho si el requisito de aprobación ha cambiado, así que si lo necesitas conviene comprobar la cuota real de tu proyecto en la Google API Console y vigilar la documentación y el changelog por si aparece otra vía para solicitar más.
 
 ### Optimización mobile-first
 
