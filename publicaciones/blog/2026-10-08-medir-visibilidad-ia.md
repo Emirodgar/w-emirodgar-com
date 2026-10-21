@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 19/10/2026
+date_modified: 21/10/2026
 folder: geo
 permalink: medir-visibilidad-ia
 
@@ -142,6 +142,23 @@ Lo que recomienda King, y que encaja con lo que ya he dicho arriba:
 - **Ancla cualquier tracker a Search Console y al tráfico de referencia:** si impresiones y clics se mantienen mientras el tracker cae, sospecha primero del tracker.
 
 King anticipa además que el rank tracking será más caro, porque requiere más muestras.
+
+### Qué ha cambiado en la recogida de datos de Google
+
+SISTRIX ha publicado [por qué está cambiando la recogida de datos de rankings de Google](https://www.sistrix.com/support/google-ranking-data-collection/), y su cronología ayuda a entender de dónde vienen estas anomalías. Es la explicación de un proveedor, no un comunicado de Google, pero coincide con lo que se ve en los datos:
+
+- **Septiembre de 2025:** Google pasó a devolver un máximo de 10 resultados por consulta, sin avisar. Antes bastaba una petición para obtener los 100 primeros resultados orgánicos y ahora hacen falta diez. SISTRIX lo relaciona con la bajada de impresiones y la mejora de la posición media que muchas webs vieron en Search Console a mediados de ese mes, un cambio de medición y no una pérdida real de posiciones.
+- **Junio de 2026:** Google enruta los clics a través de URLs internas `/goto`, cuyo destino solo se conoce siguiéndolas.
+- **Septiembre de 2026:** aparecen resultados divergentes, que parecen reales pero contienen otras webs. Afectan a proveedores de datos de todo el sector y encajan con las SERPs alteradas que midió Nozzle.
+- **Más allá del top 10:** Google ha dejado de mostrar 100 resultados orgánicos en todas las búsquedas, y muchas listas terminan antes de la posición 100.
+
+Qué significa para tus informes:
+
+- **El top 10 sigue siendo fiable**, y el índice de visibilidad apenas se resiente, porque las posiciones de la primera página concentran casi todo su valor. Para comparar a largo plazo, SISTRIX recomienda fijarse en el número de palabras clave en el top 10.
+- **Las posiciones profundas son más ruidosas.** Que un dominio salga del top 100 puede deberse a que la lista se ha acortado, y las métricas de "keywords en el top 100" fluctúan más porque esas páginas se actualizan con menos frecuencia.
+- **Las actualizaciones bajo demanda están desactivadas en SISTRIX desde septiembre de 2026**, porque se saltarían sus comprobaciones. Si un resultado no las supera, lo descartan y vuelven a recoger la palabra clave hasta obtener uno verificado, así que algunas se actualizan menos de lo configurado. Mira la fecha de la última actualización de cada una antes de sacar conclusiones.
+
+Así que, si te cae una posición en un tracker, contrástala primero con Search Console y con el tráfico, como decía arriba.
 
 ## Un cuadro de mando mínimo
 
