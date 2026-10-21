@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 22-09-2026
+date_modified: 19-10-2026
 folder: geo
 permalink: google-paga-editores-ia
 
@@ -46,6 +47,14 @@ Mi lectura, después de haber trabajado con varios medios la transición hacia e
 3. **Revisad qué bots de IA tenéis bloqueados**. Si estáis usando listados genéricos de bloqueo como el que comentaba en el post sobre [cómo segmentar el bloqueo de bots](https://emirodgar.com/segmentar-bloqueo-bots), aseguraos de que no estáis cortando el acceso a los rastreadores que Google usa precisamente para calcular esa "contribución de IA". Bloquear indiscriminadamente ya no solo os resta visibilidad en síntesis de IA, ahora también os podría estar restando estos nuevos ingresos.
 4. **Medid qué secciones tienen más valor para la IA.** Antes de decidir qué licenciar o bloquear, cruzad el informe de IA generativa de Search Console con vuestros logs y con los ingresos por sección, como explico en [cómo sacar partido al informe de IA generativa](https://emirodgar.com/informe-ia-generativa-search-console).
 5. **No confundáis esto con el sistema de contenido de pago de Google Noticias**. Son programas distintos: uno compensa por licenciar el uso del contenido para IA generativa, el otro afecta a cómo gestionáis [vuestros muros de pago](https://emirodgar.com/contenidos-pago-google) frente al rastreo e indexación tradicional. No os fieis de que uno sustituya al otro.
+
+## Y Google News también paga: el piloto de IA con más de 400 publicaciones
+
+No es el único frente. El 15 de octubre de 2026 Google [actualizó su piloto de IA en Google News](https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/), un programa de licencias, lanzado el año anterior, en el que **paga a las publicaciones por el uso de contenido mejorado** para desarrollar funciones de IA. Ya participan más de 400 publicaciones en todo el mundo. A los socios iniciales (The Washington Examiner y The Washington Post) se suman Axios, CNN, Financial Times y Forbes, además de medios locales de EE. UU. como Post and Courier, Texas Tribune, Oil City News y Shaw Media.
+
+Las funciones que se alimentan de ese contenido son dos: **resúmenes detallados de artículos** en las páginas de los editores dentro de Google News, para dar contexto antes de que el usuario haga clic, y **resúmenes de audio personalizables**. Google asegura que incluyen atribución clara y enlaces directos a las fuentes. Como en el programa de Search Console, no se han hecho públicos ni los importes ni las condiciones.
+
+La diferencia práctica con lo anterior: aquí el acuerdo es **a medida y con medios concretos** (casi todos grandes y con departamento de partnerships), mientras que el panel de contribución de IA de Search Console es un mecanismo más automático. Si gestionas un medio pequeño, el piloto de News no es una puerta a la que puedas llamar hoy, pero confirma la dirección: Google está montando varias vías de pago por contenido, y conviene que tu sitio esté bien posicionado para cualquiera de ellas. Y recuerda que el resumen en la página del editor también cambia cuándo el usuario decide hacer clic, así que mide su impacto en tu [tráfico desde Google Noticias](https://emirodgar.com/top-stories).
 
 ## Mi opinión: ya tocaba
 

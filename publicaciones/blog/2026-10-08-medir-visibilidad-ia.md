@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 16/10/2026
+date_modified: 19/10/2026
 folder: geo
 permalink: medir-visibilidad-ia
 
@@ -126,6 +126,22 @@ Lo útil está en leerlas juntas, porque cada combinación apunta a un arreglo d
 - **Bajan exposición y marca a la vez.** Otro se está llevando las menciones. Audita a quién recomienda la IA en tu categoría y qué fuentes cita.
 
 Dos cautelas sobre las cifras que acompañan a este planteamiento. Graphite estima que la IA puede estar infraatribuida hasta 10 veces, pero es una estimación, no una medición. Y según un análisis recogido en el mismo artículo, el 91 % de las citas aparece en solo uno de los tres motores (ChatGPT, Perplexity o AI Overviews), así que tu presencia en uno no te dice nada de los otros: hay que medirla por superficie.
+
+## Cuando la propia SERP deja de ser un objeto estable
+
+Hay un problema de fondo que afecta a todas las capas anteriores, y Mike King lo desarrolla en [Generative SERPs](https://ipullrank.com/generative-serps) (15 de octubre de 2026): si un modelo compone la página de resultados para cada consulta, **la SERP deja de ser una página que puedas capturar y comparar**. Según King, cambia la presentación, no la selección de resultados, que sigue dependiendo de la misma capa de recuperación. Lo que se rompe es la medición. Ojo con el alcance: el paper de Google en el que se apoya habla de interfaces generativas, no de SERPs ni de AI Mode, así que la extrapolación a la búsqueda es una inferencia del propio King.
+
+Añade un dato que obliga a la prudencia: Nozzle analizó 27,5 millones de resultados entre el 20 de agosto y el 9 de octubre de 2026 y detectó SERPs "envenenadas" (alteradas de forma anómala) que pasaron del 0,17 % al 8,0 % desde el 13 de septiembre, con un pico cercano a una cuarta parte entre el 27 y el 29 de septiembre. La mayoría fueron episodios cortos (el 80 % duró una sola SERP y el 77,9 % volvió a la normalidad en tres días), pero en ellas un sitio habitual del top 10 faltó en el 58,6 % de los casos, frente al 2,7 % en condiciones normales. Es un solo análisis, pero sirve para entender que una caída puntual de posiciones puede ser un artefacto y no un cambio real.
+
+Lo que recomienda King, y que encaja con lo que ya he dicho arriba:
+
+- **Muestrea varias veces al día** y compara cada muestra con la última verificada, descartando las anómalas.
+- **Reporta la visibilidad como una tasa** de recuperación y citación, con intervalos de confianza entre días y ubicaciones, y trata los resultados como una distribución.
+- **Usa la posición media de Search Console solo como tendencia.**
+- **Segmenta por ubicación y perfil**, y considera la diferencia entre segmentos como un hallazgo, no como ruido.
+- **Ancla cualquier tracker a Search Console y al tráfico de referencia:** si impresiones y clics se mantienen mientras el tracker cae, sospecha primero del tracker.
+
+King anticipa además que el rank tracking será más caro, porque requiere más muestras.
 
 ## Un cuadro de mando mínimo
 

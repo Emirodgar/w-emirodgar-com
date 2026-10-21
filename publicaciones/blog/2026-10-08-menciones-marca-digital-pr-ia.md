@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 15/10/2026
+date_modified: 19/10/2026
 folder: geo
 permalink: menciones-marca-digital-pr-ia
 
@@ -77,7 +77,18 @@ Si tu sector funciona así, estar en esos listados es una vía directa. Cómo lo
 3. **Contacta con quien los mantiene** con algo que aporte, como datos propios, una prueba del producto o un caso real, no con una petición de "inclúyenos".
 4. **Vuelve a revisar con frecuencia.** Los listados citados eran recientes: edad mediana de 97 días en ese estudio.
 
-Tres límites. Es un mercado, un puñado de marcas y una agencia que era además el segundo dominio más citado de su propio estudio. Y lo que no haría: pagar por aparecer en un listado sin que se indique, o fabricar listados propios que parecen independientes. Es una forma segura de perder credibilidad si se descubre.
+Un estudio posterior de Minuttia y Convex Works (octubre de 2026) mira el mismo canal desde el lado del software, con mucha más muestra: 18.084 preguntas de compradores sobre 196 categorías, repartidas entre Google Search, AI Overviews, ChatGPT, Gemini, Claude y Perplexity, y 311.766 páginas analizadas. Su dato más llamativo es que los **listados autopromocionales**, publicados por un proveedor que se incluye entre las opciones, suponen entre el 34 % (ChatGPT) y el 47 % (Google Search y Gemini) de los listados citados. Y la mayoría no disimula:
+
+- De 39.214 listados de este tipo, el 93 % destaca el producto del proveedor, el 87 % lo coloca primero y el 90 % critica a competidores.
+- Solo el 16 % revela que quien lo escribe es el proveedor.
+- Suelen venir de sitios de menor autoridad (mediana de 49, frente a 52 a 67 de las páginas citadas por los distintos motores).
+- Su peso varía mucho por categoría: del 12 % en producción de audio al 76 % en operaciones de seguridad con IA.
+
+El comportamiento cambia según el motor. En Perplexity, los listados autopromocionales se citan en el 58 % de los casos frente al 44 % de los de terceros, y ayudan tener tabla, explicar cómo se eligieron las herramientas y una extensión mayor que la mediana. En las búsquedas de ChatGPT, el 33 % añade `site:` y el 92 % de ellas se limita al sitio web del propio proveedor, lo que refuerza que la página oficial también cuenta. Y el solapamiento con Google es bajo: solo entre el 21 % y el 28 % de las citas de AI Overviews, Gemini, Perplexity y Claude están también en el top 10 de Google.
+
+Mi lectura: que la IA cite estos listados no significa que sean buena idea ni que vayan a seguir funcionando. Que ChatGPT use tablas en el 99 % de sus respuestas y elija un ganador en el 84 % (y solo incluya ventajas y desventajas en el 8 %) tampoco ayuda a distinguir el contenido honesto del que no. Es el terreno que describe Petrovic más abajo, y el estudio no mide si estas citas acaban convirtiendo ni si los motores las penalizan en el futuro. Lo útil para ti: si tu sector es de software, comprueba qué listados citan hoy los asistentes antes de decidir si publicas el tuyo, y si lo haces, **declara quién lo escribe** y compara con criterios verificables.
+
+Tres límites del análisis de Prosperity: es un mercado, un puñado de marcas y una agencia que era además el segundo dominio más citado de su propio estudio. Y lo que no haría: pagar por aparecer en un listado sin que se indique, o fabricar listados propios que parecen independientes. Es una forma segura de perder credibilidad si se descubre.
 
 ## El papel de YouTube
 
@@ -123,7 +134,7 @@ Dan Petrovic (DEJAN) lo plantea como el equivalente de los enlaces de pago: las 
 
 Pone de ejemplo el listado autopromocional de "las mejores empresas de X", donde quien lo publica se pone el primero y rellena el resto con competidores reconocidos, repitiendo la fórmula en decenas de ciudades. Su argumento es que ese patrón lo detecta un script sencillo y que, además, **refuerza a los líderes que aparecen debajo**: cada listado repite sus nombres, y a un sistema de recuperación le queda un consenso en torno a ellos y el autor como ruido.
 
-Su previsión es que los buscadores y la IA no lo castigarán de forma visible, sino que **dejarán de contar la mención**, sin avisar a nadie, igual que Google hizo con los enlaces tras Penguin 4.0. Es una previsión de su autor, no algo confirmado, pero coincide con lo que digo arriba: el dinero en menciones fabricadas es el que menos garantías tiene. Para integrar bien un enlace o una mención, mi [guía de link building](https://emirodgar.com/guia-link-building) recoge sus criterios editoriales.
+Su previsión es que los buscadores y la IA no lo castigarán de forma visible, sino que **dejarán de contar la mención**, sin avisar a nadie, igual que Google hizo con los enlaces tras Penguin 4.0. El estudio de Minuttia le da contexto: el 87 % de los listados autopromocionales pone al proveedor en primer lugar y solo el 16 % declara su autoría, justo el patrón que describe. Es una previsión de su autor, no algo confirmado, pero coincide con lo que digo arriba: el dinero en menciones fabricadas es el que menos garantías tiene. Para integrar bien un enlace o una mención, mi [guía de link building](https://emirodgar.com/guia-link-building) recoge sus criterios editoriales.
 
 ## Cómo saber si funciona
 

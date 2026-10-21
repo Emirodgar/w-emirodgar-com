@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 01-10-2026
-date_modified: 14/10/2026
+date_modified: 19/10/2026
 folder: geo
 permalink: wikipedia-podcasts-reddit-citas-ia
 
@@ -65,7 +65,7 @@ Aquí los números son los más llamativos. Esto es lo que recoge el artículo:
 
 Dos matices importantes. El estudio sobre B2B lo ha elaborado la propia Reddit, así que conviene leerlo con cautela. Y estas cifras son de Estados Unidos, no tienen por qué trasladarse tal cual al mercado español.
 
-Y un tercero, más reciente: la tendencia puede estar cambiando en ChatGPT. Según el análisis de Ahrefs Brand Radar sobre las citas de ChatGPT en EE. UU., en marzo de 2026 en torno a una de cada cinco respuestas citaba Reddit, y a finales de septiembre una de cada 43. Wikipedia pasó de una de cada siete a una de cada 35, y YouTube de una de cada 370 a una de cada 500. Siguen entre los dominios más citados, pero su cuota se ha encogido rápido. Snippet Digital y Aleyda Solís habían detectado ya una caída similar en agosto. Lo que han ganado son organismos de investigación, reguladores, marcas y quienes prueban productos de primera mano. Si parte de tu visibilidad en IA depende de estos sitios, conviene vigilar cuánto te citan para tus temas, y no darla por estable.
+Y un tercero, más reciente: la tendencia puede estar cambiando en ChatGPT. Según el análisis de Ahrefs Brand Radar sobre las citas de ChatGPT en EE. UU., en marzo de 2026 en torno a una de cada cinco respuestas citaba Reddit, y a finales de septiembre una de cada 43. Wikipedia pasó de una de cada siete a una de cada 35, y YouTube de una de cada 370 a una de cada 500. Siguen entre los dominios más citados, pero su cuota se ha encogido rápido. Snippet Digital y Aleyda Solís habían detectado ya una caída similar en agosto. Lo que han ganado son organismos de investigación, reguladores, marcas y quienes prueban productos de primera mano. Mark Williams-Cook sostiene, a partir de lo que observa en el tráfico de red de ChatGPT, que Reddit se sigue leyendo igual que antes aunque se cite mucho menos. Es una afirmación suya que no he podido comprobar, pero invita a no confundir "se cita menos" con "se usa menos" (lo cuento en [qué puedes aprender mirando la pestaña Network](https://emirodgar.com/network-devtools-google-chatgpt)). Si parte de tu visibilidad en IA depende de estos sitios, conviene vigilar cuánto te citan para tus temas, y no darla por estable.
 
 Aun así, la tendencia encaja con lo que ya comentaba en [los retos del SEO](https://emirodgar.com/retos-seo) sobre el peso de los grandes foros en los resultados, y con lo que se recomienda en [cómo optimizar para AEO](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt): participar de forma auténtica en comunidades, sin spam.
 
@@ -95,6 +95,8 @@ Un análisis de Prosperity Media sobre Australia (467 prompts, más de 122.000 c
 - **La autoridad de dominio apenas importa.** La correlación con las citas fue de 0,09, y el 32 % de las citas fue a dominios con Domain Rating inferior a 40. Sí mejoraban el resultado un título localizado (con "Australia" o ".com.au") y un texto fácil de leer (Flesch de 60 o más).
 
 Para el trabajo de PR, la lectura es práctica: aparecer en los listados de terceros que la IA ya cita es una vía directa de visibilidad, sobre todo en retail. Para el propio sitio, la receta del informe es crear páginas "mejor X en [país] (año)" extensas y **refrescarlas de verdad** cada 90 días, no cambiar solo el año del título (el estudio dice que el 93 % de los títulos con 2026 tenían actualizaciones verificables).
+
+Un estudio de Minuttia y Convex Works (octubre de 2026) sobre software, con 18.084 preguntas de compradores y seis plataformas, apunta en la misma dirección y matiza el origen: entre el 34 % y el 47 % de los listados citados son autopromocionales, es decir, escritos por un proveedor que se incluye en la lista. G2 es el dominio citado con más consistencia, y solo entre el 21 % y el 28 % de las citas de AI Overviews, Gemini, Perplexity y Claude aparecen en el top 10 de Google. Los detalles, y por qué no me fiaría de ese formato, están en [menciones de marca y digital PR](https://emirodgar.com/menciones-marca-digital-pr-ia).
 
 Tres cautelas. Es un solo mercado y una muestra pequeña de marcas. No distingue por motor de IA, porque la exportación agrupa las citas. Y lo firma una agencia que es, además, el segundo dominio más citado de su propio estudio. Es una pista, no una regla.
 

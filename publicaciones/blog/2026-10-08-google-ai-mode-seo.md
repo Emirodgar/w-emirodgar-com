@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
+date_modified: 19/10/2026
 folder: geo
 permalink: google-ai-mode-seo
 
@@ -58,6 +59,12 @@ Para el tráfico que llega a tu web, complementa con GA4, como sugiere la propia
 AI Mode se puede personalizar. En el experimento de iPullRank con Google Personal Intelligence, la función opcional que deja a Gemini y a AI Mode usar Gmail, YouTube, Fotos y Calendar, la visibilidad de unas marcas subió un 40 % tras recibir emails que las recomendaban, incluso aparecieron marcas inventadas, y el fan-out se personalizó. Es un experimento con tres cuentas y cuatro semanas, y hay que activar la función, así que no sé cuánta gente la usa hoy.
 
 La consecuencia práctica, que explico en [cuando AI Mode lee el correo del usuario](https://emirodgar.com/google-personal-intelligence-seo): cada usuario puede ver una respuesta distinta, y parte de lo que la condiciona no está en tu web. Producto bueno, presencia donde está tu audiencia y una lista de correo propia pesan más que ninguna etiqueta.
+
+## Hacia una página de resultados generada para cada consulta
+
+Mike King (iPullRank) va un paso más allá en [Generative SERPs](https://ipullrank.com/generative-serps) (15 de octubre de 2026): plantea que la SERP se está volviendo generativa, con un modelo que compone la página entera (HTML, CSS y JavaScript) para cada consulta. Se apoya en un paper de Google sobre interfaces generativas, donde el resultado generado fue preferido frente al primer resultado orgánico en el 90 % de los prompts de LMArena y en el 73,5 % de los de búsqueda informativa. Son cifras de los propios autores, no de tráfico real, y el paper no habla de SERPs ni de AI Mode: la extrapolación a la búsqueda es una inferencia de King, que él mismo señala.
+
+Lo que sí tiene sentido retener: cambiaría la **presentación**, no la selección de fuentes, que seguiría dependiendo de la misma capa de recuperación. Así que lo que ya has leído arriba (indexación, fragmentos, pasajes claros) sigue siendo la base. Lo que se complica es medir: si cada usuario puede ver una página distinta, una captura no representa a nadie más. Por eso insiste en muestrear varias veces y tratar la visibilidad como una distribución, algo que desarrollo en [cómo medir tu visibilidad en la IA](https://emirodgar.com/medir-visibilidad-ia).
 
 ## Controles que sí tienes
 

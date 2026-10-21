@@ -9,7 +9,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 25-09-2025
-date_modified: 22-09-2026
+date_modified: 21-10-2026
 folder: ia
 permalink: notebook-lm-google-ia-investigacion
 
@@ -88,6 +88,12 @@ A mediados de septiembre de 2026, Google ha añadido una tanda de funciones pens
 * **Resúmenes interactivos con más formatos de cuestionario**: además de los resúmenes de aprendizaje con flashcards e infografías que ya existían, ahora se suman preguntas de respuesta corta, selección múltiple y rellenar espacios en blanco.
 * **Vídeos educativos cortos**: genera vídeos de aproximadamente 60 segundos en más de 80 idiomas, combinando narración con animaciones pensadas para explicar temas complejos de un vistazo.
 
+**Actualización (16 de octubre de 2026)**: Google ha publicado [tres consejos para estudiar con Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/) que ayudan a entender cómo encajan estas piezas:
+
+* **Los resúmenes interactivos se crean desde la sección Reports**: te guían paso a paso por todo tu material (decenas de notas, clases y lecturas), combinando resúmenes con diapositivas, cuestionarios y flashcards, todo basado estrictamente en tus fuentes.
+* **Cierra el bucle con feedback**: después de hacer un test o repasar las flashcards, puedes pedirle al notebook que te diga en qué conviene que te centres. Es la forma de pasar de "he leído esto" a "sé qué me falta".
+* **El vídeo de 60 segundos es para lo difícil**: úsalo para un concepto que se te atasca, o para compartirlo con un compañero.
+
 El despliegue es escalonado: las conversaciones de voz llegan primero a Google AI Ultra (con otros planes "próximamente"), el grabador de audio se activa en días, y los resúmenes interactivos se extienden a todos los usuarios en las semanas siguientes.
 
 Además, Google ha lanzado una oferta específica para estudiantes: en Estados Unidos, los universitarios pueden acceder a un año gratis de **Google AI Pro** (valorado en 19,99 $/mes) con límites de uso 4 veces superiores a los normales. En más de 140 mercados internacionales, la oferta es Google AI Plus gratis con el doble de límites. Ambas promociones están disponibles hasta el 31 de diciembre de 2026.
@@ -102,6 +108,12 @@ El "Studio" es la joya de la corona. Es la función que convierte a Notebook LM 
 * **Mapas mentales**: Genera diagramas interactivos para ver las conexiones entre ideas de un solo vistazo, sin tener que dibujar nada a mano.
 * **Documentos informativos y guías de estudio**: Crea resúmenes ejecutivos, glosarios o incluso pequeños cuestionarios con respuestas basadas en los documentos.
 * **Líneas de tiempo**: Visualiza la evolución de un tema a lo largo del tiempo, desde la "historia de la IA" hasta el "desarrollo de un proyecto".
+
+**Actualización (octubre de 2026)**: Google ha dado [más control creativo en las presentaciones y los vídeos](https://blog.google/innovation-and-ai/products/gemini-notebook/) de Gemini Notebook. Ya no se pasa de un prompt inicial directamente al resultado final, sino que el flujo te guía paso a paso a partir de tus fuentes:
+
+* **Pides la presentación o el vídeo desde el chat**: Notebook propone, según tus fuentes, los temas que incluirá. Cuando los confirmas, puedes afinar el contenido y guiar el estilo visual y el formato.
+* **Interruptor Review para revisar el plan antes de generar**: con él activado, en el panel del Studio pulsas "Review outline notes" (presentaciones) o "Review producer notes" (vídeo) y das feedback adicional, como pedir un resumen ejecutivo al principio o cambiar el orden de una escena.
+* **"Proceed" para producir el resultado**: solo cuando el plan te convence se renderiza el artefacto final, así que te ahorras generar de más para corregir después.
 
 
 ## ¿Merece la pena la versión de pago?

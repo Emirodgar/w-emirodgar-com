@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 27/01/2022
-date_modified: 18/09/2026
+date_modified: 19/10/2026
 folder: seo
 permalink: top-stories
 
@@ -40,6 +40,9 @@ En el caso de los periódicos online -donde existe una gran frecuencia de public
 -   Añadir los campos `<news:title>`,  `<news:publication>` y `<news:publication_date>`, como mínimo.
 -   Es importante que la etiqueta `<news:publication>` refleje el mismo nombre escrito, exactamente como lo declarado en el Centro de Editores. Es sensible a las mayúsculas.
 
+## Google News también incorpora IA (octubre 2026)
+
+Google News ya no es solo una lista de enlaces. El 15 de octubre de 2026 Google [actualizó su piloto de IA en Google News](https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/): más de 400 publicaciones participan en un programa en el que Google les paga por contenido mejorado que alimenta **resúmenes detallados de artículos** en las páginas de los editores y **resúmenes de audio** personalizables, con atribución y enlaces a la fuente. Es un programa de licencias por invitación, no algo a lo que te puedas apuntar, pero deja claro que mantener tu sitio limpio, rastreable y con buena reputación editorial es la base para entrar en cualquier iniciativa futura. Te cuento el trasfondo en [Google empieza a pagar a los editores por su contenido en IA](https://emirodgar.com/google-paga-editores-ia).
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY2OTY1NjI0LDcwNDk5MzU2OF19
