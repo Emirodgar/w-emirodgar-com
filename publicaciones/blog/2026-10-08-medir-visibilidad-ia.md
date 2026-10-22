@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 21/10/2026
+date_modified: 22/10/2026
 folder: geo
 permalink: medir-visibilidad-ia
 
@@ -73,6 +73,20 @@ Y aquí van mis motivos para la prudencia con las herramientas de "AI tracking",
 5. No hay rastro de auditoría entre un prompt y una venta.
 
 Si aun así usas una herramienta, úsala para detectar dónde estás débil y qué probar, no para presumir de un porcentaje de visibilidad.
+
+### Bing Webmaster Tools: Topics Portfolio
+
+Hay una fuente de primera mano para las citas en la IA de Microsoft. El informe AI Performance de Bing Webmaster Tools ya enseñaba las consultas de grounding en las que aparece tu sitio y las páginas citadas, y el 13 de octubre de 2026 Microsoft [añadió en beta Topics Portfolio](https://blogs.bing.com/webmaster/2026/10/introducing-topics-portfolio-beta-in-ai-performance/), una pestaña que agrupa esas consultas por temas.
+
+Para cada tema te da tres datos del ecosistema, no solo tuyos: el tamaño del tema (citas totales de todos los sitios), cuántos sitios se citan (lo saturado que está) y cuántas consultas distintas tiene. Dentro de un tema ves las consultas donde ya sales y las **Opportunity Queries**: consultas donde se cita a otros sitios y al tuyo no. Es la parte más útil, porque permite hacer un content gap con datos de Bing y Copilot y no con suposiciones. Josep Deulofeu [lo explicaba en LinkedIn](https://www.linkedin.com/posts/josep-deulofeu-mayoral_nueva-herramienta-gratuita-para-%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%B7%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BF-share-7517557379186548737-boQj/) con una tienda de joyería: una oportunidad como "how to measure ring size" apunta a una guía de tallas que quizá falta en la web.
+
+Para usarlo:
+
+1. Entra en AI Performance y abre la pestaña de temas, con una ventana de uno, dos o tres meses.
+2. Empieza por los temas donde ya concentras citas y revisa después las Opportunity Queries.
+3. Mira qué sitios consiguen esas citas y por qué antes de decidir qué contenido crear.
+
+Tómalo como señal de planificación, no como medición exacta: Microsoft avisa de que los números son aproximados (las citas de oportunidad salen en rangos), de que la clasificación por temas la hace una IA y puede fallar, y de que pueden colarse consultas de marca de la competencia como "oportunidad". Solo aparece si tu sitio tiene datos suficientes, así que una web pequeña puede no verlo. Mide Bing y Copilot, no ChatGPT ni Google.
 
 ### Salir no es lo mismo que ser recomendado
 

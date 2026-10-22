@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 01-10-2026
-date_modified: 13/10/2026
+date_modified: 22/10/2026
 folder: geo
 permalink: informe-ia-generativa-search-console
 
@@ -43,6 +43,20 @@ También conviene saber cómo es una evolución normal para no dar la voz de ala
 Se ven dos cosas. La primera, una tendencia al alza: se pasa de unas 12.000 impresiones diarias a mediados de julio a rondar las 15.000-20.000 en octubre, hasta sumar 1,28 millones en el periodo. La segunda, un patrón semanal muy marcado, con valles y picos que se repiten cada pocos días, y algún pico puntual aislado como el de principios de agosto. Por eso una bajada de un día no significa nada, y lo que hay que vigilar es que la tendencia se rompa durante varios días seguidos.
 
 Si operas en varios mercados, te interesa saber que los informes de rendimiento de Search Console ya permiten [seleccionar varios países a la vez en el filtro de país](https://emirodgar.com/datos-gsc-ga4). Así puedes agrupar, por ejemplo, España y México y ver su rendimiento combinado en lugar de ir país por país. De momento lo que sigue faltando, como se quejaba Barry Schwartz en Search Engine Roundtable, son los clics en el informe de IA.
+
+### Cómo cuenta Google la posición y las impresiones
+
+Antes de interpretar cualquier cifra conviene saber cómo la calcula Google. Chris Long [resumió en LinkedIn](https://www.linkedin.com/posts/chris-long-marketing_all-seos-should-read-googles-guide-on-how-share-7518286987615862784-_N5c/) lo que más le llamó la atención de la documentación de Google sobre impresiones, posición y clics, y estas son las reglas que más afectan a lo que ves en Search Console:
+
+- **AI Overviews: una única posición.** Si tu URL sale en una AI Overview, se registra como posición 1 aunque aparezca la última de la lista.
+- **AI Mode: posición relativa.** Aquí sí cuenta dónde estás dentro de la respuesta, probablemente de izquierda a derecha o de arriba abajo, como en los resultados clásicos.
+- **Gana la posición más alta.** Si apareces en una AI Overview y también en el resultado tradicional (por ejemplo, el quinto), se informa de la mejor.
+- **Todo se suma en la canónica.** Google consolida clics e impresiones en la URL canónica que elija, así que si cambia tu canónica o Google escoge otra, cambian también tus datos por página.
+- **Las preguntas de seguimiento en AI Mode cuentan como consultas nuevas.** Las consultas internas que Google lanza para construir la respuesta (el query fan-out) no se informan.
+- **Discover no tiene posición.** Sus resultados no se agrupan por propiedad, de modo que varios resultados de un mismo sitio suman impresiones por separado.
+- **Las imágenes se numeran de izquierda a derecha y de arriba abajo.**
+
+La consecuencia práctica es que una "posición 1" en una AI Overview no equivale a ser el primer resultado de la web, así que no compares esa posición con la de tus páginas en la búsqueda clásica. Es un resumen de segunda mano: para los detalles, la fuente es la documentación de Google.
 
 ## El método: de la visibilidad a la exposición comercial
 

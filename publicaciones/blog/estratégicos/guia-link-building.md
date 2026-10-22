@@ -8,7 +8,7 @@ feed: 1
 layout: emirodgar_post
 folder: estrategicos
 date: 19/05/2021
-date_modified: 13/10/2026
+date_modified: 22/10/2026
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: guia-link-building
 
@@ -222,6 +222,18 @@ Estas son las ideas que más me sirven:
 - **Apunta a la mejor página posible** para ese texto. Si hay una más útil para el ancla, el enlace está mal puesto.
 - **Ancla natural:** que describa la fuente o la acción, sin palabra clave objetivo, y que encaje con cómo enlaza el propio sitio.
 - **Primero el contenido.** Si no hay nada que merezca un enlace, ninguna técnica lo arregla. Cuanto mejor es el contenido, menos esfuerzo de outreach necesita. Y cuando el enlace pasa a ser el objetivo principal, el contenido pasa a un segundo plano.
+
+### g) Qué enlaces ignora o descuenta Google
+
+Cyrus Shepard (Zyppy) defiende en [How To Create Links for SEO Google Can't Ignore](https://signal.zyppy.com/p/links-google-cant-ignore) que Google ignora la mayoría de enlaces y descuenta muchos más, y que da más peso a los que muestran relevancia, vienen de una fuente de confianza, aportan información nueva y nacen de una decisión editorial independiente. Se apoya sobre todo en la documentación filtrada de la API de Google y en patentes, así que es su interpretación y no una confirmación oficial. Lo que me parece aprovechable:
+
+- **Un enlace de mucha autoridad pesa por varios.** Según su ejemplo, 100 enlaces sospechosos con el mismo ancla se leen como spam, pero uno de un dominio de confianza (gubernamental o universitario) con un ancla parecida puede hacer que Google vea legítimos a los demás.
+- **Importa lo que rodea al enlace.** Las palabras antes y después del ancla dan contexto, y un enlace en lo alto del cuerpo del artículo vale más que uno en la barra lateral o el pie. Una frase descriptiva aporta más que un ancla suelta.
+- **Variar anclas a golpe de script no engaña.** Una mezcla calculada de exactas, parciales, de marca y genéricas, o sinónimos de la misma palabra clave, puede detectarse como patrón. Es mejor que el ancla sea natural (el nombre de la fuente o una descripción) aunque lleve menos palabras clave, y que los enlaces lleguen de forma sostenida y no en picos.
+- **Repetir no suma.** Un enlace en la barra lateral de 20.000 páginas cuenta muy poco. Los enlaces sitewide, la sindicación masiva, los enlaces de plantilla y los widgets se descuentan, y el autor cita una declaración según la cual, de un mismo dominio, se descartan todos los enlaces salvo unos 200. Un enlace editorial bien colocado puede valer más que un millón de widgets.
+- **Cuidado con migraciones y cambios de tema.** Si una página cambia mucho de foco, o rediriges un artículo a una categoría que nada tiene que ver, los enlaces antiguos pueden dejar de contar. Cambios menores, como el año en un título, no suelen afectar. Aplícalo a [migraciones](https://emirodgar.com/migracion-seo), dominios comprados y redirecciones 301 agresivas.
+
+Resumido: prioriza el mejor enlace editorial que puedas conseguir, dale contexto propio, que el ancla y la intención cambien de verdad entre enlaces, y mantén la cadena temática entre la página de origen, el ancla y la página de destino.
 
 ## <a name="penalizacion"></a> Evitar penalizaciones
 
