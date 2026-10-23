@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 18-09-2026
-date_modified: 13/10/2026
+date_modified: 23/10/2026
 folder: geo
 permalink: predicciones-seo-2027
 
@@ -55,5 +55,13 @@ Con las reuniones de presupuesto cerca, Kevin Indig y Amanda Johnson proponen en
 - **Apuestas no medibles, financiadas por criterio:** comunidad, eventos y marca. Citan al responsable de Ramp, George Bonaci, que decía que la atribución por sí sola les habría llevado a cancelar la marca, los eventos y el correo directo.
 
 Y recomiendan revisar el reparto cada trimestre, con la misma medición por capas que comento en [cómo medir tu visibilidad en la IA](https://emirodgar.com/medir-visibilidad-ia). Lo que más me interesa es el aviso de fondo: lo que no se pueda atribuir limpiamente es lo primero que se recorta, aunque sea lo que funciona. Si vas a defender la inversión ante dirección, esa es la conversación que conviene tener antes del último día, y [aquí explico cómo plantearla](https://emirodgar.com/zero-click-caida-ctr-ia).
+
+### Cuando la previsión es una cifra negociada
+
+Jono Alderson lo lleva más lejos en [Bravery is the most important KPI](https://www.jonoalderson.com/conjecture/bravery-kpi/) (8 de octubre de 2026): el problema no es solo la atribución, sino que la medición se ha convertido en un permiso. Según él, el marketing de pago (invertir, medir, optimizar) se ha tomado como modelo para todo, y lo que no demuestra retorno inmediato, como SEO, PR, contenido o mejorar el producto, se trata como menos maduro.
+
+Su descripción de las auditorías SEO me suena. El equipo detecta oportunidades y le piden cuántos clics extra dará cada tarea, algo que casi nadie puede predecir. Las herramientas devuelven una estimación con buena pinta, se ajusta hasta que resulte aceptable y acaba siendo un compromiso con el que luego se evalúa a quien la hizo. La incertidumbre no desaparece, solo cambia de formato. Alderson no habla de mentiras, sino de personas respondiendo a los incentivos del sistema.
+
+Su propuesta es que alguien con poder decida con evidencia incompleta, explique el problema, las alternativas, los costes y su razonamiento, y se juzgue el resultado con indicadores de negocio (cuota de mercado, preferencia de marca, retención) con capacidad de corregir el rumbo. Y añade que esa valentía no se puede delegar hacia abajo: si dirección exige previsiones imposibles, el equipo las fabricará. Es una opinión, no un estudio, pero encaja con la cartera de Indig y Johnson: separar lo que se puede probar de lo que se financia por criterio, y decir con claridad cuál es cuál.
 
 *Este artículo forma parte de la guía [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar).*

@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 22/10/2026
+date_modified: 23/10/2026
 folder: geo
 permalink: medir-visibilidad-ia
 
@@ -49,7 +49,9 @@ Aquí está lo medible en GA4, con una limitación: parte del tráfico de IA aca
 - **No des por estable el etiquetado.** Hacia el 9 de octubre de 2026, con el lanzamiento de GPT-6, ChatGPT dejó de añadir `utm_source=chatgpt.com` a sus enlaces. Según Cedric Huesler (Adobe), abría los enlaces con `noopener,noreferrer`, de modo que sin etiqueta ni referrer las visitas caían en "directo". En unas 500 páginas con al menos un 5 % de visitas desde ChatGPT, las visitas de ChatGPT bajaron unas 31.000 al día y el tráfico directo subió unas 26.000, mientras la búsqueda cayó un 7 %. El 15 de octubre Huesler indicó que fue un error y que ChatGPT vuelve a etiquetar. Lo útil para tu analítica: marca ese periodo en tus informes y no interpretes la bajada de ChatGPT ni la subida de directo como un cambio real de demanda. Los visitantes "directos" nuevos se comportaban como los de ChatGPT (por ejemplo, la proporción que veía el aviso de consentimiento en móvil pasó del 36 % al 44 %, frente al 55 % de ChatGPT), un indicio, no una confirmación.
 - **Compáralo con la búsqueda tradicional**, no lo mires aislado. Ahrefs observó sobre unos 75.000 sitios que ChatGPT como fuente de tráfico directo sigue siendo minúsculo (un 0,32 %). Es un dato de una muestra concreta, pero sirve para no esperar un volumen que quizá no tengas.
 
-La calidad es otra historia. Ethan Smith, de Graphite, afirmaba que el tráfico desde ChatGPT convierte hasta seis veces mejor que el de Google. Yo lo tomaría como hipótesis a comprobar en tu web y no como regla, porque depende del sector y de la intención.
+Marie Haynes llega a una conclusión parecida con datos de GA4 de 12 meses de 100 sitios (más de 145 millones de sesiones): las sesiones de ChatGPT equivalían al 0,62 % de las de Google orgánico, y al 0,73 % sumando el resto de asistentes. Además, según ella, el crecimiento de las visitas desde ChatGPT se frenó en agosto de 2025. Es una muestra pequeña y de una sola fuente, pero coincide con la de Ahrefs en el orden de magnitud: para la mayoría de webs, este canal pesa poco en volumen.
+
+La calidad es otra historia. Ethan Smith, de Graphite, afirmaba que el tráfico desde ChatGPT convierte hasta seis veces mejor que el de Google. Yo lo tomaría como hipótesis a comprobar en tu web y no como regla, porque depende del sector y de la intención. En la muestra de Haynes (55 sitios con conversiones configuradas), ChatGPT convertía al 13,8 % frente al 3,02 % de Google orgánico, más de 4,5 veces mejor, pero Google seguía generando el 96,5 % de las conversiones (964 frente a 36 de todos los asistentes juntos). Un canal que convierte mejor no tiene por qué pesar más en facturación. Y un dato previo que también apunta a la medición: en 45 de esos 100 sitios no había ningún evento clave configurado, así que antes de medir la IA conviene tener definido qué es una conversión.
 
 Si quieres un punto de partida, el [dashboard gratuito de Looker Studio](https://emirodgar.com/seo-inteligencia-artificial) que enlazo en mi guía de SEO para IA incluye un bloque de tráfico de plataformas de LLM.
 

@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
+date_modified: 23/10/2026
 folder: geo
 permalink: geo-ecommerce
 
@@ -51,6 +52,12 @@ Lo que sí documenta Google es un **informe de rendimiento de IA en Merchant Cen
 - **Atributos de producto** populares (color, estilo, material) y una **puntuación de completitud de atributos**.
 
 Cubre AI Mode, AI Overviews y la app de Gemini, y Google [lo despliega](https://support.google.com/merchants/answer/17117204?hl=en) desde mayo de 2026 en Estados Unidos, Canadá, Australia, India y Nueva Zelanda. España no figura en esa lista, así que hoy no puedes contar con él. Sí es una pista de qué mira Google: atributos completos.
+
+### Universal Cart: el carrito de Google
+
+El 15 de octubre de 2026 Google [lanzó Universal Cart](https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/) en Estados Unidos, dentro de Search (incluido AI Mode) y de la app de Gemini. Es un carrito donde el usuario guarda productos de varios comercios, sigue bajadas de precio y reposiciones de stock gracias al Shopping Graph, ve cómo le conviene pagar con Google Wallet y compra con Google Pay o pasa los productos al carrito del comercio para terminar en su web. Según Google, el pago simplificado funciona con el Universal Commerce Protocol (UCP), y el comercio sigue siendo el vendedor oficial: envía las confirmaciones y ofrece el soporte.
+
+Lo que no sé: el anuncio solo habla de EE. UU., sin fechas para otros países, y no detalla requisitos de integración ni comisiones. Marie Haynes, en [GEO is a distraction](https://www.mariehaynes.com/geo-is-a-distraction/), propone prepararse dominando Merchant Center y ampliando el SEO técnico con endpoints de descubrimiento para agentes como `/.well-known/ucp`. Es una recomendación suya, no un requisito documentado por Google que yo haya podido contrastar. Mi lectura para una tienda en España: no hay nada que activar hoy, pero un feed completo y coherente es lo que alimentaría tanto Universal Cart como el resto de superficies de compra.
 
 ## Qué revisaría en una tienda
 
