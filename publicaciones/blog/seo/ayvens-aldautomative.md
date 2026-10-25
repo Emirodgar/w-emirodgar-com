@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/05/2024
-date_modified: 13/10/2026
+date_modified: 25/10/2026
 folder: seo
 layout: emirodgar_post
 permalink: ayvens-ald-seo
@@ -115,6 +115,39 @@ Una redirección 301 transfiere señales, pero no sustituye al contenido. Con un
 Además, durante bastante tiempo estuvo habilitado e indexado un subdominio de pruebas, `https://ofertas-renting-test.aldautomotive.es/`, que ahora devuelve un error 502. En Semrush se ve cómo keywords de ALD como "a l d renting" (posición 3), "ald renting particulares" (9) u "offerte ald" (1) posicionaban con esa URL de test. Un entorno de pruebas indexado compite con la web real y reparte las señales de la marca, lo que ha perjudicado el posicionamiento para renting de ALD y, por tanto, de Ayvens.
 
 ![Palabras clave de ALD posicionando con el subdominio de pruebas](/cdn/images/posts/ald-ayvens-subdominio-test-indexado.png){:class="img-responsive"}
+
+### Actualización 25/10/2026
+
+Hay un cambio mayor que los anteriores. Durante años, el subdominio `ofertas-renting.aldautomotive.es` (después `ofertas-renting.ayvens.es`) fue el activo que posicionaba el renting de la marca: un listado de ofertas filtrable por tipología y por marca de coche, con una URL por cada una de ellas. Ahora ese subdominio ya no existe como página, sino que **redirige a la home de `ayvens.es`**.
+
+![Cadena de redirecciones de ofertas-renting.aldautomotive.es: dos 301 y un 200](/cdn/images/posts/ald-ayvens-redireccion-subdominio-cadena.png){:class="img-responsive"}
+
+La cadena actual es `ofertas-renting.aldautomotive.es` → `ofertas-renting.ayvens.es` → `ayvens.es/`. Dos saltos 301 que acaban en la página de inicio.
+
+![Redirección 301 de ofertas-renting.ayvens.es a ayvens.es](/cdn/images/posts/ald-ayvens-redireccion-subdominio-home.png){:class="img-responsive"}
+
+Una 301 solo conserva el posicionamiento si el destino responde a lo mismo que respondía el origen. Una home corporativa no es un listado de ofertas de renting, así que Google no traslada esas señales y las trata como un destino que no encaja (lo que suele acabar considerándose un *soft 404*). Lo que habría mantenido el posicionamiento era redirigir con una 301 `https://ofertas-renting.aldautomotive.es/` primero, y `https://ofertas-renting.ayvens.es/` después, **directamente a `https://ayvens.es/renting`**, que es la página que responde a esa intención. Y mejor todavía, mantener un listado de ofertas genérico con los filtros que ya tenían.
+
+#### Lo que se ve en Sistrix
+
+En la gráfica de índice de visibilidad, el subdominio (línea azul) llegaba a rozar un 1,5 de visibilidad a finales de agosto, y es en septiembre cuando se desploma hasta prácticamente cero. El dominio completo `ayvens.es` (línea roja) también cae, de más de 1,5 a poco más de 1,1, de modo que **la pérdida del subdominio ha arrastrado la visibilidad global del sitio**. En las semanas siguientes se mantiene en torno a 1,1-1,2, es decir, el resto de la web no ha compensado lo perdido.
+
+![Índice de visibilidad de Sistrix: el subdominio ofertas-renting.ayvens.es cae a cero y ayvens.es pierde visibilidad global](/cdn/images/posts/ald-ayvens-sistrix-visibilidad-subdominio-home.png){:class="img-responsive"}
+
+#### Lo que estaban posicionando
+
+El subdominio no vivía solo de la marca. Según los datos de posicionamiento, aportaba clics por búsquedas de marca antigua ("ald automotive"), por marca de coche y modelo ("audi renting", "renting coches mercedes", "renting golf", "audi q3 renting", "renting mazda") y por búsquedas genéricas ("renting ofertas", "renting online", "ofertas renting particulares"), casi todas en posiciones 3-8 y cada una con su URL (`/ofertas/audi`, `/ofertas/mercedes`, `/ofertas/volkswagen`...).
+
+![Palabras clave y URLs que posicionaban en ofertas-renting.ayvens.es](/cdn/images/posts/ayvens-subdominio-keywords-ofertas-renting.png){:class="img-responsive"}
+
+Todo ese posicionamiento por marca y modelo pasa ahora a apuntar a una home que no habla de "renting Audi" ni de "renting Golf". Con casi total seguridad, buena parte de esas palabras clave se verán afectadas en las próximas semanas.
+
+#### Dos cosas que echo de menos
+
+- **Una página genérica de ofertas de renting con filtros por tipología**, como la que tenían. Es la página que concentra las búsquedas de "ofertas renting" y la que permite enlazar a cada filtro (marca, modelo, particulares, empresas), algo que una home no puede hacer.
+- **Cuidar las imágenes principales de los anuncios.** En el listado antiguo había anuncios de particulares cuya foto principal era un medidor de la profundidad del dibujo de un neumático, no el coche. Una imagen así no despierta interés ni ayuda a que el usuario haga clic: en un escaparate de ofertas, la primera foto es la que vende el anuncio.
+
+![Anuncio de un BMW Serie 3 en renting con una foto de un medidor de neumático como imagen principal](/cdn/images/posts/ayvens-anuncio-renting-imagen-neumatico.png){:class="img-responsive" style="max-width:344px"}
 
 Si quieres ver cómo planificar una migración para evitar estos problemas, tienes una [guía de migración SEO](https://emirodgar.com/migracion-seo) con el plan, el mapa de redirecciones y la revisión del día del lanzamiento.
 

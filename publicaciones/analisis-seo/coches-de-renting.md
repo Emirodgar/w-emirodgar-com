@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 0
 date: 11/09/2026
-last_update: 12 de octubre de 2026
+last_update: 25 de octubre de 2026
 folder: Automoción / Movilidad
 tag: SEO competitivo
 permalink: /analisis-seo/coches-de-renting
@@ -136,7 +136,7 @@ permalink: /analisis-seo/coches-de-renting
 <text x="640" y="238" font-family="Roboto,sans-serif" font-size="10" fill="#999">sep-26</text>
 </svg>
 </div>
-<p class="as-caption">Valores absolutos reales, misma escala para los seis. driverevel.com (azul) y yomovo.es (granate) son literalmente una línea plana en cero durante casi toda la serie — su despegue no empieza hasta 2026. ofertas-renting.ayvens.es (verde) tiene un valle prolongado durante 2025 antes de repuntar. Últimos valores (septiembre 2026): arval.es 150.911, bbvaautorenting.com 45.230, coches.net/renting 32.569, driverevel.com/coches 48.776, yomovo.es/renting 1.264, ofertas-renting.ayvens.es 3.065. El último punto de ayvens (-86% en un mes) y el de yomovo (-72%) rompen la tendencia de golpe: antes de darlos por pérdida real conviene contrastarlos con Search Console o con la próxima medición.</p>
+<p class="as-caption">Valores absolutos reales, misma escala para los seis. driverevel.com (azul) y yomovo.es (granate) son literalmente una línea plana en cero durante casi toda la serie — su despegue no empieza hasta 2026. ofertas-renting.ayvens.es (verde) tiene un valle prolongado durante 2025 antes de repuntar. Últimos valores (septiembre 2026): arval.es 150.911, bbvaautorenting.com 45.230, coches.net/renting 32.569, driverevel.com/coches 48.776, yomovo.es/renting 1.264, ofertas-renting.ayvens.es 3.065. El último punto de ayvens (-86% en un mes) y el de yomovo (-72%) rompen la tendencia de golpe: en el caso de ayvens la causa es que el subdominio redirige ahora a la home (ver la sección sobre la caída de septiembre); el de yomovo conviene contrastarlo con la próxima medición.</p>
 </div>
 
 <div class="pd-section">
@@ -326,7 +326,7 @@ permalink: /analisis-seo/coches-de-renting
 <li>golf renting — 480</li>
 <li>renting bmw x3 — 720</li>
 </ul>
-<p class="as-caption">Sigue siendo el único que rankea por la marca antigua ("ald"/"ald automotive") — huella visible de la <a href="/ayvens-ald-seo">transición de marca</a> —, y mantiene páginas por modelo (Golf, BMW X3) que ningún otro del grupo tiene destacadas. Dato relevante: el término de marca "ayvens" (14.800 búsquedas/mes), que aparecía como su principal keyword exclusiva en la medición anterior, ya no figura entre sus palabras clave de este subdominio. En el SERP en vivo el subdominio ocupa el 2º puesto, por detrás de ayvens.com/es-es/, lo que podría explicar parte de la caída de tráfico de septiembre (hipótesis a validar con Search Console); su lista de keywords se ha vuelto casi toda de cola larga y marca antigua.</p>
+<p class="as-caption">Sigue siendo el único que rankea por la marca antigua ("ald"/"ald automotive") — huella visible de la <a href="/ayvens-ald-seo">transición de marca</a> —, y mantiene páginas por modelo (Golf, BMW X3) que ningún otro del grupo tiene destacadas. Dato relevante: el término de marca "ayvens" (14.800 búsquedas/mes), que aparecía como su principal keyword exclusiva en la medición anterior, ya no figura entre sus palabras clave de este subdominio. En el SERP en vivo el subdominio ocupa el 2º puesto, por detrás de ayvens.com/es-es/, y la caída de tráfico de septiembre se explica porque el subdominio ya redirige a la home (ver la sección sobre la caída de septiembre); su lista de keywords se ha vuelto casi toda de cola larga y marca antigua.</p>
 
 <h3 class="pd-section-title" style="font-size:19px">Exclusivas de driverevel.com/es/es/coches</h3>
 <ul class="as-kwlist">
@@ -376,6 +376,27 @@ permalink: /analisis-seo/coches-de-renting
 </div>
 
 <div class="pd-section">
+<h2 class="pd-section-title">La caída de septiembre: el subdominio redirige ahora a la home</h2>
+<p class="as-lead">La caída de ofertas-renting.ayvens.es en septiembre (de 21.645 a 3.065 visitas) tiene una causa que se puede ver: el subdominio con el que Ayvens llevaba años posicionando el renting <b>redirige ahora a la home de ayvens.es</b>. Antes de esta actualización era una hipótesis a validar; ya no lo es.</p>
+<div class="as-img"><img src="/cdn/images/posts/ald-ayvens-redireccion-subdominio-cadena.png" alt="Cadena de redirecciones de ofertas-renting.aldautomotive.es: dos 301 y un 200" width="553" height="133" loading="lazy"></div>
+<div class="as-img"><img src="/cdn/images/posts/ald-ayvens-redireccion-subdominio-home.png" alt="Redirección 301 de ofertas-renting.ayvens.es a la home de ayvens.es" width="591" height="145" loading="lazy"></div>
+<p class="as-caption">La cadena actual es <code>ofertas-renting.aldautomotive.es</code> → <code>ofertas-renting.ayvens.es</code> → <code>ayvens.es/</code>: dos 301 que acaban en la página de inicio.</p>
+<p class="as-lead">Una 301 solo conserva el posicionamiento si el destino responde a lo mismo que respondía el origen. Para mantenerlo, lo que correspondía era redirigir <code>https://ofertas-renting.aldautomotive.es/</code> primero, y <code>https://ofertas-renting.ayvens.es/</code> después, directamente a <code>https://ayvens.es/renting</code>, y mejor aún conservar un listado de ofertas con filtros por tipología, como el que tenían.</p>
+<div class="as-img"><img src="/cdn/images/posts/ald-ayvens-sistrix-visibilidad-subdominio-home.png" alt="Índice de visibilidad de Sistrix: ofertas-renting.ayvens.es cae a cero y ayvens.es pierde visibilidad global" width="1201" height="435" loading="lazy"></div>
+<p class="as-caption">Índice de visibilidad en Sistrix. El subdominio (azul) rozaba 1,5 a finales de agosto y se desploma hasta prácticamente cero en septiembre. El dominio completo ayvens.es (rojo) baja de más de 1,5 a unos 1,1-1,2: la pérdida del subdominio ha arrastrado la visibilidad global del sitio y el resto de la web no la ha compensado.</p>
+
+<h3 class="pd-section-title" style="font-size:19px">Qué posicionaba el subdominio y qué se pierde</h3>
+<div class="as-img"><img src="/cdn/images/posts/ayvens-subdominio-keywords-ofertas-renting.png" alt="Palabras clave y URLs que posicionaban en ofertas-renting.ayvens.es: ald automotive, audi renting, renting coches mercedes, renting golf y otras" width="1074" height="634" loading="lazy"></div>
+<p class="as-caption">Palabras clave del subdominio con su posición, clics y URL. Además de "ald automotive" (posición 4, 193 clics), posicionaba por marca y modelo ("audi renting", "renting coches mercedes", "renting golf", "audi q3 renting", "renting mazda") con una URL propia por marca (<code>/ofertas/audi</code>, <code>/ofertas/mercedes</code>, <code>/ofertas/volkswagen</code>...) y por genéricas como "renting ofertas", "renting online" u "ofertas renting particulares", casi siempre entre las posiciones 3 y 8.</p>
+<p class="as-lead">Una home no habla de "renting Audi" ni de "renting Golf", por lo que es previsible que muchas de estas palabras clave se vean afectadas en las próximas mediciones. Ese es el motivo por el que la tabla de keywords exclusivas de más arriba (golf renting, renting bmw x3, ald renting...) debe leerse como la foto de lo que había antes del cambio.</p>
+
+<h3 class="pd-section-title" style="font-size:19px">Lo que echo de menos: una página de ofertas y buenas imágenes</h3>
+<p class="as-lead">Un listado genérico de ofertas de renting con filtros por tipología era el activo que concentraba búsquedas como "renting ofertas" y permitía enlazar cada filtro (marca, modelo, particulares, empresas). Sin él, el sitio no tiene una página que responda a esa intención. Y si se recupera, conviene cuidar la imagen principal de cada anuncio: en el listado antiguo había anuncios de particulares con una foto de un medidor de profundidad de neumático en lugar del coche.</p>
+<div class="as-img"><img src="/cdn/images/posts/ayvens-anuncio-renting-imagen-neumatico.png" alt="Anuncio de un BMW Serie 3 en renting cuya imagen principal es un medidor de neumático" width="344" height="519" loading="lazy"></div>
+<p class="as-caption">Una imagen midiendo el estado de un neumático no genera interés. En un escaparate de ofertas, la primera foto es la que hace que el usuario haga clic.</p>
+</div>
+
+<div class="pd-section">
 <h2 class="pd-section-title">Nota metodológica</h2>
 <div class="as-callout">Los datos proceden de Semrush (base de datos España / Google.es), consultados el 8 de octubre de 2026 (último dato mensual: 15 de septiembre de 2026; SERP en vivo y backlinks de la fecha de consulta). Los listados de keywords exclusivas se han obtenido de las 30 principales keywords por tráfico de cada URL en esa fecha, descartando los términos genéricos que comparten varios dominios. El ámbito de medición <b>no es homogéneo</b> entre los seis: arval.es y bbvaautorenting.com se miden a nivel de dominio completo porque su negocio es 100% renting; ofertas-renting.ayvens.es se mide a nivel de subdominio (el dominio raíz ayvens.es es la web corporativa global del grupo); driverevel.com/es/es/coches, coches.net/renting y yomovo.es/renting se miden a nivel de URL/sección específica porque sus dominios raíz cubren negocios más amplios (coches.net es un marketplace generalista; driverevel.com y yomovo.es incluyen otras líneas fuera de España o fuera del renting). El histórico de backlinks solo está disponible a nivel de dominio raíz en Semrush, por lo que el gráfico de evolución de enlaces se limita a los dos casos donde dominio raíz y negocio de renting coinciden (arval.es, bbvaautorenting.com); para los otros cuatro se ofrece solo la foto actual. Las posiciones de una misma keyword pueden variar en un puesto entre el snapshot de "SERP en vivo" (phrase_organic) y la base de datos propia de cada dominio, por tratarse de rastreos en fechas ligeramente distintas — normal y no un error.</div>
 </div>
@@ -387,7 +408,7 @@ permalink: /analisis-seo/coches-de-renting
 <li>arval.es multiplicó sus backlinks brutos por casi 8 en 10 meses sin apenas variar su nº de dominios de referencia — más enlaces desde los sitios de siempre, no una campaña nueva; su liderazgo es de fondo, no de un pico puntual.</li>
 <li>Dos de los seis (driverevel, yomovo) pasaron de no existir en este ranking a competir en el top 6 del SERP en menos de 8 meses, pero solo driverevel ha consolidado el tráfico: yomovo ha perdido el 88% desde su pico de julio. El hueco de entrada sigue abierto en 2026, aunque mantenerlo es otra cosa.</li>
 <li>Vigilar de cerca cuánto del tráfico de driverevel.com es marca propia ("revel") frente a demanda genérica: si esa proporción no baja en la próxima actualización, su ranking de hoy sobreestima su fuerza real frente a la competencia genérica.</li>
-<li>ofertas-renting.ayvens.es es el caso a seguir el próximo mes: si el dato de septiembre (3.065, desde 21.645) se confirma, la <a href="/ayvens-ald-seo">migración de marca</a> acumula casi dos años sin estabilizar el tráfico. Si en octubre vuelve a 15.000-20.000, se tratará de oscilación de la medición. Contrastar con Search Console antes de sacar conclusiones.</li>
+<li>La caída de septiembre de ofertas-renting.ayvens.es (de 21.645 a 3.065) no es oscilación de la medición: el subdominio <b>redirige ahora a la home de ayvens.es</b> y Sistrix muestra cómo su visibilidad cae a casi cero y arrastra la del dominio completo. Lo correcto habría sido una 301 directa a <code>https://ayvens.es/renting</code>, o mejor, mantener un listado de ofertas con filtros. Detalle en la <a href="/ayvens-ald-seo">actualización del post de migración</a>.</li>
 <li>A pesar de años de redirección 301, buscar por la marca antigua ("ofertas renting ald automotive") sigue devolviendo en primer lugar un resultado de <code>aldautomotive.es</code>, y <code>ayvens.es</code> no entra ni en el top 3, por detrás de dos intermediarios. Una redirección no basta: hacía falta un pequeño contenido en la web actual que explicara el cambio de marca y respondiera a esa búsqueda.</li>
 <li>Un subdominio de pruebas (<code>ofertas-renting-test.aldautomotive.es</code>) estuvo indexado y posicionando durante mucho tiempo y hoy da un 502. Ese tipo de entornos hay que blindarlos desde el primer día, porque restan posicionamiento a la marca principal en una categoría tan competida como el renting.</li>
 </ul>
