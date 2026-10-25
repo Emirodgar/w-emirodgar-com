@@ -70,18 +70,18 @@ permalink: /analisis-seo/coches-de-renting
 <tbody>
 <tr><td class="num as-winner">1</td><th>bbvaautorenting.com</th><td>bbvaautorenting.com/</td></tr>
 <tr><td class="num">2</td><th>arval.es</th><td>arval.es/</td></tr>
-<tr><td class="num">3</td><th>ofertas-renting.ayvens.es</th><td>ofertas-renting.ayvens.es/</td></tr>
-<tr><td class="num">4</td><th>driverevel.com</th><td>driverevel.com/es/es/coches</td></tr>
-<tr><td class="num">5</td><th>coches.net</th><td>coches.net/renting/</td></tr>
-<tr><td class="num">6</td><th>yomovo.es</th><td>yomovo.es/renting</td></tr>
-<tr><td class="num">7</td><th>okmobility.com</th><td>okmobility.com/es/renting/</td></tr>
+<tr><td class="num">3</td><th>driverevel.com</th><td>driverevel.com/es/es/coches</td></tr>
+<tr><td class="num">4</td><th>coches.net</th><td>coches.net/renting/</td></tr>
+<tr><td class="num">5</td><th>okmobility.com</th><td>okmobility.com/es/renting/loc/espana/barcelona</td></tr>
+<tr><td class="num">6</td><th>mutuamas.es</th><td>mutuamas.es/renting-coches/</td></tr>
+<tr><td class="num">7</td><th>ayvens.es</th><td>ayvens.es/ (la home, antes ofertas-renting.ayvens.es/)</td></tr>
 <tr><td class="num">8</td><th>quecochemecompro.com</th><td>quecochemecompro.com/renting/</td></tr>
 <tr><td class="num">9</td><th>grupogamboa.com</th><td>grupogamboa.com/renting/particulares</td></tr>
-<tr><td class="num">10</td><th>mutuamas.es</th><td>mutuamas.es/renting-coches/</td></tr>
+<tr><td class="num">10</td><th>swipcar.com</th><td>swipcar.com/es/renting/barcelona</td></tr>
 </tbody>
 </table>
 </div>
-<p class="as-caption">Los 6 dominios de este análisis ocupan literalmente las 6 primeras posiciones del SERP para esta keyword exacta, en el mismo orden en que se han comparado. okmobility.com, quecochemecompro.com, grupogamboa.com y mutuamas.es (posiciones 7-10) no forman parte de este análisis pero son el competidor lógico de una próxima actualización.</p>
+<p class="as-caption">Actualizado el 25 de octubre de 2026. El cambio más claro respecto a la medición del 8 de octubre: ayvens pasa del 3º al 7º puesto, y la URL que posiciona ya no es el subdominio sino la home de ayvens.es, porque el subdominio redirige a ella. yomovo.es sale del top 10, y okmobility.com y mutuamas.es, que no forman parte de este análisis, se cuelan por delante de ayvens. Arval, BBVA, driverevel y coches.net mantienen el top 4 de esta keyword.</p>
 </div>
 
 <div class="pd-section">
@@ -99,12 +99,12 @@ permalink: /analisis-seo/coches-de-renting
 <tr><th>Tráfico orgánico est. /mes</th><td class="num as-winner">150.911</td><td class="num">45.230</td><td class="num">3.065</td><td class="num">48.776</td><td class="num">32.569</td><td class="num">1.264</td></tr>
 <tr><th>Nº keywords orgánicas</th><td class="num as-winner">27.114</td><td class="num">3.402</td><td class="num">2.318</td><td class="num">1.896</td><td class="num">13.997</td><td class="num">2.478</td></tr>
 <tr><th>Authority Score (ámbito medido)</th><td class="num as-winner">46</td><td class="num">37</td><td class="num">38</td><td class="num">34</td><td class="num">20</td><td class="num">0 (sin datos suficientes)</td></tr>
-<tr><th>Dominios de referencia (ámbito medido)</th><td class="num">885</td><td class="num">604</td><td class="num as-winner">893</td><td class="num">43</td><td class="num">18</td><td class="num">145</td></tr>
+<tr><th>Dominios de referencia (ámbito medido)</th><td class="num">885</td><td class="num">604</td><td class="num as-winner">1.698</td><td class="num">43</td><td class="num">18</td><td class="num">145</td></tr>
 <tr><th>Tendencia tráfico (30 meses)</th><td class="num as-trend-up">+72,6%</td><td class="num as-trend-up as-winner">+1.002,6%</td><td class="num">n/d — ver "aparición reciente"</td><td class="num">n/d — ver "aparición reciente"</td><td class="num as-trend-up">+68,4%</td><td class="num">n/d — ver "aparición reciente"</td></tr>
 </tbody>
 </table>
 </div>
-<p class="as-caption">bbvaautorenting.com gana la fila de tendencia por goleada, aunque partiendo de una base mucho menor que arval.es. ayvens, driverevel y yomovo no tienen un "antes" comparable en el periodo — su historia es de aparición, no de tendencia porcentual (ver la sección dedicada más abajo). En dominios de referencia, ayvens (893) supera ya a arval.es (885), aunque con un tráfico unas 50 veces menor en septiembre.</p>
+<p class="as-caption">bbvaautorenting.com gana la fila de tendencia por goleada, aunque partiendo de una base mucho menor que arval.es. ayvens, driverevel y yomovo no tienen un "antes" comparable en el periodo — su historia es de aparición, no de tendencia porcentual (ver la sección dedicada más abajo). En dominios de referencia, ayvens (1.698 en la consulta del 25 de octubre) supera ya con claridad a arval.es (885), aunque con un tráfico unas 50 veces menor en septiembre. Esos enlaces apuntan a un subdominio que ahora redirige a la home.</p>
 </div>
 
 <div class="pd-section">
@@ -256,7 +256,7 @@ permalink: /analisis-seo/coches-de-renting
 <caption>Backlinks actuales de los otros cuatro (sin histórico comparable — ver nota metodológica)</caption>
 <thead><tr><th>Dominio/URL</th><th>Ámbito medido</th><th>Backlinks</th><th>Dominios ref.</th><th>Authority Score</th></tr></thead>
 <tbody>
-<tr><th>ofertas-renting.ayvens.es</th><td>subdominio</td><td class="num">9.725</td><td class="num">893</td><td class="num">38</td></tr>
+<tr><th>ofertas-renting.ayvens.es</th><td>subdominio</td><td class="num">10.856</td><td class="num">1.698</td><td class="num">40</td></tr>
 <tr><th>driverevel.com/es/es/coches</th><td>URL específica</td><td class="num">147</td><td class="num">43</td><td class="num">34</td></tr>
 <tr><th>coches.net/renting/</th><td>URL específica</td><td class="num">115</td><td class="num">18</td><td class="num">20</td></tr>
 <tr><th>yomovo.es/renting</th><td>URL específica</td><td class="num">201</td><td class="num">145</td><td class="num">0 (sin datos suficientes)</td></tr>
@@ -272,7 +272,7 @@ permalink: /analisis-seo/coches-de-renting
 <li><b>2º bbvaautorenting.com</b> — mucho menor en volumen absoluto, pero la historia de crecimiento más espectacular con diferencia (tráfico x11, Top 10 x6 en el mismo periodo) y sin señales de freno en septiembre.</li>
 <li><b>3º driverevel.com/es/es/coches</b> — de cero a top 4 del SERP en 5 meses gracias a heredar la autoridad de un dominio raíz ya establecido, y estable en septiembre; su punto débil es que buena parte de ese tráfico es su propia marca ("revel"), no demanda genérica de renting.</li>
 <li><b>4º coches.net/renting</b> — el mayor catálogo de keywords tras arval.es gracias a su volumen de páginas long-tail, pero con el tráfico más errático mes a mes y la autoridad más baja a nivel de sección específica.</li>
-<li><b>5º ofertas-renting.ayvens.es</b> — pierde el impulso de su recuperación: tras llegar a 21.645 visitas en agosto cae a 3.065 en septiembre. Mantiene buenas posiciones en los términos de cabecera y la mayor cifra de dominios de referencia del grupo (893), pero su tráfico no se ha estabilizado desde la <a href="/ayvens-ald-seo">migración de marca</a>.</li>
+<li><b>5º ofertas-renting.ayvens.es</b> — pierde el impulso de su recuperación: tras llegar a 21.645 visitas en agosto cae a 3.065 en septiembre. Mantiene el 2º puesto en "renting" y la mayor cifra de dominios de referencia del grupo (1.698), pero esas posiciones ya las ocupa la home y no el subdominio, que redirige a ella. La consulta en vivo del 25 de octubre sitúa el subdominio en 1.143 visitas estimadas y 609 keywords, y la <a href="/ayvens-ald-seo">migración de marca</a> acumula otro cambio que no ha estabilizado el tráfico.</li>
 <li><b>6º yomovo.es/renting</b> — el más pequeño y el más reciente del grupo; ya compite en el top 10 de varios términos genéricos de alto volumen, pero su tráfico se ha desplomado desde el pico de julio (10.255 → 1.264).</li>
 </ul>
 </div>
@@ -284,14 +284,14 @@ permalink: /analisis-seo/coches-de-renting
 <caption>Posición actual en el SERP para los 4 términos de mayor volumen del clúster (Semrush, España)</caption>
 <thead><tr><th>Keyword</th><th>Volumen</th><th>arval.es</th><th>bbva autorenting</th><th>ayvens</th><th>driverevel</th><th>coches.net</th><th>yomovo</th></tr></thead>
 <tbody>
-<tr><th>renting coches</th><td class="num">49.500</td><td class="num">4</td><td class="num">2</td><td class="num">3</td><td class="num as-winner">1</td><td class="num">15</td><td class="num">9</td></tr>
-<tr><th>renting</th><td class="num">33.100</td><td class="num">3</td><td class="num">8</td><td class="num">2</td><td class="num as-winner">1</td><td class="num">20</td><td class="num">4</td></tr>
-<tr><th>renting particulares</th><td class="num">18.100</td><td class="num">2</td><td class="num as-winner">1</td><td class="num">5</td><td class="num">7</td><td class="num">10</td><td class="num">9</td></tr>
-<tr><th>coches de renting</th><td class="num">5.400</td><td class="num">2</td><td class="num as-winner">1</td><td class="num">3</td><td class="num">4</td><td class="num">5</td><td class="num">6</td></tr>
+<tr><th>renting coches</th><td class="num">49.500</td><td class="num">3</td><td class="num as-winner">1</td><td class="num">4</td><td class="num">2</td><td class="num">7</td><td class="num">—</td></tr>
+<tr><th>renting</th><td class="num">33.100</td><td class="num">3</td><td class="num">6</td><td class="num">2</td><td class="num as-winner">1</td><td class="num">—</td><td class="num">—</td></tr>
+<tr><th>renting particulares</th><td class="num">18.100</td><td class="num">2</td><td class="num as-winner">1</td><td class="num">5</td><td class="num">6</td><td class="num">4</td><td class="num">—</td></tr>
+<tr><th>coches de renting</th><td class="num">5.400</td><td class="num">2</td><td class="num as-winner">1</td><td class="num">7</td><td class="num">3</td><td class="num">4</td><td class="num">—</td></tr>
 </tbody>
 </table>
 </div>
-<p class="as-caption">"—" indica que ese dominio no aparece en el top 20 para esa keyword. En "renting" ayvens sube al 2º puesto (antes fuera del top 20) y bbvaautorenting.com baja del 2º al 8º, con otra URL (ofertas-renting-particulares) posicionada. driverevel.com gana los dos términos de mayor volumen ("renting coches" y "renting") pese a ser el recién llegado con menos keywords totales — coherente con su estrategia de concentrarse en muy pocos términos-cabecera de alto volumen en vez de cola larga.</p>
+<p class="as-caption">Posiciones del SERP del 25 de octubre de 2026. "—" indica que ese dominio no aparece en el top 20 para esa keyword. Las posiciones de ayvens corresponden ya a la home <code>ayvens.es/</code>, no al subdominio: en "renting" mantiene el 2º puesto y en "renting particulares" el 5º, pero en "coches de renting" baja del 3º al 7º y en "renting coches" del 3º al 4º. yomovo.es ya no aparece en el top 20 de ninguno de los cuatro términos. driverevel.com sigue ganando "renting", y bbvaautorenting.com recupera el 1º en "renting coches" y "coches de renting".</p>
 
 <h3 class="pd-section-title" style="font-size:19px">Exclusivas de arval.es</h3>
 <ul class="as-kwlist">
@@ -326,7 +326,7 @@ permalink: /analisis-seo/coches-de-renting
 <li>golf renting — 480</li>
 <li>renting bmw x3 — 720</li>
 </ul>
-<p class="as-caption">Sigue siendo el único que rankea por la marca antigua ("ald"/"ald automotive") — huella visible de la <a href="/ayvens-ald-seo">transición de marca</a> —, y mantiene páginas por modelo (Golf, BMW X3) que ningún otro del grupo tiene destacadas. Dato relevante: el término de marca "ayvens" (14.800 búsquedas/mes), que aparecía como su principal keyword exclusiva en la medición anterior, ya no figura entre sus palabras clave de este subdominio. En el SERP en vivo el subdominio ocupa el 2º puesto, por detrás de ayvens.com/es-es/, y la caída de tráfico de septiembre se explica porque el subdominio ya redirige a la home (ver la sección sobre la caída de septiembre); su lista de keywords se ha vuelto casi toda de cola larga y marca antigua.</p>
+<p class="as-caption">Sigue siendo el único que rankea por la marca antigua ("ald"/"ald automotive") — huella visible de la <a href="/ayvens-ald-seo">transición de marca</a> —, y mantiene páginas por modelo (Golf, BMW X3) que ningún otro del grupo tiene destacadas. Dato relevante: el término de marca "ayvens" (14.800 búsquedas/mes), que aparecía como su principal keyword exclusiva en la medición anterior, ya no figura entre sus palabras clave de este subdominio. La caída de tráfico de septiembre se explica porque el subdominio ya redirige a la home (ver la sección sobre la caída de septiembre); su lista de keywords se ha vuelto casi toda de cola larga y marca antigua.</p>
 
 <h3 class="pd-section-title" style="font-size:19px">Exclusivas de driverevel.com/es/es/coches</h3>
 <ul class="as-kwlist">
@@ -381,6 +381,7 @@ permalink: /analisis-seo/coches-de-renting
 <div class="as-img"><img src="/cdn/images/posts/ald-ayvens-redireccion-subdominio-cadena.png" alt="Cadena de redirecciones de ofertas-renting.aldautomotive.es: dos 301 y un 200" width="553" height="133" loading="lazy"></div>
 <div class="as-img"><img src="/cdn/images/posts/ald-ayvens-redireccion-subdominio-home.png" alt="Redirección 301 de ofertas-renting.ayvens.es a la home de ayvens.es" width="591" height="145" loading="lazy"></div>
 <p class="as-caption">La cadena actual es <code>ofertas-renting.aldautomotive.es</code> → <code>ofertas-renting.ayvens.es</code> → <code>ayvens.es/</code>: dos 301 que acaban en la página de inicio.</p>
+<p class="as-lead">La consulta en vivo a Semrush del 25 de octubre ya refleja el efecto. El subdominio baja a 609 keywords y 1.143 visitas estimadas (3.065 en septiembre), mientras que el dominio completo ayvens.es suma 7.155 keywords y 27.449 visitas. En el SERP, las posiciones de ayvens ya las ocupa la home: se mantiene en "renting" (2º) y "renting particulares" (5º), pero cae del 3º al 7º en "coches de renting". La base de keywords de Semrush todavía asocia muchas posiciones a las URLs del subdominio, por lo que la próxima medición mensual (octubre) debería recoger el efecto completo.</p>
 <p class="as-lead">Una 301 solo conserva el posicionamiento si el destino responde a lo mismo que respondía el origen. Para mantenerlo, lo que correspondía era redirigir <code>https://ofertas-renting.aldautomotive.es/</code> primero, y <code>https://ofertas-renting.ayvens.es/</code> después, directamente a <code>https://ayvens.es/renting</code>, y mejor aún conservar un listado de ofertas con filtros por tipología, como el que tenían.</p>
 <div class="as-img"><img src="/cdn/images/posts/ald-ayvens-sistrix-visibilidad-subdominio-home.png" alt="Índice de visibilidad de Sistrix: ofertas-renting.ayvens.es cae a cero y ayvens.es pierde visibilidad global" width="1201" height="435" loading="lazy"></div>
 <p class="as-caption">Índice de visibilidad en Sistrix. El subdominio (azul) rozaba 1,5 a finales de agosto y se desploma hasta prácticamente cero en septiembre. El dominio completo ayvens.es (rojo) baja de más de 1,5 a unos 1,1-1,2: la pérdida del subdominio ha arrastrado la visibilidad global del sitio y el resto de la web no la ha compensado.</p>
@@ -398,7 +399,7 @@ permalink: /analisis-seo/coches-de-renting
 
 <div class="pd-section">
 <h2 class="pd-section-title">Nota metodológica</h2>
-<div class="as-callout">Los datos proceden de Semrush (base de datos España / Google.es), consultados el 8 de octubre de 2026 (último dato mensual: 15 de septiembre de 2026; SERP en vivo y backlinks de la fecha de consulta). Los listados de keywords exclusivas se han obtenido de las 30 principales keywords por tráfico de cada URL en esa fecha, descartando los términos genéricos que comparten varios dominios. El ámbito de medición <b>no es homogéneo</b> entre los seis: arval.es y bbvaautorenting.com se miden a nivel de dominio completo porque su negocio es 100% renting; ofertas-renting.ayvens.es se mide a nivel de subdominio (el dominio raíz ayvens.es es la web corporativa global del grupo); driverevel.com/es/es/coches, coches.net/renting y yomovo.es/renting se miden a nivel de URL/sección específica porque sus dominios raíz cubren negocios más amplios (coches.net es un marketplace generalista; driverevel.com y yomovo.es incluyen otras líneas fuera de España o fuera del renting). El histórico de backlinks solo está disponible a nivel de dominio raíz en Semrush, por lo que el gráfico de evolución de enlaces se limita a los dos casos donde dominio raíz y negocio de renting coinciden (arval.es, bbvaautorenting.com); para los otros cuatro se ofrece solo la foto actual. Las posiciones de una misma keyword pueden variar en un puesto entre el snapshot de "SERP en vivo" (phrase_organic) y la base de datos propia de cada dominio, por tratarse de rastreos en fechas ligeramente distintas — normal y no un error.</div>
+<div class="as-callout">Los datos proceden de Semrush (base de datos España / Google.es), consultados el 8 de octubre de 2026 y actualizados el 25 de octubre de 2026 (último dato mensual disponible: 15 de septiembre de 2026, sin cambios en la segunda consulta; SERP en vivo, snapshot de tráfico del subdominio y backlinks de ofertas-renting.ayvens.es del 25 de octubre). Los listados de keywords exclusivas se han obtenido de las 30 principales keywords por tráfico de cada URL en esa fecha, descartando los términos genéricos que comparten varios dominios. El ámbito de medición <b>no es homogéneo</b> entre los seis: arval.es y bbvaautorenting.com se miden a nivel de dominio completo porque su negocio es 100% renting; ofertas-renting.ayvens.es se mide a nivel de subdominio (el dominio raíz ayvens.es es la web corporativa global del grupo); driverevel.com/es/es/coches, coches.net/renting y yomovo.es/renting se miden a nivel de URL/sección específica porque sus dominios raíz cubren negocios más amplios (coches.net es un marketplace generalista; driverevel.com y yomovo.es incluyen otras líneas fuera de España o fuera del renting). El histórico de backlinks solo está disponible a nivel de dominio raíz en Semrush, por lo que el gráfico de evolución de enlaces se limita a los dos casos donde dominio raíz y negocio de renting coinciden (arval.es, bbvaautorenting.com); para los otros cuatro se ofrece solo la foto actual. Las posiciones de una misma keyword pueden variar en un puesto entre el snapshot de "SERP en vivo" (phrase_organic) y la base de datos propia de cada dominio, por tratarse de rastreos en fechas ligeramente distintas — normal y no un error.</div>
 </div>
 
 <div class="pd-section">
