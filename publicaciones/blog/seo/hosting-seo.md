@@ -4,6 +4,7 @@ description: No es un factor SEO directo pero sí puede afectar a nuestra estrat
 image: https://emirodgar.com/cdn/images/og/auditoria.png
 layout: emirodgar_post
 date: 19/05/2021
+date_modified: 26/10/2026
 author: Emirodgar
 folder: seo
 lang: es_ES
@@ -50,6 +51,19 @@ Este término se refiere al **tiempo que una página está accesible**. Errónea
 Un buen hosting debería garantizar un 99% de uptime. Migraciones, actualizaciones de servicios o caídas debido a otros factores harán que nuestra web no esté siempre accesible perjudicando nuestro rendmiento.
 
 Servicios como [Uptimerobot](https://uptimerobot.com/) nos ayudarán a monitorizar el uptime y downtime de nuestra página.
+
+### Si vas a tirar la web abajo a propósito: sirve un 503
+
+Hay paradas que son planificadas: una migración, un cambio de servidor o, como ha pasado esta semana, [parchear PHP por dos fallos críticos](https://www.searchenginejournal.com/google-reminds-sites-to-serve-503s-during-server-downtime/593873/). Google Search Central ha recordado qué hay que responder en ese tiempo: un **503 (Service Unavailable)**, que le dice al rastreador que es temporal y que conserve las URLs ya indexadas. Lo que no conviene es dejar que la web dé timeout, un 500 o un 404, y mucho menos una página de error que responda con un 200, porque Google acabaría indexando ese mensaje de error.
+
+Algunas cosas que conviene tener claras:
+
+- **El 503 tiene que salir de algo que siga funcionando mientras PHP está parado.** John Mueller sugiere servirlo fuera de PHP, con una regla en el CDN o apuntando el DNS a un servidor temporal. El ejemplo clásico de enviarlo con código PHP no sirve cuando PHP es precisamente lo que está caído.
+- **El `robots.txt` debe seguir respondiendo con normalidad.** Si devuelve un 503, Google interpreta que no puede rastrear nada.
+- **Puedes añadir una cabecera `Retry-After`**, en segundos o con fecha y hora UTC, para indicar cuándo volver a intentarlo.
+- **No lo alargues más de uno o dos días.** Según la documentación de Google, si ve el mismo error en una URL durante varios días puede acabar sacándola del índice. Y mientras dura, Google reduce el ritmo de rastreo en todo el dominio, también en las URLs que sí responden.
+
+Un 503 de diez o quince minutos de vez en cuando no es un problema. Una parada de días sí lo es, y para esos casos Google propone dejar una home indexable con un 200 como página provisional.
 
 Pero ninguna herramienta sustituye a revisar cada cierto tiempo nuestros datos en Search Console. Hay problemas (una caída del servidor, una migración, un bloqueo mal configurado) que pueden ocurrir sin nuestro conocimiento y que se traducen en una caída de clics e impresiones como la de la imagen. Cuanto antes la veamos, menos nos costará.
 

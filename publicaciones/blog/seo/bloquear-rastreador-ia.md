@@ -8,6 +8,7 @@ feed: 1
 folder: geo
 author: Emirodgar
 date: 06/11/2023
+date_modified: 26/10/2026
 permalink: bloquear-rastreador-ia
 
 ---
@@ -67,6 +68,18 @@ En este caso ya no estamos hablando de un chatbot sino de la búsqueda generativ
 Por desgracia esta respuesta se basa en el rastreo e indexación del robot principal de Google, por lo que no hay manera de evitar su acceso a no ser que no queramos aparecer en Google.
 
 Además de bloquear a los rastreadores de chatbots e inteligencias artificiales, existen [listados de robots spam](https://emirodgar.com/listado-robots-bloquear) que consumen nuestros recursos ni aportarnos ningún valor. Os recomiendo bloquearlos.
+
+## Qué dice Google que puedes (y no puedes) poner en un robots.txt
+
+Gary Illyes y Cherry Prommawin han dedicado un [vídeo de la serie Non-Canonical Cabinet](https://www.seroundtable.com/google-video-robots-txt-rules-42355.html) a qué cabe realmente en este fichero. Varias de sus advertencias afectan directamente a lo que has visto arriba:
+
+- **Sigue el estándar RFC 9309.** El parseador solo entiende cuatro reglas (`user-agent`, `allow`, `disallow` y `sitemap`) y descarta en silencio cualquier línea que no reconozca. Una regla que a ti te parece obvia puede no estar haciendo nada, así que valida la sintaxis y prueba las URLs concretas.
+- **El `user-agent` solo admite letras y guiones.** No hay emojis ni caracteres no ingleses en el token, y el nombre tiene que ser el del rastreador que quieres bloquear, no uno inventado.
+- **Codifica con porcentajes las rutas con caracteres internacionales o emojis.** Google los interpreta, pero otros rastreadores más antiguos pueden fallar y saltarse la línea entera.
+- **Bloquear el acceso no es lo mismo que prohibir el entrenamiento.** `robots.txt` es un protocolo de preferencias de acceso: dice qué puede rastrear un bot, no qué hace con lo que ya ha obtenido.
+- **No es un mecanismo de seguridad.** Solo lo respetan los rastreadores que quieren hacerlo. Si hay algo que no debe verse, protégelo de verdad.
+
+Y una cosa más sobre los comentarios con `#`: se ignoran, pero un fichero lleno de relleno malgasta ancho de banda.
 
 ## Seguimiento de medios digitales que han bloqueado a los chatbots existentes
 

@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 18-09-2026
+date_modified: 26/10/2026
 folder: geo
 permalink: proteccion-marca-ia
 
@@ -57,6 +58,18 @@ Como contención mientras se tramita una denuncia, recomienda algo muy simple y 
 - **[crt.sh](https://crt.sh/)**: monitoriza certificados TLS vía Certificate Transparency para detectar dominios parecidos al tuyo.
 - **[Lumen Database](https://lumendatabase.org/)**: para investigar denuncias de copyright que se hayan usado de forma fraudulenta contra ti.
 - Las alertas de seguridad de Search Console y de tu registrador de dominios, como sistema de aviso temprano.
+
+## Las búsquedas de marca ya tienen respuesta de IA antes de llegar a tu web
+
+Un dato reciente de [SE Visible (SE Ranking)](https://visible.seranking.com/blog/ai-overviews-branded-searches/), con la cautela de que es una foto de octubre de 2026: analizaron 1.000 búsquedas de marca en EE. UU. y las AI Overviews aparecieron en el **82,5 %** de ellas (en Alemania, el 40,4 %). Es decir, aunque alguien busque tu nombre, lo primero que lee puede ser una descripción redactada por Google.
+
+Lo más útil para una auditoría es de dónde sale esa descripción:
+
+- **Cita más que la home.** Cada AI Overview enlazaba de media 2,57 páginas de la propia marca, frente a 1,72 en el top 10 orgánico. La home pasa del 71,1 % de las URLs del orgánico al 36,8 % de las citas, y ganan peso las páginas de producto o servicio (22,9 %) y las de "quiénes somos" (11,7 %).
+- **Muchas citas no rankean en el top 10.** El 62,2 % de las URLs de marca citadas no estaba entre los diez primeros resultados de esa búsqueda, aunque el dominio sí solía estarlo (98,3 %). Google cita el mismo sitio, pero otra página.
+- **Buena parte de la fuente es tuya o la puedes influir.** El 40,5 % de las citas venían de activos que controla la marca (web, fichas de apps y Google Business Profile), y un 20,8 % de redes, vídeo y plataformas de reseñas. Casi el 39 % queda fuera de tu alcance.
+
+Si ya estás documentando tu marca real, como te contaba antes, esto añade dos cosas a la lista: revisa con el mismo cuidado las páginas de producto, de empresa, de precios y de ubicaciones, no solo la home, y registra las URLs que cita la IA, no solo las posiciones. El estudio no mide si la respuesta es correcta ni cuánto tráfico mueve, así que no sustituye revisar qué dice exactamente sobre ti.
 
 ## Por qué esto va a más: no es un problema de razonamiento, es de datos
 

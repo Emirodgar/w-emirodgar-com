@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 19/10/2026
+date_modified: 26/10/2026
 folder: geo
 permalink: google-ai-mode-seo
 
@@ -65,6 +65,12 @@ La consecuencia práctica, que explico en [cuando AI Mode lee el correo del usua
 Mike King (iPullRank) va un paso más allá en [Generative SERPs](https://ipullrank.com/generative-serps) (15 de octubre de 2026): plantea que la SERP se está volviendo generativa, con un modelo que compone la página entera (HTML, CSS y JavaScript) para cada consulta. Se apoya en un paper de Google sobre interfaces generativas, donde el resultado generado fue preferido frente al primer resultado orgánico en el 90 % de los prompts de LMArena y en el 73,5 % de los de búsqueda informativa. Son cifras de los propios autores, no de tráfico real, y el paper no habla de SERPs ni de AI Mode: la extrapolación a la búsqueda es una inferencia de King, que él mismo señala.
 
 Lo que sí tiene sentido retener: cambiaría la **presentación**, no la selección de fuentes, que seguiría dependiendo de la misma capa de recuperación. Así que lo que ya has leído arriba (indexación, fragmentos, pasajes claros) sigue siendo la base. Lo que se complica es medir: si cada usuario puede ver una página distinta, una captura no representa a nadie más. Por eso insiste en muestrear varias veces y tratar la visibilidad como una distribución, algo que desarrollo en [cómo medir tu visibilidad en la IA](https://emirodgar.com/medir-visibilidad-ia).
+
+## "One box": Pichai y la capa de agentes
+
+En una [entrevista reciente](https://www.searchenginejournal.com/google-ceo-sundar-pichai-views-search-absorbed-into-agentic-layer/593923/) con Alex Heath, Sundar Pichai describió hacia dónde quiere llevar Search. A la pregunta de si Search, AI Overviews y Gemini acabarán fusionándose, respondió que no lo ve como juntar productos, sino como una capa de agentes que los unifique: agentes que corren en la nube, tienen tu contexto y retoman la tarea donde la dejaste. Su idea para un futuro cercano es "one box", y añadió que las consultas más orientadas a tareas crecen de forma constante en el uso de Gemini y que irán llegando a más usuarios, ahora centrados en Ultra y Pro.
+
+Es una declaración de visión, no un calendario ni una especificación, y conviene leerla así. Pero apunta en la misma dirección que lo anterior: la respuesta deja de ser un texto que consultas y pasa a ser algo que se hace por ti. La pregunta que se hacía el propio autor de la noticia es la que importa: si buena parte de esas tareas las completa un agente, cuánto tráfico de personas queda para la web. Mi respuesta provisional es que no se puede medir hoy con precisión, y que por eso tiene sentido que tu web sea [utilizable por agentes](https://emirodgar.com/preparar-web-agentes-ia) y no solo legible.
 
 ## Controles que sí tienes
 
