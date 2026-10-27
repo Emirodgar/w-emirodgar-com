@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 30-09-2026
+date_modified: 27/10/2026
 folder: seo
 permalink: actualizar-fecha-modificacion-contenido
 
@@ -58,6 +59,22 @@ Esta solicitud no garantiza nada: le dice a Google que hay algo nuevo que rastre
 ## No olvides el sitemap
 
 Si tu sitemap incluye `lastmod`, mantenlo alineado con la fecha real de modificación. Google indica que solo usa ese valor cuando es consistentemente fiable, y un `lastmod` que cambia en todas las URLs en cada despliegue hace que lo ignore.
+
+## ¿Y para la IA? Lo que sabemos y lo que no
+
+Es tentador pensar que una fecha reciente hace que te citen más, y conviene frenarse. La [guía GEO 2027 de GDdash](https://gddash.com/geo-optimization-guide/) (John Shehata, 18 de octubre de 2026) reúne lo que hay y lo califica con prudencia:
+
+- **Hay un estudio de laboratorio.** Fang, Tao, Chen, Chang y Sakai probaron en [Do Large Language Models Favor Recent Content?](https://arxiv.org/abs/2509.11353v2) que los modelos que reordenan resultados son sensibles a las fechas de publicación en el entorno que montaron. Eso no demuestra que cambiar una fecha aumente las citas en un buscador de IA real, y la propia guía advierte de que solo se revisó el resumen y la bibliografía del artículo.
+- **Hay comentario de profesionales.** Metehan Yeşilyurt enlaza [hallazgos sobre la configuración de ChatGPT con esa investigación](https://metehan.ai/blog/i-found-it-in-the-code-science-proved-it-in-the-lab-the-recency-bias-thats-reshaping-ai-search/). La guía lo trata como interpretación sin verificar, no como confirmación de cómo funciona ChatGPT en producción.
+- **Hay casos que mezclan causas.** Kevin Indig recomienda contenido fresco y etiquetas de "última actualización", pero su ejemplo con un cliente incluía cambios reales de contenido, así que no aísla el efecto de la etiqueta.
+- **Hay una advertencia contra el truco fácil.** Peter J. Meyers (Moz), al analizar consultas de grounding, sugiere tratar la actualidad como una necesidad cuando el público la pide, en lugar de añadir años al texto de forma mecánica.
+
+Mi lectura: si tienes un motivo real para actualizar, hazlo y muestra la fecha. Si no lo tienes, cambiarla no es una táctica de GEO con respaldo. Aleyda Solis lo resume bien en sus criterios de marcas ganadoras: [actualiza los hechos de forma sustancial y data con exactitud](https://www.aleydasolis.com/en/ai-search/ai-search-winning-brands-characteristics/).
+
+Dos hábitos prácticos que salen de ahí:
+
+- **Separa la fecha de publicación de la de revisión** y no las mezcles, ni en la página ni en los datos estructurados.
+- **Anota qué cambió.** Un pequeño historial de cambios visible, o al menos mantenido internamente, sirve al lector que necesita saber si lo que leyó sigue valiendo, y a ti para comprobar que el 20 % se cumple de verdad.
 
 ## Conclusiones
 

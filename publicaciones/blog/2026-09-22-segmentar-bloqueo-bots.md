@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 22-09-2026
+date_modified: 27/10/2026
 folder: geo
 permalink: segmentar-bloqueo-bots
 
@@ -27,6 +28,8 @@ Recolectan datos para entrenar modelos o alimentar búsquedas generativas. Bloqu
 - cohere-ai / diffbot / ImagesiftBot
 
 Si no tenéis una estrategia activa de GEO que necesite que os citen en respuestas de IA, podéis mantener esta categoría bloqueada sin ningún riesgo para el SEO tradicional.
+
+Con un matiz que antes no hacía: esta categoría mezcla propósitos distintos. `GPTBot` o `ClaudeBot` sirven para un posible entrenamiento, pero `OAI-SearchBot` y `Claude-SearchBot` alimentan la búsqueda de sus productos, y `ChatGPT-User` o `Claude-User` actúan a petición de una persona. Según la [guía GEO 2027 de GDdash](https://gddash.com/geo-optimization-guide/), conviene decidir cada uno por separado y comprobar con logs que los que quieres permitir llegan de verdad. Si los bloqueas todos a la vez, dejas de ser descubrible en esos buscadores. La tabla con cada bot está en [cómo bloquear el rastreador de las IA](https://emirodgar.com/bloquear-rastreador-ia).
 
 Ojo, que ClaudeBot es el rastreador que entrena el modelo offline, distinto de WebFetch, la herramienta que Claude usa en tiempo real cuando alguien le pide que lea una URL durante una conversación. Sobre cómo ha cambiado ese segundo mecanismo, tienes más detalle en [Claude ya no lee tu web directamente, primero la resume un modelo pequeño](https://emirodgar.com/claude-lee-tu-web-modelo-pequeno).
 

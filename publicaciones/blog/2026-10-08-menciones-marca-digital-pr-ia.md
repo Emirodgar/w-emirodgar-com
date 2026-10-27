@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 19/10/2026
+date_modified: 27/10/2026
 folder: geo
 permalink: menciones-marca-digital-pr-ia
 
@@ -122,6 +122,7 @@ Si la respuesta es no a las tres, es contenido, pero no digital PR.
 - **Forzar textos ancla de marca.** Si llegan, que lleguen de forma natural.
 - **Editar tu propia ficha de Wikipedia.** Como explico en el post de las fuentes, lo sensato es hablarlo con comunicación y que lo lleve quien conozca las reglas.
 - **Perseguir una cifra de menciones.** Importa dónde, quién y en qué contexto.
+- **Contar como apoyo independiente lo que es el mismo contenido repetido.** Aleyda Solis lo recoge en su [marco de optimización de citas de terceros](https://www.aleydasolis.com/en/ai-search/third-party-citation-optimization-ai-search/): la sindicación no es corroboración independiente. Si diez webs republican la misma nota de prensa, tienes una fuente y diez copias. Rastrea cada mención hasta su origen y separa publicaciones de fuentes distintas antes de dar nada por consolidado. Para las colocaciones de pago, recuerda también que Google pide [calificar los enlaces patrocinados](https://developers.google.com/search/docs/essentials/spam-policies), según la guía GEO 2027 de GDdash.
 
 ## Cuándo una mención se nota que es artificial
 

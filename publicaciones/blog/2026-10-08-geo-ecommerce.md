@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 23/10/2026
+date_modified: 27/10/2026
 folder: geo
 permalink: geo-ecommerce
 
@@ -76,7 +76,14 @@ Lo que no sé: el anuncio solo habla de EE. UU., sin fechas para otros países, 
 
 **5. Acceso técnico.** Contenido en el HTML inicial y rastreadores no bloqueados por error. Está en [cómo preparar tu web para agentes de IA](https://emirodgar.com/preparar-web-agentes-ia), incluida la parte de que los agentes puedan completar la compra en tu web.
 
-**6. Plataforma.** Si usas Shopify, revisa qué opciones de catálogo y de feeds ofrece. Mi [guía SEO para Shopify](https://emirodgar.com/shopify-seo) cubre el resto de la parte técnica.
+**6. Lo de pago, aparte de lo orgánico.** La [guía GEO 2027 de GDdash](https://gddash.com/geo-optimization-guide/) insiste en separar la participación en feeds de comercio y en anuncios de la visibilidad orgánica de tu web, porque sus controles y sus métricas son distintos. Dos consecuencias:
+
+- **Los feeds solo valen donde puedes participar.** Los [feeds de producto de OpenAI](https://developers.openai.com/commerce/specs), por ejemplo, dependen de las reglas de cada programa, así que primero confirma si tu tienda es elegible y luego concilia el feed con precios, stock y la ficha canónica.
+- **Si anuncias en ChatGPT, tienes otro rastreador.** OpenAI recomienda [permitir `OAI-AdsBot`](https://help.openai.com/en/articles/20001243-advertiser-guidance-for-allowing-openai-web-crawlers) para que pueda revisar las páginas de destino públicas de los anuncios. Es independiente de `OAI-SearchBot`, y que uno funcione no demuestra que el otro lo haga.
+
+Mide también cada cosa por separado: los resultados de un feed o de una campaña no demuestran nada sobre las citas orgánicas.
+
+**7. Plataforma.** Si usas Shopify, revisa qué opciones de catálogo y de feeds ofrece. Mi [guía SEO para Shopify](https://emirodgar.com/shopify-seo) cubre el resto de la parte técnica.
 
 ## Cómo saber si funciona
 

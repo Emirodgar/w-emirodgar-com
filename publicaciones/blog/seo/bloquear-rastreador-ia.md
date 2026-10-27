@@ -8,7 +8,7 @@ feed: 1
 folder: geo
 author: Emirodgar
 date: 06/11/2023
-date_modified: 26/10/2026
+date_modified: 27/10/2026
 permalink: bloquear-rastreador-ia
 
 ---
@@ -67,6 +67,8 @@ Además de los dos antes expuestos, podemos seguir las mismas instrucciones para
 En este caso ya no estamos hablando de un chatbot sino de la búsqueda generativa de Google, una respuesta de inteligencia artificial que se incluye directamente en la página de resultados.
 Por desgracia esta respuesta se basa en el rastreo e indexación del robot principal de Google, por lo que no hay manera de evitar su acceso a no ser que no queramos aparecer en Google.
 
+> **Actualización (octubre de 2026):** la [guía GEO 2027 de GDdash](https://gddash.com/geo-optimization-guide/) remite a un [control de inclusión de IA generativa en Search Console](https://support.google.com/webmasters/answer/16908024), que documenta Google y que puede heredarse entre propiedades. No lo he probado, así que revisa su documentación antes de tocar nada. Es una decisión distinta de la indexación y de `Google-Extended`, y conviene tomarla con quien decida la política de contenidos, no como un ajuste técnico más.
+
 Además de bloquear a los rastreadores de chatbots e inteligencias artificiales, existen [listados de robots spam](https://emirodgar.com/listado-robots-bloquear) que consumen nuestros recursos ni aportarnos ningún valor. Os recomiendo bloquearlos.
 
 ## Qué dice Google que puedes (y no puedes) poner en un robots.txt
@@ -80,6 +82,27 @@ Gary Illyes y Cherry Prommawin han dedicado un [vídeo de la serie Non-Canonical
 - **No es un mecanismo de seguridad.** Solo lo respetan los rastreadores que quieren hacerlo. Si hay algo que no debe verse, protégelo de verdad.
 
 Y una cosa más sobre los comentarios con `#`: se ignoran, pero un fichero lleno de relleno malgasta ancho de banda.
+
+## Entrenar, buscar y obedecer al usuario no es lo mismo
+
+Los operadores ya distinguen varios rastreadores según para qué sirven, y bloquear uno no implica bloquear el resto. Según la documentación que recoge la [guía GEO 2027 de GDdash](https://gddash.com/geo-optimization-guide/):
+
+| Operador | Búsqueda | Posible entrenamiento | A petición del usuario |
+|---|---|---|---|
+| OpenAI | `OAI-SearchBot` | `GPTBot` | `ChatGPT-User` |
+| Anthropic | `Claude-SearchBot` | `ClaudeBot` | `Claude-User` |
+| Perplexity | `PerplexityBot` | | `Perplexity-User` |
+
+Lo que cambia en la práctica:
+
+- **Bloquear `GPTBot` no te saca de ChatGPT Search.** Si quieres que te descubran allí, el que importa es `OAI-SearchBot`. Aplica lo mismo a `ClaudeBot` frente a `Claude-SearchBot`. Y a la inversa: dejar pasar al bot de búsqueda no obliga a permitir el entrenamiento.
+- **`Google-Extended` no es "el rastreador de AI Overviews".** Es una decisión sobre el uso del contenido por parte de la IA de Google que se toma aparte de la de Search. Un artículo de Backlinko que recomienda permitir `GPTBot`, `Google-Extended`, `ClaudeBot` y `PerplexityBot` a la vez lo describe así y mezcla entrenamiento, búsqueda y petición del usuario. Yo no copiaría esa lista en bloque.
+- **Las visitas "a petición del usuario" funcionan distinto.** Cada operador documenta cómo trata `robots.txt` en ese caso, así que míralo en su documentación en lugar de suponerlo.
+- **No te fíes solo del `user-agent`.** Si bloqueas o permites por cortafuegos, combina el rango de IP oficial del operador con el `user-agent`, y refresca los rangos. Perplexity, por ejemplo, [publica sus rangos](https://docs.perplexity.ai/docs/resources/perplexity-crawlers) para eso. Para diagnosticar fallos reales, usa logs y códigos de estado antes de abrir el acceso a ciegas.
+- **Aplica la política en todos los dominios y subdominios** donde viva el contenido. Una regla correcta en el dominio principal no arregla un bloqueo en el host de imágenes o de documentación.
+- **Si el problema es carga de servidor**, Anthropic documenta `Crawl-delay` en lugar de un bloqueo total, y solo lo aplicaría si de verdad tienes un problema de carga.
+
+Qué bloqueas y qué no depende de tu objetivo, y lo mejor es dejarlo escrito: bot, propósito, host y quién lo decide. Cómo repartirlo con más detalle lo cuento en [segmentar el bloqueo de bots](https://emirodgar.com/segmentar-bloqueo-bots).
 
 ## Seguimiento de medios digitales que han bloqueado a los chatbots existentes
 
