@@ -7,7 +7,7 @@ sitemap: 1
 feed: 1
 folder: seo
 date: 27/01/2022
-date_modified: 06/03/2025
+date_modified: 28/10/2026
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: cdn-seo
@@ -58,6 +58,24 @@ Un CDN aporta estabilidad, pero también es un punto más que puede romperse sin
 Durante meses el sitio se movía en una banda estable, con unos 8.000 clics diarios y picos cercanos a los 12.000. A finales de septiembre la curva se hunde y los clics caen por debajo de los 2.000 diarios en cuestión de pocos días. Las impresiones se desploman a la vez, lo que indica que Google dejó de mostrar el sitio y no que los usuarios dejaran de hacer clic.
 
 Por suerte me di cuenta y pude minimizar el daño, aunque por desgracia fue unos días después de que empezara el problema. Esos días de diferencia son tráfico perdido que ya no se recupera. La curva vuelve a subir, pero a la fecha de la captura todavía no ha recuperado el nivel previo.
+
+### Qué se ve en los clics, las impresiones y la posición media
+
+Si ampliamos el periodo y añadimos la **posición media** (la línea naranja), el cuadro es más claro. Entre finales de julio y finales de septiembre, clics e impresiones se mueven en paralelo y con el patrón semanal habitual, y la posición se mantiene estable. A partir del 30 de septiembre las dos curvas se hunden a la vez, y desde entonces se repiten las caídas bruscas en lugar de recuperar el nivel previo.
+
+![Clics, impresiones y posición media en Search Console durante un problema de conectividad con el CDN](/cdn/images/posts/search-console-clics-impresiones-posicion-problema-cdn.png){:class="img-responsive"}
+
+Hay un detalle que conviene leer con cuidado: la posición media **empeora al final del gráfico** (la línea naranja sube), pero no porque el sitio posicione peor, sino porque con tan pocas impresiones la media se calcula sobre una muestra mucho más pequeña. Es un efecto del propio desplome. La señal real es la caída conjunta de clics e impresiones con una posición que antes estaba estable.
+
+### Qué ve Googlebot: el pico de errores 4XX
+
+El otro lugar donde mirar es el informe de **Estadísticas de rastreo** de Search Console. En el mismo periodo, las solicitudes de rastreo con "Otro error de cliente (4XX)" pasan de ser prácticamente inexistentes a rondar picos de 2.400 al día.
+
+![Solicitudes de rastreo de Googlebot con error de cliente 4XX en las estadísticas de rastreo de Search Console](/cdn/images/posts/search-console-estadisticas-rastreo-errores-4xx-googlebot.png){:class="img-responsive"}
+
+En total son unas 21.100 solicitudes de rastreo con error en el periodo, con picos que coinciden con la fecha en la que empiezan a caer clics e impresiones, y con tramos intermedios en los que vuelven a cero. Ese patrón intermitente es típico de un problema de conectividad entre el CDN y el servidor de origen. A Googlebot le llegan respuestas de error sobre URLs que antes funcionaban, y mientras tanto el usuario puede no notar nada porque la caché sirve parte del contenido.
+
+Por eso conviene mirar este informe junto al de rendimiento: si los errores del rastreo suben el mismo día que cae el tráfico, el origen del problema es técnico y hay que empezar por el CDN.
 
 La lección es que **un CDN necesita monitorización**. Estas son las medidas que recomiendo:
 
