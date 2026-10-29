@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 14/10/2026
+date_modified: 29/10/2026
 folder: geo
 permalink: zero-click-caida-ctr-ia
 
@@ -48,6 +48,12 @@ Pero que el promedio baje no quiere decir que todas las webs bajen. Este es el r
 ![Clics diarios de la búsqueda web en Search Console entre julio y octubre de 2026, con 9.008.645 clics en total y una tendencia al alza](https://emirodgar.com/cdn/images/posts/search-console-clics-crecimiento-auge-ia.png){:class="img-responsive"}
 
 Se pasa de unos 85.000 clics diarios en julio a superar los 120.000 en octubre, con picos cercanos a 150.000, hasta sumar 9.008.645 clics en el periodo. Es un solo caso y no demuestra que a ti no te vaya a pasar, pero sí que crecer en este contexto es posible. Lo que cambia es que ya no basta con la tendencia general: hay que mirar qué consultas y qué secciones crecen y por qué.
+
+El caso contrario también existe, y se ve sobre todo en portales **principalmente informacionales**, cuyo contenido responde preguntas que una respuesta de IA resuelve sin necesidad de visitar la web. Esta es la evolución del tráfico orgánico de uno de ellos entre finales de julio y finales de octubre de 2026:
+
+![Caída progresiva del tráfico orgánico de un portal informacional entre julio y octubre de 2026, de unos 40.000 a unos 19.000 tras un pico de 108.000 a mediados de agosto](https://emirodgar.com/cdn/images/posts/search-console-caida-progresiva-trafico-portal-informacional-ia.png){:class="img-responsive"}
+
+Tras un pico puntual cercano a los 108.000 a mediados de agosto, la curva no vuelve al punto de partida: se instala en una **pérdida lenta y constante** que la lleva de unos 40.000 a unos 19.000, más de la mitad. No hay un día de caída brusca que señalar, que es lo que suele delatar un problema técnico o una penalización. Es una erosión semana a semana, la que encaja con la canibalización de las respuestas de IA sobre este tipo de consultas. Sigue siendo una hipótesis que hay que contrastar con los pasos de abajo, pero el patrón es el que describen los estudios.
 
 Hay un dato más general. Según SparkToro y Similarweb, citados por Kevin Indig en Growth Memo (octubre de 2026), las búsquedas sin clic pasaron del 60,45 % de las búsquedas en Google en EE. UU. en 2024 al 68,01 % a principios de 2026. SparkToro estima además que solo alrededor de un tercio de las búsquedas de 2026 genera algún clic. Es de nuevo Estados Unidos, así que no lo traslades sin más a España.
 
