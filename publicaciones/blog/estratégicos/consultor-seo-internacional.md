@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 11/09/2026
-date_modified: 13/10/2026
+date_modified: 29/10/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -97,6 +97,14 @@ Posicionar una web en varios países no es traducir el contenido y esperar resul
 3. **Implementación técnica:** hreflang, sitemaps segmentados y estructura de URLs coherente para cada mercado.
 4. **Autoridad y enlaces locales:** identificación de medios y directorios relevantes en cada país objetivo.
 5. **Medición diferenciada:** seguimiento de posiciones y tráfico separado por mercado, no como una cifra agregada que puede ocultar el rendimiento real en un país concreto. Search Console ya permite [seleccionar varios países a la vez en el filtro de rendimiento](https://emirodgar.com/datos-gsc-ga4), lo que facilita ver también el conjunto de un bloque de mercados (por ejemplo, LatAm) sin perder el detalle de cada país.
+
+## Experiencia en proyectos multiidioma: spain.info
+
+Durante varios años he trabajado el SEO de **spain.info**, el portal oficial de turismo de España, junto a un equipo magnífico. Es un buen ejemplo de lo que significa llevar un proyecto a muchos mercados a la vez: una misma marca con versiones en alemán, inglés, español, francés, árabe y otros idiomas, y propiedades de Search Console separadas para cada una.
+
+![Propiedades de Google Search Console de spain.info: propiedad de dominio y una propiedad por cada subcarpeta de idioma y mercado](https://emirodgar.com/cdn/images/posts/gsc-propiedades-spain-info.png){:class="img-responsive"}
+
+Esa estructura permite medir el rendimiento de cada mercado por separado, como indico en la metodología, y un cliente así, con un equipo implicado, es donde la consultoría da los mejores resultados.
 
 ## Por qué la homologación ICEX Next importa
 
