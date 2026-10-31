@@ -9,7 +9,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 25-09-2025
-date_modified: 21-10-2026
+date_modified: 31-10-2026
 folder: ia
 permalink: notebook-lm-google-ia-investigacion
 
@@ -78,6 +78,18 @@ Si tu notebook pasa de 5 fuentes, la herramienta las etiqueta automáticamente p
 Desde el 19 de agosto de 2026, los notebooks se están integrando dentro del Modo IA de la Búsqueda de Google, sincronizándose con la app de Gemini. La línea entre "buscar" e "investigar con tus propias fuentes" cada vez es más fina.
 
 **Un matiz importante**: estas novedades han empezado a desplegarse primero para usuarios de Google AI Ultra y clientes de Workspace con acceso ampliado a IA, no para todo el mundo desde el primer día. Google ya ha confirmado que las llevará también a la versión Pro, pero si no te aparece todavía, no es que hagas algo mal.
+
+### Cuadernos de estudio en la app de Gemini (junio 2026)
+
+Antes de las novedades de septiembre, Google ya había movido ficha por otro lado. A finales de junio de 2026 [presentó los study notebooks (cuadernos de estudio) en la app de Gemini](https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/), un espacio pensado para estudiar con un objetivo concreto, ya sea un curso, un examen o una prueba estandarizada. No es lo mismo que esta herramienta, pero comparten fuentes, así que conviene saber en qué se diferencian:
+
+* **Parte de un test de diagnóstico**: subes tu temario, apuntes o lecturas y Gemini genera un cuestionario inicial para saber qué dominas y qué no.
+* **Lecciones cortas a medida**: a partir de ese punto de partida crea lecciones breves para tus lagunas, con cuestionarios basados en el material que subiste. Puedes parar y preguntar en cualquier momento.
+* **Panel de progreso**: Gemini descompone tu objetivo en más de 100 objetivos de aprendizaje concretos, los agrupa por temas y los etiqueta como "puntos fuertes", "áreas de mejora" o "sin empezar", y se actualiza solo con cada cuestionario.
+* **Preparación de exámenes**: arranca con el SAT, con preguntas de The Princeton Review, y Google anunció que añadiría JEE, NEET, ENEM, ACT y GRE durante el verano.
+* **Conexión con Notebook LM**: las fuentes se comparten entre la app de Gemini y Notebook LM, de modo que puedes reutilizar tus materiales allí para generar flashcards o Video Overviews.
+
+Según Google, el despliegue es global y en todos los idiomas. Lo que no sé es si las pruebas de preparación de exámenes llegarán a los que se preparan aquí, porque los anunciados son de EE. UU., India, Brasil y similares.
 
 ### Nuevas herramientas de estudio (septiembre 2026)
 
