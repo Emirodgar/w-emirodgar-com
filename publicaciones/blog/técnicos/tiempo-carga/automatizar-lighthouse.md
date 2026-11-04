@@ -6,6 +6,7 @@ author: Emirodgar
 sitemap: 1
 feed: 1
 date: 27/01/2022
+date_modified: 04/11/2026
 folder: programacion
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -17,7 +18,7 @@ Lighthouse es una  [herramienta gratuita de Google](https://developers.google.co
 
 > Actualmente podemos utilizar Lighthouse a través de [PageSpeed](https://developers.google.com/speed/pagespeed/insights/?hl=es), [Web.dev](https://web.dev) o como extensión del navegador pero siempre nos limita a analizar URLs de forma individual.
 
-En este artículo os enseñaré cómo podemos **automatizar** el proceso de análisis con Lightouse **para múltiples URLs**. Los pasos son los siguientes:
+En este artículo os enseñaré cómo podemos **automatizar** el proceso de análisis con Lighthouse **para múltiples URLs**. Los pasos son los siguientes:
 
  1. [Instalamos Lighthouse en nuestro ordenador](#instalacion)
  2. [Ejecutamos múltiples análisis](#analisis)
@@ -33,9 +34,23 @@ Entre las mejoras técnicas que más impactan en tu puntuación de Lighthouse es
 
 > Lighthouse ya no solo mide rendimiento: la versión 13.5 añade la auditoría **Agentic Resource Discovery**, que comprueba si tu sitio publica un catálogo de recursos para agentes de IA. Te lo explico en [SEO en la era de la IA](https://emirodgar.com/seo-inteligencia-artificial).
 
+## Lo nuevo en los informes de Lighthouse: navegación agéntica
+
+Además de las cuatro categorías de siempre (rendimiento, accesibilidad, prácticas recomendadas y SEO), los informes de [PageSpeed Insights](https://pagespeed.web.dev/) incluyen ahora una quinta métrica: **Navegación agéntica**. Mide hasta qué punto tu web está preparada para que los agentes de IA la entiendan y naveguen por ella.
+
+Así se ve el informe de esta misma web, analizada el 4 de noviembre de 2026 en móvil:
+
+![Informe de PageSpeed Insights de emirodgar.com con 90 en rendimiento, 94 en accesibilidad, 96 en prácticas recomendadas, 100 en SEO y 1/2 en navegación agéntica](/cdn/images/posts/lighthouse-pagespeed-puntuaciones-emirodgar.png){:class="img-responsive"}
+
+A diferencia del resto de categorías, la navegación agéntica no se puntúa de 0 a 100 sino con una fracción de auditorías superadas (en mi caso, 1/2). Es un buen motivo para analizar tus URLs de forma periódica: los criterios de Lighthouse cambian y conviene detectar cuanto antes qué páginas se quedan atrás.
+
+Si desglosamos el rendimiento, obtenemos un 90 sobre 100. La puntuación se calcula a partir de métricas como FCP, LCP, TBT, CLS y Speed Index, y es aquí donde se ve qué métrica penaliza más. En mi caso el CLS es el que no llega al verde.
+
+![Puntuación de rendimiento 90 en móvil con el detalle de las métricas FCP, LCP, TBT, CLS y SI](/cdn/images/posts/lighthouse-pagespeed-rendimiento-movil-emirodgar.png){:class="img-responsive"}
+
 ## 1- <a name="instalacion"></a> Instalamos Lighthouse en nuestro ordenador
 
-El primer paso será instalar en nuestro ordenador Nodej.js, npm y Lighthouse. Para los dos primeros,  [seguiremos estas instrucciones](https://www.npmjs.com/get-npm).
+El primer paso será instalar en nuestro ordenador Node.js, npm y Lighthouse. Para los dos primeros,  [seguiremos estas instrucciones](https://www.npmjs.com/get-npm).
 
 Aunque en la guía oficial hacen referencia a  **lighthouse**  yo os recomiendo hacer uso de  **lighthouse-batch**  para poder analizar múltiples URLs a la vez.
 
@@ -59,6 +74,8 @@ lighthouse-batch -s [url1],[url2],[urlN] -g --out C:/[ruta-donde-exportar]
 Lo que yo he hecho ha sido sacar todas las URLs del  [sitemap XML](https://emirodgar.com/sitemap.xml), después he [preparado el listado separado por comas](https://convert.town/column-to-comma-separated-list)  y por último he creado un [fichero .bat](https://norfipc.com/utiles/tutorialbatch1.html) para ejecutar el comando ```lighthouse-batch```.
 
 > La salida por defecto de los informes es  **JSON**  pero se puede modificar
+
+> Si prefieres no instalar nada en local, también puedes automatizar el análisis con la [API de PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/get-started), que devuelve el mismo informe de Lighthouse en JSON para cada URL que le pases (necesitarás una clave de API gratuita).
 
 El último paso ha sido dar de alta una [tarea en Windows](https://answers.microsoft.com/es-es/windows/forum/all/aprende-a-usar-el-programador-de-tareas-de-windows/015b8362-95be-4460-ac51-a0917e4a2d4b) para que se ejecute el fichero .bat todos los días a la misma hora. De esta forma todas las URLs serán analizadas diariamente.
 
@@ -118,9 +135,11 @@ Si en nuestra hoja de cálculo hemos calculado nuevas métricas, podemos conecta
 Para que esto funcione tendremos que [publicar nuestra hoja](https://support.google.com/docs/answer/183965?co=GENIE.Platform%3DDesktop&hl=es) y compartirla para todo el mundo. Una vez lista podrá ser accedida de la siguiente forma:
 
 ```
-https://spreadsheets.google.com/feeds/list/[ID] /1/public/values?alt=json
+https://docs.google.com/spreadsheets/d/[ID]/gviz/tq?tqx=out:json
 
 ```
+
+> El antiguo formato `spreadsheets.google.com/feeds/list/[ID]/1/public/values?alt=json` está obsoleto, así que utiliza el endpoint anterior.
 
 El ID será el que aparezca en nuestra URL y el contenido, en nuestro caso, será exportado de nuevo en JSON.
 
