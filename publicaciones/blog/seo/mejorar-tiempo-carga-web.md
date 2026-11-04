@@ -4,6 +4,7 @@ description: El tiempo de carga es un factor clave para las estrategias de posic
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 layout: emirodgar_post
 date: 19/05/2021
+date_modified: 04/11/2026
 author: Emirodgar
 lang: es_ES
 sitemap: 1
@@ -65,7 +66,19 @@ Adicional a todo esto, existe un punto avanzado que también podemos trabajar. S
 
 ## Herramientas para validar el tiempo de carga
 
-Podemos hacer uso de aplicaciones como [Web.dev](https://web.dev) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos otimizar en nuestra web.
+Podemos hacer uso de aplicaciones como [PageSpeed Insights](https://pagespeed.web.dev/) (basada en [Google Lighthouse](https://emirodgar.com/automatizar-analisis-lighthouse)) o [GTMetrix](https://gtmetrix.com/) para conocer qué puntos debemos optimizar en nuestra web.
+
+Este es el informe de PageSpeed Insights de esta misma web, analizada en móvil el 4 de noviembre de 2026. La puntuación de rendimiento es de 90 sobre 100 y el informe incluye también accesibilidad, prácticas recomendadas, SEO y la nueva categoría de navegación agéntica:
+
+![Informe de PageSpeed Insights de emirodgar.com en móvil con 90 de rendimiento, 94 de accesibilidad, 96 de prácticas recomendadas, 100 de SEO y 1/2 en navegación agéntica](/cdn/images/posts/pagespeed-rendimiento-90-movil-emirodgar.png){:class="img-responsive"}
+
+La puntuación de rendimiento sale de varias métricas: FCP (primer contenido visible), LCP (el elemento más grande), TBT (tiempo de bloqueo), CLS (estabilidad visual) y SI (Speed Index). Fíjate en el aro: el verde indica las métricas que van bien y el naranja, en este caso el CLS, la que todavía se puede mejorar.
+
+PageSpeed también muestra cómo se va pintando la página mientras carga. Es muy útil para ver qué ve realmente el usuario en cada momento y detectar saltos de contenido:
+
+![Capturas de la carga progresiva de emirodgar.com en PageSpeed Insights con filtro de auditorías por FCP, LCP, TBT y CLS](/cdn/images/posts/pagespeed-capturas-carga-progresiva-emirodgar.png){:class="img-responsive"}
+
+> Si quieres analizar todas las URLs de tu web de una vez, te explico cómo [automatizar el análisis de Lighthouse para múltiples páginas](https://emirodgar.com/automatizar-analisis-lighthouse).
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzNzg5MTUyMTgsMTc0OTA4MzU0NCwtMT
