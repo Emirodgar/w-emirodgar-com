@@ -4,6 +4,7 @@ description:
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
 date: 15/05/2022
+date_modified: 04/11/2026
 author: Emirodgar
 lang: es_ES
 sitemap: 1
@@ -34,6 +35,19 @@ Para saber si estamos en este caso podemos hacer uso de [Google Search Console](
 ## Cómo afecta al SEO bloquear CSS
 
 El CSS es utilizado para la parte visual de la página web.  Esto implica que no afectará de ninguna forma a la estrategia SEO puesto que los robots de búsqueda únicamente se fijan en el código fuente de la misma y no en su parte visual. 
+
+## Un caso en el que sí puedes bloquear un recurso que ve el usuario
+
+La regla general es dejar que Googlebot descargue todo lo que ve una persona. Hay excepciones, y John Mueller [acaba de confirmar una](https://www.searchenginejournal.com/google-says-its-okay-to-block-some-javascript-resources-with-robots-txt/595736/) en Reddit: una web con un aviso de verificación de edad, obligatorio por ley, que se carga desde otro dominio mediante una API.
+
+Según Mueller, si ese dominio externo bloquea el rastreo en su `robots.txt`, Googlebot no descargará el contenido y no lo usará al renderizar. Es lo que ocurre con muchos servicios de publicidad. La alternativa, cuando no controlas el `robots.txt` del otro dominio, es bloquear en el tuyo el fichero JavaScript concreto que carga el aviso. Eso sí, solo si ese fichero hace una única cosa: si mezcla varias funciones, no lo bloquearía.
+
+Dos condiciones para hacerlo bien:
+
+- **El resto de la página tiene que seguir cargando con normalidad** aunque Googlebot no pueda descargar ese recurso. En un aviso de edad suele ser así, pero compruébalo con la inspección de URL de Search Console.
+- **Bloquea solo ese recurso**, no carpetas enteras de scripts. Un bloqueo amplio sigue siendo el error de siempre, y las webs que bloqueaban recursos críticos llegaron a perder posiciones.
+
+Lo que sale de aquí es matizar la regla, no tirarla: se puede ocultar a Googlebot un elemento auxiliar, y nunca el contenido que quieres posicionar.
 
 ## ¿Qué bloqueamos sin afectar a la indexación?
 

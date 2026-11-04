@@ -78,6 +78,18 @@ PageSpeed también muestra cómo se va pintando la página mientras carga. Es mu
 
 ![Capturas de la carga progresiva de emirodgar.com en PageSpeed Insights con filtro de auditorías por FCP, LCP, TBT y CLS](/cdn/images/posts/pagespeed-capturas-carga-progresiva-emirodgar.png){:class="img-responsive"}
 
+### Ojo con comparar puntuaciones de antes y después
+
+Desde finales de octubre de 2026, PageSpeed Insights usa [Lighthouse 13.6.0](https://www.searchenginejournal.com/pagespeed-insights-scores-lighthouse-update/595698/), que cambia cómo simula la carga. Según Barry Pollard, de Chrome, el FCP y el LCP simulados son ahora más precisos y, en general, dan puntuaciones más altas, sobre todo en webs con mucho JavaScript.
+
+Esto significa que una página puede subir de nota sin que hayas tocado nada. Antes de presumir de una mejora:
+
+- **Comprueba que los dos informes usan la misma versión de Lighthouse.** PageSpeed Insights la indica junto al dispositivo emulado.
+- **Mira los datos de campo (CrUX)**, que son visitas reales de los últimos 28 días y no dependen de la simulación.
+- **Si tienes gráficas de la nota de laboratorio**, espera un salto en la fecha del cambio.
+
+El 90 de la captura anterior ya está medido con la versión nueva, así que no lo compares directamente con informes antiguos.
+
 > Si quieres analizar todas las URLs de tu web de una vez, te explico cómo [automatizar el análisis de Lighthouse para múltiples páginas](https://emirodgar.com/automatizar-analisis-lighthouse).
 
 <!--stackedit_data:

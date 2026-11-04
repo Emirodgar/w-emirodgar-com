@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 30-09-2025
-date_modified: 03-11-2026
+date_modified: 04-11-2026
 folder: geo
 permalink: seo-tecnico-en-la-era-de-la-inteligencia-artificial
 
@@ -63,6 +63,17 @@ La [encuesta de SEOFOMO de 2026](https://hub.seofomo.co/surveys/seofomo-technica
 - **El cuello de botella es desarrollo.** El 59 % señala la falta de capacidad de desarrollo como barrera, seguido de prioridades de negocio en competencia (47 %) y limitaciones de plataforma (41 %).
 
 Esto encaja con lo que veo: las tres cosas que he recomendado arriba (HTML visible, velocidad y estructura clara) siguen siendo el trabajo de fondo, y lo difícil casi nunca es saber qué hay que tocar, sino conseguir que se haga y poder demostrar su efecto. Sobre cómo priorizar con criterio de negocio, lo cuento en [cómo convertir una auditoría técnica en un informe de progreso](https://emirodgar.com/informe-progreso-auditoria-seo).
+
+## ¿Y qué dice Google de las tácticas de moda para IA?
+
+En una [entrevista con David Iwanow](https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/), John Mueller dejó dos ideas que encajan con todo lo anterior:
+
+- **Los atajos tienen fecha de caducidad.** Con los listados tipo "las mejores empresas de X" que se publican para que los chatbots te pongan primero, el patrón se repite: algo funciona, todos lo hacen, la mitad lo hace mal y los sistemas acaban tratándolo como señal de spam. Mueller no dice que un listado sea spam, pero sí que tiene que aportar valor y que una estrategia basada solo en eso se queda sin nada cuando se apague. Su prioridad es construir una base estable.
+- **El rastreo para IA es otro sabor de SEO técnico.** Mueller reconoce que los sistemas de IA rastrean con otras intenciones (entrenar el modelo o buscar el contenido más fresco), pero lo trata como una variante del trabajo técnico de siempre, no como una disciplina aparte.
+
+También recomienda a las empresas vigilar lo que hacen sus proveedores de SEO y no fiarse solo de su palabra. Es una advertencia que me parece sensata ahora que hay quien vende "SEO para IA" con técnicas de hace veinte años, como el cloaking (enseñar una cosa a los rastreadores de IA y otra a los usuarios).
+
+Mi lectura: es lo que defiendo en este post. Antes de gastar en tácticas nuevas, asegúrate de que tu contenido se ve en el HTML, carga rápido y se entiende desde arriba. Esto es una opinión de Mueller en una entrevista, no una política oficial de Google.
 
 ## ¿Qué significa todo esto para tu estrategia?
 

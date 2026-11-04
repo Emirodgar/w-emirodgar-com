@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 03/11/2026
+date_modified: 04/11/2026
 folder: geo
 permalink: menciones-marca-digital-pr-ia
 
@@ -89,6 +89,18 @@ El comportamiento cambia según el motor. En Perplexity, los listados autopromoc
 Mi lectura: que la IA cite estos listados no significa que sean buena idea ni que vayan a seguir funcionando. Que ChatGPT use tablas en el 99 % de sus respuestas y elija un ganador en el 84 % (y solo incluya ventajas y desventajas en el 8 %) tampoco ayuda a distinguir el contenido honesto del que no. Es el terreno que describe Petrovic más abajo, y el estudio no mide si estas citas acaban convirtiendo ni si los motores las penalizan en el futuro. Lo útil para ti: si tu sector es de software, comprueba qué listados citan hoy los asistentes antes de decidir si publicas el tuyo, y si lo haces, **declara quién lo escribe** y compara con criterios verificables.
 
 Tres límites del análisis de Prosperity: es un mercado, un puñado de marcas y una agencia que era además el segundo dominio más citado de su propio estudio. Y lo que no haría: pagar por aparecer en un listado sin que se indique, o fabricar listados propios que parecen independientes. Es una forma segura de perder credibilidad si se descubre.
+
+## Los medios con acuerdo con OpenAI
+
+OpenAI ha firmado acuerdos de contenido con más de 20 editores desde 2023, entre ellos Associated Press, Condé Nast, Hearst, News Corp, The Washington Post o PRISA, el grupo de El País. En todos el mecanismo es parecido: el editor licencia su contenido y ChatGPT muestra resúmenes con atribución y enlace. Un [análisis de Ahrefs](https://ahrefs.com/blog/openai-publisher-partnerships/) sobre esos socios deja datos útiles para tu estrategia de menciones:
+
+- **Pesan cada vez más.** Entre los 200 dominios más citados por ChatGPT, los socios pasaron del 7,5 % de las citas en marzo de 2026 al 15,8 % en julio, y seguían en el 12,5 % a finales de septiembre.
+- **Un acuerdo no eleva por igual a todas las marcas del grupo.** Vogue es el socio más citado (42.108 citas), pero Vox.com solo suma 325 y Politico apenas 10. En Hearst, las revistas funcionan mucho mejor que los periódicos.
+- **Ganan los temas de consejo y compra.** Tom's Guide (puesto 15) y TechRadar (24) destacan en reseñas y guías de compra, justo lo que la gente le pregunta a ChatGPT.
+
+Es una muestra de una sola captura y solo de EE. UU., así que los medios en español están infrarrepresentados, y las citas concretas cambian mucho de un día a otro. Lo más estable son los grandes dominios.
+
+Qué haría con esto: si un medio socio habla de tu sector, una mención ahí tiene más probabilidades de llegar a ChatGPT que en un blog sin relación. Pero no te obsesiones con salir en Vogue: mira qué medios, de esa lista o no, aparecen en las respuestas de tu tema y trabaja con los que encajen con tu categoría.
 
 ## El papel de YouTube
 
