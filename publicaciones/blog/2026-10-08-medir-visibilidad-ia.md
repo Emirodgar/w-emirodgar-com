@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 27/10/2026
+date_modified: 03/11/2026
 folder: geo
 permalink: medir-visibilidad-ia
 
@@ -78,6 +78,28 @@ Y aquí van mis motivos para la prudencia con las herramientas de "AI tracking",
 5. No hay rastro de auditoría entre un prompt y una venta.
 
 Si aun así usas una herramienta, úsala para detectar dónde estás débil y qué probar, no para presumir de un porcentaje de visibilidad.
+
+### De dónde sacar los prompts que vas a seguir
+
+Muchas herramientas proponen prompts a partir del nombre de tu marca y de tu web, y eso tiene un problema: nadie te asegura que alguien pregunte eso. Katarina Dahlin propone en una [guía de AlsoAsked](https://alsoasked.com/guides/ai-visibility-find-the-right-queries-to-track-with-alsoasked) partir de datos de búsqueda reales, que aunque no son prompts se parecen a cómo se pregunta a una IA (consultas largas y conversacionales). Visibilidad en Google y en IA no siempre coinciden, así que es un punto de partida y no una verdad. Su método, que me parece razonable:
+
+1. **Preguntas relacionadas ("People Also Ask").** Lanza varias búsquedas semilla (categoría, enfoque, "mejor X", caso de uso, marca sola, marca más pregunta, intención de compra), porque cada una devuelve preguntas distintas. En AlsoAsked las verás como un mapa ramificado, y descartarás lo que no tenga que ver con tu negocio.
+2. **Search Console.** Filtra en Rendimiento por consulta con una expresión regular que recoja las que empiezan por quién, qué, cómo, por qué, cuál, puedo, es... (te explico cómo en [usar regex en Search Console](https://emirodgar.com/regex-google-search-console)). Son preguntas por las que tu web ya sale, con demanda real aunque pocos clics. Usa los últimos 16 meses y recuerda que la lista solo refleja lo que ya posicionas.
+3. **Clasifícalas por intención** (marca, comparativa o "mejor X", transaccional, funcionalidad, educativa, fuera de tema) y añade una columna de relevancia. Con muchas consultas, un asistente de IA lo hace más rápido, pero revísalo.
+4. **Quédate con pocas y bien elegidas.** En su ejemplo salieron casi 1.000 consultas. Seguirlas todas cuesta dinero y mete ruido, porque no podrás optimizarlas. Prioriza comparativas y transaccionales, las más cercanas a la compra.
+5. **Decide el tipo de trabajo.** Las preguntas de contenido ("cómo elegir...") se trabajan en tu web con una respuesta directa; las de "mejores X" se construyen con listados de terceros, así que ahí toca [aparecer en ellos](https://emirodgar.com/menciones-marca-digital-pr-ia).
+
+### Cuántas citas se pierden de un día para otro
+
+Si te preguntas por qué el dato de un día no sirve, [Ahrefs ha medido](https://ahrefs.com/blog/how-stable-are-ai-citations/) la estabilidad de unas 37.500 citas en cinco herramientas (Google AI Mode, ChatGPT, AI Overviews, Gemini y Copilot), siguiéndolas a diario durante 20 días. Lo que me parece útil para medir:
+
+- **Entre el 50 % y el 83 % de las citas desaparece al día siguiente**, según la herramienta. Pero cerca del 75 % de las que se pierden vuelven en esos 20 días, y la mitad lo hace en tres días.
+- **Cuanto más dura una cita, más probable es que vuelva.** Las que aguantaron 8 días o más volvieron casi siempre (96-99 %), mientras que una cita de un solo día no regresó entre el 34 % y el 41 % de las veces.
+- **Que no te citen no siempre es una pérdida.** En Gemini y Copilot, más de la mitad de las respuestas no citan a nadie, y las menciones de marca pueden seguir en el texto cuando el enlace ha desaparecido. Mide citas y menciones por separado, y comprueba si el nombre de tu marca no se ha escrito de otra forma.
+- **Las preguntas "best X" son las más cambiantes** (alrededor del 75 % de las páginas citadas cambia cada día), mientras que las preguntas sobre tu propia marca son más estables, sobre todo si hablan de datos como precios o planes más que de opiniones.
+- **Ranking y tráfico orgánico pesan más que el DR o los backlinks** en la estabilidad de las citas de Google, y un título y una descripción cercanos a la pregunta ayudan algo, aunque poco.
+
+Lo que yo saco para tu medición: en lugar de preguntarte "¿me han citado hoy?", cuenta **cuántos de los últimos siete días** has salido para cada pregunta, y no atribuyas a un cambio en la página una reaparición aislada, porque muchas citas vuelven solas. Si una caída se mantiene dos o tres semanas, entonces sí toca revisar la página, su posición en Google y si responde de verdad a la pregunta. Son datos de una muestra concreta y de un periodo corto, así que valen como orden de magnitud, no como regla fija.
 
 ### Bing Webmaster Tools: Topics Portfolio
 

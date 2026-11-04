@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 15/10/2026
+date_modified: 03/11/2026
 folder: geo
 permalink: contenido-citable-query-fan-out
 
@@ -91,6 +91,19 @@ Un ejemplo ilustrativo con una ficha de producto inventada:
 | Difícil de citar | Citable |
 |---|---|
 | "Como decíamos, el modelo es el más completo. Por eso cuesta lo que cuesta." | "El plan Pro de Acme incluye 5 usuarios, exportación a CSV y soporte por chat. Cuesta 29 € al mes con facturación anual." |
+
+### Abre la página y cada sección con la respuesta
+
+Hay una técnica antigua que encaja aquí: BLUF, "bottom line up front", que viene de la redacción militar y consiste en poner la conclusión en la primera frase y dejar el contexto para después. [Ahrefs lo aplica a la IA](https://ahrefs.com/blog/bluf/) apoyándose en dos ideas: las personas leemos con más atención el principio, y según un análisis de Kevin Indig con 1,2 millones de respuestas de ChatGPT, el 44,2 % de las citas salían del primer 30 % de la página.
+
+Los datos propios de Ahrefs con 1.900 preguntas matizan el efecto. Lo que más separaba a las páginas citadas de las ignoradas era que hablaran por completo de la pregunta (58 % frente a 24 % en ChatGPT). Responder en la primera o segunda frase solo marcaba diferencia en AI Overviews (42 % de las páginas citadas frente a 34 % de las no citadas), y no en ChatGPT ni en Perplexity.
+
+Por eso lo planteo en este orden: primero que la página cubra la pregunta entera y después que abra con la respuesta. Para aplicarlo:
+
+1. Decide qué quieres que sepa quien lea solo una frase.
+2. Ponlo en la primera frase de la página y de cada sección, sin saludo ni introducción.
+3. Añade solo el contexto necesario para entenderlo o actuar, y deja el resto para más abajo.
+4. Comprueba el resultado leyendo solo las primeras frases de cada sección: si cuentan la historia, funciona.
 
 ### Y el doble filtro
 

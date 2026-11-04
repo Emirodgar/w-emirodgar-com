@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 29-09-2025
+date_modified: 03-11-2026
 folder: seo
 permalink: como-clasifica-google-las-consultas-en-8-categorias-distintas
 
@@ -69,6 +70,17 @@ La clasificación de Google nos da pistas muy útiles:
 1. **Escribir pensando en la intención de búsqueda.** Antes de redactar un artículo, pregúntate qué espera encontrar el usuario.  
 2. **Elegir el formato adecuado.** Un tutorial no debería parecer un ensayo académico; una comparación debe incluir tablas o listados claros.  
 3. **Anticiparse a Google.** Si sabemos que una consulta cae en SHORT_FACT, quizá un texto largo no sea la mejor opción.  
+
+## Más allá de las 8 categorías: formato de respuesta y tipo de página
+
+La clasificación en 8 tipos de consulta es solo una pieza. RESONEO ha publicado un análisis de [cómo Google empareja las páginas con la intención de búsqueda](https://think.resoneo.com/search-intent/), basado en esquemas internos filtrados, que describe dos sistemas más. Son hallazgos de una investigación externa y no documentación oficial de Google, así que los tomo como pista.
+
+- **Intent Brain** calcula, para cada consulta, idioma y país, la probabilidad de 20 "intenciones amplias" (imágenes, vídeo, lugares, compras, noticias, foros, sitio oficial...). Lo hace a partir de los clics que Google acumula en cada resultado. Algunas de esas intenciones activan elementos visibles de la SERP, como una pestaña promocionada (Imágenes, Vídeos, Maps, Shopping, Noticias) o el filtro de Foros.
+- **Orbit** clasifica cada página del índice en 86 categorías (tutorial, foro, ficha de producto, sitio oficial...), con una puntuación de 0 a 100 por categoría. Ocho de las intenciones amplias tienen el mismo nombre que una categoría de Orbit, de modo que la consulta y la página se describen con las mismas palabras.
+
+Lo que cambia respecto a lo que cuento arriba: Google no solo decide de qué trata la consulta, también qué tipo de resultado y de fuente espera el usuario, y lo aprende de los clics, país por país. [mercury planet] pide vídeos y enciclopedia, [mercure hotel london] pide un paquete de hoteles y una página de reservas.
+
+Para el SEO, esto refuerza lo de elegir bien el formato: si la intención dominante de tu consulta es "foro" o "vídeo" y tu página es un artículo, compites en una categoría que no es la suya. Antes de escribir, mira qué tipos de página dominan la SERP y si Google promociona alguna pestaña para esa consulta.
 
 ## Conclusión
 

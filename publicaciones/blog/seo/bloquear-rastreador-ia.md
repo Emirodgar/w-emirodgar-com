@@ -8,7 +8,7 @@ feed: 1
 folder: geo
 author: Emirodgar
 date: 06/11/2023
-date_modified: 27/10/2026
+date_modified: 03/11/2026
 permalink: bloquear-rastreador-ia
 
 ---
@@ -103,6 +103,34 @@ Lo que cambia en la práctica:
 - **Si el problema es carga de servidor**, Anthropic documenta `Crawl-delay` en lugar de un bloqueo total, y solo lo aplicaría si de verdad tienes un problema de carga.
 
 Qué bloqueas y qué no depende de tu objetivo, y lo mejor es dejarlo escrito: bot, propósito, host y quién lo decide. Cómo repartirlo con más detalle lo cuento en [segmentar el bloqueo de bots](https://emirodgar.com/segmentar-bloqueo-bots).
+
+## Bing separa entrenamiento y grounding
+
+El 30 de octubre de 2026 Microsoft [anunció unas preferencias nuevas para editores](https://blogs.bing.com/search/2026/10/your-content-your-choice-clearer-preferences-for-training-and-grounding/) que reparten en dos decisiones independientes lo que hasta ahora se resolvía con `NoArchive` y `NoCache`. Ninguna de las dos afecta a que tus páginas salgan en los resultados normales de Bing.
+
+- **Entrenamiento (`ai-training`).** Se puede declarar en el `robots.txt` para todo el sitio o para una ruta, con el agente `__usage_ai-training`, y también página a página. Si lo pones a nivel de página, manda sobre lo que diga el `robots.txt`.
+- **Grounding (`ai-grounding`).** Es lo que usa Microsoft para apoyar sus respuestas generadas en contenido web (Bing, Copilot, Microsoft 365). Solo se declara por página y no existe una regla global en `robots.txt`.
+
+Las dos se declaran con una etiqueta `meta` o una cabecera HTTP:
+
+```html
+<meta name="Bingbot" content="ai-training:disallow">
+<meta name="Bingbot" content="ai-grounding:disallow">
+```
+
+```
+X-Robots-Tag: Bingbot: ai-training:disallow
+X-Robots-Tag: Bingbot: ai-grounding:disallow
+```
+
+Para el grounding hay tres valores: `Allow` (el de por defecto), `Disallow` y `DisallowExtended`, que deja a Microsoft usar tu contenido en sus propios productos pero no en los servicios de grounding que da a terceros. Si no declaras nada, se entiende que lo permites, tanto para entrenar como para el grounding.
+
+Fechas que conviene apuntar:
+
+- **1 de febrero de 2027:** Microsoft empieza a respetar las preferencias nuevas al rastrear.
+- **1 de marzo de 2027:** `NoArchive` y `NoCache` dejan de leerse como preferencia de entrenamiento o grounding. Quien los use tiene que publicar las nuevas, y para el grounding apuntar además una preferencia transitoria en Bing Webmaster Tools (válida hasta que se recorra la página o hasta el 30 de septiembre de 2027, lo que ocurra antes).
+
+La advertencia es la de siempre: el propio Microsoft avisa de que `Disallow` o `DisallowExtended` en grounding reducen tu visibilidad en las experiencias de IA. Bloquear el grounding es dejar de ser fuente en las respuestas, no solo dejar de entrenar. Si lo que quieres es no alimentar modelos pero seguir apareciendo como fuente, la combinación es entrenamiento en `Disallow` y grounding en `Allow`.
 
 ## Seguimiento de medios digitales que han bloqueado a los chatbots existentes
 

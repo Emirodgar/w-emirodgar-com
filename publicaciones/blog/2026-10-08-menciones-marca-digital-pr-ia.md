@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 27/10/2026
+date_modified: 03/11/2026
 folder: geo
 permalink: menciones-marca-digital-pr-ia
 
@@ -115,6 +115,21 @@ Mi criterio para decidir si merece la pena una pieza:
 - ¿Se puede actualizar y refrescar con regularidad?
 
 Si la respuesta es no a las tres, es contenido, pero no digital PR.
+
+## Cómo priorizar dónde aparecer
+
+"Estar en Reddit" o "hacer más vídeos en YouTube" no es una estrategia. Aleyda Solis lo explica en su [marco para priorizar citas de terceros](https://www.aleydasolis.com/en/ai-search/third-party-citation-optimization-ai-search/): esas plataformas se citan por motivos distintos según el sector, el mercado, la plataforma de IA y hasta la versión del modelo, y el patrón puede cambiar sin aviso. En su análisis de fuentes más citadas en SaaS, ecommerce y finanzas, los dominios externos suponían entre el 69,6 % y el 82,3 % de las fuentes más citadas, pero el tipo de sitio que pesaba cambiaba: comunidades y redes en SaaS, marketplaces y competidores en ecommerce, publicaciones especializadas, reseñas y comparadores en finanzas.
+
+Para decidir en qué invertir propone puntuar cada tipo de presencia con seis criterios:
+
+1. **Influencia en las citas:** si ese formato aparece de forma repetida en tus grupos de prompts, y no solo porque el dominio sea popular.
+2. **Potencial de asociación de marca:** si crea una razón clara para vincularte con una categoría, un problema o un caso de uso. Una mención de pasada te hace visible, pero una reseña detallada o un caso de cliente te asocia con una necesidad concreta.
+3. **Alineación con marketing:** si encaja con trabajo que ya hace PR, comunidad, creadores, reseñas o marketplaces, para apoyarte en su plan en lugar de montar uno paralelo.
+4. **Valor de negocio:** si apoya descubrimiento, evaluación o conversión dentro de un recorrido de cliente real.
+5. **Durabilidad estratégica:** si seguiría sirviendo (audiencia, reputación, tráfico de referencia) aunque la IA cambie las fuentes que cita.
+6. **Esfuerzo esperado:** relaciones, producción, mantenimiento. Las pruebas de producto de primera mano o la cobertura basada en estudios son de lo más valioso y también de lo más caro.
+
+Las puntuaciones de su hoja de cálculo son un punto de partida, y hay que ajustarlas con tu visibilidad actual, tu mercado y tu modelo de negocio. Yo me quedo con la idea de fondo: una acción que solo vale mientras la IA cite esa plataforma es frágil, y la que además te da reputación o clientes aguanta cualquier cambio.
 
 ## Qué evitaría
 

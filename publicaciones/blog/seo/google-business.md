@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-04-2025
-date_modified: 12/10/2026
+date_modified: 03/11/2026
 folder: seo
 permalink: perfiles-google-business
 ---
@@ -88,6 +88,8 @@ Si gestionas varias ubicaciones, el dato total puede esconder lo que pasa en cad
 - **Ficha de Google Business frente a SEO orgánico**: añade [parámetros UTM](https://support.google.com/analytics/answer/10917952) a los enlaces web de cada ficha y revisa ese tráfico por separado en GA4 frente al orgánico tradicional. Para ver qué páginas de ubicación reciben clics y con qué consultas, usa Search Console y sus [filtros con regex](https://emirodgar.com/regex-google-search-console); comprueba siempre que el filtro devuelve lo que esperas antes de sacar conclusiones.
 
 Dentro de la propia ficha, mira vistas en Búsqueda y Maps, llamadas, clics a la web y solicitudes de ruta, y cruza esos datos con el volumen, la frecuencia y la nota media de las reseñas. Y ante una caída, determina primero si baja el tráfico o si el tráfico se mantiene y bajan las acciones. En el primer caso, revisa si cambió el ranking o la SERP; en el segundo, la ruta de conversión y las reseñas.
+
+Esto puede cambiar pronto: [Search Engine Roundtable informó](https://www.seroundtable.com/google-business-profiles-new-performance-reports-42367.html) el 23 de octubre de 2026 de que Google está probando un informe de rendimiento renovado dentro de Google Business Profile, con apartados de interacciones, reseñas, tendencias de búsqueda, audiencia y recomendaciones, y una vista de reseñas más detallada. De momento solo lo han visto algunos usuarios, así que no lo des por disponible en tus fichas ni cambies tu forma de medir hasta que llegue a todos.
 
 ---
 

@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 30-09-2025
+date_modified: 03-11-2026
 folder: geo
 permalink: seo-tecnico-en-la-era-de-la-inteligencia-artificial
 
@@ -51,6 +52,17 @@ Piensa que un sistema de IA quiere la información de forma inmediata y clara. S
 Las IAs valoran el contenido **fácil y rápido de encontrar**. Si lo más importante está enterrado debajo de banners, pop-ups o anuncios, es menos probable que lo usen.  
 
 El consejo aquí es sencillo: **lleva la información esencial a la parte alta de la página**, clara y accesible desde el primer momento.
+
+## ¿Qué están haciendo en la práctica los SEO técnicos?
+
+La [encuesta de SEOFOMO de 2026](https://hub.seofomo.co/surveys/seofomo-technical-seo-survey/), con respuestas de 165 especialistas en SEO técnico, da una idea de cómo se está notando este cambio en el trabajo diario. Es una muestra pequeña y autoseleccionada, así que la leo como una foto del sector y no como una estadística general.
+
+- **Más prioridad, pero hay que defender lo básico.** El 47 % dice que el SEO técnico recibe más prioridad que hace un año, y el 56 % lo considera de impacto alto o muy alto. Algunos cuentan que las empresas descuidan las bases por centrarse en iniciativas de IA, o tratan la búsqueda con IA como algo ajeno al SEO.
+- **La IA ahorra tiempo, pero hay que revisar lo que produce.** El 61 % nota auditorías, análisis o detección de incidencias más rápidos, y el 51 % dedica menos tiempo a esas tareas incluso contando la revisión. La precisión de las respuestas es la preocupación que más se repite.
+- **El trabajo crece más rápido que la capacidad de medirlo.** El 67 % ha añadido o actualizado datos estructurados pensando en la IA, el 55 % ha mejorado la estructura de las páginas para que se pueda extraer su contenido y el 52 % ha revisado el `robots.txt` o las reglas de CDN y cortafuegos. Pero cuesta saber cómo usan los sistemas de IA ese contenido y qué aportan las citas al negocio.
+- **El cuello de botella es desarrollo.** El 59 % señala la falta de capacidad de desarrollo como barrera, seguido de prioridades de negocio en competencia (47 %) y limitaciones de plataforma (41 %).
+
+Esto encaja con lo que veo: las tres cosas que he recomendado arriba (HTML visible, velocidad y estructura clara) siguen siendo el trabajo de fondo, y lo difícil casi nunca es saber qué hay que tocar, sino conseguir que se haga y poder demostrar su efecto. Sobre cómo priorizar con criterio de negocio, lo cuento en [cómo convertir una auditoría técnica en un informe de progreso](https://emirodgar.com/informe-progreso-auditoria-seo).
 
 ## ¿Qué significa todo esto para tu estrategia?
 

@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 27-10-2026
+date_modified: 03-11-2026
 folder: seo
 permalink: informe-progreso-auditoria-seo
 
@@ -56,6 +57,24 @@ Lo que propongo es dejar de tratar la auditoría como un documento y llevar un r
 Hay dos estados que importan más de lo que parece. **Verificada** no es lo mismo que resuelta: resuelta es que dicen que lo han hecho, verificada es que lo has visto en un rastreo posterior. Y **descartada** necesita un motivo, porque dentro de un año alguien preguntará por qué no se arregló aquello y tendrás la respuesta.
 
 El ID estable resuelve justo la pregunta de "¿qué pasó con los problemas antiguos?". En el informe no hay una lista nueva: hay las mismas causas con su estado actualizado y, al final, las que han aparecido desde el último rastreo.
+
+## Qué arreglar primero: impacto en negocio, no gravedad
+
+Un registro de hallazgos bien llevado sigue teniendo un problema: nadie arregla 300 cosas a la vez. Kelly-Anne Crean lo plantea en una [guía sobre deuda técnica SEO en Sitebulb](https://sitebulb.com/resources/guides/technical-seo-debt-how-to-measure-prioritise-fix-it/) con una idea que comparto: una auditoría no es una lista de tareas. Un sitio con 10.000 hallazgos no tiene 10.000 problemas urgentes, y buena parte de lo que sale en un rastreo no generará ingresos aunque se corrija.
+
+Para ordenar el registro, la pregunta que propone no es "¿cómo de grave es?", sino "¿qué pasa con los ingresos, los leads y las conversiones si no lo arreglamos?". Yo la bajo a cinco factores por causa:
+
+- Cuántas páginas afecta.
+- Qué importancia tienen esas páginas (las que más facturan, las categorías que mejor posicionan, las que generan contactos).
+- Qué papel juegan en el recorrido del cliente, aunque no sean la página de conversión.
+- Cuánto aportan a ingresos o leads.
+- Cuánto cuesta resolverlo.
+
+El mismo fallo pesa distinto según dónde esté: un problema de renderizado en la plantilla de categorías que trae tráfico es prioritario, y el mismo en una sección antigua que nadie mantiene puede esperar. Y conviene incluir en el análisis el contenido que solo existe tras ejecutar JavaScript, porque muchos rastreadores de IA parecen trabajar con el HTML inicial, algo que cuento en [qué rastreadores ven tu JavaScript](https://emirodgar.com/csr-vs-ssr-rastreadores-javascript).
+
+### Cómo pedírselo a desarrollo
+
+Priorizar no sirve si luego no se implementa. Celeste Gonzalez, desde un puesto de producto, cuenta en [Search Engine Land](https://searchengineland.com/product-thinking-better-seo-493352) un cambio de enfoque que me parece útil: al escribir una petición, describe el problema, por qué importa, el resultado que buscas y los requisitos que no se pueden perder (por ejemplo, que los enlaces estén en el HTML renderizado), pero no dictes la implementación exacta. Es posible que desarrollo conozca algo reutilizable, una solución más limpia o que la tuya cree deuda en otro sitio. Cada hallazgo de tu registro debería poder leerse así, y a mí me ahorra discusiones.
 
 ## Qué cabe en una página
 
