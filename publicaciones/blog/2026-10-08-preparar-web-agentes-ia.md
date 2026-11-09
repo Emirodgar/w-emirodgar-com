@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
+date_modified: 09/11/2026
 folder: geo
 permalink: preparar-web-agentes-ia
 
@@ -55,6 +56,14 @@ Todo esto es también accesibilidad, así que mejora tu web para personas.
 Las herramientas de puntuación como [Is Agentic](https://is-agentic.com/) son un buen punto de partida, pero Merj es claro: miden prerrequisitos, no resultados. La única forma de saber si un agente completa tu compra, tu reserva o tu formulario es **probarlo en tus recorridos críticos**, en tus mercados y en tus idiomas. Su rendimiento baja fuera del inglés: en el estudio que citan, entre 9 y 18 puntos según el modelo.
 
 Y una consecuencia para tu analítica: los agentes parecen usuarios, con reintentos y navegación mecánica. Si puedes identificarlos, exclúyelos de los embudos y de la medición de rendimiento real para no contaminar los datos.
+
+### Clarity ya enseña qué hace un agente en tu web
+
+El 4 de noviembre de 2026 Microsoft [presentó en Clarity](https://clarity.microsoft.com/blog/clarity-connects-agents-llms-people/) un panel de **Actividad de agentes** (Agent Activity). Muestra cómo evoluciona el tráfico de agentes con el tiempo, qué agentes te visitan y qué hacen al llegar: búsquedas, envíos de formularios, inicios de sesión, descargas, reservas y pagos. Por ahora solo detecta agentes de Google, OpenAI y Anthropic. Es gratuito y es la primera herramienta accesible que conozco que mide esto sin montar nada propio.
+
+Incluye además **simulaciones**: pones a un agente a hacer una tarea importante en tu web y te dice si la completó, cuánto tardó, cuántas interacciones necesitó y dónde se atascó. Empiezan por escenarios de comercio y de viajes, así que si tu web es otra cosa, de momento te servirá menos.
+
+Un dato para ponerlo en contexto, con la cautela de que lo publica el propio Microsoft: en un [análisis de Clarity](https://clarity.microsoft.com/blog/agentic-analytics-what-agents-do-on-websites) de 5,23 millones de sesiones de agentes en 230.511 proyectos (del 13 de agosto al 9 de septiembre de 2026), las sesiones semanales de agentes casi se duplicaron en tres semanas, hasta cerca de 2 millones. Son sitios que ya usan Clarity, no una muestra de toda la web, y no lo he probado en una web mía. Pero encaja con lo que dice Merj arriba: lo único que cuenta es ver si el agente consigue terminar la tarea, y ahora hay una forma gratuita de empezar a mirarlo.
 
 Merj midió también que el éxito medio de los agentes en su banco de pruebas pasó de un 30 % a un 60 % entre noviembre de 2025 y marzo de 2026. Las pruebas de hoy envejecen rápido.
 

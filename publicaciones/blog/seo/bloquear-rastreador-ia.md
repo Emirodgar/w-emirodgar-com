@@ -8,7 +8,7 @@ feed: 1
 folder: geo
 author: Emirodgar
 date: 06/11/2023
-date_modified: 03/11/2026
+date_modified: 09/11/2026
 permalink: bloquear-rastreador-ia
 
 ---
@@ -67,7 +67,7 @@ Además de los dos antes expuestos, podemos seguir las mismas instrucciones para
 En este caso ya no estamos hablando de un chatbot sino de la búsqueda generativa de Google, una respuesta de inteligencia artificial que se incluye directamente en la página de resultados.
 Por desgracia esta respuesta se basa en el rastreo e indexación del robot principal de Google, por lo que no hay manera de evitar su acceso a no ser que no queramos aparecer en Google.
 
-> **Actualización (octubre de 2026):** la [guía GEO 2027 de GDdash](https://gddash.com/geo-optimization-guide/) remite a un [control de inclusión de IA generativa en Search Console](https://support.google.com/webmasters/answer/16908024), que documenta Google y que puede heredarse entre propiedades. No lo he probado, así que revisa su documentación antes de tocar nada. Es una decisión distinta de la indexación y de `Google-Extended`, y conviene tomarla con quien decida la política de contenidos, no como un ajuste técnico más.
+> **Actualización (octubre de 2026):** la [guía GEO 2027 de GDdash](https://gddash.com/geo-optimization-guide/) remite a un [control de inclusión de IA generativa en Search Console](https://support.google.com/webmasters/answer/16908024), que documenta Google y que puede heredarse entre propiedades. No lo he probado, así que revisa su documentación antes de tocar nada. Es una decisión distinta de la indexación y de `Google-Extended`, y conviene tomarla con quien decida la política de contenidos, no como un ajuste técnico más. Para que te hagas una idea de lo que cuesta, hay un [experimento real de Zyppy](https://signal.zyppy.com/p/we-opted-out-of-google-ai-search) con los datos de un solo sitio, que cuento en [Google AI Mode, qué es y qué puedes hacer como SEO](https://emirodgar.com/google-ai-mode-seo).
 
 Además de bloquear a los rastreadores de chatbots e inteligencias artificiales, existen [listados de robots spam](https://emirodgar.com/listado-robots-bloquear) que consumen nuestros recursos ni aportarnos ningún valor. Os recomiendo bloquearlos.
 
@@ -131,6 +131,19 @@ Fechas que conviene apuntar:
 - **1 de marzo de 2027:** `NoArchive` y `NoCache` dejan de leerse como preferencia de entrenamiento o grounding. Quien los use tiene que publicar las nuevas, y para el grounding apuntar además una preferencia transitoria en Bing Webmaster Tools (válida hasta que se recorra la página o hasta el 30 de septiembre de 2027, lo que ocurra antes).
 
 La advertencia es la de siempre: el propio Microsoft avisa de que `Disallow` o `DisallowExtended` en grounding reducen tu visibilidad en las experiencias de IA. Bloquear el grounding es dejar de ser fuente en las respuestas, no solo dejar de entrenar. Si lo que quieres es no alimentar modelos pero seguir apareciendo como fuente, la combinación es entrenamiento en `Disallow` y grounding en `Allow`.
+
+## Hacia un control de entrenamiento común en robots.txt
+
+El 30 de octubre de 2026 Google [anunció que respaldará un control de entrenamiento de IA compartido](https://developers.google.com/search/blog/2026/10/ai-training-control?hl=es-419) en `robots.txt`. La idea sale del grupo de trabajo AIPREF del IETF y es una propuesta en borrador, no un estándar cerrado: en lugar de repetir una regla para cada empresa, declaras una preferencia general con un "token de política" y la leen todos los proveedores de IA que lo adopten.
+
+Lo que cuenta Google sobre cómo lo tratará:
+
+- **Si desactivas el entrenamiento con ese token** y no has indicado nada explícito para `Google-Extended`, Google lo interpretará como que rechazas `Google-Extended`.
+- **Las reglas por empresa siguen funcionando** junto al token. Puedes poner una preferencia amplia y afinarla después para un operador concreto.
+- **Permitir `Google-Extended` de forma explícita** es lo que, según Google, hace a un sitio apto para salir en las respuestas y recibir clics a través del anclaje en las apps con Gemini.
+- **No hay fecha cerrada.** El objetivo declarado es admitirlo, junto con otros proveedores, en 2027.
+
+Mi lectura: hoy no hay nada que cambiar en tu `robots.txt`, porque el token aún es un borrador y Google solo habla de planes. Lo que sí conviene es apuntar tu política actual (qué bot entrena, cuál busca, cuál actúa a petición del usuario) para que, cuando llegue, sea cuestión de traducirla y no de decidirla desde cero. Y recuerda lo de siempre: es una preferencia de acceso y de uso que respetan los operadores que quieren hacerlo, no una barrera técnica. De momento lo único que ya puedes aplicar son las preferencias que he descrito para Bing y las reglas por rastreador de arriba.
 
 ## Seguimiento de medios digitales que han bloqueado a los chatbots existentes
 

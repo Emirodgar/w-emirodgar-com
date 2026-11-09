@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 26/10/2026
+date_modified: 09/11/2026
 folder: geo
 permalink: google-ai-mode-seo
 
@@ -77,6 +77,19 @@ Es una declaración de visión, no un calendario ni una especificación, y convi
 Si quieres limitar qué se muestra de tus páginas, Google documenta `nosnippet`, `data-nosnippet`, `max-snippet` y `noindex`. Y **Google-Extended** sirve para limitar el uso de tu contenido en el entrenamiento y la fundamentación de otros sistemas de Google.
 
 Ojo con asumir que `robots.txt` te protege de aparecer en una respuesta de IA: ya conté que no es así en el caso de las AI Overviews. Y recuerda que limitar fragmentos limita también tu visibilidad. Antes de tocar nada, decide qué es más valioso para ti, que te citen o que no te usen. Hay más matices en [cómo bloquear el rastreador de las IA](https://emirodgar.com/bloquear-rastreador-ia).
+
+### Salir de las funciones de IA de Google: qué pasa si lo haces
+
+Desde agosto de 2026 hay un ajuste en Search Console, [documentado por Google](https://support.google.com/webmasters/answer/16908024), para que un sitio deje de aparecer en AI Overviews y AI Mode, enlaces incluidos. Antes la única vía era bloquear a Google por completo. Ojo, que no frena el uso de tu contenido para entrenar modelos: eso se controla con otros mecanismos, como `Google-Extended`.
+
+Cyrus Shepard probó a pulsar ese botón en su propio sitio y [publicó lo que midió](https://signal.zyppy.com/p/we-opted-out-of-google-ai-search). Es el único experimento de este tipo que conozco, así que lo cuento con todas las cautelas:
+
+- **La salida es inmediata y la vuelta también.** En menos de una hora pasó de 500-1.000 impresiones diarias en funciones de IA a cero, y al reactivarlo, 28 días después, volvieron casi igual de rápido. Esas impresiones eran en torno al 10 % del total de su sitio.
+- **El clic en una respuesta de IA no fue marginal.** Estima un CTR de unos 0,9 % (rango de 0,7 a 1,1 %), más del doble del 0,4 % que tenía el sitio de media en Google. Como Search Console no separa el tráfico de IA, lo calculó comparando los periodos con y sin la opción activa, así que es una estimación estadística y no un dato directo.
+- **Efecto halo.** Con el sitio en las respuestas de IA, también subió algo el CTR de sus resultados orgánicos (en torno a un 2,3 %), sobre todo en las URLs con más presencia en IA. Su hipótesis es que ver tu marca dos veces en la misma página genera confianza.
+- **El resultado:** según sus cálculos, las funciones de IA de Google explicaban entre el 20 y el 23 % de los clics totales de su sitio. Decidieron volver a activarlo.
+
+Los límites son los suyos y conviene respetarlos: un solo sitio, un solo experimento, y un sitio que ya había trabajado para que lo citaran las IA, lo que probablemente infla el resultado. No lo extrapolaría a una web sin esa presencia. Tampoco contradice los estudios de caída de clics que recojo en [zero-click y caída del CTR por la IA](https://emirodgar.com/zero-click-caida-ctr-ia): que los clics de media bajen no quiere decir que, en tu web, los pocos que llegan desde la respuesta sean irrelevantes. Si estás valorando salir, mide primero cuánto te llega desde esas funciones, y no lo decidas por miedo.
 
 ## Qué haría yo
 

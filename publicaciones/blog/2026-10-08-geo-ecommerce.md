@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 27/10/2026
+date_modified: 09/11/2026
 folder: geo
 permalink: geo-ecommerce
 
@@ -58,6 +58,14 @@ Cubre AI Mode, AI Overviews y la app de Gemini, y Google [lo despliega](https://
 El 15 de octubre de 2026 Google [lanzó Universal Cart](https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/) en Estados Unidos, dentro de Search (incluido AI Mode) y de la app de Gemini. Es un carrito donde el usuario guarda productos de varios comercios, sigue bajadas de precio y reposiciones de stock gracias al Shopping Graph, ve cómo le conviene pagar con Google Wallet y compra con Google Pay o pasa los productos al carrito del comercio para terminar en su web. Según Google, el pago simplificado funciona con el Universal Commerce Protocol (UCP), y el comercio sigue siendo el vendedor oficial: envía las confirmaciones y ofrece el soporte.
 
 Lo que no sé: el anuncio solo habla de EE. UU., sin fechas para otros países, y no detalla requisitos de integración ni comisiones. Marie Haynes, en [GEO is a distraction](https://www.mariehaynes.com/geo-is-a-distraction/), propone prepararse dominando Merchant Center y ampliando el SEO técnico con endpoints de descubrimiento para agentes como `/.well-known/ucp`. Es una recomendación suya, no un requisito documentado por Google que yo haya podido contrastar. Mi lectura para una tienda en España: no hay nada que activar hoy, pero un feed completo y coherente es lo que alimentaría tanto Universal Cart como el resto de superficies de compra.
+
+### El checkout directo con UCP llega a Canadá
+
+El 4 de noviembre de 2026 Google [anunció](https://blog.google/intl/en-ca/products/explore-get-answers/a-new-way-to-shop-introducing-a-more-intuitive-agentic-shopping-experience-for-consumers-and-retailers-in-canada/) que el checkout directo basado en UCP se extiende a Canadá, dentro de AI Mode y de la app de Gemini, según [recogió Search Engine Journal](https://www.searchenginejournal.com/google-brings-ucp-direct-checkout-to-ai-mode-in-canada/595882/). El lanzamiento inicial cuenta con lululemon, Shoppers Drug Mart, Simons y algunos comercios de Shopify seleccionados. El comprador paga con Google Pay usando los datos guardados en Google Wallet y, como en Estados Unidos, el comercio sigue siendo el vendedor oficial. Google dice que irá añadiendo funciones, por ejemplo aplicar puntos de fidelidad.
+
+Lo más útil para quien lleva un ecommerce es lo que viene después: Google anuncia que **el año que viene** habrá una integración simplificada de UCP dentro de Merchant Center, para activar el checkout directo desde la propia cuenta. El anuncio habla de Canadá y no he visto fechas ni países para esa integración, así que no sé si llegará a España ni cuándo.
+
+Dos cosas que me quedo. Primera, el reparto de papeles es el mismo que en Universal Cart: la conversación ocurre en Google y la venta es tuya, con lo que eso implica en soporte y devoluciones. Segunda, el trabajo previo no cambia: títulos, precios, stock y atributos del feed correctos, porque son lo que cualquiera de estas superficies leerá primero. Y si tienes Shopify y vendes en Canadá, comprueba en tu tienda si cumples los requisitos, porque la fase inicial es solo para algunos comercios seleccionados y no para todos.
 
 ## Qué revisaría en una tienda
 

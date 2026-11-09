@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 04/11/2026
+date_modified: 09/11/2026
 folder: geo
 permalink: menciones-marca-digital-pr-ia
 
@@ -102,6 +102,10 @@ Es una muestra de una sola captura y solo de EE. UU., así que los medios en esp
 
 Qué haría con esto: si un medio socio habla de tu sector, una mención ahí tiene más probabilidades de llegar a ChatGPT que en un blog sin relación. Pero no te obsesiones con salir en Vogue: mira qué medios, de esa lista o no, aparecen en las respuestas de tu tema y trabaja con los que encajen con tu categoría.
 
+Gianluca Fiorelli, en [Authority Beyond Your Website](https://www.advancedwebranking.com/blog/brand-amplification-brand-authority-ai-search), pone el mismo límite con una prueba sencilla. Imagina que tienes una investigación propia y puedes ofrecerla a dos medios: uno con acuerdo con una empresa de IA pero poco relacionado con tu sector, y la BBC, de la que no encuentra un acuerdo equivalente. Nadie rechazaría la BBC por no figurar en una hoja de cálculo de acuerdos. Su conclusión es que la **cercanía a los ecosistemas de IA** sirve para desempatar entre dos objetivos igual de buenos, y no para convertir uno malo en bueno. Un acuerdo demuestra que existe una relación entre el medio y el operador, no que a ti te vayan a recomendar por salir ahí.
+
+Si quieres explorar esa lista, Fiorelli comparte una [hoja de cálculo](https://docs.google.com/spreadsheets/d/1GcWsD3D5alY0cIyx4OZWNcZO6DncPzTONejkD8H9Odc/edit?gid=1914028380#gid=1914028380) con 202 publicaciones mapeadas a acuerdos con OpenAI, Google y Perplexity. Lo útil es que distingue el nivel A (el medio aparece nombrado en la documentación oficial) del B (se deduce del acuerdo con su grupo editorial), para no tomar una inferencia por un hecho. La uso como acelerador de investigación, no como respuesta.
+
 ## El papel de YouTube
 
 Es la señal más correlacionada del estudio. Una mención en YouTube es cualquier aparición del nombre de la marca en un título, una transcripción o una descripción. Lo que haría:
@@ -127,6 +131,20 @@ Mi criterio para decidir si merece la pena una pieza:
 - ¿Se puede actualizar y refrescar con regularidad?
 
 Si la respuesta es no a las tres, es contenido, pero no digital PR.
+
+## Autoridad propia y autoridad repartida
+
+Fiorelli plantea que una marca existe en dos entornos. En el propio, la web, puedes construir casi todo: arquitectura, datos estructurados, autores, enlazado interno. Pero casi todas esas afirmaciones las haces tú, y por mucha evidencia que muestres, parte de esa autoridad sigue siendo autodeclarada. El segundo entorno es el de los documentos de otros, y ahí alguien tiene que tener un motivo para hablar de ti. Eso no se puede fabricar, solo provocar.
+
+De ahí su idea más práctica: **el digital PR es la capa de distribución de la información propia.** Un dato nuevo publicado en tu blog, si nadie lo ve, no existe. Si lo recoge un medio (una mención de primera generación), un medio especializado puede analizarlo, una asociación meterlo en su boletín y alguien más comentarlo (segunda generación y siguientes). El hallazgo deja de vivir solo en tu dominio y pasa a formar parte de lo que se sabe del tema. Por eso no valora un medio solo por su tráfico, sino también por su **potencial de propagación**: cuánta cobertura posterior suele generar.
+
+Tres consecuencias para trabajar tus menciones:
+
+- **Mide más que enlaces.** Menciones sin enlace, directivos citados en el tema que te interesa, si tu estudio se atribuye a ti y si una cobertura genera otras. Y fíjate en si aparece la misma relación entre marca y tema en documentos independientes.
+- **Haz que web y PR cuenten lo mismo.** Si tu web gira en torno a cinco áreas y tu PR habla de temas de moda sin relación, el resultado es confusión repartida, no autoridad repartida.
+- **No fabriques menciones para engañar al modelo.** La pregunta útil es cómo convertirte en una fuente a la que otros tengan motivos reales para citar.
+
+Esto es la propuesta de un autor, no un resultado medido, pero encaja con lo que he visto hasta aquí: las menciones que sirven son las que alguien ha decidido hacer por sí mismo.
 
 ## Cómo priorizar dónde aparecer
 

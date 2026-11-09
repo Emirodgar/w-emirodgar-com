@@ -8,6 +8,7 @@ feed: 1
 folder: seo
 layout: emirodgar_post
 date: 19/05/2021
+date_modified: 09/11/2026
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: eliminar-url-google
 
@@ -83,6 +84,19 @@ En el caso de que la URL esté indexada por los buscadores, además de seguir lo
 Como curiosidad, John Mueller confirmó a través de Twitter que siempre que exista un enlace externo hacia una de nuestras URLs, aunque ésta muestre un error 404, Google seguirá intentando indexarla de vez en cuando.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As long as we have signals for that URL (even if it&#39;s just a random link somewhere), we&#39;ll keep trying it from time to time.</p>&mdash; 🍌 John 🍌 (@JohnMu) <a href="https://twitter.com/JohnMu/status/1107298611128352769?ref_src=twsrc%5Etfw">March 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Qué pasa con una URL importante que empieza a dar 404
+
+Gary Illyes, de Google, [explicó en LinkedIn](https://www.seroundtable.com/google-protected-important-urls-index-42464.html) un caso que ayuda a entender qué hace Google cuando una URL deja de responder bien. La web de VLC sirvió por error un código 418 (el del "teapot"), que Google trata como la mayoría de errores 4xx, es decir, como "no encontrada". Aun así la URL siguió en el índice: según Illyes, Google puede "proteger temporalmente" una URL que considera muy importante para que no se caiga enseguida.
+
+El efecto secundario es lo interesante. Al no poder leer ya la página, Google no sabía qué había en ella, y solo mostró el enlace con el último título bueno que conocía, sin descripción ni favicon. VLC volvió a responder con un 200 y el problema debía resolverse solo.
+
+Qué te llevas de esto:
+
+- **Un 4xx puntual no te desindexa al instante**, sobre todo si la URL es importante. Pero tampoco es inocuo: pierdes el snippet y el favicon mientras dura.
+- **Si el 4xx es un fallo y no una decisión**, corrígelo cuanto antes. Que la URL siga en el índice no significa que Google tenga contenido que enseñar.
+- **Si lo que quieres es quitar una URL importante, ten paciencia.** Es una deducción mía, no algo que Google haya dicho para este caso, pero si protege temporalmente las URLs relevantes, la desindexación puede tardar más de lo que esperas. Los pasos anteriores (410, `noindex`) siguen siendo el camino.
+- **Revisa los errores del servidor que no se ven en el navegador.** Un cortafuegos o una regla de CDN pueden devolver un 4xx solo a Googlebot.
 
 
 ## Herramientas de Google

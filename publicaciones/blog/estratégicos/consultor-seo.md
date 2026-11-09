@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 27/01/2022
-date_modified: 11/09/2026
+date_modified: 06/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -175,6 +175,21 @@ La inversión requerida varía según la complejidad del sitio web, el estado t�
 | **Consultoría Mensual (Retainer)** | 500€ – 2.000€/mes | $550 – $2.200 USD/mes | Ejecución continua, optimización, link building y reuniones de seguimiento. |
 | **Consultoría por Horas / Ad-hoc** | 60€ – 120€/hora | $65 – $130 USD/hora | Sesiones estratégicas, resolución de problemas puntuales o soporte a desarrolladores. |
 | **Proyectos Complejos / Migraciones** | Desde 1.200€ | Desde $1.300 USD | Acompañamiento en rediseños, cambios de dominio o migraciones de CMS sin perder tráfico. |
+
+### ¿Cuánto puede cobrar un consultor SEO en el extremo alto del mercado?
+
+Las cifras de la tabla son las que manejo en España y LatAm, pero el techo del mercado está mucho más arriba. Eli Schwartz, autor de *Product-Led SEO* y consultor en solitario para empresas como Tinder, Coinbase o LinkedIn, defiende en esta conversación con Tim Soulo que ningún consultor SEO debería cobrar a un cliente menos de 10.000 $ al mes. Según cuenta, conoce a consultores independientes que facturan más de 100.000 $ mensuales a un solo cliente, porque cobran por el valor que aportan y no por las horas que dedican.
+
+<iframe src="https://www.youtube-nocookie.com/embed/HDqpvWq4SAg" title="Cuánto cobra un consultor SEO, con Eli Schwartz y Tim Soulo" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Algunas ideas del vídeo que merece la pena llevarse:
+
+* **El precio se ancla al valor, no al tiempo.** Schwartz presupuestó a Blue Nile 10.000 $ al mes esperando una contraoferta de 5.000 $, y desde entonces lo usa como tarifa base.
+* **Las marcas grandes compran confianza.** Marca personal y prueba social pesan más que cualquier lista de servicios a la hora de cerrar a los clientes que pueden pagar esas cifras.
+* **Los cambios grandes tardan.** Cuenta que consiguió meter "dating" en el title de la home de Tinder tras nueve meses de aprobaciones internas, un recordatorio de que parte del trabajo es político, no técnico.
+* **Visibilidad en IA: los prompts no son keywords.** Un panel de seguimiento de prompts que no sepa conectar con ingresos vale poco cuando el CEO pregunta qué aporta esa visibilidad.
+
+Mis tarifas son bastante más moderadas, y lo digo sin rodeos: trabajo con pymes y empresas medianas, donde el presupuesto condiciona el alcance. La lección aplicable en cualquier mercado es la misma. Si solo puedes justificar tu precio por las horas trabajadas, tienes un problema de posicionamiento propio antes que de cualquier cliente.
 
 ---
 
