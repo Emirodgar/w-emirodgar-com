@@ -53,7 +53,11 @@ Todo esto es también accesibilidad, así que mejora tu web para personas.
 
 ## 4. Mide si funciona
 
-Las herramientas de puntuación como [Is Agentic](https://is-agentic.com/) son un buen punto de partida, pero Merj es claro: miden prerrequisitos, no resultados. La única forma de saber si un agente completa tu compra, tu reserva o tu formulario es **probarlo en tus recorridos críticos**, en tus mercados y en tus idiomas. Su rendimiento baja fuera del inglés: en el estudio que citan, entre 9 y 18 puntos según el modelo.
+Las herramientas de puntuación como [Is Agentic](https://is-agentic.com/) son un buen punto de partida, pero Merj es claro: miden prerrequisitos, no resultados.
+
+![Informe de Is Agentic con 73 sobre 100 de cobertura y nota B, con el desglose por protocolos de agentes, descubrimiento de contenido, señales de búsqueda con IA, contenido y seguridad](/cdn/images/posts/is-agentic-puntuacion-preparacion-agentes-ia.png){:class="img-responsive"}
+
+Un 73/100 con nota B suena bien, pero fíjate en el desglose: descubrimiento de contenido al 100 %, protocolos de agentes al 0 % y seguridad y confianza al 15 %. La nota media esconde que hay zonas enteras sin cubrir. La única forma de saber si un agente completa tu compra, tu reserva o tu formulario es **probarlo en tus recorridos críticos**, en tus mercados y en tus idiomas. Su rendimiento baja fuera del inglés: en el estudio que citan, entre 9 y 18 puntos según el modelo.
 
 Y una consecuencia para tu analítica: los agentes parecen usuarios, con reintentos y navegación mecánica. Si puedes identificarlos, exclúyelos de los embudos y de la medición de rendimiento real para no contaminar los datos.
 
