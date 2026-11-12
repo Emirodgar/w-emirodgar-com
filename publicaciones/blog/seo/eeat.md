@@ -1,6 +1,6 @@
 ---
-title: Qué es E-E-A-T y por qué es clave para el SEO
-description: Google evalúa la calidad de un sitio web basándose en E-E-A-T. Descubre cómo mejorar estos aspectos para posicionarte mejor en los resultados de búsqueda.
+title: Qué es EEAT (E-E-A-T) y cómo mejorarlo en tu web
+description: EEAT (E-E-A-T) es el marco con el que Google evalúa la calidad de un sitio, según experiencia, pericia, autoridad y confianza. Cómo mejorarlo.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
 author: Emirodgar
@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 03-03-2025
+date_modified: 12/11/2026
 folder: seo
 permalink: eeat-seo
 

@@ -1,11 +1,12 @@
 ---
-title: Consultor SEO Freelance | Contratación Directa, Sin Intermediarios
-description: Contrata a un consultor SEO freelance con más de 15 años de experiencia. Trato directo, sin account managers ni sobrecostes de agencia, para España y LatAm.
+title: Consultor SEO Freelance | Trato Directo, Sin Agencia
+description: Contrata a un consultor SEO freelance con más de 15 años de experiencia. Trato directo, tarifas claras y sin sobrecostes de agencia, para España y LatAm.
 lang: es_ES
 author: emirodgar
 sitemap: 1
 feed: 1
 date: 11/09/2026
+date_modified: 12/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png

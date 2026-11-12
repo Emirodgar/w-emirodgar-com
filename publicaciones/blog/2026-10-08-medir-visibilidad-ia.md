@@ -1,6 +1,6 @@
 ---
-title: Cómo medir tu visibilidad en la IA sin engañarte
-description: No existe una métrica estándar para medir la visibilidad en ChatGPT, Gemini o AI Overviews. Te cuento qué puedes medir de verdad, con qué datos, y qué señales conviene tratar con desconfianza.
+title: Medir tu visibilidad en IA sin engañarte (ChatGPT y Gemini)
+description: No hay una métrica estándar para medir la visibilidad en ChatGPT, Gemini o AI Overviews. Qué puedes medir de verdad y qué señales tratar con desconfianza.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
 author: Emirodgar
@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 03/11/2026
+date_modified: 12/11/2026
 folder: geo
 permalink: medir-visibilidad-ia
 

@@ -1,12 +1,12 @@
 ---
-title: Consultor SEO Profesional | Estrategias de Posicionamiento Web
-description: Consultor SEO desde el 2007. Optimización técnica, GEO para IA y estrategias de tráfico orgánico para empresas en España y LatAm.
+title: Consultor SEO Profesional desde 2007 | SEO Técnico y GEO
+description: Consultor SEO profesional desde 2007. SEO técnico, GEO para IA y estrategia de tráfico orgánico para empresas en España y LatAm, con trato directo.
 lang: es_ES
 author: emirodgar
 sitemap: 1
 feed: 1
 date: 27/01/2022
-date_modified: 06/11/2026
+date_modified: 12/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png

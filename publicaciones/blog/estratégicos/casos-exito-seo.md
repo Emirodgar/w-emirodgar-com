@@ -1,11 +1,11 @@
 ---
-title: Casos de éxito SEO (Posicionamiento web) - 2025
-description: Os cuento las estrategias SEO de las que estoy más orgulloso. Los mejores resultados en más de diez años de trabajo.
+title: Casos de Éxito SEO con Resultados Reales
+description: Casos de éxito SEO reales. Recuperación de tráfico en un periódico digital y en una universidad de 5 países, y migración de un ecommerce internacional.
 lang: es_ES
 sitemap: 1
 feed: 1
 date: 26/10/2021
-date_modified: 15/10/2026
+date_modified: 12/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png

@@ -1,12 +1,12 @@
 ---
-title: Consultor SEO para Ecommerce | Auditoría y Estrategia para Tiendas Online
-description: Consultor SEO especializado en ecommerce desde 2007. Optimización técnica de catálogos grandes, datos estructurados de producto y migraciones sin perder tráfico.
+title: Consultor SEO para Ecommerce | Tiendas Online y Catálogos
+description: Consultor SEO especializado en ecommerce desde 2007. SEO técnico para catálogos grandes, datos estructurados de producto y migraciones sin perder tráfico.
 lang: es_ES
 author: emirodgar
 sitemap: 1
 feed: 1
 date: 11/09/2026
-date_modified: 13/10/2026
+date_modified: 12/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png

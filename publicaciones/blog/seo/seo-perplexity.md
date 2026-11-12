@@ -1,6 +1,6 @@
 ---
-title: Las claves para posicionar tu web en Perplexity
-description: Descubre los factores SEO que influyen en Perplexity, la inteligencia artificial que está revolucionando la forma de buscar información en la web.
+title: SEO para Perplexity, cómo aparecer como fuente citada
+description: Qué factores influyen para que Perplexity cite tu web, como los dominios de confianza, la frescura, la relevancia semántica o la interacción de los usuarios.
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 layout: emirodgar_post
 author: Emirodgar
@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 12-08-2025
+date_modified: 12/11/2026
 folder: geo
 permalink: seo-perplexity
 ---
