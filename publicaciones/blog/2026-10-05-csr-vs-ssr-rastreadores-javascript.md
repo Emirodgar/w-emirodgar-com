@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 05-10-2026
+date_modified: 12/11/2026
 folder: geo
 permalink: csr-vs-ssr-rastreadores-javascript
 
@@ -136,3 +137,5 @@ Estas pruebas valen más si se ejecutan antes de que el cambio llegue a producci
 Si tu web está en CSR y todavía no sabes qué ven los bots de IA, esta es la prueba más rápida que puedes hacer hoy: abre el código fuente y busca tu contenido.
 
 *Este artículo forma parte de la guía [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

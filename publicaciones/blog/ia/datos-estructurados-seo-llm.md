@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 19-09-2025
+date_modified: 12/11/2026
 folder: geo
 permalink: datos-estructurados-seo-llm
 ---
@@ -72,3 +73,5 @@ No te obsesiones con si el LLM final ve o no tu código `schema`. Preocúpate de
 Así que la próxima vez que alguien te diga que el `schema` ya no importa por la IA, sabrás que la historia es mucho más profunda. Los datos estructurados no han muerto; simplemente, han evolucionado para convertirse en la base silenciosa que alimenta a las nuevas inteligencias.
 
 *Este artículo forma parte de la guía [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

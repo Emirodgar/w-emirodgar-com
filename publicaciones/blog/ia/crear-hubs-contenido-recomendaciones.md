@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 19-05-2026
+date_modified: 12/11/2026
 folder: geo
 permalink: como-crear-hubs-de-recomendacion-ai-ready
 ---
@@ -89,3 +90,5 @@ Cierra con un bloque de conclusión ultra-directo. La IA debe ser capaz de extra
 ```
 
 *Este artículo forma parte de la guía [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

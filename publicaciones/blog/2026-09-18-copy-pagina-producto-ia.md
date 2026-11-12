@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 18-09-2026
+date_modified: 12/11/2026
 folder: geo
 permalink: copy-pagina-producto-ia
 
@@ -50,3 +51,5 @@ Riemer reconoce algo importante: la IA todavía está en una fase temprana y no 
 La conclusión práctica que me llevo, y que aplico con mis clientes de ecommerce, es que no hay que elegir entre optimizar para agentes de IA o para personas. Cuidar el copy de tus páginas de producto beneficia a la vez al SEO tradicional, a la experiencia de usuario y a la calidad de lo que un sistema de IA puede encontrar sobre ti, sin sacrificar ninguno de los tres frentes.
 
 *Este artículo forma parte de la guía [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

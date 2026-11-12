@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 09/11/2026
+date_modified: 12/11/2026
 folder: geo
 permalink: geo-ecommerce
 
@@ -116,3 +116,5 @@ Mide también cada cosa por separado: los resultados de un feed o de una campañ
 En ecommerce, el SEO siempre fue un trabajo de datos de producto. Con la IA, más todavía.
 
 *Este artículo forma parte de la guía [Cómo preparar tu web para agentes de IA](https://emirodgar.com/preparar-web-agentes-ia).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

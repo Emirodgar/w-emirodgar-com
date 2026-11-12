@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 03/11/2026
+date_modified: 12/11/2026
 folder: geo
 permalink: contenido-citable-query-fan-out
 
@@ -132,3 +132,5 @@ Aquí vuelve la prudencia de siempre. Fija una **línea base** con un grupo pequ
 Una página que se puede citar entera se puede citar en trozos. Al revés, no.
 
 *Este artículo forma parte de la guía [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 18-09-2026
-date_modified: 23/10/2026
+date_modified: 12/11/2026
 folder: geo
 permalink: predicciones-seo-2027
 
@@ -65,3 +65,5 @@ Su descripción de las auditorías SEO me suena. El equipo detecta oportunidades
 Su propuesta es que alguien con poder decida con evidencia incompleta, explique el problema, las alternativas, los costes y su razonamiento, y se juzgue el resultado con indicadores de negocio (cuota de mercado, preferencia de marca, retención) con capacidad de corregir el rumbo. Y añade que esa valentía no se puede delegar hacia abajo: si dirección exige previsiones imposibles, el equipo las fabricará. Es una opinión, no un estudio, pero encaja con la cartera de Indig y Johnson: separar lo que se puede probar de lo que se financia por criterio, y decir con claridad cuál es cuál.
 
 *Este artículo forma parte de la guía [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

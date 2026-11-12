@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 30-09-2025
+date_modified: 12/11/2026
 folder: geo
 permalink: como-la-ia-esta-cambiando-la-forma-en-que-buscamos-en-internet
 ---
@@ -48,3 +49,5 @@ El futuro dependerá de qué herramienta consiga algo más que dar buenas respue
 Para editores y medios, la buena noticia es que aunque este tráfico sea menor, [se puede monetizar la visibilidad en IA](https://emirodgar.com/monetizar-visibilidad-ia) porque suele ser un tráfico más cualificado. Y si quieres aprovechar mejor las búsquedas tradicionales que aún convives con la IA, aquí tienes [cómo enriquecerlas con datos de persona y contexto](https://emirodgar.com/enriquecer-busquedas-tradicionales-ia).
 
 *Este artículo forma parte de la guía [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

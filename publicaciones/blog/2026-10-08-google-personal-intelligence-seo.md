@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
+date_modified: 12/11/2026
 folder: geo
 permalink: google-personal-intelligence-seo
 
@@ -46,3 +47,5 @@ Nada radical. Producto bueno, presencia donde está tu audiencia y una lista de 
 El SEO que mide una posición dejó de ser suficiente. El que construye marca, no.
 
 *Este artículo forma parte de la guía [AI Overviews en Google qué significa para editores y marcas en 2026](https://emirodgar.com/ai-overviews-google-publishers).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

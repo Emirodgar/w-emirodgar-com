@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 25-09-2026
+date_modified: 12/11/2026
 folder: geo
 permalink: claude-lee-tu-web-modelo-pequeno
 
@@ -61,3 +62,5 @@ También cambia un poco cómo pienso el bloqueo de bots: si te preocupa que un r
 Como toda filtración, esto hay que cogerlo con la cautela correspondiente: no es un anuncio oficial de Anthropic, es la lectura de alguien que lleva tiempo siguiendo estos leaks con criterio. Pero si se confirma, es un cambio de fondo, no de forma: pasamos de "¿me lee la IA?" a "¿supero el filtro del modelo que decide qué le cuenta a la IA?". Y esa es una pregunta bastante distinta a la que la mayoría nos estábamos haciendo hasta ahora.
 
 *Este artículo forma parte de la guía [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

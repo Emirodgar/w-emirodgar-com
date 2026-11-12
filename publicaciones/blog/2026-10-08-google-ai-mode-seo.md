@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 09/11/2026
+date_modified: 12/11/2026
 folder: geo
 permalink: google-ai-mode-seo
 
@@ -109,3 +109,5 @@ Los límites son los suyos y conviene respetarlos: un solo sitio, un solo experi
 Es el mismo SEO de siempre, pero con una pregunta más: si te citan y qué hacen después.
 
 *Este artículo forma parte de la guía [AI Overviews en Google qué significa para editores y marcas en 2026](https://emirodgar.com/ai-overviews-google-publishers).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

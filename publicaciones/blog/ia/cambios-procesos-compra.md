@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 30-09-2025
+date_modified: 12/11/2026
 folder: ia
 permalink: como-cambia-el-proceso-de-compra-en-la-era-de-la-inteligencia-artificial
 
@@ -63,3 +64,5 @@ En este nuevo escenario, los datos de laboratorio ofrecen el mapa y los datos de
 Este cambio va más allá de la investigación: con protocolos como [Google AP2](https://emirodgar.com/google-ap2-protocolo-compras-online-ia), la propia compra podría acabar ejecutándola un agente de IA en tu nombre.
 
 *Este artículo forma parte de la guía [Cómo preparar tu web para agentes de IA](https://emirodgar.com/preparar-web-agentes-ia).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

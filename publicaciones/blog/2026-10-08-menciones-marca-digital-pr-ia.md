@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 09/11/2026
+date_modified: 12/11/2026
 folder: geo
 permalink: menciones-marca-digital-pr-ia
 
@@ -196,3 +196,5 @@ Aquí no hay atajos. Fija una línea base de prompts de tu sector, anota qué fu
 La marca se construye fuera de tu web. Lo que toca ahora es hacerlo con orden.
 
 *Este artículo forma parte de la guía [Cómo auditar y proteger tu marca en las respuestas de la IA](https://emirodgar.com/proteccion-marca-ia).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

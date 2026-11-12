@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 01-10-2026
-date_modified: 19/10/2026
+date_modified: 12/11/2026
 folder: geo
 permalink: wikipedia-podcasts-reddit-citas-ia
 
@@ -123,3 +123,5 @@ Hay una advertencia que conviene hacer: el artículo es una columna de opinión 
 Aun así, la idea de fondo me parece sólida y práctica: la IA cita lo que otros dicen de ti, así que el SEO ya no puede quedarse en la propia web. Si no tienes relación con la persona de comunicación de tu empresa, este es un buen momento para pedirle un café.
 
 *Este artículo forma parte de la guía [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

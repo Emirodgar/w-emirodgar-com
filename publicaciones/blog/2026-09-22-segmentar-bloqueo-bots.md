@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 22-09-2026
-date_modified: 27/10/2026
+date_modified: 12/11/2026
 folder: geo
 permalink: segmentar-bloqueo-bots
 
@@ -85,3 +85,5 @@ Revisar Search Console con una frecuencia fija (semanal, por ejemplo) y no solo 
 Bloquear bots no es un acto de todo o nada. Un archivo genérico de "bad bots" os ahorra el trabajo de pensar, pero os cuesta funcionalidad real: tarjetas que no cargan, alertas de caída falsas, herramientas de auditoría que dejan de responder. La única categoría que no admite debate es la de escáneres y descargadores masivos; todo lo demás depende de qué uséis y de qué os importe que vea la competencia. Segmentar cuesta una tarde. Arreglar un OpenGraph roto en producción, mucho más.
 
 *Este artículo forma parte de la guía [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

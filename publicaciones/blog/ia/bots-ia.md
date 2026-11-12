@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 18-09-2025
+date_modified: 12/11/2026
 folder: geo
 permalink: /que-leen-los-bots-de-la-ia
 ---
@@ -56,3 +57,5 @@ La inteligencia artificial no ha llegado para sustituir al SEO, sino para redefi
 Si quieres destacar, la clave es generar un contenido tan bueno que no solo interese a los buscadores tradicionales, sino que también sea una **fuente de referencia para la inteligencia artificial**. Ya no se trata de engañar al algoritmo, sino de demostrar que somos la mejor fuente de información. Y eso, amigo, es la base de cualquier estrategia exitosa, sobre todo ahora que las [AI Overviews de Google](https://emirodgar.com/ai-overviews-google-publishers) se quedan con buena parte del tráfico que antes llegaba a tu web.
 
 *Este artículo forma parte de la guía [SEO técnico en la era de la inteligencia artificial](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*

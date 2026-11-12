@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 30-09-2026
+date_modified: 12/11/2026
 folder: geo
 permalink: ia-informacion-erronea-marca
 
@@ -87,3 +88,5 @@ Y un matiz de comunicación: responder a una campaña tiene su riesgo, porque pu
 Con la IA pasa lo mismo que con el SEO de toda la vida: si no cuentas tu versión, la cuenta otro.
 
 *Este artículo forma parte de la guía [Cómo auditar y proteger tu marca en las respuestas de la IA](https://emirodgar.com/proteccion-marca-ia).*
+
+*Este artículo forma parte de la guía [El SEO en la era de la IA - Cómo optimizar para los modelos de lenguaje](https://emirodgar.com/seo-inteligencia-artificial).*
