@@ -10,7 +10,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   background: #fff;
-  color: #999;
+  color: #595959;
   line-height: 1.5;
 }
 
@@ -28,7 +28,7 @@ img:hover {
 }
 
 a {
-  color: #33bfd0;
+  color: #0e7c8a;
   text-decoration: none;
   -webkit-transition: color 0.3s ease-out;
   -o-transition: color 0.3s ease-out;
@@ -36,7 +36,7 @@ a {
 }
 
 a:hover {
-  color: #70d2de;
+  color: #0a5a66;
 }
 
 img {
@@ -73,7 +73,7 @@ h1 {
   font-weight: 500;
 }
 
-h3 {
+h3, .gallery h2 {
   font-size: 1.3em;
   margin: 2rem 0 1rem 0;
   line-height: 0.5;
@@ -82,7 +82,7 @@ h3 {
 
 header {
   text-align: center;
-  color: #33bfd0;
+  color: #0e7c8a;
   text-transform: uppercase;
 }
 
@@ -226,5 +226,25 @@ footer {
   .item {
     max-width: 100%;
     float: none;
+  }
+}
+.lead {
+  text-align: center;
+  max-width: 44em;
+  margin: 1em auto 0;
+}
+
+@media (max-width: 640px) {
+  .main {
+    padding: 2em 0;
+  }
+
+  .item {
+    max-width: 100%;
+    float: none;
+  }
+
+  .gallery ul li {
+    flex-basis: 100%;
   }
 }
