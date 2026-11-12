@@ -1,0 +1,49 @@
+# Emirodgar
+
+> Web personal de Emilio Rodríguez García, consultor SEO y especialista en IA, agentes y transformación digital desde 2007. Profesor en Deusto, USAL y UNIR. Publica guías, análisis y herramientas sobre SEO técnico y estratégico, GEO (Generative Engine Optimization), AEO y analítica web, en español.
+
+## Sobre el autor y servicios
+
+- [Emilio Rodríguez García](https://emirodgar.com/emilio-rodriguez): trayectoria y experiencia
+- [Consultor SEO](https://emirodgar.com/consultor-seo): servicios de consultoría SEO
+- [Consultor SEO en Salamanca](https://emirodgar.com/consultor-seo-salamanca): servicio local
+- [Auditoría SEO](https://emirodgar.com/auditoria-seo): qué incluye una auditoría
+- [Estrategia SEO](https://emirodgar.com/estrategia-seo): enfoque estratégico
+- [Casos de éxito SEO](https://emirodgar.com/casos-exito-seo): resultados reales
+
+## GEO, AEO y SEO para IA
+
+- [Qué es GEO y en qué se diferencia del SEO y del AEO](https://emirodgar.com/que-es-geo)
+- [Cómo optimizar para AEO y aparecer en ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt)
+- [Cómo escribir contenido que la IA pueda citar y cubrir el query fan-out](https://emirodgar.com/contenido-citable-query-fan-out)
+- [Cómo medir tu visibilidad en la IA](https://emirodgar.com/medir-visibilidad-ia)
+- [Menciones de marca y digital PR para aparecer en la IA](https://emirodgar.com/menciones-marca-digital-pr-ia)
+- [Cómo preparar tu web para agentes de IA](https://emirodgar.com/preparar-web-agentes-ia)
+- [GEO para ecommerce](https://emirodgar.com/geo-ecommerce)
+- [SEO técnico en la era de la IA](https://emirodgar.com/seo-tecnico-en-la-era-de-la-inteligencia-artificial)
+- [Zero-click y caída del CTR con la IA](https://emirodgar.com/zero-click-caida-ctr-ia)
+- [llms.txt: para qué sirve y si merece la pena](https://emirodgar.com/llms-txt)
+- [Bloquear bots de IA con criterio](https://emirodgar.com/segmentar-bloqueo-bots)
+- [CSR vs SSR: qué rastreadores ven tu JavaScript](https://emirodgar.com/csr-vs-ssr-rastreadores-javascript)
+
+## Herramientas y proyectos
+
+- [Extensión SEO para Chrome](https://emirodgar.com/extension-seo): auditoría on-page en tiempo real
+- [Proyectos](https://emirodgar.com/proyectos)
+- [Análisis SEO y comparativas de visibilidad](https://emirodgar.com/analisis-seo)
+- [Recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/)
+- [Actualizaciones del algoritmo de Google](https://emirodgar.com/google-updates/)
+
+## Índices de contenido
+
+- [Todas las publicaciones](https://emirodgar.com/publicaciones)
+- [Publicaciones de SEO](https://emirodgar.com/publicaciones-seo)
+- [Publicaciones de IA](https://emirodgar.com/publicaciones-ia)
+- [Publicaciones de GEO](https://emirodgar.com/publicaciones-geo)
+- [Mapa web](https://emirodgar.com/mapa-web)
+
+## Optional
+
+- [Publicaciones de analítica](https://emirodgar.com/publicaciones-analitica)
+- [Publicaciones de marketing](https://emirodgar.com/publicaciones-marketing)
+- [Publicaciones de programación](https://emirodgar.com/publicaciones-programacion)

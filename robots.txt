@@ -1,9 +1,11 @@
 # ¿Quieres que hablemos? https://www.linkedin.com/in/emirodgar/
 
-Sitemap: https://emirodgar.com/sitemap-posts.xml
+Sitemap: https://emirodgar.com/sitemap.xml
 
-User-agent: Applebot
-Disallow:/
+User-agent: *
+Allow: /
+
+
 User-agent: 360Spider
 Disallow:/
 User-agent: 404checker
@@ -21,8 +23,6 @@ Disallow:/
 User-agent: ADmantX
 Disallow:/
 User-agent: AfD-Verbotsverfahren
-Disallow:/
-User-agent: AhrefsBot
 Disallow:/
 User-agent: AIBOT
 Disallow:/
@@ -66,8 +66,6 @@ User-agent: Badass
 Disallow:/
 User-agent: Bandit
 Disallow:/
-User-agent: Barkrowler
-Disallow:/
 User-agent: BatchFTP
 Disallow:/
 User-agent: Battleztar Bazinga
@@ -89,8 +87,6 @@ Disallow:/
 User-agent: Black Hole
 Disallow:/
 User-agent: BlackWidow
-Disallow:/
-User-agent: BLEXBot
 Disallow:/
 User-agent: Blow
 Disallow:/
@@ -118,8 +114,6 @@ User-agent: Bullseye
 Disallow:/
 User-agent: BunnySlippers
 Disallow:/
-User-agent: BuzzSumo
-Disallow:/
 User-agent: Calculon
 Disallow:/
 User-agent: CATExplorador
@@ -135,8 +129,6 @@ Disallow:/
 User-agent: ChinaClaw
 Disallow:/
 User-agent: Chlooe
-Disallow:/
-User-agent: Claritybot
 Disallow:/
 User-agent: Cliqzbot
 Disallow:/
@@ -216,8 +208,6 @@ User-agent: DomainSigmaCrawler
 Disallow:/
 User-agent: DomainStatsBot
 Disallow:/
-User-agent: Dotbot
-Disallow:/
 User-agent: Download Wonder
 Disallow:/
 User-agent: Dragonfly
@@ -247,8 +237,6 @@ Disallow:/
 User-agent: evc-batch
 Disallow:/
 User-agent: Evil
-Disallow:/
-User-agent: Exabot
 Disallow:/
 User-agent: Express WebPictures
 Disallow:/
@@ -442,11 +430,7 @@ User-agent: Lightspeedsystems
 Disallow:/
 User-agent: Likse
 Disallow:/
-User-agent: Linkdexbot
-Disallow:/
 User-agent: LinkextractorPro
-Disallow:/
-User-agent: LinkpadBot
 Disallow:/
 User-agent: LinkScan
 Disallow:/
@@ -484,8 +468,6 @@ User-agent: magpie-crawler
 Disallow:/
 User-agent: Mail.RU_Bot
 Disallow:/
-User-agent: Majestic12
-Disallow:/
 User-agent: MarkMonitor
 Disallow:/
 User-agent: MarkWatch
@@ -517,10 +499,6 @@ Disallow:/
 User-agent: MIIxpc
 Disallow:/
 User-agent: Mister PiX
-Disallow:/
-User-agent: MJ12bot
-Disallow:/
-User-agent: Mojeek
 Disallow:/
 User-agent: Morfeus Fucking Scanner
 Disallow:/
@@ -563,8 +541,6 @@ Disallow:/
 User-agent: Nettrack
 Disallow:/
 User-agent: Net Vampire
-Disallow:/
-User-agent: Netvibes
 Disallow:/
 User-agent: NetZIP
 Disallow:/
@@ -702,8 +678,6 @@ User-agent: Ripper
 Disallow:/
 User-agent: RocketCrawler
 Disallow:/
-User-agent: Rogerbot
-Disallow:/
 User-agent: SalesIntelligent
 Disallow:/
 User-agent: SBIder
@@ -716,47 +690,21 @@ User-agent: scan.lol
 Disallow:/
 User-agent: Scrapy
 Disallow:/
-User-agent: Screaming
-Disallow:/
 User-agent: ScreenerBot
 Disallow:/
 User-agent: Searchestate
 Disallow:/
-User-agent: SearchmetricsBot
-Disallow:/
-User-agent: Semrush
-Disallow:/
-User-agent: SemrushBot
-Disallow:/
-User-agent: SEOkicks
-Disallow:/
-User-agent: SEOlyticsCrawler
-Disallow:/
-User-agent: Seomoz
-Disallow:/
-User-agent: SEOprofiler
-Disallow:/
 User-agent: seoscanners
 Disallow:/
-User-agent: SEOstats
-Disallow:/
 User-agent: sexsearcher
-Disallow:/
-User-agent: Seznam
-Disallow:/
-User-agent: SeznamBot
 Disallow:/
 User-agent: Shodan
 Disallow:/
 User-agent: Siphon
 Disallow:/
-User-agent: SISTRIX
-Disallow:/
 User-agent: Sitebeam
 Disallow:/
 User-agent: SiteExplorer
-Disallow:/
-User-agent: Siteimprove
 Disallow:/
 User-agent: SiteLockSpider
 Disallow:/
@@ -767,8 +715,6 @@ Disallow:/
 User-agent: Site Sucker
 Disallow:/
 User-agent: Sitevigil
-Disallow:/
-User-agent: Slackbot-LinkExpanding
 Disallow:/
 User-agent: SlySearch
 Disallow:/
@@ -915,8 +861,6 @@ Disallow:/
 User-agent: WallpapersHD
 Disallow:/
 User-agent: WASALive-Bot
-Disallow:/
-User-agent: WBSearchBot
 Disallow:/
 User-agent: Webalta
 Disallow:/
