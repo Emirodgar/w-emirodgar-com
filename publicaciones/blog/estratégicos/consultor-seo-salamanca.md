@@ -1,12 +1,12 @@
 ---
-title: Consultor SEO en Salamanca
-description: Experto SEO con más de 10 años de experiencia en múltiples agencias, países y proyectos. Hablemos, es gratis.
+title: Consultor SEO en Salamanca | Emilio Rodríguez, desde 2008
+description: Consultor SEO independiente en Salamanca desde 2008. SEO técnico, SEO local y GEO con trato directo, y casos como la UPSA, La Gaceta o Grupo Tribuna. Hablemos, es gratis.
 lang: es_ES
 author: emirodgar
 sitemap: 1
 feed: 1
 date: 27/01/2022
-date_modified: 16/10/2026
+date_modified: 12/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -20,6 +20,18 @@ redirect_from:
 Soy **Emilio Rodríguez**, consultor SEO trabajando en Salamanca desde el 2008 para proyectos nacionales e internacionales.  
 
 En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas como la **Universidad Pontificia de Salamanca**, **La Gaceta de Salamanca**, **Grupo Tribuna**, **Oyrsa**, **Opal Vidrieras** o el histórico café bar **Novelty**.
+
+## Servicios de SEO en Salamanca
+
+Trabajo como experto SEO de forma independiente, sin intermediarios. Estos son los servicios que contratan las empresas de Salamanca y provincia:
+
+- **Auditoría SEO técnica**: rastreo, indexación, velocidad y arquitectura, con datos de Search Console. [Cómo es una auditoría](https://emirodgar.com/auditoria-seo).
+- **Estrategia de posicionamiento web**: qué contenidos crear, cuáles consolidar y en qué orden. [Estrategia SEO](https://emirodgar.com/estrategia-seo).
+- **SEO local**: ficha de Google Business Profile, reseñas y citaciones para búsquedas de "servicios en Salamanca" o por barrio.
+- **SEO para IA (GEO)**: que tu web se pueda citar en ChatGPT, Perplexity y los resúmenes de Google. Te lo cuento en la [guía de SEO en la era de la IA](https://emirodgar.com/seo-inteligencia-artificial).
+- **Formación de equipos**: sesiones prácticas para que tu equipo de marketing trabaje el SEO por su cuenta.
+
+Si necesitas un sitio grande o varios perfiles a la vez, [te explico cuándo tiene más sentido una agencia](https://emirodgar.com/agencia-seo-salamanca).
 
 
 {% raw %}
@@ -56,18 +68,26 @@ En Salamanca, he desarrollado estrategias de **posicionamiento SEO** para marcas
   "@type": "FAQPage",
   "mainEntity": [{
     "@type": "Question",
-    "name": "¿Quién es Emilio Rodríguez, consultor SEO en Salamanca?",
+    "name": "¿Cuánto tiempo tarda en verse el trabajo de un consultor SEO?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Emilio Rodríguez (Emirodgar) es consultor SEO en Salamanca desde 2008, con perfil técnico y docente en el Máster de Marketing Digital de la USAL, Deusto y UNIR."
+      "text": "Los resultados en Salamanca suelen ser más rápidos que a nivel nacional por la competencia geográfica. Puedes ver tracción en 3-4 meses, pero la autoridad real se consolida al año."
     }
   },
   {
     "@type": "Question",
-    "name": "¿Qué servicios ofrece un experto SEO en Salamanca?",
+    "name": "¿Es mejor una agencia o un consultor SEO independiente?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Auditoría técnica, estrategia de palabras clave, Linkbuilding de autoridad y optimización de SEO Local para negocios salmantinos."
+      "text": "La agencia ofrece volumen; el consultor ofrece especialización y transparencia directa. Si buscas un socio estratégico que hable tu idioma y no un gestor de cuentas, la consultoría independiente es tu mejor ROI."
+    }
+  },
+  {
+    "@type": "Question",
+    "name": "¿Trabajas el SEO Local y Google Maps?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sí. Optimizo la ficha de Google Business Profile y las citaciones para que aparezcas cuando alguien busque servicios en Salamanca."
     }
   }]
 }]
@@ -141,7 +161,10 @@ Los resultados en Salamanca suelen ser más rápidos que a nivel nacional por la
 La agencia ofrece volumen; el consultor ofrece **especialización y transparencia directa**. Si buscas un socio estratégico que hable tu idioma y no un gestor de cuentas, la consultoría independiente es tu mejor ROI.
 
 ### ¿Trabajas el SEO Local y Google Maps?
-Absolutamente. El 46% de las búsquedas en Google tienen intención local. Optimizamos tu ficha de **Google Business Profile** y tus citaciones para que aparezcas cuando alguien busque "servicios en Salamanca".
+Sí. Optimizo tu ficha de **Google Business Profile** y tus citaciones para que aparezcas cuando alguien busque "servicios en Salamanca".
+
+### ¿Quién domina Google en "consultor SEO Salamanca"?
+Lo medí con datos de Semrush: el resultado está dominado por perfiles individuales y no por agencias. Tienes el [estudio completo con la comparativa de visibilidad](https://emirodgar.com/analisis-seo/consultor-seo-salamanca), incluido mi propio sitio.
 
 ---
 

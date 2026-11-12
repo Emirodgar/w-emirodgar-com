@@ -1,5 +1,5 @@
 ---
-title: Comparativa de visibilidad SEO en Salamanca, perfiles individuales (datos Semrush)
+title: Quién domina Google en consultoría SEO en Salamanca, estudio con datos de Semrush
 description: Estudio con datos de Semrush sobre quién domina el SERP de consultoría SEO en Salamanca. Compara a Saúl Sánchez Agency, Jesús López SEO, Erwin Salas, Morgan Media, ExpertoSEO y emirodgar.com.
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 layout: emirodgar_analisis
@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 0
 date: 11/09/2026
-date_modified: 16/10/2026
+date_modified: 12/11/2026
 last_update: 8 de octubre de 2026
 folder: SEO / Marketing digital
 tag: SEO competitivo · autoanálisis
@@ -27,7 +27,7 @@ permalink: /analisis-seo/consultor-seo-salamanca
 	<span class="pd-stack-tag">Fuente: Semrush</span>
 </div>
 
-<div class="as-callout">Segundo autoanálisis de esta sección. "Consultor SEO Salamanca" no es lo mismo que "agencia SEO Salamanca" (ya analizado <a href="https://emirodgar.com/analisis-seo/agencia-seo-salamanca">aquí</a>): el SERP de esta variante lo dominan perfiles individuales, no agencias, y el reparto de quién gana cambia.</div>
+<div class="as-callout">Segundo autoanálisis de esta sección. "Consultor SEO Salamanca" no es lo mismo que "agencia SEO Salamanca" (ya analizado <a href="https://emirodgar.com/analisis-seo/agencia-seo-salamanca">aquí</a>): el SERP de esta variante lo dominan perfiles individuales, no agencias, y el reparto de quién gana cambia. Si lo que buscas es contratar, ve a mi página de <a href="https://emirodgar.com/consultor-seo-salamanca">consultor SEO en Salamanca</a>.</div>
 
 <div class="pd-section">
 <h2 class="pd-section-title">La keyword "consultor SEO Salamanca"</h2>
