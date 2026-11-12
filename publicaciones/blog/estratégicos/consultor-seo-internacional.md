@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 11/09/2026
-date_modified: 29/10/2026
+date_modified: 12/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -85,8 +85,8 @@ Posicionar una web en varios países no es traducir el contenido y esperar resul
 | Mercado | Enfoque habitual |
 | :--- | :--- |
 | **España** | Base de mi actividad desde 2007; sede en Salamanca con proyectos a nivel nacional. |
-| **México** | Uno de los mercados hispanohablantes con mayor volumen de búsqueda; especial atención a diferencias de vocabulario frente al español de España. |
-| **Colombia** | Estrategias adaptadas a un ecosistema digital en crecimiento, con oportunidades en nichos aún poco saturados. |
+| **[México](https://emirodgar.com/consultor-seo-mexico)** | Uno de los mercados hispanohablantes con mayor volumen de búsqueda; especial atención a diferencias de vocabulario frente al español de España. |
+| **[Colombia](https://emirodgar.com/consultor-seo-colombia)** | Estrategias adaptadas a un ecosistema digital en crecimiento, con oportunidades en nichos aún poco saturados. |
 | **Argentina** | Ajuste de tono, terminología y referencias locales frente al español neutro o de España. |
 | **Chile** | Proyectos de expansión para empresas españolas y regionales con foco en e-commerce y servicios B2B. |
 

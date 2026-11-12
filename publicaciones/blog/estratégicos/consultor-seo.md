@@ -198,7 +198,7 @@ Mis tarifas son bastante más moderadas, y lo digo sin rodeos: trabajo con pymes
 Según el tipo de proyecto, puede interesarte profundizar en alguno de estos enfoques concretos:
 
 * **[Consultor SEO Freelance](https://emirodgar.com/consultor-seo-freelance):** cómo trabajo sin la estructura ni los sobrecostes de una agencia, con trato directo de principio a fin.
-* **[Consultor SEO Internacional](https://emirodgar.com/consultor-seo-internacional):** estrategias de posicionamiento multi-país para empresas que se expanden a México, Colombia, Argentina o Chile, con homologación ICEX Next.
+* **[Consultor SEO Internacional](https://emirodgar.com/consultor-seo-internacional):** estrategias de posicionamiento multi-país para empresas que se expanden a México, Colombia, Argentina o Chile, con homologación ICEX Next. También con página específica para [México](https://emirodgar.com/consultor-seo-mexico) y [Colombia](https://emirodgar.com/consultor-seo-colombia).
 * **[Consultor SEO para Ecommerce](https://emirodgar.com/consultor-seo-ecommerce):** optimización técnica de catálogos grandes, navegación por facetas, datos estructurados de producto y migraciones sin pérdida de tráfico.
 
 ---
