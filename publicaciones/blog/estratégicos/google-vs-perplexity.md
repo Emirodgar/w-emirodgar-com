@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 11/06/2024
-date_modified: 13/10/2026
+date_modified: 13/11/2026
 folder: estrategicos
 layout: emirodgar_post
 permalink: google-vs-perplexity
@@ -44,6 +44,8 @@ Cuando escribí este post, las respuestas generadas por IA en Google afectaban s
 - **AI Overviews ya no es un experimento.** Según [SparkToro](https://sparktoro.com/), aparecen en más de un 20% de las búsquedas de Google, y otros estudios que miden conjuntos de consultas distintos las sitúan bastante más arriba, sobre todo en búsquedas informativas y de cola larga. Además, Google ha añadido el modo IA, una experiencia de búsqueda conversacional completa.
 - **Menos clics.** Las mismas fuentes apuntan a que, cuando hay respuesta de IA, el CTR de los resultados orgánicos cae de forma notable (hablan de reducciones cercanas al 60%), y que en Estados Unidos casi 7 de cada 10 búsquedas terminan sin ningún clic. Son datos de estudios concretos y no son comparables entre sí, pero la dirección es clara.
 - **Perplexity ha crecido, pero no ha destronado a nadie.** Procesa del orden de mil millones de consultas al mes y se ha valorado en miles de millones de dólares, pero su cuota entre los chatbots sigue siendo pequeña frente a ChatGPT. Ha lanzado su propio navegador (Comet) y ha dejado la publicidad para centrarse en la suscripción. Son cifras de terceros, no confirmadas por la compañía.
+- **Perplexity cita mucho más que el resto.** Media de fuentes distintas por respuesta (LLM Pulse, septiembre de 2026): Perplexity 10,64, frente a 6,51 de ChatGPT y 3,55 de Gemini. Además, según Ahrefs, el 65 % de las URL que cita Perplexity están en el top 10 de Google para la misma consulta, frente al 10 % de ChatGPT. Posicionar en Google ayuda mucho más en Perplexity.
+- **El reparto entre asistentes se mueve.** Según Similarweb, la cuota de ChatGPT en el tráfico de plataformas de IA bajó del 76 % al 53 % entre junio de 2025 y mayo de 2026, mientras Gemini subía al 27 % y Claude a cerca del 9 %. Google, por su parte, mantiene el 91,1 % del mercado de buscadores (StatCounter, agosto de 2026).
 - **El problema con los editores sigue sin resolverse.** Perplexity tiene demandas abiertas de medios como News Corp, Dow Jones o The New York Times, y ha puesto en marcha programas de reparto de ingresos con algunos editores. La pregunta que planteaba la misión de Google, quién cobra por la información, sigue sin respuesta. Lo he analizado también en [Google pagando a los editores por la IA](https://emirodgar.com/google-paga-editores-ia).
 
 ## ¿Qué implica para el SEO?

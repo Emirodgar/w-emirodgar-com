@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 12/11/2026
+date_modified: 13/11/2026
 folder: geo
 permalink: google-ai-mode-seo
 
@@ -23,6 +23,8 @@ Lo que me interesa aquí no es la novedad, sino qué cambia para quien trabaja S
 Las **[AI Overviews](https://emirodgar.com/ai-overviews-google-publishers)** son un resumen que aparece dentro de la página de resultados clásica. **AI Mode** es una pantalla aparte: la respuesta es el resultado, y la conversación continúa con preguntas de seguimiento.
 
 Comparten técnica. Google lo documenta así: usa *query fan-out*, es decir, "múltiples búsquedas relacionadas en subtemas y fuentes de datos", para encontrar un conjunto más amplio y diverso de enlaces útiles. Cómo se aplica a tu contenido lo cuento en [cómo escribir contenido citable y cubrir el fan-out](https://emirodgar.com/contenido-citable-query-fan-out).
+
+Un dato de escala: según los resultados del segundo trimestre de 2026 de Alphabet, AI Mode superó los 1.000 millones de usuarios mensuales. Aun así, Google mantiene el 91,1 % de cuota del mercado de buscadores mundial (StatCounter, agosto de 2026): no ha perdido la búsqueda, la transforma desde dentro. Y AI Mode cita menos que otras superficies: de media 5,16 fuentes distintas por respuesta, frente a 8,74 de AI Overviews (LLM Pulse, septiembre de 2026), así que hay menos huecos por respuesta.
 
 ## Qué dice Google que necesitas para aparecer
 

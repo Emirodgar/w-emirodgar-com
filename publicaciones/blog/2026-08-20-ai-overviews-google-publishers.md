@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 20-08-2026
+date_modified: 13/11/2026
 folder: geo
 permalink: /ai-overviews-google-publishers
 ---
@@ -33,6 +34,16 @@ Hasta ahora casi todo eran estimaciones. Un [estudio publicado en septiembre de 
 - **Satisfacción**: los usuarios de AI Mode declararon menos satisfacción, utilidad y control, y confiaron menos en Google. Además, el porcentaje de participantes que usó Bing, DuckDuckGo o Yahoo subió **11,2 puntos**.
 
 Hay matices importantes: la muestra era joven, con estudios altos y de siete días, y casi el 95 % de las búsquedas pasaron por AI Mode porque se forzó, algo distinto a que cada usuario decida si lo usa (antes del experimento solo suponía el 0,6 %). Aun así, es la mejor evidencia hasta ahora de que un Google "IA primero" reduce el tráfico a las webs, y de que ese cambio no tiene por qué ser mejor para el usuario.
+
+### Datos más recientes sobre cobertura y citas
+
+Según la edición de septiembre de 2026 de la newsletter Seopatía, que recoge datos de Seer Interactive y LLM Pulse:
+
+- **La cobertura depende del tipo de consulta.** Seer ve un AI Overview en el 36 % de las consultas informativas, pero en el 95,4 % de las comparativas y el 85,9 % de las formuladas como pregunta. El tracker de LLM Pulse, con prompts genéricos en forma de pregunta, marcaba un 90,62 % en septiembre de 2026.
+- **Más exposición, no más visitas.** Las páginas citadas en un AI Overview duplicaron sus impresiones en la segunda mitad de 2025 con los clics estables (Seer).
+- **Es la superficie que más cita.** Media de fuentes distintas por respuesta (LLM Pulse, septiembre de 2026): AI Overviews 8,74, frente a 6,51 de ChatGPT, 5,16 de AI Mode y 3,55 de Gemini. Más huecos para aparecer, pero también más competencia.
+
+Son datos de proveedores, sobre todo de EE. UU. Sirven para ver la dirección, no para fijar objetivos. Más sobre el efecto en clics en [zero-click y caída del CTR](https://emirodgar.com/zero-click-caida-ctr-ia).
 
 ## El mito de robots.txt como barrera de protección
 
