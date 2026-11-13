@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 12/11/2026
+date_modified: 13/11/2026
 folder: geo
 permalink: menciones-marca-digital-pr-ia
 
@@ -105,6 +105,12 @@ Qué haría con esto: si un medio socio habla de tu sector, una mención ahí ti
 Gianluca Fiorelli, en [Authority Beyond Your Website](https://www.advancedwebranking.com/blog/brand-amplification-brand-authority-ai-search), pone el mismo límite con una prueba sencilla. Imagina que tienes una investigación propia y puedes ofrecerla a dos medios: uno con acuerdo con una empresa de IA pero poco relacionado con tu sector, y la BBC, de la que no encuentra un acuerdo equivalente. Nadie rechazaría la BBC por no figurar en una hoja de cálculo de acuerdos. Su conclusión es que la **cercanía a los ecosistemas de IA** sirve para desempatar entre dos objetivos igual de buenos, y no para convertir uno malo en bueno. Un acuerdo demuestra que existe una relación entre el medio y el operador, no que a ti te vayan a recomendar por salir ahí.
 
 Si quieres explorar esa lista, Fiorelli comparte una [hoja de cálculo](https://docs.google.com/spreadsheets/d/1GcWsD3D5alY0cIyx4OZWNcZO6DncPzTONejkD8H9Odc/edit?gid=1914028380#gid=1914028380) con 202 publicaciones mapeadas a acuerdos con OpenAI, Google y Perplexity. Lo útil es que distingue el nivel A (el medio aparece nombrado en la documentación oficial) del B (se deduce del acuerdo con su grupo editorial), para no tomar una inferencia por un hecho. La uso como acelerador de investigación, no como respuesta.
+
+### Qué medios españoles cita la IA
+
+LLM Pulse midió qué medios españoles aparecen más en respuestas de IA generadas para España (porcentaje de respuestas que los citan al menos una vez, a 26 de septiembre de 2026): El País (2,36 %), elEconomista (1,20 %), La Vanguardia (1,08 %), El Español (1,07 %), El Independiente (0,87 %), ABC y 20minutos (0,86 % cada uno), La Razón (0,74 %), El Confidencial (0,72 %) y Xataka Móvil (0,67 %). Ahrefs publicó en julio un estudio similar con conclusiones parecidas: El País primero, seguido de Infobae, La Vanguardia, El Español y La Razón.
+
+Para ponerlo en perspectiva, en el estudio de medios en EE. UU. de LLM Pulse (más de 5,3 millones de citas) solo el 3,26 % de las citas iban a medios de comunicación. El resto iba a foros, vídeos, tiendas, webs de producto, reseñas y webs de empresa. El medio más citado era TechRadar, y el 51,9 % de las citas a medios iban a medios de tecnología. Mi lectura es que salir en prensa sigue siendo útil, pero por el contexto: la IA cita medios al responder comparativas y preguntas de "mejor X", no por prestigio. Son datos de un proveedor.
 
 ## El papel de YouTube
 

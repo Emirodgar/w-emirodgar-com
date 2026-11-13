@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 12/11/2026
+date_modified: 13/11/2026
 folder: geo
 permalink: medir-visibilidad-ia
 
@@ -100,6 +100,10 @@ Si te preguntas por qué el dato de un día no sirve, [Ahrefs ha medido](https:/
 - **Ranking y tráfico orgánico pesan más que el DR o los backlinks** en la estabilidad de las citas de Google, y un título y una descripción cercanos a la pregunta ayudan algo, aunque poco.
 
 Lo que yo saco para tu medición: en lugar de preguntarte "¿me han citado hoy?", cuenta **cuántos de los últimos siete días** has salido para cada pregunta, y no atribuyas a un cambio en la página una reaparición aislada, porque muchas citas vuelven solas. Si una caída se mantiene dos o tres semanas, entonces sí toca revisar la página, su posición en Google y si responde de verdad a la pregunta. Son datos de una muestra concreta y de un periodo corto, así que valen como orden de magnitud, no como regla fija.
+
+### Por qué no sirve mirar una posición
+
+SparkToro y Gumshoe midieron la consistencia con 600 voluntarios y casi 3.000 consultas: hay menos de 1 probabilidad entre 100 de que la IA dé la misma lista de marcas dos veces, y en torno a 1 entre 1.000 de que las dé en el mismo orden. Las marcas líderes, eso sí, aparecían en el 55 % al 77 % de las respuestas en categorías consolidadas. La conclusión práctica es medir el **porcentaje de respuestas en las que apareces**, sobre muchos prompts y muchas ejecuciones, y no una posición. Una captura suelta no sirve para decidir.
 
 ### Bing Webmaster Tools: Topics Portfolio
 

@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 01-10-2026
-date_modified: 12/11/2026
+date_modified: 13/11/2026
 folder: geo
 permalink: wikipedia-podcasts-reddit-citas-ia
 
@@ -84,6 +84,18 @@ El 8 de octubre de 2026 Google documentó el **UGC Fresh Data Program**, un prog
 - El contenido debe enviarse en minutos, y los contadores de interacción actualizarse en las primeras 72 horas.
 
 Se solicita con un formulario y Google responde en 6-8 semanas. Google no dice quién participa; Barry Schwartz supone que plataformas como Reddit ya lo están. Es una suposición, no un dato. Lo que sí deja claro es que Google quiere ese contenido de usuarios fresco, y por eso tiene sentido que aparezca tanto en las respuestas de IA. Para casi cualquier otra web no aplica, pero conviene saberlo si gestionas una comunidad o un foro propio.
+
+## Qué dominios cita más la IA, en general
+
+Para poner los tres canales en perspectiva, estos son los 10 dominios más citados, medidos como el porcentaje de respuestas que citan al menos un enlace del dominio, en todas las plataformas (LLM Pulse, septiembre de 2026, recogido en la newsletter Seopatía): youtube.com (10,47 %), google.com (8,72 %), reddit.com (6,56 %), facebook.com (3,95 %), instagram.com (2,65 %), linkedin.com (2,43 %), trustpilot.com (2,02 %), wikipedia.org (1,72 %), tiktok.com (1,42 %) y apple.com (1,12 %).
+
+El patrón es el de siempre: vídeo, redes sociales, foros y reseñas, es decir, contenido de usuarios y opiniones de terceros. Ahrefs lo refuerza con 75.000 marcas: las menciones en YouTube son el factor que más correlaciona con la visibilidad en IA (0,737), por encima de las menciones de marca en la web y muy por encima de los backlinks, con una correlación débil. Es correlación, no causalidad.
+
+Y el mapa cambia rápido. Semrush observó que el porcentaje de respuestas de ChatGPT que citaban Reddit pasó de cerca del 60 % a cerca del 10 % en mes y medio, entre principios de agosto y mediados de septiembre de 2025. Un cambio de modelo y las fuentes se redibujan.
+
+También cambia por motor: no todas las IA citan lo mismo ni la misma cantidad. Media de fuentes distintas por respuesta según LLM Pulse (septiembre de 2026): Perplexity 10,64, Google AI Overviews 8,74, ChatGPT 6,51, Google AI Mode 5,16 y Gemini 3,55. Más citas por respuesta significa más huecos para aparecer, y por eso hay marcas que van bien en Perplexity y casi no salen en Gemini.
+
+En salud, un análisis de LLM Pulse de 825.000 citas en preguntas de salud encontró que la fuente más citada era PubMed Central (4,08 %), seguida de YouTube y Google. Las fuentes médicas de autoridad (gobiernos, academia, editoriales médicas y hospitales) sumaban solo el 17,3 %, y Mayo Clinic, WebMD o Healthline tenían individualmente menos del 1 %.
 
 ## Otro dato: los listados de terceros dominan las búsquedas "mejor X"
 

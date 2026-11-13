@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 12/11/2026
+date_modified: 13/11/2026
 folder: geo
 permalink: zero-click-caida-ctr-ia
 
@@ -58,6 +58,17 @@ Tras un pico puntual cercano a los 108.000 a mediados de agosto, la curva no vue
 Hay un dato más general. Según SparkToro y Similarweb, citados por Kevin Indig en Growth Memo (octubre de 2026), las búsquedas sin clic pasaron del 60,45 % de las búsquedas en Google en EE. UU. en 2024 al 68,01 % a principios de 2026. SparkToro estima además que solo alrededor de un tercio de las búsquedas de 2026 genera algún clic. Es de nuevo Estados Unidos, así que no lo traslades sin más a España.
 
 Y una pista para no dar por perdida esa visita: SparkToro y Similarweb siguieron durante siete días el comportamiento de usuarios tras recibir una recomendación de marca de una IA, y las visitas **directas** a esas marcas subieron. Es decir, parte de la influencia de la IA puede estar apareciendo en la columna de tráfico directo, no en la de IA ni en la de búsqueda. Es un estudio concreto y habría que ver si se repite en tu mercado, pero sirve para no leer el tráfico directo como ruido.
+
+## Más exposición, los mismos clics, y un tráfico que convierte mejor
+
+Otros datos recogidos en la edición de septiembre de 2026 de la newsletter Seopatía, que ayudan a no leer solo el CTR:
+
+- **SparkToro** (con datos de Similarweb) sitúa las búsquedas sin clic de Google en EE. UU. en el 68 % a principios de 2026, frente al 60 % de 2024 y el 49 % de 2019.
+- **Seer Interactive** aporta un matiz: las páginas citadas dentro de un AI Overview duplicaron sus impresiones en la segunda mitad de 2025 mientras sus clics se mantenían estables. Más exposición, no más visitas. Por eso el CTR cuenta cada vez menos de la película.
+- **No todas las consultas activan un AI Overview por igual.** Seer lo ve en el 36 % de las informativas, pero en el 95,4 % de las comparativas y el 85,9 % de las formuladas como pregunta. El tracker de cobertura de AI Overviews de LLM Pulse, que usa prompts genéricos en forma de pregunta, marcaba un 90,62 % en septiembre de 2026. Cuanto más se parece la búsqueda a una conversación, más probable es la respuesta con IA.
+- **El tráfico que llega desde la IA es pequeño, pero convierte.** Según Adobe, el tráfico de IA hacia ecommerce en EE. UU. creció un 393 % interanual en el primer trimestre de 2026, y en marzo esas visitas convertían un 42 % mejor que el resto de canales (un año antes, un 38 % peor) y pasaban un 48 % más de tiempo en la web. En volumen sigue siendo poco: Chartbeat midió que ChatGPT envió unos 1.200 millones de visitas a medios entre septiembre y noviembre de 2025, menos del 1 % de sus visitas de referencia.
+
+Todo EE. UU., y parte de los datos vienen de proveedores de herramientas, así que valen para ver la dirección, no para fijar objetivos. La lectura que hago: en volumen la IA es un canal pequeño, en influencia sobre la decisión no, y parte de esa influencia se te atribuirá a búsqueda de marca o a directo.
 
 ## Cómo comprobar si te está pasando a ti
 
