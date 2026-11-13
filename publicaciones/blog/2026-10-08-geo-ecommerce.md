@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 12/11/2026
+date_modified: 13/11/2026
 folder: geo
 permalink: geo-ecommerce
 
@@ -39,6 +39,19 @@ Mi lectura: si estos datos se sostienen, **el feed ha dejado de ser un complemen
 OpenAI presentó el [Agentic Commerce Protocol](https://openai.com/index/buy-it-in-chatgpt/), un estándar abierto desarrollado con Stripe, y con él el pago dentro de la conversación (Instant Checkout). En marzo de 2026, según [este análisis](https://www.dataiads.io/en/blog/openai-chatgpt-abandon-checkout-decouverte-produit-ecommerce) que cita a The Information, y con una confirmación genérica de OpenAI ("evolucionar la estrategia de comercio"), se abandonó el checkout nativo y se pivotó al **descubrimiento de producto**: el usuario compara en ChatGPT y compra en la web del comercio.
 
 Es una fuente de segunda mano y los detalles pueden variar, pero la conclusión práctica es clara: **no te la juegues a un checkout dentro de la IA**. Tu web sigue siendo donde se cierra la venta. Más contexto sobre el pago por agentes en [Google AP2 y las compras online con IA](https://emirodgar.com/google-ap2-protocolo-compras-online-ia).
+
+## ChatGPT: reclamar tu negocio
+
+OpenAI ha publicado una página para que los negocios [reclamen su perfil en ChatGPT](https://openai.com/es-ES/business/businesses-in-chatgpt/) desde Business Hub. Según la propia página, sirve para cuatro cosas:
+
+- **Mantener actualizados los datos clave** del negocio.
+- **Subir feeds de producto** con precio y disponibilidad, en el caso de los comercios.
+- **Activar un agente para empresas** que responde a los clientes con tu información de producto y tus políticas, siguiendo unas pautas que controlas tú.
+- **Ver cuántas veces se menciona tu negocio** en ChatGPT y en qué temas de conversación aparece.
+
+Si tienes Shopify, el camino es conectar la tienda, revisar los datos y publicar el agente. Los datos, precios y disponibilidad se comparten a través del catálogo de Shopify, aunque OpenAI aclara que también se puede reclamar el negocio sin tenerlo.
+
+La cautela está en la letra pequeña. Los agentes para empresas están disponibles, de momento, solo para comercio electrónico y servicios en línea de EE. UU. que cumplan los requisitos, y OpenAI dice que ampliará el acceso con el tiempo. Además, ser elegible depende del sector, de la ubicación y de sus comprobaciones de verificación, y para gestionar un perfil tienes que ser el propietario o tener autorización. No he visto fechas ni países para España, y no lo he probado. Mi lectura: es el equivalente de reclamar tu ficha de [Google Business](https://emirodgar.com/perfiles-google-business) y confirma lo de antes, que el feed y los datos del negocio son lo que cuenta. Lo que sí puedes hacer hoy es tener ordenado el catálogo y los datos de contacto, para el día en que esté disponible aquí.
 
 ## Google: Merchant Center y AI Mode
 

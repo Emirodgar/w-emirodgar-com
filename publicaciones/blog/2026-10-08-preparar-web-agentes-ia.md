@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 09/11/2026
+date_modified: 13/11/2026
 folder: geo
 permalink: preparar-web-agentes-ia
 
@@ -76,6 +76,16 @@ Merj midió también que el éxito medio de los agentes en su banco de pruebas p
 [WebMCP](https://emirodgar.com/que-es-mcp) es una propuesta para que la página exponga acciones estructuradas a los agentes sin que tengan que interpretar la interfaz. Sigue en fase experimental (prueba de origen en Chrome 149). En el benchmark de Merj fue entre 2,5 y 7,5 veces más rápido y mucho más barato por tarea, pero es un solo benchmark. Yo lo probaría en un flujo concreto antes de plantear nada más grande.
 
 Si das ese paso, dos cautelas que también señala Merj: pon límites a las acciones destructivas y trata el contenido generado por usuarios (reseñas, comentarios) como una posible vía de inyección de instrucciones para el agente.
+
+## Y si eres tú quien decide qué agentes entran
+
+Todo lo anterior parte de que quieres que los agentes usen tu web. Muchos comercios grandes no lo tienen tan claro. El 10 de noviembre de 2026 [The Verge contó](https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping) que eBay parecía haber bloqueado a agentes como Muse, de Meta, durante el fin de semana. eBay no confirmó ningún cambio nuevo: dice que no es un bloqueo general, que permite la búsqueda y el descubrimiento con IA y cierta navegación asistida, y que bloquea el scraping no autorizado, incluida la recogida de datos para entrenar modelos. Ya en enero había cambiado sus condiciones de uso para prohibir los agentes de "compra por mí" que hacen pedidos sin revisión humana.
+
+El resto del mapa, según el mismo artículo, es muy desigual: Amazon bloquea a los agentes externos por completo, Target los deja pasar unas veces y otras no, y Shopify ha abierto su catálogo para que los compradores configuren agentes que compren por ellos. Hay motivos prácticos detrás. En octubre The Verge comprobó que con Muse se podían retener productos de The RealReal añadiéndolos al carrito sin parar, y la tienda tuvo que ajustar su sistema contra bots.
+
+Para no inflar la expectativa, un dato de uso real que dan las propias empresas: Uber dijo que en el tercer trimestre solo completó cuatro viajes pedidos a través de agentes de terceros, y unos 500 pedidos de Uber Eats la semana de Halloween. DoorDash habló de "varios cientos" de pedidos de agentes frente a 993 millones en total ese trimestre.
+
+Mi lectura: permitir o bloquear agentes es una decisión por tipo de agente y por tipo de acción, igual que con los rastreadores, como cuento en [segmentar el bloqueo de bots](https://emirodgar.com/segmentar-bloqueo-bots). Con tan poco volumen, yo primero mediría quién entra de verdad (el panel de Clarity de arriba sirve para eso) y después decidiría, en lugar de abrir o cerrar a ciegas.
 
 ## Por dónde empezaría
 
