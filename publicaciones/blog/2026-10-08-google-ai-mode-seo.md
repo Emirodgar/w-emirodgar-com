@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 13/11/2026
+date_modified: 18/11/2026
 folder: geo
 permalink: google-ai-mode-seo
 
@@ -25,6 +25,17 @@ Las **[AI Overviews](https://emirodgar.com/ai-overviews-google-publishers)** son
 Comparten técnica. Google lo documenta así: usa *query fan-out*, es decir, "múltiples búsquedas relacionadas en subtemas y fuentes de datos", para encontrar un conjunto más amplio y diverso de enlaces útiles. Cómo se aplica a tu contenido lo cuento en [cómo escribir contenido citable y cubrir el fan-out](https://emirodgar.com/contenido-citable-query-fan-out).
 
 Un dato de escala: según los resultados del segundo trimestre de 2026 de Alphabet, AI Mode superó los 1.000 millones de usuarios mensuales. Aun así, Google mantiene el 91,1 % de cuota del mercado de buscadores mundial (StatCounter, agosto de 2026): no ha perdido la búsqueda, la transforma desde dentro. Y AI Mode cita menos que otras superficies: de media 5,16 fuentes distintas por respuesta, frente a 8,74 de AI Overviews (LLM Pulse, septiembre de 2026), así que hay menos huecos por respuesta.
+
+### Gemini 4 Hydrogen, el último cambio de modelo
+
+El 12 de noviembre de 2026 Google [anunció Gemini 4 Hydrogen](https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/), que describe como la mayor mejora de modelo en Search hasta la fecha y que dice estar disponible ya para todos los usuarios en todo el mundo. Lo que cuenta Google, sin cifras de tráfico:
+
+- **Mejor comprensión de la intención.** Preguntas largas, con varias partes, con erratas o muy específicas, con un seguimiento más fiel de lo que pides.
+- **Query fan-out más potente.** El razonamiento del modelo mejora esas búsquedas paralelas por subtemas, y Google asegura que eso conecta con una gama más amplia de enlaces, incluidos sitios que antes no habrías descubierto.
+- **Respuestas más visuales.** Más imágenes, estructuras, tablas comparativas y herramientas a medida dentro de la respuesta.
+- **Mejor respuesta en todos los idiomas que admite AI Mode.**
+
+Mi lectura es prudente. Que el fan-out sea más amplio es una buena noticia para quien cubre bien las subpreguntas de un tema, pero lo de "más enlaces" es una afirmación de Google, no una medición, y la propia nota no menciona las AI Overviews ni habla de qué pasa con los clics. Lo razonable es mirar tu Search Console en las próximas semanas y comprobar si cambian las consultas que te traen impresiones. Y si te has preguntado qué cambia en tu contenido, la respuesta sigue siendo la del [post de citabilidad y fan-out](https://emirodgar.com/contenido-citable-query-fan-out).
 
 ## Qué dice Google que necesitas para aparecer
 

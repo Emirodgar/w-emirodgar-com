@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 30-09-2025
-date_modified: 04-11-2026
+date_modified: 18-11-2026
 folder: geo
 permalink: seo-tecnico-en-la-era-de-la-inteligencia-artificial
 
@@ -76,6 +76,18 @@ En una [entrevista con David Iwanow](https://www.searchenginejournal.com/google-
 También recomienda a las empresas vigilar lo que hacen sus proveedores de SEO y no fiarse solo de su palabra. Es una advertencia que me parece sensata ahora que hay quien vende "SEO para IA" con técnicas de hace veinte años, como el cloaking (enseñar una cosa a los rastreadores de IA y otra a los usuarios).
 
 Mi lectura: es lo que defiendo en este post. Antes de gastar en tácticas nuevas, asegúrate de que tu contenido se ve en el HTML, carga rápido y se entiende desde arriba. Esto es una opinión de Mueller en una entrevista, no una política oficial de Google.
+
+## Un estándar de referencia para construir la web
+
+Marketing Signals publicó el 9 de noviembre de 2026 la versión 2.2 de su [estándar de construcción web para SEO y GEO](https://marketingsignals.com/seo-geo-website-build-standard), revisado por Jono Alderson y Mark Williams-Cook. Lo cito porque encaja con lo que defiendo en este post y porque ordena el trabajo por prioridad, algo que casi nunca se hace:
+
+- **P0, obligatorio antes de lanzar.** Lo de siempre: un único host canónico con HTTPS, entornos de staging protegidos con autenticación (no con `robots.txt`), redirecciones de un solo salto, 404 reales en lugar de soft 404, sitemaps solo con URLs canónicas e indexables, HTML inicial con el contenido esencial y enlaces reales, y paginación con URLs rastreables. Un `noindex` o un bloqueo de rastreo en producción se considera un fallo que impide el lanzamiento.
+- **P1, condicional.** Módulos que se activan según el tipo de negocio y la arquitectura.
+- **P2, experimental.** Aquí viven `llms.txt`, las versiones en Markdown de las páginas o un servidor MCP de solo lectura. El propio documento recuerda que Google dice que estos formatos no mejoran la elegibilidad ni el posicionamiento en su buscador, y pide un caso de uso, un responsable y una medición antes de implantarlos. Si se generan solos a partir del mismo contenido que el HTML y no se pueden desincronizar, permite activarlos por defecto.
+
+Para las versiones en Markdown, la opción preferida es la negociación de contenido en la misma URL: si la petición pide `Accept: text/markdown` se devuelve Markdown y, si no, HTML, con la cabecera `Vary: Accept` para que las cachés no mezclen versiones. Cuento qué pinta `llms.txt` en [este otro post](https://emirodgar.com/llms-txt).
+
+En la parte de contenido, el estándar insiste en que ningún formato garantiza citas: ni un número fijo de FAQs, ni una longitud de párrafo, ni una posición de la respuesta. Y recomienda cambiar `dateModified` solo con actualizaciones relevantes, algo que ya comenté en [cuándo actualizar la fecha de modificación](https://emirodgar.com/actualizar-fecha-modificacion-contenido). No es una norma oficial, es el criterio de dos fuentes respetadas, pero como lista de comprobación antes de un lanzamiento o una migración es muy útil.
 
 ## ¿Qué significa todo esto para tu estrategia?
 

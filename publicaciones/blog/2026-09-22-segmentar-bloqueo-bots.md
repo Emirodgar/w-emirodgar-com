@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 22-09-2026
-date_modified: 13/11/2026
+date_modified: 18/11/2026
 folder: geo
 permalink: segmentar-bloqueo-bots
 
@@ -61,6 +61,18 @@ El listado original incluye agentes que prestan servicios legítimos, y bloquear
 ## 4. Scanners y bots maliciosos: aquí no hay debate
 
 Acunetix, Nikto, Dirbuster, Nmap, Sqlmap, WPScan, Havij, Nessus, OpenVAS, Nuclei, ZmEu —escáneres de vulnerabilidades. EMail Siphon, EMail Wolf, Autoemailspider, CherryPicker —extractores masivos de email. HTTrack, WinHTTrack, Offline Explorer, WebZIP, SiteSucker —descarga masiva del sitio. Ninguno aporta valor comercial. Se quedan bloqueados a nivel de CDN o servidor, sin excepciones.
+
+## De una lista de bloqueo a una política de bots
+
+Chris Green lo planteó en sus diapositivas de GEO Elite ([13 de noviembre de 2026](https://chrisgreenseo.substack.com/p/bot-management-in-2026-geo-elite)) y me parece la forma correcta de cerrar este tema: durante años el dilema era permitir o bloquear, y ya no basta. A tu web entran rastreadores de buscadores clásicos, rastreadores de entrenamiento, bots de recuperación para respuestas, accesos que dispara una persona y agentes autónomos, con consecuencias muy distintas. Meterlos a todos en "bots de IA" es el error de partida.
+
+Tres ideas que me llevo de su planteamiento:
+
+- **`robots.txt` es voluntario.** Lo que de verdad bloquea o deja pasar es tu CDN, tu cortafuegos o tu servicio antibots, y esas capas pueden contradecir lo que has escrito en `robots.txt` sin que nadie del equipo SEO se entere. Por eso insisto en comprobar con logs lo que llega, no solo lo que pone el archivo.
+- **Los agentes son difíciles de distinguir de una persona.** Pueden navegar como un usuario y disparar tu analítica. Si bloqueas a un agente que está comparando productos, puede que no pierdas una posición: puede que desaparezcas de la respuesta.
+- **La decisión no es solo de SEO.** Afecta a ingeniería, seguridad, legal y negocio, y hay que coordinarla y revisarla de forma periódica. Un estándar de construcción web publicado por Marketing Signals en noviembre de 2026 va en la misma línea: pide documentar políticas separadas para el indexado clásico, el descubrimiento en buscadores de IA (como `OAI-SearchBot`), los accesos a petición de un usuario (como `ChatGPT-User`) y el entrenamiento (como `GPTBot`), con un responsable y una fecha de revisión.
+
+Un ejemplo concreto de esa independencia lo explica Ahrefs en su guía sobre [de dónde saca la información ChatGPT](https://ahrefs.com/blog/where-does-chatgpt-get-its-information/): bloquear `GPTBot` evita el entrenamiento, pero no te saca de la búsqueda de ChatGPT, que depende de `OAI-SearchBot`. Si permites ambos, OpenAI indica que puede usar un único rastreo para los dos fines. Y Ahrefs también midió, en un estudio sobre unos 140 millones de sitios, que `GPTBot` es el rastreador de IA más bloqueado, en torno a un 6 % de los sitios.
 
 ## ¿Qué impacto tiene todo esto en la indexación?
 

@@ -8,6 +8,7 @@ lang: es_ES
 sitemap: 1  
 feed: 1  
 date: 08-10-2025  
+date_modified: 18/11/2026  
 folder: seo
 permalink: como-google-clasifica-imagenes  
 ---  
@@ -95,6 +96,20 @@ Hasta hace poco, todo lo anterior era terreno de suposición razonada: sabíamos
 Con él puedes aislar las impresiones y clics que llegan específicamente desde **Google Lens, Circle to Search en Android, subida de imágenes o la función "Buscar con esta imagen" de Chrome**, tanto en resultados de búsqueda normales como en funciones de IA generativa. Si además gestionas perfiles de plataforma (YouTube, Instagram, TikTok), estas mismas métricas también están disponibles ahí.
 
 Si tienes una web con mucho contenido visual, este filtro es el primer dato real —no una suposición— de si tu trabajo de SEO de imágenes se está traduciendo en tráfico. Y si en tu equipo llevan tiempo sin priorizar hacer las imágenes más cuidadas e indexables, esta es la comprobación que necesitabas para justificarlo con datos.
+
+## Qué etiquetas pone Google a una imagen según Resoneo
+
+Resoneo publicó en noviembre de 2026 un estudio sobre [qué ve Google en una imagen](https://think.resoneo.com/google-images/). Analizaron 67.499 imágenes generadas por Gemini en conversaciones públicas que, hasta la primavera de 2026, llevaban en sus datos 100 etiquetas por imagen, cada una con una puntuación de 0 a 1. Esas etiquetas ya no se muestran, pero las conversaciones compartidas entonces las conservan. Lo que encontraron:
+
+- **Entidades del Knowledge Graph.** Las primeras etiquetas de una foto de botas de montaña eran entidades con su identificador: calzado, nieve, zapato, invierno. Es lo que conecta con lo que te conté arriba sobre el enlazado de entidades.
+- **Un segundo vocabulario.** Más abajo aparecen etiquetas que describen cómo es el objeto y en qué escena está: una dimensión (por ejemplo "estilo de zapato") y sus valores ("con cordones", "punta redonda"), junto con usos como "para invierno".
+- **Coincide con los filtros de Google Shopping.** Para productos, esas dimensiones y valores reutilizan los nombres de los filtros de Shopping, como el estilo de manga en vestidos o el tipo de instalación en lavabos. Resoneo lo comprobó contra esos filtros y contra la API Vision de Google.
+- **No todos los productos reciben las mismas etiquetas.** En las imágenes de Gemini, el largo de una prenda salía en el 90 % de los casos, la manga en el 80 % y el detalle del zapato en el 72 %, frente a menos del 1 % en estilo de mueble.
+- **Confianza no es protagonismo.** La API Vision da dos números: la puntuación (la confianza de que algo está en la imagen) y la "topicalidad" (cuánto pesa en el tema de la imagen). El fondo de una escena puede tener mucha puntuación y casi ninguna topicalidad.
+
+La consecuencia práctica que proponen es sencilla: si quieres que Google lea el largo de un vestido, enséñalo entero; si es la manga, que se vea la manga completa; si es el montaje de un lavabo, que se vean el borde y la encimera. Así la foto y el feed de producto dan los mismos valores y se confirman entre sí.
+
+Dos cautelas. Es un estudio sobre imágenes generadas por Gemini, no sobre cómo posiciona Google las fotos de tu web, y esas etiquetas ya no son visibles. Y que Google use este vocabulario internamente no demuestra que pese en el ranking. Lo tomo como una pista bien documentada de cómo "ve" las imágenes, no como un factor confirmado.
 
 ## ¿Qué puedes hacer tú?
 

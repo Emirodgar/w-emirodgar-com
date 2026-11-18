@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 13/11/2026
+date_modified: 18/11/2026
 folder: geo
 permalink: zero-click-caida-ctr-ia
 
@@ -58,6 +58,27 @@ Tras un pico puntual cercano a los 108.000 a mediados de agosto, la curva no vue
 Hay un dato más general. Según SparkToro y Similarweb, citados por Kevin Indig en Growth Memo (octubre de 2026), las búsquedas sin clic pasaron del 60,45 % de las búsquedas en Google en EE. UU. en 2024 al 68,01 % a principios de 2026. SparkToro estima además que solo alrededor de un tercio de las búsquedas de 2026 genera algún clic. Es de nuevo Estados Unidos, así que no lo traslades sin más a España.
 
 Y una pista para no dar por perdida esa visita: SparkToro y Similarweb siguieron durante siete días el comportamiento de usuarios tras recibir una recomendación de marca de una IA, y las visitas **directas** a esas marcas subieron. Es decir, parte de la influencia de la IA puede estar apareciendo en la columna de tráfico directo, no en la de IA ni en la de búsqueda. Es un estudio concreto y habría que ver si se repite en tu mercado, pero sirve para no leer el tráfico directo como ruido.
+
+## Lo que dejó el lanzamiento en Francia, con Search Console delante
+
+Google activó AI Overviews y AI Mode en Francia el 22 de julio de 2026. Es una fecha concreta y, con el informe de IA generativa de Search Console ya disponible, lo más parecido a un experimento natural que tenemos. Glenn Gabe [analizó varios sitios franceses](https://www.gsqi.com/marketing-blog/google-ai-overviews-roll-out-in-france-impact/) y el resultado no es uniforme:
+
+- **Caídas inmediatas.** En el caso más claro, los clics pasaron de unos 750 diarios a unos 400 el mismo día, con las impresiones estables, y el CTR de un 2 % a un 1,1 %. En otro sitio YMYL, de unos 80 clics diarios a unos 25.
+- **Doble caída.** En varios sitios YMYL hubo un primer golpe el 22 de julio y otro unas dos semanas después. Gabe lo interpreta como Google ampliando los tipos de consulta con AI Overview, algo que él mismo plantea como hipótesis.
+- **Sitios que no se movieron.** Dos de los cinco ejemplos mantuvieron clics y CTR estables, con un aumento claro de las impresiones de IA generativa. Es la misma idea de arriba: el promedio baja, pero tu web puede ir por otro lado.
+- **La posición media se vuelve errática.** En casi todos los sitios la posición "baila" desde el día del lanzamiento. Su explicación probable es que una cita dentro de un AI Overview colapsado solo cuenta impresión cuando alguien lo expande, y entonces se mezcla con tu posición en los enlaces azules. Por eso no usaría la posición media como indicador ([ya lo explico aquí](https://emirodgar.com/posicion-media-search-console-kpi)).
+
+Son pocos casos, elegidos por un consultor de su cartera y de un solo país. Sirven como método, no como estadística. El método se puede copiar: filtra Search Console por país, mira el informe de IA generativa para ver el día en que sube, y compara clics, impresiones y CTR en el rendimiento de búsqueda. Después revisa en la SERP real qué consultas perdieron clics y cómo se muestra el AI Overview. Para España, el punto de partida sería el lanzamiento de [AI Mode](https://emirodgar.com/google-ai-mode-seo), con la cautela de que es una función opcional y el corte es menos nítido.
+
+## El tráfico de la web abierta baja, y no solo por Google
+
+SparkToro y Similarweb publicaron el 10 de noviembre de 2026 [un análisis del tráfico a los millones de sitios más visitados](https://sparktoro.com/blog/new-research-traffic-to-the-open-web-has-fallen-24-in-5-years/) entre 2021 y 2026 con su panel global de navegador, móvil y escritorio:
+
+- **El reparto no ha cambiado mucho.** Los 100 sitios más grandes ganan en torno a un 3 % de cuota, algo mucho más leve de lo que temía el autor del estudio. El tráfico no se está concentrando en las grandes plataformas dentro del navegador.
+- **El volumen total sí ha bajado.** Las visitas a esos sitios tocaron techo en el primer trimestre de 2022 (2,243 billones) y en el tercero de 2026 están un 12,2 % por debajo (1,970 billones). El mínimo fue en el primer trimestre de 2026, un 14,7 % por debajo.
+- **Las visitas por usuario caen más.** Con unos 24 % más de personas en la web (de 4.950 a 6.150 millones según DataReportal), las visitas por usuario bajan un 29,2 %.
+
+Los propios autores avisan de que no saben la causa. Puede ser el uso de apps, buscadores, IA y redes que evitan visitar webs, o el final del pico de uso de la pandemia. Tampoco mide apps y es un dato mundial: el descenso en EE. UU., Reino Unido o la UE puede quedar tapado por el crecimiento de otras regiones. Lo que me parece útil retener es que la caída de tráfico que ves en tu web no es solo un asunto de AI Overviews: es un contexto en el que hay menos visitas por persona, y eso pesa al fijar objetivos.
 
 ## Más exposición, los mismos clics, y un tráfico que convierte mejor
 
