@@ -94,3 +94,5 @@ Si quieres adelantarte, empieza hoy: analiza qué preguntas resuelves mejor que 
 - [Cómo crear hubs de recomendación AI-Ready para nuestro contenido](https://emirodgar.com/como-crear-hubs-de-recomendacion-ai-ready)
 - [Cómo usamos ChatGPT de verdad y por qué cambiará tu estrategia SEO](https://emirodgar.com/analisis-chatgpt-seo)
 - [¿Sigue importando el copy de tus páginas de producto si los agentes de IA leen feeds y schema?](https://emirodgar.com/copy-pagina-producto-ia)
+- [De dónde saca ChatGPT la información, 4 fuentes y qué puedes hacer en cada una](https://emirodgar.com/de-donde-saca-chatgpt-la-informacion)
+- [Cómo compra la gente con IA, la demanda que no cabe en una keyword y la lista de proveedores que no controlas](https://emirodgar.com/compradores-ia-demanda-dificil-de-keywordizar)

@@ -4,7 +4,7 @@ Hub maestro: [El SEO en la era de la IA - Cómo optimizar para los modelos de le
 
 ## Estrategia, medición y tendencias
 
-**Pilar:** [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar) (sube al hub, baja a 7 satélites)
+**Pilar:** [GEO deja de adivinar y empieza a probar](https://emirodgar.com/geo-empieza-a-probar) (sube al hub, baja a 8 satélites)
 
 - [3 predicciones para el SEO en 2027 (y por qué no vas a poder comprobarlas)](https://emirodgar.com/predicciones-seo-2027) → sube al pilar
 - [8 tendencias de marketing con IA que confirman los datos de búsqueda (Ahrefs)](https://emirodgar.com/tendencias-marketing-ia) → sube al pilar
@@ -13,16 +13,19 @@ Hub maestro: [El SEO en la era de la IA - Cómo optimizar para los modelos de le
 - [Cómo la IA está cambiando la forma en que buscamos en internet](https://emirodgar.com/como-la-ia-esta-cambiando-la-forma-en-que-buscamos-en-internet) → sube al pilar
 - [Cómo enriquecer las búsquedas tradicionales para sacarles partido en la era de la IA](https://emirodgar.com/enriquecer-busquedas-tradicionales-ia) → sube al pilar
 - [Google vs Perplexity, el buscador del futuro](https://emirodgar.com/google-vs-perplexity) → sube al pilar
+- [Las keywords no están muertas, pero ya no sirven como objetivo](https://emirodgar.com/keywords-siguen-importando-ia) → sube al pilar
 
 ## Visibilidad y citación en IA
 
-**Pilar:** [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt) (sube al hub, baja a 5 satélites)
+**Pilar:** [Cómo optimizar para AEO y aparecer en respuestas de ChatGPT](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt) (sube al hub, baja a 7 satélites)
 
 - [Wikipedia, podcasts y Reddit, las fuentes que alimentan las citas de la IA](https://emirodgar.com/wikipedia-podcasts-reddit-citas-ia) → sube al pilar
 - [Las claves para posicionar tu web en Perplexity](https://emirodgar.com/seo-perplexity) → sube al pilar
 - [Cómo crear hubs de recomendación AI-Ready para nuestro contenido](https://emirodgar.com/como-crear-hubs-de-recomendacion-ai-ready) → sube al pilar
 - [Cómo usamos ChatGPT de verdad y por qué cambiará tu estrategia SEO](https://emirodgar.com/analisis-chatgpt-seo) → sube al pilar
 - [¿Sigue importando el copy de tus páginas de producto si los agentes de IA leen feeds y schema?](https://emirodgar.com/copy-pagina-producto-ia) → sube al pilar
+- [De dónde saca ChatGPT la información, 4 fuentes y qué puedes hacer en cada una](https://emirodgar.com/de-donde-saca-chatgpt-la-informacion) → sube al pilar
+- [Cómo compra la gente con IA, la demanda que no cabe en una keyword y la lista de proveedores que no controlas](https://emirodgar.com/compradores-ia-demanda-dificil-de-keywordizar) → sube al pilar
 
 ## SEO técnico para IA
 

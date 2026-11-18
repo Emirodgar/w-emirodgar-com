@@ -184,3 +184,4 @@ Porque la IA ha convertido muchas búsquedas en conversaciones y la única forma
 - [Cómo la IA está cambiando la forma en que buscamos en internet](https://emirodgar.com/como-la-ia-esta-cambiando-la-forma-en-que-buscamos-en-internet)
 - [Cómo enriquecer las búsquedas tradicionales para sacarles partido en la era de la IA](https://emirodgar.com/enriquecer-busquedas-tradicionales-ia)
 - [Google vs Perplexity, el buscador del futuro](https://emirodgar.com/google-vs-perplexity)
+- [Las keywords no están muertas, pero ya no sirven como objetivo](https://emirodgar.com/keywords-siguen-importando-ia)
