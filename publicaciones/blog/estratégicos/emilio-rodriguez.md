@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/01/2022
-date_modified: 30/01/2026
+date_modified: 20/11/2026
 folder: estrategicos
 layout: emirodgar_post
 permalink: emilio-rodriguez
@@ -161,6 +161,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 
 ## Ponencias y clases
 
+- `Noviembre 2026` - Tribuna Eventos - Mesa redonda / El impacto de la Inteligencia Artificial en las empresas y las administraciones (23 de noviembre, Hotel Sofraga Palacio, Ávila), junto a Luis Collado (Google España) y Juan Zafra (comisión de IA de CEPYME), moderada por la periodista Sara Martín. Se retransmite en las redes de Tribuna Grupo.
 - `Noviembre 2025` - EITB / GEO para Medios Digitales: el nuevo escenario (privada)
 - `Noviembre 2025` - SEGITTUR / [El SEO del futuro en el sector turismo](https://es.slideshare.net/slideshow/smartup-_-formacion-segittur-ia-seo-a-geo-pdf/284474183) - [Grabación en Youtube del evento](https://www.youtube.com/watch?v=Imvyzi7TJko)
 - `Noviembre 2025` - Universidad Europea / [Medición de contenidos generativos y campañas + Modelos de atribución en 2025: evolución y desafíos](https://es.slideshare.net/slideshow/202511-sc7-medicion-de-contenidos-generativos-y-modelos-de-atribucion-en-2025-pptx/284474359)
