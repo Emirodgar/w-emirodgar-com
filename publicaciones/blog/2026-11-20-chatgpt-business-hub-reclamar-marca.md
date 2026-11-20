@@ -71,8 +71,7 @@ Esto es lo que he seguido, completado con los detalles de Brandlight y Semrush:
 
 1. **Entra en el Business Hub**, desde la barra lateral de ChatGPT o en [chatgpt.com/business-hub](https://chatgpt.com/business-hub), con la cuenta de ChatGPT que gestionará el negocio. Mejor una cuenta corporativa que una personal.
 2. **Pulsa Add y busca tu negocio por nombre.** Al continuar aceptas las condiciones de Businesses in ChatGPT.
-3. **Selecciona tu ficha.** Si no aparece y eres un negocio online elegible, puede aparecer la opción de crearla.
-4. **Verifica que eres el propietario.** Hay cuatro vías:
+3. **Selecciona tu ficha.** Si no aparece y eres un negocio online elegible, puede aparecer la opción de crearla.4. **Verifica que eres el propietario.** Hay cuatro vías:
    - Código por SMS o llamada al teléfono principal del negocio.
    - Código al email asociado al negocio.
    - **Registro TXT en el DNS** de tu dominio: ChatGPT te da el valor, lo añades en tu proveedor de dominio y pulsas "Verify domain". Puede tardar en propagarse.
@@ -102,7 +101,7 @@ Si tu marca ya está reclamada por otra persona, abre su perfil, pulsa el menú 
 - Reclamar, gestionar y ver Insights no tiene coste, según OpenAI. Promocionar un agente sí, vía publicidad.
 - OpenAI también ha anunciado **Business Agents**, un chat de tu negocio dentro de ChatGPT que explica productos y políticas y enlaza a tu web. De momento solo para ecommerce y servicios online elegibles en EE. UU.
 
-Si tu negocio está en España o es local, es posible que aún no puedas reclamar nada, o que te falte alguna opción. Prueba, y si no te deja, guarda este artículo para cuando se amplíe. No obstante, debes apuntarte a la lista de espera y te llegará un email cuando puedas reclamar tu marca.
+**Ya se puede reclamar en España.** Algunas guías decían que los negocios locales solo podían reclamar fichas de EE. UU., pero a mí me ha funcionado con una ficha de Salamanca. Eso sí, al principio no me dejaba: tuve que apuntarme a la lista de espera y esperar una semana hasta que me llegó el acceso. Si todavía no te deja, apúntate y espera el email. Puede que alguna opción, como los agentes de negocio, aún no esté disponible en tu país.
 
 ## Qué haría yo
 
