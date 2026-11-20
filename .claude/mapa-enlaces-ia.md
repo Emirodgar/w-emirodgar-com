@@ -51,11 +51,12 @@ Hub maestro: [El SEO en la era de la IA - Cómo optimizar para los modelos de le
 
 ## Marca y reputación en IA
 
-**Pilar:** [Cómo auditar y proteger tu marca en las respuestas de la IA](https://emirodgar.com/proteccion-marca-ia) (sube al hub, baja a 3 satélites)
+**Pilar:** [Cómo auditar y proteger tu marca en las respuestas de la IA](https://emirodgar.com/proteccion-marca-ia) (sube al hub, baja a 4 satélites)
 
 - [Qué hacer cuando la IA repite información falsa sobre tu marca](https://emirodgar.com/ia-informacion-erronea-marca) → sube al pilar
 - [Trabajar tu marca para el SEO con inteligencia artificial](https://emirodgar.com/trabajar-tu-marca-para-el-seo) → sube al pilar
 - [Por qué las personas son clave en el SEO con IA](https://emirodgar.com/por-que-las-personas-son-clave-en-el-seo-con-ia) → sube al pilar
+- [ChatGPT Business Hub, por qué reclamar tu marca y qué datos vas a poder ver](https://emirodgar.com/chatgpt-business-hub-reclamar-marca) → sube al pilar
 
 ## Agentes y comercio con IA
 

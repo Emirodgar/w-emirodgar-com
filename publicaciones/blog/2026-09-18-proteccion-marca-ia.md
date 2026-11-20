@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 18-09-2026
-date_modified: 26/10/2026
+date_modified: 20/11/2026
 folder: geo
 permalink: proteccion-marca-ia
 
@@ -100,3 +100,4 @@ Es la misma lógica que aplico cuando hablo de [trabajar tu marca de cara al SEO
 - [Qué hacer cuando la IA repite información falsa sobre tu marca](https://emirodgar.com/ia-informacion-erronea-marca)
 - [Trabajar tu marca para el SEO con inteligencia artificial](https://emirodgar.com/trabajar-tu-marca-para-el-seo)
 - [Por qué las personas son clave en el SEO con IA](https://emirodgar.com/por-que-las-personas-son-clave-en-el-seo-con-ia)
+- [ChatGPT Business Hub, por qué reclamar tu marca y qué datos vas a poder ver](https://emirodgar.com/chatgpt-business-hub-reclamar-marca)
