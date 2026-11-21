@@ -121,7 +121,7 @@ Al mismo tiempo que estudiaba la carrera (**[Ingeniería Informática Superior](
   
 Al encontrar una gran motivación en el desarrollo de estrategias digitales, algo que inicié con mis proyectos personales en 2007, comencé a trabajar como consultor SEO en Traffic4u en el año 2009. Continué mi formación en este sector cursando el **Máster en Desarrollo de Sistemas para el Comercio Electrónico** de la Universidad de Salamanca y obteniendo las certificaciones de **Google Analytics**, **MobileExperts** y **Webtrekk**.  
 
-También he colaborado como profesor en los centros de negocios de C2B (Campus 2 Business) y Foro Economía Digital. He sido ponente en los eventos Ecommbrunch y SearchCongress y jurado en los Premios Nacionales eCommerce.
+También he colaborado como profesor en los centros de negocios de C2B (Campus 2 Business) y Foro Economía Digital. He sido ponente en los eventos Ecommbrunch, SearchCongress y [CyLesMarketing](https://emirodgar.es/congreso-cylesmarketing-2024-salamanca) y jurado en los Premios Nacionales eCommerce.
   
 ## Evolución SEO
   
