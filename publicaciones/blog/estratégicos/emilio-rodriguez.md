@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/01/2022
-date_modified: 20/11/2026
+date_modified: 21/11/2026
 folder: estrategicos
 layout: emirodgar_post
 permalink: emilio-rodriguez
@@ -161,7 +161,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 
 ## Ponencias y clases
 
-- `Noviembre 2026` - Tribuna Eventos - Mesa redonda / El impacto de la Inteligencia Artificial en las empresas y las administraciones (23 de noviembre, 9:30 h, Hotel Sofraga Palacio, Ávila). Participo como consultor de estrategia de IA junto a Luis Collado (Senior Manager News de Google España) y Juan Zafra (miembro de la comisión de IA de CEPYME), con la periodista Sara Martín como moderadora. La jornada incluye un diálogo previo sobre el enfoque de las administraciones públicas con Cristina Sanchidrián Blázquez (consejera de Movilidad, Transformación Digital e Inteligencia Artificial de la Junta de Castilla y León) y Miguel López-Valverde Argüeso (consejero de Digitalización de la Comunidad de Madrid). Se retransmite en las redes de Tribuna Grupo.
+- `Noviembre 2026` - Tribuna Eventos - Mesa redonda / El impacto de la Inteligencia Artificial en las empresas y las administraciones. Participo junto a Luis Collado (Google España), Juan Zafra (CEPYME) y la periodista Sara Martín como moderadora, con Cristina Sanchidrián Blázquez (Junta de Castilla y León) y Miguel López-Valverde Argüeso (Comunidad de Madrid).
 - `Noviembre 2025` - EITB / GEO para Medios Digitales: el nuevo escenario (privada)
 - `Noviembre 2025` - SEGITTUR / [El SEO del futuro en el sector turismo](https://es.slideshare.net/slideshow/smartup-_-formacion-segittur-ia-seo-a-geo-pdf/284474183) - [Grabación en Youtube del evento](https://www.youtube.com/watch?v=Imvyzi7TJko)
 - `Noviembre 2025` - Universidad Europea / [Medición de contenidos generativos y campañas + Modelos de atribución en 2025: evolución y desafíos](https://es.slideshare.net/slideshow/202511-sc7-medicion-de-contenidos-generativos-y-modelos-de-atribucion-en-2025-pptx/284474359)
@@ -170,6 +170,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Abril 2025` - Brain & Code - Programa de IA Generativa para Marketing Digital / [El futuro de los buscadores y las redes sociales en la era de la IA](https://es.slideshare.net/slideshow/piamd-us2-el-futuro-de-los-buscadores-y-las-redes-sociales-en-la-era-de-la-ia/282429595)
 - `Febrero 2025` - Brain & Code - Programa de IA Generativa para Marketing Digital / [Las novedades del algoritmo de Google](https://es.slideshare.net/slideshow/brain-code-las-novedades-del-algoritmo-de-google-pptx/282429546)
 - `Mayo 2024` - UNIR - Curso Avanzado Universitario de SEO / [SEO técnico: rastreo e indexación](https://www.unir.net/marketing-comunicacion/revista/hazte-experto-mundo-seo-areas-mas-demandadas-mercado-laboral/) 
+- `Marzo 2024` - Club de Marketing CyL - Mesa redonda / [III Congreso #CyLesMarketing](https://emirodgar.es/congreso-cylesmarketing-2024-salamanca) (19 de marzo, Cámara de Comercio de Salamanca)
 - `Enero 2024` - Smartup - Webinar / [El futuro del SEO en la era de la Inteligencia Artificial](https://info.smartupdigital.com/grabacion-webinar-futuro-seo-ia)
 - `Noviembre 2023` - UNIR - Curso Avanzado Universitario de SEO / [Introducción al SEO](https://www.unir.net/marketing-comunicacion/revista/hazte-experto-mundo-seo-areas-mas-demandadas-mercado-laboral/) 
 - `Mayo 2022` - Smartup - Webinar / [Google Analytics 4](https://es.slideshare.net/emirodgar/google-analytics-4-webinar-smartup)
