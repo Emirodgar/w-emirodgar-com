@@ -17,6 +17,16 @@ Mi nombre es Emilio Rodríguez García, soy Director SEO y analítica web en [Sm
 
 *Última actualización: {{ page.date_modified }}*
 
+## Reconocimiento
+
+- Experto invitado en el [Estudio Sector SEO 2026](https://estudio.soycarlosgonzalez.com/#/experts/emilio-rodriguez-garcia) y en [SEO Office Hours en Español](https://www.youtube.com/live/2zjdeoHraok) (noviembre 2025).
+- Autor de artículos de opinión sobre tecnología e IA en [Tribuna Salamanca](https://www.tribunasalamanca.com/blogs/conectados/posts/407199/la-ia-anestesia-la-mente) y [Tribuna Valladolid](https://www.tribunavalladolid.com/blogs/conectados/posts/403472/la-guerra-moderna-no-destruye-desconecta).
+- Ponente en mesas redondas de [CyLesMarketing 2024](https://emirodgar.es/congreso-cylesmarketing-2024-salamanca) y Tribuna Eventos 2026, y en formaciones para SEGITTUR y la Universidad Europea.
+- Entrevistado por el [Club de Marketing de Castilla y León](https://open.spotify.com/episode/0RtgsLDmNWbfqufM7XvW9C) e [Indexando Marketing](https://www.indexandomarketing.com/experto-seo-emilio-rodriguez/).
+
+Puedes ver el detalle en [Ponencias y clases](#ponencias-y-clases) y [En medios](#en-medios).
+
+
 {% raw %}
 <script type="application/ld+json">
 {
