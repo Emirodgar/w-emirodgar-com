@@ -20,6 +20,7 @@
 
     <link id="theme-style" rel="stylesheet" href="https://emirodgar.com/assets/css/theme.css">
 
+    {% unless page.permalink == 'emilio-rodriguez' %}
     {% raw %}
     <script type="application/ld+json">
     {
@@ -47,6 +48,7 @@
     }
     </script>
     {% endraw %}
+    {% endunless %}
 
 </head>
 

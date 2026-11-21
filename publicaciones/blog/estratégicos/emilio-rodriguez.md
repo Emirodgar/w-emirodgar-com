@@ -13,108 +13,154 @@ permalink: emilio-rodriguez
 
 ---
 
-Mi nombre es Emilio Rodríguez García y me acerqué al maravilloso mundo del SEO en 2008. 
+Mi nombre es Emilio Rodríguez García, soy Director SEO y analítica web en [Smartup](https://www.smartupdigital.com), especialista en SEO técnico y GEO (optimización para motores de respuesta con IA), y profesor en la [Universidad de Salamanca](https://www.usal.es), la [Universidad de Deusto](https://www.deusto.es) y [UNIR](https://www.unir.net). Vivo en Salamanca y me acerqué al maravilloso mundo del SEO en 2008.
+
+*Última actualización: {{ page.date_modified }}*
 
 {% raw %}
 <script type="application/ld+json">
-[{
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Person",
-      "@id": "https://emirodgar.com/#person",
-      "name": "Emilio Rodríguez García",
-      "alternateName": "Emirodgar",
-      "jobTitle": "Director SEO y Analítica Web",
-      "description": "Especialista SEO técnico con más de 15 años de experiencia. Director SEO en Smartup y profesor en USAL, Deusto y UNIR.",
-      "url": "https://emirodgar.com/emilio-rodriguez",
-      "image": "https://emirodgar.com/assets/images/emirodgar.jpg",
-      "sameAs": [
-        "https://twitter.com/emirodgar",
-        "https://www.linkedin.com/in/emirodgar/",
-        "https://es.quora.com/profile/Emilio-Rodríguez-1",
-        "https://webmasters.stackexchange.com/users/86914/emirodgar",
-        "https://github.com/emirodgar"
-      ],
-      "knowsAbout": [
-        "Search Engine Optimization",
-        "Web Analytics",
-        "Big Data",
-        "Growth Hacking",
-        "Generative AI",
-        "Google Analytics 4"
-      ],
-      "hasCredential": [
-        {
-          "@type": "EducationalOccupationalCredential",
-          "name": "Digital Growth Hacking",
-          "recognizedBy": { "@type": "Organization", "name": "The Valley Digital Business School" }
-        },
-        {
-          "@type": "EducationalOccupationalCredential",
-          "name": "Programa de IA Generativa para Marketing Digital",
-          "recognizedBy": { "@type": "Organization", "name": "Brain & Code" }
-        },
-        {
-          "@type": "EducationalOccupationalCredential",
-          "name": "Certificación SCRUM Manager",
-          "recognizedBy": { "@type": "Organization", "name": "Scrum Manager" }
-        },
-        {
-          "@type": "EducationalOccupationalCredential",
-          "name": "Asesor SEO homologado",
-          "recognizedBy": { "@type": "Organization", "name": "ICEX España Exportación e Inversiones" }
-        }
-      ]
-    },
-    {
-      "@type": "Occupation",
-      "@id": "https://emirodgar.com/#occupation",
-      "name": "Consultor SEO",
-      "mainEntityOfPage": { "@id": "https://emirodgar.com/emilio-rodriguez" },
-      "experienceRequirements": "Más de 15 años en el sector",
-      "occupationLocation": {
-        "@type": "City",
-        "name": "Salamanca"
-      }
-    },
-    {
       "@type": "ProfilePage",
-      "@id": "https://emirodgar.com/emilio-rodriguez",
+      "@id": "https://emirodgar.com/emilio-rodriguez#profilepage",
+      "url": "https://emirodgar.com/emilio-rodriguez",
+      "name": "Emilio Rodríguez García",
+      "inLanguage": "es",
+      "dateCreated": "2022-01-24",
+      "dateModified": "{% endraw %}{{ page.date_modified | date: "%Y-%m-%d" }}{% raw %}",
       "mainEntity": { "@id": "https://emirodgar.com/#person" },
-      "lastReviewed": "2025-08-14",
       "significantLink": [
         "https://emirodgar.com/casos-exito-seo",
         "https://emirodgar.com/publicaciones"
       ]
     },
     {
-      "@type": "ItemList",
-      "name": "Certificaciones y Formación",
-      "itemListElement": [
+      "@type": "Person",
+      "@id": "https://emirodgar.com/#person",
+      "name": "Emilio Rodríguez García",
+      "alternateName": "Emirodgar",
+      "jobTitle": "Director SEO y Analítica Web",
+      "description": "Especialista en SEO técnico y GEO con más de 15 años de experiencia. Director SEO en Smartup y profesor en USAL, Deusto y UNIR.",
+      "url": "https://emirodgar.com/emilio-rodriguez",
+      "image": "https://emirodgar.com/assets/images/emirodgar.jpg",
+      "address": { "@type": "PostalAddress", "addressLocality": "Salamanca", "addressCountry": "ES" },
+      "worksFor": { "@id": "https://www.smartupdigital.com/#organization" },
+      "alumniOf": [
+        { "@type": "CollegeOrUniversity", "name": "Universidad Pontificia de Salamanca", "url": "https://www.upsa.es" },
+        { "@type": "CollegeOrUniversity", "name": "Universidad de Salamanca", "url": "https://www.usal.es" }
+      ],
+      "affiliation": [
+        { "@type": "EducationalOrganization", "name": "Universidad de Salamanca (USAL)", "url": "https://www.usal.es" },
+        { "@type": "EducationalOrganization", "name": "Universidad de Deusto", "url": "https://www.deusto.es" },
+        { "@type": "EducationalOrganization", "name": "UNIR", "url": "https://www.unir.net" },
+        { "@type": "GovernmentOrganization", "name": "ICEX España Exportación e Inversiones", "url": "https://www.icex.es" }
+      ],
+      "sameAs": [
+        "https://x.com/emirodgar",
+        "https://www.linkedin.com/in/emirodgar/",
+        "https://github.com/emirodgar",
+        "https://es.quora.com/profile/Emilio-Rodríguez-1",
+        "https://webmasters.stackexchange.com/users/86914/emirodgar",
+        "https://experts.woorank.com/en/experts/emilio-rodriguez-garcia",
+        "https://estudio.soycarlosgonzalez.com/#/experts/emilio-rodriguez-garcia"
+      ],
+      "knowsAbout": [
+        "Search Engine Optimization",
+        "Technical SEO",
+        "Generative Engine Optimization",
+        "Web Analytics",
+        "Google Analytics 4",
+        "Big Data",
+        "Growth Hacking",
+        "Generative AI"
+      ],
+      "hasOccupation": {
+        "@type": "Occupation",
+        "name": "Consultor SEO",
+        "experienceRequirements": "Más de 15 años en el sector",
+        "occupationLocation": { "@type": "City", "name": "Salamanca" }
+      },
+      "hasCredential": [
         {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Digital Growth Hacking (2025)"
+          "@type": "EducationalOccupationalCredential",
+          "name": "Digital Growth Hacking",
+          "url": "https://lms.thevalley.es/certificaciones/hash-e9f4dc1504d620bb0938c3901eb0d04c",
+          "recognizedBy": { "@type": "Organization", "name": "The Valley Digital Business School" }
         },
         {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "IA Generativa para Marketing (2025)"
+          "@type": "EducationalOccupationalCredential",
+          "name": "Programa de IA Generativa para Marketing Digital",
+          "url": "https://eu.badgr.com/public/assertions/unwgh3pBS_6VzFPPOgHthw",
+          "recognizedBy": { "@type": "Organization", "name": "Brain & Code" }
         },
         {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Máster en Comercio Electrónico - USAL"
+          "@type": "EducationalOccupationalCredential",
+          "name": "Certificación SCRUM Manager",
+          "url": "https://www.scrummanager.com/website/c/profile/member.php?id=42726",
+          "recognizedBy": { "@type": "Organization", "name": "Scrum Manager" }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Certificación de Google Analytics",
+          "url": "https://skillshop.exceedlms.com/student/award/u2PraBhQfWWhDpes6j8tzLug",
+          "recognizedBy": { "@type": "Organization", "name": "Google" }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Certificación Woorank Expert",
+          "url": "https://experts.woorank.com/en/experts/emilio-rodriguez-garcia",
+          "recognizedBy": { "@type": "Organization", "name": "Woorank" }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Asesor SEO homologado",
+          "recognizedBy": { "@type": "GovernmentOrganization", "name": "ICEX España Exportación e Inversiones" }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "name": "Máster en Desarrollo de Sistemas para el Comercio Electrónico",
+          "recognizedBy": { "@type": "CollegeOrUniversity", "name": "Universidad de Salamanca" }
         }
       ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.smartupdigital.com/#organization",
+      "name": "Smartup",
+      "url": "https://www.smartupdigital.com"
+    },
+    {
+      "@type": "Event",
+      "name": "III Congreso #CyLesMarketing - Mesa redonda",
+      "startDate": "2024-03-19",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "url": "https://emirodgar.es/congreso-cylesmarketing-2024-salamanca",
+      "location": {
+        "@type": "Place",
+        "name": "Cámara de Comercio de Salamanca",
+        "address": { "@type": "PostalAddress", "streetAddress": "Plaza de los Sexmeros 2", "addressLocality": "Salamanca", "addressCountry": "ES" }
+      },
+      "organizer": { "@type": "Organization", "name": "Club de Marketing de Castilla y León" },
+      "performer": { "@id": "https://emirodgar.com/#person" }
+    },
+    {
+      "@type": "Event",
+      "name": "Tribuna Eventos - Mesa redonda: El impacto de la Inteligencia Artificial en las empresas y las administraciones",
+      "startDate": "2026-11-23T09:30:00+01:00",
+      "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+      "location": {
+        "@type": "Place",
+        "name": "Hotel Sofraga Palacio",
+        "address": { "@type": "PostalAddress", "addressLocality": "Ávila", "addressCountry": "ES" }
+      },
+      "organizer": { "@type": "Organization", "name": "Tribuna Grupo" },
+      "performer": { "@id": "https://emirodgar.com/#person" }
     }
   ]
 }
-  }]
 </script>
-
 {% endraw %}
 
 Al mismo tiempo que estudiaba la carrera (**[Ingeniería Informática Superior](https://emirodgar.com/ingeniero-informatico)**) obtuve dos becas de la Universidad Pontificia de Salamanca y la fundación Caja Duero para desarrollar aplicaciones I+D sobre tecnología móvil. Tras esto, trabajé como analista web en RENFE.
@@ -126,9 +172,9 @@ También he colaborado como profesor en los centros de negocios de C2B (Campus 2
 ## Evolución SEO
   
 Tras más de 6 años como [consultor SEO](https://emirodgar.com/consultor-seo) en Traffic4U pasé a dirigir el departamento SEO de la agencia internacional Internet Advantage, con sede en España y Holanda.
-Actualmente, con más de 15 años en el sector, trabajo como Director SEO en la agencia de marketing digital, Smartup, posicionando proyectos en España, Portugal, Colombia, Venezuela y México. 
+Actualmente, con más de 15 años en el sector, trabajo como Director SEO en la agencia de marketing digital [Smartup](https://www.smartupdigital.com), posicionando proyectos en España, Portugal, Colombia, Venezuela y México. 
 
-Compagino este trabajo dando clases en el programa **Big Data y Business Intelligence** de la Universidad de Deusto, en el **Máster de Marketing Digital** de la Universidad de Salamanca, en el **Máster Universitario en Marketing Digital** de UNIR  y como asesor homologado de **ICEX España** (Instituto Español de Comercio Exterior).  
+Compagino este trabajo dando clases en el programa **Big Data y Business Intelligence** de la [Universidad de Deusto](https://www.deusto.es), en el **Máster de Marketing Digital** de la [Universidad de Salamanca](https://www.usal.es), en el **Máster Universitario en Marketing Digital** de [UNIR](https://www.unir.net)  y como asesor homologado de **[ICEX España](https://www.icex.es)** (Instituto Español de Comercio Exterior).  
 
 ## Experiencia SEO
   
@@ -136,10 +182,10 @@ He participado en el desarrollo de estrategias para grandes empresas como Movist
 
 ## SEO Growth hacker
 
-La tecnología siempre ha sido un pilar fundamenteal en mis estrategias SEO. Durante estos años he desarrollado la extensión SEO para Wordpress [Automatic SEO Links](https://wordpress.org/plugins/automatic-seo-links/advanced/) con cerca de 100.000 descargas (ya no está activa), la [extensión Emirodgar SEO para Chrome](https://emirodgar.com/extension-seo) (la he hecho privada, por lo que ya no está disponible) o mi [propia plataforma de marketing digital](https://www.linkedin.com/pulse/c%C3%B3mo-la-transformaci%C3%B3n-digital-me-ayud%C3%B3-pagar-de-mi-rodr%C3%ADguez-garc%C3%ADa/) desde la que gestionar todos mis proyectos SEO así como perfiles sociales.
+La tecnología siempre ha sido un pilar fundamental en mis estrategias SEO. Durante estos años he desarrollado la extensión SEO para Wordpress [Automatic SEO Links](https://wordpress.org/plugins/automatic-seo-links/advanced/) con cerca de 100.000 descargas (ya no está activa), la [extensión Emirodgar SEO para Chrome](https://emirodgar.com/extension-seo) (la he hecho privada, por lo que ya no está disponible) o mi [propia plataforma de marketing digital](https://www.linkedin.com/pulse/c%C3%B3mo-la-transformaci%C3%B3n-digital-me-ayud%C3%B3-pagar-de-mi-rodr%C3%ADguez-garc%C3%ADa/) desde la que gestionar todos mis proyectos SEO así como perfiles sociales.
 
 ## Certificaciones
-A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos son algunas de las certificaciones y formaciones que he cursado.
+A lo largo de los años he apostado por seguir formándome y aprendiendo. Estas son algunas de las certificaciones y formaciones que he cursado.
 
 - `2025` - Digital Growth Hacking / The Valley ([ver credencial](https://lms.thevalley.es/certificaciones/hash-e9f4dc1504d620bb0938c3901eb0d04c))
 - `2025` - Programa de IA Generativa para Marketing Digital ([ver credencial](https://eu.badgr.com/public/assertions/unwgh3pBS_6VzFPPOgHthw))
@@ -195,7 +241,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estos 
 - `Septiembre 2024` - Tribuna Salamanca / [Educación contra la desinformación](https://www.tribunasalamanca.com/blogs/conectados/posts/379494/educacion-contra-la-desinformacion)
 - `Mayo 2023` - Indexando Marketing / [Entrevista a Emilio Rodríguez](https://www.indexandomarketing.com/experto-seo-emilio-rodriguez/)
 - `Febrero 2023` - Tribuna Salamanca / [ChatGPT: ¿Terminará la inteligencia artificial con nuestros trabajos?](https://www.tribunasalamanca.com/noticias/321335/chat-gpt-terminara-la-inteligencia-artificial-con-nuestros-trabajos)
-- `Noviembre 2022` - Tribuna Valladolid /  [La extinción de los humnanos en internet](https://www.tribunavalladolid.com/noticias/311970/la-extincion-de-los-humanos-en-internet)
+- `Noviembre 2022` - Tribuna Valladolid /  [La extinción de los humanos en internet](https://www.tribunavalladolid.com/noticias/311970/la-extincion-de-los-humanos-en-internet)
 - `Noviembre 2022` - Tribuna Valladolid /  [Metaverso: descenso a los infiernos](https://www.tribunavalladolid.com/noticias/310453/metaverso-el-descenso-a-los-infiernos)
 - `Octubre 2022` - Tribuna Valladolid / [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
 - `Septiembre 2022` - Tribuna Valladolid / [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
