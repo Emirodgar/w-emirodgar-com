@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/01/2022
-date_modified: 21/11/2026
+date_modified: 22/11/2026
 folder: estrategicos
 layout: emirodgar_post
 permalink: emilio-rodriguez
@@ -243,6 +243,11 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estas 
 
 ## En medios
 
+- `Noviembre 2026` - Tribuna Valladolid / [Lo que Tomás de Mercado preguntaría hoy a la IA](https://www.tribunavalladolid.com/noticias/467490/lo-que-tomas-de-mercado-preguntaria-hoy-a-la-ia)
+- `Agosto 2026` - Tribuna Valladolid / [Antes de enseñar IA, enseñemos a pensar](https://www.tribunavalladolid.com/noticias/455248/antes-de-ensenar-ia-ensenemos-a-pensar)
+- `Junio 2026` - Tribuna Valladolid / [La IA no es una tendencia](https://www.tribunavalladolid.com/noticias/449802/la-ia-no-es-una-tendencia)
+- `Marzo 2026` - Tribuna Valladolid / [El Sacyl ante el espejo de la inteligencia artificial](https://www.tribunavalladolid.com/noticias/439047/el-sacyl-ante-el-espejo-de-la-inteligencia-artificial)
+- `Enero 2026` - Tribuna Valladolid / [Estudiar menos, aprender más](https://www.tribunavalladolid.com/noticias/430584/estudiar-menos-aprender-mas)
 - `Enero 2026` - Participación como experto / [Estudio Sector SEO 2026](https://estudio.soycarlosgonzalez.com/#/experts/emilio-rodriguez-garcia)
 - `Noviembre 2025` - SEO Office Hours en Español / [SOH Español: Natzir Turrado, Josep M Felip y Emilio Rodríguez García](https://www.youtube.com/live/2zjdeoHraok)
 - `Junio 2025` - Tribuna Salamanca / [La IA anestesia la mente](https://www.tribunasalamanca.com/blogs/conectados/posts/407199/la-ia-anestesia-la-mente)
