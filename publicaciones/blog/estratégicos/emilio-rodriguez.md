@@ -165,6 +165,7 @@ Puedes ver el detalle en [Ponencias y clases](#ponencias-y-clases) y [En medios]
       "name": "Tribuna Eventos - Mesa redonda: El impacto de la Inteligencia Artificial en las empresas y las administraciones",
       "startDate": "2026-11-23T09:30:00+01:00",
       "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+      "url": "https://emirodgar.es/evento-impacto-ia-empresas-administraciones-avila",
       "url": "https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial",
       "location": {
         "@type": "Place",
@@ -223,7 +224,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estas 
 
 ## Ponencias y clases
 
-- `Noviembre 2026` - Tribuna Eventos - Mesa redonda / El impacto de la Inteligencia Artificial en las empresas y las administraciones. Participé junto a Luis Collado (Google España), Juan Zafra (CEPYME) y la periodista Sara Martín como moderadora, con Cristina Sanchidrián Blázquez (Junta de Castilla y León) y Miguel López-Valverde Argüeso (Comunidad de Madrid). [Crónica del acto en Tribuna Valladolid](https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial).
+- `Noviembre 2026` - Tribuna Eventos - Mesa redonda / [El impacto de la Inteligencia Artificial en las empresas y las administraciones](https://emirodgar.es/evento-impacto-ia-empresas-administraciones-avila). Participé junto a Luis Collado (Google España), Juan Zafra (CEPYME) y la periodista Sara Martín como moderadora, con Cristina Sanchidrián Blázquez (Junta de Castilla y León) y Miguel López-Valverde Argüeso (Comunidad de Madrid). [Crónica del acto en Tribuna Valladolid](https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial).
 - `Noviembre 2025` - EITB / GEO para Medios Digitales: el nuevo escenario (privada)
 - `Noviembre 2025` - SEGITTUR / [El SEO del futuro en el sector turismo](https://es.slideshare.net/slideshow/smartup-_-formacion-segittur-ia-seo-a-geo-pdf/284474183) - [Grabación en Youtube del evento](https://www.youtube.com/watch?v=Imvyzi7TJko)
 - `Noviembre 2025` - Universidad Europea / [Medición de contenidos generativos y campañas + Modelos de atribución en 2025: evolución y desafíos](https://es.slideshare.net/slideshow/202511-sc7-medicion-de-contenidos-generativos-y-modelos-de-atribucion-en-2025-pptx/284474359)
