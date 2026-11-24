@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 13/11/2026
+date_modified: 24/11/2026
 folder: geo
 permalink: menciones-marca-digital-pr-ia
 
@@ -65,6 +65,16 @@ Para saber si avanzas, propone tres comprobaciones:
 - **Contenido que comparten las personas.** Un contenido hecho en masa y barato rara vez convence a periodistas ni a prescriptores.
 
 Y un caso práctico que plantea: un producto nuevo que no sale. En vez de decir "aún no hemos posicionado", compara qué dicen de ti tu web, la prensa, los medios del sector y comentarios de Reddit. Si todo te describe como "empresa grande" y alguien pregunta por "pequeña empresa", **no tienes aún las pruebas para competir** ahí, y el trabajo es acortar esa distancia entre lo que lanzas y el tema por el que te conocen.
+
+### Un vistazo a cómo AI Overviews puede elegir marcas
+
+El 18 de noviembre de 2026 Chris Long [comentó](https://nectivdigital.com/blog/internal-ai-overviews-leak-what-it-tells-seos) una captura que Stéphane Le Mentec dice haber encontrado: parece mostrar el razonamiento interno de una AI Overview. Long la da por legítima porque etiquetas como `<FollowUp>` coinciden con lo que [Dan Petrovic describió en septiembre](https://dejan.ai/blog/ai-mode-tags/) sobre AI Mode. Es una sola captura y Google no la ha confirmado, así que me quedo con la lectura, no con la certeza. Según Long, lo que se ve es esto:
+
+- **Antes de buscar, ya hay una lista de marcas.** El sistema fija restricciones y parte de una lista de entidades (8 en este caso).
+- **La búsqueda puede ampliarla.** La lista creció hasta 13, y consultó señales externas: Reddit, citado expresamente, y Gartner.
+- **La respuesta final recorta.** Pasó de 13 a 5, y las cinco ya estaban en la lista inicial.
+
+Encaja con lo que cuenta Reynolds: entrar en la preselección importa antes de que tu página compita. Long añade una hipótesis que explicaría por qué algunas empresas salen citadas en un listado pero no mencionadas en la respuesta: no estaban en esa lista. Con una captura no se puede confirmar. Lo práctico para ti es lo de siempre, que lo que se diga de tu marca fuera de tu web (Reddit, analistas, medios) pesa antes de que la IA lea tu contenido. Tienes cómo trabajarlo en [Wikipedia, podcasts y Reddit como fuentes de citas en la IA](https://emirodgar.com/wikipedia-podcasts-reddit-citas-ia).
 
 ## Un canal concreto: los listados de terceros
 

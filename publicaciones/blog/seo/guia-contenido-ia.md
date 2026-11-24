@@ -9,7 +9,7 @@ sitemap: 1
 feed: 1
 folder: geo
 date: 26/03/2024
-date_modified: 05/03/2025
+date_modified: 24/11/2026
 permalink: guia-contenidos-ia
 
 --- 
@@ -90,6 +90,8 @@ Es vital escuchar a los profesionales de IA en lugar de dejarse influenciar úni
 ## Manteniendo la calidad del contenido
 
 La calidad del contenido no solo depende de las herramientas utilizadas para crearlo, sino principalmente del esfuerzo humano y la creatividad involucrada en el proceso. La autenticidad y el valor del contenido son esenciales para satisfacer las expectativas de la audiencia y lograr el éxito deseado. Estar avergonzado de compartir tu contenido puede indicar un esfuerzo insuficiente en su desarrollo. Piénsalo y reflexiona sobre este punto, porque ocurre más veces de lo que creemos.
+
+Una ayuda concreta para ese filtro de calidad: Google ha lanzado [Deep Review](https://research.google/deepreview/), una herramienta gratuita que, según cuentan quienes ya la han probado, analiza un documento que subes y señala errores factuales y afirmaciones sin respaldo, incoherencias o huecos de lógica, afirmaciones que necesitan más evidencia y partes que piden más explicación, con un informe de qué puede estar mal y cómo mejorarlo. Puede servir para textos de web, casos de éxito, informes a clientes o presentaciones. Las mismas fuentes hablan de un límite de dos revisiones gratuitas por semana. Es una segunda lectura, no sustituye a que una persona compruebe los datos antes de publicar.
 
 ## Recomendaciones para pequeñas empresas
 

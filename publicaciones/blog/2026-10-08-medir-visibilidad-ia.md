@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 13/11/2026
+date_modified: 24/11/2026
 folder: geo
 permalink: medir-visibilidad-ia
 
@@ -197,12 +197,16 @@ SISTRIX ha publicado [por qué está cambiando la recogida de datos de rankings 
 - **Junio de 2026:** Google enruta los clics a través de URLs internas `/goto`, cuyo destino solo se conoce siguiéndolas.
 - **Septiembre de 2026:** aparecen resultados divergentes, que parecen reales pero contienen otras webs. Afectan a proveedores de datos de todo el sector y encajan con las SERPs alteradas que midió Nozzle.
 - **Más allá del top 10:** Google ha dejado de mostrar 100 resultados orgánicos en todas las búsquedas, y muchas listas terminan antes de la posición 100.
+- **Noviembre de 2026:** Google está probando un muro de inicio de sesión ("Sign in to continue") en la primera búsqueda, incluso en incógnito. Lo vio [Brodie Clark el 16 de noviembre](https://x.com/SERPalerts/status/2122276267441434959) y lo contó [Barry Schwartz el 17](https://www.seroundtable.com/google-sign-in-protections-after-first-search-42557.html). Rajan Patel, de Google, respondió que no cree que deba salir en la primera página de resultados y que quizá estén probando algo.
+
+El 18 de noviembre, [Nozzle](https://nozzle.io/blog/google-killing-incognito-searches/) vio caer su recogida de SERPs hasta un 98 % en todos sus proveedores durante unas diez horas: de 13:00 a 23:00 UTC recibió solo el 11,6 % de lo habitual. Su lectura, que es una interpretación suya y no un anuncio de Google, es que fue un paso más de un despliegue escalonado, como los enlaces `/goto` o el fin de `num=100`, y que si Google decide mantenerlo podría quedarse a finales de año. También apunta a que el objetivo no son los rank trackers, sino quienes extraen resultados para alimentar asistentes de IA. Su conclusión para el sector: el seguimiento de posiciones no muere, pero se encarece y esperan menos proveedores dentro de un año.
 
 Qué significa para tus informes:
 
 - **El top 10 sigue siendo fiable**, y el índice de visibilidad apenas se resiente, porque las posiciones de la primera página concentran casi todo su valor. Para comparar a largo plazo, SISTRIX recomienda fijarse en el número de palabras clave en el top 10.
 - **Las posiciones profundas son más ruidosas.** Que un dominio salga del top 100 puede deberse a que la lista se ha acortado, y las métricas de "keywords en el top 100" fluctúan más porque esas páginas se actualizan con menos frecuencia.
 - **Las actualizaciones bajo demanda están desactivadas en SISTRIX desde septiembre de 2026**, porque se saltarían sus comprobaciones. Si un resultado no las supera, lo descartan y vuelven a recoger la palabra clave hasta obtener uno verificado, así que algunas se actualizan menos de lo configurado. Mira la fecha de la última actualización de cada una antes de sacar conclusiones.
+- **Un hueco o una caída brusca de datos en torno al 18 de noviembre puede ser del proveedor y no tuya.** Si tu tracker recoge Google sin sesión, contrasta esos días con Search Console antes de dar una alarma, y pregunta a tu proveedor cómo ha cubierto la recogida.
 
 Así que, si te cae una posición en un tracker, contrástala primero con Search Console y con el tráfico, como decía arriba.
 

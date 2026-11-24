@@ -8,7 +8,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 08-10-2026
-date_modified: 13/11/2026
+date_modified: 24/11/2026
 folder: geo
 permalink: preparar-web-agentes-ia
 
@@ -86,6 +86,26 @@ El resto del mapa, según el mismo artículo, es muy desigual: Amazon bloquea a 
 Para no inflar la expectativa, un dato de uso real que dan las propias empresas: Uber dijo que en el tercer trimestre solo completó cuatro viajes pedidos a través de agentes de terceros, y unos 500 pedidos de Uber Eats la semana de Halloween. DoorDash habló de "varios cientos" de pedidos de agentes frente a 993 millones en total ese trimestre.
 
 Mi lectura: permitir o bloquear agentes es una decisión por tipo de agente y por tipo de acción, igual que con los rastreadores, como cuento en [segmentar el bloqueo de bots](https://emirodgar.com/segmentar-bloqueo-bots). Con tan poco volumen, yo primero mediría quién entra de verdad (el panel de Clarity de arriba sirve para eso) y después decidiría, en lugar de abrir o cerrar a ciegas.
+
+### Si quieres dejar pasar a Google-Agent
+
+Google ha publicado una guía para [permitir el tráfico de Google-Agent](https://developers.google.com/crawling/docs/crawlers-fetchers/allow-google-agent), el nombre de los agentes alojados en su infraestructura que navegan y actúan en una web a petición de una persona. Si tu CDN, firewall o antibots los frena, el agente de esa persona no completa la tarea y tú no lo ves como un error en ningún informe.
+
+Según Google, así se identifican:
+
+- Una cabecera `User-Agent` que contiene "Google-Agent".
+- Una IP de la lista [user-triggered-agents.json](https://developers.google.com/static/crawling/ipranges/user-triggered-agents.json).
+- En un experimento con [Web Bot Auth](https://developers.google.com/crawling/docs/crawlers-fetchers/web-bot-auth), peticiones firmadas (RFC 9421) con `Signature-Agent: g="https://agent.bot.goog"` y las cabeceras `Signature` y `Signature-Input`.
+
+Si tu proveedor no lo verifica solo, la regla es comprobar el user-agent y la IP (y la firma, si viene) y saltarte los retos para las peticiones verificadas. Si aun así los bloquean, Google pide revisar cinco cosas:
+
+- **Prioridad de la regla:** que el permiso se evalúe antes que los bloqueos por ASN de centros de datos, las reglas gestionadas de bots o las políticas contra agentes de IA.
+- **Retos interactivos:** que se salten también los CAPTCHA y los retos de JavaScript, incluidos los widgets en el buscador interno o en formularios.
+- **Acciones dentro del recorrido:** que el permiso cubra la búsqueda, los filtros, las fichas, el carrito, las reservas y los endpoints XHR, GraphQL o `api.*`, no solo la carga de la home.
+- **Límites por IP:** que el rate limit tenga en cuenta que muchos usuarios salen por el mismo grupo de IPs.
+- **Rangos actualizados y proxies:** que las reglas sigan el JSON vigente y que los balanceadores conserven la IP original, el user-agent y las cabeceras de firma.
+
+Mi consejo, que es mío y no de Google: verifica siempre por IP, no solo por user-agent, que cualquiera puede falsificar. Y encaja con lo que decía arriba, decidir por tipo de agente y por tipo de acción: este actúa en nombre de una persona, y bloquearlo sin querer es perder una compra o una reserva.
 
 ## Por dónde empezaría
 
