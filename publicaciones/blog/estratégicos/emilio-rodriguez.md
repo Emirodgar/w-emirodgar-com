@@ -20,9 +20,14 @@ Mi nombre es Emilio Rodríguez García, soy Director SEO y analítica web en [Sm
 ## Reconocimiento
 
 - Experto invitado en el [Estudio Sector SEO 2026](https://estudio.soycarlosgonzalez.com/#/experts/emilio-rodriguez-garcia) y en [SEO Office Hours en Español](https://www.youtube.com/live/2zjdeoHraok) (noviembre 2025).
+- Experto invitado en el foro "El impacto de la IA en las empresas y las administraciones" de Tribuna Grupo (Ávila, 23 de noviembre de 2026), junto a consejeros de la Junta de Castilla y León y de la Comunidad de Madrid ([crónica en Tribuna Valladolid](https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial)).
 - Autor de artículos de opinión sobre tecnología e IA en [Tribuna Salamanca](https://www.tribunasalamanca.com/blogs/conectados/posts/407199/la-ia-anestesia-la-mente) y [Tribuna Valladolid](https://www.tribunavalladolid.com/blogs/conectados/posts/403472/la-guerra-moderna-no-destruye-desconecta).
 - Ponente en mesas redondas de [CyLesMarketing 2024](https://emirodgar.es/congreso-cylesmarketing-2024-salamanca) y Tribuna Eventos 2026, y en formaciones para SEGITTUR y la Universidad Europea.
 - Entrevistado por el [Club de Marketing de Castilla y León](https://open.spotify.com/episode/0RtgsLDmNWbfqufM7XvW9C) e [Indexando Marketing](https://www.indexandomarketing.com/experto-seo-emilio-rodriguez/).
+
+![Foto de grupo del foro de Tribuna Grupo en Ávila sobre el impacto de la IA en las empresas y las administraciones, con los expertos invitados y los consejeros de la Junta de Castilla y León y de la Comunidad de Madrid](https://emirodgar.com/cdn/images/posts/tribuna-eventos-avila-ia-foto-grupo.webp){:class="img-responsive"}
+
+*Foro de Tribuna Grupo en Ávila (23 de noviembre de 2026): expertos invitados y consejeros de la Junta de Castilla y León y de la Comunidad de Madrid.*
 
 Puedes ver el detalle en [Ponencias y clases](#ponencias-y-clases) y [En medios](#en-medios).
 
