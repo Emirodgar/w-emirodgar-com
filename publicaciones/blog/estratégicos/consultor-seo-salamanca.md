@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 27/01/2022
-date_modified: 12/11/2026
+date_modified: 25/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -200,3 +200,5 @@ He impartido ponencias y formaciones como experto en marketing digital en la **U
 Fuera del ámbito local, colaboro como docente con la **Universidad de Deusto**, **Foro Economía Digital**, **C2B** o la **Escuela Europea de Negocios**.
 
 También cuento con certificación del **ICEX España** como especialista SEO para ayudar a empresas a expandir sus productos en mercados internacionales mediante estrategias de posicionamiento web.
+
+Si quieres conocer mejor quién está detrás de este trabajo, en [mi página personal](https://emirodgar.com/emilio-rodriguez) tienes mi trayectoria, certificaciones, ponencias y apariciones en medios.

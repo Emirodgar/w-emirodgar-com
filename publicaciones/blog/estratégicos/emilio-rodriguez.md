@@ -17,7 +17,26 @@ Mi nombre es Emilio Rodríguez García, soy Director SEO y analítica web en [Sm
 
 *Última actualización: {{ page.date_modified }}*
 
-## Reconocimiento
+<div class="bio-card">
+<img class="bio-card-photo" src="https://emirodgar.com/assets/images/emirodgar.jpg" alt="Emilio Rodríguez García, Director SEO y analítica web en Smartup" width="120" height="120">
+<div class="bio-card-text">
+<p class="bio-card-title">En 30 segundos</p>
+<p>Director SEO y analítica web en <a href="https://www.smartupdigital.com">Smartup</a> desde 2018, con más de 15 años en SEO técnico y GEO. Profesor en la Universidad de Salamanca, Deusto y UNIR, asesor SEO homologado por ICEX España y ponente en foros como el de Tribuna Grupo en Ávila (2026).</p>
+</div>
+<dl class="bio-facts">
+<div><dt>Cargo</dt><dd>Director SEO y analítica web, Smartup</dd></div>
+<div><dt>Especialidad</dt><dd>SEO técnico, GEO y analítica web</dd></div>
+<div><dt>Docencia</dt><dd>USAL, Universidad de Deusto y UNIR</dd></div>
+<div><dt>Ubicación</dt><dd>Salamanca (España)</dd></div>
+<div><dt>Contacto</dt><dd><a href="mailto:hola@emirodgar.com">hola@emirodgar.com</a></dd></div>
+</dl>
+<p class="bio-actions"><a class="bio-btn bio-btn-main" href="https://emirodgar.com/contacto">Contactar</a> <a class="bio-btn" href="https://emirodgar.com/casos-exito-seo">Casos de éxito</a> <a class="bio-btn" href="https://emirodgar.com/consultor-seo">Consultor SEO</a> <a class="bio-btn" href="https://www.linkedin.com/in/emirodgar/">LinkedIn</a></p>
+</div>
+<nav class="bio-toc" aria-label="Contenido de la página">
+<span>En esta página:</span> <a href="#reconocimiento">Reconocimiento</a> <a href="#en-medios">En medios</a> <a href="#biografia">Biografía</a> <a href="#certificaciones">Certificaciones</a> <a href="#trayectoria">Trayectoria</a> <a href="#ponencias-y-clases">Ponencias y clases</a> <a href="#contacto">Contacto</a>
+</nav>
+
+## Reconocimiento {#reconocimiento}
 
 - Experto invitado en el [Estudio Sector SEO 2026](https://estudio.soycarlosgonzalez.com/#/experts/emilio-rodriguez-garcia) y en [SEO Office Hours en Español](https://www.youtube.com/live/2zjdeoHraok) (noviembre 2025).
 - Experto invitado en el foro "El impacto de la IA en las empresas y las administraciones" de Tribuna Grupo (Ávila, 23 de noviembre de 2026), junto a consejeros de la Junta de Castilla y León y de la Comunidad de Madrid ([crónica en Tribuna Valladolid](https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial)).
@@ -27,9 +46,35 @@ Mi nombre es Emilio Rodríguez García, soy Director SEO y analítica web en [Sm
 
 ![Foto de grupo del foro de Tribuna Grupo en Ávila sobre el impacto de la IA en las empresas y las administraciones, con los expertos invitados y los consejeros de la Junta de Castilla y León y de la Comunidad de Madrid](https://emirodgar.com/cdn/images/posts/tribuna-eventos-avila-ia-foto-grupo.webp){:class="img-responsive"}
 
-*Foro de Tribuna Grupo en Ávila (23 de noviembre de 2026): expertos invitados y consejeros de la Junta de Castilla y León y de la Comunidad de Madrid.*
+*Foro de Tribuna Grupo en Ávila (23 de noviembre de 2026), con los expertos invitados y los consejeros Cristina Sanchidrián Blázquez, consejera de Movilidad, Transformación Digital e Inteligencia Artificial de la Junta de Castilla y León, y Miguel López-Valverde Argüeso, consejero de Digitalización de la Comunidad de Madrid.*
 
-Puedes ver el detalle en [Ponencias y clases](#ponencias-y-clases) y [En medios](#en-medios).
+## En medios {#en-medios}
+
+- `Noviembre 2026` - Onda Cero Valladolid / [Entrevista en "Castilla y León en la Onda" (23/11/2026)](https://www.ondacero.es/emisoras/castilla-y-leon/valladolid/audios-podcast/castilla-leon-onda/castilla-leon-onda-2311202_202611236b044894f6da642efef8d2c0.html)
+- `Noviembre 2026` - Tribuna Valladolid / [Tribuna Grupo plantea en Ávila los desafíos y retos de la Inteligencia Artificial](https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial)
+- `Noviembre 2026` - Tribuna Valladolid / [Lo que Tomás de Mercado preguntaría hoy a la IA](https://www.tribunavalladolid.com/noticias/467490/lo-que-tomas-de-mercado-preguntaria-hoy-a-la-ia)
+- `Agosto 2026` - Tribuna Valladolid / [Antes de enseñar IA, enseñemos a pensar](https://www.tribunavalladolid.com/noticias/455248/antes-de-ensenar-ia-ensenemos-a-pensar)
+- `Junio 2026` - Tribuna Valladolid / [La IA no es una tendencia](https://www.tribunavalladolid.com/noticias/449802/la-ia-no-es-una-tendencia)
+- `Marzo 2026` - Tribuna Valladolid / [El Sacyl ante el espejo de la inteligencia artificial](https://www.tribunavalladolid.com/noticias/439047/el-sacyl-ante-el-espejo-de-la-inteligencia-artificial)
+- `Enero 2026` - Tribuna Valladolid / [Estudiar menos, aprender más](https://www.tribunavalladolid.com/noticias/430584/estudiar-menos-aprender-mas)
+- `Enero 2026` - Participación como experto / [Estudio Sector SEO 2026](https://estudio.soycarlosgonzalez.com/#/experts/emilio-rodriguez-garcia)
+
+<details markdown="1">
+<summary>Ver apariciones anteriores (2025 y anteriores)</summary>
+
+- `Noviembre 2025` - SEO Office Hours en Español / [SOH Español: Natzir Turrado, Josep M Felip y Emilio Rodríguez García](https://www.youtube.com/live/2zjdeoHraok)
+- `Junio 2025` - Tribuna Salamanca / [La IA anestesia la mente](https://www.tribunasalamanca.com/blogs/conectados/posts/407199/la-ia-anestesia-la-mente)
+- `Mayo 2025` - Club de Marketing de Castilla y León / [Entrevista a Emilio Rodríguez](https://open.spotify.com/episode/0RtgsLDmNWbfqufM7XvW9C)
+- `Marzo 2025` - Tribuna Valladolid / [La guerra moderna no destruye, desconecta](https://www.tribunavalladolid.com/blogs/conectados/posts/403472/la-guerra-moderna-no-destruye-desconecta)
+- `Septiembre 2024` - Tribuna Salamanca / [Educación contra la desinformación](https://www.tribunasalamanca.com/blogs/conectados/posts/379494/educacion-contra-la-desinformacion)
+- `Mayo 2023` - Indexando Marketing / [Entrevista a Emilio Rodríguez](https://www.indexandomarketing.com/experto-seo-emilio-rodriguez/)
+- `Febrero 2023` - Tribuna Salamanca / [ChatGPT: ¿Terminará la inteligencia artificial con nuestros trabajos?](https://www.tribunasalamanca.com/noticias/321335/chat-gpt-terminara-la-inteligencia-artificial-con-nuestros-trabajos)
+- `Noviembre 2022` - Tribuna Valladolid /  [La extinción de los humanos en internet](https://www.tribunavalladolid.com/noticias/311970/la-extincion-de-los-humanos-en-internet)
+- `Noviembre 2022` - Tribuna Valladolid /  [Metaverso: descenso a los infiernos](https://www.tribunavalladolid.com/noticias/310453/metaverso-el-descenso-a-los-infiernos)
+- `Octubre 2022` - Tribuna Valladolid / [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
+- `Septiembre 2022` - Tribuna Valladolid / [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
+
+</details>
 
 
 {% raw %}
@@ -166,7 +211,7 @@ Puedes ver el detalle en [Ponencias y clases](#ponencias-y-clases) y [En medios]
       "startDate": "2026-11-23T09:30:00+01:00",
       "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
       "url": "https://emirodgar.es/evento-impacto-ia-empresas-administraciones-avila",
-      "url": "https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial",
+      "sameAs": "https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial",
       "location": {
         "@type": "Place",
         "name": "Hotel Sofraga Palacio",
@@ -180,20 +225,22 @@ Puedes ver el detalle en [Ponencias y clases](#ponencias-y-clases) y [En medios]
 </script>
 {% endraw %}
 
+## Biografía {#biografia}
+
 Al mismo tiempo que estudiaba la carrera (**[Ingeniería Informática Superior](https://emirodgar.com/ingeniero-informatico)**) obtuve dos becas de la Universidad Pontificia de Salamanca y la fundación Caja Duero para desarrollar aplicaciones I+D sobre tecnología móvil. Tras esto, trabajé como analista web en RENFE.
   
 Al encontrar una gran motivación en el desarrollo de estrategias digitales, algo que inicié con mis proyectos personales en 2007, comencé a trabajar como consultor SEO en Traffic4u en el año 2009. Continué mi formación en este sector cursando el **Máster en Desarrollo de Sistemas para el Comercio Electrónico** de la Universidad de Salamanca y obteniendo las certificaciones de **Google Analytics**, **MobileExperts** y **Webtrekk**.  
 
 También he colaborado como profesor en los centros de negocios de C2B (Campus 2 Business) y Foro Economía Digital. He sido ponente en los eventos Ecommbrunch, SearchCongress y [CyLesMarketing](https://emirodgar.es/congreso-cylesmarketing-2024-salamanca) y jurado en los Premios Nacionales eCommerce.
-  
-## Evolución SEO
+
+## Evolución SEO {#evolucion}
   
 Tras más de 6 años como [consultor SEO](https://emirodgar.com/consultor-seo) en Traffic4U pasé a dirigir el departamento SEO de la agencia internacional Internet Advantage, con sede en España y Holanda.
 Actualmente, con más de 15 años en el sector, trabajo como Director SEO en la agencia de marketing digital [Smartup](https://www.smartupdigital.com), posicionando proyectos en España, Portugal, Colombia, Venezuela y México. 
 
 Compagino este trabajo dando clases en el programa **Big Data y Business Intelligence** de la [Universidad de Deusto](https://www.deusto.es), en el **Máster de Marketing Digital** de la [Universidad de Salamanca](https://www.usal.es), en el **Máster Universitario en Marketing Digital** de [UNIR](https://www.unir.net)  y como asesor homologado de **[ICEX España](https://www.icex.es)** (Instituto Español de Comercio Exterior).  
 
-## Experiencia SEO
+## Experiencia SEO {#experiencia}
   
 He participado en el desarrollo de estrategias para grandes empresas como Movistar, Acciona, FNAC, RACE, Vitaldent, Midas, Segundamano, Grupo Parques Reunidos y Hofmann; destaco la experiencia en el sector turismo con Meliá Hoteles, Rumbo y Barceló Hoteles entre otros.
 
@@ -201,7 +248,7 @@ He participado en el desarrollo de estrategias para grandes empresas como Movist
 
 La tecnología siempre ha sido un pilar fundamental en mis estrategias SEO. Durante estos años he desarrollado la extensión SEO para Wordpress [Automatic SEO Links](https://wordpress.org/plugins/automatic-seo-links/advanced/) con cerca de 100.000 descargas (ya no está activa), la [extensión Emirodgar SEO para Chrome](https://emirodgar.com/extension-seo) (la he hecho privada, por lo que ya no está disponible) o mi [propia plataforma de marketing digital](https://www.linkedin.com/pulse/c%C3%B3mo-la-transformaci%C3%B3n-digital-me-ayud%C3%B3-pagar-de-mi-rodr%C3%ADguez-garc%C3%ADa/) desde la que gestionar todos mis proyectos SEO así como perfiles sociales.
 
-## Certificaciones
+## Certificaciones {#certificaciones}
 A lo largo de los años he apostado por seguir formándome y aprendiendo. Estas son algunas de las certificaciones y formaciones que he cursado.
 
 - `2025` - Digital Growth Hacking / The Valley ([ver credencial](https://lms.thevalley.es/certificaciones/hash-e9f4dc1504d620bb0938c3901eb0d04c))
@@ -214,7 +261,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estas 
 - `2011` - Certificación de Webtrekk
 - `2009` - Máster en Experto en Desarrollo de Sistemas para el Comercio Electrónico (USAL)
 
-## Trayectoria profesional
+## Trayectoria profesional {#trayectoria}
 
 - Desde el `2018` - Director SEO y analítica web en **Smartup**  / +90 empleados
 - `2015` - Director SEO en **Internet Advantage**  / +50 empleados
@@ -222,7 +269,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estas 
 - `2011` - Consultor SEO homologado por **ICEX España**
 - `2009` - Consultor SEO en **Traffic4U**  / +100 empleados
 
-## Ponencias y clases
+## Ponencias y clases {#ponencias-y-clases}
 
 - `Noviembre 2026` - Tribuna Eventos - Mesa redonda / [El impacto de la Inteligencia Artificial en las empresas y las administraciones](https://emirodgar.es/evento-impacto-ia-empresas-administraciones-avila). Participé junto a Luis Collado (Google España), Juan Zafra (CEPYME) y la periodista Sara Martín como moderadora, con Cristina Sanchidrián Blázquez (Junta de Castilla y León) y Miguel López-Valverde Argüeso (Comunidad de Madrid). [Crónica del acto en Tribuna Valladolid](https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial).
 - `Noviembre 2025` - EITB / GEO para Medios Digitales: el nuevo escenario (privada)
@@ -232,6 +279,10 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estas 
 - `Octubre 2025` - Smartup - Webinar / [El nuevo SEO en la era de la IA](https://es.slideshare.net/slideshow/el-nuevo-seo-en-la-era-de-la-ia-smartup-webinar/283698671)
 - `Abril 2025` - Brain & Code - Programa de IA Generativa para Marketing Digital / [El futuro de los buscadores y las redes sociales en la era de la IA](https://es.slideshare.net/slideshow/piamd-us2-el-futuro-de-los-buscadores-y-las-redes-sociales-en-la-era-de-la-ia/282429595)
 - `Febrero 2025` - Brain & Code - Programa de IA Generativa para Marketing Digital / [Las novedades del algoritmo de Google](https://es.slideshare.net/slideshow/brain-code-las-novedades-del-algoritmo-de-google-pptx/282429546)
+
+<details markdown="1">
+<summary>Ver ponencias y clases anteriores (2024 y anteriores)</summary>
+
 - `Mayo 2024` - UNIR - Curso Avanzado Universitario de SEO / [SEO técnico: rastreo e indexación](https://www.unir.net/marketing-comunicacion/revista/hazte-experto-mundo-seo-areas-mas-demandadas-mercado-laboral/) 
 - `Marzo 2024` - Club de Marketing CyL - Mesa redonda / [III Congreso #CyLesMarketing](https://emirodgar.es/congreso-cylesmarketing-2024-salamanca) (19 de marzo, Cámara de Comercio de Salamanca)
 - `Enero 2024` - Smartup - Webinar / [El futuro del SEO en la era de la Inteligencia Artificial](https://info.smartupdigital.com/grabacion-webinar-futuro-seo-ia)
@@ -248,29 +299,14 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estas 
 - `Noviembre 2016` - Universidad de Deusto - Programa en Big Data y Business Intelligence / [Plan de marketing digital](https://es.slideshare.net/emirodgar/plan-de-marketing-digital-76290876)
 - `Abril 2016` - Foro Economía Digital - [Exprimiendo Google Analytics](https://es.slideshare.net/emirodgar/exprimiendo-google-analytics)
 
-## En medios
+</details>
 
-- `Noviembre 2026` - Onda Cero Valladolid / [Entrevista en "Castilla y León en la Onda" (23/11/2026)](https://www.ondacero.es/emisoras/castilla-y-leon/valladolid/audios-podcast/castilla-leon-onda/castilla-leon-onda-2311202_202611236b044894f6da642efef8d2c0.html)
-- `Noviembre 2026` - Tribuna Valladolid / [Tribuna Grupo plantea en Ávila los desafíos y retos de la Inteligencia Artificial](https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial)
-- `Noviembre 2026` - Tribuna Valladolid / [Lo que Tomás de Mercado preguntaría hoy a la IA](https://www.tribunavalladolid.com/noticias/467490/lo-que-tomas-de-mercado-preguntaria-hoy-a-la-ia)
-- `Agosto 2026` - Tribuna Valladolid / [Antes de enseñar IA, enseñemos a pensar](https://www.tribunavalladolid.com/noticias/455248/antes-de-ensenar-ia-ensenemos-a-pensar)
-- `Junio 2026` - Tribuna Valladolid / [La IA no es una tendencia](https://www.tribunavalladolid.com/noticias/449802/la-ia-no-es-una-tendencia)
-- `Marzo 2026` - Tribuna Valladolid / [El Sacyl ante el espejo de la inteligencia artificial](https://www.tribunavalladolid.com/noticias/439047/el-sacyl-ante-el-espejo-de-la-inteligencia-artificial)
-- `Enero 2026` - Tribuna Valladolid / [Estudiar menos, aprender más](https://www.tribunavalladolid.com/noticias/430584/estudiar-menos-aprender-mas)
-- `Enero 2026` - Participación como experto / [Estudio Sector SEO 2026](https://estudio.soycarlosgonzalez.com/#/experts/emilio-rodriguez-garcia)
-- `Noviembre 2025` - SEO Office Hours en Español / [SOH Español: Natzir Turrado, Josep M Felip y Emilio Rodríguez García](https://www.youtube.com/live/2zjdeoHraok)
-- `Junio 2025` - Tribuna Salamanca / [La IA anestesia la mente](https://www.tribunasalamanca.com/blogs/conectados/posts/407199/la-ia-anestesia-la-mente)
-- `Mayo 2025` - Club de Marketing de Castilla y León / [Entrevista a Emilio Rodríguez](https://open.spotify.com/episode/0RtgsLDmNWbfqufM7XvW9C)
-- `Marzo 2025` - Tribuna Valladolid / [La guerra moderna no destruye, desconecta](https://www.tribunavalladolid.com/blogs/conectados/posts/403472/la-guerra-moderna-no-destruye-desconecta)
-- `Septiembre 2024` - Tribuna Salamanca / [Educación contra la desinformación](https://www.tribunasalamanca.com/blogs/conectados/posts/379494/educacion-contra-la-desinformacion)
-- `Mayo 2023` - Indexando Marketing / [Entrevista a Emilio Rodríguez](https://www.indexandomarketing.com/experto-seo-emilio-rodriguez/)
-- `Febrero 2023` - Tribuna Salamanca / [ChatGPT: ¿Terminará la inteligencia artificial con nuestros trabajos?](https://www.tribunasalamanca.com/noticias/321335/chat-gpt-terminara-la-inteligencia-artificial-con-nuestros-trabajos)
-- `Noviembre 2022` - Tribuna Valladolid /  [La extinción de los humanos en internet](https://www.tribunavalladolid.com/noticias/311970/la-extincion-de-los-humanos-en-internet)
-- `Noviembre 2022` - Tribuna Valladolid /  [Metaverso: descenso a los infiernos](https://www.tribunavalladolid.com/noticias/310453/metaverso-el-descenso-a-los-infiernos)
-- `Octubre 2022` - Tribuna Valladolid / [La ignorancia es la felicidad](https://www.tribunavalladolid.com/noticias/307838/la-ignorancia-es-la-felicidad)
-- `Septiembre 2022` - Tribuna Valladolid / [Efecto Lindy](https://www.tribunavalladolid.com/noticias/306116/efecto-lindy-te-ayudo-a-elegir-tu-proximo-libro)
-
-## Enlaces
+## Contacto y enlaces {#contacto}
 
 Puedes saber más de mí a través de mi perfil de [Twitter](https://twitter.com/emirodgar) o [LinkedIn](https://www.linkedin.com/in/emirodgar/), donde [comparto también mi actividad](https://emirodgar.com/influencer-seo). También echo una mano en los foros de Webmasters Stack Exchange ([perfil](https://webmasters.stackexchange.com/users/86914/emirodgar)) y Quora ([perfil](https://es.quora.com/profile/Emilio-Rodr%C3%ADguez-1)) ayudando en SEO y Analítica.
 
+<div class="bio-card bio-cta">
+<p class="bio-card-title">¿Hablamos?</p>
+<p>Si quieres revisar el SEO y la visibilidad en IA de tu web, o contar conmigo para una formación o ponencia, escríbeme a <a href="mailto:hola@emirodgar.com">hola@emirodgar.com</a> o usa el formulario.</p>
+<p class="bio-actions"><a class="bio-btn bio-btn-main" href="https://emirodgar.com/contacto">Contactar</a> <a class="bio-btn" href="https://emirodgar.com/casos-exito-seo">Ver casos de éxito</a></p>
+</div>

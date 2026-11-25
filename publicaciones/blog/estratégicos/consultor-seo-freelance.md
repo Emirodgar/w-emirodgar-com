@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 11/09/2026
-date_modified: 12/11/2026
+date_modified: 25/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -114,3 +114,5 @@ Cuéntame en qué punto está tu SEO actual y qué objetivo quieres alcanzar. Te
 * **Ubicación:** España (servicio remoto para España, México, Colombia, Argentina, Chile y resto de Hispanoamérica)
 
 [👉 Reservar Consultoría SEO Inicial](https://emirodgar.com/contacto)
+
+Si antes de escribirme quieres saber con quién hablarías, aquí tienes [quién soy y qué he hecho en más de 15 años de SEO](https://emirodgar.com/emilio-rodriguez): trayectoria, docencia, ponencias y apariciones en medios.

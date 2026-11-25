@@ -5,7 +5,7 @@ lang: es_ES
 sitemap: 1
 feed: 1
 date: 26/10/2021
-date_modified: 12/11/2026
+date_modified: 25/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -361,3 +361,5 @@ La migración se ejecutó en mayo de 2026. En el gráfico de Sistrix, la línea 
 ![Gráfico de Sistrix con el índice de visibilidad de dos dominios de un mismo cliente: tras fusionar el secundario en el principal en mayo de 2026, el principal alcanza máximos históricos y el secundario cae a cero](https://emirodgar.com/cdn/images/posts/sistrix-fusion-dominios-visibilidad.png){:class="img-responsive"}
 
 El secundario desaparece del gráfico, como era de esperar, y el principal alcanza niveles de visibilidad que ninguno de los dos dominios había visto por separado. Lo cuento con cautela: el principal ya venía mejorando antes de la fusión, así que es un caso que sugiere que consolidar autoridad puede ayudar, no una prueba de causa y efecto. Tienes el método completo en el artículo sobre [cómo planificar, ejecutar y evaluar una migración SEO](https://emirodgar.com/migracion-seo).
+
+Estos casos los he trabajado yo; en [mi página personal](https://emirodgar.com/emilio-rodriguez) puedes ver la trayectoria, las certificaciones y las apariciones en medios que los respaldan.

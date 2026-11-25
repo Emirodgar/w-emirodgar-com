@@ -8,7 +8,7 @@ feed: 1
 layout: emirodgar_post
 folder: estrategicos
 date: 19/05/2021
-date_modified: 11/09/2026
+date_modified: 25/11/2026
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: seo-experto
 
@@ -105,7 +105,7 @@ Recomiendo comenzar con la [guía para principiantes de Google Analytics](https:
 
 ## ¿Prefieres contar con un experto SEO en vez de formarte tú mismo?
 
-Si en lugar de aplicar todo esto internamente prefieres que lo haga alguien con más de 15 años de experiencia, puedo ayudarte como [consultor SEO](https://emirodgar.com/consultor-seo) o con una [auditoría SEO](https://emirodgar.com/auditoria-seo) que te diga exactamente qué está frenando tu visibilidad.
+Si en lugar de aplicar todo esto internamente prefieres que lo haga alguien con [más de 15 años de experiencia](https://emirodgar.com/emilio-rodriguez), puedo ayudarte como [consultor SEO](https://emirodgar.com/consultor-seo) o con una [auditoría SEO](https://emirodgar.com/auditoria-seo) que te diga exactamente qué está frenando tu visibilidad.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjA3OTE0NjAzNywtMzY3ODMzNjkzLDk1ND

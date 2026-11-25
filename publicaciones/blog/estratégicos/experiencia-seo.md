@@ -8,6 +8,7 @@ feed: 1
 layout: emirodgar_post
 folder: estrategicos
 date: 19/05/2021
+date_modified: 25/11/2026
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: experiencia-seo
 
@@ -40,6 +41,9 @@ En base a esta experiencia, os cuento las 10 cosas más importantes que he apren
 Parte de ese aprendizaje viene también de los libros: aquí tienes los [mejores libros de SEO](https://emirodgar.com/mejores-libros-seo) que recomiendo. Y si buscas formas alternativas de pago para contratar mis servicios, [también acepto criptomonedas](https://emirodgar.com/seo-criptomonedas).
 
 ![Project and SEO manager en Smartup](https://i.imgur.com/LIrGTNU.png){:class="img-responsive"}
+
+Un resumen más ordenado de mi trayectoria, con certificaciones, ponencias y apariciones en medios, está en [Emilio Rodríguez García](https://emirodgar.com/emilio-rodriguez).
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzM3NDc4NzAwLC0yMzUyNzYzMjgsLTQwNj
 U5NDQyMl19
