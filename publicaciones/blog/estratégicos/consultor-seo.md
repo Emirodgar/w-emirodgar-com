@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 27/01/2022
-date_modified: 12/11/2026
+date_modified: 25/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -22,7 +22,7 @@ Hola, soy **Emilio Rodríguez García** y trabajo como profesional del posiciona
 
 ## Consultor SEO Profesional: Estrategias de Posicionamiento Web Orgánico e IA
 
-Mi trayectoria incluye la adaptación y superación de los grandes cambios de algoritmo de Google —desde *Panda* y *Penguin* hasta las actualizaciones de contenido útil (*Helpful Content Updates*) y la llegada del **GEO (Generative Engine Optimization)**—. Además, soy **asesor SEO homologado por ICEX España** para la internacionalización de negocios digitales.
+Mi trayectoria incluye la adaptación y superación de los grandes cambios de algoritmo de Google —desde *Panda* y *Penguin* hasta las actualizaciones de contenido útil (*Helpful Content Updates*) y la llegada de los AI Overviews, el modo IA de Google y el **GEO (Generative Engine Optimization)**—. Además, soy **asesor SEO homologado por ICEX España** para la internacionalización de negocios digitales.
 
 Si buscas un **consultor SEO** que combine solvencia técnica, visión de negocio y ejecución directa sin intermediarios, a continuación te explico cómo trabajo y cómo podemos escalar la visibilidad y facturación de tu proyecto.
 
@@ -69,6 +69,22 @@ Si buscas un **consultor SEO** que combine solvencia técnica, visión de negoci
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "Una auditoría SEO puntual suele costar entre 600€ y 2.500€, mientras que una consultoría mensual (retainer) oscila entre 500€ y 2.000€/mes según la complejidad del proyecto."
+    }
+  },
+  {
+    "@type": "Question",
+    "name": "¿Un consultor SEO también trabaja la visibilidad en ChatGPT, Perplexity y Google AI Overviews?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sí. La visibilidad en IA se apoya en las mismas bases que el SEO (indexación, contenido y autoridad), a las que se suma escribir contenido citable, reforzar la marca como entidad y medir las menciones en respuestas generativas. Es lo que se conoce como AEO y GEO."
+    }
+  },
+  {
+    "@type": "Question",
+    "name": "¿Cuánto tarda el SEO en dar resultados?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Los primeros avances suelen verse entre 3 y 6 meses, y los resultados consolidados entre 6 y 12 meses, según la competencia, el estado técnico de la web y la autoridad de partida. Cualquier promesa de primeras posiciones en menos de 30 días es una señal de alerta."
     }
   }]
 }]
@@ -140,13 +156,15 @@ No todas las visitas convierten. Filtramos el tráfico irrelevante para enfocar 
 Optimizamos tu sitio web para los algoritmos tradicionales de Google y para los motores de respuesta por IA:
 * Creación de contenidos bajo estándares **E-E-A-T** (Experiencia, Expertise, Autoridad y Confiabilidad).
 * Implementación de **Datos Estructurados** avanzados (Schema.org) para fragmentos enriquecidos (*Rich Snippets*).
-* Redacción estructurada para ser citada como fuente prioritaria en ChatGPT, Perplexity y Google Search Generative Experience.
+* Redacción estructurada para ser citada como fuente prioritaria en ChatGPT, Perplexity y Google (AI Overviews y modo IA).
 
 ### Fase 4: Estrategia Off-Page y Autoridad de Marca
 Aumentamos la popularidad y credibilidad de tu dominio en internet de forma segura:
 * Adquisición de enlaces editoriales de alta relevancia temática (*Link Building* cualitativo).
 * Eliminación de enlaces tóxicos o penalizaciones previas (*Disavow* y auditorías de perfil de enlaces).
-* Estrategia de menciones de marca y relaciones públicas digitales.
+* Estrategia de menciones de marca y relaciones públicas digitales, cada vez más determinantes para que una IA te cite.
+
+Todo el proceso se apoya en los [tres pilares SEO](https://emirodgar.com/pilares-seo) y se traduce en una [estrategia SEO](https://emirodgar.com/estrategia-seo) con objetivos y KPIs medibles. Si quieres saber más sobre la capa de IA, te explico [qué es GEO y en qué se diferencia del SEO y del AEO](https://emirodgar.com/que-es-geo).
 
 ---
 
@@ -226,4 +244,4 @@ Si buscas un análisis honesto sobre las posibilidades reales de crecimiento org
 * **Email:** hola@emirodgar.com
 * **Ubicación:** España (Servicios para España, México, Colombia, Argentina, Chile y resto de Hispanoamérica)
 
-[👉 Reservar Consultoría SEO Inicial](#)
+[👉 Reservar Consultoría SEO Inicial](https://emirodgar.com/contacto)
