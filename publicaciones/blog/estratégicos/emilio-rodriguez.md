@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 24/01/2022
-date_modified: 24/11/2026
+date_modified: 25/11/2026
 folder: estrategicos
 layout: emirodgar_post
 permalink: emilio-rodriguez
@@ -23,7 +23,7 @@ Mi nombre es Emilio Rodríguez García, soy Director SEO y analítica web en [Sm
 - Experto invitado en el foro "El impacto de la IA en las empresas y las administraciones" de Tribuna Grupo (Ávila, 23 de noviembre de 2026), junto a consejeros de la Junta de Castilla y León y de la Comunidad de Madrid ([crónica en Tribuna Valladolid](https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial)).
 - Autor de artículos de opinión sobre tecnología e IA en [Tribuna Salamanca](https://www.tribunasalamanca.com/blogs/conectados/posts/407199/la-ia-anestesia-la-mente) y [Tribuna Valladolid](https://www.tribunavalladolid.com/blogs/conectados/posts/403472/la-guerra-moderna-no-destruye-desconecta).
 - Ponente en mesas redondas de [CyLesMarketing 2024](https://emirodgar.es/congreso-cylesmarketing-2024-salamanca) y Tribuna Eventos 2026, y en formaciones para SEGITTUR y la Universidad Europea.
-- Entrevistado por el [Club de Marketing de Castilla y León](https://open.spotify.com/episode/0RtgsLDmNWbfqufM7XvW9C) e [Indexando Marketing](https://www.indexandomarketing.com/experto-seo-emilio-rodriguez/).
+- Entrevistado en [Onda Cero Valladolid](https://www.ondacero.es/emisoras/castilla-y-leon/valladolid/audios-podcast/castilla-leon-onda/castilla-leon-onda-2311202_202611236b044894f6da642efef8d2c0.html) (programa "Castilla y León en la Onda") y entrevistado por el [Club de Marketing de Castilla y León](https://open.spotify.com/episode/0RtgsLDmNWbfqufM7XvW9C) e [Indexando Marketing](https://www.indexandomarketing.com/experto-seo-emilio-rodriguez/).
 
 ![Foto de grupo del foro de Tribuna Grupo en Ávila sobre el impacto de la IA en las empresas y las administraciones, con los expertos invitados y los consejeros de la Junta de Castilla y León y de la Comunidad de Madrid](https://emirodgar.com/cdn/images/posts/tribuna-eventos-avila-ia-foto-grupo.webp){:class="img-responsive"}
 
@@ -250,6 +250,7 @@ A lo largo de los años he apostado por seguir formándome y aprendiendo. Estas 
 
 ## En medios
 
+- `Noviembre 2026` - Onda Cero Valladolid / [Entrevista en "Castilla y León en la Onda" (23/11/2026)](https://www.ondacero.es/emisoras/castilla-y-leon/valladolid/audios-podcast/castilla-leon-onda/castilla-leon-onda-2311202_202611236b044894f6da642efef8d2c0.html)
 - `Noviembre 2026` - Tribuna Valladolid / [Tribuna Grupo plantea en Ávila los desafíos y retos de la Inteligencia Artificial](https://www.tribunavalladolid.com/noticias/467758/tribuna-grupo-plantea-en-avila-los-desafios-y-retos-de-la-inteligencia-artificial)
 - `Noviembre 2026` - Tribuna Valladolid / [Lo que Tomás de Mercado preguntaría hoy a la IA](https://www.tribunavalladolid.com/noticias/467490/lo-que-tomas-de-mercado-preguntaria-hoy-a-la-ia)
 - `Agosto 2026` - Tribuna Valladolid / [Antes de enseñar IA, enseñemos a pensar](https://www.tribunavalladolid.com/noticias/455248/antes-de-ensenar-ia-ensenemos-a-pensar)
