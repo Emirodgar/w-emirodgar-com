@@ -1,64 +1,84 @@
 ---
 title: Los tres pilares SEO
-description: 
+description: Indexación, contenido y popularidad son los tres pilares sobre los que se apoya cualquier estrategia SEO, y también la base para aparecer en las respuestas de la IA. Te explico qué trabajar en cada uno y en qué orden.
 lang: es_ES
 sitemap: 1
 feed: 1
 layout: emirodgar_post
+author: Emirodgar
 folder: estrategicos
 date: 19/05/2021
+date_modified: 25/11/2026
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
 permalink: pilares-seo
 
 ---
 
-Antes de comenzar a diseñar una [estrategia SEO](/estrategia-seo) debemos tener presente los **tres pilares SEO** que nos ayudarán a asegurar unos buenos resultados digitales: **Indexación**, **contenido** y **popularidad**.
+Antes de diseñar una [estrategia SEO](/estrategia-seo) conviene tener claros los **tres pilares SEO** que sostienen los buenos resultados: **indexación**, **contenido** y **popularidad**.
 
-![image](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/0057ee9e-2688-405b-a4aa-ad2405ef3954){:class="img-responsive"}
+Funcionan **en orden**. Si la indexación falla, el mejor contenido no se verá. Si el contenido no responde a lo que busca el usuario, los enlaces no lo salvarán. Y si no hay popularidad, tu página será una más entre miles. Y ahora que buscadores y asistentes de IA (ChatGPT, Perplexity, Gemini, los AI Overviews de Google) responden a partir de lo que **encuentran, entienden y consideran fiable**, los tres pilares siguen siendo la base, también para [AEO y GEO](/que-es-geo).
 
+![Los tres pilares SEO: indexación, contenido y popularidad](https://github.com/Emirodgar/w-emirodgar-com/assets/4302127/0057ee9e-2688-405b-a4aa-ad2405ef3954){:class="img-responsive"}
 
 ## 1 - Indexación
 
-Es el primer pilar y la **base de cualquier estrategia SEO** ya que gracias a la indexación seremos capaces de indicar a los buscadores cómo es nuestra web y qué páginas la conforman.
+Es el primer pilar y la **base de cualquier estrategia SEO**. Gracias a la indexación indicamos a los buscadores cómo es nuestra web y qué páginas la conforman. Si una página no está en el índice, no puede posicionar ni ser citada por una IA.
 
-### Garantizar el acceso a toda la información 
+### Garantizar el acceso a toda la información
 
-Si tenemos problemas de acceso o rastreo por parte de los robots de búsqueda, esto condicionará el número de URLs que serán indexadas y por lo tanto nuestras posibilidades de posicionamiento.
+Si los robots de búsqueda tienen problemas de acceso o rastreo, se reducirá el número de URLs indexadas y, con ello, nuestras posibilidades de posicionamiento. Revisa:
 
-Debemos abrir tantas puertas de entrada como podamos siempre y cuando nos garanticen una captación de tráfico de calidad y evitando el contenido duplicado, por ejemplo haciendo uso de la [etiqueta canónica](https://emirodgar.com/etiqueta-canonica). 
+- **Robots.txt y etiquetas noindex**: que no bloqueen por error secciones que sí quieres posicionar. Te cuento [cómo bloquear contenido correctamente](/bloquear-indexacion-contenido).
+- **Sitemap XML**: limpio, actualizado y con las URLs que realmente quieres indexar.
+- **Contenido duplicado**: usa la [etiqueta canónica](/etiqueta-canonica) para indicar la versión principal y evitar que varias URLs compitan entre sí.
+- **Renderizado**: [no bloquees ficheros JavaScript o CSS](/bloquear-indexacion-js-css) que condicionen la carga de parte del contenido. **Lo que ve un usuario debe ser lo mismo que verá cualquier buscador**.
+- **Velocidad y experiencia**: un [tiempo de carga decente](/mejorar-tiempo-carga-web) y unas [Core Web Vitals](/core-web-vitals-problemas) razonables son clave tanto para el usuario como para el SEO.
+- **Rastreadores de IA**: decide de forma consciente qué bots de IA pueden acceder a tu contenido y si quieres apoyarte en un [llms.txt](/llms-txt).
 
-Es importante tener cuidado para [no bloquear ficheros como Javascript o CSS](https://emirodgar.com/bloquear-indexacion-js-css) que puedan condicionar el renderizado crítico de parte del contenido de la web y asegurar que **lo que ve un usuario es lo mismo que verá cualquier buscador**.
+Debemos abrir tantas puertas de entrada como podamos, **siempre que garanticen tráfico de calidad**.
 
-Ofrecer un [tiempo de carga decente](https://emirodgar.com/mejorar-tiempo-carga-web) es clave tanto para los usuarios como para el SEO.
+### Indexar solo páginas de calidad
 
-### Indexar páginas de calidad
+Google ya no indexa todo lo que rastrea. Hay demasiada información y aplica una [indexación selectiva](/indexacion-selectiva): prioriza las páginas útiles y descarta el resto. Por eso, si tenemos páginas de baja calidad, duplicadas o sin valor, lo mejor es [eliminarlas del índice](/eliminar-url-google) o consolidarlas. Menos páginas, pero mejores, ayudan a que las importantes se rastreen e indexen antes.
 
-En el caso que tengamos páginas de baja calidad deberemos [eliminarlas del índice de los buscadores](https://emirodgar.com/eliminar-url-google) para evitar que posicionen.
+Si una URL concreta no entra, revisa [por qué tu página no se indexa](/pagina-no-indexa).
 
 ## 2 - Contenido
 
-Una vez que hemos permitido la correcta entrada y rastreo a los robots de búsqueda será el momento de trabajar el contenido.
+Una vez que los robots pueden entrar y rastrear la web, es el momento de trabajar el contenido.
 
-Debemos asegurarnos de que nuestro contenido cumple las expectativas de lo que los usuarios están buscando, de esa forma conseguiremos un posicionamiento eficaz y que perdure en el tiempo.
+Debemos asegurarnos de que **cumple la intención de búsqueda** de los usuarios. Así conseguiremos un posicionamiento eficaz y que perdure en el tiempo.
 
-En este pilar deberemos trabajar la arquitectura y estructura de nuestro sitio para asegurarnos de que damos respuesta a todas y cada una de las cuestiones que nuestro público objetivo puede tener. Una organización fácil y eficiente será clave para la captación de tráfico de calidad y la generación de clientes.
+### Arquitectura y estructura
 
-Es conveniente analizar el [rendimiento de cada una de nuestras páginas](https://emirodgar.com/ctr-resultados-google) para identificar fortalezas y debilidades en el contenido.
+Hay que organizar el sitio para dar respuesta a todas las cuestiones que puede tener nuestro público objetivo. Una estructura clara y un [enlazado interno bien trabajado](/auditoria-enlazado-interno) facilitan el rastreo, reparten autoridad entre páginas y ayudan a captar tráfico que se convierte en clientes.
 
+### Contenido útil, fiable y citable
 
+- **Responde primero, explica después**: da la respuesta directa al principio y desarrolla a continuación.
+- **Demuestra experiencia real**: autoría clara, casos propios y datos contrastados. Es la base del [EEAT](/eeat-seo).
+- **Cubre el tema completo**: los buscadores de IA lanzan varias consultas relacionadas y citan fragmentos, no páginas enteras. Te cuento [cómo escribir contenido que la IA pueda citar](/contenido-citable-query-fan-out).
+- **Marca los datos clave** con [datos estructurados](/datos-estructurados) para que máquinas y buscadores los interpreten sin ambigüedad.
+- **Mantén el contenido actualizado**: revisa y mejora lo que ya existe antes de publicar más.
+
+Analiza el [rendimiento de cada página](/ctr-resultados-google) para identificar fortalezas y debilidades, y mide con [datos de Search Console](/posicion-media-search-console-kpi) en lugar de fiarte de una sola posición media.
 
 ## 3 - Popularidad
 
-Una vez que tenemos asegurado el acceso de los robots y un contenido optimizado, llega el momento de potenciar y mejorar nuestro posicionamiento web.
+Con el acceso de los robots asegurado y un contenido optimizado, toca potenciar el posicionamiento con **autoridad**.
 
-Para ello debemos conseguir enlaces de calidad que aporten valor y contexto a nuestras páginas. Existen múltiples páginas que comparten listados de URls donde podemos conseguir un enlace hacia nuestra web y también [herramientas SEO](https://emirodgar.com/herramientas-seo-gratis) que nos permiten espiar el perfil de enlazado de nuestra competencia. Te dejo una [guía completa de link building](https://emirodgar.com/guia-link-building) con tácticas concretas para conseguirlos.
+Para ello necesitamos **enlaces de calidad** que aporten valor y contexto a nuestras páginas, y también **menciones de marca** en medios, webs del sector y otras fuentes de confianza: son una señal cada vez más relevante para que una IA decida a quién citar. Puedes espiar el perfil de enlaces de tu competencia con [herramientas SEO](/herramientas-seo-gratis), y aquí tienes una [guía completa de link building](/guia-link-building) con tácticas concretas.
 
-> Sólo debemos tener una máxima presente: **es mejor calidad antes que cantidad**.
+> Solo debemos tener una máxima presente: **es mejor calidad antes que cantidad**.
 
 ### Atributos de enlaces
 
-Es recomendable -aunque no obligatorio- tener presente los [nuevos atributos de enlazado](https://emirodgar.com/atributos-enlaces-google) que ha propuesto Google. Cuanto mejor entienda la naturaleza de cada uno de ellos, 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUxOTI0MTMsNTIwMjcyMjkyLC0xND
-c2MjAxNDBdfQ==
--->
+Conviene conocer los [atributos de enlazado](/atributos-enlaces-google) que propuso Google (`nofollow`, `sponsored` y `ugc`). Cuanto mejor entiendas la naturaleza de cada uno, mejor decidirás cuándo marcar un enlace patrocinado, uno generado por usuarios o uno en el que no quieres transmitir autoridad.
+
+## Por dónde empezar
+
+1. **Indexación**: comprueba en Search Console qué páginas están indexadas y cuáles no, y corrige los bloqueos.
+2. **Contenido**: identifica las páginas que ya tienen impresiones pero poco rendimiento y mejóralas.
+3. **Popularidad**: cuando lo anterior funcione, invierte en enlaces y menciones.
+
+Si quieres que revisemos juntos en qué pilar está tu web más débil, puedes contactar con un [consultor SEO](/consultor-seo).
