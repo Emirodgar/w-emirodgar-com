@@ -1,11 +1,11 @@
 ---
 title: Estrategia SEO
-description: Estrategia paso a paso para posicionar por Consultor SEO con herramientas gratuitas.
+description: Diseño de estrategias SEO a medio plazo para Google y para la IA: diagnóstico, objetivos y KPIs medibles, plan de acción priorizado y seguimiento continuo.
 lang: es_ES
 sitemap: 1
 feed: 1
 date: 15/01/2019
-date_modified: 11/09/2026
+date_modified: 25/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -48,6 +48,7 @@ Este servicio está pensado para negocios que ya tienen una base SEO trabajada y
 ## ¿Por qué necesitas una estrategia SEO?
 
 El SEO no es estático: cambia constantemente con las actualizaciones de Google, la evolución de la competencia y la integración de la IA en los resultados.  
+Hoy además hay que pensar en dónde se decide la visibilidad: los resultados clásicos de Google, los AI Overviews y los asistentes como ChatGPT, Perplexity o Gemini, que citan fuentes en sus respuestas. Una estrategia actual cubre las tres capas: **SEO, [AEO](https://emirodgar.com/como-optimizar-para-aeo-y-aparecer-en-chatgpt) y [GEO](https://emirodgar.com/que-es-geo)**.  
 Sin una estrategia definida, el trabajo SEO se convierte en acciones aisladas que no generan impacto sostenido.
 
 Una estrategia SEO efectiva:
@@ -70,7 +71,7 @@ Mi enfoque combina análisis de datos, visión técnica y experiencia en crecimi
    Establecemos metas específicas y medibles (ej.: aumentar tráfico cualificado un 30% en 6 meses).
 
 3. **Plan de acción priorizado**  
-   Diseñamos un roadmap con tareas técnicas, de contenido y de autoridad, ordenadas por impacto.
+   Diseñamos un roadmap con tareas técnicas, de contenido y de autoridad, ordenadas por impacto. Se apoya en los [tres pilares SEO](https://emirodgar.com/pilares-seo): indexación, contenido y popularidad.
 
 4. **Medición continua**  
    Seguimiento de KPIs clave y análisis de tendencias para detectar avances o bloqueos.
@@ -80,10 +81,17 @@ Mi enfoque combina análisis de datos, visión técnica y experiencia en crecimi
 
 ---
 
+## Qué incluye
+
+- Diagnóstico de visibilidad actual, competencia y oportunidades de mercado.
+- Objetivos y KPIs acordados contigo (tráfico cualificado, conversiones, visibilidad en buscadores de IA).
+- Roadmap priorizado por impacto y esfuerzo, con responsables y plazos.
+- Seguimiento periódico con datos de Search Console y analítica, y revisión de la estrategia cuando cambie el contexto.
+
 ## La importancia de medir y pivotar
 
 En SEO, **lo que no se mide, no se puede mejorar**.  
-Tener datos claros permite saber si estás avanzando hacia tus objetivos o si necesitas un cambio de enfoque.
+Tener datos claros permite saber si estás avanzando hacia tus objetivos o si necesitas un cambio de enfoque. Conviene medir con criterio: la [posición media de Search Console](https://emirodgar.com/posicion-media-search-console-kpi) por sí sola engaña, y las menciones en respuestas de IA ya son un indicador más a vigilar.
 
 Con un sistema de medición bien definido:
 
