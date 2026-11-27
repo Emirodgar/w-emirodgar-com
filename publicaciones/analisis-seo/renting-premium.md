@@ -1,6 +1,6 @@
 ---
 title: Renting premium en España — observatorio de visibilidad SEO
-description: Observatorio de visibilidad orgánica del renting de marcas premium en España. BMW, Audi, Mercedes-Benz y Porsche frente a la demanda de "renting" en Google, con las URLs que posicionan y los huecos que dejan, con datos de Semrush.
+description: Observatorio de visibilidad del renting de marcas premium en España. BMW, Audi, Mercedes-Benz y Porsche en Google y en los AI Overviews, con las URLs que posicionan y los huecos que dejan, con datos de Semrush.
 image: https://emirodgar.com/cdn/images/og/marketing-digital.png
 layout: emirodgar_analisis
 author: Emirodgar
@@ -22,6 +22,7 @@ permalink: /analisis-seo/renting-premium
 	<span class="pd-stack-tag">porsche.com/spain</span>
 	<span class="pd-stack-tag">Mercado: España</span>
 	<span class="pd-stack-tag">Fuente: Semrush</span>
+	<span class="pd-stack-tag">Google AI Overviews</span>
 	<span class="pd-stack-tag">Edición 0 · noviembre 2026</span>
 </div>
 
@@ -34,6 +35,7 @@ permalink: /analisis-seo/renting-premium
 <li><b>Audi</b> tiene el mayor número de páginas de modelo posicionadas en el 1º puesto, pero en la búsqueda de mayor volumen, "renting audi" (3.600/mes), está 7ª con una página de un modelo concreto (A3 Allstreet), y en "audi renting" (2.400/mes) es 2ª con una URL de un subdominio de promociones.</li>
 <li><b>Porsche</b> usa una única URL (<code>porschemyrenting</code>) para todo el renting. Gana la búsqueda de marca, pero en las de modelo (Macan, Cayenne, Panamera, 911) se queda entre el 2º y el 5º puesto.</li>
 <li><b>Ninguna de las cuatro</b> aparece en el top 10 de Google.es para "coches de renting" (25 de noviembre de 2026), ni tiene presencia visible en las búsquedas genéricas de más volumen, como "renting coches" (49.500/mes).</li>
+<li><b>En los AI Overviews de Google el orden cambia.</b> Audi es la marca con más keywords de renting en las que Google enlaza su web dentro de la respuesta de IA (34), BMW suma el mayor volumen (17.370 búsquedas/mes) y Mercedes, la más sólida en el SERP clásico, aparece más abajo en el AI Overview. Porsche no figura en ninguno.</li>
 </ul>
 </div>
 
@@ -83,10 +85,55 @@ permalink: /analisis-seo/renting-premium
 </div>
 
 <div class="pd-section">
+<h2 class="pd-section-title">Visibilidad en IA: Google AI Overviews</h2>
+<p class="as-lead">Cada vez más búsquedas de renting reciben una respuesta generada por IA encima de los resultados. Semrush registra en qué keywords el dominio aparece como enlace dentro de ese AI Overview. Este es el primer corte, limitado a Google, con las keywords que contienen "renting" y al menos 140 búsquedas al mes.</p>
+<div class="as-table-wrap">
+<table class="as-table">
+<caption>Keywords de renting en las que cada dominio es enlazado dentro de un AI Overview de Google.es (volumen ≥ 140/mes) — Semrush, 28 de noviembre de 2026</caption>
+<thead><tr><th>Marca</th><th>Keywords con enlace en el AI Overview</th><th>Volumen total/mes</th><th>Enlace en 1ª posición</th><th>Enlace en top 3</th></tr></thead>
+<tbody>
+<tr><th>Audi</th><td class="num as-winner">34</td><td class="num">16.270</td><td class="num as-winner">18</td><td class="num as-winner">25</td></tr>
+<tr><th>Mercedes-Benz</th><td class="num">27</td><td class="num">15.940</td><td class="num">13</td><td class="num">21</td></tr>
+<tr><th>BMW</th><td class="num">22</td><td class="num as-winner">17.370</td><td class="num">9</td><td class="num">16</td></tr>
+<tr><th>Porsche</th><td class="num">0</td><td class="num">—</td><td class="num">—</td><td class="num">—</td></tr>
+</tbody>
+</table>
+</div>
+<p class="as-caption">La posición es la que ocupa el enlace de la marca dentro del propio AI Overview, no en los resultados orgánicos. BMW gana en volumen total porque sus dos búsquedas principales ("renting bmw", 3.600/mes, y "bmw en renting", 2.900/mes) están citadas, aunque cubre menos keywords de modelo que Audi. Para Porsche Semrush no devuelve ninguna cita en AI Overviews de keywords de renting.</p>
+<div class="as-table-wrap">
+<table class="as-table">
+<caption>Búsquedas principales: posición en el SERP clásico frente a posición del enlace en el AI Overview</caption>
+<thead><tr><th>Marca</th><th>Keyword</th><th>Volumen/mes</th><th>Posición orgánica</th><th>Posición en AI Overview</th></tr></thead>
+<tbody>
+<tr><th rowspan="2">BMW</th><td>renting bmw</td><td class="num">3.600</td><td class="num as-trend-down">5</td><td class="num as-winner">1</td></tr>
+<tr><td>bmw renting</td><td class="num">2.900</td><td class="num as-winner">1</td><td class="num as-trend-down">5</td></tr>
+<tr><th rowspan="2">Audi</th><td>renting audi</td><td class="num">3.600</td><td class="num as-trend-down">7</td><td class="num as-winner">1</td></tr>
+<tr><td>audi renting</td><td class="num">2.400</td><td class="num">2</td><td class="num as-winner">1</td></tr>
+<tr><th rowspan="3">Mercedes-Benz</th><td>renting mercedes</td><td class="num">3.600</td><td class="num as-winner">1</td><td class="num">2</td></tr>
+<tr><td>mercedes renting</td><td class="num">2.400</td><td class="num as-winner">1</td><td class="num as-trend-down">4</td></tr>
+<tr><td>renting mercedes benz</td><td class="num">1.900</td><td class="num as-winner">1</td><td class="num as-trend-down">4</td></tr>
+</tbody>
+</table>
+</div>
+<p class="as-caption">Dos lecturas. <b>BMW y Audi</b> son primeras en el AI Overview justo en las búsquedas donde el SERP clásico las deja peor colocadas ("renting bmw" y "renting audi"), aunque en "bmw renting" ocurre al revés (1ª en orgánico, 5ª en la respuesta de IA). <b>Mercedes</b> gana el 1º puesto orgánico en las tres variantes y aparece entre el 2º y el 4º dentro de la respuesta de IA. En cuanto a la URL citada, en BMW y en Mercedes es la página principal de renting; en Audi lo es en "audi renting", pero en "renting audi" el enlace es la página del A3 Allstreet.</p>
+</div>
+
+<div class="pd-section">
+<h2 class="pd-section-title">Qué se lee en los AI Overviews</h2>
+<ul class="pd-list">
+<li><b>La IA cita las páginas de modelo.</b> Buena parte de los enlaces de BMW, Audi y Mercedes dentro de los AI Overviews llevan a páginas de promoción por modelo (X1, Q3, GLC, Clase A...). La arquitectura por modelo del apartado anterior también sirve como fuente de respuestas.</li>
+<li><b>Audi aparece con la red de concesionarios.</b> Entre las URLs citadas hay subdominios de concesionarios oficiales (por ejemplo <code>levantewagen.audi.es</code> y <code>soriamotor.audi.es</code>), una vía de visibilidad que la marca no controla página a página y que conviene gestionar con criterio, porque duplica la oferta del dominio principal.</li>
+<li><b>Porsche, ausente.</b> Una hipótesis razonable es que, con una única URL de renting y sin páginas por modelo, Google tiene poco concreto que citar cuando la pregunta es "renting Macan" o "renting Cayenne". Los datos no lo demuestran, pero encaja con lo que se ve en las otras tres marcas.</li>
+<li><b>Estas citas no son menciones.</b> Que Google enlace una web no significa que nombre la marca en el texto de la respuesta. Falta medir eso y qué dicen ChatGPT, Gemini o Perplexity, que es lo que recogerá la próxima edición.</li>
+</ul>
+</div>
+
+<div class="pd-section">
 <h2 class="pd-section-title">Metodología y límites de esta edición</h2>
 <ul class="pd-list">
 <li><b>Fuente:</b> Semrush, base de datos España, consulta del 28 de noviembre de 2026.</li>
 <li><b>Ámbito:</b> dominio completo en bmw.es, audi.es y mercedes-benz.es; subcarpeta <code>/spain/</code> en Porsche. Se filtraron las keywords que contienen "renting", ordenadas por tráfico estimado, y se revisaron las 40 principales de cada marca.</li>
+<li><b>AI Overviews:</b> el dato procede del seguimiento de funciones del SERP de Semrush. Cuenta las keywords en las que el dominio aparece como enlace dentro del AI Overview de Google.es, con al menos 140 búsquedas al mes y la palabra "renting". Cubre solo Google; no incluye ChatGPT, Gemini ni Perplexity, ni indica si la marca se nombra en el texto. Porsche aparece sin datos en esta consulta.</li>
 <li><b>Sin tendencias todavía:</b> es la edición cero. Semrush devolvió la misma posición actual y anterior en esas keywords, así que no hay variación fiable que publicar. A partir de la próxima medición se podrán comparar posiciones y URLs mes a mes.</li>
 <li><b>No son datos internos:</b> los tráficos y posiciones son estimaciones de una herramienta externa, no analítica de las marcas. Sirven para comparar y detectar patrones, no para medir negocio.</li>
 </ul>
@@ -96,7 +143,7 @@ permalink: /analisis-seo/renting-premium
 <h2 class="pd-section-title">Próximas ediciones</h2>
 <ul class="pd-list">
 <li><b>Variación mensual</b> de posiciones y URLs en las búsquedas de marca y de modelo.</li>
-<li><b>Visibilidad en IA:</b> qué marcas y qué fuentes aparecen cuando se pregunta a ChatGPT, Gemini o a los AI Overviews de Google por un renting premium. Es la parte de este observatorio que más me interesa, porque casi nadie la está midiendo en el sector.</li>
+<li><b>Más allá de Google:</b> qué marcas y qué fuentes aparecen cuando se pregunta a ChatGPT, Gemini o Perplexity por un renting premium, y si nombran a la marca en el texto de la respuesta. Es la parte de este observatorio que más me interesa, porque casi nadie la está midiendo en el sector.</li>
 <li><b>Más operadores:</b> la financiera de cada marca frente a Ayvens, Arval y Sixt en las búsquedas comunes.</li>
 </ul>
 <p class="as-lead">Si trabajas en el marketing digital de una de estas marcas o de un operador de renting y quieres ver tu caso con más detalle, cuéntame en <a href="/contacto">contacto</a>. También tienes cómo trabajo en el sector en <a href="/consultor-seo-automocion">consultor SEO para automoción y renting</a>.</p>
