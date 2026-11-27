@@ -41,6 +41,7 @@ permalink: /analisis-seo/coches-de-renting
 </tbody>
 </table>
 </div>
+<p class="as-caption">¿Y las marcas premium? Su renting se analiza aparte en el <a href="/analisis-seo/renting-premium">observatorio del renting premium</a>.</p>
 <p class="as-lead">5.400 búsquedas al mes suena modesto, y lo es: es solo la punta del iceberg del término genérico. La demanda real del sector se reparte entre variantes con mucho más volumen — <b>"renting coches"</b> mueve 9 veces más búsquedas (49.500/mes) y <b>"renting"</b> a secas otras 33.100/mes. Cualquier dominio que solo optimice para la coletilla exacta "coches de renting" se está dejando en la mesa la mayor parte de la demanda.</p>
 <div class="as-table-wrap">
 <table class="as-table">

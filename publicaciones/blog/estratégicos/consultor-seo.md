@@ -6,7 +6,7 @@ author: emirodgar
 sitemap: 1
 feed: 1
 date: 27/01/2022
-date_modified: 25/11/2026
+date_modified: 28/11/2026
 folder: estrategicos
 layout: emirodgar_post
 image: https://emirodgar.com/cdn/images/og/estrategia-seo.png
@@ -217,6 +217,7 @@ Según el tipo de proyecto, puede interesarte profundizar en alguno de estos enf
 
 * **[Consultor SEO Freelance](https://emirodgar.com/consultor-seo-freelance):** cómo trabajo sin la estructura ni los sobrecostes de una agencia, con trato directo de principio a fin.
 * **[Consultor SEO Internacional](https://emirodgar.com/consultor-seo-internacional):** estrategias de posicionamiento multi-país para empresas que se expanden a México, Colombia, Argentina o Chile, con homologación ICEX Next. También con página específica para [México](https://emirodgar.com/consultor-seo-mexico) y [Colombia](https://emirodgar.com/consultor-seo-colombia).
+* **[Consultor SEO para Automoción y Renting](https://emirodgar.com/consultor-seo-automocion):** arquitectura de URLs por modelo, SEO técnico de escaparates con ofertas cambiantes y medición de la visibilidad en IA para marcas y operadores de renting y alquiler.
 * **[Consultor SEO para Ecommerce](https://emirodgar.com/consultor-seo-ecommerce):** optimización técnica de catálogos grandes, navegación por facetas, datos estructurados de producto y migraciones sin pérdida de tráfico.
 
 ---
